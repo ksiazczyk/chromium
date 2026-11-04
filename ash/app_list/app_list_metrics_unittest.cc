@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App list metrics unit tests
+// summary: Unit tests verifying that app launch and launcher user action metrics are recorded correctly across app list, bubble, and shelf states in clamshell and tablet mode.
+// relations:
+//   - tests /ash/app_list/app_list_metrics.h
+//   - depends_on /ash/accessibility/accessibility_controller.h
+//   - depends_on /ash/app_list/app_list_bubble_presenter.h
+// ---
+
 #include "ash/app_list/app_list_metrics.h"
 
 #include <memory>

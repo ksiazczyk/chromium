@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list folder view implementation
+// summary: Implements AppListFolderView, which displays folder contents in an apps grid with open and close animations, scrolling, and drag-out reparenting support.
+// relations:
+//   - depends_on /ash/app_list/views/app_list_folder_view.h
+//   - depends_on /ash/app_list/model/app_list_folder_item.h
+//   - depends_on /ash/app_list/views/app_list_a11y_announcer.h
+// ---
+
 #include "ash/app_list/views/app_list_folder_view.h"
 
 #include <algorithm>

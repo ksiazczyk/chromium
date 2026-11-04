@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Continue section view unit tests
+// summary: Unit tests for the Continue section view, covering task suggestions, privacy notice display, and clamshell and tablet mode layouts.
+// relations:
+//   - tests /ash/app_list/views/continue_section_view.h
+//   - depends_on /ash/app_list/app_list_metrics.h
+//   - depends_on /ash/app_list/app_list_test_view_delegate.h
+// ---
+
 #include "ash/app_list/views/continue_section_view.h"
 
 #include <memory>

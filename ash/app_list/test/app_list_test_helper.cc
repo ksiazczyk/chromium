@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppListTestHelper implementation
+// summary: Implements the app list test helper, providing routines to show, dismiss and toggle the app list, wait for animations, add app items and inspect app list views in Ash tests.
+// relations:
+//   - implements /ash/app_list/test/app_list_test_helper.h
+//   - depends_on /ash/app_list/app_list_bubble_presenter.h
+//   - depends_on /ash/app_list/app_list_controller_impl.h
+// ---
+
 #include "ash/app_list/test/app_list_test_helper.h"
 
 #include <string>

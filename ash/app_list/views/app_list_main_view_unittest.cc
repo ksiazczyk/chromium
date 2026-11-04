@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App list main view unit tests
+// summary: Unit tests for AppListMainView in tablet mode, covering folder views, grid item selection, drag updates, and page switcher behavior.
+// relations:
+//   - tests /ash/app_list/views/app_list_main_view.h
+//   - depends_on /ash/app_list/app_list_model_provider.h
+//   - depends_on /ash/app_list/model/app_list_test_model.h
+// ---
+
 #include "ash/app_list/views/app_list_main_view.h"
 
 #include <algorithm>

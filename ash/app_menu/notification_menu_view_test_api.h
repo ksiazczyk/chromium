@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NotificationMenuViewTestAPI class declaration
+// summary: Declares a test API providing access to NotificationMenuView internals such as the counter contents, item view count, and overflow view.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_APP_MENU_NOTIFICATION_MENU_VIEW_TEST_API_H_
 #define ASH_APP_MENU_NOTIFICATION_MENU_VIEW_TEST_API_H_
 

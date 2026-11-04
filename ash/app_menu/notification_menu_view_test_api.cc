@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NotificationMenuViewTestAPI implementation
+// summary: Implements test-only accessors for NotificationMenuView internals, exposing the counter text, item view count, and overflow view.
+// relations:
+//   - depends_on /ash/app_menu/notification_menu_view_test_api.h
+//   - depends_on /ash/app_menu/notification_item_view.h
+//   - depends_on /ash/app_menu/notification_menu_header_view.h
+// ---
+
 #include "ash/app_menu/notification_menu_view_test_api.h"
 
 #include <string_view>

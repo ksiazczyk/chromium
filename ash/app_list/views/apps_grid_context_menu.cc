@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apps grid context menu implementation
+// summary: Implements the apps grid context menu that builds and runs a menu offering app list reorder commands by name and by color.
+// relations:
+//   - implements /ash/app_list/views/apps_grid_context_menu.h
+//   - depends_on /ash/app_list/app_list_model_provider.h
+//   - depends_on /ash/app_list/model/app_list_model.h
+// ---
+
 #include "ash/app_list/views/apps_grid_context_menu.h"
 
 #include <memory>

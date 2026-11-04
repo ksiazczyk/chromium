@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the app_list_model component
+summary: Defines the app_list_model GN component, listing its source files, defines, and dependencies for the Chrome OS app list data model.
+relations:
+  - configures /ash/app_list/model/app_icon_load_helper.cc
+  - configures /ash/app_list/model/app_icon_load_helper.h
+  - configures /ash/app_list/model/app_list_folder_item.cc

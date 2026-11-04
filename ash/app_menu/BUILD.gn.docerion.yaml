@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: App menu BUILD.gn build definition
+summary: Defines the app_menu component build target with its sources, defines, and dependencies for Chrome OS Ash.
+relations:
+  - has_part /ash/app_menu/app_menu_model_adapter.cc
+  - has_part /ash/app_menu/app_menu_model_adapter.h
+  - has_part /ash/app_menu/notification_item_view.cc

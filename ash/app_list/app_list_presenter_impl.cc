@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list presenter implementation
+// summary: Implements AppListPresenterImpl, which shows and hides the app list UI with animations and records input latency and usage metrics.
+// relations:
+//   - implements /ash/app_list/app_list_presenter_impl.h
+//   - depends_on /ash/app_list/app_list_controller_impl.h
+//   - depends_on /ash/app_list/app_list_metrics.h
+// ---
+
 #include "ash/app_list/app_list_presenter_impl.h"
 
 #include <algorithm>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoveQueryConfirmationDialog header
+// summary: Declares the confirmation dialog for removing a zero-state query suggestion, including its removal confirmation callback type.
+// relations:
+//   - depends_on /ash/style/system_dialog_delegate_view.h
+//   - depends_on /base/functional/callback.h
+//   - depends_on /ui/base/metadata/metadata_header_macros.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_REMOVE_QUERY_CONFIRMATION_DIALOG_H_
 #define ASH_APP_LIST_VIEWS_REMOVE_QUERY_CONFIRMATION_DIALOG_H_
 

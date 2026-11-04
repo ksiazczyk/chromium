@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TopIconAnimationView implementation
+// summary: Implements TopIconAnimationView, a transitional view that animates app and badge icons when opening or closing folders in the Ash app list.
+// relations:
+//   - implements /ash/app_list/views/top_icon_animation_view.h
+//   - depends_on /ash/app_list/views/app_list_item_view.h
+//   - depends_on /ash/app_list/views/apps_grid_view.h
+// ---
+
 #include "ash/app_list/views/top_icon_animation_view.h"
 
 #include <memory>

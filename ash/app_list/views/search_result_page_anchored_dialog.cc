@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchResultPageAnchoredDialog implementation
+// summary: Implements a frameless dialog widget that stays anchored to the app list search results page and follows its bounds and animation transforms.
+// relations:
+//   - depends_on /ash/app_list/views/search_result_page_anchored_dialog.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ui/compositor/layer.h
+// ---
+
 #include "ash/app_list/views/search_result_page_anchored_dialog.h"
 
 #include <utility>

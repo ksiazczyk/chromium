@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationMenuHeaderView implementation
+// summary: Implements the notification menu header, laying out the Notifications title label and a counter label showing the number of active notifications.
+// relations:
+//   - implements /ash/app_menu/notification_menu_header_view.h
+//   - depends_on /ash/public/cpp/app_menu_constants.h
+//   - depends_on /base/strings/string_number_conversions.h
+// ---
+
 #include "ash/app_menu/notification_menu_header_view.h"
 
 #include "ash/public/cpp/app_menu_constants.h"

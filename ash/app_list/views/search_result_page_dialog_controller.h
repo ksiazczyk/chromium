@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchResultPageDialogController class declaration
+// summary: Declares a controller for showing dialogs anchored to the app list search results page, tracking enablement and the currently shown dialog.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_SEARCH_RESULT_PAGE_DIALOG_CONTROLLER_H_
 #define ASH_APP_LIST_VIEWS_SEARCH_RESULT_PAGE_DIALOG_CONTROLLER_H_
 

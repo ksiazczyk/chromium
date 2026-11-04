@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Folder header view header
+// summary: Declares FolderHeaderView, a view containing an editable folder name field that observes folder item changes and updates the folder name.
+// relations:
+//   - depends_on /ash/app_list/model/app_list_item_observer.h
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_FOLDER_HEADER_VIEW_H_
 #define ASH_APP_LIST_VIEWS_FOLDER_HEADER_VIEW_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppsGridView implementation
+// summary: Implements the grid view that lays out app icons and handles drag and drop, reordering, folder reparenting and animations for the launcher and folder grids.
+// relations:
+//   - depends_on /ash/app_list/views/apps_grid_view.h
+//   - depends_on /ash/app_list/app_list_item_util.h
+//   - depends_on /ash/app_list/app_list_metrics.h
+// ---
+
 #include "ash/app_list/views/apps_grid_view.h"
 
 #include <algorithm>

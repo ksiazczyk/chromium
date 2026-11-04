@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search result base view class declaration
+// summary: Declares SearchResultBaseView, a button base class observing a SearchResult that manages selection, result actions, display timing, and accessibility for result views.
+// relations:
+//   - depends_on /ash/app_list/model/search/search_result_observer.h
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/views/controls/button/button.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_SEARCH_RESULT_BASE_VIEW_H_
 #define ASH_APP_LIST_VIEWS_SEARCH_RESULT_BASE_VIEW_H_
 

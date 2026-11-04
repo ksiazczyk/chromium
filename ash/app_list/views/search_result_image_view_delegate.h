@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchResultImageViewDelegate class header
+// summary: Declares SearchResultImageViewDelegate, a views::DragController that implements drag-and-drop behavior for image search result views.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/menus/simple_menu_model.h
+//   - depends_on /ui/views/context_menu_controller.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_SEARCH_RESULT_IMAGE_VIEW_DELEGATE_H_
 #define ASH_APP_LIST_VIEWS_SEARCH_RESULT_IMAGE_VIEW_DELEGATE_H_
 

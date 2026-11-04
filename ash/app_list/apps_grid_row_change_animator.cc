@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apps grid row change animator implementation
+// summary: Implements layer-based animations that move app grid items between rows without diagonal movement, including reversed animations.
+// relations:
+//   - depends_on /ash/app_list/apps_grid_row_change_animator.h
+//   - depends_on /ash/app_list/views/apps_grid_view.h
+//   - depends_on /base/auto_reset.h
+// ---
+
 #include "ash/app_list/apps_grid_row_change_animator.h"
 
 #include <utility>

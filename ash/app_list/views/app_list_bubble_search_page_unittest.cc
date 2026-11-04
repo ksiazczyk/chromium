@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App list bubble search page unit tests
+// summary: Unit tests for the bubble app list search page, covering page show and hide fade animations and visibility after quickly clearing and repopulating search.
+// relations:
+//   - tests /ash/app_list/views/app_list_bubble_search_page.h
+//   - depends_on /ash/app_list/test/app_list_test_helper.h
+//   - depends_on /ash/app_list/views/app_list_bubble_apps_page.h
+// ---
+
 #include "ash/app_list/views/app_list_bubble_search_page.h"
 
 #include "ash/app_list/test/app_list_test_helper.h"

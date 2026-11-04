@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the app list model directory
+summary: Grants the app list model directory permission to include headers from components/sync.

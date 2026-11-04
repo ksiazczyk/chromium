@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list metrics declarations
+// summary: Declares app list UMA histogram name constants and logging enums for page switching, app moving, folder opening, and search result removal confirmation.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/app_list/app_list_types.h
+//   - depends_on /base/time/time.h
+// ---
+
 #ifndef ASH_APP_LIST_APP_LIST_METRICS_H_
 #define ASH_APP_LIST_APP_LIST_METRICS_H_
 

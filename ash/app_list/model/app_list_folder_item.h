@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list folder item class declaration
+// summary: Declares AppListFolderItem, an AppListItem subclass that models folders with normal and OEM folder types and manages folder images and child items.
+// relations:
+//   - depends_on /ash/app_list/model/app_list_item.h
+//   - depends_on /ash/app_list/model/app_list_item_list_observer.h
+//   - depends_on /ash/app_list/model/app_list_item_observer.h
+// ---
+
 #ifndef ASH_APP_LIST_MODEL_APP_LIST_FOLDER_ITEM_H_
 #define ASH_APP_LIST_MODEL_APP_LIST_FOLDER_ITEM_H_
 

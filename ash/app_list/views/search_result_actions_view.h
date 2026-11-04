@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search result actions view class declaration
+// summary: Declares SearchResultActionsView, which displays search result actions as buttons and manages action selection, visibility, and tab traversal state.
+// relations:
+//   - depends_on /ash/app_list/model/search/search_result.h
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/views/view.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_SEARCH_RESULT_ACTIONS_VIEW_H_
 #define ASH_APP_LIST_VIEWS_SEARCH_RESULT_ACTIONS_VIEW_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list bubble apps page implementation
+// summary: Implements the default apps page of the bubble launcher with a continue section, recent apps, scrollable apps grid, sorting, and show/hide animations.
+// relations:
+//   - implements /ash/app_list/views/app_list_bubble_apps_page.h
+//   - depends_on /ash/app_list/app_list_metrics.h
+//   - depends_on /ash/app_list/app_list_model_provider.h
+// ---
+
 #include "ash/app_list/views/app_list_bubble_apps_page.h"
 
 #include <algorithm>

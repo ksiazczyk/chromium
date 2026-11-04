@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list bubble view header
+// summary: Declares AppListBubbleView, the bubble launcher container view that manages pages, search box delegation, folder control, and show/hide animations.
+// relations:
+//   - depends_on /ash/app_list/views/app_list_folder_controller.h
+//   - depends_on /ash/app_list/views/search_box_view_delegate.h
+//   - depends_on /ui/views/view.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_APP_LIST_BUBBLE_VIEW_H_
 #define ASH_APP_LIST_VIEWS_APP_LIST_BUBBLE_VIEW_H_
 

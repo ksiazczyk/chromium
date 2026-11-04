@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecentAppsView header
+// summary: Declares the view that shows the recent apps row of app icons in the Continue section of the app list launcher.
+// relations:
+//   - implements /ash/app_list/model/app_list_model_observer.h
+//   - depends_on /ash/app_list/model/app_list_model_observer.h
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_RECENT_APPS_VIEW_H_
 #define ASH_APP_LIST_VIEWS_RECENT_APPS_VIEW_H_
 

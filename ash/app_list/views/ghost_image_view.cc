@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ghost image view implementation
+// summary: Implements GhostImageView, which draws a ghost drop-target outline for dragged apps or folders with fade in and fade out animations.
+// relations:
+//   - implements /ash/app_list/views/ghost_image_view.h
+//   - depends_on /ash/public/cpp/app_list/app_list_config.h
+//   - depends_on /ash/style/dark_light_mode_controller_impl.h
+// ---
+
 #include "ash/app_list/views/ghost_image_view.h"
 
 #include "ash/public/cpp/app_list/app_list_config.h"

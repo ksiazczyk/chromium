@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list controller implementation
+// summary: Implements Ash's AppListController, owning the app list model and coordinating the fullscreen presenter, bubble presenter, home launcher, and related UI state.
+// relations:
+//   - implements /ash/app_list/app_list_controller_impl.h
+//   - depends_on /ash/app_list/app_list_badge_controller.h
+//   - depends_on /ash/app_list/app_list_bubble_presenter.h
+// ---
+
 #include "ash/app_list/app_list_controller_impl.h"
 
 #include <algorithm>

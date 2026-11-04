@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationMenuController class declaration
+// summary: Declares the controller that adds, updates, and removes the NotificationMenuView in an app's context menu and observes MessageCenter notification changes.
+// relations:
+//   - depends_on /ash/app_menu/app_menu_export.h
+//   - depends_on /ash/app_menu/notification_menu_view.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_APP_MENU_NOTIFICATION_MENU_CONTROLLER_H_
 #define ASH_APP_MENU_NOTIFICATION_MENU_CONTROLLER_H_
 

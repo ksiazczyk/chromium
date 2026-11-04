@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PagedAppsGridView unit tests
+// summary: Unit tests for the paged apps grid view covering page flipping, item dragging, reorder animations and cardified state in tablet mode.
+// relations:
+//   - tests /ash/app_list/views/paged_apps_grid_view.h
+//   - depends_on /ash/app_list/views/apps_grid_view_test_api.h
+//   - depends_on /ash/test/ash_test_base.h
+// ---
+
 #include "ash/app_list/views/paged_apps_grid_view.h"
 
 #include <list>

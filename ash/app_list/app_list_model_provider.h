@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list model provider declarations
+// summary: Declares AppListModelProvider, a singleton that gives app list views access to the active app list and search models and supports observers for model changes.
+// relations:
+//   - depends_on /ash/app_list/model/app_list_model.h
+//   - depends_on /ash/app_list/model/search/search_model.h
+//   - depends_on /ash/app_list/quick_app_access_model.h
+// ---
+
 #ifndef ASH_APP_LIST_APP_LIST_MODEL_PROVIDER_H_
 #define ASH_APP_LIST_APP_LIST_MODEL_PROVIDER_H_
 

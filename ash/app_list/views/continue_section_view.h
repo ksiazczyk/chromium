@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Continue section view header
+// summary: Declares ContinueSectionView, the bubble launcher section that wraps task continuation suggestions with privacy notice and focus handling.
+// relations:
+//   - depends_on /ash/app_list/app_list_model_provider.h
+//   - depends_on /ash/app_list/views/continue_task_container_view.h
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_CONTINUE_SECTION_VIEW_H_
 #define ASH_APP_LIST_VIEWS_CONTINUE_SECTION_VIEW_H_
 

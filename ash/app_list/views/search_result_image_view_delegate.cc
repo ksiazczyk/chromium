@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchResultImageViewDelegate implementation
+// summary: Implements the delegate for image search result views, providing drag-and-drop that copies the result file and supplies its drag image.
+// relations:
+//   - implements /ash/app_list/views/search_result_image_view_delegate.h
+//   - depends_on /ash/app_list/model/search/search_result.h
+//   - depends_on /ash/app_list/views/search_result_image_view.h
+// ---
+
 #include "ash/app_list/views/search_result_image_view_delegate.h"
 
 #include <memory>

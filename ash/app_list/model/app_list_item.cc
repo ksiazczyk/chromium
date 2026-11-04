@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list item base class implementation
+// summary: Implements AppListItem, the base model class providing icons, names, positions, badges, and observer notifications for items in the app list.
+// relations:
+//   - implements /ash/app_list/model/app_list_item.h
+//   - depends_on /ash/app_list/model/app_list_item.h
+//   - depends_on /ash/app_list/model/app_list_folder_item.h
+// ---
+
 #include "ash/app_list/model/app_list_item.h"
 
 #include "ash/app_list/model/app_list_folder_item.h"

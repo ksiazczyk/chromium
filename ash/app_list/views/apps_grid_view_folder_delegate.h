@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppsGridViewFolderDelegate interface
+// summary: Defines the delegate interface that lets an apps grid communicate with its host folder view for item reparenting, drag events and folder closing.
+// relations:
+//   - depends_on /ash/app_list/views/apps_grid_view.h
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_APPS_GRID_VIEW_FOLDER_DELEGATE_H_
 #define ASH_APP_LIST_VIEWS_APPS_GRID_VIEW_FOLDER_DELEGATE_H_
 

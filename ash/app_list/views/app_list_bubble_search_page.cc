@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list bubble search page implementation
+// summary: Implements the search results page of the bubble launcher, wrapping the search view with show, hide, and abort animation logic.
+// relations:
+//   - implements /ash/app_list/views/app_list_bubble_search_page.h
+//   - depends_on /ash/app_list/views/app_list_search_view.h
+//   - depends_on /ash/bubble/bubble_constants.h
+// ---
+
 #include "ash/app_list/views/app_list_bubble_search_page.h"
 
 #include <memory>

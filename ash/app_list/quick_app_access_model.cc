@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickAppAccessModel implementation
+// summary: Implements the quick app access model that tracks the app shown beside shelf home buttons, handling icon loading, metrics and visibility.
+// relations:
+//   - implements /ash/app_list/quick_app_access_model.h
+//   - depends_on /ash/app_list/app_list_controller_impl.h
+//   - depends_on /ash/app_list/app_list_model_provider.h
+// ---
+
 #include "ash/app_list/quick_app_access_model.h"
 
 #include <string>

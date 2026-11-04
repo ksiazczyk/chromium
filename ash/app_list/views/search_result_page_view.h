@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchResultPageView class declaration
+// summary: Declares the search results page for the app list, with container setup, state-based bounds and animations, and result visibility handling.
+// relations:
+//   - depends_on /ash/app_list/views/app_list_page.h
+//   - depends_on /ash/app_list/views/search_result_page_dialog_controller.h
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_SEARCH_RESULT_PAGE_VIEW_H_
 #define ASH_APP_LIST_VIEWS_SEARCH_RESULT_PAGE_VIEW_H_
 

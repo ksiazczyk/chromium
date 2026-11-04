@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppListSearchView unit tests
+// summary: Extensive unit tests for the app list search view covering result containers, selection, image search, accessibility, and behavior in clamshell and tablet modes.
+// relations:
+//   - tests /ash/app_list/views/app_list_search_view.h
+//   - depends_on /ash/app_list/app_list_controller_impl.h
+//   - depends_on /ash/app_list/app_list_model_provider.h
+// ---
+
 #include "ash/app_list/views/app_list_search_view.h"
 
 #include <string_view>

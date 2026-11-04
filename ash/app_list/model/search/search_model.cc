@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchModel implementation for app list search
+// summary: Implements SearchModel, which owns the search box and results sub-models and publishes, filters, finds, and deletes search results.
+// relations:
+//   - implements /ash/app_list/model/search/search_model.h
+//   - depends_on /ash/app_list/model/search/search_box_model.h
+//   - depends_on /ash/app_list/model/search/search_result.h
+// ---
+
 #include "ash/app_list/model/search/search_model.h"
 
 #include <map>

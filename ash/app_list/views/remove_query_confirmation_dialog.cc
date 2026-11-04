@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoveQueryConfirmationDialog implementation
+// summary: Implements the confirmation dialog shown when the user removes a recent query suggestion, wiring accept and cancel callbacks.
+// relations:
+//   - implements /ash/app_list/views/remove_query_confirmation_dialog.h
+//   - depends_on /ash/app_list/views/remove_query_confirmation_dialog.h
+//   - depends_on /ash/accessibility/accessibility_controller.h
+// ---
+
 #include "ash/app_list/views/remove_query_confirmation_dialog.h"
 
 #include <utility>

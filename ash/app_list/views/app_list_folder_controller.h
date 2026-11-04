@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list folder controller interface
+// summary: Defines AppListFolderController, an interface that lets AppsGridView request folder UI state changes from its embedders without assuming the display context.
+// relations:
+//   - depends_on /base/functional/callback_forward.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_APP_LIST_FOLDER_CONTROLLER_H_
 #define ASH_APP_LIST_VIEWS_APP_LIST_FOLDER_CONTROLLER_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Continue task view header
+// summary: Declares ContinueTaskView, a button view showing a suggested task for the Continue section, including context menu command IDs and task result types used for metrics.
+// relations:
+//   - depends_on /ash/app_list/model/search/search_result.h
+//   - depends_on /ash/app_list/model/search/search_result_observer.h
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_CONTINUE_TASK_VIEW_H_
 #define ASH_APP_LIST_VIEWS_CONTINUE_TASK_VIEW_H_
 

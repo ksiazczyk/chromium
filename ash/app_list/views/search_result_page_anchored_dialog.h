@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchResultPageAnchoredDialog class declaration
+// summary: Declares a helper that creates and manages a dialog widget anchored to the search results app list page, observing widget and view bounds changes.
+// relations:
+//   - depends_on /base/functional/callback.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /base/scoped_multi_source_observation.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_SEARCH_RESULT_PAGE_ANCHORED_DIALOG_H_
 #define ASH_APP_LIST_VIEWS_SEARCH_RESULT_PAGE_ANCHORED_DIALOG_H_
 

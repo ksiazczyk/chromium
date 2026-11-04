@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppsContainerView implementation
+// summary: Implements the Chrome OS app list container view that hosts the root apps grid, folder view, continue section, recent apps and related layout and visibility logic.
+// relations:
+//   - implements /ash/app_list/views/apps_container_view.h
+//   - depends_on /ash/app_list/app_list_model_provider.h
+//   - depends_on /ash/app_list/app_list_util.h
+// ---
+
 #include "ash/app_list/views/apps_container_view.h"
 
 #include <algorithm>

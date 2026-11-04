@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App list integration tests
+// summary: Integration tests verifying that the app list toggles via the shelf home button on primary and secondary displays.
+// relations:
+//   - tests /ash/app_list/app_list_controller_impl.h
+//   - depends_on /ash/public/cpp/shell_window_ids.h
+//   - depends_on /ash/shelf/home_button.h
+// ---
+
 #include <memory>
 
 #include "ash/app_list/app_list_bubble_presenter.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list nudge controller implementation
+// summary: Implements AppListNudgeController, managing reorder nudges and the launcher privacy notice through profile prefs, show-count limits, and test overrides.
+// relations:
+//   - implements /ash/app_list/views/app_list_nudge_controller.h
+//   - depends_on /ash/constants/ash_pref_names.h
+//   - depends_on /ash/constants/ash_switches.h
+// ---
+
 #include "ash/app_list/views/app_list_nudge_controller.h"
 
 #include <memory>

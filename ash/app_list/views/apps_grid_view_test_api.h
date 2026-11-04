@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppsGridView test API declaration
+// summary: Declares the test API exposing apps grid internals such as item views, tile bounds, page contents and reorder helpers for use in tests.
+// relations:
+//   - depends_on /ash/app_list/views/apps_grid_view.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - implemented_by /ash/app_list/views/apps_grid_view_test_api.cc
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_APPS_GRID_VIEW_TEST_API_H_
 #define ASH_APP_LIST_VIEWS_APPS_GRID_VIEW_TEST_API_H_
 

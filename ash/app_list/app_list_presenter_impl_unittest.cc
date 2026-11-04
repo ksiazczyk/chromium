@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App list presenter unit tests
+// summary: Unit tests for AppListPresenterImpl covering shelf background behavior in tablet mode and clearing shelf observers when a shelf is destroyed.
+// relations:
+//   - tests /ash/app_list/app_list_presenter_impl.h
+//   - depends_on /ash/app_list/app_list_controller_impl.h
+//   - depends_on /ash/app_list/app_list_model_provider.h
+// ---
+
 #include "ash/app_list/app_list_presenter_impl.h"
 
 #include <memory>

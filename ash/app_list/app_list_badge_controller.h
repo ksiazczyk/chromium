@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list badge controller header
+// summary: Declares AppListBadgeController, which observes app list models, session prefs, and the app registry to manage notification badges on items.
+// relations:
+//   - depends_on /ash/app_list/app_list_model_provider.h
+//   - depends_on /ash/app_list/model/app_list_model.h
+//   - depends_on /ash/app_list/model/app_list_model_observer.h
+// ---
+
 #ifndef ASH_APP_LIST_APP_LIST_BADGE_CONTROLLER_H_
 #define ASH_APP_LIST_APP_LIST_BADGE_CONTROLLER_H_
 

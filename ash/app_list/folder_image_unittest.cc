@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FolderImage unit tests
+// summary: Unit tests for FolderImage verifying folder icon rendering and update notifications across app list configs and RTL locales.
+// relations:
+//   - tests /ash/app_list/model/folder_image.h
+//   - depends_on /ash/app_list/model/app_list_item.h
+//   - depends_on /ash/app_list/model/app_list_item_list.h
+// ---
+
 #include "ash/app_list/model/folder_image.h"
 
 #include <string>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestSearchResult implementation
+// summary: Implements a test SearchResult subclass that sets titles, details, categories, icons, and system info answer card data for use in tests.
+// relations:
+//   - depends_on /ash/public/cpp/app_list/app_list_types.h
+//   - depends_on /ui/gfx/image/image_unittest_util.h
+//   - depends_on /ash/app_list/model/search/test_search_result.h
+// ---
+
 #include <vector>
 #include "ash/public/cpp/app_list/app_list_types.h"
 #include "ui/gfx/image/image_unittest_util.h"

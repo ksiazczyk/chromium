@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Folder header view implementation
+// summary: Implements the folder header view with an editable folder name textfield, handling name updates, eliding, focus, and accessibility for app list folders.
+// relations:
+//   - implements /ash/app_list/views/folder_header_view.h
+//   - depends_on /ash/app_list/app_list_util.h
+//   - depends_on /ash/app_list/model/app_list_folder_item.h
+// ---
+
 #include "ash/app_list/views/folder_header_view.h"
 
 #include <algorithm>

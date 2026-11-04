@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Continue task container view header
+// summary: Declares ContinueTaskContainerView, which populates a fixed set of continue task views from search results in a grid-like layout.
+// relations:
+//   - depends_on /ash/app_list/model/search/search_model.h
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/functional/callback.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_CONTINUE_TASK_CONTAINER_VIEW_H_
 #define ASH_APP_LIST_VIEWS_CONTINUE_TASK_CONTAINER_VIEW_H_
 

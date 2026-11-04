@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search box view unit tests
+// summary: Unit tests for the app list search box view, covering query handling, placeholder text, icons, launcher modes, capture mode integration, and related user metrics.
+// relations:
+//   - tests /ash/app_list/views/search_box_view.h
+// ---
+
 #include "ash/app_list/views/search_box_view.h"
 
 #include <algorithm>

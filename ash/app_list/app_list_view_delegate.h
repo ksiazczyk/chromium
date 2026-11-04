@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list view delegate interface
+// summary: Defines the AppListViewDelegate interface wrapping AppListControllerImpl for app list views, covering search, launches, and context menus.
+// relations:
+//   - depends_on /ash/public/cpp/app_list/app_list_types.h
+//   - depends_on /ash/public/cpp/ash_public_export.h
+//   - depends_on /base/functional/callback_forward.h
+// ---
+
 #ifndef ASH_APP_LIST_APP_LIST_VIEW_DELEGATE_H_
 #define ASH_APP_LIST_APP_LIST_VIEW_DELEGATE_H_
 

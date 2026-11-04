@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App list item list unit tests
+// summary: Unit tests for AppListItemList covering item lookup, moves, position updates and observer notification counts.
+// relations:
+//   - tests /ash/app_list/model/app_list_item_list.h
+//   - depends_on /ash/app_list/model/app_list_folder_item.h
+//   - depends_on /ash/app_list/model/app_list_item.h
+// ---
+
 #include "ash/app_list/model/app_list_item_list.h"
 
 #include <stddef.h>

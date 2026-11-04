@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list keyboard controller implementation
+// summary: Implements keyboard focus traversal between the recent apps list, toast container, and apps grid for the app list bubble and fullscreen views.
+// relations:
+//   - depends_on /ash/app_list/views/app_list_keyboard_controller.h
+//   - depends_on /ash/app_list/app_list_view_provider.h
+//   - depends_on /ash/app_list/views/app_list_item_view.h
+// ---
+
 #include "ash/app_list/views/app_list_keyboard_controller.h"
 
 #include <algorithm>

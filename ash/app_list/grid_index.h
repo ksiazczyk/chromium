@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GridIndex struct declaration
+// summary: Declares the GridIndex struct that identifies an item view position in the apps grid by page and slot.
+// relations:
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_APP_LIST_GRID_INDEX_H_
 #define ASH_APP_LIST_GRID_INDEX_H_
 

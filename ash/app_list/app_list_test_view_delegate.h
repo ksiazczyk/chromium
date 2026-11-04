@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App list test view delegate declaration
+// summary: Declares AppListTestViewDelegate, a test double of AppListViewDelegate providing test models and interaction counters for unit tests.
+// relations:
+//   - depends_on /ash/app_list/app_list_view_delegate.h
+//   - depends_on /ash/public/cpp/app_list/app_list_types.h
+//   - depends_on /base/functional/callback_forward.h
+// ---
+
 #ifndef ASH_APP_LIST_APP_LIST_TEST_VIEW_DELEGATE_H_
 #define ASH_APP_LIST_APP_LIST_TEST_VIEW_DELEGATE_H_
 

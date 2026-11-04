@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list item base class declaration
+// summary: Declares AppListItem, the base class for app list items that supplies icon, title, metadata, and observer support for the app list UI.
+// relations:
+//   - depends_on /ash/app_list/model/app_list_model_export.h
+//   - depends_on /ash/public/cpp/app_list/app_list_types.h
+//   - depends_on /ash/public/cpp/shelf_types.h
+// ---
+
 #ifndef ASH_APP_LIST_MODEL_APP_LIST_ITEM_H_
 #define ASH_APP_LIST_MODEL_APP_LIST_ITEM_H_
 

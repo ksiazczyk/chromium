@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PagedAppsGridView implementation
+// summary: Implements the paged apps grid used by the peeking, fullscreen and home launchers and folders, including page flipping, cardified state and drag scrolling.
+// relations:
+//   - implements /ash/app_list/views/paged_apps_grid_view.h
+//   - depends_on /ash/app_list/app_list_metrics.h
+//   - depends_on /ash/app_list/app_list_util.h
+// ---
+
 #include "ash/app_list/views/paged_apps_grid_view.h"
 
 #include <algorithm>

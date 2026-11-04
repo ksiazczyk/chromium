@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list item view grid delegate interface
+// summary: Interface that lets AppListItemView interact with its parent apps grid or a stub for selection, drag interruption, activation, and above-the-fold visibility.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/functional/callback_forward.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_APP_LIST_ITEM_VIEW_GRID_DELEGATE_H_
 #define ASH_APP_LIST_VIEWS_APP_LIST_ITEM_VIEW_GRID_DELEGATE_H_
 

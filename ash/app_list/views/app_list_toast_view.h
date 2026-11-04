@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppListToastView class declaration
+// summary: Declares the app list toast view and its Builder for assembling toasts with an icon, labels, and buttons arranged in a three-column layout.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/style/pill_button.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_APP_LIST_TOAST_VIEW_H_
 #define ASH_APP_LIST_VIEWS_APP_LIST_TOAST_VIEW_H_
 

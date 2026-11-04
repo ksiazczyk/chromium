@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list feature usage metrics declarations
+// summary: Declares AppListFeatureUsageMetrics, which tracks clamshell and tablet launcher usage as separate features for the Standard Feature Usage Logging framework.
+// relations:
+//   - depends_on /ash/public/cpp/app_list/app_list_controller_observer.h
+//   - depends_on /chromeos/ash/components/feature_usage/feature_usage_metrics.h
+// ---
+
 #ifndef ASH_APP_LIST_APP_LIST_FEATURE_USAGE_METRICS_H_
 #define ASH_APP_LIST_APP_LIST_FEATURE_USAGE_METRICS_H_
 

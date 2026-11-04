@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchBoxModel implementation for the app list search box
+// summary: Implements SearchBoxModel, managing search engine state, Gemini and Sunfish button visibility, and notifying registered observers of changes.
+// relations:
+//   - implements /ash/app_list/model/search/search_box_model.h
+//   - depends_on /ash/app_list/model/search/search_box_model_observer.h
+// ---
+
 #include "ash/app_list/model/search/search_box_model.h"
 
 #include <string>

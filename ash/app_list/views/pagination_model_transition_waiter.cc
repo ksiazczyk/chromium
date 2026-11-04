@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaginationModelTransitionWaiter implementation
+// summary: Implements a test helper that runs a RunLoop until an ongoing pagination model transition ends.
+// relations:
+//   - implements /ash/app_list/views/pagination_model_transition_waiter.h
+//   - depends_on /ash/public/cpp/pagination/pagination_model.h
+// ---
+
 #include "ash/app_list/views/pagination_model_transition_waiter.h"
 
 #include <memory>

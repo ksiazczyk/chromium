@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResultSelectionController unit tests
+// summary: Unit tests for selection movement, cycling, and RTL handling across search result containers, including result action views.
+// relations:
+//   - tests /ash/app_list/views/result_selection_controller.h
+//   - depends_on /ash/app_list/app_list_test_view_delegate.h
+//   - depends_on /ash/app_list/model/search/test_search_result.h
+// ---
+
 #include "ash/app_list/views/result_selection_controller.h"
 
 #include <gtest/gtest.h>

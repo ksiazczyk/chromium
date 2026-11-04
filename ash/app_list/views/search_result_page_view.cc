@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchResultPageView implementation
+// summary: Implements the app list search results page, including its card background, shadow, blur, and state animations for the expanded search box.
+// relations:
+//   - implements /ash/app_list/views/search_result_page_view.h
+//   - depends_on /ash/app_list/views/app_list_search_view.h
+//   - depends_on /ash/app_list/views/contents_view.h
+// ---
+
 #include "ash/app_list/views/search_result_page_view.h"
 
 #include <stddef.h>

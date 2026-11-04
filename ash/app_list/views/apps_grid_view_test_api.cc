@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppsGridView test API implementation
+// summary: Implements test helpers to inspect and manipulate the apps grid, including tile rects, item access, animation waits and drag-based reordering.
+// relations:
+//   - depends_on /ash/app_list/views/apps_grid_view_test_api.h
+//   - depends_on /ash/app_list/views/app_list_item_view.h
+//   - depends_on /ash/app_list/views/apps_grid_view.h
+// ---
+
 #include "ash/app_list/views/apps_grid_view_test_api.h"
 
 #include <memory>

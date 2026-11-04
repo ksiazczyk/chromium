@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Home launcher animation info types
+// summary: Defines the HomeLauncherAnimationTrigger enum and HomeLauncherAnimationInfo struct used to configure home launcher animation metrics.
+// ---
+
 #ifndef ASH_APP_LIST_HOME_LAUNCHER_ANIMATION_INFO_H_
 #define ASH_APP_LIST_HOME_LAUNCHER_ANIMATION_INFO_H_
 

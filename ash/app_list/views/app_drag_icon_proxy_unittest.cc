@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App drag icon proxy unit tests
+// summary: Unit tests verifying that the drag icon proxy respects pointer offsets, updates positions, and handles secondary displays and scaled bounds.
+// relations:
+//   - tests /ash/app_list/views/app_drag_icon_proxy.h
+//   - depends_on /ash/public/cpp/image_util.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/app_list/views/app_drag_icon_proxy.h"
 
 #include <memory>

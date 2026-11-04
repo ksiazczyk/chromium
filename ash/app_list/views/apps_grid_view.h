@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppsGridView class declaration
+// summary: Declares AppsGridView, the view displaying app icon grids for the launcher and folders, with tile sizing, layout, drag and configuration APIs.
+// relations:
+//   - depends_on /ash/app_list/app_list_metrics.h
+//   - depends_on /ash/app_list/grid_index.h
+//   - depends_on /ash/app_list/model/app_list_item_list_observer.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_APPS_GRID_VIEW_H_
 #define ASH_APP_LIST_VIEWS_APPS_GRID_VIEW_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list test model header
+// summary: Declares AppListTestModel, a test extension of AppListModel with helpers to create items and folders and to emulate app list update requests in tests.
+// relations:
+//   - depends_on /ash/app_list/model/app_list_folder_item.h
+//   - depends_on /ash/app_list/model/app_list_item.h
+//   - depends_on /ash/app_list/model/app_list_model.h
+// ---
+
 #ifndef ASH_APP_LIST_MODEL_APP_LIST_TEST_MODEL_H_
 #define ASH_APP_LIST_MODEL_APP_LIST_TEST_MODEL_H_
 

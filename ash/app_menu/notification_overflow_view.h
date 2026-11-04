@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationOverflowView class header
+// summary: Declares the Ash app menu view that displays overflow notification icons, with methods to add and remove icons by notification ID and an overflow icon when the maximum is exceeded.
+// relations:
+//   - depends_on /ash/app_menu/app_menu_export.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/base/metadata/metadata_header_macros.h
+// ---
+
 #ifndef ASH_APP_MENU_NOTIFICATION_OVERFLOW_VIEW_H_
 #define ASH_APP_MENU_NOTIFICATION_OVERFLOW_VIEW_H_
 

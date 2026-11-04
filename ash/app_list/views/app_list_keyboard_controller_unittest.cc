@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App list keyboard controller unit tests
+// summary: Parameterized unit tests verifying keyboard focus movement between the search box, recent apps, toast container, and apps grid in clamshell and tablet modes.
+// relations:
+//   - tests /ash/app_list/views/app_list_keyboard_controller.h
+//   - depends_on /ash/app_list/test/app_list_test_helper.h
+//   - depends_on /ash/app_list/views/app_list_bubble_apps_page.h
+// ---
+
 #include "ash/app_list/views/app_list_keyboard_controller.h"
 
 #include "ash/app_list/test/app_list_test_helper.h"

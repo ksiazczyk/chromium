@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RecentAppsView unit tests
+// summary: Parameterized unit tests for the recent apps row, covering behavior in both the bubble launcher and tablet mode app list.
+// relations:
+//   - tests /ash/app_list/views/recent_apps_view.h
+//   - depends_on /ash/app_list/views/recent_apps_view.h
+//   - depends_on /ash/app_list/app_list_controller_impl.h
+// ---
+
 #include "ash/app_list/views/recent_apps_view.h"
 
 #include <memory>

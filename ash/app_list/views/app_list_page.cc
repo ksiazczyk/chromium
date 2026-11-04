@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppListPage base view implementation
+// summary: Implements the AppListPage base view with default show, hide, animation, bounds, and focus behavior shared by app list pages.
+// relations:
+//   - implements /ash/app_list/views/app_list_page.h
+//   - depends_on /ash/app_list/views/contents_view.h
+//   - depends_on /ui/base/metadata/metadata_impl_macros.h
+// ---
+
 #include "ash/app_list/views/app_list_page.h"
 
 #include "ash/app_list/views/contents_view.h"

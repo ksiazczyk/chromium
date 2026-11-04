@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationMenuView implementation
+// summary: Implements the view embedded in an app context menu that shows the header, the currently displayed notification item, and an overflow row of icons.
+// relations:
+//   - depends_on /ash/app_menu/notification_menu_view.h
+//   - depends_on /ash/app_menu/notification_item_view.h
+//   - has_part /ash/app_menu/notification_item_view.h
+// ---
+
 #include "ash/app_menu/notification_menu_view.h"
 
 #include <algorithm>

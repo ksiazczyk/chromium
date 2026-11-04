@@ -1,0 +1,4 @@
+# Docerion header of os_settings.icon.
+type: source
+title: OS settings vector icon
+summary: Icon definition with drawing commands that renders the OS settings app icon for the app list.

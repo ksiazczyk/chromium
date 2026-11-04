@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Folder header view unit tests
+// summary: Unit tests for FolderHeaderView covering folder name editing, whitespace collapsing, maximum name length, and text focus behavior.
+// relations:
+//   - tests /ash/app_list/views/folder_header_view.h
+//   - depends_on /ash/app_list/model/app_list_folder_item.h
+//   - depends_on /ash/app_list/model/app_list_item.h
+// ---
+
 #include "ash/app_list/views/folder_header_view.h"
 
 #include <stddef.h>

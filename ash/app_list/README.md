@@ -1,3 +1,12 @@
+---
+type: readme
+title: App List
+summary: Documentation of the Chrome OS launcher app list covering its feature behavior, code structure, data model, sync ordinals, views, and testing.
+relations:
+  - references /components/sync/protocol/app_list_specifics.proto
+  - references /components/services/app_service/README.md
+---
+
 # App List
 
 "Launcher" is the user-visible name for this feature.

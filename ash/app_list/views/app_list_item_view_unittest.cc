@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App list item view unit tests
+// summary: Unit tests for AppListItemView covering drag states, new install dots, promise app progress indicators, folders, and accessibility behavior.
+// relations:
+//   - tests /ash/app_list/views/app_list_item_view.h
+//   - depends_on /ash/app_list/model/app_list_test_model.h
+//   - depends_on /ash/app_list/test/app_list_test_helper.h
+// ---
+
 #include "ash/app_list/views/app_list_item_view.h"
 
 #include "ash/app_list/model/app_list_test_model.h"

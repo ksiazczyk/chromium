@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App waiter class declaration
+// summary: Declares AppWaiter, which waits for an app ID to load with a non-empty name for an account and invokes a loaded callback.
+// relations:
+//   - depends_on /base/scoped_observation.h
+//   - depends_on /components/services/app_service/public/cpp/app_registry_cache.h
+//   - depends_on /components/services/app_service/public/cpp/app_registry_cache_wrapper.h
+// ---
+
 #ifndef ASH_APP_LIST_APP_WAITER_H_
 #define ASH_APP_LIST_APP_WAITER_H_
 

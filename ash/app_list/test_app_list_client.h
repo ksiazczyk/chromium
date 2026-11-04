@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestAppListClient declaration
+// summary: Declares TestAppListClient, a test fake of AppListClient exposing call counts and recorded queries for unit test assertions.
+// relations:
+//   - depends_on /ash/public/cpp/app_list/app_list_client.h
+//   - depends_on /ash/public/cpp/app_list/app_list_types.h
+//   - depends_on /base/memory/weak_ptr.h
+// ---
+
 #ifndef ASH_APP_LIST_TEST_APP_LIST_CLIENT_H_
 #define ASH_APP_LIST_TEST_APP_LIST_CLIENT_H_
 

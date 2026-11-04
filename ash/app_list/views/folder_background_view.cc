@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Folder background view implementation
+// summary: Implements an invisible background view for the fullscreen app list folder that closes the folder or dismisses the virtual keyboard on click or tap.
+// relations:
+//   - depends_on /ash/app_list/views/folder_background_view.h
+//   - depends_on /ash/app_list/views/app_list_folder_view.h
+//   - depends_on /ash/keyboard/ui/keyboard_ui_controller.h
+// ---
+
 #include "ash/app_list/views/folder_background_view.h"
 
 #include "ash/app_list/views/app_list_folder_view.h"

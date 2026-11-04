@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchResultView class declaration
+// summary: Declares SearchResultView, a flex-layout view that renders one search result in different configurations for default, classic, and answer card types.
+// relations:
+//   - depends_on /ash/app_list/model/search/search_result.h
+//   - depends_on /ash/app_list/views/search_result_actions_view_delegate.h
+//   - depends_on /ash/app_list/views/search_result_base_view.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_SEARCH_RESULT_VIEW_H_
 #define ASH_APP_LIST_VIEWS_SEARCH_RESULT_VIEW_H_
 

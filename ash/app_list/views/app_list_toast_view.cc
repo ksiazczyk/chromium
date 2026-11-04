@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppListToastView implementation
+// summary: Implements the app list toast view that displays an icon, title, subtitle, and optional action or close buttons, constructed through its Builder class.
+// relations:
+//   - implements /ash/app_list/views/app_list_toast_view.h
+//   - depends_on /ash/app_list/app_list_controller_impl.h
+//   - depends_on /ash/app_list/app_list_view_delegate.h
+// ---
+
 #include "ash/app_list/views/app_list_toast_view.h"
 
 #include <algorithm>

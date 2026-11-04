@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list view animation utilities
+// summary: Provides helper functions that prepare views for layer animations and run vertical slide-in animations for app list views.
+// relations:
+//   - implements /ash/app_list/views/app_list_view_util.h
+//   - depends_on /base/functional/callback.h
+//   - depends_on /ui/compositor/layer.h
+// ---
+
 #include "ash/app_list/views/app_list_view_util.h"
 
 #include <optional>

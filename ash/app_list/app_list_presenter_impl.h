@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list presenter class declaration
+// summary: Declares AppListPresenterImpl, which manages the app list UI, show and hide animations, dismissal on outside events, and shelf launcher icon state.
+// relations:
+//   - depends_on /ash/app_list/app_list_metrics.h
+//   - depends_on /ash/app_list/views/app_list_view.h
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_APP_LIST_APP_LIST_PRESENTER_IMPL_H_
 #define ASH_APP_LIST_APP_LIST_PRESENTER_IMPL_H_
 

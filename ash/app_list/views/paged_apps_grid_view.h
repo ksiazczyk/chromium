@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PagedAppsGridView class declaration
+// summary: Declares the paged apps grid view that lays out apps on fixed-size pages and handles pagination, gestures and cardified-state animations.
+// relations:
+//   - depends_on /ash/app_list/app_list_metrics.h
+//   - depends_on /ash/app_list/views/apps_grid_view.h
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_PAGED_APPS_GRID_VIEW_H_
 #define ASH_APP_LIST_VIEWS_PAGED_APPS_GRID_VIEW_H_
 

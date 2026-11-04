@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list model implementation
+// summary: Implements AppListModel, managing top-level items and folders, item metadata updates, merges and observer notifications.
+// relations:
+//   - implements /ash/app_list/model/app_list_model.h
+//   - depends_on /ash/app_list/model/app_list_folder_item.h
+//   - depends_on /ash/app_list/model/app_list_item.h
+// ---
+
 #include "ash/app_list/model/app_list_model.h"
 
 #include <string>

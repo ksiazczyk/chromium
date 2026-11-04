@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchResultImageView implementation
+// summary: Implements the image search result view that renders a rounded image preview with focus ring, drag image creation and a pulsing placeholder block.
+// relations:
+//   - implements /ash/app_list/views/search_result_image_view.h
+//   - depends_on /ash/app_list/model/search/search_result.h
+//   - depends_on /ash/app_list/views/pulsing_block_view.h
+// ---
+
 #include "ash/app_list/views/search_result_image_view.h"
 
 #include <algorithm>

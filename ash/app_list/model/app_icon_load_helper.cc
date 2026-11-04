@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App icon load helper implementation
+// summary: Implements AppIconLoadHelper, which observes app list items and lists to trigger icon load callbacks when icon versions change or folder top items change.
+// relations:
+//   - implements /ash/app_list/model/app_icon_load_helper.h
+//   - depends_on /ash/app_list/model/folder_image.h
+//   - depends_on /base/check.h
+// ---
+
 #include "ash/app_list/model/app_icon_load_helper.h"
 
 #include <algorithm>

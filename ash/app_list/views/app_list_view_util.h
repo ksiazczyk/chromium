@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list view animation utility declarations
+// summary: Declares helpers for preparing layer animations and sliding views into position, optionally within an existing animation sequence block.
+// relations:
+//   - depends_on /base/functional/callback_forward.h
+//   - depends_on /ui/gfx/animation/tween.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_APP_LIST_VIEW_UTIL_H_
 #define ASH_APP_LIST_VIEWS_APP_LIST_VIEW_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search box view delegate interface
+// summary: Defines the SearchBoxViewDelegate interface with callbacks for query changes, close button presses, active state changes, search box key events, and result selectability.
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_SEARCH_BOX_VIEW_DELEGATE_H_
 #define ASH_APP_LIST_VIEWS_SEARCH_BOX_VIEW_DELEGATE_H_
 

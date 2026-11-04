@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppListToastContainerView class declaration
+// summary: Declares the app list toast container view, including its visibility states, delegate interface, and methods for creating, removing, and updating reorder nudge toasts.
+// relations:
+//   - depends_on /ash/app_list/views/app_list_nudge_controller.h
+//   - depends_on /ash/app_list/views/apps_grid_context_menu.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_APP_LIST_TOAST_CONTAINER_VIEW_H_
 #define ASH_APP_LIST_VIEWS_APP_LIST_TOAST_CONTAINER_VIEW_H_
 

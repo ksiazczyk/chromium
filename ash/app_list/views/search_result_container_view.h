@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchResultContainerView base class header
+// summary: Declares SearchResultContainerView, the base class for views holding multiple app list search results, handling selection, model updates, activation and result animations.
+// relations:
+//   - depends_on /ash/app_list/app_list_view_delegate.h
+//   - depends_on /ash/app_list/model/app_list_model.h
+//   - depends_on /ash/app_list/model/search/search_model.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_SEARCH_RESULT_CONTAINER_VIEW_H_
 #define ASH_APP_LIST_VIEWS_SEARCH_RESULT_CONTAINER_VIEW_H_
 

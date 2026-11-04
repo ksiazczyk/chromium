@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppListView class declaration
+// summary: Declares the top-level app list view that hosts the apps grid and search UI, with test helpers, accessibility announcement locks, and contents reset control.
+// relations:
+//   - depends_on /ash/app_list/app_list_metrics.h
+//   - depends_on /ash/app_list/app_list_view_delegate.h
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_APP_LIST_VIEW_H_
 #define ASH_APP_LIST_VIEWS_APP_LIST_VIEW_H_
 

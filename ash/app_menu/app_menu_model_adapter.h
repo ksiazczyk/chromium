@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App menu model adapter header
+// summary: Declares AppMenuModelAdapter, a views::MenuModelAdapter subclass that builds and shows app context menus with notification support.
+// relations:
+//   - depends_on /ash/app_menu/app_menu_export.h
+//   - depends_on /base/functional/callback.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_APP_MENU_APP_MENU_MODEL_ADAPTER_H_
 #define ASH_APP_MENU_APP_MENU_MODEL_ADAPTER_H_
 

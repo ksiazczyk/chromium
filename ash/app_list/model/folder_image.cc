@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Folder image implementation
+// summary: Implements FolderImage, which generates an app list folder icon by drawing the top item icons in a 2x2 grid with shadows and notifies observers when it changes.
+// relations:
+//   - implements /ash/app_list/model/folder_image.h
+//   - depends_on /ash/app_list/model/folder_image.h
+//   - depends_on /ash/app_list/model/app_list_item.h
+// ---
+
 #include "ash/app_list/model/folder_image.h"
 
 #include <algorithm>

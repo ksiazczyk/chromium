@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list event targeter implementation
+// summary: Implements AppListEventTargeter, which blocks event routing to sub-windows when the app list views cannot process events.
+// relations:
+//   - implements /ash/app_list/app_list_event_targeter.h
+//   - depends_on /ash/app_list/app_list_view_delegate.h
+//   - depends_on /base/check.h
+// ---
+
 #include "ash/app_list/app_list_event_targeter.h"
 
 #include "ash/app_list/app_list_view_delegate.h"

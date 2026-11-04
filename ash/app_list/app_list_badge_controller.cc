@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list badge controller implementation
+// summary: Implements notification badge handling for app list items, updating badges from app registry changes and the notification badging preference.
+// relations:
+//   - implements /ash/app_list/app_list_badge_controller.h
+//   - depends_on /ash/app_list/app_list_model_provider.h
+//   - depends_on /ash/app_list/model/app_list_item.h
+// ---
+
 #include "ash/app_list/app_list_badge_controller.h"
 
 #include <memory>

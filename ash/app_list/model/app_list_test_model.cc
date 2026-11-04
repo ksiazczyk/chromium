@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list test model implementation
+// summary: Implements AppListTestModel and its test item, providing helpers to populate app list models and emulating Chrome-side handling of item update requests in tests.
+// relations:
+//   - implements /ash/app_list/model/app_list_test_model.h
+//   - depends_on /ash/app_list/model/app_list_test_model.h
+//   - depends_on /ash/public/cpp/app_list/app_list_config.h
+// ---
+
 #include "ash/app_list/model/app_list_test_model.h"
 
 #include <stddef.h>

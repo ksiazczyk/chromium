@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchResultView implementation
+// summary: Implements the view that renders a single search result with title, details, icon, actions, progress bar, and keyboard shortcut contents.
+// relations:
+//   - implements /ash/app_list/views/search_result_view.h
+//   - depends_on /ash/app_list/app_list_metrics.h
+//   - depends_on /ash/app_list/app_list_util.h
+// ---
+
 #include "ash/app_list/views/search_result_view.h"
 
 #include <algorithm>

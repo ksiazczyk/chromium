@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list item utilities implementation
+// summary: Implements DraggableAppItemInfo and helpers that define the clipboard format and decode draggable app item data from drop payloads during app list drag and drop.
+// relations:
+//   - depends_on /ash/app_list/app_list_item_util.h
+//   - depends_on /base/json/values_util.h
+//   - depends_on /base/no_destructor.h
+// ---
+
 #include "ash/app_list/app_list_item_util.h"
 
 #include <string>

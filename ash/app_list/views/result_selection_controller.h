@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResultSelectionController header
+// summary: Declares the controller managing result selection across containers and the ResultLocationDetails struct describing result coordinates.
+// relations:
+//   - depends_on /ash/app_list/views/search_result_base_view.h
+//   - depends_on /ash/app_list/views/search_result_container_view.h
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_APP_LIST_VIEWS_RESULT_SELECTION_CONTROLLER_H_
 #define ASH_APP_LIST_VIEWS_RESULT_SELECTION_CONTROLLER_H_
 

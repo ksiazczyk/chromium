@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App list presenter and views unit tests
+// summary: Extensive unit tests for the app list presenters, views, apps grid and search behavior across clamshell and tablet modes.
+// relations:
+//   - depends_on /ash/accessibility/accessibility_controller.h
+//   - depends_on /ash/app_list/app_list_controller_impl.h
+//   - depends_on /ash/app_list/app_list_model_provider.h
+// ---
+
 #include <algorithm>
 #include <memory>
 #include <string>

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: App List presubmit lint check
+# summary: Presubmit script that runs cpplint checks on C++ source files in the app_list directory when changes are uploaded.
+# ---
+
 """Presubmit script for app_list.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

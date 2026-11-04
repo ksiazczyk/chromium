@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list item utilities declarations
+// summary: Declares the DraggableAppItemInfo struct, DraggableAppType enum, and helpers for reading draggable app item data from OSExchangeData during drag and drop.
+// relations:
+//   - depends_on /base/values.h
+//   - depends_on /ui/base/clipboard/clipboard_format_type.h
+//   - depends_on /ui/base/dragdrop/drag_drop_types.h
+// ---
+
 #ifndef ASH_APP_LIST_APP_LIST_ITEM_UTIL_H_
 #define ASH_APP_LIST_APP_LIST_ITEM_UTIL_H_
 

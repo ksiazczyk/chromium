@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchModel class declaration
+// summary: Declares SearchModel, holding a SearchBoxModel and a SearchResult list, with helpers to publish, filter, find, and clear results.
+// relations:
+//   - depends_on /ash/app_list/model/app_list_model_export.h
+//   - has_part /ash/app_list/model/search/search_box_model.h
+//   - depends_on /ash/app_list/model/search/search_result.h
+// ---
+
 #ifndef ASH_APP_LIST_MODEL_SEARCH_SEARCH_MODEL_H_
 #define ASH_APP_LIST_MODEL_SEARCH_SEARCH_MODEL_H_
 

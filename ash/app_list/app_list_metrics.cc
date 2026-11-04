@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list metrics implementation
+// summary: Implements UMA histogram logging for the app list, covering app launches, launcher user actions, animation smoothness, and search result removal decisions.
+// relations:
+//   - depends_on /ash/app_list/app_list_metrics.h
+//   - depends_on /ash/app_list/app_list_controller_impl.h
+//   - depends_on /ash/app_list/app_list_model_provider.h
+// ---
+
 #include "ash/app_list/app_list_metrics.h"
 
 #include <algorithm>

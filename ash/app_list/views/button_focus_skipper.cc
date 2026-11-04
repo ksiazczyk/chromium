@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Button focus skipper implementation
+// summary: Implements an event handler that toggles focus behavior for registered buttons so arrow key navigation can skip them in the app list.
+// relations:
+//   - implements /ash/app_list/views/button_focus_skipper.h
+//   - depends_on /ui/events/event.h
+//   - depends_on /ui/events/event_target.h
+// ---
+
 #include "ash/app_list/views/button_focus_skipper.h"
 
 #include "base/check.h"
