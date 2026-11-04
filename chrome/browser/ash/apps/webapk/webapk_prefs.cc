@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generated WebAPK profile prefs implementation
+// summary: Implements profile preferences that track generated WebAPKs, their package names and pending update state.
+// ---
+
 #include "chrome/browser/ash/apps/webapk/webapk_prefs.h"
 
 #include "base/values.h"

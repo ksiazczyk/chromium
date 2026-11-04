@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the ARC content file system async file util
+// summary: Tests ArcContentFileSystemAsyncFileUtil behavior using a fake ARC file system instance and a testing profile.
+// ---
+
 #include "chrome/browser/ash/arc/fileapi/arc_content_file_system_async_file_util.h"
 
 #include <string.h>

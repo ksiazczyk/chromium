@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC cert installer utilities header
+// summary: Declares CreatePkcs12ForKey, a helper that creates a PKCS#12 container with the given name for a private key and returns an empty string on error.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_ENTERPRISE_CERT_STORE_ARC_CERT_INSTALLER_UTILS_H_
 #define CHROME_BROWSER_ASH_ARC_ENTERPRISE_CERT_STORE_ARC_CERT_INSTALLER_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcDocumentsProviderRoot implementation
+// summary: Implements the file system root for an Android Documents Provider, including file info queries, directory caching, watchers, and content URL resolution.
+// ---
+
 #include "chrome/browser/ash/arc/fileapi/arc_documents_provider_root.h"
 
 #include <algorithm>

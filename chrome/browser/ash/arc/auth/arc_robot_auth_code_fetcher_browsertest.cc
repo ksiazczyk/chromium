@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcRobotAuthCodeFetcher browser tests
+// summary: Browser tests for ArcRobotAuthCodeFetcher that verify robot auth code fetching against a mocked device management server.
+// ---
+
 #include "chrome/browser/ash/arc/auth/arc_robot_auth_code_fetcher.h"
 
 #include <memory>

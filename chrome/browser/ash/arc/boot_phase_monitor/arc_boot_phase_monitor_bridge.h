@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcBootPhaseMonitorBridge class declaration
+// summary: Declares a keyed service that observes ARC boot completion and session events to adjust container priority and record UMA metrics.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_BOOT_PHASE_MONITOR_ARC_BOOT_PHASE_MONITOR_BRIDGE_H_
 #define CHROME_BROWSER_ASH_ARC_BOOT_PHASE_MONITOR_ARC_BOOT_PHASE_MONITOR_BRIDGE_H_
 

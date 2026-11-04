@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Full restore service factory
+// summary: Profile-keyed factory that builds FullRestoreService when full restore is available, excluding app mode, demo mode, and floating workspace profiles.
+// ---
+
 #include "chrome/browser/ash/app_restore/full_restore_service_factory.h"
 
 #include "base/no_destructor.h"

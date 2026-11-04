@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC content file system async file util implementation
+// summary: Implements storage::AsyncFileUtil operations for the ARC content file system, with many operations unimplemented.
+// ---
+
 #include "chrome/browser/ash/arc/fileapi/arc_content_file_system_async_file_util.h"
 
 #include "base/functional/bind.h"

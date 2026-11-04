@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC select files utility header
+// summary: Declares helpers that exclude Android picker packages and convert Android activities to and from fake file paths for the Files app.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_FILEAPI_ARC_SELECT_FILES_UTIL_H_
 #define CHROME_BROWSER_ASH_ARC_FILEAPI_ARC_SELECT_FILES_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC app single restore handler unit tests
+// summary: Unit tests for the single ARC app restore handler, covering shelf readiness, pending launches, and null bounds handling.
+// ---
+
 #include "chrome/browser/ash/app_restore/arc_app_single_restore_handler.h"
 
 #include "ash/test/ash_test_base.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for app_restore dependencies
+summary: Lists allowed include dependencies for the directory with specific rules for tests and select files.

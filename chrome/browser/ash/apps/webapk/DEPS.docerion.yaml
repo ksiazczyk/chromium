@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for WebAPK code
+summary: Restricts which Chrome and component headers the WebAPK code may include, with special allowances for test files.

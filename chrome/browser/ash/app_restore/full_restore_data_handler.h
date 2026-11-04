@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Full restore data handler
+// summary: Declares an App Registry Cache observer that removes app launch and window restore data when an app is removed.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_RESTORE_FULL_RESTORE_DATA_HANDLER_H_
 #define CHROME_BROWSER_ASH_APP_RESTORE_FULL_RESTORE_DATA_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC certificate installer header
+// summary: Declares CertDescription, a holder for NSS certificate metadata, and ArcCertInstaller, which manages certificates available to ARC and installs missing ones.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_ENTERPRISE_CERT_STORE_ARC_CERT_INSTALLER_H_
 #define CHROME_BROWSER_ASH_ARC_ENTERPRISE_CERT_STORE_ARC_CERT_INSTALLER_H_
 

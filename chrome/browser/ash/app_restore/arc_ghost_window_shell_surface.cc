@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC ghost window shell surface implementation
+// summary: Implements ArcGhostWindowShellSurface, which creates and manages the client controlled shell surface hosting ARC ghost windows during restore.
+// ---
+
 #include "chrome/browser/ash/app_restore/arc_ghost_window_shell_surface.h"
 
 #include "ash/wm/desks/desks_util.h"

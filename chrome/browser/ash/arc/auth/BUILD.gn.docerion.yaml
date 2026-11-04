@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: ARC auth build configuration
+summary: Defines the static library target for the ARC auth sources and a testonly browser_tests source set with their dependencies.

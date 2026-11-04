@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NewUserRestorePrefHandler implementation
+// summary: Implements NewUserRestorePrefHandler, which initializes and updates the new user's restore_apps_and_pages preference based on sync and browser restore settings.
+// ---
+
 #include "chrome/browser/ash/app_restore/new_user_restore_pref_handler.h"
 
 #include "ash/constants/ash_features.h"

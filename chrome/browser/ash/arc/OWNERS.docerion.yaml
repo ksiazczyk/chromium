@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners delegation to the shared ARC OWNERS file
+summary: Delegates code review ownership for this directory to the ARC common OWNERS file.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the ARC adbd monitor
+summary: Defines the adbd static library and its unit test source set, listing sources and GN dependencies for the ARC adbd monitor code.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC app shortcuts request implementation
+// summary: Implements ArcAppShortcutsRequest, which queries Android for app shortcut items, decodes their icons, and returns the results via callback.
+// ---
+
 #include "chrome/browser/ash/arc/app_shortcuts/arc_app_shortcuts_request.h"
 
 #include <string>

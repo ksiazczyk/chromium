@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App restore ARC test helper header
+// summary: Declares a helper class that performs the setup needed to run app restore tests against a fake ARC instance.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_RESTORE_APP_RESTORE_ARC_TEST_HELPER_H_
 #define CHROME_BROWSER_ASH_APP_RESTORE_APP_RESTORE_ARC_TEST_HELPER_H_
 

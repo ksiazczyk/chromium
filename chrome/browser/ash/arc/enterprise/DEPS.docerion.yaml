@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ARC enterprise
+summary: Sets include rules restricting //chrome dependencies for the ARC enterprise directory, with specific exceptions for tests and cert store services.

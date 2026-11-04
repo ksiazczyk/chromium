@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CertStoreService browser tests
+// summary: Browser tests for CertStoreService that verify certificate provisioning to ARC keymaster and keymint bridges under managed policy and affiliation setups.
+// ---
+
 #include "chrome/browser/ash/arc/enterprise/cert_store/cert_store_service.h"
 
 #include <stdint.h>

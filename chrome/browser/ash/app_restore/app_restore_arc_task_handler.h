@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppRestoreArcTaskHandler class declaration
+// summary: Declares the keyed service observing ARC app state to manage full restore, window predictor, and desk template handlers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_RESTORE_APP_RESTORE_ARC_TASK_HANDLER_H_
 #define CHROME_BROWSER_ASH_APP_RESTORE_APP_RESTORE_ARC_TASK_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppRestoreArcTaskHandlerFactory declaration
+// summary: Declares the profile-keyed service factory providing AppRestoreArcTaskHandler instances.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_RESTORE_APP_RESTORE_ARC_TASK_HANDLER_FACTORY_H_
 #define CHROME_BROWSER_ASH_APP_RESTORE_APP_RESTORE_ARC_TASK_HANDLER_FACTORY_H_
 

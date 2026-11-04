@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC documents provider file stream reader implementation
+// summary: Implements a file stream reader for ARC documents provider URLs that resolves them to content URLs and delegates reads to the content file system stream reader.
+// ---
+
 #include "chrome/browser/ash/arc/fileapi/arc_documents_provider_file_stream_reader.h"
 
 #include <utility>

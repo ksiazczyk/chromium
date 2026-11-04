@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC content file system backend delegate implementation
+// summary: Implements the ash FileSystemBackend delegate, providing the async file util and stream readers for ARC content files.
+// ---
+
 #include "chrome/browser/ash/arc/fileapi/arc_content_file_system_backend_delegate.h"
 
 #include "base/notimplemented.h"

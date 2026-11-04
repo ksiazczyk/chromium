@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcCertInstaller unit tests
+// summary: Unit tests for ArcCertInstaller that verify certificate installation using mocked remote command queues, fake ARC policy instances and test certificates.
+// ---
+
 #include "chrome/browser/ash/arc/enterprise/cert_store/arc_cert_installer.h"
 
 #include <string>

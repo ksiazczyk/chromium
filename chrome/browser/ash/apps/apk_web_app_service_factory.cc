@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ApkWebAppServiceFactory implementation
+// summary: Profile-keyed service factory that builds ApkWebAppService only when web apps and ARC are enabled for the profile.
+// ---
+
 #include "chrome/browser/ash/apps/apk_web_app_service_factory.h"
 
 #include "chrome/browser/ash/app_list/arc/arc_app_list_prefs_factory.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ARC file system watcher
+summary: Sets include dependency rules that restrict //chrome dependencies for this directory, with documented exceptions.

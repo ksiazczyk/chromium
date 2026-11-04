@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC cert installer PKCS#12 utilities implementation
+// summary: Implements CreatePkcs12ForKey, which builds a base64-encoded PKCS#12 container for a private key using BoringSSL with legacy encryption for ARC compatibility.
+// ---
+
 #include "chrome/browser/ash/arc/enterprise/cert_store/arc_cert_installer_utils.h"
 
 #include <string_view>

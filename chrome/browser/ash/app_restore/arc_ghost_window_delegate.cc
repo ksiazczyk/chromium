@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC ghost window delegate implementation
+// summary: Implements the delegate that applies state and bounds changes, such as maximize, minimize, and fullscreen, to ARC ghost window shell surfaces.
+// ---
+
 #include "chrome/browser/ash/app_restore/arc_ghost_window_delegate.h"
 
 #include "base/notimplemented.h"

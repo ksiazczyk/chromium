@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the ARC fileapi directory
+summary: Restricts //chrome header dependencies for this directory and grants extra includes to specific unit test files.

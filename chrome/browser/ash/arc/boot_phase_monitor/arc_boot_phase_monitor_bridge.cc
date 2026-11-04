@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC boot phase monitor bridge implementation
+// summary: Implements ArcBootPhaseMonitorBridge, which tracks ARC boot phases, emits the arc booted signal, and records first app launch delay UMA metrics.
+// ---
+
 #include "chrome/browser/ash/arc/boot_phase_monitor/arc_boot_phase_monitor_bridge.h"
 
 #include <utility>

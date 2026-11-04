@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC enterprise reporting service unit tests
+// summary: Unit tests for ArcEnterpriseReportingService that verify Cloud DPC operation time reporting using test profiles and a fake ARC session manager.
+// ---
+
 #include "chrome/browser/ash/arc/enterprise/arc_enterprise_reporting_service.h"
 
 #include "base/command_line.h"

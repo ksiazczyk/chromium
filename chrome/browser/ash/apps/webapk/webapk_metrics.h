@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAPK install status enum and metrics declarations
+// summary: Defines the WebApkInstallStatus enum and declares histogram names plus the result recording function.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APPS_WEBAPK_WEBAPK_METRICS_H_
 #define CHROME_BROWSER_ASH_APPS_WEBAPK_WEBAPK_METRICS_H_
 

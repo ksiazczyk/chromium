@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility helper remote proxy header
+// summary: Declares the class that forwards incoming calls to the remote Android AccessibilityService process via the ARC bridge service.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_ACCESSIBILITY_ACCESSIBILITY_HELPER_INSTANCE_REMOTE_PROXY_H_
 #define CHROME_BROWSER_ASH_ARC_ACCESSIBILITY_ACCESSIBILITY_HELPER_INSTANCE_REMOTE_PROXY_H_
 

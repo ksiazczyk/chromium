@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC window utilities unit tests
+// summary: Unit tests verifying HandleArcWindowInfo behavior for invalid and valid display IDs and window bounds scaling.
+// ---
+
 #include "chrome/browser/ash/app_restore/arc_window_utils.h"
 
 #include "base/command_line.h"

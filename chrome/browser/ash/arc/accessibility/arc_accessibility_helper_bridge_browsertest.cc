@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the ARC accessibility helper bridge
+// summary: In-process browser tests exercising the helper bridge with a fake accessibility helper instance, a mock event router, and focus rings.
+// ---
+
 #include "chrome/browser/ash/arc/accessibility/arc_accessibility_helper_bridge.h"
 
 #include <memory>

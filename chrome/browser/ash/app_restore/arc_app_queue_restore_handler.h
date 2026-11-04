@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC app queue restore handler header
+// summary: Declares the handler that restores ARC app windows during system startup, observing app registry, resource, window, and scheduler changes.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_RESTORE_ARC_APP_QUEUE_RESTORE_HANDLER_H_
 #define CHROME_BROWSER_ASH_APP_RESTORE_ARC_APP_QUEUE_RESTORE_HANDLER_H_
 

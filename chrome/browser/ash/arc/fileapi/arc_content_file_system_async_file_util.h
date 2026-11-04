@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC content file system async file util header
+// summary: Declares ArcContentFileSystemAsyncFileUtil, an AsyncFileUtil handling file operations for ARC content URLs.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_FILEAPI_ARC_CONTENT_FILE_SYSTEM_ASYNC_FILE_UTIL_H_
 #define CHROME_BROWSER_ASH_ARC_FILEAPI_ARC_CONTENT_FILE_SYSTEM_ASYNC_FILE_UTIL_H_
 

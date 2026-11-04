@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC Bluetooth task queue implementation
+// summary: Implements ArcBluetoothTaskQueue, running pushed tasks serially and in order until popped.
+// ---
+
 #include <utility>
 
 #include "chrome/browser/ash/arc/bluetooth/arc_bluetooth_task_queue.h"

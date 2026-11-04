@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC support host implementation
+// summary: Implements the native interface controlling the ARC support Chrome app, handling JSON messages, UI pages, errors and terms of service consent.
+// ---
+
 #include "chrome/browser/ash/arc/arc_support_host.h"
 
 #include <string>

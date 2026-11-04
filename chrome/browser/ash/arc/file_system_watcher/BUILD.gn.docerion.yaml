@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for ARC file system watcher
+summary: Defines the GN build targets for the ARC file system watcher static library and its unit tests.

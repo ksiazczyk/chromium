@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC error notification bridge class declaration
+// summary: Declares ArcErrorNotificationBridge, a KeyedService and mojom ErrorNotificationHost that manages ARC error notifications and user interaction relaying.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_ERROR_NOTIFICATION_ARC_ERROR_NOTIFICATION_BRIDGE_H_
 #define CHROME_BROWSER_ASH_ARC_ERROR_NOTIFICATION_ARC_ERROR_NOTIFICATION_BRIDGE_H_
 

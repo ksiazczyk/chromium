@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC UI availability reporter implementation
+// summary: Implements ArcUiAvailabilityReporter, which reports how long ARC UI takes to become available via UMA histograms.
+// ---
+
 #include "chrome/browser/ash/arc/arc_ui_availability_reporter.h"
 
 #include "base/logging.h"

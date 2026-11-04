@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcAuthService browser tests
+// summary: Browser tests covering ARC authorization flows, including account info requests, metrics, demo mode, and device policy scenarios.
+// ---
+
 #include "chrome/browser/ash/arc/auth/arc_auth_service.h"
 
 #include <memory>

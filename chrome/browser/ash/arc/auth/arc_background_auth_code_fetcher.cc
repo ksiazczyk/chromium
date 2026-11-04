@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcBackgroundAuthCodeFetcher implementation
+// summary: Implements background fetching of ARC auth codes by exchanging OAuth access tokens with the Google token bootstrap endpoint.
+// ---
+
 #include "chrome/browser/ash/arc/auth/arc_background_auth_code_fetcher.h"
 
 #include <optional>

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the ARC folder
+summary: Points the directory metadata to the shared ARC common metadata mixin.

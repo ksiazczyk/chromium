@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC utility functions header
+// summary: Declares ARC utilities that require chrome/ dependencies, including ARC allowance, provisioning, and compatibility checks.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_ARC_UTIL_H_
 #define CHROME_BROWSER_ASH_ARC_ARC_UTIL_H_
 

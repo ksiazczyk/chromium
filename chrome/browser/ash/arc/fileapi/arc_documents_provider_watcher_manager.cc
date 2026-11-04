@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC documents provider watcher manager implementation
+// summary: Implements the storage::WatcherManager for the ARC documents provider file system, dispatching watcher add, remove and notification calls across browser threads.
+// ---
+
 #include "chrome/browser/ash/arc/fileapi/arc_documents_provider_watcher_manager.h"
 
 #include "base/files/file.h"

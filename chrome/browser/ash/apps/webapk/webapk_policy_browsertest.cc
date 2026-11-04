@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebAPK policy browser tests
+// summary: Browser tests verifying that web app installs generate WebAPKs unless disabled by policy, using fakes for ARC and the WebAPK server.
+// ---
+
 #include <memory>
 #include <optional>
 

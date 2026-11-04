@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC error notification item class declaration
+// summary: Declares ArcErrorNotificationItem, which implements the ErrorNotificationItem mojo interface so ARC can close its error notifications.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_ERROR_NOTIFICATION_ARC_ERROR_NOTIFICATION_ITEM_H_
 #define CHROME_BROWSER_ASH_ARC_ERROR_NOTIFICATION_ARC_ERROR_NOTIFICATION_ITEM_H_
 

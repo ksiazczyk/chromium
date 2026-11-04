@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcRobotAuthCodeFetcher header
+// summary: Declares ArcRobotAuthCodeFetcher, which fetches a robot account auth code used to create an account on the Android side in ARC kiosk mode.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_AUTH_ARC_ROBOT_AUTH_CODE_FETCHER_H_
 #define CHROME_BROWSER_ASH_ARC_AUTH_ARC_ROBOT_AUTH_CODE_FETCHER_H_
 

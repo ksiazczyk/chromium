@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcFileSystemWatcherService class declaration
+// summary: Declares ArcFileSystemWatcherService, a keyed service that watches file system changes and registers new media files with the Android MediaProvider.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_FILE_SYSTEM_WATCHER_ARC_FILE_SYSTEM_WATCHER_SERVICE_H_
 #define CHROME_BROWSER_ASH_ARC_FILE_SYSTEM_WATCHER_ARC_FILE_SYSTEM_WATCHER_SERVICE_H_
 

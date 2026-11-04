@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC accessibility helper bridge implementation
+// summary: Implements the bridge that receives converted Android accessibility events over mojo and dispatches them to Chrome OS components.
+// ---
+
 #include "chrome/browser/ash/arc/accessibility/arc_accessibility_helper_bridge.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: ARC auth directory owners
+summary: Lists khmel@chromium.org as the owner responsible for reviews in this directory.

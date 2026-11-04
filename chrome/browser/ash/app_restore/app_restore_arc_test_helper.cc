@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App restore ARC test helper implementation
+// summary: Implements a helper that sets up a fake ARC instance, installs test apps, and creates tasks for app restore browser tests.
+// ---
+
 #include "chrome/browser/ash/app_restore/app_restore_arc_test_helper.h"
 
 #include "base/command_line.h"

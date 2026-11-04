@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC media view utilities implementation
+// summary: Defines the MediaDocumentsProvider authority, media root IDs, and the helper that builds media view volume IDs for ARC Media View.
+// ---
+
 #include "chrome/browser/ash/arc/fileapi/arc_media_view_util.h"
 
 namespace arc {

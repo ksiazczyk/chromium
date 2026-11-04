@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for the ARC fileapi static library
+summary: Defines the fileapi static library sources, dependencies, and a unit_tests source set for ARC file system code.

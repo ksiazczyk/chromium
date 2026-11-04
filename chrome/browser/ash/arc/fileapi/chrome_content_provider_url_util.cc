@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome content provider URL utilities implementation
+// summary: Implements encoding and decoding of URLs to and from the Chrome content provider URL scheme used by ARC applications.
+// ---
+
 #include "chrome/browser/ash/arc/fileapi/chrome_content_provider_url_util.h"
 
 #include <string>

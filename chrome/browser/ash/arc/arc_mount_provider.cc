@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC mount provider
+// summary: Implements the guest OS mount provider that mounts the sshfs-based Play files mount for ARCVM, reporting the vsock port and CID.
+// ---
+
 #include "chrome/browser/ash/arc/arc_mount_provider.h"
 
 #include "ash/strings/grit/ash_strings.h"

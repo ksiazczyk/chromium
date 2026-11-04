@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC Bluetooth bridge class declaration
+// summary: Declares ArcBluetoothBridge, a KeyedService implementing mojom::BluetoothHost and Bluetooth adapter observer interfaces.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_BLUETOOTH_ARC_BLUETOOTH_BRIDGE_H_
 #define CHROME_BROWSER_ASH_ARC_BLUETOOTH_ARC_BLUETOOTH_BRIDGE_H_
 

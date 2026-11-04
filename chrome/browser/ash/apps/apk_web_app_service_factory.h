@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ApkWebAppServiceFactory class declaration
+// summary: Declares the ProfileKeyedServiceFactory singleton that creates an ApkWebAppService per ARC-capable profile and cleans it up when the profile is destroyed.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APPS_APK_WEB_APP_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ASH_APPS_APK_WEB_APP_SERVICE_FACTORY_H_
 

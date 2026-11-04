@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC documents provider file system URL utilities
+// summary: Implements ResolveToContentUrlOnIOThread, which resolves documents provider file system URLs to Android content URLs through the UI thread and provider roots.
+// ---
+
 #include "chrome/browser/ash/arc/fileapi/arc_documents_provider_file_system_url_util.h"
 
 #include "base/functional/bind.h"

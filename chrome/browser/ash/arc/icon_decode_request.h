@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IconDecodeRequest class header
+// summary: Declares IconDecodeRequest, which decodes ARC app icon images safely and defines the app shortcut status metric enum.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_ICON_DECODE_REQUEST_H_
 #define CHROME_BROWSER_ASH_ARC_ICON_DECODE_REQUEST_H_
 

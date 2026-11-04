@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC file system operation runner
+// summary: Declares ArcFileSystemOperationRunner, a KeyedService that runs ARC file system operations and defers them while the ARC container is booting.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_FILEAPI_ARC_FILE_SYSTEM_OPERATION_RUNNER_H_
 #define CHROME_BROWSER_ASH_ARC_FILEAPI_ARC_FILE_SYSTEM_OPERATION_RUNNER_H_
 

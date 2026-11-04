@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApkInstallQueue class declaration
+// summary: Declares WebApkInstallQueue, which serializes WebAPK install and update requests while ARC is running.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APPS_WEBAPK_WEBAPK_INSTALL_QUEUE_H_
 #define CHROME_BROWSER_ASH_APPS_WEBAPK_WEBAPK_INSTALL_QUEUE_H_
 

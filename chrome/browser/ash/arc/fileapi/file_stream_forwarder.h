@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File stream forwarder header
+// summary: Declares the FileStreamForwarder class that reads a FileSystemURL range and writes it to a file descriptor with a result callback.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_FILEAPI_FILE_STREAM_FORWARDER_H_
 #define CHROME_BROWSER_ASH_ARC_FILEAPI_FILE_STREAM_FORWARDER_H_
 

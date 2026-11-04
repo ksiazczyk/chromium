@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for boot phase monitor
+summary: Sets include rules that block //chrome dependencies for ChromeOS code and allow them only for the unit test.

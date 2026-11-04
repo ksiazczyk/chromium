@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Full restore app launch handler browser tests
+// summary: Integration browser tests covering full restore of apps, browsers, desks, and windows on ChromeOS.
+// ---
+
 #include "chrome/browser/ash/app_restore/full_restore_app_launch_handler.h"
 
 #include <cstdint>

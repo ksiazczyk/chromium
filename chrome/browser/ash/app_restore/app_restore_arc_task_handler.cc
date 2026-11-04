@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppRestoreArcTaskHandler implementation
+// summary: Implements the keyed service that coordinates ARC app restore handlers, ghost windows, and task events.
+// ---
+
 #include "chrome/browser/ash/app_restore/app_restore_arc_task_handler.h"
 
 #include "ash/constants/ash_features.h"

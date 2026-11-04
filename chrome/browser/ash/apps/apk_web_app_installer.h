@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ApkWebAppInstaller class declaration
+// summary: Declares the self-owning installer that decodes arc::mojom::WebAppInfo data and installs it as a web app in a profile.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APPS_APK_WEB_APP_INSTALLER_H_
 #define CHROME_BROWSER_ASH_APPS_APK_WEB_APP_INSTALLER_H_
 

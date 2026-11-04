@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC documents provider async file util implementation
+// summary: Implements storage::AsyncFileUtil operations such as get file info, read directory, and create for the ARC documents provider file system via documents provider roots.
+// ---
+
 #include "chrome/browser/ash/arc/fileapi/arc_documents_provider_async_file_util.h"
 
 #include <utility>

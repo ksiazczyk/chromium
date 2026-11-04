@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake WebAPK server for tests
+// summary: Implements an embedded test server that emulates WebAPK server responses and captures requests during browser tests.
+// ---
+
 #include "chrome/browser/ash/apps/webapk/webapk_test_server.h"
 
 #include "ash/constants/chrome_switches.h"

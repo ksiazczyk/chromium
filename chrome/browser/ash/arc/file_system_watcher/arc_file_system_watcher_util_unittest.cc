@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC file system watcher utility unit tests
+// summary: Unit tests covering removable media path conversion and the Android path helper functions.
+// ---
+
 #include "chrome/browser/ash/arc/file_system_watcher/arc_file_system_watcher_util.h"
 
 #include <string.h>

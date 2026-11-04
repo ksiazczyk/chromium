@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC migration guide notification
+// summary: Shows a critical system notification guiding users through the ARC file system migration, with a low-battery message variant and sign-out click handling.
+// ---
+
 #include "chrome/browser/ash/arc/arc_migration_guide_notification.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC app shortcuts request class declaration
+// summary: Declares ArcAppShortcutsRequest, a helper class that sends app shortcut queries to Android on behalf of Chrome and collects icon decode results.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_APP_SHORTCUTS_ARC_APP_SHORTCUTS_REQUEST_H_
 #define CHROME_BROWSER_ASH_ARC_APP_SHORTCUTS_ARC_APP_SHORTCUTS_REQUEST_H_
 

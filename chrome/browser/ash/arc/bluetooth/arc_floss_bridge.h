@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: ArcFlossBridge class declaration
+// summary: Declares the Floss specialization of the ARC Bluetooth bridge with SDP, LE scan, and Bluetooth socket methods plus FlossAdapterClient observer callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_BLUETOOTH_ARC_FLOSS_BRIDGE_H_
 #define CHROME_BROWSER_ASH_ARC_BLUETOOTH_ARC_FLOSS_BRIDGE_H_
 

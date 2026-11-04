@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcAuthCodeFetcher interface
+// summary: Declares the ArcAuthCodeFetcher interface for fetching an ARC auth code in the background and reporting the result through a callback.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_AUTH_ARC_AUTH_CODE_FETCHER_H_
 #define CHROME_BROWSER_ASH_ARC_AUTH_ARC_AUTH_CODE_FETCHER_H_
 

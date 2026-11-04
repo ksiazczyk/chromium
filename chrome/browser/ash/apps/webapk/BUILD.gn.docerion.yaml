@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for ChromeOS WebAPK support
+summary: Defines GN source sets for the WebAPK prefs, core webapk code, unit tests, browser tests, and test support targets.

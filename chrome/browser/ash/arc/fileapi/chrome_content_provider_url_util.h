@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome content provider URL utilities header
+// summary: Declares functions that encode URLs to and decode them from the Chrome content provider URL scheme for ARC access.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_FILEAPI_CHROME_CONTENT_PROVIDER_URL_UTIL_H_
 #define CHROME_BROWSER_ASH_ARC_FILEAPI_CHROME_CONTENT_PROVIDER_URL_UTIL_H_
 

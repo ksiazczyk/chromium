@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC demo mode delegate implementation
+// summary: Implements the demo mode delegate that loads demo resources and returns the demo Android apps path for ARC.
+// ---
+
 #include "chrome/browser/ash/arc/arc_demo_mode_delegate_impl.h"
 
 #include <utility>

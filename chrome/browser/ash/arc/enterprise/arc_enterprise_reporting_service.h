@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC enterprise reporting service header
+// summary: Declares ArcEnterpriseReportingService, the KeyedService and EnterpriseReportingHost that controls ARC enterprise reporting for a browser context.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_ENTERPRISE_ARC_ENTERPRISE_REPORTING_SERVICE_H_
 #define CHROME_BROWSER_ASH_ARC_ENTERPRISE_ARC_ENTERPRISE_REPORTING_SERVICE_H_
 

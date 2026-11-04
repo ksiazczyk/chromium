@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks reusing the shared ARC presubmit
+# summary: Applies the presubmit checks from chromeos/ash/experiences/arc to changes uploaded in this directory.
+# ---
+
 
 def CheckChangeOnUpload(input_api, output_api):
   # Apply the same PRESUBMIT for chromeos/ash/experiences/arc.

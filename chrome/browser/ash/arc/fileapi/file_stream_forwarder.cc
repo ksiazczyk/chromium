@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File stream forwarder implementation
+// summary: Implements reading file system data and forwarding it to a file descriptor, with reads on the IO thread and callbacks on the UI thread.
+// ---
+
 #include "chrome/browser/ash/arc/fileapi/file_stream_forwarder.h"
 
 #include <algorithm>

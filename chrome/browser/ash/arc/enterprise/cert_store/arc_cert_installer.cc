@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC certificate installer implementation
+// summary: Implements ArcCertInstaller, which installs missing certificates into ARC via remote commands and tracks pending installation status and known cert names.
+// ---
+
 #include "chrome/browser/ash/arc/enterprise/cert_store/arc_cert_installer.h"
 
 #include <cert.h>

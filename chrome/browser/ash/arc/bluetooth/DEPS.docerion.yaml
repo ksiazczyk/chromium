@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: ARC Bluetooth include rules (DEPS)
+summary: Sets include rules that forbid //chrome dependencies while allowing the directory's own headers and a few existing ones.

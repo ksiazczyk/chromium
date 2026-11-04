@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC accessibility geometry utilities implementation
+// summary: Implements scaling of Android pixel bounds to Chrome pixels and computation of the Chrome window height offset in DIP for maximized windows.
+// ---
+
 #include "chrome/browser/ash/arc/accessibility/geometry_util.h"
 
 #include "components/exo/wm_helper.h"

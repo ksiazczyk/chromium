@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for ARC accessibility
+summary: GN build file defining the ARC accessibility static library plus unit and browser test source sets with their dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File stream forwarder unit tests
+// summary: Unit tests that verify FileStreamForwarder forwards file system data to a destination file descriptor using a test file system context.
+// ---
+
 #include "chrome/browser/ash/arc/fileapi/file_stream_forwarder.h"
 
 #include <optional>

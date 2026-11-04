@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Full restore prefs header
+// summary: Declares restore policy pref names and helpers to register, set, and update the restore preference from session startup settings.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_RESTORE_FULL_RESTORE_PREFS_H_
 #define CHROME_BROWSER_ASH_APP_RESTORE_FULL_RESTORE_PREFS_H_
 

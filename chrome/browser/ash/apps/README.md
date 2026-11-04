@@ -1,3 +1,9 @@
+---
+type: readme
+title: Chrome OS Apps Platform
+summary: Explains that the directory hosts app-platform-agnostic code letting Chrome OS app platforms communicate with the browser and each other.
+---
+
 # Chrome OS Apps Platform
 
 Chrome OS features multiple app platforms, such as ARC++ and desktop PWAs,

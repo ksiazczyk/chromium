@@ -4,6 +4,12 @@
 //
 // Utilities for ARC Media View.
 
+// ---docerion
+// type: source
+// title: ARC media view utilities
+// summary: Declares constants and helpers for ARC Media View, including the media provider authority and the images, videos, audio, and documents root IDs.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_FILEAPI_ARC_MEDIA_VIEW_UTIL_H_
 #define CHROME_BROWSER_ASH_ARC_FILEAPI_ARC_MEDIA_VIEW_UTIL_H_
 

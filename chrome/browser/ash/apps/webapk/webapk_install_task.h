@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApkInstallTask class declaration
+// summary: Declares WebApkInstallTask, which installs or updates the WebAPK for a specific app and reports the result via callback.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APPS_WEBAPK_WEBAPK_INSTALL_TASK_H_
 #define CHROME_BROWSER_ASH_APPS_WEBAPK_WEBAPK_INSTALL_TASK_H_
 

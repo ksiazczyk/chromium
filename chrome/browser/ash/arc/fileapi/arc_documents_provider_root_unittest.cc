@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcDocumentsProviderRoot unit tests
+// summary: Unit tests for ArcDocumentsProviderRoot covering file info, directory listing, and watcher behavior against a fake ARC file system hierarchy.
+// ---
+
 #include "chrome/browser/ash/arc/fileapi/arc_documents_provider_root.h"
 
 #include <memory>

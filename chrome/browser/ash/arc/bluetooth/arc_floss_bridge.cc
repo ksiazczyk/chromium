@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcFlossBridge implementation
+// summary: Implements the Floss specialization of the ARC Bluetooth bridge, handling SDP record operations, adapter state, and Bluetooth sockets via the Floss D-Bus clients.
+// ---
+
 #include "chrome/browser/ash/arc/bluetooth/arc_floss_bridge.h"
 
 #include <bluetooth/bluetooth.h>

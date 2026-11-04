@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApkInstallTask implementation
+// summary: Implements the task that requests a WebAPK from the minter server and installs or updates it in ARC for a given web app.
+// ---
+
 #include "chrome/browser/ash/apps/webapk/webapk_install_task.h"
 
 #include <algorithm>

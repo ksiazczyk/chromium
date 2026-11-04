@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC support message host class declaration
+// summary: Declares ArcSupportMessageHost, a native message host providing JSON-based messaging APIs and an observer interface for the arc_support Chrome app.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_EXTENSIONS_ARC_SUPPORT_MESSAGE_HOST_H_
 #define CHROME_BROWSER_ASH_ARC_EXTENSIONS_ARC_SUPPORT_MESSAGE_HOST_H_
 

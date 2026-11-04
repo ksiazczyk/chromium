@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC ghost window delegate header
+// summary: Declares ArcGhostWindowDelegate, a shell surface delegate that notifies ARC when ghost window bounds or window state change.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_RESTORE_ARC_GHOST_WINDOW_DELEGATE_H_
 #define CHROME_BROWSER_ASH_APP_RESTORE_ARC_GHOST_WINDOW_DELEGATE_H_
 

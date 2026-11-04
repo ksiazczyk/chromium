@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC file selector handler declarations
+// summary: Declares ArcSelectFilesHandler and its manager, which route Android file picker requests and selector events to Chrome select file dialogs.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_FILEAPI_ARC_SELECT_FILES_HANDLER_H_
 #define CHROME_BROWSER_ASH_ARC_FILEAPI_ARC_SELECT_FILES_HANDLER_H_
 

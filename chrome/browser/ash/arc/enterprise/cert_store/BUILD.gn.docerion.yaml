@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: cert_store BUILD.gn build definition
+summary: Defines the cert_store static library plus unit and browser test targets, listing their sources and dependencies for the ARC enterprise cert store.

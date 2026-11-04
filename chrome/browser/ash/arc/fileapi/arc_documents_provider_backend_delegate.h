@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC documents provider backend delegate
+// summary: Declares ArcDocumentsProviderBackendDelegate, which implements the ARC documents provider file system backend for Chrome OS.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_FILEAPI_ARC_DOCUMENTS_PROVIDER_BACKEND_DELEGATE_H_
 #define CHROME_BROWSER_ASH_ARC_FILEAPI_ARC_DOCUMENTS_PROVIDER_BACKEND_DELEGATE_H_
 

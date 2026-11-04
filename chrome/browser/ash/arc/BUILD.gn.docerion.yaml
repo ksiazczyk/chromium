@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the ARC browser directory
+summary: Defines the static library targets, sources and dependencies that build the ARC browser code in this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC file system operation runner implementation
+// summary: Implements the runner that executes file system operations for ARC, deferring by session events and caching content URL allowlist entries.
+// ---
+
 #include "chrome/browser/ash/arc/fileapi/arc_file_system_operation_runner.h"
 
 #include <optional>

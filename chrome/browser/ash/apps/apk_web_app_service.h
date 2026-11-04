@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ApkWebAppService class declaration
+// summary: Declares the service that watches ARC package installs and installs or removes corresponding web apps to keep packages in sync.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APPS_APK_WEB_APP_SERVICE_H_
 #define CHROME_BROWSER_ASH_APPS_APK_WEB_APP_SERVICE_H_
 

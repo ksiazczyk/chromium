@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Full restore service factory header
+// summary: Declares the singleton profile-keyed factory that creates FullRestoreService instances and checks availability per profile.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_RESTORE_FULL_RESTORE_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ASH_APP_RESTORE_FULL_RESTORE_SERVICE_FACTORY_H_
 

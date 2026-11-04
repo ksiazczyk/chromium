@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcBackgroundAuthCodeFetcher header
+// summary: Declares ArcBackgroundAuthCodeFetcher, which fetches ARC auth codes in the background using OAuth access tokens and the token bootstrap endpoint.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_AUTH_ARC_BACKGROUND_AUTH_CODE_FETCHER_H_
 #define CHROME_BROWSER_ASH_ARC_AUTH_ARC_BACKGROUND_AUTH_CODE_FETCHER_H_
 

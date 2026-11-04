@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Full restore app launch handler
+// summary: Declares the handler that reads full restore data and restores apps and web pages based on user preference or the user's restore choice.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_RESTORE_FULL_RESTORE_APP_LAUNCH_HANDLER_H_
 #define CHROME_BROWSER_ASH_APP_RESTORE_FULL_RESTORE_APP_LAUNCH_HANDLER_H_
 

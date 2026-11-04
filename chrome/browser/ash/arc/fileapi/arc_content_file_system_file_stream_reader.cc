@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC content file system file stream reader implementation
+// summary: Reads ARC content files by opening file sessions through the ARC file system operation runner and streaming bytes.
+// ---
+
 
 #include "chrome/browser/ash/arc/fileapi/arc_content_file_system_file_stream_reader.h"
 

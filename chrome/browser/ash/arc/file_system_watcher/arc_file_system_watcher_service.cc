@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC file system watcher service implementation
+// summary: Implements the service that watches ChromeOS file system directories and sends MediaScanner.scanFile requests to Android for changed media files.
+// ---
+
 #include "chrome/browser/ash/arc/file_system_watcher/arc_file_system_watcher_service.h"
 
 #include <string.h>

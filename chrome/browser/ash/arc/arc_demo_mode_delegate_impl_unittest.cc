@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the ARC demo mode delegate
+// summary: Tests demo mode delegate behavior for resource loading and demo apps paths with demo mode enabled and disabled.
+// ---
+
 #include "chrome/browser/ash/arc/arc_demo_mode_delegate_impl.h"
 
 #include <memory>

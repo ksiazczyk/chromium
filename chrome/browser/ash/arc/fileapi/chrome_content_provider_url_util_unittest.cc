@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome content provider URL utilities unit tests
+// summary: Unit tests verifying round-trip encoding and decoding of Chrome content provider URLs, including special and non-ASCII characters.
+// ---
+
 #include "chrome/browser/ash/arc/fileapi/chrome_content_provider_url_util.h"
 
 #include "base/strings/utf_string_conversions.h"

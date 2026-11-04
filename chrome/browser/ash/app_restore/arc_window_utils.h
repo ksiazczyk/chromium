@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC window utilities
+// summary: Declares helpers for ARC window restore, including display scale factor, ghost window support, window info handling, and theme color validation.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_RESTORE_ARC_WINDOW_UTILS_H_
 #define CHROME_BROWSER_ASH_APP_RESTORE_ARC_WINDOW_UTILS_H_
 

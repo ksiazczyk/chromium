@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: ARC auth include dependency rules
+summary: Sets include rules that generally forbid //chrome dependencies while whitelisting specific paths for this directory and its browser tests.

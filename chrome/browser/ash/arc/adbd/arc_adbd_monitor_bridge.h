@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcAdbdMonitorBridge class declaration
+// summary: Declares the ARC adbd monitor keyed service, a connection observer and AdbdMonitorHost that manages the adb-over-usb daemon lifecycle.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_ADBD_ARC_ADBD_MONITOR_BRIDGE_H_
 #define CHROME_BROWSER_ASH_ARC_ADBD_ARC_ADBD_MONITOR_BRIDGE_H_
 

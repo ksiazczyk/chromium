@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC documents provider async file util
+// summary: Declares ArcDocumentsProviderAsyncFileUtil, the storage::AsyncFileUtil implementation for ARC documents provider file systems used by the Files app.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_FILEAPI_ARC_DOCUMENTS_PROVIDER_ASYNC_FILE_UTIL_H_
 #define CHROME_BROWSER_ASH_ARC_FILEAPI_ARC_DOCUMENTS_PROVIDER_ASYNC_FILE_UTIL_H_
 

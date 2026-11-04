@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC utility unit tests
+// summary: Unit tests for ARC utility functions covering profile eligibility, policy, demo mode, and filesystem compatibility.
+// ---
+
 #include "chrome/browser/ash/arc/arc_util.h"
 
 #include <memory>

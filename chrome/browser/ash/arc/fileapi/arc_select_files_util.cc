@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC file selection utilities
+// summary: Provides helpers that exclude redundant Android picker packages and convert between Android activity names and special file paths.
+// ---
+
 #include "chrome/browser/ash/arc/fileapi/arc_select_files_util.h"
 
 #include "base/logging.h"

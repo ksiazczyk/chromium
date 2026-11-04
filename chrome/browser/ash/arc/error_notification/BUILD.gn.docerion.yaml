@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build config for ARC error notification static library
+summary: GN build file defining the error_notification static library, listing its source files and dependencies for ARC error notifications on ChromeOS.

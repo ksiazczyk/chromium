@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: ARC extensions build targets
+summary: Defines static libraries for the ARC support message host and test support plus a unit test target, listing their sources and build dependencies.

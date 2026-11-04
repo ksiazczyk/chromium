@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC utility functions for the Chrome browser
+// summary: Implements ARC utilities needing chrome/ dependencies, such as profile eligibility, filesystem checks, and metrics.
+// ---
+
 #include "chrome/browser/ash/arc/arc_util.h"
 
 #include <linux/magic.h>

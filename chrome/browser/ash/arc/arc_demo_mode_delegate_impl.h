@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC demo mode delegate header
+// summary: Declares the ArcDemoModeDelegateImpl class implementing the ArcClientAdapter demo mode delegate interface.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_ARC_DEMO_MODE_DELEGATE_IMPL_H_
 #define CHROME_BROWSER_ASH_ARC_ARC_DEMO_MODE_DELEGATE_IMPL_H_
 

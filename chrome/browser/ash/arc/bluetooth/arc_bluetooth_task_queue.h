@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC Bluetooth task queue declaration
+// summary: Declares ArcBluetoothTaskQueue, a queue that ensures serial and ordered execution of tasks.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ARC_BLUETOOTH_ARC_BLUETOOTH_TASK_QUEUE_H_
 #define CHROME_BROWSER_ASH_ARC_BLUETOOTH_ARC_BLUETOOTH_TASK_QUEUE_H_
 

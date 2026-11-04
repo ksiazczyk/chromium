@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility helper remote proxy implementation
+// summary: Implements the proxy that forwards accessibility helper calls such as SetFilter and PerformAction to the Android service over mojo.
+// ---
+
 #include "chrome/browser/ash/arc/accessibility/accessibility_helper_instance_remote_proxy.h"
 
 #include <utility>

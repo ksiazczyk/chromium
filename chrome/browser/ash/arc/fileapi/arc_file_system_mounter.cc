@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC file system mounter implementation
+// summary: Registers and revokes the ARC content and documents provider file system mount points for a browser context.
+// ---
+
 #include "chrome/browser/ash/arc/fileapi/arc_file_system_mounter.h"
 
 #include "base/files/file_path.h"

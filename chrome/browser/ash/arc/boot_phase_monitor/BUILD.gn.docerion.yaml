@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: ARC boot phase monitor build definition
+summary: Defines the boot_phase_monitor static library and its unit test source set along with their GN build dependencies.
