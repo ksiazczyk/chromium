@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: syncFileSystem browser tests
+// summary: Browser tests for the sync file system service that use a fake Drive service and identity test environment to exercise sync flows.
+// ---
+
 #include <stdint.h>
 
 #include <memory>

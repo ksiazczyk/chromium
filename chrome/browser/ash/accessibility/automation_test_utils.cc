@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Automation test utilities implementation
+// summary: Implements browser test support that drives the Automation API to query nodes, get bounds, set focus and wait for accessibility events.
+// ---
+
 #include "chrome/browser/ash/accessibility/automation_test_utils.h"
 
 #include <string>

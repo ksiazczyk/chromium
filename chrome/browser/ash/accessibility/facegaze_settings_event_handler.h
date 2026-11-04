@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaceGaze settings event handler interface
+// summary: Defines an interface for passing FaceGaze gesture information and disable dialog results to ChromeOS Settings.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ACCESSIBILITY_FACEGAZE_SETTINGS_EVENT_HANDLER_H_
 #define CHROME_BROWSER_ASH_ACCESSIBILITY_FACEGAZE_SETTINGS_EVENT_HANDLER_H_
 

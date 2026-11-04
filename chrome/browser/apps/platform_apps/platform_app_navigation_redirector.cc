@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform app navigation redirector implementation
+// summary: Intercepts top-level navigations and redirects matching URLs to platform apps that declare URL handlers.
+// ---
+
 #include "chrome/browser/apps/platform_apps/platform_app_navigation_redirector.h"
 
 #include "apps/launcher.h"

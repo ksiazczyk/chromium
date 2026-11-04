@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome app list item implementation
+// summary: Implements the base class for Chrome-side app list items, covering metadata, icons, positions, folders and activation.
+// ---
+
 #include "chrome/browser/ash/app_list/chrome_app_list_item.h"
 
 #include <utility>

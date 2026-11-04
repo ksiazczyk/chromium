@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App sync UI state watcher implementation
+// summary: Implements a watcher that updates the app list model status when the profile's app sync UI state changes between syncing and normal.
+// ---
+
 #include "chrome/browser/ash/app_list/app_sync_ui_state_watcher.h"
 
 #include "chrome/browser/ash/app_list/app_list_model_updater.h"

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA bug tracking components for Live Caption
+summary: Maps the directory to the Live Caption bug tracking components in Monorail and Buganizer.

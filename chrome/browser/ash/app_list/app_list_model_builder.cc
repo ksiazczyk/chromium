@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppListModelBuilder implementation
+// summary: Implements AppListModelBuilder methods to insert, remove, and look up app list items through the syncable service or model updater.
+// ---
+
 #include "chrome/browser/ash/app_list/app_list_model_builder.h"
 
 #include <utility>

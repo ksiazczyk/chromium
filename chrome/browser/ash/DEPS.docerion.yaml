@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for chrome/browser/ash
+summary: DEPS file setting include rules for chrome/browser/ash, blocking dependencies on //chrome with narrow exceptions and test-specific allowances.

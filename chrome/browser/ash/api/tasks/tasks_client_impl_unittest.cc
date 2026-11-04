@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Google Tasks client
+// summary: Tests TasksClientImpl against an embedded test server, covering task list fetching, caching, metrics and task updates.
+// ---
+
 #include "chrome/browser/ash/api/tasks/tasks_client_impl.h"
 
 #include <algorithm>

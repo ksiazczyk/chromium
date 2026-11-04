@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility highlights browser tests
+// summary: Browser tests for cursor, caret, and focus highlights, checking that the corresponding focus ring and highlight layers appear in Ash.
+// ---
+
 #include <memory>
 
 #include "ash/accessibility/ui/accessibility_cursor_ring_layer.h"

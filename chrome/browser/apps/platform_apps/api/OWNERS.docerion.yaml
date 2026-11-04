@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for platform apps API directory
+summary: Lists temporary code owners for this directory during the desktop Android refactoring.

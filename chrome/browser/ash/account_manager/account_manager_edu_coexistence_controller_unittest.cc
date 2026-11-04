@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Edu coexistence consent invalidation controller unit tests
+// summary: Unit tests for the edu coexistence consent invalidation controller, covering terms of service pref updates and invalidation of secondary education accounts.
+// ---
+
 #include "chrome/browser/ash/account_manager/account_manager_edu_coexistence_controller.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Annotator UI integration browser tests
+// summary: Browser tests that load the chrome-untrusted annotator UI and verify the ink engine loads, currently disabled pending CIPD package availability fixes.
+// ---
+
 #include "ash/webui/annotator/annotator_client_impl.h"
 #include "ash/webui/annotator/public/cpp/annotator_client.h"
 #include "ash/webui/media_app_ui/test/media_app_ui_browsertest.h"

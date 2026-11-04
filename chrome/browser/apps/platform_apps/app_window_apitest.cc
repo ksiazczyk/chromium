@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App window API browser tests
+// summary: Browser tests for the chrome.app.window API covering setIcon, minimized, maximized, restored and bounds-changed events, and always-on-top permissions.
+// ---
+
 #include "base/command_line.h"
 #include "base/compiler_specific.h"
 #include "base/run_loop.h"

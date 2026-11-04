@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list utility implementation
+// summary: Converts an app list sync item into Ash AppListItemMetadata for use by the launcher.
+// ---
+
 #include "chrome/browser/ash/app_list/app_list_util.h"
 
 #include "ash/public/cpp/app_list/app_list_types.h"

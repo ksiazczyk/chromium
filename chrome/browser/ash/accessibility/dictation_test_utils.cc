@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dictation test utilities implementation
+// summary: Implements dictation test utilities, including fake speech recognition setup, clipboard and IME commit waiters, and test pages with editable content.
+// ---
+
 #include "chrome/browser/ash/accessibility/dictation_test_utils.h"
 
 #include <string_view>

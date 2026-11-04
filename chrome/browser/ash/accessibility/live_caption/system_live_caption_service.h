@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System Live Caption service header
+// summary: Declares the SystemLiveCaptionService keyed service that captions audio from non-web sources such as loopback output or the user microphone.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ACCESSIBILITY_LIVE_CAPTION_SYSTEM_LIVE_CAPTION_SERVICE_H_
 #define CHROME_BROWSER_ASH_ACCESSIBILITY_LIVE_CAPTION_SYSTEM_LIVE_CAPTION_SERVICE_H_
 

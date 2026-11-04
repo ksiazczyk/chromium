@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaceGaze bubble test helper implementation
+// summary: Implements a test helper that checks FaceGaze bubble visibility and locates its close button for browser tests.
+// ---
+
 #include "chrome/browser/ash/accessibility/facegaze_bubble_test_helper.h"
 
 #include "ash/accessibility/accessibility_controller.h"

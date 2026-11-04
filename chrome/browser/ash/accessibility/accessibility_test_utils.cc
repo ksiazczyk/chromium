@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility test helpers implementation
+// summary: Implements test helpers including caret bounds waiters, extension console error observers and magnifier animation waiters for accessibility browser tests.
+// ---
+
 #include "chrome/browser/ash/accessibility/accessibility_test_utils.h"
 
 #include <algorithm>

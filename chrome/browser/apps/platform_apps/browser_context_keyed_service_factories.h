@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser context keyed service factories header
+// summary: Declares EnsureBrowserContextKeyedServiceFactoriesBuilt, which instantiates the keyed service factories provided by Chrome apps code.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_PLATFORM_APPS_BROWSER_CONTEXT_KEYED_SERVICE_FACTORIES_H_
 #define CHROME_BROWSER_APPS_PLATFORM_APPS_BROWSER_CONTEXT_KEYED_SERVICE_FACTORIES_H_
 

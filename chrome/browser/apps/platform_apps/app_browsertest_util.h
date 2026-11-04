@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PlatformAppBrowserTest fixture header
+// summary: Declares the PlatformAppBrowserTest fixture with helpers to load, install and launch platform apps and inspect app windows.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_PLATFORM_APPS_APP_BROWSERTEST_UTIL_H_
 #define CHROME_BROWSER_APPS_PLATFORM_APPS_APP_BROWSERTEST_UTIL_H_
 

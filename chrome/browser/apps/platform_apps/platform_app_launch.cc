@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform app launch implementation
+// summary: Implements opening extension applications in windows or tabs, including deprecated app prompts and launch metrics recording.
+// ---
+
 #include "chrome/browser/apps/platform_apps/platform_app_launch.h"
 
 #include "build/build_config.h"

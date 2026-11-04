@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Select-to-Speak event handler delegate implementation
+// summary: Forwards pressed keys and mouse events from Ash's event handler to the Select-to-Speak extension via AccessibilityManager.
+// ---
+
 #include "chrome/browser/ash/accessibility/select_to_speak_event_handler_delegate_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App window interactive test base implementation
+// summary: Implements the shared AppWindowInteractiveTest base class and FullscreenChangeWaiter helper used by app window interactive UI tests.
+// ---
+
 #include "chrome/browser/apps/platform_apps/app_window_interactive_uitest_base.h"
 
 #include "chrome/browser/lifetime/application_lifetime.h"

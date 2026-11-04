@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App service app list item class declaration
+// summary: Declares AppServiceAppItem, a ChromeAppListItem representing an App Service app in the ChromeOS app list with icon loading and launch handling.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_APP_SERVICE_APP_SERVICE_APP_ITEM_H_
 #define CHROME_BROWSER_ASH_APP_LIST_APP_SERVICE_APP_SERVICE_APP_ITEM_H_
 

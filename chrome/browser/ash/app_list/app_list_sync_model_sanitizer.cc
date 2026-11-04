@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list sync model sanitizer implementation
+// summary: Implements page break sanitization for app list sync data, adding or removing implicit page breaks so synced app list models keep a sane pagination structure.
+// ---
+
 #include "chrome/browser/ash/app_list/app_list_sync_model_sanitizer.h"
 
 #include <vector>

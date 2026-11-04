@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App shortcut manager
+// summary: Declares a keyed service that observes extension registry and profile storage changes to manage shortcuts for extension-based apps.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_PLATFORM_APPS_SHORTCUT_MANAGER_H_
 #define CHROME_BROWSER_APPS_PLATFORM_APPS_SHORTCUT_MANAGER_H_
 

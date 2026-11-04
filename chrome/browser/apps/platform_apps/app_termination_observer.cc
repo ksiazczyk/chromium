@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App termination observer implementation
+// summary: Implements AppTerminationObserver, which subscribes to app termination notifications and informs the apps systems for its browser context.
+// ---
+
 #include "chrome/browser/apps/platform_apps/app_termination_observer.h"
 
 #include "apps/browser_context_keyed_service_factories.h"

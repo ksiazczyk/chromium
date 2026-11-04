@@ -1,3 +1,11 @@
+---
+type: readme
+title: chrome/browser/ash directory README
+summary: Explains that the directory holds Ash-specific code with chrome/browser dependencies, its namespace, and its origin in the Lacros refactoring.
+relations:
+  - references /chrome/browser/chromeos/README.md
+---
+
 chrome/browser/ash
 ==================
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autoclick test utilities declaration
+// summary: Declares AutoclickTestUtils, a helper class for exercising the Autoclick feature in Ash browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ACCESSIBILITY_AUTOCLICK_TEST_UTILS_H_
 #define CHROME_BROWSER_ASH_ACCESSIBILITY_AUTOCLICK_TEST_UTILS_H_
 

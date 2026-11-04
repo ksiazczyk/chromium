@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Platform app navigation redirector browser tests
+// summary: Browser tests verifying that navigations matching an app's url_handlers launch the handler app, while mismatching navigations and XHRs open normally.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "base/strings/utf_string_conversions.h"
 #include "build/build_config.h"

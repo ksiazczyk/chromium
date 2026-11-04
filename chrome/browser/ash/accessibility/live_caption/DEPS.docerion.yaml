@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Live Caption
+summary: Sets Chromium include rules for the directory, blocking //chrome dependencies while allowing specific exceptions for Live Caption code and tests.

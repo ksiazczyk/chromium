@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome tasks delegate implementation
+// summary: Implements the ChromeOS tasks delegate, creating authenticated request senders and managing per-account clients that call the Google Tasks API.
+// ---
+
 #include "chrome/browser/ash/api/tasks/chrome_tasks_delegate.h"
 
 #include <memory>

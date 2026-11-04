@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the ChromeOS tasks API library
+summary: Defines the tasks static library and unit test source set, listing their sources and dependencies for the Google Tasks integration.

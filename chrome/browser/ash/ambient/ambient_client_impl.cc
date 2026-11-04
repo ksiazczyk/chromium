@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the ChromeOS ambient mode client
+// summary: Implements ash::AmbientClient, deciding when ambient mode is allowed and fetching access tokens and images for the screensaver.
+// ---
+
 #include "chrome/browser/ash/ambient/ambient_client_impl.h"
 
 #include <string>

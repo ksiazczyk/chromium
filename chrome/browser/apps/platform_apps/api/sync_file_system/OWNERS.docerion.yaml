@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Ownership file that delegates review approval to the OWNERS file of chrome/browser/sync_file_system.

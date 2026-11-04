@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fullscreen magnifier test helper implementation
+// summary: Implements helpers to load, move, and wait for the fullscreen magnifier in ChromeOS accessibility browser tests.
+// ---
+
 #include "chrome/browser/ash/accessibility/fullscreen_magnifier_test_helper.h"
 
 #include "ash/accessibility/magnifier/fullscreen_magnifier_controller.h"

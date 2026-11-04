@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MD icon normalizer implementation
+// summary: Scales and pads app icons so they comply with Material Design icon guidelines, adapting logic from the Android Launcher icon normalizer.
+// ---
+
 #include "chrome/browser/ash/app_list/md_icon_normalizer.h"
 
 #include <algorithm>

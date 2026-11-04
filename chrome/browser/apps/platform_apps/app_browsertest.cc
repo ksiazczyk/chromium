@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Platform app browser tests
+// summary: Browser tests covering platform app launching, app windows, permissions and related Chrome app behaviors.
+// ---
+
 #include <stddef.h>
 
 #include <memory>

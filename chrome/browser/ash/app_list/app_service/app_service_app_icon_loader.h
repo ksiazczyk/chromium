@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App service app icon loader class declaration
+// summary: Declares AppServiceAppIconLoader, an AppIconLoader that fetches, caches, and updates icons for App Service apps in the ChromeOS launcher.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_APP_SERVICE_APP_SERVICE_APP_ICON_LOADER_H_
 #define CHROME_BROWSER_ASH_APP_LIST_APP_SERVICE_APP_SERVICE_APP_ICON_LOADER_H_
 

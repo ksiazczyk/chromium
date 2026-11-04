@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App context menu unit tests
+// summary: Unit tests for app list context menus covering pinning, sorting, and command execution using fake delegates and controller stubs.
+// ---
+
 #include <map>
 #include <memory>
 #include <string>

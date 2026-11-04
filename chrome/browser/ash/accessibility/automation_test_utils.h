@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Automation test utilities declaration
+// summary: Declares AutomationTestUtils, which provides Ash browser test support via the chrome.automation API for node queries and event waits.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ACCESSIBILITY_AUTOMATION_TEST_UTILS_H_
 #define CHROME_BROWSER_ASH_ACCESSIBILITY_AUTOMATION_TEST_UTILS_H_
 

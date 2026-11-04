@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the ambient directory
+summary: Restricts //chrome includes and lists the allowed dependencies for ambient sources and tests.

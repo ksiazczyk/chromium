@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App Service context menu browser test
+// summary: Browser test verifying that the Launch New menu item's label and icon change dynamically after selecting a launch type in the app list context menu.
+// ---
+
 #include <memory>
 
 #include "ash/public/cpp/app_list/app_list_types.h"

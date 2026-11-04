@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App shortcut manager factory
+// summary: Declares the singleton factory that owns AppShortcutManager instances and associates them with profiles.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_PLATFORM_APPS_SHORTCUT_MANAGER_FACTORY_H_
 #define CHROME_BROWSER_APPS_PLATFORM_APPS_SHORTCUT_MANAGER_FACTORY_H_
 

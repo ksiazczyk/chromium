@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the managed screensaver feature
+// summary: Verifies managed screensaver behavior on lock and login screens with device policy, an HTTPS test server, and image cache checks.
+// ---
+
 #include <memory>
 #include <string>
 #include <utility>

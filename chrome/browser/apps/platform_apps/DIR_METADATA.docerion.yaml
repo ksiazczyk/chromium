@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracker metadata for platform apps
+summary: Sets the Monorail component and Buganizer component ID used for issues filed against this directory.

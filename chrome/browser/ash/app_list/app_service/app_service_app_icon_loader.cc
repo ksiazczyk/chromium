@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App service app icon loader implementation
+// summary: Implements icon loading for App Service apps in the launcher, resolving ARC shelf group ids, skipping hidden apps, and reacting to registry icon updates.
+// ---
+
 #include "chrome/browser/ash/app_list/app_service/app_service_app_icon_loader.h"
 
 #include "chrome/browser/apps/app_service/app_service_proxy.h"

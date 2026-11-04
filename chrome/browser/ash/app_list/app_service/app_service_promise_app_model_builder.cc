@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App Service promise app model builder implementation
+// summary: Implements the app list model builder that creates, updates, and removes promise app items in response to Promise App Registry Cache updates.
+// ---
+
 #include "chrome/browser/ash/app_list/app_service/app_service_promise_app_model_builder.h"
 #include <ostream>
 

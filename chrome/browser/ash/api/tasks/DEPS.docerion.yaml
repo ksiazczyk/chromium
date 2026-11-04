@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the tasks unit tests
+summary: Grants the unit test file extra include permissions for browser prefs, app service and chrome test base headers.

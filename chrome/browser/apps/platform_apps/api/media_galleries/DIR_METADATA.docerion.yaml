@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the media galleries API folder
+summary: Points this directory to the shared metadata in chrome/browser/media_galleries via a mixins entry.

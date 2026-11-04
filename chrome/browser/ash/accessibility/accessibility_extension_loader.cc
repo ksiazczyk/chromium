@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility extension loader implementation
+// summary: Loads and unloads accessibility component extensions for browser contexts, including kiosk-mode reinstalls and service worker cleanup.
+// ---
+
 #include "chrome/browser/ash/accessibility/accessibility_extension_loader.h"
 
 #include <utility>

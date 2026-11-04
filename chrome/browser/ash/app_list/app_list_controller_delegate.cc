@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppListControllerDelegate implementation
+// summary: Implements AppListControllerDelegate actions such as opening app info in Settings, uninstalling apps, and managing extension launch types.
+// ---
+
 #include "chrome/browser/ash/app_list/app_list_controller_delegate.h"
 
 #include <utility>

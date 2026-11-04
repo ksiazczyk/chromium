@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blob-backed media data source factory
+// summary: Implements a media data source that reads media bytes from a browser-process blob for the extension media gallery API.
+// ---
+
 #include "chrome/browser/apps/platform_apps/api/media_galleries/blob_data_source_factory.h"
 
 #include <utility>

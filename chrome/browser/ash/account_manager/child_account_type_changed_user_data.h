@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChildAccountTypeChangedUserData header declaration
+// summary: Declares a per-profile user data class that records whether the account type changed between Regular and Child at session start and lets callers register change callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ACCOUNT_MANAGER_CHILD_ACCOUNT_TYPE_CHANGED_USER_DATA_H_
 #define CHROME_BROWSER_ASH_ACCOUNT_MANAGER_CHILD_ACCOUNT_TYPE_CHANGED_USER_DATA_H_
 

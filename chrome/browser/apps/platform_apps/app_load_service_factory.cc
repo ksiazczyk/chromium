@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App load service factory
+// summary: Creates the per-profile AppLoadService keyed service and declares its dependencies on extension registry and prefs factories.
+// ---
+
 #include "chrome/browser/apps/platform_apps/app_load_service_factory.h"
 
 #include "chrome/browser/apps/platform_apps/app_load_service.h"

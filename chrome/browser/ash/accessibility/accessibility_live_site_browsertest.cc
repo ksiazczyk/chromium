@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility live site browser tests
+// summary: Integration test verifying Select-to-Speak works with Google Docs, run on an FYI bot so Docs outages do not affect the main waterfall.
+// ---
+
 #include <memory>
 
 #include "ash/constants/ash_pref_names.h"

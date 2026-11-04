@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dictation browser tests
+// summary: Browser tests covering dictation behavior on Chrome OS, including speech results, editable insertion, bubble UI, metrics, and interactions with other accessibility features.
+// ---
+
 #include "chrome/browser/ash/accessibility/dictation.h"
 
 #include <memory>

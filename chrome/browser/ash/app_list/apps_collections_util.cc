@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App collections utility implementation
+// summary: Maps predefined app IDs to app list collections such as Essentials, Productivity, Creativity and Entertainment.
+// ---
+
 #include "chrome/browser/ash/app_list/apps_collections_util.h"
 
 #include <map>

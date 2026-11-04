@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pointer lock interactive UI tests for platform apps
+// summary: Interactive browser tests checking that platform apps can use pointer lock only when the extension holds the required permission.
+// ---
+
 #include "chrome/browser/apps/platform_apps/app_browsertest_util.h"
 #include "chrome/browser/ui/extensions/application_launch.h"
 #include "chrome/test/base/interactive_test_utils.h"

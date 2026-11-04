@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child account type changed user data implementation
+// summary: Implements per-profile user data that records whether a child account type changed and notifies registered callbacks of value updates.
+// ---
+
 #include "chrome/browser/ash/account_manager/child_account_type_changed_user_data.h"
 
 #include "chrome/browser/profiles/profile.h"

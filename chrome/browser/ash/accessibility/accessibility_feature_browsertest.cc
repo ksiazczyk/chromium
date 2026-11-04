@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility feature browser test base implementation
+// summary: Implements a base browser test fixture offering URL navigation and profile access helpers for accessibility feature tests.
+// ---
+
 #include "chrome/browser/ash/accessibility/accessibility_feature_browsertest.h"
 
 #include "chrome/browser/ash/accessibility/accessibility_manager.h"

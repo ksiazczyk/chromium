@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Directory include rules
+summary: Allows app_window_browsertest.cc an extra include of the native app window views header for dependency checking.

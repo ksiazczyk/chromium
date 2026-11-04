@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: arc_apps_private_api.cc
+// summary: Implements the arcAppsPrivate extension API, including the OnInstalled event and the getLaunchableApps and launchApp functions.
+// ---
+
 #include "chrome/browser/apps/platform_apps/api/arc_apps_private/arc_apps_private_api.h"
 
 #include <string>

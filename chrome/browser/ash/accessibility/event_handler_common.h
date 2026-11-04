@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Common accessibility event handler declarations
+// summary: Declares shared helpers for retrieving accessibility extension hosts and forwarding key and mouse events to extension background pages.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ACCESSIBILITY_EVENT_HANDLER_COMMON_H_
 #define CHROME_BROWSER_ASH_ACCESSIBILITY_EVENT_HANDLER_COMMON_H_
 

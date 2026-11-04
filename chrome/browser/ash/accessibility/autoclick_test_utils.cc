@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autoclick test utilities implementation
+// summary: Implements helpers to load Autoclick, set its delay and event type, and interact with page elements during Autoclick browser tests.
+// ---
+
 #include "chrome/browser/ash/accessibility/autoclick_test_utils.h"
 
 #include "ash/accessibility/autoclick/autoclick_controller.h"

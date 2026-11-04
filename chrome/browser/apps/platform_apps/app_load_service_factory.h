@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App load service factory header
+// summary: Declares AppLoadServiceFactory, a profile-keyed service factory that provides an AppLoadService instance per browser context.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_PLATFORM_APPS_APP_LOAD_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_APPS_PLATFORM_APPS_APP_LOAD_SERVICE_FACTORY_H_
 

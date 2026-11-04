@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System Live Caption service factory implementation
+// summary: Implements the profile-keyed service factory that creates and provides SystemLiveCaptionService instances per profile.
+// ---
+
 #include "chrome/browser/ash/accessibility/live_caption/system_live_caption_service_factory.h"
 
 #include "base/no_destructor.h"

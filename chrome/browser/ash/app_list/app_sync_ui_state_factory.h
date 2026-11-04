@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App sync UI state factory header
+// summary: Declares the profile-keyed factory that owns and provides AppSyncUIState instances.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_APP_SYNC_UI_STATE_FACTORY_H_
 #define CHROME_BROWSER_ASH_APP_LIST_APP_SYNC_UI_STATE_FACTORY_H_
 

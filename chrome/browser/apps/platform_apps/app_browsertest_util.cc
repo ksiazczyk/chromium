@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Platform app browser test utilities
+// summary: Implements the PlatformAppBrowserTest fixture that loads and launches platform apps and provides app window helpers for browser tests.
+// ---
+
 #include "chrome/browser/apps/platform_apps/app_browsertest_util.h"
 
 #include <memory>

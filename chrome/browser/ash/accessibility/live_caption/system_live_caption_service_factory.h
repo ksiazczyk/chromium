@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System Live Caption service factory header
+// summary: Declares the ProfileKeyedServiceFactory that returns the SystemLiveCaptionService instance for a given profile.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ACCESSIBILITY_LIVE_CAPTION_SYSTEM_LIVE_CAPTION_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ASH_ACCESSIBILITY_LIVE_CAPTION_SYSTEM_LIVE_CAPTION_SERVICE_FACTORY_H_
 

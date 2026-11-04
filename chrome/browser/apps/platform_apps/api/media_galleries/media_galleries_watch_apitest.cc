@@ -4,6 +4,12 @@
 //
 // MediaGalleries gallery watch API browser tests.
 
+// ---docerion
+// type: test
+// title: Gallery watch API browser tests
+// summary: Browser tests covering adding and removing gallery watches and handling gallery change events for the media galleries API.
+// ---
+
 #include <memory>
 
 #include "base/files/file_path.h"

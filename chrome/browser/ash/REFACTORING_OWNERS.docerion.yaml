@@ -1,0 +1,4 @@
+# Docerion header of REFACTORING_OWNERS.
+type: config
+title: Refactoring owners for chrome/browser/ash
+summary: Lists the owners who review DEPS changes affecting new dependencies on ash in chrome/browser/ash.

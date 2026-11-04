@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccountAppsAvailability unit tests
+// summary: Unit tests covering ARC account availability tracking, observer notifications, prefs handling, and metrics.
+// ---
+
 #include "chrome/browser/ash/account_manager/account_apps_availability.h"
 
 #include <memory>

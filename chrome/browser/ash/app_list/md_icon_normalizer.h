@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MD icon normalizer header
+// summary: Declares functions that compute padding and resize app icons to meet Material Design iconography guidelines.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_MD_ICON_NORMALIZER_H_
 #define CHROME_BROWSER_ASH_APP_LIST_MD_ICON_NORMALIZER_H_
 

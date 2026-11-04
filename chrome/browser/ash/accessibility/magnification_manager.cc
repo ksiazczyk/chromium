@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Magnification manager implementation
+// summary: Implements the browser-side manager that enables, disables, and routes commands to the fullscreen and docked magnifiers.
+// ---
+
 #include "chrome/browser/ash/accessibility/magnification_manager.h"
 
 #include <limits>

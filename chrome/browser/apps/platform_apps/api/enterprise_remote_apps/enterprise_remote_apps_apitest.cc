@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for enterprise remote apps APIs
+// summary: Parameterized browser tests that exercise both the Remote Apps extension API and the private Mojo API through test extensions under chrome/test/data/remote_apps.
+// ---
+
 #include <string>
 #include <vector>
 

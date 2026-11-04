@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file delegating to Projector owners
+summary: Delegates ownership of the annotator directory to the owners of ash/projector.

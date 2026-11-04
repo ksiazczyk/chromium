@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Temporary app list sort unit tests
+// summary: Unit tests for temporary app list sorting, covering case-insensitive name ordering, app insertion in sorted lists, and committing or reverting sort orders.
+// ---
+
 #include "ash/app_list/model/app_list_model.h"
 #include "ash/constants/ash_pref_names.h"
 #include "base/strings/stringprintf.h"

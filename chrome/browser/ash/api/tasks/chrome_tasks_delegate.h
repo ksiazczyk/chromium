@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome tasks delegate class declaration
+// summary: Declares ChromeTasksDelegate, a TasksDelegate that routes task operations to per-account Google Tasks clients for the active user.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_API_TASKS_CHROME_TASKS_DELEGATE_H_
 #define CHROME_BROWSER_ASH_API_TASKS_CHROME_TASKS_DELEGATE_H_
 

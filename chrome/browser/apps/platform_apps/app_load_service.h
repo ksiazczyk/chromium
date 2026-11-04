@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App load service header
+// summary: Declares AppLoadService, a keyed service that tracks reloads and performs post-reload actions like launch, restart and load-and-launch.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_PLATFORM_APPS_APP_LOAD_SERVICE_H_
 #define CHROME_BROWSER_APPS_PLATFORM_APPS_APP_LOAD_SERVICE_H_
 

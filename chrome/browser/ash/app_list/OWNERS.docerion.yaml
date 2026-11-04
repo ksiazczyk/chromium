@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: App list code owners (OWNERS)
+summary: Lists the code owners for the app_list directory, including dedicated owners for search-related code.

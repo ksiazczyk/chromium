@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for account_manager
+summary: Restricts //chrome includes for ChromeOS and lists the allowed Chromium dependencies and per-file exceptions.

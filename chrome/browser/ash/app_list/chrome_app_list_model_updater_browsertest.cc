@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome app list model updater browser tests
+// summary: Browser tests covering app list model updater behavior, including OEM app positioning and shelf ordering after login.
+// ---
+
 #include <algorithm>
 #include <set>
 #include <string>

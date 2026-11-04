@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spoken feedback integration tests
+// summary: Crosier integration tests for ChromeVox keyboard shortcuts and Google TTS on full ChromeOS images.
+// ---
+
 #include "ash/ash_element_identifiers.h"
 #include "ash/constants/ash_extension_constants.h"
 #include "base/base_paths.h"

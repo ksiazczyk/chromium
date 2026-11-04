@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeVox panel class declaration
+// summary: Declares ChromeVoxPanel, which displays spoken feedback UI controls for the ChromeVox component extension and manages fullscreen and focus behavior.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ACCESSIBILITY_CHROMEVOX_PANEL_H_
 #define CHROME_BROWSER_ASH_ACCESSIBILITY_CHROMEVOX_PANEL_H_
 

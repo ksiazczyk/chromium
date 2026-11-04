@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaceGaze bubble test helper declaration
+// summary: Declares a helper class letting browser tests inspect the FaceGaze bubble view and its close button.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ACCESSIBILITY_FACEGAZE_BUBBLE_TEST_HELPER_H_
 #define CHROME_BROWSER_ASH_ACCESSIBILITY_FACEGAZE_BUBBLE_TEST_HELPER_H_
 

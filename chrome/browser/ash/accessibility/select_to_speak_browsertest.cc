@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Select-to-Speak browser tests
+// summary: Browser tests covering Select-to-Speak speech output, focus rings, highlights, tray state, and speech duration metrics.
+// ---
+
 #include <memory>
 #include <string>
 #include <vector>

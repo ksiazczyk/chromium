@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility panel implementation
+// summary: Implements the frameless onscreen panel widget in which accessibility extensions such as ChromeVox can draw their custom UI.
+// ---
+
 #include "chrome/browser/ash/accessibility/accessibility_panel.h"
 
 #include <memory>

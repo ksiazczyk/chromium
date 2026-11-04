@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility extension channel browser tests
+// summary: Browser tests verifying that ChromeVox, Switch Access, and Select-to-Speak extensions load without console errors across Chrome release channels.
+// ---
+
 #include "ash/constants/ash_extension_constants.h"
 #include "chrome/browser/ash/accessibility/accessibility_manager.h"
 #include "chrome/browser/ash/accessibility/accessibility_test_utils.h"

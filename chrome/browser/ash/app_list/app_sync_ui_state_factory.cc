@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App sync UI state factory implementation
+// summary: Builds per-profile AppSyncUIState instances with dependencies on sync service and extension registry.
+// ---
+
 #include "chrome/browser/ash/app_list/app_sync_ui_state_factory.h"
 
 #include "chrome/browser/ash/app_list/app_sync_ui_state.h"

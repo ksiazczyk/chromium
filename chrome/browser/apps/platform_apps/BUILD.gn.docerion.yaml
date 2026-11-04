@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Platform apps build targets
+summary: Defines the platform_apps source set and test support targets, listing sources and platform-specific dependencies for Chrome platform apps.

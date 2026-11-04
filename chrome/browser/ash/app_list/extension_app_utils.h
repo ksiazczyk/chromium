@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension app utilities header
+// summary: Declares app_list helpers for launcher visibility of extensions and for adding context menu icons to system apps.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_EXTENSION_APP_UTILS_H_
 #define CHROME_BROWSER_ASH_APP_LIST_EXTENSION_APP_UTILS_H_
 

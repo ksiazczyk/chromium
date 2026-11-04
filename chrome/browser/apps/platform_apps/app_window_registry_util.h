@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App window registry utility header
+// summary: Declares AppWindowRegistryUtil, a set of static helpers for interacting with app windows across all browser contexts.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_PLATFORM_APPS_APP_WINDOW_REGISTRY_UTIL_H_
 #define CHROME_BROWSER_APPS_PLATFORM_APPS_APP_WINDOW_REGISTRY_UTIL_H_
 

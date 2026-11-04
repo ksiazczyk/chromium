@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media Galleries API browser tests
+// summary: Runs platform app browser tests for the media galleries API using test extensions and simulated media devices.
+// ---
+
 #include <stdint.h>
 
 #include "base/auto_reset.h"

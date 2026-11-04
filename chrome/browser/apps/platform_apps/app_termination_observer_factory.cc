@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App termination observer factory implementation
+// summary: Implements the profile-keyed factory that builds an AppTerminationObserver instance for each browser context.
+// ---
+
 #include "chrome/browser/apps/platform_apps/app_termination_observer_factory.h"
 
 #include "chrome/browser/apps/platform_apps/app_termination_observer.h"

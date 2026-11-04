@@ -4,6 +4,12 @@
 
 // Implements the Chrome Extensions Media Galleries API.
 
+// ---docerion
+// type: source
+// title: Media Galleries extension API implementation
+// summary: Implements the Chrome extensions Media Galleries API, including media file system access, gallery watches and metadata parsing.
+// ---
+
 #include "chrome/browser/apps/platform_apps/api/media_galleries/media_galleries_api.h"
 
 #include <stddef.h>

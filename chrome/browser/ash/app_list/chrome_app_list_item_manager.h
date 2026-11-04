@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome app list item manager header
+// summary: Declares ChromeAppListItemManager, which stores app list items and maintains sorted folder child mappings.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_CHROME_APP_LIST_ITEM_MANAGER_H_
 #define CHROME_BROWSER_ASH_APP_LIST_CHROME_APP_LIST_ITEM_MANAGER_H_
 

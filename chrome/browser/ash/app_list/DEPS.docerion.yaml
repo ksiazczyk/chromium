@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: App list include dependency rules (DEPS)
+summary: Sets allowed include rules for the app_list directory, limiting //chrome dependencies and granting per-file exceptions for tests and implementations.

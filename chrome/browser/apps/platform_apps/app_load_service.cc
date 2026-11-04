@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App load service implementation
+// summary: Implements AppLoadService, which monitors app reloads and schedules post-reload actions such as launching or restarting platform apps.
+// ---
+
 #include "chrome/browser/apps/platform_apps/app_load_service.h"
 
 #include "apps/app_restore_service.h"

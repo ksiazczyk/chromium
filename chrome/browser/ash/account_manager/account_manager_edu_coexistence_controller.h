@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Edu coexistence consent invalidation controller header
+// summary: Declares EduCoexistenceConsentInvalidationController, which watches the edu coexistence terms of service version pref and invalidates secondary education accounts with outdated accepted versions.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ACCOUNT_MANAGER_ACCOUNT_MANAGER_EDU_COEXISTENCE_CONTROLLER_H_
 #define CHROME_BROWSER_ASH_ACCOUNT_MANAGER_ACCOUNT_MANAGER_EDU_COEXISTENCE_CONTROLLER_H_
 

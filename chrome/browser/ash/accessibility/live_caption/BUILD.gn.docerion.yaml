@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Live Caption service build targets
+summary: Defines the live_caption static library and browser_tests source_set targets with their sources and dependencies for ChromeOS Ash.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictation feature implementation
+// summary: Implements Chrome OS dictation support, determining the user's default supported locale and mapping language codes to locales for the open speech API.
+// ---
+
 #include "chrome/browser/ash/accessibility/dictation.h"
 
 #include <optional>

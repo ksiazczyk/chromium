@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Switch Access test utilities implementation
+// summary: Implements helpers that enable Switch Access, set key codes, and drive its extension via JavaScript in browser tests.
+// ---
+
 #include "chrome/browser/ash/accessibility/switch_access_test_utils.h"
 
 #include "ash/constants/ash_extension_constants.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility event rewriter delegate implementation
+// summary: Forwards key and mouse events from Ash's event rewriter to ChromeVox and Switch Access extensions and reports unhandled events back to Ash.
+// ---
+
 #include "chrome/browser/ash/accessibility/accessibility_event_rewriter_delegate_impl.h"
 
 #include "ash/constants/ash_extension_constants.h"

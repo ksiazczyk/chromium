@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account manager utility functions implementation
+// summary: Implements helpers that check whether Account Manager is available for a profile, open its settings page, and initialize the account manager.
+// ---
+
 #include "chrome/browser/ash/account_manager/account_manager_util.h"
 
 #include <utility>

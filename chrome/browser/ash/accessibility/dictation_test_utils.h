@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictation test utilities header
+// summary: Declares DictationTestUtils, a helper class for enabling and exercising the Dictation accessibility feature in ChromeOS browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ACCESSIBILITY_DICTATION_TEST_UTILS_H_
 #define CHROME_BROWSER_ASH_ACCESSIBILITY_DICTATION_TEST_UTILS_H_
 

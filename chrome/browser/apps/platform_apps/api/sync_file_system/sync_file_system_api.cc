@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: syncFileSystem API implementation
+// summary: Implements the deprecated syncFileSystem extension API functions, including file system requests, status queries, quota handling and conflict resolution policy access.
+// ---
+
 #include "chrome/browser/apps/platform_apps/api/sync_file_system/sync_file_system_api.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility manager browser tests
+// summary: Browser tests for the ChromeOS accessibility manager, covering features such as ChromeVox, dictation, magnification, braille and accessibility preferences across session types.
+// ---
+
 #include "chrome/browser/ash/accessibility/accessibility_manager.h"
 
 #include <optional>

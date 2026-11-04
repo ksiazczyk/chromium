@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App list test utilities implementation
+// summary: Implements the AppListTestBase fixture plus shared constants and helpers such as MakeApp and CreateNextAppId for app list unit tests.
+// ---
+
 #include "chrome/browser/ash/app_list/app_list_test_util.h"
 
 #include "base/feature_list.h"

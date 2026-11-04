@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App context menu delegate interface
+// summary: Declares the AppContextMenuDelegate interface used to execute the launch command from an app list context menu.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_APP_CONTEXT_MENU_DELEGATE_H_
 #define CHROME_BROWSER_ASH_APP_LIST_APP_CONTEXT_MENU_DELEGATE_H_
 

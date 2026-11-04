@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Untrusted annotator WebUI config implementation
+// summary: Implements the annotator WebUI configuration, gating availability on the Projector app being enabled and creating the untrusted annotator UI controller.
+// ---
+
 #include "chrome/browser/ash/annotator/untrusted_annotator_ui_config.h"
 
 #include "ash/constants/ash_features.h"

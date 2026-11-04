@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App window browser tests
+// summary: Browser tests for platform app windows, including app window geometry cache changes, window launching and related app window behavior.
+// ---
+
 #include "extensions/browser/app_window/app_window.h"
 
 #include "base/command_line.h"

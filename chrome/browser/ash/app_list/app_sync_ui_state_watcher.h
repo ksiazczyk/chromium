@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App sync UI state watcher header
+// summary: Declares AppSyncUIStateWatcher, an observer that forwards app sync status changes to the app list model updater.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_APP_SYNC_UI_STATE_WATCHER_H_
 #define CHROME_BROWSER_ASH_APP_LIST_APP_SYNC_UI_STATE_WATCHER_H_
 

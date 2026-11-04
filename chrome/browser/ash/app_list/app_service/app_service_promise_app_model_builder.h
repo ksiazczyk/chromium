@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App Service promise app model builder class declaration
+// summary: Declares the AppServicePromiseAppModelBuilder class, an app list model builder that observes the profile's Promise App Registry Cache.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_APP_SERVICE_APP_SERVICE_PROMISE_APP_MODEL_BUILDER_H_
 #define CHROME_BROWSER_ASH_APP_LIST_APP_SERVICE_APP_SERVICE_PROMISE_APP_MODEL_BUILDER_H_
 

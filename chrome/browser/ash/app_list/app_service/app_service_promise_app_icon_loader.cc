@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Promise app icon loader implementation
+// summary: Loads icons for App Service promise apps and refreshes them when promise app status updates arrive from the registry cache.
+// ---
+
 #include "chrome/browser/ash/app_list/app_service/app_service_promise_app_icon_loader.h"
 
 #include <string>
