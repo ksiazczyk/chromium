@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub content view base class implementation
+// summary: Implements the PhoneHubContentView base view with default bubble close handling and interstitial metrics logging.
+// ---
+
 #include "ash/system/phonehub/phone_hub_content_view.h"
 
 #include "ui/base/metadata/metadata_impl_macros.h"

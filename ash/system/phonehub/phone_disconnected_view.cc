@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub disconnected view implementation
+// summary: Implements the interstitial for a lost phone connection, with Learn more and Refresh buttons that retry the connection and log metrics.
+// ---
+
 #include "ash/system/phonehub/phone_disconnected_view.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AshNotificationView class declaration
+// summary: Declares the ChromeOS notification view that displays web, basic, image, and list notifications, with grouping, expansion, and drag support.
+// ---
+
 #ifndef ASH_SYSTEM_NOTIFICATION_CENTER_VIEWS_ASH_NOTIFICATION_VIEW_H_
 #define ASH_SYSTEM_NOTIFICATION_CENTER_VIEWS_ASH_NOTIFICATION_VIEW_H_
 

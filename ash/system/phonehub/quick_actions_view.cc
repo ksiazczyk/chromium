@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickActionsView implementation
+// summary: Implements the Phone Hub bubble view that hosts quick action items for enabling hotspot, silencing the phone, and locating the phone.
+// ---
+
 #include "ash/system/phonehub/quick_actions_view.h"
 
 #include "ash/system/phonehub/enable_hotspot_quick_action_controller.h"

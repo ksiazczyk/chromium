@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Palette welcome bubble implementation
+// summary: Implements the welcome bubble view and controller that show a first-use introduction to the stylus palette, gated by prefs, session state, and command-line switches.
+// ---
+
 #include "ash/system/palette/palette_welcome_bubble.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enable hotspot quick action controller implementation
+// summary: Implements the Phone Hub quick action that toggles the phone's hotspot tether, updating the item's icon, labels, sub-label colors and tooltips from TetherController status.
+// ---
+
 #include "ash/system/phonehub/enable_hotspot_quick_action_controller.h"
 
 #include "ash/constants/ash_features.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickActionItem implementation
+// summary: Implements the labeled toggle button with icon, label, and sub-label used for quick action items in the Phone Hub quick actions view.
+// ---
+
 #include "ash/system/phonehub/quick_action_item.h"
 
 #include <string_view>

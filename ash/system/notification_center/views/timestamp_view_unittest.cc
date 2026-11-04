@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TimestampView unit tests
+// summary: Unit tests that verify the timestamp label text updates over time using a mock clock.
+// ---
+
 #include "ash/system/notification_center/views/timestamp_view.h"
 
 #include "ash/test/ash_test_base.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationCenterBubble class header
+// summary: Declares the bubble manager that shows, updates, and closes the notification center bubble for the tray.
+// ---
+
 #ifndef ASH_SYSTEM_NOTIFICATION_CENTER_NOTIFICATION_CENTER_BUBBLE_H_
 #define ASH_SYSTEM_NOTIFICATION_CENTER_NOTIFICATION_CENTER_BUBBLE_H_
 

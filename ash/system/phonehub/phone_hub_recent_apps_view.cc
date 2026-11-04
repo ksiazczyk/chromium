@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub recent apps view implementation
+// summary: Implements the Phone Hub bubble view that lets users relaunch recently streamed apps, including header, loading, and recent app button subviews with animations and metrics.
+// ---
+
 #include "ash/system/phonehub/phone_hub_recent_apps_view.h"
 
 #include <algorithm>

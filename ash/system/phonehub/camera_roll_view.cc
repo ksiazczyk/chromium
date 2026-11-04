@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera Roll section view implementation
+// summary: Implements the Phone Hub Camera Roll section with a header and rows of clickable thumbnails that update from CameraRollManager state changes.
+// ---
+
 #include "ash/system/phonehub/camera_roll_view.h"
 
 #include <string>

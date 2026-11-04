@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Phone Hub UI owners file
+summary: Delegates code ownership for the ash Phone Hub UI directory to the Phone Hub component OWNERS file.

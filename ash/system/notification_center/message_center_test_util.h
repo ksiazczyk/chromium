@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test notification helper declaration
+// summary: Declares CreateSimpleNotification, a helper for building simple test notifications with optional images and inline replies.
+// ---
+
 #ifndef ASH_SYSTEM_NOTIFICATION_CENTER_MESSAGE_CENTER_TEST_UTIL_H_
 #define ASH_SYSTEM_NOTIFICATION_CENTER_MESSAGE_CENTER_TEST_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TimestampView implementation
+// summary: Implements a label view that displays a relative timestamp for notifications and refreshes the text on a scheduled timer.
+// ---
+
 #include "ash/system/notification_center/views/timestamp_view.h"
 
 #include "ui/base/metadata/metadata_impl_macros.h"

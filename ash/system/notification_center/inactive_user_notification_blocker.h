@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inactive user notification blocker
+// summary: Declares a notification blocker that filters notifications by the active user session and tracks per-account quiet mode settings.
+// ---
+
 #ifndef ASH_SYSTEM_NOTIFICATION_CENTER_INACTIVE_USER_NOTIFICATION_BLOCKER_H_
 #define ASH_SYSTEM_NOTIFICATION_CENTER_INACTIVE_USER_NOTIFICATION_BLOCKER_H_
 

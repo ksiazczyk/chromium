@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Notification center OWNERS file
+summary: Delegates code ownership for the notification center directory to the owners list defined in ui/message_center.

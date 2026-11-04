@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification metrics recorder header
+// summary: Declares NotificationMetricsRecorder, an observer of the message center and session state that records metrics about user interactions with notifications.
+// ---
+
 #ifndef ASH_SYSTEM_NOTIFICATION_CENTER_NOTIFICATION_METRICS_RECORDER_H_
 #define ASH_SYSTEM_NOTIFICATION_CENTER_NOTIFICATION_METRICS_RECORDER_H_
 

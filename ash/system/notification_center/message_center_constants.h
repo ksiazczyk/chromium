@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message center notification view constants
+// summary: Defines layout, sizing, padding, and color constants used by notification views in the ash message center.
+// ---
+
 #ifndef ASH_SYSTEM_NOTIFICATION_CENTER_MESSAGE_CENTER_CONSTANTS_H_
 #define ASH_SYSTEM_NOTIFICATION_CENTER_MESSAGE_CENTER_CONSTANTS_H_
 

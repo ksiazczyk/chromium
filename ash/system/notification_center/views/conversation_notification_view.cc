@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Conversation notification view implementation
+// summary: Implements the Ash conversation notification view, building its layout and handling expand/collapse, action buttons, and updates from message center notifications.
+// ---
+
 #include "ash/system/notification_center/views/conversation_notification_view.h"
 
 #include <memory>

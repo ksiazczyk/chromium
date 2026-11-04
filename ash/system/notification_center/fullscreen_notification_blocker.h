@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fullscreen notification blocker
+// summary: Declares a notification blocker that checks the fullscreen state across displays to decide whether notifications appear as popups.
+// ---
+
 #ifndef ASH_SYSTEM_NOTIFICATION_CENTER_FULLSCREEN_NOTIFICATION_BLOCKER_H_
 #define ASH_SYSTEM_NOTIFICATION_CENTER_FULLSCREEN_NOTIFICATION_BLOCKER_H_
 

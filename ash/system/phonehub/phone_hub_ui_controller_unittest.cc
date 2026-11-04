@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Phone Hub UI controller unit tests
+// summary: Unit tests for the UI controller verifying UI state transitions, content view creation, bubble-opened metrics, and the connecting view grace period.
+// ---
+
 #include "ash/system/phonehub/phone_hub_ui_controller.h"
 
 #include <memory>

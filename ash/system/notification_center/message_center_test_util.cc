@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test notification factory for message center
+// summary: Implements CreateSimpleNotification, a helper that builds test notifications with optional images and inline reply buttons.
+// ---
+
 #include "ash/system/notification_center/message_center_test_util.h"
 
 #include "third_party/skia/include/core/SkBitmap.h"

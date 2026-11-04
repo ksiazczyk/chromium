@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OngoingProcessView header
+// summary: Declares the Ash view for pinned system notifications under the Ongoing Processes flag, showing a title and icon with optional subtitle and buttons.
+// ---
+
 #ifndef ASH_SYSTEM_NOTIFICATION_CENTER_VIEWS_ONGOING_PROCESS_VIEW_H_
 #define ASH_SYSTEM_NOTIFICATION_CENTER_VIEWS_ONGOING_PROCESS_VIEW_H_
 

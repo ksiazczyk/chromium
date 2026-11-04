@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification swipe control view class declaration
+// summary: Declares NotificationSwipeControlView, which contains the settings button shown behind a notification when swiped.
+// ---
+
 #ifndef ASH_SYSTEM_NOTIFICATION_CENTER_VIEWS_NOTIFICATION_SWIPE_CONTROL_VIEW_H_
 #define ASH_SYSTEM_NOTIFICATION_CENTER_VIEWS_NOTIFICATION_SWIPE_CONTROL_VIEW_H_
 

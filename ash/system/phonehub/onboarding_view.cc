@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub onboarding view implementation
+// summary: Implements the Phone Hub onboarding screen with feature description, Get Started and dismiss prompt flows, and interstitial metrics logging.
+// ---
+
 #include "ash/system/phonehub/onboarding_view.h"
 
 #include <algorithm>

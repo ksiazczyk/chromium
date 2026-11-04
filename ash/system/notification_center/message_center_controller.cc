@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message center controller implementation
+// summary: Implements the controller that initializes the ash message center, registers profile prefs, and installs notification blockers for popups, fullscreen, and inactive users.
+// ---
+
 #include "ash/system/notification_center/message_center_controller.h"
 
 #include <memory>

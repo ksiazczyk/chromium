@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub content view base class declaration
+// summary: Declares the base class for Phone Hub content views, adding bubble close hooks and metrics screen reporting.
+// ---
+
 #ifndef ASH_SYSTEM_PHONEHUB_PHONE_HUB_CONTENT_VIEW_H_
 #define ASH_SYSTEM_PHONEHUB_PHONE_HUB_CONTENT_VIEW_H_
 

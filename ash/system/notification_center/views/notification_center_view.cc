@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification center view implementation
+// summary: Implements the Ash notification center view that manages the scrollable notification list, stacked notification bar, and scroll bar.
+// ---
+
 #include "ash/system/notification_center/views/notification_center_view.h"
 
 #include <climits>

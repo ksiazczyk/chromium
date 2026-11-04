@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message center controller class declaration
+// summary: Declares MessageCenterController, which manages the ash message center and lets clients such as Chrome add and remove notifications.
+// ---
+
 #ifndef ASH_SYSTEM_NOTIFICATION_CENTER_MESSAGE_CENTER_CONTROLLER_H_
 #define ASH_SYSTEM_NOTIFICATION_CENTER_MESSAGE_CENTER_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Silence phone quick action controller unit tests
+// summary: Unit tests for the silence phone quick action controller, covering Do Not Disturb state changes and disabled button states.
+// ---
+
 #include "ash/system/phonehub/silence_phone_quick_action_controller.h"
 
 #include "ash/test/ash_test_base.h"

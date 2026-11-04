@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TimestampView header
+// summary: Declares a label view that shows a notification timestamp and automatically updates the displayed relative time.
+// ---
+
 #ifndef ASH_SYSTEM_NOTIFICATION_CENTER_VIEWS_TIMESTAMP_VIEW_H_
 #define ASH_SYSTEM_NOTIFICATION_CENTER_VIEWS_TIMESTAMP_VIEW_H_
 

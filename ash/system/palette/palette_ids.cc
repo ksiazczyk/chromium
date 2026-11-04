@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Palette ID conversion helpers
+// summary: Implements helpers that map PaletteToolId values to the PaletteTrayOptions and PaletteModeCancelType enums used for UMA reporting.
+// ---
+
 #include "ash/system/palette/palette_ids.h"
 #include "base/notreached.h"
 

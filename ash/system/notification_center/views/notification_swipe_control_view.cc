@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification swipe control view implementation
+// summary: Implements the swipe control view that shows the settings button revealed behind a notification during a swipe gesture.
+// ---
+
 #include "ash/system/notification_center/views/notification_swipe_control_view.h"
 
 #include <memory>

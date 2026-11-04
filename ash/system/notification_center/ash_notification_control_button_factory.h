@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash notification control button factory
+// summary: Declares a factory class that creates control buttons for Ash notification views, extending the message center button factory.
+// ---
+
 #ifndef ASH_SYSTEM_NOTIFICATION_CENTER_ASH_NOTIFICATION_CONTROL_BUTTON_FACTORY_H_
 #define ASH_SYSTEM_NOTIFICATION_CENTER_ASH_NOTIFICATION_CONTROL_BUTTON_FACTORY_H_
 

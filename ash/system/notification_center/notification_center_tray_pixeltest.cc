@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification center tray pixel tests
+// summary: Parameterized pixel test checking the tray UI on a secondary display with two pinned notification icons, with and without system blur enabled.
+// ---
+
 #include "ash/system/notification_center/notification_center_test_api.h"
 #include "ash/system/notification_center/notification_center_tray.h"
 #include "ash/test/ash_test_base.h"

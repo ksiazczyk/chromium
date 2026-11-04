@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EnterCaptureMode palette tool class declaration
+// summary: Declares the palette tool that serves as a stylus entry point into capture mode for taking screenshots and recording video.
+// ---
+
 #ifndef ASH_SYSTEM_PALETTE_TOOLS_ENTER_CAPTURE_MODE_H_
 #define ASH_SYSTEM_PALETTE_TOOLS_ENTER_CAPTURE_MODE_H_
 

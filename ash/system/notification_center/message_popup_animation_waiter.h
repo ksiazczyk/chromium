@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessagePopupAnimationWaiter test helper header
+// summary: Declares a test helper that waits until all message popup animations managed by an AshMessagePopupCollection have finished.
+// ---
+
 #ifndef ASH_SYSTEM_NOTIFICATION_CENTER_MESSAGE_POPUP_ANIMATION_WAITER_H_
 #define ASH_SYSTEM_NOTIFICATION_CENTER_MESSAGE_POPUP_ANIMATION_WAITER_H_
 

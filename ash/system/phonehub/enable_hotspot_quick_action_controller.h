@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enable hotspot quick action controller declaration
+// summary: Declares the controller for the Phone Hub enable hotspot quick action item, mapping TetherController status to off, connecting, connected and no reception states.
+// ---
+
 #ifndef ASH_SYSTEM_PHONEHUB_ENABLE_HOTSPOT_QUICK_ACTION_CONTROLLER_H_
 #define ASH_SYSTEM_PHONEHUB_ENABLE_HOTSPOT_QUICK_ACTION_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub metrics enums and logging declarations
+// summary: Declares Phone Hub metrics enums and logging functions, kept in sync with the histogram metadata in tools/metrics.
+// ---
+
 #ifndef ASH_SYSTEM_PHONEHUB_PHONE_HUB_METRICS_H_
 #define ASH_SYSTEM_PHONEHUB_PHONE_HUB_METRICS_H_
 

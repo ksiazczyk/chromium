@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message view container class declaration
+// summary: Declares MessageViewContainer, a view hosting a MessageView with notification ID access, border updates, animation bounds, and slide observer callbacks.
+// ---
+
 #ifndef ASH_SYSTEM_NOTIFICATION_CENTER_VIEWS_MESSAGE_VIEW_CONTAINER_H_
 #define ASH_SYSTEM_NOTIFICATION_CENTER_VIEWS_MESSAGE_VIEW_CONTAINER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickActionsView class declaration
+// summary: Declares the Phone Hub bubble view that contains toggle buttons for quick actions such as enable hotspot, silence phone, and locate phone.
+// ---
+
 #ifndef ASH_SYSTEM_PHONEHUB_QUICK_ACTIONS_VIEW_H_
 #define ASH_SYSTEM_PHONEHUB_QUICK_ACTIONS_VIEW_H_
 

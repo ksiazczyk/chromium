@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub connecting view implementation
+// summary: Implements the interstitial shown while the device is connecting to the phone, with a progress image, localized text, and metrics.
+// ---
+
 #include "ash/system/phonehub/phone_connecting_view.h"
 
 #include <algorithm>

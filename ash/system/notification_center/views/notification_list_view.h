@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification list view class declaration
+// summary: Declares NotificationListView, which manages the list of notifications and provides bounds and lookup helpers for notification views.
+// ---
+
 #ifndef ASH_SYSTEM_NOTIFICATION_CENTER_VIEWS_NOTIFICATION_LIST_VIEW_H_
 #define ASH_SYSTEM_NOTIFICATION_CENTER_VIEWS_NOTIFICATION_LIST_VIEW_H_
 

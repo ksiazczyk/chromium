@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConversationItemView implementation
+// summary: Implements a view that displays the icon, title, and message of a single notification item within a conversation notification.
+// ---
+
 #include "ash/system/notification_center/views/conversation_item_view.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock palette tool delegate class
+// summary: Declares a GoogleMock delegate that stubs PaletteTool::Delegate calls such as EnableTool, DisableTool, and HidePalette for use in tests.
+// ---
+
 #ifndef ASH_SYSTEM_PALETTE_MOCK_PALETTE_TOOL_DELEGATE_H_
 #define ASH_SYSTEM_PALETTE_MOCK_PALETTE_TOOL_DELEGATE_H_
 

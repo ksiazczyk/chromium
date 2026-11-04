@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message center scroll bar class declaration
+// summary: Declares MessageCenterScrollBar, a RoundedScrollBar subclass that records scrolling metrics and presentation time for the message center.
+// ---
+
 #ifndef ASH_SYSTEM_NOTIFICATION_CENTER_VIEWS_MESSAGE_CENTER_SCROLL_BAR_H_
 #define ASH_SYSTEM_NOTIFICATION_CENTER_VIEWS_MESSAGE_CENTER_SCROLL_BAR_H_
 

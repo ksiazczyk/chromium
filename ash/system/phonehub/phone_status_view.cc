@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PhoneStatusView implementation
+// summary: Implements the header row of the Phone Hub panel that shows the phone name, mobile signal strength, and battery status together with a settings button.
+// ---
+
 #include "ash/system/phonehub/phone_status_view.h"
 
 #include <string>

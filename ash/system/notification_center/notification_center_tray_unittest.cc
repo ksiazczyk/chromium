@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification center tray unit tests
+// summary: Tests tray button visibility on notification availability, bubble show and hide on clicks, escape key closing, and related tray behavior with the controller feature on and off.
+// ---
+
 #include "ash/system/notification_center/notification_center_tray.h"
 
 #include <memory>

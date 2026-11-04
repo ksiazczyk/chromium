@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AshNotificationView pixel tests
+// summary: Pixel tests that verify rendering of ChromeOS notification views with short, medium, and long titles under different system blur settings.
+// ---
+
 #include <optional>
 
 #include "ash/style/counter_expand_button.h"

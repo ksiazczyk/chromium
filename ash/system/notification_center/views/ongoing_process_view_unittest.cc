@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OngoingProcessView unit tests
+// summary: Unit tests verifying that OngoingProcessView creates the expected icon, labels and buttons for different notification parameters.
+// ---
+
 #include "ash/system/notification_center/views/ongoing_process_view.h"
 
 #include "ash/public/cpp/ash_view_ids.h"

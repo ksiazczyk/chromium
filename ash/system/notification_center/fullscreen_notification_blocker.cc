@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fullscreen notification blocker implementation
+// summary: Implements a blocker that suppresses notification popups while all displays show fullscreen windows, with UMA logging of shown notifications.
+// ---
+
 #include "ash/system/notification_center/fullscreen_notification_blocker.h"
 
 #include "ash/root_window_controller.h"

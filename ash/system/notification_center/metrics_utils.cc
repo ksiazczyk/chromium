@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification metrics utilities implementation
+// summary: Records notification histograms for notifier types, priorities, popup counts, and dismissal timings in Ash.
+// ---
+
 #include "ash/system/notification_center/metrics_utils.h"
 
 #include <optional>

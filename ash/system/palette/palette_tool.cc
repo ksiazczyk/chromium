@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Palette tool base implementation
+// summary: Implements the PaletteTool base class and registers the capture mode, create note, laser pointer, and magnifier tool instances with the tool manager.
+// ---
+
 #include "ash/system/palette/palette_tool.h"
 
 #include <memory>

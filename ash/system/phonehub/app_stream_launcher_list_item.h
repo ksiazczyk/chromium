@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App stream launcher list item header
+// summary: Declares a label button that represents an app in the Phone Hub app streaming launcher list.
+// ---
+
 #ifndef ASH_SYSTEM_PHONEHUB_APP_STREAM_LAUNCHER_LIST_ITEM_H_
 #define ASH_SYSTEM_PHONEHUB_APP_STREAM_LAUNCHER_LIST_ITEM_H_
 

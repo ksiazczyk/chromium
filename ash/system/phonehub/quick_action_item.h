@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickActionItem class declaration
+// summary: Declares the toggle button view with labels used for quick action items in the Phone Hub quick actions view.
+// ---
+
 #ifndef ASH_SYSTEM_PHONEHUB_QUICK_ACTION_ITEM_H_
 #define ASH_SYSTEM_PHONEHUB_QUICK_ACTION_ITEM_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification center test API implementation
+// summary: Implements helpers that add various kinds of test notifications and toggle the notification center bubble to support Ash notification center tests.
+// ---
+
 #include "ash/system/notification_center/notification_center_test_api.h"
 
 #include <algorithm>

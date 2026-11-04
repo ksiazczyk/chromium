@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Message center utils unit tests
+// summary: Tests notification counting that excludes camera, mic, and privacy indicator notifications, and image resizing against a byte size limit.
+// ---
+
 #include "ash/system/notification_center/message_center_utils.h"
 
 #include "ash/constants/ash_constants.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PCIe peripheral notification controller implementation
+// summary: Implements the Ash controller that shows ChromeOS notifications for Thunderbolt and USB4 peripheral events such as limited performance, guest mode, and blocked devices, with notification click pref tracking.
+// ---
+
 #include "ash/system/pcie_peripheral/pcie_peripheral_notification_controller.h"
 
 #include <optional>

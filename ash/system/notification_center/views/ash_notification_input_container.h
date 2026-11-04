@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AshNotificationInputContainer class declaration
+// summary: Declares the ChromeOS notification input container view that shows an editable textfield for inline replies together with a send button.
+// ---
+
 #ifndef ASH_SYSTEM_NOTIFICATION_CENTER_VIEWS_ASH_NOTIFICATION_INPUT_CONTAINER_H_
 #define ASH_SYSTEM_NOTIFICATION_CENTER_VIEWS_ASH_NOTIFICATION_INPUT_CONTAINER_H_
 

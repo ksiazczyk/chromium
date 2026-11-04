@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message center Ash interface header
+// summary: Declares the Ash implementation of the message center interface, providing quiet mode control and change notifications.
+// ---
+
 #ifndef ASH_SYSTEM_NOTIFICATION_CENTER_MESSAGE_CENTER_ASH_IMPL_H_
 #define ASH_SYSTEM_NOTIFICATION_CENTER_MESSAGE_CENTER_ASH_IMPL_H_
 

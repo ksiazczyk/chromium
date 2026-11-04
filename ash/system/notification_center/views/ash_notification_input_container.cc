@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AshNotificationInputContainer implementation
+// summary: Implements the ChromeOS inline reply input container, styling the textfield and send button with focus rings, padding, and vector icons.
+// ---
+
 #include "ash/system/notification_center/views/ash_notification_input_container.h"
 
 #include "ash/strings/grit/ash_strings.h"

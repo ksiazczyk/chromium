@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PCIe peripheral notification controller header
+// summary: Declares the PciePeripheralNotificationController class, which observes Pciguard and TypeC daemon events and exposes methods to show peripheral-related notifications.
+// ---
+
 #ifndef ASH_SYSTEM_PCIE_PERIPHERAL_PCIE_PERIPHERAL_NOTIFICATION_CONTROLLER_H_
 #define ASH_SYSTEM_PCIE_PERIPHERAL_PCIE_PERIPHERAL_NOTIFICATION_CONTROLLER_H_
 

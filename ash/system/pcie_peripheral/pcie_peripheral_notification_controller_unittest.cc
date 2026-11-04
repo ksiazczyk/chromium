@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PCIe peripheral notification controller unit tests
+// summary: Unit tests verifying that PCIe peripheral notifications are shown and handled correctly, including settings page opens, learn-more URL handling, and notification click pref counts.
+// ---
+
 #include "ash/system/pcie_peripheral/pcie_peripheral_notification_controller.h"
 
 #include <memory>

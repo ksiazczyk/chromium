@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App stream launcher view header
+// summary: Declares the Phone Hub content view that observes the app stream launcher data model and displays launchable apps.
+// ---
+
 #ifndef ASH_SYSTEM_PHONEHUB_APP_STREAM_LAUNCHER_VIEW_H_
 #define ASH_SYSTEM_PHONEHUB_APP_STREAM_LAUNCHER_VIEW_H_
 

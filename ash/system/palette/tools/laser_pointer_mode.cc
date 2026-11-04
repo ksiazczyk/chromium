@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Laser pointer mode palette tool implementation
+// summary: Implements the palette tool that toggles the laser pointer via the LaserPointerController and keeps the tool state in sync with the tray.
+// ---
+
 #include "ash/system/palette/tools/laser_pointer_mode.h"
 
 #include "ash/fast_ink/laser/laser_pointer_controller.h"

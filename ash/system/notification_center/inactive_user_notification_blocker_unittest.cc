@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Inactive user notification blocker unit tests
+// summary: Unit tests verifying notification visibility and popup behavior for active and inactive user sessions, including system priority notifiers.
+// ---
+
 #include "ash/system/notification_center/inactive_user_notification_blocker.h"
 
 #include "ash/constants/notifier_catalogs.h"

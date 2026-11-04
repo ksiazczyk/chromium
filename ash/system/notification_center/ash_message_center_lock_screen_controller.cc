@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash message center lock screen controller implementation
+// summary: Implements ash lock screen behavior for the message center, deciding when notifications may appear and prompting users to unlock for actions.
+// ---
+
 #include "ash/system/notification_center/ash_message_center_lock_screen_controller.h"
 
 #include "ash/constants/notifier_catalogs.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub task continuation view declaration
+// summary: Declares TaskContinuationView, which lets users pick up unfinished tasks left off on their phone, currently supporting web browsing.
+// ---
+
 #ifndef ASH_SYSTEM_PHONEHUB_TASK_CONTINUATION_VIEW_H_
 #define ASH_SYSTEM_PHONEHUB_TASK_CONTINUATION_VIEW_H_
 

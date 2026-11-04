@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stylus battery delegate implementation
+// summary: Implements the stylus battery delegate that observes peripheral battery updates and provides battery images, colors, charging, staleness, and eligibility checks.
+// ---
+
 #include "ash/system/palette/stylus_battery_delegate.h"
 
 #include <string>

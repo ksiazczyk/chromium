@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message center Ash implementation
+// summary: Implements the Ash message center interface by forwarding quiet mode queries and changes to the central message center.
+// ---
+
 #include "ash/system/notification_center/message_center_ash_impl.h"
 
 #include "ui/message_center/message_center.h"

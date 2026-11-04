@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LaserPointerMode palette tool class declaration
+// summary: Declares the palette tool controller for the laser pointer feature, observing laser pointer state changes to enable or disable the tool.
+// ---
+
 #ifndef ASH_SYSTEM_PALETTE_TOOLS_LASER_POINTER_MODE_H_
 #define ASH_SYSTEM_PALETTE_TOOLS_LASER_POINTER_MODE_H_
 

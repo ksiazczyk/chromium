@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Message popup animation test waiter
+// summary: Provides a waiter that blocks until popup animations in AshMessagePopupCollection finish, for use in tests.
+// ---
+
 #include "ash/system/notification_center/message_popup_animation_waiter.h"
 
 #include "ash/system/notification_center/ash_message_popup_collection.h"

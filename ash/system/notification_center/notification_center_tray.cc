@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification center tray implementation
+// summary: Implements the status area tray button that shows the notification count and pinned notification icons, opens the notification center bubble, and updates visibility and accessibility.
+// ---
+
 #include "ash/system/notification_center/notification_center_tray.h"
 
 #include <memory>

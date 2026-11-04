@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SilencePhoneQuickActionController implementation
+// summary: Implements the silence phone quick action controller that toggles Do Not Disturb on the connected phone and updates the item UI state.
+// ---
+
 #include "ash/system/phonehub/silence_phone_quick_action_controller.h"
 
 #include "ash/constants/ash_features.h"

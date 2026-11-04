@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash message center lock screen controller header
+// summary: Declares AshMessageCenterLockScreenController, which implements message center lock screen rules and observes session state in ash.
+// ---
+
 #ifndef ASH_SYSTEM_NOTIFICATION_CENTER_ASH_MESSAGE_CENTER_LOCK_SCREEN_CONTROLLER_H_
 #define ASH_SYSTEM_NOTIFICATION_CENTER_ASH_MESSAGE_CENTER_LOCK_SCREEN_CONTROLLER_H_
 

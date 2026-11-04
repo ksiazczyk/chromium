@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PhoneStatusView unit tests
+// summary: Unit tests verifying that PhoneStatusView labels, icons, and settings behavior reflect changes in the phone status model.
+// ---
+
 #include "ash/system/phonehub/phone_status_view.h"
 
 #include <optional>

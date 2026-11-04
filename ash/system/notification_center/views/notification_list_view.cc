@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification list view implementation
+// summary: Implements the notification list view with slide-out and clear-all animations, message view creation, and animation smoothness metrics.
+// ---
+
 #include "ash/system/notification_center/views/notification_list_view.h"
 
 #include <algorithm>

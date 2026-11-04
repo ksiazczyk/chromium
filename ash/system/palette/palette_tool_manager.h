@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Palette tool manager class declaration
+// summary: Declares PaletteToolManager and PaletteToolView, the owner and dispatcher for palette tools with activation, tray icon, and view creation APIs.
+// ---
+
 #ifndef ASH_SYSTEM_PALETTE_PALETTE_TOOL_MANAGER_H_
 #define ASH_SYSTEM_PALETTE_PALETTE_TOOL_MANAGER_H_
 

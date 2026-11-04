@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stylus battery view implementation
+// summary: Implements the tray view that shows the stylus battery icon and low-battery label, updating on battery changes and providing an accessible name.
+// ---
+
 #include "ash/system/palette/stylus_battery_view.h"
 
 #include "ash/strings/grit/ash_strings.h"

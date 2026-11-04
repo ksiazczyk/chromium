@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification center view unit tests
+// summary: Unit tests for NotificationCenterView covering scrolling, notification bar updates, and clear-all behavior using the Ash test base.
+// ---
+
 #include "ash/system/notification_center/views/notification_center_view.h"
 
 #include <memory>

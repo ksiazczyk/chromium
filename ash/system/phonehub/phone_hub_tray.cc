@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub tray implementation
+// summary: Implements the Phone Hub tray button in the status area, including icon handling, context menu, bubble creation, and Eche icon coordination.
+// ---
+
 #include "ash/system/phonehub/phone_hub_tray.h"
 
 #include <string>

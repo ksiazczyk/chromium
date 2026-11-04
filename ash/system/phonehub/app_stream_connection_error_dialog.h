@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App stream connection error dialog header
+// summary: Declares a widget-observing view that anchors the app streaming connection error dialog to the Phone Hub bubble and tracks its bounds.
+// ---
+
 #ifndef ASH_SYSTEM_PHONEHUB_APP_STREAM_CONNECTION_ERROR_DIALOG_H_
 #define ASH_SYSTEM_PHONEHUB_APP_STREAM_CONNECTION_ERROR_DIALOG_H_
 

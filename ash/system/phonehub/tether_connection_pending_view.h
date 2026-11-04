@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tether connection pending view declaration
+// summary: Declares TetherConnectionPendingView, shown when resuming an interrupted Phone Hub connection during an in-progress tether connection.
+// ---
+
 #ifndef ASH_SYSTEM_PHONEHUB_TETHER_CONNECTION_PENDING_VIEW_H_
 #define ASH_SYSTEM_PHONEHUB_TETHER_CONNECTION_PENDING_VIEW_H_
 

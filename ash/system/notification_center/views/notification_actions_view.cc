@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification actions view implementation
+// summary: Implements the notification actions view with action buttons plus an inline reply textfield and send button, forwarding responses to the message center.
+// ---
+
 #include "ash/system/notification_center/views/notification_actions_view.h"
 
 #include <algorithm>

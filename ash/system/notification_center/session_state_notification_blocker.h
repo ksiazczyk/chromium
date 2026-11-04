@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session state notification blocker header
+// summary: Declares SessionStateNotificationBlocker, which suppresses notification popups based on session state and active user PrefService readiness reported by the SessionController.
+// ---
+
 #ifndef ASH_SYSTEM_NOTIFICATION_CENTER_SESSION_STATE_NOTIFICATION_BLOCKER_H_
 #define ASH_SYSTEM_NOTIFICATION_CENTER_SESSION_STATE_NOTIFICATION_BLOCKER_H_
 

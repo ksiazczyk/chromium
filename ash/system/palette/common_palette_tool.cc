@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Common palette tool implementation
+// summary: Implements CommonPaletteTool, the shared base for palette tools that handles view clicks and builds a default highlight view with an icon and label.
+// ---
+
 #include "ash/system/palette/common_palette_tool.h"
 
 #include "ash/system/palette/palette_ids.h"

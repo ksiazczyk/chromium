@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the create note palette tool
+// summary: Tests that the create note tool only shows a view when a note-taking app is available and that enabling it creates a note, disables the tool, and hides the palette.
+// ---
+
 #include <memory>
 
 #include "ash/public/cpp/note_taking_client.h"

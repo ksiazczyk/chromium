@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AshNotificationView unit tests
+// summary: Unit tests covering the behavior of the ChromeOS notification view, including grouping, expansion, drag and drop, and metrics.
+// ---
+
 #include "ash/system/notification_center/views/ash_notification_view.h"
 
 #include <memory>

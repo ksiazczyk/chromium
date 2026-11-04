@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enter capture mode palette tool implementation
+// summary: Implements the stylus palette action that starts capture mode for screenshots and screen recording through the CaptureModeController.
+// ---
+
 #include "ash/system/palette/tools/enter_capture_mode.h"
 
 #include "ash/capture_mode/capture_mode_controller.h"

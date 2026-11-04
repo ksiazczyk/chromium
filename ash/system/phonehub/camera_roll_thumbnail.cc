@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera Roll thumbnail button implementation
+// summary: Implements the clickable thumbnail button for Camera Roll photos and videos, including rounded clipping, video overlay icon, context menu, and download handling.
+// ---
+
 #include "ash/system/phonehub/camera_roll_thumbnail.h"
 
 #include "ash/resources/vector_icons/vector_icons.h"

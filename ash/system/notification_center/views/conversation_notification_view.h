@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Conversation notification view class declaration
+// summary: Declares ConversationNotificationView, a message center MessageView subclass that renders conversation notifications with expand state, child view IDs, and control buttons.
+// ---
+
 #ifndef ASH_SYSTEM_NOTIFICATION_CENTER_VIEWS_CONVERSATION_NOTIFICATION_VIEW_H_
 #define ASH_SYSTEM_NOTIFICATION_CENTER_VIEWS_CONVERSATION_NOTIFICATION_VIEW_H_
 

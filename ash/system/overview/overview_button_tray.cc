@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overview button tray implementation
+// summary: Implements the status area tray button that toggles Overview Mode, controlling icon visibility and handling taps, long presses, and double taps for quick switch.
+// ---
+
 #include "ash/system/overview/overview_button_tray.h"
 
 #include "ash/constants/ash_switches.h"

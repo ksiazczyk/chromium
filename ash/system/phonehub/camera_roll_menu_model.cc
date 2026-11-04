@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera Roll context menu model implementation
+// summary: Implements a simple menu model for Camera Roll items that offers a labeled download command and runs a callback when it is chosen.
+// ---
+
 #include "ash/system/phonehub/camera_roll_menu_model.h"
 
 #include "ash/resources/vector_icons/vector_icons.h"

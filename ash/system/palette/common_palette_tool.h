@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Common palette tool class declaration
+// summary: Declares CommonPaletteTool, a PaletteTool base class adding standard view support, click handling, and a virtual palette icon for concrete tools.
+// ---
+
 #ifndef ASH_SYSTEM_PALETTE_COMMON_PALETTE_TOOL_H_
 #define ASH_SYSTEM_PALETTE_COMMON_PALETTE_TOOL_H_
 

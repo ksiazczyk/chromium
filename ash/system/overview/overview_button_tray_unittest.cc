@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overview button tray unit tests
+// summary: Unit tests for the overview button tray covering construction, icon visibility, double tap quick switch, and long press split view behavior.
+// ---
+
 #include "ash/system/overview/overview_button_tray.h"
 
 #include "ash/accessibility/accessibility_controller.h"

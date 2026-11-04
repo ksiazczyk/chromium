@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash message popup collection implementation
+// summary: Implements the ash notification popup collection, handling shelf alignment, collisions with system UI surfaces, and animation smoothness metrics.
+// ---
+
 #include "ash/system/notification_center/ash_message_popup_collection.h"
 
 #include <cstddef>

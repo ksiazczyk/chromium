@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Palette tray test API implementation
+// summary: Implements the PaletteTrayTestApi constructor and destructor that wrap a PaletteTray instance for use in tests.
+// ---
+
 #include "ash/system/palette/palette_tray_test_api.h"
 
 #include "base/check.h"

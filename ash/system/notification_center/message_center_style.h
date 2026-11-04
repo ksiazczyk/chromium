@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message center style constants
+// summary: Defines colors, scroll shadow parameters, and layout constants for message center notification styling and swipe controls.
+// ---
+
 #ifndef ASH_SYSTEM_NOTIFICATION_CENTER_MESSAGE_CENTER_STYLE_H_
 #define ASH_SYSTEM_NOTIFICATION_CENTER_MESSAGE_CENTER_STYLE_H_
 

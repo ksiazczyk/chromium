@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stylus battery view class declaration
+// summary: Declares StylusBatteryView, a view that pairs a StylusBatteryDelegate with an icon and label to display stylus battery status.
+// ---
+
 #ifndef ASH_SYSTEM_PALETTE_STYLUS_BATTERY_VIEW_H_
 #define ASH_SYSTEM_PALETTE_STYLUS_BATTERY_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification swipe control view unit tests
+// summary: Unit tests for NotificationSwipeControlView verifying settings button visibility and deletion behavior using a mock message view.
+// ---
+
 #include "ash/system/notification_center/views/notification_swipe_control_view.h"
 
 #include <memory>

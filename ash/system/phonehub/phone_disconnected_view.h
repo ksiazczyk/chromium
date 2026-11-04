@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub disconnected view header
+// summary: Declares PhoneDisconnectedView, the interstitial representing an interrupted phone connection with retry and learn-more actions.
+// ---
+
 #ifndef ASH_SYSTEM_PHONEHUB_PHONE_DISCONNECTED_VIEW_H_
 #define ASH_SYSTEM_PHONEHUB_PHONE_DISCONNECTED_VIEW_H_
 

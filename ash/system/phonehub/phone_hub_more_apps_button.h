@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub more apps button class declaration
+// summary: Declares the Phone Hub view that displays the first three apps in the user's app drawer together with a count of apps on the phone.
+// ---
+
 #ifndef ASH_SYSTEM_PHONEHUB_PHONE_HUB_MORE_APPS_BUTTON_H_
 #define ASH_SYSTEM_PHONEHUB_PHONE_HUB_MORE_APPS_BUTTON_H_
 

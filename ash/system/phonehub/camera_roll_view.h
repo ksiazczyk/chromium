@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera Roll section view header
+// summary: Declares the CameraRollView class that lets users view and access recent photos and videos from a connected device and hides when no items are available.
+// ---
+
 #ifndef ASH_SYSTEM_PHONEHUB_CAMERA_ROLL_VIEW_H_
 #define ASH_SYSTEM_PHONEHUB_CAMERA_ROLL_VIEW_H_
 

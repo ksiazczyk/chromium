@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Phone Hub recent apps view unit tests
+// summary: Unit tests for the recent apps view covering visibility across UI states, single and multiple app buttons, more-apps button, and transition latency metrics.
+// ---
+
 #include "ash/system/phonehub/phone_hub_recent_apps_view.h"
 
 #include "ash/constants/ash_features.h"

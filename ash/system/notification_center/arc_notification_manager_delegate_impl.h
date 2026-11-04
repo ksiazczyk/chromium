@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC notification manager delegate header
+// summary: Declares ArcNotificationManagerDelegateImpl, the ash implementation of the ARC notification manager delegate interface.
+// ---
+
 #ifndef ASH_SYSTEM_NOTIFICATION_CENTER_ARC_NOTIFICATION_MANAGER_DELEGATE_IMPL_H_
 #define ASH_SYSTEM_NOTIFICATION_CENTER_ARC_NOTIFICATION_MANAGER_DELEGATE_IMPL_H_
 
