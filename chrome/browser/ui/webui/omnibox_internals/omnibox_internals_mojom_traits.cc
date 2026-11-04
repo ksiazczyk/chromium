@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo struct traits implementation for autocomplete matches
+// summary: Implements serialization of AutocompleteMatch and related omnibox types so they can be sent to the WebUI over Mojo.
+// ---
+
 #include "chrome/browser/ui/webui/omnibox_internals/omnibox_internals_mojom_traits.h"
 
 #include <optional>

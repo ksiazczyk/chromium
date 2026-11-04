@@ -1,0 +1,4 @@
+# Docerion header of omnibox_popup.mojom.
+type: source
+title: Mojo interfaces for the WebUI omnibox popup
+summary: Defines enums, structs and browser/page interfaces for the WebUI omnibox popup, covering input state, selection changes, and popup actions.

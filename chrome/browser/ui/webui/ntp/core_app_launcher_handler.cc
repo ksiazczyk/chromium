@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Core app launcher handler implementation
+// summary: Implements a WebUI message handler that records app launches by URL in UMA histograms when the URL matches an installed app.
+// ---
+
 #include "chrome/browser/ui/webui/ntp/core_app_launcher_handler.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Organizer panel WebUI controller implementation
+// summary: Implements the organizer panel WebUI controller, creating its data source with localized strings, feature flags, page handlers, and favicon and theme sources.
+// ---
+
 #include "chrome/browser/ui/webui/organizer_panel/organizer_panel_ui.h"
 
 #include "base/check.h"

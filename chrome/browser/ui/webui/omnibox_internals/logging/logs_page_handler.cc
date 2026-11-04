@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LogsPageHandler implementation
+// summary: Implements the omnibox logs page handler, observing the omnibox Logger and forwarding each log message event to the WebUI page over Mojo.
+// ---
+
 #include "chrome/browser/ui/webui/omnibox_internals/logging/logs_page_handler.h"
 
 #include "components/omnibox/common/logger.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager shortcut promo header
+// summary: Declares the promo card that offers creating a shortcut to the Password Manager.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_PASSWORD_MANAGER_NOTIFICATION_CARDS_PASSWORD_MANAGER_SHORTCUT_PROMO_H_
 #define CHROME_BROWSER_UI_WEBUI_PASSWORD_MANAGER_NOTIFICATION_CARDS_PASSWORD_MANAGER_SHORTCUT_PROMO_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox popup web contents helper header
+// summary: Declares a WebContentsUserData helper exposing the OmniboxController and a focus advancement callback to the WebUI omnibox popup.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_OMNIBOX_POPUP_OMNIBOX_POPUP_WEB_CONTENTS_HELPER_H_
 #define CHROME_BROWSER_UI_WEBUI_OMNIBOX_POPUP_OMNIBOX_POPUP_WEB_CONTENTS_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox dogfood feedback header
+// summary: Declares the API for opening the omnibox dogfood feedback form plus the internal feature filter and diagnostics helpers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_OMNIBOX_POPUP_OMNIBOX_DOGFOOD_FEEDBACK_H_
 #define CHROME_BROWSER_UI_WEBUI_OMNIBOX_POPUP_OMNIBOX_DOGFOOD_FEEDBACK_H_
 

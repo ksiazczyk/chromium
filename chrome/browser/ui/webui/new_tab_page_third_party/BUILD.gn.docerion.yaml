@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for the third-party new tab page
+summary: Defines GN targets for the Mojo bindings plus the header-only and full implementation source sets of the third-party new tab page WebUI.

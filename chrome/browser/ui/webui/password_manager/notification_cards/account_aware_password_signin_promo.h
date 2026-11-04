@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account-aware password sign-in promo header
+// summary: Declares the AccountAwarePasswordSigninPromo card class shown to web-only signed-in users whose preferred account has password preview data.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_PASSWORD_MANAGER_NOTIFICATION_CARDS_ACCOUNT_AWARE_PASSWORD_SIGNIN_PROMO_H_
 #define CHROME_BROWSER_UI_WEBUI_PASSWORD_MANAGER_NOTIFICATION_CARDS_ACCOUNT_AWARE_PASSWORD_SIGNIN_PROMO_H_
 

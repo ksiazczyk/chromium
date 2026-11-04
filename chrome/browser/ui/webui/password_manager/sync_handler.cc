@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync handler implementation
+// summary: Implements the WebUI message handler exposing sync state, account info, trusted vault banner, passkey unlock and batch upload to the password manager page.
+// ---
+
 #include "chrome/browser/ui/webui/password_manager/sync_handler.h"
 
 #include <optional>

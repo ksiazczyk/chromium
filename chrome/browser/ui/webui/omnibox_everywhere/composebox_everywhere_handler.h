@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composebox Everywhere handler class declaration
+// summary: Declares ComposeboxEverywhereHandler, a ComposeboxHandler subclass that owns its own omnibox controller and client for the composebox UI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_OMNIBOX_EVERYWHERE_COMPOSEBOX_EVERYWHERE_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_OMNIBOX_EVERYWHERE_COMPOSEBOX_EVERYWHERE_HANDLER_H_
 

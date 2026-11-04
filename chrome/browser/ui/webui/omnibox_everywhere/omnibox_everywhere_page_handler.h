@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox Everywhere page handler declaration
+// summary: Declares OmniboxEverywherePageHandler, the Mojo PageHandler that relays context menu, composebox, and screenshot events for the Omnibox Everywhere WebUI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_OMNIBOX_EVERYWHERE_OMNIBOX_EVERYWHERE_PAGE_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_OMNIBOX_EVERYWHERE_OMNIBOX_EVERYWHERE_PAGE_HANDLER_H_
 

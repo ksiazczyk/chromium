@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy page WebUI controller implementation
+// summary: Implements the WebUI controller for the browser's policy page, including OS and version information helpers and test page loading.
+// ---
+
 #include "chrome/browser/ui/webui/policy/policy_ui.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of page_action_internals.mojom.
+type: source
+title: Page action internals Mojo interface definitions
+summary: Defines Mojo enums, structs, and handler interfaces for configuring and exercising page actions and anchored messaging from the debug page.

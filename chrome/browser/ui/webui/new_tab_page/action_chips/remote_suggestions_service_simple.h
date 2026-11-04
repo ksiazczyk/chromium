@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote suggestions service simple interface
+// summary: Defines the abstract interface and implementation for retrieving deep dive and action chip suggestions from a remote endpoint, with error types.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_NEW_TAB_PAGE_ACTION_CHIPS_REMOTE_SUGGESTIONS_SERVICE_SIMPLE_H_
 #define CHROME_BROWSER_UI_WEBUI_NEW_TAB_PAGE_ACTION_CHIPS_REMOTE_SUGGESTIONS_SERVICE_SIMPLE_H_
 

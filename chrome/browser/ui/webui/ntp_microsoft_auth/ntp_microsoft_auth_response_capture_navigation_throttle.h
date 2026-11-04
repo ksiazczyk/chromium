@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Response capture navigation throttle header
+// summary: Declares the navigation throttle that captures Microsoft auth redirect responses for the new tab page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_NTP_MICROSOFT_AUTH_NTP_MICROSOFT_AUTH_RESPONSE_CAPTURE_NAVIGATION_THROTTLE_H_
 #define CHROME_BROWSER_UI_WEBUI_NTP_MICROSOFT_AUTH_NTP_MICROSOFT_AUTH_RESPONSE_CAPTURE_NAVIGATION_THROTTLE_H_
 

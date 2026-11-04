@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New Tab Page handler implementation
+// summary: Implements the browser-side handler for the New Tab Page, covering themes, modules, promos, preferences, and metrics.
+// ---
+
 #include "chrome/browser/ui/webui/new_tab_page/new_tab_page_handler.h"
 
 #include <algorithm>

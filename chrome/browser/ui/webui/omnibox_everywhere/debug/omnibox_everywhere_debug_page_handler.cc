@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox Everywhere debug page handler implementation
+// summary: Implements the debug page handler that reads and writes Omnibox Everywhere preferences, observes pref changes, and handles shortcuts, IPH, and pref resets.
+// ---
+
 #include "chrome/browser/ui/webui/omnibox_everywhere/debug/omnibox_everywhere_debug_page_handler.h"
 
 #include "base/functional/bind.h"

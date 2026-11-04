@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Lists the code owners for the omnibox_everywhere directory, plus a reviewer designated for merges only.

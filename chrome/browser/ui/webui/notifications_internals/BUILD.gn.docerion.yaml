@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Notifications internals build configuration
+summary: Defines GN build targets for the notifications internals WebUI, including source sets and Mojo bindings generation.

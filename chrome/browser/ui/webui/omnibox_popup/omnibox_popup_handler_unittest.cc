@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox popup handler unit tests
+// summary: Unit tests for OmniboxPopupHandler verifying focus, popup clearing, selection, clipboard, input state and URL emphasis behavior.
+// ---
+
 #include "chrome/browser/ui/webui/omnibox_popup/omnibox_popup_handler.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the policy test page
+// summary: Browser tests for the policy test page and local test policy behavior.
+// ---
+
 #include <stddef.h>
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: New tab page browser tests
+// summary: In-process browser tests that load the incognito new tab page without console errors and cover navigation edge cases in process-per-tab mode.
+// ---
+
 #include <stddef.h>
 
 #include "base/command_line.h"

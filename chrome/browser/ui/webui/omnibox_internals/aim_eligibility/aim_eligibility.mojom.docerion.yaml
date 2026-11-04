@@ -1,0 +1,4 @@
+# Docerion header of aim_eligibility.mojom.
+type: source
+title: AIM eligibility Mojo interface definitions
+summary: Defines the Mojo structs, enums, and browser/page interfaces used to exchange AIM eligibility and Drive status between the debug WebUI and the browser.

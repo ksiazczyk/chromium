@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: New Tab Page handler unit tests
+// summary: Unit tests for the New Tab Page handler covering theme updates, modules, preferences, and Mojo communication with mock services.
+// ---
+
 #include "chrome/browser/ui/webui/new_tab_page/new_tab_page_handler.h"
 
 #include <algorithm>

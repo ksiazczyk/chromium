@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password Manager WebUI controller implementation
+// summary: Implements the WebUI controller for Chrome's password manager page, registering data sources, Mojo handlers, favicons and localized strings.
+// ---
+
 #include "chrome/browser/ui/webui/password_manager/password_manager_ui.h"
 
 #include "base/i18n/message_formatter.h"

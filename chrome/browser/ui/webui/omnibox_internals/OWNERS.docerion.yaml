@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners and review rules for omnibox internals
+summary: Delegates ownership to the omnibox component owners and assigns IPC security owners to mojom and mojom traits files.

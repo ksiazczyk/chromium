@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Action chips GN build configuration
+summary: GN build file defining the Mojo bindings target, the action chips source set, and the unit test target for the new tab page action chips feature.

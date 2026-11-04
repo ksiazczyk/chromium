@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA mixins for page_action_internals
+summary: Points the directory metadata to the shared chrome/browser/ui/page_action COMMON_METADATA mixins.

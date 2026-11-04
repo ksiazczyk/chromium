@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aim eligibility extension bridge implementation
+// summary: Implements the profile-keyed bridge that registers the config and binder providers and owns the service worker page handler factory.
+// ---
+
 #include "chrome/browser/ui/webui/omnibox_internals/aim_eligibility_extension/aim_eligibility_extension_bridge.h"
 
 #include "chrome/browser/profiles/profile.h"

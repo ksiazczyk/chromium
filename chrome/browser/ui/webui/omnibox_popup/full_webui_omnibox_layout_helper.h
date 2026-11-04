@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Full WebUI omnibox layout helper header
+// summary: Declares the helper that supplies the full WebUI omnibox popup's alignment insets to the WebUI data source.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_OMNIBOX_POPUP_FULL_WEBUI_OMNIBOX_LAYOUT_HELPER_H_
 #define CHROME_BROWSER_UI_WEBUI_OMNIBOX_POPUP_FULL_WEBUI_OMNIBOX_LAYOUT_HELPER_H_
 

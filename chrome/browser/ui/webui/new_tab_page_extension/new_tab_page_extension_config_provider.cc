@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New tab page extension config provider implementation
+// summary: Implements the configuration provider for the new tab page extension, supplying the same loadTimeData and locale defaults as the built-in new tab page and enabling JavaScript error reporting.
+// ---
+
 #include "chrome/browser/ui/webui/new_tab_page_extension/new_tab_page_extension_config_provider.h"
 
 #include <memory>

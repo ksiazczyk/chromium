@@ -1,0 +1,4 @@
+# Docerion header of omnibox_everywhere.mojom.
+type: source
+title: Omnibox Everywhere Mojo interface definitions
+summary: Defines Mojo structs and interfaces for the Omnibox Everywhere WebUI, covering composebox initial state, browser-side page handler actions, and page lifecycle notifications.

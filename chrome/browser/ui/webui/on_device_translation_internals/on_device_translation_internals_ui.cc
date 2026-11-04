@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device translation internals WebUI controller implementation
+// summary: Implements the WebUI configuration and Mojo WebUI controller that serve the on-device translation internals page and bind its page handler.
+// ---
+
 #include "chrome/browser/ui/webui/on_device_translation_internals/on_device_translation_internals_ui.h"
 
 #include "chrome/browser/profiles/profile.h"

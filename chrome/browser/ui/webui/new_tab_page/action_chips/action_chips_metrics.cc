@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Action chips metrics recording
+// summary: Records UMA histograms for action chips request status, latency, suggestion counts, and impression events.
+// ---
+
 #include "chrome/browser/ui/webui/new_tab_page/action_chips/action_chips_metrics.h"
 
 #include <cmath>

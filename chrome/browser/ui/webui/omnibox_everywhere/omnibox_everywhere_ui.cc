@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox Everywhere WebUI controller implementation
+// summary: Implements the OmniboxEverywhereUI WebUI controller, wiring searchbox, composebox, most visited, help bubble, and debug handlers with preferences, metrics, and screenshot menus.
+// ---
+
 #include "chrome/browser/ui/webui/omnibox_everywhere/omnibox_everywhere_ui.h"
 
 #include "base/feature_list.h"

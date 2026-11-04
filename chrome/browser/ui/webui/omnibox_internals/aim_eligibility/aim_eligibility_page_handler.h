@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AimEligibilityPageHandler Header
+// summary: Declares the Mojo page handler class that reports eligibility and Drive status to the debug WebUI and supports debug overrides for server eligibility responses.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_OMNIBOX_INTERNALS_AIM_ELIGIBILITY_AIM_ELIGIBILITY_PAGE_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_OMNIBOX_INTERNALS_AIM_ELIGIBILITY_AIM_ELIGIBILITY_PAGE_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the NTP promo handler
+// summary: Tests the NTP promo handler's promo requests and shown, clicked, and dismissed callbacks using mock client and controller objects.
+// ---
+
 #include "chrome/browser/ui/webui/new_tab_page/ntp_promo/ntp_promo_handler.h"
 
 #include <string>

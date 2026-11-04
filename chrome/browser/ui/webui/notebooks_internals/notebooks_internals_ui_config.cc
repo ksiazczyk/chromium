@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotebooksInternalsUIConfig implementation
+// summary: Implements the config that registers the notebooks internals WebUI and creates its controller using the profile's eligibility service.
+// ---
+
 #include "chrome/browser/ui/webui/notebooks_internals/notebooks_internals_ui_config.h"
 
 #include "chrome/browser/notebooks/notebooks_eligibility_service_factory.h"

@@ -1,0 +1,4 @@
+# Docerion header of ntp_microsoft_auth_shared_ui.mojom.
+type: source
+title: NTP Microsoft Auth shared Mojo interfaces
+summary: Defines the AuthType enum for the MicrosoftAuth histogram and the Mojo interfaces used for inter-frame messaging between the new tab page Microsoft Auth document and its embedded untrusted child document.

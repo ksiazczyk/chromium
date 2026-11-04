@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP resource cache factory implementation
+// summary: Implements the ProfileKeyedServiceFactory that creates and returns a per-profile NTPResourceCache, depending on the identity manager and theme service.
+// ---
+
 #include "chrome/browser/ui/webui/ntp/ntp_resource_cache_factory.h"
 
 #include "chrome/browser/profiles/profile.h"

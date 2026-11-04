@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the third-party new tab page directory
+summary: Lists the directory owners and routes changes to mojom files to the IPC security owners.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AIM Eligibility extension config provider
+// summary: Declares AimEligibilityExtensionConfigProvider, which supplies load-time configuration and JavaScript error-reporting settings for the Aim Eligibility component extension.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_OMNIBOX_INTERNALS_AIM_ELIGIBILITY_EXTENSION_AIM_ELIGIBILITY_EXTENSION_CONFIG_PROVIDER_H_
 #define CHROME_BROWSER_UI_WEBUI_OMNIBOX_INTERNALS_AIM_ELIGIBILITY_EXTENSION_AIM_ELIGIBILITY_EXTENSION_CONFIG_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager shortcut promo implementation
+// summary: Implements the promo card offering a Password Manager web app shortcut, hidden when a shortcut exists, web apps are disabled, or a tutorial runs.
+// ---
+
 #include "chrome/browser/ui/webui/password_manager/notification_cards/password_manager_shortcut_promo.h"
 
 #include "chrome/browser/profiles/profile.h"

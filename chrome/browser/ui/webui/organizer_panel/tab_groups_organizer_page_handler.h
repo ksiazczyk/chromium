@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab groups organizer page handler header
+// summary: Declares the tab groups organizer page handler, which observes tab group sync, browser windows, and tab strip changes to update the WebUI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ORGANIZER_PANEL_TAB_GROUPS_ORGANIZER_PAGE_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ORGANIZER_PANEL_TAB_GROUPS_ORGANIZER_PAGE_HANDLER_H_
 

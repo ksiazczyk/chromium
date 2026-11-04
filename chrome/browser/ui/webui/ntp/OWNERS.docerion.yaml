@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the ntp WebUI folder
+summary: Lists code owners for the directory, including a per-file owner for app launcher handler files.

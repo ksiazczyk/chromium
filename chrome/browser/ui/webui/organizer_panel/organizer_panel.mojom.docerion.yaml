@@ -1,0 +1,4 @@
+# Docerion header of organizer_panel.mojom.
+type: source
+title: Organizer panel Mojo interface definitions
+summary: Defines Mojo interfaces for section display state, closing the panel, and vertical tabs change notifications.

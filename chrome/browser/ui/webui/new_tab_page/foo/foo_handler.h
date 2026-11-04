@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FooHandler class declaration
+// summary: Declares the FooHandler class, which binds a Mojo receiver and serves GetData requests coming from the WebUI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_NEW_TAB_PAGE_FOO_FOO_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_NEW_TAB_PAGE_FOO_FOO_HANDLER_H_
 

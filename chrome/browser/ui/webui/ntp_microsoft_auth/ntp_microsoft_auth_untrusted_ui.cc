@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP Microsoft auth untrusted WebUI controller implementation
+// summary: Implements the chrome-untrusted WebUI controller that serves Microsoft authentication resources, configures content security policies, and binds Mojo interfaces for the new tab page.
+// ---
+
 #include "chrome/browser/ui/webui/ntp_microsoft_auth/ntp_microsoft_auth_untrusted_ui.h"
 
 #include "base/strings/stringprintf.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Predictors WebUI build configuration
+summary: GN build file defining the predictors source set with its sources and dependencies for the Chrome predictors WebUI.

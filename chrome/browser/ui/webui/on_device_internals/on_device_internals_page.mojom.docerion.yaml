@@ -1,0 +1,4 @@
+# Docerion header of on_device_internals_page.mojom.
+type: source
+title: On-device internals Mojom interface definitions
+summary: Defines the Mojom interfaces linking the on-device internals WebUI renderer to the browser-side handler for model loading, device info, bitmap decoding, and log messages.

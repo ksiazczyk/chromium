@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox popup web contents helper
+// summary: Attaches the OmniboxController from the hosting browser window's location bar to WebContents so the WebUI omnibox popup can access it.
+// ---
+
 #include "chrome/browser/ui/webui/omnibox_popup/omnibox_popup_web_contents_helper.h"
 
 #include "chrome/browser/ui/browser_window.h"

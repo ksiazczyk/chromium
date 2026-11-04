@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for the on-device translation internals WebUI
+summary: GN build configuration that defines the Mojo bindings target and the source set for the on-device translation internals WebUI on desktop platforms.

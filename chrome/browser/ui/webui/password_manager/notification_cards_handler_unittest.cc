@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification cards handler unit tests
+// summary: Unit tests for the notification cards handler using mock cards to verify card selection, dismissal recording, and related handling.
+// ---
+
 #include "chrome/browser/ui/webui/password_manager/notification_cards_handler.h"
 
 #include <limits>

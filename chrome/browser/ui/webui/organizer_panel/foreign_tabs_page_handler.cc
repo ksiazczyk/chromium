@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Foreign tabs page handler implementation
+// summary: Implements the browser-side handler that fetches synced tabs from other devices and restores them on request.
+// ---
+
 #include "chrome/browser/ui/webui/organizer_panel/foreign_tabs_page_handler.h"
 
 #include <algorithm>

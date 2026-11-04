@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the new tab page WebUI
+summary: Defines GN source sets for the NTP resource cache, the new tab UI sources and their browser tests, with platform-conditional dependencies.

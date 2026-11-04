@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Microsoft Auth untrusted page handler implementation
+// summary: Implements the browser-side Mojo handler that clears auth data, acquires tokens, stores access tokens, and reports auth errors and metrics.
+// ---
+
 #include "chrome/browser/ui/webui/ntp_microsoft_auth/ntp_microsoft_auth_page_handler.h"
 
 #include <string>

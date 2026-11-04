@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy logs page browser tests
+// summary: Browser tests verifying that policy log messages appear on the logs page, refresh on demand, and can be downloaded as JSON.
+// ---
+
 #include "base/files/file_util.h"
 #include "base/test/run_until.h"
 #include "base/test/with_feature_override.h"

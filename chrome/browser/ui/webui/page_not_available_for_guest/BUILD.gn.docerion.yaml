@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for page_not_available_for_guest
+summary: GN build file that defines the page_not_available_for_guest source set with its C++ sources and dependencies for the Chrome browser UI.

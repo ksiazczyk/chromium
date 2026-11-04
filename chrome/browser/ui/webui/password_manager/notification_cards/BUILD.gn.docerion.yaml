@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Notification cards BUILD.gn build file
+summary: GN build file defining the notification_cards source set and unit tests, with branded and platform-conditional promo sources and dependencies.

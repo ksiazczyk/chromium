@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New tab page extension bridge factory implementation
+// summary: Implements the profile-keyed service factory that builds the bridge only when the kNtpComponentExtension feature is enabled.
+// ---
+
 #include "chrome/browser/ui/webui/new_tab_page_extension/new_tab_page_extension_bridge_factory.h"
 
 #include <memory>

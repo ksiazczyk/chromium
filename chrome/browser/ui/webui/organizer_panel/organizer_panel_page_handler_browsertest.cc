@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Organizer panel page handler browser tests
+// summary: Browser tests for the organizer panel page handler, covering panel visibility, vertical tabs state, and section state updates over Mojo.
+// ---
+
 #include "chrome/browser/ui/webui/organizer_panel/organizer_panel_page_handler.h"
 
 #include <optional>

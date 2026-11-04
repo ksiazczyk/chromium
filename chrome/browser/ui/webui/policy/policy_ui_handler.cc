@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy page message handler implementation
+// summary: Implements the WebUI message handler serving policy values, logs, JSON export, local test policies, and browser restart requests.
+// ---
+
 #include "chrome/browser/ui/webui/policy/policy_ui_handler.h"
 
 #include <stddef.h>

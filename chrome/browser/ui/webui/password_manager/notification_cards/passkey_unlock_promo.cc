@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passkey unlock promo implementation
+// summary: Implements the promo card for passkey unlock, shown when the unlock manager requests error UI and the feature flag is enabled.
+// ---
+
 #include "chrome/browser/ui/webui/password_manager/notification_cards/passkey_unlock_promo.h"
 
 #include "base/feature_list.h"

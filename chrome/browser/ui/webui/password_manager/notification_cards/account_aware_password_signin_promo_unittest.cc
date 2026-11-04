@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Account-aware password sign-in promo unit tests
+// summary: Unit tests for the account-aware password sign-in promo using test identity, sync, and account preview services.
+// ---
+
 #include "chrome/browser/ui/webui/password_manager/notification_cards/account_aware_password_signin_promo.h"
 
 #include <memory>

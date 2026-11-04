@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Access on any device promo implementation
+// summary: Implements the promo card that shows users how to access Password Manager on Android and iOS, with display limits and localized text.
+// ---
+
 #include "chrome/browser/ui/webui/password_manager/notification_cards/access_on_any_device_promo.h"
 
 #include "chrome/grit/generated_resources.h"

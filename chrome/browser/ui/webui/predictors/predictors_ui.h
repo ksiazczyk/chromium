@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Predictors WebUI controller header
+// summary: Declares the PredictorsUI WebUI controller class and its PredictorsUIConfig used to register the predictors page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_PREDICTORS_PREDICTORS_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_PREDICTORS_PREDICTORS_UI_H_
 

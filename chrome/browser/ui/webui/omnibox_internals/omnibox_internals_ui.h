@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the omnibox internals WebUI controller
+// summary: Declares the OmniboxInternalsUI WebUI controller and its config class, including Mojo binding methods and handler factories for omnibox, AIM eligibility, and logging.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_OMNIBOX_INTERNALS_OMNIBOX_INTERNALS_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_OMNIBOX_INTERNALS_OMNIBOX_INTERNALS_UI_H_
 

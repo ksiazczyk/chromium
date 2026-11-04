@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP composebox field trial implementation
+// summary: Implements the NTP composebox configuration, building defaults and parsing a Base64-encoded config proto from the feature parameter while recording parse metrics.
+// ---
+
 #include "chrome/browser/ui/webui/new_tab_page/composebox/variations/composebox_fieldtrial.h"
 
 #include <string>

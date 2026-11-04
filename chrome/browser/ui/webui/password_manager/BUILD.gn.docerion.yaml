@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for password manager WebUI
+summary: Defines GN build targets for the password manager WebUI, including Mojo bindings generation and source sets for the UI, handler, and notification cards.

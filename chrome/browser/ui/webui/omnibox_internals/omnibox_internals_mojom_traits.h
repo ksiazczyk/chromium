@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo struct traits declarations for autocomplete matches
+// summary: Declares the AutocompleteMatchWrapper and StructTraits specializations used to serialize omnibox match data for Mojo.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_OMNIBOX_INTERNALS_OMNIBOX_INTERNALS_MOJOM_TRAITS_H_
 #define CHROME_BROWSER_UI_WEBUI_OMNIBOX_INTERNALS_OMNIBOX_INTERNALS_MOJOM_TRAITS_H_
 

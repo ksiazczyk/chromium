@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New tab page extension binder provider implementation
+// summary: Registers Mojo frame binders for the NTP component extension, binding the page handler factory, searchbox, and color change interfaces.
+// ---
+
 #include "chrome/browser/ui/webui/new_tab_page_extension/new_tab_page_extension_binder_provider.h"
 
 #include <memory>

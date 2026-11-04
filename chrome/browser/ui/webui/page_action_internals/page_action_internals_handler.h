@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageActionInternalsHandler class declaration
+// summary: Declares the PageActionInternalsHandler class implementing the PageHandler Mojo interface for the internals WebUI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_PAGE_ACTION_INTERNALS_PAGE_ACTION_INTERNALS_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_PAGE_ACTION_INTERNALS_PAGE_ACTION_INTERNALS_HANDLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the Omnibox Everywhere debug directory
+summary: Delegates code review to the Omnibox Everywhere owners and requires IPC security owners for mojom file changes.

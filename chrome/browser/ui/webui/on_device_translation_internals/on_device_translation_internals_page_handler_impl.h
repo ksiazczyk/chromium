@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device translation internals page handler header
+// summary: Declares the page handler class that serves the internals WebUI, tracks preference changes, and sends language pack status updates.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ON_DEVICE_TRANSLATION_INTERNALS_ON_DEVICE_TRANSLATION_INTERNALS_PAGE_HANDLER_IMPL_H_
 #define CHROME_BROWSER_UI_WEBUI_ON_DEVICE_TRANSLATION_INTERNALS_ON_DEVICE_TRANSLATION_INTERNALS_PAGE_HANDLER_IMPL_H_
 

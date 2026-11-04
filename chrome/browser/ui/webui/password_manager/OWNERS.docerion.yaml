@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for password manager WebUI
+summary: Specifies code owners for the directory and routes Mojom file reviews to the security owners.

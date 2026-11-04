@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for omnibox_popup
+summary: Delegates code ownership of the omnibox_popup directory to the owners of components/omnibox.

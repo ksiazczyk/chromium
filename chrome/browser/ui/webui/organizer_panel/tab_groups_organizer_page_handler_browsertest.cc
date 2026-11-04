@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab groups organizer page handler browser tests
+// summary: Browser tests for the tab groups organizer page handler, verifying group add, update, and remove notifications and handler actions.
+// ---
+
 #include "chrome/browser/ui/webui/organizer_panel/tab_groups_organizer_page_handler.h"
 
 #include <string>

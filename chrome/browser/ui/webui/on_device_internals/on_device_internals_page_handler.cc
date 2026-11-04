@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page handler implementation for the on-device internals WebUI
+// summary: Implements the PageHandler Mojo interface, loading on-device model assets and platform models and forwarding optimization guide log messages to the page.
+// ---
+
 #include "chrome/browser/ui/webui/on_device_internals/on_device_internals_page_handler.h"
 
 #include "base/files/file_util.h"

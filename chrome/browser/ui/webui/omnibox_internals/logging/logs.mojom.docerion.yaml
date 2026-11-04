@@ -1,0 +1,4 @@
+# Docerion header of logs.mojom.
+type: source
+title: Mojom interfaces for the omnibox logs internals page
+summary: Defines the PageHandlerFactory, PageHandler, and Page Mojo interfaces used to connect the browser process with the omnibox logs WebUI and deliver log events.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP Microsoft auth untrusted WebUI controller declarations
+// summary: Declares the WebUI config and untrusted WebUI controller classes that manage Microsoft authentication Mojo interface bindings for the new tab page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_NTP_MICROSOFT_AUTH_NTP_MICROSOFT_AUTH_UNTRUSTED_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_NTP_MICROSOFT_AUTH_NTP_MICROSOFT_AUTH_UNTRUSTED_UI_H_
 

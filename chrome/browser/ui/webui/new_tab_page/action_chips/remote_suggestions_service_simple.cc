@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote suggestions service simple implementation
+// summary: Implements fetching and parsing of remote action chip suggestions from the Suggest endpoint, with timeouts, title truncation, and error handling.
+// ---
+
 #include "chrome/browser/ui/webui/new_tab_page/action_chips/remote_suggestions_service_simple.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy page browser tests
+// summary: Large browser test suite covering policy display, status providers, cloud policy management, and related page behavior across platforms.
+// ---
+
 #include <stddef.h>
 
 #include <memory>

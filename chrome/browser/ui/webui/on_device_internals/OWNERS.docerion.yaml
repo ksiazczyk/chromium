@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for on_device_internals
+summary: Delegates ownership to services/on_device_model/OWNERS and routes .mojom file reviews to the IPC security owners.

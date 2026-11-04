@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account-aware password sign-in promo implementation
+// summary: Implements a high-priority promo card encouraging web-only signed-in users to sign in to Chrome, gated by sync, policy, and identity checks.
+// ---
+
 #include "chrome/browser/ui/webui/password_manager/notification_cards/account_aware_password_signin_promo.h"
 
 #include <algorithm>

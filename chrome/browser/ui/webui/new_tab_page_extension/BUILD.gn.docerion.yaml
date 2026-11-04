@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the new tab page extension
+summary: Defines the browser-side source set for the new tab page component extension, listing its sources and build dependencies.

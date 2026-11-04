@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device internals WebUI controller implementation
+// summary: Implements the WebUI controller that registers the data source, exposes the ChromeOS model service flag, and creates the page handler for the on-device internals page.
+// ---
+
 #include "chrome/browser/ui/webui/on_device_internals/on_device_internals_ui.h"
 
 #include "chrome/browser/optimization_guide/optimization_guide_keyed_service.h"

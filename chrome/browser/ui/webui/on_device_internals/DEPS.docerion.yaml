@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for on_device_internals
+summary: Grants this directory include access to the services/on_device_model tree.

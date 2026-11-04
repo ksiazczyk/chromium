@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the policy WebUI directory
+summary: Points to components/policy/OWNERS to define reviewers for this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox popup UI unit tests
+// summary: Unit tests for OmniboxPopupUI covering safety with a null contextual search service and layout-related configuration.
+// ---
+
 #include "chrome/browser/ui/webui/omnibox_popup/omnibox_popup_ui.h"
 
 #include "base/memory/raw_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device translation internals WebUI controller header
+// summary: Declares the WebUI configuration and controller classes for the on-device translation internals page, including the Mojo page handler factory binding.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ON_DEVICE_TRANSLATION_INTERNALS_ON_DEVICE_TRANSLATION_INTERNALS_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_ON_DEVICE_TRANSLATION_INTERNALS_ON_DEVICE_TRANSLATION_INTERNALS_UI_H_
 

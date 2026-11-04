@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync handler unit tests
+// summary: Unit tests for SyncHandler using a mock sync service and test WebUI to verify message handling and state propagation.
+// ---
+
 #include "chrome/browser/ui/webui/password_manager/sync_handler.h"
 
 #include "base/memory/raw_ptr.h"

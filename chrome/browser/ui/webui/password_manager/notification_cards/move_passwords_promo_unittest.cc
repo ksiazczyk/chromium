@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Move passwords promo unit tests
+// summary: Unit tests for the move passwords promo card with a test sync service, test password store, and passwords delegate.
+// ---
+
 #include "chrome/browser/ui/webui/password_manager/notification_cards/move_passwords_promo.h"
 
 #include "base/test/metrics/histogram_tester.h"

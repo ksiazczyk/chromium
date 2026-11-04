@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NewTabPageThirdPartyUI controller implementation
+// summary: Implements the WebUI controller and data source for the third-party new tab page, including guest session fallback, localized strings, and Mojo bindings.
+// ---
+
 #include "chrome/browser/ui/webui/new_tab_page_third_party/new_tab_page_third_party_ui.h"
 
 #include <memory>

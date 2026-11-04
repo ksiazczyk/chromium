@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Aim eligibility extension GN build definition
+summary: Defines the GN source sets for the aim eligibility extension and its browser tests, along with their build dependencies.

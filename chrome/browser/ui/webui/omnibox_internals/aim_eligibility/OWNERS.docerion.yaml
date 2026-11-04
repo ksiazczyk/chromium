@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for Mojo files
+summary: Delegates ownership of *.mojom files in this directory to the IPC security owners.

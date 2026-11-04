@@ -1,3 +1,9 @@
+---
+type: readme
+title: Overview of the foo dummy module directory
+summary: Explains that the directory contains Mojo definitions for the NTP dummy module plus FooHandler, the browser-side handler implementation.
+---
+
 This directory contains the Mojo definitions for the dummy
 module in NTP, which include an interface for a browser-side
 handler to handle requests from JS. This directory also

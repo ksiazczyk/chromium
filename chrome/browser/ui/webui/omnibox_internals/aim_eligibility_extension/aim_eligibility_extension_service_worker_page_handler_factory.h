@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AIM Eligibility extension service worker page handler factory header
+// summary: Declares a factory handling Mojo connections from AIM Eligibility extension service workers, scoped to the Profile lifecycle with a Clear method for shutdown.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_OMNIBOX_INTERNALS_AIM_ELIGIBILITY_EXTENSION_AIM_ELIGIBILITY_EXTENSION_SERVICE_WORKER_PAGE_HANDLER_FACTORY_H_
 #define CHROME_BROWSER_UI_WEBUI_OMNIBOX_INTERNALS_AIM_ELIGIBILITY_EXTENSION_AIM_ELIGIBILITY_EXTENSION_SERVICE_WORKER_PAGE_HANDLER_FACTORY_H_
 

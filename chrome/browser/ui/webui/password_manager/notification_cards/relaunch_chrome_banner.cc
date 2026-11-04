@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Relaunch Chrome banner implementation
+// summary: Implements the critical, non-dismissible banner asking users to relaunch Chrome when Keychain encryption is unavailable, with Mac and Linux strings.
+// ---
+
 #include "chrome/browser/ui/webui/password_manager/notification_cards/relaunch_chrome_banner.h"
 
 #include "chrome/grit/generated_resources.h"

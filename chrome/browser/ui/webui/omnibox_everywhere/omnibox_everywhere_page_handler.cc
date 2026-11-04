@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox Everywhere page handler implementation
+// summary: Implements the Mojo PageHandler for the Omnibox Everywhere WebUI, forwarding context action menu, composebox, and screenshot events between the page and the UI controller.
+// ---
+
 #include "chrome/browser/ui/webui/omnibox_everywhere/omnibox_everywhere_page_handler.h"
 
 #include "chrome/browser/ui/webui/omnibox_everywhere/omnibox_everywhere_ui.h"

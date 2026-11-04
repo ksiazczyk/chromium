@@ -1,0 +1,4 @@
+# Docerion header of foreign_tabs.mojom.
+type: source
+title: Foreign tabs Mojo interface definitions
+summary: Defines the Mojo struct and interfaces for listing and opening tabs from other devices in the organizer panel.
