@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fullscreen control host implementation
+// summary: Implements the fullscreen exit control host that shows an exit popup when the cursor moves to the top, on touch, or when ESC is held.
+// ---
+
 #include "chrome/browser/ui/views/fullscreen_control/fullscreen_control_host.h"
 
 #include "base/check_deref.h"

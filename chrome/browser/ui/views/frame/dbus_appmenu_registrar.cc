@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DbusAppmenuRegistrar implementation
+// summary: Implements registration and unregistration of DBus app menus with the com.canonical.AppMenu.Registrar service on X11 and Wayland.
+// ---
+
 #include "chrome/browser/ui/views/frame/dbus_appmenu_registrar.h"
 
 #include "base/check_op.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the system menu model builder
+// summary: In-process browser tests verifying system menu commands such as tab search pinning, Glic pinning and vertical tab toggles based on profile prefs and features.
+// ---
+
 #include <utility>
 
 #include "base/test/scoped_feature_list.h"

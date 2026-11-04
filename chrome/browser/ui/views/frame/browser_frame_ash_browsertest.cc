@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for ChromeOS Ash browser frame window management
+// summary: Contains ChromeOS browser tests for auto window management of app and tabbed browser windows and for saving bounds of snapped windows.
+// ---
+
 #include "ash/wm/window_state.h"
 #include "ash/wm/wm_event.h"
 #include "chrome/browser/ui/browser_window.h"

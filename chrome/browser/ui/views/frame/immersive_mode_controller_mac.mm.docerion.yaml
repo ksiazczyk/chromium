@@ -1,0 +1,4 @@
+# Docerion header of immersive_mode_controller_mac.mm.
+type: source
+title: macOS immersive mode controller implementation
+summary: Implements the macOS immersive mode controller, including focus traversal across the browser view and overlay widgets and handling of the separate tab strip widget.

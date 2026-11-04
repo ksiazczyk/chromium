@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contents Container View Implementation
+// summary: Implements the container view that hosts the main web contents, devtools, scrims, overlays, new tab footer, and split-view mini toolbar within BrowserView.
+// ---
+
 #include "chrome/browser/ui/views/frame/contents_container_view.h"
 
 #include <memory>

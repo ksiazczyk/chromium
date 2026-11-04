@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi contents drop target view header
+// summary: Declares MultiContentsDropTargetView, which shows a drop target for drag-and-drop interactions that create a split view, defining sides, states, and a drag delegate interface.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_MULTI_CONTENTS_DROP_TARGET_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_MULTI_CONTENTS_DROP_TARGET_VIEW_H_
 

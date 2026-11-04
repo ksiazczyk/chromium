@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Opaque browser frame view layout unit tests
+// summary: Unit tests verifying the layout of the opaque browser frame view, including caption button widths, tab strip minimum size and maximized window behavior.
+// ---
+
 #include "chrome/browser/ui/views/frame/opaque_browser_frame_view_layout.h"
 
 #include <memory>

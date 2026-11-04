@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser View Layout Implementation
+// summary: Implements the BrowserViewLayout layout manager, its views collection, modal dialog host, and factory that selects tabbed, app, or popup layouts.
+// ---
+
 #include "chrome/browser/ui/views/frame/layout/browser_view_layout.h"
 
 #include <memory>

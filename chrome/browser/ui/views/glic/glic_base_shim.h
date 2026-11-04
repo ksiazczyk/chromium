@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic base shim with optional method mixins
+// summary: Template base class that lets Glic views work as multiple button types by supplying mixins for optional methods such as UpdateColors and SetWidthFactor.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_GLIC_GLIC_BASE_SHIM_H_
 #define CHROME_BROWSER_UI_VIEWS_GLIC_GLIC_BASE_SHIM_H_
 

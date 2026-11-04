@@ -1,0 +1,4 @@
+# Docerion header of immersive_mode_controller_mac_interactive_uitest.mm.
+type: test
+title: macOS immersive mode controller interactive UI tests
+summary: Interactive browser tests covering macOS immersive fullscreen behavior such as toolbar visibility, reveal interactions and widget placement.

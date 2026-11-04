@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media dialog view implementation
+// summary: Implements the bubble dialog that lists media sessions, including live caption controls and media item management.
+// ---
+
 #include "chrome/browser/ui/views/global_media_controls/media_dialog_view.h"
 
 #include <memory>

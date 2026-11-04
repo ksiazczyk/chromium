@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Import lock dialog view implementation
+// summary: Implements ImportLockDialogView, a modal dialog that asks the user to close the source browser before profile import and reports the user's choice via a callback.
+// ---
+
 #include "chrome/browser/ui/views/importer/import_lock_dialog_view.h"
 
 #include "base/functional/bind.h"

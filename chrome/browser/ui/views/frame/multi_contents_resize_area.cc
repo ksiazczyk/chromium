@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiContentsResizeArea implementation
+// summary: Implements the keyboard-accessible resize area and handle that adjust the split between two contents views in a MultiContentsView, including double-tap swapping of contents.
+// ---
+
 #include "chrome/browser/ui/views/frame/multi_contents_resize_area.h"
 
 #include "base/i18n/number_formatting.h"

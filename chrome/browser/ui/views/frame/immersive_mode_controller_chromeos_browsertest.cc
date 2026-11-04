@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS immersive mode controller browser tests
+// summary: Browser tests for the ChromeOS immersive mode controller, including regular and web app browser windows, caption buttons, and reveal behavior.
+// ---
+
 #include "chrome/browser/ui/views/frame/immersive_mode_controller_chromeos.h"
 
 #include "base/feature_list.h"

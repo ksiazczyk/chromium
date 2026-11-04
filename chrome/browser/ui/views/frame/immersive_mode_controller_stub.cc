@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub immersive mode controller implementation
+// summary: Provides a no-op immersive mode controller implementation for platforms that do not support immersive mode.
+// ---
+
 #include "chrome/browser/ui/views/frame/immersive_mode_controller_stub.h"
 
 #include "base/notreached.h"

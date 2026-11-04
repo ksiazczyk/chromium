@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser View App Layout Header
+// summary: Declares BrowserViewAppLayoutImpl, the specialized layout implementation for PWA browser windows.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_LAYOUT_BROWSER_VIEW_APP_LAYOUT_IMPL_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_LAYOUT_BROWSER_VIEW_APP_LAYOUT_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS immersive mode controller header
+// summary: Declares ImmersiveModeControllerChromeos, which delegates immersive fullscreen handling to the chromeos controller and observes window state changes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_IMMERSIVE_MODE_CONTROLLER_CHROMEOS_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_IMMERSIVE_MODE_CONTROLLER_CHROMEOS_H_
 

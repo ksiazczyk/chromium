@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlassFrameService implementation
+// summary: Implements the singleton service that decides glass frame eligibility for browser windows, including prefs and daily usage metrics reporting.
+// ---
+
 #include "chrome/browser/ui/views/frame/glass_frame_service.h"
 
 #include <memory>

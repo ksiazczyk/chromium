@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiContentsView implementation
+// summary: Implements the view that lays out up to two contents web views side by side, managing split view sizing, separators, backgrounds, drop targets and contents swapping.
+// ---
+
 #include "chrome/browser/ui/views/frame/multi_contents_view.h"
 
 #include <algorithm>

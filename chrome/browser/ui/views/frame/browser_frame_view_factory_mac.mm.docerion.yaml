@@ -1,0 +1,4 @@
+# Docerion header of browser_frame_view_factory_mac.mm.
+type: source
+title: Mac frame view factory
+summary: Creates the Mac browser frame view, or a picture-in-picture frame view for floating browser windows.

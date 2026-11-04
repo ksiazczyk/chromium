@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic button interface implementation
+// summary: Implements GlicButtonInterface::FromBrowser to fetch the Glic label button from the browser view.
+// ---
+
 #include "chrome/browser/ui/views/glic/glic_button_interface.h"
 
 #include "base/check.h"

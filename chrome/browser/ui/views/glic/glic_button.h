@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic Gemini button view
+// summary: Templated Gemini toolbar button with normal, nudge and collapsed width states, close button, context menu and animated width transitions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_GLIC_GLIC_BUTTON_H_
 #define CHROME_BROWSER_UI_VIEWS_GLIC_GLIC_BUTTON_H_
 

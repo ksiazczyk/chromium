@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Indigo toolbar unit tests
+// summary: Unit tests for the Indigo toolbar covering widget setup, button interactions, accessibility, and collapsed, expanded, and compact presentation states.
+// ---
+
 #include "chrome/browser/ui/views/indigo/indigo_toolbar.h"
 
 #include <memory>

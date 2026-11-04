@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for survey answer parsing and UKM encoding
+// summary: Unit tests verifying ParseSurveyQuestionAnswer accepts valid answer strings and rejects malformed, out-of-range, and overflowing input, plus EncodeUkmQuestionAnswers bit encoding.
+// ---
+
 #include "chrome/browser/ui/views/hats/hats_next_web_dialog.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TopContainerView implementation
+// summary: Implements the BrowserView top container, handling caption hit-testing, ChromeOS caption button exclusions, and painting frame elements beneath the toolbar during immersive reveal.
+// ---
+
 #include "chrome/browser/ui/views/frame/top_container_view.h"
 
 #include "chrome/browser/ui/browser_element_identifiers.h"

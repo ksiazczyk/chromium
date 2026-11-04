@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Caption Button Placeholder Container for PWA Window Controls Overlay
+// summary: Declares a non-interactive placeholder view that marks control button space as non-client area for PWAs using the window controls overlay display override.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_CAPTION_BUTTON_PLACEHOLDER_CONTAINER_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_CAPTION_BUTTON_PLACEHOLDER_CONTAINER_H_
 

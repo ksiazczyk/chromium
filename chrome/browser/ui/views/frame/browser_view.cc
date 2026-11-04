@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser view implementation
+// summary: Implements the main browser window view, coordinating the toolbar, tab strip, infobars, themes and many window-level features.
+// ---
+
 #include "chrome/browser/ui/views/frame/browser_view.h"
 
 #include <stdint.h>

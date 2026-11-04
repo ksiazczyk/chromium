@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Popup browser layout implementation
+// summary: Implements layout for popup, DevTools, and picture-in-picture windows, including minimum size calculation and top container placement.
+// ---
+
 #include "chrome/browser/ui/views/frame/layout/browser_view_popup_layout_impl.h"
 
 #include "chrome/browser/ui/views/frame/multi_contents_view.h"

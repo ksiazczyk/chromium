@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DbusAppmenu class declaration
+// summary: Declares DbusAppmenu, which controls the Mac-style DBus app menu bar on Linux desktop environments such as KDE Plasma.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_DBUS_APPMENU_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_DBUS_APPMENU_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS immersive mode overlay views header
+// summary: Declares the overlay widget and tab container overlay view that host the top container during immersive fullscreen on macOS.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_IMMERSIVE_MODE_OVERLAY_VIEWS_MAC_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_IMMERSIVE_MODE_OVERLAY_VIEWS_MAC_H_
 

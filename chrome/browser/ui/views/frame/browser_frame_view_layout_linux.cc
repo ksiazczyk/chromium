@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux browser frame view layout implementation
+// summary: Implements layout metrics for the Linux browser frame, including restored frame border insets, input insets, and caption button positioning with client-side shadows.
+// ---
+
 #include "chrome/browser/ui/views/frame/browser_frame_view_layout_linux.h"
 
 #include "base/i18n/rtl.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiContentsViewDropTargetController implementation
+// summary: Implements the controller managing the split view drag entrypoint, showing and hiding the drop target for dragged links, bookmarks and tab headers.
+// ---
+
 #include "chrome/browser/ui/views/frame/multi_contents_view_drop_target_controller.h"
 
 #include <algorithm>

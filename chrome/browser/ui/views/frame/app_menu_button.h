@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App menu button class declaration
+// summary: Declares the AppMenuButton toolbar button that lives in the top right of browser windows, shows three dots with a status badge, and displays the app menu when clicked.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_APP_MENU_BUTTON_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_APP_MENU_BUTTON_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows browser window property manager implementation
+// summary: Updates Windows browser window properties such as app user model ID and relaunch details based on profile and app type, watching profile icon version changes.
+// ---
+
 #include "chrome/browser/ui/views/frame/browser_window_property_manager_win.h"
 
 #include "base/command_line.h"

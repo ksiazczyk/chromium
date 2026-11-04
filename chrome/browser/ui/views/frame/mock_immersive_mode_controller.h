@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock immersive mode controller header
+// summary: Declares MockImmersiveModeController and MockImmersiveRevealedLock, gmock stand-ins used to fake immersive mode behavior in tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_MOCK_IMMERSIVE_MODE_CONTROLLER_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_MOCK_IMMERSIVE_MODE_CONTROLLER_H_
 

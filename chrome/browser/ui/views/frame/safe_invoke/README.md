@@ -1,3 +1,11 @@
+---
+type: readme
+title: SafeInvoke & SafeChain
+summary: Documents the SafeInvoke and SafeChain utilities for null-safe method chaining in C++, covering usage, warnings, supported callables, return types, and examples.
+relations:
+  - documents /chrome/browser/ui/views/frame/safe_invoke/safe_invoke.h
+---
+
 # SafeInvoke & SafeChain
 
 `SafeInvoke` provides safe navigation/optional chaining in complex C++

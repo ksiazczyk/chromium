@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Opaque browser frame view implementation
+// summary: Implements the opaque browser frame view, drawing the non-client frame, window title and icon, caption buttons, and handling non-client hit testing.
+// ---
+
 #include "chrome/browser/ui/views/frame/opaque_browser_frame_view.h"
 
 #include <algorithm>

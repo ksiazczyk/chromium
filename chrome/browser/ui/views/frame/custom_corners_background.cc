@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom corners background implementation
+// summary: Implements CustomCornersBackground, a views::Background painting square, rounded, or backed rounded corners with configurable colors, outlines, and glass blur effects.
+// ---
+
 #include "chrome/browser/ui/views/frame/custom_corners_background.h"
 
 #include <memory>

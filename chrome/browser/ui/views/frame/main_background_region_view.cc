@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Main background region view implementation
+// summary: Implements a non-interactive view that paints the main background region with custom corners blending toolbar and frame themes.
+// ---
+
 #include "chrome/browser/ui/views/frame/main_background_region_view.h"
 
 #include "chrome/browser/ui/views/frame/custom_corners_background.h"

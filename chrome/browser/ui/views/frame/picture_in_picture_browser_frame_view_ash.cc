@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Picture-in-picture browser frame view for ChromeOS ash
+// summary: ChromeOS ash implementation of the picture-in-picture frame view that installs resize handles and updates rounded window corners.
+// ---
+
 #include "chrome/browser/ui/views/frame/picture_in_picture_browser_frame_view_ash.h"
 
 #include "ash/wm/splitview/layout_divider_controller.h"

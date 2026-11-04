@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Horizontal tab strip region view interactive UI tests
+// summary: Interactive browser tests for the horizontal tab strip region, exercising tab search and new tab buttons, scrolling, and related metrics.
+// ---
+
 #include "chrome/browser/ui/views/frame/horizontal_tab_strip_region_view.h"
 
 #include "base/i18n/base_i18n_switches.h"

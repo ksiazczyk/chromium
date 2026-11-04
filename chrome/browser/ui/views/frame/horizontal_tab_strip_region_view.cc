@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Horizontal tab strip region view implementation
+// summary: Implements the view region that holds the tab strip, new tab and tab search buttons, and a frame grab handle within the browser window frame.
+// ---
+
 #include "chrome/browser/ui/views/frame/horizontal_tab_strip_region_view.h"
 
 #include "base/feature_list.h"

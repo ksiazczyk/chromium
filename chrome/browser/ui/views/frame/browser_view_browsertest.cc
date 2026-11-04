@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the browser view
+// summary: In-process browser tests covering BrowserView behavior such as fullscreen, layout, exclusive access and window features.
+// ---
+
 #include "chrome/browser/ui/views/frame/browser_view.h"
 
 #include <memory>

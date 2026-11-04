@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DbusAppmenuRegistrar class declaration
+// summary: Declares the singleton DbusAppmenuRegistrar that owns the shared DBus bus and advertises browser menu bars to the AppMenu registrar.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_DBUS_APPMENU_REGISTRAR_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_DBUS_APPMENU_REGISTRAR_H_
 

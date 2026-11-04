@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameSeparator class declaration
+// summary: Declares FrameSeparator, a views Separator that optionally uses a separate color id for inactive windows and subscribes to activity changes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_FRAME_SEPARATOR_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_FRAME_SEPARATOR_H_
 

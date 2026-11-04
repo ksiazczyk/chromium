@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic actor task icon button
+// summary: Templated label button view that renders the actor task icon and nudge label next to the Gemini button, with entry and nudge width animations.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_GLIC_GLIC_ACTOR_TASK_ICON_H_
 #define CHROME_BROWSER_UI_VIEWS_GLIC_GLIC_ACTOR_TASK_ICON_H_
 

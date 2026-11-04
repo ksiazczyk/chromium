@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameSeparator unit tests
+// summary: Unit tests verifying that FrameSeparator uses active or inactive colors correctly in active and inactive windows.
+// ---
+
 #include "chrome/browser/ui/views/frame/frame_separator.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

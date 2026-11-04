@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows system menu insertion delegate header
+// summary: Declares SystemMenuInsertionDelegateWin, which determines the insertion index for items added to the Windows system menu, needed only on Windows.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_SYSTEM_MENU_INSERTION_DELEGATE_WIN_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_SYSTEM_MENU_INSERTION_DELEGATE_WIN_H_
 

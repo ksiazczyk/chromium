@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows BrowserFrameView browser tests
+// summary: Windows-specific browser tests for caption buttons, touch mode maximize state and custom-drawn titlebars.
+// ---
+
 #include <tuple>
 
 #include "base/functional/bind.h"

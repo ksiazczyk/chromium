@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaItemUIDeviceSelectorView accessibility events browser test
+// summary: Browser test that dumps accessibility events for the device selector view using a stub delegate and mock device list host, with platform-specific event filters.
+// ---
+
 #include "build/build_config.h"
 #include "chrome/browser/ui/global_media_controls/media_item_ui_device_selector_delegate.h"
 #include "chrome/browser/ui/views/accessibility/dump_accessibility_events_views_browsertest_base.h"

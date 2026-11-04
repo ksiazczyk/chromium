@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Import lock dialog browser test
+// summary: Browser test that invokes the import lock dialog through the DialogBrowserTest harness and verifies its UI.
+// ---
+
 #include "chrome/browser/ui/views/importer/import_lock_dialog_view.h"
 
 #include <string>

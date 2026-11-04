@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Indigo toolbar build targets
+summary: Defines GN source sets for the Indigo toolbar, covering the public header, implementation, and unit tests with their build dependencies.

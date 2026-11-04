@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS immersive mode controller implementation
+// summary: Implements the ChromeOS immersive mode controller, adapting the browser view to the chromeos immersive fullscreen controller with reveal locks and repaints.
+// ---
+
 #include "chrome/browser/ui/views/frame/immersive_mode_controller_chromeos.h"
 
 #include <optional>

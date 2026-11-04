@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base tab strip region view implementation
+// summary: Implements the shared collection-based foundation for tab strip region views, wiring up controllers, drag handling, hover cards, and tab strip initialization and teardown.
+// ---
+
 #include "chrome/browser/ui/views/frame/base_tab_strip_region_view.h"
 
 #include <memory>

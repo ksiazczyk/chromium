@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Minimize button metrics for Windows implementation
+// summary: Implements MinimizeButtonMetrics, which computes the X coordinate of the native Windows minimize button using DWM caption bounds with a WM_GETTITLEBARINFOEX fallback.
+// ---
+
 
 #include "chrome/browser/ui/views/frame/minimize_button_metrics_win.h"
 

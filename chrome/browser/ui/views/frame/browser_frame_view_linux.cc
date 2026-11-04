@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux browser frame view with client-side decorations
+// summary: Implements the Linux browser frame view, drawing restored frame borders, shadows, and rounded corners and handling window button ordering changes.
+// ---
+
 #include "chrome/browser/ui/views/frame/browser_frame_view_linux.h"
 
 #include "base/notreached.h"

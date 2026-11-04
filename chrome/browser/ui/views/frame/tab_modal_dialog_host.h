@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab modal dialog host class declaration
+// summary: Declares TabModalDialogHost, which hosts and positions web contents modal dialogs relative to the contents container view.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_TAB_MODAL_DIALOG_HOST_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_TAB_MODAL_DIALOG_HOST_H_
 

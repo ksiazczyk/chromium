@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vertical tab strip background blur backdrop header
+// summary: Declares the VerticalTabStripBackgroundBlurBackdrop view that provides backdrop effects blurred into the vertical tab strip expand-on-hover background in Glass mode.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_VERTICAL_TAB_STRIP_BACKGROUND_BLUR_BACKDROP_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_VERTICAL_TAB_STRIP_BACKGROUND_BLUR_BACKDROP_H_
 

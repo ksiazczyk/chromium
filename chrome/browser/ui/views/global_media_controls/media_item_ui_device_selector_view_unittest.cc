@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaItemUIDeviceSelectorView unit tests
+// summary: Unit tests for the device selector view covering device updates, audio device entries, histograms, and accessibility events using mock providers and delegates.
+// ---
+
 #include "chrome/browser/ui/views/global_media_controls/media_item_ui_device_selector_view.h"
 
 #include <algorithm>

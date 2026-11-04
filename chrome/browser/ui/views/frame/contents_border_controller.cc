@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contents Border Controller Implementation
+// summary: Implements controllers that show or hide the tab-capture blue border on contents container views by observing web contents attach, detach, and capture state changes.
+// ---
+
 #include "chrome/browser/ui/views/frame/contents_border_controller.h"
 
 #include <optional>

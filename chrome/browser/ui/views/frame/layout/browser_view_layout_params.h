@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserLayoutParams and exclusion area definitions
+// summary: Defines BrowserLayoutExclusionArea and BrowserLayoutParams, describing the visual client area and frame-owned exclusion regions used to lay out browser window contents.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_LAYOUT_BROWSER_VIEW_LAYOUT_PARAMS_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_LAYOUT_BROWSER_VIEW_LAYOUT_PARAMS_H_
 

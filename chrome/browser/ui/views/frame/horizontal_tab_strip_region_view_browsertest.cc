@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Horizontal tab strip region view browser tests
+// summary: Browser tests verifying layout, sizing, and behavior of the horizontal tab strip region view with the tab strip unification feature disabled.
+// ---
+
 #include "chrome/browser/ui/views/frame/horizontal_tab_strip_region_view.h"
 
 #include <memory>

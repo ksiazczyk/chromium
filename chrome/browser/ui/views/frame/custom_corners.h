@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom corners base class header
+// summary: Declares CustomCorners with corner orientation enums, corner map and color choice types shared by custom corner views and backgrounds in the browser frame.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_CUSTOM_CORNERS_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_CUSTOM_CORNERS_H_
 

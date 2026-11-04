@@ -1,0 +1,4 @@
+# Docerion header of browser_frame_view_mac.mm.
+type: source
+title: Mac browser frame view implementation
+summary: Implements the Mac browser frame view, including fullscreen toolbar style, title layout, caption button placeholders, and fullscreen session metrics.

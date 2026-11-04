@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contents Separator Implementation
+// summary: Implements a thin separator view between the toolbar and content area, optionally layer-based, colored with the toolbar content area separator color.
+// ---
+
 #include "chrome/browser/ui/views/frame/contents_separator.h"
 
 #include <memory>

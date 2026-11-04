@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameSeparator implementation
+// summary: Implements a separator view that repaints with a distinct inactive color when its window is not in the paint-as-active state.
+// ---
+
 #include "chrome/browser/ui/views/frame/frame_separator.h"
 
 #include "ui/base/metadata/metadata_impl_macros.h"

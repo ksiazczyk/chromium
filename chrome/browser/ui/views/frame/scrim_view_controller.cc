@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrimViewController implementation
+// summary: Implements a TabStripModelObserver that shows or hides the scrims on contents container views whenever the active tab, blocked state, or split tabs change.
+// ---
+
 #include "chrome/browser/ui/views/frame/scrim_view_controller.h"
 
 #include "chrome/browser/ui/tabs/tab_strip_model.h"

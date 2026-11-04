@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-contents view mini toolbar implementation
+// summary: Implements the mini toolbar shown over the inactive side of a split view, displaying the favicon, domain, tab alert state, and a close button.
+// ---
+
 #include "chrome/browser/ui/views/frame/multi_contents_view_mini_toolbar.h"
 
 #include <optional>

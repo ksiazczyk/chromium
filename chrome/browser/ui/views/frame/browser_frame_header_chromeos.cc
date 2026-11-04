@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS browser frame header painting
+// summary: Implements painting of themed ChromeOS browser frame headers, including tiled frame images, rounded top corners, and caption button layout.
+// ---
+
 #include "chrome/browser/ui/views/frame/browser_frame_header_chromeos.h"
 
 #include "base/check.h"

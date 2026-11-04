@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows caption button implementation
+// summary: Implements the Windows minimize, maximize, restore, and close caption buttons, including preferred sizing, foreground colors, and hover background painting for Windows 10 and 11.
+// ---
+
 #include "chrome/browser/ui/views/frame/windows_caption_button.h"
 
 #include <memory>

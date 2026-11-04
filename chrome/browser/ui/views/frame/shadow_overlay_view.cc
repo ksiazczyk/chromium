@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShadowOverlayView implementation
+// summary: Implements the overlay that frames the main browser area with a drop shadow while the side panel is showing, including opaque corner views whose clip paths sync with the shadow box.
+// ---
+
 #include "chrome/browser/ui/views/frame/shadow_overlay_view.h"
 
 #include <memory>

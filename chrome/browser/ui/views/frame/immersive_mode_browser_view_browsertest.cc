@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Immersive mode browser view browser tests
+// summary: Browser tests for ChromeOS immersive fullscreen mode, covering tab navigation accelerators, revealer behavior, and find bar interactions.
+// ---
+
 #include <cmath>
 #include <memory>
 

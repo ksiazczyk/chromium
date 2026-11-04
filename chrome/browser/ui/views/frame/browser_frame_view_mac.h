@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac browser frame view class declaration
+// summary: Declares the Mac implementation of BrowserFrameView, handling fullscreen toolbar visibility, caption buttons, window controls overlay, and themed frame painting.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_BROWSER_FRAME_VIEW_MAC_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_BROWSER_FRAME_VIEW_MAC_H_
 

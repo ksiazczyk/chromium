@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows browser desktop window tree host implementation
+// summary: Implements the Windows browser desktop window tree host with system menu handling, virtual desktop tracking, window icon updates, and frame mode decisions.
+// ---
+
 #include "chrome/browser/ui/views/frame/browser_desktop_window_tree_host_win.h"
 
 #include <windows.h>

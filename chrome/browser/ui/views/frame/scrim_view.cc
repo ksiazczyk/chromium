@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrimView implementation
+// summary: Implements a non-interactive view that paints a semi-transparent scrim over browser contents on its own layer, with support for rounded corners and accessibility invisibility.
+// ---
+
 #include "chrome/browser/ui/views/frame/scrim_view.h"
 
 #include "ui/base/metadata/metadata_impl_macros.h"

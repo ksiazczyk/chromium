@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserWidget implementation
+// summary: Implements the browser window widget, managing frame views, themes, window placement, keyboard event handling, and context menus.
+// ---
+
 #include "chrome/browser/ui/views/frame/browser_widget.h"
 
 #include <memory>

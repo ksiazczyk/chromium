@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Immersive mode test helper implementation
+// summary: Implements a test helper that waits for immersive reveal and fullscreen transitions and verifies the active tab after a reveal.
+// ---
+
 #include "chrome/browser/ui/views/frame/immersive_mode_tester.h"
 
 #include "chrome/browser/ui/browser_command_controller.h"

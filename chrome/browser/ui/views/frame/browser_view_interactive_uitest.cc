@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserView interactive UI tests
+// summary: Interactive browser tests covering BrowserView behaviors such as fullscreen focus handling, exclusive access, tab modal dialogs, and window activation.
+// ---
+
 #include "chrome/browser/ui/views/frame/browser_view.h"
 
 #include "base/strings/string_util.h"

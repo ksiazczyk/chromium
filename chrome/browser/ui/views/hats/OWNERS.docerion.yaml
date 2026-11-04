@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS pointer to the HaTS service directory
+summary: Delegates code ownership for this views directory to the OWNERS file of chrome/browser/ui/hats.

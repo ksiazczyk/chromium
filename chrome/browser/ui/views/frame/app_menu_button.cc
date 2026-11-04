@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App menu button implementation
+// summary: Implements the toolbar app menu button that shows the three-dot menu, handling menu opening, closing, anchoring, and the newer action-based menu variant.
+// ---
+
 #include "chrome/browser/ui/views/frame/app_menu_button.h"
 
 #include <utility>

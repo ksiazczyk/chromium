@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndigoToolbar class declaration
+// summary: Declares the IndigoToolbar class, its delegate interface, element identifiers, and timing constants for a toolbar widget drawn over web content.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_INDIGO_INDIGO_TOOLBAR_H_
 #define CHROME_BROWSER_UI_VIEWS_INDIGO_INDIGO_TOOLBAR_H_
 

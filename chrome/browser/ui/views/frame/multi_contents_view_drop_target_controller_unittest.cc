@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multi-contents view drop target controller unit tests
+// summary: Unit tests for the multi-contents view drop target controller, covering drop target and nudge visibility, animations, RTL handling, and user actions during tab and link drags in split view.
+// ---
+
 #include "chrome/browser/ui/views/frame/multi_contents_view_drop_target_controller.h"
 
 #include <memory>

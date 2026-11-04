@@ -1,3 +1,13 @@
+---
+type: readme
+title: Browser Window Explainer
+summary: Explains the structure of a browser window, describing the roles of BrowserWidget, BrowserNativeWidget, BrowserFrameView, and BrowserView with a diagram and guidance on where functionality belongs.
+relations:
+  - documents /chrome/browser/ui/views/frame/browser_frame_view.h
+  - documents /chrome/browser/ui/views/frame/browser_native_widget.h
+  - documents /chrome/browser/ui/views/frame/browser_view.h
+---
+
 # Browser Window Explainer
 
 Each browser window has the same structure, depicted below:

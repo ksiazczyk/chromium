@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multi-contents view interactive UI tests
+// summary: Interactive browser tests exercising the multi-contents split view, including resizing, drop targets, mini toolbar, bookmark bar, and side panel interactions.
+// ---
+
 #include "chrome/browser/ui/views/frame/multi_contents_view.h"
 
 #include "base/functional/bind.h"

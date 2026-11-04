@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native toolkit frame layout for Linux browser frames
+// summary: Implements Linux frame layout that uses native toolkit nav button providers and window frame providers for border insets and caption button spacing.
+// ---
+
 #include "chrome/browser/ui/views/frame/browser_frame_view_layout_linux_native.h"
 
 #include "chrome/browser/ui/views/frame/opaque_browser_frame_view_layout.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media toolbar button contextual menu browser tests
+// summary: In-process browser tests verifying the media toolbar button contextual menu's report-issue command, including Google Chrome branding and feedback-disabled dialog behavior.
+// ---
+
 #include "chrome/browser/ui/views/global_media_controls/media_toolbar_button_contextual_menu.h"
 
 #include <memory>

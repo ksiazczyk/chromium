@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media item device selector view implementation
+// summary: Implements the view listing audio and cast devices for transferring a media session, with usage metrics recording.
+// ---
+
 #include "chrome/browser/ui/views/global_media_controls/media_item_ui_device_selector_view.h"
 
 #include <algorithm>

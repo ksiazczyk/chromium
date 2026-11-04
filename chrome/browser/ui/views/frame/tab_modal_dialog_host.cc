@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab modal dialog host implementation
+// summary: Implements positioning and sizing of tab modal dialogs relative to the contents container view within the browser window.
+// ---
+
 #include "chrome/browser/ui/views/frame/tab_modal_dialog_host.h"
 
 #include "base/feature_list.h"

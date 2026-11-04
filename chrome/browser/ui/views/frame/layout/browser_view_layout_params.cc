@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserLayoutParams implementation
+// summary: Implements BrowserLayoutParams methods for insetting the visual client area, shrinking exclusion areas, and streaming debug output.
+// ---
+
 #include "chrome/browser/ui/views/frame/layout/browser_view_layout_params.h"
 
 #include <ostream>

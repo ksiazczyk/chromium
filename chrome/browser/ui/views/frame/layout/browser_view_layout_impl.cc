@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser View Layout Impl Implementation
+// summary: Implements BrowserViewLayoutImpl and its ProposedLayout tree used to compute and apply browser view layouts.
+// ---
+
 #include "chrome/browser/ui/views/frame/layout/browser_view_layout_impl.h"
 
 #include "base/check.h"

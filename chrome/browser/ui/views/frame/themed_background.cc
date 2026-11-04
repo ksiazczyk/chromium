@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThemedBackground implementation
+// summary: Implements painting of themed toolbar and frame backgrounds, tiling custom theme images aligned to the BrowserView coordinate system or falling back to theme-aware solid colors.
+// ---
+
 #include "chrome/browser/ui/views/frame/themed_background.h"
 
 #include <optional>

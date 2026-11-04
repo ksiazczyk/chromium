@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafeInvoke & SafeChain header
+// summary: Header implementing SafeInvoke and SafeChain, which provide null-safe navigation and method chaining for raw pointers, smart pointers, and Chromium callbacks in C++.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_SAFE_INVOKE_SAFE_INVOKE_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_SAFE_INVOKE_SAFE_INVOKE_H_
 

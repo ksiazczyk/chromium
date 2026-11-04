@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi contents background view implementation
+// summary: Implements MultiContentsBackgroundView, which paints the split-view browser background using an efficient solid color or textured layer with rounded corners.
+// ---
+
 #include "chrome/browser/ui/views/frame/multi_contents_background_view.h"
 
 #include "chrome/browser/ui/views/frame/themed_background.h"

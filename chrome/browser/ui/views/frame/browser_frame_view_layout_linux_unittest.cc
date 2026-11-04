@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Linux frame view layout insets
+// summary: Unit tests verifying that Linux frame border insets collapse to input insets for tiled windows and remain larger for normal windows.
+// ---
+
 #include "chrome/browser/ui/views/frame/browser_frame_view_layout_linux.h"
 
 #include "build/build_config.h"

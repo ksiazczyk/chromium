@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vertical tab strip region view browser tests
+// summary: Browser tests covering vertical tab strip region layout, overflow wrapping, tab groups and split tabs, time-to-switch metrics, and expand-on-hover behavior.
+// ---
+
 #include "chrome/browser/ui/views/frame/vertical_tab_strip_region_view.h"
 
 #include "base/i18n/language_tag.h"

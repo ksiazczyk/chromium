@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web contents close handler implementation
+// summary: Implements the timing for cloning and destroying the active tab's layer tree so closing all tabs shows the last web contents instead of an empty rect.
+// ---
+
 #include "chrome/browser/ui/views/frame/web_contents_close_handler.h"
 
 #include "chrome/browser/ui/views/frame/web_contents_close_handler_delegate.h"

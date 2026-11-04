@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Glic views build configuration
+summary: GN build file defining the glic source set, listing its non-Android sources and dependencies on browser and views targets.

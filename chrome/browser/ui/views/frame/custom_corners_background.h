@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom corners background header
+// summary: Declares CustomCornersBackground, a background with configurable corner types, radii, colors, and outline strokes used by top-level browser elements to avoid overdrawing corners.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_CUSTOM_CORNERS_BACKGROUND_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_CUSTOM_CORNERS_BACKGROUND_H_
 

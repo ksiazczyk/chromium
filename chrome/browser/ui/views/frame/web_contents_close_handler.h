@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web contents close handler header
+// summary: Declares WebContentsCloseHandler, which notifies its delegate when to clone or destroy the active tab layer during close-all-tabs flows, including a timer for canceled closes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_WEB_CONTENTS_CLOSE_HANDLER_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_WEB_CONTENTS_CLOSE_HANDLER_H_
 

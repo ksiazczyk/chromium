@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiContentsViewDelegate implementation
+// summary: Implements the delegate that performs browser and tab strip operations for MultiContentsView, such as activating focused contents, resizing splits and handling link or tab drops.
+// ---
+
 #include "chrome/browser/ui/views/frame/multi_contents_view_delegate.h"
 
 #include "chrome/browser/sessions/session_service.h"

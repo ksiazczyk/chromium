@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash browser native widget implementation
+// summary: Implements the Ash native widget for ChromeOS browser windows, handling auto window management, fullscreen toggling, and session restore.
+// ---
+
 #include "chrome/browser/ui/views/frame/browser_native_widget_ash.h"
 
 #include <memory>

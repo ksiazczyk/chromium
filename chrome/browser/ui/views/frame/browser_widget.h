@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserWidget interface
+// summary: Declares the BrowserWidget virtual interface over views::Widget for browser windows, covering frame view access, keyboard events, and theme changes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_BROWSER_WIDGET_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_BROWSER_WIDGET_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media item UI helper implementation
+// summary: Implements shared helpers that decide when to show the device selector, create Mojo host and client pairs, and build device selectors and footers for media items.
+// ---
+
 #include "chrome/browser/ui/views/global_media_controls/media_item_ui_helper.h"
 
 #include "chrome/app/vector_icons/vector_icons.h"

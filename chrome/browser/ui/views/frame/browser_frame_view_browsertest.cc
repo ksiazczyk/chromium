@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserFrameView browser tests
+// summary: Browser tests verifying frame view behavior such as themes, page actions and web app frame toolbars.
+// ---
+
 #include "chrome/browser/ui/views/frame/browser_frame_view.h"
 
 #include "base/memory/raw_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Picture-in-picture browser frame view interactive UI tests
+// summary: Interactive browser tests covering the picture-in-picture frame view, including document PiP windows, content setting icons, permissions and window behavior.
+// ---
+
 #include "chrome/browser/ui/views/frame/picture_in_picture_browser_frame_view.h"
 
 #include <optional>

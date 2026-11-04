@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripRegionView interface
+// summary: Declares the abstract TabStripRegionView base class that centralizes tabstrip interactions such as expand-on-hover locks, drag-and-drop, tab and group anchoring, and glass frame notifications for BrowserView.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_TAB_STRIP_REGION_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_TAB_STRIP_REGION_VIEW_H_
 

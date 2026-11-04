@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows browser frame view implementation
+// summary: Implements the Windows browser frame view with custom-drawn titlebar, window icon and throbber, caption button container, and non-client hit testing.
+// ---
+
 #include "chrome/browser/ui/views/frame/browser_frame_view_win.h"
 
 #include <dwmapi.h>

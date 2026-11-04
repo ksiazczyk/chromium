@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media dialog view interactive browser tests
+// summary: Interactive browser tests covering the media dialog, toolbar icon behavior, live caption, and presentation flows.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/functional/callback_helpers.h"
 #include "base/i18n/language_tag.h"

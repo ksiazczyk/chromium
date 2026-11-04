@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShadowOverlayView header
+// summary: Declares ShadowOverlayView, a layout delegate view responsible for framing primary UI elements with a drop shadow when the side panel is showing.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FRAME_SHADOW_OVERLAY_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_FRAME_SHADOW_OVERLAY_VIEW_H_
 

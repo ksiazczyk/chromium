@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom corners painting implementation
+// summary: Implements CustomCorners, the shared base class that paints rounded browser corners with theme- or color-driven fills, RTL-aware corner mapping, and clip paths.
+// ---
+
 #include "chrome/browser/ui/views/frame/custom_corners.h"
 
 #include "base/check_op.h"

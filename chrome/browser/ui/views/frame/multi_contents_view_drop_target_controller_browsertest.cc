@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MultiContentsViewDropTargetController browser tests
+// summary: In-process browser tests verifying drop target controller behavior for simulated tab drags, including drop timers and drop target visibility.
+// ---
+
 #include "chrome/browser/ui/views/frame/multi_contents_view_drop_target_controller.h"
 
 #include <memory>

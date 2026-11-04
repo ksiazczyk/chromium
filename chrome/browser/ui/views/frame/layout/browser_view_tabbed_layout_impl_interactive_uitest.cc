@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tabbed browser layout interactive UI tests
+// summary: Interactive browser tests covering tabbed browser layout behavior, including side panels, immersive mode, split tabs, and vertical tab strips.
+// ---
+
 #include "chrome/browser/ui/views/frame/layout/browser_view_tabbed_layout_impl.h"
 
 #include <initializer_list>

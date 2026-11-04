@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tabbed browser layout implementation
+// summary: Implements the specialized layout for normal tabbed browser windows, covering tab strips, side panels, bookmark bar, and vertical tab strip animations.
+// ---
+
 #include "chrome/browser/ui/views/frame/layout/browser_view_tabbed_layout_impl.h"
 
 #include <algorithm>
