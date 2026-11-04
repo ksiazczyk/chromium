@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the declarative web request rules registry
+// summary: Tests the web request rules registry, covering rule creation, URL matching, and renderer cache clearing on navigation.
+// ---
+
 #include "extensions/browser/api/declarative_webrequest/webrequest_rules_registry.h"
 
 #include <stddef.h>

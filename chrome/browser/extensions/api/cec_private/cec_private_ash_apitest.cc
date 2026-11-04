@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cec_private_ash_apitest.cc
+// summary: Browser API tests for the cecPrivate extension API, checking all API functions in a kiosk session via a fake CecServiceClient and that the API is unavailable outside kiosk.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "chrome/browser/extensions/extension_apitest.h"
 #include "chromeos/ash/components/dbus/cec_service/cec_service_client.h"

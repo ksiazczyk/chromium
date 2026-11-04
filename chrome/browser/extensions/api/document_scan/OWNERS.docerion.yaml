@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Document scan API code owners
+summary: Lists the owners of the document scan API directory and delegates type converter files to the IPC security owners.

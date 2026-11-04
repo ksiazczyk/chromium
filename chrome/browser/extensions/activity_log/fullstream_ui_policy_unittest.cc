@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FullStreamUIPolicy unit tests
+// summary: Unit tests for the full-stream UI policy, exercising filtered data reads, action queuing and database flushing across browser test environments.
+// ---
+
 #include "chrome/browser/extensions/activity_log/fullstream_ui_policy.h"
 
 #include <stdint.h>

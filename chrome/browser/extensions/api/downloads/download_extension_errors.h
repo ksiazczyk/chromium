@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download extension error message constants
+// summary: Header defining error message strings returned through chrome.runtime.lastError for the chrome.downloads extension API.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_DOWNLOADS_DOWNLOAD_EXTENSION_ERRORS_H_
 #define CHROME_BROWSER_EXTENSIONS_API_DOWNLOADS_DOWNLOAD_EXTENSION_ERRORS_H_
 

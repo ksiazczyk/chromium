@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA issue tracker metadata for autofill_private
+summary: Maps the directory to the UI>Settings monorail component and a Buganizer component for issue routing.

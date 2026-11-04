@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content action implementation
+// summary: Implements concrete declarative content API actions such as showing the extension action, setting icons, and requesting content script injection.
+// ---
+
 #include "chrome/browser/extensions/api/declarative_content/content_action.h"
 
 #include <map>

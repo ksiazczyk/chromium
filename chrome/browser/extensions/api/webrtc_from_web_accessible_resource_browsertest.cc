@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC from web accessible resource browser test
+// summary: Browser test verifying that getUserMedia works from a chrome-extension web accessible URL in an insecure context, subject to permission prompts.
+// ---
+
 #include "base/command_line.h"
 #include "build/build_config.h"
 #include "chrome/browser/extensions/extension_apitest.h"

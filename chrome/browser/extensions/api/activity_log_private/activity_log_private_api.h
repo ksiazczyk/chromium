@@ -6,6 +6,12 @@
 // monitoring framework for extension behavior. Only specific Google-produced
 // extensions should have access to it.
 
+// ---docerion
+// type: source
+// title: Activity Log private API header
+// summary: Declares the ActivityLogAPI browser-context-keyed service and the extension functions behind the activityLogPrivate API.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_ACTIVITY_LOG_PRIVATE_ACTIVITY_LOG_PRIVATE_API_H_
 #define CHROME_BROWSER_EXTENSIONS_API_ACTIVITY_LOG_PRIVATE_ACTIVITY_LOG_PRIVATE_API_H_
 

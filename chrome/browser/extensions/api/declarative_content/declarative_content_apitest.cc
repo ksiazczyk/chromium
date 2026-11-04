@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Declarative Content API browser tests
+// summary: End-to-end browser tests for the declarative Content API, covering page URL, CSS, and bookmark conditions including incognito split behavior.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/functional/callback_helpers.h"
 #include "base/strings/stringprintf.h"

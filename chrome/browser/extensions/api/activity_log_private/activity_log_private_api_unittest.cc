@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Activity Log private API unit tests
+// summary: Unit tests verifying that API call and DOM access actions convert correctly into ExtensionActivity values.
+// ---
+
 #include "chrome/browser/extensions/api/activity_log_private/activity_log_private_api.h"
 
 #include <memory>

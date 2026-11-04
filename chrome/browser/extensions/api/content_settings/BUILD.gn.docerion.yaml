@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the content_settings extension API
+summary: GN build file that defines the content_settings source_set, listing its sources and dependencies for the extensions content settings API.

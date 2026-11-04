@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default content predicate evaluators factory
+// summary: Creates the default set of predicate evaluators for page URL, CSS selector, and bookmarked conditions used by declarative content rules.
+// ---
+
 #include "chrome/browser/extensions/api/declarative_content/default_content_predicate_evaluators.h"
 
 #include "chrome/browser/extensions/api/declarative_content/declarative_content_css_condition_tracker.h"

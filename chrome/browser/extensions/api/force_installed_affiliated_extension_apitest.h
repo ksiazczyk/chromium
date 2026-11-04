@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Force-installed affiliated extension API test helper
+// summary: Declares a helper test class for exercising force-installed extensions in affiliated and non-affiliated user profiles.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_FORCE_INSTALLED_AFFILIATED_EXTENSION_APITEST_H_
 #define CHROME_BROWSER_EXTENSIONS_API_FORCE_INSTALLED_AFFILIATED_EXTENSION_APITEST_H_
 

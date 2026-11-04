@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Certificate provider API browser tests
+// summary: Browser tests for the certificateProvider extension API, exercising certificate reporting, signing, PIN dialogs, and policy behavior with a test extension.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 #include <stdlib.h>

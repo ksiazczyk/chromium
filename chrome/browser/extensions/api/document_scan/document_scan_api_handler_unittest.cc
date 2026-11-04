@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Document scan API handler unit tests
+// summary: Unit tests for DocumentScanAPIHandler covering scanner discovery, opening, options, scanning, and cancellation using a fake Lorgnette scanner manager.
+// ---
+
 #include "chrome/browser/extensions/api/document_scan/document_scan_api_handler.h"
 
 #include <algorithm>

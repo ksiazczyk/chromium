@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmarks API watcher header
+// summary: Declares the BookmarksApiWatcher keyed service and its observer interface for receiving bookmarks API invocation notifications.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_BOOKMARKS_BOOKMARKS_API_WATCHER_H_
 #define CHROME_BROWSER_EXTENSIONS_API_BOOKMARKS_BOOKMARKS_API_WATCHER_H_
 

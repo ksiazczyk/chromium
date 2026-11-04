@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the contextual_tasks_private directory
+summary: Grants include access to chrome/browser/contextual_tasks for code in this directory.

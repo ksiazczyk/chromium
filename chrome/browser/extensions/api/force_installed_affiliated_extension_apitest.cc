@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Force-installed affiliated extension API test implementation
+// summary: Implements a browser test base that force-installs extensions and tests them in affiliated or non-affiliated user profiles on ChromeOS.
+// ---
+
 #include "chrome/browser/extensions/api/force_installed_affiliated_extension_apitest.h"
 
 #include <optional>

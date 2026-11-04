@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrlAPI keycode map header
+// summary: Declares BrlapiKeyCodeToEvent, which converts a BrlAPI key code into a braille KeyEvent object.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_BRAILLE_DISPLAY_PRIVATE_BRLAPI_KEYCODE_MAP_H_
 #define CHROME_BROWSER_EXTENSIONS_API_BRAILLE_DISPLAY_PRIVATE_BRLAPI_KEYCODE_MAP_H_
 

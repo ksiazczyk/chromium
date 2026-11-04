@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension DevTools infobar delegate implementation
+// summary: Implements the global infobar that warns users when an extension is debugging the browser, with autoclose behavior and a Cancel button that detaches debuggers.
+// ---
+
 #include "chrome/browser/extensions/api/debugger/extension_dev_tools_infobar_delegate.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the cookies extensions API folder
+summary: Maps the cookies extensions API directory to the Platform>Extensions>API monorail component and a Buganizer component for issue tracking.

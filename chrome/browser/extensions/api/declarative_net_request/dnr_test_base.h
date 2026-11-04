@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DNR test base header
+// summary: Declares DNRTestBase, the parameterized base fixture for Declarative Net Request API tests supporting packed and unpacked extension loads.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_DECLARATIVE_NET_REQUEST_DNR_TEST_BASE_H_
 #define CHROME_BROWSER_EXTENSIONS_API_DECLARATIVE_NET_REQUEST_DNR_TEST_BASE_H_
 

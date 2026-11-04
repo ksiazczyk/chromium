@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrlAPI connection implementation
+// summary: Implements BrlapiConnection over libbrlapi, connecting to brltty, entering tty mode and providing display size, dot writing and key reading.
+// ---
+
 #include "chrome/browser/extensions/api/braille_display_private/brlapi_connection.h"
 
 #include <errno.h>

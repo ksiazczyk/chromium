@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Declarative Net Request unit tests
+// summary: Unit tests for the declarative net request API covering rule parsing, ruleset installation, manifest handling and error reporting.
+// ---
+
 #include "extensions/common/api/declarative_net_request.h"
 
 #include <stddef.h>

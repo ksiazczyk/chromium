@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise hardware platform API unit tests
+// summary: Unit tests verifying hardware platform info is returned when the managed preference allows the API and errors are returned otherwise.
+// ---
+
 #include "chrome/browser/extensions/api/enterprise_hardware_platform/enterprise_hardware_platform_api.h"
 
 #include <memory>

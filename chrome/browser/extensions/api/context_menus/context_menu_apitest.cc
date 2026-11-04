@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser API tests for the contextMenus extension API
+// summary: In-process browser tests verifying the chrome.contextMenus extension API, including menu creation, counting, and behavior from multiple script contexts.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

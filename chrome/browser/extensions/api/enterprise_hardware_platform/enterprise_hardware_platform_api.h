@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise hardware platform API header
+// summary: Declares the ExtensionFunction subclass that handles the enterprise.hardwarePlatform.getHardwarePlatformInfo call.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_ENTERPRISE_HARDWARE_PLATFORM_ENTERPRISE_HARDWARE_PLATFORM_API_H_
 #define CHROME_BROWSER_EXTENSIONS_API_ENTERPRISE_HARDWARE_PLATFORM_ENTERPRISE_HARDWARE_PLATFORM_API_H_
 

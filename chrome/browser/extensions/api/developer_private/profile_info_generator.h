@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CreateProfileInfo declaration
+// summary: Declares CreateProfileInfo, a helper that produces developerPrivate ProfileInfo from a profile.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_DEVELOPER_PRIVATE_PROFILE_INFO_GENERATOR_H_
 #define CHROME_BROWSER_EXTENSIONS_API_DEVELOPER_PRIVATE_PROFILE_INFO_GENERATOR_H_
 

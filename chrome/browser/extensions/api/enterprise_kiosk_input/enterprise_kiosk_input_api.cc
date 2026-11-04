@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise kiosk input API implementation
+// summary: Implements the enterprise.kioskInput.setCurrentInputMethod extension function, which validates the requested input method and switches the active ChromeOS input method.
+// ---
+
 #include "chrome/browser/extensions/api/enterprise_kiosk_input/enterprise_kiosk_input_api.h"
 
 #include <algorithm>

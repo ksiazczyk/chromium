@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeveloperPrivate API service implementation
+// summary: Implements the profile-keyed DeveloperPrivateAPI service that backs the chrome.developerPrivate extension API and tracks allowed unpacked paths and dragged files per web contents.
+// ---
+
 #include "chrome/browser/extensions/api/developer_private/developer_private_api.h"
 
 #include "base/lazy_instance.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Downloads extension API browser tests
+// summary: Browser tests covering the behavior of the chrome.downloads extension API, including download lifecycle, events, and permissions.
+// ---
+
 #include "chrome/browser/extensions/api/downloads/downloads_api.h"
 
 #include <stddef.h>

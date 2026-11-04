@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension DevTools Android message delegate implementation
+// summary: Implements the Android message warning that an extension is debugging the browser, shown as an urgent window-scoped message with a Cancel action.
+// ---
+
 #include "chrome/browser/extensions/api/debugger/extension_dev_tools_message_delegate.h"
 
 #include <memory>

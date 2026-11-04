@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the contextMenus extension API functions
+// summary: Implements the contextMenus create, update, remove, and removeAll extension functions, delegating menu item changes to the menu manager and helpers.
+// ---
+
 #include "chrome/browser/extensions/api/context_menus/context_menus_api.h"
 
 #include <string>

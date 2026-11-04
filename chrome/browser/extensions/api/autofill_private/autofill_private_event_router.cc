@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill private event router implementation
+// summary: Implements the router that observes personal autofill data, entity instances and sync state changes and broadcasts autofillPrivate API events to extension listeners.
+// ---
+
 #include "chrome/browser/extensions/api/autofill_private/autofill_private_event_router.h"
 
 #include <algorithm>

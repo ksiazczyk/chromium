@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: chrome.brailleDisplayPrivate extension API implementation
+// summary: Implements the brailleDisplayPrivate extension API, broadcasting display state and key events to extensions and routing API functions to the braille controller.
+// ---
+
 #include "chrome/browser/extensions/api/braille_display_private/braille_display_private_api.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document scan API handler implementation
+// summary: Implements the browser-side handler that processes documentScan API calls and converts Lorgnette backend responses into API responses.
+// ---
+
 #include "chrome/browser/extensions/api/document_scan/document_scan_api_handler.h"
 
 #include <algorithm>

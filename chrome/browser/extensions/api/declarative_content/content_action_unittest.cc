@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content action unit tests
+// summary: Unit tests verifying creation, validation, and application of declarative content API actions, including content script requests.
+// ---
+
 #include "chrome/browser/extensions/api/declarative_content/content_action.h"
 
 #include <stdint.h>

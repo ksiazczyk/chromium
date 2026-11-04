@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Activity Log Private build definition
+summary: GN build file defining the activity_log_private source set with its sources and dependencies.

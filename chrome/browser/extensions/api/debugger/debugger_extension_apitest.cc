@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Debugger extension API test with command-line switches
+// summary: Runs the debugger_extension browser test with the silent debugger API and extensions-on-Chrome-URLs switches enabled.
+// ---
+
 #include "base/command_line.h"
 #include "chrome/browser/extensions/extension_apitest.h"
 #include "chrome/common/chrome_switches.h"

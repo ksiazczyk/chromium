@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise hardware platform API implementation
+// summary: Implements the enterprise.hardwarePlatform.getHardwarePlatformInfo extension function, returning manufacturer and model only when the managed policy preference enables the API.
+// ---
+
 #include "chrome/browser/extensions/api/enterprise_hardware_platform/enterprise_hardware_platform_api.h"
 
 #include <utility>

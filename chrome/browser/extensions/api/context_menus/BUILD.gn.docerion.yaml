@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the context_menus source set
+summary: GN build file defining the context_menus source set with its source files and dependencies for the extension context menus API.

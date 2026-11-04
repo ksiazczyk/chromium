@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Counting policy header
+// summary: Declares CountingPolicy, an activity log database policy that merges identical actions per day, strips arguments, and manages retention and data removal.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_ACTIVITY_LOG_COUNTING_POLICY_H_
 #define CHROME_BROWSER_EXTENSIONS_ACTIVITY_LOG_COUNTING_POLICY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the extension rules registry service
+// summary: Unit tests covering RulesRegistryService registration, multithreaded rule insertion, lookup, and rule cleanup on extension uninstall.
+// ---
+
 #include "extensions/browser/api/declarative/rules_registry_service.h"
 
 #include <stddef.h>

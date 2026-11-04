@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for braille_display_private
+summary: Declares the Chromium issue-tracking component, accessibility team email and Buganizer component for this directory.

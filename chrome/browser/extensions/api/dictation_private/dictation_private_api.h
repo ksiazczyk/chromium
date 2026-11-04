@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: dictationPrivate extension API declarations
+// summary: Declares the extension function classes that back the dictationPrivate API functions.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_DICTATION_PRIVATE_DICTATION_PRIVATE_API_H_
 #define CHROME_BROWSER_EXTENSIONS_API_DICTATION_PRIVATE_DICTATION_PRIVATE_API_H_
 

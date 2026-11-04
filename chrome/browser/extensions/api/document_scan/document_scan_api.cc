@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document scan extension function implementations
+// summary: Implements the chrome.documentScan extension functions such as scan, getScannerList, openScanner, and setOptions by delegating to the API handler.
+// ---
+
 #include "chrome/browser/extensions/api/document_scan/document_scan_api.h"
 
 #include <optional>

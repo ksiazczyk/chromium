@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the command_line_private extension API
+summary: GN build file defining the command_line_private source set with its sources and dependencies on base, Chrome extension API targets, and the extensions browser layer.

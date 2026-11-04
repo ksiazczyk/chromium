@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document scan test utilities
+// summary: Declares helper functions that create test scanner info, scanner options and option setting lists for document scan tests.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_DOCUMENT_SCAN_DOCUMENT_SCAN_TEST_UTILS_H_
 #define CHROME_BROWSER_EXTENSIONS_API_DOCUMENT_SCAN_DOCUMENT_SCAN_TEST_UTILS_H_
 

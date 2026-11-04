@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CSS condition tracker unit tests
+// summary: Unit tests for the CSS condition tracker covering predicate creation, tracking, and selector matching with an intercepting renderer startup helper.
+// ---
+
 #include "chrome/browser/extensions/api/declarative_content/declarative_content_css_condition_tracker.h"
 
 #include <memory>

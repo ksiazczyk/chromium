@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentPredicateEvaluator base implementation
+// summary: Implements default constructors and destructors for the ContentPredicateEvaluator class and its Delegate in the declarative content API.
+// ---
+
 #include "chrome/browser/extensions/api/declarative_content/content_predicate_evaluator.h"
 
 #include "extensions/buildflags/buildflags.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome automation internal API delegate header
+// summary: Declares ChromeAutomationInternalApiDelegate, the Chrome-specific implementation of the automation internal API delegate interface.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_AUTOMATION_INTERNAL_CHROME_AUTOMATION_INTERNAL_API_DELEGATE_H_
 #define CHROME_BROWSER_EXTENSIONS_API_AUTOMATION_INTERNAL_CHROME_AUTOMATION_INTERNAL_API_DELEGATE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: dictation_private build definition
+summary: GN build file defining the dictation_private source set with its sources and build dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentPredicate and ContentPredicateFactory interfaces
+// summary: Defines the ContentPredicate and ContentPredicateFactory interfaces used to create and evaluate predicates in declarative content rule conditions.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_DECLARATIVE_CONTENT_CONTENT_PREDICATE_H_
 #define CHROME_BROWSER_EXTENSIONS_API_DECLARATIVE_CONTENT_CONTENT_PREDICATE_H_
 

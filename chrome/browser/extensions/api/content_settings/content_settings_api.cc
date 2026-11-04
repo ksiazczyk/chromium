@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the contentSettings extension API
+// summary: Implements the contentSettings clear, get, set and getResourceIdentifiers extension functions, including incognito scope handling and error reporting.
+// ---
+
 #include "chrome/browser/extensions/api/content_settings/content_settings_api.h"
 
 #include <set>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DNS extension API browser tests
+// summary: Browser tests for the Chrome extensions DNS resolve API, covering IP literals, hostname resolution, simulated failures, and NetworkAnonymizationKey-based host cache partitioning.
+// ---
+
 #include <memory>
 
 #include "base/memory/ref_counted.h"

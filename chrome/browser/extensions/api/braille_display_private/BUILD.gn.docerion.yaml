@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the braille_display_private API
+summary: Defines GN source_set targets for the braille display extension API, choosing brlapi-based or stub controller sources based on the use_brlapi build flag.

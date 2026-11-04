@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the extensions API directory
+summary: Sets allowed include dependencies for the extension API directory, with extra rules for tests and specific test files.

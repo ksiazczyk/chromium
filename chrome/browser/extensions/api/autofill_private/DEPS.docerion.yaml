@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for autofill_private
+summary: Declares the additional include paths, such as consent_auditor and wallet components, that code in the autofill_private directory may depend on.

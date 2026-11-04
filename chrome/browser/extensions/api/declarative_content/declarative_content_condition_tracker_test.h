@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Condition tracker test fixture header
+// summary: Declares a test fixture that sets up test WebContents, mock render process hosts, and a testing profile for declarative content tracker tests.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_DECLARATIVE_CONTENT_DECLARATIVE_CONTENT_CONDITION_TRACKER_TEST_H_
 #define CHROME_BROWSER_EXTENSIONS_API_DECLARATIVE_CONTENT_DECLARATIVE_CONTENT_CONDITION_TRACKER_TEST_H_
 

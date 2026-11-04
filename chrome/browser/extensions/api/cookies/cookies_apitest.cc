@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cookies extension API browser tests
+// summary: Browser tests for the chrome.cookies extension API covering cookie reads, SameSite semantics, incognito access, and management policy behavior.
+// ---
+
 #include "base/command_line.h"
 #include "base/functional/callback_helpers.h"
 #include "base/memory/raw_ptr.h"

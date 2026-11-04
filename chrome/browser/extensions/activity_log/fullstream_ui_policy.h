@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FullStreamUIPolicy class declaration
+// summary: Declares the full-stream activity log policy that keeps nearly all action details, including privacy-sensitive data, mainly for testing and analysis.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_ACTIVITY_LOG_FULLSTREAM_UI_POLICY_H_
 #define CHROME_BROWSER_EXTENSIONS_ACTIVITY_LOG_FULLSTREAM_UI_POLICY_H_
 

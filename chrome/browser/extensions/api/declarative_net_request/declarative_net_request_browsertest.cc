@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Declarative Net Request browser tests
+// summary: Large browser test suite exercising declarative net request ruleset behavior in Chrome, including navigation, proxy and privacy sandbox scenarios.
+// ---
+
 #include <stddef.h>
 
 #include <algorithm>

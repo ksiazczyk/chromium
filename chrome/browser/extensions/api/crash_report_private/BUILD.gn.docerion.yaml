@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for crash_report_private
+summary: Defines the crash_report_private source set with its sources and dependencies for the GN build.

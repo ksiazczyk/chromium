@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeveloperPrivate API function implementations
+// summary: Implements the chrome.developerPrivate functions for loading, packing, installing, repairing and managing extensions and their views.
+// ---
+
 #include "chrome/browser/extensions/api/developer_private/developer_private_functions.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise device attributes API unit tests
+// summary: Parameterized unit tests verifying that the API returns device attributes only for signin profiles and affiliated users.
+// ---
+
 #include <memory>
 
 #include "base/files/file_path.h"

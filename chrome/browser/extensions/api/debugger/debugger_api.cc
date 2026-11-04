@@ -4,6 +4,12 @@
 
 // Implements the Chrome Extensions Debugger API.
 
+// ---docerion
+// type: source
+// title: Debugger extension API implementation
+// summary: Implements the Chrome extensions debugger API, including attach, detach and sendCommand functions and the desktop infobar controller for debugging warnings.
+// ---
+
 #include "chrome/browser/extensions/api/debugger/debugger_api.h"
 
 #include <algorithm>

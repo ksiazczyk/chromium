@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrailleController implementation using libbrlapi
+// summary: Implements the braille display controller over libbrlapi, managing connections, retries, display size queries, dot writing and key event dispatch.
+// ---
+
 #include "chrome/browser/extensions/api/braille_display_private/braille_controller_brlapi.h"
 
 #include <stddef.h>

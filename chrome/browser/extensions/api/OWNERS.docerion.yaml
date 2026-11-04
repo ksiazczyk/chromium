@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the extensions API directory
+summary: Assigns per-file owners for browser context keyed service factories and web accessible resources in this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the BrowsingData extension API
+// summary: Browser tests covering data removal, origin filtering, storage partitioning, and sync-related behavior of the browsingData API.
+// ---
+
 #include <memory>
 #include <string>
 

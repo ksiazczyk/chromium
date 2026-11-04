@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for bookmarks API test support
+summary: Defines a test-only GN source_set that packages the bookmarks API gmock matcher header with its base, API, bookmarks and gmock dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document scan type converters
+// summary: Implements conversion of Lorgnette scanner protobuf types, options, constraints and responses into chrome.documentScan API types.
+// ---
+
 #include "chrome/browser/extensions/api/document_scan/document_scan_type_converters.h"
 
 #include <algorithm>

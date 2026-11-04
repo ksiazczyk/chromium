@@ -4,6 +4,12 @@
 
 // String constants used when logging data in the extension activity log.
 
+// ---docerion
+// type: source
+// title: Activity log string constants header
+// summary: Declares string constants used as keys and placeholders in extension activity log entries.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_ACTIVITY_LOG_ACTIVITY_ACTION_CONSTANTS_H_
 #define CHROME_BROWSER_EXTENSIONS_ACTIVITY_LOG_ACTIVITY_ACTION_CONSTANTS_H_
 

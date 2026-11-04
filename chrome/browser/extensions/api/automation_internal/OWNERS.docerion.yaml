@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for automation_internal
+summary: Delegates code ownership of this directory to the ash accessibility OWNERS file.

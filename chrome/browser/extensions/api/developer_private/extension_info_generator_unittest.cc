@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExtensionInfoGenerator unit tests
+// summary: Unit tests for ExtensionInfoGenerator, covering extension info generation, permissions, safety check and supervised user behavior.
+// ---
+
 #include "chrome/browser/extensions/api/developer_private/extension_info_generator.h"
 
 #include <memory>

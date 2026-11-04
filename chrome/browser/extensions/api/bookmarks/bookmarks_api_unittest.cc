@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmarks extension API unit tests
+// summary: Unit tests for the Chrome extensions bookmarks API, covering behaviors such as rejecting URL changes to bookmark folders and validating URL handling in create and update functions.
+// ---
+
 #include "chrome/browser/extensions/api/bookmarks/bookmarks_api.h"
 
 #include "base/memory/raw_ptr.h"

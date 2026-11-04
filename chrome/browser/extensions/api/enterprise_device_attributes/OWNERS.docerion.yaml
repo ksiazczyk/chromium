@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for enterprise device attributes
+summary: Lists edman@chromium.org and pbond@chromium.org as the owners of this directory.

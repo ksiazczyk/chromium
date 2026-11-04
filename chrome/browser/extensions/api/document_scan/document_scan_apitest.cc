@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Document scan API browser tests
+// summary: Parameterized extension API tests that exercise the documentScan API for Chrome apps and MV2/MV3 extensions with a fake scanner backend.
+// ---
+
 #include <string_view>
 
 #include "ash/constants/ash_pref_names.h"

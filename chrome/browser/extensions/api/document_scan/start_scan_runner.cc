@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StartScanRunner implementation
+// summary: Implements the chrome.documentScan.startScan flow, showing a confirmation dialog for untrusted extensions and sending the scan request to the Lorgnette scanner service.
+// ---
+
 #include "chrome/browser/extensions/api/document_scan/start_scan_runner.h"
 
 #include "ash/constants/ash_pref_names.h"

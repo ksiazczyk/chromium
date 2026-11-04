@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for desktop_capture
+summary: Grants this folder permission to include headers from third_party/webrtc.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the declarative webrequest API directory
+summary: Lists battre@chromium.org as the owner of the declarative_webrequest directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for extension context menu behavior
+// summary: Browser tests exercising extension items in platform context menus, with platform-specific menu creation for Android and desktop Chrome.
+// ---
+
 #include <stddef.h>
 
 #include <memory>

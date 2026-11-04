@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page URL condition tracker implementation
+// summary: Implements the page URL predicate and per-tab tracker that match page URLs against declarative content rule conditions using URLMatcher.
+// ---
+
 #include "chrome/browser/extensions/api/declarative_content/declarative_content_page_url_condition_tracker.h"
 
 #include "base/functional/bind.h"

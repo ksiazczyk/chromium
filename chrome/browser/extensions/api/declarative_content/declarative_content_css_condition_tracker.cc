@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CSS condition tracker implementation
+// summary: Implements the CSS predicate and per-tab tracker that watch which CSS selectors match on pages for declarative content rules.
+// ---
+
 #include "chrome/browser/extensions/api/declarative_content/declarative_content_css_condition_tracker.h"
 
 #include <stddef.h>

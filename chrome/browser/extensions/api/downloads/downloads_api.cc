@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome downloads extension API implementation
+// summary: Implements the chrome.downloads extension functions such as download, search, pause, and resume, including download item observation and UI interactions.
+// ---
+
 #include "chrome/browser/extensions/api/downloads/downloads_api.h"
 
 #include <stddef.h>

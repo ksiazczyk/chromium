@@ -4,6 +4,12 @@
 
 // String constants used when logging data in the extension activity log.
 
+// ---docerion
+// type: source
+// title: Activity log string constants implementation
+// summary: Defines string constants used as keys and placeholders when logging extension activity data.
+// ---
+
 #include "chrome/browser/extensions/activity_log/activity_action_constants.h"
 
 #include "extensions/buildflags/buildflags.h"

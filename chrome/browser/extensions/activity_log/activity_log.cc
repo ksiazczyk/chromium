@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActivityLog service implementation
+// summary: Implements the ActivityLog service that records extension actions, dispatches them to logging policies, and notifies observers.
+// ---
+
 #include "chrome/browser/extensions/activity_log/activity_log.h"
 
 #include <stddef.h>

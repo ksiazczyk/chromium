@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the crashReportPrivate.reportError extension function
+// summary: Declares CrashReportPrivateReportErrorFunction, the ExtensionFunction subclass handling crashReportPrivate.reportError calls.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_CRASH_REPORT_PRIVATE_CRASH_REPORT_PRIVATE_API_H_
 #define CHROME_BROWSER_EXTENSIONS_API_CRASH_REPORT_PRIVATE_CRASH_REPORT_PRIVATE_API_H_
 

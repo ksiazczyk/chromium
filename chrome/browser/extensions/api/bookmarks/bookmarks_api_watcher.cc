@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmarks API watcher implementation
+// summary: Implements the BookmarksApiWatcher profile-keyed service that notifies registered observers whenever a bookmarks extension API function is invoked.
+// ---
+
 #include "chrome/browser/extensions/api/bookmarks/bookmarks_api_watcher.h"
 
 #include "base/no_destructor.h"

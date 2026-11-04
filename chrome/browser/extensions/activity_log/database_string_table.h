@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DatabaseStringTable class declaration
+// summary: Declares the DatabaseStringTable class that stores a string-to-integer mapping in a database table with in-memory caching for the activity log.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_ACTIVITY_LOG_DATABASE_STRING_TABLE_H_
 #define CHROME_BROWSER_EXTENSIONS_ACTIVITY_LOG_DATABASE_STRING_TABLE_H_
 

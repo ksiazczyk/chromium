@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: dictation_private OWNERS
+summary: Delegates code ownership to the owners file of chrome/browser/dictation.

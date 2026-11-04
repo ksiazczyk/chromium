@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Factory builder for extension API keyed services
+// summary: Implements EnsureApiBrowserContextKeyedServiceFactoriesBuilt to create the factories for Chrome extension API keyed services.
+// ---
+
 #include "build/build_config.h"
 #include "chrome/browser/extensions/api/bookmarks/bookmarks_api.h"
 #include "chrome/browser/extensions/api/bookmarks/bookmarks_api_watcher.h"

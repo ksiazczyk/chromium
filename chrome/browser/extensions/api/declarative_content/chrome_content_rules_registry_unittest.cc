@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome content rules registry unit tests
+// summary: Unit tests for ChromeContentRulesRegistry using a test predicate evaluator to verify rule management and evaluation behavior.
+// ---
+
 #include "chrome/browser/extensions/api/declarative_content/chrome_content_rules_registry.h"
 
 #include "base/functional/bind.h"

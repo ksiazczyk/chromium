@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark manager private API browser tests
+// summary: Browser tests verifying chrome.bookmarkManagerPrivate functions such as opening bookmarks in new windows, incognito windows, and tab groups.
+// ---
+
 #include "chrome/browser/extensions/api/bookmark_manager_private/bookmark_manager_private_api.h"
 
 #include "base/memory/raw_ptr.h"

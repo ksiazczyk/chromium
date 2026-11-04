@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome cookies API delegate implementation
+// summary: Implements Chrome's delegate for the chrome.cookies extension API, enumerating cookie stores for regular and incognito profiles that have open tabs.
+// ---
+
 #include "chrome/browser/extensions/api/cookies/chrome_cookies_api_delegate.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header declaring the commandLinePrivate.hasSwitch extension function
+// summary: Declares the CommandLinePrivateHasSwitchFunction ExtensionFunction subclass that backs the commandLinePrivate.hasSwitch API.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_COMMAND_LINE_PRIVATE_COMMAND_LINE_PRIVATE_API_H__
 #define CHROME_BROWSER_EXTENSIONS_API_COMMAND_LINE_PRIVATE_COMMAND_LINE_PRIVATE_API_H__
 

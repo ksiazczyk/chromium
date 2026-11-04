@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Bluetooth address validation
+// summary: Unit tests verifying that updateBluetoothBrailleDisplayAddress rejects shell injection, command substitution and malformed or truncated Bluetooth addresses.
+// ---
+
 #include "chrome/browser/extensions/api/braille_display_private/braille_display_private_api.h"
 
 #include "base/test/gtest_util.h"

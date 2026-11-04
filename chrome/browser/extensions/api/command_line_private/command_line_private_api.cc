@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the commandLinePrivate.hasSwitch extension function
+// summary: Implements the commandLinePrivate.hasSwitch extension function, which reports whether the current browser process command line contains a given non-empty switch.
+// ---
+
 #include "chrome/browser/extensions/api/command_line_private/command_line_private_api.h"
 
 #include <string>

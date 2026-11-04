@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension API tests for autofillPrivate
+// summary: Runs extension-based API tests for autofillPrivate, rebinding a test personal data manager on the event router and checking metrics and user actions.
+// ---
+
 #include <memory>
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GMock matchers for bookmarks API tree nodes
+// summary: Header providing gmock matchers that compare extension API BookmarkTreeNode results against internal BookmarkNode objects for use in bookmarks API tests.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_BOOKMARKS_TEST_BOOKMARKS_API_MATCHERS_H_
 #define CHROME_BROWSER_EXTENSIONS_API_BOOKMARKS_TEST_BOOKMARKS_API_MATCHERS_H_
 

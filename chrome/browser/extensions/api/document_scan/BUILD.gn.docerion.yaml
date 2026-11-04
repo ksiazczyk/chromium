@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Document scan build configuration
+summary: GN build file defining the document_scan and profile_prefs_registry_util source sets with their sources and dependencies for the ChromeOS document scan extension API.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the autofill_private source set
+summary: Defines the autofill_private source set, listing its source files and the build dependencies needed for the Chrome extensions autofill API.

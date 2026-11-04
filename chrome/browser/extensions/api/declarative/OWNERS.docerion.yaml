@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the declarative extensions API folder
+summary: Lists battre@chromium.org as the owner responsible for the declarative API directory.

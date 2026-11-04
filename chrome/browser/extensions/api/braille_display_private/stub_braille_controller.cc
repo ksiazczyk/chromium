@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub braille controller implementation
+// summary: No-op BrailleController singleton that returns an empty display state and ignores dot writes and observer changes.
+// ---
+
 #include "chrome/browser/extensions/api/braille_display_private/stub_braille_controller.h"
 
 #include <memory>

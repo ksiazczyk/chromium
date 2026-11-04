@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the BrowsingData extension API
+// summary: Unit tests verifying removal masks, origin type masks, and error handling for the browsingData API functions.
+// ---
+
 #include <optional>
 #include <string>
 

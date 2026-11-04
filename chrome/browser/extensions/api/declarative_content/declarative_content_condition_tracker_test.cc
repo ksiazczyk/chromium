@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Condition tracker test fixture implementation
+// summary: Implements the shared test fixture for condition tracker tests, providing test tabs, mock render process hosts, and predicate group IDs.
+// ---
+
 #include "chrome/browser/extensions/api/declarative_content/declarative_content_condition_tracker_test.h"
 
 #include "base/run_loop.h"

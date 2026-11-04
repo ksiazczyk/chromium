@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome cookies API delegate header
+// summary: Declares ChromeCookiesApiDelegate, Chrome's implementation of the cookies API embedder hooks that keeps Profile and incognito handling out of the shared code.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_COOKIES_CHROME_COOKIES_API_DELEGATE_H_
 #define CHROME_BROWSER_EXTENSIONS_API_COOKIES_CHROME_COOKIES_API_DELEGATE_H_
 
