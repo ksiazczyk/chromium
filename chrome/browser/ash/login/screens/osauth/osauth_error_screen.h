@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OSAuth error screen class declaration
+// summary: Declares the OSAuthErrorScreen class that reports errors occurring while configuring the user's auth factors.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_OSAUTH_OSAUTH_ERROR_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_OSAUTH_OSAUTH_ERROR_SCREEN_H_
 

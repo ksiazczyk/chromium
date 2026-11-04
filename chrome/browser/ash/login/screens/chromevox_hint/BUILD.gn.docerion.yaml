@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the chromevox_hint component
+summary: Defines the chromevox_hint static library and its unit_tests source_set with their sources and dependencies.

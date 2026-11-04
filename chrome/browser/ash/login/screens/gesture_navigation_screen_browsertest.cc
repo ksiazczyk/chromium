@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gesture navigation screen browser tests
+// summary: Parameterized browser tests verifying page visibility, skip behavior, and metrics for the gesture navigation screen in tablet and forced tablet first run modes.
+// ---
+
 #include "chrome/browser/ash/login/screens/gesture_navigation_screen.h"
 
 #include <string>

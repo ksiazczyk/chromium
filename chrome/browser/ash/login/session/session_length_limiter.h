@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session length limiter class declaration
+// summary: Declares SessionLengthLimiter, which terminates the session when the configured session length limit is reached and registers related preferences.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SESSION_SESSION_LENGTH_LIMITER_H_
 #define CHROME_BROWSER_ASH_LOGIN_SESSION_SESSION_LENGTH_LIMITER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local state error screen class declaration
+// summary: Declares the LocalStateErrorScreen controller, a BaseScreen subclass that shows the local state error view and processes its user actions.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_LOCAL_STATE_ERROR_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_LOCAL_STATE_ERROR_SCREEN_H_
 

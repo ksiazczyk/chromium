@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Touchpad scroll screen browser tests
+// summary: Browser tests for the OOBE touchpad scroll screen, covering skipping when no touchpad device is present and advancing through the screen's toggle and next controls.
+// ---
+
 #include "ash/constants/ash_features.h"
 #include "ash/constants/ash_pref_names.h"
 #include "ash/constants/ash_switches.h"

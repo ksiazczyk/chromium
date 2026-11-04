@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline login screen implementation
+// summary: Implements the ChromeOS offline login screen that authenticates a username and password against cryptohome when the network is unavailable.
+// ---
+
 #include "chrome/browser/ash/login/screens/offline_login_screen.h"
 
 #include "base/check_deref.h"

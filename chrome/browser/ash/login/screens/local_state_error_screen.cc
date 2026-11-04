@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local state error screen implementation
+// summary: Implements the OOBE error screen for local state failures, handling the restart-and-powerwash action by starting a device wipe.
+// ---
+
 #include "chrome/browser/ash/login/screens/local_state_error_screen.h"
 
 #include "base/functional/callback_helpers.h"

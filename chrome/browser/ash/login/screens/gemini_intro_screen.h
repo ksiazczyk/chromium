@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini intro screen header
+// summary: Declares the GeminiIntroScreen class, an out-of-box experience screen that introduces Gemini during ChromeOS first-run setup and reports next or back results.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_GEMINI_INTRO_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_GEMINI_INTRO_SCREEN_H_
 

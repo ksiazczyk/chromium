@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Update screen browser test
+// summary: Browser tests for the OOBE update screen covering update checks, progress stages, cellular permission dialogs, low battery warnings, error handling, and opt-out flows.
+// ---
+
 #include "chrome/browser/ash/login/screens/update_screen.h"
 
 #include <memory>

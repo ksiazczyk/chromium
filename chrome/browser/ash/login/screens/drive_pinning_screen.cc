@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive pinning screen
+// summary: Implements the OOBE Drive pinning screen that manages Google Drive bulk pinning setup, required space calculation, and related metrics.
+// ---
+
 #include "chrome/browser/ash/login/screens/drive_pinning_screen.h"
 
 #include <iomanip>

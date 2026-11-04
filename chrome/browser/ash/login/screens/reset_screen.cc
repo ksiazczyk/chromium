@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reset screen implementation
+// summary: Implements the reset screen offering powerwash and restart, including TPM firmware update availability and rollback checks.
+// ---
+
 #include "chrome/browser/ash/login/screens/reset_screen.h"
 
 #include <utility>

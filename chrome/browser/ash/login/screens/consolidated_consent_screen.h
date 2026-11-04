@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Consolidated consent screen controller header
+// summary: Declares the controller for the OOBE consolidated consent screen, handling terms of service acceptance plus metrics, backup, location and recovery opt-in results.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_CONSOLIDATED_CONSENT_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_CONSOLIDATED_CONSENT_SCREEN_H_
 

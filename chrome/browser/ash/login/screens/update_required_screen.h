@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update required screen controller header
+// summary: Declares the UpdateRequiredScreen controller that drives the mandatory update OOBE screen and interacts with the version updater and network state handler.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_UPDATE_REQUIRED_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_UPDATE_REQUIRED_SCREEN_H_
 

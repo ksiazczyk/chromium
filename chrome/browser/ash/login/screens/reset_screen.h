@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reset screen header
+// summary: Declares the ResetScreen class controlling the device reset screen, powerwash checks and TPM firmware update availability.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_RESET_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_RESET_SCREEN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOBE Mojo binder templates
+// summary: Provides template base classes that bind Mojo receivers and remotes so OOBE screens can communicate between browser and renderer.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_OOBE_MOJO_BINDER_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_OOBE_MOJO_BINDER_H_
 

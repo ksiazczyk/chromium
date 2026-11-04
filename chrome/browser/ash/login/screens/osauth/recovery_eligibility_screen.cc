@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recovery eligibility screen implementation
+// summary: Implements a UI-less screen that checks recovery factor eligibility and sets recovery setup state in the wizard context.
+// ---
+
 #include "chrome/browser/ash/login/screens/osauth/recovery_eligibility_screen.h"
 
 #include <string>

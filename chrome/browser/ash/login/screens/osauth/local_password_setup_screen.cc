@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local password setup screen implementation
+// summary: Implements the OOBE screen for setting up a local password, handling password input, back navigation and recovery flow session keep-alive.
+// ---
+
 #include "chrome/browser/ash/login/screens/osauth/local_password_setup_screen.h"
 
 #include <string>

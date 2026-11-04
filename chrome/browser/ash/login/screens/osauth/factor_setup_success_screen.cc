@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Factor setup success screen implementation
+// summary: Implements the screen informing users that their authentication factors were successfully updated, with mode and factor strings, timeout handling and metrics.
+// ---
+
 #include "chrome/browser/ash/login/screens/osauth/factor_setup_success_screen.h"
 
 #include <memory>

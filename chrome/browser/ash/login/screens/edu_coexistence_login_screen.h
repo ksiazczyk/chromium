@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Edu coexistence login screen class declaration
+// summary: Declares the EduCoexistenceLoginScreen class, an OOBE screen for adding an EDU account as a secondary account for supervised users.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_EDU_COEXISTENCE_LOGIN_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_EDU_COEXISTENCE_LOGIN_SCREEN_H_
 

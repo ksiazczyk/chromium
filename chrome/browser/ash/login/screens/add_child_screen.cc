@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Add child screen implementation
+// summary: Implements the OOBE screen for child sign-in or child account creation, handling network state, error display, and enrollment accelerators.
+// ---
+
 #include "chrome/browser/ash/login/screens/add_child_screen.h"
 
 #include <string>

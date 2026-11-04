@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Categories selection screen implementation
+// summary: Implements the OOBE categories selection screen that loads use cases from app discovery, records UMA metrics, and handles next, skip, and error results.
+// ---
+
 #include "chrome/browser/ash/login/screens/categories_selection_screen.h"
 
 #include <memory>

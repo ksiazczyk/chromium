@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS trial screen implementation
+// summary: Implements the OS trial OOBE screen that lets users choose between trying the OS, installing it, or going back.
+// ---
+
 #include "chrome/browser/ash/login/screens/os_trial_screen.h"
 
 #include "chrome/browser/ui/webui/ash/login/os_trial_screen_handler.h"

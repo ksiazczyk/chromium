@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App downloading screen browser tests
+// summary: Browser tests for the app downloading screen covering no, single, and multiple selected Android apps and the continue setup button behavior.
+// ---
+
 #include "chrome/browser/ash/login/screens/app_downloading_screen.h"
 
 #include <memory>

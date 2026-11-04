@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the login session directory
+summary: Restricts dependencies on //chrome and enumerates the allowed Chrome includes, with special rules for user session manager sources and tests.

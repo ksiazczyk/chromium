@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the osauth login screens
+summary: Defines the osauth static library sources and dependencies plus the browser_tests source set for the ChromeOS login OS auth screens.

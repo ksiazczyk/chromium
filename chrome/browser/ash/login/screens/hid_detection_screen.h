@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID detection screen class declaration
+// summary: Declares the HIDDetectionScreen controller that warns users about missing input devices during OOBE, including result types, prefs and test hooks.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_HID_DETECTION_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_HID_DETECTION_SCREEN_H_
 

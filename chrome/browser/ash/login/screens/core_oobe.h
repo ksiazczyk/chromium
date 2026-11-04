@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CoreOobe header
+// summary: Declares CoreOobe, which hosts the OOBE screen structure and coordinates UI initialization states with CoreOobeView and CoreOobeHandler.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_CORE_OOBE_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_CORE_OOBE_H_
 

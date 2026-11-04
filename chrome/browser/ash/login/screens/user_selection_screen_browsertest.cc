@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User selection screen browser test
+// summary: Browser tests for the user selection screen covering banners such as dircrypto migration, offline and guest sign-in links, and multi-user login behavior.
+// ---
+
 #include <memory>
 #include <utility>
 

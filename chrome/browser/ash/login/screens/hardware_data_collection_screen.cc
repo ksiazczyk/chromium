@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hardware data collection screen implementation
+// summary: Implements the hardware data collection notice OOBE screen for ChromeOS Flex, with owner checks and hardware data usage preference handling.
+// ---
+
 #include "chrome/browser/ash/login/screens/hardware_data_collection_screen.h"
 
 #include <string>

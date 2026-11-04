@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote activity notification screen implementation
+// summary: Implements the remote activity notification screen, exiting the flow when the user chooses to continue using the device.
+// ---
+
 #include "chrome/browser/ash/login/screens/remote_activity_notification_screen.h"
 
 #include "chrome/browser/ui/webui/ash/login/remote_activity_notification_screen_handler.h"

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for osauth screens
+summary: Delegates reviewer ownership to the shared ChromeOS login lock OWNERS file.

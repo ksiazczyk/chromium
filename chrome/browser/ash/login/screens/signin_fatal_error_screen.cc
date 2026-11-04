@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in fatal error screen implementation
+// summary: Implements the fatal error screen controller that shows sign-in errors and handles dismiss, restart-and-powerwash, and learn-more actions.
+// ---
+
 #include "chrome/browser/ash/login/screens/signin_fatal_error_screen.h"
 
 #include "base/values.h"

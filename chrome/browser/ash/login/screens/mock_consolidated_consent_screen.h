@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock consolidated consent screen
+// summary: Declares gmock mock classes for the consolidated consent login screen and its view so tests can substitute them for the real implementations.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_MOCK_CONSOLIDATED_CONSENT_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_MOCK_CONSOLIDATED_CONSENT_SCREEN_H_
 

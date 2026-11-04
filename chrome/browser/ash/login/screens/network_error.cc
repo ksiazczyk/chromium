@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network error helpers
+// summary: Maps network error reasons, error states and UI states to printable strings for the OOBE error screen.
+// ---
+
 #include "chrome/browser/ash/login/screens/network_error.h"
 
 #include <sstream>

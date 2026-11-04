@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI intro screen class declaration
+// summary: Declares the AiIntroScreen class, its Mojo page handler binding, and accessibility status handling for the AI intro OOBE screen.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_AI_INTRO_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_AI_INTRO_SCREEN_H_
 

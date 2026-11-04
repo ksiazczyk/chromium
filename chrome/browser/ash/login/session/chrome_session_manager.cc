@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome session manager implementation
+// summary: Implements the ChromeOS session manager that launches pre-session UI or auto-launched kiosk apps, resumes sessions after crash-and-restart, and starts stub login sessions.
+// ---
+
 #include "chrome/browser/ash/login/session/chrome_session_manager.h"
 
 #include <functional>

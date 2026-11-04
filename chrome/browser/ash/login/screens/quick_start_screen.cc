@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Start screen implementation
+// summary: Implements the OOBE Quick Start screen, forwarding user actions to the Quick Start controller and updating the view with QR code and setup states.
+// ---
+
 #include "chrome/browser/ash/login/screens/quick_start_screen.h"
 
 #include "base/memory/weak_ptr.h"

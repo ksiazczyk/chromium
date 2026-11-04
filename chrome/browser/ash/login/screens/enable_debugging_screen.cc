@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enable debugging screen implementation
+// summary: Implements the OOBE screen for enabling debugging features, including rootfs verification removal, setup handling and help dialogs.
+// ---
+
 #include "chrome/browser/ash/login/screens/enable_debugging_screen.h"
 
 #include "ash/constants/ash_login_pref_names.h"

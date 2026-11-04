@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the session length limiter
+// summary: Unit tests using mock time, simulated suspend and resume, and preference changes to verify enforcement of session length limits.
+// ---
+
 #include "chrome/browser/ash/login/session/session_length_limiter.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI intro screen implementation
+// summary: Implements the OOBE AI intro screen with skip conditions for feature flags, child users, and managed preferences, plus accessibility-driven auto transition.
+// ---
+
 #include "chrome/browser/ash/login/screens/ai_intro_screen.h"
 
 #include "ai_intro_screen.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User session manager test API header
+// summary: Declares UserSessionManagerTestApi, which gives tests access to private UserSessionManager members for injecting authenticators and test settings.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SESSION_USER_SESSION_MANAGER_TEST_API_H_
 #define CHROME_BROWSER_ASH_LOGIN_SESSION_USER_SESSION_MANAGER_TEST_API_H_
 

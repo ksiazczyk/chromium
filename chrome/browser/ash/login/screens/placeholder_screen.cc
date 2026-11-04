@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Placeholder screen implementation
+// summary: Implements a minimal placeholder OOBE screen that shows its view and handles next and back user actions.
+// ---
+
 #include "chrome/browser/ash/login/screens/placeholder_screen.h"
 
 #include "base/memory/weak_ptr.h"

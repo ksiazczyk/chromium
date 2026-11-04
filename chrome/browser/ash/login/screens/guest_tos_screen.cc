@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest terms of service screen implementation
+// summary: Implements the guest ToS OOBE screen, building Google and ChromeOS EULA URLs and handling accept, back, and cancel actions with usage stats choice.
+// ---
+
 #include "chrome/browser/ash/login/screens/guest_tos_screen.h"
 
 #include "ash/constants/ash_login_pref_names.h"

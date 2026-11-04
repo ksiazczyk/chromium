@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split modifier keyboard info screen header
+// summary: Declares the SplitModifierKeyboardInfoScreen and its skip logic for showing split modifier keyboard information during OOBE.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_SPLIT_MODIFIER_KEYBOARD_INFO_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_SPLIT_MODIFIER_KEYBOARD_INFO_SCREEN_H_
 

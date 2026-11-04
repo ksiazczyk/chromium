@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Perks discovery screen implementation
+// summary: Implements the OOBE perks discovery screen that fetches perk campaigns from the growth campaigns manager, validates payloads, and records selection and error metrics.
+// ---
+
 #include "chrome/browser/ash/login/screens/perks_discovery_screen.h"
 
 #include "ash/constants/ash_features.h"

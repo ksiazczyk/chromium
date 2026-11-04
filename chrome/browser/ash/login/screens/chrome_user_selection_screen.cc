@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome user selection screen implementation
+// summary: Implements the Chrome user selection screen, applying device-local account policies for public session display names, recommended locales and management disclosure.
+// ---
+
 #include "chrome/browser/ash/login/screens/chrome_user_selection_screen.h"
 
 #include <memory>

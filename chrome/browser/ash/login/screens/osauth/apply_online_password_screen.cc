@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apply online password screen implementation
+// summary: Implements the OOBE screen that creates or updates the user's online password as their cryptohome knowledge factor during OS auth setup.
+// ---
+
 #include "chrome/browser/ash/login/screens/osauth/apply_online_password_screen.h"
 
 #include <optional>

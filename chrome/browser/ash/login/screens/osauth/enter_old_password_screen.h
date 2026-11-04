@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enter old password screen header
+// summary: Declares the EnterOldPasswordScreen class, its result enum and password authentication callbacks for the old password entry flow.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_OSAUTH_ENTER_OLD_PASSWORD_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_OSAUTH_ENTER_OLD_PASSWORD_SCREEN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome user selection screen declaration
+// summary: Declares the ChromeUserSelectionScreen class extending UserSelectionScreen with public session policy handling for the login screen.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_CHROME_USER_SELECTION_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_CHROME_USER_SELECTION_SCREEN_H_
 

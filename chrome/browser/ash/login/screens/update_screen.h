@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update screen controller header
+// summary: Declares the UpdateScreen controller that requests update checks from the update engine, tracks progress and reports screen results during OOBE.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_UPDATE_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_UPDATE_SCREEN_H_
 

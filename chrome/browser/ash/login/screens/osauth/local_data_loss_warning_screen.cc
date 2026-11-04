@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local data loss warning screen implementation
+// summary: Implements the warning screen about local data loss when changing auth factors, supporting powerwash, user recreation, back navigation and AutoWipe behavior.
+// ---
+
 #include "chrome/browser/ash/login/screens/osauth/local_data_loss_warning_screen.h"
 
 #include <memory>

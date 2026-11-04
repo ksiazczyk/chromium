@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fjord image selection OOBE screen implementation
+// summary: Implements the Fjord image selection OOBE screen, mapping Cuttlefish and Squid choices to exit results and error messages.
+// ---
+
 #include "chrome/browser/ash/login/screens/fjord_image_selection_screen.h"
 
 #include <utility>

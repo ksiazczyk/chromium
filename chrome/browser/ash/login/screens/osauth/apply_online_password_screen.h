@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apply online password screen class declaration
+// summary: Declares the ApplyOnlinePasswordScreen class that sets up the user's online password as a cryptohome knowledge factor.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_OSAUTH_APPLY_ONLINE_PASSWORD_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_OSAUTH_APPLY_ONLINE_PASSWORD_SCREEN_H_
 

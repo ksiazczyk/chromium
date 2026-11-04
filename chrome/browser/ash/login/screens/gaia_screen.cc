@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gaia screen implementation
+// summary: Implements the GAIA sign-in OOBE screen, handling reauth, cryptohome recovery preparation, enterprise enrollment, and Quick Start user actions.
+// ---
+
 #include "chrome/browser/ash/login/screens/gaia_screen.h"
 
 #include <algorithm>

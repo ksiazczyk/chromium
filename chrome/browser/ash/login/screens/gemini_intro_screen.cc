@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini intro screen implementation
+// summary: Implements the Gemini intro OOBE screen with skip logic for child users, managed preferences, and users who already saw the perk in perks discovery.
+// ---
+
 #include "chrome/browser/ash/login/screens/gemini_intro_screen.h"
 
 #include "ai_intro_screen.h"

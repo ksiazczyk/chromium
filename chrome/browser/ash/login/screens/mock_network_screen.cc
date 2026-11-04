@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock network screen implementation
+// summary: Implements the mock network screen and view used to stand in for the OOBE network screen during login tests.
+// ---
+
 #include "chrome/browser/ash/login/screens/mock_network_screen.h"
 
 namespace ash {

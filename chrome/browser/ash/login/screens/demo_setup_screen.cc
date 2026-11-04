@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Demo setup screen implementation
+// summary: Implements the demo mode setup OOBE screen, starting enrollment and reporting setup steps, errors and completion to the view.
+// ---
+
 #include "chrome/browser/ash/login/screens/demo_setup_screen.h"
 
 #include "base/functional/bind.h"

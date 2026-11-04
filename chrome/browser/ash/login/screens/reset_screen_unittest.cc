@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reset screen unit test
+// summary: Unit tests verifying that powerwash is allowed for consumer-owned, enterprise-owned and unowned devices.
+// ---
+
 #include "chrome/browser/ash/login/screens/reset_screen.h"
 
 #include "ash/constants/ash_switches.h"

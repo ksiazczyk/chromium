@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recovery eligibility screen class declaration
+// summary: Declares the RecoveryEligibilityScreen pseudo-screen that encapsulates recovery setup eligibility logic without any UI.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_OSAUTH_RECOVERY_ELIGIBILITY_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_OSAUTH_RECOVERY_ELIGIBILITY_SCREEN_H_
 

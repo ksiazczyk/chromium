@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User session initializer header
+// summary: Declares UserSessionInitializer, which initializes profile services, RLZ, certificates, and child user services when a session starts.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SESSION_USER_SESSION_INITIALIZER_H_
 #define CHROME_BROWSER_ASH_LOGIN_SESSION_USER_SESSION_INITIALIZER_H_
 

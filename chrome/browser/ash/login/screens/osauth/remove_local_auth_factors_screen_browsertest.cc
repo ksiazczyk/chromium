@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remove local auth factors screen browser tests
+// summary: Browser tests verifying that disallowed local authentication factors like PIN and local password are removed for various user types during login.
+// ---
+
 #include "chrome/browser/ash/login/screens/osauth/remove_local_auth_factors_screen.h"
 
 #include <memory>

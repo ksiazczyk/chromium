@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User session manager implementation
+// summary: Implements starting and restoring user sessions, including profile loading and preparation, OAuth2 session setup, and session launch by user type.
+// ---
+
 #include "chrome/browser/ash/login/session/user_session_manager.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User allowlist check screen header
+// summary: Declares the user allowlist check screen class that shows error UI when a user is not allowlisted during the Gaia sign-in flow.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_USER_ALLOWLIST_CHECK_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_USER_ALLOWLIST_CHECK_SCREEN_H_
 

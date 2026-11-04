@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remove local auth factors screen class declaration
+// summary: Declares the RemoveLocalAuthFactorsScreen class that replaces the local password with the online password and removes the PIN during the login flow.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_OSAUTH_REMOVE_LOCAL_AUTH_FACTORS_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_OSAUTH_REMOVE_LOCAL_AUTH_FACTORS_SCREEN_H_
 

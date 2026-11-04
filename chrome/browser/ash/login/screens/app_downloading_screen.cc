@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App downloading screen implementation
+// summary: Implements the OOBE app downloading screen that tells the user selected Android apps are being downloaded and runs the exit callback on continue.
+// ---
+
 #include "chrome/browser/ash/login/screens/app_downloading_screen.h"
 
 #include "base/memory/weak_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TPM error screen implementation
+// summary: Implements the TPM error OOBE screen, showing owned or DBus TPM error steps and rebooting the system when the user requests it.
+// ---
+
 #include "chrome/browser/ash/login/screens/tpm_error_screen.h"
 
 #include "base/check_deref.h"

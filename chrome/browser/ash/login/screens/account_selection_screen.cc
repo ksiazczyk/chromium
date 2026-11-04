@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account selection screen implementation
+// summary: Implements the post-enrollment screen that lets the user reuse the enrollment account for the device or fall back to the Gaia sign-in screen.
+// ---
+
 #include "chrome/browser/ash/login/screens/account_selection_screen.h"
 
 #include "ash/constants/ash_features.h"

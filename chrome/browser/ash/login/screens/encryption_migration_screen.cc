@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Encryption migration screen implementation
+// summary: Implements the encryption migration screen that guides users through cryptohome migration, tracking storage, battery state and UMA metrics.
+// ---
+
 #include "chrome/browser/ash/login/screens/encryption_migration_screen.h"
 
 #include <cmath>

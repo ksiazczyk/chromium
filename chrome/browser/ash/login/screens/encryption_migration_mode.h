@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Encryption migration mode enum
+// summary: Defines the EncryptionMigrationMode enum with modes for asking the user, starting, or resuming cryptohome encryption migration.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_ENCRYPTION_MIGRATION_MODE_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_ENCRYPTION_MIGRATION_MODE_H_
 

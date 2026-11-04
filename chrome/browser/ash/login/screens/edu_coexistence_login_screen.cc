@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Edu coexistence login screen implementation
+// summary: Implements the OOBE screen that lets a supervised child user add an EDU account as a secondary account via an inline login dialog.
+// ---
+
 #include "chrome/browser/ash/login/screens/edu_coexistence_login_screen.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wrong HWID screen browser test
+// summary: Browser test verifying that the wrong HWID screen appears when a HWID check failure is forced and that it can be skipped.
+// ---
+
 #include "chrome/browser/ash/login/screens/wrong_hwid_screen.h"
 
 #include "ash/constants/ash_switches.h"

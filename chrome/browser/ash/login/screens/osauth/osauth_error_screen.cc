@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OSAuth error screen implementation
+// summary: Implements the error screen for auth factor configuration failures, choosing between abort, online or local fallback, and proceeding.
+// ---
+
 #include "chrome/browser/ash/login/screens/osauth/osauth_error_screen.h"
 
 #include <optional>

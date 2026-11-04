@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Packaged license screen implementation
+// summary: Implements the OOBE packaged license screen that advertises device enrollment, decides whether to skip based on the enrollment config, and handles enroll and don't-enroll actions.
+// ---
+
 #include "chrome/browser/ash/login/screens/packaged_license_screen.h"
 
 #include "base/check_deref.h"

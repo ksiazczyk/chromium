@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install attributes error screen implementation
+// summary: Implements the OOBE error screen for install attribute failures, handling powerwash and reboot user actions via session manager and power manager clients.
+// ---
+
 #include "chrome/browser/ash/login/screens/install_attributes_error_screen.h"
 
 #include "base/functional/callback_helpers.h"

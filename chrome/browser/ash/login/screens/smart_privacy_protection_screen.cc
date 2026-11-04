@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart privacy protection screen implementation
+// summary: Implements the OOBE screen promoting smart privacy features, letting users turn the QuickDim snooping protection setting on or off.
+// ---
+
 #include "chrome/browser/ash/login/screens/smart_privacy_protection_screen.h"
 
 #include "ash/constants/ash_features.h"

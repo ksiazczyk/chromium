@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enable ADB sideloading screen class declaration
+// summary: Declares the EnableAdbSideloadingScreen class that controls the screen for enabling ADB sideloading during OOBE.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_ENABLE_ADB_SIDELOADING_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_ENABLE_ADB_SIDELOADING_SCREEN_H_
 

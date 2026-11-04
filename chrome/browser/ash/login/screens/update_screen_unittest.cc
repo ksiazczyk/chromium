@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Update screen unit test
+// summary: Unit tests for the update screen logic, simulating available and critical updates via a fake update engine client with mock views and network handling.
+// ---
+
 #include "chrome/browser/ash/login/screens/update_screen.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID detection screen implementation
+// summary: Implements the OOBE HID detection screen that tracks keyboard, mouse and touchscreen connection states and notifies the Web UI during device setup.
+// ---
+
 #include "chrome/browser/ash/login/screens/hid_detection_screen.h"
 
 #include "ash/constants/ash_features.h"

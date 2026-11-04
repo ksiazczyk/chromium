@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Packaged license screen browser tests
+// summary: Browser tests for the packaged license OOBE screen, checking enroll and don't-enroll exits, screen skipping, and OOBE step completion histogram metrics.
+// ---
+
 #include "chrome/browser/ash/login/screens/packaged_license_screen.h"
 
 #include "ash/constants/ash_policy_pref_names.h"

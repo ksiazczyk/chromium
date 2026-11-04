@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User selection screen implementation
+// summary: Implements the user pod-based login screen, managing user list display, auth types, Smart Lock, TPM lock state, input methods, and multi-user sign-in policy.
+// ---
+
 #include "chrome/browser/ash/login/screens/user_selection_screen.h"
 
 #include <stddef.h>

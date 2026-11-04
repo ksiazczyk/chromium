@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User allowlist check screen implementation
+// summary: Implements the screen shown at the end of the Gaia flow when a user is not allowlisted, reporting enterprise management and Family Link settings and handling retry actions.
+// ---
+
 #include "chrome/browser/ash/login/screens/user_allowlist_check_screen.h"
 
 #include "base/memory/weak_ptr.h"

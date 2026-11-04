@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fjord touch controller screen browser test
+// summary: Browser test verifying that the Fjord touch controller OOBE screen is shown with the Fjord OOBE feature enabled and can exit successfully.
+// ---
+
 #include "chrome/browser/ash/login/screens/fjord_touch_controller_screen.h"
 
 #include "ash/constants/ash_features.h"

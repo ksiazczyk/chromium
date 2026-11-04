@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock enable ADB sideloading screen implementation
+// summary: Implements the mock enable ADB sideloading screen and view, including the exit screen helper for tests.
+// ---
+
 #include "chrome/browser/ash/login/screens/mock_enable_adb_sideloading_screen.h"
 #include "base/memory/weak_ptr.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Guest terms of service screen browser tests
+// summary: Browser tests verifying the Google and ChromeOS EULA dialogs and usage stats opt-in behavior on the guest ToS OOBE screen.
+// ---
+
 #include "chrome/browser/ash/login/screens/guest_tos_screen.h"
 
 #include "ash/constants/ash_switches.h"

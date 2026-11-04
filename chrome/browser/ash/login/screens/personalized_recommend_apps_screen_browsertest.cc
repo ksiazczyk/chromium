@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Personalized recommend apps screen browser tests
+// summary: Browser tests for the personalized recommended apps OOBE screen, covering app selection, installation, and screen exit behavior.
+// ---
+
 #include "chrome/browser/ash/login/screens/personalized_recommend_apps_screen.h"
 
 #include "ash/constants/ash_features.h"

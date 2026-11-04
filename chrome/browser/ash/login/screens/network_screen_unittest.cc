@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network screen unit tests
+// summary: Unit tests for NetworkScreen covering continue-on-connect behavior and Quick Start Wi-Fi security type mapping.
+// ---
+
 #include "chrome/browser/ash/login/screens/network_screen.h"
 
 #include <memory>

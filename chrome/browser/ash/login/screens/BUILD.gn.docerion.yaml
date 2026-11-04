@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the login screens library
+summary: GN build definition listing the sources and dependencies of the ChromeOS login and OOBE screens static library.

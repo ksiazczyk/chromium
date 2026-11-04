@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User session manager header
+// summary: Declares UserSessionManager, responsible for loading and initializing profiles, marking users as logged in, and launching sessions after sign-in.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SESSION_USER_SESSION_MANAGER_H_
 #define CHROME_BROWSER_ASH_LOGIN_SESSION_USER_SESSION_MANAGER_H_
 

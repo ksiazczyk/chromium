@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HID detection screen browser tests
+// summary: Browser tests covering the HID detection screen, using a fake HID detection manager to verify device state UI updates, continue actions and metrics.
+// ---
+
 #include "chrome/browser/ash/login/screens/hid_detection_screen.h"
 
 #include "ash/constants/ash_features.h"

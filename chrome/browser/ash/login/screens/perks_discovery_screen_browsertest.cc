@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Perks discovery screen browser tests
+// summary: Browser tests for the perks discovery OOBE screen using campaign JSON fixtures to exercise valid perk payloads, malformed payloads, and empty campaign cases.
+// ---
+
 #include "chrome/browser/ash/login/screens/perks_discovery_screen.h"
 
 #include "ash/constants/ash_features.h"

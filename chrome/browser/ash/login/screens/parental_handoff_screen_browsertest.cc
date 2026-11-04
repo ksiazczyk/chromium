@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Parental handoff screen browser tests
+// summary: Browser tests for the parental handoff OOBE screen, covering screen exit results, child user flows with fake GAIA, and step completion metrics.
+// ---
+
 #include "chrome/browser/ash/login/screens/parental_handoff_screen.h"
 
 #include <memory>

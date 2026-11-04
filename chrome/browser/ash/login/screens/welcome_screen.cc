@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Welcome screen implementation
+// summary: Implements the OOBE welcome screen, handling language, input method and timezone selection, accessibility toggles, demo mode and debugging user actions.
+// ---
+
 #include "chrome/browser/ash/login/screens/welcome_screen.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MarketingOptInScreen implementation
+// summary: Implements the marketing opt-in OOBE screen, recording opt-in and opt-out metrics per country and handling Chromebook email subscriptions and accessibility buttons.
+// ---
+
 #include "chrome/browser/ash/login/screens/marketing_opt_in_screen.h"
 
 #include <cstddef>

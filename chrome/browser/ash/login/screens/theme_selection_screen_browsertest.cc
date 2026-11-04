@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Theme selection screen browser tests
+// summary: Browser tests for the theme selection screen, verifying theme buttons, clamshell and tablet subtitles, and OOBE step metrics.
+// ---
+
 #include "chrome/browser/ash/login/screens/theme_selection_screen.h"
 
 #include "ash/constants/ash_pref_names.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SAML confirm password screen header
+// summary: Declares the SAML confirm password screen and SamlContext for confirming scraped SAML passwords during GAIA sign-in and auth setup.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_SAML_CONFIRM_PASSWORD_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_SAML_CONFIRM_PASSWORD_SCREEN_H_
 

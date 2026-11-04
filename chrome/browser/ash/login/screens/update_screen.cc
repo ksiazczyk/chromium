@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update screen implementation
+// summary: Implements the OOBE update screen that checks update availability, tracks update engine progress, handles metered network consent and requests a reboot after a critical update.
+// ---
+
 #include "chrome/browser/ash/login/screens/update_screen.h"
 
 #include <algorithm>

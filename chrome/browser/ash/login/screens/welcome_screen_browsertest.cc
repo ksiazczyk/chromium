@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Welcome screen browser tests
+// summary: Browser tests exercising the OOBE welcome screen, covering language switching, accessibility features, ChromeVox hint dialogs and related metrics.
+// ---
+
 #include "chrome/browser/ash/login/screens/welcome_screen.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fjord touch controller screen implementation
+// summary: Implements the FjordTouchControllerScreen OOBE screen that explains touch controller setup steps and exits when setup completes.
+// ---
+
 #include "chrome/browser/ash/login/screens/fjord_touch_controller_screen.h"
 
 #include "chrome/browser/ash/login/oobe_screen.h"

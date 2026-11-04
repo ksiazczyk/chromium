@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install attributes error screen class declaration
+// summary: Declares the controller for the install attributes error screen, a BaseScreen subclass that shows the error view and handles user actions.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_INSTALL_ATTRIBUTES_ERROR_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_INSTALL_ATTRIBUTES_ERROR_SCREEN_H_
 

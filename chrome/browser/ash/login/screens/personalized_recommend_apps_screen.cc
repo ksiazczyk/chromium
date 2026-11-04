@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personalized recommend apps screen implementation
+// summary: Implements the OOBE screen controller that fetches recommended ARC and web apps for the user's chosen use cases and installs the selected ones during ChromeOS setup.
+// ---
+
 #include "chrome/browser/ash/login/screens/personalized_recommend_apps_screen.h"
 
 #include <algorithm>

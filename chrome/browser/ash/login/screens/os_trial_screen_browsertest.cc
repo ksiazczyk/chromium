@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OS trial screen browser tests
+// summary: Browser tests for the OS trial OOBE screen, covering try and install option selection, back navigation, and skipping when OS install is started from the user creation screen.
+// ---
+
 #include "ash/constants/ash_switches.h"
 #include "ash/public/cpp/login_screen_test_api.h"
 #include "chrome/browser/ash/login/screens/welcome_screen.h"

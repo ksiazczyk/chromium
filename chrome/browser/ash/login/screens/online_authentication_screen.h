@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Online authentication screen class declaration
+// summary: Declares the OnlineAuthenticationScreen class, a simple OOBE screen wrapper around its view with a back result.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_ONLINE_AUTHENTICATION_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_ONLINE_AUTHENTICATION_SCREEN_H_
 

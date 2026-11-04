@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remove local auth factors screen implementation
+// summary: Implements the OOBE login screen that removes policy-disallowed local auth factors such as the local password and PIN, with usage metrics and error handling.
+// ---
+
 #include "chrome/browser/ash/login/screens/osauth/remove_local_auth_factors_screen.h"
 
 #include <memory>

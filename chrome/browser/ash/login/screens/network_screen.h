@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network selection screen class declaration
+// summary: Declares the OOBE NetworkScreen, which observes network state changes and handles Quick Start UI updates.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_NETWORK_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_NETWORK_SCREEN_H_
 

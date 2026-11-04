@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device disabled screen
+// summary: Implements the OOBE screen that informs the user the device has been disabled by its owner, showing serial, domain, and restriction schedule details.
+// ---
+
 #include "chrome/browser/ash/login/screens/device_disabled_screen.h"
 
 #include <string>

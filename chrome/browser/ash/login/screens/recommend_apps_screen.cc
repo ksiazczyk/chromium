@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recommend Apps screen implementation
+// summary: Implements the Recommend Apps screen of the first sign-in flow, letting users pick Android apps to reinstall and recording usage metrics.
+// ---
+
 #include "chrome/browser/ash/login/screens/recommend_apps_screen.h"
 
 #include "base/check_op.h"

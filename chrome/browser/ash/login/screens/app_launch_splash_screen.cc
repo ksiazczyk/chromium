@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App launch splash screen implementation
+// summary: Implements the kiosk app launch splash screen, showing app name, icon, and URL, updating launch state, and handling network error and configuration UI.
+// ---
+
 #include "chrome/browser/ash/login/screens/app_launch_splash_screen.h"
 
 #include <string>

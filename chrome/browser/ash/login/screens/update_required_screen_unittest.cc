@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Update required screen unit tests
+// summary: Unit tests for the update required screen using fake update engine, network handler and mock error screen objects to verify screen behavior in isolation.
+// ---
+
 #include "chrome/browser/ash/login/screens/update_required_screen.h"
 
 #include <memory>

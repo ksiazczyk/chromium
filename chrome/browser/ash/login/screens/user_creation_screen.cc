@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User creation screen implementation
+// summary: Implements the user creation screen controller, handling sign-in, child account, school account, and enterprise enrollment actions along with network error display.
+// ---
+
 #include "chrome/browser/ash/login/screens/user_creation_screen.h"
 
 #include "ash/public/cpp/login_screen.h"

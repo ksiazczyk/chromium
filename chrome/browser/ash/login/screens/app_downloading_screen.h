@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App downloading screen header
+// summary: Declares AppDownloadingScreen, a BaseScreen and Mojo page handler for the screen informing the user that selected Android apps are downloading.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_APP_DOWNLOADING_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_APP_DOWNLOADING_SCREEN_H_
 

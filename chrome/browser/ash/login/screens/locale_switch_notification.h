@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Locale switch notification class declaration
+// summary: Declares a utility class exposing a static Show method that displays the locale switch notification with a language switch callback.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREENS_LOCALE_SWITCH_NOTIFICATION_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREENS_LOCALE_SWITCH_NOTIFICATION_H_
 

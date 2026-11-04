@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split modifier keyboard info screen implementation
+// summary: Implements the OOBE screen informing users about split modifier keyboards, skipping managed, child, or unsupported keyboard devices.
+// ---
+
 #include "chrome/browser/ash/login/screens/split_modifier_keyboard_info_screen.h"
 
 #include "ash/constants/ash_switches.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network selection screen implementation
+// summary: Implements the OOBE network selection screen, including Quick Start Wi-Fi credentials, timeouts and connection handling.
+// ---
+
 #include "chrome/browser/ash/login/screens/network_screen.h"
 
 #include <string>
