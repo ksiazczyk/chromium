@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the ash preferences directory
+summary: Restricts Chromium includes for this directory and grants specific exceptions to the browser test and unit test files.

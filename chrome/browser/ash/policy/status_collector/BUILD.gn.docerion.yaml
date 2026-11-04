@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Status collector GN build definition
+summary: Defines the status_collector static library sources, dependencies, and the unit_tests source_set for this directory.

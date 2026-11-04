@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UploadJobImpl class declaration
+// summary: Declares UploadJobImpl, an UploadJob implementation using OAuth2AccessTokenManager and SimpleURLLoader, with a state machine for token acquisition and upload retries.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_UPLOADING_UPLOAD_JOB_IMPL_H_
 #define CHROME_BROWSER_ASH_POLICY_UPLOADING_UPLOAD_JOB_IMPL_H_
 

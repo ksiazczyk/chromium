@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for RankerExample feature helpers
+// summary: Unit tests covering SafeGetFeature and GetFeatureValueAsFloat behavior across bool, int32, float and one-hot features.
+// ---
+
 #include "chrome/browser/ash/power/ml/smart_dim/ranker_example_util.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

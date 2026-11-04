@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EnterpriseActivityStorage implementation
+// summary: Implements filtering and redaction of stored activity periods, aggregating data of users excluded from reporting.
+// ---
+
 #include "chrome/browser/ash/policy/status_collector/enterprise_activity_storage.h"
 
 #include <stdint.h>

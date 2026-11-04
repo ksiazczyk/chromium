@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User activity UKM logger bucketizer helpers
+// summary: Implements bucketizing of user activity event features and data into defined buckets for UKM logging.
+// ---
+
 #include "chrome/browser/ash/power/ml/user_activity_ukm_logger_helpers.h"
 
 #include <array>

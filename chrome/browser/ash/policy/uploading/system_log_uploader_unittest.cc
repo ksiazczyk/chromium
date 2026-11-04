@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System log uploader unit tests
+// summary: Unit tests for the ChromeOS system log uploader, covering upload headers, retry behavior and immediate uploads triggered by remote commands.
+// ---
+
 #include "chrome/browser/ash/policy/uploading/system_log_uploader.h"
 
 #include <algorithm>

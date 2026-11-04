@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SmartChargingManager class declaration
+// summary: Declares the manager that logs battery percentage and charging-related features from user activity, power, video, and session events.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POWER_SMART_CHARGING_SMART_CHARGING_MANAGER_H_
 #define CHROME_BROWSER_ASH_POWER_SMART_CHARGING_SMART_CHARGING_MANAGER_H_
 

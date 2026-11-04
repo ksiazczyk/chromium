@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake light provider for testing
+// summary: Fake LightProviderInterface implementation that reports ambient light updates and reader initialization status to the ALS reader during tests.
+// ---
+
 #include "chrome/browser/ash/power/auto_screen_brightness/fake_light_provider.h"
 
 namespace ash {

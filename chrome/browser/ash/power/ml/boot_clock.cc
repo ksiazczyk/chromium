@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boot clock implementation
+// summary: Implements BootClock, returning time since boot via CLOCK_BOOTTIME or a mocked boot time when base time overrides are active.
+// ---
+
 #include "chrome/browser/ash/power/ml/boot_clock.h"
 
 #include <time.h>

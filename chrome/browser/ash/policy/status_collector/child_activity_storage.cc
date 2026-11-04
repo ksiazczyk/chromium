@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChildActivityStorage implementation
+// summary: Stores activity periods for child users and updates the child screen time preference.
+// ---
+
 #include "chrome/browser/ash/policy/status_collector/child_activity_storage.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RendererFreezer implementation
+// summary: Implements RendererFreezer, which freezes renderer processes on suspend and thaws them on resume, exempting extensions that use GCM.
+// ---
+
 #include "chrome/browser/ash/power/renderer_freezer.h"
 
 #include <string>

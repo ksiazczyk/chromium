@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StatusCollectorState implementation
+// summary: Implements the ref-counted state helper that posts collected status parameters to the response callback on the task runner when destroyed.
+// ---
+
 #include "chrome/browser/ash/policy/status_collector/status_collector_state.h"
 
 #include <utility>

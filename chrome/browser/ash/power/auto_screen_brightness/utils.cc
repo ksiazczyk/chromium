@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Brightness utility functions
+// summary: Provides small helpers that convert values to the log domain and format brightness percentages for printing.
+// ---
+
 #include "chrome/browser/ash/power/auto_screen_brightness/utils.h"
 #include "base/strings/stringprintf.h"
 

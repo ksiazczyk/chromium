@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the smart_charging library
+summary: Defines the smart_charging static library and its unit test source set together with their build dependencies.

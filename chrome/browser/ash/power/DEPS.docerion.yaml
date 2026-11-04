@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the ash power directory
+summary: Restricts //chrome includes and grants specific dependency exceptions for the power directory and its tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UploadJob interface for cloud data uploads
+// summary: Declares the UploadJob interface for uploading screenshots and log files to the cloud as multipart/form-data POST requests with OAuth2 authentication.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_UPLOADING_UPLOAD_JOB_H_
 #define CHROME_BROWSER_ASH_POLICY_UPLOADING_UPLOAD_JOB_H_
 

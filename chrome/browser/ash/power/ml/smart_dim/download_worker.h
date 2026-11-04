@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download worker class declaration
+// summary: Declares DownloadWorker, a SmartDimWorker that loads model files from verified smart dim components.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POWER_ML_SMART_DIM_DOWNLOAD_WORKER_H_
 #define CHROME_BROWSER_ASH_POWER_ML_SMART_DIM_DOWNLOAD_WORKER_H_
 

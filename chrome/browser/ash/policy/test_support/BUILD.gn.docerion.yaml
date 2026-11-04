@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the ChromeOS policy test support library
+summary: Defines the testonly static_library target that compiles the policy test support mixins and links their ChromeOS and policy dependencies.

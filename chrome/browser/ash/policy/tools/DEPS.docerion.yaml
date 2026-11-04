@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for policy tools
+summary: Sets dependency rules for the directory, disallowing ChromeOS code from depending on //chrome per the ChromeOS code guidelines.

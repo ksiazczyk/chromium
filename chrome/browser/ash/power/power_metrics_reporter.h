@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PowerMetricsReporter class declarations
+// summary: Declares PowerMetricsReporter, an observer that reports power-management metrics with prefs retained across Chrome restarts and system reboots.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POWER_POWER_METRICS_REPORTER_H_
 #define CHROME_BROWSER_ASH_POWER_POWER_METRICS_REPORTER_H_
 

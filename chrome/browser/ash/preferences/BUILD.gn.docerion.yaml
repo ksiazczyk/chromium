@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the ash preferences library
+summary: Defines the preferences static library plus browser and unit test targets and lists their dependencies for Chrome OS Ash preferences.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ALS reader implementation
+// summary: Implements AlsReader initialization, observer management, and distribution of ambient light values through the light provider.
+// ---
+
 #include "chrome/browser/ash/power/auto_screen_brightness/als_reader.h"
 
 #include <utility>

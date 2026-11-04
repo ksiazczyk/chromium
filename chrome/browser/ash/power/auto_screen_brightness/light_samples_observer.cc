@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LightSamplesObserver implementation
+// summary: Implements LightSamplesObserver, which reads light sensor samples over Mojo, handles sensor errors, and forwards lux values to the AlsReader.
+// ---
+
 #include "chrome/browser/ash/power/auto_screen_brightness/light_samples_observer.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart Dim metadata parsing helper declarations
+// summary: Declares the metadata JSON parsing helper and the Smart Dim input and output node name constants.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POWER_ML_SMART_DIM_ML_AGENT_UTIL_H_
 #define CHROME_BROWSER_ASH_POWER_ML_SMART_DIM_ML_AGENT_UTIL_H_
 

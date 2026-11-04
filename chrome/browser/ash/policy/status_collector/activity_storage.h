@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActivityStorage class header
+// summary: Declares the base class for storing and retrieving activity time periods used by status reporting.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_STATUS_COLLECTOR_ACTIVITY_STORAGE_H_
 #define CHROME_BROWSER_ASH_POLICY_STATUS_COLLECTOR_ACTIVITY_STORAGE_H_
 

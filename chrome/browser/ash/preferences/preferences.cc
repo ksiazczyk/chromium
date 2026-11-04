@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of Chrome OS preference handling
+// summary: Applies user and device preferences to Chrome OS settings such as input methods, timezone, geolocation, and update engine behavior.
+// ---
+
 #include "chrome/browser/ash/preferences/preferences.h"
 
 #include <limits>

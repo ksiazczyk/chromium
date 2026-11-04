@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Freezer cgroup process manager declaration
+// summary: Declares FreezerCgroupProcessManager, a RendererFreezer delegate that manages the freezer cgroup.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POWER_FREEZER_CGROUP_PROCESS_MANAGER_H_
 #define CHROME_BROWSER_ASH_POWER_FREEZER_CGROUP_PROCESS_MANAGER_H_
 

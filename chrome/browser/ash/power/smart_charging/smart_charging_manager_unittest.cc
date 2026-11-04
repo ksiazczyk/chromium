@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SmartChargingManager
+// summary: Tests charging event logging and charge history updates using a fake power manager client and mock time.
+// ---
+
 #include "chrome/browser/ash/power/smart_charging/smart_charging_manager.h"
 
 #include "base/files/file_util.h"

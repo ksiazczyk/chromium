@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Idle action warning dialog declaration
+// summary: Declares IdleActionWarningDialogView, a modal dialog warning that the idle logout action is imminent.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POWER_IDLE_ACTION_WARNING_DIALOG_VIEW_H_
 #define CHROME_BROWSER_ASH_POWER_IDLE_ACTION_WARNING_DIALOG_VIEW_H_
 

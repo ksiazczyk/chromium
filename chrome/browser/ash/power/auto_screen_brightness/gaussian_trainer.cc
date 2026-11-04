@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gaussian trainer implementation
+// summary: Implements GaussianTrainer, which adapts the personal brightness curve from user training data with outlier detection and monotonicity constraints.
+// ---
+
 #include "chrome/browser/ash/power/auto_screen_brightness/gaussian_trainer.h"
 
 #include <algorithm>

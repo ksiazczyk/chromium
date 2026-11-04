@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RendererFreezer unit tests
+// summary: Unit tests for RendererFreezer using a recording test delegate and fake power manager client to verify freeze and thaw behavior.
+// ---
+
 #include "chrome/browser/ash/power/renderer_freezer.h"
 
 #include <memory>

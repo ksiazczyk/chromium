@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UploadJob unit tests
+// summary: Tests UploadJobImpl uploads using a fake OAuth2 access token manager and an embedded test server, covering token expiry, retries and multipart payloads.
+// ---
+
 #include "chrome/browser/ash/policy/uploading/upload_job.h"
 
 #include <stddef.h>

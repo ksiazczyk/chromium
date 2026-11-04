@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModelConfig implementation
+// summary: Implements ModelConfig equality comparison and IsValidModelConfig validation for adaptive brightness model parameters.
+// ---
+
 #include <cmath>
 
 #include "chrome/browser/ash/power/auto_screen_brightness/model_config.h"

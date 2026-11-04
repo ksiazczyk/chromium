@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the policy test support directory
+summary: Specifies allowed include rules for the directory, blocking general //chrome dependencies while permitting its own headers and selected existing //chrome includes.

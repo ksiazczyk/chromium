@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CPU data collector unit tests
+// summary: Tests parsing of CPU frequency time-in-state files using fake sysfs data written to a temporary directory.
+// ---
+
 #include <string>
 #include <vector>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User activity UKM logger helpers
+// summary: Declares metric name constants and bucketization helpers, including the Bucketize function and UserActivityUkmLoggerBucketizer, used when logging user activity events to UKM.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POWER_ML_USER_ACTIVITY_UKM_LOGGER_HELPERS_H_
 #define CHROME_BROWSER_ASH_POWER_ML_USER_ACTIVITY_UKM_LOGGER_HELPERS_H_
 

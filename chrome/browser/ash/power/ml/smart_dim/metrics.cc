@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart Dim metrics logging implementation
+// summary: Logs Smart Dim model results, parameter results, component load events, worker types and version types to UMA histograms.
+// ---
+
 #include "chrome/browser/ash/power/ml/smart_dim/metrics.h"
 
 #include "base/metrics/histogram_macros.h"

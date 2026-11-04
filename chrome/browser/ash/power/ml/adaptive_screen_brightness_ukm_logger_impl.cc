@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Adaptive screen brightness UKM logger implementation
+// summary: Buckets and records screen brightness event features such as activity data, environment data, and accessibility state as UKM metrics.
+// ---
+
 #include "chrome/browser/ash/power/ml/adaptive_screen_brightness_ukm_logger_impl.h"
 
 #include <array>

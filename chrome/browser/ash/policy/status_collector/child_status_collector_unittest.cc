@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChildStatusCollector unit tests
+// summary: Unit tests for ChildStatusCollector covering child status report generation, screen time tracking, and related policy settings.
+// ---
+
 #include "chrome/browser/ash/policy/status_collector/child_status_collector.h"
 
 #include <stddef.h>

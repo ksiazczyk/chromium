@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto screen brightness controller implementation
+// summary: Initializes the ALS reader, brightness monitor, model config loader, modeller, and adapter once the first user session starts.
+// ---
+
 #include "chrome/browser/ash/power/auto_screen_brightness/controller.h"
 
 #include "base/time/default_tick_clock.h"

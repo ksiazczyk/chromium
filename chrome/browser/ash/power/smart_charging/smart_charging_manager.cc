@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart charging manager implementation
+// summary: Implements the manager that records user charging events, persists past charging events to disk, and logs related metrics.
+// ---
+
 #include "chrome/browser/ash/power/smart_charging/smart_charging_manager.h"
 
 #include <memory>

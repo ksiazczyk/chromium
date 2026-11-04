@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User activity controller implementation
+// summary: Sets up and owns the idle event notifier and user activity manager, and answers whether screen dimming should be deferred via the smart dim model.
+// ---
+
 #include "chrome/browser/ash/power/ml/user_activity_controller.h"
 
 #include "ash/constants/ash_features.h"

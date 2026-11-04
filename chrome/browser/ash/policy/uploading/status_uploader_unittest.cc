@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for StatusUploader
+// summary: Unit tests for StatusUploader covering upload scheduling, upload frequency settings, and screenshot permission using mock collectors, clients, and fake DBus clients.
+// ---
+
 #include "chrome/browser/ash/policy/uploading/status_uploader.h"
 
 #include <memory>

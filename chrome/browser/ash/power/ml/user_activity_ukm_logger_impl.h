@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User activity UKM logger class declaration
+// summary: Declares UserActivityUkmLoggerImpl, which logs user activity events to UKM and tracks an incrementing sequence ID that resets each session.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POWER_ML_USER_ACTIVITY_UKM_LOGGER_IMPL_H_
 #define CHROME_BROWSER_ASH_POWER_ML_USER_ACTIVITY_UKM_LOGGER_IMPL_H_
 

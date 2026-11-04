@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User activity manager unit tests
+// summary: Unit tests for UserActivityManager covering event logging, model predictions, metrics and idle behavior with fake DBus and machine learning services.
+// ---
+
 #include "chrome/browser/ash/power/ml/user_activity_manager.h"
 
 #include <map>

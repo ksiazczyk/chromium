@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Idle event notifier implementation
+// summary: Implements IdleEventNotifier, tracking user input, lid, power, suspend and video activity to generate idle event data when screen dim is imminent.
+// ---
+
 #include "chrome/browser/ash/power/ml/idle_event_notifier.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ModellerImpl unit tests
+// summary: Unit tests for ModellerImpl using fake trainer, brightness monitor, light provider and model config loader to exercise model training and persistence.
+// ---
+
 #include "chrome/browser/ash/power/auto_screen_brightness/modeller_impl.h"
 
 #include "ash/constants/ash_features.h"

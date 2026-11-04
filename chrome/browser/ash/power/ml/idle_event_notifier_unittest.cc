@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Idle event notifier unit tests
+// summary: Tests IdleEventNotifier activity data generation for lid, power, suspend, user input and video events using a fake power manager and mocked time.
+// ---
+
 #include "chrome/browser/ash/power/ml/idle_event_notifier.h"
 
 #include <memory>

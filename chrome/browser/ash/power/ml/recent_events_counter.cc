@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recent events counter implementation
+// summary: Implements RecentEventsCounter, bucketing event timestamps in a circular array to count events within a rolling time window.
+// ---
+
 #include "chrome/browser/ash/power/ml/recent_events_counter.h"
 
 #include <algorithm>

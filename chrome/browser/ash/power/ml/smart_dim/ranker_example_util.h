@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RankerExample feature access helper interface
+// summary: Declares SafeGetFeature and GetFeatureValueAsFloat helpers for safely accessing features in RankerExample messages.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POWER_ML_SMART_DIM_RANKER_EXAMPLE_UTIL_H_
 #define CHROME_BROWSER_ASH_POWER_ML_SMART_DIM_RANKER_EXAMPLE_UTIL_H_
 

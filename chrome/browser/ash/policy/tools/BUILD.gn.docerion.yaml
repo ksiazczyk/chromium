@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for device policy remover generation
+summary: Defines a GN action that runs generate_device_policy_remover.py to produce device_policy_remover.cc and a static_library target wrapping the generated code.

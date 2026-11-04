@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recent events counter header
+// summary: Declares RecentEventsCounter, which keeps a running count of events in a recent time period using bucketed timestamps.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POWER_ML_RECENT_EVENTS_COUNTER_H_
 #define CHROME_BROWSER_ASH_POWER_ML_RECENT_EVENTS_COUNTER_H_
 

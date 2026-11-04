@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the auto screen brightness directory
+summary: Sets DEPS include rules that block //chrome dependencies and allow only specific includes for this directory and its unit tests.

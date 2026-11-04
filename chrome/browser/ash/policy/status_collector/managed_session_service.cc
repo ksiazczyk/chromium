@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManagedSessionService implementation
+// summary: Implements a service that tracks managed session events such as login, logout, screen lock, unlock attempts and resume, notifying registered observers.
+// ---
+
 #include "chrome/browser/ash/policy/status_collector/managed_session_service.h"
 
 #include "base/logging.h"

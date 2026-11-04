@@ -1,3 +1,9 @@
+---
+type: readme
+title: Policy uploading directory overview
+summary: Explains that this directory holds code for periodically scheduled uploads to the policy server, while event-triggered uploads belong in the policy reporting directory.
+---
+
 chrome/browser/ash/policy/uploading
 ========================================
 

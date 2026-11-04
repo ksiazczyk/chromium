@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Example preprocessing implementation
+// summary: Implements ExamplePreprocessor steps that turn RankerExample features into vectorized model input.
+// ---
+
 #include "chrome/browser/ash/power/ml/smart_dim/example_preprocessing.h"
 
 #include <algorithm>

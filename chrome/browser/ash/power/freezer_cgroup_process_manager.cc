@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Freezer cgroup process manager implementation
+// summary: Freezes and thaws renderer processes by writing to the ChromeOS freezer cgroup control files.
+// ---
+
 #include "chrome/browser/ash/power/freezer_cgroup_process_manager.h"
 
 #include <string>

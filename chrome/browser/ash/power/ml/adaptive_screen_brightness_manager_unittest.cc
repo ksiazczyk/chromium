@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Adaptive screen brightness manager unit tests
+// summary: Unit tests for the brightness manager using a fake power manager client, mock time, and a testing UKM logger.
+// ---
+
 #include "chrome/browser/ash/power/ml/adaptive_screen_brightness_manager.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the uploading directory
+summary: Sets include rules that bar general //chrome dependencies for this directory while whitelisting the specific Chrome and unittest includes it may use.

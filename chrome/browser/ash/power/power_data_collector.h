@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PowerDataCollector class declarations
+// summary: Declares the PowerDataCollector singleton that collects battery, power supply, and resume samples, keeping only samples within a 24-hour time limit.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POWER_POWER_DATA_COLLECTOR_H_
 #define CHROME_BROWSER_ASH_POWER_POWER_DATA_COLLECTOR_H_
 

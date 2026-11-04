@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the power ML directory
+summary: Restricts //chrome dependencies for ChromeOS and grants specific include allowances to the directory and its test files.

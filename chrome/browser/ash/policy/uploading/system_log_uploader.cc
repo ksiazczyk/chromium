@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemLogUploader implementation
+// summary: Implements SystemLogUploader, which periodically uploads zipped system logs and policy dumps with retry, throttling, redaction, and remote-command header support.
+// ---
+
 #include "chrome/browser/ash/policy/uploading/system_log_uploader.h"
 
 #include <algorithm>

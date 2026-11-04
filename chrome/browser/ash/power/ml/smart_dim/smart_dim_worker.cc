@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart Dim worker base class implementation
+// summary: Implements SmartDimWorker base class methods for dim threshold, feature size, reset and ML service connection error handling.
+// ---
+
 #include "chrome/browser/ash/power/ml/smart_dim/smart_dim_worker.h"
 
 #include "chrome/browser/ash/power/ml/smart_dim/example_preprocessor.pb.h"

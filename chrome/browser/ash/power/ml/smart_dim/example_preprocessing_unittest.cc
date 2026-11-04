@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Example preprocessing unit tests
+// summary: Unit tests for ExamplePreprocessor covering missing, bucketized, normalized, string-converted and vectorized features.
+// ---
+
 #include "chrome/browser/ash/power/ml/smart_dim/example_preprocessing.h"
 
 #include "base/strings/string_number_conversions.h"

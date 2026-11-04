@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User activity UKM logger helpers unit tests
+// summary: Unit tests verifying that Bucketize rounds values into the expected buckets and that UserActivityUkmLoggerBucketizer bucketizes user activity event features correctly.
+// ---
+
 #include "chrome/browser/ash/power/ml/user_activity_ukm_logger_helpers.h"
 
 #include <array>

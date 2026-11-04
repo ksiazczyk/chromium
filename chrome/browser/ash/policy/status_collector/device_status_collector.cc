@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceStatusCollector implementation
+// summary: Implements collection of enterprise-managed ChromeOS device status, including hardware, network, battery, and user activity data.
+// ---
+
 #include "chrome/browser/ash/policy/status_collector/device_status_collector.h"
 
 #include <inttypes.h>

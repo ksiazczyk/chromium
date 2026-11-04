@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart Dim worker base class interface
+// summary: Defines the SmartDimWorker base class holding preprocessor config, model and graph executor remotes used by BuiltinWorker and DownloadWorker.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POWER_ML_SMART_DIM_SMART_DIM_WORKER_H_
 #define CHROME_BROWSER_ASH_POWER_ML_SMART_DIM_SMART_DIM_WORKER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User activity UKM logger interface
+// summary: Declares the UserActivityUkmLogger interface for logging UserActivityEvent records to UKM.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POWER_ML_USER_ACTIVITY_UKM_LOGGER_H_
 #define CHROME_BROWSER_ASH_POWER_ML_USER_ACTIVITY_UKM_LOGGER_H_
 

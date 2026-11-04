@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for status_collector
+summary: Delegates code ownership to the ChromeOS policy and reporting component owner lists.

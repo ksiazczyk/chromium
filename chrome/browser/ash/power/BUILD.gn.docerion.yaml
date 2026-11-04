@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the ash power directory
+summary: Defines the power static library sources and the unit_tests source set with their build dependencies.

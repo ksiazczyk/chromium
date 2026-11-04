@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Monotone cubic spline implementation
+// summary: Implements the Fritsch-Carlson monotone cubic spline, including parsing from strings, tangent computation and interpolation.
+// ---
+
 #include "chrome/browser/ash/power/auto_screen_brightness/monotone_cubic_spline.h"
 
 #include <cmath>

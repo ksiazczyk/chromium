@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Smart Dim BUILD.gn build targets
+summary: GN build rules defining the smart_dim static library, proto library, unit tests and ChromeOS integration tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User activity manager header
+// summary: Declares the UserActivityManager class that observes user activity, power, video and session events to log features and obtain smart dim decisions.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POWER_ML_USER_ACTIVITY_MANAGER_H_
 #define CHROME_BROWSER_ASH_POWER_ML_USER_ACTIVITY_MANAGER_H_
 

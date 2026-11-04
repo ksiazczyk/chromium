@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ManagedSessionService unit tests
+// summary: Unit tests for ManagedSessionService covering login, logout, screen lock and unlock behavior using fake session, user and power manager clients.
+// ---
+
 #include "chrome/browser/ash/policy/status_collector/managed_session_service.h"
 
 #include "base/memory/raw_ptr.h"

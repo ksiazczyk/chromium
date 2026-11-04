@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PowerDataCollector implementation
+// summary: Implements the PowerDataCollector global singleton, which records power supply and system resume samples from the power manager client.
+// ---
+
 #include "chrome/browser/ash/power/power_data_collector.h"
 
 #include "base/check.h"

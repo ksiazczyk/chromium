@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart Dim model metadata parsing utilities
+// summary: Parses Smart Dim model metadata JSON into the metrics model name, dim threshold, expected feature size and input and output node maps.
+// ---
+
 #include "chrome/browser/ash/power/ml/smart_dim/ml_agent_util.h"
 
 #include <optional>

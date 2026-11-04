@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Example preprocessing class declaration
+// summary: Declares ExamplePreprocessor and its error codes for preprocessing RankerExamples with a configuration.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POWER_ML_SMART_DIM_EXAMPLE_PREPROCESSING_H_
 #define CHROME_BROWSER_ASH_POWER_ML_SMART_DIM_EXAMPLE_PREPROCESSING_H_
 

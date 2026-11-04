@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Adaptive screen brightness manager class declaration
+// summary: Declares the manager that observes user activity, power, lid, tablet mode, and video events to log screen brightness features.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POWER_ML_ADAPTIVE_SCREEN_BRIGHTNESS_MANAGER_H_
 #define CHROME_BROWSER_ASH_POWER_ML_ADAPTIVE_SCREEN_BRIGHTNESS_MANAGER_H_
 

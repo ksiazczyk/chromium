@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the remote commands service test mixin
+// summary: Implements RemoteCommandsServiceMixin, which queues remote commands on the test server, triggers fetches, and waits for execution results or acknowledgements.
+// ---
+
 #include "chrome/browser/ash/policy/test_support/remote_commands_service_mixin.h"
 
 #include "base/check_deref.h"

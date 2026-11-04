@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StatusUploader implementation
+// summary: Implements StatusUploader, which schedules periodic device status uploads via CloudPolicyClient and allows screenshots only in idle kiosk sessions without media capture.
+// ---
+
 #include "chrome/browser/ash/policy/uploading/status_uploader.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Modeller implementation
+// summary: Implements ModellerImpl, which loads and saves brightness curves on disk and trains personal brightness curves when the user is idle.
+// ---
+
 #include "chrome/browser/ash/power/auto_screen_brightness/modeller_impl.h"
 
 #include <cmath>

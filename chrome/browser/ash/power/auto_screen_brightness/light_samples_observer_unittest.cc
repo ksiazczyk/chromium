@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LightSamplesObserver unit tests
+// summary: Unit tests for LightSamplesObserver covering missing channels, repeated start errors, and sample reading with and without color channels.
+// ---
+
 #include "chrome/browser/ash/power/auto_screen_brightness/light_samples_observer.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StatusCollectorState class declaration
+// summary: Declares a ref-counted helper that tracks synchronous and asynchronous status queries and fires the response callback once all queries finish.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_POLICY_STATUS_COLLECTOR_STATUS_COLLECTOR_STATE_H_
 #define CHROME_BROWSER_ASH_POLICY_STATUS_COLLECTOR_STATUS_COLLECTOR_STATE_H_
 

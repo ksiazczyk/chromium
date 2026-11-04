@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CPU data collector implementation
+// summary: Samples CPU idle and frequency state occupancy from sysfs on a repeating timer for ChromeOS power reporting.
+// ---
+
 #include "chrome/browser/ash/power/cpu_data_collector.h"
 
 #include <stddef.h>

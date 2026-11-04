@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User activity manager browser tests
+// summary: Browser tests for UserActivityManager that verify activity logging and smart dim decision behavior using a fake UKM logger and an embedded test server.
+// ---
+
 #include "chrome/browser/ash/power/ml/user_activity_manager.h"
 
 #include <memory>

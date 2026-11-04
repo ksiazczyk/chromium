@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppInfoGenerator unit tests
+// summary: Unit tests for app info generation, usage tracking, and reporting behavior using fake app service and web app providers.
+// ---
+
 #include "chrome/browser/ash/policy/status_collector/app_info_generator.h"
 
 #include <memory>

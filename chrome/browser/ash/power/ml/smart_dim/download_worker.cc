@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download worker implementation
+// summary: Implements the Smart Dim worker that loads metadata, preprocessor config and flatbuffer model from downloaded components.
+// ---
+
 #include "chrome/browser/ash/power/ml/smart_dim/download_worker.h"
 
 #include "base/functional/bind.h"
