@@ -12,6 +12,12 @@
  * bridge is destroyed from Tast tests side.
  */
 
+// ---docerion
+// type: source
+// title: SharedWorker bridge for Tast test communication
+// summary: Implements a SharedWorker that lets Tast tests bind and control camera app windows and mark sessions as running in a test environment.
+// ---
+
 import {AppWindow} from './app_window.js';
 import {assert} from './assert.js';
 import * as comlink from './lib/comlink.js';

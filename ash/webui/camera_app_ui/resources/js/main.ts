@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera app main entry point
+// summary: Entry point that initializes the Chrome OS camera app, wiring up views, navigation, metrics, filesystem, and UI behaviors such as tooltips and toggles.
+// ---
+
 import './lit/components/index.js';
 
 import {ColorChangeUpdater} from 'chrome://resources/cr_components/color_change_listener/colors_css_updater.js';

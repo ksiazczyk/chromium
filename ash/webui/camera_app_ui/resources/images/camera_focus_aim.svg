@@ -1,3 +1,9 @@
+<!--docerion
+type: asset
+title: Camera app focus aim animation
+summary: Animated SVG with CSS keyframes showing inner and outer focus circles used as the focus aim indicator in the camera app.
+-->
+
 <svg id="inner_circle_focus" xmlns="http://www.w3.org/2000/svg" width="120px" height="120px" transform="scale(0.6)" >
     <g id="outer_circle_focus_outlines_position" transform="translate(60,60)" >
         <g id="outer_circle_focus_outlines_rotation" transform="rotate(0)" >

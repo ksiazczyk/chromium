@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for camera_app_ui
+summary: Records the Buganizer component ID and owning team email address for the camera_app_ui directory.

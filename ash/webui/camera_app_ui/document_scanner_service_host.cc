@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document scanner service host implementation
+// summary: Implements the singleton host that registers the document scanner with the mojo service manager and forwards corner detection requests from ChromeOS VCD.
+// ---
+
 #include "ash/webui/camera_app_ui/document_scanner_service_host.h"
 
 #include "base/memory/singleton.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface of the Boca WebUI controller
+// summary: Declares the BocaUI untrusted WebUI controller and its delegate, which serve the Boca app page and create its page handler.
+// ---
+
 #ifndef ASH_WEBUI_BOCA_UI_BOCA_UI_H_
 #define ASH_WEBUI_BOCA_UI_BOCA_UI_H_
 

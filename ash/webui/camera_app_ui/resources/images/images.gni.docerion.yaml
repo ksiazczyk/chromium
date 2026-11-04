@@ -1,0 +1,4 @@
+# Docerion header of images.gni.
+type: config
+title: Camera app image asset list for GN build
+summary: GN build list that groups the camera app's SVG and PNG images into standalone, in-app preloaded, and icon sets.

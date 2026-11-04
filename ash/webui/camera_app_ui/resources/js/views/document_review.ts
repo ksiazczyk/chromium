@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document review view controller
+// summary: Manages the document scanning review view with page thumbnails, fix and preview modes, page update handling, and PDF building for saving scanned documents.
+// ---
+
 import {assert, assertExists, assertInstanceof, assertNotReached} from '../assert.js';
 import * as dom from '../dom.js';
 import type {Point} from '../geometry.js';

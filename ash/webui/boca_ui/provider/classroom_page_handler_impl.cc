@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Classroom page handler implementation
+// summary: Implements the Boca UI classroom page handler that fetches courses, students, and course work from the Google Classroom API with pagination and traffic annotations.
+// ---
+
 #include "ash/webui/boca_ui/provider/classroom_page_handler_impl.h"
 
 #include "ash/constants/ash_features.h"

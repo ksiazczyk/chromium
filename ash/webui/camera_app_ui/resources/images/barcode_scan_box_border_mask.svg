@@ -1,3 +1,9 @@
+<!--docerion
+type: asset
+title: Barcode scan box border mask
+summary: SVG mask of four black corner squares used to draw the rounded border of the barcode scan viewfinder box.
+-->
+
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
   <rect x="0" y="0" width="25" height="25" fill="#000000"/>
   <rect x="75" y="0" width="25" height="25" fill="#000000"/>

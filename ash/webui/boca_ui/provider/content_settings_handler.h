@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content settings handler header
+// summary: Declares ContentSettingsHandler, which sets per-origin content settings for Boca UI permissions using the user's HostContentSettingsMap.
+// ---
+
 #ifndef ASH_WEBUI_BOCA_UI_PROVIDER_CONTENT_SETTINGS_HANDLER_H_
 #define ASH_WEBUI_BOCA_UI_PROVIDER_CONTENT_SETTINGS_HANDLER_H_
 

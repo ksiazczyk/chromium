@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera app helper implementation
+// summary: Implements the CameraAppHelper mojo interface, converting browser-side device and system state for the camera app web UI.
+// ---
+
 #include "ash/webui/camera_app_ui/camera_app_helper_impl.h"
 
 #include <utility>

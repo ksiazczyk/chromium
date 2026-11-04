@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network info provider unit tests
+// summary: Unit tests verifying that NetworkInfoProvider reports active Wi-Fi state, name, and signal strength and reacts to network changes.
+// ---
+
 #include "ash/webui/boca_ui/provider/network_info_provider.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of types.mojom.
+type: source
+title: Wi-Fi type Mojom definitions
+summary: Defines Mojo enums for Wi-Fi security types and EAP methods used by the camera app and persisted to logs.

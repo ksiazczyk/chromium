@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local storage access helpers for the camera app
+// summary: Wraps window.localStorage with typed getters, setters, removal and cleanup of keys not defined in the LocalStorageKey enum for the Chrome camera app.
+// ---
+
 import {assertBoolean, assertInstanceof, assertNumber, assertString, checkEnumVariant} from '../assert.js';
 import {LocalStorageKey} from '../type.js';
 

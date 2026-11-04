@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for Camera App resources
+summary: Defines GN targets that generate preload image JavaScript, copy JS sources, preprocess mojo TypeScript bindings, and build the Camera App TypeScript library.

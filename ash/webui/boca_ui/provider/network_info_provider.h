@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network info provider header
+// summary: Declares NetworkInfoProvider, a CrosNetworkConfigObserver that supplies network info to BocaAppPageHandler through a repeating callback.
+// ---
+
 #ifndef ASH_WEBUI_BOCA_UI_PROVIDER_NETWORK_INFO_PROVIDER_H_
 #define ASH_WEBUI_BOCA_UI_PROVIDER_NETWORK_INFO_PROVIDER_H_
 

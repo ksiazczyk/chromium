@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Common types and enums for the camera app
+// summary: Defines shared types such as Resolution plus enums for mime types, capture modes, camera facings, view names, and video types.
+// ---
+
 import {assertExists, assertInstanceof} from './assert.js';
 import type {WaitableEvent} from './waitable_event.js';
 

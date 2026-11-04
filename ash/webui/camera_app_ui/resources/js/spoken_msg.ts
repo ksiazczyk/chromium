@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spoken message output for accessibility
+// summary: Speaks localized messages by updating an aria-live element so text-to-speech announces them.
+// ---
+
 import * as dom from './dom.js';
 import type {I18nString} from './i18n_string.js';
 import * as loadTimeData from './models/load_time_data.js';

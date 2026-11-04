@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File and directory access entries
+// summary: Defines file and directory entry abstractions over the File System Access API for reading, writing, moving, and removing files.
+// ---
+
 import {assert} from '../assert.js';
 import {AsyncJobWithResultQueue} from '../async_job_queue.js';
 import {isFileSystemDirectoryHandle, isFileSystemFileHandle} from '../util.js';

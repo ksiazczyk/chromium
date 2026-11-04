@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Settings view styles for the camera app UI
+summary: Styles expandable menu items in the camera app settings view, including arrow spacing and RTL mirroring.
+*/
+
 .menu-item.expandable .expand {
   margin-inline-end: 16px;
   margin-inline-start: auto;

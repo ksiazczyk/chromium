@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera directory file system initialization
+// summary: Initializes and provides the camera and temporary directories, resolving the storage location from the launch queue or IndexedDB.
+// ---
+
 import {assert} from '../assert.js';
 import {isFileSystemDirectoryHandle} from '../util.js';
 import {WaitableEvent} from '../waitable_event.js';

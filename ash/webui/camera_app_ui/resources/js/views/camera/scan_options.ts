@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera view scan options controller
+// summary: Controls the scan mode options, switching between barcode and document scanning and checking document mode readiness.
+// ---
+
 import {assert, assertEnumVariant} from '../../assert.js';
 import {queuedAsyncCallback} from '../../async_job_queue.js';
 import type {CameraManager, CameraUi} from '../../device/index.js';

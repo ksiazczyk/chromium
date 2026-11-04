@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OCR on video preview frames
+// summary: Captures the current video preview frame to a JPEG blob and performs OCR through ChromeHelper, returning text results with image dimensions.
+// ---
+
 import {assertInstanceof} from './assert.js';
 import {ChromeHelper} from './mojo/chrome_helper.js';
 import type {OcrResult} from './mojo/type.js';

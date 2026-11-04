@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tooltip display and setup for camera app UI
+// summary: Manages a shared tooltip element, hiding it and wiring mouse and focus events so tooltips show for given elements.
+// ---
+
 import {assert} from './assert.js';
 import * as dom from './dom.js';
 import {TextTooltip} from './lit/components/text-tooltip.js';

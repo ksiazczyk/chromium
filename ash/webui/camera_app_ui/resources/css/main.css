@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Main camera app stylesheet
+summary: Main stylesheet defining root design tokens, animation durations, layout stripes, shutter and action button groups, and shared base styles for the camera app.
+*/
+
 :root {
   color-scheme: only dark;
 

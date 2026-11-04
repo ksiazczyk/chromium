@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_base.json.
+type: config
+title: Boca UI TypeScript base configuration
+summary: TypeScript compiler options for the Boca UI resources, extending the shared Chromium tsconfig base.

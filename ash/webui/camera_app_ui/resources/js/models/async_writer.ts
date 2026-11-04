@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AsyncWriter for file-like writable streams
+// summary: Implements an asynchronous writer supporting write, seek, and close operations, plus combining multiple writers into one.
+// ---
+
 import {assert} from '../assert.js';
 import {AsyncJobQueue} from '../async_job_queue.js';
 import type {Awaitable} from '../type.js';

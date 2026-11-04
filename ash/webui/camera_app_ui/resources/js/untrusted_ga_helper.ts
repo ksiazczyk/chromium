@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GA4 metrics helper for untrusted context
+// summary: Defines GA4 metric dimensions and sends Google Analytics 4 events via the Measurement Protocol.
+// ---
+
 import {assertExists} from './assert.js';
 
 

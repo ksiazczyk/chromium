@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: video.css
+summary: Stylesheet for video recording mode, covering record type visibility, the GIF shutter countdown ring, and the time-lapse progress indicator.
+*/
+
 body:is(:not(.video), .taking, .camera-configuring, .should-handle-intent-result) #record-types-group {
   display: none;
 }

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Result saver for captured photos and videos
+// summary: Defines the ResultSaver interface and default implementation that save captured photos, GIFs and videos to the file system and manage the gallery cover photo.
+// ---
+
 import {assert} from '../assert.js';
 import {CoverPhoto} from '../cover_photo.js';
 import * as dom from '../dom.js';

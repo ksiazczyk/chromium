@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Popup menu component
+// summary: Menu class that builds and positions popup menus anchored to entry elements, handling item rendering, keyboard input, and click-away closing.
+// ---
+
 import {assert, assertInstanceof} from './assert.js';
 import * as dom from './dom.js';
 import {getKeyboardShortcut, instantiateTemplate} from './util.js';

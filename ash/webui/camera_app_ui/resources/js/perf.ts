@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance event logger
+// summary: PerfLogger singleton that records performance event durations with CPU pressure and reports them to metrics, console logs, and Tast tests.
+// ---
+
 import {assert, assertNotReached} from './assert.js';
 import {reportError} from './error.js';
 import * as expert from './expert.js';

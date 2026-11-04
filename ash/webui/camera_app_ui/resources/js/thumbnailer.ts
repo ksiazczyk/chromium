@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thumbnail generation for images and videos
+// summary: Creates thumbnails by loading image or video blobs, scaling them on a canvas, and converting them to image blobs with error handling.
+// ---
+
 import {assertInstanceof} from './assert.js';
 import {ChromeHelper} from './mojo/chrome_helper.js';
 import {EmptyThumbnailError, ImageFormat, LoadError, MimeType, PlayError, PlayMalformedError} from './type.js';

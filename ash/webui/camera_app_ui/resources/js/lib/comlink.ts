@@ -4,6 +4,12 @@
 
 /* eslint-disable */
 
+// ---docerion
+// type: source
+// title: Vendored Comlink RPC library
+// summary: TypeScript implementation of the Comlink library providing proxy-based remote procedure calls across workers, with Closure compiler fixes.
+// ---
+
 import {
   Endpoint,
   EventSource,

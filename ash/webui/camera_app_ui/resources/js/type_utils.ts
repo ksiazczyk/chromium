@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TypeScript type utilities for enum checks
+// summary: Provides type-level helpers including AssertNever and a check that a tuple of enums has pairwise non-overlapping values.
+// ---
+
 /**
  * Asserts that the given type is never.
  */

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Face overlay drawing for camera preview
+// summary: Provides a FaceOverlay class that draws detected face rectangles on the preview canvas, handling sensor rotation and aspect ratio cropping.
+// ---
+
 import {assertInstanceof, assertNotReached} from './assert.js';
 import {queuedAsyncCallback} from './async_job_queue.js';
 import * as dom from './dom.js';

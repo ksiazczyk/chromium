@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Warning view controller for camera error messages
+// summary: Implements the warning view that stacks and displays camera error messages such as paused, missing, or disabled cameras until all errors are recovered.
+// ---
+
 import {assert, assertI18nString} from '../assert.js';
 import * as dom from '../dom.js';
 import {I18nString} from '../i18n_string.js';

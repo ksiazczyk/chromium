@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Classroom page handler header
+// summary: Declares ClassroomPageHandlerImpl, which exposes paginated listing of Classroom courses, students, and assignments to the Boca UI via callbacks.
+// ---
+
 #ifndef ASH_WEBUI_BOCA_UI_PROVIDER_CLASSROOM_PAGE_HANDLER_IMPL_H_
 #define ASH_WEBUI_BOCA_UI_PROVIDER_CLASSROOM_PAGE_HANDLER_IMPL_H_
 

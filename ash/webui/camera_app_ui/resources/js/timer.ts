@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: One-shot timer utility
+// summary: Provides a OneShotTimer class wrapping setTimeout with start, stop, reset, and fire-now operations.
+// ---
+
 import {assert} from './assert.js';
 
 /**

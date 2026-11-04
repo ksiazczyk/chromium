@@ -1,0 +1,4 @@
+# Docerion header of boca_app_bundle_mock_resources.grd.
+type: config
+title: GRIT resource bundle definition for the Boca mock app
+summary: GRIT XML that defines resource outputs and bundles the compiled mock app_bin.js into the Boca app bundle resources.

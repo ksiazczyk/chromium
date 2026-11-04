@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Photo and video review view styles
+summary: Styles the review screen for captured photos and videos, including the preview frame and confirm, cancel, and share button groups.
+*/
+
 .review-views {
   background: var(--cros-sys-app_base);
 }

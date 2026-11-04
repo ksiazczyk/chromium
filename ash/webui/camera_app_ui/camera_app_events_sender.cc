@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera app structured metrics events sender
+// summary: Implements the EventsSender mojo interface that reports camera app session, capture, and feature usage as structured metrics events.
+// ---
+
 #include "ash/webui/camera_app_ui/camera_app_events_sender.h"
 
 #include "base/metrics/histogram_base.h"

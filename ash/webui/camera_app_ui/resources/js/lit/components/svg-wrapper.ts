@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SVG wrapper Lit component
+// summary: Lit component that renders a preloaded SVG icon looked up by name, hidden from assistive technology by default.
+// ---
+
 import type {PropertyDeclarations} from 'chrome://resources/mwc/lit/index.js';
 import {css, LitElement} from 'chrome://resources/mwc/lit/index.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document scanner service host class declaration
+// summary: Declares the singleton host that exposes the CrosDocumentScanner Mojo service to ChromeOS VCD through the mojo service manager.
+// ---
+
 #ifndef ASH_WEBUI_CAMERA_APP_UI_DOCUMENT_SCANNER_SERVICE_HOST_H_
 #define ASH_WEBUI_CAMERA_APP_UI_DOCUMENT_SCANNER_SERVICE_HOST_H_
 

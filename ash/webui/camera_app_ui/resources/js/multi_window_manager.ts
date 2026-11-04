@@ -28,6 +28,12 @@
  *    window owner.
  */
 
+// ---docerion
+// type: source
+// title: Multi-window camera ownership manager
+// summary: Shared worker manager that coordinates camera ownership among multiple CCA windows, suspending and resuming owners during ownership transitions.
+// ---
+
 import {assert, assertNotReached} from './assert.js';
 import * as comlink from './lib/comlink.js';
 

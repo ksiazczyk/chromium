@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera mode selector Lit component
+// summary: Lit component rendering a scrollable selector for camera modes such as video, photo, scan, and portrait, with localized labels and disabled state support.
+// ---
+
 import type {PropertyDeclarations} from 'chrome://resources/mwc/lit/index.js';
 import {classMap, css, html, LitElement, repeat} from 'chrome://resources/mwc/lit/index.js';
 

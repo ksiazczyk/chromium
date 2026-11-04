@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrustedTypes script URL policy utility
+// summary: Creates a TrustedTypes policy that sanitizes script URLs against an allowlist used by the camera app.
+// ---
+
 import {assertExists} from './assert.js';
 import {expandPath} from './util.js';
 

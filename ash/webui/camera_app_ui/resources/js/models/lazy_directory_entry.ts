@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lazy directory entry creation
+// summary: Implements a directory wrapper that is only physically created once a file or subdirectory is written inside it.
+// ---
+
 import {assert} from '../assert.js';
 
 import type {DirectoryAccessEntry, FileAccessEntry} from './file_system_access_entry.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory usage measurement helper
+// summary: Measures memory usage of trusted and untrusted frames on a schedule and per session behavior, reporting the maximum usage through metrics.
+// ---
+
 import {assert} from './assert.js';
 import {AsyncJobQueue} from './async_job_queue.js';
 import {updateMemoryUsageEventDimensions} from './metrics.js';

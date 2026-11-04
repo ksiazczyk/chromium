@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Inkdrop ripple animation styles
+summary: Defines the inkdrop ripple effect that expands and fades from a touch point using custom drop position and radius properties.
+*/
+
 .inkdrop {
   overflow: hidden;
 }

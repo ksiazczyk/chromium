@@ -27,6 +27,12 @@ Use these custom properties to control the feature toasts, for example:
 }
 */
 
+/*docerion
+type: source
+title: Custom toast and ripple styles
+summary: Styles feature toasts, indicator dots, and ripple animations, with custom CSS properties for positioning toasts relative to triggering elements.
+*/
+
 @property --ripple-start-width {
   syntax: '<length>';
   inherits: false;

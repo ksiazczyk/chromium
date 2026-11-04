@@ -1,0 +1,4 @@
+# Docerion header of ffmpeg.patch.
+type: data
+title: FFmpeg Emscripten patch
+summary: Patch applied to FFmpeg sources before the WASM build, adding Emscripten exit handling, a wait_readable hook, and video_size options.

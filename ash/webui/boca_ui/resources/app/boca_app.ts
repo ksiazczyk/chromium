@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boca app shared types, interfaces and enums
+// summary: Defines the shared TypeScript types for the ChromeOS Boca app, including enums and interfaces for tabs, identities, courses, sessions, navigation, permissions and network state, consumed by both toolchains.
+// ---
+
 import type {BitmapN32} from '//resources/mojo/skia/public/mojom/bitmap.mojom-webui.js';
 
 /**

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AsyncIntervalRunner for repeated async calls
+// summary: Provides AsyncIntervalRunner, which repeatedly invokes an async handler with a fixed delay between calls until stopped.
+// ---
+
 import {WaitableEvent} from '../waitable_event.js';
 
 /**

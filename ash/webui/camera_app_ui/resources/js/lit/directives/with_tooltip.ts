@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: withTooltip Lit directive for element tooltips
+// summary: Lit directive for the camera app UI that sets up tooltip behavior on an element when it is focused or hovered.
+// ---
+
 import type {ElementPart, PartInfo} from 'chrome://resources/mwc/lit/index.js';
 import {directive, Directive, nothing, PartType} from 'chrome://resources/mwc/lit/index.js';
 

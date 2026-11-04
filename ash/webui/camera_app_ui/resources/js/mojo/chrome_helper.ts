@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome helper for camera app Mojo interfaces
+// summary: Singleton ChromeHelper class and helpers wrapping Mojo interfaces for the camera app, including BigBuffer creation, rotation casting, and monitors for tablet mode, lid, screen, and storage state.
+// ---
+
 import {assert, assertInstanceof, assertNotReached} from '../assert.js';
 import {reportError} from '../error.js';
 import {Point} from '../geometry.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BarcodeScanner for camera video streams
+// summary: Implements a barcode scanner that periodically grabs, crops, and scales video frames and detects barcodes via a worker.
+// ---
+
 import {assert, assertInstanceof} from '../assert.js';
 import * as comlink from '../lib/comlink.js';
 import {BARCODE_SCAN_INTERVAL} from '../photo_mode_auto_scanner.js';

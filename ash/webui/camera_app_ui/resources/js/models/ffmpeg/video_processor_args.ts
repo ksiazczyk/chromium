@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FFmpeg argument builders for recording modes
+// summary: Defines the VideoProcessorArgs interface and factory functions that build ffmpeg decoder and encoder command-line arguments for MP4, GIF, and time-lapse recording.
+// ---
+
 import type {Resolution} from '../../type.js';
 
 export interface VideoProcessorArgs {

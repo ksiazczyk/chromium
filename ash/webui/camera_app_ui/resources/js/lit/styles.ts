@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default Lit component styles
+// summary: Exports a DEFAULT_STYLE CSS template providing zero-specificity base styles for buttons, inputs, labels, focus rings, and host display in Lit components.
+// ---
+
 import {css} from 'chrome://resources/mwc/lit/index.js';
 
 // Using :where selector here so the default style always have 0 specificity and

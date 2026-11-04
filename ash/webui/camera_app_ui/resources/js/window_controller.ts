@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowController for window state via Mojo
+// summary: Provides a WindowController singleton that binds a Mojo remote to query, change, and listen for window state and focus changes in the camera app.
+// ---
+
 import {assertInstanceof} from './assert.js';
 import {WindowStateControllerRemote, WindowStateMonitorCallbackRouter, WindowStateType} from './mojo/type.js';
 import {wrapEndpoint} from './mojo/util.js';

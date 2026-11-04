@@ -1,0 +1,4 @@
+# Docerion header of boca_app.gni.
+type: config
+title: Build arguments for the ChromeOS Boca app
+summary: Declares the enable_cros_boca_app argument that controls whether the real Boca app or a mock app is bundled for testing.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera sound playback
+// summary: Preloads camera app sounds such as shutter and recording ticks and provides play and cancel controls backed by an async job queue.
+// ---
+
 import {assert, assertExists} from './assert.js';
 import type {AsyncJobInfo} from './async_job_queue.js';
 import {AsyncJobQueue} from './async_job_queue.js';

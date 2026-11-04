@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Review view controller
+// summary: Implements the capture review view that displays reviewed photos or videos and presents configurable option button groups for confirming or retaking captures.
+// ---
+
 import {assertInstanceof} from '../assert.js';
 import * as dom from '../dom.js';
 import type {I18nString} from '../i18n_string.js';

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the Boca UI WebUI
+summary: Defines the Boca UI static library, constants source set, buildflags header and unit and browser test targets with their sources and dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC++ intent handling
+// summary: Parses and manages ARC++ intents for the camera app, handling intent results, data appending, and metrics logging.
+// ---
+
 import * as metrics from './metrics.js';
 import {ChromeHelper} from './mojo/chrome_helper.js';
 import type {Mode} from './type.js';

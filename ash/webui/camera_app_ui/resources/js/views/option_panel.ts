@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Option panel view controller
+// summary: Implements the options panel view that shows state-based radio options near a trigger button and updates state observers when selections change.
+// ---
+
 import {assertInstanceof} from '../assert.js';
 import * as dom from '../dom.js';
 import * as nav from '../nav.js';

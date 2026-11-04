@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base View class for camera app UI view navigation
+// summary: Defines the base View controller with enter/leave options and dismissal behavior used by the Chrome camera app's view navigation sessions.
+// ---
+
 import {assertExists, assertInstanceof} from '../assert.js';
 import type {PtzController} from '../device/ptz_controller.js';
 import * as dom from '../dom.js';

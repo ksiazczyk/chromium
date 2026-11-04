@@ -8,6 +8,12 @@
  * media/video/h264_level_limits.cc.
  */
 
+// ---docerion
+// type: source
+// title: H.264 profile and level utilities
+// summary: Implements H.264 profile and level handling, including level limits, maximal bitrate calculation, and minimal level selection for video encoding.
+// ---
+
 import {assert, assertNotReached} from './assert.js';
 import type {Resolution} from './type.js';
 import {getNumberEnumMapping} from './util.js';

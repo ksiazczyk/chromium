@@ -1,0 +1,4 @@
+# Docerion header of ocr.mojom.
+type: source
+title: OCR result Mojom definitions
+summary: Defines Mojo structs describing OCR results, including text lines, words, bounding boxes, rotation angles, and language guesses.

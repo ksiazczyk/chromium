@@ -1,0 +1,4 @@
+# Docerion header of boca.mojom.
+type: source
+title: Boca UI Mojom interface definitions
+summary: Defines Mojom structs, enums, and interfaces for the Boca UI, covering sessions, tabs, identities, courses, assignments, network info, and caption settings.

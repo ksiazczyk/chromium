@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video resolution settings view controller
+// summary: Controller that builds the video resolution options menu, including constant FPS buttons for supported cameras, and applies the selected video resolution.
+// ---
+
 import {assert, assertExists} from '../../assert.js';
 import type {CameraManager} from '../../device/index.js';
 import type {VideoResolutionOption, VideoResolutionOptionGroup} from '../../device/type.js';

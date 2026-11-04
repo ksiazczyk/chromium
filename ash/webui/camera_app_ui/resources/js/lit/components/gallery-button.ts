@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gallery button Lit component
+// summary: Lit button component for opening the gallery, showing the latest capture's cover photo and a Super Res loading indicator during zoom captures.
+// ---
+
 import './super-res-loading-indicator.js';
 
 import type {PropertyDeclarations} from 'chrome://resources/mwc/lit/index.js';

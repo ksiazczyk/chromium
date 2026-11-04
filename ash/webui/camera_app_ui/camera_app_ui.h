@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CameraAppUI controller declaration
+// summary: Declares the CameraAppUI WebUI controller class, its System WebApp configuration, and the mojo interfaces it binds for the ChromeOS camera app.
+// ---
+
 #ifndef ASH_WEBUI_CAMERA_APP_UI_CAMERA_APP_UI_H_
 #define ASH_WEBUI_CAMERA_APP_UI_CAMERA_APP_UI_H_
 

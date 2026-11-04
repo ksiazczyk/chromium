@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera reconfiguration controller
+// summary: Implements the Reconfigurer that opens or closes cameras with a specific CameraConfig, sorting device candidates by preferred facing and mode constraints.
+// ---
+
 import {assert, assertInstanceof, assertString} from '../assert.js';
 import {AsyncJobQueue} from '../async_job_queue.js';
 import * as error from '../error.js';

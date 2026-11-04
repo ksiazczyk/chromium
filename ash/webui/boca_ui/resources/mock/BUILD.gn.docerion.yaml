@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for the Boca mock app TypeScript library
+summary: Defines a ts_library build target that compiles app_bin.ts for the ChromeOS-only Boca app mock resources.

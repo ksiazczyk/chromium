@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera3DeviceInfo for HALv3 camera device information
+// summary: Defines Camera3DeviceInfo, which holds video device information from the HALv3 mojo API, including resolution grouping, fps handling, and preview-capture resolution pairing.
+// ---
+
 import {DeviceOperator} from '../mojo/device_operator.js';
 import type {Facing, FpsRangeList, MaxFpsInfo, ResolutionList, VideoConfig} from '../type.js';
 import {Resolution} from '../type.js';

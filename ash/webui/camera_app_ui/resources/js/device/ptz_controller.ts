@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PTZ controller implementations
+// summary: Defines the PtzController interface with MediaStream and digital zoom implementations for pan, tilt, and zoom camera controls.
+// ---
+
 import {assert, assertExists, assertNotReached} from '../assert.js';
 import {Flag} from '../flag.js';
 import {Point} from '../geometry.js';

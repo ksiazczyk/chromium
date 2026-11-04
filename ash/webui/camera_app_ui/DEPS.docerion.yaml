@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for camera_app_ui
+summary: Lists the include dependencies that source files in the camera_app_ui directory are allowed to use.

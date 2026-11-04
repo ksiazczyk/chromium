@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document preview mode view
+// summary: Renders the document scan preview with fix page, add page, share, and save actions for JPEG or PDF output, including a menu of document actions.
+// ---
+
 import {assertExists, assertInstanceof} from '../assert.js';
 import * as dom from '../dom.js';
 import {I18nString} from '../i18n_string.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base class for camera mode capture control
+// summary: Defines the ModeBase abstract class and ModeFactory base for starting, stopping, and clearing capture operations shared by all camera modes.
+// ---
+
 import {assertInstanceof} from '../../assert.js';
 import * as error from '../../error.js';
 import {CrosImageCapture} from '../../mojo/image_capture.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Expert mode video encoder options controller
+// summary: Provides expert mode controls for H.264 video profile and bitrate, computing the minimal encoder level for the chosen settings.
+// ---
+
 import {assert, assertInstanceof, assertNumber} from '../../assert.js';
 import * as dom from '../../dom.js';
 import {reportError} from '../../error.js';

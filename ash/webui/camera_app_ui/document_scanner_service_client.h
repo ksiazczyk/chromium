@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document scanner service client class declaration
+// summary: Declares the client class for communicating with the CrOS Document Scanner Service, including readiness checks, corner detection, and post-processing callbacks.
+// ---
+
 #ifndef ASH_WEBUI_CAMERA_APP_UI_DOCUMENT_SCANNER_SERVICE_CLIENT_H_
 #define ASH_WEBUI_CAMERA_APP_UI_DOCUMENT_SCANNER_SERVICE_CLIENT_H_
 

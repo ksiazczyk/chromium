@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boca client delegate mapping Mojo types to UI types
+// summary: Implements the client delegate for the Boca app, converting Mojo session, activity, network and state values into the UI-side types and providing the ClientDelegateFactory used by the app.
+// ---
+
 import type {Value} from '//resources/mojo/mojo/public/mojom/base/values.mojom-webui.js';
 
 import type {Assignment as AssignmentMojom, Config, ControlledTab as ControlledTabMojom, Course, IdentifiedActivity as Activity, Identity as IdentityMojom, Material as MaterialMojom, NetworkInfo as NetworkInfoMojom, PageHandlerRemote, TabInfo, Window} from '../mojom/boca.mojom-webui.js';

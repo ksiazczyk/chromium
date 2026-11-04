@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Photo mode barcode and OCR auto scanner
+// summary: Runs periodic barcode and OCR scans over the camera preview in photo mode, slowing the scan intervals after an idle delay.
+// ---
+
 import {assertExists} from './assert.js';
 import {OcrEventType, sendOcrEvent} from './metrics.js';
 import {AsyncIntervalRunner} from './models/async_interval.js';

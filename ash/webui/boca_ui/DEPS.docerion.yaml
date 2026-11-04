@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the boca_ui directory
+summary: Specifies the allowed include dependencies for the boca_ui directory, with extra rules for unit test and browser test files.

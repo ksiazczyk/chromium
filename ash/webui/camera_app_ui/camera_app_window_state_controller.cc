@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera app window state controller implementation
+// summary: Implements window state control for the camera app widget, handling minimize, restore, maximize, fullscreen, and focus requests and notifying registered window state monitors.
+// ---
+
 #include "ash/webui/camera_app_ui/camera_app_window_state_controller.h"
 
 #include <utility>

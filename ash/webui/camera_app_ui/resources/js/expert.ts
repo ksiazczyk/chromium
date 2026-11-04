@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Expert mode options for the camera app
+// summary: Manages expert mode state and expert options such as custom video parameters, FPS picker, metadata display, and showing all resolutions.
+// ---
+
 import * as localStorage from './models/local_storage.js';
 import * as state from './state.js';
 import type {PerfInformation} from './type.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera mode controller for capture modes
+// summary: Central Modes controller that manages capture sequences and mode switching across photo, portrait, scan, and video modes in the ChromeOS camera app.
+// ---
+
 import {assert, assertExists, assertInstanceof} from '../../assert.js';
 import * as expert from '../../expert.js';
 import {DeviceOperator} from '../../mojo/device_operator.js';

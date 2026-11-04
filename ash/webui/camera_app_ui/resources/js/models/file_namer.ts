@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filenamer for camera capture files
+// summary: Generates and validates file names for images, videos, burst photos, and scanned documents based on capture timestamps.
+// ---
+
 import {assertNotReached} from '../assert.js';
 import type {VideoType} from '../type.js';
 import {MimeType} from '../type.js';

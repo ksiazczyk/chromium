@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recording time chip controller
+// summary: Tracks and displays elapsed recording time on the record-time chip, supporting pause, resume, stop, and maximal time limits for GIF recording.
+// ---
+
 import * as dom from '../../dom.js';
 import {I18nString} from '../../i18n_string.js';
 import {RecordTimeChip} from '../../lit/components/record-time-chip.js';

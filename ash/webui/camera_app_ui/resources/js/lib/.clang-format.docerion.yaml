@@ -1,0 +1,4 @@
+# Docerion header of .clang-format.
+type: config
+title: Clang-format disable configuration
+summary: Sets DisableFormat to true so clang-format skips the files in this directory.

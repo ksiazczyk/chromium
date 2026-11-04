@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boca UI URL constants header
+// summary: Defines the Boca app host name and chrome-untrusted URL constants used by the Boca WebUI.
+// ---
+
 #ifndef ASH_WEBUI_BOCA_UI_URL_CONSTANTS_H_
 #define ASH_WEBUI_BOCA_UI_URL_CONSTANTS_H_
 

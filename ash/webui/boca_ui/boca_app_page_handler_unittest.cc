@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Boca app page handler
+// summary: Unit tests for BocaAppHandler covering session lifecycle, roster changes, Classroom requests, content settings and annotator marker mode.
+// ---
+
 #include "ash/webui/boca_ui/boca_app_page_handler.h"
 
 #include <memory>

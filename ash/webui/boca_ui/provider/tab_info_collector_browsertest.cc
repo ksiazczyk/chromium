@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabInfoCollector browser tests
+// summary: Browser tests for the Boca UI tab info collector, covering producer and consumer feature configurations and tab list retrieval across created browser windows.
+// ---
+
 #include "ash/webui/boca_ui/provider/tab_info_collector.h"
 
 #include <memory>

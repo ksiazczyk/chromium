@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window unload callback registry
+// summary: Registers callbacks that run in FIFO order when the window unload event fires.
+// ---
+
 const callbacks: Array<(() => void)> = [];
 
 function onWindowUnload() {

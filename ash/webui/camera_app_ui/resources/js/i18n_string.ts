@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: i18n string resource keys
+// summary: Enumerates all internationalized string resource keys used by the camera app UI, corresponding to resources.h.
+// ---
+
 /**
  * All string resources in resources.h.
  */

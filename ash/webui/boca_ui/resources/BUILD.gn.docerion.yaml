@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Boca UI resources build definition
+summary: GN build rule that assembles the Boca UI WebUI from static files, TypeScript sources, and generated Mojo bindings.

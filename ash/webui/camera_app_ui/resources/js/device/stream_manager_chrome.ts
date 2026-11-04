@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StreamManagerChrome capture stream manager
+// summary: Singleton class that acquires the camera capture MediaStream from stream constraints via getUserMedia and provides access to and stopping of that stream.
+// ---
+
 import {assertExists} from '../assert.js';
 
 import type {StreamConstraints} from './stream_constraints.js';

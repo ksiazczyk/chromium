@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaitableEvent for async job synchronization
+// summary: Defines WaitableEvent and CancelableEvent classes that let asynchronous jobs signal, wait, and time out on a one-shot promise-based event.
+// ---
+
 /**
  * A waitable event for synchronization between asynchronous jobs.
  */

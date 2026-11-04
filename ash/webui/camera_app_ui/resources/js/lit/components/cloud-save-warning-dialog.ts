@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud save warning dialog Lit component
+// summary: Lit dialog component warning before saving captures to a cloud destination, with a don't-show-again checkbox persisted via local storage.
+// ---
+
 import {createRef, css, html, LitElement, nothing, ref} from 'chrome://resources/mwc/lit/index.js';
 
 import {assertExists} from '../../assert.js';

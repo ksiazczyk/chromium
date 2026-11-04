@@ -1,0 +1,4 @@
+# Docerion header of build_ffmpeg.sh.
+type: script
+title: FFmpeg WASM build script
+summary: Shell script that copies Chromium's third_party/ffmpeg at a pinned commit, applies ffmpeg.patch, and builds ffmpeg.js and ffmpeg.wasm with Emscripten.

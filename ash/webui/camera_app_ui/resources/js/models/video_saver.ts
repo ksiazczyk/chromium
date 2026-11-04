@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Video saver with FFmpeg video processing
+// summary: Saves captured video, GIF and time-lapse recordings through an FFmpeg video processor worker into temporary files, supporting write, cancel and finish operations.
+// ---
+
 import {assertExists, assertInstanceof} from '../assert.js';
 import type {Intent} from '../intent.js';
 import * as comlink from '../lib/comlink.js';

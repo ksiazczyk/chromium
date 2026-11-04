@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for camera_app_ui
+# summary: Runs upload and commit checks for HTML line length, string resources, color tokens, and metrics documentation updates.
+# ---
+
 import os
 import sys  # noqa: F401
 

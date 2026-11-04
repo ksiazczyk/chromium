@@ -13,6 +13,12 @@
 
 /* eslint-disable */
 
+// ---docerion
+// type: source
+// title: Comlink wire protocol types
+// summary: TypeScript interfaces and enums defining the Comlink message and wire value protocol exchanged between endpoints.
+// ---
+
 export interface EventSource {
   addEventListener(
       type: string, listener: EventListenerOrEventListenerObject,

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boca app receiver wiring Mojo events to the app
+// summary: Initializes the boca-app element once it appears in the DOM, sets its client delegate, and forwards Mojo callback router events such as session updates, captions and screen frames to the app.
+// ---
+
 import {ColorChangeUpdater} from '//resources/cr_components/color_change_listener/colors_css_updater.js';
 import type {BitmapN32} from '//resources/mojo/skia/public/mojom/bitmap.mojom-webui.js';
 

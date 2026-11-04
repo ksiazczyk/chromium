@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Primary settings view controller
+// summary: Controller of the main settings view that opens sub-settings for photo and video resolution and aspect ratio, and wires expert mode, feedback, and help actions.
+// ---
+
 import {assert, assertInstanceof} from '../../assert.js';
 import type {CameraManager} from '../../device/index.js';
 import type {BaseSettingsOption, BaseSettingsOptionGroup} from '../../device/type.js';

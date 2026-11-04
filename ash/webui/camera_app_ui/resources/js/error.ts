@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Error reporting and crash collection
+// summary: Collects uncaught errors and promise rejections, deduplicates them, and reports them to metrics, the test window, or the Chrome crash reporter.
+// ---
+
 import {assertInstanceof} from './assert.js';
 import * as metrics from './metrics.js';
 import {isLocalDev} from './models/load_time_data.js';

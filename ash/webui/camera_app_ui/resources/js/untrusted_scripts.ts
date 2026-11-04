@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Untrusted iframe and script injection manager
+// summary: Creates the untrusted iframe, injects JS modules into it, and manages GA helper and video processor helper singletons.
+// ---
+
 import {assert, assertExists} from './assert.js';
 import * as comlink from './lib/comlink.js';
 import {isLocalDev} from './models/load_time_data.js';

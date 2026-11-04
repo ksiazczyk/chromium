@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture candidate preference manager
+// summary: Manages per-device preferred photo and video resolutions, fps, and aspect ratios, building resolution options for the camera app UI.
+// ---
+
 import {getAspectRatioOrder} from '../aspect_ratio_order.js';
 import {assert, assertNotReached} from '../assert.js';
 import * as expert from '../expert.js';

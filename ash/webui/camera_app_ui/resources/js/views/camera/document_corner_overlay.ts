@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document corner overlay controller for camera preview
+// summary: Places and animates corner indicators and lines around the detected document area on the camera preview overlay.
+// ---
+
 import {assert, assertInstanceof, assertString} from '../../assert.js';
 import * as dom from '../../dom.js';
 import {Point, PolarVector, Vector, vectorFromPoints} from '../../geometry.js';

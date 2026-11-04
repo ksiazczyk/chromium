@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Camera app UI selector and setting maps
+// summary: Defines the UI component selector map plus setting menu and option mappings that the camera app UI tests use to locate elements in the app's DOM.
+// ---
+
 import {ExpertOption} from '../expert.js';
 import type {StateUnion} from '../state.js';
 import {State} from '../state.js';

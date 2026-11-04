@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Analytics metrics reporting
+// summary: Initializes Google Analytics 4 and sends usage and performance events for the camera app, gated by the user's logging consent setting.
+// ---
+
 import {assert, assertExists} from './assert.js';
 import type {Intent} from './intent.js';
 import * as comlink from './lib/comlink.js';

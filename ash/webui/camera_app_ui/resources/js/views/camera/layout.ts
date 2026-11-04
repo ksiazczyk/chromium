@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera view layout controller
+// summary: Updates the camera preview layout, sizing and offsetting the video content for window and video resolution changes.
+// ---
+
 import type {CameraManager} from '../../device/index.js';
 import * as dom from '../../dom.js';
 import * as state from '../../state.js';
