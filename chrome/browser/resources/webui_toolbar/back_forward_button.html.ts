@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Back and forward button HTML template
+// summary: Lit HTML template for the back and forward buttons, wrapping the icon button in a hit-target expander with pointer, context menu and disabled state bindings.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {BackForwardButtonElement} from './back_forward_button.js';

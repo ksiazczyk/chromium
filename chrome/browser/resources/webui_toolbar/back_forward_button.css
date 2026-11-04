@@ -9,6 +9,12 @@
  * #include=toolbar-button
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Back and forward button styles
+summary: Styles for the back and forward toolbar buttons, including edge-to-edge click targets in maximized or fullscreen windows and hover backgrounds.
+*/
+
 #buttonWrapper {
   align-items: center;
   display: flex;

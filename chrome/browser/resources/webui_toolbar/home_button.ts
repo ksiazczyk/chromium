@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Home button element
+// summary: Custom element for the toolbar home button that navigates home, shows a long-press context menu and accepts dropped files or URLs.
+// ---
+
 import '//resources/cr_elements/cr_icon_button/cr_icon_button.js';
 import '/strings.m.js';
 

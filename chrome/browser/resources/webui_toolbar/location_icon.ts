@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Location icon element
+// summary: Lit element implementing the security chip in the location bar, handling dangerous states, drag events, glow-up animation, and help bubble anchoring.
+// ---
+
 import '/shared/icon_from_table.js';
 import '//resources/cr_elements/cr_icon/cr_icon.js';
 import './toolbar_chip_button.js';

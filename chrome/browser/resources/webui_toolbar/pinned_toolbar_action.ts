@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pinned toolbar action element
+// summary: Lit element implementing a pinned toolbar action with icon table lookup, overflow menu item support, drag handling and state-driven rendering.
+// ---
+
 // <if expr="_google_chrome">
 import './internal/icons.js';
 // </if>

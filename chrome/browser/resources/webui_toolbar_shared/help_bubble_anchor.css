@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Help bubble anchor highlight styles
+summary: Styles help anchor targets with a pulsing attention highlight animation for in-product help bubbles.
+*/
+
 :host(.help-anchor-highlight) .iph-visual-target {
   --cr-hover-background-color: transparent;
   --cr-icon-button-hover-background-color: transparent;

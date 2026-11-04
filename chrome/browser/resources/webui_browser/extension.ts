@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension toolbar button custom element
+// summary: Defines the webui-browser-extension element that handles clicks, context menus, and highlight tracking for a single extension action in the bar.
+// ---
+
 import './icons.html.js';
 import '//resources/cr_elements/cr_button/cr_button.js';
 import '/shared/icon_from_table.js';

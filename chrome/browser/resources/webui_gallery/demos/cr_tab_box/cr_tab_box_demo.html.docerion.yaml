@@ -1,0 +1,4 @@
+# Docerion header of cr_tab_box_demo.html.
+type: source
+title: cr-tab-box demo page
+summary: HTML markup for the cr-tab-box demo, showing tabs and panels plus buttons to add or select tabs and display tab state.

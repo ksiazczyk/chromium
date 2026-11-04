@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-a11y-announcer demo HTML template
+// summary: Lit HTML template for the cr-a11y-announcer demo page with a force-show checkbox and buttons that trigger announcements.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CrA11yAnnouncerDemoElement} from './cr_a11y_announcer_demo.js';

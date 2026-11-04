@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for team and bug tracking
+summary: Maps the directory to a Buganizer component and the chrome-webium-product-eng team email.

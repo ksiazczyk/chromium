@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA bug routing for the Chrome RLZ directory
+summary: Routes bugs for this directory to the Internals>Core Monorail component and Buganizer component 1456128.

@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Tab group chip styles
+summary: Defines tab group color variables for light and dark color schemes and styles the group chip and its title.
+*/
+
 :host {
   --tab-group-color-grey: rgb(73, 77, 82);
   --tab-group-color-blue: rgb(50, 92, 205);

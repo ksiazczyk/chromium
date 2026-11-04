@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab element HTML template
+// summary: Lit HTML template that renders a tab's favicon container, title, close button, and bottom corner decorations.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {TabElement} from './tab.js';

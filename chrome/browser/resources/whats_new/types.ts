@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: What's New event types and metric interfaces
+// summary: Defines event type enums, section-to-position mappings and interfaces for the metric payloads exchanged with the page.
+// ---
+
 import type {ClickInfo} from 'chrome://resources/js/browser_command.mojom-webui.js';
 
 import {ModulePosition} from './whats_new.mojom-webui.js';

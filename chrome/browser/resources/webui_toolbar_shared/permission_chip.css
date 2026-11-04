@@ -11,6 +11,12 @@
  * #include=help-bubble-anchor
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the permission chip element
+summary: Lit CSS for the permission chip covering chip layout, expand and collapse transitions, and hover and press ink-drop overlays.
+*/
+
 :host {
   display: inline-flex;
   /* Prevent parent flex containers from squishing the chip. The chip's minimum

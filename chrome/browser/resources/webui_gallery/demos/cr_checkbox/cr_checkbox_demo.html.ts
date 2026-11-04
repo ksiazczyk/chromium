@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-checkbox demo HTML template
+// summary: Lit HTML template for the cr-checkbox demo, rendering checked, disabled, and label-first checkbox variants bound to the demo element's state.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CrCheckboxDemoElement} from './cr_checkbox_demo.js';

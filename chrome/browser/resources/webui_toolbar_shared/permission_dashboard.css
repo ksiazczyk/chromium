@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the permission dashboard element
+summary: Lit CSS that lays out the permission dashboard container and stacks the indicator chip above the request chip.
+*/
+
 :host {
   align-items: center;
   display: flex;

@@ -9,6 +9,12 @@
  * #include=demo
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Buttons demo stylesheet
+summary: Styles the buttons demo, setting width, padding and min-width for the cr-expand-button element.
+*/
+
 cr-expand-button {
   min-width: 100px;
   padding: 0 12px;

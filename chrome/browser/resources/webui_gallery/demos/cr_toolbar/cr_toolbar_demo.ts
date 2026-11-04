@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr_toolbar_demo.ts
+// summary: Lit element implementing the cr-toolbar-demo custom element, exposing toolbar settings as demo controls and logging menu and search events.
+// ---
+
 import '//resources/cr_elements/cr_checkbox/cr_checkbox.js';
 import '//resources/cr_elements/cr_input/cr_input.js';
 import '//resources/cr_elements/cr_toolbar/cr_toolbar.js';

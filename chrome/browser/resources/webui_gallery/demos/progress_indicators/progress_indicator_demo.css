@@ -11,6 +11,12 @@
  * #include=demo cr-spinner-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Progress indicator demo styles
+summary: CSS for the progress indicator demo, setting cr-progress active colors with dark mode support and styling loading gradient examples including custom colors and borders.
+*/
+
 cr-progress {
   --cr-progress-active-color: var(--google-blue-500);
 }

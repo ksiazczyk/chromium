@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media button element
+// summary: Toolbar media button element that reports clicks to the browser and opens the media context menu on long press.
+// ---
+
 import '//resources/cr_elements/cr_icon_button/cr_icon_button.js';
 import '/strings.m.js';
 import './icons.js';

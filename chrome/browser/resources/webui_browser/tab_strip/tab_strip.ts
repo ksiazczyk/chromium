@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip element implementation
+// summary: Lit element implementing the WebUI browser tab strip, syncing with the tab strip service and handling tab drag and drop.
+// ---
+
 import './tab.js';
 import './tab_group.js';
 import '//resources/cr_elements/cr_icon/cr_icon.js';

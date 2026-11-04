@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read-only omnibox element
+// summary: Lit element implementing the read-only omnibox that forwards text input, key, pointer, focus and drag-drop events to the browser via Mojo.
+// ---
+
 import '//resources/cr_components/searchbox/searchbox_input.js';
 
 import type {SearchboxInputElement} from '//resources/cr_components/searchbox/searchbox_input.js';

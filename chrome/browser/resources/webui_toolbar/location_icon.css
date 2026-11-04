@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Location icon styles
+summary: Styles the location icon security chip, covering dangerous-state colors, chip sizing, and the animated expand and collapse of its label.
+*/
+
 :host {
   display: inline-flex;
   interpolate-size: allow-keywords;

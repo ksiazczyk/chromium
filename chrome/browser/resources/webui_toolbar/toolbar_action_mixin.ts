@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar action mixin
+// summary: Lit mixin for individual toolbar action buttons that manages help bubble registration anchored after animations, highlight tracking, and drag and keyboard handling.
+// ---
+
 import {assertNotReached} from '//resources/js/assert.js';
 import type {CrLitElement, PropertyValues} from '//resources/lit/v3_0/lit.rollup.js';
 import type {HelpBubbleAnchor} from '/shared/toolbar_button.js';

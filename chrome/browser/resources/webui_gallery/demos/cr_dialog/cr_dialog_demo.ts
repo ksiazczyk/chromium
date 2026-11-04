@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-dialog demo element
+// summary: Defines the cr-dialog-demo Lit element that opens a cr-dialog, toggles header, footer, inputs, and scrolling options, and records dialog open, cancel, and close events.
+// ---
+
 import '//resources/cr_elements/cr_button/cr_button.js';
 import '//resources/cr_elements/cr_dialog/cr_dialog.js';
 import '//resources/cr_elements/cr_checkbox/cr_checkbox.js';

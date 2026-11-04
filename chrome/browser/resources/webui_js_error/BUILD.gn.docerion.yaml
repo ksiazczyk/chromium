@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for webui_js_error
+summary: GN build configuration that builds the webui_js_error trusted WebUI from its HTML and TypeScript sources, with optional WebUI optimization.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build target for the What's New WebUI
+summary: Defines the build_webui target compiling the What's New TypeScript, CSS and HTML sources with Lit, cr_elements and Mojo dependencies.

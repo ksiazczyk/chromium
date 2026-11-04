@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML template for the webui browser app element
+// summary: Lit HTML template rendering the app shell with tab strip, toolbar, bookmark bar, content region and side panel.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {WebuiBrowserAppElement} from './app.js';

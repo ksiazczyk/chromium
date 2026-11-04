@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Extension toolbar button styles
+summary: Styles the extension action button and its icon, showing the element only when it is marked visible.
+*/
+
 
 :host {
   width: 32px;

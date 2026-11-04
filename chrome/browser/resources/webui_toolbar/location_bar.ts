@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Location bar element
+// summary: Lit element for the toolbar location bar, defining default omnibox, security chip, and permission chip state and coordinating page actions and responsive sizing.
+// ---
+
 import './readonly_omnibox.js';
 import './location_icon.js';
 import './content_settings_icons.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions element Lit template
+// summary: Lit HTML template that renders the list of extension toolbar actions with drag states and a trailing toolbar divider.
+// ---
+
 import {html, repeat} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ExtensionsElement} from './extensions.js';

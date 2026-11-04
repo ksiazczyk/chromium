@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML template for the bookmark element
+// summary: Lit HTML template rendering a bookmark item with either a folder icon or a favicon plus its title.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {BookmarkElement} from './bookmark.js';

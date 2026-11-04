@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI toolbar app element
+// summary: Main Lit element for the WebUI toolbar, managing toolbar state, browser proxy communication and the child toolbar components.
+// ---
+
 import './back_forward_button.js';
 import './reload_button.js';
 import './location_bar.js';

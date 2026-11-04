@@ -1,0 +1,4 @@
+# Docerion header of .style.lit_template_formatter.
+type: config
+title: Lit template style formatter marker
+summary: Empty marker file used to configure formatting of Lit style templates in this directory.

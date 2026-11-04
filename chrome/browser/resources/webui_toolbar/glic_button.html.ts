@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic button Lit template
+// summary: Lit HTML template for the Glic toolbar chip button, rendering its icon, label, tooltip and accessibility attributes based on state.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {GlicButtonElement} from './glic_button.js';

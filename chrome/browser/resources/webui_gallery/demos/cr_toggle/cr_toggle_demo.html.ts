@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-toggle demo HTML template
+// summary: Lit HTML template for the cr-toggle demo page, rendering toggle rows in checked, disabled checked, and disabled unchecked states.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CrToggleDemoElement} from './cr_toggle_demo.js';

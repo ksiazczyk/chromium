@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML template for the app menu button
+// summary: Lit template rendering the app menu chip button with an optional label, three-dot icon and accessibility attributes.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {AppMenuButtonElement} from './app_menu_button.js';

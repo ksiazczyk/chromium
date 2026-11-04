@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the WebUI toolbar
+summary: Defines the WebUI toolbar build target, enumerating its TypeScript, CSS and static files, dependencies and optimization settings.

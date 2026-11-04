@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Chrome RLZ tracker web contents observer
+// summary: Tests observer creation and homepage search recording with a mock RLZ tracker delegate across brand, organic, and already-recorded scenarios.
+// ---
+
 #include "chrome/browser/rlz/chrome_rlz_tracker_web_contents_observer.h"
 
 #include "chrome/test/base/chrome_render_view_host_test_harness.h"

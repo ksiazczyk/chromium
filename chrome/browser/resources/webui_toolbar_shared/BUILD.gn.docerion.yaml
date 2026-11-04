@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for webui_toolbar_shared
+summary: Defines the build_webui target bundling the shared toolbar TypeScript and CSS resources together with their mojo dependencies.

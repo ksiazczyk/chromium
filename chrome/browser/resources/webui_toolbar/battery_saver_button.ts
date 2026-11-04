@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Battery saver button element
+// summary: Lit element for the battery saver toolbar button that opens a battery saver context menu on click and participates in toolbar overflow behavior.
+// ---
+
 import '//resources/cr_elements/cr_icon_button/cr_icon_button.js';
 import '/strings.m.js';
 import './icons.js';

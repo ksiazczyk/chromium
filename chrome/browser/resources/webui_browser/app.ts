@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Main webui browser app element
+// summary: Lit element implementing the browser shell, wiring tab strip events, navigation buttons, side panel and fullscreen state.
+// ---
+
 import './bookmark_bar.js';
 import './content_region.js';
 import './extensions_bar.js';

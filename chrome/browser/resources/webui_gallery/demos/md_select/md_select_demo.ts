@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: md-select-demo Lit element
+// summary: Defines the MdSelectDemoElement Lit custom element that tracks the selected option and updates the displayed value on change.
+// ---
+
 
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 

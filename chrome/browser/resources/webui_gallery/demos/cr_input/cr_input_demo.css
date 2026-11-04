@@ -11,6 +11,12 @@
  * #include=cr-hidden-style-lit cr-icons-lit demo
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: cr-input demo styles
+summary: Styles the cr-input and cr-textarea examples shown in the WebUI gallery cr-input demo page.
+*/
+
 cr-input,
 cr-textarea {
   max-width: 400px;

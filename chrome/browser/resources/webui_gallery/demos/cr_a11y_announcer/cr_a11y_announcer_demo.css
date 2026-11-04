@@ -9,6 +9,12 @@
  * #include=demo
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: cr-a11y-announcer demo styles
+summary: Lit CSS styles for the cr-a11y-announcer demo that make the announcer visible and static when force-show is enabled.
+*/
+
 :host([force-show-announcer_]) cr-a11y-announcer {
   overflow: visible;
   position: static;

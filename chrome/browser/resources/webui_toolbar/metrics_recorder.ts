@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reload button metrics recorder
+// summary: Defines reload button input enums and maps the loading state to the reload or stop visible mode for WebUI metrics recording.
+// ---
+
 /**
  * Input type to activate the ReloadButton.
  * These values are persisted to logs. Entries should not be renumbered and

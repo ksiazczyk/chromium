@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar action container mixin
+// summary: Lit mixin for toolbar icon containers that reconciles keyed action states, drives slide-in and slide-out animations, and supports drag-and-drop reordering of items.
+// ---
+
 import {assertNotReached} from '//resources/js/assert.js';
 import type {CrLitElement, PropertyValues} from '//resources/lit/v3_0/lit.rollup.js';
 import {AnimationTracker} from '/shared/animation_tracker.js';

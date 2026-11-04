@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Readonly omnibox HTML template
+// summary: Lit HTML template for the readonly omnibox rendering rich text pieces, inline autocomplete, ARIA announcements and a drag favicon template.
+// ---
+
 import {html, nothing} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {ReadonlyOmniboxElement} from './readonly_omnibox.js';

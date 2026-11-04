@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: WebUI gallery BUILD.gn build file
+summary: GN build file defining the webui_gallery build target with its static, CSS, and TypeScript sources and dependencies.

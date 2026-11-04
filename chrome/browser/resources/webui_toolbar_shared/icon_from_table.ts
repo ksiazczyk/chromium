@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IconFromTableElement custom element
+// summary: Lit element that resolves an icon handle through the icon table and renders it with color and RTL flip handling.
+// ---
+
 import '//resources/cr_elements/cr_icon/cr_icon.js';
 
 import {skColorToRgba} from '//resources/js/color_utils.js';

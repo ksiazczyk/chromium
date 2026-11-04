@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-slider demo element
+// summary: Lit element implementing the cr-slider demo, defining ticks, slider values, marker visibility, and event handlers for the demo page.
+// ---
+
 import '//resources/cr_elements/cr_checkbox/cr_checkbox.js';
 import '//resources/cr_elements/cr_slider/cr_slider.js';
 

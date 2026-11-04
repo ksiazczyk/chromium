@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Page action icons styles
+summary: Lit styles for the page action icons container, including spacing and the capsule layout used when multiple page actions are shown.
+*/
+
 :host {
   --toolbar-chip-height: calc(
       var(--location-bar-trailing-icon-size) +

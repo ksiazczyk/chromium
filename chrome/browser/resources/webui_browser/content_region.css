@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Content region styles
+summary: Styles the content region host and keeps background tab webviews hidden but present so plugins remain available for capture.
+*/
+
 :host {
   position: relative;
   display: flex;

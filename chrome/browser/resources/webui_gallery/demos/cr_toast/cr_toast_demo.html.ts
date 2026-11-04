@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-toast demo HTML template
+// summary: Lit HTML template for the cr-toast demo, with inputs for message and duration plus buttons to show toasts via cr-toast and cr-toast-manager.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CrToastDemoElement} from './cr_toast_demo.js';

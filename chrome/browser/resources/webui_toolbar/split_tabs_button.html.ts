@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split tabs button HTML template
+// summary: Lit HTML template rendering the split tabs icon button with tooltip, accessibility attributes and a status indicator.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SplitTabsButtonElement} from './split_tabs_button.js';

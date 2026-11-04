@@ -9,6 +9,12 @@
  * #include=demo
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: cr-tabs demo styles
+summary: Styles for the cr-tabs demo, sizing cr-tabs and cr-page-selector and centering the tab contents.
+*/
+
 cr-tabs,
 cr-page-selector {
   width: 100%;

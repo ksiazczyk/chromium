@@ -10,6 +10,12 @@
  * #include=demo md-select-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: cr-tooltip demo stylesheet
+summary: Stylesheet for the cr-tooltip demo page, styling the tooltip target elements shown in the examples.
+*/
+
 .target {
   border: 1px solid light-dark(black, white);
   padding: 8px;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome RLZ tracker web contents observer implementation
+// summary: Implements an observer that records a Google homepage search in the RLZ tracker when a Google search navigation originates from the homepage.
+// ---
+
 #include "chrome/browser/rlz/chrome_rlz_tracker_web_contents_observer.h"
 
 #include <memory>

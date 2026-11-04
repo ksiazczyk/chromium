@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content settings icons element
+// summary: Lit element container that renders the list of content setting icons from toolbar UI state.
+// ---
+
 import './content_setting_icon.js';
 
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';

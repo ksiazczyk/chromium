@@ -10,6 +10,12 @@
  * #include=demo
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the cr-action-menu demo
+summary: Lit CSS stylesheet that styles the cr-action-menu demo page, including demo containers, min/max anchor buttons, and anchor alignment labels.
+*/
+
 .demos {
   align-items: center;
   border: var(--cr-hairline);

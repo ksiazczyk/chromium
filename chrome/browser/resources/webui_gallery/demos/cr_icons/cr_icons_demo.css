@@ -10,6 +10,12 @@
  * #include=demo cr-icons-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the cr-icons demo
+summary: Styles the cr-icons demo page, laying out icons in a responsive grid with labels and hiding error display on the size input.
+*/
+
 .icons {
   display: grid;
   font-size: 11px;

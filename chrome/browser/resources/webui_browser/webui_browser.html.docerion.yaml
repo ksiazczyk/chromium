@@ -1,0 +1,4 @@
+# Docerion header of webui_browser.html.
+type: source
+title: WebUI browser page shell
+summary: HTML shell for the WebUI browser page that sets text direction, loads theme and text styles, and mounts the webui-browser-app element.

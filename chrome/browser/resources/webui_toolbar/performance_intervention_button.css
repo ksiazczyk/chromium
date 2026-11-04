@@ -10,6 +10,12 @@
  * #include=cr-hidden-style-lit toolbar-button
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Performance intervention button styles
+summary: Lit styles that set the icon fill colors for the performance intervention toolbar button in inactive and active states.
+*/
+
 #button {
   --cr-icon-button-fill-color: var(
       --color-performance-intervention-button-icon-inactive,

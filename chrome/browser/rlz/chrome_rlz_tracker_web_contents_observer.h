@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome RLZ tracker web contents observer header
+// summary: Declares ChromeRLZTrackerWebContentsObserver, which observes navigations to record homepage Google searches for RLZ only when not yet recorded.
+// ---
+
 #ifndef CHROME_BROWSER_RLZ_CHROME_RLZ_TRACKER_WEB_CONTENTS_OBSERVER_H_
 #define CHROME_BROWSER_RLZ_CHROME_RLZ_TRACKER_WEB_CONTENTS_OBSERVER_H_
 

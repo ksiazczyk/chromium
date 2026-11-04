@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-tree demo element logic
+// summary: TypeScript custom element that drives the cr-tree demo, wiring buttons to expand, collapse, add and remove tree items and logging tree events.
+// ---
+
 import '//resources/cr_elements/cr_tree/cr_tree.js';
 import '//resources/cr_elements/cr_tree/cr_tree_item.js';
 

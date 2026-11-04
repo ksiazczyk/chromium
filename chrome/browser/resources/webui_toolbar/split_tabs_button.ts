@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split tabs button element
+// summary: Implements the split tabs toolbar button with split state icons, context menu handling and overflowable button behavior.
+// ---
+
 import '//resources/cr_elements/cr_icon_button/cr_icon_button.js';
 import '/strings.m.js';
 import './icons.js';

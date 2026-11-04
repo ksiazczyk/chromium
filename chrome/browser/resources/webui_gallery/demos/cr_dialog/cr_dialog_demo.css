@@ -9,6 +9,12 @@
  * #include=demo
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: cr-dialog demo styles
+summary: Styles for the cr-dialog demo page, covering input spacing, header padding, dialog body height limits, and a tall scrolling body block.
+*/
+
 cr-input:first-of-type {
   margin-block-start: 16px;
 }

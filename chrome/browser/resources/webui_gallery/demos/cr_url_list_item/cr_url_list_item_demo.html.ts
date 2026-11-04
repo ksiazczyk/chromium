@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML template for the cr-url-list-item demo
+// summary: Lit HTML template that renders demo variants of the cr-url-list-item element across sizes, badges, custom icons, and long titles.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CrUrlListItemDemoElement} from './cr_url_list_item_demo.js';

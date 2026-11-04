@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-toggle demo custom element
+// summary: Defines the cr-toggle-demo Lit element that displays cr-toggle examples and tracks the checked state via checked-changed events.
+// ---
+
 import '//resources/cr_elements/cr_toggle/cr_toggle.js';
 
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';

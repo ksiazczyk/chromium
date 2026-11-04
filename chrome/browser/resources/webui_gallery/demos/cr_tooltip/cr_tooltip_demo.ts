@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-tooltip demo element
+// summary: Defines the cr-tooltip-demo Lit element that demonstrates cr-tooltip in automatic and manual modes with configurable position and offset.
+// ---
+
 import '//resources/cr_elements/cr_input/cr_input.js';
 import '//resources/cr_elements/cr_tooltip/cr_tooltip.js';
 

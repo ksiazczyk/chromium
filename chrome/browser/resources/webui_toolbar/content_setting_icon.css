@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Content setting icon styles
+summary: CSS for the content setting icon toolbar chip, matching native Views geometry and overriding omnibox colors.
+*/
+
 :host {
   display: flex;
   align-items: center;

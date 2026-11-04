@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the bookmark element
+summary: Lit styles for bookmark items covering favicon, folder icon and title layout.
+*/
+
 :host {
   --favicon-size: 16px;
 

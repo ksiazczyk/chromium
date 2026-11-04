@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Avatar button element
+// summary: Lit element implementing the toolbar avatar button, mapping avatar states to highlight classes and reporting hover, help bubble and menu actions through the browser proxy.
+// ---
+
 import './toolbar_chip_button.js';
 import '//resources/cr_elements/cr_icon/cr_icon.js';
 import '//resources/cr_elements/icons.html.js';

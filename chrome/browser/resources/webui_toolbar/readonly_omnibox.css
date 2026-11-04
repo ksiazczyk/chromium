@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Readonly omnibox styles
+summary: Lit styles for the readonly omnibox, aligning rich text and interactive input heights, selection colors, disabled and danger text states.
+*/
+
 :host {
   /* To help make things line up nicely between the rich-text readonly view and
    * the interactive <input>, we give everything here the same height,

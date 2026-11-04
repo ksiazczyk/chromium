@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI JS error test script
+// summary: TypeScript source that deliberately logs errors, throws uncaught exceptions, and creates unhandled promise rejections to exercise WebUI error handling in integration tests.
+// ---
+
 import {getRequiredElement} from 'chrome://resources/js/util.js';
 
 /**

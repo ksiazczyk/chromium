@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmarks page element
+// summary: Bookmarks WebUI element that fetches the bookmark tree and applies added, removed, moved, and changed observer events to keep the tree in sync.
+// ---
+
 import './bookmark_tree_node.js';
 
 import {assertNotReachedCase} from '//resources/js/assert.js';

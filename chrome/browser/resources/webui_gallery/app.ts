@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI gallery app element
+// summary: Defines the webui-gallery-app Lit element that lists component demos and routes between them.
+// ---
+
 import '//resources/cr_elements/cr_menu_selector/cr_menu_selector.js';
 import '//resources/cr_elements/cr_toggle/cr_toggle.js';
 

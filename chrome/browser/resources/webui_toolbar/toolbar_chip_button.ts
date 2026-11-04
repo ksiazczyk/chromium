@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar chip button element
+// summary: Defines the toolbar-chip-button element, a pill-shaped button for toolbar buttons and omnibox chips with ARIA properties, label animation, and focus ring options.
+// ---
+
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {getCss} from './toolbar_chip_button.css.js';

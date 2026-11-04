@@ -9,6 +9,12 @@
  * #include=cr-icons-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Searchbox styles
+summary: Lit CSS styles for the WebUI browser searchbox covering sizing, shadows, voice and Lens buttons, and forced-colors theming.
+*/
+
 :host {
   /* Embedders should define --cr-searchbox-min-width. */
   --cr-searchbox-border-radius: calc(0.5 * var(--cr-searchbox-height));

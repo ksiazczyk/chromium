@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML template for the permission dashboard element
+// summary: Lit HTML template rendering the dashboard's indicator and request permission chips with their state bindings.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {PermissionDashboardElement} from './permission_dashboard.js';

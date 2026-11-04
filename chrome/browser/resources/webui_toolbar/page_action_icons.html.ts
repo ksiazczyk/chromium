@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page action icons template
+// summary: Lit HTML template that renders the list of page action icons from the current page action states.
+// ---
+
 import {html, repeat} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {PageActionIconsElement} from './page_action_icons.js';

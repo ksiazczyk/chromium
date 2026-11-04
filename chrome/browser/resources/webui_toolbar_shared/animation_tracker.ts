@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnimationTracker for reduced motion preference
+// summary: Exports a static tracker that reports whether animations should be shown based on prefers-reduced-motion, with a reset hook for tests.
+// ---
+
 // Class to track whether the user desires animations to be shown. This is
 // exposed via `AnimationTracker.showAnimations`. For testing, `showAnimations`
 // can be directly set, then `resetForTesting()` can be used to reset it during

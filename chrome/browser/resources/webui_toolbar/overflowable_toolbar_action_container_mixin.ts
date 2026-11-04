@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overflowable toolbar action container mixin
+// summary: Mixin for responsive controls that manage multiple child toolbar actions and dividers, hiding actions that do not fit and adding them to the overflow menu.
+// ---
+
 import {assert, assertNotReached} from '//resources/js/assert.js';
 import type {CrLitElement, PropertyValues} from '//resources/lit/v3_0/lit.rollup.js';
 import type {OverflowMenuItem} from '/shared/toolbar_ui_api.mojom-webui.js';

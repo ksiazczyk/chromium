@@ -9,6 +9,12 @@
  * #include=toolbar-button
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Extension button styles
+summary: CSS for the extension toolbar button, including a focus ring stacking fix for cr-button focus-within.
+*/
+
 /* When we're focused, we need to push ourselves above the container in the
  * stacking order, since otherwise its border will paint over our focus ring,
  * and that looks bad.

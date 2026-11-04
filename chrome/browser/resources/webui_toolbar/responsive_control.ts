@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResponsiveControl interface
+// summary: Defines the interface for toolbar controls whose sizing and visibility respond dynamically to toolbar layout width changes.
+// ---
+
 import type {OverflowMenuItem} from '/shared/toolbar_ui_api.mojom-webui.js';
 
 /**

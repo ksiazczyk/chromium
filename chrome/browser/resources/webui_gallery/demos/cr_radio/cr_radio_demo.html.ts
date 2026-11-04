@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-radio demo HTML template
+// summary: Lit HTML template for the cr-radio demo page, rendering cr-radio-group and cr-radio-button examples including slotted, label-first, and disabled variants.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CrRadioDemoElement} from './cr_radio_demo.js';

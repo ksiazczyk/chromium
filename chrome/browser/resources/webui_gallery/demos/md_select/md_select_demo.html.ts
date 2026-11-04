@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML template for the md-select demo
+// summary: Lit HTML template that renders enabled and disabled md-select menus with options and displays the currently selected value.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {MdSelectDemoElement} from './md_select_demo.js';

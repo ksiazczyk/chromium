@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab drag host interface
+// summary: Declares the TabDragHost interface the drag delegate uses to query items, access elements, and control drag state on the tab strip.
+// ---
+
 import type {TabDragServiceRemote} from '../tab_drag_api.mojom-webui.js';
 
 import type {TabStripItem} from './items.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome RLZ tracker delegate implementation
+// summary: Implements ChromeRLZTrackerDelegate, providing Chrome-specific brand, search provider, homepage, and preference access for the RLZ tracker.
+// ---
+
 #include "chrome/browser/rlz/chrome_rlz_tracker_delegate.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Card demo element
+// summary: Defines the card-demo Lit custom element for the WebUI gallery, wiring styles, template, expand state, and external link click handling.
+// ---
+
 import '/strings.m.js';
 import '//resources/cr_elements/cr_button/cr_button.js';
 import '//resources/cr_elements/cr_collapse/cr_collapse.js';

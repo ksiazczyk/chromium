@@ -9,6 +9,12 @@
  * #include=cr-hidden-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Toolbar action container styles
+summary: Styles the WebUI toolbar action container, covering hover highlight outlines, extended hit areas, and slide-in/out transitions for pinned actions, extensions, and dividers.
+*/
+
 :host {
   /* Vertically center action buttons and dividers. */
   align-items: center;

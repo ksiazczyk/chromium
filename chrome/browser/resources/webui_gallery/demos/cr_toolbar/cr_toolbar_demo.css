@@ -9,6 +9,12 @@
  * #include=demo
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: cr_toolbar_demo.css
+summary: Stylesheet for the cr-toolbar demo that pads the content area and hides the cr-input error display, wrapped for Lit via CSS wrapper metadata.
+*/
+
 .content {
   padding: 16px;
 }

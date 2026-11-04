@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML template for the WebUI toolbar app
+// summary: Lit template that composes the toolbar's back/forward, reload, home, location bar, extensions, pinned actions and other buttons.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ToolbarAppElement} from './app.js';

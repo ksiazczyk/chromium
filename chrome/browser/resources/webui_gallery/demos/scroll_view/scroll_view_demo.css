@@ -11,6 +11,12 @@
  * #include=demo cr-scrollable-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Scroll view demo styles
+summary: CSS for the scroll view demo, styling the container, items, slider controls and cr-scrollable layouts with focus colors and sticky labels.
+*/
+
 #container {
   max-height: 300px;
   overflow: auto;

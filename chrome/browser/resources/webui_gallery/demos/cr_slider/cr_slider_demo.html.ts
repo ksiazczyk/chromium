@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML template for the cr-slider demo
+// summary: Lit HTML template for the cr-slider demo, showing basic, ticked, and disabled slider examples with value displays and a marker toggle.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CrSliderDemoElement} from './cr_slider_demo.js';

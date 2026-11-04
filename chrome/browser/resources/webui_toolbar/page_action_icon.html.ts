@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page action icon template
+// summary: Lit HTML template that renders the toolbar chip button, icons, and label for a single page action icon element.
+// ---
+
 import '/shared/icon_from_table.js';
 
 import {html, nothing} from '//resources/lit/v3_0/lit.rollup.js';

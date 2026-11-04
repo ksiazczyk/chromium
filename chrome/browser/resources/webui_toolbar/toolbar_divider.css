@@ -9,6 +9,12 @@
  * #include=overflowable-action
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Toolbar divider styles
+summary: Styles the toolbar divider element, setting its size, corner radius, spacing, and separator color.
+*/
+
 :host {
   align-self: center;
   background-color: var(--color-toolbar-extension-separator-enabled);

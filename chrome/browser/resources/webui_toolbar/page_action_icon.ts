@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page action icon element
+// summary: Lit element that displays a single page action chip with icon, label, animations, and browser proxy interaction.
+// ---
+
 import '/shared/icon_from_table.js';
 import '//resources/cr_elements/cr_icon/cr_icon.js';
 import './toolbar_chip_button.js';

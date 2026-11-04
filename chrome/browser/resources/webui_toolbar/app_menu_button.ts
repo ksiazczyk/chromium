@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App menu button element
+// summary: Implements the app menu button element with glow-up animation, focus request handling and app menu control state.
+// ---
+
 import './toolbar_chip_button.js';
 import '//resources/cr_elements/cr_icon/cr_icon.js';
 import './icons.js';

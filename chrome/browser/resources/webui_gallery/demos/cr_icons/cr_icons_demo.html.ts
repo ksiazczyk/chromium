@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit template for the cr-icons demo
+// summary: Lit HTML template rendering demo sections for common cr-icons, a custom iconset, CSS icon classes, and icon size and color controls.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CrIconsDemoElement} from './cr_icons_demo.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-checkbox demo element
+// summary: Defines the CrCheckboxDemoElement Lit custom element that registers cr-checkbox-demo and tracks checkbox state via the checked-changed event.
+// ---
+
 import '//resources/cr_elements/cr_checkbox/cr_checkbox.js';
 
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
