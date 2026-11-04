@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the app menu directory
+summary: Lists the include paths that source files in the app menu directory are allowed to depend on.

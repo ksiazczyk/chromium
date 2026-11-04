@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App menu integration tests
+// summary: Integration tests for the app menu popup, covering AppMenuCoordinatorImpl and the public interface of AppMenuHandlerImpl, including submenus and night mode.
+// ---
+
 package org.chromium.chrome.browser.ui.appmenu;
 
 import static org.mockito.ArgumentMatchers.any;

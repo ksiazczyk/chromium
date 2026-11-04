@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab switcher button view for the Actions framework
+// summary: ListMenuButton subclass that shows the tab switcher drawable and updates its tab count, notification dot, tint, and ripple animation state.
+// ---
+
 package org.chromium.chrome.browser.ui.android.bars_common;
 
 import android.content.Context;

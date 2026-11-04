@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OTP verification dialog view unit tests
+// summary: Robolectric unit tests for the OTP verification dialog view covering default state, errors, and confirmation behavior.
+// ---
+
 package org.chromium.chrome.browser.ui.autofill;
 
 import static com.google.common.truth.Truth.assertThat;

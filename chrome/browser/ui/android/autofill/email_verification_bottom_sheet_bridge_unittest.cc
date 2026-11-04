@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Email verification bottom sheet bridge unit tests
+// summary: Unit tests verifying that the email verification bottom sheet bridge runs accept callbacks and forwards dismissal reasons correctly.
+// ---
+
 #include "chrome/browser/ui/android/autofill/email_verification_bottom_sheet_bridge.h"
 
 #include <memory>

@@ -1,3 +1,13 @@
+---
+type: guide
+title: So, you want to do MVC in Compose
+summary: Tutorial on implementing the MVC pattern in Chrome Android with Jetpack Compose, walking through coordinator, mediator, composable view and UI state with a progress bar example.
+relations:
+  - documents /chrome/browser/ui/android/bricks/internal/java/src/org/chromium/chrome/browser/bricks/progress/ProgressBar.kt
+  - documents /chrome/browser/ui/android/bricks/internal/java/src/org/chromium/chrome/browser/bricks/progress/ProgressCoordinator.kt
+  - documents /chrome/browser/ui/android/bricks/internal/java/src/org/chromium/chrome/browser/bricks/progress/ProgressMediator.kt
+---
+
 # So, you want to do MVC in Compose...
 
 ## Overview

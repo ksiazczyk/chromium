@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'PaymentsWindowCoordinatorTest: Robolectric tests for the coordinator'
+// summary: Robolectric unit tests covering successful sheet requests, observer registration, and early-return denial paths of the ephemeral tab coordinator.
+// ---
+
 package org.chromium.chrome.browser.ui.autofill.ephemeraltab;
 
 import static org.mockito.ArgumentMatchers.any;

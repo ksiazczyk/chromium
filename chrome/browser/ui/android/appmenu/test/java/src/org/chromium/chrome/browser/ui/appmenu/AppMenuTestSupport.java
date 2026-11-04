@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppMenuTestSupport
+// summary: Utility methods for app menu tests, exposing the menu model list and finding menu item property models by ID, including recursive search of submenus and additional icons.
+// ---
+
 package org.chromium.chrome.browser.ui.appmenu;
 
 import android.os.Bundle;

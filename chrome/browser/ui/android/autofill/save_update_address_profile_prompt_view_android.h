@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android save update address profile prompt view header
+// summary: Declares the Android JNI wrapper class for the Java SaveUpdateAddressProfilePrompt dialog used to save or update address profiles.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_AUTOFILL_SAVE_UPDATE_ADDRESS_PROFILE_PROMPT_VIEW_ANDROID_H_
 #define CHROME_BROWSER_UI_ANDROID_AUTOFILL_SAVE_UPDATE_ADDRESS_PROFILE_PROMPT_VIEW_ANDROID_H_
 

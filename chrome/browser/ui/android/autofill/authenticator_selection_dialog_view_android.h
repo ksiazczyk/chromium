@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Authenticator selection dialog view header
+// summary: Declares the Android view for selecting card unmask authentication options and its JNI callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_AUTOFILL_AUTHENTICATOR_SELECTION_DIALOG_VIEW_ANDROID_H_
 #define CHROME_BROWSER_UI_ANDROID_AUTOFILL_AUTHENTICATOR_SELECTION_DIALOG_VIEW_ANDROID_H_
 

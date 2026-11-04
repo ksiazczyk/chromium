@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallet reminder notice bottom sheet JNI bridge header
+// summary: Declares the AutofillWalletReminderNoticeBottomSheetBridge class that triggers the Wallet Reminder Notice bottom sheet on Android.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_AUTOFILL_AUTOFILL_WALLET_REMINDER_NOTICE_BOTTOM_SHEET_BRIDGE_H_
 #define CHROME_BROWSER_UI_ANDROID_AUTOFILL_AUTOFILL_WALLET_REMINDER_NOTICE_BOTTOM_SHEET_BRIDGE_H_
 

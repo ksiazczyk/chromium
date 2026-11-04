@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual card enrollment bottom sheet bridge header
+// summary: Declares the bridge for showing and hiding the virtual card enrollment bottom sheet on Android.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_AUTOFILL_AUTOFILL_VCN_ENROLL_BOTTOM_SHEET_BRIDGE_H_
 #define CHROME_BROWSER_UI_ANDROID_AUTOFILL_AUTOFILL_VCN_ENROLL_BOTTOM_SHEET_BRIDGE_H_
 

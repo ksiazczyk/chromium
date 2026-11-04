@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtMemory flyout view
+// summary: View wrapper for the flyout screen of the AtMemory bottom sheet, showing suggestion chips, source attribution, title and manage button with back navigation.
+// ---
+
 package org.chromium.chrome.browser.ui.autofill;
 
 import android.content.Context;

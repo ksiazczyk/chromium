@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Bricks Android UI build definitions
+summary: Defines GN android_library targets for the Bricks coordinator interface and BricksPage Java sources with their dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppMenuObserver interface for menu change notifications
+// summary: Observer interface that is informed about app menu visibility and highlight changes.
+// ---
+
 package org.chromium.chrome.browser.ui.appmenu;
 
 import org.chromium.build.annotations.NullMarked;

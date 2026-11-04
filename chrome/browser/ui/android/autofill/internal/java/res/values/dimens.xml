@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Autofill UI dimension resources
+summary: Defines Android dimension values for autofill UI elements, including OTP verification dialogs, progress bars, and address and memory suggestion views.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
   <dimen name="authenticator_option_details_margin_start">24dp</dimen>
   <dimen name="authenticator_option_description_margin_top">3dp</dimen>

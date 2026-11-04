@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android autofill dialog view implementation
+// summary: Implements the Android AutofillDialogView, creating a Java controller object via JNI to show, show a loading dialog, dismiss, and forward button clicks to the C++ controller.
+// ---
+
 #include "chrome/browser/ui/android/autofill/dialog/autofill_dialog_view_android.h"
 
 #include <memory>

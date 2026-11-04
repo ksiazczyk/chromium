@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppMenuPropertiesDelegate interface
+// summary: Interface for a delegate that supplies app menu items and controls item visibility, headers, footers and icon layout based on activity state.
+// ---
+
 package org.chromium.chrome.browser.ui.appmenu;
 
 import android.content.Context;

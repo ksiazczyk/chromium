@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the payments autofill folder
+summary: Defines the payments source_set with the window bridge sources and a testonly unit_tests source_set for the bridge unittest, listing their GN dependencies.

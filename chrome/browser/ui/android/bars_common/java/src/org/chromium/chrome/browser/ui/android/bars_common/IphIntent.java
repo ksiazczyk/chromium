@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-product help intent with single-show guarantee
+// summary: Encapsulates the data needed to request an IPH bubble and ensures the intent is consumed and shown only once, even when bound to multiple UI surfaces.
+// ---
+
 package org.chromium.chrome.browser.ui.android.bars_common;
 
 import android.content.Context;

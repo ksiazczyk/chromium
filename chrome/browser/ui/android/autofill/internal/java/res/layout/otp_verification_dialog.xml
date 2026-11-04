@@ -4,6 +4,13 @@ Copyright 2021 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: OTP verification dialog layout
+summary: Android layout for the OTP verification dialog with a numeric input field, error and resend messages, and a progress overlay.
+-->
+
 <org.chromium.chrome.browser.ui.autofill.OtpVerificationDialogView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">

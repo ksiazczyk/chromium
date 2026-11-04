@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Authenticator selection dialog JNI bridge
+// summary: JNI bridge that lets native autofill code show the authenticator selection dialog and builds option lists with mapped icons.
+// ---
+
 package org.chromium.chrome.browser.ui.autofill;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bottom bar configuration utilities
+// summary: Utility class that determines whether the Android bottom bar is enabled and eligible, including Settings toggle visibility, preference handling and related feature flag checks.
+// ---
+
 package org.chromium.chrome.browser.ui.bottombar;
 
 import android.content.Context;

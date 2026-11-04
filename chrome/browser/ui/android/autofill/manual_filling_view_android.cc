@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manual filling view Android implementation
+// summary: Native counterpart of the Java manual filling component that converts accessory sheet data and handles filling, passkey, and action callbacks.
+// ---
+
 #include "chrome/browser/ui/android/autofill/manual_filling_view_android.h"
 
 #include <jni.h>

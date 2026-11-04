@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Chromium Android app menu internal build targets
+summary: GN build file defining the internal Android app menu library, its Java sources, menu layout resources, dependencies, and unit test targets.

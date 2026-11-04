@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtMemoryBottomSheetIllustrationCardView
+// summary: Linear layout view that renders illustration card items with animated title crossfades and rotating placeholder text.
+// ---
+
 package org.chromium.chrome.browser.ui.autofill;
 
 import android.animation.Animator;

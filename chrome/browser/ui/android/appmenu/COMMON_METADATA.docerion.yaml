@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common directory metadata for the app menu
+summary: Declares the issue tracker component, team email, Android OS, and Buganizer component shared by app menu directories.

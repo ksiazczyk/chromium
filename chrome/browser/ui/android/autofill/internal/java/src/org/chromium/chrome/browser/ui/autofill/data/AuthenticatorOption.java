@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthenticatorOption
+// summary: Java model class representing an authenticator option for the AuthenticatorSelectionDialog, holding title, identifier, description, icon resource, and challenge type via a builder.
+// ---
+
 package org.chromium.chrome.browser.ui.autofill.data;
 
 import org.chromium.build.annotations.NullMarked;

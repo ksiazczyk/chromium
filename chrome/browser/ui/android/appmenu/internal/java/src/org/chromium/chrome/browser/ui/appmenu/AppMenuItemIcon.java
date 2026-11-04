@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Checkable app menu item icon view
+// summary: Custom AppCompatImageView that supports a checkable drawable state for app menu item icons.
+// ---
+
 package org.chromium.chrome.browser.ui.appmenu;
 
 import android.content.Context;

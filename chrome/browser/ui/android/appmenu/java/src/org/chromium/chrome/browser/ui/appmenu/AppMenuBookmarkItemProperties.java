@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppMenuBookmarkItemProperties property keys for bookmark items
+// summary: Defines the PropertyKey list for bookmark items displayed in the app menu.
+// ---
+
 package org.chromium.chrome.browser.ui.appmenu;
 
 import org.chromium.build.annotations.NullMarked;

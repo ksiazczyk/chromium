@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the Android app menu
+summary: Defines the Java library, factory, and resources build targets for the Chrome Android app menu code.

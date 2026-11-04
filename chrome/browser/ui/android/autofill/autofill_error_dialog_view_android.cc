@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android autofill error dialog view implementation
+// summary: Implements the Android autofill error dialog view, creating and showing the Java error dialog bridge and notifying the controller when the dialog is dismissed.
+// ---
+
 #include "chrome/browser/ui/android/autofill/autofill_error_dialog_view_android.h"
 
 #include <jni.h>

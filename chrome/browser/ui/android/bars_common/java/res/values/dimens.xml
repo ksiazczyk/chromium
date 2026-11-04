@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Bottom bar and toolbar dimension values
+summary: Defines Android dimension resources for the bottom bar, app menu margin, toolbar buttons, and tab switcher icon text sizes in Chromium's Android UI.
+-->
+
 <resources>
     <!-- Bottom bar dimensions -->
     <dimen name="bottom_bar_height">56dp</dimen>

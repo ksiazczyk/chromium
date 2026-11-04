@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App menu item view binder render tests
+// summary: Render tests for the app menu item view binder across night mode and menu item enabled variants.
+// ---
+
 package org.chromium.chrome.browser.ui.appmenu;
 
 import android.app.Activity;

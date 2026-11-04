@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for the Bricks internal Android UI module
+summary: Defines the android_library and android_resources GN targets that build the Bricks internal Java/Kotlin UI code, including progress, switch, and theme components, together with their dependencies.

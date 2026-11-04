@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save IBAN bottom sheet JNI bridge implementation
+// summary: Implements the JNI bridge that shows, hides, and reports user decisions for the Android save IBAN bottom sheet.
+// ---
+
 #include "chrome/browser/ui/android/autofill/autofill_save_iban_bottom_sheet_bridge.h"
 
 #include <memory>

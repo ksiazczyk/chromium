@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppMenuClickHandler interface for menu item clicks
+// summary: Interface for handling clicks and long-clicks on items in the app menu popup.
+// ---
+
 package org.chromium.chrome.browser.ui.appmenu;
 
 import android.view.MotionEvent;

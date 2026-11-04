@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bricks directory metadata
+summary: Declares the Buganizer component, team email and Android OS ownership for the bricks UI directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AtMemory bottom sheet bridge unit tests
+// summary: Tests the AtMemory bottom sheet bridge for dismissal, hiding and showing suggestions with children and AtMemory payloads.
+// ---
+
 #include "chrome/browser/ui/android/autofill/at_memory_bottom_sheet_bridge.h"
 
 #include <memory>

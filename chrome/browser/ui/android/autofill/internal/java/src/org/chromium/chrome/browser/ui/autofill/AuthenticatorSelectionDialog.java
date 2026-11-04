@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Authenticator selection dialog
+// summary: Modal dialog that presents authenticator options for fetching credit card information and reports the selected option or dismissal to its listener.
+// ---
+
 package org.chromium.chrome.browser.ui.autofill;
 
 import android.content.Context;

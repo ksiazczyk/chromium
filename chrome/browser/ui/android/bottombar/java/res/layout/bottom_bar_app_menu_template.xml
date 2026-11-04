@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Bottom bar app menu button layout template
+summary: Android layout template for the bottom bar app menu button, containing an image button and an optional menu badge with accessibility handled by the parent view.
+-->
+
 <org.chromium.chrome.browser.ui.bottombar.BottomBarAppMenu
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OTP verification dialog JNI bridge
+// summary: JNI glue that lets native code show, dismiss, and update the OTP verification dialog used for credit card unmasking.
+// ---
+
 package org.chromium.chrome.browser.ui.autofill;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtMemory screen state
+// summary: Immutable snapshot class describing the AtMemory bottom sheet home screen state, with predefined hidden, loading, zero-state and suggestions states.
+// ---
+
 package org.chromium.chrome.browser.ui.autofill;
 
 import org.chromium.build.annotations.NullMarked;

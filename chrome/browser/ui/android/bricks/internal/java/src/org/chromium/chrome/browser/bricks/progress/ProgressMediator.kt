@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProgressMediator updating UI state from provider callbacks
+// summary: Mediator that observes a ProgressProvider and copies progress changes into the shared ProgressUiState flow.
+// ---
+
 package org.chromium.chrome.browser.bricks.progress
 
 import kotlinx.coroutines.flow.MutableStateFlow

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App menu handler implementation
+// summary: Manages creation, showing and hiding of the app menu and notifies AppMenuObservers about visibility changes.
+// ---
+
 package org.chromium.chrome.browser.ui.appmenu;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

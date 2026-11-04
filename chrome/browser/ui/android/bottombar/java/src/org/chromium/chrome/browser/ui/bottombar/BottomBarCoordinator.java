@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bottom bar coordinator
+// summary: Coordinator that wires together the bottom bar model, view, mediator, button manager and promo or education dialog coordinators for the Android bottom bar UI.
+// ---
+
 package org.chromium.chrome.browser.ui.bottombar;
 
 import android.content.Context;

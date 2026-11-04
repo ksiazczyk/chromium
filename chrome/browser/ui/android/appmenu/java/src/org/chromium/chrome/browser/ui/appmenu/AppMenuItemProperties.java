@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppMenuItemProperties property keys for app menu items
+// summary: Defines the PropertyKey list for app menu items covering title, icon, state and interaction attributes.
+// ---
+
 package org.chromium.chrome.browser.ui.appmenu;
 
 import android.graphics.drawable.Drawable;

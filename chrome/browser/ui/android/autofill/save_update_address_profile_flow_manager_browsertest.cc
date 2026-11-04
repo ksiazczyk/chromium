@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Save update address profile flow manager browser tests
+// summary: Android browser tests checking that the address profile flow manager auto-declines new offers while a message or prompt is already displayed.
+// ---
+
 #include "chrome/browser/ui/android/autofill/save_update_address_profile_flow_manager.h"
 
 #include "base/test/mock_callback.h"

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Bottom bar list menu button layout template
+summary: Layout template wrapping a ListMenuButton for bottom bar toolbar buttons that open a list menu.
+-->
+
 <org.chromium.ui.listmenu.ListMenuButton
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

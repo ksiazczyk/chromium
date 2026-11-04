@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Bottom bar promo glow transparent night color selector
+summary: Android color selector for dark theme that provides a fully transparent material primary color used for gradients in the bottom bar promo illustration.
+-->
+
 <!--
   Used for the gradients in the bottom bar promo illustration.
 -->

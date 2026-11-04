@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compose switch row components
+// summary: Composable switch rows that render a text label or title with summary next to a Material 3 switch.
+// ---
+
 package org.chromium.chrome.browser.bricks.switches
 
 import androidx.compose.foundation.clickable

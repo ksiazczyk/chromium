@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OTP verification dialog property keys
+// summary: Defines the property keys and view delegate interface that drive the OTP verification dialog's model.
+// ---
+
 package org.chromium.chrome.browser.ui.autofill;
 
 import org.chromium.build.annotations.NullMarked;

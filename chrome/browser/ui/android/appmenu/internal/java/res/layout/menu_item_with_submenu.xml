@@ -5,6 +5,13 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 <!-- Layout for each item in the menu popup -->
+
+<!--docerion
+type: source
+title: Menu item with submenu layout
+summary: Android layout for hierarchical menu items with a leading icon, text and a chevron indicating a submenu.
+-->
+
 <org.chromium.ui.hierarchicalmenu.MenuItemWithSubmenuView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"

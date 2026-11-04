@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'PaymentsWindowBridgeTest: Robolectric tests for the bridge'
+// summary: Robolectric unit tests verifying that the bridge delegates to the coordinator and suppresses native calls after the native object is destroyed.
+// ---
+
 package org.chromium.chrome.browser.ui.autofill.ephemeraltab;
 
 import static org.junit.Assert.assertNotNull;

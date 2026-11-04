@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VibesProgressProvider emitting randomized progress updates
+// summary: ProgressProvider implementation that emits progress at random intervals and increments via a coroutine scope.
+// ---
+
 package org.chromium.chrome.browser.bricks.progress
 
 import kotlin.random.Random

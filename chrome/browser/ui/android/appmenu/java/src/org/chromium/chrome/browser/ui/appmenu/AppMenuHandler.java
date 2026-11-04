@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppMenuHandler interface for showing and hiding the app menu
+// summary: Interface for creating, showing and hiding the app menu, defining menu item types and notifying observers.
+// ---
+
 package org.chromium.chrome.browser.ui.appmenu;
 
 import android.view.View;

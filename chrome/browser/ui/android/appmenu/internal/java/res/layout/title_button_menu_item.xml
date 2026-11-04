@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Title button menu item layout for Android app menu
+summary: Android layout resource for a Chromium app menu item that can show a text label combined with an optional checkbox, icon, or action button.
+-->
+
 <!-- Represents a menu item that can display any of the following options:
      * [text label]
      * [text label] [checkbox indicating that it is enabled or disabled]

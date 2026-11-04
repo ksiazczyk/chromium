@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App menu button touch and show helper
+// summary: Helper that decides when a menu button shows the app menu and forwards touch and accessibility events to it.
+// ---
+
 package org.chromium.chrome.browser.ui.appmenu;
 
 import android.annotation.SuppressLint;

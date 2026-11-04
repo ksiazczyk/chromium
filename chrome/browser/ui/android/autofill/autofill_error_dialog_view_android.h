@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android autofill error dialog view header
+// summary: Declares the Android implementation of AutofillErrorDialogView, which shows autofill payments error dialogs through a JNI bridge and reports dismissal to the controller.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_AUTOFILL_AUTOFILL_ERROR_DIALOG_VIEW_ANDROID_H_
 #define CHROME_BROWSER_UI_ANDROID_AUTOFILL_AUTOFILL_ERROR_DIALOG_VIEW_ANDROID_H_
 

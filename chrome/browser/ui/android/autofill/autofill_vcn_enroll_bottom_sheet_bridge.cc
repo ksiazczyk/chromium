@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual card enrollment bottom sheet bridge implementation
+// summary: Implements the JNI bridge that shows the virtual card enrollment bottom sheet and forwards accept, cancel, and dismiss actions.
+// ---
+
 #include "chrome/browser/ui/android/autofill/autofill_vcn_enroll_bottom_sheet_bridge.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentsWindowBridge class declaration
+// summary: Declares the C++ counterpart to PaymentsWindowBridge.java that lets feature code open and close the ephemeral tab and receive its events via the delegate.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_AUTOFILL_PAYMENTS_PAYMENTS_WINDOW_BRIDGE_H_
 #define CHROME_BROWSER_UI_ANDROID_AUTOFILL_PAYMENTS_PAYMENTS_WINDOW_BRIDGE_H_
 

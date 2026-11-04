@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Card unmask prompt Android view implementation
+// summary: Implements the Android card unmask prompt view, handling CVC input, verification states, and dialog updates through the CardUnmaskBridge JNI.
+// ---
+
 #include "chrome/browser/ui/android/autofill/card_unmask_prompt_view_android.h"
 
 #include "base/android/jni_string.h"

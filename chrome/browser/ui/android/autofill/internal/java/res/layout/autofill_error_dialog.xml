@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Autofill error dialog layout
+summary: Android layout for an autofill error dialog showing a single error message below an optional title stub.
+-->
+
 <LinearLayout
     android:layout_width="wrap_content"
     android:layout_height="match_parent"

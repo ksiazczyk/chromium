@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppMenuDelegate interface for menu item selection
+// summary: Delegate interface that handles app menu item selection and creates the app menu properties delegate.
+// ---
+
 package org.chromium.chrome.browser.ui.appmenu;
 
 import android.os.Bundle;

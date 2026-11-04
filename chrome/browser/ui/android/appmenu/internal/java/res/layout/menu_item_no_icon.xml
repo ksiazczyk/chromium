@@ -5,6 +5,13 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 <!-- Layout for each item in the menu popup without an icon or start padding -->
+
+<!--docerion
+type: source
+title: Menu item layout without icon
+summary: Android layout for app menu items without a leading icon, containing text, an optional end icon and shortcut.
+-->
+
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     style="@style/OverflowMenuItem"

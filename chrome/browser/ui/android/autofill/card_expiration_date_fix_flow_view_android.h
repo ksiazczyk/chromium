@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Card expiration date fix flow Android view header
+// summary: Declares CardExpirationDateFixFlowViewAndroid, the Android implementation of the card expiration date fix flow view.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_AUTOFILL_CARD_EXPIRATION_DATE_FIX_FLOW_VIEW_ANDROID_H_
 #define CHROME_BROWSER_UI_ANDROID_AUTOFILL_CARD_EXPIRATION_DATE_FIX_FLOW_VIEW_ANDROID_H_
 

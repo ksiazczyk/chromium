@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual card enrollment fields JNI utilities
+// summary: Converts native virtual card enrollment fields into their Java counterpart, including card details and Google and issuer legal messages.
+// ---
+
 #include "chrome/browser/ui/android/autofill/virtual_card_utils.h"
 
 #include "base/android/jni_string.h"

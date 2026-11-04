@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Email verification bottom sheet bridge header
+// summary: Declares the bridge class owned by ChromeAutofillClient that triggers the email verification bottom sheet on Android via JNI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_AUTOFILL_EMAIL_VERIFICATION_BOTTOM_SHEET_BRIDGE_H_
 #define CHROME_BROWSER_UI_ANDROID_AUTOFILL_EMAIL_VERIFICATION_BOTTOM_SHEET_BRIDGE_H_
 

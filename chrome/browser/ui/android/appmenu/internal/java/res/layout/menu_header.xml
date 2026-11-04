@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Menu header layout
+summary: Android layout for a single-line text header row displayed at the top of the app menu popup.
+-->
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     style="@style/OverflowMenuItem"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BottomBarEducationUtils
+// summary: Robolectric unit tests for the education helpers, checking Gemini variant selection and the content of inflated bubble and dialog views.
+// ---
+
 package org.chromium.chrome.browser.ui.bottombar;
 
 import static org.junit.Assert.assertEquals;

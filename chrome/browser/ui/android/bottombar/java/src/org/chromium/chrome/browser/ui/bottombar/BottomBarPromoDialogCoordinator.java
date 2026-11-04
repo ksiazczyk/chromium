@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BottomBarPromoDialogCoordinator
+// summary: Coordinator that shows the bottom bar introductory promo dialog when eligible and notifies a listener when the user accepts it.
+// ---
+
 package org.chromium.chrome.browser.ui.bottombar;
 
 import android.content.Context;

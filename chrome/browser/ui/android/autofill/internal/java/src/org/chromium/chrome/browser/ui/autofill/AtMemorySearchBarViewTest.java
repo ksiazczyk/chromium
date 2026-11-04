@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AtMemorySearchBarView unit tests
+// summary: Unit tests covering clear-text behavior, clear button visibility, loading spinner, and query submission callbacks of the AtMemory search bar view.
+// ---
+
 package org.chromium.chrome.browser.ui.autofill;
 
 import static org.junit.Assert.assertEquals;

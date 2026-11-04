@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppRatingManager interface for the App Rating API
+// summary: Defines the interface for managing interactions with the App Rating API, including requesting and showing the review flow with a completion callback.
+// ---
+
 package org.chromium.chrome.browser.ui.app_rating;
 
 import android.app.Activity;

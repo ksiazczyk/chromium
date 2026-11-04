@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Card name fix flow Android view implementation
+// summary: Implements the Android view for the cardholder name fix flow, showing a prompt and forwarding accepted names or dismissal to the controller.
+// ---
+
 #include "chrome/browser/ui/android/autofill/card_name_fix_flow_view_android.h"
 
 #include "chrome/browser/android/resource_mapper.h"

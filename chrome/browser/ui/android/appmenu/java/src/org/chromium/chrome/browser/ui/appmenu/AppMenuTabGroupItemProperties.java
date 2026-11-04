@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppMenuTabGroupItemProperties property keys
+// summary: Defines property keys for app menu tab group items, adding tab group ID and sync group ID to the base item keys.
+// ---
+
 package org.chromium.chrome.browser.ui.appmenu;
 
 import org.chromium.base.Token;

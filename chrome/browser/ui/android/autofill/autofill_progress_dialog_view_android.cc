@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill progress dialog Android view implementation
+// summary: Implements the Android autofill progress dialog view, showing loading and confirmation UI and notifying the controller when the dialog is dismissed.
+// ---
+
 #include "chrome/browser/ui/android/autofill/autofill_progress_dialog_view_android.h"
 
 #include <jni.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtMemory bottom sheet view
+// summary: View wrapper for the AtMemory bottom sheet that switches between home and flyout screens via a ViewFlipper and reports back-press state to the controller.
+// ---
+
 package org.chromium.chrome.browser.ui.autofill;
 
 import android.content.Context;

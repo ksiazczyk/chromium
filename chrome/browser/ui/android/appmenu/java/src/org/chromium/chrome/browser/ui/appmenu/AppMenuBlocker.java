@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppMenuBlocker interface for blocking app menu display
+// summary: Interface that lets other UI register a blocker preventing the app menu from being shown.
+// ---
+
 package org.chromium.chrome.browser.ui.appmenu;
 
 import org.chromium.build.annotations.NullMarked;

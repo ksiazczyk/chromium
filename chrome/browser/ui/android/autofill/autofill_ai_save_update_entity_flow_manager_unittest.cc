@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Autofill AI save/update entity flow manager
+// summary: Unit tests covering the Android save/update Autofill AI entity flow, exercising message display, user acceptance and cancellation, and sign-in dependent behavior with mock controllers.
+// ---
+
 #include "chrome/browser/ui/android/autofill/autofill_ai_save_update_entity_flow_manager.h"
 
 #include <optional>

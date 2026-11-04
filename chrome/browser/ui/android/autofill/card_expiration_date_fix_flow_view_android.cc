@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Card expiration date fix flow Android view implementation
+// summary: Implements the Android view for the card expiration date fix flow, forwarding user accept and dismiss actions to the controller via JNI.
+// ---
+
 #include "chrome/browser/ui/android/autofill/card_expiration_date_fix_flow_view_android.h"
 
 #include <memory>

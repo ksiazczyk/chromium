@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppRatingPromoController
+// summary: Controller that decides when to show the app rating promo, checking feature flags, enterprise policy, country, shown-once prefs, cooldown, and segmentation-based engagement before triggering the review flow.
+// ---
+
 package org.chromium.chrome.browser.ui.app_rating;
 
 import android.app.Activity;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppMenuItemWithSubmenuProperties keys for submenu items
+// summary: Defines the PropertyKey list for app menu items that contain submenus, including expansion state.
+// ---
+
 package org.chromium.chrome.browser.ui.appmenu;
 
 import static org.chromium.chrome.browser.ui.appmenu.AppMenuItemProperties.ENABLED;

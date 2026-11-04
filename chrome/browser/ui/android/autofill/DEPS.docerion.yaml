@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Android autofill UI
+summary: Allows includes from components/autofill/android/payments and components/browser_ui/bottomsheet/android.

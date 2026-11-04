@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the save IBAN delegate
+// summary: Tests that the save IBAN delegate runs the correct callbacks for accepted, canceled, and ignored UI decisions.
+// ---
+
 #include "chrome/browser/ui/android/autofill/autofill_save_iban_delegate.h"
 
 #include <memory>

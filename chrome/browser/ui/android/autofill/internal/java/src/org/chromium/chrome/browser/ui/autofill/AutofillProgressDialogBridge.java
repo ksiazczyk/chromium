@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill progress dialog JNI bridge
+// summary: JNI bridge controller that lets native autofill code show a progress dialog, for example while contacting the bank during card unmasking.
+// ---
+
 package org.chromium.chrome.browser.ui.autofill;
 
 import static org.chromium.build.NullUtil.assertNonNull;

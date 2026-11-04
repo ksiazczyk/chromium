@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the virtual card enrollment bottom sheet bridge
+// summary: Tests showing the virtual card enrollment bottom sheet and its accept, cancel, and dismiss callback behavior.
+// ---
+
 #include "chrome/browser/ui/android/autofill/autofill_vcn_enroll_bottom_sheet_bridge.h"
 
 #include "base/test/metrics/histogram_tester.h"

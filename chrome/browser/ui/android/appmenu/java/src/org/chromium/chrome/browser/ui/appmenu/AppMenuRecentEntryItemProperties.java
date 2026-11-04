@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppMenuRecentEntryItemProperties property keys
+// summary: Defines property keys for app menu recent entry items, covering the recent entry, window ID and foreign session data.
+// ---
+
 package org.chromium.chrome.browser.ui.appmenu;
 
 import org.chromium.build.annotations.NullMarked;

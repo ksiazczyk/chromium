@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android wallet reminder notice UI delegate unit tests
+// summary: Unit tests verifying that the Android wallet reminder notice delegate forwards legal message lines to the bottom sheet bridge.
+// ---
+
 #include "chrome/browser/ui/android/autofill/wallet_reminder_notice_ui_delegate_android.h"
 
 #include <memory>

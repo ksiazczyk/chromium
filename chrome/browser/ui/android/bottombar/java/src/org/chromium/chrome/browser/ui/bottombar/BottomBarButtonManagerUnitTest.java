@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BottomBarButtonManagerUnitTest
+// summary: Robolectric unit tests for the bottom bar button manager, covering button registration, model supplier binding, and visibility change behavior for actions like Home and GLIC.
+// ---
+
 package org.chromium.chrome.browser.ui.bottombar;
 
 import static org.junit.Assert.assertEquals;

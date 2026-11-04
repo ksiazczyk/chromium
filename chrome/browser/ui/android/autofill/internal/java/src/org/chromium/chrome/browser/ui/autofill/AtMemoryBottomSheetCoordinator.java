@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtMemoryBottomSheetCoordinator
+// summary: Coordinator that wires the view, mediator and bottom sheet content, showing and hiding the sheet and exposing a delegate for search and suggestion events.
+// ---
+
 package org.chromium.chrome.browser.ui.autofill;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Save update address profile flow manager unit tests
+// summary: Unit tests covering the Android save and update address profile flow manager, including prompt display, message actions and signin scenarios.
+// ---
+
 #include "chrome/browser/ui/android/autofill/save_update_address_profile_flow_manager.h"
 
 #include "base/check_deref.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Card name fix flow Android view header
+// summary: Declares CardNameFixFlowViewAndroid, the Android implementation of the card name fix flow view with lazy Java object creation.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_AUTOFILL_CARD_NAME_FIX_FLOW_VIEW_ANDROID_H_
 #define CHROME_BROWSER_UI_ANDROID_AUTOFILL_CARD_NAME_FIX_FLOW_VIEW_ANDROID_H_
 

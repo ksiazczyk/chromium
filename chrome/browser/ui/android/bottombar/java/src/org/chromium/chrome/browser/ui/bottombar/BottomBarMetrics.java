@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BottomBarMetrics
+// summary: Defines enums and records histograms for bottom bar promo events, IPH, Glic button states, and candidate actions, kept in sync with metrics metadata.
+// ---
+
 package org.chromium.chrome.browser.ui.bottombar;
 
 import androidx.annotation.IntDef;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AtMemoryBottomSheetCoordinator unit tests
+// summary: Robolectric tests covering coordinator initialization, successful and failed show requests, hiding, and search bar focus behavior on sheet open.
+// ---
+
 package org.chromium.chrome.browser.ui.autofill;
 
 import static org.junit.Assert.assertEquals;

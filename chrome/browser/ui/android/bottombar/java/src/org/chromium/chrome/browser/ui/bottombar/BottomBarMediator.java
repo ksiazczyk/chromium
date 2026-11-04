@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BottomBarMediator
+// summary: Mediator that drives the Android bottom bar, coordinating visibility, theming, button actions, promo dialogs, IPH, and layout state changes.
+// ---
+
 package org.chromium.chrome.browser.ui.bottombar;
 
 import android.content.Context;

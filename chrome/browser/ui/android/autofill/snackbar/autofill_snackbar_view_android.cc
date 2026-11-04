@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android autofill snackbar view implementation
+// summary: Implements the Android autofill snackbar view, creating and showing the Java snackbar via JNI and forwarding action and dismiss callbacks to the controller.
+// ---
+
 #include "chrome/browser/ui/android/autofill/snackbar/autofill_snackbar_view_android.h"
 
 #include "base/android/jni_android.h"

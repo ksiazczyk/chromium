@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Bottom toolbar button style
+summary: Defines an Android style for bottom toolbar buttons covering background, size, scale type, and gravity in Chromium's Android UI.
+-->
+
 <resources>
     <style name="BottomToolbarButton">
         <item name="android:background">?attr/selectableItemBackground</item>

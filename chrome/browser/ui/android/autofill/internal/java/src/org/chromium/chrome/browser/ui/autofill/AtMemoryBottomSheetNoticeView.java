@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtMemoryBottomSheetNoticeView
+// summary: View that renders the personal context onboarding notice with a clickable settings link and an OK button.
+// ---
+
 package org.chromium.chrome.browser.ui.autofill;
 
 import android.content.Context;

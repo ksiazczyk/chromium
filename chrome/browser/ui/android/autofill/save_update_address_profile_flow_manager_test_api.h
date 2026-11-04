@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Save update address profile flow manager test API
+// summary: Test API header exposing internal state and message actions of the save/update address profile flow manager for use in unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_AUTOFILL_SAVE_UPDATE_ADDRESS_PROFILE_FLOW_MANAGER_TEST_API_H_
 #define CHROME_BROWSER_UI_ANDROID_AUTOFILL_SAVE_UPDATE_ADDRESS_PROFILE_FLOW_MANAGER_TEST_API_H_
 

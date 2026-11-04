@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OTP verification dialog bridge unit tests
+// summary: Robolectric unit tests checking that bridge user actions call native methods and stop calling them after dismissal.
+// ---
+
 package org.chromium.chrome.browser.ui.autofill;
 
 import static org.mockito.ArgumentMatchers.anyLong;

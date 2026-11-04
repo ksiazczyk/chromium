@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtMemoryBottomSheetBridge JNI wrapper
+// summary: JNI bridge that creates and controls the AtMemory bottom sheet from native code, forwarding show, hide, destroy and dismissal events to the coordinator.
+// ---
+
 package org.chromium.chrome.browser.ui.autofill;
 
 import android.content.Context;

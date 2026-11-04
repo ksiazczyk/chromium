@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI save/update entity flow manager implementation
+// summary: Manages the Android flow for saving or updating Autofill AI entities, building message descriptions and icons per entity type.
+// ---
+
 #include "chrome/browser/ui/android/autofill/autofill_ai_save_update_entity_flow_manager.h"
 
 #include <optional>

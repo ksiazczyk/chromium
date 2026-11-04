@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test app menu delegate
+// summary: Test double implementing AppMenuDelegate that records selected menu item IDs and supplies a test properties delegate for app menu tests.
+// ---
+
 package org.chromium.chrome.browser.ui.appmenu;
 
 import android.content.Context;

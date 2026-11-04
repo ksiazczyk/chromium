@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestAppMenuObserver
+// summary: AppMenuObserver implementation for tests that records menu shown, hidden, and highlight change events via CallbackHelpers for verification in test code.
+// ---
+
 package org.chromium.chrome.browser.ui.appmenu;
 
 import org.chromium.base.test.util.CallbackHelper;

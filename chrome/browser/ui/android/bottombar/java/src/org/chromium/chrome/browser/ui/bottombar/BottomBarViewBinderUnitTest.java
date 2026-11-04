@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BottomBarViewBinderUnitTest
+// summary: Robolectric unit tests verifying that BottomBarViewBinder correctly applies property model changes to the BottomBarView.
+// ---
+
 package org.chromium.chrome.browser.ui.bottombar;
 
 import static org.junit.Assert.assertEquals;

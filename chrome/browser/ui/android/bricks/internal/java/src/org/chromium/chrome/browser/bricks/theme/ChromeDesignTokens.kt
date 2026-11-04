@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome design tokens and Material theme for Compose UI
+// summary: Defines a Compose MaterialTheme wrapper and Chromium design token objects for dimensions, typography, and colors that mirror Clank XML styles in the Android browser UI.
+// ---
+
 package org.chromium.chrome.browser.bricks.theme
 
 import androidx.compose.material3.MaterialTheme

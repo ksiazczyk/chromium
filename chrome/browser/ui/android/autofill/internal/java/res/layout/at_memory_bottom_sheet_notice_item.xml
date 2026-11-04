@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: AT Memory bottom sheet notice item layout
+summary: Layout for a notice item in the AT Memory bottom sheet with a title, clickable message text and an OK button.
+-->
+
 <org.chromium.chrome.browser.ui.autofill.AtMemoryBottomSheetNoticeView
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/notice_container"

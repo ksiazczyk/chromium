@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the CVC save message delegate
+// summary: Unit tests verifying that the CVC save message is enqueued and that accept, cancel, and dismiss actions invoke the corresponding save card delegate callbacks.
+// ---
+
 #include "chrome/browser/ui/android/autofill/autofill_cvc_save_message_delegate.h"
 
 #include "base/android/jni_android.h"

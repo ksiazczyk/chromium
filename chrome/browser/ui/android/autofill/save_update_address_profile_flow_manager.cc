@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save update address profile flow manager implementation
+// summary: Implements the two-step Android flow for saving or updating an address profile, showing a confirmation message followed by a details prompt.
+// ---
+
 #include "chrome/browser/ui/android/autofill/save_update_address_profile_flow_manager.h"
 
 #include <optional>

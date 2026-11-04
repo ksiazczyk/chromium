@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppMenuActionButtonBinderUnitTest
+// summary: Robolectric unit tests verifying update badge visibility and state, icon delegation to the inner image button, and fallback binding for the App Menu action button binder.
+// ---
+
 package org.chromium.chrome.browser.ui.bottombar;
 
 import static org.junit.Assert.assertEquals;

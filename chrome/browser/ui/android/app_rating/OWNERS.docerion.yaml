@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the app_rating directory
+summary: Lists the email addresses of the reviewers responsible for changes in the app_rating directory.

@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Bottom bar new tab background drawable
+summary: Layer-list drawable that draws a centered, rounded white rectangle sized for the bottom bar's new tab background.
+-->
+
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:width="@dimen/bottom_bar_new_tab_background_size"

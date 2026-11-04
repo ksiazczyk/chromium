@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BricksCoordinator.kt
+// summary: Kotlin coordinator for the Bricks feature that manages a ComposeView with a Material 3 themed demo page and a progress trigger button.
+// ---
+
 package org.chromium.chrome.browser.bricks
 
 import android.content.Context

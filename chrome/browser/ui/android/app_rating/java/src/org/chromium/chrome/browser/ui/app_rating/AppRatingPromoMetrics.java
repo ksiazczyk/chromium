@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppRatingPromoMetrics
+// summary: Helper class that records histograms for the App Rating Prompt, including show attempts, review flow status codes, and user interaction duration.
+// ---
+
 package org.chromium.chrome.browser.ui.app_rating;
 
 import androidx.annotation.IntDef;

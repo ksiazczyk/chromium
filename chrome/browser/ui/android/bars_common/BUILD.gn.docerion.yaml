@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build file for bars_common Android UI targets
+summary: Defines the Android resources and Java library targets for the bars_common UI module, listing its sources and dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppMenuButtonHelper interface for menu button touch handling
+// summary: Interface that helps a menu button decide when to show the app menu and forwards touch and key events.
+// ---
+
 package org.chromium.chrome.browser.ui.appmenu;
 
 import android.view.View;

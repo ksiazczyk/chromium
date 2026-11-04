@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BottomBarAppMenu
+// summary: Custom FrameLayout for the bottom bar App Menu button that manages the menu image button, update badge state and icons, and theme tint changes.
+// ---
+
 package org.chromium.chrome.browser.ui.bottombar;
 
 import android.content.Context;

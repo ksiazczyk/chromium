@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save card bottom sheet bridge implementation
+// summary: Implements the JNI bridge that shows the save card bottom sheet on Android, converting card UI info into Java objects and forwarding user actions.
+// ---
+
 #include "chrome/browser/ui/android/autofill/autofill_save_card_bottom_sheet_bridge.h"
 
 #include <memory>

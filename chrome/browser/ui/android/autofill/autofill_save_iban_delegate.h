@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save IBAN delegate header
+// summary: Declares the delegate class providing callbacks for UIs that present save IBAN offers on Android.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_AUTOFILL_AUTOFILL_SAVE_IBAN_DELEGATE_H_
 #define CHROME_BROWSER_UI_ANDROID_AUTOFILL_AUTOFILL_SAVE_IBAN_DELEGATE_H_
 

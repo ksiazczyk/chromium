@@ -1,0 +1,4 @@
+# Docerion header of proguard.flags.
+type: config
+title: ProGuard keep rules for Play review classes
+summary: Keeps Google Play review library classes from being stripped so IPC unmarshalling does not fail with ClassNotFoundException.

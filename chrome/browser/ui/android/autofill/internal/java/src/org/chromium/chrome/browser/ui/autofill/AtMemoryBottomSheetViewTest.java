@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AtMemory bottom sheet view unit tests
+// summary: Robolectric unit tests verifying AtMemoryBottomSheetView behavior such as search focus, screen switching, back press handling and suggestion item binding.
+// ---
+
 package org.chromium.chrome.browser.ui.autofill;
 
 import static org.junit.Assert.assertEquals;

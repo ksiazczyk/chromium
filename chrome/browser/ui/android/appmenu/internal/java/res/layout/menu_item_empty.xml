@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Empty menu item layout
+summary: Android layout that shows a centered disabled message for an empty submenu in the menu popup.
+-->
+
 <!-- Layout for empty item in the menu popup -->
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     style="@style/OverflowMenuItem"

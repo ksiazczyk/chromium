@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtMemory bottom sheet bridge header
+// summary: Declares the bridge class owned by AtMemorySuggestionController that triggers and hides the AtMemory bottom sheet on Android.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_AUTOFILL_AT_MEMORY_BOTTOM_SHEET_BRIDGE_H_
 #define CHROME_BROWSER_UI_ANDROID_AUTOFILL_AT_MEMORY_BOTTOM_SHEET_BRIDGE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BottomBarProperties
+// summary: Defines writable property keys for the bottom bar model, such as visibility, color scheme, and per-button visibility flags.
+// ---
+
 package org.chromium.chrome.browser.ui.bottombar;
 
 import org.chromium.build.annotations.NullMarked;

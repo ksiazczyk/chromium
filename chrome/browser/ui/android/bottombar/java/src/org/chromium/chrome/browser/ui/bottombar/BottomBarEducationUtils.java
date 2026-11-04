@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bottom bar education view helpers
+// summary: Helpers that inflate and configure education bubble and dialog content, including Gemini-focused copy variants and illustration visibility by orientation.
+// ---
+
 package org.chromium.chrome.browser.ui.bottombar;
 
 import android.content.Context;

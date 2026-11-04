@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Bottom bar main layout
+summary: Main layout for the Chrome bottom bar, arranging home, extra, new tab and tab switcher button containers with ViewStubs for optional buttons.
+-->
+
 <!-- Default layout_height is @dimen/bottom_bar_height; overridden dynamically
      at runtime in BottomBarCoordinator via BottomBarUtils.getBottomBarHeight(). -->
 <org.chromium.chrome.browser.ui.bottombar.BottomBarView

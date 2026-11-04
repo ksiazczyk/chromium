@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Android autofill UI
+summary: Defines the GN source_set listing the Android autofill UI sources and their build dependencies.

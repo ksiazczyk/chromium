@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual card enrollment fields utilities header
+// summary: Declares the helper that converts a native VirtualCardEnrollmentFields object to its Java counterpart for virtual card enrollment UI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_AUTOFILL_VIRTUAL_CARD_UTILS_H_
 #define CHROME_BROWSER_UI_ANDROID_AUTOFILL_VIRTUAL_CARD_UTILS_H_
 

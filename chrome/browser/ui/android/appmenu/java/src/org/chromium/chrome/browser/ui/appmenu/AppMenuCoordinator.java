@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppMenuCoordinator interface for app menu coordination
+// summary: Interface coordinating the app menu, exposing the handler and properties delegate and managing menu blockers.
+// ---
+
 package org.chromium.chrome.browser.ui.appmenu;
 
 import org.chromium.base.supplier.NullableObservableSupplier;

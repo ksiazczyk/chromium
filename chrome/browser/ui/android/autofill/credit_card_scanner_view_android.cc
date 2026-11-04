@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credit card scanner Android view implementation
+// summary: Implements the Android credit card scanner view, launching the scanner bridge and reporting cancelled or completed scans to its delegate.
+// ---
+
 #include "chrome/browser/ui/android/autofill/credit_card_scanner_view_android.h"
 
 #include <memory>

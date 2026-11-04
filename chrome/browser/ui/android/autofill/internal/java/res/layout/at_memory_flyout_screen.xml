@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: AT Memory flyout screen layout
+summary: Layout for the AT Memory flyout screen with a back button, title, wrapping chip container, source text and manage entry.
+-->
+
 <org.chromium.chrome.browser.ui.autofill.AtMemoryFlyoutView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"

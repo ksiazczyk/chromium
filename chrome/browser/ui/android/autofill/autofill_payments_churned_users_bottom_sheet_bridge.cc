@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments churned users bottom sheet bridge implementation
+// summary: Implements the JNI bridge that shows the Payments churned users bottom sheet on Android and reports the closed reason back via callback.
+// ---
+
 #include "chrome/browser/ui/android/autofill/autofill_payments_churned_users_bottom_sheet_bridge.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OTP verification dialog view Android implementation
+// summary: Android implementation of the OTP verification dialog for card unmasking, bridging controller actions to the Java dialog via JNI.
+// ---
+
 #include "chrome/browser/ui/android/autofill/otp_verification_dialog_view_android.h"
 
 #include "base/android/jni_android.h"

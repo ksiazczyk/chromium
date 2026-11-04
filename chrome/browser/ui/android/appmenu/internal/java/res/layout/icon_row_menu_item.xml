@@ -4,6 +4,13 @@ Copyright 2016 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Icon row menu item layout
+summary: Android layout showing a row of five evenly distributed Material action buttons for the app menu.
+-->
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaymentsWindowBridge unit tests
+// summary: Unit tests using a mock PaymentsWindowDelegate to verify the bridge forwards navigation finished, web contents observation, destruction, and user denial callbacks.
+// ---
+
 #include "chrome/browser/ui/android/autofill/payments/payments_window_bridge.h"
 
 #include <memory>
