@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Existing user controller browser tests
+// summary: Browser tests covering the existing-user login flow, including session restore, policies, OOBE screens and sign-in behavior on ChromeOS.
+// ---
+
 #include "chrome/browser/ash/login/existing_user_controller.h"
 
 #include <string>

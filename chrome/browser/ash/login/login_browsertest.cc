@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login flow browser tests
+// summary: Browser tests covering login flows including offline login, guest sessions, policy handling, and login screen UI behavior.
+// ---
+
 #include <string>
 
 #include "ash/constants/ash_features.h"

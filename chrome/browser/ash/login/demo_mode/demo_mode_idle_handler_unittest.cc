@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Demo Mode idle handler unit tests
+// summary: Unit tests for the demo mode idle handler, covering idle resets, wallpaper and pref restoration, file cleanup and logout timers with mock time.
+// ---
+
 #include "chrome/browser/ash/login/demo_mode/demo_mode_idle_handler.h"
 
 #include "ash/clipboard/clipboard_history_controller_impl.h"

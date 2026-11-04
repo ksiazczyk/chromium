@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Factory for the content script manager service
+// summary: Implements the ProfileKeyedServiceFactory that creates the content script manager only for the sign-in profile and starts it with the browser context.
+// ---
+
 #include "chrome/browser/ash/login/extensions/login_screen_extensions_content_script_manager_factory.h"
 
 #include "chrome/browser/ash/login/extensions/login_screen_extensions_content_script_manager.h"

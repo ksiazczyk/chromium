@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo system info dispatcher for the login screen
+// summary: Header for MojoSystemInfoDispatcher, which fetches OS version, enterprise, device, and ADB sideload info and sends it to the login screen over Mojo.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_MOJO_SYSTEM_INFO_DISPATCHER_H_
 #define CHROME_BROWSER_ASH_LOGIN_MOJO_SYSTEM_INFO_DISPATCHER_H_
 

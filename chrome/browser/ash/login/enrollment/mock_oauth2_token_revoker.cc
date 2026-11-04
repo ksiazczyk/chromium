@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock OAuth2 token revoker implementation
+// summary: Implements the MockOAuth2TokenRevoker constructor and destructor for use in tests.
+// ---
+
 #include "chrome/browser/ash/login/enrollment/mock_oauth2_token_revoker.h"
 
 namespace ash {

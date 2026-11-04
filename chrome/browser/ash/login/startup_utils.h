@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup utilities header
+// summary: Declares static StartupUtils methods for reading and updating device startup state, including EULA acceptance, OOBE completion, locale and registration.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_STARTUP_UTILS_H_
 #define CHROME_BROWSER_ASH_LOGIN_STARTUP_UTILS_H_
 

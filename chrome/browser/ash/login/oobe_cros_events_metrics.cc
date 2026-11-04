@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOBE structured CrOS events metrics
+// summary: Records structured metrics events for pre-login OOBE and onboarding start, completion, resume, device registration, and Gaia sign-in flows.
+// ---
+
 #include "chrome/browser/ash/login/oobe_cros_events_metrics.h"
 
 #include <utility>

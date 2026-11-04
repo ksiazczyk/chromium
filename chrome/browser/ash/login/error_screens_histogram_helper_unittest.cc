@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Error screens histogram helper unit tests
+// summary: Unit tests verifying that the error screens histogram helper records error counts and time-on-screen histograms correctly.
+// ---
+
 #include "chrome/browser/ash/login/error_screens_histogram_helper.h"
 
 #include <memory>

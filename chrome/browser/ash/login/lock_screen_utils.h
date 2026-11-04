@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock screen input method utilities header
+// summary: Declares helpers for setting user input methods, enforcing device policy input methods, and converting locale lists on the lock screen.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_LOCK_SCREEN_UTILS_H_
 #define CHROME_BROWSER_ASH_LOGIN_LOCK_SCREEN_UTILS_H_
 

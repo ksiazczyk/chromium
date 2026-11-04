@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for kiosk app mode login tests
+summary: Defines the test_support static library and browser_tests target for Ash kiosk app mode login tests.

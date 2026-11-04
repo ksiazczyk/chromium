@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Startup utilities unit tests
+// summary: Unit tests for StartupUtils, verifying that marking a device registered deletes the Flex enrollment token from the OOBE configuration.
+// ---
+
 #include "chrome/browser/ash/login/startup_utils.h"
 
 #include "base/check_deref.h"

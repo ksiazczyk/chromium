@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup settings cache header
+// summary: Declares ReadAppLocale and WriteAppLocale, which cache the app locale in a JSON file so the zygote can load it before local state.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOCALE_STARTUP_SETTINGS_CACHE_H_
 #define CHROME_BROWSER_ASH_LOCALE_STARTUP_SETTINGS_CACHE_H_
 

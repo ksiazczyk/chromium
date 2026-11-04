@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the ash login auth static library
+summary: GN build file defining the auth static library with the Chrome login performer and safe mode delegate sources plus their public and private dependencies.

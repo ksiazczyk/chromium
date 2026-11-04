@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signin specifics struct
+// summary: Defines a struct carrying sign-in flow parameters such as the guest mode URL and auto-login flag that do not fit in UserContext.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SIGNIN_SPECIFICS_H_
 #define CHROME_BROWSER_ASH_LOGIN_SIGNIN_SPECIFICS_H_
 

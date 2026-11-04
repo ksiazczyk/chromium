@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enrollment screen browser tests
+// summary: Browser tests for the enterprise enrollment screen covering OOBE UI flows such as skip confirmation dialogs and TPM check cancellation.
+// ---
+
 #include "chrome/browser/ash/login/enrollment/enrollment_screen.h"
 
 #include <optional>

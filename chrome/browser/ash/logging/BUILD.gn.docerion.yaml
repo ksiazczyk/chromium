@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the Ash logging library
+summary: Defines the logging static library and the browser_tests source set with their sources and dependencies for the Ash logging directory.

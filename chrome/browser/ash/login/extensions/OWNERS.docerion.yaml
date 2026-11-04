@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS delegating to the login screen extensions owners
+summary: Points to the OWNERS file of chrome/browser/chromeos/extensions/login_screen to define approvers for this directory.

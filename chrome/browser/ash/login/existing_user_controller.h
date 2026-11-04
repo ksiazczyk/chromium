@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Existing user controller class declaration
+// summary: Declares ExistingUserController, which manages sign-in of already known users and is owned by the login display host.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_EXISTING_USER_CONTROLLER_H_
 #define CHROME_BROWSER_ASH_LOGIN_EXISTING_USER_CONTROLLER_H_
 

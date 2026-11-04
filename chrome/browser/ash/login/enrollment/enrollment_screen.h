@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EnrollmentScreen class declaration
+// summary: Declares the EnrollmentScreen class that links the enterprise enrollment UI into the OOBE wizard, defining results, callbacks and enrollment configuration handling.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_ENROLLMENT_ENROLLMENT_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_ENROLLMENT_ENROLLMENT_SCREEN_H_
 

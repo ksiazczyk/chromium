@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the login screen extensions content script manager
+// summary: Declares the LoginScreenExtensionsContentScriptManager KeyedService that observes the extension registry to block disallowed content scripts.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_EXTENSIONS_LOGIN_SCREEN_EXTENSIONS_CONTENT_SCRIPT_MANAGER_H_
 #define CHROME_BROWSER_ASH_LOGIN_EXTENSIONS_LOGIN_SCREEN_EXTENSIONS_CONTENT_SCRIPT_MANAGER_H_
 

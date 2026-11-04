@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth2 token revoker
+// summary: Declares OAuth2TokenRevoker and its base interface for revoking OAuth2 tokens via Gaia during enrollment.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_ENROLLMENT_OAUTH2_TOKEN_REVOKER_H_
 #define CHROME_BROWSER_ASH_LOGIN_ENROLLMENT_OAUTH2_TOKEN_REVOKER_H_
 

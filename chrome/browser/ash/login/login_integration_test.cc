@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login integration test
+// summary: Crosier integration test that logs in and verifies the primary user session starts with cryptohome mounted, including a disabled Gaia login case.
+// ---
+
 #include <string>
 #include <vector>
 

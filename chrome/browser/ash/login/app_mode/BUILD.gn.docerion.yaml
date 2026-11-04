@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: App mode build configuration
+summary: Defines the app_mode static library target plus unit test and browser test targets, listing their sources and build dependencies.

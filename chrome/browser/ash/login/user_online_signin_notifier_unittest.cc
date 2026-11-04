@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UserOnlineSigninNotifier unit tests
+// summary: Unit tests verifying that the SAMLOfflineSigninTimeLimit policy triggers online sign-in enforcement and timer scheduling for SAML and non-SAML users.
+// ---
+
 #include "chrome/browser/ash/login/user_online_signin_notifier.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login client certificate usage observer implementation
+// summary: Implements an observer that tracks client certificates used during sign-in to support offline challenge-response authentication.
+// ---
+
 #include "chrome/browser/ash/login/login_client_cert_usage_observer.h"
 
 #include <cstdint>

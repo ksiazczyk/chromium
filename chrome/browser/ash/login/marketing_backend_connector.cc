@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Marketing backend connector implementation
+// summary: Implements the connector that calls the Chromebook email preferences API to subscribe users to marketing campaigns from the OOBE marketing opt-in screen.
+// ---
+
 #include "chrome/browser/ash/login/marketing_backend_connector.h"
 
 #include <cstddef>

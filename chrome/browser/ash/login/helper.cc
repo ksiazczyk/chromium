@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login helper implementation
+// summary: Implements helper functions for ChromeOS login, including screen bounds, risky policy and proxy checks, and sign-in partition access.
+// ---
+
 #include "chrome/browser/ash/login/helper.h"
 
 #include <memory>

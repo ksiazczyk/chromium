@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise kiosk input API browser tests
+// summary: Browser tests for the chrome.enterprise.kioskInput API using a force-installed extension to switch input methods in kiosk sessions.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkUiController class header for kiosk app launch network UI
+// summary: Declares the NetworkUiController class that manages showing and closing the network configuration UI, monitors connectivity, and notifies observers during ChromeOS kiosk app launch.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_APP_MODE_NETWORK_UI_CONTROLLER_H_
 #define CHROME_BROWSER_ASH_LOGIN_APP_MODE_NETWORK_UI_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise enrollment browser test
+// summary: Browser tests for the enterprise enrollment flow, submitting enrollment credentials and completing device enrollment while checking the enrollment UI.
+// ---
+
 #include "base/base64.h"
 #include "base/functional/bind.h"
 #include "base/json/json_reader.h"

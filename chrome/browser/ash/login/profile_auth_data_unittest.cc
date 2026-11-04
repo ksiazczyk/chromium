@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile auth data unit test
+// summary: Unit tests verifying transfer of GAIA and SAML cookies and proxy authentication entries between storage partitions.
+// ---
+
 #include "chrome/browser/ash/login/profile_auth_data.h"
 
 #include <memory>

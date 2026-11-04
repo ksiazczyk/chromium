@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock auto enrollment check screen implementation
+// summary: Implements mock screen and view classes for the auto enrollment check screen, providing controllable show and exit behavior for tests.
+// ---
+
 #include "chrome/browser/ash/login/enrollment/mock_auto_enrollment_check_screen.h"
 
 namespace ash {

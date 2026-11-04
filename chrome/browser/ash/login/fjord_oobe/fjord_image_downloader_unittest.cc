@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FjordImageDownloader unit tests
+// summary: Tests image download success, failure and already-on-image paths using fake D-Bus clients and histogram assertions.
+// ---
+
 #include "chrome/browser/ash/login/fjord_oobe/fjord_image_downloader.h"
 
 #include "base/functional/callback.h"

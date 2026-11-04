@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the content script manager factory
+// summary: Declares the LoginScreenExtensionsContentScriptManagerFactory ProfileKeyedServiceFactory and its per-profile access method.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_EXTENSIONS_LOGIN_SCREEN_EXTENSIONS_CONTENT_SCRIPT_MANAGER_FACTORY_H_
 #define CHROME_BROWSER_ASH_LOGIN_EXTENSIONS_LOGIN_SCREEN_EXTENSIONS_CONTENT_SCRIPT_MANAGER_FACTORY_H_
 

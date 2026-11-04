@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signin partition manager unit tests
+// summary: Unit tests for the sign-in storage partition manager, covering partition naming and HTTP auth cache isolation between embedder and sign-in contexts.
+// ---
+
 #include "chrome/browser/ash/login/signin_partition_manager.h"
 
 #include <memory>

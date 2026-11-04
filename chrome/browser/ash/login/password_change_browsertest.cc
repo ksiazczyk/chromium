@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password change login browser test
+// summary: Browser tests covering password change and reauthentication flows on the ChromeOS login screen, including Gaia dialogs and token handles.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

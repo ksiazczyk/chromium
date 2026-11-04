@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enrollment screen implementation
+// summary: Implements the enterprise enrollment screen that links the enrollment UI into the OOBE wizard, handling enrollment flow, retries, TPM checks and UMA timing metrics.
+// ---
+
 #include "chrome/browser/ash/login/enrollment/enrollment_screen.h"
 
 #include <memory>

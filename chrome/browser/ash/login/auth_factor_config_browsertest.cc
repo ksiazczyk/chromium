@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Auth factor configuration browser test
+// summary: Browser test for configuring and editing auth factors such as Gaia and local passwords and cryptohome PINs.
+// ---
+
 #include <optional>
 
 #include "ash/constants/ash_features.h"

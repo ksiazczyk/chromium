@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Managed guest session test mixin header
+// summary: Declares a browser test mixin that enrolls a device and configures policies for a Managed Guest Session, exposing the policy builder and account ID.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_APP_MODE_TEST_MANAGED_GUEST_SESSION_MIXIN_H_
 #define CHROME_BROWSER_ASH_LOGIN_APP_MODE_TEST_MANAGED_GUEST_SESSION_MIXIN_H_
 

@@ -4,6 +4,12 @@
 //
 // This file contains helper functions used by Chromium OS login.
 
+// ---docerion
+// type: source
+// title: Login helper header
+// summary: Declares helper functions and classes used by ChromeOS login, such as screen bounds, user image size, network state helpers and webview login utilities.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_HELPER_H_
 #define CHROME_BROWSER_ASH_LOGIN_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login after update to Flex browser tests
+// summary: Browser tests checking consolidated consent and hardware data collection screens shown to device owners and users after updating to ChromeOS Flex.
+// ---
+
 #include <memory>
 
 #include "ash/constants/ash_login_pref_names.h"

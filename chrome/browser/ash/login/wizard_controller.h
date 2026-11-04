@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WizardController class declaration
+// summary: Declares WizardController, which manages OOBE screen progression and holds the screen instances for ChromeOS login and out-of-box experience flows.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_WIZARD_CONTROLLER_H_
 #define CHROME_BROWSER_ASH_LOGIN_WIZARD_CONTROLLER_H_
 

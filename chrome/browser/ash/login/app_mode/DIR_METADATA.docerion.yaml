@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: App mode directory metadata
+summary: Points to the shared app_mode COMMON_METADATA mixins that provide metadata for this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOBE configuration class declaration
+// summary: Declares the OobeConfiguration singleton that stores device OOBE configuration and notifies observers when the configuration check completes or changes.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_OOBE_CONFIGURATION_H_
 #define CHROME_BROWSER_ASH_LOGIN_OOBE_CONFIGURATION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login wizard declarations
+// summary: Declares ShowLoginWizard to launch the ChromeOS out-of-box and login UI and a helper to switch the display host from WebUI to Mojo.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_LOGIN_WIZARD_H_
 #define CHROME_BROWSER_ASH_LOGIN_LOGIN_WIZARD_H_
 

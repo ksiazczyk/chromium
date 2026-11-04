@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local auth factors policy controller factory implementation
+// summary: Implements the profile-keyed factory that builds the policy controller only for enterprise-managed users.
+// ---
+
 #include "chrome/browser/ash/login/auth_factors_policy/local_auth_factors_policy_controller_factory.h"
 
 #include "base/check_deref.h"

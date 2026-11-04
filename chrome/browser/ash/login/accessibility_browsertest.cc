@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Docked magnifier and virtual keyboard login test
+// summary: Browser test checking how the docked magnifier and virtual keyboard adjust the OOBE welcome screen bounds.
+// ---
+
 #include "ash/accessibility/magnifier/docked_magnifier_controller.h"
 #include "ash/login/resources/grit/ash_login_strings.h"
 #include "ash/public/cpp/keyboard/keyboard_controller.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ash sign-out accelerator test helper header
+// summary: Declares PressSignOutAccelerator, a test helper that simulates the Ash sign-out accelerator.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_APP_MODE_TEST_ASH_ACCELERATOR_HELPERS_H_
 #define CHROME_BROWSER_ASH_LOGIN_APP_MODE_TEST_ASH_ACCELERATOR_HELPERS_H_
 

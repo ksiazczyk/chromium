@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Error screen browser tests
+// summary: Browser tests covering the login and OOBE error screen, including network error handling, kiosk launch errors, and offline login or guest signin links.
+// ---
+
 #include "chrome/browser/ash/login/screens/error_screen.h"
 
 #include <string_view>

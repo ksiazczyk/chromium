@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Managed guest session test mixin implementation
+// summary: Implements a browser test mixin that enrolls a device and applies device-local account policies to configure a Managed Guest Session.
+// ---
+
 #include "chrome/browser/ash/login/app_mode/test/managed_guest_session_mixin.h"
 
 #include "base/no_destructor.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gaia reauth token fetcher unit tests
+// summary: Unit tests verifying successful and failed reauth token fetches, covering timeouts, HTTP errors, invalid JSON and fetch duration metrics.
+// ---
+
 #include "chrome/browser/ash/login/gaia_reauth_token_fetcher.h"
 
 #include <string>

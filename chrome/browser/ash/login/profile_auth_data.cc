@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile auth data transfer implementation
+// summary: Transfers authentication cookies and proxy auth cache from the login storage partition to the user's profile after sign-in.
+// ---
+
 #include "chrome/browser/ash/login/profile_auth_data.h"
 
 #include "ash/constants/ash_features.h"

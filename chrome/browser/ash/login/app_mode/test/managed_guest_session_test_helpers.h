@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Managed guest session test helper declarations
+// summary: Declares helpers for appending an auto-launch managed guest session account to policy and for launching or waiting for the session in tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_APP_MODE_TEST_MANAGED_GUEST_SESSION_TEST_HELPERS_H_
 #define CHROME_BROWSER_ASH_LOGIN_APP_MODE_TEST_MANAGED_GUEST_SESSION_TEST_HELPERS_H_
 

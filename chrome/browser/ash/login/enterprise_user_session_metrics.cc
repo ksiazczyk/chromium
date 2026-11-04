@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise user session metrics
+// summary: Implements storing and reporting session length metrics for regular and public sessions on enterprise-managed devices, including demo mode session lengths.
+// ---
+
 #include "chrome/browser/ash/login/enterprise_user_session_metrics.h"
 
 #include <algorithm>

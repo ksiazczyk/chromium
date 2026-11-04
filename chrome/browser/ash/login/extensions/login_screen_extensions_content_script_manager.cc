@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login screen extensions content script manager implementation
+// summary: Implements checks on loaded login screen extensions and disables any whose content scripts match URLs outside the allowlisted Imprivata IDP URL.
+// ---
+
 #include "chrome/browser/ash/login/extensions/login_screen_extensions_content_script_manager.h"
 
 #include "base/check.h"

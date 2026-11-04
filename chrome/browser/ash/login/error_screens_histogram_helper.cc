@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Error screens histogram helper implementation
+// summary: Implements UMA histogram recording for OOBE error screens, counting shown network errors and time spent on error screens per parent screen.
+// ---
+
 #include "chrome/browser/ash/login/error_screens_histogram_helper.h"
 
 #include "base/metrics/histogram_macros.h"

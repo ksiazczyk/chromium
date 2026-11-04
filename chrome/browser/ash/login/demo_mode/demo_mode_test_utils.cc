@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Demo Mode test utilities implementation
+// summary: Implements test utilities that mock demo mode enrollment outcomes, create dummy offline policy directories and lock install attributes for enterprise-managed demo devices.
+// ---
+
 #include "chrome/browser/ash/login/demo_mode/demo_mode_test_utils.h"
 
 #include <string_view>

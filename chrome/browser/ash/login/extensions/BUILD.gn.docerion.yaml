@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the login screen extensions library
+summary: Defines the GN static library target for login screen extension managers and a separate browser test target, listing sources and dependencies.

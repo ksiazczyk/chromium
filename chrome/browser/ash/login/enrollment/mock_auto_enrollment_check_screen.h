@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock auto enrollment check screen declarations
+// summary: Declares mock classes for the auto enrollment check screen and its view, used to stub screen behavior in tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_ENROLLMENT_MOCK_AUTO_ENROLLMENT_CHECK_SCREEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_ENROLLMENT_MOCK_AUTO_ENROLLMENT_CHECK_SCREEN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickStart controller implementation
+// summary: Implements the QuickStartController that orchestrates the QuickStart OOBE flow, including Bluetooth state handling, entry points from various screens, and UI state transitions.
+// ---
+
 #include "chrome/browser/ash/login/quickstart_controller.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Fjord OOBE proto library
+summary: GN build file defining the proto_library target that compiles fjord_oobe_state.proto for ChromeOS.

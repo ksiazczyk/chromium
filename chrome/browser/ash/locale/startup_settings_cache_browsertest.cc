@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Startup settings cache browser test
+// summary: Browser test regression check that the renderer uses the cached locale, verifying a localized Spanish file chooser button.
+// ---
+
 #include "chrome/browser/ash/locale/startup_settings_cache.h"
 
 #include "chrome/browser/profiles/profile.h"

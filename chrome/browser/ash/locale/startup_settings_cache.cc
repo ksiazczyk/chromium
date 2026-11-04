@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup settings cache implementation
+// summary: Implements reading and writing the application locale to a JSON cache file that the zygote reads at startup.
+// ---
+
 #include "chrome/browser/ash/locale/startup_settings_cache.h"
 
 #include <string>

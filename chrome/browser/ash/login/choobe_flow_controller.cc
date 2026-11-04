@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CHOOBE flow controller implementation
+// summary: Implements the CHOOBE onboarding flow that lets users choose which optional OOBE screens to go through.
+// ---
+
 #include "chrome/browser/ash/login/choobe_flow_controller.h"
 
 #include <vector>

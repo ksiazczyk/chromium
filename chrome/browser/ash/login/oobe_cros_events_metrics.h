@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOBE structured CrOS events metrics header
+// summary: Declares OobeCrosEventsMetrics, an OobeMetricsHelper observer that records structured events for OOBE and onboarding lifecycle milestones.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_OOBE_CROS_EVENTS_METRICS_H_
 #define CHROME_BROWSER_ASH_LOGIN_OOBE_CROS_EVENTS_METRICS_H_
 

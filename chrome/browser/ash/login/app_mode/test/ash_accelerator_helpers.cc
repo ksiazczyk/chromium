@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ash sign-out accelerator test helper implementation
+// summary: Implements a helper that presses the Ctrl+Shift+Q sign-out accelerator through the Ash accelerator controller.
+// ---
+
 #include "chrome/browser/ash/login/app_mode/test/ash_accelerator_helpers.h"
 
 #include "ash/accelerators/accelerator_controller_impl.h"

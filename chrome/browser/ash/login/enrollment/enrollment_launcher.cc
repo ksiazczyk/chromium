@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enrollment launcher implementation
+// summary: Implements device enterprise enrollment using auth codes or OAuth tokens, including attestation flows, token fetching, and token revocation.
+// ---
+
 #include "chrome/browser/ash/login/enrollment/enrollment_launcher.h"
 
 #include <memory>

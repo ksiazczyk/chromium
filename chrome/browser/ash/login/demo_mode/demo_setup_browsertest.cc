@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Demo setup browser tests
+// summary: Browser tests for the demo mode setup flow, covering OOBE screens, enrollment, and network handling.
+// ---
+
 #include <array>
 #include <string>
 #include <string_view>

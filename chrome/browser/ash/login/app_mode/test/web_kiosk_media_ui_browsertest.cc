@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web Kiosk media UI browser test
+// summary: Browser test verifying that the ash media tray stays pinned to the shelf in an auto-launched web Kiosk session when a media presentation dialog is shown.
+// ---
+
 #include <memory>
 #include <vector>
 

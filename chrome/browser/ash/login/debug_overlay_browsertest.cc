@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Debug overlay browser test
+// summary: Browser tests for the OOBE debug overlay, checking hide and show behavior and the expected number of screen buttons in OOBE and on the login screen.
+// ---
+
 #include "ash/constants/ash_features.h"
 #include "ash/constants/ash_switches.h"
 #include "ash/public/cpp/login_screen_test_api.h"

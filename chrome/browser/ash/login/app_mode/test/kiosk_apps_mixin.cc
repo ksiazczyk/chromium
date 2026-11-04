@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk apps test mixin implementation
+// summary: Implements KioskAppsMixin helpers that configure kiosk and web kiosk accounts in device policy and serve test apps via a fake CWS.
+// ---
+
 #include "chrome/browser/ash/login/app_mode/test/kiosk_apps_mixin.h"
 
 #include "ash/public/cpp/login_screen_test_api.h"

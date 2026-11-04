@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enrollment screen unit tests
+// summary: Unit tests for EnrollmentScreen using mock launcher, error screen and OAuth2 token revoker to verify enrollment behavior across configurations.
+// ---
+
 #include "chrome/browser/ash/login/enrollment/enrollment_screen.h"
 
 #include <memory>

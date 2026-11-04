@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Marketing backend connector class declaration
+// summary: Declares MarketingBackendConnector, which updates Chromebook email preferences on the marketing opt-in screen and reports backend events for UMA.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_MARKETING_BACKEND_CONNECTOR_H_
 #define CHROME_BROWSER_ASH_LOGIN_MARKETING_BACKEND_CONNECTOR_H_
 

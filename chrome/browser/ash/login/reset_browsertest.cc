@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reset screen browser test
+// summary: Browser tests for the OOBE reset screen covering powerwash confirmation dialogs, TPM firmware update option, cancel flows, and restart behavior.
+// ---
+
 #include <string>
 
 #include "ash/constants/ash_pref_names.h"

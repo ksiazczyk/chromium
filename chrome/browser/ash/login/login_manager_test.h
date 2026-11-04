@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login manager test base header
+// summary: Declares the LoginManagerTest base class with methods to register users, create user contexts, and log in or add users during login tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_LOGIN_MANAGER_TEST_H_
 #define CHROME_BROWSER_ASH_LOGIN_LOGIN_MANAGER_TEST_H_
 

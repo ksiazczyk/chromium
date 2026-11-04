@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Demo Mode test helper class
+// summary: Declares DemoModeTestHelper, a utility that creates a test environment supporting demo mode sessions with fake, pending or failing resources components.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_DEMO_MODE_DEMO_MODE_TEST_HELPER_H_
 #define CHROME_BROWSER_ASH_LOGIN_DEMO_MODE_DEMO_MODE_TEST_HELPER_H_
 

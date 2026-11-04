@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Enrollment directory build targets (BUILD.gn)
+summary: Defines the enrollment static library, test support mocks, and browser test targets together with their GN dependencies.

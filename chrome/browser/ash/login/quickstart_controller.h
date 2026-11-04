@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickStart controller header
+// summary: Declares the QuickStartController, the main orchestrator of the QuickStart flow in OOBE, with its controller states, UI delegate interface, and user info struct.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_QUICKSTART_CONTROLLER_H_
 #define CHROME_BROWSER_ASH_LOGIN_QUICKSTART_CONTROLLER_H_
 

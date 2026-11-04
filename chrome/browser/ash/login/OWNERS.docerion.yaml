@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the login directory
+summary: Lists directory owners and per-file owner rules that delegate review to specialized login component teams.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login authentication flows UI test
+// summary: UI test base covering login authentication flows with Gaia and local passwords, PINs, and recovery factors.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

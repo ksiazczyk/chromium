@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk session accelerator browser tests
+// summary: Browser tests verifying accelerator behavior in Web Kiosk sessions, such as blocked close and sign-out accelerators and zoom handling.
+// ---
+
 #include "base/run_loop.h"
 #include "base/test/run_until.h"
 #include "chrome/browser/app_mode/test/accelerator_helpers.h"

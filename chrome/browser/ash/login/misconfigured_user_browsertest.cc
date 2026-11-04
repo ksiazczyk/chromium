@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Misconfigured user browser test
+// summary: Browser test verifying handling of incomplete or misconfigured user accounts during login and user creation.
+// ---
+
 #include <memory>
 #include <optional>
 #include <utility>

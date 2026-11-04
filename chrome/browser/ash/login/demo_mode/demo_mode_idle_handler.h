@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Demo Mode idle handler class
+// summary: Declares DemoModeIdleHandler, which observes user activity and resets device state, closes windows and cleans up files when a demo device becomes idle.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_DEMO_MODE_DEMO_MODE_IDLE_HANDLER_H_
 #define CHROME_BROWSER_ASH_LOGIN_DEMO_MODE_DEMO_MODE_IDLE_HANDLER_H_
 

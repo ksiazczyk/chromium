@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for fjord_oobe
+summary: Defines the fjord_oobe static library and its unit test source set, listing source files and build dependencies.

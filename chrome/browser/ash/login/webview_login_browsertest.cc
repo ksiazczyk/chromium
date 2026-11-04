@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webview login browser tests
+// summary: Browser tests covering GAIA webview login flows on ChromeOS, including SAML reauth, Quick Start, sign-in partitions and related login screen behavior.
+// ---
+
 #include <initializer_list>
 #include <iterator>
 #include <memory>

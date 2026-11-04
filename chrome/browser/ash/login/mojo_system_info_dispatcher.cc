@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo system info dispatcher implementation
+// summary: Updates the login screen system info panel with OS version, enterprise and asset info, Bluetooth name, and ADB sideloading status.
+// ---
+
 #include "chrome/browser/ash/login/mojo_system_info_dispatcher.h"
 
 #include "ash/login/resources/grit/ash_login_strings.h"

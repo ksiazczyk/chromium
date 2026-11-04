@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Demo session class declaration
+// summary: Declares DemoSession, which tracks demo session state such as demo mode configuration and resource availability.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_DEMO_MODE_DEMO_SESSION_H_
 #define CHROME_BROWSER_ASH_LOGIN_DEMO_MODE_DEMO_SESSION_H_
 

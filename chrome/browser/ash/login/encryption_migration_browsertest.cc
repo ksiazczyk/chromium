@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Encryption migration browser test
+// summary: Browser tests for the encryption migration screen during sign-in, covering ready, migrating, error, and insufficient-space dialogs plus skip and restart actions.
+// ---
+
 #include <optional>
 #include <string>
 

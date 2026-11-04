@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OOBE pre-choice metrics browser test
+// summary: Browser test verifying pre-consent metrics collection during OOBE flows including consent, sync, and marketing opt-in screens.
+// ---
+
 #include "ash/constants/ash_features.h"
 #include "ash/constants/ash_login_pref_names.h"
 #include "ash/public/cpp/login_screen_test_api.h"

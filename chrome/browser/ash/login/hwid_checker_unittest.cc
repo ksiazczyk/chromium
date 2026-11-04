@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HWID checker unit tests
+// summary: Unit tests verifying HWID format validation for empty, v2, v3, exceptional, and malformed HWID strings.
+// ---
+
 #include "chrome/browser/ash/login/hwid_checker.h"
 
 #include "base/system/sys_info.h"

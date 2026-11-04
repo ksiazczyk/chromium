@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network UI controller implementation
+// summary: Implements network configuration UI handling during kiosk launch, including network wait timers and offline prompting behavior.
+// ---
+
 #include "chrome/browser/ash/login/app_mode/network_ui_controller.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Error screens histogram helper header
+// summary: Declares ErrorScreensHistogramHelper, which tracks how long users spend on the error screen and records OOBE network error histograms.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_ERROR_SCREENS_HISTOGRAM_HELPER_H_
 #define CHROME_BROWSER_ASH_LOGIN_ERROR_SCREENS_HISTOGRAM_HELPER_H_
 

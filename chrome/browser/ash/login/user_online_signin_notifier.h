@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserOnlineSigninNotifier class declaration
+// summary: Declares UserOnlineSigninNotifier, which checks when online sign-in conditions are met for login screen pods and notifies observers, driven by the SAMLOfflineSigninTimeLimit policy.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_USER_ONLINE_SIGNIN_NOTIFIER_H_
 #define CHROME_BROWSER_ASH_LOGIN_USER_ONLINE_SIGNIN_NOTIFIER_H_
 

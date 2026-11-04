@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen manager implementation
+// summary: Implements the ScreenManager that stores OOBE screen instances and provides lookup by screen ID or name, plus test hooks for setting and deleting screens.
+// ---
+
 #include "chrome/browser/ash/login/screen_manager.h"
 
 #include <iostream>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enrollment UMA logging declarations
+// summary: Declares functions that log enrollment UMA histograms chosen by enrollment mode and token-based enrollment OOBE config success events.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_ENROLLMENT_ENROLLMENT_UMA_H_
 #define CHROME_BROWSER_ASH_LOGIN_ENROLLMENT_ENROLLMENT_UMA_H_
 

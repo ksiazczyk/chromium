@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeLoginPerformer implementation
+// summary: Implements Chrome-specific login logic including trusted settings checks, user allowlisting, wildcard login checks and early prefs loading.
+// ---
+
 #include "chrome/browser/ash/login/auth/chrome_login_performer.h"
 
 #include <memory>

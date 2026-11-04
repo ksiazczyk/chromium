@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceMaxUserProfiles browser test
+// summary: Integration browser test verifying that the DeviceMaxUserProfiles policy trims excess least-recently-used user profiles on the login screen.
+// ---
+
 #include <vector>
 
 #include "ash/public/cpp/login_screen_test_api.h"

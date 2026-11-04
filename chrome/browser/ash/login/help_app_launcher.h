@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Help app launcher header
+// summary: Declares HelpAppLauncher and the IDs of help topics available during OOBE and login, such as EULA, enterprise and powerwash help.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_HELP_APP_LAUNCHER_H_
 #define CHROME_BROWSER_ASH_LOGIN_HELP_APP_LAUNCHER_H_
 

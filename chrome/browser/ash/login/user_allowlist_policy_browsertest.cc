@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User allowlist policy browser tests
+// summary: Browser tests for the DeviceUserAllowlist policy, checking that users are signed out when the allowlist changes to exclude them.
+// ---
+
 #include <memory>
 
 #include "chrome/browser/ash/login/login_manager_test.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Timebound user context holder
+// summary: Declares a holder that keeps a UserContext for ten minutes and revokes its tokens when it expires or is consumed.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_ENROLLMENT_TIMEBOUND_USER_CONTEXT_HOLDER_H_
 #define CHROME_BROWSER_ASH_LOGIN_ENROLLMENT_TIMEBOUND_USER_CONTEXT_HOLDER_H_
 

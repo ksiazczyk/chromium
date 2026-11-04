@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FjordImageDownloader implementation
+// summary: Implements image switching on Fjord devices via the dissidia D-Bus service, mapping update statuses and error codes to histogram results.
+// ---
+
 #include "chrome/browser/ash/login/fjord_oobe/fjord_image_downloader.h"
 
 #include <utility>

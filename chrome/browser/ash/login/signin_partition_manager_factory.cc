@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in storage partition manager factory implementation
+// summary: Implements the profile-keyed service factory that creates sign-in partition managers wired to the system network context.
+// ---
+
 #include "chrome/browser/ash/login/signin_partition_manager_factory.h"
 
 #include <memory>

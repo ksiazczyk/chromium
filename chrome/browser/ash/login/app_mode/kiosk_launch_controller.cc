@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk launch controller implementation
+// summary: Implements the kiosk launch flow, coordinating profile loading, app installation, network readiness, splash screen timing, and app launch.
+// ---
+
 #include "chrome/browser/ash/login/app_mode/kiosk_launch_controller.h"
 
 #include <memory>

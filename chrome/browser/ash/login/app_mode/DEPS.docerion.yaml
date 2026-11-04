@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: App mode include dependency rules
+summary: Sets include rules for the directory, restricting //chrome dependencies and granting test-only exceptions for specific files.

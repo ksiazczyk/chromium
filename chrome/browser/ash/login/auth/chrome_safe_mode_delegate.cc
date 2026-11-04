@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeSafeModeDelegate implementation
+// summary: Implements safe mode detection via policy settings and asynchronous ownership checks for safe mode logins.
+// ---
+
 #include "chrome/browser/ash/login/auth/chrome_safe_mode_delegate.h"
 
 #include "chrome/browser/ash/ownership/owner_settings_service_ash.h"

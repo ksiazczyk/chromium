@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the login auth directory
+summary: Restricts ChromeOS code from depending on //chrome and lists the allowed chrome/browser/ash login, ownership and policy includes for this directory.

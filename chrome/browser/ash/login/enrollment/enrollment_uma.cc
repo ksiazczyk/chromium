@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enrollment UMA logging implementation
+// summary: Logs enrollment UMA histogram events, selecting the appropriate Enterprise.Enrollment histogram based on the enrollment configuration mode.
+// ---
+
 #include "chrome/browser/ash/login/enrollment/enrollment_uma.h"
 
 #include "base/metrics/histogram_functions.h"

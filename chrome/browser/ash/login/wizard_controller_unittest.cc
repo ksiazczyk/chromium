@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wizard controller unit tests
+// summary: Unit tests for the ChromeOS Ash login wizard controller, exercising OOBE flows, kiosk, enrollment, and device settings behavior using fakes, mocks, and scoped test helpers.
+// ---
+
 #include "chrome/browser/ash/login/wizard_controller.h"
 
 #include <memory>

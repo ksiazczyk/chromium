@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Demo session browser tests
+// summary: Browser tests covering demo mode session behavior, including resources, app launching, and idle handling.
+// ---
+
 #include "chrome/browser/ash/login/demo_mode/demo_session.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile auth data transfer header
+// summary: Declares ProfileAuthData, which moves proxy auth state and GAIA or SAML cookies from the login partition to the user profile.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_PROFILE_AUTH_DATA_H_
 #define CHROME_BROWSER_ASH_LOGIN_PROFILE_AUTH_DATA_H_
 

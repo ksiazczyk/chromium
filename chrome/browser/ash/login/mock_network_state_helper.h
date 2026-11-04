@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock network state helper declaration
+// summary: Declares a gmock mock of NetworkStateHelper providing stubbed network status methods for login and OOBE tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_MOCK_NETWORK_STATE_HELPER_H_
 #define CHROME_BROWSER_ASH_LOGIN_MOCK_NETWORK_STATE_HELPER_H_
 

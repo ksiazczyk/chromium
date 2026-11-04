@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Enrollment directory include rules (DEPS)
+summary: Bans //chrome includes for ChromeOS code, lists allowed enrollment dependencies, and grants extra includes to specific test files.

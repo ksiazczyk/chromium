@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login UI shelf visibility browser test
+// summary: Browser test checking shelf button visibility during login, user adding, and OS install onboarding flows.
+// ---
+
 #include "ash/constants/ash_switches.h"
 #include "ash/public/cpp/login_screen_test_api.h"
 #include "chrome/browser/ash/login/app_mode/test/kiosk_apps_mixin.h"

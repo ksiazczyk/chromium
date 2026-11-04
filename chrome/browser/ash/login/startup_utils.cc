@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup utilities implementation
+// summary: Implements startup helpers that persist OOBE, EULA, device registration and locale state in local prefs and manage the .oobe_completed flag file.
+// ---
+
 #include "chrome/browser/ash/login/startup_utils.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enrollment nudge browser test
+// summary: Browser tests for the enterprise enrollment nudge dialog on the GAIA sign-in screen, checking dialog behavior and recorded user action histograms.
+// ---
+
 #include "ash/constants/ash_features.h"
 #include "base/strings/strcat.h"
 #include "base/test/metrics/histogram_tester.h"

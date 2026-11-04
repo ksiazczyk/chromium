@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen manager header
+// summary: Declares the ScreenManager class that manages creation and ownership of OOBE screens and exposes getters and testing helpers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SCREEN_MANAGER_H_
 #define CHROME_BROWSER_ASH_LOGIN_SCREEN_MANAGER_H_
 
