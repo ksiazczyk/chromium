@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OOBE Quick Start OWNERS file
+summary: Redirects ownership of this directory to the QUICKSTART_OWNERS file.

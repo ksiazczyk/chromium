@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KnowledgeFactorHashInfoMigration class header
+// summary: Declares a migration that checks whether knowledge factors (PIN and password) have hash information in their metadata and updates it if not.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_OSAUTH_KNOWLEDGE_FACTOR_HASH_INFO_MIGRATION_H_
 #define CHROME_BROWSER_ASH_LOGIN_OSAUTH_KNOWLEDGE_FACTOR_HASH_INFO_MIGRATION_H_
 

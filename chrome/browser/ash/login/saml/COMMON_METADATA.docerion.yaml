@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common metadata for the SAML login directory
+summary: Declares Buganizer component IDs, team email and OS metadata for the SAML third-party IdP directory.

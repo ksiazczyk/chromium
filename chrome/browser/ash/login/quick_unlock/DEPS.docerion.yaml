@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the quick_unlock directory
+summary: Sets DEPS include rules that block //chrome dependencies by default, allow the directory's own headers, and list narrow exceptions.

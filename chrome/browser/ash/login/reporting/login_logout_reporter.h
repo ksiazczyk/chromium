@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login/logout event reporter class declaration
+// summary: Declares LoginLogoutReporter with a delegate for the last login attempt account, preference registration, and session event reporting hooks.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_REPORTING_LOGIN_LOGOUT_REPORTER_H_
 #define CHROME_BROWSER_ASH_LOGIN_REPORTING_LOGIN_LOGOUT_REPORTER_H_
 

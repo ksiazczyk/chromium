@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connection implementation for Quick Start sessions
+// summary: Implements the Connection class that drives message exchange, authentication, and metrics over the Nearby connection.
+// ---
+
 #include "chrome/browser/ash/login/oobe_quick_start/connectivity/connection.h"
 
 #include <array>

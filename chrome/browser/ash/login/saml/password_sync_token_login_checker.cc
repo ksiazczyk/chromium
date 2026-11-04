@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password sync token login checker implementation
+// summary: Implements periodic verification of the stored password sync token, forcing online re-signin and notifying observers when the token is invalid.
+// ---
+
 #include "chrome/browser/ash/login/saml/password_sync_token_login_checker.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the online reauth library and unit tests
+summary: Defines the online_reauth static library and its unit test source set, listing sources and dependencies for the lock screen reauth component.

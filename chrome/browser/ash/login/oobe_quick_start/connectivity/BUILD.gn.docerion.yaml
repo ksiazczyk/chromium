@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for Quick Start connectivity
+summary: GN build configuration defining the connectivity static library, test support, and unit test targets for Quick Start.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickUnlockFactory
+// summary: Implements the profile-keyed factory that owns QuickUnlockStorage instances per profile and exposes a delegate for auth factor configuration.
+// ---
+
 #include "chrome/browser/ash/login/quick_unlock/quick_unlock_factory.h"
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick unlock utilities header for ChromeOS Ash login
+// summary: Declares quick unlock enums, preference registration, policy checks for PIN and fingerprint unlock, and a TestApi for overriding quick unlock checks in tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_QUICK_UNLOCK_QUICK_UNLOCK_UTILS_H_
 #define CHROME_BROWSER_ASH_LOGIN_QUICK_UNLOCK_QUICK_UNLOCK_UTILS_H_
 

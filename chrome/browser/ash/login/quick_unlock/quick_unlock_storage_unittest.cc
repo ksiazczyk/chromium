@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QuickUnlockStorage unit tests
+// summary: Unit tests for strong auth timing, auth token expiry and quick unlock storage behavior using a testing profile.
+// ---
+
 #include "chrome/browser/ash/login/quick_unlock/quick_unlock_storage.h"
 
 #include <memory>

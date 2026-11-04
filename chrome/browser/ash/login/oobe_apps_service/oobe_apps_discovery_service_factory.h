@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the OOBE apps discovery service factory
+// summary: Declares the singleton factory that associates OobeAppsDiscoveryService instances with profiles and exposes a testing hook.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_OOBE_APPS_SERVICE_OOBE_APPS_DISCOVERY_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ASH_LOGIN_OOBE_APPS_SERVICE_OOBE_APPS_DISCOVERY_SERVICE_FACTORY_H_
 

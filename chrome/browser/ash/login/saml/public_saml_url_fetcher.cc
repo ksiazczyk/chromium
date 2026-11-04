@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Public SAML URL fetcher implementation
+// summary: Implements fetching the public session SAML redirect URL from the device management server and reporting success or failure to the caller.
+// ---
+
 #include "chrome/browser/ash/login/saml/public_saml_url_fetcher.h"
 
 #include <memory>

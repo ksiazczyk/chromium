@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake SAML IdP test mixin header
+// summary: Declares the FakeSamlIdpMixin class that simulates a SAML identity provider with configurable responses and test servers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SAML_FAKE_SAML_IDP_MIXIN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SAML_FAKE_SAML_IDP_MIXIN_H_
 

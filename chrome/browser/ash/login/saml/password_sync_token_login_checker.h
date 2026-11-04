@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password sync token login checker header
+// summary: Declares PasswordSyncTokenLoginChecker, which verifies the local password sync token and notifies observers of invalid tokens.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SAML_PASSWORD_SYNC_TOKEN_LOGIN_CHECKER_H_
 #define CHROME_BROWSER_ASH_LOGIN_SAML_PASSWORD_SYNC_TOKEN_LOGIN_CHECKER_H_
 

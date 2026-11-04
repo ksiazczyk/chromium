@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password sync token fetcher header
+// summary: Declares PasswordSyncTokenFetcher, a non-reusable fetcher for creating, getting, and verifying SAML password sync tokens via the token API.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SAML_PASSWORD_SYNC_TOKEN_FETCHER_H_
 #define CHROME_BROWSER_ASH_LOGIN_SAML_PASSWORD_SYNC_TOKEN_FETCHER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QR code unit tests
+// summary: Unit tests verifying the generated QR code URL string and the expected pixel data for given advertising ID and shared secret values.
+// ---
+
 #include "chrome/browser/ash/login/oobe_quick_start/connectivity/qr_code.h"
 
 #include <string>

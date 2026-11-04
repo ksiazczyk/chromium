@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TargetDeviceConnectionBrokerImpl unit tests
+// summary: Unit tests for TargetDeviceConnectionBrokerImpl covering endpoint info generation, PIN derivation, advertising and connection handling using fakes and mocks.
+// ---
+
 #include "chrome/browser/ash/login/oobe_quick_start/connectivity/target_device_connection_broker_impl.h"
 
 #include <array>

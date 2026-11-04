@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfilePrefsAuthPolicyConnector class header
+// summary: Declares a keyed-service AuthPolicyConnector that supplies auth policy values from profile prefs and delegates to the login screen connector.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_OSAUTH_PROFILE_PREFS_AUTH_POLICY_CONNECTOR_H_
 #define CHROME_BROWSER_ASH_LOGIN_OSAUTH_PROFILE_PREFS_AUTH_POLICY_CONNECTOR_H_
 

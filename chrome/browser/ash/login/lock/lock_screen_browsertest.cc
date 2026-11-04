@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lock screen browser tests
+// summary: Browser tests covering lock screen behavior, including per-user input method state and multi-user session locking.
+// ---
+
 #include <algorithm>
 
 #include "ash/constants/ash_features.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock screen reauth manager implementation
+// summary: Implements the keyed service that forces online re-authentication on the ChromeOS lock screen when SAML password sync or policy requires it.
+// ---
+
 #include "chrome/browser/ash/login/lock/online_reauth/lock_screen_reauth_manager.h"
 
 #include <optional>

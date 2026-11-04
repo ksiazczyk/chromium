@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock/unlock event reporter class declaration
+// summary: Declares LockUnlockReporter, which observes ManagedSessionService and reports lock and unlock events when the login/logout reporting policy is enabled.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_REPORTING_LOCK_UNLOCK_REPORTER_H_
 #define CHROME_BROWSER_ASH_LOGIN_REPORTING_LOCK_UNLOCK_REPORTER_H_
 

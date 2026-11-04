@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfilePrefsAuthPolicyConnector factory implementation
+// summary: Implements the browser-context keyed service factory that builds ProfilePrefsAuthPolicyConnector instances and registers them with AuthParts.
+// ---
+
 #include "chrome/browser/ash/login/osauth/profile_prefs_auth_policy_connector_factory.h"
 
 #include "base/check_is_test.h"

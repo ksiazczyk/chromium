@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the OOBE apps discovery service
+// summary: Implements the profile-keyed service that downloads and caches OOBE app recommendations and propagates results to callers.
+// ---
+
 #include "chrome/browser/ash/login/oobe_apps_service/oobe_apps_discovery_service.h"
 
 #include "chrome/browser/ash/login/oobe_apps_service/oobe_apps_almanac_endpoint.h"

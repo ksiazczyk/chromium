@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the OOBE apps discovery service
+// summary: Declares the OobeAppsDiscoveryService KeyedService, its result enum, and callback used to fetch apps and use cases for OOBE.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_OOBE_APPS_SERVICE_OOBE_APPS_DISCOVERY_SERVICE_H_
 #define CHROME_BROWSER_ASH_LOGIN_OOBE_APPS_SERVICE_OOBE_APPS_DISCOVERY_SERVICE_H_
 

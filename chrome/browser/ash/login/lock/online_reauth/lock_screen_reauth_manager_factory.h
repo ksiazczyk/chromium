@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock screen reauth manager factory declaration
+// summary: Declares the singleton ProfileKeyedServiceFactory that owns LockScreenReauthManager instances and associates them with profiles.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_LOCK_ONLINE_REAUTH_LOCK_SCREEN_REAUTH_MANAGER_FACTORY_H_
 #define CHROME_BROWSER_ASH_LOGIN_LOCK_ONLINE_REAUTH_LOCK_SCREEN_REAUTH_MANAGER_FACTORY_H_
 

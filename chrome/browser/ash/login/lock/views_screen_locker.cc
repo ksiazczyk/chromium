@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewsScreenLocker implementation
+// summary: Implements the views-based lock screen delegate that authenticates users with password, PIN, Easy Unlock or challenge response.
+// ---
+
 #include "chrome/browser/ash/login/lock/views_screen_locker.h"
 
 #include <memory>

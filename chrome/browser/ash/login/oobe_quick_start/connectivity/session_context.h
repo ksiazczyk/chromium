@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Start SessionContext header
+// summary: Declares the SessionContext class that generates, stores and persists unique Quick Start session identifiers and shared secrets so sessions can resume after a reboot.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_OOBE_QUICK_START_CONNECTIVITY_SESSION_CONTEXT_H_
 #define CHROME_BROWSER_ASH_LOGIN_OOBE_QUICK_START_CONNECTIVITY_SESSION_CONTEXT_H_
 

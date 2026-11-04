@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Second device auth broker implementation
+// summary: Implements second device authentication for Quick Start, calling the device signin API for challenges, attestation, and auth codes.
+// ---
+
 #include "chrome/browser/ash/login/oobe_quick_start/second_device_auth_broker.h"
 
 #include <memory>

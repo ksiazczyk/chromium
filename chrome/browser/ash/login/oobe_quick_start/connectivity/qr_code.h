@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QR code class header
+// summary: Declares the QRCode class that stores an advertising ID and shared secret and provides the URL string and pixel data for the Quick Start connection QR code.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_OOBE_QUICK_START_CONNECTIVITY_QR_CODE_H_
 #define CHROME_BROWSER_ASH_LOGIN_OOBE_QUICK_START_CONNECTIVITY_QR_CODE_H_
 

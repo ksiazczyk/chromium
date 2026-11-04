@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock/unlock event reporter implementation
+// summary: Implements reporting of lock and unlock events for managed ChromeOS devices, converting unlock types and handling affiliated and unaffiliated users.
+// ---
+
 #include "chrome/browser/ash/login/reporting/lock_unlock_reporter.h"
 
 #include <optional>

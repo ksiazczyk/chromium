@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password sync token verifier unit tests
+// summary: Parameterized unit tests for PasswordSyncTokenVerifier covering token checks, reauth token fetch, and the managed local PIN and password feature.
+// ---
+
 #include "chrome/browser/ash/login/saml/password_sync_token_verifier.h"
 
 #include <memory>

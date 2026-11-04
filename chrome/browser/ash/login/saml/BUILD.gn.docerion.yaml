@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the SAML login directory
+summary: Defines GN static library targets for the SAML login code and its test support, listing sources and dependencies.

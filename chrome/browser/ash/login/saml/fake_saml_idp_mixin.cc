@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake SAML IdP test mixin implementation
+// summary: Implements an embedded test server that acts as a fake SAML identity provider, handling login, device trust and TPM challenge flows for browser tests.
+// ---
+
 #include "chrome/browser/ash/login/saml/fake_saml_idp_mixin.h"
 
 #include <iterator>

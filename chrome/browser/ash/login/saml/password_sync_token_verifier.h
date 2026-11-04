@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordSyncTokenVerifier class declaration
+// summary: Declares the keyed service that verifies the local password sync token via API calls and requests online re-auth to resync the password when invalid.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SAML_PASSWORD_SYNC_TOKEN_VERIFIER_H_
 #define CHROME_BROWSER_ASH_LOGIN_SAML_PASSWORD_SYNC_TOKEN_VERIFIER_H_
 

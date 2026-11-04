@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: In-session password sync manager unit tests
+// summary: Unit tests for InSessionPasswordSyncManager covering token creation, fetching and SAML token mismatch re-auth behavior.
+// ---
+
 #include "chrome/browser/ash/login/saml/in_session_password_sync_manager.h"
 
 #include <memory>

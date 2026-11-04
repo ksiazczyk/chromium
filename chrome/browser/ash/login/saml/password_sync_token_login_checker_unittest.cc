@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password sync token login checker unit tests
+// summary: Unit tests for PasswordSyncTokenLoginChecker covering valid and invalid sync tokens, forced online signin, and token polling histograms.
+// ---
+
 #include "chrome/browser/ash/login/saml/password_sync_token_login_checker.h"
 
 #include <memory>

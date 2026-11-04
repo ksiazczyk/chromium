@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS pointers for login reporting
+summary: Delegates code ownership to the ChromeOS policy and reporting component OWNERS files.

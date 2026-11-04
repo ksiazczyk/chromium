@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthFactorMigrator unit tests
+// summary: Tests migration sequencing, skipping, error handling and UMA reporting using fake migration steps.
+// ---
+
 #include "chrome/browser/ash/login/osauth/auth_factor_migrator.h"
 
 #include <memory>

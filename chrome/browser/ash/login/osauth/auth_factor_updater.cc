@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthFactorUpdater implementation
+// summary: Runs auth factor migrations via AuthFactorMigrator and then applies authentication policies after they complete.
+// ---
+
 #include "chrome/browser/ash/login/osauth/auth_factor_updater.h"
 
 #include <memory>

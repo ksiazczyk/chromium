@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password sync token fetcher implementation
+// summary: Implements API calls to the ChromeOS sync token service to create, fetch, and verify SAML password sync tokens, with UMA event tracking.
+// ---
+
 #include "chrome/browser/ash/login/saml/password_sync_token_fetcher.h"
 
 #include <memory>

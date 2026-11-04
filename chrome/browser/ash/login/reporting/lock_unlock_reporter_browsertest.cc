@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lock/unlock reporter browser tests
+// summary: Browser tests that lock and unlock a managed session and verify the resulting lock/unlock records are enqueued for reporting.
+// ---
+
 #include <optional>
 #include <string>
 #include <string_view>

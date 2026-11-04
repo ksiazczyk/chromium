@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LoginLogoutReporter unit tests
+// summary: Unit tests for the login and logout event reporter, exercising session, user manager and report queue behavior with test doubles.
+// ---
+
 #include <memory>
 #include <string_view>
 

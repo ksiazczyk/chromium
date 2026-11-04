@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lock/unlock reporter unit tests
+// summary: Unit tests covering unlock type conversion and event reporting behavior of LockUnlockReporter using fake session and reporting environments.
+// ---
+
 #include "chrome/browser/ash/login/reporting/lock_unlock_reporter.h"
 
 #include <string_view>

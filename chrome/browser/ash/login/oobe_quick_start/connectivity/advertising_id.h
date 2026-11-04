@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AdvertisingId class declaration
+// summary: Declares the immutable six-byte AdvertisingId type used for device advertising and user disambiguation.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_OOBE_QUICK_START_CONNECTIVITY_ADVERTISING_ID_H_
 #define CHROME_BROWSER_ASH_LOGIN_OOBE_QUICK_START_CONNECTIVITY_ADVERTISING_ID_H_
 

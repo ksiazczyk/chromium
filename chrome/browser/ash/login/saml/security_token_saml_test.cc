@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Security token SAML test fixture implementation
+// summary: Implements the SecurityTokenSamlTest fixture that simulates smart-card based SAML login using a test certificate provider extension and fake Gaia.
+// ---
+
 #include "chrome/browser/ash/login/saml/security_token_saml_test.h"
 
 #include <stdint.h>

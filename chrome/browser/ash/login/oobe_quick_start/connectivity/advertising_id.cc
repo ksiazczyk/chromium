@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AdvertisingId implementation
+// summary: Implements base64 decoding and encoding of advertising IDs and derivation of a three-digit display code.
+// ---
+
 #include "chrome/browser/ash/login/oobe_quick_start/connectivity/advertising_id.h"
 
 #include <algorithm>

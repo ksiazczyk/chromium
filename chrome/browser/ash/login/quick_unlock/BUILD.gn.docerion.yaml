@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the quick_unlock library and unit tests
+summary: Defines the quick_unlock static library sources and dependencies plus a testonly source_set grouping the directory's unit tests.

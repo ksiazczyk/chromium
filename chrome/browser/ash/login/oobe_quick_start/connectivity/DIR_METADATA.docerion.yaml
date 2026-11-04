@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the cross-device team
+summary: Metadata file assigning the ChromeOS cross-device engineering team and Buganizer component to this directory.

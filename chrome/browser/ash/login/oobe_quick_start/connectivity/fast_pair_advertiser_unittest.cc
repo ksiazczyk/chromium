@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fast Pair advertiser unit tests
+// summary: Unit tests for FastPairAdvertiser verifying advertisement registration, per-form-factor model IDs, and Fast Pair advertising error metric reporting.
+// ---
+
 #include "chrome/browser/ash/login/oobe_quick_start/connectivity/fast_pair_advertiser.h"
 
 #include <array>

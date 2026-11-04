@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PinBackend class declaration
+// summary: Declares the PinBackend singleton providing high-level PIN management, including salt and secret computation, setting, removing, and authentication.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_QUICK_UNLOCK_PIN_BACKEND_H_
 #define CHROME_BROWSER_ASH_LOGIN_QUICK_UNLOCK_PIN_BACKEND_H_
 

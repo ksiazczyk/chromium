@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Start preference name declarations
+// summary: Declares the Quick Start preference name constants, kept separate from other OOBE prefs to avoid a dependency cycle.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_OOBE_QUICK_START_OOBE_QUICK_START_PREF_NAMES_H_
 #define CHROME_BROWSER_ASH_LOGIN_OOBE_QUICK_START_OOBE_QUICK_START_PREF_NAMES_H_
 

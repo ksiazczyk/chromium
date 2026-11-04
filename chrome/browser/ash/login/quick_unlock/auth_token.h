@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthToken class with unguessable identifier and lifetime
+// summary: Declares AuthToken, an expiring security token with an unguessable identifier used to verify quick unlock authentication state.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_QUICK_UNLOCK_AUTH_TOKEN_H_
 #define CHROME_BROWSER_ASH_LOGIN_QUICK_UNLOCK_AUTH_TOKEN_H_
 

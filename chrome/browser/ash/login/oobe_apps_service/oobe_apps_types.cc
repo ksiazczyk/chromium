@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOBE apps types implementation
+// summary: Implements the OOBEDeviceUseCase and OOBEAppDefinition wrapper classes that convert OOBE proto tags and apps into accessible app definitions.
+// ---
+
 #include "chrome/browser/ash/login/oobe_apps_service/oobe_apps_types.h"
 
 #include "chrome/browser/ash/login/oobe_apps_service/proto/oobe.pb.h"

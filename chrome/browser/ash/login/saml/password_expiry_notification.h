@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password expiry notification header
+// summary: Declares the PasswordExpiryNotification class with static methods to show, dismiss, and generate localized titles for the password expiry notification.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SAML_PASSWORD_EXPIRY_NOTIFICATION_H_
 #define CHROME_BROWSER_ASH_LOGIN_SAML_PASSWORD_EXPIRY_NOTIFICATION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recovery ID migration
+// summary: Implements an auth factor migration step that generates a fresh recovery ID for the recovery factor when requested, treating generation failures as non-fatal so remaining migrations proceed.
+// ---
+
 #include "chrome/browser/ash/login/osauth/recovery_id_migration.h"
 
 #include <memory>

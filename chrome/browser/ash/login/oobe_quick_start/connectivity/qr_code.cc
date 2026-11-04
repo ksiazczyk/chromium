@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QR code implementation
+// summary: Generates the Quick Start sign-in URL containing the advertising ID and shared secret and produces the QR code pixel data used to verify the connection.
+// ---
+
 #include "chrome/browser/ash/login/oobe_quick_start/connectivity/qr_code.h"
 
 #include <string>

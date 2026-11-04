@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenLockerController implementation
+// summary: Implements ScreenLockerController, which handles lock screen requests, waits for sessions, and creates or destroys the ScreenLocker.
+// ---
+
 #include "chrome/browser/ash/login/lock/screen_locker_controller.h"
 
 #include "base/check.h"

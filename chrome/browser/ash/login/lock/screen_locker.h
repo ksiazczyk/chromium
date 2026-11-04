@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenLocker class declaration
+// summary: Declares the ScreenLocker class that displays the lock UI, authenticates users, and manages the global instance until unlock.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_LOCK_SCREEN_LOCKER_H_
 #define CHROME_BROWSER_ASH_LOGIN_LOCK_SCREEN_LOCKER_H_
 

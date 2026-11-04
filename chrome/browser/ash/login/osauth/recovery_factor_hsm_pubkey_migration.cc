@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recovery factor HSM public key migration
+// summary: Implements an auth factor migration step that rotates the cryptohome recovery factor when its mediator public key differs from the current HSM public key, without generating a fresh recovery ID.
+// ---
+
 #include "chrome/browser/ash/login/osauth/recovery_factor_hsm_pubkey_migration.h"
 
 #include <memory>

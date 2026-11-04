@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginLogoutReporterTestDelegate class declaration
+// summary: Declares a LoginLogoutReporter::Delegate subclass that supplies a fixed account ID for testing login and logout event reporting.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_REPORTING_LOGIN_LOGOUT_REPORTER_TEST_DELEGATE_H_
 #define CHROME_BROWSER_ASH_LOGIN_REPORTING_LOGIN_LOGOUT_REPORTER_TEST_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScreenLocker unit tests
+// summary: Unit tests for ScreenLocker covering lock screen behavior with fake session manager, DBus clients and profile dependencies.
+// ---
+
 #include "chrome/browser/ash/login/lock/screen_locker.h"
 
 #include <memory>

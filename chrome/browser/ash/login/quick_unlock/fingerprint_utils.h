@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fingerprint state helper declaration
+// summary: Declares GetFingerprintStateForUser, a helper that reports the fingerprint state for a given user and quick unlock purpose.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_QUICK_UNLOCK_FINGERPRINT_UTILS_H_
 #define CHROME_BROWSER_ASH_LOGIN_QUICK_UNLOCK_FINGERPRINT_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-session SAML password change manager implementation
+// summary: Implements the manager driving the in-session SAML password change flow, including notifications, password scraping and UMA metrics.
+// ---
+
 #include "chrome/browser/ash/login/saml/in_session_password_change_manager.h"
 
 #include <algorithm>

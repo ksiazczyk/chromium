@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthFactorMigrator implementation
+// summary: Implements sequential execution of auth factor migration steps and records UMA histograms for their results.
+// ---
+
 #include "chrome/browser/ash/login/osauth/auth_factor_migrator.h"
 
 #include <memory>

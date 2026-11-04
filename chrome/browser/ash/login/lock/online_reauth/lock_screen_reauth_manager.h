@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock screen reauth manager class declaration
+// summary: Declares LockScreenReauthManager, a KeyedService that sends users through the online sign-in flow on the lock screen and verifies their credentials.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_LOCK_ONLINE_REAUTH_LOCK_SCREEN_REAUTH_MANAGER_H_
 #define CHROME_BROWSER_ASH_LOGIN_LOCK_ONLINE_REAUTH_LOCK_SCREEN_REAUTH_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfilePrefsAuthPolicyConnector implementation
+// summary: Implements the AuthPolicyConnector that reads recovery and local auth factor policy values from profile prefs once the user profile is loaded.
+// ---
+
 #include "chrome/browser/ash/login/osauth/profile_prefs_auth_policy_connector.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TargetDeviceConnectionBrokerFactory implementation
+// summary: Implements the factory Create method that builds broker instances and supports injecting a test factory for testing.
+// ---
+
 #include "chrome/browser/ash/login/oobe_quick_start/connectivity/target_device_connection_broker_factory.h"
 
 #include "chrome/browser/ash/login/oobe_quick_start/connectivity/connection.h"

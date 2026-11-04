@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeAuthParts class header
+// summary: Declares ChromeAuthParts, which creates and owns the AuthParts instance and observes session termination to shut it down.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_OSAUTH_CHROME_AUTH_PARTS_H_
 #define CHROME_BROWSER_ASH_LOGIN_OSAUTH_CHROME_AUTH_PARTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccountTransferClientData class declaration
+// summary: Declares the client data payload for the FIDO Assertion flow, including JSON and hash encoding helpers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_OOBE_QUICK_START_CONNECTIVITY_ACCOUNT_TRANSFER_CLIENT_DATA_H_
 #define CHROME_BROWSER_ASH_LOGIN_OOBE_QUICK_START_CONNECTIVITY_ACCOUNT_TRANSFER_CLIENT_DATA_H_
 

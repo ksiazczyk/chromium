@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PinStorageCryptohome unit tests
+// summary: Unit tests for the cryptohome-backed PIN storage, exercising PIN setup, availability and authentication against fake cryptohome clients.
+// ---
+
 #include "chrome/browser/ash/login/quick_unlock/pin_storage_cryptohome.h"
 
 #include <string>

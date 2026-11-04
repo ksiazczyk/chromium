@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Quick Start proto library
+summary: GN build file that defines a proto_library target for the AES-GCM authentication message protobuf, restricted to ChromeOS builds.

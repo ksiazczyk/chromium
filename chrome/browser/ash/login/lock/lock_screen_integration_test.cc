@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lock screen Crosier integration tests
+// summary: Crosier integration tests checking that lid-close dbus events and the auto-screen-lock preference trigger locking and unlocking.
+// ---
+
 #include "ash/constants/ash_pref_names.h"
 #include "ash/shell.h"
 #include "ash/system/power/power_event_observer_test_api.h"

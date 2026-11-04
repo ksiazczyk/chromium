@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password sync token checkers collection implementation
+// summary: Implements a collection that starts and manages PasswordSyncTokenLoginChecker instances for SAML users on the login screen, with retry backoff.
+// ---
+
 #include "chrome/browser/ash/login/saml/password_sync_token_checkers_collection.h"
 
 #include <memory>

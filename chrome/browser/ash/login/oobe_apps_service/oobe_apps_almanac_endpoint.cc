@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Almanac endpoint fetch of OOBE apps and use cases
+// summary: Sends a network request to the ChromeOS Almanac API to retrieve recommended apps and use cases for the OOBE onboarding screen.
+// ---
+
 #include "chrome/browser/ash/login/oobe_apps_service/oobe_apps_almanac_endpoint.h"
 
 #include "base/functional/callback.h"

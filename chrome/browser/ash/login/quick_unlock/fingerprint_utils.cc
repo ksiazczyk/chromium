@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fingerprint state lookup helper
+// summary: Implements GetFingerprintStateForUser, which returns a user's fingerprint state from quick unlock storage for a given purpose.
+// ---
+
 #include "chrome/browser/ash/login/quick_unlock/fingerprint_utils.h"
 
 #include "ash/public/cpp/login_types.h"

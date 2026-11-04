@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PinStoragePrefs unit tests
+// summary: Unit tests verifying that PIN storage writes to and clears profile prefs and that unlock attempt counting behaves as expected.
+// ---
+
 #include "chrome/browser/ash/login/quick_unlock/pin_storage_prefs.h"
 
 #include "ash/constants/ash_pref_names.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair advertiser implementation
+// summary: Implements Bluetooth Fast Pair advertising with the 0xFE2C service UUID and form-factor-specific model IDs so nearby phones can detect the device and trigger Quick Start.
+// ---
+
 #include "chrome/browser/ash/login/oobe_quick_start/connectivity/fast_pair_advertiser.h"
 
 #include <string>

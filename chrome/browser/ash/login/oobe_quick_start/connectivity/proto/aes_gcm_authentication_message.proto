@@ -1,6 +1,12 @@
 // Copied from
 // http://google3/java/com/google/android/gms/smartdevice/d2d/proto/aes_gcm_authentication_message.proto
 
+// ---docerion
+// type: source
+// title: AES-GCM authentication message protobuf definition
+// summary: Proto2 definition of the AesGcmAuthenticationMessage and V1Message messages used by Quick Start device-to-device connectivity, copied from Google3.
+// ---
+
 syntax = "proto2";
 
 package ash.quick_start.proto;

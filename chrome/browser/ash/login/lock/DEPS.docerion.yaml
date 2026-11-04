@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the lock screen directory
+summary: Sets include rules that block //chrome dependencies for the lock screen directory, with per-file exceptions needed by tests.

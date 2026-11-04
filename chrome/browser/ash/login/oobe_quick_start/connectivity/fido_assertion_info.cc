@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FIDO assertion info implementation
+// summary: Defines the default constructors, copy operations, and equality comparison for the FidoAssertionInfo value class used in Quick Start account transfer.
+// ---
+
 #include "chrome/browser/ash/login/oobe_quick_start/connectivity/fido_assertion_info.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccountTransferClientData unit tests
+// summary: Verifies the JSON structure and SHA-256 hash generation of the account transfer client data.
+// ---
+
 #include "chrome/browser/ash/login/oobe_quick_start/connectivity/account_transfer_client_data.h"
 
 #include "base/json/json_reader.h"

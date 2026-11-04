@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the expiring quick unlock auth token
+// summary: Implements AuthToken, a short-lived token wrapping a UserContext that expires after five minutes and clears secrets when reset.
+// ---
+
 #include "chrome/browser/ash/login/quick_unlock/auth_token.h"
 
 #include "base/functional/bind.h"

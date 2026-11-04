@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake client certificate SAML IdP mixin header
+// summary: Declares TestClientCertSamlIdpMixin, which hosts fake SAML IdP servers for client certificate login tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SAML_TEST_CLIENT_CERT_SAML_IDP_MIXIN_H_
 #define CHROME_BROWSER_ASH_LOGIN_SAML_TEST_CLIENT_CERT_SAML_IDP_MIXIN_H_
 

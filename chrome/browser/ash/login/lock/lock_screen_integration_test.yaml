@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: config
+# title: Lock screen integration test metadata
+# summary: Crosier test metadata describing the LockScreen integration suite, its owners, harness, criteria, and test case tags.
+# ---
+
 # Schema can be found at: platform/dev/test/gtest/gtest_schema.yaml
 ---
 name: "LockScreen"

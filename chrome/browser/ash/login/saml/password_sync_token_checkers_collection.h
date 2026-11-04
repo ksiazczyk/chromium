@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password sync token checkers collection header
+// summary: Declares PasswordSyncTokenCheckersCollection, which manages per-user password sync token checkers on the login screen.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_LOGIN_SAML_PASSWORD_SYNC_TOKEN_CHECKERS_COLLECTION_H_
 #define CHROME_BROWSER_ASH_LOGIN_SAML_PASSWORD_SYNC_TOKEN_CHECKERS_COLLECTION_H_
 

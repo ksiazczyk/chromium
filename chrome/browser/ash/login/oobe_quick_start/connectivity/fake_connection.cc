@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake connection implementation for tests
+// summary: Implements FakeConnection, a test double of Connection that records requests and lets tests inject handshake, Wi-Fi, user verification, and account transfer responses.
+// ---
+
 #include "chrome/browser/ash/login/oobe_quick_start/connectivity/fake_connection.h"
 
 #include "chrome/browser/ash/login/oobe_quick_start/connectivity/session_context.h"
