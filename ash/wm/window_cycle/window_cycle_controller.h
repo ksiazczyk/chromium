@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window cycle controller class declaration
+// summary: Declares the WindowCycleController class that manages cycling through windows via Alt+Tab, including cycle start, completion, keyboard navigation, drag, and fling support.
+// ---
+
 #ifndef ASH_WM_WINDOW_CYCLE_WINDOW_CYCLE_CONTROLLER_H_
 #define ASH_WM_WINDOW_CYCLE_WINDOW_CYCLE_CONTROLLER_H_
 

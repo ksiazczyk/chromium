@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window cycle view implementation
+// summary: Implements the Alt+Tab UI view with the background shield, window preview items, tab slider for desk modes, empty-state label, and fade, slide, and scale animations.
+// ---
+
 #include "ash/wm/window_cycle/window_cycle_view.h"
 
 #include <algorithm>

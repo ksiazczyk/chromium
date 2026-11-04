@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Split view drag indicators unit tests
+// summary: Unit tests for split view drag indicators, covering dragging states, snap preview areas, and indicator behavior in tablet mode.
+// ---
+
 #include "ash/wm/splitview/split_view_drag_indicators.h"
 
 #include "ash/display/screen_orientation_controller.h"

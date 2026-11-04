@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Tablet mode directory owners
+summary: Lists code owners for the tablet mode directory and delegates ownership of multitask files to the float directory owners.

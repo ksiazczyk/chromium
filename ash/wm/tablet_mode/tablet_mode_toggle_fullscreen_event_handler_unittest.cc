@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tablet mode toggle fullscreen event handler unit tests
+// summary: Unit tests verifying that swipes from the top and bottom edges exit fullscreen on the active window in tablet mode, while swipes elsewhere or too short do not.
+// ---
+
 #include "ash/wm/tablet_mode/tablet_mode_toggle_fullscreen_event_handler.h"
 
 #include "ash/test/ash_test_base.h"

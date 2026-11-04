@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestActivationDelegate declaration
+// summary: Declares a test activation delegate and change observer used to track window activation counts and state in Ash window manager tests.
+// ---
+
 #ifndef ASH_WM_TEST_TEST_ACTIVATION_DELEGATE_H_
 #define ASH_WM_TEST_TEST_ACTIVATION_DELEGATE_H_
 

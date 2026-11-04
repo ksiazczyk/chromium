@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeWindowState and delegate declarations
+// summary: Declares a WindowState::State fake holding a fixed initial state and a WindowStateDelegate fake that records trusted pin toggles and drag progress for tests.
+// ---
+
 #ifndef ASH_WM_TEST_FAKE_WINDOW_STATE_H_
 #define ASH_WM_TEST_FAKE_WINDOW_STATE_H_
 

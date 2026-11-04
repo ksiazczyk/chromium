@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window cycle controller unit tests
+// summary: Unit tests for the Alt+Tab window cycle controller covering cycling behavior, desks modes, metrics, accessibility, and key, mouse, scroll, and gesture event handling.
+// ---
+
 #include "ash/wm/window_cycle/window_cycle_controller.h"
 
 #include <algorithm>

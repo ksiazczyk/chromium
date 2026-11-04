@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window cycle item view implementation
+// summary: Implements the view showing a single window's title and thumbnail in the Alt+Tab list, including fixed preview heights for vertical snap groups and mouse-driven focus and activation.
+// ---
+
 #include "ash/wm/window_cycle/window_cycle_item_view.h"
 
 #include <algorithm>

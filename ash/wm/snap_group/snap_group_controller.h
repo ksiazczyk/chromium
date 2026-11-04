@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SnapGroupController class header
+// summary: Declares the Shell-owned SnapGroupController that manages snap group creation, removal, and lookup, with overview and display observer support.
+// ---
+
 #ifndef ASH_WM_SNAP_GROUP_SNAP_GROUP_CONTROLLER_H_
 #define ASH_WM_SNAP_GROUP_SNAP_GROUP_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SnapGroup class header
+// summary: Declares the SnapGroup class, which observes window, state, display, and activation changes and implements LayoutDividerController for synchronized resizing of two snapped windows.
+// ---
+
 #ifndef ASH_WM_SNAP_GROUP_SNAP_GROUP_H_
 #define ASH_WM_SNAP_GROUP_SNAP_GROUP_H_
 

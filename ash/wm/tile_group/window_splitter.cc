@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window splitter implementation
+// summary: Implements detection of split trigger regions during window drags, shows the split preview phantom window, and applies the resulting window bounds when a drag completes.
+// ---
+
 #include "ash/wm/tile_group/window_splitter.h"
 
 #include <algorithm>

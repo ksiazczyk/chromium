@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split view controller implementation
+// summary: Implements window snapping behavior for clamshell and tablet modes, coordinating overview sessions, snap groups, the divider and metrics.
+// ---
+
 #include "ash/wm/splitview/split_view_controller.h"
 
 #include <algorithm>

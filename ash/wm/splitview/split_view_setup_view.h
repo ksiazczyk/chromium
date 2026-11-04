@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split view setup view class declaration
+// summary: Declares SplitViewSetupView, a box layout container holding the split view toast and settings button for the faster split screen setup.
+// ---
+
 #ifndef ASH_WM_SPLITVIEW_SPLIT_VIEW_SETUP_VIEW_H_
 #define ASH_WM_SPLITVIEW_SPLIT_VIEW_SETUP_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Informed restore screenshot icon row view implementation
+// summary: Implements the icon row overlaid on the screenshot preview, showing app icons or a single browser window's tab favicons with overflow counting.
+// ---
+
 #include "ash/wm/window_restore/informed_restore_screenshot_icon_row_view.h"
 
 #include "ash/public/cpp/saved_desk_delegate.h"

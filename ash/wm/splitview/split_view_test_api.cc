@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Split view test API implementation
+// summary: Implements SplitViewTestApi, a helper that lets tests snap windows, swap windows, and query the primary and secondary snapped windows.
+// ---
+
 #include "ash/public/cpp/split_view_test_api.h"
 
 #include "ash/shell.h"

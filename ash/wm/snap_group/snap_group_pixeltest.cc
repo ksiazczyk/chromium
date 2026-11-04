@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Snap group pixel tests
+// summary: Visual regression tests that compare snap group divider and window cycle UI rendering against benchmark screenshots in landscape and other states.
+// ---
+
 #include <memory>
 #include <optional>
 

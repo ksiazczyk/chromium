@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split view utility functions implementation
+// summary: Implements split view helper logic, including animation timing values, histogram names, and functions supporting snapping, highlights, and overview interactions.
+// ---
+
 #include "ash/wm/splitview/split_view_utils.h"
 
 #include <ranges>

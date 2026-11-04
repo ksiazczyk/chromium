@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Snap group constants
+// summary: Defines the snap-to-replace ratio difference threshold constant that decides whether a new window can replace an existing snapped window in a snap group.
+// ---
+
 #ifndef ASH_WM_SNAP_GROUP_SNAP_GROUP_CONSTANTS_H_
 #define ASH_WM_SNAP_GROUP_SNAP_GROUP_CONSTANTS_H_
 

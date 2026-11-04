@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window cycle list implementation
+// summary: Implements WindowCycleList, which tracks the windows stepped through during Alt+Tab, manages the cycle view widget, show delay, window replacement, and target window selection.
+// ---
+
 #include "ash/wm/window_cycle/window_cycle_list.h"
 
 #include <algorithm>

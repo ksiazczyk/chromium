@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestActivationDelegate implementation
+// summary: Implements a test activation delegate and observer that attaches to an aura window and counts activation, deactivation, and should-activate events.
+// ---
+
 #include "ash/wm/test/test_activation_delegate.h"
 
 #include "ui/aura/window.h"

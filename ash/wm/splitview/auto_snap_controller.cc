@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto snap controller implementation
+// summary: Implements the controller that auto-snaps windows in split view when they are activated or become visible from a minimized state.
+// ---
+
 #include "ash/wm/splitview/auto_snap_controller.h"
 
 #include <algorithm>

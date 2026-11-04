@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split view observer interface
+// summary: Defines the SplitViewObserver interface with callbacks for split view state changes, divider movement, window resizing, and window swapping.
+// ---
+
 #ifndef ASH_WM_SPLITVIEW_SPLIT_VIEW_OBSERVER_H_
 #define ASH_WM_SPLITVIEW_SPLIT_VIEW_OBSERVER_H_
 

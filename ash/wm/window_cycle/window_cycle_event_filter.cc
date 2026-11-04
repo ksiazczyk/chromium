@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window cycle event filter implementation
+// summary: Implements the event filter that intercepts key, mouse, scroll, and gesture events during Alt+Tab cycling and completes or cancels cycling on trigger, exit, and escape keys.
+// ---
+
 #include "ash/wm/window_cycle/window_cycle_event_filter.h"
 
 #include "ash/accelerators/debug_commands.h"

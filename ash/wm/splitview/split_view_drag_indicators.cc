@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split view drag indicators implementation
+// summary: Implements the overlay that shows highlights and labels guiding users while dragging windows into split view, including snap position detection and widget setup.
+// ---
+
 #include "ash/wm/splitview/split_view_drag_indicators.h"
 
 #include <utility>

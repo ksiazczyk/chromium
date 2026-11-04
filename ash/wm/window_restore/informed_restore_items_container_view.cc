@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Informed restore items container view implementation
+// summary: Implements the vertical container of app item views shown on the right side of the informed restore contents, substituting an overflow view when items exceed the maximum.
+// ---
+
 #include "ash/wm/window_restore/informed_restore_items_container_view.h"
 
 #include "ash/wm/window_restore/informed_restore_constants.h"

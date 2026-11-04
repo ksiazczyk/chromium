@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tablet mode multitask menu header
+// summary: Declares TabletModeMultitaskMenu, which creates and maintains the multitask menu widget and handles show, hide, drag, and fade-out animations.
+// ---
+
 #ifndef ASH_WM_TABLET_MODE_TABLET_MODE_MULTITASK_MENU_H_
 #define ASH_WM_TABLET_MODE_TABLET_MODE_MULTITASK_MENU_H_
 

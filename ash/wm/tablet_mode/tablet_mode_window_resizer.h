@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tablet mode window resizer header
+// summary: Declares the TabletModeWindowResizer and TabletModeWindowDragDelegate classes that manage window dragging, completion, and snapping in tablet mode.
+// ---
+
 #ifndef ASH_WM_TABLET_MODE_TABLET_MODE_WINDOW_RESIZER_H_
 #define ASH_WM_TABLET_MODE_TABLET_MODE_WINDOW_RESIZER_H_
 

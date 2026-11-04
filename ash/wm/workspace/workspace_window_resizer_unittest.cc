@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Workspace window resizer unit tests
+// summary: Unit tests for the Ash workspace window resizer, covering dragging, snapping, snap groups, phantom windows and related metrics.
+// ---
+
 #include "ash/wm/workspace/workspace_window_resizer.h"
 
 #include <ranges>

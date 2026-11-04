@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split view overview session implementation
+// summary: Implements the clamshell session combining a snapped window with overview, handling setup types, exit point metrics, and resize presentation time recording.
+// ---
+
 #include "ash/wm/splitview/split_view_overview_session.h"
 
 #include <optional>

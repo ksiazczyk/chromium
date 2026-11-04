@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Snap group metrics recording
+// summary: Records UMA histograms for snap group persistence and actual durations, exit points, group counts, and partial overview session metrics.
+// ---
+
 #include "ash/wm/snap_group/snap_group_metrics.h"
 
 #include "ash/wm/overview/overview_grid.h"

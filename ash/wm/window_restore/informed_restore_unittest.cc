@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Informed restore unit tests
+// summary: Unit tests covering the informed restore dialog, its views, context menu, screenshots, and metrics during overview sessions.
+// ---
+
 #include <optional>
 #include <utility>
 

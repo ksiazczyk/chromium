@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowSplitter class declaration
+// summary: Declares the WindowSplitter class, its SplitRegion and DragType enums, and constants for dwell timing and trigger margins used to split windows during drags.
+// ---
+
 #ifndef ASH_WM_TILE_GROUP_WINDOW_SPLITTER_H_
 #define ASH_WM_TILE_GROUP_WINDOW_SPLITTER_H_
 

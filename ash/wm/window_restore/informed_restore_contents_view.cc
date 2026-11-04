@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Informed restore contents view implementation
+// summary: Implements the main dialog view with restore, cancel and settings buttons plus the items list or screenshot preview of windows to restore.
+// ---
+
 #include "ash/wm/window_restore/informed_restore_contents_view.h"
 
 #include "ash/constants/ash_features.h"

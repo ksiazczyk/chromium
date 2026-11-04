@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Informed restore test API
+// summary: Declares the test API for setting informed restore contents data and accessing the onboarding dialog during tests.
+// ---
+
 #ifndef ASH_WM_WINDOW_RESTORE_INFORMED_RESTORE_TEST_API_H_
 #define ASH_WM_WINDOW_RESTORE_INFORMED_RESTORE_TEST_API_H_
 

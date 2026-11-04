@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tablet mode multitask menu unit tests
+// summary: Unit tests for the multitask menu covering show and dismiss gestures, snap and float buttons, split view interactions, and menu metrics.
+// ---
+
 #include "ash/wm/tablet_mode/tablet_mode_multitask_menu.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window restore metrics
+// summary: Records UMA histograms for informed restore dialog actions, screenshot durations and visibility, and onboarding choices.
+// ---
+
 #include "ash/wm/window_restore/window_restore_metrics.h"
 
 #include "ash/constants/ash_pref_names.h"

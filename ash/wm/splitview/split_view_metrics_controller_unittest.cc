@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Split view metrics controller unit tests
+// summary: Unit tests verifying that snap, minimize, and close duration metrics and related split view histograms are recorded correctly using mock time.
+// ---
+
 #include "ash/wm/splitview/split_view_metrics_controller.h"
 
 #include "ash/constants/ash_pref_names.h"

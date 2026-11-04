@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Informed restore items overflow view implementation
+// summary: Implements the overflow view that condenses more than four apps into icon rows, triangles, or grids with a remaining-window count in the informed restore dialog.
+// ---
+
 #include "ash/wm/window_restore/informed_restore_items_overflow_view.h"
 
 #include "ash/shell.h"

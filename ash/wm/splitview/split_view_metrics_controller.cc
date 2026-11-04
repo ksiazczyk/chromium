@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split view metrics controller implementation
+// summary: Implements the controller that records UMA histograms for split view entry point, device mode and orientation, engagement time, and window resize and swap counts.
+// ---
+
 #include "ash/wm/splitview/split_view_metrics_controller.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tablet mode controller unit tests
+// summary: Unit tests for TabletModeController covering tablet mode entry and exit, lid and accelerometer handling, external mouse behavior, and animation smoothness metrics.
+// ---
+
 #include "ash/wm/tablet_mode/tablet_mode_controller.h"
 
 #include <math.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split view metrics controller class declaration
+// summary: Declares SplitViewMetricsController, which tracks and reports split view usage metrics, including clamshell split view with two windows snapped on both sides.
+// ---
+
 #ifndef ASH_WM_SPLITVIEW_SPLIT_VIEW_METRICS_CONTROLLER_H_
 #define ASH_WM_SPLITVIEW_SPLIT_VIEW_METRICS_CONTROLLER_H_
 

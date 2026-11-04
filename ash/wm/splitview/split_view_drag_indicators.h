@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SplitViewDragIndicators class declaration
+// summary: Declares SplitViewDragIndicators, an overlay displaying text and highlights during window drags to guide users into split view, with window dragging state enums.
+// ---
+
 #ifndef ASH_WM_SPLITVIEW_SPLIT_VIEW_DRAG_INDICATORS_H_
 #define ASH_WM_SPLITVIEW_SPLIT_VIEW_DRAG_INDICATORS_H_
 

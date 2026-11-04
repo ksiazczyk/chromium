@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Snap group test utilities
+// summary: Provides helper functions to snap two test windows, click overview items, and query topmost snap group divider bounds for Ash tests.
+// ---
+
 #include "ash/wm/snap_group/snap_group_test_util.h"
 
 #include "ash/root_window_controller.h"

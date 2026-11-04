@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Workspace layout manager implementation
+// summary: Implements the workspace layout manager that adjusts child window bounds in response to shelf, keyboard, fullscreen, tablet mode, activation, and backdrop changes.
+// ---
+
 #include "ash/wm/workspace/workspace_layout_manager.h"
 
 #include <algorithm>

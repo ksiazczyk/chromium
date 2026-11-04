@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tablet mode window manager header
+// summary: Declares the TabletModeWindowManager class that forces windows into maximized or snapped states in tablet mode and restores their original state on shutdown.
+// ---
+
 #ifndef ASH_WM_TABLET_MODE_TABLET_MODE_WINDOW_MANAGER_H_
 #define ASH_WM_TABLET_MODE_TABLET_MODE_WINDOW_MANAGER_H_
 

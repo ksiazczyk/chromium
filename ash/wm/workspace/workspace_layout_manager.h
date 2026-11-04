@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WorkspaceLayoutManager class header
+// summary: Declares WorkspaceLayoutManager, the aura layout manager for workspace containers that observes shell, display, keyboard, shelf, and window state changes.
+// ---
+
 #ifndef ASH_WM_WORKSPACE_WORKSPACE_LAYOUT_MANAGER_H_
 #define ASH_WM_WORKSPACE_WORKSPACE_LAYOUT_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Informed restore test base implementation
+// summary: Implements test fixture setup that simulates a test user login and disables the informed restore onboarding dialog.
+// ---
+
 #include "ash/wm/window_restore/informed_restore_test_base.h"
 
 #include "ash/constants/ash_pref_names.h"

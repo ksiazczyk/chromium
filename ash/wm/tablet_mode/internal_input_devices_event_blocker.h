@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal input devices event blocker class declaration
+// summary: Declares a helper class that temporarily disables the internal touchpad and keyboard and observes input device configuration changes.
+// ---
+
 #ifndef ASH_WM_TABLET_MODE_INTERNAL_INPUT_DEVICES_EVENT_BLOCKER_H_
 #define ASH_WM_TABLET_MODE_INTERNAL_INPUT_DEVICES_EVENT_BLOCKER_H_
 

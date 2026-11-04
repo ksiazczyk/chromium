@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestSessionStateAnimator test helper header
+// summary: Declares TestSessionStateAnimator, a test double for SessionStateAnimator that lets tests start, advance, complete, abort and inspect container animations.
+// ---
+
 #ifndef ASH_WM_TEST_TEST_SESSION_STATE_ANIMATOR_H_
 #define ASH_WM_TEST_TEST_SESSION_STATE_ANIMATOR_H_
 

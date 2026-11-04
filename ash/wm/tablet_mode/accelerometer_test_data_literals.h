@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accelerometer test data literals
+// summary: Provides large constexpr arrays of recorded accelerometer readings used as test data for tablet mode behavior tests.
+// ---
+
 #ifndef ASH_WM_TABLET_MODE_ACCELEROMETER_TEST_DATA_LITERALS_H_
 #define ASH_WM_TABLET_MODE_ACCELEROMETER_TEST_DATA_LITERALS_H_
 

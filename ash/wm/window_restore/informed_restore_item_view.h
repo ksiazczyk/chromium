@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Informed restore item view header
+// summary: Declares InformedRestoreItemView, a box layout view showing an app title, icon, and optional favicons for the informed restore widget or screenshot preview.
+// ---
+
 #ifndef ASH_WM_WINDOW_RESTORE_INFORMED_RESTORE_ITEM_VIEW_H_
 #define ASH_WM_WINDOW_RESTORE_INFORMED_RESTORE_ITEM_VIEW_H_
 

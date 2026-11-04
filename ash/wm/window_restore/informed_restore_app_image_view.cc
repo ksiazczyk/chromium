@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Informed restore app image view implementation
+// summary: Implements the view that displays an app's icon in the informed restore dialog and refetches it when the app becomes installed or ready.
+// ---
+
 #include "ash/wm/window_restore/informed_restore_app_image_view.h"
 
 #include "ash/public/cpp/saved_desk_delegate.h"

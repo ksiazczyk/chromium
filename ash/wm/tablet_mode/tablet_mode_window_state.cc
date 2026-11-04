@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tablet mode window state implementation
+// summary: Implements the tablet mode window state that reduces window states to maximized, minimized, or centered, and computes bounds and restore overrides for tablet mode.
+// ---
+
 #include "ash/wm/tablet_mode/tablet_mode_window_state.h"
 
 #include <utility>

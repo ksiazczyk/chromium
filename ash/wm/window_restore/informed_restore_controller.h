@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Informed restore controller header
+// summary: Declares InformedRestoreController, which receives data from the full restore service and shows it in an informed restore overview session with onboarding support.
+// ---
+
 #ifndef ASH_WM_WINDOW_RESTORE_INFORMED_RESTORE_CONTROLLER_H_
 #define ASH_WM_WINDOW_RESTORE_INFORMED_RESTORE_CONTROLLER_H_
 

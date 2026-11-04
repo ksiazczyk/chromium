@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SnapGroup implementation
+// summary: Implements the SnapGroup class that manages a pair of snapped windows, their divider, snapped bounds calculation, and window state change exit points in the Ash window manager.
+// ---
+
 #include "ash/wm/snap_group/snap_group.h"
 
 #include "ash/screen_util.h"

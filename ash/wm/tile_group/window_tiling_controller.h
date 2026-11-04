@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowTilingController class declaration
+// summary: Declares the WindowTilingController, which resizes windows in tile-like steps toward the left, right, up, and down within the work area.
+// ---
+
 #ifndef ASH_WM_TILE_GROUP_WINDOW_TILING_CONTROLLER_H_
 #define ASH_WM_TILE_GROUP_WINDOW_TILING_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tablet mode window manager unit tests
+// summary: Extensive unit tests for the tablet mode window manager covering window maximization, split view snapping, shelf auto-hide behavior, and clamshell to tablet mode transitions.
+// ---
+
 #include "ash/wm/tablet_mode/tablet_mode_window_manager.h"
 
 #include <string>

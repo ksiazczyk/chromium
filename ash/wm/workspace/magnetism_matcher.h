@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Magnetism matcher class declarations
+// summary: Declares MagnetismEdgeMatcher and MagnetismMatcher, which track visible edge ranges to determine magnetic window snapping during window drags.
+// ---
+
 #ifndef ASH_WM_WORKSPACE_MAGNETISM_MATCHER_H_
 #define ASH_WM_WORKSPACE_MAGNETISM_MATCHER_H_
 

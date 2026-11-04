@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WorkspaceEventHandler class header
+// summary: Declares the WorkspaceEventHandler class that handles events on workspace windows, such as double-click on resize edges to maximize in one dimension.
+// ---
+
 #ifndef ASH_WM_WORKSPACE_WORKSPACE_EVENT_HANDLER_H_
 #define ASH_WM_WORKSPACE_WORKSPACE_EVENT_HANDLER_H_
 

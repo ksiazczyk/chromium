@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Workspace window resizer implementation
+// summary: Implements WorkspaceWindowResizer, handling window dragging and resizing with screen edge snapping, attached window layout, fling gestures, and haptic feedback.
+// ---
+
 #include "ash/wm/workspace/workspace_window_resizer.h"
 
 #include <algorithm>
