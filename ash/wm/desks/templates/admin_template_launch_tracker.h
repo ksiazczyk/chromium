@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Admin template launch tracker class declaration
+// summary: Declares AdminTemplateLaunchTracker and helpers for launching admin templates, merging window updates, and computing initial window layouts.
+// ---
+
 #ifndef ASH_WM_DESKS_TEMPLATES_ADMIN_TEMPLATE_LAUNCH_TRACKER_H_
 #define ASH_WM_DESKS_TEMPLATES_ADMIN_TEMPLATE_LAUNCH_TRACKER_H_
 

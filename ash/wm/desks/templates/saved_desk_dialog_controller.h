@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved desk dialog controller
+// summary: Declares SavedDeskDialogController, which controls when to show confirmation dialogs for modifying saved desks, such as unsupported apps, replace, and delete dialogs.
+// ---
+
 #ifndef ASH_WM_DESKS_TEMPLATES_SAVED_DESK_DIALOG_CONTROLLER_H_
 #define ASH_WM_DESKS_TEMPLATES_SAVED_DESK_DIALOG_CONTROLLER_H_
 

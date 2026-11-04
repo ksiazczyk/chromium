@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab app selection view class declaration
+// summary: Declares TabAppSelectionView, a box layout view for choosing tabs and apps to move to a new desk, with focus navigation and item removal support.
+// ---
+
 #ifndef ASH_WM_OVERVIEW_BIRCH_TAB_APP_SELECTION_VIEW_H_
 #define ASH_WM_OVERVIEW_BIRCH_TAB_APP_SELECTION_VIEW_H_
 

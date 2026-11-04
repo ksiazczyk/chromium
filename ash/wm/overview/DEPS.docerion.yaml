@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Overview directory include rules
+summary: Defines a DEPS include exception that allows overview_controller.cc to include ChromeOS kiosk utility headers.

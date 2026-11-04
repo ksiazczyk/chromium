@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Back gesture highlight border drawing utilities header
+// summary: Declares DrawCircleHighlightBorder and DrawRoundRectHighlightBorder used to paint highlight borders in back gesture UI.
+// ---
+
 #ifndef ASH_WM_GESTURES_BACK_GESTURE_BACK_GESTURE_UTIL_H_
 #define ASH_WM_GESTURES_BACK_GESTURE_BACK_GESTURE_UTIL_H_
 

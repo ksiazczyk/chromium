@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Root window desk switch animator class declaration
+// summary: Declares RootWindowDeskSwitchAnimator, which animates desk switches on each root window using screenshots, with quick and continuous animation modes and phases.
+// ---
+
 #ifndef ASH_WM_DESKS_ROOT_WINDOW_DESK_SWITCH_ANIMATOR_H_
 #define ASH_WM_DESKS_ROOT_WINDOW_DESK_SWITCH_ANIMATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overview item view initialization scheduler implementation
+// summary: Implements the scheduler that defers OverviewItemView initialization until a calm UI-thread period during the enter animation or until the item widget becomes opaque.
+// ---
+
 #include "ash/wm/overview/overview_item_view_scheduler.h"
 
 #include <utility>

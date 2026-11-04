@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desk button base class declaration
+// summary: Declares DeskButtonBase, the label button base class for the default desk, new desk and library buttons on the desks bar.
+// ---
+
 #ifndef ASH_WM_DESKS_DESK_BUTTON_BASE_H_
 #define ASH_WM_DESKS_DESK_BUTTON_BASE_H_
 

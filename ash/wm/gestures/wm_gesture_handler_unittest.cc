@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WmGestureHandler unit tests
+// summary: Unit tests for WmGestureHandler verifying overview entry and exit, desk switching, and focus ring movement through simulated multi-finger touchpad scrolls.
+// ---
+
 #include "ash/wm/gestures/wm_gesture_handler.h"
 
 #include "ash/constants/ash_pref_names.h"

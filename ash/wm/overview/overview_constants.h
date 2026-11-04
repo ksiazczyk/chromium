@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overview mode constants
+// summary: Defines constants for overview mode such as animation durations, item spacing, shadow types, window ratio thresholds, and padding values.
+// ---
+
 #ifndef ASH_WM_OVERVIEW_OVERVIEW_CONSTANTS_H_
 #define ASH_WM_OVERVIEW_OVERVIEW_CONSTANTS_H_
 

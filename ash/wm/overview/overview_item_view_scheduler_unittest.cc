@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overview item view scheduler unit tests
+// summary: Unit tests for scheduling overview item view initialization through the UI task pool, covering minimized windows, missing enter animations, and opaque-window waits.
+// ---
+
 #include "ash/wm/overview/overview_item_view_scheduler.h"
 
 #include <memory>

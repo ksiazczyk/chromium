@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Birch chip context menu model declaration
+// summary: Declares BirchChipContextMenuModel, the SimpleMenuModel shown when right-clicking a birch chip to hide the chip, hide suggestion types, customize or send feedback.
+// ---
+
 #ifndef ASH_WM_OVERVIEW_BIRCH_BIRCH_CHIP_CONTEXT_MENU_MODEL_H_
 #define ASH_WM_OVERVIEW_BIRCH_BIRCH_CHIP_CONTEXT_MENU_MODEL_H_
 

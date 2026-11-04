@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Birch animation utilities implementation
+// summary: Implements helpers that load Lottie animation data from resources and build looping playback configs for Birch animations.
+// ---
+
 #include "ash/wm/overview/birch/birch_animation_utils.h"
 
 #include "ash/utility/lottie_util.h"

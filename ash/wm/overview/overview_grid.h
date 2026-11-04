@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverviewGrid class declaration
+// summary: Declares OverviewGrid, which manages and positions the overview UI per root window, including window items, desks bar, split view indicators, and saved desk elements.
+// ---
+
 #ifndef ASH_WM_OVERVIEW_OVERVIEW_GRID_H_
 #define ASH_WM_OVERVIEW_OVERVIEW_GRID_H_
 

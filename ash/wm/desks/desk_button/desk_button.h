@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeskButton class declaration
+// summary: Declares the DeskButton view, a shelf button for traversing virtual desks that hosts switch buttons and opens the desk bar when activated.
+// ---
+
 #ifndef ASH_WM_DESKS_DESK_BUTTON_DESK_BUTTON_H_
 #define ASH_WM_DESKS_DESK_BUTTON_DESK_BUTTON_H_
 

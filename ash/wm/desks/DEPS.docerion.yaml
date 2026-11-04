@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the desks directory
+summary: Defines allowed include dependencies for files in the ash/wm/desks directory, with special rules for desks_controller.cc and desks_unittest.cc.

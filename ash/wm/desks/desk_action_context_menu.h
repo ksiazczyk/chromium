@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeskActionContextMenu class declaration
+// summary: Declares the context menu controller for desk mini views with a configurable menu covering save, combine, and close desk commands.
+// ---
+
 #ifndef ASH_WM_DESKS_DESK_ACTION_CONTEXT_MENU_H_
 #define ASH_WM_DESKS_DESK_ACTION_CONTEXT_MENU_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeskButtonContainer class declaration
+// summary: Declares the DeskButtonContainer view, which hosts the desk button and previous/next switch buttons and observes DesksController for UI updates.
+// ---
+
 #ifndef ASH_WM_DESKS_DESK_BUTTON_DESK_BUTTON_CONTAINER_H_
 #define ASH_WM_DESKS_DESK_BUTTON_DESK_BUTTON_CONTAINER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Birch bar controller header
+// summary: Declares BirchBarController, which manages birch bars across overview grids by fetching BirchModel data, handling context menus, and tracking suggestion preferences.
+// ---
+
 #ifndef ASH_WM_OVERVIEW_BIRCH_BIRCH_BAR_CONTROLLER_H_
 #define ASH_WM_OVERVIEW_BIRCH_BIRCH_BAR_CONTROLLER_H_
 

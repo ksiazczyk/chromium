@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Picture-in-Picture directory metadata
+summary: Metadata file assigning the picture-in-picture directory to the chromeos-wm-corexp team with Buganizer and Monorail component IDs.

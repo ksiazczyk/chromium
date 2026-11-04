@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desk mini view class declaration
+// summary: Declares DeskMiniView, the mini representation of a virtual desk in the desk bar that shows a preview and title and supports desk activation and removal.
+// ---
+
 #ifndef ASH_WM_DESKS_DESK_MINI_VIEW_H_
 #define ASH_WM_DESKS_DESK_MINI_VIEW_H_
 

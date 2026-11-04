@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Birch bar pixel test
+// summary: Pixel test that renders birch bar chips for calendar, weather, file, tab, and other suggestion types to verify their visual appearance.
+// ---
+
 #include "ash/birch/birch_client.h"
 #include "ash/birch/birch_item.h"
 #include "ash/birch/birch_model.h"

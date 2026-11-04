@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Birch privacy nudge controller implementation
+// summary: Implements the Birch privacy nudge, registering prefs and showing an anchored nudge at most three times, 24 hours apart, until the context menu has been opened.
+// ---
+
 #include "ash/wm/overview/birch/birch_privacy_nudge_controller.h"
 
 #include "ash/constants/ash_pref_names.h"

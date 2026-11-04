@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped overview animation settings implementation
+// summary: Implements scoped layer animation settings that map overview animation types to durations and report animation smoothness metrics.
+// ---
+
 #include "ash/wm/overview/scoped_overview_animation_settings.h"
 
 #include "ash/metrics/histogram_macros.h"

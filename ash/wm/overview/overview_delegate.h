@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overview delegate interface
+// summary: Declares an interface for adding and removing delayed enter and exit animation observers during overview transitions.
+// ---
+
 #ifndef ASH_WM_OVERVIEW_OVERVIEW_DELEGATE_H_
 #define ASH_WM_OVERVIEW_OVERVIEW_DELEGATE_H_
 

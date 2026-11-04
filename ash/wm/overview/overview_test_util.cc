@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overview test utility functions
+// summary: Provides test helpers to toggle overview, wait for enter and exit animations, fetch overview grids, items, and windows, and drag overview items to screen points.
+// ---
+
 #include "ash/wm/overview/overview_test_util.h"
 
 #include "ash/public/cpp/overview_test_api.h"

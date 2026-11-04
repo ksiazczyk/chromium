@@ -1,0 +1,4 @@
+# Docerion header of coral_resources.grd.
+type: config
+title: Grit resource definition for coral animations
+summary: Grit XML that bundles the coral title and border Lottie animations into gzip-compressed pak resources for ChromeOS ash.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test API header for FloatController
+// summary: Declares FloatTestApi, a helper letting tests read FloatController internals and disable tuck education.
+// ---
+
 #ifndef ASH_WM_FLOAT_FLOAT_TEST_API_H_
 #define ASH_WM_FLOAT_FLOAT_TEST_API_H_
 

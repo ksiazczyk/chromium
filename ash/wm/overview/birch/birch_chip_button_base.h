@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Birch chip button base class declaration
+// summary: Declares BirchChipButtonBase, the abstract views::Button base class for birch chips with Init, GetItem and Shutdown hooks and rounded corner updates.
+// ---
+
 #ifndef ASH_WM_OVERVIEW_BIRCH_BIRCH_CHIP_BUTTON_BASE_H_
 #define ASH_WM_OVERVIEW_BIRCH_BIRCH_CHIP_BUTTON_BASE_H_
 

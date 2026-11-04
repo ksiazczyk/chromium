@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overview window drag controller implementation
+// summary: Implements dragging of overview items, covering snapping, moving windows to desks, drag-to-close, and presentation time metrics.
+// ---
+
 #include "ash/wm/overview/overview_window_drag_controller.h"
 
 #include <algorithm>

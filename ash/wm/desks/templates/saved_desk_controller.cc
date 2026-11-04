@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved desk controller implementation
+// summary: Implements SavedDeskController, which lists and launches admin desk templates, records launch metrics, tracks launched windows, and manages auto launch with throttled updates and retry logic.
+// ---
+
 #include "ash/wm/desks/templates/saved_desk_controller.h"
 
 #include <map>

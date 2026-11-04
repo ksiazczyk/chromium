@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desk switch and window move animations
+// summary: Implements desk animations, including the hit-the-wall bounce when no desk exists in a direction and an offscreen animation of a window's old layer tree when moved to another desk.
+// ---
+
 #include "ash/wm/desks/desks_animations.h"
 
 #include <memory>

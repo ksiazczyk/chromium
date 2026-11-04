@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Birch chip loader view implementation
+// summary: Implements placeholder loader chips with staged fade in and out animations used while the birch bar initially loads or reloads suggestion data.
+// ---
+
 #include "ash/wm/overview/birch/birch_chip_loader_view.h"
 
 #include "base/notreached.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overview session class
+// summary: Declares the OverviewSession class that shows a grid of selectable windows and manages selection, split view drag indicators, and session lifecycle.
+// ---
+
 #ifndef ASH_WM_OVERVIEW_OVERVIEW_SESSION_H_
 #define ASH_WM_OVERVIEW_OVERVIEW_SESSION_H_
 

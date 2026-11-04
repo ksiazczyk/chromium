@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Birch bar menu model adapter header
+// summary: Declares BirchBarMenuModelAdapter, which customizes birch context menu items by adding widgets like switch buttons and checkboxes.
+// ---
+
 #ifndef ASH_WM_OVERVIEW_BIRCH_BIRCH_BAR_MENU_MODEL_ADAPTER_H_
 #define ASH_WM_OVERVIEW_BIRCH_BIRCH_BAR_MENU_MODEL_ADAPTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overview UI task pool unit tests
+// summary: Unit tests verifying that OverviewUiTaskPool holds tasks during the blackout period, runs them across compositor frames, and flushes all pending tasks synchronously.
+// ---
+
 #include "ash/wm/overview/overview_ui_task_pool.h"
 
 #include <memory>

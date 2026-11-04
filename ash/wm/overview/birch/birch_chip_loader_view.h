@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Birch chip loader view declaration
+// summary: Declares BirchChipLoaderView, a placeholder chip shown on the birch bar with fade animations while suggestion data is fetched for informed restore or customization.
+// ---
+
 #ifndef ASH_WM_OVERVIEW_BIRCH_BIRCH_CHIP_LOADER_VIEW_H_
 #define ASH_WM_OVERVIEW_BIRCH_BIRCH_CHIP_LOADER_VIEW_H_
 

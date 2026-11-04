@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Admin template launch tracker implementation
+// summary: Implements tracking of windows launched from an admin template, adjusting their bounds to avoid overlap and feeding window updates back into the template.
+// ---
+
 #include "ash/wm/desks/templates/admin_template_launch_tracker.h"
 
 #include <algorithm>

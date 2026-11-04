@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeskTextfield class declaration
+// summary: Declares DeskTextfield, a system textfield styled as a label when unfocused, with a 300-character limit and a helper to commit desk name changes in a widget.
+// ---
+
 #ifndef ASH_WM_DESKS_DESK_TEXTFIELD_H_
 #define ASH_WM_DESKS_DESK_TEXTFIELD_H_
 

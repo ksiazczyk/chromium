@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persistent window controller implementation
+// summary: Saves and restores window bounds across display additions, removals, and rotations in multi-display scenarios.
+// ---
+
 #include "ash/wm/multi_display/persistent_window_controller.h"
 
 #include <ranges>

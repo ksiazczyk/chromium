@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default desk button class declaration
+// summary: Declares the zero-state desks bar button that displays the desk name and switches to the expanded desks bar on click.
+// ---
+
 #ifndef ASH_WM_DESKS_DEFAULT_DESK_BUTTON_H_
 #define ASH_WM_DESKS_DEFAULT_DESK_BUTTON_H_
 

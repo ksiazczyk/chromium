@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: saved_desk_util.cc
+// summary: Implements utility functions for the saved desks feature, including preference registration, feature and policy checks, and template window activation index updates.
+// ---
+
 #include "ash/wm/desks/templates/saved_desk_util.h"
 
 #include <ranges>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Birch bar utility implementation
+// summary: Implements birch bar helpers that create addon buttons, build the weather temperature view, and map menu command IDs to suggestion types.
+// ---
+
 #include "ash/wm/overview/birch/birch_bar_util.h"
 
 #include <utility>

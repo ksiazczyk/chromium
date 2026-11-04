@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the autotest desks API
+// summary: Tests desk creation, activation by index, active desk removal, and desks info reporting through the autotest desks API.
+// ---
+
 #include "ash/public/cpp/autotest_desks_api.h"
 
 #include "ash/test/ash_test_base.h"

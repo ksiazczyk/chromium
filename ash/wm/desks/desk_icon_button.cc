@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desk icon button implementation
+// summary: Implements the icon button shown in the desks bar, handling its zero, expanded, and active states with state-specific sizes, corner radii, and focus ring behavior.
+// ---
+
 #include "ash/wm/desks/desk_icon_button.h"
 
 #include <algorithm>

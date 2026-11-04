@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped overview transform window implementation
+// summary: Implements ScopedOverviewTransformWindow, which transforms windows and their transient children for overview mode and restores their original state afterwards.
+// ---
+
 #include "ash/wm/overview/scoped_overview_transform_window.h"
 
 #include <algorithm>

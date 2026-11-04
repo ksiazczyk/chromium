@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Birch overview directory dependency rules
+summary: Grants the Birch overview directory an include rule for chromeos/ash/components/geolocation headers.

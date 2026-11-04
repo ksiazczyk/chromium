@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Birch bar context menu model implementation
+// summary: Builds the Birch bar context menu, adding suggestion toggles and gating the weather item on geolocation permission.
+// ---
+
 #include "ash/wm/overview/birch/birch_bar_context_menu_model.h"
 
 #include <utility>

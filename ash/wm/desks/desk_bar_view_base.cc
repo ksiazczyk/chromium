@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desk bar view base implementation
+// summary: Implements shared desk bar behavior for overview and desk button bars, including layout, scrolling, buttons, drag handling and animations.
+// ---
+
 #include "ash/wm/desks/desk_bar_view_base.h"
 
 #include <algorithm>

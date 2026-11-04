@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delayed animation observer implementations
+// summary: Implements ForceDelayObserver plus enter and exit animation observers that signal the overview delegate when animations finish.
+// ---
+
 #include "ash/wm/overview/delayed_animation_observer_impl.h"
 
 #include "ash/wm/overview/overview_delegate.h"

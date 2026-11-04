@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab app selection view unit tests
+// summary: Unit tests for the tab app selection view and host, covering menu toggling, escape dismissal, close buttons, outside clicks, and keyboard navigation.
+// ---
+
 #include "ash/wm/overview/birch/tab_app_selection_view.h"
 
 #include "ash/birch/birch_item_remover.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped overview transform window unit tests
+// summary: Unit tests for ScopedOverviewTransformWindow covering aspect-ratio-preserving scaling and vertical centering of transformed overview window bounds.
+// ---
+
 #include "ash/wm/overview/scoped_overview_transform_window.h"
 
 #include "ash/public/cpp/window_properties.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desks UMA histogram enums and names
+// summary: Defines UMA enums for desk creation, removal, window moves, and desk switches, plus histogram name constants kept in sync with the ash enums.xml metadata.
+// ---
+
 #ifndef ASH_WM_DESKS_DESKS_HISTOGRAM_ENUMS_H_
 #define ASH_WM_DESKS_DESKS_HISTOGRAM_ENUMS_H_
 

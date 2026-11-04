@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeskTextfield implementation
+// summary: Implements the DeskTextfield view used to edit desk names, with label-like unfocused styling, tail eliding, tab-key handling, drag feedback, and focus commit behavior.
+// ---
+
 #include "ash/wm/desks/desk_textfield.h"
 
 #include "ash/shell.h"

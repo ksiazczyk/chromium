@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Birch chip button implementation
+// summary: Implements the birch chip button that shows suggestion icons, titles, subtitles, and addon views, with context menu and item type mapping.
+// ---
+
 #include "ash/wm/overview/birch/birch_chip_button.h"
 
 #include <utility>

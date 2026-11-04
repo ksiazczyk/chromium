@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overview observer interface
+// summary: Interface for observers that receive notifications about overview mode start, end, and animation completion events in ash.
+// ---
+
 #ifndef ASH_WM_OVERVIEW_OVERVIEW_OBSERVER_H_
 #define ASH_WM_OVERVIEW_OVERVIEW_OBSERVER_H_
 

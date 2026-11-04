@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab app selection host class declaration
+// summary: Declares TabAppSelectionHost, a views::Widget that contains the tab app selection view and slides in when shown for a coral chip.
+// ---
+
 #ifndef ASH_WM_OVERVIEW_BIRCH_TAB_APP_SELECTION_HOST_H_
 #define ASH_WM_OVERVIEW_BIRCH_TAB_APP_SELECTION_HOST_H_
 

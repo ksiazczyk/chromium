@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test API implementation for FloatController
+// summary: Implements test helpers that expose FloatController internals such as counters, tuck education disabling, and magnetism corner lookup.
+// ---
+
 #include "ash/wm/float/float_test_api.h"
 
 #include "ash/shell.h"

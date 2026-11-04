@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overview test utility header
+// summary: Declares test helpers for overview mode, including toggling overview, waiting for animations, retrieving grids and items, dragging items, and checking occlusion states.
+// ---
+
 #ifndef ASH_WM_OVERVIEW_OVERVIEW_TEST_UTIL_H_
 #define ASH_WM_OVERVIEW_OVERVIEW_TEST_UTIL_H_
 

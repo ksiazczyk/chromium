@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test back gesture contextual nudge delegate
+// summary: Test delegate that notifies the contextual nudge controller when navigation entries change for normal windows.
+// ---
+
 #include "ash/wm/gestures/back_gesture/test_back_gesture_contextual_nudge_delegate.h"
 
 #include "ash/public/cpp/back_gesture_contextual_nudge_controller.h"

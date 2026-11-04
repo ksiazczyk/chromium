@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Overview focus cycler unit tests
+// summary: Unit tests verifying tab and arrow key focus navigation in overview mode, including tablet mode and desks templates feature variations.
+// ---
+
 #include "ash/wm/overview/overview_focus_cycler.h"
 
 #include "ash/accessibility/accessibility_controller.h"

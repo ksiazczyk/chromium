@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Multi-display directory metadata
+summary: Metadata for the multi_display directory listing the owning team email and bug tracker components.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped overview wallpaper clipper implementation
+// summary: Implements ScopedOverviewWallpaperClipper, which animates wallpaper clipping when entering overview or informed restore and restores it on exit.
+// ---
+
 #include "ash/wm/overview/scoped_overview_wallpaper_clipper.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved desk icon container
+// summary: Declares SavedDeskIconContainer, a box layout view that shows app icons and favicons for a saved desk with +N count labels and an overflow icon.
+// ---
+
 #ifndef ASH_WM_DESKS_TEMPLATES_SAVED_DESK_ICON_CONTAINER_H_
 #define ASH_WM_DESKS_TEMPLATES_SAVED_DESK_ICON_CONTAINER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Saved desk test utilities declarations
+// summary: Declares test API wrappers that expose internal state of the saved desk presenter, library, grid, and item views for use in tests.
+// ---
+
 #ifndef ASH_WM_DESKS_TEMPLATES_SAVED_DESK_TEST_UTIL_H_
 #define ASH_WM_DESKS_TEMPLATES_SAVED_DESK_TEST_UTIL_H_
 

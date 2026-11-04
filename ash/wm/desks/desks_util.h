@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desks utility functions declarations
+// summary: Declares desks_util helpers for desk container IDs, active desk containers, window desk membership, all-desk visibility, and z-order tracking in Ash.
+// ---
+
 #ifndef ASH_WM_DESKS_DESKS_UTIL_H_
 #define ASH_WM_DESKS_DESKS_UTIL_H_
 

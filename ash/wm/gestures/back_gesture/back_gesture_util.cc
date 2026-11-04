@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Back gesture highlight border drawing utilities
+// summary: Implements helpers that paint circular and rounded-rectangular highlight borders for back gesture views onto a canvas.
+// ---
+
 #include "ash/wm/gestures/back_gesture/back_gesture_util.h"
 
 #include "ui/color/color_provider.h"

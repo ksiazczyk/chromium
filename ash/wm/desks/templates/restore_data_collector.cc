@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Restore data collector implementation
+// summary: Implements capturing the active desk's supported windows into a DeskTemplate restore data record, filtering unsupported and non-persistable apps.
+// ---
+
 #include "ash/wm/desks/templates/restore_data_collector.h"
 
 #include "ash/multi_user/multi_user_window_manager.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Birch bar unit tests
+// summary: Unit tests covering birch bar behavior, including chip setup, context menus, suggestion preferences, layout, and informed restore.
+// ---
+
 #include <array>
 #include <utility>
 

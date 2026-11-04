@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PipController implementation
+// summary: Implements PipController, which manages the Chrome OS picture-in-picture window, including tucking, dimming, resizing, and double-tap or shortcut size switching.
+// ---
+
 #include "ash/wm/pip/pip_controller.h"
 
 #include "ash/public/cpp/app_types_util.h"

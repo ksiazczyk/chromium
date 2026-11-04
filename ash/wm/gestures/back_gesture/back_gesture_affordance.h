@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Back gesture affordance class declaration
+// summary: Declares the BackGestureAffordance class that creates, paints and positions the affordance widget and tracks its drag, abort and complete states.
+// ---
+
 #ifndef ASH_WM_GESTURES_BACK_GESTURE_BACK_GESTURE_AFFORDANCE_H_
 #define ASH_WM_GESTURES_BACK_GESTURE_BACK_GESTURE_AFFORDANCE_H_
 

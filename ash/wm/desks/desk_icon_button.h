@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desk icon button class declaration
+// summary: Declares DeskIconButton, a desks bar button with an icon that transitions between zero, expanded, and active states and updates its appearance accordingly.
+// ---
+
 #ifndef ASH_WM_DESKS_DESK_ICON_BUTTON_H_
 #define ASH_WM_DESKS_DESK_ICON_BUTTON_H_
 

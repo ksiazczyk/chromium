@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overview window occlusion calculator
+// summary: Declares an OverviewObserver that owns the desks window occlusion calculator used during overview mode sessions.
+// ---
+
 #ifndef ASH_WM_OVERVIEW_OVERVIEW_WINDOW_OCCLUSION_CALCULATOR_H_
 #define ASH_WM_OVERVIEW_OVERVIEW_WINDOW_OCCLUSION_CALCULATOR_H_
 

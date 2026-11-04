@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tablet mode float window resizer implementation
+// summary: Implements dragging of floated windows in tablet mode, reverting small drags and forwarding completed drags, flings, and swipes to FloatController.
+// ---
+
 #include "ash/wm/float/tablet_mode_float_window_resizer.h"
 
 #include "ash/shell.h"

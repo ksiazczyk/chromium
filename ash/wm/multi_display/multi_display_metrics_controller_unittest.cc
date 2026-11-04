@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multi-display metrics controller unit tests
+// summary: Verifies histogram recording for window moves and resizes after display rotation and size changes.
+// ---
+
 #include "ash/wm/multi_display/multi_display_metrics_controller.h"
 
 #include "ash/accessibility/magnifier/docked_magnifier_controller.h"

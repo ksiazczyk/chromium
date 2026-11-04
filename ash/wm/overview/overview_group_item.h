@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverviewGroupItem class declaration
+// summary: Declares OverviewGroupItem, an OverviewItemBase subclass that represents a window group in overview mode as a composite of two individual OverviewItems.
+// ---
+
 #ifndef ASH_WM_OVERVIEW_OVERVIEW_GROUP_ITEM_H_
 #define ASH_WM_OVERVIEW_OVERVIEW_GROUP_ITEM_H_
 

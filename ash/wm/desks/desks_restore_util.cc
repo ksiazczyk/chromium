@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desk restore preferences implementation
+// summary: Implements registration and updating of profile prefs that persist desk names, GUIDs, usage metrics, and the active desk so they can be restored on session start.
+// ---
+
 #include "ash/wm/desks/desks_restore_util.h"
 
 #include <tuple>

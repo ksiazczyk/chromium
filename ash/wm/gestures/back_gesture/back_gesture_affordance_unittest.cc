@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Back gesture affordance unit tests
+// summary: Unit tests verifying the affordance stays inside the display and does not overlap the split view divider in various orientations.
+// ---
+
 #include "ash/wm/gestures/back_gesture/back_gesture_affordance.h"
 
 #include "ash/display/screen_orientation_controller.h"

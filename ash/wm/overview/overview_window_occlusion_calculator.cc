@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overview window occlusion calculator implementation
+// summary: Creates and destroys the desks window occlusion calculator at the start and end of each overview session.
+// ---
+
 #include "ash/wm/overview/overview_window_occlusion_calculator.h"
 
 #include "ash/shell.h"

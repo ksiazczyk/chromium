@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped overview wallpaper clipper
+// summary: Declares ScopedOverviewWallpaperClipper, which manages wallpaper clipping on overview entry and restoration on exit, with animation types including birch bar handling.
+// ---
+
 #ifndef ASH_WM_OVERVIEW_SCOPED_OVERVIEW_WALLPAPER_CLIPPER_H_
 #define ASH_WM_OVERVIEW_SCOPED_OVERVIEW_WALLPAPER_CLIPPER_H_
 

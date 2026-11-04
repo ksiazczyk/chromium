@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved desk constants header
+// summary: Declares shared constants for saved desk views, including spacing, corner radius, padding, and the starting activation index for windows launched from admin or floating workspace templates.
+// ---
+
 #ifndef ASH_WM_DESKS_TEMPLATES_SAVED_DESK_CONSTANTS_H_
 #define ASH_WM_DESKS_TEMPLATES_SAVED_DESK_CONSTANTS_H_
 

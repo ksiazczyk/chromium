@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PiP test utilities implementation
+// summary: Implements ForceHideShelvesForTest, a helper that hides shelves on all root window controllers for Ash tests.
+// ---
+
 #include "ash/wm/pip/pip_test_utils.h"
 
 #include "ash/root_window_controller.h"

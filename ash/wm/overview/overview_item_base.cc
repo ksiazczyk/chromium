@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverviewItemBase implementation
+// summary: Implements OverviewItemBase, including the factory that creates an OverviewGroupItem for snap group windows or a plain OverviewItem otherwise, plus shared drag and shadow logic.
+// ---
+
 #include "ash/wm/overview/overview_item_base.h"
 
 #include <vector>

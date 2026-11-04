@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Saved desk unit tests
+// summary: Unit tests covering the saved desk UI, including saving, launching, deleting, naming, metrics, and accessibility behavior of desks templates.
+// ---
+
 #include <algorithm>
 #include <array>
 #include <string>

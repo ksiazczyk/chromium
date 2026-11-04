@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverviewFocusCycler class declaration
+// summary: Declares OverviewFocusCycler, which moves the focus ring among overview UI widgets, accepts selections, and updates accessibility focus.
+// ---
+
 #ifndef ASH_WM_OVERVIEW_OVERVIEW_FOCUS_CYCLER_H_
 #define ASH_WM_OVERVIEW_OVERVIEW_FOCUS_CYCLER_H_
 

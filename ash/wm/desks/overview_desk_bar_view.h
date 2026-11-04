@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overview desk bar view class declaration
+// summary: Declares OverviewDeskBarView, the bar at the top of overview that holds desk mini views, the new desk button, the library button, and scroll arrow buttons.
+// ---
+
 #ifndef ASH_WM_DESKS_OVERVIEW_DESK_BAR_VIEW_H_
 #define ASH_WM_DESKS_OVERVIEW_DESK_BAR_VIEW_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of coral_title.json.
+type: asset
+title: Coral title Lottie animation
+summary: Lottie animation JSON describing the animated title lines of the coral loading UI, packaged as IDR_CORAL_LOADING_TITLE_ANIMATION.

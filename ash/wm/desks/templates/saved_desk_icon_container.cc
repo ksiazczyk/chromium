@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved desk icon container implementation
+// summary: Implements the icon container that determines which app icons and favicons to show for a saved desk, sorting them by activation index and managing the overflow icon.
+// ---
+
 #include "ash/wm/desks/templates/saved_desk_icon_container.h"
 
 #include <algorithm>

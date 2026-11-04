@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WmGestureHandler implementation
+// summary: Implements WmGestureHandler, turning three-finger vertical scrolls into overview entry and exit and four-finger horizontal scrolls into desk switching.
+// ---
+
 #include "ash/wm/gestures/wm_gesture_handler.h"
 
 #include "ash/session/session_controller_impl.h"

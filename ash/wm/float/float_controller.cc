@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Float controller implementation
+// summary: Implements floating of Ash windows above app windows, covering clamshell and tablet bounds, corner magnetism, tucking, desks, and usage metrics.
+// ---
+
 #include "ash/wm/float/float_controller.h"
 
 #include <algorithm>

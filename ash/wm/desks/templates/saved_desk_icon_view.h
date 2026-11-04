@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved desk icon view classes
+// summary: Declares the base SavedDeskIconView and regular/overflow icon views that load and display app or URL icons with count labels for saved desk items.
+// ---
+
 #ifndef ASH_WM_DESKS_TEMPLATES_SAVED_DESK_ICON_VIEW_H_
 #define ASH_WM_DESKS_TEMPLATES_SAVED_DESK_ICON_VIEW_H_
 

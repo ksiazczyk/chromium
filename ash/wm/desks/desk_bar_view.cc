@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desk bar view implementation
+// summary: Implements the desk bar shown from the shelf desk button, computing preferred size and available bounds for different shelf alignments.
+// ---
+
 #include "ash/wm/desks/desk_bar_view.h"
 
 #include "ash/public/cpp/shelf_types.h"

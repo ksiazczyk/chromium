@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Picture-in-Picture window resizer implementation
+// summary: Implements drag, pinch, fling and swipe-to-dismiss handling for picture-in-picture windows, including edge snapping and dismissal thresholds.
+// ---
+
 #include "ash/wm/pip/pip_window_resizer.h"
 
 #include <algorithm>

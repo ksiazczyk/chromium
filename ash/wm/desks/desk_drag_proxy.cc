@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desk drag proxy implementation
+// summary: Implements the drag proxy widget that shows a scaled desk preview while a desk is dragged and animates snapping back on drop.
+// ---
+
 #include "ash/wm/desks/desk_drag_proxy.h"
 
 #include "ash/drag_drop/drag_image_view.h"

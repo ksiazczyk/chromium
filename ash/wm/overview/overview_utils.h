@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overview mode utilities
+// summary: Declares helper functions for overview sessions, widget fade animations, item fill modes, window bounds, and grid bounds in the Ash shell.
+// ---
+
 #ifndef ASH_WM_OVERVIEW_OVERVIEW_UTILS_H_
 #define ASH_WM_OVERVIEW_OVERVIEW_UTILS_H_
 

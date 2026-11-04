@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desks window occlusion calculator unit tests
+// summary: Unit tests verifying that the desks window occlusion calculator snapshots correct occlusion states and keeps them static between snapshots.
+// ---
+
 #include "ash/wm/desks/desks_window_occlusion_calculator.h"
 
 #include "ash/shell.h"

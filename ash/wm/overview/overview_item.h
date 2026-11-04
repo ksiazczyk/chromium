@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverviewItem class declaration
+// summary: Declares OverviewItem, the OverviewItemBase subclass for a single window in overview mode, including its WindowDestructionDelegate interface and item view accessors.
+// ---
+
 #ifndef ASH_WM_OVERVIEW_OVERVIEW_ITEM_H_
 #define ASH_WM_OVERVIEW_OVERVIEW_ITEM_H_
 

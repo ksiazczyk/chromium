@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Picture-in-Picture window resizer unit tests
+// summary: Parameterized unit tests for PipWindowResizer covering dragging, pinching, flinging and swipe-to-dismiss of picture-in-picture windows across displays.
+// ---
+
 #include "ash/wm/pip/pip_window_resizer.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Back gesture event handler unit tests
+// summary: Unit tests for the back gesture event handler covering tablet mode swipes, split view, kiosk sessions, and accelerator-based back navigation.
+// ---
+
 #include "ash/wm/gestures/back_gesture/back_gesture_event_handler.h"
 
 #include "ash/accelerators/accelerator_controller_impl.h"

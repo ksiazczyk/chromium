@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeskActionButton class declaration
+// summary: Declares the DeskActionButton class, a close-style button representing the context menu, combine desks, or close desk action for a desk mini view.
+// ---
+
 #ifndef ASH_WM_DESKS_DESK_ACTION_BUTTON_H_
 #define ASH_WM_DESKS_DESK_ACTION_BUTTON_H_
 

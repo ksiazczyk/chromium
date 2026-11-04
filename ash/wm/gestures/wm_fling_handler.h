@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WmFlingHandler class declaration
+// summary: Declares WmFlingHandler, a compositor animation observer wrapping a FlingCurve to notify users of fling steps while scrolling in the window manager.
+// ---
+
 #ifndef ASH_WM_GESTURES_WM_FLING_HANDLER_H_
 #define ASH_WM_GESTURES_WM_FLING_HANDLER_H_
 

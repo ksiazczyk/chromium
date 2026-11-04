@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Gestures directory metadata
+summary: Directory metadata assigning the gestures folder to the chromeos-wm-corexp team with Buganizer and Monorail component IDs for issue tracking.

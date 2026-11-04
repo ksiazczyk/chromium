@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save desk button container class declaration
+// summary: Declares SavedDeskSaveDeskButtonContainer, a box layout view that hosts the save desk buttons and observes accessibility setting changes.
+// ---
+
 #ifndef ASH_WM_DESKS_TEMPLATES_SAVED_DESK_SAVE_DESK_BUTTON_CONTAINER_H_
 #define ASH_WM_DESKS_TEMPLATES_SAVED_DESK_SAVE_DESK_BUTTON_CONTAINER_H_
 

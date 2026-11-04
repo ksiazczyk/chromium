@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persistent window controller class declaration
+// summary: Declares a controller that observes display and session changes to persistently save and restore window bounds.
+// ---
+
 #ifndef ASH_WM_MULTI_DISPLAY_PERSISTENT_WINDOW_CONTROLLER_H_
 #define ASH_WM_MULTI_DISPLAY_PERSISTENT_WINDOW_CONTROLLER_H_
 

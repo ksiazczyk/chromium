@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved desk dialog controller implementation
+// summary: Implements confirmation dialogs for saved desks, including the unsupported apps dialog for Linux apps and incognito windows plus replace and delete prompts.
+// ---
+
 #include "ash/wm/desks/templates/saved_desk_dialog_controller.h"
 
 #include <string_view>

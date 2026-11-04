@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Float controller class declaration
+// summary: Declares FloatController, which keeps floated windows on top of app windows and manages tablet mode tucking, magnetism, and drag updates.
+// ---
+
 #ifndef ASH_WM_FLOAT_FLOAT_CONTROLLER_H_
 #define ASH_WM_FLOAT_FLOAT_CONTROLLER_H_
 

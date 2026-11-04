@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved desk library view class
+// summary: Declares the library view hosting saved desk grids in overview mode, with methods to add, update, delete, and animate launch of saved desk entries.
+// ---
+
 #ifndef ASH_WM_DESKS_TEMPLATES_SAVED_DESK_LIBRARY_VIEW_H_
 #define ASH_WM_DESKS_TEMPLATES_SAVED_DESK_LIBRARY_VIEW_H_
 

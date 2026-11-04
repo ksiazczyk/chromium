@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Birch bar context menu model unit tests
+// summary: Verifies that the weather menu item is enabled or disabled with a tooltip depending on the geolocation access level.
+// ---
+
 #include "ash/wm/overview/birch/birch_bar_context_menu_model.h"
 
 #include <utility>

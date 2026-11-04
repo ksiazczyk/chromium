@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overview drop target implementation
+// summary: Implements OverviewDropTarget, a transparent bordered view indicating where a dragged window will land when released in overview.
+// ---
+
 #include "ash/wm/overview/overview_drop_target.h"
 
 #include "ash/public/cpp/window_properties.h"

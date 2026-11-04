@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeskActionView class declaration
+// summary: Declares a box layout view that holds action buttons such as combine desks and close desk for a single desk mini view and reports child focus changes.
+// ---
+
 #ifndef ASH_WM_DESKS_DESK_ACTION_VIEW_H_
 #define ASH_WM_DESKS_DESK_ACTION_VIEW_H_
 

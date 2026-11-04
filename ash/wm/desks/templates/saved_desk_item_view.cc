@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved desk item view implementation
+// summary: Implements the grid item view for a saved desk, covering name editing, creation time label, app icons, managed status indicator, and delete and launch buttons.
+// ---
+
 #include "ash/wm/desks/templates/saved_desk_item_view.h"
 
 #include <optional>

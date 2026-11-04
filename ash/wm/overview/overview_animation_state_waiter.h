@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overview animation state waiter
+// summary: Declares OverviewAnimationStateWaiter, an OverviewObserver that waits for overview animations to finish and invokes a callback, used by testing APIs.
+// ---
+
 #ifndef ASH_WM_OVERVIEW_OVERVIEW_ANIMATION_STATE_WAITER_H_
 #define ASH_WM_OVERVIEW_OVERVIEW_ANIMATION_STATE_WAITER_H_
 

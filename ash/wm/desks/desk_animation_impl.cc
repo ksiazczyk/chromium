@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desk activation and removal animations implementation
+// summary: Implements DeskActivationAnimation and DeskRemovalAnimation, including touchpad swipe handling and latency and smoothness metrics histograms for desk switches.
+// ---
+
 #include "ash/wm/desks/desk_animation_impl.h"
 
 #include "ash/shell.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeskSwitchButton implementation
+// summary: Implements the previous and next desk switch image buttons, including event handling, focus traversal, styling, and UI updates for the active desk.
+// ---
+
 #include "ash/wm/desks/desk_button/desk_switch_button.h"
 
 #include "ash/resources/vector_icons/vector_icons.h"

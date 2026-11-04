@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Coral chip button implementation
+// summary: Implements the coral chip button for the birch bar, including group title loading, rainbow border animation, and the tab and app selection widget for launching coral groups.
+// ---
+
 #include "ash/wm/overview/birch/coral_chip_button.h"
 
 #include <utility>

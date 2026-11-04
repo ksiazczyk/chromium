@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Root window desk switch animator implementation
+// summary: Implements per-display desk switch animations that screenshot the starting and ending desks and animate quick or continuous transitions between them.
+// ---
+
 #include "ash/wm/desks/root_window_desk_switch_animator.h"
 
 #include <algorithm>

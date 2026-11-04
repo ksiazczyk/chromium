@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesksController implementation
+// summary: Implements DesksController, which creates, removes, reorders, and activates virtual desks, handling window moves, undo toasts, histograms, haptics, and restore integration.
+// ---
+
 #include "ash/wm/desks/desks_controller.h"
 
 #include <algorithm>

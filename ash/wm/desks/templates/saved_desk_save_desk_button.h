@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save desk button class declaration
+// summary: Declares SavedDeskSaveDeskButton, a pill button that carries a desk template type and a callback for saving desks.
+// ---
+
 #ifndef ASH_WM_DESKS_TEMPLATES_SAVED_DESK_SAVE_DESK_BUTTON_H_
 #define ASH_WM_DESKS_TEMPLATES_SAVED_DESK_SAVE_DESK_BUTTON_H_
 

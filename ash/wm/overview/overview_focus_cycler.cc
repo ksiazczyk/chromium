@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overview focus cycler implementation
+// summary: Implements focus cycling for overview mode, moving the focus ring across overview item widgets and rotating focus between traversable widgets, with accessibility support.
+// ---
+
 #include "ash/wm/overview/overview_focus_cycler.h"
 
 #include "ash/shell.h"

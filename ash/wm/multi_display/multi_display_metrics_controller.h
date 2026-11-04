@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-display metrics controller class declaration
+// summary: Declares a display observer that records whether users move or resize windows within a minute after display changes.
+// ---
+
 #ifndef ASH_WM_MULTI_DISPLAY_MULTI_DISPLAY_METRICS_CONTROLLER_H_
 #define ASH_WM_MULTI_DISPLAY_MULTI_DISPLAY_METRICS_CONTROLLER_H_
 

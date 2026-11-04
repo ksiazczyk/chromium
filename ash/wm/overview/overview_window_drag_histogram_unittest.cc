@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overview window drag histogram tests
+// summary: Tests that verify the UMA histograms recorded for window drag workflows in overview mode across clamshell and tablet configurations.
+// ---
+
 #include <memory>
 #include <vector>
 

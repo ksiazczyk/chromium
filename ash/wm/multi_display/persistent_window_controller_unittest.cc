@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Persistent window controller unit tests
+// summary: Tests window bound restoration when displays are disconnected, reconnected, and rotated.
+// ---
+
 #include "ash/wm/multi_display/persistent_window_controller.h"
 #include "ash/display/display_move_window_util.h"
 #include "ash/display/screen_orientation_controller_test_api.h"

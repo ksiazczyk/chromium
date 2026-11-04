@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default desk button implementation
+// summary: Implements the zero-state desks bar button that shows the single desk's name and expands the bar when pressed.
+// ---
+
 #include "ash/wm/desks/default_desk_button.h"
 
 #include <algorithm>

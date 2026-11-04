@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual desks layout and metrics constants
+// summary: Defines shared constants for virtual desks, covering desk bar heights, spacing, scroll and animation timings, desk button dimensions, and desk bar histogram names.
+// ---
+
 #ifndef ASH_WM_DESKS_DESKS_CONSTANTS_H_
 #define ASH_WM_DESKS_DESKS_CONSTANTS_H_
 

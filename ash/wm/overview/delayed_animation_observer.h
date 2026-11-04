@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delayed animation observer interface
+// summary: Defines the DelayedAnimationObserver interface for observers that notify an overview delegate when their animation completes.
+// ---
+
 #ifndef ASH_WM_OVERVIEW_DELAYED_ANIMATION_OBSERVER_H_
 #define ASH_WM_OVERVIEW_DELAYED_ANIMATION_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desk button base implementation
+// summary: Implements the shared base for desk bar buttons, setting up layers, accessibility, borders and focus rings.
+// ---
+
 #include "ash/wm/desks/desk_button_base.h"
 
 #include "ash/wm/desks/desk_bar_view_base.h"

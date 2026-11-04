@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overview utility functions
+// summary: Implements shared helpers for overview mode, such as session checks, widget fade and transform animations, and split view or snap related window checks.
+// ---
+
 #include "ash/wm/overview/overview_utils.h"
 
 #include <utility>

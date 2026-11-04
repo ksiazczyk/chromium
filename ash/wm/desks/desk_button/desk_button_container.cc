@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeskButtonContainer implementation
+// summary: Implements the container hosting the desk button and switch buttons, observing desk changes and laying out children for shelf alignment and zero state.
+// ---
+
 #include "ash/wm/desks/desk_button/desk_button_container.h"
 
 #include <vector>
