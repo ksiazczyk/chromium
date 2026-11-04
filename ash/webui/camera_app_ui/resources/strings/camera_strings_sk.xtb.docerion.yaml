@@ -1,0 +1,4 @@
+# Docerion header of camera_strings_sk.xtb.
+type: data
+title: Camera app strings, Slovak
+summary: Slovak XTB translation bundle mapping message IDs to localized strings for the ChromeOS camera app UI.

@@ -1,0 +1,4 @@
+# Docerion header of IDS_PTZ_RESET_ALL_BUTTON.png.sha1.
+type: data
+title: PTZ reset all button string hash (IDS_PTZ_RESET_ALL_BUTTON)
+summary: Stores the SHA1 placeholder hash that tracks the PTZ reset all button label in the ChromeOS camera app string resources.

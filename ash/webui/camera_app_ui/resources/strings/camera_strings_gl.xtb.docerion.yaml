@@ -1,0 +1,4 @@
+# Docerion header of camera_strings_gl.xtb.
+type: data
+title: Galician translation strings for the camera app UI
+summary: XTB translation bundle with Galician translations of the camera app UI strings, covering capture modes, recording, QR scanning, and settings messages.

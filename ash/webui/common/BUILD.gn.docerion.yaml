@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for ash WebUI common libraries
+summary: Defines GN static libraries and source sets for shared ChromeOS WebUI code, including keyboard diagram strings, shortcut input key strings, SeaPen, WebUI config, and trusted types utilities.

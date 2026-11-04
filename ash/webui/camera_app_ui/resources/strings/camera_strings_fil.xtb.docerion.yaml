@@ -1,0 +1,4 @@
+# Docerion header of camera_strings_fil.xtb.
+type: data
+title: Filipino translation strings for the camera app UI
+summary: XTB translation bundle with Filipino translations of the camera app UI strings, covering capture modes, recording, QR scanning, and settings messages.

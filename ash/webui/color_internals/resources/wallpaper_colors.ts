@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper color display logic
+// summary: Subscribes to wallpaper color updates over Mojo and renders the k-mean and Celebi wallpaper colors as swatches with RGBA labels.
+// ---
+
 import type {SkColor} from 'chrome://resources/mojo/skia/public/mojom/skcolor.mojom-webui.js';
 
 import type {WallpaperCalculatedColors} from './color_internals.mojom-webui.js';

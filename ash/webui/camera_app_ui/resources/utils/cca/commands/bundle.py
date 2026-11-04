@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Bundle CCA as a static website
+# summary: CLI command that compiles the camera app with tsc and assembles a static website bundle under dist for serving by any static HTTP server.
+# ---
+
 import logging
 import os
 import re

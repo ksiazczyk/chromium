@@ -1,0 +1,4 @@
+# Docerion header of camera_strings_th.xtb.
+type: data
+title: Camera app strings in Thai
+summary: Thai translation bundle with localized UI strings for the Chrome OS camera app, covering camera modes, recording, QR scanning, timers and settings messages.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color internals WebUI controller declarations
+// summary: Declares the WebUI controller and its configuration class for the ChromeOS color internals page, including the wallpaper colors handler interface binding.
+// ---
+
 #ifndef ASH_WEBUI_COLOR_INTERNALS_COLOR_INTERNALS_UI_H_
 #define ASH_WEBUI_COLOR_INTERNALS_COLOR_INTERNALS_UI_H_
 

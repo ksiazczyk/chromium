@@ -1,0 +1,4 @@
+# Docerion header of gen_preload_images_js.py.
+type: script
+title: Preload images JS generator
+summary: Generates an ES6 module exporting the lists of in-app and standalone images to preload in the camera app UI.

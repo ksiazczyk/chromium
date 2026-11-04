@@ -1,0 +1,4 @@
+# Docerion header of main.html.
+type: source
+title: Chrome OS camera app main view page
+summary: Main HTML document of the Chrome OS camera app UI, defining the preview area, expert controls, menus, and other interface views.

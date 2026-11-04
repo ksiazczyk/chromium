@@ -1,0 +1,4 @@
+# Docerion header of camera_strings_bg.xtb.
+type: data
+title: Bulgarian translations for the camera app
+summary: XML translation bundle with Bulgarian UI strings for the ChromeOS camera app.

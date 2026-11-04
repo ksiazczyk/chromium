@@ -1,0 +1,4 @@
+# Docerion header of camera_strings_kn.xtb.
+type: data
+title: Kannada camera app translation strings
+summary: Kannada translation bundle with localized UI strings for the Chrome OS camera app, covering camera modes, recording, photo settings, and QR scanning.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for camera app string resources
+summary: GN build file that runs grit to generate the camera app string header and per-language resource packs from camera_strings.grd.

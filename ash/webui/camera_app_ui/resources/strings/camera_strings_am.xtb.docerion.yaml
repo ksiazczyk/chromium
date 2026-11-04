@@ -1,0 +1,4 @@
+# Docerion header of camera_strings_am.xtb.
+type: data
+title: Amharic translations for the camera app
+summary: XML translation bundle with Amharic UI strings for the ChromeOS camera app.

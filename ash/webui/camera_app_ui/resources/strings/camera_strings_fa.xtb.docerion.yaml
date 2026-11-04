@@ -1,0 +1,4 @@
+# Docerion header of camera_strings_fa.xtb.
+type: data
+title: Persian translation strings for the camera app UI
+summary: XTB translation bundle with Persian translations of the camera app UI strings, covering capture modes, recording, QR scanning, and settings messages.

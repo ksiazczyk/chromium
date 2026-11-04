@@ -1,0 +1,4 @@
+# Docerion header of IDS_PREVIEW_OCR_OPTION.png.sha1.
+type: data
+title: Preview OCR option string hash (IDS_PREVIEW_OCR_OPTION)
+summary: Stores the SHA1 placeholder hash that tracks the preview OCR option label in the ChromeOS camera app string resources.

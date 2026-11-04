@@ -1,0 +1,4 @@
+# Docerion header of camera_strings_af.xtb.
+type: data
+title: Afrikaans translations for the camera app
+summary: XML translation bundle with Afrikaans UI strings for the ChromeOS camera app.

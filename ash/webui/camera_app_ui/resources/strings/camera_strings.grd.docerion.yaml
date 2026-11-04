@@ -1,0 +1,4 @@
+# Docerion header of camera_strings.grd.
+type: data
+title: Grit string definitions for the ChromeOS camera app
+summary: Grit resource file defining the camera app UI messages and the per-language pak outputs generated from them.

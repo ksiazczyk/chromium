@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the ChromeOS peripherals team
+summary: Maps this directory to the ChromeOS Software System Services Peripherals team with Buganizer component 1150827.

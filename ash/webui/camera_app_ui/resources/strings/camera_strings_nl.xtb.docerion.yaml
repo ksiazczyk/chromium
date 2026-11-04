@@ -1,0 +1,4 @@
+# Docerion header of camera_strings_nl.xtb.
+type: data
+title: Dutch camera app translation strings
+summary: Dutch XTB translation bundle with localized strings for the Chrome OS camera app, covering camera modes, recording, QR and document scanning, and settings messages.

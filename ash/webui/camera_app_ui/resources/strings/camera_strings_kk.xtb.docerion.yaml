@@ -1,0 +1,4 @@
+# Docerion header of camera_strings_kk.xtb.
+type: data
+title: Kazakh camera app translation strings
+summary: Kazakh translation bundle with localized UI strings for the Chrome OS camera app, covering camera modes, recording, photo settings, and QR scanning.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trusted Types CSP enablement implementation
+// summary: Implements EnableTrustedTypesCSP, which overrides CSP directives on a WebUI data source to require Trusted Types for scripts.
+// ---
+
 #include "ash/webui/common/trusted_types_util.h"
 
 #include "base/strings/strcat.h"

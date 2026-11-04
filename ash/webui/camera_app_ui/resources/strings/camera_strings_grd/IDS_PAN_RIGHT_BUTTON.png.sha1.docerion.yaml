@@ -1,0 +1,4 @@
+# Docerion header of IDS_PAN_RIGHT_BUTTON.png.sha1.
+type: data
+title: Pan right button string hash (IDS_PAN_RIGHT_BUTTON)
+summary: Stores the SHA1 placeholder hash that tracks the pan right button label in the ChromeOS camera app string resources.

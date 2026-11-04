@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: CCA bundle upload command for internal server
+# summary: Defines the 'upload' CLI command that copies the built CCA bundle to an internal server directory via fileutil, with overwrite confirmation and a shareable URL.
+# ---
+
 import os
 from cca import cli
 from cca import util

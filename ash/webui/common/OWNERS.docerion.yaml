@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Primary code owners for ash WebUI common
+summary: Lists the primary OWNERS for the directory and delegates ownership of sea_pen files to the personalization app OWNERS file.

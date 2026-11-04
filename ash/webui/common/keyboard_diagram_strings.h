@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the keyboard diagram strings helper
+// summary: Declares the AddKeyboardDiagramStrings function that registers keyboard diagram localized strings with a WebUI data source.
+// ---
+
 #ifndef ASH_WEBUI_COMMON_KEYBOARD_DIAGRAM_STRINGS_H_
 #define ASH_WEBUI_COMMON_KEYBOARD_DIAGRAM_STRINGS_H_
 

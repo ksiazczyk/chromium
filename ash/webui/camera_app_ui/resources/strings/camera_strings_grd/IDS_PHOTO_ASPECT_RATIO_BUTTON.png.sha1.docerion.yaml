@@ -1,0 +1,4 @@
+# Docerion header of IDS_PHOTO_ASPECT_RATIO_BUTTON.png.sha1.
+type: data
+title: Photo aspect ratio button string hash (IDS_PHOTO_ASPECT_RATIO_BUTTON)
+summary: Stores the SHA1 placeholder hash that tracks the photo aspect ratio button label in the ChromeOS camera app string resources.

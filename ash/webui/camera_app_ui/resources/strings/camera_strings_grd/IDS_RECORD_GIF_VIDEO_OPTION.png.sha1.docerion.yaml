@@ -1,0 +1,4 @@
+# Docerion header of IDS_RECORD_GIF_VIDEO_OPTION.png.sha1.
+type: data
+title: GIF video recording option string hash (IDS_RECORD_GIF_VIDEO_OPTION)
+summary: Stores the SHA1 placeholder hash that tracks the GIF video recording option label in the ChromeOS camera app string resources.

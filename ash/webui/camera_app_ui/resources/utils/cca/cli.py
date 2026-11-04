@@ -1,6 +1,13 @@
 # Copyright 2023 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Command line parsing framework
+# summary: Provides a decorator-based argparse framework for defining nested command line commands, options, and handlers.
+# ---
+
 """The utilities for parsing command line arguments"""
 
 from __future__ import annotations

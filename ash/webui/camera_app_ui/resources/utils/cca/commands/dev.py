@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Local development server for the camera app UI
+# summary: Runs a local development HTTP server for the camera app UI, routing requests, stubbing browser-internal resource references, and serving generated strings and preload image scripts.
+# ---
+
 import functools
 import http.server
 import json

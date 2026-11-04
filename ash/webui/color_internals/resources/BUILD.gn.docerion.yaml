@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Color Internals WebUI build definition
+summary: GN build config that assembles the Color Internals WebUI, listing its HTML and TypeScript sources, Mojo dependencies, and generated grd/grdp resource bundles.

@@ -1,0 +1,4 @@
+# Docerion header of camera_strings_lv.xtb.
+type: data
+title: Latvian camera app translation strings
+summary: Latvian translation bundle with localized UI strings for the Chrome OS camera app, covering camera modes, recording, photo settings, and QR scanning.

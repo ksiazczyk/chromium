@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Color Internals build configuration (BUILD.gn)
+summary: Defines the GN build target for the ChromeOS-only color_internals static library, listing its C++ sources and dependencies on the mojom and WebUI resources targets.

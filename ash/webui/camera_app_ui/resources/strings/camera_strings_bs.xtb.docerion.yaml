@@ -1,0 +1,4 @@
+# Docerion header of camera_strings_bs.xtb.
+type: data
+title: Camera app UI strings in Bosnian
+summary: Bosnian translation bundle with localized UI strings for the Chrome OS camera app, stored as XML translation elements keyed by message IDs.

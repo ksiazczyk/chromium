@@ -1,0 +1,4 @@
+# Docerion header of IDS_EXPERT_SHOW_ALL_RESOLUTIONS.png.sha1.
+type: data
+title: SHA1 hash of the IDS_EXPERT_SHOW_ALL_RESOLUTIONS image
+summary: Holds the SHA1 checksum that pins the screenshot image for the show-all-resolutions expert setting string in the Chrome OS camera app.

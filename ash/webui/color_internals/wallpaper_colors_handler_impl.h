@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper colors handler class declaration
+// summary: Declares WallpaperColorsHandlerImpl, which bridges WallpaperControllerObserver callbacks to the color_internals Mojo observer for the WebUI.
+// ---
+
 #ifndef ASH_WEBUI_COLOR_INTERNALS_WALLPAPER_COLORS_HANDLER_IMPL_H_
 #define ASH_WEBUI_COLOR_INTERNALS_WALLPAPER_COLORS_HANDLER_IMPL_H_
 

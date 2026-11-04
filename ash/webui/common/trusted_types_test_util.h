@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trusted Types test policy utility header
+// summary: Declares a test helper that adds a Trusted Types policy allowing Ash WebUI tests to create trusted script URLs.
+// ---
+
 #ifndef ASH_WEBUI_COMMON_TRUSTED_TYPES_TEST_UTIL_H_
 #define ASH_WEBUI_COMMON_TRUSTED_TYPES_TEST_UTIL_H_
 

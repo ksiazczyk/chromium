@@ -1,0 +1,4 @@
+# Docerion header of IDS_LABEL_BARCODE_WIFI_CHIP.png.sha1.
+type: data
+title: SHA1 hash of the IDS_LABEL_BARCODE_WIFI_CHIP image
+summary: Holds the SHA1 checksum that pins the screenshot image for the barcode Wi-Fi chip label string in the Chrome OS camera app.

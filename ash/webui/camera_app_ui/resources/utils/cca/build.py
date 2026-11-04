@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Camera app UI build helpers
+# summary: Generates preload_images.js from the image GN lists and sets up TypeScript config and mojom symlinks for building the camera app UI.
+# ---
+
 import ast
 import glob
 import json

@@ -1,0 +1,4 @@
+# Docerion header of camera_strings_hr.xtb.
+type: data
+title: Croatian translations for the Camera app UI
+summary: Croatian XTB translation bundle with localized strings for the Chrome OS Camera app UI, covering modes, recording, settings, and QR scanning messages.

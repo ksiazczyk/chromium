@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Color Internals DEPS include rules
+summary: Sets include rules for the color_internals directory, permitting ui/webui and forbidding direct chrome dependencies in favor of a delegate pattern.

@@ -1,0 +1,4 @@
+# Docerion header of camera_strings_fr.xtb.
+type: data
+title: French translation strings for the camera app UI
+summary: XTB translation bundle with French translations of the camera app UI strings, covering capture modes, recording, QR scanning, and settings messages.
