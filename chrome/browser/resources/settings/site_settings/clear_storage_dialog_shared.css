@@ -6,6 +6,12 @@
  * #type=style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Clear storage dialog shared styles
+summary: Shared styles for the clear storage dialog, laying out detail rows and icons.
+*/
+
 .detail-list {
   margin-top: 12px;
 }

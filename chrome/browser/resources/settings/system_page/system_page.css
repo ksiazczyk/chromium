@@ -9,6 +9,12 @@
  * #include=cr-shared-style-lit settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: System page styles
+summary: Stylesheet for the Chrome settings system page, defining layout for proxy rows and multisource padding.
+*/
+
 .proxy-multisource-padding {
   margin-inline-start: 36px;
 }

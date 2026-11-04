@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search page index element
+// summary: Lit element hosting the search settings views in a view manager and switching between them based on the current settings route.
+// ---
+
 import 'chrome://resources/cr_elements/cr_view_manager/cr_view_manager.js';
 import './omnibox_everywhere_section.js';
 import './site_shortcuts_page.js';

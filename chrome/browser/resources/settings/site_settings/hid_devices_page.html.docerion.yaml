@@ -1,0 +1,4 @@
+# Docerion header of hid_devices_page.html.
+type: source
+title: HID Devices Settings Page Template
+summary: HTML template for the HID devices settings subpage with an ask/block default radio group and a chooser exception list for granted devices.

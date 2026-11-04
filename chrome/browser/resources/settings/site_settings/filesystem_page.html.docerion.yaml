@@ -1,0 +1,4 @@
+# Docerion header of filesystem_page.html.
+type: source
+title: File System Settings Page Template
+summary: HTML template for the File System write settings subpage with an ask/block default radio group, a read-only exceptions list, and an optional persistent permissions site list.

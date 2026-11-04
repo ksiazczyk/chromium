@@ -8,6 +8,12 @@
  * checkbox and toggle button.
  */
 
+// ---docerion
+// type: source
+// title: Settings boolean control mixin
+// summary: Mixin helping controls such as checkboxes and toggles handle boolean preferences, including checked state and numeric pref values.
+// ---
+
 // clang-format off
 import {assert} from 'chrome://resources/js/assert.js';
 import type { PolymerElement} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';

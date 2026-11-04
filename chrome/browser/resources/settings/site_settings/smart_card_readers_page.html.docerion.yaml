@@ -1,0 +1,4 @@
+# Docerion header of smart_card_readers_page.html.
+type: source
+title: Smart card readers page template
+summary: HTML template for the smart card readers settings subpage, showing default ask or block options and a chooser exception list.

@@ -1,0 +1,4 @@
+# Docerion header of edit_exception_dialog.html.
+type: source
+title: Edit exception dialog template
+summary: HTML template for the dialog used to edit a site exception entry, with an origin input, validation and save/cancel buttons.

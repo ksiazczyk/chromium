@@ -4,6 +4,12 @@
 
 /** @fileoverview Handles interprocess communication for the privacy page. */
 
+// ---docerion
+// type: source
+// title: Privacy page browser proxy
+// summary: TypeScript browser proxy that handles interprocess communication for the settings privacy page, including getting and setting metrics reporting state.
+// ---
+
 // clang-format off
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 // clang-format on

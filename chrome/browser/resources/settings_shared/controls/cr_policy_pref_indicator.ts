@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy pref indicator element
+// summary: Polymer element that shows icons and tooltips for settings preferences controlled by policy, an extension, or another user.
+// ---
+
 /**
  * @fileoverview Polymer element for indicating policies that apply to an
  * element controlling a settings preference.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chooser exception list element
+// summary: Polymer element that displays chooser exceptions for a given chooser type and supports resetting all chooser permissions.
+// ---
+
 /**
  * @fileoverview
  * 'chooser-exception-list' shows a list of chooser exceptions for a given

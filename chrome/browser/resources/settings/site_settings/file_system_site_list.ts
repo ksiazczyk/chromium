@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File System Site List Element
+// summary: Polymer element that loads origin-specific File System Access permission grants, refreshes them on route and setting changes, and revokes grants for an origin on request.
+// ---
+
 /**
  * @fileoverview
  * 'file-system-site-list' is an element representing a list of origin-specific

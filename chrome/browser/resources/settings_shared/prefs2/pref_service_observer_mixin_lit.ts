@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit mixin for observing preference changes
+// summary: A Lit element mixin that adds preference observer management and one-way pref-to-property mirroring with automatic cleanup on disconnect.
+// ---
+
 import type {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {PrefService} from './pref_service.js';

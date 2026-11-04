@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media picker element
+// summary: Defines the media-picker custom element showing a dropdown to choose the default camera or microphone and persisting the choice via the browser proxy.
+// ---
+
 /**
  * @fileoverview
  * 'media-picker' handles showing the dropdown allowing users to select the

@@ -12,6 +12,12 @@
  * #include=cr-page-host-style-lit cr-scrollable-lit settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Settings UI styles
+summary: Lit CSS styles for the settings-ui element, defining layout, menu width, toolbar appearance, themed colors, and responsive breakpoints for the Chrome Settings page.
+*/
+
 :host {
   display: flex;
   flex-direction: column;

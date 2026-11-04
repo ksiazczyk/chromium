@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: All Sites page element
+// summary: Implements the all-sites element listing sites under site settings, with sorting, filtering, action menus and site removal dialogs.
+// ---
+
 /**
  * @fileoverview
  * 'all-sites' is the polymer element for showing the list of all sites under

@@ -1,0 +1,4 @@
+# Docerion header of storage_access_site_list.html.
+type: source
+title: Storage access site list template
+summary: HTML template that renders a filtered list of storage access exceptions with empty state and no search results messages.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recent site permissions element
+// summary: Defines the settings-recent-site-permissions element that populates and manages the list of recent site permission grants on the site settings page.
+// ---
+
 import 'chrome://resources/cr_elements/policy/cr_tooltip_icon.js';
 import 'chrome://resources/cr_elements/cr_icon_button/cr_icon_button.js';
 import 'chrome://resources/cr_elements/cr_tooltip/cr_tooltip.js';

@@ -8,6 +8,12 @@
  * #include=settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Add site dialog styles
+summary: Stylesheet for the add site dialog, mainly adding padding below the incognito checkbox.
+*/
+
 #incognito {
   padding-bottom: 10px;
 }

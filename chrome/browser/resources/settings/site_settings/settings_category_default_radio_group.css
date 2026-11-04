@@ -8,6 +8,12 @@
  * #include=settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Category default radio group styles
+summary: Lit stylesheet for the settings-category-default-radio-group element, laying out the radio section and collapse radio buttons.
+*/
+
 #radioSection {
   padding: 0 var(--cr-section-padding);
 }

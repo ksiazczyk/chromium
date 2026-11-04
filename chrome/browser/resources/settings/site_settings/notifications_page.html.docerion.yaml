@@ -1,0 +1,4 @@
+# Docerion header of notifications_page.html.
+type: source
+title: Notifications settings subpage template
+summary: HTML template for the notifications site settings subpage, including default and quiet or loud request radio options plus exception lists.

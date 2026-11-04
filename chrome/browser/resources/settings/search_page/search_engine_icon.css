@@ -8,6 +8,12 @@
  * #include=settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Search engine icon styles
+summary: Lit styles for the settings-search-engine-icon element, sizing favicons and downloaded icons to 16 pixels.
+*/
+
 site-favicon,
 #downloadedIcon {
   display: block;

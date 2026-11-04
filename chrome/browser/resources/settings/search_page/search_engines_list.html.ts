@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit template for the search engines list
+// summary: Lit HTML template rendering the search engines list with column headers, entries and a collapsible section.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsSearchEnginesListElement} from './search_engines_list.js';

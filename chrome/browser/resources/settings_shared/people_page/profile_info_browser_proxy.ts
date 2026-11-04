@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile info browser proxy for settings people page
+// summary: TypeScript browser proxy that fetches profile name, icon URL, and profile stats count for the settings people page WebUI.
+// ---
+
 // clang-format off
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 // clang-format on

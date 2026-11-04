@@ -1,0 +1,4 @@
+# Docerion header of microphone_page.html.
+type: source
+title: Microphone settings subpage template
+summary: HTML template for the microphone site settings subpage, showing a media picker, the default ask or block radio group, and the exception lists.

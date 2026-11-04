@@ -19,6 +19,12 @@
  *     back button.
  */
 
+// ---docerion
+// type: source
+// title: SettingsViewMixin for focus and search bubbles
+// summary: Polymer mixin for settings plugin views that preserves focus during navigation and supports search bubble highlighting of child view entry points.
+// ---
+
 import {assert, assertNotReached} from '//resources/js/assert.js';
 import {focusWithoutInk} from '//resources/js/focus_without_ink.js';
 import type {PolymerElement} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';

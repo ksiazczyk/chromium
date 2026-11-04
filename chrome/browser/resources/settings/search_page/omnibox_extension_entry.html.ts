@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox extension entry template
+// summary: Lit HTML template showing an omnibox extension with favicon, name and keyword plus a menu to manage or disable it.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsOmniboxExtensionEntryElement} from './omnibox_extension_entry.js';

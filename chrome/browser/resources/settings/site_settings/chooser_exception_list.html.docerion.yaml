@@ -1,0 +1,4 @@
+# Docerion header of chooser_exception_list.html.
+type: source
+title: Chooser exception list template
+summary: HTML template for the chooser-exception-list element with a reset permissions dialog, empty list message and repeated exception entries.

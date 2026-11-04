@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard shortcut settings page element
+// summary: Defines the settings-keyboard-shortcut-page element offering a dropdown to choose space or tab shortcut behavior.
+// ---
+
 /**
  * @fileoverview
  * 'settings-keyboard-shortcut-page' is the settings page containing

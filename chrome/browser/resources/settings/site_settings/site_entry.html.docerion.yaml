@@ -1,0 +1,4 @@
+# Docerion header of site_entry.html.
+type: source
+title: Site entry template
+summary: HTML template for the site entry row showing a grouped site's favicon, display name, usage, cookies, and related website set information.

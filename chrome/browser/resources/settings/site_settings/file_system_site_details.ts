@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File system site details element
+// summary: Polymer element file-system-site-details showing per-origin File System Access API grants and supporting revoking individual grants.
+// ---
+
 /**
  * @fileoverview
  * 'file-system-site-details' shows the individual permission grant details

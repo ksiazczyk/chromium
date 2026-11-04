@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox Everywhere browser proxy
+// summary: Browser proxy interface and implementation for getting and setting the Omnibox Everywhere shortcut and its suspension state.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 
 export interface OmniboxEverywhereBrowserProxy {

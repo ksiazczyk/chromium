@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera settings page custom element
+// summary: TypeScript source defining the settings-camera-page Polymer element that renders the camera settings subpage.
+// ---
+
 import './category_setting_exceptions.js';
 import './media_picker.js';
 import './settings_category_default_radio_group.js';

@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_devices_page.html.
+type: source
+title: Bluetooth devices settings page template
+summary: HTML template for the Chrome settings subpage controlling the Bluetooth devices content setting, with ask/block defaults and a chooser exception list.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Add site dialog element
+// summary: Implements the add-site-dialog element for adding exceptions to a content settings category, including pattern validation and cookies exception modes.
+// ---
+
 /**
  * @fileoverview
  * 'add-site-dialog' provides a dialog to add exceptions for a given Content

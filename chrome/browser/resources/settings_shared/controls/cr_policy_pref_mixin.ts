@@ -6,6 +6,12 @@
  * @fileoverview Behavior for policy controlled settings prefs.
  */
 
+// ---docerion
+// type: source
+// title: Policy pref mixin
+// summary: Mixin providing helpers to determine whether a settings preference is enforced or recommended by policy.
+// ---
+
 import type {PolymerElement} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import {dedupingMixin} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 

@@ -9,6 +9,12 @@
  * #include=settings-shared-lit search-engine-entry-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Omnibox extension entry styles
+summary: Lit stylesheet for the omnibox extension entry list item, laying out its name and keyword columns.
+*/
+
 .name-column {
   align-items: center;
   display: flex;

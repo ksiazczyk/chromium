@@ -1,0 +1,4 @@
+# Docerion header of javascript_page.html.
+type: source
+title: JavaScript settings page template
+summary: HTML template for the JavaScript content settings subpage with allow and block radio options and per-site exceptions.

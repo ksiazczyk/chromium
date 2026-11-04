@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox Everywhere settings section element
+// summary: Settings section element providing controls for Omnibox Everywhere, observing prefs and managing the registered shortcut.
+// ---
+
 /**
  * @fileoverview
  * 'settings-omnibox-everywhere-section' is the settings section containing

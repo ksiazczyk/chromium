@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage access static site list entry element
+// summary: Polymer element that renders a single storage access permission row with a reset button, used within the storage access site list in site settings.
+// ---
+
 /**
  * @fileoverview
  * 'storage-access-embedding-site-list-entry' is an element representing a

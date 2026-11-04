@@ -1,0 +1,4 @@
+# Docerion header of settings_menu.html.
+type: source
+title: Settings menu template
+summary: HTML template listing the navigation menu items for Chrome settings pages, with icons, visibility bindings, and platform-conditional sections.

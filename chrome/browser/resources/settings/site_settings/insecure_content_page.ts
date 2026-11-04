@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Insecure content settings page element
+// summary: Defines the settings-insecure-content-page custom element for the mixed script content settings subpage with search and exception list.
+// ---
+
 import './category_setting_exceptions.js';
 import './site_settings_shared.css.js';
 import '../settings_page/settings_subpage.js';

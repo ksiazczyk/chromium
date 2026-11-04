@@ -6,6 +6,12 @@
  * #type=style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shared search engine entry styles
+summary: Shared Lit style fragment for search engine entry components, mainly spacing for site favicons.
+*/
+
 site-favicon {
   margin-inline-end: 8px;
   min-width: 16px;

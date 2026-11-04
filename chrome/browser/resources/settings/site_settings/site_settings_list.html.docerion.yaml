@@ -1,0 +1,4 @@
+# Docerion header of site_settings_list.html.
+type: source
+title: Site settings list template
+summary: HTML template for the site settings list element, rendering a link row for each content settings category with icon, label, and sub-label.

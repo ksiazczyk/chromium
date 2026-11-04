@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for site settings UI
+summary: Lists code owners for the site settings UI directory, including a per-file owner rule for media picker files.

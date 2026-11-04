@@ -1,0 +1,4 @@
+# Docerion header of window_management_page.html.
+type: source
+title: Window management settings page template
+summary: HTML template for the window management content settings subpage, showing the ask/block default radio group and the per-site exceptions list.

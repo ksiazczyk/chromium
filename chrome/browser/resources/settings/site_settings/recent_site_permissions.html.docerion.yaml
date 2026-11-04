@@ -1,0 +1,4 @@
+# Docerion header of recent_site_permissions.html.
+type: source
+title: Recent site permissions list template
+summary: HTML template listing recently granted site permissions with favicons, permission summaries, and incognito tooltips.

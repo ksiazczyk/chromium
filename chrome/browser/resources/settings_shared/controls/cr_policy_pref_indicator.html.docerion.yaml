@@ -1,0 +1,4 @@
+# Docerion header of cr_policy_pref_indicator.html.
+type: source
+title: Policy pref indicator template
+summary: HTML template rendering a tooltip icon that indicates policies applying to a settings preference control.

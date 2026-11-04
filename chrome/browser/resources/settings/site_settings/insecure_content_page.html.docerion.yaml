@@ -1,0 +1,4 @@
+# Docerion header of insecure_content_page.html.
+type: source
+title: Insecure content settings page template
+summary: HTML template for the insecure content settings subpage listing allowed and blocked exceptions for mixed script content.

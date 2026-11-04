@@ -6,6 +6,12 @@
  * @fileoverview Behavior common to Site Settings classes in Lit.
  */
 
+// ---docerion
+// type: source
+// title: Site settings mixin for Lit elements
+// summary: Lit variant of the site settings mixin offering the same shared URL and exception helpers for Lit-based site settings elements.
+// ---
+
 import {dedupingMixin} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 import type {CrLitElement} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 

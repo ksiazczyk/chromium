@@ -8,6 +8,12 @@
  * under Site Settings.
  */
 
+// ---docerion
+// type: source
+// title: Notifications settings page element
+// summary: Defines the settings-notifications-page Polymer element that toggles the additional ask-quiet, CPSS, and loud options when the default is ask.
+// ---
+
 import 'chrome://resources/cr_elements/cr_icon/cr_icon.js';
 import 'chrome://resources/cr_elements/cr_hidden_style.css.js';
 import 'chrome://resources/cr_elements/cr_radio_button/cr_radio_button.js';

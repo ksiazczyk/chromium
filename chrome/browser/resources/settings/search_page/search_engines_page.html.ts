@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit template for the search engines page
+// summary: Lit HTML template for the site search subpage with keyboard shortcut options, engine lists and edit dialogs.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsSearchEnginesPageElement} from './search_engines_page.js';

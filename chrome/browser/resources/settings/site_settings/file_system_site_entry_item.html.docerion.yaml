@@ -1,0 +1,4 @@
+# Docerion header of file_system_site_entry_item.html.
+type: source
+title: File system site entry item template
+summary: HTML template for a single file system grant list item showing the display name with a button to remove the grant.

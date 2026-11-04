@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML template for the feature shortcuts settings page
+// summary: Lit HTML template with expandable sections listing active and inactive feature and extension shortcuts.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {FeatureShortcutsPageElement} from './feature_shortcuts_page.js';

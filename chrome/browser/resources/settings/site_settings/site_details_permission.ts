@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site details permission element
+// summary: Polymer element that displays the state of a single content permission, such as Geolocation, for a given origin in the site details page.
+// ---
+
 /**
  * @fileoverview
  * 'site-details-permission' handles showing the state of one permission, such

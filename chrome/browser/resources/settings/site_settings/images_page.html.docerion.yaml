@@ -1,0 +1,4 @@
+# Docerion header of images_page.html.
+type: source
+title: Images settings page template
+summary: HTML template for the images content settings subpage with allow and block radio options plus per-site exceptions.

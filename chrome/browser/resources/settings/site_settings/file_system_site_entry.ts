@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File system site entry element
+// summary: Polymer element file-system-site-entry representing one origin's File System Access API grants and navigating to its details page.
+// ---
+
 /**
  * @fileoverview
  * 'file-system-site-entry' is an element representing a single origin's

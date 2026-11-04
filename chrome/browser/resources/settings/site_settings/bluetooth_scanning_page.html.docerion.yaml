@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_scanning_page.html.
+type: source
+title: Bluetooth scanning settings page template
+summary: HTML template for the Chrome settings subpage controlling Bluetooth scanning, with ask/block defaults and a read-only exceptions list.

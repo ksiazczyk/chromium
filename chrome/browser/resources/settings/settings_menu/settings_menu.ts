@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings menu element
+// summary: TypeScript implementation of the settings-menu Lit element that renders the hardcoded page menu, tracks routes, and logs menu click metrics.
+// ---
+
 /**
  * @fileoverview
  * 'settings-menu' shows a menu with a hardcoded set of pages and subpages.

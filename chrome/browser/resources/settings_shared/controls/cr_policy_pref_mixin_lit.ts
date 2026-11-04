@@ -6,6 +6,12 @@
  * @fileoverview Behavior for policy controlled settings prefs in Lit.
  */
 
+// ---docerion
+// type: source
+// title: Policy pref mixin for Lit
+// summary: Lit variant of the policy pref mixin that detects enforced or recommended policy control of settings preferences.
+// ---
+
 import type {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 
 type Constructor<T> = new (...args: any[]) => T;

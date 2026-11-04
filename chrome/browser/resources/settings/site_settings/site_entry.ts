@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site entry element
+// summary: Polymer element representing a single eTLD+1 site group in the all-sites list, with expansion, usage details, and overflow actions.
+// ---
+
 /**
  * @fileoverview
  * 'site-entry' is an element representing a single eTLD+1 site entity.

@@ -1,0 +1,4 @@
+# Docerion header of serial_ports_page.html.
+type: source
+title: Serial ports settings page template
+summary: HTML template for the settings subpage that manages default and per-site serial port access with ask and block options.

@@ -1,0 +1,4 @@
+# Docerion header of file_system_site_list.html.
+type: source
+title: File System Site List Template
+summary: HTML template for the file-system-site-list element, showing the section header, an empty-state message, and a repeated list of origins with File System Access grants.

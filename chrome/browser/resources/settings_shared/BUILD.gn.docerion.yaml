@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the settings_shared WebUI build
+summary: Defines the build_webui target that compiles shared TypeScript files and web components for use by browser settings and the password manager.

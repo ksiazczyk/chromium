@@ -1,0 +1,4 @@
+# Docerion header of chooser_exception_list_entry.html.
+type: source
+title: Chooser exception list entry template
+summary: HTML template for a single chooser exception entry, showing its display name and an iron-list of its sites.

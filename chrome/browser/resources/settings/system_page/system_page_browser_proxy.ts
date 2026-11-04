@@ -4,6 +4,12 @@
 
 /** @fileoverview Handles interprocess communication for the system page. */
 
+// ---docerion
+// type: source
+// title: System page browser proxy
+// summary: Browser proxy handling IPC for the system page, including opening native proxy settings and reporting hardware acceleration startup state.
+// ---
+
 // clang-format on
 import {loadTimeData} from '../i18n_setup.js';
 // clang-format off

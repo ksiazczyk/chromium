@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site shortcuts page element
+// summary: Lit element implementing the settings-site-shortcuts-page that manages active and inactive site search shortcuts with edit and delete dialogs.
+// ---
+
 /**
  * @fileoverview
  * 'settings-site-shortcuts-page' is the settings page containing site

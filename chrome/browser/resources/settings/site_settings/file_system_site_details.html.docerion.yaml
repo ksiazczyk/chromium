@@ -1,0 +1,4 @@
+# Docerion header of file_system_site_details.html.
+type: source
+title: File system site details template
+summary: HTML template for the subpage listing edit and view permission grants of the File System Access API for a single origin.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension controlled message custom element
+// summary: Defines the extension-controlled-message element that shows a disclaimer and links to manage or disable an extension.
+// ---
+
 import '//resources/cr_elements/cr_icon/cr_icon.js';
 
 import {assert} from '//resources/js/assert.js';

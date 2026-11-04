@@ -6,6 +6,12 @@
  * @fileoverview Behavior common to Site Settings classes.
  */
 
+// ---docerion
+// type: source
+// title: Site settings mixin for Polymer elements
+// summary: Polymer mixin providing behavior common to site settings classes, including URL scheme and port sanitizing and site exception expansion.
+// ---
+
 // clang-format off
 import type {PolymerElement} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import {dedupingMixin} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';

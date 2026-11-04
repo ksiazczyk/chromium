@@ -1,0 +1,4 @@
+# Docerion header of site_details_permission.html.
+type: source
+title: Site details permission entry template
+summary: HTML template for a single permission row in site details, with a content setting select and chooser device exception entries.

@@ -8,6 +8,12 @@
  * #include=cr-shared-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Settings main styles
+summary: Styles for the settings-main element, covering the no-search-results message, managed footnote spacing, and view manager layout.
+*/
+
 #noSearchResults {
   margin-top: 80px;
   text-align: center;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engines browser proxy
+// summary: Browser proxy with search engine data types and enums used by the manage search engines UI to talk to the browser.
+// ---
+
 // clang-format off
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 // clang-format on

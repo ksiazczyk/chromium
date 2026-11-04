@@ -6,6 +6,12 @@
  * @fileoverview Global state for prefs initialization status.
  */
 
+// ---docerion
+// type: source
+// title: CrSettingsPrefs initialization state
+// summary: Exports a singleton tracking prefs initialization status with a resolved promise, deferred initialization for tests and a reset helper.
+// ---
+
 import {PromiseResolver} from 'chrome://resources/js/promise_resolver.js';
 
 class CrSettingsPrefsInternal {

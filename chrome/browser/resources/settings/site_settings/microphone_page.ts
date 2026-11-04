@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Microphone settings page element
+// summary: Defines the settings-microphone-page Polymer element that loads the microphone subpage template and exposes the content settings enum.
+// ---
+
 import './category_setting_exceptions.js';
 import './media_picker.js';
 import './settings_category_default_radio_group.js';

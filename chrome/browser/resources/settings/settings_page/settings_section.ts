@@ -14,6 +14,12 @@
  *    </settings-section>
  */
 
+// ---docerion
+// type: source
+// title: settings-section element
+// summary: Defines the settings-section custom element that shows a themed section with a page title header and an optional send-feedback button.
+// ---
+
 import '//resources/cr_elements/cr_icon_button/cr_icon_button.js';
 import '//resources/cr_elements/cr_shared_vars.css.js';
 

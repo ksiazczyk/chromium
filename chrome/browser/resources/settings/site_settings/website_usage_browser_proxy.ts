@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Website usage browser proxy
+// summary: Browser proxy interface and implementation for fetching a host's storage usage total and clearing an origin's usage via chrome.send messages.
+// ---
+
 export interface WebsiteUsageBrowserProxy {
   fetchUsageTotal(host: string): void;
   clearUsage(origin: string): void;

@@ -1,0 +1,4 @@
+# Docerion header of payment_handler_page.html.
+type: source
+title: Payment handler settings subpage template
+summary: HTML template for the payment handler site settings subpage with the default allow or block radio group and exception lists.

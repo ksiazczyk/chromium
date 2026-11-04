@@ -8,6 +8,12 @@
  * #include=settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Search engine edit dialog styles
+summary: Lit stylesheet for the search engine edit dialog, including the policy subtitle container layout.
+*/
+
 #policySubtitleContainer {
   display: flex;
   gap: 10px;

@@ -8,6 +8,12 @@
  * or out.
  */
 
+// ---docerion
+// type: source
+// title: Zoom levels settings page element
+// summary: Defines the zoom-levels custom element that lists sites with custom zoom levels, listens for zoom level changes, and supports removing individual entries.
+// ---
+
 import 'chrome://resources/polymer/v3_0/iron-list/iron-list.js';
 import 'chrome://resources/cr_elements/cr_icon_button/cr_icon_button.js';
 import 'chrome://resources/cr_elements/icons.html.js';

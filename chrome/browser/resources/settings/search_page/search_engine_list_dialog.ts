@@ -13,6 +13,12 @@
  * 'settings-search-engine-more-engines-dialog'.
  */
 
+// ---docerion
+// type: source
+// title: Search engine list dialog component
+// summary: Defines the settings-search-engine-list-dialog Lit element for choosing a default search engine, with guest mode saving and a more-engines entry point.
+// ---
+
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/cr_elements/cr_checkbox/cr_checkbox.js';
 import 'chrome://resources/cr_elements/cr_dialog/cr_dialog.js';

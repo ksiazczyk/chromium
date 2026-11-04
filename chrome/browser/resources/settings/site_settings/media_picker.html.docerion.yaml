@@ -1,0 +1,4 @@
+# Docerion header of media_picker.html.
+type: source
+title: Media picker template
+summary: Lit HTML fragment rendering a select dropdown of available camera or microphone devices for the media picker element.

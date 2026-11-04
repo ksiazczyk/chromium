@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File System Settings Page Element
+// summary: Polymer element backing the File System write settings subpage, exposing the search term and the enablePersistentPermissions feature flag to its template.
+// ---
+
 import './category_setting_exceptions.js';
 import './file_system_site_list.js';
 import './settings_category_default_radio_group.js';

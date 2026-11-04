@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engine icon component
+// summary: Defines the settings-search-engine-icon Lit element that displays a search engine favicon, downloading the icon image with a generic fallback.
+// ---
+
 /**
  * @fileoverview
  * 'settings-search-engine-icon' is the icon for a search engine in the settings

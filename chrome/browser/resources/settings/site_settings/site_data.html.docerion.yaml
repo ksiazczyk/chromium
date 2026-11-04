@@ -1,0 +1,4 @@
+# Docerion header of site_data.html.
+type: source
+title: Site data settings page template
+summary: HTML template for the site data subpage with a default cookie behavior radio group, exception lists, and a block confirmation dialog.

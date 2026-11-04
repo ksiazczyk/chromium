@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Loopback network settings page element
+// summary: Defines the settings-loopback-network-page custom element for the loopback network content setting subpage.
+// ---
+
 import './settings_category_default_radio_group.js';
 import './site_settings_shared.css.js';
 import '../settings_page/settings_subpage.js';

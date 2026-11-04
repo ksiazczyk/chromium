@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings UI element implementation
+// summary: TypeScript implementation of the settings-ui element handling toolbar search, drawer menu, routing, themed colors, and scroll behavior for the Settings page.
+// ---
+
 /**
  * @fileoverview
  * 'settings-ui' implements the UI for the Settings page.

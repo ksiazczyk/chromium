@@ -1,3 +1,9 @@
+---
+type: readme
+title: Settings shared code README
+summary: Explains the limited sharing pattern used to share WebUI code between Browser Settings and CrOS Settings, including how shared resources are built, registered, and exposed under shared settings paths.
+---
+
 This directory contains code that is shared between
 
  * Browser Settings (chrome://settings)

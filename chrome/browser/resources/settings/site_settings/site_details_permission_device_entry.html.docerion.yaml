@@ -1,0 +1,4 @@
+# Docerion header of site_details_permission_device_entry.html.
+type: source
+title: Site details permission device entry template
+summary: HTML template for the device entry row that shows a chooser exception device with a policy indicator and a reset button.

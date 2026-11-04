@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: All Sites iconset definitions
+// summary: Defines the all-sites cr-iconset with custom SVG icons, selecting rounded or non-rounded variants based on document attributes.
+// ---
+
 import '//resources/cr_elements/cr_icon/cr_iconset.js';
 
 import {getTrustedHTML} from '//resources/js/static_types.js';

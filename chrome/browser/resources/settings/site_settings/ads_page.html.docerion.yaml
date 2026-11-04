@@ -1,0 +1,4 @@
+# Docerion header of ads_page.html.
+type: source
+title: Ads settings page template
+summary: HTML template for the ads content settings subpage with a default allow/block radio group and a read-only exceptions list.

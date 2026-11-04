@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search page index HTML template
+// summary: Lit HTML template for the search page index that composes the search, omnibox everywhere, site shortcuts, feature shortcuts, and keyboard shortcut views.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsSearchPageIndexElement} from './search_page_index.js';

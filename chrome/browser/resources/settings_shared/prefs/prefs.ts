@@ -12,6 +12,12 @@
  * is eventually consistent with the Chrome pref store.
  */
 
+// ---docerion
+// type: source
+// title: settings-prefs element syncing Chrome preferences
+// summary: Polymer element exposing a singleton prefs model that listens to chrome.settingsPrivate changes and keeps the UI eventually consistent with the Chrome pref store.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 import {PolymerElement} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 

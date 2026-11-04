@@ -1,0 +1,4 @@
+# Docerion header of pdf_documents_page.html.
+type: source
+title: PDF documents settings subpage template
+summary: HTML template for the PDF documents settings subpage offering a radio group to open PDFs in Chrome or always download them externally.

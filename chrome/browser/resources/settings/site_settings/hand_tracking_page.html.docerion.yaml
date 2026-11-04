@@ -1,0 +1,4 @@
+# Docerion header of hand_tracking_page.html.
+type: source
+title: Hand Tracking Settings Page Template
+summary: HTML template for the hand tracking settings subpage with an ask/block default radio group and read-only allowed and blocked exception lists.

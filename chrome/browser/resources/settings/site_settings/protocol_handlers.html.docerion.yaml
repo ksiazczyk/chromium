@@ -1,0 +1,4 @@
+# Docerion header of protocol_handlers.html.
+type: source
+title: Protocol handlers settings page template
+summary: HTML template for the protocol handlers settings subpage, listing registered and ignored protocol handlers with default behavior controls and action menus.

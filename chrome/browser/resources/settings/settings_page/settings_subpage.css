@@ -9,6 +9,12 @@
  * #include=cr-shared-style-lit settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the settings-subpage element
+summary: Lit CSS defining subpage layout, header line, close and info buttons, and forced-colors styling for the settings-subpage element.
+*/
+
 :host {
   box-sizing: border-box;
   display: block;

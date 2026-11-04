@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fonts browser proxy
+// summary: TypeScript browser proxy that fetches the list of fonts for the appearance settings page via a sendWithPromise call to the browser.
+// ---
+
 // clang-format off
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 // clang-format on

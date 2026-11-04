@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Site shortcuts page styles
+summary: Lit styles for the site shortcuts page, laying out expand rows, the add search engine button, and the no-shortcuts message.
+*/
+
 .expand-row {
   display: flex;
   align-items: flex-start;

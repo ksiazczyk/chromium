@@ -1,0 +1,4 @@
+# Docerion header of web_applications_page.html.
+type: source
+title: Web app installation settings page template
+summary: HTML template for the web app installation content settings subpage, with an ask/block radio group and allowed and blocked exception lists.

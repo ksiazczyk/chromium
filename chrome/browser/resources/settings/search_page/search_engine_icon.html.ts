@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engine icon HTML template
+// summary: Lit HTML template for the settings-search-engine-icon element, showing either a downloaded icon image or a site favicon.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsSearchEngineIconElement} from './search_engine_icon.js';

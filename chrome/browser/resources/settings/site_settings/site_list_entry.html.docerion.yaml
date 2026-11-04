@@ -1,0 +1,4 @@
+# Docerion header of site_list_entry.html.
+type: source
+title: Site list entry template
+summary: HTML template for a single site list row with favicon, display name, policy indicator, incognito icon, reset button, and action menu.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth devices settings page custom element
+// summary: TypeScript source defining the settings-bluetooth-devices-page Polymer element that renders the Bluetooth devices settings subpage.
+// ---
+
 import './chooser_exception_list.js';
 import './settings_category_default_radio_group.js';
 import './site_settings_shared.css.js';

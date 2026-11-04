@@ -1,0 +1,4 @@
+# Docerion header of anti_abuse_page.html.
+type: source
+title: Anti-abuse settings page template
+summary: HTML template for the anti-abuse settings subpage, showing a toggle plus columns describing what happens when the setting is on and things to consider.

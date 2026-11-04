@@ -14,6 +14,12 @@
  * event first.
  */
 
+// ---docerion
+// type: source
+// title: More search engines dialog element
+// summary: Implements the settings-search-engine-more-engines-dialog element for searching engines and setting a default.
+// ---
+
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/cr_elements/cr_checkbox/cr_checkbox.js';
 import 'chrome://resources/cr_elements/cr_dialog/cr_dialog.js';

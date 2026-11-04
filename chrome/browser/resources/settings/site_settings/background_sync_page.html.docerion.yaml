@@ -1,0 +1,4 @@
+# Docerion header of background_sync_page.html.
+type: source
+title: Background sync settings page template
+summary: HTML template for the Chrome settings subpage that manages the Background Sync content setting, with default allow/block options and per-site exceptions.

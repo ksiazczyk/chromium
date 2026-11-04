@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ads settings page element
+// summary: Defines the settings-ads-page element backing the ads content settings subpage, exposing the content settings types enum and search term.
+// ---
+
 import './category_setting_exceptions.js';
 import './settings_category_default_radio_group.js';
 import './site_settings_shared.css.js';

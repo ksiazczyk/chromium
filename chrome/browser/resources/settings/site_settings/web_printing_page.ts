@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web printing settings page element
+// summary: Defines the settings-web-printing-page custom element that renders the web printing content setting subpage with a default radio group and site exceptions.
+// ---
+
 import './category_setting_exceptions.js';
 import './settings_category_default_radio_group.js';
 import './site_settings_shared.css.js';

@@ -11,6 +11,12 @@
  * #include=cr-shared-style-lit settings-shared-lit search-engine-list-dialog-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the more search engines dialog
+summary: Styles the more search engines dialog, including its header, search field and no-results message.
+*/
+
 [slot='header'] {
   align-items: center;
 }

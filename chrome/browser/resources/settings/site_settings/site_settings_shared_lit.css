@@ -11,6 +11,12 @@
  * #include=cr-shared-style-lit search-highlight-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Site settings shared Lit style
+summary: Lit shared stylesheet defining padding and separator styles for content settings headers, radio groups, and exception headers.
+*/
+
 .content-settings-header,
 .radio-group {
   padding: 0 var(--cr-section-padding);

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chooser exception list entry element
+// summary: Polymer element that renders a single chooser exception together with its site list entries.
+// ---
+
 /**
  * @fileoverview
  * 'chooser-exception-list-entry' shows a single chooser exception for a given

@@ -9,6 +9,12 @@
  * #include=settings-shared-lit search-engine-entry-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Search engine entry styles
+summary: Lit styles for the settings-search-engine-entry row, laying out name, shortcut, URL and control columns and policy indicators.
+*/
+
 :host([is-default]) .list-item {
   font-weight: 500;
 }

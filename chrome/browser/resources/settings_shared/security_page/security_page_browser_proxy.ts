@@ -4,6 +4,12 @@
 
 /** @fileoverview Handles interprocess communication for the security page. */
 
+// ---docerion
+// type: source
+// title: Security page browser proxy for secure DNS IPC
+// summary: TypeScript browser proxy defining secure DNS mode and management mode enums, setting interfaces, and IPC methods to fetch resolver lists, validate configs, and probe DoH configurations on the settings security page.
+// ---
+
 // clang-format off
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 // clang-format on

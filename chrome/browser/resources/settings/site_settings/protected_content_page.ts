@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protected content settings page element
+// summary: Defines the settings-protected-content-page element, wiring the encrypted media preference radio group and guest state for the protected content subpage.
+// ---
+
 import 'chrome://resources/cr_elements/cr_shared_style.css.js';
 import 'chrome://resources/cr_elements/icons.html.js';
 import '../controls/collapse_radio_button.js';

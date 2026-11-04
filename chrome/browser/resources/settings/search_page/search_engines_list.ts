@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engines list element
+// summary: Implements the settings-search-engines-list element that displays a list of search engines with optional collapsing.
+// ---
+
 /**
  * @fileoverview 'settings-search-engines-list' is a component for showing a
  * list of search engines.

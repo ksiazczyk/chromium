@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Search page styles
+summary: Lit styles for the search settings page, defining the layout of the default search engine row and engine name display.
+*/
+
 #search-wrapper {
   align-items: center;
   display: flex;

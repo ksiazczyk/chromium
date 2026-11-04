@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync browser proxy for settings people page
+// summary: TypeScript browser proxy defining sync status, signed-in state, status actions, and sync preference types exchanged with the C++ people handler.
+// ---
+
 // clang-format off
 import {assertNotReachedCase} from 'chrome://resources/js/assert.js';
 import {sendWithPromise} from 'chrome://resources/js/cr.js';

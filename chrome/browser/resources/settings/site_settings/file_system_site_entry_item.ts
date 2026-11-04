@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File System Site Entry Item Element
+// summary: Polymer element that renders a single File System Access permission grant for an origin, showing a folder or file icon and offering a button to revoke the grant.
+// ---
+
 /**
  * @fileoverview
  * 'file-system-site-entry-item' is an element representing a single

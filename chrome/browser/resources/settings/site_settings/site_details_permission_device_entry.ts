@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site details permission device entry element
+// summary: Polymer element that shows a single device for a chooser exception and resets the exception through the site settings browser proxy.
+// ---
+
 /**
  * @fileoverview
  * 'site-details-permission-device-entry' shows a single device for a given

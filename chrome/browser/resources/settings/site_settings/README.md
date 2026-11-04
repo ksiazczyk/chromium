@@ -1,3 +1,13 @@
+---
+type: readme
+title: Content Settings UI in Desktop
+summary: Documents the desktop content settings pages, covering strings and i18n, updating prefs, hiding sections and platform-specific elements.
+relations:
+  - documents /chrome/browser/resources/settings/site_settings/site_settings_page.html
+  - documents /chrome/browser/resources/settings/site_settings/all_sites.html
+  - documents /chrome/browser/resources/settings/site_settings/site_details.html
+---
+
 # Content Settings UI in Desktop
 
 [TOC]
