@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: config
+# title: Quick Settings integration test metadata
+# summary: Crosier test harness metadata listing owners, testing criteria, and tagged cases for the Quick Settings integration tests.
+# ---
+
 # Schema can be found at: platform/dev/test/gtest/gtest_schema.yaml
 ---
 name: "QuickSettingsIntegrationTest"

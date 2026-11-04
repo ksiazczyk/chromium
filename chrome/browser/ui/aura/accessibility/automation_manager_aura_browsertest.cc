@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutomationManagerAura browser tests
+// summary: Interactive browser tests covering AutomationManagerAura behavior such as focus, scrolling, tables, views reparenting, and web contents accessibility trees.
+// ---
+
 #include "chrome/browser/ui/aura/accessibility/automation_manager_aura.h"
 
 #include <algorithm>

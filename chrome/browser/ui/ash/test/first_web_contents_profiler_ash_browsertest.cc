@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: First web contents profiler Ash browser test
+// summary: Browser test verifying the startup first non-empty paint metric for the first web contents, including behavior with full restore of apps and pages on Ash.
+// ---
+
 #include "ash/constants/ash_pref_names.h"
 #include "ash/test/ash_test_util.h"
 #include "ash/wm/window_restore/window_restore_util.h"

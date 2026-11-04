@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System web app UI utilities implementation
+// summary: Maps between app IDs and system web app types, builds launch parameters, and launches system web apps with suitable profiles and windows.
+// ---
+
 #include "chrome/browser/ui/ash/system_web_apps/system_web_app_ui_utils.h"
 
 #include <string>

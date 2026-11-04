@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AshWebViewImpl implementation
+// summary: Implements the AshWebView used by Ash, covering navigation, zoom fixing, media access requests, corner radii, and web contents observation.
+// ---
+
 #include "chrome/browser/ui/ash/web_view/ash_web_view_impl.h"
 
 #include "ash/public/cpp/new_window_delegate.h"

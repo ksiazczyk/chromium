@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Coral delegate implementation
+// summary: Implements the Chrome-side CoralDelegate, converting Coral groups into restore data to launch tabs and apps after login.
+// ---
+
 #include "chrome/browser/ui/ash/wm/coral_delegate_impl.h"
 
 #include "ash/constants/generative_ai_country_restrictions.h"

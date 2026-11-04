@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accelerator commands fullscreen browser test
+// summary: Parameterized browser tests verifying that the fullscreen toggle accelerator works for browser windows, hosted apps, and windows that cannot be maximized.
+// ---
+
 #include "ash/accelerators/accelerator_commands.h"
 
 #include "ash/public/cpp/test/shell_test_api.h"

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for Aura accessibility
+summary: Lists katie@chromium.org as an owner and defers additional ownership to the ui/accessibility OWNERS file.

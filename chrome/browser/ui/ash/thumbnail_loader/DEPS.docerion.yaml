@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for thumbnail_loader
+summary: Sets include rules that restrict //chrome dependencies for the thumbnail_loader directory, allowing only listed exceptions and test-only includes.

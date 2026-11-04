@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Settings integration tests
+// summary: Browser integration tests that open the quick settings bubble, launch OS Settings from it, and verify the enterprise managed device view loads with simulated device info.
+// ---
+
 #include "ash/ash_element_identifiers.h"
 #include "ash/constants/webui_url_constants.h"
 #include "ash/shell.h"

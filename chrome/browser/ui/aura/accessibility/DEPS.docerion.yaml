@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Aura accessibility
+summary: Restricts //chrome includes for this directory, allowing only its own headers plus specific browser and test includes for the browsertest file.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Feature discovery duration reporter browser test
+// summary: Browser tests verifying that feature discovery duration metrics are recorded for the primary user in a single session and handled correctly across account switches.
+// ---
+
 #include "ash/public/cpp/feature_discovery_duration_reporter.h"
 
 #include "ash/public/cpp/feature_discovery_metric_util.h"

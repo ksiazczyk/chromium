@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemTrayClientImpl class header
+// summary: Declares SystemTrayClientImpl, which handles method calls delegated from ash to Chrome and notifies ash of relevant Chrome state changes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_SYSTEM_SYSTEM_TRAY_CLIENT_IMPL_H_
 #define CHROME_BROWSER_UI_ASH_SYSTEM_SYSTEM_TRAY_CLIENT_IMPL_H_
 

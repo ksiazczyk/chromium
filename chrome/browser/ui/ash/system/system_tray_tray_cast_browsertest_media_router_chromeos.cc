@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System tray cast media router browser tests
+// summary: Browser tests for the cast detailed view in the system tray, covering access code cast and media router sink and route behavior.
+// ---
+
 #include <memory>
 #include <vector>
 

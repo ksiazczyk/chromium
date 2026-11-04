@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for ash wallpaper dependencies
+summary: Specifies allowed include rules for the wallpaper directory, restricting //chrome dependencies and granting extra ones to tests only.

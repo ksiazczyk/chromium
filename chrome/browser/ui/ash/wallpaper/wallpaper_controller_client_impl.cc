@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome-side wallpaper controller client implementation
+// summary: Implements the chrome-side wallpaper client, handling wallpaper fetching, daily refresh, Google Photos wallpapers, and session events.
+// ---
+
 #include "chrome/browser/ui/ash/wallpaper/wallpaper_controller_client_impl.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window management browser tests
+// summary: Browser tests covering window drag-and-drop bounds updates and overview behavior such as occluded window transforms not updating screen rects.
+// ---
+
 #include "ash/shell.h"
 #include "ash/test/active_window_waiter.h"
 #include "ash/wm/overview/overview_item_base.h"

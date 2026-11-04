@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for WallpaperControllerClientImpl
+// summary: Unit tests for WallpaperControllerClientImpl covering initialization, files ID generation, and Google Photos daily album fetching.
+// ---
+
 #include "chrome/browser/ui/ash/wallpaper/wallpaper_controller_client_impl.h"
 
 #include <algorithm>

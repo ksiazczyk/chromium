@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for locked fullscreen clipboard clearing
+// summary: Browser test verifying that entering trusted pinned mode cancels in-flight clipboard image rendering and wipes clipboard data.
+// ---
+
 #include "chrome/browser/ui/ash/shell_delegate/chrome_shell_delegate.h"
 
 #include "ash/public/cpp/clipboard_image_model_factory.h"

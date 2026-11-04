@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab cluster UI client header
+// summary: Declares TabClusterUIClient, which observes browser tabs and sends tab info items to the ash TabClusterUIController.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_WM_TAB_CLUSTER_UI_CLIENT_H_
 #define CHROME_BROWSER_UI_ASH_WM_TAB_CLUSTER_UI_CLIENT_H_
 

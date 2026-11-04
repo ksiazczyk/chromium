@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AshWebViewFactoryImpl class declaration
+// summary: Declares AshWebViewFactoryImpl, the singleton AshWebViewFactory implementation used by Ash to work around dependency restrictions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_WEB_VIEW_ASH_WEB_VIEW_FACTORY_IMPL_H_
 #define CHROME_BROWSER_UI_ASH_WEB_VIEW_ASH_WEB_VIEW_FACTORY_IMPL_H_
 

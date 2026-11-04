@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the ash wallpaper code
+summary: Defines the static library, test support, and unit test targets for the ChromeOS ash wallpaper code along with their dependencies.

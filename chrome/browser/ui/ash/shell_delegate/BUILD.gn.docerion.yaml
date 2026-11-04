@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the Ash shell delegate
+summary: Defines the shell_delegate static library along with its browser test and unit test source sets and their dependencies.

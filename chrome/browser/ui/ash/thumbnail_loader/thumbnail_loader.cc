@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThumbnailLoader implementation
+// summary: Implements ThumbnailLoader, which sends thumbnail requests to the image loader extension over a native message connection and decodes returned image data into bitmaps.
+// ---
+
 #include "chrome/browser/ui/ash/thumbnail_loader/thumbnail_loader.h"
 
 #include <algorithm>

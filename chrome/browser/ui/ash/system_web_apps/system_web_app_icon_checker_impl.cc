@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System web app icon checker implementation
+// summary: Runs web app icon diagnostics for installed system web apps and reports whether their icons are healthy, broken, or absent.
+// ---
+
 #include "chrome/browser/ui/ash/system_web_apps/system_web_app_icon_checker_impl.h"
 
 #include "base/barrier_callback.h"

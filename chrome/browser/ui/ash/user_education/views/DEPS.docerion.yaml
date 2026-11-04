@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for user education views
+summary: Restricts the directory from depending on //chrome per ChromeOS rules, allowing //chrome/browser/user_education includes only in test source files.

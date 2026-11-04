@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for ash wm
+summary: Specifies allowed include rules for the ash wm directory, with additional rules for browser test files.

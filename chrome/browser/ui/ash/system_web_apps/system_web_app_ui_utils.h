@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System web app UI utilities header
+// summary: Declares helpers to resolve system web app types and app IDs, build launch params, and launch system web apps asynchronously.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_SYSTEM_WEB_APPS_SYSTEM_WEB_APP_UI_UTILS_H_
 #define CHROME_BROWSER_UI_ASH_SYSTEM_WEB_APPS_SYSTEM_WEB_APP_UI_UTILS_H_
 

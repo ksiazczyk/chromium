@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab cluster UI client browser tests
+// summary: Browser tests verifying that tab cluster UI items reflect title changes, same-document navigations, and pending navigation commits under the Coral feature.
+// ---
+
 #include "ash/constants/ash_features.h"
 #include "ash/public/cpp/tab_cluster/tab_cluster_ui_controller.h"
 #include "ash/public/cpp/tab_cluster/tab_cluster_ui_item.h"

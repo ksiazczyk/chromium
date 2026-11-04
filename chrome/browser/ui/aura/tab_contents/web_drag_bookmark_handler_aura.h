@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura web drag bookmark handler class declaration
+// summary: Declares WebDragBookmarkHandlerAura, a content::WebDragDestDelegate that intercepts content drag events so they can be dispatched to the bookmarks and extensions system.
+// ---
+
 #ifndef CHROME_BROWSER_UI_AURA_TAB_CONTENTS_WEB_DRAG_BOOKMARK_HANDLER_AURA_H_
 #define CHROME_BROWSER_UI_AURA_TAB_CONTENTS_WEB_DRAG_BOOKMARK_HANDLER_AURA_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AshShellInit implementation
+// summary: Implements AshShellInit by building ash::ShellInitParams with Chrome-specific delegates and factories, creating the ash Shell, and showing the primary root window.
+// ---
+
 #include "chrome/browser/ui/ash/shell_init/ash_shell_init.h"
 
 #include <utility>

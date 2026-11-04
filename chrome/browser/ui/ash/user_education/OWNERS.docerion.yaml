@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners reference for user_education
+summary: Delegates code review ownership to the OWNERS file of the ash/user_education directory.

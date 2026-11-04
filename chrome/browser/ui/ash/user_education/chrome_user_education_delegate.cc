@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome user education delegate implementation
+// summary: Implements ChromeUserEducationDelegate, mapping app IDs to element identifiers, tracking new primary users, and managing tutorials and system web app launches.
+// ---
+
 #include "chrome/browser/ui/ash/user_education/chrome_user_education_delegate.h"
 
 #include <optional>

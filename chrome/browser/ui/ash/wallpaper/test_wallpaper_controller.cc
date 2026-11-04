@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestWallpaperController fake implementation
+// summary: Implements a fake WallpaperController that simulates wallpaper operations and counts calls for use in tests.
+// ---
+
 #include "chrome/browser/ui/ash/wallpaper/test_wallpaper_controller.h"
 
 #include <algorithm>

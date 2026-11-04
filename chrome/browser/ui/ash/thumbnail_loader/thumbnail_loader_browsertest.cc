@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ThumbnailLoader browser tests
+// summary: Runs in-process browser tests for ThumbnailLoader using a temporary external mount point and file manager test data images.
+// ---
+
 #include "chrome/browser/ui/ash/thumbnail_loader/thumbnail_loader.h"
 
 #include <memory>

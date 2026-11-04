@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Ash web view library and browser tests
+summary: Defines the web_view static library and the testonly browser_tests source set with their sources and dependencies.

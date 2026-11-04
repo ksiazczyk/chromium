@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome-side wallpaper controller client declarations
+// summary: Declares WallpaperControllerClientImpl, which manages chrome-side wallpaper control and connects to the ash wallpaper controller.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_WALLPAPER_WALLPAPER_CONTROLLER_CLIENT_IMPL_H_
 #define CHROME_BROWSER_UI_ASH_WALLPAPER_WALLPAPER_CONTROLLER_CLIENT_IMPL_H_
 

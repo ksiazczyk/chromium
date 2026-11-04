@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AshWebViewImpl browser tests
+// summary: In-process browser tests for AshWebViewImpl covering preferred size changes, load completion, navigation suppression, and media access.
+// ---
+
 #include "chrome/browser/ui/ash/web_view/ash_web_view_impl.h"
 
 #include <memory>

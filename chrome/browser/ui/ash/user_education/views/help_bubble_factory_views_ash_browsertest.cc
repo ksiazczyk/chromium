@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Help bubble factory views Ash browser tests
+// summary: Parameterized in-process browser tests verifying that an Ash-specific help bubble only takes precedence over the Views bubble when the element context is set to kAsh.
+// ---
+
 #include "ash/user_education/views/help_bubble_factory_views_ash.h"
 
 #include <memory>

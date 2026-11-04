@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome shell delegate implementation
+// summary: Implements ChromeShellDelegate, wiring Ash shell services such as capture mode, clipboard, ARC, and media controls to Chrome browser features.
+// ---
+
 #include "chrome/browser/ui/ash/shell_delegate/chrome_shell_delegate.h"
 
 #include <memory>

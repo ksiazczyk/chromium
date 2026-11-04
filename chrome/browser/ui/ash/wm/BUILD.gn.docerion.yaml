@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for ash wm
+summary: Defines the wm static library and the browser_tests source set for Chrome's ash window manager UI code.

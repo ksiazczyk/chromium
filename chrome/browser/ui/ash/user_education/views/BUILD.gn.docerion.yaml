@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Ash user education views browser tests build config
+summary: GN build file defining a test-only source_set that builds the Ash help bubble views browser test with its ChromeOS-specific dependencies.

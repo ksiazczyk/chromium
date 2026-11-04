@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Annotator client browser test
+// summary: Browser tests verifying the annotator WebUI URL validity, that the annotations overlay blocks renderer-initiated main frame navigation, and overlay creation.
+// ---
+
 #include "ash/webui/annotator/annotator_client_impl.h"
 
 #include <string>

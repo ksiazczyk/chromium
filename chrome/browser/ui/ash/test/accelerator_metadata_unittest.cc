@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accelerator metadata unit test
+// summary: Unit test that checks the Chrome OS accelerator list count and hash so kAcceleratorLayouts is kept in sync when shortcuts are added, removed, or modified.
+// ---
+
 #include <cstddef>
 
 #include "ash/test/ash_test_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Snap group browser tests
+// summary: Browser tests for snap groups, covering window snapping, tab detachment, and interactions with the overview desk bar.
+// ---
+
 #include "ash/wm/snap_group/snap_group.h"
 
 #include "ash/display/display_move_window_util.h"

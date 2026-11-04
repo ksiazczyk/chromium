@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the shell_init static library
+summary: Defines the shell_init static library target, listing ash_shell_init sources and its dependencies on ash, chrome browser UI, dbus, content, and aura.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for system web apps UI
+summary: Lists the //chrome dependencies this directory may include while the ash code in //chrome is being refactored to reduce such dependencies.

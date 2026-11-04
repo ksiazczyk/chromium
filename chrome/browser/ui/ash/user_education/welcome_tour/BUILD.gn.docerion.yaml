@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Welcome Tour interactive UI tests build configuration
+summary: GN build file defining the interactive_ui_tests source set and its dependencies for the Welcome Tour directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Event latency metrics browser test
+// summary: Browser test checking that Ash.EventLatency histograms are not recorded when the target window backs web contents; disabled due to flakiness.
+// ---
+
 #include "ash/shell.h"
 #include "chrome/browser/ui/browser_window.h"
 #include "chrome/browser/ui/tabs/tab_strip_model.h"

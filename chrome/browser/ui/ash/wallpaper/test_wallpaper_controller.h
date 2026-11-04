@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestWallpaperController fake declarations
+// summary: Declares TestWallpaperController, a fake ash WallpaperController that records wallpaper calls and state for tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_WALLPAPER_TEST_WALLPAPER_CONTROLLER_H_
 #define CHROME_BROWSER_UI_ASH_WALLPAPER_TEST_WALLPAPER_CONTROLLER_H_
 

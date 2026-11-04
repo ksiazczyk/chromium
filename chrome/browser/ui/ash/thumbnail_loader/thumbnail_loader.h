@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThumbnailLoader class declaration
+// summary: Declares the ThumbnailLoader class, which loads file-backed thumbnails via the image loader extension and returns decoded bitmaps through a callback.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_THUMBNAIL_LOADER_THUMBNAIL_LOADER_H_
 #define CHROME_BROWSER_UI_ASH_THUMBNAIL_LOADER_THUMBNAIL_LOADER_H_
 
