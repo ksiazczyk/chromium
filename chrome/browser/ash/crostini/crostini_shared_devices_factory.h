@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini shared devices factory header
+// summary: Declares the CrostiniSharedDevicesFactory ProfileKeyedServiceFactory with static accessors for per-profile shared device services.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CROSTINI_CROSTINI_SHARED_DEVICES_FACTORY_H_
 #define CHROME_BROWSER_ASH_CROSTINI_CROSTINI_SHARED_DEVICES_FACTORY_H_
 

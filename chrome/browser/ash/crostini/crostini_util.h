@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini utility constants and helper functions (crostini_util.h)
+// summary: Declares shared Crostini constants, enums, and helpers for VM state, app launching, container features, and profile lookups.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CROSTINI_CROSTINI_UTIL_H_
 #define CHROME_BROWSER_ASH_CROSTINI_CROSTINI_UTIL_H_
 

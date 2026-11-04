@@ -1,0 +1,4 @@
+# Docerion header of org.chromium.LibvdaService.conf.
+type: config
+title: LibvdaService D-Bus policy
+summary: D-Bus bus configuration letting chronos own LibvdaService, with crosvm and root allowed to request mojo connection FDs for video decoding.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini export import status tracker implementation
+// summary: Implements the status tracker that transitions export and import operations through running, cancelling, done, cancelled, and various failure states.
+// ---
+
 #include "chrome/browser/ash/crostini/crostini_export_import_status_tracker.h"
 
 #include "ash/strings/grit/ash_strings.h"

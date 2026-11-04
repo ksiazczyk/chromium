@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the system routine controller delegate
+// summary: Implements RunGoogleServicesConnectivity by forwarding the call to the NetworkHealthManager singleton.
+// ---
+
 #include "chrome/browser/ash/diagnostics/system_routine_controller_delegate_impl.h"
 
 #include "chrome/browser/ash/net/network_health/network_health_manager.h"

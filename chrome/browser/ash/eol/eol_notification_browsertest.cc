@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EOL notification browser tests
+// summary: In-process browser tests verifying end-of-life notification behavior across session states using a fake update engine client and controllable EOL dates and clock.
+// ---
+
 #include "chrome/browser/ash/eol/eol_notification.h"
 
 #include <memory>

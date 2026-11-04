@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Baguette VM image download implementation
+// summary: Downloads Baguette VM images via SimpleURLLoader into a temp directory and computes SHA-256 checksums of the files.
+// ---
+
 #include "chrome/browser/ash/crostini/baguette_download.h"
 
 #include <memory>

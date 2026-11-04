@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client app metadata provider service factory header
+// summary: Declares the ProfileKeyedServiceFactory that creates one ClientAppMetadataProviderService per profile.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CRYPTAUTH_CLIENT_APP_METADATA_PROVIDER_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ASH_CRYPTAUTH_CLIENT_APP_METADATA_PROVIDER_SERVICE_FACTORY_H_
 

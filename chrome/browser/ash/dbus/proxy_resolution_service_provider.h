@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy resolution D-Bus service provider header
+// summary: Declares the ProxyResolutionServiceProvider class exposing the ResolveProxy D-Bus method, which returns proxy information in PAC format for a source URL.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_DBUS_PROXY_RESOLUTION_SERVICE_PROVIDER_H_
 #define CHROME_BROWSER_ASH_DBUS_PROXY_RESOLUTION_SERVICE_PROVIDER_H_
 

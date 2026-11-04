@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual file request D-Bus service provider implementation
+// summary: Handles the HandleReadRequest and HandleIdReleased D-Bus calls from the VirtualFileProvider service, forwarding them to the ARC file system bridge.
+// ---
+
 #include "chrome/browser/ash/dbus/virtual_file_request_service_provider.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini force close watcher implementation
+// summary: Implements the watcher that detects repeated close attempts on unresponsive Crostini windows and shows a force close dialog after a delay.
+// ---
+
 #include "chrome/browser/ash/crostini/crostini_force_close_watcher.h"
 
 #include <memory>

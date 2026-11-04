@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini security delegate implementation
+// summary: Builds the Crostini security delegate, checking that Crostini is allowed and controlling pointer lock behavior for guest windows.
+// ---
+
 #include "chrome/browser/ash/crostini/crostini_security_delegate.h"
 
 #include "base/logging.h"

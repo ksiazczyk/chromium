@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the ash diagnostics browser code
+summary: Defines the diagnostics static library and its unit_tests source_set, listing their sources and dependencies for the ChromeOS diagnostics browser code.

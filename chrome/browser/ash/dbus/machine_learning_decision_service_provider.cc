@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Machine learning decision D-Bus service provider implementation
+// summary: Implements the ML decision D-Bus service that answers ShouldDeferScreenDim requests using the Smart Dim user activity controller.
+// ---
+
 #include "chrome/browser/ash/dbus/machine_learning_decision_service_provider.h"
 
 #include "ash/constants/ash_features.h"

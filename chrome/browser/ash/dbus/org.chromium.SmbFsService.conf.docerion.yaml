@@ -1,0 +1,4 @@
+# Docerion header of org.chromium.SmbFsService.conf.
+type: config
+title: D-Bus policy configuration for SmbFsService
+summary: Defines D-Bus permissions letting the chronos user own the SmbFs service and the fuse-smbfs user communicate with it.

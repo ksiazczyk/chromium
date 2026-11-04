@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eche app accessibility provider proxy implementation
+// summary: Implements the proxy that tracks ChromeOS accessibility state and reports filter type and state changes to the Eche app.
+// ---
+
 #include "chrome/browser/ash/eche_app/eche_app_accessibility_provider_proxy.h"
 #include "chrome/browser/ash/accessibility/accessibility_manager.h"
 #include "chrome/browser/ash/accessibility/magnification_manager.h"

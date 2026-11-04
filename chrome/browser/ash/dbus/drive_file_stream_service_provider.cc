@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive file stream D-Bus service provider implementation
+// summary: Implements the DriveFileStreamServiceProvider that handles the OpenIpcChannel D-Bus method to set up IPC between the DriveFS system service and the browser.
+// ---
+
 #include "chrome/browser/ash/dbus/drive_file_stream_service_provider.h"
 
 #include <utility>

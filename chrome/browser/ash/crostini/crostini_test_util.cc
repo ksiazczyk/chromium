@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini test utilities implementation
+// summary: Implements setup and teardown of a Views test environment that allows dialog creation in Crostini tests.
+// ---
+
 #include "chrome/browser/ash/crostini/crostini_test_util.h"
 
 #include <memory>

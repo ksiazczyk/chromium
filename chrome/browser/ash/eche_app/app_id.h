@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eche app ID constant
+// summary: Declares the kEcheAppId constant holding the Eche app's application ID used by the ChromeOS integration.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ECHE_APP_APP_ID_H_
 #define CHROME_BROWSER_ASH_ECHE_APP_APP_ID_H_
 

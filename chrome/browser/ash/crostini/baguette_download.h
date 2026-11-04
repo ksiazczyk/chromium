@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Baguette VM image download interface
+// summary: Declares the BaguetteDownload interface and the single-use SimpleURLLoaderDownload wrapper that cancels and cleans up on deletion.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CROSTINI_BAGUETTE_DOWNLOAD_H_
 #define CHROME_BROWSER_ASH_CROSTINI_BAGUETTE_DOWNLOAD_H_
 

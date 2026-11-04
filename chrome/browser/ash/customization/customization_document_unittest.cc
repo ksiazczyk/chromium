@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Customization document unit tests
+// summary: Unit tests covering manifest parsing, HWID-based locale mapping and services customization default apps for OEM customization documents.
+// ---
+
 #include "chrome/browser/ash/customization/customization_document.h"
 
 #include <utility>

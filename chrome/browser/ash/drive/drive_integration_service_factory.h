@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DriveIntegrationServiceFactory class declaration
+// summary: Declares the profile-keyed factory singleton that creates and owns DriveIntegrationService instances per profile, including a scoped factory override for tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_DRIVE_DRIVE_INTEGRATION_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ASH_DRIVE_DRIVE_INTEGRATION_SERVICE_FACTORY_H_
 

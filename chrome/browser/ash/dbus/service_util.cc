@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D-Bus service profile lookup utility
+// summary: Provides GetProfileFromUserIdHash, which resolves a user ID hash to the logged-in user's profile or falls back to the active user profile.
+// ---
+
 #include "chrome/browser/ash/dbus/service_util.h"
 
 #include "chrome/browser/ash/profiles/profile_helper.h"

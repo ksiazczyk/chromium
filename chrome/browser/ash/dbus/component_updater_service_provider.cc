@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component updater D-Bus service provider implementation
+// summary: Implements D-Bus methods to load and unload Chrome OS components and emits installed signals through the component updater service.
+// ---
+
 #include "chrome/browser/ash/dbus/component_updater_service_provider.h"
 
 #include <utility>

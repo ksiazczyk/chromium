@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Display GPU crash browser test
+// summary: Browser test that simulates a GPU process crash and checks mirror mode display recovery and surface ID updates.
+// ---
+
 #include "ash/display/mirror_window_controller.h"
 #include "ash/display/window_tree_host_manager.h"
 #include "ash/shell.h"

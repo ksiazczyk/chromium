@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini disk information and resizing
+// summary: Implements retrieval of Crostini VM disk information and disk resizing, reporting results through UMA metrics and callback chains.
+// ---
+
 #include "chrome/browser/ash/crostini/crostini_disk.h"
 
 #include <algorithm>

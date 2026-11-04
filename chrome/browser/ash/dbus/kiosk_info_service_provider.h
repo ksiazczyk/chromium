@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk info D-Bus service provider header
+// summary: Declares KioskInfoService, which exports the GetKioskAppRequiredPlatformVersion D-Bus method used by update_engine for kiosk auto-launch apps.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_DBUS_KIOSK_INFO_SERVICE_PROVIDER_H_
 #define CHROME_BROWSER_ASH_DBUS_KIOSK_INFO_SERVICE_PROVIDER_H_
 

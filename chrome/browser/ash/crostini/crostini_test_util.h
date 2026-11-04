@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini test utilities declaration
+// summary: Declares functions to set up and tear down the Views environment needed for dialog creation in tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CROSTINI_CROSTINI_TEST_UTIL_H_
 #define CHROME_BROWSER_ASH_CROSTINI_CROSTINI_TEST_UTIL_H_
 

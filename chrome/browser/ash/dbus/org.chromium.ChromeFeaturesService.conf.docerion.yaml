@@ -1,0 +1,4 @@
+# Docerion header of org.chromium.ChromeFeaturesService.conf.
+type: config
+title: D-Bus security policy for the ChromeFeaturesService
+summary: D-Bus bus configuration restricting which system daemons may call ChromeFeaturesService methods such as IsFeatureEnabled and GetFeatureParams.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VM launch service provider header
+// summary: Declares the D-Bus service provider that lets VMs provide an authorization token and optionally trigger installation or launch.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_DBUS_VM_VM_LAUNCH_SERVICE_PROVIDER_H_
 #define CHROME_BROWSER_ASH_DBUS_VM_VM_LAUNCH_SERVICE_PROVIDER_H_
 

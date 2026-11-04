@@ -1,0 +1,4 @@
+# Docerion header of org.chromium.VmManagementService.conf.
+type: config
+title: D-Bus policy for org.chromium.VmManagementService
+summary: Allows chronos to own the service and crosvm to get and set the Crostini VM type.

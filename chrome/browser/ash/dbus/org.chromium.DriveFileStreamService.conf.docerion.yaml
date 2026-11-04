@@ -1,0 +1,4 @@
+# Docerion header of org.chromium.DriveFileStreamService.conf.
+type: config
+title: D-Bus security policy for the DriveFileStream service
+summary: D-Bus bus configuration letting chronos own org.chromium.DriveFileStream and the fuse-drivefs user send requests to it.

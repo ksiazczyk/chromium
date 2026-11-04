@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for device_sync
+summary: Delegates code ownership for this directory to the OWNERS file of chromeos/ash/components/multidevice.

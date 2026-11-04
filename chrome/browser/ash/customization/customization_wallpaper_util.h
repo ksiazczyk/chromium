@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Customization wallpaper utility header
+// summary: Declares Ash customization_wallpaper_util helpers that start customized default wallpaper setup, resolve small and large wallpaper file paths, and decide when the customized default wallpaper is used.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CUSTOMIZATION_CUSTOMIZATION_WALLPAPER_UTIL_H_
 #define CHROME_BROWSER_ASH_CUSTOMIZATION_CUSTOMIZATION_WALLPAPER_UTIL_H_
 

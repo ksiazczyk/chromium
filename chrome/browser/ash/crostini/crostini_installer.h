@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini installer class header
+// summary: Declares the CrostiniInstaller keyed service, its persisted SetupResult enum, and methods for starting, monitoring, and cancelling installation.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CROSTINI_CROSTINI_INSTALLER_H_
 #define CHROME_BROWSER_ASH_CROSTINI_CROSTINI_INSTALLER_H_
 

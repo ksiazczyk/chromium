@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crostini browser test base class header
+// summary: Declares CrostiniBrowserTestBase, a shared base for Crostini browser tests that can set the network connection type and fake Crostini features.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CROSTINI_CROSTINI_BROWSER_TEST_UTIL_H_
 #define CHROME_BROWSER_ASH_CROSTINI_CROSTINI_BROWSER_TEST_UTIL_H_
 

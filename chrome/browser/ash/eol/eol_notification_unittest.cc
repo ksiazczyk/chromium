@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EOL notification unit tests
+// summary: Unit tests for EolNotification covering warning and final notifications, dismissal, and pref resets using a fake update engine client and a test clock.
+// ---
+
 #include "chrome/browser/ash/eol/eol_notification.h"
 
 #include "ash/constants/ash_features.h"

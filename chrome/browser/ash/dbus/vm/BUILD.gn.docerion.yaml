@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the VM D-Bus service providers
+summary: Defines the static library and unit test build targets for the ChromeOS VM D-Bus service providers and their dependencies.

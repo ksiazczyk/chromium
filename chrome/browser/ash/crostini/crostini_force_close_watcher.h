@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini force close watcher header
+// summary: Declares ForceCloseWatcher and its shell surface delegate for prompting users to forcibly close unresponsive Crostini windows.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CROSTINI_CROSTINI_FORCE_CLOSE_WATCHER_H_
 #define CHROME_BROWSER_ASH_CROSTINI_CROSTINI_FORCE_CLOSE_WATCHER_H_
 

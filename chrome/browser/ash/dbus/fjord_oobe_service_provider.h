@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fjord OOBE D-Bus service provider header
+// summary: Declares FjordOobeServiceProvider, which implements the org.chromium.FjordOobeService D-Bus interface for controlling Fjord-specific OOBE state.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_DBUS_FJORD_OOBE_SERVICE_PROVIDER_H_
 #define CHROME_BROWSER_ASH_DBUS_FJORD_OOBE_SERVICE_PROVIDER_H_
 

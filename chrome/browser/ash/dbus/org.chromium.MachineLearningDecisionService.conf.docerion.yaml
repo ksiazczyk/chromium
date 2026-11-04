@@ -1,0 +1,4 @@
+# Docerion header of org.chromium.MachineLearningDecisionService.conf.
+type: config
+title: MachineLearningDecisionService D-Bus policy
+summary: D-Bus bus configuration letting chronos own MlDecisionService, with power (powerd) and root allowed to ask about deferring screen dimming.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DriveFS native message host for Ash declaration
+// summary: Declares CreateDriveFsNativeMessageHostAsh, which builds the DriveFS native messaging host for a given browser context.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_DRIVE_DRIVEFS_NATIVE_MESSAGE_HOST_ASH_H_
 #define CHROME_BROWSER_ASH_DRIVE_DRIVEFS_NATIVE_MESSAGE_HOST_ASH_H_
 

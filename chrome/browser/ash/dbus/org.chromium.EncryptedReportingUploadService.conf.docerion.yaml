@@ -1,0 +1,4 @@
+# Docerion header of org.chromium.EncryptedReportingUploadService.conf.
+type: config
+title: EncryptedReportingUploadService D-Bus policy
+summary: D-Bus bus configuration letting user chronos own ChromeReportingService and missived send messages to its interface.

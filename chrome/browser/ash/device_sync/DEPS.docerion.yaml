@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for device_sync
+summary: Sets include_rules restricting //chrome dependencies for the directory and grants specific includes to the factory implementation for the identity manager seam.

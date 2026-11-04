@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eche app manager factory implementation
+// summary: Implements the profile-keyed factory that builds the EcheAppManager, launches the Eche web app, and stores last launched app info.
+// ---
+
 #include "chrome/browser/ash/eche_app/eche_app_manager_factory.h"
 
 #include <memory>

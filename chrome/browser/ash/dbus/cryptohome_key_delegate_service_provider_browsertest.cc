@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CryptohomeKeyDelegateServiceProvider browser test
+// summary: Browser test verifying the cryptohome key delegate D-Bus service provider's challenge key handling with a force-installed test certificate provider extension.
+// ---
+
 #include "chrome/browser/ash/dbus/cryptohome_key_delegate_service_provider.h"
 
 #include <cstdint>

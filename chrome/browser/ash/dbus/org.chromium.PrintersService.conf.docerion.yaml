@@ -1,0 +1,4 @@
+# Docerion header of org.chromium.PrintersService.conf.
+type: config
+title: PrintersService D-Bus policy
+summary: D-Bus bus configuration letting user chronos own the org.chromium.PrintersService D-Bus name.

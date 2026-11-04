@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceSyncClientFactory implementation
+// summary: Implements the profile-keyed service that creates DeviceSyncImpl and DeviceSyncClient, binds their mojo connection, and gates CryptAuth enrollment by multi-device feature policy.
+// ---
+
 #include "chrome/browser/ash/device_sync/device_sync_client_factory.h"
 
 #include "base/functional/bind.h"

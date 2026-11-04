@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the ARC crosh D-Bus service provider
+// summary: Tests ArcCroshServiceProvider request handling using fake D-Bus clients, test user sessions, and a mock Mojo shell execution instance.
+// ---
+
 #include "chrome/browser/ash/dbus/arc_crosh_service_provider.h"
 
 #include <memory>

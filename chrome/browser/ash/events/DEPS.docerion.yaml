@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for chrome/browser/ash/events
+summary: DEPS file restricting ChromeOS dependencies on //chrome while allowing this directory's own includes and a limited set of per-file exceptions.

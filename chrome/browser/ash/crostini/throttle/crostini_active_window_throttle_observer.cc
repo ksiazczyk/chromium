@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini active window throttle observer implementation
+// summary: Implements window activation handling that reports the throttle state as active for Crostini and terminal windows.
+// ---
+
 #include "chrome/browser/ash/crostini/throttle/crostini_active_window_throttle_observer.h"
 
 #include "ash/public/cpp/window_properties.h"

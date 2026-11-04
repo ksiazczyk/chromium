@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crostini browser test utilities
+// summary: Provides a browser test base that installs a fake component manager and simulates network connections for Crostini tests.
+// ---
+
 #include "chrome/browser/ash/crostini/crostini_browser_test_util.h"
 
 #include <utility>

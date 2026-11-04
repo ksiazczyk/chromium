@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the diagnostics directory
+summary: Names the cros_healthd OWNERS file as primary owners with jimmyxgong@chromium.org and ashleydp@google.com as backup owners.

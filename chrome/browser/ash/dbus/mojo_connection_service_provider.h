@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo connection service provider header
+// summary: Declares the deprecated D-Bus provider that hands other processes a Mojo pipe endpoint for bootstrap connections, superseded by the Mojo service manager.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_DBUS_MOJO_CONNECTION_SERVICE_PROVIDER_H_
 #define CHROME_BROWSER_ASH_DBUS_MOJO_CONNECTION_SERVICE_PROVIDER_H_
 

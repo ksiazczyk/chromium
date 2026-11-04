@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DriveFS async file util implementation
+// summary: Implements storage::AsyncFileUtil for the DriveFS file system, handling copy and delete operations via the DriveFS interface.
+// ---
+
 #include "chrome/browser/ash/drive/fileapi/drivefs_async_file_util.h"
 
 #include <utility>

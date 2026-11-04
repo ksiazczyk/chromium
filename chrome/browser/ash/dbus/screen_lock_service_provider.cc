@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen lock D-Bus service provider implementation
+// summary: Implements the ScreenLockService D-Bus method that the session manager calls to instruct Chrome to show the lock screen, delegating to ScreenLockerController.
+// ---
+
 #include "chrome/browser/ash/dbus/screen_lock_service_provider.h"
 
 #include "base/functional/bind.h"

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the ash DBus directory
+summary: Delegates directory ownership to the ChromeOS D-Bus owners and assigns per-file owners for cryptohome, encrypted reporting, and DLP files policy services.

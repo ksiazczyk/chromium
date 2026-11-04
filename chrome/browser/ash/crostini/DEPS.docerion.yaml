@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Crostini include dependency rules
+summary: Restricts which //chrome directories the Crostini code may include, with specific exceptions for tests and factories.

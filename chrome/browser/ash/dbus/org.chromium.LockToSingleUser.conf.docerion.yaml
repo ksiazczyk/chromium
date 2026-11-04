@@ -1,0 +1,4 @@
+# Docerion header of org.chromium.LockToSingleUser.conf.
+type: config
+title: LockToSingleUser D-Bus policy
+summary: D-Bus bus configuration letting chronos own and call LockToSingleUser to lock the device before starting a VM, with root access for testers.

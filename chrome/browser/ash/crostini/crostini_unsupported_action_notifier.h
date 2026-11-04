@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini unsupported action notifier declaration
+// summary: Declares CrostiniUnsupportedActionNotifier and its mockable delegate for warning users about unsupported Crostini actions.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CROSTINI_CROSTINI_UNSUPPORTED_ACTION_NOTIFIER_H_
 #define CHROME_BROWSER_ASH_CROSTINI_CROSTINI_UNSUPPORTED_ACTION_NOTIFIER_H_
 

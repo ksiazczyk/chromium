@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DriveIntegrationService unit tests
+// summary: Unit tests verifying per-profile DriveIntegrationService instance identity, including incognito sharing, and the EnsureDirectoryExists helper behavior.
+// ---
+
 #include "chrome/browser/ash/drive/drive_integration_service.h"
 
 #include "base/files/file_path.h"

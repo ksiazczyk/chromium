@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the ash DBus service providers library
+summary: Defines the static library sources and dependencies for the ChromeOS Ash D-Bus service providers, including conditional sources for Cuttlefish and Squid builds.

@@ -1,0 +1,4 @@
+# Docerion header of org.chromium.VmApplicationsService.conf.
+type: config
+title: D-Bus policy for org.chromium.VmApplicationsService
+summary: Grants the chronos user ownership of the service and lets the vm_cicerone user send messages to it.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build file for the Crostini throttle library
+summary: Defines the throttle static library and its unit test source set with their sources and dependencies.

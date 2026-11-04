@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DriveFS async file util header
+// summary: Declares DriveFsAsyncFileUtil, the AsyncFileUtil adapter for the DriveFS file system that forwards to native file handling.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_DRIVE_FILEAPI_DRIVEFS_ASYNC_FILE_UTIL_H_
 #define CHROME_BROWSER_ASH_DRIVE_FILEAPI_DRIVEFS_ASYNC_FILE_UTIL_H_
 

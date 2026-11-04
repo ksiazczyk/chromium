@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VM launch service provider implementation
+// summary: Implements the VM launch D-Bus service, handling VM token provisioning and launching Borealis after checking feature availability.
+// ---
+
 #include "chrome/browser/ash/dbus/vm/vm_launch_service_provider.h"
 
 #include <dbus/dbus-protocol.h>

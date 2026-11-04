@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the cryptauth library
+summary: Defines the cryptauth static library with its sources and dependencies, plus the testonly unit_tests target for ChromeOS Ash.

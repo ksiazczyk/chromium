@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini SSHFS mounting implementation
+// summary: Implements mounting and unmounting of the Crostini container home directory via SSHFS, with metrics and pending request handling.
+// ---
+
 #include "chrome/browser/ash/crostini/crostini_sshfs.h"
 
 #include <inttypes.h>

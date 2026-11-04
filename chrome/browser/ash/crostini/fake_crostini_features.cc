@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake CrostiniFeatures implementation for tests (fake_crostini_features.cc)
+// summary: Implements a test fake that overrides individual Crostini feature flags and delegates unset ones to the original features object.
+// ---
+
 #include "chrome/browser/ash/crostini/fake_crostini_features.h"
 
 namespace crostini {

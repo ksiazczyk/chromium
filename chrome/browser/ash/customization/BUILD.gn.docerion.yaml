@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the customization library
+summary: Defines the customization static library plus browser test and unit test targets with their sources and dependencies for ChromeOS Ash.

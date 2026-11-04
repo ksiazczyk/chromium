@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crostini force close watcher unit tests
+// summary: Unit tests for ForceCloseWatcher behavior, covering widget destruction, self-deletion, and force close prompting after repeated close attempts.
+// ---
+
 #include "chrome/browser/ash/crostini/crostini_force_close_watcher.h"
 
 #include <memory>

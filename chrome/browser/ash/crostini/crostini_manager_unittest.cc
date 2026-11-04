@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CrostiniManager unit tests
+// summary: Unit tests covering CrostiniManager VM and container lifecycle, installation, disk, and export/import behavior with fake DBus clients.
+// ---
+
 #include "chrome/browser/ash/crostini/crostini_manager.h"
 
 #include <memory>

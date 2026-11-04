@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual file request D-Bus service provider header
+// summary: Declares VirtualFileRequestServiceProvider, which exports the D-Bus methods called by the VirtualFileProvider service for read requests and ID releases.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_DBUS_VIRTUAL_FILE_REQUEST_SERVICE_PROVIDER_H_
 #define CHROME_BROWSER_ASH_DBUS_VIRTUAL_FILE_REQUEST_SERVICE_PROVIDER_H_
 

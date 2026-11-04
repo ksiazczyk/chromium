@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Eche app manager factory
+// summary: Tests Eche app launching and tray behavior with testing profiles while the kEcheSWA feature is enabled.
+// ---
+
 #include "chrome/browser/ash/eche_app/eche_app_manager_factory.h"
 
 #include <memory>

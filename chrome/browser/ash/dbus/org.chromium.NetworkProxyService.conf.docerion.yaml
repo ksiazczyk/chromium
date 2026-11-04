@@ -1,0 +1,4 @@
+# Docerion header of org.chromium.NetworkProxyService.conf.
+type: config
+title: NetworkProxyService D-Bus policy
+summary: D-Bus bus configuration letting chronos own NetworkProxyService, with the default context allowed to call its interface.

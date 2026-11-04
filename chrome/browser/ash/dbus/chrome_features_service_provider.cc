@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome features D-Bus service provider implementation
+// summary: Implements D-Bus methods for querying Chrome feature enablement, covering Crostini, Bruschetta, cryptohome, DNS proxy and CrOSLateBoot feature checks and parameters.
+// ---
+
 #include "chrome/browser/ash/dbus/chrome_features_service_provider.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printers D-Bus service provider implementation
+// summary: Implements a D-Bus service provider that emits a PrintersChanged signal when available CUPS printers change, suppressing signals for discovered printers.
+// ---
+
 #include "chrome/browser/ash/dbus/printers_service_provider.h"
 
 #include "base/logging.h"

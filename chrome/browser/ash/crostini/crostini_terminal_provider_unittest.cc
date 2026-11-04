@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crostini terminal provider unit tests
+// summary: Unit tests verifying the label formatting of CrostiniTerminalProvider, including omission of the default VM name.
+// ---
+
 #include "chrome/browser/ash/crostini/crostini_terminal_provider.h"
 
 #include "chrome/browser/ash/crostini/crostini_util.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Crostini throttle directory
+summary: Restricts includes from this directory to an allowlist of Chrome dependencies for the Crostini throttle code.

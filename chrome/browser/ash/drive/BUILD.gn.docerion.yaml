@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build configuration for the drive directory
+summary: Defines GN build targets for the ChromeOS Drive integration library, its test support, and browser and unit test sets with their dependencies.

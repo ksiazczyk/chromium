@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive integration service factory implementation
+// summary: Implements the profile-keyed service factory that builds DriveIntegrationService instances, with a scoped factory override for tests.
+// ---
+
 #include "chrome/browser/ash/drive/drive_integration_service_factory.h"
 
 #include <memory>

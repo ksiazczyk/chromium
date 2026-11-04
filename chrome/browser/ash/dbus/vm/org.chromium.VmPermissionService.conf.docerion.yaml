@@ -1,0 +1,4 @@
+# Docerion header of org.chromium.VmPermissionService.conf.
+type: config
+title: D-Bus policy for org.chromium.VmPermissionService
+summary: Allows chronos to own the service and crosvm to register, unregister and query VM permissions.

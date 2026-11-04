@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash D-Bus initialization helper implementation
+// summary: Implements initialization and shutdown of the D-Bus thread manager and the many Chrome OS D-Bus clients used by Ash, including feature-list-dependent clients.
+// ---
+
 #include "chrome/browser/ash/dbus/ash_dbus_helper.h"
 
 #include "ash/constants/ash_features.h"

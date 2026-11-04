@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the diagnostics directory
+summary: Blocks //chrome includes per ChromeOS policy and whitelists the specific //chrome dependencies needed by the diagnostics browser code and its unit test.

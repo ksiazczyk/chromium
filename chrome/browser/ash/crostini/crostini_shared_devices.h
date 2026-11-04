@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini shared devices class
+// summary: Declares CrostiniSharedDevices, a keyed service that keeps non-USB VM device sharing state in sync between user prefs and running containers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CROSTINI_CROSTINI_SHARED_DEVICES_H_
 #define CHROME_BROWSER_ASH_CROSTINI_CROSTINI_SHARED_DEVICES_H_
 

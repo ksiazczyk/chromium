@@ -2,6 +2,13 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 //
+
+// ---docerion
+// type: source
+// title: Crostini features header
+// summary: Declares the CrostiniFeatures interface for querying whether Crostini and related capabilities like root access and port forwarding are allowed.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CROSTINI_CROSTINI_FEATURES_H_
 #define CHROME_BROWSER_ASH_CROSTINI_CROSTINI_FEATURES_H_
 

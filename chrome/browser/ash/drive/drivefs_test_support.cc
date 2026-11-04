@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DriveFS test support helpers implementation
+// summary: Provides FakeDriveFsHelper and user data directory setup routines that let tests run against a fake DriveFS mount with predefined account credentials.
+// ---
+
 #include "chrome/browser/ash/drive/drivefs_test_support.h"
 
 #include <string>

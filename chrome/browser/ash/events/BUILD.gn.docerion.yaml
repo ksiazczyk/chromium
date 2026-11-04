@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the ash events library
+summary: GN build file defining the events static library and its unit_tests source set, listing sources and dependencies for the ChromeOS event rewriter code.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini container export and import
+// summary: Implements the keyed service that exports and imports Crostini containers and disk images, handling file dialogs, progress observers, and UMA metrics.
+// ---
+
 #include "chrome/browser/ash/crostini/crostini_export_import.h"
 
 #include <algorithm>

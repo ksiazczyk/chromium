@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Termina VM installation logic (termina_installer.cc)
+// summary: Implements installing, uninstalling, and cancelling the Termina VM image via the DLC service and component updater.
+// ---
+
 #include "chrome/browser/ash/crostini/termina_installer.h"
 
 #include <algorithm>

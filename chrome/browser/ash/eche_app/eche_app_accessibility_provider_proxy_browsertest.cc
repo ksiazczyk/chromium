@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the Eche app accessibility provider proxy
+// summary: Verifies accessibility enabled state, explore-by-touch, and full focus mode behavior of the proxy via in-process browser tests.
+// ---
+
 #include "base/functional/bind.h"
 #include "chrome/browser/ash/accessibility/accessibility_manager.h"
 #include "chrome/browser/ash/eche_app/eche_app_accessibility_provider_proxy.h"

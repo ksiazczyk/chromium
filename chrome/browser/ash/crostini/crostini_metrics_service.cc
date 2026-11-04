@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini metrics service implementation
+// summary: Implements the keyed service recording Crostini engagement metrics, background active time, and input method usage on window activation.
+// ---
+
 #include "chrome/browser/ash/crostini/crostini_metrics_service.h"
 
 #include "base/hash/hash.h"

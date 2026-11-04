@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the early prefs export service factory
+// summary: Builds the export service per user profile, resolving the primary user's early prefs directory and skipping guest, test, and off-the-record contexts.
+// ---
+
 #include "chrome/browser/ash/early_prefs/early_prefs_export_service_factory.h"
 
 #include "ash/constants/ash_paths.h"

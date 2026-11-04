@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC crosh D-Bus service provider implementation
+// summary: Handles ARC crosh D-Bus shell execution requests, validates the requesting user, and proxies commands to ARC via Mojo.
+// ---
+
 #include "chrome/browser/ash/dbus/arc_crosh_service_provider.h"
 
 #include <memory>

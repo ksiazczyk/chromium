@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP files policy D-Bus service provider implementation
+// summary: Implements the DlpFilesPolicyServiceProvider D-Bus methods that check DLP policy matches and whether file transfers are restricted, mapping protos to policy enums.
+// ---
+
 #include "chrome/browser/ash/dbus/dlp_files_policy_service_provider.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crostini export import unit tests
+// summary: Unit tests for Crostini container export and import, covering progress notifications, cancellation, and failure handling with fake DBus clients.
+// ---
+
 #include "chrome/browser/ash/crostini/crostini_export_import.h"
 
 #include <cstdint>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cryptohome key delegate service provider implementation
+// summary: Implements the ChallengeKey D-Bus method, handling signature and decrypt challenges for user protection keys via the certificate provider service.
+// ---
+
 #include "chrome/browser/ash/dbus/cryptohome_key_delegate_service_provider.h"
 
 #include <algorithm>

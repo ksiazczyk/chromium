@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the diagnostics browser delegate
+// summary: Tests GetActiveUserProfileDir for guest sessions, regular users, and the no-user-logged-in case using a user session test environment.
+// ---
+
 #include "chrome/browser/ash/diagnostics/diagnostics_browser_delegate_impl.h"
 
 #include <memory>

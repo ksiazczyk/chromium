@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini SSHFS mounting header
+// summary: Declares the CrostiniSshfs class for mounting and unmounting container home directories, including result codes and mount state tracking.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CROSTINI_CROSTINI_SSHFS_H_
 #define CHROME_BROWSER_ASH_CROSTINI_CROSTINI_SSHFS_H_
 

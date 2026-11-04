@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini manager implementation
+// summary: Implements the central CrostiniManager that drives VM and container lifecycle, installation stages, port forwarding, and integration with guest OS services.
+// ---
+
 #include "chrome/browser/ash/crostini/crostini_manager.h"
 
 #include <algorithm>

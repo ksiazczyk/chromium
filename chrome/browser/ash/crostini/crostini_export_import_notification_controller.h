@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini export import notification controller header
+// summary: Declares the controller that creates and updates message center notifications showing progress and results of Crostini container export and import operations.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CROSTINI_CROSTINI_EXPORT_IMPORT_NOTIFICATION_CONTROLLER_H_
 #define CHROME_BROWSER_ASH_CROSTINI_CROSTINI_EXPORT_IMPORT_NOTIFICATION_CONTROLLER_H_
 

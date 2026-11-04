@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini simple types header
+// summary: Defines simple enums and POD structs for Crostini, including the CrostiniResult error code enum used in callbacks and logs.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CROSTINI_CROSTINI_SIMPLE_TYPES_H_
 #define CHROME_BROWSER_ASH_CROSTINI_CROSTINI_SIMPLE_TYPES_H_
 

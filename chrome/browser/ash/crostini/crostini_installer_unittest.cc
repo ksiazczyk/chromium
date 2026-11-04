@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crostini installer unit tests
+// summary: Unit tests for the Crostini installer covering progress callbacks, cancellation, and error paths using fake DBus clients and test profiles.
+// ---
+
 #include "chrome/browser/ash/crostini/crostini_installer.h"
 
 #include <optional>

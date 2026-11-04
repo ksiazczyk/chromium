@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive integration service implementation
+// summary: Implements the per-profile service that mounts and manages Google Drive integration for Chrome on ChromeOS, including cache clearing, pinning and notifications.
+// ---
+
 #include "chrome/browser/ash/drive/drive_integration_service.h"
 
 #include <cstdint>

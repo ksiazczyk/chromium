@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Crostini throttle service
+// summary: Tests that CrostiniThrottle enables and disables CPU restriction as the observer state changes.
+// ---
+
 #include "chrome/browser/ash/crostini/throttle/crostini_throttle.h"
 
 #include <memory>

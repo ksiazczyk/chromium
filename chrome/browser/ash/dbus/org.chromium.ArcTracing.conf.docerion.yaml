@@ -1,0 +1,4 @@
+# Docerion header of org.chromium.ArcTracing.conf.
+type: config
+title: D-Bus security policy for the ArcTracing service
+summary: D-Bus bus configuration granting the chronos user ownership and send and receive rights for org.chromium.ArcTracing.

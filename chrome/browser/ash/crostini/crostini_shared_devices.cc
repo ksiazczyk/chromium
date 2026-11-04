@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini shared devices implementation
+// summary: Implements tracking and applying of VM device sharing state for Crostini containers, syncing user prefs with Cicerone when containers start.
+// ---
+
 #include "chrome/browser/ash/crostini/crostini_shared_devices.h"
 
 #include "base/functional/bind.h"

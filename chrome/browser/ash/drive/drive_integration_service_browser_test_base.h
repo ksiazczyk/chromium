@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test base declaration for Drive integration service
+// summary: Declares a mixin-based browser test base supporting fake DriveFS setup and adding Drive files with relative paths during tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_DRIVE_DRIVE_INTEGRATION_SERVICE_BROWSER_TEST_BASE_H_
 #define CHROME_BROWSER_ASH_DRIVE_DRIVE_INTEGRATION_SERVICE_BROWSER_TEST_BASE_H_
 

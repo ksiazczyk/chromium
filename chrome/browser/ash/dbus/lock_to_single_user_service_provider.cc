@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock to single user D-Bus service provider implementation
+// summary: Implements the NotifyVmStarting D-Bus method that lets the lock-to-single-user manager enforce a reboot after sign-out secured by the TPM.
+// ---
+
 #include "chrome/browser/ash/dbus/lock_to_single_user_service_provider.h"
 
 #include "base/functional/bind.h"

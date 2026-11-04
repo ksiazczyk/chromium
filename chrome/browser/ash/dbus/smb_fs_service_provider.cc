@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMB file system D-Bus service provider implementation
+// summary: Implements the SmbFs OpenIpcChannel D-Bus method that bootstraps a Mojo IPC connection by associating a file descriptor with an identified SmbFs instance.
+// ---
+
 #include "chrome/browser/ash/dbus/smb_fs_service_provider.h"
 
 #include <string>

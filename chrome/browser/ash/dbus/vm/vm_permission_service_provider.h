@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VM permission service provider header
+// summary: Declares the D-Bus service provider for registering VMs and managing their permissions, keyed by unguessable access tokens.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_DBUS_VM_VM_PERMISSION_SERVICE_PROVIDER_H_
 #define CHROME_BROWSER_ASH_DBUS_VM_VM_PERMISSION_SERVICE_PROVIDER_H_
 

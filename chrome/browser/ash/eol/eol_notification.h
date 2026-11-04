@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EolNotification class header
+// summary: Declares the EolNotification class, created at user login to check the device end-of-life date and display corresponding warning notifications.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EOL_EOL_NOTIFICATION_H_
 #define CHROME_BROWSER_ASH_EOL_EOL_NOTIFICATION_H_
 

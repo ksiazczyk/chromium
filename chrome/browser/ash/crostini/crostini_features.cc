@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini features implementation
+// summary: Implements CrostiniFeatures checks that determine whether Crostini is allowed for a profile based on hardware support, session type, and policy.
+// ---
+
 #include "chrome/browser/ash/crostini/crostini_features.h"
 
 #include "ash/constants/ash_features.h"

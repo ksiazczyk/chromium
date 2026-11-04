@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the drive directory
+summary: Delegates code ownership of the drive directory to the file manager OWNERS file.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini installer UI delegate interface
+// summary: Defines the interface UI code uses to start installation, receive progress updates, and cancel an ongoing or not-yet-started install.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CROSTINI_CROSTINI_INSTALLER_UI_DELEGATE_H_
 #define CHROME_BROWSER_ASH_CROSTINI_CROSTINI_INSTALLER_UI_DELEGATE_H_
 

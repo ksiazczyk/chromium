@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crostini unsupported action notifier unit tests
+// summary: Parameterized unit tests using a mock delegate to verify toast behavior for tablet mode and virtual keyboard cases.
+// ---
+
 #include "chrome/browser/ash/crostini/crostini_unsupported_action_notifier.h"
 
 #include <memory>

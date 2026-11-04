@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the eche_app directory
+summary: Points code review ownership for the eche_app directory to the OWNERS file of ash/webui/eche_app_ui.

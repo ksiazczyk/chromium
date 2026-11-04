@@ -1,0 +1,4 @@
+# Docerion header of org.chromium.FuseBoxService.conf.
+type: config
+title: FuseBoxService D-Bus policy
+summary: D-Bus bus configuration letting chronos own FuseBoxService, with fuse-fusebox and root allowed to call it.

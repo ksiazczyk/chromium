@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Client app metadata provider service unit tests
+// summary: Tests the conversion of version code strings to int64 values used by the client app metadata provider service.
+// ---
+
 #include "chrome/browser/ash/cryptauth/client_app_metadata_provider_service.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shortcut mapping pref service interface
+// summary: Declares ShortcutMappingPrefService, a ui::ShortcutMappingPrefDelegate backed by local state, pending removal once the i18n shortcuts policy is deprecated.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EVENTS_SHORTCUT_MAPPING_PREF_SERVICE_H_
 #define CHROME_BROWSER_ASH_EVENTS_SHORTCUT_MAPPING_PREF_SERVICE_H_
 

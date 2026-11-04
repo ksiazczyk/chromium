@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VM permission service provider implementation
+// summary: Implements the VM permission D-Bus service for registering VMs and managing camera and microphone permissions for Crostini, Borealis and Bruschetta.
+// ---
+
 #include "chrome/browser/ash/dbus/vm/vm_permission_service_provider.h"
 
 #include <algorithm>

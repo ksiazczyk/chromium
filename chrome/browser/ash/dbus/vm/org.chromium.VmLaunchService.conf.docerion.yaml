@@ -1,0 +1,4 @@
+# Docerion header of org.chromium.VmLaunchService.conf.
+type: config
+title: D-Bus policy for org.chromium.VmLaunchService
+summary: Allows chronos to own the service and crosvm and root to call Wayland server and VM launch methods.

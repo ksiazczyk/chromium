@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cryptohome key delegate service provider header
+// summary: Declares the provider for the CryptohomeKeyDelegateInterface D-Bus service called by cryptohomed for user protection key operations.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_DBUS_CRYPTOHOME_KEY_DELEGATE_SERVICE_PROVIDER_H_
 #define CHROME_BROWSER_ASH_DBUS_CRYPTOHOME_KEY_DELEGATE_SERVICE_PROVIDER_H_
 
