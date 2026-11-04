@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox search aggregator browser test
+// summary: Browser test exercising enterprise search aggregator suggestions in the omnibox, including policy configuration and mocked suggestion server responses.
+// ---
+
 #include <memory>
 #include <string>
 

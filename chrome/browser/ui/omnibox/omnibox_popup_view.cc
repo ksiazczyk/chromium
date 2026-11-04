@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox popup view base implementation
+// summary: Provides base implementations for the OmniboxPopupView interface, including controller access and default no-op or stub behaviors.
+// ---
+
 #include "chrome/browser/ui/omnibox/omnibox_popup_view.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox Everywhere Windows shortcut header
+// summary: Declares Windows helpers for the Omnibox Everywhere display name, AppUserModelId, taskbar window properties, and Start Menu shortcut creation.
+// ---
+
 #ifndef CHROME_BROWSER_UI_OMNIBOX_OMNIBOX_EVERYWHERE_OMNIBOX_EVERYWHERE_SHORTCUT_WIN_H_
 #define CHROME_BROWSER_UI_OMNIBOX_OMNIBOX_EVERYWHERE_OMNIBOX_EVERYWHERE_SHORTCUT_WIN_H_
 

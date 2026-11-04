@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Android messages UI
+summary: Defines GN targets for the Chrome Android snackbar UI, including resources, the Java library, Robolectric and device tests, and their dependencies.

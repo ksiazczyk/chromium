@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Android messages UI
+summary: Lists the directories that code in the Android messages UI folder is allowed to include from.

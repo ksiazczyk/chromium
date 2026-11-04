@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS browser navigator tests
+// summary: Runs ChromeOS-specific navigation browser tests, including signin profile restrictions and navigation blocking in locked fullscreen mode.
+// ---
+
 #include "chrome/browser/ui/navigator/browser_navigator_browsertest.h"
 
 #include "ash/constants/ash_switches.h"

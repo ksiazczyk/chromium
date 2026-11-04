@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox Everywhere UI manager unit tests
+// summary: Unit tests for the Omnibox Everywhere UI manager, covering window lifecycle, popup sizing, clipboard, context menus, shortcuts, and preferences.
+// ---
+
 #include "chrome/browser/ui/omnibox/omnibox_everywhere/omnibox_everywhere_ui_manager.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox context menu controller implementation
+// summary: Implements the omnibox context menu, including AI mode entry points, tab sharing, file and image uploads, and contextual search actions.
+// ---
+
 #include "chrome/browser/ui/omnibox/omnibox_context_menu_controller.h"
 
 #include <stddef.h>

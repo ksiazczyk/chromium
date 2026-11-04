@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox theme color IDs
+// summary: Defines omnibox part states and maps them to background color IDs used when rendering omnibox results.
+// ---
+
 
 #ifndef CHROME_BROWSER_UI_OMNIBOX_OMNIBOX_THEME_H_
 #define CHROME_BROWSER_UI_OMNIBOX_OMNIBOX_THEME_H_

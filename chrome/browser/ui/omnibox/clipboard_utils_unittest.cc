@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox clipboard helpers unit tests
+// summary: Unit tests verifying clipboard text retrieval, bookmark URL extraction, and long text truncation for the omnibox paste flow.
+// ---
+
 #include "chrome/browser/ui/omnibox/clipboard_utils.h"
 
 #include <string>

@@ -4,6 +4,12 @@
 
 // This file defines helper functions for accessing the clipboard.
 
+// ---docerion
+// type: source
+// title: Omnibox clipboard helpers header
+// summary: Declares GetClipboardText and the 500k character clipboard truncation limit used when pasting text into the omnibox.
+// ---
+
 #ifndef CHROME_BROWSER_UI_OMNIBOX_CLIPBOARD_UTILS_H_
 #define CHROME_BROWSER_UI_OMNIBOX_CLIPBOARD_UTILS_H_
 

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Snackbar dimension values for tablet layouts
+summary: Defines the snackbar floating margin dimension (24dp) applied on tablet-sized Android layouts in Chromium.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
   <!-- Snackbars -->
   <dimen name="snackbar_floating_margin">24dp</dimen>

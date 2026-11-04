@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page action observer unit tests
+// summary: Unit tests verifying that PageActionObserver emits shown and hidden callbacks for icons, chips, and anchored messages based on model changes.
+// ---
+
 #include "chrome/browser/ui/page_action/page_action_observer.h"
 
 #include <optional>

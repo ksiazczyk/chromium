@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox metrics browser tests
+// summary: Browser tests verifying that omnibox interactions log search engine type metrics histograms correctly.
+// ---
+
 #include <string>
 
 #include "base/test/metrics/histogram_tester.h"

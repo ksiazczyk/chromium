@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OmniboxView interactive UI tests
+// summary: Interactive browser tests covering omnibox view behavior, including popup selection, keyword mode, policies, and AI mode entry flows.
+// ---
+
 #include "chrome/browser/ui/omnibox/omnibox_view.h"
 
 #include <stddef.h>

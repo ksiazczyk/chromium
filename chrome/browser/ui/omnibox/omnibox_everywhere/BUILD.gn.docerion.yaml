@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Omnibox Everywhere build targets
+summary: GN build file defining the source sets, public headers, and dependencies for the Omnibox Everywhere feature across platforms.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI mode page action controller implementation
+// summary: Implements the controller that decides when the AI mode icon appears in the omnibox, including icon loading and metrics.
+// ---
+
 #include "chrome/browser/ui/omnibox/ai_mode_page_action_controller.h"
 
 #include "base/check.h"

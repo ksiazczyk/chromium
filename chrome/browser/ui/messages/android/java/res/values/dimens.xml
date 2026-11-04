@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Snackbar dimension resources
+summary: Android resource file defining dimension values such as padding, margins, elevation and sizes used by snackbar UI elements in Chromium for Android.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- go/keep-sorted start group_start_regex=<dimen -->
     <!-- Snackbars -->

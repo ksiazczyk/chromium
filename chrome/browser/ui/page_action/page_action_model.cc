@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page action model implementation
+// summary: Implements the page action model state, visibility logic, and observer notifications for page actions.
+// ---
+
 #include "chrome/browser/ui/page_action/page_action_model.h"
 
 #include "base/types/pass_key.h"

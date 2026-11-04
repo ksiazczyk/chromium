@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for page info tests
+summary: Grants the page info unit test file access to views headers and privacy sandbox preferences headers.

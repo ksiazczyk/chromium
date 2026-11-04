@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page action model observer interface
+// summary: Defines the PageActionModelObserver interface for reacting to page action model state changes and model deletion.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PAGE_ACTION_PAGE_ACTION_MODEL_OBSERVER_H_
 #define CHROME_BROWSER_UI_PAGE_ACTION_PAGE_ACTION_MODEL_OBSERVER_H_
 

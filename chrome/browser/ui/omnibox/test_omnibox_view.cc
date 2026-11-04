@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestOmniboxView fake implementation
+// summary: Implements a fake OmniboxView that stores text, selection and inline autocompletion state for use in omnibox tests.
+// ---
+
 #include "chrome/browser/ui/omnibox/test_omnibox_view.h"
 
 #include <algorithm>

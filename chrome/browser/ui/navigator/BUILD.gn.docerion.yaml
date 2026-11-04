@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Navigator build targets
+summary: Defines GN build targets for the navigator module, including public headers, implementation sources, unit tests and browser tests with platform-conditional dependencies.

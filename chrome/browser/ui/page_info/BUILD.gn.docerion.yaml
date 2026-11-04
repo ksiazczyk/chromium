@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Page info GN build targets
+summary: Defines the page_info, impl and unit_tests source sets with platform-specific sources and dependencies for the Chrome page info UI.

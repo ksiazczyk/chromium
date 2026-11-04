@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac window utility declarations
+// summary: Declares macOS helpers to disassociate the Omnibox Everywhere popup from auxiliary Spaces and to activate the browser window.
+// ---
+
 #ifndef CHROME_BROWSER_UI_OMNIBOX_OMNIBOX_EVERYWHERE_MAC_WINDOW_UTIL_H_
 #define CHROME_BROWSER_UI_OMNIBOX_OMNIBOX_EVERYWHERE_MAC_WINDOW_UTIL_H_
 

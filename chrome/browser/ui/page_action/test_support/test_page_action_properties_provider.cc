@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test page action properties provider implementation
+// summary: Implements a properties provider that returns entries from a caller-supplied map, checking that the action ID exists.
+// ---
+
 #include "chrome/browser/ui/page_action/test_support/test_page_action_properties_provider.h"
 
 #include "base/check.h"

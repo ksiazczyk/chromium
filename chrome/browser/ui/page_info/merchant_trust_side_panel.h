@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Merchant trust side panel header
+// summary: Declares the function and context parameter constants used to open the merchant trust side panel from the page info UI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PAGE_INFO_MERCHANT_TRUST_SIDE_PANEL_H_
 #define CHROME_BROWSER_UI_PAGE_INFO_MERCHANT_TRUST_SIDE_PANEL_H_
 

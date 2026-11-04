@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab-modal popup navigation interface
+// summary: Declares BrowserNavigatorTabModal for showing tab-modal popup browsers, restricting callers via pass keys to allowed classes such as the payments window manager.
+// ---
+
 #ifndef CHROME_BROWSER_UI_NAVIGATOR_BROWSER_NAVIGATOR_TAB_MODAL_H_
 #define CHROME_BROWSER_UI_NAVIGATOR_BROWSER_NAVIGATOR_TAB_MODAL_H_
 

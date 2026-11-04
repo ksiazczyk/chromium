@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page action properties provider
+// summary: Declares PageActionProperties and the provider interface supplying per-action settings like histogram name, icon type, and element identifier.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PAGE_ACTION_PAGE_ACTION_PROPERTIES_PROVIDER_H_
 #define CHROME_BROWSER_UI_PAGE_ACTION_PAGE_ACTION_PROPERTIES_PROVIDER_H_
 

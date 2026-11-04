@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page action metric event enums
+// summary: Defines enums for page action CTR and page events whose values are persisted to logs and must not be renumbered.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PAGE_ACTION_PAGE_ACTION_ENUMS_H_
 #define CHROME_BROWSER_UI_PAGE_ACTION_PAGE_ACTION_ENUMS_H_
 

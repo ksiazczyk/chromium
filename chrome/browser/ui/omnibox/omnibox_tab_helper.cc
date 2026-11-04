@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox tab helper implementation
+// summary: Implements OmniboxTabHelper, bridging omnibox state to per-tab UIs and logging navigation-to-popup timing UMA metrics.
+// ---
+
 #include "chrome/browser/ui/omnibox/omnibox_tab_helper.h"
 
 #include <optional>

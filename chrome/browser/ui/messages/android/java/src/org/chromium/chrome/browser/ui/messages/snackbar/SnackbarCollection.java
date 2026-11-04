@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SnackbarCollection queue and priority storage
+// summary: Holds all snackbars managed by SnackbarManager, ordering action, notification, persistent and high-priority entries with deduplication and metrics.
+// ---
+
 package org.chromium.chrome.browser.ui.messages.snackbar;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

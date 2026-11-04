@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Alternate nav infobar delegate browser tests
+// summary: Browser tests that show and verify the alternate nav infobar UI under both inline link frameworks.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/infobars/infobar_features.h"
 #include "chrome/browser/ui/omnibox/chrome_omnibox_navigation_observer.h"

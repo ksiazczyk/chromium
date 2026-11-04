@@ -8,6 +8,12 @@
 // communication with the view.  Since the model is shared between platforms,
 // we need to define an interface that all view implementations will share.
 
+// ---docerion
+// type: source
+// title: Omnibox popup view interface
+// summary: Defines the platform-independent OmniboxPopupView interface that each toolkit's popup view implementation must share with the omnibox model.
+// ---
+
 #ifndef CHROME_BROWSER_UI_OMNIBOX_OMNIBOX_POPUP_VIEW_H_
 #define CHROME_BROWSER_UI_OMNIBOX_OMNIBOX_POPUP_VIEW_H_
 

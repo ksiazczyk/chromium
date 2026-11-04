@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chip selector implementation
+// summary: Implements the default chip selector that manages showing and hiding suggestion chips and queued anchored messages per page action.
+// ---
+
 #include "chrome/browser/ui/page_action/chip_selector.h"
 
 #include <algorithm>

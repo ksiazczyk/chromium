@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox pedal implementations header
+// summary: Declares the function returning the set of omnibox pedal implementations and enums describing profile and off-the-record types.
+// ---
+
 #ifndef CHROME_BROWSER_UI_OMNIBOX_OMNIBOX_PEDAL_IMPLEMENTATIONS_H_
 #define CHROME_BROWSER_UI_OMNIBOX_OMNIBOX_PEDAL_IMPLEMENTATIONS_H_
 

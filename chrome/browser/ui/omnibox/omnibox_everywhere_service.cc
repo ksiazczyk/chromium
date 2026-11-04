@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxEverywhereService implementation
+// summary: Implements the per-profile OmniboxEverywhere service that manages feature promos and the omnibox everywhere overlay window.
+// ---
+
 #include "chrome/browser/ui/omnibox/omnibox_everywhere_service.h"
 
 #include <memory>

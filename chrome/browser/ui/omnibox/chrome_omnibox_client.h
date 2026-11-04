@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome omnibox client header
+// summary: Declares ChromeOmniboxClient, the Chrome implementation of OmniboxClient that supplies page URL, security level, icons, and browser services to the omnibox.
+// ---
+
 #ifndef CHROME_BROWSER_UI_OMNIBOX_CHROME_OMNIBOX_CLIENT_H_
 #define CHROME_BROWSER_UI_OMNIBOX_CHROME_OMNIBOX_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestOmniboxPopupFileSelector fake header
+// summary: Declares TestOmniboxPopupFileSelector, a test fake tracking file upload dialog invocations for omnibox tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_OMNIBOX_TEST_OMNIBOX_POPUP_FILE_SELECTOR_H_
 #define CHROME_BROWSER_UI_OMNIBOX_TEST_OMNIBOX_POPUP_FILE_SELECTOR_H_
 

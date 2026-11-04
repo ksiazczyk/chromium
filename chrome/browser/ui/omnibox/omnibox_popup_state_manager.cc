@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox popup state manager implementation
+// summary: Implements OmniboxPopupStateManager, which stores the current popup state and notifies subscribers whenever it changes.
+// ---
+
 #include "chrome/browser/ui/omnibox/omnibox_popup_state_manager.h"
 
 #include <utility>

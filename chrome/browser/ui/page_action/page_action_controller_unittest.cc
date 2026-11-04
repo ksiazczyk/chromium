@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page action controller unit tests
+// summary: Unit tests for the page action controller covering chip display, anchored messages, overrides, and metrics behavior.
+// ---
+
 #include "chrome/browser/ui/page_action/page_action_controller.h"
 
 #include <map>

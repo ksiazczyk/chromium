@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'SnackbarView: visual representation of Android snackbars'
+// summary: Implements the visual representation of a snackbar in Chrome for Android, anchoring it at the bottom-center of the screen with animations, swipe handling, and layout adjustments.
+// ---
+
 package org.chromium.chrome.browser.ui.messages.snackbar;
 
 import android.animation.Animator;

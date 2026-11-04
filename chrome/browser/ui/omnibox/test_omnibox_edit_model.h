@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestOmniboxEditModel fake header
+// summary: Declares TestOmniboxEditModel, a test subclass of OmniboxEditModel exposing internals and overrides for testing.
+// ---
+
 #ifndef CHROME_BROWSER_UI_OMNIBOX_TEST_OMNIBOX_EDIT_MODEL_H_
 #define CHROME_BROWSER_UI_OMNIBOX_TEST_OMNIBOX_EDIT_MODEL_H_
 

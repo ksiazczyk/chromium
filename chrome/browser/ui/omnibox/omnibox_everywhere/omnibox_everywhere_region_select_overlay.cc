@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox Everywhere region select overlay implementation
+// summary: Implements the screen region selection overlay for Omnibox Everywhere, handling screenshot capture, draggable selection rectangles, styling, and accessibility.
+// ---
+
 #include "chrome/browser/ui/omnibox/omnibox_everywhere/omnibox_everywhere_region_select_overlay.h"
 
 #include <algorithm>

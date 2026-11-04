@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OmniboxView unit tests
+// summary: Unit tests for OmniboxView and its interaction with the edit model and popup, using test fakes for the client, controller, and views.
+// ---
+
 #include "chrome/browser/ui/omnibox/omnibox_view.h"
 
 #include <stddef.h>

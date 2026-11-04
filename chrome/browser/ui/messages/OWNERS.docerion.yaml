@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Messages UI owners delegation
+summary: Delegates code ownership of the chrome/browser/ui/messages directory to the owners file of components/messages.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake tab interface for page action tests
+// summary: Declares a fake TabInterface with activation callbacks, test WebContents, profile, and unowned user data host for page action tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PAGE_ACTION_TEST_SUPPORT_FAKE_TAB_INTERFACE_H_
 #define CHROME_BROWSER_UI_PAGE_ACTION_TEST_SUPPORT_FAKE_TAB_INTERFACE_H_
 

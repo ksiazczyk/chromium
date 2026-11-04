@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: About This Site side panel declarations
+// summary: Declares functions to show and register the About This Site side panel for a given web contents and URL.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PAGE_INFO_ABOUT_THIS_SITE_SIDE_PANEL_H_
 #define CHROME_BROWSER_UI_PAGE_INFO_ABOUT_THIS_SITE_SIDE_PANEL_H_
 

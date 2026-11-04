@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox Everywhere feature promo controller implementation
+// summary: Implements the feature promo controller that manages in-product help promos for Omnibox Everywhere, including the user education context and open-and-active preconditions.
+// ---
+
 #include "chrome/browser/ui/omnibox/omnibox_everywhere/omnibox_everywhere_feature_promo_controller.h"
 
 #include <memory>

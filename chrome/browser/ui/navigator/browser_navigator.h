@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser navigator API
+// summary: Declares synchronous and asynchronous Navigate functions that perform browser navigation based on NavigateParams.
+// ---
+
 #ifndef CHROME_BROWSER_UI_NAVIGATOR_BROWSER_NAVIGATOR_H_
 #define CHROME_BROWSER_UI_NAVIGATOR_BROWSER_NAVIGATOR_H_
 

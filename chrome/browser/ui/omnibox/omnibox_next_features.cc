@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox next features implementation
+// summary: Defines feature flags and field trial parameters for next-generation omnibox features such as the WebUI popup, AI mode popup, and Omnibox Everywhere.
+// ---
+
 #include "chrome/browser/ui/omnibox/omnibox_next_features.h"
 
 #include <string>

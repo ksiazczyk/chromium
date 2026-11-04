@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chip selector unit tests
+// summary: Unit tests covering chip show and hide behavior, anchored message queuing, and related histograms for the default chip selector.
+// ---
+
 #include "chrome/browser/ui/page_action/chip_selector.h"
 
 #include <memory>

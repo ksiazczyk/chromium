@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox Everywhere Aura event handler unit tests
+// summary: Unit tests verifying draggable region hit testing and event handling for the Aura Omnibox Everywhere event handler, including child window descent and null widget safety.
+// ---
+
 #include "chrome/browser/ui/omnibox/omnibox_everywhere/omnibox_everywhere_event_handler_aura.h"
 
 #include <vector>

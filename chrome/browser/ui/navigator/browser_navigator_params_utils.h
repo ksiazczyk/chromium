@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser navigator params utility functions
+// summary: Declares helpers that convert NavigateParams into LoadURLParams and find existing tabs matching a URL for singleton or switch-to-tab dispositions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_NAVIGATOR_BROWSER_NAVIGATOR_PARAMS_UTILS_H_
 #define CHROME_BROWSER_UI_NAVIGATOR_BROWSER_NAVIGATOR_PARAMS_UTILS_H_
 

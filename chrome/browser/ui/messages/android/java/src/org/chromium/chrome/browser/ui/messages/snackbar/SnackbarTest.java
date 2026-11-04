@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SnackbarManager behavior tests
+// summary: UI tests covering SnackbarManager behavior including showing, dismissal, actions, keyboard visibility and parent override slots.
+// ---
+
 package org.chromium.chrome.browser.ui.messages.snackbar;
 
 import static org.junit.Assert.assertTrue;

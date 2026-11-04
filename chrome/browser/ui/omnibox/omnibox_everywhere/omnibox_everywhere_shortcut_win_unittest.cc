@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox Everywhere Windows shortcut unit tests
+// summary: Unit tests for the Windows shortcut helpers, verifying the AppUserModelId, channel-specific display names, and Start Menu shortcut creation per install mode.
+// ---
+
 #include "chrome/browser/ui/omnibox/omnibox_everywhere/omnibox_everywhere_shortcut_win.h"
 
 // clang-format off

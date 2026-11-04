@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page action model unit tests
+// summary: Unit tests verifying page action model visibility, chip visibility, announcement behavior, and observer notifications.
+// ---
+
 #include "chrome/browser/ui/page_action/page_action_model.h"
 
 #include "base/memory/raw_ref.h"

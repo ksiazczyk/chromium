@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page action model header
+// summary: Declares the page action model interface and implementation for tracking and updating page action state.
+// ---
+
 #ifndef CHROME_BROWSER_UI_PAGE_ACTION_PAGE_ACTION_MODEL_H_
 #define CHROME_BROWSER_UI_PAGE_ACTION_PAGE_ACTION_MODEL_H_
 

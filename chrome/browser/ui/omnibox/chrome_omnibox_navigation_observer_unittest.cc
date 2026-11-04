@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome omnibox navigation observer unit tests
+// summary: Unit tests for the omnibox navigation observer covering alternate navigation infobar behavior across various search engine keyword configurations.
+// ---
+
 #include "chrome/browser/ui/omnibox/chrome_omnibox_navigation_observer.h"
 
 #include <array>
