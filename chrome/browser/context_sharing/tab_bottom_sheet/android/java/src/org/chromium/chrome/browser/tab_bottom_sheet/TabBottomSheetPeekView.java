@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabBottomSheetPeekView
+// summary: Custom RelativeLayout for the tab bottom sheet peek view exposing setters for icon, title, description and action button.
+// ---
+
 package org.chromium.chrome.browser.tab_bottom_sheet;
 
 import android.content.Context;

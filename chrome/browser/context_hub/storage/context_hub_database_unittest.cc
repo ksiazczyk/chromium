@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContextHubDatabase unit tests
+// summary: Unit tests for ContextHubDatabase covering initialization from empty and existing databases, schema migrations between versions, and data preservation.
+// ---
+
 #include "chrome/browser/context_hub/storage/context_hub_database.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DefaultResizingStrategy
+// summary: Default resizing strategy that updates the placeholder height and manages the resize lock lifecycle on WebViewResizingHelper from sheet offset and resizing state.
+// ---
+
 package org.chromium.chrome.browser.tab_bottom_sheet;
 
 import org.chromium.build.annotations.NullMarked;

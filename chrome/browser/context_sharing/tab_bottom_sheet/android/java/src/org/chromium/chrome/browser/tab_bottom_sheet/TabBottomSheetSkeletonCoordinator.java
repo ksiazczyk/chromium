@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabBottomSheetSkeletonCoordinator
+// summary: Coordinator managing the skeleton loader placeholder view shown for the tab bottom sheet during WebContents resize.
+// ---
+
 package org.chromium.chrome.browser.tab_bottom_sheet;
 
 import android.content.Context;

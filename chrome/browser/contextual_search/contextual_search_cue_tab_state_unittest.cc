@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for contextual search cue tab state
+// summary: Verifies cue tab state eligibility handling with a fake cue target, mock tab interface, and controlled annotation timeouts.
+// ---
+
 #include "chrome/browser/contextual_search/contextual_search_cue_tab_state.h"
 
 #include <memory>

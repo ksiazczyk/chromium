@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Contextual cueing include rules
+summary: Allows this directory to include the contextual cueing, keyed service core, and private insights components.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual cueing metrics implementation
+// summary: Records UKM and histogram metrics and builds private insights log events for contextual cueing interactions.
+// ---
+
 #include "chrome/browser/contextual_cueing/contextual_cueing_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

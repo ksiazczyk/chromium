@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Memory bank table unit tests
+// summary: Unit tests verifying the memory bank table schema migrations, covering version 1 creation and the version 2 and 3 additions of note, collection and image URL columns.
+// ---
+
 #include "chrome/browser/context_hub/storage/memory_bank_table.h"
 
 #include <vector>

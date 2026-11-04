@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual cueing service implementation
+// summary: Implements the per-profile service governing cue frequency caps, backoff periods, and per-target UCB stats.
+// ---
+
 #include "chrome/browser/contextual_cueing/contextual_cueing_service.h"
 
 #include "base/strings/string_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabBottomSheetClientType enum
+// summary: Defines an enum identifying tab bottom sheet clients such as tests, Glic, and contextual tasks.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXT_SHARING_TAB_BOTTOM_SHEET_ANDROID_TAB_BOTTOM_SHEET_CLIENT_TYPE_H_
 #define CHROME_BROWSER_CONTEXT_SHARING_TAB_BOTTOM_SHEET_ANDROID_TAB_BOTTOM_SHEET_CLIENT_TYPE_H_
 

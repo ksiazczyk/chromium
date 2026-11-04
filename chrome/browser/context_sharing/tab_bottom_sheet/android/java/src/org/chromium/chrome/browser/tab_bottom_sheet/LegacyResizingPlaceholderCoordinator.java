@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LegacyResizingPlaceholderCoordinator
+// summary: Legacy coordinator managing the resizing placeholder view, updating its visible height and content alpha during sheet resizing.
+// ---
+
 package org.chromium.chrome.browser.tab_bottom_sheet;
 
 import android.content.Context;

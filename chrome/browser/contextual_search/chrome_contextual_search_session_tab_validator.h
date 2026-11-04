@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome contextual search session tab validator header
+// summary: Declares the Chrome implementation of the contextual search session handle tab validator, shared by desktop and Android.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXTUAL_SEARCH_CHROME_CONTEXTUAL_SEARCH_SESSION_TAB_VALIDATOR_H_
 #define CHROME_BROWSER_CONTEXTUAL_SEARCH_CHROME_CONTEXTUAL_SEARCH_SESSION_TAB_VALIDATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual cueing internals WebUI controller implementation
+// summary: Sets up the WebUI data source and binds the page handler, enabled only when the kContextualCueingV2 feature is active.
+// ---
+
 #include "chrome/browser/contextual_cueing/internals/contextual_cueing_internals_ui.h"
 
 #include "base/feature_list.h"

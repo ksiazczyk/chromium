@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Chrome contextual search session tab validator
+// summary: Tests tab validation for missing file info, closed tabs, profile mismatches, and URL equivalence using mock tab interfaces.
+// ---
+
 #include "chrome/browser/contextual_search/chrome_contextual_search_session_tab_validator.h"
 
 #include "chrome/test/base/testing_profile.h"

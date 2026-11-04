@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for contextual search
+summary: Points the directory metadata at the shared COMMON_METADATA mixins of the contextual search component.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Topics feedback URL minimization
+// summary: Implements URL minimization for the feedback export, redacting secret query values and checking default excluded Google hosts and domains.
+// ---
+
 #include "chrome/browser/context_hub/topics/topics_feedback_url_util.h"
 
 #include <algorithm>

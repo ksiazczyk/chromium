@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Context Hub service unit tests
+// summary: Unit tests covering ContextHubService behavior for auto todos generation, memory bank entries, tab group changes, and observer notifications.
+// ---
+
 #include "chrome/browser/context_hub/context_hub_service.h"
 
 #include <optional>

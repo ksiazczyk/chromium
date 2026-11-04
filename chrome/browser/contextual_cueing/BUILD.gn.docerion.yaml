@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Contextual cueing GN build targets
+summary: Defines source_set targets, sources, and dependencies for the contextual cueing browser code and its browser tests.

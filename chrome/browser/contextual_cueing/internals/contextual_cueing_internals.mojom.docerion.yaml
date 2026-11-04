@@ -1,0 +1,4 @@
+# Docerion header of contextual_cueing_internals.mojom.
+type: source
+title: Contextual cueing internals Mojom interface definitions
+summary: Defines the CueLog struct and the PageHandler Mojo interface that the contextual cueing internals WebUI uses to fetch the list of cues shown to the user.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual cueing preferences API
+// summary: Declares helpers for per-target impression, click, and dismissal counters and HaTS survey prefs persisted in profile preferences.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXTUAL_CUEING_PREFS_H_
 #define CHROME_BROWSER_CONTEXTUAL_CUEING_PREFS_H_
 

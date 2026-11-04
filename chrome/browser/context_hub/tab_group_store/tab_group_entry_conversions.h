@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group entry conversion helpers declaration
+// summary: Declares conversion helpers that translate between Context Hub TabGroupEntry entries and native confirmed Chrome SavedTabGroup objects.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXT_HUB_TAB_GROUP_STORE_TAB_GROUP_ENTRY_CONVERSIONS_H_
 #define CHROME_BROWSER_CONTEXT_HUB_TAB_GROUP_STORE_TAB_GROUP_ENTRY_CONVERSIONS_H_
 

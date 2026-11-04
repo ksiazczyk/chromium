@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the contextual search directory
+summary: Grants the contextual search directory permission to include headers from components/url_deduplication.

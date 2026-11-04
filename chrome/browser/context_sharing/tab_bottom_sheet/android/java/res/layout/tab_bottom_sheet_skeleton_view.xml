@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Tab bottom sheet skeleton view layout
+summary: Layout for the TabBottomSheetSkeletonView loading placeholder, with skeleton bars and a pill box at the bottom plus the peek view included as a header.
+-->
+
 <org.chromium.chrome.browser.tab_bottom_sheet.TabBottomSheetSkeletonView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"

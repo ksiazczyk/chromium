@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResizingStrategy
+// summary: Strategy interface defining callbacks for sheet offset changes, resizing status changes and destruction to control placeholder visibility and resize locks.
+// ---
+
 package org.chromium.chrome.browser.tab_bottom_sheet;
 
 import org.chromium.build.annotations.NullMarked;

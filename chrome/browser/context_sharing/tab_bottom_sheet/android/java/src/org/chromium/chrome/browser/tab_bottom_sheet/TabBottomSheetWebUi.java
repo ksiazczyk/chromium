@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabBottomSheetWebUi
+// summary: Abstract base class for Tab Bottom Sheet toolbars that hosts a ThinWebView in a bottom sheet, handling insets, activity state, context menus, and WebView resizing.
+// ---
+
 package org.chromium.chrome.browser.tab_bottom_sheet;
 
 import static org.chromium.build.NullUtil.assertNonNull;

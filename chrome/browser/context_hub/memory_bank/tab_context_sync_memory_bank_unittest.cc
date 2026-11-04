@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabContextSyncMemoryBank unit tests
+// summary: Unit tests for TabContextSyncMemoryBank covering container creation and reuse, pref persistence, entry caching and sync upload outcomes using mock services.
+// ---
+
 #include "chrome/browser/context_hub/memory_bank/tab_context_sync_memory_bank.h"
 
 #include <memory>

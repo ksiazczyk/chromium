@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestCueTarget fake header
+// summary: Declares TestCueTarget, a configurable CueTarget fake with flags and recorded interactions for testing contextual cueing.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXTUAL_CUEING_TEST_CUE_TARGET_H_
 #define CHROME_BROWSER_CONTEXTUAL_CUEING_TEST_CUE_TARGET_H_
 

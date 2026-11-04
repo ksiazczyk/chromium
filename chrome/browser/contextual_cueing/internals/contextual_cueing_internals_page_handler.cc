@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual cueing internals page handler implementation
+// summary: Implements GetShownCues by cloning cue logs from the profile's contextual cueing service and returning them to the WebUI.
+// ---
+
 #include "chrome/browser/contextual_cueing/internals/contextual_cueing_internals_page_handler.h"
 
 #include "chrome/browser/contextual_cueing/contextual_cueing_service.h"

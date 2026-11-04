@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabContextSyncMemoryBank class header
+// summary: Declares TabContextSyncMemoryBank, a MemoryBank implementation backed by TabContextSyncService with an in-memory LRU entry cache and observer list.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXT_HUB_MEMORY_BANK_TAB_CONTEXT_SYNC_MEMORY_BANK_H_
 #define CHROME_BROWSER_CONTEXT_HUB_MEMORY_BANK_TAB_CONTEXT_SYNC_MEMORY_BANK_H_
 

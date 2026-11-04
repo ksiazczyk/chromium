@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual cueing internals WebUI controller header
+// summary: Declares the Mojo WebUI controller and its internal WebUI configuration class for the contextual cueing internals page, including the page handler interface binding.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXTUAL_CUEING_INTERNALS_CONTEXTUAL_CUEING_INTERNALS_UI_H_
 #define CHROME_BROWSER_CONTEXTUAL_CUEING_INTERNALS_CONTEXTUAL_CUEING_INTERNALS_UI_H_
 

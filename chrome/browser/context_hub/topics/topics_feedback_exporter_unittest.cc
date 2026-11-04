@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Topics feedback exporter unit tests
+// summary: Tests window day clamping, timestamp formatting, export preview grouping, and the contents of the built export bundle.
+// ---
+
 #include "chrome/browser/context_hub/topics/topics_feedback_exporter.h"
 
 #include <optional>

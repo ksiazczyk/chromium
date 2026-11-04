@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual cueing service browser tests
+// summary: Browser tests checking the service spawns only when the contextual cueing V2 feature flag is enabled.
+// ---
+
 #include "chrome/browser/contextual_cueing/contextual_cueing_service.h"
 
 #include "chrome/browser/contextual_cueing/contextual_cueing_service_factory.h"

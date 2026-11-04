@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebViewResizingHelper unit tests
+// summary: Robolectric and Mockito unit tests verifying the WebViewResizingHelper resize lock and inset handling behavior in the tab bottom sheet.
+// ---
+
 package org.chromium.chrome.browser.tab_bottom_sheet;
 
 import static org.junit.Assert.assertEquals;

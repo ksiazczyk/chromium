@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InMemoryMemoryBank implementation
+// summary: Implements the MemoryBank interface with an LRU cache capped at 50 entries, handling saves, annotation updates, deletions and tag or collection queries.
+// ---
+
 #include "chrome/browser/context_hub/memory_bank/in_memory_memory_bank.h"
 
 #include <cstdint>

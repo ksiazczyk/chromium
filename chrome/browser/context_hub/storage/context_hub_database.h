@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextHubDatabase class declaration
+// summary: Declares ContextHubDatabase, the central SQLite database manager for ContextHub handling initialization, schema versioning, and memory bank entry operations.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXT_HUB_STORAGE_CONTEXT_HUB_DATABASE_H_
 #define CHROME_BROWSER_CONTEXT_HUB_STORAGE_CONTEXT_HUB_DATABASE_H_
 

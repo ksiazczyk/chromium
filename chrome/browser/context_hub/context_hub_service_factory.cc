@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context Hub service factory implementation
+// summary: Implements the profile-keyed factory that builds ContextHubService with database or in-memory stores when the kContextHub feature is enabled.
+// ---
+
 #include "chrome/browser/context_hub/context_hub_service_factory.h"
 
 #include "base/feature_list.h"

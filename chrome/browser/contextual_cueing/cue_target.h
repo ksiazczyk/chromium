@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CueTarget interface and cue action types
+// summary: Defines the CueTarget interface, CueTargetType and CueIntrusiveness enums, and action data variants for Glic and ContextualSearch cues.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXTUAL_CUEING_CUE_TARGET_H_
 #define CHROME_BROWSER_CONTEXTUAL_CUEING_CUE_TARGET_H_
 

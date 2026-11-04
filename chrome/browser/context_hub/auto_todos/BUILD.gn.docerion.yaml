@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the auto_todos component
+summary: Defines GN source sets for the AutoTodos interface, its in-memory implementation, and the unit tests, with their dependencies.

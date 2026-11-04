@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DatabaseMemoryBank class declaration
+// summary: Declares the database-backed MemoryBank implementation that forwards memory bank operations to ContextHubBackend and notifies observers of changes.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXT_HUB_MEMORY_BANK_DATABASE_MEMORY_BANK_H_
 #define CHROME_BROWSER_CONTEXT_HUB_MEMORY_BANK_DATABASE_MEMORY_BANK_H_
 

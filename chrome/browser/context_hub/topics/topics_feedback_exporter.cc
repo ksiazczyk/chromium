@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Topics feedback exporter implementation
+// summary: Builds the Topics fishfood feedback export bundle by minimizing and linking history visits, computing stats, and serializing feedback to JSON.
+// ---
+
 #include "chrome/browser/context_hub/topics/topics_feedback_exporter.h"
 
 #include <algorithm>

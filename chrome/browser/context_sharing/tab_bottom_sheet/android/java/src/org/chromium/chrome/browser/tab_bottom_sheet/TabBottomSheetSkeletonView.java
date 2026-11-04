@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabBottomSheetSkeletonView
+// summary: Custom view rendering a skeleton loader with peek header, proximity fade and staggered wave animation during resize.
+// ---
+
 package org.chromium.chrome.browser.tab_bottom_sheet;
 
 import android.animation.Animator;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DragDirectionResizingStrategyUnitTest
+// summary: Unit tests covering upward and downward drag placeholder behavior, peek state resets and lock handling of DragDirectionResizingStrategy.
+// ---
+
 package org.chromium.chrome.browser.tab_bottom_sheet;
 
 import static org.mockito.Mockito.clearInvocations;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: In-memory tab group store unit tests
+// summary: Unit tests covering group add, update, delete, LRU eviction at the capacity limit, timestamp preservation, and tab pruning invariants of the in-memory store.
+// ---
+
 #include "chrome/browser/context_hub/tab_group_store/in_memory_tab_group_store.h"
 
 #include <utility>

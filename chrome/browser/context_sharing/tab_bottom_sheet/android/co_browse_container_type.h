@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CoBrowseContainerType enum
+// summary: Defines an enum identifying whether co-browse content is hosted in a bottom sheet or a side panel.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXT_SHARING_TAB_BOTTOM_SHEET_ANDROID_CO_BROWSE_CONTAINER_TYPE_H_
 #define CHROME_BROWSER_CONTEXT_SHARING_TAB_BOTTOM_SHEET_ANDROID_CO_BROWSE_CONTAINER_TYPE_H_
 

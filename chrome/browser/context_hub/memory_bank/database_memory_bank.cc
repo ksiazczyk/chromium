@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DatabaseMemoryBank implementation
+// summary: Implements the MemoryBank interface by delegating entry save, annotation update, delete and query operations to the ContextHubBackend and notifying observers.
+// ---
+
 #include "chrome/browser/context_hub/memory_bank/database_memory_bank.h"
 
 #include <cstdint>

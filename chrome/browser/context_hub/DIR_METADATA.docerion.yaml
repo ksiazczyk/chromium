@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata with Buganizer component and team email
+summary: Maps the directory to Buganizer component 2146373 and the chrome personal context exploration team email.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabBottomSheetCoordinatorUnitTest
+// summary: Robolectric unit tests for TabBottomSheetCoordinator covering sheet state changes, gesture handling and sheet event callbacks.
+// ---
+
 package org.chromium.chrome.browser.tab_bottom_sheet;
 
 import static org.junit.Assert.assertEquals;

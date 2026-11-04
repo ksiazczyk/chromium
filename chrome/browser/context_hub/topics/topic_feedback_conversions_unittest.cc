@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Topic feedback conversions unit tests
+// summary: Tests round-tripping of full and minimal feedback, omission of optional fields, and lenient parsing of malformed entries.
+// ---
+
 #include "chrome/browser/context_hub/topics/topic_feedback_conversions.h"
 
 #include <string>

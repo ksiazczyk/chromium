@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LegacyResizingPlaceholderCoordinatorUnitTest
+// summary: Unit tests verifying initialization, placeholder height updates and the alpha ramp behavior of LegacyResizingPlaceholderCoordinator.
+// ---
+
 package org.chromium.chrome.browser.tab_bottom_sheet;
 
 import static org.junit.Assert.assertEquals;

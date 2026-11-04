@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual cueing feature declarations
+// summary: Declares contextual cueing feature flags and tunable parameters covering nudges, caps, backoff, UCB scoring, and UI visibility options.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXTUAL_CUEING_FEATURES_H_
 #define CHROME_BROWSER_CONTEXTUAL_CUEING_FEATURES_H_
 

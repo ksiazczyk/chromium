@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the context hub browser service
+summary: Defines GN source sets for the context hub features, prefs, main service, and unit tests together with their dependencies.

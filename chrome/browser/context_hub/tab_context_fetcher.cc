@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab context fetcher implementation
+// summary: Implements TabContextFetcher, which waits for tab navigation commit or a timeout and then extracts annotated page content for a tab via the page content extraction service.
+// ---
+
 #include "chrome/browser/context_hub/tab_context_fetcher.h"
 
 #include <utility>

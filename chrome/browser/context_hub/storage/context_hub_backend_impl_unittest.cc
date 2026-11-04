@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContextHubBackendImpl unit tests
+// summary: Unit tests for ContextHubBackendImpl covering saving, retrieving, and deleting memory bank entries plus queuing of operations before database initialization.
+// ---
+
 #include "chrome/browser/context_hub/storage/context_hub_backend_impl.h"
 
 #include <vector>

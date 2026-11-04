@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextHubBackendImpl implementation
+// summary: Implements ContextHubBackend by dispatching memory bank operations to ContextHubDatabase on a sequenced task runner and queuing them until initialization completes.
+// ---
+
 #include "chrome/browser/context_hub/storage/context_hub_backend_impl.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory AutoTodosStore implementation
+// summary: Implements the in-memory AutoTodosStore with LRU-backed entries, TTL-based expiry, automatic ID generation, and observer notifications.
+// ---
+
 #include "chrome/browser/context_hub/auto_todos/in_memory_auto_todos_store.h"
 
 #include <utility>

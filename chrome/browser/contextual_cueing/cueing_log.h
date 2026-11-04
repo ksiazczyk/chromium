@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cueing log macro
+// summary: Defines the CUEING_LOG macro that emits optimization guide logs prefixed with [cueing] when the optimization guide service is available.
+// ---
+
 #include "base/strings/strcat.h"
 
 #ifndef CHROME_BROWSER_CONTEXTUAL_CUEING_CUEING_LOG_H_

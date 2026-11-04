@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context Hub feature flag definitions
+// summary: Defines the Context Hub feature flags and their default parameters, covering AutoTodos, Memory Banks, tab groups, storage backends, smart search and Topics feedback.
+// ---
+
 #include "chrome/browser/context_hub/features.h"
 
 #include "chrome/browser/ui/webui/context_hub/context_hub.mojom-features.h"

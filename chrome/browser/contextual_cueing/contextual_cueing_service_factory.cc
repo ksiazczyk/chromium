@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual cueing service factory implementation
+// summary: Builds the per-profile ContextualCueingService instance when the contextual cueing V2 feature is enabled.
+// ---
+
 #include "chrome/browser/contextual_cueing/contextual_cueing_service_factory.h"
 
 #include "base/no_destructor.h"

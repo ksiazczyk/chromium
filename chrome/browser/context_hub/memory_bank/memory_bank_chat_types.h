@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory bank chat types
+// summary: Defines structs for chat citations and chat history turns that pair proto turns sent to model execution with citations resolved for WebUI display.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXT_HUB_MEMORY_BANK_MEMORY_BANK_CHAT_TYPES_H_
 #define CHROME_BROWSER_CONTEXT_HUB_MEMORY_BANK_MEMORY_BANK_CHAT_TYPES_H_
 

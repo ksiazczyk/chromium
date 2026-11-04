@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabBottomSheetPeekViewBinderTest
+// summary: Robolectric unit tests verifying that the peek view binder applies each model property to the inflated view.
+// ---
+
 package org.chromium.chrome.browser.tab_bottom_sheet;
 
 import static org.junit.Assert.assertEquals;

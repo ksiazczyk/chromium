@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabBottomSheetWebUiLinkOpener
+// summary: LinkOpener delegate that opens context menu links from the Tab Bottom Sheet WebUI in new tabs, tab groups, incognito tabs, or new windows.
+// ---
+
 package org.chromium.chrome.browser.tab_bottom_sheet;
 
 import android.app.Activity;

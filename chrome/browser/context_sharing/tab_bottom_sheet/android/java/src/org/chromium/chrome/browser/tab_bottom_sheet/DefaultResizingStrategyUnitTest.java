@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DefaultResizingStrategyUnitTest
+// summary: Unit tests verifying when DefaultResizingStrategy acquires and releases the resize lock and updates the placeholder height.
+// ---
+
 package org.chromium.chrome.browser.tab_bottom_sheet;
 
 import static org.junit.Assert.assertNotNull;

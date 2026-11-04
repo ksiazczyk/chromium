@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the contextual search cue target
+// summary: Unit tests covering eligibility, cue actions, PDF and shopping handling, and session behavior of ContextualSearchCueTarget using mock services and test profiles.
+// ---
+
 #include "chrome/browser/contextual_search/contextual_search_cue_target.h"
 
 #include <memory>

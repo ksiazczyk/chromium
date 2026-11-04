@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context Hub service class declaration
+// summary: Declares the ContextHubService keyed service with an observer interface for auto todo and memory bank changes across desktop and Android builds.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXT_HUB_CONTEXT_HUB_SERVICE_H_
 #define CHROME_BROWSER_CONTEXT_HUB_CONTEXT_HUB_SERVICE_H_
 

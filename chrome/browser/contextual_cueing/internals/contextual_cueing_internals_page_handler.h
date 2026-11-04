@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual cueing internals page handler header
+// summary: Declares the Mojo PageHandler binding class that holds a profile pointer and serves shown cues to the internals page.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXTUAL_CUEING_INTERNALS_CONTEXTUAL_CUEING_INTERNALS_PAGE_HANDLER_H_
 #define CHROME_BROWSER_CONTEXTUAL_CUEING_INTERNALS_CONTEXTUAL_CUEING_INTERNALS_PAGE_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context Hub service factory declaration
+// summary: Declares the ContextHubServiceFactory that provides per-profile access to the Context Hub service.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXT_HUB_CONTEXT_HUB_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_CONTEXT_HUB_CONTEXT_HUB_SERVICE_FACTORY_H_
 

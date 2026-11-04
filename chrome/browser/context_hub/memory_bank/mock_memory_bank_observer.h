@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockMemoryBankObserver gmock test double
+// summary: Declares a gmock implementation of MemoryBank::Observer with mocked entry added, updated and deleted callbacks for use in tests.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXT_HUB_MEMORY_BANK_MOCK_MEMORY_BANK_OBSERVER_H_
 #define CHROME_BROWSER_CONTEXT_HUB_MEMORY_BANK_MOCK_MEMORY_BANK_OBSERVER_H_
 

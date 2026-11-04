@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Topic feedback mojom-to-pref conversions
+// summary: Implements conversion between Topic feedback mojom structs and the base::Value dictionaries persisted under the topics fishfood feedback pref.
+// ---
+
 #include "chrome/browser/context_hub/topics/topic_feedback_conversions.h"
 
 #include <optional>

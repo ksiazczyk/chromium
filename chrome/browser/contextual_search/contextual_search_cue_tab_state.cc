@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual search cue tab state implementation
+// summary: Implements per-tab state for contextual search cueing that tracks navigations, caches page content annotations, and resolves cue eligibility checks.
+// ---
+
 #include "chrome/browser/contextual_search/contextual_search_cue_tab_state.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryBankTable class and schema
+// summary: Declares MemoryBankTable and documents the memory_bank_entries schema, with methods for migrations and entry CRUD operations.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXT_HUB_STORAGE_MEMORY_BANK_TABLE_H_
 #define CHROME_BROWSER_CONTEXT_HUB_STORAGE_MEMORY_BANK_TABLE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual cueing menu model implementation
+// summary: Builds the anchored message context menu with dismiss, edit prompt, and settings commands and forwards selections to the controller.
+// ---
+
 #include "chrome/browser/contextual_cueing/contextual_cueing_menu_model.h"
 
 #include <optional>

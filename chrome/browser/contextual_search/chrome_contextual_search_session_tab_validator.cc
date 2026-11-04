@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome contextual search session tab validator implementation
+// summary: Implements validation that a tab referenced by contextual search file info still exists, belongs to the expected profile, and points to the expected URL.
+// ---
+
 #include "chrome/browser/contextual_search/chrome_contextual_search_session_tab_validator.h"
 
 #include "base/strings/utf_string_conversions.h"

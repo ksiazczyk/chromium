@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestCueTarget fake implementation
+// summary: Implements a configurable CueTarget fake that records cue UI interactions for use in contextual cueing tests.
+// ---
+
 #include "chrome/browser/contextual_cueing/test_cue_target.h"
 
 #include "base/functional/bind.h"

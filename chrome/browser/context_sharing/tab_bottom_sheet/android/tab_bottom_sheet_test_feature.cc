@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabBottomSheetTestFeature implementation
+// summary: Implements a test feature that shows and closes the tab bottom sheet using a test co-browse component provider and records opened, closed and suppressed events for verification.
+// ---
+
 #include "chrome/browser/context_sharing/tab_bottom_sheet/android/tab_bottom_sheet_test_feature.h"
 
 #include "base/android/jni_android.h"

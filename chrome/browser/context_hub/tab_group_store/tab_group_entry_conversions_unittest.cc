@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab group entry conversion unit tests
+// summary: Unit tests verifying SavedTabGroup to TabGroupEntry conversion, empty-input handling, and random UUID generation for invalid string IDs.
+// ---
+
 #include "chrome/browser/context_hub/tab_group_store/tab_group_entry_conversions.h"
 
 #include <optional>

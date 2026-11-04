@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual search web contents helper implementation
+// summary: Implements a WebContentsUserData helper that stores and hands off contextual search session handles, input state models, and selected tab IDs.
+// ---
+
 #include "chrome/browser/contextual_search/contextual_search_web_contents_helper.h"
 
 #include "content/public/browser/web_contents.h"

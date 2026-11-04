@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual cueing web contents observer
+// summary: Declares a WebContents observer that notifies the ContextualCueingService about page loads and navigations.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXTUAL_CUEING_CONTEXTUAL_CUEING_WEB_CONTENTS_OBSERVER_H_
 #define CHROME_BROWSER_CONTEXTUAL_CUEING_CONTEXTUAL_CUEING_WEB_CONTENTS_OBSERVER_H_
 

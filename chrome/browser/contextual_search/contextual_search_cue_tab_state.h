@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual search cue tab state header
+// summary: Declares a tab-scoped helper that observes navigations and page content annotations to answer contextual cue eligibility checks with a timeout.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXTUAL_SEARCH_CONTEXTUAL_SEARCH_CUE_TAB_STATE_H_
 #define CHROME_BROWSER_CONTEXTUAL_SEARCH_CONTEXTUAL_SEARCH_CUE_TAB_STATE_H_
 

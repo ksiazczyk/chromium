@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the context hub directory
+summary: Specifies allowed include rules for the context hub directory, with extra allowances for unit test files.

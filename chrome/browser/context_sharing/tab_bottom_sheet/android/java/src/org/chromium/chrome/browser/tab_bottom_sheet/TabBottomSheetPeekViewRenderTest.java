@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabBottomSheetPeekViewRenderTest
+// summary: Render tests capturing the tab bottom sheet peek view appearance for default and actor title configurations.
+// ---
+
 package org.chromium.chrome.browser.tab_bottom_sheet;
 
 import static org.chromium.base.ThreadUtils.runOnUiThreadBlocking;

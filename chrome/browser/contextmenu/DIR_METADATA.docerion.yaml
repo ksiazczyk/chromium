@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the contextmenu folder
+summary: Declares the monorail component, team email, target OS and Buganizer component used for issues in the contextmenu directory.

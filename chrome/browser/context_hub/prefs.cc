@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context Hub profile preference registration
+// summary: Registers the Context Hub profile preferences for the last AutoTodos generation time, the TabContextSync container id and the Topics fishfood feedback dictionary.
+// ---
+
 #include "chrome/browser/context_hub/prefs.h"
 
 #include "base/time/time.h"
