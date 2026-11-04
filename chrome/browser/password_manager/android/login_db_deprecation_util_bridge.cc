@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login DB deprecation util JNI bridge
+// summary: JNI bridge that returns the profile-local path of the ChromePasswords.csv file used for automatic password export during login database deprecation.
+// ---
+
 #include <string>
 #include <string_view>
 

@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Interface for accessing password settings
+// summary: Interface for an object that asynchronously reads and writes password settings such as offer-to-save passwords, auto sign-in, and biometric re-auth before filling.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import android.accounts.Account;

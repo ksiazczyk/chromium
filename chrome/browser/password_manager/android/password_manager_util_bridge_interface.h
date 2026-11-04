@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager util bridge interface
+// summary: Interface for the password manager util bridge, mockable in tests to avoid JNI calls.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_PASSWORD_MANAGER_UTIL_BRIDGE_INTERFACE_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_PASSWORD_MANAGER_UTIL_BRIDGE_INTERFACE_H_
 

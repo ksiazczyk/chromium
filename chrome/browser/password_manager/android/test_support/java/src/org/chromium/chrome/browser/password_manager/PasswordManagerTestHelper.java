@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager test helper simulating the GMS Core backend
+// summary: Helper that fakes the GMS Core password storage backends and sets up account password stores for integration tests.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import org.chromium.base.DeviceInfo;

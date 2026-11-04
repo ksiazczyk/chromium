@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordSettingsUpdaterAndroidReceiverBridgeImpl implementation
+// summary: JNI implementation of the receiver bridge that forwards Java callbacks about setting values, errors, and change results to the registered consumer.
+// ---
+
 #include "chrome/browser/password_manager/android/password_settings_updater_android_receiver_bridge_impl.h"
 
 #include "base/android/jni_android.h"

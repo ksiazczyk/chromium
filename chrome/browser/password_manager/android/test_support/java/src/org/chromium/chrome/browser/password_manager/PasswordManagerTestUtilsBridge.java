@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI bridge for password manager test setup
+// summary: Bridge with static test-setup methods that disable server predictions and trigger the fake GMS Core backends from native code.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import org.jni_zero.CalledByNativeForTesting;

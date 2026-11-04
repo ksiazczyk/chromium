@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SimpleNoticeSheetRenderTest
+// summary: Render tests that screenshot the simple notice sheet in default, RTL and night mode variants and compare them to goldens.
+// ---
+
 package org.chromium.chrome.browser.bottom_sheet;
 
 import static org.chromium.base.ThreadUtils.runOnUiThreadBlocking;

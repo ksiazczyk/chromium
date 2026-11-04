@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PasswordManagerCheckupHelperTest
+// summary: Robolectric tests for the password checkup methods in PasswordManagerHelper, covering intents, dialogs, sync state and error handling with mocked helpers.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import static org.junit.Assert.assertEquals;

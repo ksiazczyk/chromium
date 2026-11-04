@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password store Android backend receiver bridge header
+// summary: Declares the native JNI bridge class that handles password store callbacks from Java and distinguishes account from profile stores.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_PASSWORD_STORE_ANDROID_BACKEND_RECEIVER_BRIDGE_IMPL_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_PASSWORD_STORE_ANDROID_BACKEND_RECEIVER_BRIDGE_IMPL_H_
 

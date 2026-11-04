@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Manual callback delayer for tests
+// summary: Test implementation of CallbackDelayer that queues callbacks and runs them synchronously on a manual signal.
+// ---
+
 package org.chromium.chrome.browser.pwm_disabled;
 
 

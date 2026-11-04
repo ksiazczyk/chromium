@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Non-cancelable indeterminate progress dialog
+// summary: Dialog fragment showing an indeterminate progress bar that informs the user an operation is ongoing.
+// ---
+
 package org.chromium.chrome.browser.pwm_disabled;
 
 import android.app.Activity;

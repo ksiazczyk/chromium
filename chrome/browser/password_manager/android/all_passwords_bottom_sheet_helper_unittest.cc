@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AllPasswordsBottomSheetHelper unit tests
+// summary: Parametrized unit tests verifying the helper's update callback behavior for profile and account stores, including user-blocked credentials.
+// ---
+
 #include "chrome/browser/password_manager/android/all_passwords_bottom_sheet_helper.h"
 
 #include <string_view>

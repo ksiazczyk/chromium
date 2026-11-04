@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AddUsernameDialogBridgeTest
+// summary: Robolectric tests verifying that the bridge forwards dialog results to native and dismisses the shown dialog on native request.
+// ---
+
 package org.chromium.chrome.browser.add_username_dialog;
 
 import static com.google.common.truth.Truth.assertThat;

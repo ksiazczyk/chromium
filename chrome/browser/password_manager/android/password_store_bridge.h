@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password store JNI bridge header
+// summary: Declares the bridge class exposing profile and account password store operations and credential counts to Java.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_PASSWORD_STORE_BRIDGE_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_PASSWORD_STORE_BRIDGE_H_
 

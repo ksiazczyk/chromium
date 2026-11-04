@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager utility JNI bridge
+// summary: JNI wrapper for password manager utilities that checks whether GMS Core password storage is usable and whether Google Play Services and the Play Store are installed for updates.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import org.jni_zero.CalledByNative;

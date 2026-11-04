@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Properties for the CSV download dialog model
+// summary: Defines the property keys describing the CSV download dialog contents, such as title, details paragraphs and button callbacks.
+// ---
+
 package org.chromium.chrome.browser.pwm_disabled;
 
 import android.text.SpannableString;

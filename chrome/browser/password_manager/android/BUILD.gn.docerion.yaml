@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the Android password manager backend
+summary: Defines GN targets, sources and dependencies for the Android password manager backend, including Java enum generation and protobuf rules.

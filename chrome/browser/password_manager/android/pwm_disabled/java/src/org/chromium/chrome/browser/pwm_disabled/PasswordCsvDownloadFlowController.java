@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password CSV download flow controller
+// summary: Oversees the multi-step password CSV download flow, including the explanation dialog, device reauthentication, and writing the export file.
+// ---
+
 package org.chromium.chrome.browser.pwm_disabled;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

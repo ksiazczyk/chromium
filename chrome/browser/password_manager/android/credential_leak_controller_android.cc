@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential leak dialog controller implementation
+// summary: Implements the self-owned controller that shows the credential leak dialog, logs metrics, and can launch the password checkup.
+// ---
+
 #include "chrome/browser/password_manager/android/credential_leak_controller_android.h"
 
 #include <memory>

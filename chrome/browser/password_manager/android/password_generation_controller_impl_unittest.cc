@@ -1,6 +1,13 @@
 // Copyright 2019 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Password generation controller implementation unit tests
+// summary: Unit tests for the password generation controller implementation, covering generation triggers, dialog choices, and Touch To Fill outcomes with mock bridges and stores.
+// ---
+
 #include "chrome/browser/password_manager/android/password_generation_controller_impl.h"
 
 #include <map>

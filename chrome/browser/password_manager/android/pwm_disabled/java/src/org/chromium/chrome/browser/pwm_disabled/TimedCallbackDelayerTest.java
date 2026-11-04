@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TimedCallbackDelayerTest
+// summary: Robolectric unit tests checking that TimedCallbackDelayer calls its callback asynchronously after the configured delay, even with a zero delay.
+// ---
+
 package org.chromium.chrome.browser.pwm_disabled;
 
 import static org.mockito.Mockito.mock;

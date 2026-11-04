@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager util bridge header
+// summary: Declares PasswordManagerUtilBridge, the C++/Java bridge for password manager availability checks.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_PASSWORD_MANAGER_UTIL_BRIDGE_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_PASSWORD_MANAGER_UTIL_BRIDGE_H_
 

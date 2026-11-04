@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordStoreAndroidAccountBackend implementation
+// summary: Implements the account-scoped Android password store backend, wiring sync controller delegates and lifecycle handling for account passwords.
+// ---
+
 #include "chrome/browser/password_manager/android/password_store_android_account_backend.h"
 
 #include "base/metrics/histogram_functions.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for pwm_disabled Android password manager UI
+summary: GN build file defining the Java library, resources, and Robolectric JUnit tests for the Android password manager disabled UI, including CSV download and unavailable dialogs.

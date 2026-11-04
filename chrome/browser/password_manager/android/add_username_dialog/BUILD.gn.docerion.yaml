@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the add username dialog
+summary: GN build file defining the native source set, JNI header generation, Android Java library, resources, and Robolectric unit tests for the add username dialog component.

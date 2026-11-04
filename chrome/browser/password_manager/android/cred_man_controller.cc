@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential Manager controller implementation
+// summary: Implements the controller that decides when to show the Android Credential Manager UI and triggers password filling after optional re-auth.
+// ---
+
 #include "chrome/browser/password_manager/android/cred_man_controller.h"
 
 #include "base/android/device_info.h"

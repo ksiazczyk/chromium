@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordSettingsUpdaterAndroidDispatcherBridgeImpl implementation
+// summary: JNI implementation of the dispatcher bridge that calls the Java PasswordSettingsUpdaterDispatcherBridge to get and set password manager setting values.
+// ---
+
 #include "chrome/browser/password_manager/android/password_settings_updater_android_dispatcher_bridge_impl.h"
 
 #include <optional>

@@ -1,6 +1,13 @@
 // Copyright 2021 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Generated password saved message delegate unit tests
+// summary: Unit tests for the generated password saved message delegate using mock message dispatcher and JNI delegate fakes.
+// ---
+
 #include "chrome/browser/password_manager/android/generated_password_saved_message_delegate.h"
 
 #include <algorithm>

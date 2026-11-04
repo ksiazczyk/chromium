@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Auto sign-in first run dialog unit tests
+// summary: Unit tests checking preference updates and metrics when the auto sign-in first run dialog is shown, accepted or turned off.
+// ---
+
 #include "chrome/browser/password_manager/android/auto_signin_first_run_dialog_android.h"
 
 #include "base/android/jni_android.h"

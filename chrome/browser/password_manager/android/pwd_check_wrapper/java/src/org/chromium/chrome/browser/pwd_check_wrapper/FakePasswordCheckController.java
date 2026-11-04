@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakePasswordCheckController
+// summary: Fake PasswordCheckController implementation that returns controllable futures for password check results in tests.
+// ---
+
 package org.chromium.chrome.browser.pwd_check_wrapper;
 
 import java.util.HashMap;

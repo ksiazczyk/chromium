@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeSync status code enum for the GMS API
+// summary: Redefines status codes for the GMS ChromeSync API on Android, covering cases like passphrase required, auth errors, and transaction size limits.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_CHROMESYNC_STATUS_CODE_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_CHROMESYNC_STATUS_CODE_H_
 

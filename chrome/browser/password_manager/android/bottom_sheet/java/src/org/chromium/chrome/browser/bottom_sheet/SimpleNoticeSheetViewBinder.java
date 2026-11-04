@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleNoticeSheetViewBinder
+// summary: Maps changes of the simple notice sheet property model to the corresponding update methods of the sheet view.
+// ---
+
 package org.chromium.chrome.browser.bottom_sheet;
 
 import static org.chromium.chrome.browser.bottom_sheet.SimpleNoticeSheetProperties.BUTTON_ACTION;

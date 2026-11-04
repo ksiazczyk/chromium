@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password checkup launcher helper implementation
+// summary: Implements PasswordCheckupLauncherHelper by calling Java PasswordCheckupLauncher methods to launch on-device password checkup, safety check, and Safety Hub.
+// ---
+
 #include "chrome/browser/password_manager/android/password_checkup_launcher_helper_impl.h"
 
 #include "base/android/jni_string.h"

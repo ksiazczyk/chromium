@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager test utils bridge header
+// summary: Declares SetUpGmsCoreFakeBackends, a test helper for initializing fake GMS Core backends from C++.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_PASSWORD_MANAGER_TEST_UTILS_BRIDGE_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_PASSWORD_MANAGER_TEST_UTILS_BRIDGE_H_
 

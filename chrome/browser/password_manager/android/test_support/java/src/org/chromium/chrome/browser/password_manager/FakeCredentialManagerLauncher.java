@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake CredentialManagerLauncher for integration tests
+// summary: Fake CredentialManagerLauncher that returns configurable pending intents or errors to exercise password management flows in integration tests.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import android.app.PendingIntent;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password store Android local backend implementation
+// summary: Implements the password store backend for passwords kept in local Android storage rather than tied to a user account.
+// ---
+
 #include "chrome/browser/password_manager/android/password_store_android_local_backend.h"
 
 #include "base/metrics/histogram_functions.h"

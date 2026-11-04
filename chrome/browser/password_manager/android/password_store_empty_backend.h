@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Empty password store backend header
+// summary: Declares the PasswordStoreEmptyBackend class used when the Android backend requirements, such as Play Services version, are not met.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_PASSWORD_STORE_EMPTY_BACKEND_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_PASSWORD_STORE_EMPTY_BACKEND_H_
 

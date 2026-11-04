@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SimpleNoticeSheetCoordinatorRobolectricTest
+// summary: Robolectric tests covering the simple notice sheet coordinator's sheet display, dismissal and generic motion event consumption.
+// ---
+
 package org.chromium.chrome.browser.bottom_sheet;
 
 import static org.junit.Assert.assertTrue;

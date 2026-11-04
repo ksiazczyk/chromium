@@ -1,6 +1,13 @@
 // Copyright 2021 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Credential Manager launcher interface
+// summary: Interface for launchers that retrieve pending intents to open the Credential Manager, defining error codes that are persisted to logs.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import android.app.PendingIntent;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unified password manager proto conversion helpers
+// summary: Declares helpers that convert between stored credentials and unified password manager protos for listing passwords.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_UNIFIED_PASSWORD_MANAGER_PROTO_UTILS_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_UNIFIED_PASSWORD_MANAGER_PROTO_UTILS_H_
 

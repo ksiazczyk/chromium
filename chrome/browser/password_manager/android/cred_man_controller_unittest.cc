@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CredManController unit tests
+// summary: Unit tests for the Credential Manager controller using mocks for the password client, authenticator, filler, and visibility controller.
+// ---
+
 #include "chrome/browser/password_manager/android/cred_man_controller.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password store Android backend dispatcher bridge implementation
+// summary: Implements the native JNI bridge that forwards password store requests such as get, add, update and remove logins to Java.
+// ---
+
 #include "chrome/browser/password_manager/android/password_store_android_backend_dispatcher_bridge_impl.h"
 
 #include <jni.h>

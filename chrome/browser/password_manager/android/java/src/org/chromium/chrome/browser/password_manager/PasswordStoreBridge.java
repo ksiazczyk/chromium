@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password store bridge
+// summary: Java bridge handling communication with the C++ password store, forwarding credential insertions, updates and change notifications between Java observers and native code.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import androidx.annotation.VisibleForTesting;

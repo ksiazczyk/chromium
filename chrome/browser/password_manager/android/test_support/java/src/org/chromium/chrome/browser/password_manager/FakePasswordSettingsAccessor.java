@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake PasswordSettingsAccessor for integration tests
+// summary: Fake PasswordSettingsAccessor whose password settings methods are stubs pending implementation for integration tests.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import android.accounts.Account;

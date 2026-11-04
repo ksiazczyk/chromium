@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Factory for the fake CredentialManagerLauncher
+// summary: Factory that creates and configures the fake CredentialManagerLauncher used in integration tests.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import android.app.PendingIntent;

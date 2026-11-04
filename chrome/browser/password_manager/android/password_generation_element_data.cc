@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password generation element data
+// summary: Implements PasswordGenerationElementData, which stores form and field signatures and element details for password generation targets.
+// ---
+
 #include "chrome/browser/password_manager/android/password_generation_element_data.h"
 
 PasswordGenerationElementData::PasswordGenerationElementData(

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake PasswordStoreAndroidBackend for integration tests
+// summary: In-memory fake password store backend that stores, filters and serves saved passwords per account for integration tests.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import android.accounts.Account;

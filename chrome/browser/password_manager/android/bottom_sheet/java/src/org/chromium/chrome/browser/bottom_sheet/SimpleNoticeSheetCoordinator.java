@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleNoticeSheetCoordinator
+// summary: Coordinates showing and dismissing the simple notice sheet bottom sheet, validating its property model before display.
+// ---
+
 package org.chromium.chrome.browser.bottom_sheet;
 
 import static org.chromium.chrome.browser.bottom_sheet.SimpleNoticeSheetProperties.BUTTON_ACTION;

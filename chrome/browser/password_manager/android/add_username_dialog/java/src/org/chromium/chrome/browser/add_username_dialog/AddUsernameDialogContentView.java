@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AddUsernameDialogContentView
+// summary: Custom dialog content view with a focused username input and a password field, notifying a callback of username changes.
+// ---
+
 package org.chromium.chrome.browser.add_username_dialog;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SingleThreadBarrierClosureTest
+// summary: Robolectric unit tests verifying that SingleThreadBarrierClosure invokes its callback exactly once after the specified number of run() signals and ignores further calls.
+// ---
+
 package org.chromium.chrome.browser.pwm_disabled;
 
 import static org.mockito.Mockito.mock;

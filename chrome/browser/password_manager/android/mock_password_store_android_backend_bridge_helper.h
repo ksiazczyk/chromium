@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockPasswordStoreAndroidBackendBridgeHelper declaration
+// summary: Declares a gmock mock of PasswordStoreAndroidBackendBridgeHelper that fakes password store jobs such as getting, adding, updating, and removing logins.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_MOCK_PASSWORD_STORE_ANDROID_BACKEND_BRIDGE_HELPER_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_MOCK_PASSWORD_STORE_ANDROID_BACKEND_BRIDGE_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password store Android backend dispatcher bridge
+// summary: Java counterpart of the native dispatcher bridge that forwards password store operations such as fetching logins to the downstream Android backend implementation.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import android.accounts.Account;

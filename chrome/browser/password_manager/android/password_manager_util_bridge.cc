@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager util bridge JNI implementation
+// summary: JNI bridge letting C++ query internal backend presence and Google Play Services updatability.
+// ---
+
 #include "chrome/browser/password_manager/android/password_manager_util_bridge.h"
 
 #include <jni.h>

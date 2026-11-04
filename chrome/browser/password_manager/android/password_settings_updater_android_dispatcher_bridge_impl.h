@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordSettingsUpdaterAndroidDispatcherBridgeImpl class declaration
+// summary: Declares the dispatcher bridge implementation that holds the Java object and requires all JNI operations to run on one background thread.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_PASSWORD_SETTINGS_UPDATER_ANDROID_DISPATCHER_BRIDGE_IMPL_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_PASSWORD_SETTINGS_UPDATER_ANDROID_DISPATCHER_BRIDGE_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager settings service Android implementation
+// summary: Implements the Android settings service that stores password settings from Google Mobile Services in prefs and answers setting queries, accounting for managed prefs and sync.
+// ---
+
 #include "chrome/browser/password_manager/android/password_manager_settings_service_android_impl.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android password manager browser tests
+// summary: Browser tests for Android password manager flows, setting up fake GMS Core backends, an embedded HTTPS server and enterprise reporting test environment.
+// ---
+
 #include "base/android/device_info.h"
 #include "base/command_line.h"
 #include "base/functional/callback_helpers.h"

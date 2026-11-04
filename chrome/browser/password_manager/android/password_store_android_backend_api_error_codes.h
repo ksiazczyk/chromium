@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android backend API error codes
+// summary: Defines the AndroidBackendAPIErrorCode enum mirroring the histograms enums.xml values for GMS Core password store API errors.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_PASSWORD_STORE_ANDROID_BACKEND_API_ERROR_CODES_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_PASSWORD_STORE_ANDROID_BACKEND_API_ERROR_CODES_H_
 

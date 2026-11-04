@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AddUsernameDialogController
+// summary: Coordinator that builds and shows the add username modal dialog, letting users add a username to a saved password and reporting the outcome to its delegate.
+// ---
+
 package org.chromium.chrome.browser.add_username_dialog;
 
 import static org.chromium.chrome.browser.add_username_dialog.AddUsernameDialogContentProperties.PASSWORD;

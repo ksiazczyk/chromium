@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CctPasswordSavingMetricsRecorderBridge class declaration
+// summary: Declares a JNI bridge class that records password saving metrics in CCTs, such as time from form submission to CCT closing.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_CCT_PASSWORD_SAVING_METRICS_RECORDER_BRIDGE_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_CCT_PASSWORD_SAVING_METRICS_RECORDER_BRIDGE_H_
 

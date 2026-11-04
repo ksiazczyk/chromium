@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutoCompleteTextViewNoAutofill
+// summary: Android wrapper around AutoCompleteTextView that suppresses the Android Autofill save-password prompt by overriding onProvideAutofillStructure.
+// ---
+
 package org.chromium.chrome.browser.password_manager.shared_ui;
 
 import android.content.Context;

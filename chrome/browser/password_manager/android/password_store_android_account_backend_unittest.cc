@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password store Android account backend unit tests
+// summary: Unit tests for the account-scoped Android password store backend, exercising job dispatch, retries and sync behavior with mock bridges and services.
+// ---
+
 #include "chrome/browser/password_manager/android/password_store_android_account_backend.h"
 
 #include <memory>

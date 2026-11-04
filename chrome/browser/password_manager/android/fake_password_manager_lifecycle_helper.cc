@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake password manager lifecycle helper implementation
+// summary: Implements a fake lifecycle helper that stores a foregrounding callback and runs it when a foreground session starts, serving as a test double.
+// ---
+
 #include "chrome/browser/password_manager/android/fake_password_manager_lifecycle_helper.h"
 
 #include "base/logging.h"

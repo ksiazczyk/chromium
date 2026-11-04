@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutoSigninFirstRunDialogAndroid class declaration
+// summary: Declares the native counterpart of the Android dialog that informs users about auto sign-in and lets them turn it off.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_AUTO_SIGNIN_FIRST_RUN_DIALOG_ANDROID_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_AUTO_SIGNIN_FIRST_RUN_DIALOG_ANDROID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Add username dialog bridge header
+// summary: Declares the AddUsernameDialogBridge class and its JniDelegate interface for showing the Android add username dialog and handling acceptance or dismissal callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_ADD_USERNAME_DIALOG_ADD_USERNAME_DIALOG_BRIDGE_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_ADD_USERNAME_DIALOG_ADD_USERNAME_DIALOG_BRIDGE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login DB deprecation utility bridge
+// summary: JNI bridge letting Java query the login DB deprecation state, such as the path to and existence of the auto-exported passwords CSV.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import org.jni_zero.JniType;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PasswordSettingsAccessorFactoryTest
+// summary: Robolectric tests for PasswordSettingsAccessorFactory, checking that getOrCreate reuses the instance and that a testing factory can be installed.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

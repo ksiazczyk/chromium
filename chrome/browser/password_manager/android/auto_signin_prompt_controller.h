@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto sign-in prompt declaration
+// summary: Declares ShowAutoSigninPrompt, which displays a snackbar notifying users that they were automatically signed in.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_AUTO_SIGNIN_PROMPT_CONTROLLER_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_AUTO_SIGNIN_PROMPT_CONTROLLER_H_
 

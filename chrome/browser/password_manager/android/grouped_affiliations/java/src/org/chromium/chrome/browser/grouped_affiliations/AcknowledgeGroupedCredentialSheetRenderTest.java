@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Acknowledge grouped credential sheet render tests
+// summary: Render tests comparing screenshots of the acknowledgement sheet against gold standards across default, RTL and night mode variants.
+// ---
+
 package org.chromium.chrome.browser.grouped_affiliations;
 
 import static org.chromium.base.ThreadUtils.runOnUiThreadBlocking;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password store Android backend dispatcher bridge interface
+// summary: Interface for the JNI glue code that issues password store API calls to Google Mobile Services, keyed by job IDs and account selection.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_PASSWORD_STORE_ANDROID_BACKEND_DISPATCHER_BRIDGE_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_PASSWORD_STORE_ANDROID_BACKEND_DISPATCHER_BRIDGE_H_
 

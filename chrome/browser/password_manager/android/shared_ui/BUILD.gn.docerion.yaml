@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for password manager shared UI
+summary: Defines the ui_java Android library target containing no-autofill text input views for the password manager shared UI.

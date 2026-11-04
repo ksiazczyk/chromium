@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordCheckController
+// summary: Interface for the breached credentials check, defining password storage types, the result class and asynchronous check methods.
+// ---
+
 package org.chromium.chrome.browser.pwd_check_wrapper;
 
 import androidx.annotation.IntDef;

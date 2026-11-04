@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Upstream Credential Manager launcher factory stub
+// summary: Instantiable no-op subclass of CredentialManagerLauncherFactory used upstream when no downstream implementation is available.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import org.chromium.build.annotations.NullMarked;

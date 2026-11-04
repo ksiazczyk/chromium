@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Factory for the password settings accessor
+// summary: Abstract factory that returns a password settings accessor implementation, preferring a downstream ServiceLoader-provided factory over the upstream default and supporting test overrides.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import org.chromium.base.ResettersForTesting;

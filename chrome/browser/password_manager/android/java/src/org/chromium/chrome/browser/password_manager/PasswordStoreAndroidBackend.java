@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface for the Android password store backend
+// summary: Interface for sending asynchronous password store requests, such as listing, adding, and updating logins, to a downstream backend implementation with callbacks for results and failures.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import android.accounts.Account;

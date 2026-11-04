@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LoginDbDeprecationUtilBridgeTest
+// summary: Robolectric unit tests for the login DB deprecation bridge, checking that an existing auto-exported CSV file is detected via a mocked JNI interface.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import static org.junit.Assert.assertTrue;

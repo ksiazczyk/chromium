@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PasswordStoreAndroidBackendReceiverBridgeTest
+// summary: Robolectric tests verifying that backend receiver bridge operation callbacks, including login results and errors, reach the native password store backend.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import static org.mockito.Mockito.verify;

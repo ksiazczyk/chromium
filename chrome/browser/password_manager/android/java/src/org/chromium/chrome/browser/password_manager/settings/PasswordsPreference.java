@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordsPreference
+// summary: Custom Android preference for the password manager entry in Chrome's main settings screen, showing policy-driven managed strings and a warning when unmigrated passwords remain.
+// ---
+
 package org.chromium.chrome.browser.password_manager.settings;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password manager UI util Android unit tests
+// summary: Unit tests verifying which focus events the Android password manager UI utilities should accept.
+// ---
+
 #include "chrome/browser/password_manager/android/password_manager_ui_util_android.h"
 
 #include <memory>

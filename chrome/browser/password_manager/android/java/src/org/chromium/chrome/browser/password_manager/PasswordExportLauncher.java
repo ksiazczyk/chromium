@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordExportLauncher
+// summary: Launches the main settings screen and immediately starts the passwords export flow via a launch argument.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import android.content.Context;

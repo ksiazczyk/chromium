@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CCT password saving metrics recorder bridge
+// summary: Java bridge recording histograms for password save form submissions in Chrome Custom Tabs, covering times from submission to redirect and to activity stop.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import android.os.SystemClock;

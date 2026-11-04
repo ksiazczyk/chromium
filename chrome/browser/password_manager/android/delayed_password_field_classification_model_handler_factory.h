@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delayed password field classification model handler factory
+// summary: Declares a keyed service factory that schedules delayed preloading of the password form classification model handler on profile startup on Android.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_DELAYED_PASSWORD_FIELD_CLASSIFICATION_MODEL_HANDLER_FACTORY_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_DELAYED_PASSWORD_FIELD_CLASSIFICATION_MODEL_HANDLER_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Acknowledge grouped credential sheet module tests
+// summary: Robolectric tests verifying that the acknowledgement sheet bridge and controller show, hide and report dismiss reasons correctly.
+// ---
+
 package org.chromium.chrome.browser.grouped_affiliations;
 
 import static org.mockito.ArgumentMatchers.any;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GmsCorePasswordCheckController
+// summary: PasswordCheckController implementation that runs password checks and fetches breached credential counts via the GMS Core API.
+// ---
+
 package org.chromium.chrome.browser.pwd_check_wrapper;
 
 import org.chromium.build.annotations.NullMarked;

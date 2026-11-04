@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordGenerationElementData struct header
+// summary: Defines a struct holding the form, form and field signatures, renderer ID and maximum length for a requested password generation on Android.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_PASSWORD_GENERATION_ELEMENT_DATA_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_PASSWORD_GENERATION_ELEMENT_DATA_H_
 

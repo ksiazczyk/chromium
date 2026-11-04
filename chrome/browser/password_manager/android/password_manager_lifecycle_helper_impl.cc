@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager lifecycle helper JNI implementation
+// summary: Implements the lifecycle helper via JNI, running a registered callback synchronously when Chrome starts a foreground session.
+// ---
+
 #include "chrome/browser/password_manager/android/password_manager_lifecycle_helper_impl.h"
 
 #include <jni.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password manager error message delegate unit tests
+// summary: Unit tests for the error message delegate using mock bridges to cover message display, dismissal reasons, timestamps and histogram metrics.
+// ---
+
 #include "chrome/browser/password_manager/android/password_manager_error_message_delegate.h"
 
 #include "base/android/jni_android.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AddUsernameDialogContentProperties
+// summary: Defines the property model keys for username, password and the username-changed callback used by the dialog content.
+// ---
+
 package org.chromium.chrome.browser.add_username_dialog;
 
 import org.chromium.base.Callback;

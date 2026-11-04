@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager Android UI utilities implementation
+// summary: Implements focus-event validation and origin formatting helpers used by the Android password manager UI.
+// ---
+
 #include "chrome/browser/password_manager/android/password_manager_ui_util_android.h"
 
 #include "components/password_manager/content/browser/content_password_manager_driver.h"

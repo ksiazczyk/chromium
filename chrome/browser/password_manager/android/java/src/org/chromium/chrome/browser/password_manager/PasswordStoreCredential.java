@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password store credential model
+// summary: Represents key elements of a stored credential, holding its URL, username and password for exchange with the native password store.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import org.jni_zero.CalledByNative;

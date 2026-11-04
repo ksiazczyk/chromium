@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager launcher Android implementation
+// summary: Implements the launcher that opens the Android password settings page through a JNI call to the Java PasswordManagerLauncher.
+// ---
+
 #include "chrome/browser/password_manager/android/password_manager_launcher_android.h"
 
 #include "base/android/jni_android.h"

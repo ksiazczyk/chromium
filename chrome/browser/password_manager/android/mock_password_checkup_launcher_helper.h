@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockPasswordCheckupLauncherHelper declaration
+// summary: Declares a gmock mock of PasswordCheckupLauncherHelper that fakes launching password checkup, safety check, and Safety Hub flows in tests.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_MOCK_PASSWORD_CHECKUP_LAUNCHER_HELPER_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_MOCK_PASSWORD_CHECKUP_LAUNCHER_HELPER_H_
 

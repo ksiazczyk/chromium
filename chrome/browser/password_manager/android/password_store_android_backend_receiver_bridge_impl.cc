@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password store Android backend receiver bridge implementation
+// summary: Implements the JNI receiver bridge that parses proto results from Java into stored credentials and notifies the consumer.
+// ---
+
 #include "chrome/browser/password_manager/android/password_store_android_backend_receiver_bridge_impl.h"
 
 #include <jni.h>

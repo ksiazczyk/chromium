@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the account chooser dialog
+// summary: Tests that the Android account chooser dialog propagates the credential chosen by the user through the callback.
+// ---
+
 #include "chrome/browser/password_manager/android/account_chooser_dialog_android.h"
 
 #include "base/test/mock_callback.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager availability utility implementation
+// summary: Implements IsPasswordManagerAvailable, checking for the internal backend and a sufficient GMS Core version for full UPM support on Android.
+// ---
+
 #include "chrome/browser/password_manager/android/password_manager_android_util.h"
 
 #include <string>

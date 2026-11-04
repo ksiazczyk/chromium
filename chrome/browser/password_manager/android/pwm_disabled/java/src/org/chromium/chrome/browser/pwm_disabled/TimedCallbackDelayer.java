@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TimedCallbackDelayer
+// summary: CallbackDelayer implementation that posts callbacks to an Android Handler after a fixed delay in milliseconds.
+// ---
+
 package org.chromium.chrome.browser.pwm_disabled;
 
 import android.os.Handler;

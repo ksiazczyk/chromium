@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakePasswordCheckupClientHelperTest
+// summary: Robolectric unit tests verifying that FakePasswordCheckupClientHelper returns the configured local and account checkup intents on success and triggers the failure callback when an error is set.
+// ---
+
 package org.chromium.chrome.browser.password_manager.tests.utils;
 
 import static android.os.Looper.getMainLooper;

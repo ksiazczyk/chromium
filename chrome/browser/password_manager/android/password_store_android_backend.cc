@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password store Android backend implementation
+// summary: Implements the Android password store backend that delegates password requests to Google Mobile Services via JNI bridges, including retries, timeouts and metrics.
+// ---
+
 #include "chrome/browser/password_manager/android/password_store_android_backend.h"
 
 #include <jni.h>

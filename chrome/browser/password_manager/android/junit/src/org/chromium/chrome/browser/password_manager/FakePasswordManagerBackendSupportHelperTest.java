@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakePasswordManagerBackendSupportHelperTest
+// summary: Robolectric tests checking that the fake backend support helper reports backend presence as false by default and reflects the value set for testing.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import static org.junit.Assert.assertFalse;

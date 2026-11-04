@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto sign-in snackbar prompt controller
+// summary: Shows an Android snackbar informing the user that they were automatically signed in to a website with the given username.
+// ---
+
 #include "chrome/browser/password_manager/android/auto_signin_prompt_controller.h"
 
 #include "base/android/jni_android.h"

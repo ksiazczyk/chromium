@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Password Checkup client helper interface
+// summary: Interface for Password Checkup operations, including launching the checkup UI, running background checks, and counting breached, weak, and reused credentials.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import android.app.PendingIntent;

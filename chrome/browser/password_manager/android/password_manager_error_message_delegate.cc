@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager error message delegate implementation
+// summary: Displays Android messages for password store backend errors such as auth or key retrieval issues, with throttling, dismissal handling and UMA metrics.
+// ---
+
 #include "chrome/browser/password_manager/android/password_manager_error_message_delegate.h"
 
 #include "base/android/jni_android.h"

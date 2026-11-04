@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Add username dialog bridge implementation
+// summary: Implements the native side of the JNI bridge that creates, shows, and dismisses the Android add username dialog and forwards accepted or dismissed events to callbacks.
+// ---
+
 #include "chrome/browser/password_manager/android/add_username_dialog/add_username_dialog_bridge.h"
 
 #include <jni.h>

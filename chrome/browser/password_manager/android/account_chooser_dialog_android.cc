@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account chooser dialog native implementation
+// summary: Implements the native side of the Android account chooser dialog, passing credentials to Java and fetching avatar images.
+// ---
+
 #include "chrome/browser/password_manager/android/account_chooser_dialog_android.h"
 
 #include <utility>

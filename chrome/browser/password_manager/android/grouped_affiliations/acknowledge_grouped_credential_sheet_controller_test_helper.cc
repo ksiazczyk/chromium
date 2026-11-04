@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test helper for the acknowledge grouped credential sheet controller
+// summary: Implements a mock JNI delegate and helper that create the sheet controller for use in tests.
+// ---
+
 #include "chrome/browser/password_manager/android/grouped_affiliations/acknowledge_grouped_credential_sheet_controller_test_helper.h"
 
 #include <memory>

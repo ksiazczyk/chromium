@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PasswordSyncControllerDelegateBridgeTest
+// summary: Robolectric tests verifying that sync controller delegate bridge calls reach the delegate and report success, errors and API errors back to native.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import static org.junit.Assert.assertNotNull;
