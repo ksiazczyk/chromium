@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android implementation of the Glic tab observer
+// summary: Implements the Android GlicTabObserver by observing TabModelList models, WebContents changes, and tab group and detach events to fire tab event callbacks.
+// ---
+
 #include "chrome/browser/glic/common/glic_tab_observer_android.h"
 
 #include "base/check_op.h"

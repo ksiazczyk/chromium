@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic navigation throttle header
+// summary: Declares a navigation throttle that intercepts navigations to Gemini continue URLs and opens the Glic UI.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_GLIC_NAVIGATION_THROTTLE_H_
 #define CHROME_BROWSER_GLIC_GLIC_NAVIGATION_THROTTLE_H_
 

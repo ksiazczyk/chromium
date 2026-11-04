@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic user status request header
+// summary: Declares GlicUserStatusRequest, a Google API URL fetch request that delivers the parsed Glic user status to a response callback.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_GLIC_USER_STATUS_REQUEST_H_
 #define CHROME_BROWSER_GLIC_GLIC_USER_STATUS_REQUEST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic navigation helper declarations
+// summary: Declares Navigate and NavigateAsync helpers that run browser navigations from glic code and take ownership of the navigate params.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_COMMON_GLIC_NAVIGATION_H_
 #define CHROME_BROWSER_GLIC_COMMON_GLIC_NAVIGATION_H_
 

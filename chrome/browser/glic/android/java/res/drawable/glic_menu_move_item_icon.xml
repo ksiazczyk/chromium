@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Glic menu move item icon drawable
+summary: Layer-list drawable that aligns the 24dp move-item icon with the center of the menu dot for the Glic menu end icon.
+-->
+
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
     <!-- Transparent base to fix size to 40dp width -->
     <item>

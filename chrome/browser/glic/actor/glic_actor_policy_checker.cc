@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic actor policy checker implementation
+// summary: Implements the Glic enterprise policy checker that decides act-on-web capability from account, subscription, preference, and managed policy signals.
+// ---
+
 #include "chrome/browser/glic/actor/glic_actor_policy_checker.h"
 
 #include <ostream>

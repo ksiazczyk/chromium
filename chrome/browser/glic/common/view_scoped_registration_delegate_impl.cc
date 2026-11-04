@@ -5,6 +5,12 @@
 // Implementation of ViewScopedRegistrationDelegate for non-Android platforms
 // using views::View.
 
+// ---docerion
+// type: source
+// title: Views-based view-scoped registration delegate for Glic panel hotkeys
+// summary: Non-Android implementation of ViewScopedRegistrationDelegate that registers and unregisters scoped accelerators on the Glic panel's views::View.
+// ---
+
 #include "chrome/browser/glic/common/view_scoped_registration_delegate.h"
 #include "chrome/browser/glic/widget/glic_view.h"
 #include "ui/views/view.h"

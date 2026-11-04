@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic actor login permissions settings fragment
+// summary: Settings fragment that lists and manages Glic actor login permissions, including empty-state and managed-by-organization cards and permission revocation.
+// ---
+
 package org.chromium.chrome.browser.glic;
 
 import static org.chromium.build.NullUtil.assertNonNull;

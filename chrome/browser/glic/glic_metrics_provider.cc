@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic metrics provider implementation
+// summary: Implements a Chrome metrics provider that reports Glic onboarding status and registers the promotion source synthetic field trial.
+// ---
+
 #include "chrome/browser/glic/glic_metrics_provider.h"
 
 #include <algorithm>

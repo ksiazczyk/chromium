@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic split button controller header
+// summary: Declares GlicSplitButtonController, which manages toolbar and tab strip delegates for the Glic split button and exposes nudge controllers.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_BROWSER_UI_GLIC_SPLIT_BUTTON_CONTROLLER_H_
 #define CHROME_BROWSER_GLIC_BROWSER_UI_GLIC_SPLIT_BUTTON_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Glic split button delegate
+// summary: Android implementation of GlicSplitButtonDelegate that forwards nudge, actor icon, and task list requests to Java via a JNI bridge.
+// ---
+
 #include "chrome/browser/glic/browser_ui/glic_split_button_delegate.h"
 
 #include <string>

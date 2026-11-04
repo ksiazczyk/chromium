@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic actor login permissions fragment unit tests
+// summary: Robolectric unit tests for the Glic actor login permissions fragment, mocking the native bridge to verify permission listing and revocation behavior.
+// ---
+
 package org.chromium.chrome.browser.glic;
 
 import static org.junit.Assert.assertEquals;

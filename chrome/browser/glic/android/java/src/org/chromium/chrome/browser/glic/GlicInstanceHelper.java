@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicInstanceHelper Java bridge
+// summary: Java-side helper backed by native code that exposes a tab's Glic conversation ID, title and task ID, notifying observers when the instance changes.
+// ---
+
 package org.chromium.chrome.browser.glic;
 
 import org.jni_zero.CalledByNative;

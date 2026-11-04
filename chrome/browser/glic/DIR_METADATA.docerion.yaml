@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Glic directory metadata
+summary: Associates the Glic directory with its team email and Buganizer component for issue triage.

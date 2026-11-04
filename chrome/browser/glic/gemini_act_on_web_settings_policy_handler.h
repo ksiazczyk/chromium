@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini Act On Web settings policy handler header
+// summary: Declares the policy handler class that validates the GeminiActOnWebSettings integer policy together with Gemini default settings.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_GEMINI_ACT_ON_WEB_SETTINGS_POLICY_HANDLER_H_
 #define CHROME_BROWSER_GLIC_GEMINI_ACT_ON_WEB_SETTINGS_POLICY_HANDLER_H_
 

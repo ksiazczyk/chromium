@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic selection widget controller header
+// summary: Declares GlicSelectionWidgetController, which manages showing and dismissing the selection widget and observes content setting changes.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_BROWSER_UI_GLIC_SELECTION_WIDGET_CONTROLLER_H_
 #define CHROME_BROWSER_GLIC_BROWSER_UI_GLIC_SELECTION_WIDGET_CONTROLLER_H_
 

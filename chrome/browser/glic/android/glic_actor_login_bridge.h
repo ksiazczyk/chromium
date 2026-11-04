@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor login permission JNI bridge header
+// summary: Declares the GlicActorLoginBridge class that exposes actor login permission queries and revocation to Java.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_ANDROID_GLIC_ACTOR_LOGIN_BRIDGE_H_
 #define CHROME_BROWSER_GLIC_ANDROID_GLIC_ACTOR_LOGIN_BRIDGE_H_
 

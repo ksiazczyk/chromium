@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Glic keycap background drawable
+summary: Shape drawable giving Glic keycaps a rounded rectangle background with a secondary fill and a 1dp divider-colored stroke.
+-->
+
 <shape xmlns:android="http://schemas.android.com/apk/res/android"
     android:shape="rectangle">
     <solid android:color="@color/default_bg_color_secondary" />

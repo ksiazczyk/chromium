@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Panel focus dependent hotkey manager browser tests
+// summary: Browser tests verifying the Escape close hotkey and the zoom in, out, and reset hotkeys while the Glic panel is focused.
+// ---
+
 #include "base/test/run_until.h"
 #include "chrome/browser/glic/common/local_hotkey_manager.h"
 #include "chrome/browser/glic/host/glic_page_handler.h"

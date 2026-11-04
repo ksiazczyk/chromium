@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic marketing page tab helper implementation
+// summary: Tab helper that auto-opens Glic when allowlisted marketing pages load, limited by a configurable auto-open count.
+// ---
+
 #include "chrome/browser/glic/glic_marketing_page_tab_helper.h"
 
 #include <algorithm>

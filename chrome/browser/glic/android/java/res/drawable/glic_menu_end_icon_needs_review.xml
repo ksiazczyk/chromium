@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Glic menu end icon selector for needs-review state
+summary: State-list drawable showing the move-item icon on hover, focus or press and the menu dot in the resting needs-review state.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:state_hovered="true" android:drawable="@drawable/glic_menu_move_item_icon" />
     <item android:state_focused="true" android:drawable="@drawable/glic_menu_move_item_icon" />

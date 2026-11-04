@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic navigation helpers implementation
+// summary: Implements Navigate and NavigateAsync wrappers that fill in a browser for Android navigate params before delegating to the browser navigator.
+// ---
+
 #include "chrome/browser/glic/common/glic_navigation.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic selection widget controller delegate interface
+// summary: Defines the delegate interface supplying the selected frame, selection bounds, and selected text to the selection widget controller.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_BROWSER_UI_GLIC_SELECTION_WIDGET_CONTROLLER_DELEGATE_H_
 #define CHROME_BROWSER_GLIC_BROWSER_UI_GLIC_SELECTION_WIDGET_CONTROLLER_DELEGATE_H_
 

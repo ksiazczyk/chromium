@@ -1,6 +1,13 @@
 // Copyright 2026 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: JNI bindings for Glic enabling checks
+// summary: Exposes GlicEnabling eligibility, consent, policy, and settings checks to Java through JNI functions.
+// ---
+
 #include "chrome/browser/glic/public/glic_enabling.h"
 
 #include <memory>

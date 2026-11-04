@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic hotkey utilities header
+// summary: Declares utility functions that expose the Glic toggle hotkey string to the FRE and host web implementations.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_GLIC_HOTKEY_H_
 #define CHROME_BROWSER_GLIC_GLIC_HOTKEY_H_
 

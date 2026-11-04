@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic profile manager implementation
+// summary: Implements the manager that selects the profile for Glic launch and auto-opens the Glic panel on startup.
+// ---
+
 #include "chrome/browser/glic/glic_profile_manager.h"
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GlicButtonStateControllerTest
+// summary: Robolectric unit tests for GlicButtonStateController verifying initial state, observer registration, and button state changes on task updates.
+// ---
+
 package org.chromium.chrome.browser.glic;
 
 import static org.mockito.ArgumentMatchers.any;

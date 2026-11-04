@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic actor test utilities header
+// summary: 'Declares shared helpers for Glic actor tests: a mock task source, a builder of form label to DOM node maps, and a debug string formatter.'
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_ACTOR_GLIC_ACTOR_TEST_UTIL_H_
 #define CHROME_BROWSER_GLIC_ACTOR_GLIC_ACTOR_TEST_UTIL_H_
 

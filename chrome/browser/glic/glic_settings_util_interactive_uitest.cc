@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic settings utility interactive UI tests
+// summary: Interactive UI tests verifying that Glic settings helpers open the settings page, show feature promos, and leave the expected number of tabs open.
+// ---
+
 #include "chrome/browser/glic/glic_settings_util.h"
 
 #include "chrome/browser/browser_process.h"

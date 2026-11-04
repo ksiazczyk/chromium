@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic bottom bar render tests
+// summary: Render tests for the Glic entrypoint button in the Android Bottom Bar, verifying its default and panel-open states.
+// ---
+
 package org.chromium.chrome.browser.glic;
 
 import static org.mockito.Mockito.atLeastOnce;

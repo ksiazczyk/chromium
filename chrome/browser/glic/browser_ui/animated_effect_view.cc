@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnimatedEffectView implementation
+// summary: Implements a view that paints animated Skia shader effects with opacity ramping, parameterized uniforms, and a non-shader fallback path.
+// ---
+
 #include "chrome/browser/glic/browser_ui/animated_effect_view.h"
 
 #include "base/debug/crash_logging.h"

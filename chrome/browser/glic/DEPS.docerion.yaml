@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for chrome/browser/glic
+summary: Sets allowed and forbidden includes for the Glic directory, with per-file exceptions for tests and enterprise helpers.

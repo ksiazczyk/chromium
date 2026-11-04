@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of chrome/browser/glic
+summary: Declares code owners for the Glic directory, including per-file rules for policies, settings, and tests.

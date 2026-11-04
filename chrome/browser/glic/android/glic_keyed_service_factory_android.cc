@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicKeyedServiceFactory JNI entry point
+// summary: Implements the JNI function that returns the Java GlicKeyedService object for a given profile.
+// ---
+
 #include "chrome/browser/glic/public/glic_keyed_service_factory.h"
 
 #include "base/android/scoped_java_ref.h"

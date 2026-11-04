@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic Actor nudge controller header
+// summary: Declares GlicActorNudgeController, which handles Glic Actor notification and nudge state updates for a browser window.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_BROWSER_UI_GLIC_ACTOR_NUDGE_CONTROLLER_H_
 #define CHROME_BROWSER_GLIC_BROWSER_UI_GLIC_ACTOR_NUDGE_CONTROLLER_H_
 

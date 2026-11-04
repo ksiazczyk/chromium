@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic metrics provider unit tests
+// summary: Unit tests for GlicMetricsProvider session data reporting and promotion source synthetic field trial registration across profiles.
+// ---
+
 #include "chrome/browser/glic/glic_metrics_provider.h"
 
 #include <memory>

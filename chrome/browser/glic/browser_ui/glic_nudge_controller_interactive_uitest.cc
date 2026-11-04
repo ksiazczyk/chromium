@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic nudge controller interactive UI tests
+// summary: Interactive UI tests checking that the Glic nudge appears and disappears in the tab strip action container under various feature settings.
+// ---
+
 #include "chrome/browser/glic/browser_ui/glic_nudge_controller.h"
 
 #include "base/test/metrics/histogram_tester.h"

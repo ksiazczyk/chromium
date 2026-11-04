@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Panel visibility dependent hotkey manager implementation
+// summary: Implements the application-scoped focus toggle hotkey that routes to a specific Glic panel when it is showing but not focused.
+// ---
+
 #include "chrome/browser/glic/common/panel_visibility_dependent_hotkey_manager.h"
 
 #include "base/metrics/user_metrics.h"

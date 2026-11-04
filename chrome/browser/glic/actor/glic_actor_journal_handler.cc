@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the Glic actor journal handler
+// summary: Implements the Glic actor journal handler that records journal events, manages snapshots, and submits feedback for actor tasks.
+// ---
+
 #include "chrome/browser/glic/actor/glic_actor_journal_handler.h"
 
 #include "base/command_line.h"

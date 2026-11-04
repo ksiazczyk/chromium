@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic nudge controller implementation
+// summary: Implements the Glic nudge controller, showing or hiding nudge labels on the active tab while respecting call-to-action locks and prompt suggestions.
+// ---
+
 #include "chrome/browser/glic/browser_ui/glic_nudge_controller_impl.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Glic settings utility implementation
+// summary: Android implementation that routes Glic settings navigation to Android settings pages and returns the _android help URL suffix.
+// ---
+
 #include "chrome/browser/glic/glic_settings_util.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic toast for Android
+// summary: Shows an Android message toast for Glic notifications such as window resize, using the messages component dispatcher.
+// ---
+
 #include "chrome/browser/glic/browser_ui/glic_toast.h"
 
 #include "chrome/browser/android/android_theme_resources.h"

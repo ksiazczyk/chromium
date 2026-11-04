@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic Android Mojo integration tests
+// summary: Large integration tests covering the Glic Android native bottom sheet and the JNI/Mojo boundary with a full C++ test environment.
+// ---
+
 package org.chromium.chrome.browser.glic;
 
 import static org.junit.Assert.assertEquals;

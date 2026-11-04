@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser window feature wrappers pending Android implementations
+// summary: Provides inline wrappers for browser window callbacks and state queries with temporary Android stubs, intended to shrink as Android gains native support.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_COMMON_FUTURE_BROWSER_FEATURES_H_
 #define CHROME_BROWSER_GLIC_COMMON_FUTURE_BROWSER_FEATURES_H_
 

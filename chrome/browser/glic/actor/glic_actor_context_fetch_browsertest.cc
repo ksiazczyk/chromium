@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for Glic actor context fetching
+// summary: Browser tests verifying retry behavior when fetching tab observation context for Glic actor actions fails.
+// ---
+
 #include "base/test/bind.h"
 #include "base/test/gmock_expected_support.h"
 #include "chrome/browser/actor/actor_proto_conversion.h"

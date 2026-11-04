@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicExperimentalOptInUiCoordinator
+// summary: Coordinator that displays the Glic experimental opt-in dialog on Android as a centered modal card containing a ThinWebView with the opt-in WebUI.
+// ---
+
 package org.chromium.chrome.browser.glic;
 
 import android.app.Activity;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnimatedEffectView header
+// summary: Declares AnimatedEffectView, the base class for animated shader effect views, with compositor, animation, and GPU data manager observers.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_BROWSER_UI_ANIMATED_EFFECT_VIEW_H_
 #define CHROME_BROWSER_GLIC_BROWSER_UI_ANIMATED_EFFECT_VIEW_H_
 

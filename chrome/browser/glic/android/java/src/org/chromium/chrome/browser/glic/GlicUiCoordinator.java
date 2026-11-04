@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicUiCoordinator
+// summary: Coordinator that owns and manages Glic UI components such as the actor overlay, task helper and external trigger snackbar controller.
+// ---
+
 package org.chromium.chrome.browser.glic;
 
 import android.app.Activity;

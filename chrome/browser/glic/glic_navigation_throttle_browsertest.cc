@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic navigation throttle browser tests
+// summary: Browser tests verifying that the Glic navigation throttle captures continue URLs and logs the capture results.
+// ---
+
 #include "chrome/browser/glic/glic_navigation_throttle.h"
 
 #include "base/memory/raw_ptr.h"

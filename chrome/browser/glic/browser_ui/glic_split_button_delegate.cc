@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic split button delegate defaults
+// summary: Provides NudgeParams constructors and default no-op implementations for the Glic split button delegate interface methods.
+// ---
+
 #include "chrome/browser/glic/browser_ui/glic_split_button_delegate.h"
 
 #include <utility>

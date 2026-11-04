@@ -1,6 +1,13 @@
 // Copyright 2026 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Glic nudge controller implementation header
+// summary: Declares GlicNudgeControllerImpl, which observes tab list changes and manages nudge labels, prompt suggestions, and nudge activity callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_BROWSER_UI_GLIC_NUDGE_CONTROLLER_IMPL_H_
 #define CHROME_BROWSER_GLIC_BROWSER_UI_GLIC_NUDGE_CONTROLLER_IMPL_H_
 

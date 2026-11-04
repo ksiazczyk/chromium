@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic warming checks API and result enum
+// summary: Declares the GlicPrewarmingChecksResult enum and the ShouldPreloadForProfile API that decides whether Glic WebContents preloading is permitted for a profile and trigger.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_GLIC_WARMING_CHECKS_H_
 #define CHROME_BROWSER_GLIC_GLIC_WARMING_CHECKS_H_
 

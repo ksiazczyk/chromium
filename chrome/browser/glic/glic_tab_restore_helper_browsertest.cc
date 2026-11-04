@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic tab restore helper browser test
+// summary: Browser test verifying that bound and pinned Glic instance state is written to tab extra data and correctly restored onto a fresh WebContents.
+// ---
+
 #include "chrome/browser/glic/glic_tab_restore_helper.h"
 
 #include "chrome/browser/glic/glic_tab_restore_data.h"

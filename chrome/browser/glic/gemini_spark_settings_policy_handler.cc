@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini Spark settings policy handler implementation
+// summary: Implements the GeminiSparkSettings policy handler, checking dependent Gemini settings policies and reporting dependency errors.
+// ---
+
 #include "chrome/browser/glic/gemini_spark_settings_policy_handler.h"
 
 #include "base/values.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic Actor nudge controller implementation
+// summary: Implements the controller that shows and updates Glic Actor task nudges, managing the actor task icon, nudge labels and the actor task list bubble.
+// ---
+
 #include "chrome/browser/glic/browser_ui/glic_actor_nudge_controller.h"
 
 #include "base/functional/bind.h"

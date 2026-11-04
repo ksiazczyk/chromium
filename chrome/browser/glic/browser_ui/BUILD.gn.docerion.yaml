@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Glic browser UI build configuration
+summary: GN build file defining the browser_ui and impl source sets with platform-conditional sources and dependencies for the Glic browser UI.

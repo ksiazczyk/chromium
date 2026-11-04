@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: ci
+# title: Presubmit checks for chrome/browser/glic
+# summary: Enforces sorted C++ headers, Glic API test registration, and common checks on uploaded or committed changes.
+# ---
+
 """Presubmit script for chrome/browser/glic.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

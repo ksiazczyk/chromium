@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the Glic browser module
+summary: Defines the GN source sets and targets that build the Glic feature in chrome/browser.

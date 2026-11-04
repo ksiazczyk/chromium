@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GlicExperimentalOptInUiCoordinatorUnitTest
+// summary: Robolectric unit tests for GlicExperimentalOptInUiCoordinator, using a test WindowAndroid and mocked native and ThinWebView dependencies.
+// ---
+
 package org.chromium.chrome.browser.glic;
 
 import static org.junit.Assert.assertEquals;

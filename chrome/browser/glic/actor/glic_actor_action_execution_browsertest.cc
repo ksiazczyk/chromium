@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for Glic actor action execution
+// summary: Browser tests verifying Glic actor actions such as navigation and clicks on tabs, including task completion and result codes.
+// ---
+
 #include "base/test/metrics/histogram_tester.h"
 #include "chrome/browser/glic/actor/glic_actor_functional_browsertest.h"
 #include "chrome/browser/glic/actor/glic_actor_metrics.h"

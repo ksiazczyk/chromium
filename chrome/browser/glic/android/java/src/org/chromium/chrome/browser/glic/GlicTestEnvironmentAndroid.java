@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicTestEnvironmentAndroid
+// summary: Java JNI wrapper for the C++ GlicTestEnvironment, exposing test URLs, guest web contents and activity orientation control.
+// ---
+
 package org.chromium.chrome.browser.glic;
 
 import android.app.Activity;

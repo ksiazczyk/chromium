@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the GLIC e2e test directory
+summary: Lists the primary and secondary owners responsible for reviewing changes to the GLIC e2e test directory.

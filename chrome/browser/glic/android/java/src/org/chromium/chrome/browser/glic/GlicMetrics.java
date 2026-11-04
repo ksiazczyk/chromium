@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic metrics utilities
+// summary: Utility class that records Glic user actions and histograms for peek view, bottom sheet, entry point clicks and web contents context menu results.
+// ---
+
 package org.chromium.chrome.browser.glic;
 
 import androidx.annotation.IntDef;

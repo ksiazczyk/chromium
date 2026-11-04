@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic settings utility header
+// summary: Declares helpers that open Glic, password manager, and contact info settings pages and build platform-specific help center URLs.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_GLIC_SETTINGS_UTIL_H_
 #define CHROME_BROWSER_GLIC_GLIC_SETTINGS_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GlicToolbarButtonController unit tests
+// summary: Robolectric unit tests for the Glic toolbar button controller, covering button state, observers and feature flags.
+// ---
+
 package org.chromium.chrome.browser.glic;
 
 import static org.mockito.ArgumentMatchers.any;

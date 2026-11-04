@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic selection observer header
+// summary: Declares GlicSelectionObserver, which tracks text selections and input events to trigger and dismiss the Glic selection UI, with dismiss reason enums.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_GLIC_SELECTION_OBSERVER_H_
 #define CHROME_BROWSER_GLIC_GLIC_SELECTION_OBSERVER_H_
 

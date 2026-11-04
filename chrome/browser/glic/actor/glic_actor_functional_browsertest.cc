@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Implementation of the Glic actor functional test base
+// summary: Implements the Glic actor functional browser test base with helpers for creating tasks, performing actions, and awaiting results.
+// ---
+
 #include "chrome/browser/glic/actor/glic_actor_functional_browsertest.h"
 
 #include "base/base64.h"

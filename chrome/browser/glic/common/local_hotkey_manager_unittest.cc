@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local hotkey manager unit tests
+// summary: Unit tests for LocalHotkeyManager covering scoped hotkey registration, command handling, and registration lifecycle using fake delegates and state.
+// ---
+
 #include "chrome/browser/glic/common/local_hotkey_manager.h"
 
 #include <memory>

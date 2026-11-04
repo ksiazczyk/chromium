@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic policy browser tests
+// summary: Browser tests verifying how enterprise policies such as GeminiSettings control Glic behavior and UI.
+// ---
+
 #include <optional>
 #include <sstream>
 #include <utility>

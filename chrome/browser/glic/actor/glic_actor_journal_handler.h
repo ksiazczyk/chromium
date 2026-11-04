@@ -1,6 +1,13 @@
 // Copyright 2026 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Header for the Glic actor journal handler
+// summary: Declares the GlicActorJournalHandler class that encapsulates actor journal logging, snapshots, and feedback reporting.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_ACTOR_GLIC_ACTOR_JOURNAL_HANDLER_H_
 #define CHROME_BROWSER_GLIC_ACTOR_GLIC_ACTOR_JOURNAL_HANDLER_H_
 

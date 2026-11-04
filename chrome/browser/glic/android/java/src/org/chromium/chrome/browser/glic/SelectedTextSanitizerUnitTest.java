@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SelectedTextSanitizer unit tests
+// summary: Robolectric unit tests covering sanitization of selected text, including control and invisible characters, variation selectors, tag sequences and emoji preservation.
+// ---
+
 package org.chromium.chrome.browser.glic;
 
 import static org.junit.Assert.assertEquals;

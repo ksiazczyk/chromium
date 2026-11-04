@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Application-wide hotkey registration delegate implementation
+// summary: Implements application-scoped hotkey registration that registers and unregisters accelerators with all current and future browser windows, including the Android accelerator manager path.
+// ---
+
 #include "chrome/browser/glic/common/application_hotkey_delegate.h"
 
 #include "base/scoped_observation.h"

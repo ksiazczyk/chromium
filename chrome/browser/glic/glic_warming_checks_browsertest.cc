@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic warming checks browser tests
+// summary: Browser tests verifying prewarming eligibility results across feature flags, memory overrides, connection types, and warming trigger scenarios.
+// ---
+
 #include "chrome/browser/glic/glic_warming_checks.h"
 
 #include <string>

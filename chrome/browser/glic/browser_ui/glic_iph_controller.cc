@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic IPH controller implementation
+// summary: Implements the logic that periodically attempts to show the Glic in-product help promo on eligible active tabs.
+// ---
+
 #include "chrome/browser/glic/browser_ui/glic_iph_controller.h"
 
 #include "base/time/time.h"

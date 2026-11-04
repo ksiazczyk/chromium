@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic split button controller implementation
+// summary: Implements the per-browser controller that owns the Glic button, nudge, and actor nudge controllers and handles Glic button clicks.
+// ---
+
 #include "chrome/browser/glic/browser_ui/glic_split_button_controller.h"
 
 #include <optional>

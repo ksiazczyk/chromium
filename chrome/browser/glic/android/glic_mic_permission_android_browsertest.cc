@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic microphone permission Android browser test
+// summary: Browser test exercising the end-to-end microphone permission flow for Glic on Android using a fake permission UI, parameterized on GlicNoWebview.
+// ---
+
 #include <memory>
 
 #include "base/functional/bind.h"

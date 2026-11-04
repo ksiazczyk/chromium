@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicBottomSheetContent
+// summary: TabBottomSheetContent implementation for the Glic feature that overrides the background glow and prevents suppression while active agent tasks are running.
+// ---
+
 package org.chromium.chrome.browser.glic;
 
 import android.content.Context;

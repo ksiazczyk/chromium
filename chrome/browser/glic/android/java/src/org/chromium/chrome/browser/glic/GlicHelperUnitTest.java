@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GlicHelper unit tests
+// summary: Robolectric unit tests for GlicHelper, covering behavior such as the task-in-progress snackbar, permission checks and snackbar manager interactions.
+// ---
+
 package org.chromium.chrome.browser.glic;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GlicTransitTestRule
+// summary: JUnit rule for integration tests that reuse ChromeTabbedActivity with Glic enabled for testing, wrapping the base transit rule in a rule chain.
+// ---
+
 package org.chromium.chrome.test.transit;
 
 import org.junit.rules.RuleChain;

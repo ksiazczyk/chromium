@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local Glic hotkey manager declaration
+// summary: Declares LocalHotkeyManager, which registers Glic accelerators in a local scope via a delegate and dispatches presses to a panel event handler.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_COMMON_LOCAL_HOTKEY_MANAGER_H_
 #define CHROME_BROWSER_GLIC_COMMON_LOCAL_HOTKEY_MANAGER_H_
 

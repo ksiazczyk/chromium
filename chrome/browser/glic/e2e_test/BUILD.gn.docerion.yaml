@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for GLIC e2e tests
+summary: Defines the build targets for GLIC end-to-end test support, placeholder constants, and the glic_internal_e2e_interactive_ui_tests test binary.

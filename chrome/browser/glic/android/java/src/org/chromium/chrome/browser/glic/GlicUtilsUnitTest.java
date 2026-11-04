@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GlicUtils unit tests
+// summary: Robolectric unit tests verifying GlicUtils side panel form factor logic and tab strip Glic support across devices, feature flags and testing overrides.
+// ---
+
 package org.chromium.chrome.browser.glic;
 
 import static org.junit.Assert.assertFalse;

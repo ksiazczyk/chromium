@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic promotion source navigation observer implementation
+// summary: Detects navigations to the Glic promotion marketing page and records the referral source cohort in profile prefs and a synthetic field trial.
+// ---
+
 #include "chrome/browser/glic/glic_promotion_source_navigation_observer.h"
 
 #include <string>

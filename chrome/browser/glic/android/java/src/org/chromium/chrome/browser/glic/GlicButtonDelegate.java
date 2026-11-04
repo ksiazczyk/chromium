@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicButtonDelegate
+// summary: Functional interface that handles clicks on the Glic toolbar button, receiving a prevent-close flag and the Glic invocation source.
+// ---
+
 package org.chromium.chrome.browser.glic;
 
 import org.chromium.build.annotations.NullMarked;

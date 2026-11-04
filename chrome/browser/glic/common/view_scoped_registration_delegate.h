@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View scoped registration delegate header
+// summary: Declares ViewScopedRegistrationDelegate, which creates hotkey registrations scoped to the Glic panel view.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_COMMON_VIEW_SCOPED_REGISTRATION_DELEGATE_H_
 #define CHROME_BROWSER_GLIC_COMMON_VIEW_SCOPED_REGISTRATION_DELEGATE_H_
 

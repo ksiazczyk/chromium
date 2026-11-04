@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic NetLog header
+// summary: Declares the helper that logs a fake network request with the Glic traffic annotation for net-export capture.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_GLIC_NET_LOG_H_
 #define CHROME_BROWSER_GLIC_GLIC_NET_LOG_H_
 

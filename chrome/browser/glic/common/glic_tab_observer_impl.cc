@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Non-Android Glic tab observer implementation
+// summary: Implements GlicTabObserverImpl, translating tab strip model changes into tab creation, activation and mutation events for the callback.
+// ---
+
 #include "chrome/browser/glic/common/glic_tab_observer_impl.h"
 
 #include "base/task/sequenced_task_runner.h"

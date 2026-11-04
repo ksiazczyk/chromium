@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic user status request implementation
+// summary: Implements the URL fetch request for the Glic user status endpoint, adding variations headers and mapping API errors and JSON responses to a cached user status.
+// ---
+
 #include "chrome/browser/glic/glic_user_status_request.h"
 
 #include "base/json/json_reader.h"

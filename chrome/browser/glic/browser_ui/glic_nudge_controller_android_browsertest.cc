@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic nudge controller Android browser tests
+// summary: Browser tests verifying that the Glic nudge UI is shown and hidden on Android via a mock split button delegate and nudge activity callbacks.
+// ---
+
 #include "chrome/browser/glic/browser_ui/glic_nudge_controller.h"
 
 #include "base/functional/callback_helpers.h"

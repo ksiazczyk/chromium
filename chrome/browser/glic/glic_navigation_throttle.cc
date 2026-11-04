@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic navigation throttle implementation
+// summary: Implements a navigation throttle that handles Glic web continuity URLs, redirecting navigations to the configured continuity host.
+// ---
+
 #include "chrome/browser/glic/glic_navigation_throttle.h"
 
 #include "base/functional/bind.h"

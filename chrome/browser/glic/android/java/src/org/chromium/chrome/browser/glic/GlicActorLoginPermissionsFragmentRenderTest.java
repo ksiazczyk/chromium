@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic actor login permissions fragment render tests
+// summary: Render tests for the Glic actor login permissions settings fragment, using mocked native bridges and Chrome render test rules.
+// ---
+
 package org.chromium.chrome.browser.glic;
 
 import static org.mockito.ArgumentMatchers.any;

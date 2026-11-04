@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Glic Android dimension resources
+summary: Defines dimension values for the Android Glic UI, covering expanded content, promo, extra info, toolbar divider, task menu, microphone permission dialog and experimental opt-in dialog spacing and sizes.
+-->
+
 <resources>
     <!-- Glic expanded content dimensions -->
     <dimen name="glic_expanded_header_top_margin">20dp</dimen>

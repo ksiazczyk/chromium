@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for the Glic actor directory
+summary: GN build configuration defining the actor source set, browser test targets, and test support for the Glic actor code.

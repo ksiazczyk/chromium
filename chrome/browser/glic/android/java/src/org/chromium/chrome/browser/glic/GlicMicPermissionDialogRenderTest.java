@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GlicMicPermissionDialog render tests
+// summary: Render tests capturing the appearance of the Glic microphone permission dialog in both day and night modes using ChromeRenderTestRule.
+// ---
+
 package org.chromium.chrome.browser.glic;
 
 import android.view.View;

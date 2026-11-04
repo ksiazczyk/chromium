@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextSharingBorderViewController interface
+// summary: Defines the controller interface that initializes the border view and exposes the contents web view the border surrounds.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_BROWSER_UI_CONTEXT_SHARING_BORDER_VIEW_CONTROLLER_H_
 #define CHROME_BROWSER_GLIC_BROWSER_UI_CONTEXT_SHARING_BORDER_VIEW_CONTROLLER_H_
 

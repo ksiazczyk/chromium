@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Glic browser UI OWNERS
+summary: Lists code owners for the directory with per-file ownership rules covering border view, tab underline, vector icons, IPH, selection widget, and actor files.

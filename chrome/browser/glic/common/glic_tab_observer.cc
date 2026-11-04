@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic tab observer platform factory
+// summary: Creates the platform-specific GlicTabObserver, choosing the Android or desktop implementation at build time.
+// ---
+
 #include "chrome/browser/glic/common/glic_tab_observer.h"
 
 #include "build/build_config.h"

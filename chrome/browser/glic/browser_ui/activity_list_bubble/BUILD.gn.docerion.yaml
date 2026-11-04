@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the activity list bubble
+summary: Defines GN source sets for the delegate, controller, UI implementation, unit tests and interactive UI tests of the Glic actor task list bubble.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GlicToolbarButton render tests
+// summary: Render tests for the Glic entrypoint button on the Chrome toolbar, including the panel-open state.
+// ---
+
 package org.chromium.chrome.browser.glic;
 
 import static org.mockito.Mockito.verify;

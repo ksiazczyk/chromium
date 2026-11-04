@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextSharingBorderViewControllerImpl implementation
+// summary: Implements the border controller, subscribing to focused tab changes, actor border glow, and context access indicator status to drive border updates.
+// ---
+
 #include "chrome/browser/glic/browser_ui/context_sharing_border_view_controller_impl.h"
 
 #include "base/debug/crash_logging.h"

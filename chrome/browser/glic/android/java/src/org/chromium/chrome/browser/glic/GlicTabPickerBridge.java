@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic tab picker bridge
+// summary: JNI bridge that launches the Chrome tab picker for Glic and returns the selected tabs to native code.
+// ---
+
 package org.chromium.chrome.browser.glic;
 
 import android.app.Activity;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic context menu browser tests
+// summary: Browser tests for the Glic context menu item, verifying its presence and enablement across page and image contexts.
+// ---
+
 #include "base/test/run_until.h"
 #include "base/test/scoped_feature_list.h"
 #include "chrome/app/chrome_command_ids.h"

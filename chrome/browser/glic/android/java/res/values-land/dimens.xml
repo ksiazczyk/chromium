@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Glic opt-in dialog landscape dimensions
+summary: Defines landscape-specific max width and height dimensions for the Glic experimental opt-in dialog.
+-->
+
 <resources>
     <!-- Glic experimental opt-in dialog dimensions in landscape. -->
     <dimen name="glic_experimental_opt_in_dialog_max_width">600dp</dimen>

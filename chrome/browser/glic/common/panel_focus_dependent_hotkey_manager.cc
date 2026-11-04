@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Panel focus dependent hotkey manager implementation
+// summary: Implements hotkeys active only while the Glic panel has focus, handling close, focus toggle, zoom, and Windows title bar context menu commands.
+// ---
+
 #include "chrome/browser/glic/common/panel_focus_dependent_hotkey_manager.h"
 
 #include "base/metrics/user_metrics.h"

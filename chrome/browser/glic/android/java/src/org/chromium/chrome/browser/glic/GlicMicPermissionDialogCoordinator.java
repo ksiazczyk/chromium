@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic microphone permission dialog coordinator
+// summary: Coordinator that shows a Chrome modal dialog pre-prompting the user for microphone permission for Gemini before the Android OS permission dialog.
+// ---
+
 package org.chromium.chrome.browser.glic;
 
 import android.app.Activity;

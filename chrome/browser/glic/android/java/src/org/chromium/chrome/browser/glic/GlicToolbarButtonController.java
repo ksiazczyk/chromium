@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicToolbarButtonController
+// summary: Defines the adaptive toolbar button that opens the Glic bottom sheet, with button specs, IPH and task menu integration.
+// ---
+
 package org.chromium.chrome.browser.glic;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

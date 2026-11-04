@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorTaskListBubble implementation
+// summary: Implements the ActorTaskListBubble dialog that lists the user's ongoing actor tasks as clickable rows in a scrollable bubble.
+// ---
+
 #include "chrome/browser/glic/browser_ui/activity_list_bubble/glic_activity_list_bubble.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini Spark settings policy handler header
+// summary: Declares the GeminiSparkSettings policy handler that validates the Gemini Spark policy and its dependent Gemini settings.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_GEMINI_SPARK_SETTINGS_POLICY_HANDLER_H_
 #define CHROME_BROWSER_GLIC_GEMINI_SPARK_SETTINGS_POLICY_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic settings help center URL utility
+// summary: Implements GetHelpCenterUrl, which appends a platform-specific suffix to the p query parameter of Glic help center URLs.
+// ---
+
 #include "chrome/browser/glic/glic_settings_util.h"
 
 #include <string>

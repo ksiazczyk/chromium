@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic Android browser tests
+// summary: Browser tests verifying Glic page context fetching on Android, including URL queries and PDF document context on Android V+.
+// ---
+
 #include "base/android/android_info.h"
 #include "base/android/device_info.h"
 #include "base/files/file_util.h"

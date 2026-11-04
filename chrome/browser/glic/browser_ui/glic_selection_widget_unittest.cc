@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic selection widget unit tests
+// summary: Unit tests for the Glic selection widget, covering button layout, copy button visibility, and action delegate callbacks.
+// ---
+
 #include "chrome/browser/glic/browser_ui/glic_selection_widget.h"
 
 #include "base/run_loop.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic provider spec factory header
+// summary: Declares CreateGlicProviderSpec, which builds the provider spec for a profile based on its latched GEiC decision.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_GLIC_PROVIDER_SPEC_IMPL_H_
 #define CHROME_BROWSER_GLIC_GLIC_PROVIDER_SPEC_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GlicProfileManager interactive UI tests
+// summary: Interactive UI tests for Glic warming and profile manager behavior across profiles; the test suite is currently disabled pending multi-instance updates.
+// ---
+
 #include "chrome/browser/glic/glic_profile_manager.h"
 
 #include "base/scoped_observation.h"

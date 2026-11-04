@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic zoom browser tests
+// summary: Parameterized browser tests checking Glic zoom hotkeys and zoom level preference updates in both Webview and NoWebview modes.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "base/test/metrics/histogram_tester.h"
 #include "base/test/run_until.h"

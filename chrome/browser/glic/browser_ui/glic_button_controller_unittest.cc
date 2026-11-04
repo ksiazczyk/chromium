@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic button controller unit tests
+// summary: Unit tests for GlicButtonController covering button visibility, pinning preferences and panel state updates using mocked Glic services.
+// ---
+
 #include "chrome/browser/glic/browser_ui/glic_button_controller.h"
 
 #include <memory>

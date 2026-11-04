@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic actor test utilities implementation
+// summary: Implements helpers for Glic actor tests, including a mock task source info and utilities that map form labels from annotated page content to DOM nodes.
+// ---
+
 #include "chrome/browser/glic/actor/glic_actor_test_util.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic user status fetcher header
+// summary: Declares GlicUserStatusFetcher, which schedules and performs user status requests that decide whether Glic UI surfaces are shown for the primary account.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_GLIC_USER_STATUS_FETCHER_H_
 #define CHROME_BROWSER_GLIC_GLIC_USER_STATUS_FETCHER_H_
 

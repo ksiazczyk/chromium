@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Glic common build file (BUILD.gn)
+summary: Defines the glic common source set with Android and desktop variants plus a testonly browser_tests target and their dependencies.

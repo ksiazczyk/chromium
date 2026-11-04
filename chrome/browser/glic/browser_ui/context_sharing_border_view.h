@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextSharingBorderView header
+// summary: Declares the context-sharing border view, an AnimatedEffectView subclass with a factory hook for test injection and view builder support.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_BROWSER_UI_CONTEXT_SHARING_BORDER_VIEW_H_
 #define CHROME_BROWSER_GLIC_BROWSER_UI_CONTEXT_SHARING_BORDER_VIEW_H_
 

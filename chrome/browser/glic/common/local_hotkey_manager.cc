@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Local Glic hotkey manager implementation
+// summary: Implements accelerator lookup, scoped registration and dispatch for Glic commands such as close, zoom, focus toggle, capture region and panel toggle.
+// ---
+
 #include "chrome/browser/glic/common/local_hotkey_manager.h"
 
 #include <algorithm>

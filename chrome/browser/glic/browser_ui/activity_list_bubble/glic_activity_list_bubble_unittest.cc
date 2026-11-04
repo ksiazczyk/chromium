@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic activity list bubble unit tests
+// summary: Unit tests for the Glic actor activity list bubble, exercising its widget and controller setup, row buttons, accessibility, and UI metrics using fake actor and mock Glic services.
+// ---
+
 #include "chrome/browser/glic/browser_ui/activity_list_bubble/glic_activity_list_bubble.h"
 
 #include <memory>

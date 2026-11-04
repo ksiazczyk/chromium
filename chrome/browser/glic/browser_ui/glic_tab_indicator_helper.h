@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic tab indicator helper header
+// summary: Declares GlicTabIndicatorHelper, which propagates Glic focus and sharing state changes for a tab and registers state change callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_BROWSER_UI_GLIC_TAB_INDICATOR_HELPER_H_
 #define CHROME_BROWSER_GLIC_BROWSER_UI_GLIC_TAB_INDICATOR_HELPER_H_
 
