@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Batch upload service factory implementation
+// summary: Builds the BatchUploadService per profile, wiring the identity manager, sync service, prefs and the UI delegate.
+// ---
+
 #include "chrome/browser/profiles/batch_upload/batch_upload_service_factory.h"
 
 #include "chrome/browser/profiles/batch_upload/batch_upload_service.h"

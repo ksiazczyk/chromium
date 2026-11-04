@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestProfileProvider
+// summary: In-memory ProfileProvider implementation for testing that returns explicit original and optional off-the-record profiles.
+// ---
+
 package org.chromium.chrome.browser.profiles;
 
 import org.chromium.build.annotations.NullMarked;

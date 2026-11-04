@@ -6,6 +6,12 @@
 // http://google3/apps/framework/data/data.proto
 // Messages not used in Chrome have been omitted. Last copied at cl/528833710.
 
+// ---docerion
+// type: source
+// title: Base protos for push notification data mutations
+// summary: Defines the abstract MutateDataRequest and MutateDataResponse messages that concrete mutation protos extend with unique extension field numbers.
+// ---
+
 syntax = "proto2";
 
 package push_notification.proto;

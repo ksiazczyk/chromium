@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedProfileKeepAlive implementation
+// summary: Implements acquiring and releasing profile keep-alives, including TryAcquire, crash logging and safe removal on the UI thread during shutdown.
+// ---
+
 #include "chrome/browser/profiles/keep_alive/scoped_profile_keep_alive.h"
 
 #include <sstream>

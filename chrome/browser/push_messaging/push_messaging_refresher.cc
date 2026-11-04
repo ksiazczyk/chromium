@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Push messaging refresher implementation
+// summary: Implements push subscription refresh handling, tracking old and new subscriptions so messages still arrive while the old subscription is replaced.
+// ---
+
 #include "chrome/browser/push_messaging/push_messaging_refresher.h"
 
 #include "base/feature_list.h"

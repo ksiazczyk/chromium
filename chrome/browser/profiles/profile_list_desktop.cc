@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop profile list model implementation
+// summary: Implements the desktop profile list model, building avatar menu items from the profile attributes storage.
+// ---
+
 #include "chrome/browser/profiles/profile_list_desktop.h"
 
 #include <string>

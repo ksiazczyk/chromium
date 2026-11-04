@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RendererUpdaterFactory class declaration
+// summary: Declares the singleton factory that creates and deletes RendererUpdater instances as profiles are created and shut down.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_RENDERER_UPDATER_FACTORY_H_
 #define CHROME_BROWSER_PROFILES_RENDERER_UPDATER_FACTORY_H_
 

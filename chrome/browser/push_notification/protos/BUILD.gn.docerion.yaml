@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for push notification protos
+summary: GN build file that compiles the push notification proto sources into a proto library, asserting the feature is ChromeOS only.

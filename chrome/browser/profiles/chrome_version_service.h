@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome version service interface
+// summary: Declares ChromeVersionService, which manages the preference recording the version of Chrome by which the profile was created.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_CHROME_VERSION_SERVICE_H_
 #define CHROME_BROWSER_PROFILES_CHROME_VERSION_SERVICE_H_
 

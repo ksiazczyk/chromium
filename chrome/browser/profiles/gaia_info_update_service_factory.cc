@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GAIAInfoUpdateServiceFactory implementation
+// summary: Profile-keyed service factory that creates GAIAInfoUpdateService instances, depending on the identity manager factory.
+// ---
+
 #include "chrome/browser/profiles/gaia_info_update_service_factory.h"
 
 #include "chrome/browser/browser_process.h"

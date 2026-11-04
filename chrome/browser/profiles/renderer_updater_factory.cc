@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RendererUpdaterFactory implementation
+// summary: Implements the keyed service factory singleton that builds a RendererUpdater per profile and declares its dependencies on identity, content settings and bound session services.
+// ---
+
 #include "chrome/browser/profiles/renderer_updater_factory.h"
 
 #include "chrome/browser/content_settings/host_content_settings_map_factory.h"

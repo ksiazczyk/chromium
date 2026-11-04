@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop avatar image loading for the menu button
+// summary: Implements the desktop-specific loading of profile avatar images for the menu button, reporting Gaia picture load status.
+// ---
+
 #include "chrome/browser/profiles/avatar_menu.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Budget service protobuf definitions
+// summary: Defines proto2 messages for push messaging budget chunks, their amounts, expiration times, and last engagement update.
+// ---
+
 syntax = "proto2";
 
 package budget_service;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile activity metrics recorder browser test
+// summary: Browser test verifying that base::RecordAction can be called after BrowserProcess shutdown without causing a use-after-free.
+// ---
+
 #include "chrome/browser/profiles/profile_activity_metrics_recorder.h"
 
 #include "base/metrics/user_metrics.h"

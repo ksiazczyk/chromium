@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile avatar icon utilities implementation
+// summary: Implements helpers for creating, sizing, coloring, and drawing profile avatar icons, including placeholder and dotted-ring styles.
+// ---
+
 #include "chrome/browser/profiles/profile_avatar_icon_util.h"
 
 #include <algorithm>

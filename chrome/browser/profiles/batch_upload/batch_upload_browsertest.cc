@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Batch upload browser tests
+// summary: In-process browser tests that open the Batch Upload dialog via the service and verify dialog display, navigation and signin-related behavior.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/run_loop.h"
 #include "base/test/run_until.h"

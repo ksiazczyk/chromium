@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Linux profile shortcut manager unit tests
+// summary: Unit tests for the Linux profile shortcut manager, checking desktop entry creation, icon badging, and XDG directory handling.
+// ---
+
 #include "chrome/browser/profiles/profile_shortcut_manager_linux.h"
 
 #include <memory>

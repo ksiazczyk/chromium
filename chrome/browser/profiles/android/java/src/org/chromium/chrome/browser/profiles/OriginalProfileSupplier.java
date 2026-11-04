@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OriginalProfileSupplier
+// summary: Supplies the first non-incognito Profile created in the process and notifies observers once it becomes available.
+// ---
+
 package org.chromium.chrome.browser.profiles;
 
 import org.chromium.base.lifetime.Destroyable;

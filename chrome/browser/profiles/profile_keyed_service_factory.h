@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileKeyedServiceFactory class declaration
+// summary: Declares ProfileKeyedServiceFactory, a chrome-specific keyed service factory base that controls service creation and redirection per profile type.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_PROFILE_KEYED_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_PROFILES_PROFILE_KEYED_SERVICE_FACTORY_H_
 

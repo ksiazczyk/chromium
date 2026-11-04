@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PWC component policy interface
+// summary: Defines the privileged component enum, the policy delegate interface, a fixed-list delegate, and the component policy with structural guardrails and a two-tier trust model.
+// ---
+
 #ifndef CHROME_BROWSER_PWC_PWC_COMPONENT_POLICY_H_
 #define CHROME_BROWSER_PWC_PWC_COMPONENT_POLICY_H_
 

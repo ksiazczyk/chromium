@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake push notification server client implementation
+// summary: Implements a fake PushNotificationServerClient that records requests and lets tests manually invoke registration success and error callbacks.
+// ---
+
 #include "chrome/browser/push_notification/server_client/fake_push_notification_server_client.h"
 
 #include "services/network/public/cpp/shared_url_loader_factory.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Implementation of ProfileKeepAliveAddedWaiter
+// summary: Implements the test-only waiter that runs a loop until a keep-alive of a given origin is added to the observed profile.
+// ---
+
 #include "chrome/browser/profiles/keep_alive/profile_keep_alive_waiter.h"
 
 #include "chrome/browser/browser_process.h"

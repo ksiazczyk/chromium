@@ -4,6 +4,12 @@
 
 // This class gathers state related to a single user profile.
 
+// ---docerion
+// type: source
+// title: ProfileImpl class declaration
+// summary: Declares ProfileImpl, the default Profile implementation that gathers state and BrowserContext service accessors for one user profile.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_PROFILE_IMPL_H_
 #define CHROME_BROWSER_PROFILES_PROFILE_IMPL_H_
 

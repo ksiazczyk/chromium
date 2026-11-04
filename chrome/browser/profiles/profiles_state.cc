@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile state helper implementation
+// summary: Implements multi-profile state helpers such as the default profile directory, Local State preference registration, last-used profile tracking, and guest mode checks.
+// ---
+
 #include "chrome/browser/profiles/profiles_state.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage partition descriptor for profile storage keys
+// summary: Defines a struct pairing a StoragePartition's on-disk path with an in-memory flag, plus a comparison functor, used as a unique key for RequestContext lookups in ProfileIOData.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_STORAGE_PARTITION_DESCRIPTOR_H_
 #define CHROME_BROWSER_PROFILES_STORAGE_PARTITION_DESCRIPTOR_H_
 

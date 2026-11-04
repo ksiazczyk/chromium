@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileKey
+// summary: Java wrapper for the native ProfileKey, exposing whether the key is off the record and conversion from SimpleFactoryKeyHandle.
+// ---
+
 package org.chromium.chrome.browser.profiles;
 
 import org.jni_zero.CalledByNative;

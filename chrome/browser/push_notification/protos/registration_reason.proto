@@ -6,6 +6,12 @@
 // http://google3/notifications/frontend/data/common/registration_reason.proto
 // Messages not used in Chrome have been omitted. Last copied at cl/522909214.
 
+// ---docerion
+// type: source
+// title: RegistrationReason proto for push notification
+// summary: Defines the RegistrationReason enum; Chrome Desktop only uses COLLABORATOR_API_CALL for registrations initiated by the collaborator app.
+// ---
+
 syntax = "proto2";
 
 package push_notification.proto;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile PrefService builder utilities
+// summary: Declares helper functions for creating the profile's PrefService, registering profile prefs, and writing the profile directory README.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_PREF_SERVICE_BUILDER_UTILS_H_
 #define CHROME_BROWSER_PROFILES_PREF_SERVICE_BUILDER_UTILS_H_
 

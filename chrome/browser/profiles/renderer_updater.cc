@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RendererUpdater implementation
+// summary: Implements a per-profile service that pushes configuration changes such as policy prefs, content settings and bound session parameters to active renderer processes.
+// ---
+
 #include "chrome/browser/profiles/renderer_updater.h"
 
 #include <utility>

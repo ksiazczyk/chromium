@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Push messaging service unit tests
+// summary: Unit tests for the Chrome push messaging service covering registration, permissions, message delivery, and subscription revocation.
+// ---
+
 #include "content/public/browser/push_messaging_service.h"
 
 #include <stdint.h>

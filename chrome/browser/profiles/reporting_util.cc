@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile reporting utilities implementation
+// summary: Implements helpers that build reporting context with browser, profile and device details, including DM token retrieval for enterprise reporting.
+// ---
+
 #include "chrome/browser/profiles/reporting_util.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileIOData protocol handling
+// summary: Implements static checks determining which URL schemes are handled by Chrome or by default net request handlers.
+// ---
+
 #include "chrome/browser/profiles/profile_io_data.h"
 
 #include "base/containers/fixed_flat_set.h"

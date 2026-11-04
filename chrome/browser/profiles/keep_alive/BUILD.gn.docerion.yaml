@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the profile keep_alive sources
+summary: Defines the keep_alive and test_support GN source sets, listing public headers, sources and dependencies for the profile keep-alive code.

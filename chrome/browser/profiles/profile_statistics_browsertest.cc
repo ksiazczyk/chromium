@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile statistics browser tests
+// summary: Browser tests checking that ProfileStatistics gathers the expected category counts for a profile.
+// ---
+
 #include "chrome/browser/profiles/profile_statistics.h"
 
 #include <stddef.h>

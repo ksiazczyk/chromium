@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Off-the-record profile implementation
+// summary: Implements OffTheRecordProfileImpl, the Profile subclass that wraps a regular profile for incognito mode and wires up its services.
+// ---
+
 #include "chrome/browser/profiles/off_the_record_profile_impl.h"
 
 #include <memory>

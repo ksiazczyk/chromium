@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Push notification metrics header
+// summary: Declares functions in the push_notification::metrics namespace for recording token retrieval times, registration response times, and success results as UMA metrics.
+// ---
+
 #ifndef CHROME_BROWSER_PUSH_NOTIFICATION_METRICS_PUSH_NOTIFICATION_METRICS_H_
 #define CHROME_BROWSER_PUSH_NOTIFICATION_METRICS_PUSH_NOTIFICATION_METRICS_H_
 

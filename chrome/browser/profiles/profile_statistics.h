@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileStatistics keyed service header
+// summary: Declares the ProfileStatistics service that gathers counts of bookmarks, history, passwords and autofill data for a profile.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_PROFILE_STATISTICS_H_
 #define CHROME_BROWSER_PROFILES_PROFILE_STATISTICS_H_
 

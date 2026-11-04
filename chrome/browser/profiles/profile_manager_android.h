@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android ProfileManager observer header
+// summary: Declares ProfileManagerAndroid, an observer that forwards profile added and deletion events to Java on Android.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_PROFILE_MANAGER_ANDROID_H_
 #define CHROME_BROWSER_PROFILES_PROFILE_MANAGER_ANDROID_H_
 

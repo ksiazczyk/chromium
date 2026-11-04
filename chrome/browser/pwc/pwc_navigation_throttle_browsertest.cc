@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PWC navigation throttle browser tests
+// summary: Browser tests verifying allowlisted main frame navigations proceed while off-allowlist ones, including about:blank navigations from subframes, are cancelled.
+// ---
+
 #include <memory>
 #include <vector>
 

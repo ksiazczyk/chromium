@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Budget database unit tests
+// summary: Unit tests for budget awarding, spending, and expiration using a test clock, testing profile, and site engagement scores.
+// ---
+
 #include "chrome/browser/push_messaging/budget_database.h"
 
 #include <math.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Push messaging service implementation
+// summary: Implements Chrome's push messaging service, handling subscriptions via GCM and Instance ID, permissions, message delivery and unregistration.
+// ---
+
 #include "chrome/browser/push_messaging/push_messaging_service_impl.h"
 
 #include <map>

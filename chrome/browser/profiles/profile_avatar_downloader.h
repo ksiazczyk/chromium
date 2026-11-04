@@ -1,6 +1,13 @@
 // Copyright 2014 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: ProfileAvatarDownloader class declaration
+// summary: Declares the ProfileAvatarDownloader class that fetches a high-res avatar by icon index and reports the result via callback.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_PROFILE_AVATAR_DOWNLOADER_H_
 #define CHROME_BROWSER_PROFILES_PROFILE_AVATAR_DOWNLOADER_H_
 

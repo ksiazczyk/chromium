@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Batch upload service unit tests
+// summary: Unit tests for BatchUploadService using a mock sync service and delegate, covering dialog opening, promos and local data handling.
+// ---
+
 #include "chrome/browser/profiles/batch_upload/batch_upload_service.h"
 
 #include <memory>

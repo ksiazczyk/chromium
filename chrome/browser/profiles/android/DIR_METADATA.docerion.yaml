@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for Android profiles
+summary: Points to the shared Chrome Android metadata mixins that apply to this directory.

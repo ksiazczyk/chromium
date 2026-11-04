@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RefcountedProfileKeyedServiceFactory implementation
+// summary: Implements the refcounted keyed service factory base class that applies ProfileSelections to decide which browser context a service instance uses.
+// ---
+
 #include "chrome/browser/profiles/refcounted_profile_keyed_service_factory.h"
 
 #include "chrome/browser/profiles/profile.h"

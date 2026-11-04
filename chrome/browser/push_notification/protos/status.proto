@@ -6,6 +6,12 @@
 // http://google3/util/task/status.proto
 // Messages not used in Chrome have been omitted. Last copied at cl/546101561.
 
+// ---docerion
+// type: source
+// title: StatusProto wire format for push notification
+// summary: Defines the StatusProto message carrying a numeric status code, the status space it belongs to and a detail message.
+// ---
+
 syntax = "proto2";
 
 package push_notification.proto;

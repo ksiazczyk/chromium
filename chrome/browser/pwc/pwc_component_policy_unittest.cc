@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PWC component policy unit tests
+// summary: Unit tests proving the structural guardrails hold even for misbehaving delegates, including HTTPS enforcement and capability requiring navigability.
+// ---
+
 #include "chrome/browser/pwc/pwc_component_policy.h"
 
 #include <memory>

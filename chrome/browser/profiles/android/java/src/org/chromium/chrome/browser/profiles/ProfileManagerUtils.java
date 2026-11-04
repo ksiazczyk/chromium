@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileManagerUtils
+// summary: Utility class that applies operations to all loaded profiles, such as flushing persistent data on pause and removing session cookies after device reboots.
+// ---
+
 package org.chromium.chrome.browser.profiles;
 
 import android.os.SystemClock;

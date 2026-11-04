@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Push notification server client interface
+// summary: Defines the PushNotificationServerClient interface for API requests to the push notification service, including registration and access token retrieval.
+// ---
+
 #ifndef CHROME_BROWSER_PUSH_NOTIFICATION_SERVER_CLIENT_PUSH_NOTIFICATION_SERVER_CLIENT_H_
 #define CHROME_BROWSER_PUSH_NOTIFICATION_SERVER_CLIENT_PUSH_NOTIFICATION_SERVER_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PWC component policy implementation
+// summary: Implements the policy delegate, fixed delegate, and per-component policy that enforce HTTPS-only navigation and capability guardrails for privileged web contents.
+// ---
+
 #include "chrome/browser/pwc/pwc_component_policy.h"
 
 #include <algorithm>

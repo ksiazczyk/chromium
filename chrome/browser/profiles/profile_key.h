@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileKey class declaration
+// summary: Declares ProfileKey, a SimpleFactoryKey exposing profile-specific APIs needed in reduced mode, with Android-specific support.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_PROFILE_KEY_H_
 #define CHROME_BROWSER_PROFILES_PROFILE_KEY_H_
 

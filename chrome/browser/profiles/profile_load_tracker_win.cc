@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows profile load tracker implementation
+// summary: Tracks profile load and unload on Windows using lock and dirty marker files and records lock status metrics to UMA.
+// ---
+
 #include "chrome/browser/profiles/profile_load_tracker_win.h"
 
 #include <string_view>

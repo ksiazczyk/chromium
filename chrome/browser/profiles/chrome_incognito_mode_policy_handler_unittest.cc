@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome incognito mode policy handler unit tests
+// summary: Unit tests verifying how the handler maps IncognitoModeAvailability and the obsolete IncognitoEnabled policy onto the availability preference.
+// ---
+
 #include "chrome/browser/profiles/chrome_incognito_mode_policy_handler.h"
 
 #include "base/memory/ptr_util.h"

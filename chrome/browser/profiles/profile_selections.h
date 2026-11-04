@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile selections header
+// summary: Defines the ProfileSelection enum and ProfileSelections class with builders for filtering profiles by type.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_PROFILE_SELECTIONS_H_
 #define CHROME_BROWSER_PROFILES_PROFILE_SELECTIONS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile base class implementation
+// summary: Implements the Profile class, including OTR profile ID handling, lifecycle state tracking, and per-profile state for a user profile.
+// ---
+
 #include "chrome/browser/profiles/profile.h"
 
 #include <sstream>

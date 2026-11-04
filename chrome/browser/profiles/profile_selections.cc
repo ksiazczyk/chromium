@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile selections implementation
+// summary: Implements ProfileSelections builder logic that maps regular, guest, system and other profile types to service selections.
+// ---
+
 #include "chrome/browser/profiles/profile_selections.h"
 
 #include "base/memory/ptr_util.h"

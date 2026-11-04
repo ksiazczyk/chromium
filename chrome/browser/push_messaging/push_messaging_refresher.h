@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Push messaging refresher header
+// summary: Declares PushMessagingRefresher, which manages old and new push subscriptions during W3C-defined subscription refreshes and notifies observers.
+// ---
+
 #ifndef CHROME_BROWSER_PUSH_MESSAGING_PUSH_MESSAGING_REFRESHER_H_
 #define CHROME_BROWSER_PUSH_MESSAGING_PUSH_MESSAGING_REFRESHER_H_
 

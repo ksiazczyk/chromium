@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestPwcPermissionDelegate header
+// summary: Declares a test double for PwcPermissionDelegate with a settable permission result and accessors for inspecting calls in tests.
+// ---
+
 #ifndef CHROME_BROWSER_PWC_TEST_SUPPORT_TEST_PWC_PERMISSION_DELEGATE_H_
 #define CHROME_BROWSER_PWC_TEST_SUPPORT_TEST_PWC_PERMISSION_DELEGATE_H_
 

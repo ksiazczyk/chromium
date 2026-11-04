@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RefcountedProfileKeyedServiceFactory class declaration
+// summary: Declares a refcounted variant of ProfileKeyedServiceFactory that uses ProfileSelections to select the browser context for refcounted profile services.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_REFCOUNTED_PROFILE_KEYED_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_PROFILES_REFCOUNTED_PROFILE_KEYED_SERVICE_FACTORY_H_
 

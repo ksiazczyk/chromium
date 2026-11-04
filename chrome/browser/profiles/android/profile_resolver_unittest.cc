@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile resolver unit tests
+// summary: Unit tests verifying that profile tokens are unique and resolve back to the correct regular, off-the-record and profile key instances.
+// ---
+
 #include "chrome/browser/profiles/android/profile_resolver.h"
 
 #include "base/files/file_path.h"

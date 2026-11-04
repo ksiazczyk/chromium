@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Push notification directory include rules
+summary: Restricts includes in this directory to the keyed service core and push notification components.

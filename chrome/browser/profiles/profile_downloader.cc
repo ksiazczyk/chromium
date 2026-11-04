@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile downloader implementation
+// summary: Implements fetching signed-in Google account profile details such as full name, locale, and avatar picture via OAuth tokens.
+// ---
+
 #include "chrome/browser/profiles/profile_downloader.h"
 
 #include <stddef.h>

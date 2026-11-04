@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrivilegedWebContents unit tests
+// summary: Unit tests covering PrivilegedWebContents creation, ownership, default storage partition use, and delegate behavior.
+// ---
+
 #include "chrome/browser/pwc/privileged_web_contents.h"
 
 #include <memory>

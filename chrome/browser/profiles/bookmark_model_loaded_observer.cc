@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark model loaded observer implementation
+// summary: Implements an observer that initializes the sync service once the bookmark model finishes loading and deletes itself when the model changes or is destroyed.
+// ---
+
 #include "chrome/browser/profiles/bookmark_model_loaded_observer.h"
 
 #include "chrome/browser/sync/sync_service_factory.h"

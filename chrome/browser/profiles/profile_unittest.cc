@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile browser window allowance unit test
+// summary: Unit test checking which profile types, from regular and incognito to guest, system, and ChromeOS-specific profiles, are allowed to open browser windows.
+// ---
+
 #include "chrome/browser/profiles/profile.h"
 
 #include "build/build_config.h"

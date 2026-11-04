@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows profile shortcut manager implementation
+// summary: Implements Windows profile shortcuts, creating avatar-badged .ico icons and desktop shortcuts and updating them as profiles change.
+// ---
+
 #include "chrome/browser/profiles/profile_shortcut_manager_win.h"
 
 #include <shlobj.h>  // For SHChangeNotify().

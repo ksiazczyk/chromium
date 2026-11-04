@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AvatarMenuObserver interface
+// summary: Declares the AvatarMenuObserver interface for objects that want to be notified when the AvatarMenu changes.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_AVATAR_MENU_OBSERVER_H_
 #define CHROME_BROWSER_PROFILES_AVATAR_MENU_OBSERVER_H_
 

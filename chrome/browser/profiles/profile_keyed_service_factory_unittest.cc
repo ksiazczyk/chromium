@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProfileKeyedServiceFactory unit tests
+// summary: Unit tests for ProfileKeyedServiceFactory and RefcountedProfileKeyedServiceFactory, checking profile selection behavior for various profile types.
+// ---
+
 #include "chrome/browser/profiles/profile_keyed_service_factory.h"
 
 #include "chrome/browser/profiles/profile.h"

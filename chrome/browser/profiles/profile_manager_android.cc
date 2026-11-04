@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android ProfileManager JNI bridge
+// summary: Exposes ProfileManager profile queries and events to Java via JNI and destroys OTR profiles on Android.
+// ---
+
 #include "chrome/browser/profiles/profile_manager_android.h"
 
 #include "chrome/browser/browser_process.h"

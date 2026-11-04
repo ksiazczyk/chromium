@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestPwcPermissionDelegate implementation
+// summary: Implements the fake PWC permission delegate that records the render frame host, requested type and call count, and returns a configurable result.
+// ---
+
 #include "chrome/browser/pwc/test_support/test_pwc_permission_delegate.h"
 
 #include "content/public/browser/render_frame_host.h"

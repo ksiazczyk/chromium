@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProfileDownloader unit tests
+// summary: Unit tests for ProfileDownloader covering access token fetching and account info handling using the signin identity test environment.
+// ---
+
 #include "chrome/browser/profiles/profile_downloader.h"
 
 #include "base/functional/bind.h"

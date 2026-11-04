@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the pwc component
+summary: GN build file defining the pwc Mojo bindings, the pwc source set, and its unit and browser test targets.

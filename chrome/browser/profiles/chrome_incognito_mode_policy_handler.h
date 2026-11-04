@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome incognito mode policy handler interface
+// summary: Declares the policy handler that translates IncognitoModeAvailability and the deprecated IncognitoEnabled policies into the incognito availability preference.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_CHROME_INCOGNITO_MODE_POLICY_HANDLER_H_
 #define CHROME_BROWSER_PROFILES_CHROME_INCOGNITO_MODE_POLICY_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PwcApiBinder implementation
+// summary: Implements the two-tier capability gate that qualifies privileged main frames and the browser-side host for the PrivilegedBridge Mojo interface.
+// ---
+
 #include "chrome/browser/pwc/pwc_api_binder.h"
 
 #include <utility>

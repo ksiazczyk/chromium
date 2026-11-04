@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileKeyAndroid class declaration
+// summary: Declares ProfileKeyAndroid, a wrapper that safely passes ProfileKey pointers between Java and native code on Android.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_PROFILE_KEY_ANDROID_H_
 #define CHROME_BROWSER_PROFILES_PROFILE_KEY_ANDROID_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the pwc test_support target
+summary: Defines the testonly source_set that compiles the fake PWC permission delegate and its public dependencies.

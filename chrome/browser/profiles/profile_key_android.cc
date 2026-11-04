@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileKey Android JNI wrapper implementation
+// summary: Implements the Android JNI bridge for ProfileKey, creating the Java counterpart and converting between Java and native profile keys.
+// ---
+
 #include "chrome/browser/profiles/profile_key_android.h"
 
 #include "base/android/jni_android.h"

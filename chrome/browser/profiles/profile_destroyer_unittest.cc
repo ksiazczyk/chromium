@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile destroyer unit tests
+// summary: Unit tests verifying destruction of original and off-the-record profiles, including waiting for render process hosts.
+// ---
+
 #include "chrome/browser/profiles/profile_destroyer.h"
 
 #include <array>

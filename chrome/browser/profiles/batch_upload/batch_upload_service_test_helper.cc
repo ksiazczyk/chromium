@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Batch upload service test helper implementation
+// summary: Implements test helpers that construct BatchUploadService with a mock sync service and fake local data descriptions for tests.
+// ---
+
 #include "chrome/browser/profiles/batch_upload/batch_upload_service_test_helper.h"
 
 #include <algorithm>

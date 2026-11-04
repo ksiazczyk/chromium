@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile metrics implementation
+// summary: Logs histograms about profile counts, activity thresholds, avatars and profile add, sign-in and delete flows.
+// ---
+
 #include "chrome/browser/profiles/profile_metrics.h"
 
 #include <string>

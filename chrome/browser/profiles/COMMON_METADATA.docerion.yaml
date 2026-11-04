@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common metadata for the profiles directory
+summary: Sets the issue tracker component, team email and public bug tracker component for the profiles directory.

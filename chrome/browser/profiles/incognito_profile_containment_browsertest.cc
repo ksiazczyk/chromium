@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Incognito profile containment browser tests
+// summary: Browser tests that snapshot the profile directory and verify incognito sessions only modify allowlisted files and directories.
+// ---
+
 #include <algorithm>
 
 #include "base/files/file_enumerator.h"

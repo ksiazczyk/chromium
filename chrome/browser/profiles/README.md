@@ -1,3 +1,11 @@
+---
+type: readme
+title: Managing lifetime of a Profile
+summary: Explains how to handle profile destruction in Chrome using KeyedService shutdown, ScopedProfileKeepAlive, shutdown notifiers and ProfileObserver.
+relations:
+  - references /extensions/browser/extension_protocols.cc
+---
+
 # Managing lifetime of a Profile
 
 ## KeyedService::Shutdown

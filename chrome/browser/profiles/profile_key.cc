@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileKey implementation
+// summary: Implements ProfileKey, an embryonic profile key for reduced mode that stores prefs and the proto database provider.
+// ---
+
 #include "chrome/browser/profiles/profile_key.h"
 
 #include "base/check.h"

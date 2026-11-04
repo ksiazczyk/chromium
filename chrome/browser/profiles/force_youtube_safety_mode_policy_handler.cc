@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ForceYouTubeSafetyMode policy handler implementation
+// summary: Applies the deprecated ForceYouTubeSafetyMode policy by setting the ForceYouTubeRestrict pref to moderate or off.
+// ---
+
 #include "chrome/browser/profiles/force_youtube_safety_mode_policy_handler.h"
 
 #include <memory>

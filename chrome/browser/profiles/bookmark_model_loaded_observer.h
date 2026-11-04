@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark model loaded observer interface
+// summary: Declares BookmarkModelLoadedObserver, which observes the bookmark model for a profile and reacts to the model being loaded or deleted.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_BOOKMARK_MODEL_LOADED_OBSERVER_H_
 #define CHROME_BROWSER_PROFILES_BOOKMARK_MODEL_LOADED_OBSERVER_H_
 

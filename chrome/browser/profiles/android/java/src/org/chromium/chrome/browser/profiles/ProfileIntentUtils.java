@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileIntentUtils
+// summary: Utilities for attaching a profile token to trusted intents and resolving the associated Profile on the receiving side.
+// ---
+
 package org.chromium.chrome.browser.profiles;
 
 import android.content.Intent;

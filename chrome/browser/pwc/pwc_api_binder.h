@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PwcApiBinder header and capability gate declaration
+// summary: Declares the shared capability gate for privileged binders and the PwcApiBinder host of the PrivilegedBridge interface.
+// ---
+
 #ifndef CHROME_BROWSER_PWC_PWC_API_BINDER_H_
 #define CHROME_BROWSER_PWC_PWC_API_BINDER_H_
 

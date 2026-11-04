@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Push notification desktop API call flow implementation header
+// summary: Declares PushNotificationDesktopApiCallFlowImpl, an OAuth2ApiCallFlow wrapper offering StartGetRequest, StartPostRequest and StartPatchRequest methods.
+// ---
+
 #ifndef CHROME_BROWSER_PUSH_NOTIFICATION_SERVER_CLIENT_PUSH_NOTIFICATION_DESKTOP_API_CALL_FLOW_IMPL_H_
 #define CHROME_BROWSER_PUSH_NOTIFICATION_SERVER_CLIENT_PUSH_NOTIFICATION_DESKTOP_API_CALL_FLOW_IMPL_H_
 

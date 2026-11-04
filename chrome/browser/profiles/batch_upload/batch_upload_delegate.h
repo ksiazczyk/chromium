@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Batch upload delegate interface
+// summary: Abstract delegate interface for showing the Batch Upload dialog and returning the selected local data items per sync data type.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_BATCH_UPLOAD_BATCH_UPLOAD_DELEGATE_H_
 #define CHROME_BROWSER_PROFILES_BATCH_UPLOAD_BATCH_UPLOAD_DELEGATE_H_
 

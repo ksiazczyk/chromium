@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stream output operator for ProfileKeepAliveOrigin
+// summary: Implements operator<< that prints the name of each ProfileKeepAliveOrigin enum value for logging and debugging.
+// ---
+
 #include "chrome/browser/profiles/keep_alive/profile_keep_alive_types.h"
 
 #include "base/notreached.h"

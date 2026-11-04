@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeleteProfileHelper implementation
+// summary: 'Implements profile deletion: scheduling, marking, polite cleanup, and startup fail-safe nuking of leftover profile directories.'
+// ---
+
 #include "chrome/browser/profiles/delete_profile_helper.h"
 
 #include <memory>

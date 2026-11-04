@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux profile shortcut manager header
+// summary: Declares ProfileShortcutManagerLinux, which manages per-profile Linux desktop entries with avatar-badged icons and delayed window identity switching.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_PROFILE_SHORTCUT_MANAGER_LINUX_H_
 #define CHROME_BROWSER_PROFILES_PROFILE_SHORTCUT_MANAGER_LINUX_H_
 

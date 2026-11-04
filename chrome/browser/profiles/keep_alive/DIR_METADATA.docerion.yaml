@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the keep_alive folder
+summary: Points the directory to the shared enterprise browser COMMON_METADATA mixin used for Chromium directory metadata.

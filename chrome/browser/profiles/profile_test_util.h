@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile test utility helpers
+// summary: Declares test helpers to create and switch profiles synchronously and to scope profile selections, non-enterprise domains, and managed guest sessions during tests.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_PROFILE_TEST_UTIL_H_
 #define CHROME_BROWSER_PROFILES_PROFILE_TEST_UTIL_H_
 

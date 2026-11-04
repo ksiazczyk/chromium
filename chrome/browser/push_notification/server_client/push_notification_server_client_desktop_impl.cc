@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop push notification server client implementation
+// summary: Implements the desktop server client that fetches primary account access tokens and calls the MultiLoginUpdate endpoint of the push notification service.
+// ---
+
 #include "chrome/browser/push_notification/server_client/push_notification_server_client_desktop_impl.h"
 
 #include "base/base64url.h"

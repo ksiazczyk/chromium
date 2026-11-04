@@ -1,0 +1,4 @@
+# Docerion header of pwc.mojom.
+type: source
+title: PrivilegedBridge Mojom interface definition
+summary: Defines the empty PrivilegedBridge Mojo interface whose security-relevant part is the browser-side gate on which frames may bind it.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Push messaging unsubscribed entry header
+// summary: Declares PushMessagingUnsubscribedEntry, which identifies and persists Service Worker registrations unsubscribed from the Push API.
+// ---
+
 #ifndef CHROME_BROWSER_PUSH_MESSAGING_PUSH_MESSAGING_UNSUBSCRIBED_ENTRY_H_
 #define CHROME_BROWSER_PUSH_MESSAGING_PUSH_MESSAGING_UNSUBSCRIBED_ENTRY_H_
 

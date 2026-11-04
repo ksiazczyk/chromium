@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ForceSafeSearch policy handler header
+// summary: Declares the policy handler that maps the deprecated ForceSafeSearch policy to the newer SafeSearch and YouTube restrict prefs.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_FORCE_SAFE_SEARCH_POLICY_HANDLER_H_
 #define CHROME_BROWSER_PROFILES_FORCE_SAFE_SEARCH_POLICY_HANDLER_H_
 

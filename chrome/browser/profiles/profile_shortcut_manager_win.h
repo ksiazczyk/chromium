@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows profile shortcut manager header
+// summary: Declares ProfileShortcutManagerWin and helpers for shortcut filenames, pinned shortcut lookup, and profile launch command-line flags.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_PROFILE_SHORTCUT_MANAGER_WIN_H_
 #define CHROME_BROWSER_PROFILES_PROFILE_SHORTCUT_MANAGER_WIN_H_
 

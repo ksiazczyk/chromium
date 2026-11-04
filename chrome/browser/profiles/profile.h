@@ -4,6 +4,12 @@
 
 // This class gathers state related to a single user profile.
 
+// ---docerion
+// type: source
+// title: Profile base class declaration
+// summary: Declares the Profile class that gathers state for a single user profile, with OTRProfileID, lifecycle states, and creation modes.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_PROFILE_H_
 #define CHROME_BROWSER_PROFILES_PROFILE_H_
 

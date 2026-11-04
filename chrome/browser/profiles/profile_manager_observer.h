@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileManagerObserver interface
+// summary: Defines observer callbacks for profile addition, permanent deletion, keep-alive changes, creation start, and manager shutdown.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_PROFILE_MANAGER_OBSERVER_H_
 #define CHROME_BROWSER_PROFILES_PROFILE_MANAGER_OBSERVER_H_
 

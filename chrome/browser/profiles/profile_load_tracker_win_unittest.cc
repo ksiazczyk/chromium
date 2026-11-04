@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProfileLoadTracker Windows unit tests
+// summary: Tests the Windows profile load tracker's lock and dirty file handling and the histograms recorded for crash scenarios.
+// ---
+
 #include "chrome/browser/profiles/profile_load_tracker_win.h"
 
 #include "base/files/file.h"

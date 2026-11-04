@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the push notification desktop API call flow
+// summary: Unit tests verifying POST, PATCH and GET request handling, URL query parameter construction and error processing of PushNotificationDesktopApiCallFlowImpl.
+// ---
+
 #include "chrome/browser/push_notification/server_client/push_notification_desktop_api_call_flow_impl.h"
 
 #include <memory>

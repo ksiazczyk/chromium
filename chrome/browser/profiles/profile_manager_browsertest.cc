@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProfileManager browser tests
+// summary: Browser tests exercising ProfileManager behavior such as profile creation, deletion, keep-alive, and policy interactions.
+// ---
+
 #include "chrome/browser/profiles/profile_manager.h"
 
 #include <stddef.h>

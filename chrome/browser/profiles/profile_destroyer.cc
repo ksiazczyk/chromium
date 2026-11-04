@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile destroyer implementation
+// summary: Implements immediate and delayed destruction of original and off-the-record profiles once dependent render process hosts are gone.
+// ---
+
 #include "chrome/browser/profiles/profile_destroyer.h"
 
 #include <memory>

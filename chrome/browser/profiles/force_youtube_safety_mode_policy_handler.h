@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ForceYouTubeSafetyMode policy handler header
+// summary: Declares the policy handler mapping the deprecated two-state YouTube safety mode policy to the newer three-state restrict pref.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_FORCE_YOUTUBE_SAFETY_MODE_POLICY_HANDLER_H_
 #define CHROME_BROWSER_PROFILES_FORCE_YOUTUBE_SAFETY_MODE_POLICY_HANDLER_H_
 

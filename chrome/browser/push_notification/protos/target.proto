@@ -6,6 +6,12 @@
 // http://google3/notifications/frontend/data/target.proto
 // Messages not used in Chrome have been omitted. Last copied at cl/522667272.
 
+// ---docerion
+// type: source
+// title: Target proto for push notification delivery
+// summary: Defines the Target message combining a ChannelType, a DeliveryAddress and an optional representative target ID for delivery.
+// ---
+
 syntax = "proto2";
 
 package push_notification.proto;

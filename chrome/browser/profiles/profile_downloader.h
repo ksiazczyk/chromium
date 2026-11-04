@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileDownloader class declaration
+// summary: Declares the ProfileDownloader class that downloads user profile information and decodes the profile picture in a sandboxed process.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_PROFILE_DOWNLOADER_H_
 #define CHROME_BROWSER_PROFILES_PROFILE_DOWNLOADER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile directory nuke utilities
+// summary: Implements deleting a profile directory and its cache from disk with retries, metrics, and deletion stage tracking.
+// ---
+
 #include "chrome/browser/profiles/nuke_profile_directory_utils.h"
 
 #include <map>

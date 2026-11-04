@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileKeepAliveOrigin enum of keep-alive reasons
+// summary: Defines the ProfileKeepAliveOrigin enum of reasons a profile is kept alive, with values persisted to logs and kept in sync with enums.xml.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_KEEP_ALIVE_PROFILE_KEEP_ALIVE_TYPES_H_
 #define CHROME_BROWSER_PROFILES_KEEP_ALIVE_PROFILE_KEEP_ALIVE_TYPES_H_
 

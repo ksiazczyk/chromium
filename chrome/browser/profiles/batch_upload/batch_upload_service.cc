@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Batch upload service implementation
+// summary: Implements the BatchUploadService, including the ordered list of eligible data types, entry point handling and opening of the dialog.
+// ---
+
 #include "chrome/browser/profiles/batch_upload/batch_upload_service.h"
 
 #include <algorithm>

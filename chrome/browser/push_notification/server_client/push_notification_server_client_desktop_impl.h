@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop push notification server client header
+// summary: Declares PushNotificationServerClientDesktopImpl and its factory, which fetches access tokens and issues HTTP calls via the desktop API call flow.
+// ---
+
 #ifndef CHROME_BROWSER_PUSH_NOTIFICATION_SERVER_CLIENT_PUSH_NOTIFICATION_SERVER_CLIENT_DESKTOP_IMPL_H_
 #define CHROME_BROWSER_PUSH_NOTIFICATION_SERVER_CLIENT_PUSH_NOTIFICATION_SERVER_CLIENT_DESKTOP_IMPL_H_
 
