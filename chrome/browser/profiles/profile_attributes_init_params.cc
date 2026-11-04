@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileAttributesInitParams implementation
+// summary: Defines the default and move constructors plus move assignment for the ProfileAttributesInitParams struct.
+// ---
+
 #include "chrome/browser/profiles/profile_attributes_init_params.h"
 
 ProfileAttributesInitParams::ProfileAttributesInitParams() = default;

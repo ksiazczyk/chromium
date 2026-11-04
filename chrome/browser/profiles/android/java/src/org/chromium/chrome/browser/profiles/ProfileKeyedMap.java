@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileKeyedMap
+// summary: Profile-lifetime aware map that associates objects with profiles and automatically cleans them up when profiles or the map are destroyed.
+// ---
+
 package org.chromium.chrome.browser.profiles;
 
 import android.util.ArrayMap;

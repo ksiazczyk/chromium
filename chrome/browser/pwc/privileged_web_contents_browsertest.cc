@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrivilegedWebContents browser tests
+// summary: Browser tests verifying that a privileged WebContents cannot open windows and keeps its documents out of the back-forward cache.
+// ---
+
 #include "chrome/browser/pwc/privileged_web_contents.h"
 
 #include <memory>

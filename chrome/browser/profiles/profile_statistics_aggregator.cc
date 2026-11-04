@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile statistics aggregator implementation
+// summary: Implements the aggregator that runs browsing data counters to count bookmarks, history, passwords and autofill entries for a profile.
+// ---
+
 #include "chrome/browser/profiles/profile_statistics_aggregator.h"
 
 #include <stddef.h>

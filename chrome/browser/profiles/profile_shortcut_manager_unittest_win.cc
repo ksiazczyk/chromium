@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows profile shortcut manager unit tests
+// summary: Unit tests for the Windows profile shortcut manager covering shortcut creation, naming, icon badging, and cleanup across multiple profiles.
+// ---
+
 #include <stddef.h>
 
 #include <memory>

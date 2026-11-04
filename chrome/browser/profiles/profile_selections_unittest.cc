@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile selections unit tests
+// summary: Tests profile selection behavior for regular, incognito, guest, system and ChromeOS-specific profiles.
+// ---
+
 #include "chrome/browser/profiles/profile_selections.h"
 
 #include "chrome/browser/profiles/profile_testing_helper.h"

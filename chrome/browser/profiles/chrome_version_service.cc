@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome version service implementation
+// summary: Implements a service that stores and reads the Chrome version that created the current profile via the profile.created_by_version preference.
+// ---
+
 #include "chrome/browser/profiles/chrome_version_service.h"
 
 #include "base/version.h"

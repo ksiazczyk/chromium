@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android profile browser tests
+// summary: Android browser tests verifying that profile deletion removes media cache files while preserving parent directories.
+// ---
+
 #include <stddef.h>
 
 #include <memory>

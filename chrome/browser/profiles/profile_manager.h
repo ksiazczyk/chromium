@@ -4,6 +4,12 @@
 
 // This class keeps track of the currently-active profiles in the runtime.
 
+// ---docerion
+// type: source
+// title: ProfileManager class interface
+// summary: Declares ProfileManager, which manages the lifecycle of currently active Profile objects and last-used profile access.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_PROFILE_MANAGER_H_
 #define CHROME_BROWSER_PROFILES_PROFILE_MANAGER_H_
 

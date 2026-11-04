@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile attributes entry implementation
+// summary: Implements ProfileAttributesEntry, which stores per-profile cached attributes such as names, GAIA info, avatars, profile colors, and profile management tokens.
+// ---
+
 #include "chrome/browser/profiles/profile_attributes_entry.h"
 
 #include <optional>

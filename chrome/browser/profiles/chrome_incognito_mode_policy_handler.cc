@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome incognito mode policy handler implementation
+// summary: Applies Chrome-specific Incognito mode policies, including the deprecated IncognitoEnabled policy and a GCPW sign-in exception on Windows.
+// ---
+
 #include "chrome/browser/profiles/chrome_incognito_mode_policy_handler.h"
 
 #include "base/command_line.h"

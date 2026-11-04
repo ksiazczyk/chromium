@@ -6,6 +6,12 @@
 // http://google3/notifications/frontend/data/delivery_address.proto
 // Messages not used in Chrome have been omitted. Last copied at cl/529373806.
 
+// ---docerion
+// type: source
+// title: DeliveryAddress protos for push notification
+// summary: Defines the DeliveryAddress message and GCM device push address fields such as registration ID, fetch-only ID, Android ID and application ID.
+// ---
+
 syntax = "proto2";
 
 package push_notification.proto;

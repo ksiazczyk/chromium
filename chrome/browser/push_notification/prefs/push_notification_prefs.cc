@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Push notification prefs implementation
+// summary: Defines push notification pref name constants and registers the registration backoff scheduler and representative target id prefs with the pref registry.
+// ---
+
 #include "chrome/browser/push_notification/prefs/push_notification_prefs.h"
 
 #include "components/prefs/pref_registry.h"

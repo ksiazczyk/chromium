@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile browser tests
+// summary: Browser tests covering profile lifecycle behavior such as creation, destruction, keep-alive handling, and storage.
+// ---
+
 #include "chrome/browser/profiles/profile.h"
 
 #include <stddef.h>

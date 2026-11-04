@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Off-the-record profile class declaration
+// summary: Declares OffTheRecordProfileImpl, a leaf Profile subclass that wraps an existing profile to make it suitable for incognito mode.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_OFF_THE_RECORD_PROFILE_IMPL_H_
 #define CHROME_BROWSER_PROFILES_OFF_THE_RECORD_PROFILE_IMPL_H_
 

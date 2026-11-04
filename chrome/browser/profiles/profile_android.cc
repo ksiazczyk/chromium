@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JNI bindings for Profile
+// summary: Implements the JNI bridge between the Java Profile object and the native C++ Profile class on Android, including OTR profile and creation time accessors.
+// ---
+
 #include "chrome/browser/profiles/profile.h"
 
 #include "base/android/jni_android.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileResolver
+// summary: Profile-specific partition resolver that tokenizes and resolves profiles and profile keys to browser context handles through JNI.
+// ---
+
 package org.chromium.chrome.browser.profiles;
 
 import androidx.annotation.VisibleForTesting;

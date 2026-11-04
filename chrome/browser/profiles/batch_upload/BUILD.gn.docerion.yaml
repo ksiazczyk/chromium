@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Batch upload BUILD.gn build targets
+summary: Defines GN source sets for the batch upload feature, including the public API, implementation, test support, unit tests and browser tests.

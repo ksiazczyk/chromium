@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GAIA info update service unit tests
+// summary: Unit tests verifying that GAIAInfoUpdateService updates profile names and avatars from signed-in account information.
+// ---
+
 #include "chrome/browser/profiles/gaia_info_update_service.h"
 
 #include <stddef.h>

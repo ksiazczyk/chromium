@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProfileTestingHelper implementation
+// summary: Implements setup of a test helper that creates regular, incognito, enterprise isolated mode, guest, system, and ChromeOS-specific profiles for use in tests.
+// ---
+
 #include "chrome/browser/profiles/profile_testing_helper.h"
 
 #include "chrome/test/base/testing_browser_process.h"

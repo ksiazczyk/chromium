@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Push messaging notification manager implementation
+// summary: Implements enforcement of user-visible notification requirements for push messages, showing a generic notification when a site fails to display one.
+// ---
+
 #include "chrome/browser/push_messaging/push_messaging_notification_manager.h"
 
 #include <stddef.h>

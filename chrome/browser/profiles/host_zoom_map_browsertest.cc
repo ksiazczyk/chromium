@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Host zoom map browser tests
+// summary: Browser tests verifying per-profile zoom level preferences and HostZoomMap behavior when zoom levels change.
+// ---
+
 #include "content/public/browser/host_zoom_map.h"
 
 #include <stddef.h>

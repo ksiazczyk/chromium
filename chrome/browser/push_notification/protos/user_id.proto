@@ -6,6 +6,12 @@
 // http://google3/notifications/frontend/data/user_id.proto
 // Messages not used in Chrome have been omitted. Last copied at cl/507740861.
 
+// ---docerion
+// type: source
+// title: UserId proto for Gaia user credentials
+// summary: Defines the UserId and GaiaUserCredentials messages representing a device user via an OAuth token for a Gaia account.
+// ---
+
 syntax = "proto2";
 
 package push_notification.proto;

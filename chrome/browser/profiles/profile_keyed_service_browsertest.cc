@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keyed service profile creation browser tests
+// summary: Browser tests verifying that KeyedServices are created correctly for different profile types, including incognito, guest, and isolated mode profiles.
+// ---
+
 #include <algorithm>
 #include <sstream>
 

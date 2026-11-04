@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Push notification desktop API call flow interface
+// summary: Defines the abstract PushNotificationDesktopApiCallFlow interface with an error enum and virtual methods for starting POST, PATCH and GET API requests.
+// ---
+
 #ifndef CHROME_BROWSER_PUSH_NOTIFICATION_SERVER_CLIENT_PUSH_NOTIFICATION_DESKTOP_API_CALL_FLOW_H_
 #define CHROME_BROWSER_PUSH_NOTIFICATION_SERVER_CLIENT_PUSH_NOTIFICATION_DESKTOP_API_CALL_FLOW_H_
 

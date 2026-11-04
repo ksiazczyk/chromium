@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Push notification desktop API call flow implementation
+// summary: Implements the desktop API call flow on top of OAuth2ApiCallFlow, building request URLs and bodies and processing success and failure responses.
+// ---
+
 #include "chrome/browser/push_notification/server_client/push_notification_desktop_api_call_flow_impl.h"
 
 #include "base/logging.h"

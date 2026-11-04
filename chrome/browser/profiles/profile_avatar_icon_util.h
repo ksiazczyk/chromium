@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile avatar icon utilities interface
+// summary: Declares avatar icon helper functions, constants, and enums used to render and format profile avatar images.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_PROFILE_AVATAR_ICON_UTIL_H_
 #define CHROME_BROWSER_PROFILES_PROFILE_AVATAR_ICON_UTIL_H_
 

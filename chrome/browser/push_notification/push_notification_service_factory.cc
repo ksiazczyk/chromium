@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Push notification service factory implementation
+// summary: Implements the profile keyed service factory that builds the push notification service for eligible ChromeOS profiles only.
+// ---
+
 #include "chrome/browser/push_notification/push_notification_service_factory.h"
 
 #include <memory>

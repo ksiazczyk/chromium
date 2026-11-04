@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileAttributesEntry class declaration
+// summary: Declares ProfileAttributesEntry, the cached per-profile attributes entry with sign-in state, name forms, and the ProfileManagementOidcTokens struct.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_PROFILE_ATTRIBUTES_ENTRY_H_
 #define CHROME_BROWSER_PROFILES_PROFILE_ATTRIBUTES_ENTRY_H_
 

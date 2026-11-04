@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile manager unit tests
+// summary: Unit tests covering ProfileManager behavior for profile creation, deletion, keep-alive and lifetime across platforms.
+// ---
+
 #include "chrome/browser/profiles/profile_manager.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile activity metrics recorder declaration
+// summary: Declares ProfileActivityMetricsRecorder, which tracks and records per-profile activity and session duration metrics.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_PROFILE_ACTIVITY_METRICS_RECORDER_H_
 #define CHROME_BROWSER_PROFILES_PROFILE_ACTIVITY_METRICS_RECORDER_H_
 

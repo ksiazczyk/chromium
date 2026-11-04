@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Push messaging service factory header
+// summary: Declares PushMessagingServiceFactory, a ProfileKeyedServiceFactory that provides per-profile PushMessagingServiceImpl instances.
+// ---
+
 #ifndef CHROME_BROWSER_PUSH_MESSAGING_PUSH_MESSAGING_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_PUSH_MESSAGING_PUSH_MESSAGING_SERVICE_FACTORY_H_
 

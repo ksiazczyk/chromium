@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Guest mode policy handler unit tests
+// summary: Unit tests checking how the guest mode policy handler reacts to sign-in and guest mode policies, including forced sign-in defaults.
+// ---
+
 #include "chrome/browser/profiles/guest_mode_policy_handler.h"
 
 #include "base/test/scoped_feature_list.h"

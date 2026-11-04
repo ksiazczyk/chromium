@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile shortcut manager interface
+// summary: Declares the abstract ProfileShortcutManager interface for creating, updating, and removing per-profile desktop shortcuts and icons.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_PROFILE_SHORTCUT_MANAGER_H_
 #define CHROME_BROWSER_PROFILES_PROFILE_SHORTCUT_MANAGER_H_
 

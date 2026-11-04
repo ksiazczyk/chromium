@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incognito browser context helpers
+// summary: Implements helpers that redirect browser contexts to the original profile in incognito or keep separate instances for services.
+// ---
+
 #include "chrome/browser/profiles/incognito_helpers.h"
 
 #include "chrome/browser/profiles/profile.h"

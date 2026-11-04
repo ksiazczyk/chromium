@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProfileKeepAliveAddedWaiter test helper declaration
+// summary: Declares a ProfileManagerObserver-based waiter used only in tests to block until a specific keep-alive is added to a profile.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_KEEP_ALIVE_PROFILE_KEEP_ALIVE_WAITER_H_
 #define CHROME_BROWSER_PROFILES_KEEP_ALIVE_PROFILE_KEEP_ALIVE_WAITER_H_
 

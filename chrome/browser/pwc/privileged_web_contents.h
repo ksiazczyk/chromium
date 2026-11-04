@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrivilegedWebContents class declaration
+// summary: Declares PrivilegedWebContents, the exclusive owner and delegate of a WebContents with structural guarantees for privileged components.
+// ---
+
 #ifndef CHROME_BROWSER_PWC_PRIVILEGED_WEB_CONTENTS_H_
 #define CHROME_BROWSER_PWC_PRIVILEGED_WEB_CONTENTS_H_
 

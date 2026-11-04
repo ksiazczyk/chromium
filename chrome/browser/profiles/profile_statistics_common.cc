@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile statistics category constants
+// summary: Defines the category name constants for profile statistics such as browsing history, passwords, bookmarks and autofill.
+// ---
+
 #include "chrome/browser/profiles/profile_statistics_common.h"
 
 namespace profiles {

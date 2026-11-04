@@ -6,6 +6,12 @@
 // http://google3/notifications/frontend/data/channel_type.proto
 // Messages not used in Chrome have been omitted. Last copied at cl/528833710.
 
+// ---docerion
+// type: source
+// title: ChannelType proto for push notification delivery channels
+// summary: Defines the ChannelType enum of delivery channels in the notifications pipeline; Chrome Desktop currently only supports GCM_DEVICE_PUSH.
+// ---
+
 syntax = "proto2";
 
 package push_notification.proto;

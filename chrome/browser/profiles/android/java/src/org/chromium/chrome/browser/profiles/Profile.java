@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile
+// summary: Java wrapper around the native Profile, offering access to profile state such as off-the-record status, creation time, and the original profile.
+// ---
+
 package org.chromium.chrome.browser.profiles;
 
 import androidx.annotation.VisibleForTesting;

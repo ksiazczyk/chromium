@@ -37,6 +37,12 @@
 //     DeclarativeNetRequestBrowserTest.PrivilegedWebContentsExemptFromDNR, and
 //     PwcDebuggerApiTest.CannotAttachToPrivilegedWebContents.
 
+// ---docerion
+// type: test
+// title: PWC security browser tests
+// summary: End-to-end adversarial suite exercising process isolation, origin lock, and capability bridge gating invariants as an integration backstop for security review.
+// ---
+
 #include <memory>
 #include <vector>
 

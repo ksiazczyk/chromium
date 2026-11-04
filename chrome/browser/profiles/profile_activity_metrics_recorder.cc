@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile activity metrics recorder implementation
+// summary: Records per-profile UMA metrics such as session duration, browser activation, profile switches, and user actions.
+// ---
+
 #include "chrome/browser/profiles/profile_activity_metrics_recorder.h"
 
 #include <string>

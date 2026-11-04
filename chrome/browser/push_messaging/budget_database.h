@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Budget database class declaration
+// summary: Declares BudgetDatabase and BudgetState for asynchronously reading and writing origin budget details.
+// ---
+
 #ifndef CHROME_BROWSER_PUSH_MESSAGING_BUDGET_DATABASE_H_
 #define CHROME_BROWSER_PUSH_MESSAGING_BUDGET_DATABASE_H_
 

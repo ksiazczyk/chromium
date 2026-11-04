@@ -1,3 +1,11 @@
+---
+type: reference
+title: ProfileKeyedServiceFactory overview
+summary: Explains the ProfileKeyedServiceFactory interface, the various profile types, and how ProfileSelections controls service redirection across profiles.
+relations:
+  - documents /chrome/browser/profiles/profile_keyed_service_factory.cc
+---
+
 # ProfileKeyedServiceFactory Overview
 
 This document present the newly added intermediate interface

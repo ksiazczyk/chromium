@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Push messaging unsubscribed entry implementation
+// summary: Implements persistence of unsubscribed push messaging entries as origin and Service Worker registration pairs in profile preferences.
+// ---
+
 #include "chrome/browser/push_messaging/push_messaging_unsubscribed_entry.h"
 
 #include <string>

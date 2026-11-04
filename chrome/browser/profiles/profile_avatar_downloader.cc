@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile avatar downloader implementation
+// summary: Downloads high-resolution profile avatar images from Google's static content servers and delivers them to a completion callback.
+// ---
+
 #include "chrome/browser/profiles/profile_avatar_downloader.h"
 
 #include <memory>

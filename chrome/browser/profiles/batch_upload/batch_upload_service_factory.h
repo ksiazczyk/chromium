@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Batch upload service factory
+// summary: ProfileKeyedServiceFactory singleton header that provides access to the BatchUploadService for a given profile.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_BATCH_UPLOAD_BATCH_UPLOAD_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_PROFILES_BATCH_UPLOAD_BATCH_UPLOAD_SERVICE_FACTORY_H_
 

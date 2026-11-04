@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile observer interface
+// summary: Observer interface notified when off-the-record profiles are created, profiles will be destroyed or initialization completes.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_PROFILE_OBSERVER_H_
 #define CHROME_BROWSER_PROFILES_PROFILE_OBSERVER_H_
 

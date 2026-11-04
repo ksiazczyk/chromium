@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileAttributesStorageObserver interface
+// summary: Declares the observer interface for ProfileAttributesStorage changes such as profile add, remove, rename, avatar, theme colors, and management updates.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_PROFILE_ATTRIBUTES_STORAGE_OBSERVER_H_
 #define CHROME_BROWSER_PROFILES_PROFILE_ATTRIBUTES_STORAGE_OBSERVER_H_
 

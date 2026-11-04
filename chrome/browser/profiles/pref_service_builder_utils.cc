@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile PrefService builder utilities implementation
+// summary: Implements helpers that create the profile README file, register profile prefs, and build the profile's syncable PrefService.
+// ---
+
 #include "chrome/browser/profiles/pref_service_builder_utils.h"
 
 #include <stddef.h>

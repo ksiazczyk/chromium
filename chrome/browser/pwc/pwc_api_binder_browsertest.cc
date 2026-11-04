@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PWC API binder browser tests
+// summary: Browser tests checking that only allowlisted, fully qualified main frames bind the privileged capability bridge, with violations silently dropped or killing the renderer.
+// ---
+
 #include "chrome/browser/pwc/pwc_api_binder.h"
 
 #include <memory>

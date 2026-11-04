@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Push messaging refresher unit tests
+// summary: Unit tests verifying subscription refresh bookkeeping, old subscription lookup and unsubscription behavior of PushMessagingRefresher.
+// ---
+
 #include "chrome/browser/push_messaging/push_messaging_refresher.h"
 
 #include <stdint.h>

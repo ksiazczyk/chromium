@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile attributes storage implementation
+// summary: Implements ProfileAttributesStorage, which persists profile attributes in Local State and manages entry add and remove, display ordering, and avatar image loading.
+// ---
+
 #include "chrome/browser/profiles/profile_attributes_storage.h"
 
 #include <algorithm>

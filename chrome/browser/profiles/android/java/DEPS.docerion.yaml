@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Android profiles Java
+summary: Defines include rules restricting which chrome and content directories the Android profiles Java code may include.

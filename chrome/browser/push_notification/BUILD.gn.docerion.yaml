@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Push notification build targets
+summary: Defines GN build targets for the ChromeOS push notification service, including the main source set, test support fakes, and unit tests.

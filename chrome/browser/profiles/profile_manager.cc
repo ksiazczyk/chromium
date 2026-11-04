@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileManager implementation
+// summary: Implements the manager that loads, creates, keeps alive, and destroys Profile objects during browser runtime.
+// ---
+
 #include "chrome/browser/profiles/profile_manager.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile avatar icon utility unit tests
+// summary: Unit tests verifying that avatar icon helpers produce correctly sized images with proper scaling representations.
+// ---
+
 #include "chrome/browser/profiles/profile_avatar_icon_util.h"
 
 #include "chrome/grit/theme_resources.h"

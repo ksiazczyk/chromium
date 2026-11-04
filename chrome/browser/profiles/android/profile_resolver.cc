@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile resolver native implementation
+// summary: Resolves serialized profile tokens into Profile or ProfileKey instances, supporting regular and off-the-record profiles on Android.
+// ---
+
 #include "chrome/browser/profiles/android/profile_resolver.h"
 
 #include "base/android/callback_android.h"

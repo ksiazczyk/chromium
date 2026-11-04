@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux profile shortcut manager implementation
+// summary: Implements per-profile desktop entries and badged icons on Linux, writing .desktop files and handling sandboxed packaging environments.
+// ---
+
 #include "chrome/browser/profiles/profile_shortcut_manager_linux.h"
 
 #include <algorithm>

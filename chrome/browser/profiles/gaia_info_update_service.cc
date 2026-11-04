@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GAIAInfoUpdateService implementation
+// summary: Updates the profile's GAIA name and picture in profile attributes and manages the lifecycle of signin account prefs.
+// ---
+
 #include "chrome/browser/profiles/gaia_info_update_service.h"
 
 #include <stddef.h>

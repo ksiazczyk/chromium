@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PWC navigation throttle interface
+// summary: Declares a navigation throttle that locks a privileged web contents main frame to its HTTPS-only origin allowlist, covering primary and prerendered frames.
+// ---
+
 #ifndef CHROME_BROWSER_PWC_PWC_NAVIGATION_THROTTLE_H_
 #define CHROME_BROWSER_PWC_PWC_NAVIGATION_THROTTLE_H_
 

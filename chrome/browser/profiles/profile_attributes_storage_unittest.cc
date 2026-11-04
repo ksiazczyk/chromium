@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile attributes storage unit tests
+// summary: Unit tests covering ProfileAttributesEntry accessors and ProfileAttributesStorage behavior, including entry metadata, ordering, avatars, and metrics reporting.
+// ---
+
 #include "chrome/browser/profiles/profile_attributes_storage.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ForceSafeSearch policy handler implementation
+// summary: Applies the deprecated ForceSafeSearch policy by setting Google SafeSearch and YouTube restrict prefs unless newer policies take precedence.
+// ---
+
 #include "chrome/browser/profiles/force_safe_search_policy_handler.h"
 
 #include <memory>

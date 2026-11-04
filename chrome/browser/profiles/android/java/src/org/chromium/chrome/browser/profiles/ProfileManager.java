@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileManager
+// summary: Java interface to the C++ ProfileManager, managing observers, profile creation and destruction notifications, and access to loaded profiles.
+// ---
+
 package org.chromium.chrome.browser.profiles;
 
 import androidx.annotation.VisibleForTesting;

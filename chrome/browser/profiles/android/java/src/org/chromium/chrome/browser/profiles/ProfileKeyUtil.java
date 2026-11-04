@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileKeyUtil
+// summary: Utility class providing access to the last used regular, non-off-the-record ProfileKey via JNI.
+// ---
+
 package org.chromium.chrome.browser.profiles;
 
 import org.jni_zero.NativeMethods;

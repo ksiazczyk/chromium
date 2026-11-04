@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProfileKeyedMapTest
+// summary: Robolectric tests covering object reuse, cleanup on profile destruction, map independence, and destroyable handling in ProfileKeyedMap.
+// ---
+
 package org.chromium.chrome.browser.profiles;
 
 import static org.chromium.chrome.browser.profiles.ProfileKeyedMap.noRequiredCleanupAction;

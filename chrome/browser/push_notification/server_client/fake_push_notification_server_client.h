@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake push notification server client header
+// summary: Declares a fake PushNotificationServerClient with a test factory that stores request data and exposes callbacks for use only in unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_PUSH_NOTIFICATION_SERVER_CLIENT_FAKE_PUSH_NOTIFICATION_SERVER_CLIENT_H_
 #define CHROME_BROWSER_PUSH_NOTIFICATION_SERVER_CLIENT_FAKE_PUSH_NOTIFICATION_SERVER_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedProfileKeepAlive class declaration
+// summary: Declares the ScopedProfileKeepAlive RAII object that prevents a non-OTR Profile from being destroyed while windows or jobs still need it.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_KEEP_ALIVE_SCOPED_PROFILE_KEEP_ALIVE_H_
 #define CHROME_BROWSER_PROFILES_KEEP_ALIVE_SCOPED_PROFILE_KEEP_ALIVE_H_
 

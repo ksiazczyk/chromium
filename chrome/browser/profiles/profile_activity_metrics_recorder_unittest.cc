@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile activity metrics recorder unit tests
+// summary: Unit tests for ProfileActivityMetricsRecorder that verify profile activity metrics using mock browsers, a fake global features setup, and a controlled inactivity timeout.
+// ---
+
 #include "chrome/browser/profiles/profile_activity_metrics_recorder.h"
 
 #include <string>

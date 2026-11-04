@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the profiles directory
+summary: Defines GN source_set targets and their dependencies for the profile management code in chrome/browser/profiles.

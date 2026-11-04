@@ -1,3 +1,11 @@
+---
+type: readme
+title: ScopedProfileKeepAlive
+summary: Explains that ScopedProfileKeepAlive is a strong reference to a refcounted Profile and points to broader profile lifetime best practices.
+relations:
+  - references /chrome/browser/profiles/README.md
+---
+
 # ScopedProfileKeepAlive
 
 `ScopedProfileKeepAlive` is a strong reference to a `Profile` object, which is

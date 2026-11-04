@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile reporting utilities declaration
+// summary: Declares helpers that gather common reporting context, build upload event requests and resolve user DM tokens or client IDs for enterprise reporting.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_REPORTING_UTIL_H_
 #define CHROME_BROWSER_PROFILES_REPORTING_UTIL_H_
 

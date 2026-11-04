@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileKeyedServiceFactory implementation
+// summary: Implements ProfileKeyedServiceFactory, applying ProfileSelections to decide which browser context a keyed service is created for.
+// ---
+
 #include "chrome/browser/profiles/profile_keyed_service_factory.h"
 
 #include "chrome/browser/profiles/profile.h"

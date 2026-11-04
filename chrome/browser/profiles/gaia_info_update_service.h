@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GAIAInfoUpdateService class header
+// summary: Declares the keyed service that downloads the user's name and profile picture into the profile info cache and observes identity changes.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_GAIA_INFO_UPDATE_SERVICE_H_
 #define CHROME_BROWSER_PROFILES_GAIA_INFO_UPDATE_SERVICE_H_
 

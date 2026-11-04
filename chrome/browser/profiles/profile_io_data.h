@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileIOData class declaration
+// summary: Declares ProfileIOData, a helper slated for deletion that offers static methods to check whether protocols and URLs are handled.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_PROFILE_IO_DATA_H_
 #define CHROME_BROWSER_PROFILES_PROFILE_IO_DATA_H_
 

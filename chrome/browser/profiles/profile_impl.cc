@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileImpl implementation
+// summary: Implements the default Profile class, wiring up browser services, preferences, policy, and delegates for a single user profile.
+// ---
+
 #include "chrome/browser/profiles/profile_impl.h"
 
 #include <stddef.h>

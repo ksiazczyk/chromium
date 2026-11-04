@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest mode policy handler implementation
+// summary: Maps the BrowserGuestModeEnabled policy to the guest mode preference and disables guest mode by default when sign-in is forced.
+// ---
+
 #include "chrome/browser/profiles/guest_mode_policy_handler.h"
 
 #include "base/values.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Push notification metrics implementation
+// summary: Implements UMA histogram recording for ChromeOS push notification token retrieval times, registration response times, and GCM, OAuth, and service registration results.
+// ---
+
 #include "chrome/browser/push_notification/metrics/push_notification_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

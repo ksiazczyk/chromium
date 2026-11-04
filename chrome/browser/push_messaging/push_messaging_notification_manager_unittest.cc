@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Push messaging notification manager unit tests
+// summary: Unit tests for tab visibility checks and extension-related bypass behavior of the push messaging notification manager.
+// ---
+
 #include "chrome/browser/push_messaging/push_messaging_notification_manager.h"
 
 #include "base/functional/bind.h"

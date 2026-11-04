@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Avatar menu class declaration
+// summary: Declares the AvatarMenu model and its Item struct used to present the profile selection menu in the browser UI.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_AVATAR_MENU_H_
 #define CHROME_BROWSER_PROFILES_AVATAR_MENU_H_
 

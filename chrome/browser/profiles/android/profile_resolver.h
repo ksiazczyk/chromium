@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile resolver API header
+// summary: Declares the token-based functions for resolving and tokenizing profiles and profile keys behind the Java BrowserContextHandleResolver interface.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_ANDROID_PROFILE_RESOLVER_H_
 #define CHROME_BROWSER_PROFILES_ANDROID_PROFILE_RESOLVER_H_
 

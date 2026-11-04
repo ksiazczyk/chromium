@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProfileTestingHelper class declaration
+// summary: Declares a testing helper giving tests access to profiles of many types, including regular, incognito, isolated mode, guest, system, signin, and lock-screen profiles.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_PROFILE_TESTING_HELPER_H_
 #define CHROME_BROWSER_PROFILES_PROFILE_TESTING_HELPER_H_
 

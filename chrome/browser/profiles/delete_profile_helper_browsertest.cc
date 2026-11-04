@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeleteProfileHelper browser tests
+// summary: Browser tests verifying profile deletion behavior, including keep-alive handling, callback ordering, and pref list cleanup.
+// ---
+
 #include "chrome/browser/profiles/delete_profile_helper.h"
 
 #include "base/files/file_path.h"

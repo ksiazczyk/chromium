@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PushNotificationServerClientDesktopImpl unit tests
+// summary: Unit tests for the desktop push notification server client, exercising GET, POST and PATCH API call flows with fake dependencies, identity test environment and histogram assertions.
+// ---
+
 #include "chrome/browser/push_notification/server_client/push_notification_server_client_desktop_impl.h"
 
 #include <string>

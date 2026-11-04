@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestProfile
+// summary: In-memory Profile implementation for unit tests and non-browser on-device integration tests, with factories for regular, incognito, and custom OTR profiles.
+// ---
+
 package org.chromium.chrome.browser.profiles;
 
 import org.chromium.base.ThreadUtils;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile state helper declarations
+// summary: Declares profile state functions covering multiple-profile support, avatar names, profile renaming, guest mode availability, profile locking, and Gaia picture updates.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_PROFILES_STATE_H_
 #define CHROME_BROWSER_PROFILES_PROFILES_STATE_H_
 

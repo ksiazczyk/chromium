@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQL init status to message ID mapping
+// summary: Maps SQL database initialization statuses to the localized message IDs shown in the profile error dialog.
+// ---
+
 #include "chrome/browser/profiles/sql_init_error_message_ids.h"
 
 #include "chrome/grit/branded_strings.h"

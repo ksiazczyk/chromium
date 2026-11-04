@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Push notification service desktop implementation
+// summary: Implements the desktop push notification service, handling GCM messages, token registration, and scheduled initialization for ChromeOS.
+// ---
+
 #include "chrome/browser/push_notification/push_notification_service_desktop_impl.h"
 
 #include "base/check.h"

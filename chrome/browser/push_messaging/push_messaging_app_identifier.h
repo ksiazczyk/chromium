@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Push messaging app identifier class declaration
+// summary: Declares static utilities integrating push_messaging::AppIdentifier with Chrome profiles and their prefs.
+// ---
+
 #ifndef CHROME_BROWSER_PUSH_MESSAGING_PUSH_MESSAGING_APP_IDENTIFIER_H_
 #define CHROME_BROWSER_PUSH_MESSAGING_PUSH_MESSAGING_APP_IDENTIFIER_H_
 

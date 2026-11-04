@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile metrics unit tests
+// summary: Parameterized tests verifying logged profile count metrics for active, supervised, managed and sync-consent profiles.
+// ---
+
 #include "chrome/browser/profiles/profile_metrics.h"
 
 #include <string>

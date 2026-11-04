@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Avatar menu browser tests
+// summary: Browser tests covering adding, editing and switching profiles through the avatar menu.
+// ---
+
 #include "chrome/browser/profiles/avatar_menu.h"
 
 #include <memory>

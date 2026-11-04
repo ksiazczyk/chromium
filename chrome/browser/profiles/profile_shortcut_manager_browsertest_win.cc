@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile shortcut manager Windows browser tests
+// summary: Browser tests verifying profile icon and shortcut updates on Windows, including avatar-based icon regeneration when profiles change.
+// ---
+
 #include <stddef.h>
 
 #include "base/base_paths.h"

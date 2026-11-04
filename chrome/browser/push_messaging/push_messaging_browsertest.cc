@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Push messaging browser tests
+// summary: End-to-end browser tests covering push subscriptions, permissions, notifications and GCM/Instance ID behavior of Chrome's push messaging service.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

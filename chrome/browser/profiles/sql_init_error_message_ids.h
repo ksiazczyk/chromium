@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQL init status message ID helper declaration
+// summary: Declares SqlInitStatusToMessageId, which selects the localized error message ID for a given SQL initialization status.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_SQL_INIT_ERROR_MESSAGE_IDS_H_
 #define CHROME_BROWSER_PROFILES_SQL_INIT_ERROR_MESSAGE_IDS_H_
 

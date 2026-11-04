@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PWC navigation throttle implementation
+// summary: Implements a navigation throttle that cancels off-allowlist main frame navigations at start, on redirects, and when committing without a URL loader.
+// ---
+
 #include "chrome/browser/pwc/pwc_navigation_throttle.h"
 
 #include <memory>

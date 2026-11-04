@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OtrProfileId
+// summary: Java wrapper for off-the-record profile identifiers, supporting creation of unique IDs and serialization to and from strings across the JNI boundary.
+// ---
+
 package org.chromium.chrome.browser.profiles;
 
 import android.text.TextUtils;

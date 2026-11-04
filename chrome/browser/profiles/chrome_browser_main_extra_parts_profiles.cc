@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profiles extra parts factory registration
+// summary: Implements the profiles extra parts that instantiate all Chrome profile-scoped KeyedService factories during browser startup.
+// ---
+
 #include "chrome/browser/profiles/chrome_browser_main_extra_parts_profiles.h"
 
 #include <memory>

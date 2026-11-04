@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileAttributesInitParams struct declaration
+// summary: Declares the move-only ProfileAttributesInitParams struct holding the parameters used to add a profile to ProfileAttributesStorage.
+// ---
+
 #ifndef CHROME_BROWSER_PROFILES_PROFILE_ATTRIBUTES_INIT_PARAMS_H_
 #define CHROME_BROWSER_PROFILES_PROFILE_ATTRIBUTES_INIT_PARAMS_H_
 

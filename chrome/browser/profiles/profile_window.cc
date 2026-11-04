@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile window and switching implementation
+// summary: Implements creating, finding, and activating browser windows for profiles, asynchronous profile loading, guest profile switching, and closing profile windows.
+// ---
+
 #include "chrome/browser/profiles/profile_window.h"
 
 #include <stddef.h>

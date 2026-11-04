@@ -6,6 +6,12 @@
 // http://google3/notifications/frontend/data/notifications_multi_login_update.proto
 // Messages not used in Chrome have been omitted. Last copied at cl/548441269.
 
+// ---docerion
+// type: source
+// title: Multi-login notification update request and response protos
+// summary: Defines request and response messages for registering or unregistering multiple users for a push notification target in Chime.
+// ---
+
 syntax = "proto2";
 
 package push_notification.proto;

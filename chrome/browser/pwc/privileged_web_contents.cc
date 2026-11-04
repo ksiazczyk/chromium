@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrivilegedWebContents implementation
+// summary: Implements PrivilegedWebContents, which owns a WebContents hosting remote content for a privileged component with elevated browser capabilities.
+// ---
+
 #include "chrome/browser/pwc/privileged_web_contents.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Push notification directory metadata
+summary: Records the Buganizer component ID and owning team email for the push notification directory.

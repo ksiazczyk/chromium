@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Push notification service desktop unit tests
+// summary: Tests the desktop push notification service with fake GCM driver, instance ID, and server client, verifying registration behavior and metrics.
+// ---
+
 #include "chrome/browser/push_notification/push_notification_service_desktop_impl.h"
 
 #include <memory>
