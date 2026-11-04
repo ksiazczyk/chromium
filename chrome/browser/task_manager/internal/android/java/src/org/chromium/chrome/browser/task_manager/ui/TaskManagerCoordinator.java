@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task manager model-view coordinator
+// summary: Binds the task manager model and view, handling the task list, header, filtering, sorting and context menus.
+// ---
+
 package org.chromium.chrome.browser.task_manager.ui;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

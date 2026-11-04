@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Worker task implementation
+// summary: Implements WorkerTask, building localized titles for dedicated, shared, and service workers from their worker script URLs.
+// ---
+
 #include "chrome/browser/task_manager/providers/worker_task.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundContentsTask implementation
+// summary: Implements the renderer task for background contents, localizing titles with the background app prefix and always using a default icon.
+// ---
+
 #include "chrome/browser/task_manager/providers/web_contents/background_contents_task.h"
 
 #include <string>

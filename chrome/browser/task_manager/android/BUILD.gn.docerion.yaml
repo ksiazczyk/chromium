@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Android task manager build targets
+summary: GN build file defining the Android task manager source set, JNI headers group, Java library, and factory targets with their dependencies.

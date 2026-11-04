@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Theme local data batch uploader unit tests
+// summary: Unit tests covering theme batch upload behavior, including local data descriptions, sync changes, and migration of saved themes.
+// ---
+
 #include "chrome/browser/themes/theme_local_data_batch_uploader.h"
 
 #include <string>

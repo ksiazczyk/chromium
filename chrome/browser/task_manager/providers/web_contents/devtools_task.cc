@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools task implementation
+// summary: Implements the DevTools task for the task manager, updating its title whenever the developer tools WebContents sets a navigation title.
+// ---
+
 #include "chrome/browser/task_manager/providers/web_contents/devtools_task.h"
 
 #include "content/public/browser/navigation_entry.h"

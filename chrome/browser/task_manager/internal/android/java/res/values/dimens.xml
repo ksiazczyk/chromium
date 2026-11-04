@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Task Manager Android dimension resources
+summary: Defines dp dimension values for the Android Task Manager UI, covering the toolbar, search box, task headers, and task item layout.
+-->
+
 <resources>
     <!-- Task Manager Toolbar dimensions -->
     <dimen name="task_manager_search_box_height">48dp</dimen>

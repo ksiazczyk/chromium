@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskGroupSampler implementation
+// summary: Implements the per-process sampler that posts CPU, swapped memory, idle wakeups, file descriptor count and priority refreshes to blocking pool threads and reports results via callbacks.
+// ---
+
 #include "chrome/browser/task_manager/sampling/task_group_sampler.h"
 
 #include <limits>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background contents tag browser tests
+// summary: Browser tests verifying that background contents are tagged, recorded by the tags manager, and provided as BackgroundContentsTask entries by the task provider.
+// ---
+
 #include <string>
 
 #include "base/strings/utf_string_conversions.h"

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Text detection directory metadata
+summary: Maps the directory to the Blink>ShapeDetection component and the device-dev team for issue tracking.

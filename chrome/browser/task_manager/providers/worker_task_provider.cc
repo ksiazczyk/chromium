@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Worker task provider implementation
+// summary: Implements WorkerTaskProvider, observing profiles and delegating worker tracking to per-profile PerProfileWorkerTaskTracker instances.
+// ---
+
 #include "chrome/browser/task_manager/providers/worker_task_provider.h"
 
 #include "chrome/browser/browser_process.h"

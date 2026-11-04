@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Task manager browser test utilities implementation
+// summary: Implements helpers that wait for the task manager model to reach expected row and column states during browser tests.
+// ---
+
 #include "chrome/browser/task_manager/task_manager_browsertest_util.h"
 
 #include <iomanip>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Task manager common build targets
+summary: Defines GN source sets for the task manager common module, separating the public feature header from its implementation to avoid circular dependencies.

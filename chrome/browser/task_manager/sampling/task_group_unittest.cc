@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TaskGroup unit tests
+// summary: Unit tests for TaskGroup refresh behavior, using a fake Task to verify background calculations complete and that refreshing an empty group is handled correctly.
+// ---
+
 #include "chrome/browser/task_manager/sampling/task_group.h"
 
 #include <memory>

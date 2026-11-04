@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ETC1 thumbnail helper unit tests
+// summary: Unit tests verifying ETC1 thumbnail compression, decompression, writing, reading and deletion using temporary directories and Skia bitmaps.
+// ---
+
 #include "chrome/browser/thumbnail/cc/etc1_thumbnail_helper.h"
 
 #include <cstring>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini process task implementation
+// summary: Implements the task manager task for Crostini (Linux VM) processes, providing the Crostini icon, title prefix, task type, and Kill behavior that stops the VM via CrostiniManager.
+// ---
+
 #include "chrome/browser/task_manager/providers/vm/crostini_process_task.h"
 
 #include "base/functional/callback_helpers.h"

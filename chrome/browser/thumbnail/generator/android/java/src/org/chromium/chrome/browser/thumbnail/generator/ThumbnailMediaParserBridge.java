@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThumbnailMediaParserBridge
+// summary: JNI bridge that parses media files safely in a utility process to retrieve metadata and video thumbnails.
+// ---
+
 package org.chromium.chrome.browser.thumbnail.generator;
 
 import org.jni_zero.JniType;

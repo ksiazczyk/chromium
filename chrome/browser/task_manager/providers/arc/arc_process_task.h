@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC process task class declaration
+// summary: Declares the ArcProcessTask class that represents an ARC process in the task manager, including kill, state, and icon-loading behavior.
+// ---
+
 #ifndef CHROME_BROWSER_TASK_MANAGER_PROVIDERS_ARC_ARC_PROCESS_TASK_H_
 #define CHROME_BROWSER_TASK_MANAGER_PROVIDERS_ARC_ARC_PROCESS_TASK_H_
 

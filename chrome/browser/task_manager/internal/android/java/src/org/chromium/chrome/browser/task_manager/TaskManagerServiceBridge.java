@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskManagerServiceBridge
+// summary: JNI bridge between Java and the C++ task manager that registers observers and fetches task details such as title, icon, memory, CPU, network, process ID, and GPU usage.
+// ---
+
 package org.chromium.chrome.browser.task_manager;
 
 import android.graphics.Bitmap;

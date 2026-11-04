@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Worker task provider class declaration
+// summary: Declares WorkerTaskProvider, a TaskProvider that tracks dedicated, shared, and service workers across profiles via per-profile trackers.
+// ---
+
 #ifndef CHROME_BROWSER_TASK_MANAGER_PROVIDERS_WORKER_TASK_PROVIDER_H_
 #define CHROME_BROWSER_TASK_MANAGER_PROVIDERS_WORKER_TASK_PROVIDER_H_
 

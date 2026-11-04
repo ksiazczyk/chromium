@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ThumbnailMediaParserTest
+// summary: Instrumentation tests verifying media metadata and thumbnail retrieval for audio and video files via the media parser.
+// ---
+
 package org.chromium.chrome.browser.thumbnail.generator;
 
 import androidx.test.filters.LargeTest;

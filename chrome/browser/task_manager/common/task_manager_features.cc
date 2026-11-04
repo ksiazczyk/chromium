@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task Manager Android feature flags implementation
+// summary: Implements the kTaskManagerClank and kTaskManagerToolbar base features and the IsTaskManagerClankEnabled check for Android.
+// ---
+
 #include "chrome/browser/task_manager/common/task_manager_features.h"
 
 #if BUILDFLAG(IS_ANDROID)

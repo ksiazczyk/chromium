@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolTag class declaration
+// summary: Declares ToolTag, a WebContentsTag user-data subclass that creates renderer tasks for tool-owned WebContents and stores the tool name string resource ID.
+// ---
+
 #ifndef CHROME_BROWSER_TASK_MANAGER_PROVIDERS_WEB_CONTENTS_TOOL_TAG_H_
 #define CHROME_BROWSER_TASK_MANAGER_PROVIDERS_WEB_CONTENTS_TOOL_TAG_H_
 

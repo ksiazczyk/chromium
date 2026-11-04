@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme syncable service implementation
+// summary: Implements the THEMES sync data type, including theme preference migration, extension theme installation handling, and merging local and remote theme data.
+// ---
+
 #include "chrome/browser/themes/theme_syncable_service.h"
 
 #include <stddef.h>

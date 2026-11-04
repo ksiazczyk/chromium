@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thumbnail cache class declaration
+// summary: Declares the ThumbnailCache that stores, prioritises and invalidates per-tab thumbnails, with observers, metadata tracking and ETC1/JPEG disk read support.
+// ---
+
 #ifndef CHROME_BROWSER_THUMBNAIL_CC_THUMBNAIL_CACHE_H_
 #define CHROME_BROWSER_THUMBNAIL_CC_THUMBNAIL_CACHE_H_
 

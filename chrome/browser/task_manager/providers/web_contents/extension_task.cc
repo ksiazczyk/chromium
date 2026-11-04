@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension task implementation
+// summary: Implements the ExtensionTask renderer task, covering extension titles, icons, activation via the extensions page, and keepalive counting.
+// ---
+
 #include "chrome/browser/task_manager/providers/web_contents/extension_task.h"
 
 #include <memory>

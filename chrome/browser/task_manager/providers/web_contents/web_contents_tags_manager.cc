@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsTagsManager implementation
+// summary: Implements the singleton that tracks WebContentsTag objects and notifies the WebContentsTaskProvider when tags are added, removed, or cleared.
+// ---
+
 #include "chrome/browser/task_manager/providers/web_contents/web_contents_tags_manager.h"
 
 #include <algorithm>

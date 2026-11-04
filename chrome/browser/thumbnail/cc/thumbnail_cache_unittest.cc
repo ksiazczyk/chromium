@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Thumbnail cache unit tests
+// summary: Unit tests for ThumbnailCache covering cache pruning, visible tab ordering, thumbnail metadata updates and cache metrics using a mock UI resource provider.
+// ---
+
 #include "chrome/browser/thumbnail/cc/thumbnail_cache.h"
 
 #include "base/functional/callback_helpers.h"

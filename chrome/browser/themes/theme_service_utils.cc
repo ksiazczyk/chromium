@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme service utility functions
+// summary: Implements helpers that read grayscale and user color theme preferences and convert browser color variant and scheme enums to and from sync protobuf enums.
+// ---
+
 #include "chrome/browser/themes/theme_service_utils.h"
 
 #include <optional>

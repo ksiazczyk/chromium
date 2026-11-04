@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolTag implementation
+// summary: Implements ToolTag, a WebContentsTag whose CreateTask builds a ToolTask carrying a tool name for the tagged WebContents.
+// ---
+
 #include "chrome/browser/task_manager/providers/web_contents/tool_tag.h"
 
 #include <memory>

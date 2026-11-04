@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrerenderNewTabTask class for prerendering in a new tab
+// summary: Declares PrerenderNewTabTask, the task manager representation of WebContents created by PrerenderNewTabHandle for prerendering in a new tab.
+// ---
+
 #ifndef CHROME_BROWSER_TASK_MANAGER_PROVIDERS_WEB_CONTENTS_PRERENDER_NEW_TAB_TASK_H_
 #define CHROME_BROWSER_TASK_MANAGER_PROVIDERS_WEB_CONTENTS_PRERENDER_NEW_TAB_TASK_H_
 

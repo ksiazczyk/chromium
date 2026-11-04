@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ThemeService unit tests
+// summary: Unit tests for ThemeService covering extension theme installation and uninstall, system and default themes, sync specifics, and color provider behavior.
+// ---
+
 #include "chrome/browser/themes/theme_service.h"
 
 #include <cmath>

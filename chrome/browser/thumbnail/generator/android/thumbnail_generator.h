@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThumbnailGenerator class header
+// summary: Declares ThumbnailGenerator, which kicks off asynchronous thumbnail pipelines for local files and is owned by the Java side.
+// ---
+
 #ifndef CHROME_BROWSER_THUMBNAIL_GENERATOR_ANDROID_THUMBNAIL_GENERATOR_H_
 #define CHROME_BROWSER_THUMBNAIL_GENERATOR_ANDROID_THUMBNAIL_GENERATOR_H_
 

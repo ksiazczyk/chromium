@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task manager task class declaration
+// summary: Declares the Task class with its Type and SubType enums for tasks shown in the task manager, such as browser, renderer, extension, and worker processes.
+// ---
+
 #ifndef CHROME_BROWSER_TASK_MANAGER_PROVIDERS_TASK_H_
 #define CHROME_BROWSER_TASK_MANAGER_PROVIDERS_TASK_H_
 

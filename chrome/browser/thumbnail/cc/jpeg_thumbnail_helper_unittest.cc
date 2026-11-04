@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JPEG thumbnail helper unit tests
+// summary: Unit tests covering JPEG thumbnail compression, empty-bitmap handling, writing, reading and deletion via the JpegThumbnailHelper.
+// ---
+
 #include "chrome/browser/thumbnail/cc/jpeg_thumbnail_helper.h"
 
 #include <cstring>

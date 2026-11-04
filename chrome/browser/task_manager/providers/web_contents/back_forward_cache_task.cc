@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackForwardCacheTask implementation for task manager entries
+// summary: Implements task manager entries for pages stored in the back/forward cache, building localized titles and grouping cached subframe tasks under their main frame task.
+// ---
+
 #include "chrome/browser/task_manager/providers/web_contents/back_forward_cache_task.h"
 
 #include <string>

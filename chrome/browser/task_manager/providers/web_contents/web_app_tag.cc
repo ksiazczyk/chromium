@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAppTag implementation
+// summary: Implements WebAppTag task creation, returning an IsolatedWebAppTask or a regular WebAppTask depending on whether the WebContents belongs to an isolated web app.
+// ---
+
 #include "chrome/browser/task_manager/providers/web_contents/web_app_tag.h"
 
 #include <memory>

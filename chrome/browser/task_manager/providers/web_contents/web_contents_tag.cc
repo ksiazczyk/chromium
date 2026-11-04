@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsTag base implementation
+// summary: Implements the WebContentsTag base class, including lookup of a tag from WebContents user data and removal from the tags manager on destruction.
+// ---
+
 #include "chrome/browser/task_manager/providers/web_contents/web_contents_tag.h"
 
 #include "chrome/browser/task_manager/providers/web_contents/web_contents_tags_manager.h"

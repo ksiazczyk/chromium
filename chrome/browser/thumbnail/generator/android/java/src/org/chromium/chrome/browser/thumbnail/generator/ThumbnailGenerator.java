@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThumbnailGenerator
+// summary: Generates thumbnails for requests by calling the native thumbnail generator through JNI and forwarding results to callbacks.
+// ---
+
 package org.chromium.chrome.browser.thumbnail.generator;
 
 import android.graphics.Bitmap;

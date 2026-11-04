@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest tag implementation
+// summary: Implements GuestTag, which creates a GuestTask for WebContents owned by GuestViewBase plugin guests.
+// ---
+
 #include "chrome/browser/task_manager/providers/web_contents/guest_tag.h"
 
 #include <memory>

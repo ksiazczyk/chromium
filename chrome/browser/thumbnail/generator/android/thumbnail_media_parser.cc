@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThumbnailMediaParser factory
+// summary: Implements ThumbnailMediaParser::Create, selecting the real parser or the noop parser based on the ENABLE_FFMPEG build flag.
+// ---
+
 #include "chrome/browser/thumbnail/generator/android/thumbnail_media_parser.h"
 
 #include "media/media_buildflags.h"

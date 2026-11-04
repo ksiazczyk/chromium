@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spare render process host task provider unit tests
+// summary: Unit tests verifying that tasks are added and removed as spare RenderProcessHost processes become ready or are removed.
+// ---
+
 #include <set>
 
 #include "base/memory/raw_ptr.h"

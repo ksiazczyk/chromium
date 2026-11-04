@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme service header
+// summary: Declares ThemeService, the KeyedService managing browser themes, browser color schemes, and custom theme suppliers per profile.
+// ---
+
 #ifndef CHROME_BROWSER_THEMES_THEME_SERVICE_H_
 #define CHROME_BROWSER_THEMES_THEME_SERVICE_H_
 

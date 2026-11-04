@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GuestTaskMPArch implementation for MPArch guest view tasks
+// summary: Implements the task manager entry for MPArch-based GuestViews, deriving title and favicon from the guest main frame and delegating activation and grouping to the embedder task.
+// ---
+
 #include "chrome/browser/task_manager/providers/web_contents/guest_task_mparch.h"
 
 #include "base/i18n/rtl.h"

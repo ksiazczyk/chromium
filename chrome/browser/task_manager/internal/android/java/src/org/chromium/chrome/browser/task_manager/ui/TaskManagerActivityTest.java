@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Task manager activity lifecycle test
+// summary: Robolectric test verifying the task manager activity lifecycle, including observer registration and cleanup on destroy.
+// ---
+
 package org.chromium.chrome.browser.task_manager.ui;
 
 import static org.mockito.ArgumentMatchers.any;

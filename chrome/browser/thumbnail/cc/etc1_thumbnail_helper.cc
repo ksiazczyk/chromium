@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ETC1 thumbnail helper implementation
+// summary: Implements background tasks that compress, write, read, delete and decompress ETC1-encoded tab thumbnails on a file task runner, including bulk deletion of stale files.
+// ---
+
 #include "chrome/browser/thumbnail/cc/etc1_thumbnail_helper.h"
 
 #include "base/files/file_enumerator.h"

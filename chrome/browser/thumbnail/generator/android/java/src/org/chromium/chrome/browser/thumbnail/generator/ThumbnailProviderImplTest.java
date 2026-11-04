@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ThumbnailProviderImplTest
+// summary: Instrumentation tests for ThumbnailProviderImpl covering thumbnail retrieval and required size handling.
+// ---
+
 package org.chromium.chrome.browser.thumbnail.generator;
 
 import android.graphics.Bitmap;

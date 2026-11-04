@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Worker task provider browser tests
+// summary: Browser tests verifying that WorkerTaskProvider reports worker tasks correctly, including service workers and multiple profiles.
+// ---
+
 #include "chrome/browser/task_manager/providers/worker_task_provider.h"
 
 #include <memory>

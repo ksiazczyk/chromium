@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabContentsTask implementation
+// summary: Implements TabContentsTask, computing tab titles with app, extension and incognito prefixes and classifying extension-hosting tabs as extension tasks.
+// ---
+
 #include "chrome/browser/task_manager/providers/web_contents/tab_contents_task.h"
 
 #include "base/strings/utf_string_conversions.h"

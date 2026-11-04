@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ThemeServiceChangedWaiter test helper
+// summary: Declares ThemeServiceChangedWaiter, a test observer that starts watching on construction and can wait once for a theme change notification.
+// ---
+
 #ifndef CHROME_BROWSER_THEMES_TEST_THEME_SERVICE_CHANGED_WAITER_H_
 #define CHROME_BROWSER_THEMES_TEST_THEME_SERVICE_CHANGED_WAITER_H_
 

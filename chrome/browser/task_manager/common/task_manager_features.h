@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task Manager Android feature declarations
+// summary: Declares the Task Manager feature flags and the IsTaskManagerClankEnabled helper exposed for Android builds.
+// ---
+
 #ifndef CHROME_BROWSER_TASK_MANAGER_COMMON_TASK_MANAGER_FEATURES_H_
 #define CHROME_BROWSER_TASK_MANAGER_COMMON_TASK_MANAGER_FEATURES_H_
 

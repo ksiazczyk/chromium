@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme properties header
+// summary: Declares enums of themeable colors, tints, alignments, and tiling options used as keys in the browser theme pack.
+// ---
+
 #ifndef CHROME_BROWSER_THEMES_THEME_PROPERTIES_H_
 #define CHROME_BROWSER_THEMES_THEME_PROPERTIES_H_
 

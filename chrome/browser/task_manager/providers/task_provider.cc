@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task provider base implementation
+// summary: Implements the TaskProvider base class, managing its single observer and notifying it about added, removed, and unresponsive tasks.
+// ---
+
 #include "chrome/browser/task_manager/providers/task_provider.h"
 
 namespace task_manager {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thumbnail capture tracker declaration
+// summary: Declares ThumbnailCaptureTracker, which tracks a thumbnail's capture and JPEG write status on a single thread and notifies registered callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_THUMBNAIL_CC_THUMBNAIL_CAPTURE_TRACKER_H_
 #define CHROME_BROWSER_THUMBNAIL_CC_THUMBNAIL_CAPTURE_TRACKER_H_
 

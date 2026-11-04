@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevToolsTag implementation
+// summary: Creates DevToolsTask instances for WebContents owned by DevTools windows.
+// ---
+
 #include "chrome/browser/task_manager/providers/web_contents/devtools_tag.h"
 
 #include <memory>

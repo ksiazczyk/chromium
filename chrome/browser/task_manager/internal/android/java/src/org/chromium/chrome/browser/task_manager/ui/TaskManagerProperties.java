@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task manager model property keys
+// summary: Defines the property keys and helper types for the task manager model, including columns, categories and sort descriptors.
+// ---
+
 package org.chromium.chrome.browser.task_manager.ui;
 
 import android.graphics.Bitmap;

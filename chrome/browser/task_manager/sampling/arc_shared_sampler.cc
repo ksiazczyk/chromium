@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcSharedSampler implementation
+// summary: Implements the ARC shared sampler that fetches app and system memory dumps via ArcProcessService and reports per-process memory footprints to registered task group callbacks.
+// ---
+
 #include "chrome/browser/task_manager/sampling/arc_shared_sampler.h"
 
 #include <utility>

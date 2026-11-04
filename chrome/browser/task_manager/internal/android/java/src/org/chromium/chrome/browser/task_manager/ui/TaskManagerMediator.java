@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task manager mediator between model and backend
+// summary: Mediates between the task list model and the task manager backend, refreshing task data and applying sorting and filtering.
+// ---
+
 package org.chromium.chrome.browser.task_manager.ui;
 
 import static org.chromium.chrome.browser.task_manager.ui.TaskManagerProperties.ALL_COLUMN_KEYS;

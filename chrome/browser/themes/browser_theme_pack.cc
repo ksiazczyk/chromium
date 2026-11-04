@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser theme pack implementation
+// summary: Implements BrowserThemePack, which pre-processes theme images, tints, and colors from an extension into a versioned, mmappable data pack for fast loading.
+// ---
+
 #include "chrome/browser/themes/browser_theme_pack.h"
 
 #include <limits.h>

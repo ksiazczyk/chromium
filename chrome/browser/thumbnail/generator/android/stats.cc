@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media parser UMA stats recording
+// summary: Records media parser, metadata, and video thumbnail events into Download.* UMA histograms for Android thumbnail generation.
+// ---
+
 #include "chrome/browser/thumbnail/generator/android/stats.h"
 
 #include "base/metrics/histogram_macros.h"

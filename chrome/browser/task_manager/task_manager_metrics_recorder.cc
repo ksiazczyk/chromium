@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task manager metrics recorder implementation
+// summary: Records UMA histograms for task manager open, close, tab switch, and end process events, including per-category and ordinal histogram names.
+// ---
+
 #include "chrome/browser/task_manager/task_manager_metrics_recorder.h"
 
 #include <array>

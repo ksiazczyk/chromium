@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Thumbnail capture tracker unit tests
+// summary: Unit tests verifying that ThumbnailCaptureTracker runs its deletion and JPEG-finished callbacks on success, capture failure and JPEG failure.
+// ---
+
 #include "chrome/browser/thumbnail/cc/thumbnail_capture_tracker.h"
 
 #include "base/functional/callback.h"

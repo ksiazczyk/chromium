@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VM process task provider header
+// summary: Declares the VmProcessTaskProvider class, a TaskProvider and process snapshot observer that supplies the task list for running VMs and maps PIDs to VM tasks.
+// ---
+
 #ifndef CHROME_BROWSER_TASK_MANAGER_PROVIDERS_VM_VM_PROCESS_TASK_PROVIDER_H_
 #define CHROME_BROWSER_TASK_MANAGER_PROVIDERS_VM_VM_PROCESS_TASK_PROVIDER_H_
 

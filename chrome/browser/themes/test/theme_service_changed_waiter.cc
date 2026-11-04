@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ThemeServiceChangedWaiter implementation
+// summary: Implements the ThemeServiceChangedWaiter test helper, which observes a ThemeService and quits a run loop when OnThemeChanged fires.
+// ---
+
 #include "chrome/browser/themes/test/theme_service_changed_waiter.h"
 
 #include "chrome/browser/themes/theme_service.h"

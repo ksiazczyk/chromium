@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JPEG thumbnail helper class declaration
+// summary: Declares JpegThumbnailHelper, which stores and retrieves JPEG-encoded tab thumbnails per tab id with compress, write, read and delete operations.
+// ---
+
 #ifndef CHROME_BROWSER_THUMBNAIL_CC_JPEG_THUMBNAIL_HELPER_H_
 #define CHROME_BROWSER_THUMBNAIL_CC_JPEG_THUMBNAIL_HELPER_H_
 

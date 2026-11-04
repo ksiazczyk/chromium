@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GuestTaskMPArch class declaration for MPArch guest view tasks
+// summary: Declares the task manager entry for Multiple Page Architecture based GuestViews, holding the guest main frame node ID and a weak reference to the embedder task.
+// ---
+
 #ifndef CHROME_BROWSER_TASK_MANAGER_PROVIDERS_WEB_CONTENTS_GUEST_TASK_MPARCH_H_
 #define CHROME_BROWSER_TASK_MANAGER_PROVIDERS_WEB_CONTENTS_GUEST_TASK_MPARCH_H_
 

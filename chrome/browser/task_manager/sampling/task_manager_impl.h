@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskManagerImpl class header
+// summary: Declares TaskManagerImpl, the concrete TaskManagerInterface that exposes task stats, titles, icons, process handles and network usage to observers.
+// ---
+
 #ifndef CHROME_BROWSER_TASK_MANAGER_SAMPLING_TASK_MANAGER_IMPL_H_
 #define CHROME_BROWSER_TASK_MANAGER_SAMPLING_TASK_MANAGER_IMPL_H_
 

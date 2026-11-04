@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAppTask implementation
+// summary: Implements WebAppTask, prefixing the WebContents title with the task manager app prefix and updating the favicon using the default implementation.
+// ---
+
 #include "chrome/browser/task_manager/providers/web_contents/web_app_task.h"
 
 #include <string>

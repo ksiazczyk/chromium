@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fallback task provider implementation
+// summary: Implements a task provider that always shows tasks from primary subproviders and falls back to a secondary subprovider when no primary task exists for a process.
+// ---
+
 #include "chrome/browser/task_manager/providers/fallback_task_provider.h"
 
 #include <algorithm>

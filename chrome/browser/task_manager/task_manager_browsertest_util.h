@@ -8,6 +8,12 @@
 // up in the Task Manager." They are intended to abstract away the details of
 // the platform's TaskManager UI.
 
+// ---docerion
+// type: test
+// title: Task manager browser test utilities header
+// summary: Declares browser test helpers for waiting on task manager rows, showing columns and matching task titles by category.
+// ---
+
 #ifndef CHROME_BROWSER_TASK_MANAGER_TASK_MANAGER_BROWSERTEST_UTIL_H_
 #define CHROME_BROWSER_TASK_MANAGER_TASK_MANAGER_BROWSERTEST_UTIL_H_
 

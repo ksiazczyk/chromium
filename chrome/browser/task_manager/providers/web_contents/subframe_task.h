@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SubframeTask class declaration
+// summary: Declares SubframeTask, a renderer task representing processes hosting out-of-process iframes, linked to the task of its main frame.
+// ---
+
 #ifndef CHROME_BROWSER_TASK_MANAGER_PROVIDERS_WEB_CONTENTS_SUBFRAME_TASK_H_
 #define CHROME_BROWSER_TASK_MANAGER_PROVIDERS_WEB_CONTENTS_SUBFRAME_TASK_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thumbnail capture tracker implementation
+// summary: Implements ThumbnailCaptureTracker, running JPEG-finished and deletion callbacks as a thumbnail capture succeeds or fails.
+// ---
+
 #include "chrome/browser/thumbnail/cc/thumbnail_capture_tracker.h"
 
 #include "base/functional/callback.h"

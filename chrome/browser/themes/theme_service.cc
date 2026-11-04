@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme service implementation
+// summary: Implements the per-profile ThemeService that manages theme sources such as extensions, system theme, NTP backgrounds, and policy.
+// ---
+
 #include "chrome/browser/themes/theme_service.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thumbnail UI resource implementation
+// summary: Implements the Thumbnail class that wraps tab thumbnail bitmaps as UI resources, tracking scale, sizes and invalidation through a delegate.
+// ---
+
 #include "chrome/browser/thumbnail/cc/thumbnail.h"
 
 #include "base/check.h"

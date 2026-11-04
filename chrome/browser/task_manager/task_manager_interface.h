@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task manager interface header
+// summary: Defines the TaskManagerInterface that task manager implementations must provide, covering task activation, killing, and resource usage queries such as CPU, memory, and GPU stats.
+// ---
+
 #ifndef CHROME_BROWSER_TASK_MANAGER_TASK_MANAGER_INTERFACE_H_
 #define CHROME_BROWSER_TASK_MANAGER_TASK_MANAGER_INTERFACE_H_
 

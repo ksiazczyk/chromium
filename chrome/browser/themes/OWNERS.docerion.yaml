@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Themes directory owners
+summary: Lists code owners for the themes directory and delegates ownership of theme sync and local data uploader files to the sync team.

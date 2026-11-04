@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task manager interface implementation
+// summary: Implements the task manager interface, managing observers, refresh rates, resource flags and task manager preferences.
+// ---
+
 #include "chrome/browser/task_manager/task_manager_interface.h"
 
 #include "base/byte_size.h"

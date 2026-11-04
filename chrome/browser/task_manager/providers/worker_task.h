@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Worker task class declaration
+// summary: Declares WorkerTask, a Task subclass representing dedicated, shared, or service workers with their worker type and renderer process ID.
+// ---
+
 #ifndef CHROME_BROWSER_TASK_MANAGER_PROVIDERS_WORKER_TASK_H_
 #define CHROME_BROWSER_TASK_MANAGER_PROVIDERS_WORKER_TASK_H_
 

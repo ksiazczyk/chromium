@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser process task implementation
+// summary: Implements the task manager task for the browser main process, including SQLite memory reporting and non-killable behavior.
+// ---
+
 #include "chrome/browser/task_manager/providers/browser_process_task.h"
 
 #include "base/byte_size.h"

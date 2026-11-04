@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test task manager implementation
+// summary: Implements TestTaskManager, a stub TaskManagerInterface returning default or empty resource values for use in task manager unit tests.
+// ---
+
 #include "chrome/browser/task_manager/test_task_manager.h"
 
 #include <optional>

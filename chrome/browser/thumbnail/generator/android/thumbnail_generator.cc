@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThumbnailGenerator native implementation
+// summary: Implements the JNI-backed ThumbnailGenerator that retrieves and scales image and video thumbnails for local files and returns them to Java.
+// ---
+
 #include "chrome/browser/thumbnail/generator/android/thumbnail_generator.h"
 
 #include <memory>

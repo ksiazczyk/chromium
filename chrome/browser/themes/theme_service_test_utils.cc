@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Theme service test utilities implementation
+// summary: Implements shared test helpers for theme service tests, building theme extensions and sync data or change lists from ThemeSpecifics protobufs.
+// ---
+
 #include "chrome/browser/themes/theme_service_test_utils.h"
 
 #include "base/containers/fixed_flat_map.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock web contents task manager header
+// summary: Declares a test-only task manager observer that collects web contents tasks and offers helpers for matching and filtering task titles.
+// ---
+
 #ifndef CHROME_BROWSER_TASK_MANAGER_MOCK_WEB_CONTENTS_TASK_MANAGER_H_
 #define CHROME_BROWSER_TASK_MANAGER_MOCK_WEB_CONTENTS_TASK_MANAGER_H_
 

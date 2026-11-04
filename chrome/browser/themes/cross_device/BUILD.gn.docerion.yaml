@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for cross-device theme tracker unit tests
+summary: GN build file that defines the unit_tests source_set for the cross-device theme tracker, selecting Android or desktop test sources per platform.

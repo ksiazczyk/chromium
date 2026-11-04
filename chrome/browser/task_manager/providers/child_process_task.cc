@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child process task implementation
+// summary: Implements tasks for browser child processes such as GPU, utility, and renderer processes, including V8 memory sampling.
+// ---
+
 #include "chrome/browser/task_manager/providers/child_process_task.h"
 
 #include <utility>

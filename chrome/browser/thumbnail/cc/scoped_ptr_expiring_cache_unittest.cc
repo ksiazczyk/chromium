@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedPtrExpiringCache unit tests
+// summary: Tests put, get, remove, clear and eviction behavior of the size-bounded pointer cache, including which entries are evicted first.
+// ---
+
 #include "chrome/browser/thumbnail/cc/scoped_ptr_expiring_cache.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TaskManagerImpl unit tests
+// summary: Unit tests for TaskManagerImpl that register fake tasks and verify task sorting, hierarchy and observer-based stats reporting.
+// ---
+
 #include "chrome/browser/task_manager/sampling/task_manager_impl.h"
 
 #include <string>

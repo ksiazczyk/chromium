@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser process task provider unit tests
+// summary: Unit tests for the browser process task provider covering task observation, URL request lookup, and task properties.
+// ---
+
 #include "base/byte_size.h"
 #include "base/memory/raw_ptr.h"
 #include "chrome/browser/task_manager/providers/browser_process_task_provider.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Thumbnail BUILD.gn build targets
+summary: Defines GN build groups for the thumbnail directory, aggregating generator and Android cc targets plus test and test support groups.

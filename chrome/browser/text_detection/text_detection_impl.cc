@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text detection implementation
+// summary: Implements the TextDetection Mojo service by queuing and dispatching bitmap detection requests to the ScreenAI OCR engine.
+// ---
+
 #include "chrome/browser/text_detection/text_detection_impl.h"
 
 #include <cmath>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskManager interface for launching Chrome's task manager
+// summary: Java interface in Chrome's Android task manager package that reports whether the task manager feature is enabled and provides a method to launch it.
+// ---
+
 package org.chromium.chrome.browser.task_manager;
 
 import android.content.Context;

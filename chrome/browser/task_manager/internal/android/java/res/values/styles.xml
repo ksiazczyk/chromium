@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Task Manager header column style
+summary: Defines the TaskManagerHeaderColumn style used for task header columns, referencing task header dimensions and text appearance resources.
+-->
+
 <resources>
     <style name="TaskManagerHeaderColumn">
         <item name="android:layout_width">0dp</item>

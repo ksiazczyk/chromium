@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Thumbnail directory bug tracker metadata
+summary: Maps the thumbnail directory to its Monorail component UI>Browser>Thumbnail and a public Buganizer component ID.

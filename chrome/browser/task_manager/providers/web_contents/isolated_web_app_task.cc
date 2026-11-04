@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IsolatedWebAppTask implementation
+// summary: Implements the task manager representation for Isolated Web Apps, prefixing titles with the app prefix and falling back to the app name when the page title is empty.
+// ---
+
 #include "chrome/browser/task_manager/providers/web_contents/isolated_web_app_task.h"
 
 #include <string>

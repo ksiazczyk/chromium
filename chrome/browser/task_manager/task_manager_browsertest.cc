@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Task manager browser tests
+// summary: Contains browser tests covering task manager behavior for tabs, extensions, apps, prerendering, back-forward cache and other web contents task types.
+// ---
+
 #include <stddef.h>
 
 #include <string_view>

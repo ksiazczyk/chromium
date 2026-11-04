@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Text detection build targets
+summary: Defines GN source sets for the text detection implementation and its unit and browser test targets with their dependencies.

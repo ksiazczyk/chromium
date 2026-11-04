@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThemeServiceObserver interface
+// summary: Declares ThemeServiceObserver, the observer interface whose OnThemeChanged callback fires when the user changes the browser theme.
+// ---
+
 #ifndef CHROME_BROWSER_THEMES_THEME_SERVICE_OBSERVER_H_
 #define CHROME_BROWSER_THEMES_THEME_SERVICE_OBSERVER_H_
 

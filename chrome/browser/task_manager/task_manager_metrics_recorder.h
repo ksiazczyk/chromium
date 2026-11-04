@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task manager metrics recorder header
+// summary: Declares task manager histogram names, the StartAction and CategoryRecord enums, and functions for recording open, close, tab switch, and end process metrics.
+// ---
+
 #ifndef CHROME_BROWSER_TASK_MANAGER_TASK_MANAGER_METRICS_RECORDER_H_
 #define CHROME_BROWSER_TASK_MANAGER_TASK_MANAGER_METRICS_RECORDER_H_
 

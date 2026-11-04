@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Noop thumbnail media parser header
+// summary: Declares the empty ThumbnailMediaParser implementation used when the ENABLE_FFMPEG build flag is false.
+// ---
+
 #ifndef CHROME_BROWSER_THUMBNAIL_GENERATOR_ANDROID_NOOP_THUMBNAIL_MEDIA_PARSER_H_
 #define CHROME_BROWSER_THUMBNAIL_GENERATOR_ANDROID_NOOP_THUMBNAIL_MEDIA_PARSER_H_
 

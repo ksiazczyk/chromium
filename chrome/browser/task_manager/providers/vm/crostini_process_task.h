@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini process task header
+// summary: Declares the CrostiniProcessTask class, a VmProcessTask subclass representing Crostini VM processes in the task manager with Kill and GetType overrides.
+// ---
+
 #ifndef CHROME_BROWSER_TASK_MANAGER_PROVIDERS_VM_CROSTINI_PROCESS_TASK_H_
 #define CHROME_BROWSER_TASK_MANAGER_PROVIDERS_VM_CROSTINI_PROCESS_TASK_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme service utility functions header
+// summary: Declares theme preference helpers and conversions between ui::mojom and sync protobuf enums for browser color variant and scheme.
+// ---
+
 #ifndef CHROME_BROWSER_THEMES_THEME_SERVICE_UTILS_H_
 #define CHROME_BROWSER_THEMES_THEME_SERVICE_UTILS_H_
 

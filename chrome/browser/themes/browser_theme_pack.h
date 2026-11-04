@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserThemePack class declaration
+// summary: Declares BrowserThemePack, an optimized immutable theme representation backed by a mmapped DataPack, with APIs to build from an extension or from disk.
+// ---
+
 #ifndef CHROME_BROWSER_THEMES_BROWSER_THEME_PACK_H_
 #define CHROME_BROWSER_THEMES_BROWSER_THEME_PACK_H_
 

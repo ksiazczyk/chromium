@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrerenderTask implementation for Prerender2 task manager entries
+// summary: Implements PrerenderTask, a task manager entry for a Prerender2 rule that shows the prerendered frame's URL under a localized prerender title prefix.
+// ---
+
 #include "chrome/browser/task_manager/providers/web_contents/prerender_task.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subframe task implementation for out-of-process iframes
+// summary: Implements SubframeTask, which represents out-of-process iframe processes in the task manager and builds their titles from the SiteInstance URL identity, including PDF and incognito variants.
+// ---
+
 #include "chrome/browser/task_manager/providers/web_contents/subframe_task.h"
 
 #include <string>

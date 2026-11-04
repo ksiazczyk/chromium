@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the Android task manager
+summary: OWNERS file that delegates review ownership to the OWNERS file of chrome/browser/task_manager/android.

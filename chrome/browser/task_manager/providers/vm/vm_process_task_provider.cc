@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VM process task provider implementation
+// summary: Implements the task provider that periodically snapshots processes, queries the concierge for running VMs, and maintains task manager entries for crosvm VM processes.
+// ---
+
 #include "chrome/browser/task_manager/providers/vm/vm_process_task_provider.h"
 
 #include "base/base64.h"

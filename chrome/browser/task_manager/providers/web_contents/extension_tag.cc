@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension tag implementation
+// summary: Implements ExtensionTag, which resolves the extension for a WebContents via the process manager and creates a matching ExtensionTask.
+// ---
+
 #include "chrome/browser/task_manager/providers/web_contents/extension_tag.h"
 
 #include <memory>

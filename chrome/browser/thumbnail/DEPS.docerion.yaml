@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Thumbnail directory include rules
+summary: Lists the allowed include dependencies for code in the thumbnail directory, covering base, cc, content, skia, ui and other components.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrerenderNewTabTask implementation for task manager prerender entries
+// summary: Implements PrerenderNewTabTask, which lists prerendered new-tab WebContents in the task manager with a prerender icon and a localized title prefix.
+// ---
+
 #include "chrome/browser/task_manager/providers/web_contents/prerender_new_tab_task.h"
 
 #include "chrome/grit/generated_resources.h"

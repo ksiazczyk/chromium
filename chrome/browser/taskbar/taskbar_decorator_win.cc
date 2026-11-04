@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows taskbar decorator implementation
+// summary: Implements taskbar decorations for Windows by rendering profile avatars and badge text into overlay icons and applying them via the ITaskbarList3 API on a worker thread.
+// ---
+
 #include "chrome/browser/taskbar/taskbar_decorator_win.h"
 
 #include <objbase.h>
