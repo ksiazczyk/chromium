@@ -1,0 +1,4 @@
+# Docerion header of image.html.
+type: source
+title: Simple image display frame
+summary: Minimal HTML page that displays a single image inside an untrusted New Tab Page frame.

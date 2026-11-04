@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox Everywhere module exports
+// summary: Entry module that re-exports the Omnibox Everywhere app element, component elements and browser proxies for the WebUI.
+// ---
+
 import './app.js';
 
 export {ComposeboxProxyImpl} from '//resources/cr_components/composebox/composebox_proxy.js';

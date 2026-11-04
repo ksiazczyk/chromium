@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit cr-icons-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Customize buttons styles
+summary: CSS for the ntp-customize-buttons element, styling the customize and wallpaper search buttons with theming variables, responsive breakpoints, and animations.
+*/
+
 #customizeButtons {
   display: flex;
   flex-wrap: wrap;

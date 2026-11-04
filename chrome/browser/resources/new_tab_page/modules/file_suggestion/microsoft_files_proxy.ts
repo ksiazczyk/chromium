@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Microsoft files proxy
+// summary: Singleton proxy exposing the Microsoft files Mojo page handler for the new tab page Microsoft files module.
+// ---
+
 import type {MicrosoftFilesPageHandlerRemote} from '../../microsoft_files.mojom-webui.js';
 import {MicrosoftFilesPageHandler} from '../../microsoft_files.mojom-webui.js';
 

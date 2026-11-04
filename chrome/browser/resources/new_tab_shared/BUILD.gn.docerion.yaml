@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for new_tab_shared WebUI resources
+summary: GN build configuration that compiles the new_tab_shared WebUI TypeScript and CSS files into a trusted WebUI target with Lit and cr_elements dependencies.

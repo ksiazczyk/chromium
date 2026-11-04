@@ -9,6 +9,12 @@
  * #include=cr-hidden-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Modules container styles
+summary: Defines the flex layout for the NTP modules container and the undo toast message styling.
+*/
+
 #container {
   display: flex;
   flex-flow: row wrap;

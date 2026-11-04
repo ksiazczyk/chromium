@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image transparency checker
+// summary: Utility that inspects PNG, BMP, and WebP file bytes to make a best-effort guess whether an image has transparency.
+// ---
+
 /**
  * Utility which gives a best effort guess on whether a supplied image file's
  * bytes represent an image with transparency.

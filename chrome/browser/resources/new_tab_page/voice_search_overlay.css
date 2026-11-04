@@ -9,6 +9,12 @@
  * #include=cr-icons-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Voice search overlay styles
+summary: Styles the New Tab Page voice search overlay, including the mic button, volume animation, and text transitions.
+*/
+
 :host {
   --receiving-audio-color: var(--google-red-500);
   --speak-shown-duration: 2s;

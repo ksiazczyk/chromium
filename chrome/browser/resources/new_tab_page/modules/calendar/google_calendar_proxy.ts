@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Calendar proxy singleton
+// summary: Provides a singleton proxy wrapping the Google Calendar Mojo page handler for the New Tab Page calendar module.
+// ---
+
 import type {GoogleCalendarPageHandlerRemote} from '../../google_calendar.mojom-webui.js';
 import {GoogleCalendarPageHandler} from '../../google_calendar.mojom-webui.js';
 

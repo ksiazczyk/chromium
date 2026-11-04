@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Dummy module styles
+summary: Lit CSS defining the dummy NTP module's layout, tile sizes, and image styling for narrow and default formats.
+*/
+
 :host {
   height: 100%;
   width: 100%;

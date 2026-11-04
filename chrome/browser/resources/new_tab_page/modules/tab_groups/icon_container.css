@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Icon container styles
+summary: Styles the favicon icon container of the tab groups module, defining the grid cells, corner radii, and overflow count appearance.
+*/
+
 :host {
   --icon-container-size: 56px;
   --icon-size: 16px;

@@ -10,6 +10,12 @@
  * #include=cr-icons-lit cr-spinner-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Lens upload dialog styles
+summary: Lit CSS styles for the Lens upload dialog, covering light and dark themes, the drag-and-drop area, input box, and error states.
+*/
+
 :host {
   --upload-dialog-background: var(--color-new-tab-page-background-override);
   --upload-dialog-divider-line-border-top: 1px solid var(--google-grey-200);

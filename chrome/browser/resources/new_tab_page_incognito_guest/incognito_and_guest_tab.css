@@ -4,6 +4,12 @@
  *
  * Incognito and guest mode NTP shared CSS. */
 
+/*docerion
+type: source
+title: Shared incognito and guest tab styles
+summary: Shared stylesheet for the incognito and guest mode new tab pages, including dark mode and responsive layout rules.
+*/
+
  body {
   -webkit-font-smoothing: antialiased;
   font-size: 85%;

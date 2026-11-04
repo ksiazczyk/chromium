@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM query utilities
+// summary: Helper functions for querying elements in shadow roots and performing strict, type-checked element lookups.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 

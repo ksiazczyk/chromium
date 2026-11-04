@@ -1,0 +1,4 @@
+# Docerion header of calendar.gni.
+type: config
+title: Build file lists for the calendar module
+summary: GN import that lists the calendar web components, TypeScript files and CSS files to be processed by html_to_wrapper in the build.

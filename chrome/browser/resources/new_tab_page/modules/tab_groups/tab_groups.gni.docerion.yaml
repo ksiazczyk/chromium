@@ -1,0 +1,4 @@
+# Docerion header of tab_groups.gni.
+type: config
+title: Tab groups build file lists
+summary: GN import listing the TypeScript, web component, and CSS files of the tab groups module for the html_to_wrapper build step.

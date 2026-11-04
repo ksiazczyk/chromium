@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: First-run experience modal styles
+summary: Styles the fre-modal card with Chrome logo, feature list items, close button and platform illustrations.
+*/
+
 :host {
   /* Preserves 2px border width parity with omnibox-everywhere-omnibox and
    * composebox. */

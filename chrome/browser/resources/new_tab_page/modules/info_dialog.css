@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Info dialog styles
+summary: Stylesheet that lays out and styles the new tab page module info dialog.
+*/
+
 cr-dialog::part(dialog) {
   max-width: 100%;
   position: fixed;

@@ -1,0 +1,4 @@
+# Docerion header of new_tab_page_third_party.html.
+type: source
+title: Third-party new tab page HTML shell
+summary: HTML shell for the third-party new tab page that defines background and theme styling and hosts the cr-most-visited element.

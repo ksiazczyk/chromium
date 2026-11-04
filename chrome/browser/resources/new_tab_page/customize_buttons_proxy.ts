@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo proxy for customize buttons
+// summary: Singleton that holds the Mojo handler and callback router for customize buttons communication with the browser.
+// ---
+
 import {CustomizeButtonsDocumentCallbackRouter, CustomizeButtonsHandlerFactory, CustomizeButtonsHandlerRemote} from './customize_buttons.mojom-webui.js';
 
 let instance: CustomizeButtonsProxy|null = null;

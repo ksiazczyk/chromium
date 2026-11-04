@@ -9,6 +9,12 @@
  *  NewTabPageBindings::GetObjectTemplateBuilder()
  */
 
+// ---docerion
+// type: source
+// title: Type definitions for the chrome.embeddedSearch.newTabPage API
+// summary: TypeScript declarations for the embedded search new tab page API, covering most visited item data and NTP theme information.
+// ---
+
 declare namespace chrome {
   export namespace embeddedSearch {
     export namespace newTabPage {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New Tab Page modules container element
+// summary: Implements the ntp-modules Lit element that lays out modules by width, handles disabling, dismissal and undo actions, and records metrics.
+// ---
+
 import 'chrome://resources/cr_elements/cr_toast/cr_toast.js';
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import './module_wrapper.js';

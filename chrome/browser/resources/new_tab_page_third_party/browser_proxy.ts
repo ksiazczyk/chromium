@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserProxy singleton for Mojo page handler access
+// summary: Provides a singleton BrowserProxy that sets up the Mojo connection between the WebUI and the browser's page handler.
+// ---
+
 import {PageCallbackRouter, PageHandlerFactory, PageHandlerRemote} from './new_tab_page_third_party.mojom-webui.js';
 
 export class BrowserProxy {

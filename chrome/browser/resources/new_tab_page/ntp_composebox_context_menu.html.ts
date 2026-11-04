@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP composebox context menu template
+// summary: Lit HTML template for the New Tab Page composebox context menu, wiring tab context, uploads, model and tool clicks.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {NtpComposeboxElement} from './ntp_composebox.js';

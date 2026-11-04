@@ -9,6 +9,12 @@
  * #include=cr-icons-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Module header styles
+summary: Stylesheet for the module header element covering the title row, menu button and action menu.
+*/
+
 :host {
   --menu-item-margin: 12px;
   display: flex;

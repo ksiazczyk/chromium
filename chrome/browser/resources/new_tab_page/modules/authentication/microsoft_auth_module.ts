@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Microsoft authentication module element
+// summary: Lit element implementing the New Tab Page Microsoft authentication module, which starts Microsoft account sign-in and records auth metrics.
+// ---
+
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import '../module_header.js';
 

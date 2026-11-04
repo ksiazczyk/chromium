@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit cr-icons-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Tab groups module styles
+summary: Styles the tab groups module, covering group list rows, color dots, the zero-state layout, and the create group button.
+*/
+
 :host {
   height: 100%;
   width: 100%;

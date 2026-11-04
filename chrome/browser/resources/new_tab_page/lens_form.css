@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Lens form styles
+summary: Lit CSS styles for the ntp-lens-form element, hiding its host by default.
+*/
+
 :host {
   display: none;
 }

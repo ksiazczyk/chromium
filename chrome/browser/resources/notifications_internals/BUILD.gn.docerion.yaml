@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the notifications internals WebUI
+summary: Defines the WebUI build target for the notifications internals page, listing its HTML and TypeScript sources and Mojo dependencies for Android.

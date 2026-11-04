@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Outlook Calendar module element
+// summary: Defines the Outlook Calendar module web component and descriptor that shows upcoming Outlook events on the New Tab Page.
+// ---
+
 import './calendar.js';
 import '../info_dialog.js';
 import '../module_header.js';

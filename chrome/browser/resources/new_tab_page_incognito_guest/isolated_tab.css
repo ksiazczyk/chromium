@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Isolated tab page styles
+summary: Stylesheet for the isolated tab page defining the info box grid, visibility notice and responsive layout.
+*/
+
 :root {
   /* Meaningful constants for repeated values */
   --desktop-sys-surface-colors-surface-1: rgb(248, 250, 253);

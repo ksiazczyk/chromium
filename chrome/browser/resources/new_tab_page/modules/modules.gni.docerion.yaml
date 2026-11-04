@@ -1,0 +1,4 @@
+# Docerion header of modules.gni.
+type: config
+title: GN file lists for New Tab Page modules
+summary: GN import that aggregates TypeScript, web component and CSS file lists for the NTP modules and their submodules for the build.

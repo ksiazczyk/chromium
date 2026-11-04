@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Main new tab page WebUI app element
+// summary: Implements the top-level new tab page element, handling theme, searchbox, composebox, modules and metrics recording.
+// ---
+
 import './logo.js';
 import './ntp_composebox.js';
 import './ntp_searchbox.js';

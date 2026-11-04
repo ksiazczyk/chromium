@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window proxy for testable browser APIs
+// summary: Singleton wrapper around window APIs such as navigation, timers, postMessage and matchMedia, designed so tests can mock browser interactions.
+// ---
+
 let instance: WindowProxy|null = null;
 
 /** Abstracts some builtin JS functions to mock them in tests. */

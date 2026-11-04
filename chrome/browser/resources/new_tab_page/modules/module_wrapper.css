@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Module wrapper element styles
+summary: Styles the common NTP module wrapper, including background, border radius and the impression probe used for visibility tracking.
+*/
+
 :host {
   background-color: var(--color-new-tab-page-module-background);
   border: none;

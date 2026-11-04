@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Type declarations for the global MSAL namespace
+// summary: TypeScript declaration file that types the global msal namespace provided by the bundled MSAL browser library.
+// ---
+
 import type {PublicClientApplication as MsalPublicClientApplication} from '@azure/msal-browser/lib/app/PublicClientApplication.d.ts';
 import type {Configuration as MsalConfiguration} from '@azure/msal-browser/lib/config/Configuration.d.ts';
 import type {PopupRequest as MsalPopupRequest} from '@azure/msal-browser/lib/request/PopupRequest.d.ts';

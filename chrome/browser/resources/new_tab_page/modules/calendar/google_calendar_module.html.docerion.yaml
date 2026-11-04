@@ -1,0 +1,4 @@
+# Docerion header of google_calendar_module.html.
+type: source
+title: Google Calendar module template
+summary: Lit HTML template for the Google Calendar new tab module with its module header, calendar view and info dialog.

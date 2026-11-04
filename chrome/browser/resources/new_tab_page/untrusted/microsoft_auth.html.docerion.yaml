@@ -1,0 +1,4 @@
+# Docerion header of microsoft_auth.html.
+type: source
+title: Microsoft authentication frame document
+summary: HTML document that loads the Microsoft authentication module for the New Tab Page untrusted frame.

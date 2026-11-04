@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: File suggestion styles
+summary: CSS styles for the shared file suggestion component, covering file rows, hover layers, see-more link, and forced colors mode.
+*/
+
 @media (forced-colors: active) {
   /* Set outline since background isn't visible in hcm */
   a {

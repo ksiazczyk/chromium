@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composebox Lit HTML template
+// summary: Lit HTML template for the new tab page composebox, covering voice search animation, file carousel, tool chips, and input area.
+// ---
+
 import {ToolMode} from '//resources/cr_components/composebox/composebox_query.mojom-webui.js';
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 

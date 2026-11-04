@@ -10,6 +10,12 @@
  * @fileoverview Rendering for iframed most visited titles.
  */
 
+// ---docerion
+// type: source
+// title: Rendering for iframed most visited titles
+// summary: TypeScript logic that renders most visited tile titles in the iframe, applying theme colors, styles and link parameters from the URL.
+// ---
+
 /**
  * The origin of this request.
  */

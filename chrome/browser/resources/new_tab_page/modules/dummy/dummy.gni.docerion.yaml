@@ -1,0 +1,4 @@
+# Docerion header of dummy.gni.
+type: config
+title: Dummy module build file lists
+summary: GN import file listing the dummy NTP module's TypeScript, web component, and CSS files for the html_to_wrapper build step.

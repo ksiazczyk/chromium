@@ -1,0 +1,4 @@
+# Docerion header of icons.html.
+type: asset
+title: Tab groups icon set
+summary: Defines the cr-iconset SVG symbols used by the tab groups module, including create group, group, library add, and shared group icons.

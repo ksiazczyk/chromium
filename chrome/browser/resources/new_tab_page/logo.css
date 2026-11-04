@@ -9,6 +9,12 @@
  * #include=cr-hidden-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Logo element styles
+summary: Lit CSS styles for the NTP logo and doodle, including Google logo variants, doodle boxing, and the share button placement.
+*/
+
 :host {
   --ntp-logo-height: 168px;
   display: flex;

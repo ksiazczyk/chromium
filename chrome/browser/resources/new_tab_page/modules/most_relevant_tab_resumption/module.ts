@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Most relevant tab resumption module element
+// summary: Lit element implementing the New Tab Page's most relevant tab resumption module, rendering URL visits and recording usage metrics.
+// ---
+
 import './icons.html.js';
 import 'chrome://resources/cr_elements/cr_icon/cr_icon.js';
 import 'chrome://resources/cr_elements/cr_icon_button/cr_icon_button.js';

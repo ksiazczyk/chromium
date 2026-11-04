@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML template for the individual promos element
+// summary: Lit HTML template that renders the promo button with body icon, text, action chevron and a dismiss action menu.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {IndividualPromosElement} from './individual_promos.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Third-party new tab page theme initialization
+// summary: Main module that listens for theme updates from the browser and applies background, text color, and most-visited theming to the page.
+// ---
+
 import 'chrome://resources/cr_components/most_visited/most_visited.js';
 
 import {assert} from 'chrome://resources/js/assert.js';

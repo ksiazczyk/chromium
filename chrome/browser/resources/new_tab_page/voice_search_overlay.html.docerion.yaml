@@ -1,0 +1,4 @@
+# Docerion header of voice_search_overlay.html.
+type: source
+title: Voice search overlay template
+summary: HTML template for the new tab page voice search overlay dialog, covering waiting, listening, result and error states with microphone volume animation and help links.

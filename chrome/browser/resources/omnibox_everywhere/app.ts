@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App element for Omnibox Everywhere
+// summary: Lit element that switches between composebox and omnibox modes and manages most-visited tiles, FRE flows and voice search.
+// ---
+
 import './omnibox.js';
 import './composebox.js';
 import './fre_modal.js';

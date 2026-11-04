@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+/*docerion
+type: source
+title: NTP shared CSS variables
+summary: Defines shared CSS custom properties for colors and module styling used across the New Tab Page.
+*/
+
 /* TODO(aee): this file should probably be turned into a module that imports
  * 'ui/webui/resources/shared_vars_css.m.js'.
  */

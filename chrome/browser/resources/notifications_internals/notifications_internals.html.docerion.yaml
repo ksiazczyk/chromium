@@ -1,0 +1,4 @@
+# Docerion header of notifications_internals.html.
+type: source
+title: Notifications Internals WebUI page
+summary: HTML page with a schedule button for each notification type, such as Enhanced Safe Browsing, Quick Delete, and Recent Tabs, loading the page script as a module.

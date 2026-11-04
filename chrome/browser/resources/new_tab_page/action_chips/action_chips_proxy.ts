@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Action chips API proxy
+// summary: Mojo proxy that creates and exposes the browser-side action chips handler and page callback router as a singleton for the new tab page.
+// ---
+
 import type {ActionChipsHandlerInterface} from '../action_chips.mojom-webui.js';
 import {ActionChipsHandlerFactory, ActionChipsHandlerRemote, PageCallbackRouter} from '../action_chips.mojom-webui.js';
 

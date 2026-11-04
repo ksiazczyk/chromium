@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Icon container element
+// summary: Lit element ntp-icon-container that shows up to four tab favicons in a grid plus an overflow count for additional tabs.
+// ---
+
 import 'chrome://resources/cr_elements/cr_auto_img/cr_auto_img.js';
 
 import {CrLitElement} from 'chrome://resources/lit/v3_0/lit.rollup.js';

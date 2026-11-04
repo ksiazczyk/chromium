@@ -1,0 +1,4 @@
+# Docerion header of module_wrapper.html.
+type: source
+title: Module wrapper element template
+summary: HTML template for the module wrapper that renders the impression probe and a slotted container for the module's UI element.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP searchbox element
+// summary: Implements the New Tab Page searchbox element that behaves like the Omnibox, handling context, uploads, and metrics.
+// ---
+
 import '//resources/cr_components/composebox/composebox_file_inputs.js';
 import '//resources/cr_components/composebox/contextual_entrypoint_and_menu.js';
 import '//resources/cr_components/searchbox/searchbox_compose_button.js';

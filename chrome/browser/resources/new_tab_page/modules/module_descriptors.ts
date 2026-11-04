@@ -6,6 +6,12 @@
  * @fileoverview Registers all NTP modules given their respective descriptors.
  */
 
+// ---docerion
+// type: source
+// title: Registered NTP module descriptors
+// summary: Registers all new tab page module descriptors and runs counterfactual module loading for HaTS survey control groups.
+// ---
+
 import {loadTimeData} from '../i18n_setup.js';
 import {NewTabPageProxy} from '../new_tab_page_proxy.js';
 

@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Calendar element styles
+summary: Lit CSS for the new tab page calendar element, styling event rows, dividers, the see-more link and forced-colors mode.
+*/
+
 :host {
   --calendar-event-group-gutter-size: 8px;
   display: block;

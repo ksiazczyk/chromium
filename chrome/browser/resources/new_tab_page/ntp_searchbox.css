@@ -10,6 +10,12 @@
  * #include=cr-icons-lit composebox-shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: NTP searchbox styles
+summary: Styles the New Tab Page searchbox, covering sizing, shadow and theming variants, dropdown layout, and forced colors.
+*/
+
 :host {
   /* --ntp-search-box-width is defined by ntp-app (app.css) and varies with
    * its container queries, so it's read here directly. */

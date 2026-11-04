@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive module element
+// summary: Lit element implementing the new tab page Drive module with disable and info menu actions, plus its module descriptor.
+// ---
+
 import '../info_dialog.js';
 import '../module_header.js';
 import './file_suggestion.js';

@@ -1,0 +1,4 @@
+# Docerion header of authentication.gni.
+type: config
+title: Authentication module build file lists
+summary: GN build list naming the Microsoft authentication module's TypeScript and CSS files for the New Tab Page html_to_wrapper step.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: One Google Bar API factory for dark mode and task queueing
+// summary: Factory that wraps the gbar API for the One Google Bar, exposing dark mode and background color calls and queueing tasks until the bar is ready to accept them.
+// ---
+
 interface Bar {
   setDarkMode(matches: boolean): void;
   setBackgroundColor(bgColor: string): void;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New tab page Mojo proxy
+// summary: Singleton that holds the Mojo handler and callback router for communication between the new tab page and the browser process.
+// ---
+
 import {PageCallbackRouter, PageHandlerFactory, PageHandlerRemote} from './new_tab_page.mojom-webui.js';
 
 let instance: NewTabPageProxy|null = null;

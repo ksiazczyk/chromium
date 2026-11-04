@@ -1,0 +1,4 @@
+# Docerion header of module.html.
+type: source
+title: Dummy module HTML template
+summary: Lit HTML template rendering the dummy module's header with menu items and a two-column grid of image tiles.

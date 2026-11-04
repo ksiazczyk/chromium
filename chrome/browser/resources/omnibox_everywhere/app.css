@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the Omnibox Everywhere app element
+summary: Lit CSS defining layout, sizing variables, most-visited tiles and the voice search dialog styling for the app element.
+*/
+
 :host {
   --loomnibox-content-width: 680px;
   --most-visited-container-inset: 0px;

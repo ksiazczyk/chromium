@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared calendar utilities
+// summary: Shared helpers for the calendar modules, defining the CalendarAction metrics enum and converting Mojo times to JavaScript timestamps.
+// ---
+
 import type {Time} from 'chrome://resources/mojo/mojo/public/mojom/base/time.mojom-webui.js';
 
 import {recordEnumeration} from '../../metrics_utils.js';

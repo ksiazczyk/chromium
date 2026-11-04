@@ -1,0 +1,4 @@
+# Docerion header of module_header.html.
+type: source
+title: Module header template
+summary: HTML template for the module header with a title, action menu items and a customize entry.

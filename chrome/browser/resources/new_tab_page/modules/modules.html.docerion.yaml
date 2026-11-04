@@ -1,0 +1,4 @@
+# Docerion header of modules.html.
+type: source
+title: Modules container template
+summary: HTML template for the ntp-modules element that renders module wrappers with disable and dismiss handlers plus an undo toast.

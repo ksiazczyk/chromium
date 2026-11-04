@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: COMMON_METADATA for new_tab_shared
+summary: Declares the shared Buganizer component ID used for issue tracking in the new_tab_shared directory.

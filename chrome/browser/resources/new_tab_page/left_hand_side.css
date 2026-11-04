@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Left hand side element styles
+summary: Lit CSS styles for the cr-left-hand-side element, setting block display and full height for its folded and expanded views.
+*/
+
 :host {
   display: block;
   height: 100%;

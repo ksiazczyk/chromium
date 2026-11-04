@@ -1,0 +1,4 @@
+# Docerion header of guest_tab.html.
+type: source
+title: Guest tab page markup
+summary: HTML template for the guest mode new tab page showing a heading, description and a learn more link.

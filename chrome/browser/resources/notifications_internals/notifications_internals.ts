@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TypeScript logic for the notifications internals page
+// summary: Connects each schedule button to the Mojo page handler so clicks trigger scheduling of the corresponding notification type.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import {getRequiredElement} from 'chrome://resources/js/util.js';
 

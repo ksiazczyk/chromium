@@ -10,6 +10,12 @@
  * elements (either not visible by default or not as performance critical).
  */
 
+// ---docerion
+// type: source
+// title: Deferred imports for non-core new tab page elements
+// summary: Groups deliberately deferred imports and re-exports of non-core new tab page modules to speed up initial rendering of core page elements.
+// ---
+
 import './action_chips/action_chips.js';
 import './action_chips/action_chips_proxy.js';
 import './iframe.js';

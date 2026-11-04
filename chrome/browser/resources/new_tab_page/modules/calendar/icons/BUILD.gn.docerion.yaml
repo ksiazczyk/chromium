@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for calendar module icons
+summary: GN build rule that generates a .grdp resource bundle from the calendar module's attachment and location SVG icons.

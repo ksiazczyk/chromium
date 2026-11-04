@@ -1,0 +1,4 @@
+# Docerion header of new_tab_page.html.
+type: source
+title: New tab page HTML entry point
+summary: Main HTML document of the Chrome new tab page WebUI, hosting the background image iframe and the ntp-app element.

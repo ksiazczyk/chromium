@@ -9,6 +9,12 @@
  * things tests need.
  */
 
+// ---docerion
+// type: source
+// title: Re-exports for new tab page tests
+// summary: Re-exports symbols from new tab page modules so browser tests can import them after JS rollup flattening.
+// ---
+
 export {GlifAnimationState} from '//resources/cr_components/composebox/common.js';
 export {CustomizeButtonsElement} from 'chrome://new-tab-page/shared/customize_buttons/customize_buttons.js';
 export {PlaceholderTextCycler} from 'chrome://resources/cr_components/searchbox/placeholder_text_cycler.js';

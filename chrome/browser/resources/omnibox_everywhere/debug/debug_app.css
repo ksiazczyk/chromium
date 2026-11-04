@@ -7,6 +7,12 @@
  * #scheme=chrome
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Debug app styles
+summary: Lit CSS styles for the Omnibox Everywhere debug app, covering toggles, buttons and status messages.
+*/
+
 :host {
   display: block;
   font-family: Roboto, Arial, sans-serif;

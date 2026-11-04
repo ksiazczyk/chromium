@@ -1,0 +1,4 @@
+# Docerion header of background_image.html.
+type: source
+title: Background image frame for the New Tab Page
+summary: HTML page shown in an untrusted frame that displays the New Tab Page background image with an optional gradient scrim and fade-in.

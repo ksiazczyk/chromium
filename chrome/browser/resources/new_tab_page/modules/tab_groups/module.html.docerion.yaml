@@ -1,0 +1,4 @@
+# Docerion header of module.html.
+type: source
+title: Tab groups module template
+summary: Lit template rendering the module header, zero-state view, tab group list with favicons, create group buttons, and info dialog.

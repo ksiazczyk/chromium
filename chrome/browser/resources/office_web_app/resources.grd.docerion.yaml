@@ -1,0 +1,4 @@
+# Docerion header of resources.grd.
+type: config
+title: Office Web App GRIT resource definition (resources.grd)
+summary: GRIT XML file that defines generated headers and pak output for Office Web App resources and includes the ChromeOS office icon PNG.

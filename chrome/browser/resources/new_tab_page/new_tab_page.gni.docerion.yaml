@@ -1,0 +1,4 @@
+# Docerion header of new_tab_page.gni.
+type: config
+title: New tab page build file lists
+summary: GN import that lists the TypeScript, web component, and CSS files used to build the new tab page WebUI.

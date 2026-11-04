@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: First-run experience modal template
+// summary: Lit HTML template for the fre-modal element, showing the Chrome logo, feature list and Mac or Windows taskbar illustrations.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {FreModalElement} from './fre_modal.js';

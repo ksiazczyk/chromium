@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dummy NTP module web component
+// summary: Defines the ntp-dummy-module Lit element and its ModuleDescriptor, serving as an example for building NTP modules.
+// ---
+
 import 'chrome://resources/cr_elements/cr_grid/cr_grid.js';
 import 'chrome://resources/cr_elements/cr_auto_img/cr_auto_img.js';
 import '/strings.m.js';

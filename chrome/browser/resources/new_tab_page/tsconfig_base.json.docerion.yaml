@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_base.json.
+type: config
+title: TypeScript base configuration
+summary: Base TypeScript compiler configuration for the New Tab Page, extending the shared Lit tsconfig with speech types.

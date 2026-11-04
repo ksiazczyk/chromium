@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Incognito tab theme styles
+summary: Theme stylesheet applying the themed background and attribution image to the incognito new tab page.
+*/
+
 html {
   background-attachment: fixed;
   background-color: $i18n{colorBackground};

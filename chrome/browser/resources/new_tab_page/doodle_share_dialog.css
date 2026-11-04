@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Doodle share dialog styles
+summary: Styles the doodle share dialog, covering its share buttons, URL input and copy button layout.
+*/
+
 #dialog::part(dialog) {
   max-width: 300px;
 }

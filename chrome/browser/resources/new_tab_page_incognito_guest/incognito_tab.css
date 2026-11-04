@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Incognito tab page styles
+summary: Stylesheet for the incognito new tab page covering typography, splash icon, cookie controls and responsive layout.
+*/
+
 body {
   -webkit-font-smoothing: antialiased;
   font-size: 100%;

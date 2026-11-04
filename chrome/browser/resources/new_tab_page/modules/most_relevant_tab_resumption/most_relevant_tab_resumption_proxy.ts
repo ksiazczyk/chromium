@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab resumption Mojo proxy
+// summary: Singleton proxy exposing the Mojo PageHandler remote for bidirectional page and browser communication.
+// ---
+
 import type {PageHandlerRemote} from '../../most_relevant_tab_resumption.mojom-webui.js';
 import {PageHandler} from '../../most_relevant_tab_resumption.mojom-webui.js';
 

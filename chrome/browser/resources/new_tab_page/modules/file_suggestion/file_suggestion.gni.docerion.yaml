@@ -1,0 +1,4 @@
+# Docerion header of file_suggestion.gni.
+type: config
+title: File suggestion build file lists
+summary: GN build lists grouping the file suggestion TypeScript, web component, and CSS files for html_to_wrapper processing.
