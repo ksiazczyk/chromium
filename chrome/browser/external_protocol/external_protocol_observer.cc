@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External protocol observer implementation
+// summary: Implements the WebContents observer that permits external protocol launches after user interactions, ignoring scroll gestures.
+// ---
+
 #include "chrome/browser/external_protocol/external_protocol_observer.h"
 
 #include "chrome/browser/external_protocol/external_protocol_handler.h"

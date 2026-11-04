@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: External protocol handler browser tests
+// summary: Browser tests covering external protocol launch behavior, including the local-only app protocol prefix feature and sandboxed iframe and fenced frame restrictions.
+// ---
+
 #include "chrome/browser/external_protocol/external_protocol_handler.h"
 
 #include "base/strings/utf_string_conversions.h"

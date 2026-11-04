@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto-launch protocols policy handler implementation
+// summary: Validates and applies the AutoLaunchProtocolsFromOrigins enterprise policy, checking protocol names and origin patterns before mapping valid entries to preferences.
+// ---
+
 #include "chrome/browser/external_protocol/auto_launch_protocols_policy_handler.h"
 
 #include <memory>

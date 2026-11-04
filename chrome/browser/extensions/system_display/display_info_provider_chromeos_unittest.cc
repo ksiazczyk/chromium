@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS display info provider unit tests
+// summary: Unit tests for the ChromeOS display info provider, exercising display properties, layout, zoom, unified desktop, and touch calibration against an Ash shell test environment.
+// ---
+
 #include "extensions/browser/api/system_display/display_info_provider.h"
 
 #include <stdint.h>

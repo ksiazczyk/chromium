@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionSyncServiceFactory implementation
+// summary: Implements the profile-keyed service factory that creates ExtensionSyncService instances and declares dependencies on extension prefs, registry and tracker factories.
+// ---
+
 #include "chrome/browser/extensions/sync/extension_sync_service_factory.h"
 
 #include "chrome/browser/extensions/chrome_extension_system_factory.h"

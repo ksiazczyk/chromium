@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac display info provider implementation
+// summary: Implements the macOS display info provider, whose platform display info update is currently not implemented, and provides the provider factory function.
+// ---
+
 #include "chrome/browser/extensions/system_display/display_info_provider_mac.h"
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation recorder implementation
+// summary: Records how long a user visits a feed card while the tab is foregrounded and reports the completed visit to the feed API.
+// ---
+
 #include <jni.h>
 
 #include "base/android/jni_android.h"

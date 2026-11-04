@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedSurfaceProvider interface
+// summary: Interface providing a surface that displays a list of interest feeds, covering restore state, thumbnail capture, reload, reliability logging and feed URLs.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import android.graphics.Canvas;

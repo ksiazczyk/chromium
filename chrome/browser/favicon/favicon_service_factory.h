@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaviconServiceFactory class declaration
+// summary: Declares the profile-keyed service factory that associates FaviconService instances with profiles and exposes access by service type.
+// ---
+
 #ifndef CHROME_BROWSER_FAVICON_FAVICON_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_FAVICON_FAVICON_SERVICE_FACTORY_H_
 

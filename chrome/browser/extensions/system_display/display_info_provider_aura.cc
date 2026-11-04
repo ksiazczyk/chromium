@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura DisplayInfoProvider implementation
+// summary: Implements the factory that returns a DisplayInfoProviderAura instance for aura-based platforms.
+// ---
+
 #include "chrome/browser/extensions/system_display/display_info_provider_aura.h"
 
 #include "chrome/browser/extensions/system_display/display_info_provider.h"

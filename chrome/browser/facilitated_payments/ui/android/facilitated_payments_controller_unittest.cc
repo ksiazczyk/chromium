@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Facilitated payments controller unit tests
+// summary: Unit tests for the facilitated payments controller using a mock bottom sheet bridge to verify prompt display, selections, and UI event handling.
+// ---
+
 #include "chrome/browser/facilitated_payments/ui/android/facilitated_payments_controller.h"
 
 #include <memory>

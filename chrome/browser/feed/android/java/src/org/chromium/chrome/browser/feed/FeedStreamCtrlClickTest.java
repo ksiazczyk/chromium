@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FeedStreamCtrlClickTest
+// summary: Robolectric unit tests covering the Ctrl+Click behavior of FeedStream, including how URLs are opened with different open dispositions.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import static org.mockito.ArgumentMatchers.any;

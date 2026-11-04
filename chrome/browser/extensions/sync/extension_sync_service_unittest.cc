@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExtensionSyncService unit tests
+// summary: Unit tests covering ExtensionSyncService behavior, including extension syncing, pending sync installs, themes and disable reasons across profiles.
+// ---
+
 #include "chrome/browser/extensions/sync/extension_sync_service.h"
 
 #include <stddef.h>

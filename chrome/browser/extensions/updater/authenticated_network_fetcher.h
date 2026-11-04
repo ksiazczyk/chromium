@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Authenticated network fetcher class declaration
+// summary: Declares AuthenticatedNetworkFetcher and its factory, which retry downloads on authentication errors by incrementing the authuser query parameter.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_UPDATER_AUTHENTICATED_NETWORK_FETCHER_H_
 #define CHROME_BROWSER_EXTENSIONS_UPDATER_AUTHENTICATED_NETWORK_FETCHER_H_
 

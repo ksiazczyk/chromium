@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Authenticated network fetcher implementation
+// summary: Implements a network fetcher wrapper that retries Google-domain file downloads with an incremented authuser parameter after HTTP 401 or 403 errors.
+// ---
+
 #include "chrome/browser/extensions/updater/authenticated_network_fetcher.h"
 
 #include <optional>

@@ -1,0 +1,4 @@
+# Docerion header of buildflags.gni.
+type: config
+title: Feed build flags
+summary: Declares GN build arguments for the feed directory; the argument block is currently empty.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed image fetch client JNI implementation
+// summary: Native JNI side of FeedImageFetchClient, forwarding image fetch and cancel requests from Java to the feed stream API.
+// ---
+
 #include <memory>
 #include "base/android/jni_android.h"
 #include "base/android/jni_array.h"

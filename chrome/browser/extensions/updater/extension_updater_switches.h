@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension updater command-line switch declarations
+// summary: Declares switches for test update requests and forcing a Chrome channel, plus the helper that resolves the channel for update queries.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_UPDATER_EXTENSION_UPDATER_SWITCHES_H_
 #define CHROME_BROWSER_EXTENSIONS_UPDATER_EXTENSION_UPDATER_SWITCHES_H_
 

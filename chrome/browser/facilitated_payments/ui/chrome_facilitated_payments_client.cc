@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome facilitated payments client implementation
+// summary: Implements the Chrome-side facilitated payments client, wiring tab-scoped drivers, risk data loading, payments data access, and Android-specific Pix account linking support.
+// ---
+
 #include "chrome/browser/facilitated_payments/ui/chrome_facilitated_payments_client.h"
 
 #include <memory>

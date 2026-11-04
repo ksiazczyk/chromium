@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedSurfaceRendererBridge JNI bridge
+// summary: Java bridge to the native feed SurfaceRenderer, providing shallow JNI bindings for stream updates, data store entries and surface actions like load more and refresh.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import androidx.annotation.VisibleForTesting;

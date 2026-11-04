@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: GPay and Pix logo
+summary: Vector drawable combining Google Pay branding and Pix payment logo artwork for the facilitated payments UI.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="162dp"
     android:height="28dp"

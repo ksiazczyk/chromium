@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: External protocol policy browser tests
+// summary: Browser tests verifying how the AutoLaunchProtocolsFromOrigins policy, including malformed and edge-case configurations, affects external protocol block states.
+// ---
+
 #include <string_view>
 
 #include "base/test/scoped_feature_list.h"

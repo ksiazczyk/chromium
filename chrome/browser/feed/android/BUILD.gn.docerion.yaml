@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Feed Android build configuration
+summary: GN build file defining the Java library, JNI header generation and dependencies for the Chrome feed Android code.

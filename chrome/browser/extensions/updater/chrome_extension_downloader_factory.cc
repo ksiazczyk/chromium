@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome extension downloader factory implementation
+// summary: Creates ExtensionDownloader instances for Chrome, applying brand codes, manifest query parameters, and the profile identity manager for authenticated downloads.
+// ---
+
 #include "chrome/browser/extensions/updater/chrome_extension_downloader_factory.h"
 
 #include <string>

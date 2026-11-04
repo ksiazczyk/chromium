@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Update service browser tests
+// summary: Browser tests for the extension update service, covering update requests via the update client, content verification enforcement, and profile keep-alive behavior.
+// ---
+
 #include <memory>
 #include <optional>
 

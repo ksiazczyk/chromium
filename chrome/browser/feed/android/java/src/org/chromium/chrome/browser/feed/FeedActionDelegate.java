@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed action delegate interface
+// summary: Interface for Feed actions implemented by the browser, covering opening suggestion URLs, downloads, help page, reading list, signin flows and stream events.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedUma
+// summary: Records UMA histogram stats for user actions on the feed in the NTP, including load-more triggers and feed settings bottom sheet clicks.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import org.chromium.base.metrics.RecordHistogram;

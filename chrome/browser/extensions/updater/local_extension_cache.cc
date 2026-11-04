@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalExtensionCache implementation
+// summary: Implements a local directory cache for CRX files, handling initialization, lookup by id and hash, usage tracking, and cleanup on shutdown.
+// ---
+
 #include "chrome/browser/extensions/updater/local_extension_cache.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionCacheImpl class header
+// summary: Declares the ExtensionCacheImpl class that caches extension CRX files to share them between multiple users and profiles on a machine.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_UPDATER_EXTENSION_CACHE_IMPL_H_
 #define CHROME_BROWSER_EXTENSIONS_UPDATER_EXTENSION_CACHE_IMPL_H_
 

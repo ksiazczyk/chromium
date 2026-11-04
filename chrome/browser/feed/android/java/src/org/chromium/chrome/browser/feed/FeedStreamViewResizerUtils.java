@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedStreamViewResizerUtils
+// summary: Utility that computes horizontal padding for feed items so card content stays visible in constrained viewports, especially in landscape mode.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import android.app.Activity;

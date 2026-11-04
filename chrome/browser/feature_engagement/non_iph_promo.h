@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Non-IPH promo utility header
+// summary: Declares a utility letting systems rate-limit their promotional UI via the Feature Engagement tracker without colliding with the desktop IPH system.
+// ---
+
 #ifndef CHROME_BROWSER_FEATURE_ENGAGEMENT_NON_IPH_PROMO_H_
 #define CHROME_BROWSER_FEATURE_ENGAGEMENT_NON_IPH_PROMO_H_
 

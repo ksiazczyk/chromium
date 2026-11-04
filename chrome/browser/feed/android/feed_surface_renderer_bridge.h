@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed surface renderer bridge header
+// summary: Declares the per-surface native bridge implementing SurfaceRenderer for feed surfaces such as the for-you and following feeds.
+// ---
+
 #ifndef CHROME_BROWSER_FEED_ANDROID_FEED_SURFACE_RENDERER_BRIDGE_H_
 #define CHROME_BROWSER_FEED_ANDROID_FEED_SURFACE_RENDERER_BRIDGE_H_
 

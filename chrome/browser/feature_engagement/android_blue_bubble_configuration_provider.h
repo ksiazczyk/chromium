@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Blue Bubble configuration provider header
+// summary: Declares the provider that enforces standard impression frequency limits, such as three per 360 days and a seven-day cooldown, for Blue Bubble IPH features.
+// ---
+
 #ifndef CHROME_BROWSER_FEATURE_ENGAGEMENT_ANDROID_BLUE_BUBBLE_CONFIGURATION_PROVIDER_H_
 #define CHROME_BROWSER_FEATURE_ENGAGEMENT_ANDROID_BLUE_BUBBLE_CONFIGURATION_PROVIDER_H_
 

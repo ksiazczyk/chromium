@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed feature checks helper
+// summary: Helper methods for feed feature state, including whether the feed is enabled by policy, DSE preference or flags, and screenshot auto-scroll mode.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import org.chromium.base.CommandLine;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Facilitated payments payment methods component interface
+// summary: Interface for the bottom sheet component that lets users select a facilitated payments method such as Pix bank accounts, eWallets, payment apps, or account linking prompts.
+// ---
+
 package org.chromium.chrome.browser.facilitated_payments;
 
 import android.content.Context;

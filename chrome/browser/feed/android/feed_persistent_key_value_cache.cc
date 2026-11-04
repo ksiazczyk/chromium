@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed persistent key-value cache JNI implementation
+// summary: Native JNI side of FeedPersistentKeyValueCache, exposing lookup, put and evict operations on the feed persistent key-value store to Java.
+// ---
+
 #include <memory>
 
 #include "base/android/callback_android.h"

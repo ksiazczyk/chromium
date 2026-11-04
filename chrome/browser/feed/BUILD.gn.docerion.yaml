@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Feed BUILD.gn build definition
+summary: Defines GN source sets for the Android feed browser layer, listing public headers and dependencies for the feed and impl targets.

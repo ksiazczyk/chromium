@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the feed Android directory
+summary: Delegates code ownership to the reviewers listed in components/feed/OWNERS.

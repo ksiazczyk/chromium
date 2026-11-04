@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Facilitated payments Android UI build configuration
+summary: GN build file defining the native static library, unit test target, JNI headers group, and public Java library for the facilitated payments Android UI.

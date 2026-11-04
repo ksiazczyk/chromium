@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeFacilitatedPaymentsClient unit tests
+// summary: Unit tests for the Chrome facilitated payments client, using mocked controllers and Pix account linking managers to verify behavior on desktop and Android.
+// ---
+
 #include "chrome/browser/facilitated_payments/ui/chrome_facilitated_payments_client.h"
 
 #include <memory>

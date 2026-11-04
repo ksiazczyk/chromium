@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Issue tracker metadata for the external protocol directory
+summary: Maps the directory to the ProtocolHandling component in Monorail and a Buganizer component for issue tracking.

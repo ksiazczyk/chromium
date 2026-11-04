@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Facilitated payments sequence view interface
+// summary: Interface that lets different facilitated payment views be inflated, bound to a model, and shown within the same bottom sheet container.
+// ---
+
 package org.chromium.chrome.browser.facilitated_payments;
 
 import android.view.View;

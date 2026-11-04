@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FCM service factory implementation
+// summary: Implements the per-profile FcmService factory, building the service only when the kUseFcmService feature is enabled and wiring the Android FCM driver on Android while desktop remains unimplemented.
+// ---
+
 #include "chrome/browser/fcm/fcm_service_factory.h"
 
 #include <memory>

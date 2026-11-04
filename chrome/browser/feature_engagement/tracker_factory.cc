@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature engagement tracker factory implementation
+// summary: Implements the profile-keyed factory that builds feature engagement Tracker instances with platform-specific configuration providers and storage paths.
+// ---
+
 #include "chrome/browser/feature_engagement/tracker_factory.h"
 
 #include "base/files/file_path.h"

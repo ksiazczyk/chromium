@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed image fetch client
+// summary: Implementation of xsurface's ImageFetchClient that forwards image requests to the native network stack over JNI and delivers responses back to consumers.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import org.jni_zero.CalledByNative;

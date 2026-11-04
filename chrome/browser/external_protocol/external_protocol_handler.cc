@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External protocol launch handling and security checks
+// summary: Implements launching of external protocol URLs, including blocked schemes, anti-flood protection, user prompts, preferences, and UMA metrics.
+// ---
+
 #include "chrome/browser/external_protocol/external_protocol_handler.h"
 
 #include <stddef.h>

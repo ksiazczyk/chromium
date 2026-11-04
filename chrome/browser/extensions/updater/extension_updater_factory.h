@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionUpdaterFactory header for per-profile updater service
+// summary: Declares the profile-keyed factory that creates ExtensionUpdater services shared between an incognito browser context and its original context.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_UPDATER_EXTENSION_UPDATER_FACTORY_H_
 #define CHROME_BROWSER_EXTENSIONS_UPDATER_EXTENSION_UPDATER_FACTORY_H_
 

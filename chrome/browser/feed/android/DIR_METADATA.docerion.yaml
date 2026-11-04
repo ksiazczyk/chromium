@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the feed Android folder
+summary: Points to the shared feed component metadata via a mixin to identify the owning component.

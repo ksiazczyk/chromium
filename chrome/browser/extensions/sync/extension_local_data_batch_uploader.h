@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension local data batch uploader header
+// summary: Declares ExtensionLocalDataBatchUploader, which implements the syncer data type local data batch uploader interface for extensions.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_SYNC_EXTENSION_LOCAL_DATA_BATCH_UPLOADER_H_
 #define CHROME_BROWSER_EXTENSIONS_SYNC_EXTENSION_LOCAL_DATA_BATCH_UPLOADER_H_
 

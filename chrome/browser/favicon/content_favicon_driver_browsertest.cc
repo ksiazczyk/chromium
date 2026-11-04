@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContentFaviconDriver browser tests
+// summary: Browser tests covering favicon driver behavior such as favicon loading, cache bypass, navigation and browsing data removal.
+// ---
+
 #include "components/favicon/content/content_favicon_driver.h"
 
 #include <optional>

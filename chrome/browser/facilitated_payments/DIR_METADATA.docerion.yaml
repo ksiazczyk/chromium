@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Facilitated payments directory metadata
+summary: Maps the directory to the Blink>Payments issue component and the payments-dev@chromium.org team for bug tracking.

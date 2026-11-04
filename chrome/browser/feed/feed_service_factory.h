@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed service factory header
+// summary: Declares FeedServiceFactory, a ProfileKeyedServiceFactory that creates one FeedService per browser context and returns null for incognito.
+// ---
+
 #ifndef CHROME_BROWSER_FEED_FEED_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_FEED_FEED_SERVICE_FACTORY_H_
 

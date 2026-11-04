@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Feed directory metadata
+summary: Points to the shared feed component metadata and marks the directory as Android-only.

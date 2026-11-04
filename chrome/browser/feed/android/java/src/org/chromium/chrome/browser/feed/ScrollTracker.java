@@ -1,6 +1,13 @@
 // Copyright 2019 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: ScrollTracker
+// summary: Abstract helper that collates noisy scroll events over a short delay and reports aggregated scroll amounts to subclasses.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import org.chromium.base.task.PostTask;

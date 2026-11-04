@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History UI favicon request handler factory implementation
+// summary: Implements the profile-keyed factory that builds HistoryUiFaviconRequestHandler instances, wiring favicon and large icon services with a sync-based check for whether history data may be sent.
+// ---
+
 #include "chrome/browser/favicon/history_ui_favicon_request_handler_factory.h"
 
 #include "base/no_destructor.h"

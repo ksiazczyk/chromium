@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedPlaceholderLayout
+// summary: Custom LinearLayout that renders animated loading placeholders for feed cards, with a command-line switch to disable animation for rendering tests.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import android.animation.Animator;

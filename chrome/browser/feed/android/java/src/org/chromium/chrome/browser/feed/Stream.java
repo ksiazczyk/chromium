@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stream
+// summary: Interface for interacting with the Stream library to render and refresh a feed of cards, including binding, scroll state restoration, and content listeners.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import androidx.recyclerview.widget.RecyclerView;

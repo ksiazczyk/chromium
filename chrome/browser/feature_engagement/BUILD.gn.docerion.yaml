@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Feature engagement build targets (BUILD.gn)
+summary: Defines GN build targets for the Chrome feature engagement browser code, including the Android Java library, JNI headers, and Android unit tests.

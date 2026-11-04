@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account extension tracker header
+// summary: Declares the AccountExtensionTracker keyed service that manages each extension's AccountExtensionType and notifies observers when extension uploadability changes.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_SYNC_ACCOUNT_EXTENSION_TRACKER_H_
 #define CHROME_BROWSER_EXTENSIONS_SYNC_ACCOUNT_EXTENSION_TRACKER_H_
 

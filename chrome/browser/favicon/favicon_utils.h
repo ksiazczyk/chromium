@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon utility functions declaration
+// summary: Declares favicon helpers for driver creation, monogram and default favicon generation, incognito favicon saving and contrast-based favicon theming.
+// ---
+
 #ifndef CHROME_BROWSER_FAVICON_FAVICON_UTILS_H_
 #define CHROME_BROWSER_FAVICON_FAVICON_UTILS_H_
 

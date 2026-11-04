@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Facilitated payments payment methods view tests
+// summary: Unit tests for the payment methods view and its screens, verifying bottom sheet behavior and property binding.
+// ---
+
 package org.chromium.chrome.browser.facilitated_payments;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

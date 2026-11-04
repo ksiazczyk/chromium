@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External protocol feature declarations
+// summary: Declares the kLocalOnlyAppProtocolPrefix feature that blocks web-initiated external protocol launches with a local+ scheme.
+// ---
+
 #ifndef CHROME_BROWSER_EXTERNAL_PROTOCOL_FEATURES_H_
 #define CHROME_BROWSER_EXTERNAL_PROTOCOL_FEATURES_H_
 

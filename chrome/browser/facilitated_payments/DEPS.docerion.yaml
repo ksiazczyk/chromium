@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Facilitated payments include rules
+summary: Declares the allowed include paths for code in the facilitated_payments directory, such as device_reauth and facilitated_payments components.

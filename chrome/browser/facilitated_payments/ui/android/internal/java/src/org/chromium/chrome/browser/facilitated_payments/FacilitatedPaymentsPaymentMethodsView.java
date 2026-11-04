@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Facilitated payments payment methods view
+// summary: Renders the screens of the facilitated payments flow in a bottom sheet and reports sheet close events to the listener.
+// ---
+
 package org.chromium.chrome.browser.facilitated_payments;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

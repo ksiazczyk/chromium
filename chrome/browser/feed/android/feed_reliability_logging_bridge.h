@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed reliability logging bridge header
+// summary: Declares the native bridge that forwards feed reliability logging events such as request, cache and render timings from C++ to Java on Android.
+// ---
+
 #ifndef CHROME_BROWSER_FEED_ANDROID_FEED_RELIABILITY_LOGGING_BRIDGE_H_
 #define CHROME_BROWSER_FEED_ANDROID_FEED_RELIABILITY_LOGGING_BRIDGE_H_
 

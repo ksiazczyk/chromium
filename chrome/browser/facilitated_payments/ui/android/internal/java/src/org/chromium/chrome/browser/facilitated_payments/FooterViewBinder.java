@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Footer view binder
+// summary: Binds footer properties to the manage payment methods footer item in the payment methods bottom sheet.
+// ---
+
 package org.chromium.chrome.browser.facilitated_payments;
 
 import android.view.LayoutInflater;

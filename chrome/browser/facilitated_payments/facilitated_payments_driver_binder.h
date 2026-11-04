@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Facilitated payments driver binder header
+// summary: Declares BindFacilitatedPaymentsDriver, which connects the renderer-side agent to the browser driver so it can report heuristic signals.
+// ---
+
 #ifndef CHROME_BROWSER_FACILITATED_PAYMENTS_FACILITATED_PAYMENTS_DRIVER_BINDER_H_
 #define CHROME_BROWSER_FACILITATED_PAYMENTS_FACILITATED_PAYMENTS_DRIVER_BINDER_H_
 

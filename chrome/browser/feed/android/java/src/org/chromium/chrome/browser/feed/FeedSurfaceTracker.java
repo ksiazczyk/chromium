@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedSurfaceTracker
+// summary: Singleton tracker for feed surfaces that manages surface coordinators and observers, warms up native feed components and clears inactive surfaces.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import androidx.annotation.VisibleForTesting;

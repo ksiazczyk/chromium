@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionSyncService header for app and extension syncing
+// summary: Declares ExtensionSyncService, the SyncableService that handles the APPS and EXTENSIONS sync data types for proper apps and extensions in a profile.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_SYNC_EXTENSION_SYNC_SERVICE_H_
 #define CHROME_BROWSER_EXTENSIONS_SYNC_EXTENSION_SYNC_SERVICE_H_
 

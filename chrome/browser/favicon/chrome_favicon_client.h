@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeFaviconClient class declaration
+// summary: Declares the Chrome-specific FaviconClient implementation that supplies profile-based favicon behavior to the favicon components.
+// ---
+
 #ifndef CHROME_BROWSER_FAVICON_CHROME_FAVICON_CLIENT_H_
 #define CHROME_BROWSER_FAVICON_CHROME_FAVICON_CLIENT_H_
 

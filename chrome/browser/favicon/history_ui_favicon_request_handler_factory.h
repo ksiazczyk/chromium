@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History UI favicon request handler factory header
+// summary: Declares HistoryUiFaviconRequestHandlerFactory, a ProfileKeyedServiceFactory that provides per-browser-context history UI favicon request handlers.
+// ---
+
 #ifndef CHROME_BROWSER_FAVICON_HISTORY_UI_FAVICON_REQUEST_HANDLER_FACTORY_H_
 #define CHROME_BROWSER_FAVICON_HISTORY_UI_FAVICON_REQUEST_HANDLER_FACTORY_H_
 

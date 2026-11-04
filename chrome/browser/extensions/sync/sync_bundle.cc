@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncBundle implementation
+// summary: Implements SyncBundle, which tracks synced and pending extensions and pushes sync changes, deletions and updates to the sync server.
+// ---
+
 #include "chrome/browser/extensions/sync/sync_bundle.h"
 
 #include <utility>

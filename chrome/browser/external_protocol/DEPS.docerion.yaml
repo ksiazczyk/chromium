@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the external protocol directory
+summary: Restricts which headers and components files in this directory may include, with extra allowances for test files.

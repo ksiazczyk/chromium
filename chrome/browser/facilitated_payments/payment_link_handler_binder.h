@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment link handler binder header
+// summary: Declares BindPaymentLinkHandler, which connects the renderer payment link handler to the facilitated payments driver.
+// ---
+
 #ifndef CHROME_BROWSER_FACILITATED_PAYMENTS_PAYMENT_LINK_HANDLER_BINDER_H_
 #define CHROME_BROWSER_FACILITATED_PAYMENTS_PAYMENT_LINK_HANDLER_BINDER_H_
 

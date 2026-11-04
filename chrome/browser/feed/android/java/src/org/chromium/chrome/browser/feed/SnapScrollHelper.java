@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SnapScrollHelper
+// summary: Interface for handling snap scroll of the search box on the new tab page, including scroll position calculation and cleanup.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import android.view.View;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Non-IPH promo implementation
+// summary: Implements the NonIphPromo utility that rate-limits promotional UI through the Feature Engagement tracker and immediately dismisses to avoid blocking other promos.
+// ---
+
 #include "chrome/browser/feature_engagement/non_iph_promo.h"
 
 #include "base/types/pass_key.h"

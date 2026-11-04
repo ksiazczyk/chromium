@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension update client browser test base header
+// summary: Declares the base browser test class for extension updater tests, providing configurator injection, network interceptors, and update event waiting.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_UPDATER_EXTENSION_UPDATE_CLIENT_BASE_BROWSERTEST_H_
 #define CHROME_BROWSER_EXTENSIONS_UPDATER_EXTENSION_UPDATE_CLIENT_BASE_BROWSERTEST_H_
 

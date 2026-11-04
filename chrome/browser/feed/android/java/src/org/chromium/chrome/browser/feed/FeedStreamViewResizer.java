@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedStreamViewResizer
+// summary: Adjusts the feed stream view padding when switching between portrait and landscape so large images and video previews fit the viewport.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import android.app.Activity;

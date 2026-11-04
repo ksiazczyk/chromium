@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS extension cache delegate implementation
+// summary: Implements the ChromeOS extension cache delegate with the device local cache directory, a policy-configurable maximum size, and a 30-day cache age limit.
+// ---
+
 #include "chrome/browser/extensions/updater/chromeos_extension_cache_delegate.h"
 
 #include <stddef.h>

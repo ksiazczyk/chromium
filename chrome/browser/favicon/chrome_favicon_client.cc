@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeFaviconClient implementation
+// summary: Implements the FaviconClient interface for Chrome, identifying native application and reader mode URLs and fetching favicons for native application URLs.
+// ---
+
 #include "chrome/browser/favicon/chrome_favicon_client.h"
 
 #include "base/functional/bind.h"

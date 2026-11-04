@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed bubble delegate interface
+// summary: Delegate interface providing the checks needed to trigger in-product help bubbles in the feed, such as engagement tracker access and feed state queries.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import org.chromium.build.annotations.NullMarked;

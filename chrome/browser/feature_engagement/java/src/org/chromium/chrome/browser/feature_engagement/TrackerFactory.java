@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrackerFactory
+// summary: Java factory that creates and returns the single feature engagement Tracker per profile, with promotions and IPH cooldown suppliers plus testing overrides via JNI.
+// ---
+
 package org.chromium.chrome.browser.feature_engagement;
 
 import org.jni_zero.JniType;

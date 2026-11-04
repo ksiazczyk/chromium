@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS delegation to component owners
+summary: Delegates code review ownership of this directory to the components/feature_engagement OWNERS file.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed service bridge header
+// summary: Declares native access to the Java FeedServiceBridge, including language tag, display metrics, clear-all, enablement and image prefetch helpers.
+// ---
+
 #ifndef CHROME_BROWSER_FEED_ANDROID_FEED_SERVICE_BRIDGE_H_
 #define CHROME_BROWSER_FEED_ANDROID_FEED_SERVICE_BRIDGE_H_
 

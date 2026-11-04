@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension updater command-line switch implementations
+// summary: Implements the extension updater switches and returns the Chrome channel used for update requests, honoring the forced-channel switch.
+// ---
+
 #include "chrome/browser/extensions/updater/extension_updater_switches.h"
 
 #include "base/command_line.h"

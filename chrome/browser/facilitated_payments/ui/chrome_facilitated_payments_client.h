@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeFacilitatedPaymentsClient class declaration
+// summary: Declares the Chrome implementation of FacilitatedPaymentsClient owned per tab, exposing driver access, risk data loading, and payments or network interface hooks.
+// ---
+
 #ifndef CHROME_BROWSER_FACILITATED_PAYMENTS_UI_CHROME_FACILITATED_PAYMENTS_CLIENT_H_
 #define CHROME_BROWSER_FACILITATED_PAYMENTS_UI_CHROME_FACILITATED_PAYMENTS_CLIENT_H_
 

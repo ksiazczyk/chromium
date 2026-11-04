@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment link handler binder implementation
+// summary: Binds the PaymentLinkHandler mojo receiver to the browser-side driver for active main frames, closing the connection otherwise.
+// ---
+
 #include "chrome/browser/facilitated_payments/payment_link_handler_binder.h"
 
 #include <utility>

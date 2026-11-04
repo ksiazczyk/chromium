@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake LinearLayoutManager for feed tests
+// summary: Fake LinearLayoutManager that records child views and visible positions so feed list code can be exercised without a real RecyclerView layout.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedSurfaceScopeDependencyProviderImpl
+// summary: Implements the feed surface scope dependency provider, supplying activity, dark mode, logging, network response and header offset context for a single surface.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import android.app.Activity;

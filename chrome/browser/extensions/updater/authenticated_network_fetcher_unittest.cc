@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Authenticated network fetcher unit tests
+// summary: Unit tests for AuthenticatedNetworkFetcher that use mock network fetchers to verify the authentication-hunting retry behavior.
+// ---
+
 #include "chrome/browser/extensions/updater/authenticated_network_fetcher.h"
 
 #include <memory>

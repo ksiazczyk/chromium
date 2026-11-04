@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedReliabilityLogger
+// summary: Centralizes feed reliability logging, recording launch, user interaction, and card opening events for pauses, omnibox focus, navigation, and tab switches.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import android.os.SystemClock;

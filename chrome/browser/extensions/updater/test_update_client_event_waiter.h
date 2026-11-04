@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for the test update client event waiter
+// summary: Declares a test-only UpdateClient observer that waits for completion events for a given extension id using a RunLoop.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_UPDATER_TEST_UPDATE_CLIENT_EVENT_WAITER_H_
 #define CHROME_BROWSER_EXTENSIONS_UPDATER_TEST_UPDATE_CLIENT_EVENT_WAITER_H_
 

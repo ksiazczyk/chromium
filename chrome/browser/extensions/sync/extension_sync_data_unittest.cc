@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension sync data unit tests
+// summary: Unit tests verifying round-trip conversion between ExtensionSyncData objects and sync protobuf entity specifics.
+// ---
+
 #include "chrome/browser/extensions/sync/extension_sync_data.h"
 
 #include <memory>

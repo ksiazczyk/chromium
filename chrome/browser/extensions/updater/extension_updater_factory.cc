@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionUpdater service factory
+// summary: Defines the profile-keyed service factory that creates ExtensionUpdater instances and declares its service dependencies.
+// ---
+
 #include "chrome/browser/extensions/updater/extension_updater_factory.h"
 
 #include "chrome/browser/extensions/corrupted_extension_reinstaller_factory.h"
