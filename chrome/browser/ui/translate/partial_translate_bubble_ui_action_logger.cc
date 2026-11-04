@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Partial Translate bubble UI action logger
+// summary: Reports partial translate bubble UI actions to a UMA histogram enumeration.
+// ---
+
 #include "chrome/browser/ui/translate/partial_translate_bubble_ui_action_logger.h"
 
 #include "base/metrics/histogram_macros.h"

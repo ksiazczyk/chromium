@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User Education Configuration Provider Browser Test
+// summary: Browser test verifying that feature engagement configuration is auto-generated for an IPH test feature even when it has extra field trial parameters beyond the standard config.
+// ---
+
 #include "chrome/browser/user_education/user_education_configuration_provider.h"
 
 #include "base/test/scoped_feature_list.h"

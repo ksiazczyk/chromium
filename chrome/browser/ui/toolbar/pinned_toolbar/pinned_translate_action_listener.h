@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pinned Translate Action Listener
+// summary: Declares PinnedTranslateActionListener, which observes tab translation events and updates the status indicator of the pinned toolbar translate action.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TOOLBAR_PINNED_TOOLBAR_PINNED_TRANSLATE_ACTION_LISTENER_H_
 #define CHROME_BROWSER_UI_TOOLBAR_PINNED_TOOLBAR_PINNED_TRANSLATE_ACTION_LISTENER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android translation adapter implementation
+// summary: Implements conversion of Android tabs and tab collections into Mojo tab strip API types, filling in titles, favicons, URLs, network state and selection details.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_strip_api/android_tab_model_impl/android_translation_adapter.h"
 
 #include "base/strings/string_number_conversions.h"

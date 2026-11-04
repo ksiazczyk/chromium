@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toast service header
+// summary: Declares ToastService, the per-browser-window service where features register their toasts and access the registry and controller.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TOASTS_TOAST_SERVICE_H_
 #define CHROME_BROWSER_UI_TOASTS_TOAST_SERVICE_H_
 

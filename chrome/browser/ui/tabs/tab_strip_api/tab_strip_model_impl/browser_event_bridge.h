@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserEventBridge class declaration
+// summary: Declares a bridge that relays browser-window level events, such as theme changes, into the tab strip event stream via the TabStripModelEventBridge.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TAB_STRIP_API_TAB_STRIP_MODEL_IMPL_BROWSER_EVENT_BRIDGE_H_
 #define CHROME_BROWSER_UI_TABS_TAB_STRIP_API_TAB_STRIP_MODEL_IMPL_BROWSER_EVENT_BRIDGE_H_
 

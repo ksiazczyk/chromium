@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Avatar toolbar IPH controller class header
+// summary: Declares AvatarToolbarIphController, which owns profile switch, supervised sign-in, and sign-in benefits IPHs anchored to a window's avatar toolbar button.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TOOLBAR_AVATAR_TOOLBAR_IPH_CONTROLLER_H_
 #define CHROME_BROWSER_UI_TOOLBAR_AVATAR_TOOLBAR_IPH_CONTROLLER_H_
 

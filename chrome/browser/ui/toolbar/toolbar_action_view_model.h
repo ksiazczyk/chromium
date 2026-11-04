@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar action view model interface
+// summary: Declares the ToolbarActionViewModel base class for toolbar actions, covering icons, invocation sources, hover card state, popups, and context menus.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TOOLBAR_TOOLBAR_ACTION_VIEW_MODEL_H_
 #define CHROME_BROWSER_UI_TOOLBAR_TOOLBAR_ACTION_VIEW_MODEL_H_
 

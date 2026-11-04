@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Labs model header
+// summary: Declares the LabInfo struct, the ChromeLabsModel singleton exposing lab info, and a scoped helper for replacing model data in tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TOOLBAR_CHROME_LABS_CHROME_LABS_MODEL_H_
 #define CHROME_BROWSER_UI_TOOLBAR_CHROME_LABS_CHROME_LABS_MODEL_H_
 

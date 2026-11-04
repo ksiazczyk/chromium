@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thumbnail tracker implementation
+// summary: Implements ThumbnailTracker, which subscribes to each tracked tab's ThumbnailImage and forwards compressed thumbnail updates to a client callback.
+// ---
+
 #include "chrome/browser/ui/thumbnails/thumbnail_tracker.h"
 
 #include <memory>

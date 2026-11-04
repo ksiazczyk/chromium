@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserAdapterImpl implementation
+// summary: Implements the browser adapter that forwards requests to the browser window, creating tab strip model adapters for a profile and adding tabs at a given position.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_strip_api/tab_strip_model_impl/browser_adapter_impl.h"
 
 #include "base/strings/string_number_conversions.h"

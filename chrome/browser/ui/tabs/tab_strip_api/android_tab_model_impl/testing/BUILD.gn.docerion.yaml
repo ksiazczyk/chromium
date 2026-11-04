@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the testing tab model utilities
+summary: Defines a test-only source set that builds the testing utilities for the tab strip API's Android tab model implementation.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThumbnailScheduler interface
+// summary: Defines the abstract scheduler interface that grants or revokes tab capture permission and tracks tab capture priority levels.
+// ---
+
 #ifndef CHROME_BROWSER_UI_THUMBNAILS_THUMBNAIL_SCHEDULER_H_
 #define CHROME_BROWSER_UI_THUMBNAILS_THUMBNAIL_SCHEDULER_H_
 

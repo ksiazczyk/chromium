@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab and collection converters to mojom types
+// summary: Implements conversion of tabs, tab collections and change types into tab strip API mojom data, including themed favicon rasterization.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_strip_api/tab_strip_model_impl/converters/tab_converters.h"
 
 #include "base/check.h"

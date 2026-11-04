@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome Labs model unit tests
+// summary: Verifies that Chrome Labs entries use supported feature entry types and that parameterized variation descriptions match about_flags.
+// ---
+
 #include "chrome/browser/ui/toolbar/chrome_labs/chrome_labs_model.h"
 
 #include "base/i18n/case_conversion.h"

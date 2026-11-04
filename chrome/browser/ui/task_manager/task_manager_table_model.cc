@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task manager table model implementation
+// summary: Implements the table model behind the task manager UI, covering refresh timing, column value sharing, sorting and task list formatting.
+// ---
+
 #include "chrome/browser/ui/task_manager/task_manager_table_model.h"
 
 #include <stddef.h>

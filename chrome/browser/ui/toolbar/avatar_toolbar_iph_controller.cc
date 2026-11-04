@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Avatar toolbar IPH controller implementation
+// summary: Implements the controller that shows profile switch, supervised sign-in, and sign-in benefits in-product help promos anchored to the avatar toolbar button.
+// ---
+
 #include "chrome/browser/ui/toolbar/avatar_toolbar_iph_controller.h"
 
 #include <utility>

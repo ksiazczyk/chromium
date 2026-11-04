@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecentSessionObserverImpl implementation
+// summary: Implements the recent session observer that records usage metrics and triggers low usage promo mode from session updates.
+// ---
+
 #include "chrome/browser/ui/user_education/recent_session_observer_impl.h"
 
 #include <utility>

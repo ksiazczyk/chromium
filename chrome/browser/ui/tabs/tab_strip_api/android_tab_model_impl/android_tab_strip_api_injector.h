@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android tab strip API injector declaration
+// summary: Declares AndroidTabStripApiInjector, which supplies the Android adapter implementations and event bridge to the Tab Strip API service.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TAB_STRIP_API_ANDROID_TAB_MODEL_IMPL_ANDROID_TAB_STRIP_API_INJECTOR_H_
 #define CHROME_BROWSER_UI_TABS_TAB_STRIP_API_ANDROID_TAB_MODEL_IMPL_ANDROID_TAB_STRIP_API_INJECTOR_H_
 

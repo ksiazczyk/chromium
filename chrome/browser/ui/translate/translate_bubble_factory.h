@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate bubble factory interface
+// summary: Declares the factory for showing the Full Page Translate bubble and for overriding how the bubble is displayed.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TRANSLATE_TRANSLATE_BUBBLE_FACTORY_H_
 #define CHROME_BROWSER_UI_TRANSLATE_TRANSLATE_BUBBLE_FACTORY_H_
 

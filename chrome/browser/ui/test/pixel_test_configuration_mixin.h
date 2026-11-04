@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pixel test configuration mixin header
+// summary: Declares PixelTestConfigurationMixin, which sets up dark theme and right-to-left language command line switches for pixel tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TEST_PIXEL_TEST_CONFIGURATION_MIXIN_H_
 #define CHROME_BROWSER_UI_TEST_PIXEL_TEST_CONFIGURATION_MIXIN_H_
 

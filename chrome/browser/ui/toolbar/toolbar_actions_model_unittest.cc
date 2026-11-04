@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ToolbarActionsModel unit tests
+// summary: Unit tests covering toolbar action pinning, ordering, sync, policy handling, and observer notifications for the toolbar actions model.
+// ---
+
 #include "chrome/browser/ui/toolbar/toolbar_actions_model.h"
 
 #include <stddef.h>

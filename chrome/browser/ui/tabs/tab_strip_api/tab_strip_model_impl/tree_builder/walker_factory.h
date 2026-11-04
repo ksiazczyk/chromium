@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WalkerFactory class declaration
+// summary: Declares a factory that produces walkers for tabs and tab collections during Mojo tree building.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TAB_STRIP_API_TAB_STRIP_MODEL_IMPL_TREE_BUILDER_WALKER_FACTORY_H_
 #define CHROME_BROWSER_UI_TABS_TAB_STRIP_API_TAB_STRIP_MODEL_IMPL_TREE_BUILDER_WALKER_FACTORY_H_
 

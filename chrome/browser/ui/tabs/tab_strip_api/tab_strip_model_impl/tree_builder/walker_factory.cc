@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WalkerFactory implementation
+// summary: Creates TabWalker and TabCollectionWalker instances used while building the Mojo tab tree.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_strip_api/tab_strip_model_impl/tree_builder/walker_factory.h"
 
 #include "chrome/browser/ui/tabs/tab_strip_model.h"

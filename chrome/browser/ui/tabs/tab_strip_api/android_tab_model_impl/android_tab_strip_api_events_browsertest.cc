@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android tab strip API event browser tests
+// summary: Browser tests verifying that tab model operations like duplicating, moving, grouping, and closing tabs emit the expected Tab Strip API events.
+// ---
+
 #include "base/strings/string_number_conversions.h"
 #include "base/test/gtest_util.h"
 #include "chrome/browser/ui/android/tab_model/tab_model.h"

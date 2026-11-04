@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toast feature flags implementation
+// summary: Defines base::Feature flags that enable individual toasts such as link copied, reading list, lens overlay, and translate.
+// ---
+
 #include "chrome/browser/ui/toasts/toast_features.h"
 
 #include "base/feature_list.h"

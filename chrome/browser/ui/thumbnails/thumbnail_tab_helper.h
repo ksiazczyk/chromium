@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThumbnailTabHelper class declaration
+// summary: Declares the tab helper that maintains the thumbnail image shown in tab hover cards and drives capture via the capture driver and scheduler.
+// ---
+
 #ifndef CHROME_BROWSER_UI_THUMBNAILS_THUMBNAIL_TAB_HELPER_H_
 #define CHROME_BROWSER_UI_THUMBNAILS_THUMBNAIL_TAB_HELPER_H_
 

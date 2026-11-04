@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Toast controller interactive UI tests
+// summary: Interactive UI tests covering toast display, dismissal, and interaction behavior such as omnibox focus and fullscreen in a real browser.
+// ---
+
 #include <memory>
 
 #include "base/functional/bind.h"

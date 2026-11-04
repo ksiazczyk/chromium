@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Target language combobox model implementation
+// summary: Implements the combobox model that supplies target language entries and a default index for the Translate bubble UI.
+// ---
+
 #include "chrome/browser/ui/translate/target_language_combobox_model.h"
 
 #include "base/strings/utf_string_conversions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestInfoBar implementation for infobar UI tests
+// summary: Implements TestInfoBar helpers that track newly added infobars, verify them against expected identifiers, and wait for user dismissal during browser UI tests.
+// ---
+
 #include "chrome/browser/ui/test/test_infobar.h"
 
 #include <algorithm>

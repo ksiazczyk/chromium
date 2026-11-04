@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThumbnailSchedulerImpl implementation
+// summary: Implements capture scheduling that enforces maximum simultaneous total and low-priority thumbnail captures across tabs.
+// ---
+
 #include "chrome/browser/ui/thumbnails/thumbnail_scheduler_impl.h"
 
 #include <algorithm>

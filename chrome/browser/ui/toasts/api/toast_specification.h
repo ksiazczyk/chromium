@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToastSpecification class and builder interface
+// summary: Declares ToastSpecification, which describes what a toast contains, and its Builder for adding buttons, menus, scoping, persistence, and throbber options.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TOASTS_API_TOAST_SPECIFICATION_H_
 #define CHROME_BROWSER_UI_TOASTS_API_TOAST_SPECIFICATION_H_
 

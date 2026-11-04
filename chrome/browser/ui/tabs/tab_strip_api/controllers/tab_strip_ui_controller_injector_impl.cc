@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripUIControllerInjectorImpl adapter wiring
+// summary: Implements the injector that creates production browser, tab strip model, and context menu adapters for a browser window.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_strip_api/controllers/tab_strip_ui_controller_injector_impl.h"
 
 #include "base/strings/string_number_conversions.h"

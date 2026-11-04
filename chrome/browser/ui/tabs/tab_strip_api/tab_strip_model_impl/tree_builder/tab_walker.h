@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabWalker class declaration
+// summary: Declares a walker that converts a single tab from the tab strip model into a Mojo container node.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TAB_STRIP_API_TAB_STRIP_MODEL_IMPL_TREE_BUILDER_TAB_WALKER_H_
 #define CHROME_BROWSER_UI_TABS_TAB_STRIP_API_TAB_STRIP_MODEL_IMPL_TREE_BUILDER_TAB_WALKER_H_
 

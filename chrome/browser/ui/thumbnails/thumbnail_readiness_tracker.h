@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThumbnailReadinessTracker class declaration
+// summary: Declares a tracker that notifies a callback when a page's readiness for thumbnail capture changes based on navigation and loading state.
+// ---
+
 #ifndef CHROME_BROWSER_UI_THUMBNAILS_THUMBNAIL_READINESS_TRACKER_H_
 #define CHROME_BROWSER_UI_THUMBNAILS_THUMBNAIL_READINESS_TRACKER_H_
 

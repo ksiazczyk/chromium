@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thumbnail image implementation
+// summary: Implements compressed JPEG thumbnail storage, background bitmap compression, and subscription-based delivery of thumbnail data to observers.
+// ---
+
 #include "chrome/browser/ui/thumbnails/thumbnail_image.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toast feature flags declarations
+// summary: Declares the toast feature flags and the IsEnabled helper used to check whether a toast feature is enabled.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TOASTS_TOAST_FEATURES_H_
 #define CHROME_BROWSER_UI_TOASTS_TOAST_FEATURES_H_
 

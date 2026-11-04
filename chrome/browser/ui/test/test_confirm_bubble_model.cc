@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test confirm bubble model implementation
+// summary: Implements a test ConfirmBubbleModel with fixed strings that records accept, cancel, link clicks and model deletion through caller-supplied boolean flags.
+// ---
+
 #include "chrome/browser/ui/test/test_confirm_bubble_model.h"
 
 #include <string>

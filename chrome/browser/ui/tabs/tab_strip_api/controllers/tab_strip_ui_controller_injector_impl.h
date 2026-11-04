@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripUIControllerInjectorImpl class declaration
+// summary: Declares TabStripUIControllerInjectorImpl, which supplies concrete adapter implementations to the tab strip UI controller.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TAB_STRIP_API_CONTROLLERS_TAB_STRIP_UI_CONTROLLER_INJECTOR_IMPL_H_
 #define CHROME_BROWSER_UI_TABS_TAB_STRIP_API_CONTROLLERS_TAB_STRIP_UI_CONTROLLER_INJECTOR_IMPL_H_
 

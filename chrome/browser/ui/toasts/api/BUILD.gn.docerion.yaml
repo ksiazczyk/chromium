@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the toasts API
+summary: Defines the toasts source set and its unit test target, listing toast sources and dependencies on base, UI, and browser components.

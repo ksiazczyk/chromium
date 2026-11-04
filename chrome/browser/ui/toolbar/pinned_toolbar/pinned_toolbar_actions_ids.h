@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for pinned toolbar action ID mapping
+// summary: Declares GetElementIdentifierForAction, which returns the element identifier for a given pinned toolbar action ID.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TOOLBAR_PINNED_TOOLBAR_PINNED_TOOLBAR_ACTIONS_IDS_H_
 #define CHROME_BROWSER_UI_TOOLBAR_PINNED_TOOLBAR_PINNED_TOOLBAR_ACTIONS_IDS_H_
 

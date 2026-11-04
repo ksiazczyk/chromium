@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserUiTestBase Invoke implementation
+// summary: Implements Invoke, which lists InvokeUi_ test cases or launches a subprocess to run a selected UI test interactively.
+// ---
+
 #include "chrome/browser/ui/test/browser_ui_test_base.h"
 
 #include <string>

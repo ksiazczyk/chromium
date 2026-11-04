@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: TabStrip API build targets
+summary: GN build file defining the tab_strip_api and impl source sets plus unit and browser test targets for the TabStrip service.

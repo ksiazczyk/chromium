@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripUIControllerImpl Mojo binding and context menu logic
+// summary: Implements the tab strip UI controller, binding Mojo receivers and showing tab context menus for valid node IDs while reporting errors for invalid ones.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_strip_api/controllers/tab_strip_ui_controller_impl.h"
 
 #include <optional>

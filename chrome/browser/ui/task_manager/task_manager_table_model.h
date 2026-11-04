@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task manager table model interface
+// summary: Declares the TaskManagerTableModel class, display categories, sort descriptor and table view delegate interface for the task manager UI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TASK_MANAGER_TASK_MANAGER_TABLE_MODEL_H_
 #define CHROME_BROWSER_UI_TASK_MANAGER_TASK_MANAGER_TABLE_MODEL_H_
 

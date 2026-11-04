@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Source language combobox model
+// summary: Declares a combobox model for selecting the source language in the translate user interface.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TRANSLATE_SOURCE_LANGUAGE_COMBOBOX_MODEL_H_
 #define CHROME_BROWSER_UI_TRANSLATE_SOURCE_LANGUAGE_COMBOBOX_MODEL_H_
 

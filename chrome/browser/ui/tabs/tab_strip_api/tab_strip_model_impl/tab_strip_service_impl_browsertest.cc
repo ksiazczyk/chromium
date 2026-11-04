@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabStripServiceImpl browser tests
+// summary: In-process browser tests exercising the tab strip service end to end, covering tab creation, movement, closing, grouping and event observation through Mojo.
+// ---
+
 #include "components/browser_apis/tab_strip/tab_strip_service_impl.h"
 
 #include "base/logging.h"

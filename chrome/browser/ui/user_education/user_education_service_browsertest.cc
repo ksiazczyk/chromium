@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User Education Service Browser Test
+// summary: Browser test checking that the user education service and its controllers exist for regular profiles but are partly absent in incognito and guest profiles.
+// ---
+
 #include "chrome/browser/user_education/user_education_service.h"
 
 #include "build/build_config.h"

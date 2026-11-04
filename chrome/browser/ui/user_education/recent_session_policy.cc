@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recent session policy implementation
+// summary: Implements recent session policy constraints that count sessions and active calendar days to record usage metrics and adjust promo behavior.
+// ---
+
 #include "chrome/browser/ui/user_education/recent_session_policy.h"
 
 #include <optional>

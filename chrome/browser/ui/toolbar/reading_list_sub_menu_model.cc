@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading list submenu model implementation
+// summary: Implements the Reading List submenu model, adding the add-tab and show-UI commands with icons and an element identifier for the show-UI entry.
+// ---
+
 #include "chrome/browser/ui/toolbar/reading_list_sub_menu_model.h"
 
 #include "chrome/app/chrome_command_ids.h"

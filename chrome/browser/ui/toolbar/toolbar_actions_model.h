@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar actions model header
+// summary: Declares ToolbarActionsModel, a per-profile keyed service that manages which extension actions appear on the toolbar and their pinned order.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TOOLBAR_TOOLBAR_ACTIONS_MODEL_H_
 #define CHROME_BROWSER_UI_TOOLBAR_TOOLBAR_ACTIONS_MODEL_H_
 

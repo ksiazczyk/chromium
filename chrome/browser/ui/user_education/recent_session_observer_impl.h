@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recent session observer implementation
+// summary: Declares RecentSessionObserverImpl, which observes recent session updates, consults a policy, records metrics, and informs the user education strategy.
+// ---
+
 #ifndef CHROME_BROWSER_UI_USER_EDUCATION_RECENT_SESSION_OBSERVER_IMPL_H_
 #define CHROME_BROWSER_UI_USER_EDUCATION_RECENT_SESSION_OBSERVER_IMPL_H_
 

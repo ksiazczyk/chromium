@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for toast registry and specification
+// summary: Tests ToastSpecification builder defaults, close and action buttons, menus, and registry behavior, including death checks on invalid configurations.
+// ---
+
 #include "chrome/browser/ui/toasts/api/toast_registry.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToastRegistry class tracking registered toasts
+// summary: Declares the ToastRegistry class that maps ToastId values to their ToastSpecification instances for registration and lookup.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TOASTS_API_TOAST_REGISTRY_H_
 #define CHROME_BROWSER_UI_TOASTS_API_TOAST_REGISTRY_H_
 

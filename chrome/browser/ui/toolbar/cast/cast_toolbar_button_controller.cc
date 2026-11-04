@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast toolbar button controller implementation
+// summary: Implements the per-profile controller that shows or hides the Cast toolbar icon based on media routes, issues and open dialogs.
+// ---
+
 #include "chrome/browser/ui/toolbar/cast/cast_toolbar_button_controller.h"
 
 #include <algorithm>

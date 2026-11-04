@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toast view header
+// summary: Declares the ToastView bubble dialog class with its button, menu, and animation APIs and the persisted ToastCloseReason enum.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TOASTS_TOAST_VIEW_H_
 #define CHROME_BROWSER_UI_TOASTS_TOAST_VIEW_H_
 

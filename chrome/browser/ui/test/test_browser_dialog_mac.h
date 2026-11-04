@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mac dialog test setup header
+// summary: Declares the macOS-specific interactive setup that lets dialogs be activated in browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TEST_TEST_BROWSER_DIALOG_MAC_H_
 #define CHROME_BROWSER_UI_TEST_TEST_BROWSER_DIALOG_MAC_H_
 

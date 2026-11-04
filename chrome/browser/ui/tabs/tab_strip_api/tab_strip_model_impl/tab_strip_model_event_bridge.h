@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripModelEventBridge header
+// summary: Declares TabStripModelEventBridge, which observes tab strip model, tab group and split tab changes and re-emits them as tabs API events to observers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TAB_STRIP_API_TAB_STRIP_MODEL_IMPL_TAB_STRIP_MODEL_EVENT_BRIDGE_H_
 #define CHROME_BROWSER_UI_TABS_TAB_STRIP_API_TAB_STRIP_MODEL_IMPL_TAB_STRIP_MODEL_EVENT_BRIDGE_H_
 

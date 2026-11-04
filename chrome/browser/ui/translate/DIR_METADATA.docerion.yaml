@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the translate UI folder
+summary: Points the directory metadata to the shared translate component metadata via a mixin.

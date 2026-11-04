@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Partial Translate bubble model implementation header
+// summary: Declares the concrete partial translate bubble model class, its translation status enum, and histogram logging helpers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TRANSLATE_PARTIAL_TRANSLATE_BUBBLE_MODEL_IMPL_H_
 #define CHROME_BROWSER_UI_TRANSLATE_PARTIAL_TRANSLATE_BUBBLE_MODEL_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pinned toolbar action ID to element identifier mapping
+// summary: Maps pinned toolbar action IDs to the UI element identifiers used for anchoring bubbles to toolbar buttons.
+// ---
+
 #include "chrome/browser/ui/toolbar/pinned_toolbar/pinned_toolbar_actions_ids.h"
 
 #include "chrome/browser/ui/actions/chrome_action_id.h"

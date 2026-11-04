@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task manager column ID stringification
+// summary: Implements GetColumnIdAsString, mapping task manager column resource IDs to their symbolic string names used as session restore keys.
+// ---
+
 #include "chrome/browser/ui/task_manager/task_manager_columns.h"
 
 #include <string_view>

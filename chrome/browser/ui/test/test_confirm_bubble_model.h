@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test confirm bubble model declaration
+// summary: Declares TestConfirmBubbleModel, a test version of ConfirmBubbleModel that reports button, link and dismissal events via optional boolean flags for use in tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TEST_TEST_CONFIRM_BUBBLE_MODEL_H_
 #define CHROME_BROWSER_UI_TEST_TEST_CONFIRM_BUBBLE_MODEL_H_
 

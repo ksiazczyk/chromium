@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Start tutorial in page implementation
+// summary: Implements opening a target page and starting a registered tutorial, notifying the caller via callback when the tutorial is triggered.
+// ---
+
 #include "chrome/browser/ui/user_education/start_tutorial_in_page.h"
 
 #include "base/memory/weak_ptr.h"

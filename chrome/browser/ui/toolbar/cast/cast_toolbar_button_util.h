@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast toolbar button utility header
+// summary: Declares CastToolbarButtonUtil::AddCastChildActions, which adds context menu options to the Cast toolbar action.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TOOLBAR_CAST_CAST_TOOLBAR_BUTTON_UTIL_H_
 #define CHROME_BROWSER_UI_TOOLBAR_CAST_CAST_TOOLBAR_BUTTON_UTIL_H_
 

@@ -1,3 +1,13 @@
+---
+type: reference
+title: Chromium User Education navigation links
+summary: Lists navigation links to the user education home, architecture overview, and getting started documentation.
+relations:
+  - references /components/user_education/README.md
+  - references /components/user_education/getting-started.md
+  - references /docs/README.md
+---
+
 # Chromium User Education
 
 * [Chromium Docs Home](/docs/README.md)

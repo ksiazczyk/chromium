@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tab strip API types build configuration
+summary: GN build file defining the types source_set that packages tab_states.h as internal component-specific types for models integrating with the tab strip service.

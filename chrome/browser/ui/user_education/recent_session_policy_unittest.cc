@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Recent session policy unit tests
+// summary: Unit tests verifying histogram bucket counts and low-usage detection constraints of the recent session policy using mock constraints.
+// ---
+
 #include "chrome/browser/ui/user_education/recent_session_policy.h"
 
 #include <sstream>

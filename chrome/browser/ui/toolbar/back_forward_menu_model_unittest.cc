@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Back/forward menu model unit tests
+// summary: Unit tests for the back/forward menu model, verifying history item counts, chapter stops, icons, and menu structure via navigation simulation.
+// ---
+
 #include "chrome/browser/ui/toolbar/back_forward_menu_model.h"
 
 #include <string>

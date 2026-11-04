@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Labs utilities implementation
+// summary: Implements helpers that validate labs per channel and platform, update new badge preferences, and decide whether Chrome Labs UI should appear.
+// ---
+
 #include "chrome/browser/ui/toolbar/chrome_labs/chrome_labs_utils.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ToolbarActionsModel browser tests
+// summary: Browser tests verifying pinned extension state, pinned-state metrics histograms, and persistence of pinned actions across sessions for the toolbar actions model.
+// ---
+
 #include "chrome/browser/ui/toolbar/toolbar_actions_model.h"
 
 #include "base/memory/raw_ptr.h"

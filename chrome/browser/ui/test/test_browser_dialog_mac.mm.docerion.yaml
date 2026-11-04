@@ -1,0 +1,4 @@
+# Docerion header of test_browser_dialog_mac.mm.
+type: test
+title: Mac dialog test setup implementation
+summary: Adjusts the macOS activation policy and activates the app so dialogs can be activated during interactive tests.

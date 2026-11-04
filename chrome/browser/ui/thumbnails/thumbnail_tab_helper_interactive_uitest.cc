@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Thumbnail tab helper interactive UI tests
+// summary: Interactive browser tests that verify thumbnail creation for tabs using state observers, exercising the Memory Saver feature and browser-close behavior.
+// ---
+
 #include "chrome/browser/ui/thumbnails/thumbnail_tab_helper.h"
 
 #include <optional>

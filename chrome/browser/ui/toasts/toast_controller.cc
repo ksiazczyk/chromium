@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toast controller implementation
+// summary: Implements the per-browser ToastController that shows, replaces, and dismisses toasts and reacts to navigation, omnibox, and widget events.
+// ---
+
 #include "chrome/browser/ui/toasts/toast_controller.h"
 
 #include <memory>

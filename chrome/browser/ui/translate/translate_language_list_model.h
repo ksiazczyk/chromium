@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranslateLanguageListModel interface header
+// summary: Declares the abstract TranslateLanguageListModel interface providing source and target language counts, display names, and index accessors for the Full and Partial Translate bubble UXs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TRANSLATE_TRANSLATE_LANGUAGE_LIST_MODEL_H_
 #define CHROME_BROWSER_UI_TRANSLATE_TRANSLATE_LANGUAGE_LIST_MODEL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast toolbar button utility implementation
+// summary: Builds the child actions for the Cast toolbar context menu, including about, learn more, help and media remoting toggle entries.
+// ---
+
 #include "chrome/browser/ui/toolbar/cast/cast_toolbar_button_util.h"
 
 #include "base/metrics/user_metrics.h"

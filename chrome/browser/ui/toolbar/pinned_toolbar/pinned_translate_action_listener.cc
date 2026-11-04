@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pinned translate action listener implementation
+// summary: Listens to tab translation state changes and updates the underline indicator on the pinned translate action.
+// ---
+
 #include "chrome/browser/ui/toolbar/pinned_toolbar/pinned_translate_action_listener.h"
 
 #include "chrome/browser/translate/chrome_translate_client.h"

@@ -1,3 +1,12 @@
+---
+type: guide
+title: TabStripService API Developer Guide
+summary: Describes the high-level architecture and step-by-step instructions for adding new methods and events to the TabStripService API.
+relations:
+  - references /chrome/browser/ui/tabs/tab_strip_api/tab_strip_api.md
+  - references /docs/security/ipc-reviews.md
+---
+
 # TabStripService API Developer Guide
 This document provides a guide on extending the TabStripService API.
 TabStripService is a stable, cross-platform interface for interacting with the

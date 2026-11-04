@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of GetToastName for toast identifiers
+// summary: Maps each ToastId enum value to the string name persisted to logs through a switch statement.
+// ---
+
 #include "chrome/browser/ui/toasts/api/toast_id.h"
 
 #include <string>

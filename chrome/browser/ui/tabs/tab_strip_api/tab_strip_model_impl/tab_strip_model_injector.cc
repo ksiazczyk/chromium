@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripModelInjector implementation
+// summary: Implements TabStripModelInjector and the Translator, wiring the tab strip model adapter, browser adapter, translation adapter and event bridges for a browser window.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_strip_api/tab_strip_model_impl/tab_strip_model_injector.h"
 
 #include "base/strings/string_number_conversions.h"

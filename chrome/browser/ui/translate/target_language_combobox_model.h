@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Target language combobox model interface
+// summary: Declares the ui::ComboboxModel subclass used by the Translate UI to select a target language.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TRANSLATE_TARGET_LANGUAGE_COMBOBOX_MODEL_H_
 #define CHROME_BROWSER_UI_TRANSLATE_TARGET_LANGUAGE_COMBOBOX_MODEL_H_
 

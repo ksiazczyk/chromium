@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Chrome Labs BUILD.gn build definition
+summary: Defines the GN source_set for the Chrome Labs code and its non-Android unit test target, listing sources and dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android browser adapter implementation
+// summary: Implements the BrowserAdapter interface over the Android TabModel, creating tab strip model adapters and adding tabs with optional pinning and grouping.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_strip_api/android_tab_model_impl/android_browser_adapter_impl.h"
 
 #include "base/check_deref.h"

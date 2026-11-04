@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pinned toolbar actions model header
+// summary: Declares PinnedToolbarActionsModel, a KeyedService tracking pinned toolbar actions with an observer interface.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TOOLBAR_PINNED_TOOLBAR_PINNED_TOOLBAR_ACTIONS_MODEL_H_
 #define CHROME_BROWSER_UI_TOOLBAR_PINNED_TOOLBAR_PINNED_TOOLBAR_ACTIONS_MODEL_H_
 

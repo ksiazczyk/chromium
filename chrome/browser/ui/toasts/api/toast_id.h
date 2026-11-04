@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToastId enum of unique toast identifiers
+// summary: Declares the ToastId enum with stable, non-reusable numeric values for logging and the GetToastName helper, kept in sync with histogram metadata.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TOASTS_API_TOAST_ID_H_
 #define CHROME_BROWSER_UI_TOASTS_API_TOAST_ID_H_
 

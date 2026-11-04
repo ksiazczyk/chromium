@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Labs preferences implementation
+// summary: Defines and registers Chrome Labs preferences, including the enterprise policy flag, new badge dictionaries, and the activation threshold.
+// ---
+
 #include "chrome/browser/ui/toolbar/chrome_labs/chrome_labs_prefs.h"
 
 #include "components/pref_registry/pref_registry_syncable.h"

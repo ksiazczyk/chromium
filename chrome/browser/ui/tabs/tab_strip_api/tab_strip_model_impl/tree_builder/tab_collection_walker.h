@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabCollectionWalker class declaration
+// summary: Declares a walker that turns a tab collection node and its children into Mojo containers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TAB_STRIP_API_TAB_STRIP_MODEL_IMPL_TREE_BUILDER_TAB_COLLECTION_WALKER_H_
 #define CHROME_BROWSER_UI_TABS_TAB_STRIP_API_TAB_STRIP_MODEL_IMPL_TREE_BUILDER_TAB_COLLECTION_WALKER_H_
 

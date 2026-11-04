@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for pinned toolbar
+summary: Defines GN source sets for the pinned toolbar headers, implementation and browser tests, with their dependencies.

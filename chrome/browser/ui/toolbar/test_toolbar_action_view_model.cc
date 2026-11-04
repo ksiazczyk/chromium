@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test toolbar action view model implementation
+// summary: Implements a minimal, configurable ToolbarActionViewModel fake for testing, with setters for names and state, popup simulation, and action execution counting.
+// ---
+
 #include "chrome/browser/ui/toolbar/test_toolbar_action_view_model.h"
 
 #include <string>

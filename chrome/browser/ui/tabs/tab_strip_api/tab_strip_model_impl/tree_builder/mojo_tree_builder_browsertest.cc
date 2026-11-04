@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for MojoTreeBuilder tree construction
+// summary: Verifies that the built Mojo tree matches a scenario with pinned tabs, unpinned tabs, and tab groups.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_strip_api/tab_strip_model_impl/tree_builder/mojo_tree_builder.h"
 
 #include "chrome/browser/ui/browser_tabstrip.h"

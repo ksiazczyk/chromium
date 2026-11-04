@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pinned toolbar actions model browser tests
+// summary: In-process browser tests verifying pinning, unpinning, moving and observer notifications of the actions model.
+// ---
+
 #include "chrome/browser/ui/toolbar/pinned_toolbar/pinned_toolbar_actions_model.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Toolbar BUILD.gn build definition
+summary: GN build definition for the Chrome toolbar source sets, listing sources and dependencies for the location bar model delegate and desktop app menu components.

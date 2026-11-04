@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Source language combobox model implementation
+// summary: Implements the combobox model that exposes source languages from the translate language list model for UI selection.
+// ---
+
 #include "chrome/browser/ui/translate/source_language_combobox_model.h"
 
 #include "base/strings/utf_string_conversions.h"

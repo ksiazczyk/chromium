@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading list submenu model header
+// summary: Declares ReadingListSubMenuModel, a simple menu model that builds the Reading List submenu with add-tab and show-reading-list entries.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TOOLBAR_READING_LIST_SUB_MENU_MODEL_H_
 #define CHROME_BROWSER_UI_TOOLBAR_READING_LIST_SUB_MENU_MODEL_H_
 

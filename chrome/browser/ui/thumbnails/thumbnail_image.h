@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thumbnail image interface
+// summary: Declares a reference-counted thumbnail data holder that vends compressed or uncompressed images to subscribers via callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_UI_THUMBNAILS_THUMBNAIL_IMAGE_H_
 #define CHROME_BROWSER_UI_THUMBNAILS_THUMBNAIL_IMAGE_H_
 

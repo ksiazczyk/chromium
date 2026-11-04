@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background thumbnail video capturer interface
+// summary: Declares a FrameSinkVideoConsumer capturer that streams tab frames as SkBitmaps to a callback for thumbnail generation.
+// ---
+
 #ifndef CHROME_BROWSER_UI_THUMBNAILS_BACKGROUND_THUMBNAIL_VIDEO_CAPTURER_H_
 #define CHROME_BROWSER_UI_THUMBNAILS_BACKGROUND_THUMBNAIL_VIDEO_CAPTURER_H_
 

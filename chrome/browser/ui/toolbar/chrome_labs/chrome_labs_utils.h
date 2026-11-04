@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Labs utilities header
+// summary: Declares Chrome Labs helper functions for feature validity, new badge preference updates, UI visibility, and forced activation for testing.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TOOLBAR_CHROME_LABS_CHROME_LABS_UTILS_H_
 #define CHROME_BROWSER_UI_TOOLBAR_CHROME_LABS_CHROME_LABS_UTILS_H_
 

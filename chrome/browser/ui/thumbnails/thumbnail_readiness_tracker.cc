@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThumbnailReadinessTracker implementation
+// summary: Implements a WebContentsObserver that tracks navigation and load state to report when a page is ready for initial or final thumbnail capture.
+// ---
+
 #include "chrome/browser/ui/thumbnails/thumbnail_readiness_tracker.h"
 
 #include <utility>

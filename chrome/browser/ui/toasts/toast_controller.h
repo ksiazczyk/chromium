@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toast controller interface
+// summary: Declares ToastController and ToastParams for managing the single toast displayed per browser window.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TOASTS_TOAST_CONTROLLER_H_
 #define CHROME_BROWSER_UI_TOASTS_TOAST_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android tab strip API injector implementation
+// summary: Implements the Android platform adapters provider, wiring the browser, model, and translation adapters plus an optional or no-op event bridge.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_strip_api/android_tab_model_impl/android_tab_strip_api_injector.h"
 
 #include "base/notreached.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar actions model implementation
+// summary: Implements the per-profile model managing pinned toolbar extension actions, reacting to extension, permission, and preference changes and notifying observers.
+// ---
+
 #include "chrome/browser/ui/toolbar/toolbar_actions_model.h"
 
 #include <algorithm>

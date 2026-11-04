@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android tab model event bridge implementation
+// summary: Implements the event bridge that translates Android tab model selection, activation, add, remove, and group changes into Tab Strip API events for observers.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_strip_api/android_tab_model_impl/android_tab_model_event_bridge.h"
 
 #include "chrome/browser/android/tab_android.h"

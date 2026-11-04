@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Thumbnail capture driver unit tests
+// summary: Unit tests verifying the capture driver state machine's interactions with its client and scheduler using mock and stub objects.
+// ---
+
 #include "chrome/browser/ui/thumbnails/thumbnail_capture_driver.h"
 
 #include "base/test/task_environment.h"

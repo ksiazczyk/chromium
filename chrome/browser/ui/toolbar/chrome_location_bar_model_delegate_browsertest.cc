@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome location bar model delegate browser test
+// summary: Browser tests for ChromeLocationBarModelDelegate, using a test delegate with configurable certificate status to verify new tab page detection and URL retrieval.
+// ---
+
 #include "chrome/browser/ui/toolbar/chrome_location_bar_model_delegate.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pixel test configuration mixin implementation
+// summary: Implements a browser test mixin that forces dark mode and a right-to-left pseudo language for pixel test configurations.
+// ---
+
 #include "chrome/browser/ui/test/pixel_test_configuration_mixin.h"
 
 #include <string>

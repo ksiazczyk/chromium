@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App menu icon controller unit tests
+// summary: Unit tests for app menu icon severity mapping, labels, and delegate updates using fake upgrade detectors and global errors.
+// ---
+
 #include "chrome/browser/ui/toolbar/app_menu_icon_controller.h"
 
 #include "base/test/scoped_feature_list.h"

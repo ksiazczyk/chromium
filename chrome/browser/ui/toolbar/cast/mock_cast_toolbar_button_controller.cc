@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Cast toolbar button controller implementation
+// summary: Implements the mock controller constructor that wires the mock to the profile's media router for use in tests.
+// ---
+
 #include "chrome/browser/ui/toolbar/cast/mock_cast_toolbar_button_controller.h"
 
 #include "components/media_router/browser/media_router_factory.h"

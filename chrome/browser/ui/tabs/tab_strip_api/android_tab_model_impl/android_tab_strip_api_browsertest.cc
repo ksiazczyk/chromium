@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android tab strip API browser tests
+// summary: Browser tests verifying Android tab strip API service behavior such as observation, node retrieval, and tree structure against the Android tab model.
+// ---
+
 #include "base/strings/string_number_conversions.h"
 #include "base/test/gtest_util.h"
 #include "chrome/browser/ui/android/tab_model/tab_model.h"

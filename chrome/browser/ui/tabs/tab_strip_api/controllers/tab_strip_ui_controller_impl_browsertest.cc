@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for TabStripUIControllerImpl
+// summary: In-process browser test exercising ShowTabContextMenu over a Mojo remote using a toy context menu adapter and a test injector.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_strip_api/controllers/tab_strip_ui_controller_impl.h"
 
 #include <memory>

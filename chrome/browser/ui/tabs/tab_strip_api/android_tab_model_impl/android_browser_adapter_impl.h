@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android browser adapter class declaration
+// summary: Declares AndroidBrowserAdapterImpl, a BrowserAdapter wrapper around the Android TabModel for tab creation and adapter creation.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TAB_STRIP_API_ANDROID_TAB_MODEL_IMPL_ANDROID_BROWSER_ADAPTER_IMPL_H_
 #define CHROME_BROWSER_UI_TABS_TAB_STRIP_API_ANDROID_TAB_MODEL_IMPL_ANDROID_BROWSER_ADAPTER_IMPL_H_
 

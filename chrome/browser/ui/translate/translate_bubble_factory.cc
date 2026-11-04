@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate bubble factory implementation
+// summary: Implements the factory that shows the Full Page Translate bubble on a browser window, delegating to a custom factory when one is set.
+// ---
+
 #include "chrome/browser/ui/translate/translate_bubble_factory.h"
 
 #include <string>

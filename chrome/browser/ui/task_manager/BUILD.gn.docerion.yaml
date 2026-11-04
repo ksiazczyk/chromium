@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Task manager build targets and dependencies
+summary: Defines the task_manager source set and its unit_tests target in GN, listing sources and dependencies for the task manager UI.

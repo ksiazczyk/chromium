@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App menu model implementation
+// summary: Implements the Chrome app menu model, building menu items, commands, and actions for the toolbar wrench menu.
+// ---
+
 #include "chrome/browser/ui/toolbar/app_menu_model.h"
 
 #include <algorithm>
