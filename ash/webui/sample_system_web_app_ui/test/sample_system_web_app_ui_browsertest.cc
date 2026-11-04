@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the sample system web app UI
+// summary: C++ browser test harness that loads the sample system web app and runs Mocha test cases for trusted and chrome-untrusted WebUI behavior.
+// ---
+
 #include "ash/webui/sample_system_web_app_ui/url_constants.h"
 #include "ash/webui/web_applications/test/sandboxed_web_ui_test_base.h"
 #include "base/strings/stringprintf.h"

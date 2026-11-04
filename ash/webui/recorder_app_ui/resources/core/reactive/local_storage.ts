@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signal binding to local storage
+// summary: Binds a signal to a local storage key, initializing from storage, reacting to storage events, and writing signal changes back to local storage without loops.
+// ---
+
 import * as localStorage from '../utils/local_storage.js';
 import type {JsonSerializable, Key} from '../utils/local_storage.js';
 import type {Schema} from '../utils/schema.js';

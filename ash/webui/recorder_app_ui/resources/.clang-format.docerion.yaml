@@ -1,0 +1,4 @@
+# Docerion header of .clang-format.
+type: config
+title: Clang-format configuration for recorder app resources
+summary: Clang-format settings based on the Chromium style with block-indent alignment and a continuation indent width of 2.

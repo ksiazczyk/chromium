@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: withTooltip Lit directive for the recorder app UI
+// summary: Lit async directive that attaches a Cros Components tooltip to an element on focus or hover, defaulting the label to the element's aria-label.
+// ---
+
 import 'chrome://resources/cros_components/tooltip/tooltip.js';
 
 import {Tooltip} from 'chrome://resources/cros_components/tooltip/tooltip.js';

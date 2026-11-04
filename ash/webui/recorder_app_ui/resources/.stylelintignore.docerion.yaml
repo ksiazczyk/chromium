@@ -1,0 +1,4 @@
+# Docerion header of .stylelintignore.
+type: config
+title: Stylelint ignore list
+summary: Excludes generated static CSS files, dist output and TypeScript declaration files from stylelint checks.

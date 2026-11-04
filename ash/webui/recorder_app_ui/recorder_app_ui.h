@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recorder app WebUI controller declarations
+// summary: Declares the Recorder app WebUI controller and its config, including the Mojo page handler, SODA installer observer, and model progress interfaces.
+// ---
+
 #ifndef ASH_WEBUI_RECORDER_APP_UI_RECORDER_APP_UI_H_
 #define ASH_WEBUI_RECORDER_APP_UI_RECORDER_APP_UI_H_
 

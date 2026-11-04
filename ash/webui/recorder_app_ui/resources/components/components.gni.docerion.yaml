@@ -1,0 +1,4 @@
+# Docerion header of components.gni.
+type: config
+title: Recorder components build file list
+summary: GN build configuration listing the TypeScript component files of the Recorder app UI so they can be included in the build.

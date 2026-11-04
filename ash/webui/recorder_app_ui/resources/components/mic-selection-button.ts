@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Microphone selection button component
+// summary: Dropdown button component for selecting the recording input microphone and toggling system audio with consent handling.
+// ---
+
 import 'chrome://resources/cros_components/menu/menu_separator.js';
 import './cra/cra-icon.js';
 import './cra/cra-icon-dropdown.js';

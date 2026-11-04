@@ -1,1 +1,7 @@
+<!--docerion
+type: asset
+title: Play arrow icon
+summary: SVG icon of a right-pointing triangle used as a play control in the recorder app.
+-->
+
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20"><path fill-rule="evenodd" d="m6 16 10-6L6 4v12Z" clip-rule="evenodd"/></svg>

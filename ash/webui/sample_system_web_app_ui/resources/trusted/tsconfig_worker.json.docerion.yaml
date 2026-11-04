@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_worker.json.
+type: config
+title: Worker TypeScript compiler configuration
+summary: TypeScript configuration for the worker build that extends the Chromium base tsconfig and enables the webworker and ES next library targets.

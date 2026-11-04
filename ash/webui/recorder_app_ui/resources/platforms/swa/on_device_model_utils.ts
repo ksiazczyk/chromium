@@ -4,6 +4,12 @@
 
 // This file contains all utility functions for on_device_model.ts.
 
+// ---docerion
+// type: source
+// title: Utilities for on-device model responses
+// summary: Provides helpers to parse model responses, detect canned or invalidly formatted output, and trim empty or repeated bullet points using LCS scores.
+// ---
+
 import type {LanguageCode} from '../../core/soda/language_info.js';
 import {assertExists} from '../../core/utils/assert.js';
 

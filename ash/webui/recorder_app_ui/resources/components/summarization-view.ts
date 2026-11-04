@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Summarization view component
+// summary: Lit component that displays the recording summary with model state, errors, progress, feedback buttons, and a consent card.
+// ---
+
 import 'chrome://resources/cros_components/accordion/accordion.js';
 import 'chrome://resources/cros_components/accordion/accordion_item.js';
 import 'chrome://resources/cros_components/badge/badge.js';

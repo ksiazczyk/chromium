@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CraDropdown component
+// summary: Defines a CraDropdown custom element extending the cros-components Dropdown with ChromeOS menu container colors and full-width styling.
+// ---
+
 import {
   Dropdown as CrosDropdown,
 } from 'chrome://resources/cros_components/dropdown/dropdown.js';

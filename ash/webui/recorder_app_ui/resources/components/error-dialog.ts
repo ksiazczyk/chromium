@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Error dialog component
+// summary: Lit web component that shows an unescapable error dialog with a message and a consent button the user must click to close it.
+// ---
+
 import './cra/cra-button.js';
 import './unescapable-dialog.js';
 

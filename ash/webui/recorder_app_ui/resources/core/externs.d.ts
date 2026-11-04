@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Type declarations for external APIs
+// summary: Declares ambient types for audio sink options, Lit render results, and the Chrome crash report private API.
+// ---
+
 // Set audio output device in AudioContext, available from Chrome 110
 // https://webaudio.github.io/web-audio-api/#AudioContextOptions
 type AudioSinkType = 'none';

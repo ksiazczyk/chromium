@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for recorder app UI resources
+summary: GN build file that generates image scripts and GRDP resources and bundles TypeScript components, pages, platforms and core files into the recorder_app webui build.

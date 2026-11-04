@@ -1,0 +1,4 @@
+# Docerion header of sample_system_web_app_untrusted_ui.mojom.
+type: source
+title: sample_system_web_app_untrusted_ui mojom factory
+summary: Mojom factory interface for creating page handlers and parent-child communication interfaces, importing the shared UI mojom definitions.

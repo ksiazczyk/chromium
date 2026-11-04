@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dev server error view component
+// summary: Lit component that displays unexpected dev server errors and clears stale dev settings from localStorage and reloads when the dev settings schema changes.
+// ---
+
 import type {PropertyDeclarations} from 'chrome://resources/mwc/lit/index.js';
 import {
   css,

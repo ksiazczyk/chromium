@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings row component
+// summary: Reusable row for the settings menu with label, description, action, and status slots that forwards clicks to its enabled action element.
+// ---
+
 import {classMap, css, html} from 'chrome://resources/mwc/lit/index.js';
 
 import {ReactiveLitElement} from '../core/reactive/lit.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App initialization for the recorder UI
+// summary: Initializes routing, settings, microphone manager, data directory, and recording data manager before the app is mounted.
+// ---
+
 import {DataDir} from './data_dir.js';
 import {initContext} from './lit/context.js';
 import {MicrophoneManager} from './microphone_manager.js';

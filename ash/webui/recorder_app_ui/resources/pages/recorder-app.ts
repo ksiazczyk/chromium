@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recorder App root component and router
+// summary: Root Lit element of the ChromeOS Recorder App that routes between the main, playback, record, and dev pages and reports session start state.
+// ---
+
 import './dev-page.js';
 import './main-page.js';
 import './playback-page.js';

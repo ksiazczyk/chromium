@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device model types and model loader API
+// summary: Defines TypeScript types for on-device model state, execution and load errors, and the ModelLoader and Model interfaces used by the Recorder app UI.
+// ---
+
 import type {ReadonlySignal} from '../reactive/signal.js';
 import type {LanguageCode} from '../soda/language_info.js';
 import {assertExists} from '../utils/assert.js';

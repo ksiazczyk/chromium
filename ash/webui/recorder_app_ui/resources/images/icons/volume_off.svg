@@ -1,1 +1,7 @@
+<!--docerion
+type: asset
+title: Volume off icon
+summary: SVG icon of a speaker without sound waves, representing the volume-off state in the Recorder app UI.
+-->
+
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M1 13h3.5L8 16.5v-13L4.5 7H1v6Z" clip-rule="evenodd"/></svg>

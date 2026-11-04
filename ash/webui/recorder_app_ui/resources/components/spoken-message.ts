@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spoken message component
+// summary: Lit element that renders its slotted text invisibly so screen readers can speak it to the user.
+// ---
+
 import {css, html, LitElement} from 'chrome://resources/mwc/lit/index.js';
 
 /**

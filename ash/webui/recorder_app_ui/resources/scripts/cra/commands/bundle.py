@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Bundle cra as a static website
+# summary: CLI command that compiles the app with tsc and bundles it into a static website servable by any static HTTP server with SPA support.
+# ---
+
 import logging
 import os
 import pathlib

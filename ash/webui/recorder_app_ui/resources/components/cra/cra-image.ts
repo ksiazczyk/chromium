@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CraImage component
+// summary: Defines a CraImage element that renders a named SVG illustration from the bundled images at its intrinsic size without a default fill color.
+// ---
+
 import {images} from '/images/images.js';
 import type {PropertyDeclarations} from 'chrome://resources/mwc/lit/index.js';
 import {

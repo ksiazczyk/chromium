@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the trusted WebUI resources
+summary: GN build file defining the WebUI build targets, including the worker TypeScript library and generated resource files.

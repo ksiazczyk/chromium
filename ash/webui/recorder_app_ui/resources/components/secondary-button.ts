@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secondary button component
+// summary: Circular icon button extending CraIconButton with adjusted sizing and colors, registered as the secondary-button custom element.
+// ---
+
 import './cra/cra-icon-button.js';
 
 import {css} from 'chrome://resources/mwc/lit/index.js';

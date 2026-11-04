@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recorder App playback page
+// summary: Playback page of the ChromeOS Recorder App for playing recordings with waveform display, transcription and summarization views, and speed controls.
+// ---
+
 import 'chrome://resources/cros_components/menu/menu_separator.js';
 import 'chrome://resources/cros_components/slider/slider.js';
 import 'chrome://resources/mwc/@material/web/icon/icon.js';

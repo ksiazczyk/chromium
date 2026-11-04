@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: General-purpose utility functions
+// summary: Collects helpers such as clamp, sliceWhen, parseNumber, locale-aware word counting and chunking, string shortening, sleep, and file download.
+// ---
+
 import {assert, assertExists} from './assert.js';
 
 /**

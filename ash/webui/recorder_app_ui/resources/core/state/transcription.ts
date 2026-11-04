@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Transcription enablement and SODA install actions
+// summary: Provides functions to enable, disable, and toggle transcription, set its language, and install the SODA speech model with performance logging.
+// ---
+
 import {createTranscriptionModelDownloadPerf} from '../events_sender.js';
 import {usePlatformHandler} from '../lit/context.js';
 import type {LanguageCode} from '../soda/language_info.js';

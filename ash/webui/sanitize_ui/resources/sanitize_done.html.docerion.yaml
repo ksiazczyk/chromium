@@ -1,0 +1,4 @@
+# Docerion header of sanitize_done.html.
+type: source
+title: Sanitize done dialog template
+summary: Template for the dialog shown after sanitize completes, with expandable info about extensions and Chrome and ChromeOS settings.

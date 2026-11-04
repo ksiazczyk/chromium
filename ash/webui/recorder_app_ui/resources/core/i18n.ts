@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Localized strings for the recorder app
+// summary: Defines the localized message names and helpers used for the recorder app UI, including onboarding, export, and language picker strings.
+// ---
+
 import {join} from 'chrome://resources/mwc/lit/index.js';
 
 import {PlatformHandler} from '../platforms/index.js';

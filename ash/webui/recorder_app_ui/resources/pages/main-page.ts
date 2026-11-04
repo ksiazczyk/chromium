@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recorder App main page
+// summary: Main page of the ChromeOS Recorder App showing the recording file list, record button, microphone selection, settings menu, and related dialogs.
+// ---
+
 import 'chrome://resources/mwc/@material/web/iconbutton/filled-icon-button.js';
 import '../components/cra/cra-icon-button.js';
 import '../components/cra/cra-icon-dropdown.js';

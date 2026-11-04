@@ -1,0 +1,4 @@
+# Docerion header of pages.gni.
+type: config
+title: GN list of Recorder App page files
+summary: GN build configuration listing the TypeScript page files of the Recorder App UI for inclusion in the build.

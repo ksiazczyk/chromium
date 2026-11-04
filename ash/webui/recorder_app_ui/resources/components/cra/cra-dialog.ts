@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CraDialog component
+// summary: Defines a CraDialog custom element extending Material Web Dialog with ChromeOS styling, custom open and close animations, and fixed-width layout for the Recorder app.
+// ---
+
 import {MdDialog} from 'chrome://resources/mwc/@material/web/dialog/dialog.js';
 import type {DialogAnimation} from 'chrome://resources/mwc/@material/web/dialog/internal/animations.js';
 import type {PropertyValues} from 'chrome://resources/mwc/lit/index.js';

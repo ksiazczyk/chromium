@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transcription consent dialog component
+// summary: Lit dialog for enabling transcription after the user deferred consent during onboarding, chaining to language selection and speaker label consent.
+// ---
+
 import './cra/cra-button.js';
 import './cra/cra-feature-tour-dialog.js';
 import './language-selection-dialog.js';

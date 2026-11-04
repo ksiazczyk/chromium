@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Onboarding dialog component
+// summary: Multi-step onboarding dialog covering the welcome page, transcription consent, language selection, and speaker label consent.
+// ---
+
 import './cra/cra-button.js';
 import './cra/cra-image.js';
 import './language-dropdown.js';

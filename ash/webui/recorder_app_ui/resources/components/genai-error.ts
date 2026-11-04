@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GenAI error component
+// summary: Lit web component that displays GenAI model load and execution errors with matching images, localized messages, and an optional model download action.
+// ---
+
 import './cra/cra-image.js';
 
 import type {CSSResultGroup, PropertyDeclarations} from 'chrome://resources/mwc/lit/index.js';

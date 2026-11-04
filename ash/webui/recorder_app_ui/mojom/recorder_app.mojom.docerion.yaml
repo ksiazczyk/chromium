@@ -1,0 +1,4 @@
+# Docerion header of recorder_app.mojom.
+type: source
+title: Recorder app Mojom interface definitions
+summary: Defines Mojo structs and interfaces for the ChromeOS Recorder app WebUI, covering speech and on-device model installation state, microphone info, language packs, and quiet mode monitoring.

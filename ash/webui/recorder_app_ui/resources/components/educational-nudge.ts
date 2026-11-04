@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Educational nudge component
+// summary: Lit web component that displays a small educational nudge message with a dot to inform users about a feature or behavior.
+// ---
+
 import {
   css,
   html,

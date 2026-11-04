@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RecorderAppUI unit tests
+// summary: Unit tests verifying RecorderAppUI structured metrics recording, event timestamps, and event uptime computation.
+// ---
+
 #include "ash/webui/recorder_app_ui/recorder_app_ui.h"
 
 #include "components/metrics/structured/structured_events.h"

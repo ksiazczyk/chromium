@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CraIcon component
+// summary: Defines a CraIcon element that renders a named SVG icon from the bundled images, sized by the parent and filled with the current color.
+// ---
+
 import {images} from '/images/images.js';
 import type {PropertyDeclarations} from 'chrome://resources/mwc/lit/index.js';
 import {

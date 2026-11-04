@@ -1,0 +1,4 @@
+# Docerion header of platforms.gni.
+type: config
+title: GN file list of platform sources
+summary: GN build configuration listing the platform TypeScript source files, including dev files, for the recorder app UI build.

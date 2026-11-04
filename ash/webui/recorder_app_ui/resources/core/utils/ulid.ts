@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ULID unique identifier generator
+// summary: Generates ULID identifiers per the ulid spec, combining a Crockford Base32 encoded timestamp with crypto random values.
+// ---
+
 import {assertExists} from './assert.js';
 
 // Crockford's Base32.

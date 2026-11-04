@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GenAI feedback buttons component
+// summary: Lit web component providing thumb up and thumb down rating buttons that send feedback events and open the AI feedback dialog with a prepared template.
+// ---
+
 import './cra/cra-image.js';
 import './cra/cra-icon.js';
 import './cra/cra-icon-button.js';

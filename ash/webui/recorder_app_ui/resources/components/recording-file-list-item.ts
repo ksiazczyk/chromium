@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recording file list item component
+// summary: Lit component rendering a recording card with title, description, playback progress, and speaker label timeline in the recording list.
+// ---
+
 import 'chrome://resources/cros_components/card/card.js';
 import './cra/cra-icon.js';
 import './cra/cra-icon-button.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SODA event and session type definitions
+// summary: Defines schemas and types for SODA recognition events, including final and partial results, speaker label corrections, and the SodaSession interface for feeding audio and observing events.
+// ---
+
 import type {Observer, Unsubscribe} from '../utils/observer_list.js';
 import type {Infer} from '../utils/schema.js';
 import {z} from '../utils/schema.js';

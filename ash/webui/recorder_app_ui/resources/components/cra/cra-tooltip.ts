@@ -5,6 +5,12 @@
 // TODO: b/338544996 - This is an implementation of the cros-tooltip component
 // that is not available in cros-component. Upstream this.
 
+// ---docerion
+// type: source
+// title: CraTooltip tooltip web component
+// summary: Lit-based tooltip element implementing cros-tooltip styling with line clamping and anchor-based positioning, pending upstreaming to cros-component.
+// ---
+
 import {css, html, LitElement} from 'chrome://resources/mwc/lit/index.js';
 
 export class CraTooltip extends LitElement {

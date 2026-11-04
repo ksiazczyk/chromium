@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delete recording dialog component
+// summary: Lit web component showing a confirmation dialog for deleting a recording, with cancel and delete actions that dispatch a delete event.
+// ---
+
 import './cra/cra-button.js';
 import './cra/cra-dialog.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dev settings schema and state
+// summary: Defines the dev settings schema, defaults, and a signal bound to localStorage, plus initialization of forced light and dark theme styling.
+// ---
+
 import {
   ModelExecutionError,
   ModelLoadError,

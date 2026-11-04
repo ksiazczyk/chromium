@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speaker label color styles and class helpers
+// summary: TypeScript module exporting CSS color tokens for speaker labels by speaker count plus helper functions that map speaker counts and indices to CSS classes.
+// ---
+
 import {css} from 'chrome://resources/mwc/lit/index.js';
 
 /**

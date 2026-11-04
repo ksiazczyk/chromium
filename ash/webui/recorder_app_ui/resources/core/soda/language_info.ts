@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transcription language codes and language pack info
+// summary: Defines the LanguageCode enum for supported transcription languages and the LangPackInfo interface describing display names plus GenAI and speaker label support per language.
+// ---
+
 /**
  * Language code used for transcription.
  *

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GenAI placeholder loading skeleton component
+// summary: Lit web component that renders animated placeholder lines shown while GenAI features are loading in the Recorder app.
+// ---
+
 import type {CSSResultGroup} from 'chrome://resources/mwc/lit/index.js';
 import {css, html} from 'chrome://resources/mwc/lit/index.js';
 

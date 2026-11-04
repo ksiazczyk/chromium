@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Language list component
+// summary: Lit component that renders the list of available language packs as selectable language list items.
+// ---
+
 import './language-list-item.js';
 
 import type {PropertyDeclarations} from 'chrome://resources/mwc/lit/index.js';

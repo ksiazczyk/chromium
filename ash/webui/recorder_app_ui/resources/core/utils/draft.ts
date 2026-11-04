@@ -8,6 +8,12 @@
  * version of https://github.com/immerjs/immer.
  */
 
+// ---docerion
+// type: source
+// title: Immutable state draft utility
+// summary: Offers a minimal immer-like produce function that applies mutations to a proxy draft while keeping the base object immutable.
+// ---
+
 import {assert} from './assert.js';
 
 // A special tag to retrieve the non-proxied object by finalizing drafts.

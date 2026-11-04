@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Run TypeScript checks for cra
+# summary: CLI command that generates tsconfig from the build directory and runs tsc to check TypeScript types.
+# ---
+
 import pathlib
 import subprocess
 

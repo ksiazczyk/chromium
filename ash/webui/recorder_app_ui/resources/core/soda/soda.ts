@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SODA event transformer for the recorder UI
+// summary: Transforms raw SODA recognition events into text tokens with time ranges, leading spaces, and speaker labels that are easier for the recorder app UI to consume.
+// ---
+
 import {i18n} from '../i18n.js';
 import {assertExists} from '../utils/assert.js';
 import type {Infer} from '../utils/schema.js';

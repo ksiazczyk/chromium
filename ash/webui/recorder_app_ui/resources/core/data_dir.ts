@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data directory wrapper for recording files
+// summary: Provides read, write, list, remove, and clear operations on a directory handle created from the origin private file system.
+// ---
+
 declare global {
   interface FileSystemDirectoryHandle {
     [Symbol.asyncIterator](): AsyncIterableIterator<[string, FileSystemHandle]>;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sanitize initial dialog component
+// summary: Polymer element for the pre-sanitize dialog that calls the SettingsResetter Mojo interface to perform the sanitize.
+// ---
+
 /**
  * @fileoverview
  * 'sanitize-initial' is a dialog shown to kickstart resetting settings to a

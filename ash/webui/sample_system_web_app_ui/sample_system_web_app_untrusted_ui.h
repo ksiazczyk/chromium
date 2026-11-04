@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Untrusted sample system web app UI declaration
+// summary: Declares the untrusted WebUI controller and its config for the sample system web app, exposing the untrusted page interfaces factory.
+// ---
+
 #ifndef ASH_WEBUI_SAMPLE_SYSTEM_WEB_APP_UI_SAMPLE_SYSTEM_WEB_APP_UNTRUSTED_UI_H_
 #define ASH_WEBUI_SAMPLE_SYSTEM_WEB_APP_UI_SAMPLE_SYSTEM_WEB_APP_UNTRUSTED_UI_H_
 

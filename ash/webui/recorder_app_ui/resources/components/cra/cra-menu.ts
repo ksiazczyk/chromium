@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CraMenu menu web component
+// summary: Custom menu element extending cros components Menu with an elevated background style override and a toggle method for showing or closing the menu.
+// ---
+
 import {Menu} from 'chrome://resources/cros_components/menu/menu.js';
 import {css} from 'chrome://resources/mwc/lit/index.js';
 

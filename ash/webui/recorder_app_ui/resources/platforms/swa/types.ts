@@ -8,6 +8,12 @@
  * bundle.
  */
 
+// ---docerion
+// type: source
+// title: Mojo type re-exports for Recorder App SWA
+// summary: Re-exports all Mojo types used by the SWA platform from generated mojom-webui files so imports can be mocked easily during development and bundling.
+// ---
+
 export {
   InputSource,
   LoadModelResult,

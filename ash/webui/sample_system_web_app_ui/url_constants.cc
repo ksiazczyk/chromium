@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sample system web app URL constants
+// summary: Defines host and URL string constants used by the sample system web app's trusted and untrusted WebUI pages.
+// ---
+
 #include "ash/webui/sample_system_web_app_ui/url_constants.h"
 
 namespace ash {

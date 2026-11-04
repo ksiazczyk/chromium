@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: CRA build script for recorder app UI
+# summary: Generates the images JavaScript module and sets up TypeScript paths, references, and the mojom symlink needed to build the recorder app UI.
+# ---
+
 import ast
 import json
 import pathlib

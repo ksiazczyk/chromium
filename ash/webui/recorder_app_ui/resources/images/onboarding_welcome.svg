@@ -1,3 +1,9 @@
+<!--docerion
+type: asset
+title: Onboarding welcome illustration
+summary: SVG welcome illustration for the Recorder App onboarding flow, using ChromeOS theme color variables.
+-->
+
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="236" viewBox="0 0 512 236" fill="none">
 <rect width="512" height="236" fill="var(--cros-sys-illo-color1-2)" />
 <path d="M167.101 135C77.1014 148.2 81.9348 210.5 95.6014 240C149.268 255.667 256.401 271.7 255.601 210.5C254.801 149.3 216.935 137 198.101 138.5C187.301 150.9 172.935 141.333 167.101 135Z" fill="var(--cros-sys-illo-base)" />

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recording search box component
+// summary: Expandable search box component that animates open around an icon button and dispatches query-changed events for filtering recordings.
+// ---
+
 import 'chrome://resources/cros_components/textfield/textfield.js';
 import './cra/cra-icon.js';
 import './cra/cra-icon-button.js';

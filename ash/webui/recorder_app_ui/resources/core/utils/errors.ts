@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stack trace parsing utility
+// summary: Parses the top stack frame from an error stack trace into file name, function name, line, and column information.
+// ---
+
 /**
  * Code location of stack frame.
  */

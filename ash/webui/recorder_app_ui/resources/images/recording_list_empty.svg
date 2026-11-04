@@ -1,3 +1,9 @@
+<!--docerion
+type: asset
+title: Empty recording list illustration
+summary: Large SVG illustration shown when the Recorder App recording list is empty, using ChromeOS theme color variables.
+-->
+
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="600" viewBox="0 0 640 600" fill="none">
 <path d="M350.952 303.287L374.115 301.568L400.709 303.287C393.846 342.396 386.394 390.077 389.826 432.624H357.628C345.804 396.571 350.952 343.256 350.952 303.287Z" fill="var(--cros-sys-illo-color1-1)" stroke="var(--cros-sys-illo-color1)" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" />
 <path d="M431 388.5C431 388.5 428.782 392.225 426.614 412.437C425.313 430.928 418.848 432.625 418.848 432.625" stroke="var(--cros-sys-illo-color1)" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" />

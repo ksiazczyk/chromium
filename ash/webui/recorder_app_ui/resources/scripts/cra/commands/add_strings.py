@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Add localized strings to cra resources
+# summary: CLI command that adds a new localized string ID to recorder_strings.grdp, resources.h, and i18n.ts for the recorder app.
+# ---
+
 import logging
 import re
 import typing

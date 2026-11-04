@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: config
+# title: Recorder app UI gitignore
+# summary: Ignores the node_modules directory and documents symlinking third_party node modules so TypeScript and ESLint IDE plugins work locally.
+# ---
+
 # It's recommended to do a `ln -s ../../../third_party/node/node_modules .`
 # when developing locally, so all TypeScript / ESLint IDE plugins would work as
 # expected.

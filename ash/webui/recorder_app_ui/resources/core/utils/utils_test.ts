@@ -4,6 +4,12 @@
 
 // Run by `npx tsx utils_test.ts`
 
+// ---docerion
+// type: test
+// title: Unit tests for utils
+// summary: Runs node:test based tests verifying the sleep duration and getWordCount behavior for empty and simple English strings.
+// ---
+
 import {strict as assert} from 'node:assert';
 import {describe, it} from 'node:test';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sanitize app web component
+// summary: Polymer element that chooses between the initial and done sanitize dialogs based on the showDone load-time flag.
+// ---
+
 /**
  * @fileoverview
  * 'sanitize-app' is the sanitize app in which based on the url it decides to

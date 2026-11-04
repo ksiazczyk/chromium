@@ -1,3 +1,9 @@
+<!--docerion
+type: asset
+title: Onboarding transcription illustration
+summary: SVG onboarding illustration for the transcription feature in the Recorder App, using ChromeOS theme color variables.
+-->
+
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="236" viewBox="0 0 512 236" fill="none">
 <rect width="512" height="236" fill="var(--cros-sys-illo-color1-2)" />
 <path d="M274.5 155.5L279.5 134.5L316.5 124.5L334 188L344.5 174.5L359 162L378 150L396.5 145.5L405.5 151.5H416L426.5 145.5L444 151.5L458.5 160L472.5 176.5L480.5 191.5L486 208.5V222.5L478 236.5H420.5L416 219.5L404 211.5L389.5 208.5L374.5 211.5L367.5 219.5L357 236.5H305L292 217.5L284.5 193L277.5 169L274.5 155.5Z" fill="var(--cros-sys-illo-base)" />

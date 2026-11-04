@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Abstract sender for recorder app events
+// summary: Defines event and performance parameter interfaces plus an abstract EventsSender class for reporting recording, transcription, and playback events.
+// ---
+
 import type {ModelResponseError} from './on_device_model/types.js';
 import type {LanguageCode} from './soda/language_info.js';
 import type {ExportSettings, SpeakerLabelEnableState, SummaryEnableState, TranscriptionEnableState} from './state/settings.js';

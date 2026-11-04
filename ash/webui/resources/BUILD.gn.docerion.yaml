@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Ash WebUI resources build configuration
+summary: Defines GN grit targets that package resources for ChromeOS Ash WebUIs such as Boca, camera app, files internals, help app, media app, and projector app.

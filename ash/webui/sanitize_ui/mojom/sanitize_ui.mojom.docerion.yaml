@@ -1,0 +1,4 @@
+# Docerion header of sanitize_ui.mojom.
+type: source
+title: SettingsResetter Mojom interface
+summary: Defines the SettingsResetter interface implemented in ash and used by the WebUI to kickstart resetting settings such as search engine, homepage, extensions, and startup pages.

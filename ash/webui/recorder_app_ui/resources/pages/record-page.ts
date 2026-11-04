@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recorder App record page
+// summary: Record page of the ChromeOS Recorder App that manages recording sessions, transcription and speaker label settings, and language selection.
+// ---
+
 import '../components/audio-waveform.js';
 import '../components/cra/cra-button.js';
 import '../components/cra/cra-dialog.js';

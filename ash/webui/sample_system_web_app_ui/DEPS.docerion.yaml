@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the sample system web app UI
+summary: Restricts includes for the directory, allowing ui/webui and forbidding chrome dependencies in favor of using a delegate.

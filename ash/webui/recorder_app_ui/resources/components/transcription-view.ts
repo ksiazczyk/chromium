@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transcription view component
+// summary: Lit component rendering the transcript with timestamps, speaker labels, word highlighting, and seekable playback navigation.
+// ---
+
 import 'chrome://resources/mwc/@material/web/focus/md-focus-ring.js';
 import 'chrome://resources/cros_components/button/button.js';
 

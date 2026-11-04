@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recording metadata and data manager
+// summary: Manages recording metadata, timeline segments, and transcription data storage for the recorder app.
+// ---
+
 import {MAX_SPEAKER_COLORS} from '../components/styles/speaker_label.js';
 
 import {SAMPLE_RATE, SAMPLES_PER_SLICE} from './audio_constants.js';

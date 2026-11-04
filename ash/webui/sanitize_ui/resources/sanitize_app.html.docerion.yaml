@@ -1,0 +1,4 @@
+# Docerion header of sanitize_app.html.
+type: source
+title: Sanitize app element template
+summary: Polymer template that renders either the initial sanitize dialog or the done dialog depending on the showDone flag.

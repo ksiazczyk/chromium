@@ -12,6 +12,12 @@
 // the 2 values in e.data with the doubler, and returns the value to the caller.
 // This is meant to be called by the foreground page.
 
+// ---docerion
+// type: source
+// title: Shared worker demo with doubler feature
+// summary: Shared worker source demonstrating background-to-foreground messaging by updating a doubler value and multiplying foreground page inputs with it.
+// ---
+
 // Add an empty export to tell TypeScript this is a module so we can re-declare
 // `self` below.
 export {};

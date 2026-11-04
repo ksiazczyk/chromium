@@ -1,0 +1,4 @@
+# Docerion header of cra.py.
+type: script
+title: CRA development script entry point
+summary: Entry point for the ChromeOS Recorder App (CRA) development tool, dispatching command-line arguments to the cra.commands module for development-only use.

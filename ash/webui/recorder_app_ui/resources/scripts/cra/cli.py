@@ -1,6 +1,13 @@
 # Copyright 2024 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: CRA command line parsing utilities
+# summary: Provides a decorator-based framework for defining nested commands and options and running them with argparse for the CRA tooling.
+# ---
+
 """The utilities for parsing command line arguments"""
 
 from __future__ import annotations

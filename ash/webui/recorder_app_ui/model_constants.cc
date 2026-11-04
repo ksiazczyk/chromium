@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recorder app model constants implementation
+// summary: Defines the default transcription language, on-device summary and title suggestion model UUIDs, and their input token limits.
+// ---
+
 #include "ash/webui/recorder_app_ui/model_constants.h"
 
 namespace ash {

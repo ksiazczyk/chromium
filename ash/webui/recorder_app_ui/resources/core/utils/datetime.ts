@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Date and time utilities
+// summary: Formats durations, dates, times, and full datetimes for locales, and returns timestamps for today and yesterday.
+// ---
+
 import {cacheLatest} from './utils.js';
 
 /**

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signal API for signals, computed values, effects, and batching
+// summary: Defines the public reactive API with functions to create signals, computed values, and effects, and to batch effect execution until a callback returns.
+// ---
+
 import type {EffectCallback} from './signal/impl.js';
 import {
   ComputedImpl,

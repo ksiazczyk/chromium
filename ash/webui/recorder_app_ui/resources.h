@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recorder app localized string resources
+// summary: Defines the table of localized strings mapping UI keys to ChromeOS resource IDs for the Recorder app interface.
+// ---
+
 #ifndef ASH_WEBUI_RECORDER_APP_UI_RESOURCES_H_
 #define ASH_WEBUI_RECORDER_APP_UI_RESOURCES_H_
 

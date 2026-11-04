@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Waitable event for async synchronization
+// summary: Implements a WaitableEvent class that can be signaled once with a value and awaited through a promise to coordinate asynchronous jobs.
+// ---
+
 /**
  * A waitable event for synchronization between asynchronous jobs.
  */

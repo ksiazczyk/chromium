@@ -35,6 +35,12 @@
  *  }
  */
 
+// ---docerion
+// type: source
+// title: Page handler setup module
+// summary: Convenience module exporting a Mojo PageHandler remote and callback router used to talk to the browser process.
+// ---
+
 import {ColorChangeUpdater} from 'chrome://resources/cr_components/color_change_listener/colors_css_updater.js';
 
 import {PageCallbackRouter, PageHandlerFactory, PageHandlerRemote} from './sample_system_web_app_ui.mojom-webui.js';

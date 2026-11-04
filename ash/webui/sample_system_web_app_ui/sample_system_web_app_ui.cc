@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sample system web app UI controller implementation
+// summary: Implements the WebUI controller for the sample system web app, setting up the trusted data source, content security policies, untrusted scheme permissions, and Mojo interface bindings.
+// ---
+
 #include "ash/webui/sample_system_web_app_ui/sample_system_web_app_ui.h"
 
 #include <utility>

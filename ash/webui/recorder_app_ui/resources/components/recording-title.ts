@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recording title component
+// summary: Playback page component that displays and renames a recording's title and anchors the AI title suggestion popup next to the title textfield.
+// ---
+
 import 'chrome://resources/cros_components/textfield/textfield.js';
 import 'chrome://resources/cros_components/snackbar/snackbar.js';
 import './cra/cra-icon.js';

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the recorder_app_ui directory
+summary: Lists the code owners and routes mojom file reviews to the IPC security owners.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dev platform handler with mock models
+// summary: Implements the dev platform handler for the recorder app, simulating on-device model loading, title suggestion and summary models, SODA behavior, and dev settings UI.
+// ---
+
 /*
  * TODO(pihsun): For simplicity sake currently everything is packed into
  * release. Reconsider this and whether we need the mock/alternative
