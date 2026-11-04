@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Voice preview controller implementation
+// summary: Implements VoicePreviewController, which manages voice preview playback in Read Aloud settings, including utility process binding, audio stream setup, and play, pause, stop and reset state transitions.
+// ---
+
 #include "chrome/browser/readaloud/voice_preview_controller.h"
 
 #include <utility>

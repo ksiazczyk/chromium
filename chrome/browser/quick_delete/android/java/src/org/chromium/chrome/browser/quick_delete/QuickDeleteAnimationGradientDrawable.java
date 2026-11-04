@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Delete animation gradient drawable
+// summary: Drawable that renders the wipe and fade gradient animations shown on the tab grid during Quick Delete, adapting to theme, incognito, and grid height.
+// ---
+
 package org.chromium.chrome.browser.quick_delete;
 
 import android.animation.Animator;

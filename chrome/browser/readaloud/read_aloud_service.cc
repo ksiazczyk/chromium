@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Aloud service implementation
+// summary: Implements ReadAloudService, the per-profile orchestrator coordinating page distillation, audio synthesis, playback, and UI state for the Read Aloud feature.
+// ---
+
 #include "chrome/browser/readaloud/read_aloud_service.h"
 
 #include <algorithm>

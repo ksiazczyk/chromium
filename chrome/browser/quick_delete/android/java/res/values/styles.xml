@@ -4,6 +4,13 @@ Copyright 2023 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: More Options button style
+summary: Defines the MoreOptionsButton style for the quick delete dialog, configuring text appearance, colors, padding and ripple corner radii.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <style name="MoreOptionsButton" parent="FilledButton" >
         <item name="android:textAppearance">@style/TextAppearance.TextLarge.Primary</item>

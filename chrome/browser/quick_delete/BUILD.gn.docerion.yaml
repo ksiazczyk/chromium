@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Quick Delete Android build targets
+summary: Defines the GN build targets for the Quick Delete Android feature, including the Java library, JNI header generation, and Android resources.

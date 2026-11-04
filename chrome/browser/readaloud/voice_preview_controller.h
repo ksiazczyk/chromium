@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Voice preview controller header
+// summary: Declares VoicePreviewController, which manages the lifecycle, utility process connection, audio output, and state transitions for Read Aloud voice preview playback, isolated from ReadAloudService.
+// ---
+
 #ifndef CHROME_BROWSER_READALOUD_VOICE_PREVIEW_CONTROLLER_H_
 #define CHROME_BROWSER_READALOUD_VOICE_PREVIEW_CONTROLLER_H_
 

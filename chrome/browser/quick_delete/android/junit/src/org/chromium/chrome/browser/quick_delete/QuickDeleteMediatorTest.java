@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Delete mediator tests
+// summary: Robolectric tests for QuickDeleteMediator verifying that time period changes update the property model with sign-in status, closed tab counts and history sync state.
+// ---
+
 package org.chromium.chrome.browser.quick_delete;
 
 import static org.junit.Assert.assertEquals;

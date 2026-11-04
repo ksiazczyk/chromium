@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Delete tabs filter
+// summary: Filters tabs to be closed for Quick Delete based on the selected time period and closes them without undo or tab restore service entries.
+// ---
+
 package org.chromium.chrome.browser.quick_delete;
 
 import org.chromium.base.Token;

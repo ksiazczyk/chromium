@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake audio stream factory header
+// summary: Declares a fake AudioStreamFactory test double with callbacks, counters and accessors for inspecting stream creation in unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_READALOUD_FAKE_AUDIO_STREAM_FACTORY_H_
 #define CHROME_BROWSER_READALOUD_FAKE_AUDIO_STREAM_FACTORY_H_
 

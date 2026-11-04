@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Aloud service factory header
+// summary: Declares ReadAloudServiceFactory, which instantiates ReadAloudService per profile behind the native Read Aloud feature flag.
+// ---
+
 #ifndef CHROME_BROWSER_READALOUD_READ_ALOUD_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_READALOUD_READ_ALOUD_SERVICE_FACTORY_H_
 

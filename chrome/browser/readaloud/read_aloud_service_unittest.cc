@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Read Aloud service unit tests
+// summary: Extensive unit tests for ReadAloudService covering playback, distillation, voice previews, overview generation outcomes, and delegate callbacks.
+// ---
+
 #include "chrome/browser/readaloud/read_aloud_service.h"
 
 #include <memory>

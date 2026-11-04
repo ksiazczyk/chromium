@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Aloud playback session implementation
+// summary: Implements ReadAloudPlaybackSession, which registers Read Aloud playback with Media Session and forwards suspend, resume, and seek actions to the service.
+// ---
+
 #include "chrome/browser/readaloud/read_aloud_playback_session.h"
 
 #include "chrome/browser/readaloud/read_aloud_service.h"

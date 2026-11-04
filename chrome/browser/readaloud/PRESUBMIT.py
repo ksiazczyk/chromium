@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Read Aloud presubmit script
+# summary: Presubmit entry point that runs the test assertion order check from common_checks.py on Read Aloud changes.
+# ---
+
 """Presubmit script for chrome/browser/readaloud.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

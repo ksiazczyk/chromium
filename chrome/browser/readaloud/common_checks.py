@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Common Read Aloud presubmit checks
+# summary: Implements shared presubmit checks for Read Aloud code, including enforcement of actual-before-expected ordering in gtest assertion macros.
+# ---
+
 """Common presubmit checks for ReadAloud code.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Delete dialog delegate tests
+// summary: Instrumentation tests for the quick delete dialog delegate, covering time range selection, sync state, and dialog rendering.
+// ---
+
 package org.chromium.chrome.browser.quick_delete;
 
 import static org.junit.Assert.assertEquals;

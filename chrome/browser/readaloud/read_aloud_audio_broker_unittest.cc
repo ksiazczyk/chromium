@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Read Aloud audio broker unit tests
+// summary: Unit tests for ReadAloudAudioBroker covering successful and failed stream creation and factory disconnects during in-flight requests.
+// ---
+
 #include "chrome/browser/readaloud/read_aloud_audio_broker.h"
 
 #include <memory>

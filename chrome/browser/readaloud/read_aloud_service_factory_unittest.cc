@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Read Aloud service factory unit tests
+// summary: Unit tests for ReadAloudServiceFactory verifying service creation with the feature flag enabled or disabled and for off-the-record profiles.
+// ---
+
 #include "chrome/browser/readaloud/read_aloud_service_factory.h"
 
 #include "base/test/scoped_feature_list.h"
