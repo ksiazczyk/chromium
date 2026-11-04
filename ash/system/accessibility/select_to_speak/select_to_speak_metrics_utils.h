@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Select-to-speak activation method metrics enum
+// summary: Defines the CrosSelectToSpeakActivationMethod enum used to record how users activate and navigate Select-to-speak in histograms.
+// ---
+
 #ifndef ASH_SYSTEM_ACCESSIBILITY_SELECT_TO_SPEAK_SELECT_TO_SPEAK_METRICS_UTILS_H_
 #define ASH_SYSTEM_ACCESSIBILITY_SELECT_TO_SPEAK_SELECT_TO_SPEAK_METRICS_UTILS_H_
 

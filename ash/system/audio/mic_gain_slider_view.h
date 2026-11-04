@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mic gain slider view header
+// summary: Declares a unified slider view for microphone gain that observes audio handler events for the active input device.
+// ---
+
 #ifndef ASH_SYSTEM_AUDIO_MIC_GAIN_SLIDER_VIEW_H_
 #define ASH_SYSTEM_AUDIO_MIC_GAIN_SLIDER_VIEW_H_
 

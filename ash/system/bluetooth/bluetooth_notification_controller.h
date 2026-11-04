@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth notification controller class declaration
+// summary: Declares the BluetoothNotificationController, which observes the Bluetooth adapter and presents incoming pairing requests as rich notifications the user can approve.
+// relations:
+//   - depends_on /device/bluetooth/bluetooth_adapter.h
+//   - depends_on /device/bluetooth/bluetooth_device.h
+// ---
+
 #ifndef ASH_SYSTEM_BLUETOOTH_BLUETOOTH_NOTIFICATION_CONTROLLER_H_
 #define ASH_SYSTEM_BLUETOOTH_BLUETOOTH_NOTIFICATION_CONTROLLER_H_
 

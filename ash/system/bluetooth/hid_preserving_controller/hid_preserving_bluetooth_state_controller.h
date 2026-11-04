@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID preserving Bluetooth state controller header
+// summary: Declares the HidPreservingBluetoothStateController class that sets Bluetooth state on ChromeOS and shows a warning dialog when Bluetooth HID devices would lose connectivity.
+// relations:
+//   - depends_on /ash/public/cpp/bluetooth_config_service.h
+//   - depends_on /ash/system/bluetooth/hid_preserving_controller/disable_bluetooth_dialog_controller_impl.h
+//   - depends_on /mojo/public/cpp/bindings/pending_receiver.h
+// ---
+
 #ifndef ASH_SYSTEM_BLUETOOTH_HID_PRESERVING_CONTROLLER_HID_PRESERVING_BLUETOOTH_STATE_CONTROLLER_H_
 #define ASH_SYSTEM_BLUETOOTH_HID_PRESERVING_CONTROLLER_HID_PRESERVING_BLUETOOTH_STATE_CONTROLLER_H_
 

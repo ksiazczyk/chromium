@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth state cache implementation
+// summary: Implements the BluetoothStateCache, which binds to the CrosBluetoothConfig service and updates the cached Bluetooth system state when properties change.
+// relations:
+//   - implements /ash/system/bluetooth/bluetooth_state_cache.h
+//   - depends_on /ash/public/cpp/bluetooth_config_service.h
+// ---
+
 #include "ash/system/bluetooth/bluetooth_state_cache.h"
 
 #include "ash/public/cpp/bluetooth_config_service.h"

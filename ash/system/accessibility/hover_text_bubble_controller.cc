@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hover Text bubble controller implementation
+// summary: Implements the controller that manages lifecycle, visibility, and screen positioning of the Ash Hover Text accessibility bubble widget relative to its anchor.
+// relations:
+//   - implements /ash/system/accessibility/hover_text_bubble_controller.h
+//   - depends_on /ash/system/accessibility/hover_text_bubble_view.h
+// ---
+
 #include "ash/system/accessibility/hover_text_bubble_controller.h"
 
 #include <algorithm>

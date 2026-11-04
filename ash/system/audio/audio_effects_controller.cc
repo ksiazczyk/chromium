@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio effects controller implementation
+// summary: Implements the video conference tray effects delegate that exposes noise cancellation, style transfer and live caption effects based on CRAS audio handler support.
+// relations:
+//   - implements /ash/system/audio/audio_effects_controller.h
+//   - references /ash/system/video_conference/effects/video_conference_tray_effects_manager.h
+//   - references /chromeos/ash/components/audio/cras_audio_handler.h
+// ---
+
 #include "ash/system/audio/audio_effects_controller.h"
 
 #include <memory>

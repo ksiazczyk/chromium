@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Select-to-speak menu bubble controller unit tests
+// summary: Ash tests covering the Select-to-speak menu bubble, its buttons, accessibility names, and related usage histograms.
+// relations:
+//   - tests /ash/system/accessibility/select_to_speak/select_to_speak_menu_bubble_controller.h
+//   - depends_on /ash/system/accessibility/select_to_speak/select_to_speak_menu_view.h
+// ---
+
 #include "ash/system/accessibility/select_to_speak/select_to_speak_menu_bubble_controller.h"
 
 #include "ash/accessibility/accessibility_controller.h"

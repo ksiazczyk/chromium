@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrightnessControllerChromeos implementation
+// summary: Implements the ChromeOS brightness control delegate, handling brightness key actions, ambient light sensor state, and per-user brightness preference persistence.
+// relations:
+//   - implements /ash/system/brightness/brightness_controller_chromeos.h
+//   - depends_on /ash/system/brightness_control_delegate.h
+//   - depends_on /ash/system/power/power_status.h
+// ---
+
 #include "ash/system/brightness/brightness_controller_chromeos.h"
 
 #include <optional>

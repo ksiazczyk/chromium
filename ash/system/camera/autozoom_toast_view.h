@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutozoomToastView class declaration
+// summary: Declares the AutozoomToastView class shown inside the autozoom toast bubble, including autozoom state updates, focus checks, and accessible name accessors.
+// relations:
+//   - depends_on /ui/views/controls/label.h
+//   - depends_on /ui/views/view.h
+//   - depends_on /ui/views/view_observer.h
+// ---
+
 #ifndef ASH_SYSTEM_CAMERA_AUTOZOOM_TOAST_VIEW_H_
 #define ASH_SYSTEM_CAMERA_AUTOZOOM_TOAST_VIEW_H_
 

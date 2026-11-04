@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility feature pod controller implementation
+// summary: Implements the quick settings accessibility tile controller that reflects enabled accessibility features in its sublabel and tooltip.
+// relations:
+//   - implements /ash/system/accessibility/accessibility_feature_pod_controller.h
+// ---
+
 #include <string>
 
 #include "ash/system/accessibility/accessibility_feature_pod_controller.h"

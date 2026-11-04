@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autozoom quick settings tile controller declaration
+// summary: Declares the controller for the quick settings feature tile that toggles autozoom and reacts to state changes.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /ash/constants/quick_settings_catalogs.h
+//   - references /ash/system/camera/autozoom_observer.h
+// ---
+
 #ifndef ASH_SYSTEM_CAMERA_AUTOZOOM_FEATURE_POD_CONTROLLER_H_
 #define ASH_SYSTEM_CAMERA_AUTOZOOM_FEATURE_POD_CONTROLLER_H_
 

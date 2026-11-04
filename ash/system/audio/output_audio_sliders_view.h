@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Output audio sliders view header
+// summary: Declares a tray detailed view that lists output audio sliders for use within the media cast audio selector view.
+// ---
+
 #ifndef ASH_SYSTEM_AUDIO_OUTPUT_AUDIO_SLIDERS_VIEW_H_
 #define ASH_SYSTEM_AUDIO_OUTPUT_AUDIO_SLIDERS_VIEW_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Switch Access back button bubble controller unit tests
+// summary: Unit tests verifying back button bubble placement, anchor rect adjustment, and screen-edge alignment for the Switch Access back button controller.
+// relations:
+//   - tests /ash/system/accessibility/switch_access/switch_access_back_button_bubble_controller.h
+//   - references /ash/system/accessibility/switch_access/switch_access_back_button_view.h
+//   - references /ash/system/accessibility/switch_access/switch_access_menu_bubble_controller.h
+// ---
+
 #include "ash/system/accessibility/switch_access/switch_access_back_button_bubble_controller.h"
 
 #include "ash/accessibility/accessibility_controller.h"

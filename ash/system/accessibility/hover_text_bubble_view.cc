@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hover Text bubble view implementation
+// summary: Implements the Hover Text bubble view with label rendering, font size scaling limits, and prioritized font family fallbacks for sans, serif, and monospace styles.
+// relations:
+//   - implements /ash/system/accessibility/hover_text_bubble_view.h
+// ---
+
 #include "ash/system/accessibility/hover_text_bubble_view.h"
 
 #include <algorithm>

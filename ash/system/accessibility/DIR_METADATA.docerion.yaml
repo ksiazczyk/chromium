@@ -1,0 +1,6 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the accessibility system tray
+summary: Metadata file that inherits the common accessibility metadata via a mixin.
+relations:
+  - references /ash/accessibility/COMMON_METADATA

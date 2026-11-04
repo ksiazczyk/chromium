@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-process instance header for HID preserving Bluetooth controller
+// summary: Declares functions to bind to the in-process HID preserving Bluetooth state controller instance and to override it for testing.
+// ---
+
 #ifndef ASH_SYSTEM_BLUETOOTH_HID_PRESERVING_CONTROLLER_IN_PROCESS_INSTANCE_H_
 #define ASH_SYSTEM_BLUETOOTH_HID_PRESERVING_CONTROLLER_IN_PROCESS_INSTANCE_H_
 

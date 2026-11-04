@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-process instance binding for HID preserving Bluetooth controller
+// summary: Binds Mojo receivers to a singleton in-process HidPreservingBluetoothStateController instance and supports overriding that instance for testing.
+// ---
+
 #include "ash/system/bluetooth/hid_preserving_controller/in_process_instance.h"
 
 #include "ash/constants/ash_features.h"

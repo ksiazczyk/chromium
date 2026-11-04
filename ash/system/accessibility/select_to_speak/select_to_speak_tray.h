@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Select-to-Speak tray icon class declaration
+// summary: Declares the Select-to-Speak tray button that lets users start and stop Select-to-Speak and observes accessibility and session changes.
+// relations:
+//   - depends_on /ash/accessibility/accessibility_observer.h
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/constants/tray_background_view_catalog.h
+// ---
+
 #ifndef ASH_SYSTEM_ACCESSIBILITY_SELECT_TO_SPEAK_SELECT_TO_SPEAK_TRAY_H_
 #define ASH_SYSTEM_ACCESSIBILITY_SELECT_TO_SPEAK_SELECT_TO_SPEAK_TRAY_H_
 

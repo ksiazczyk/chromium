@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID preserving Bluetooth state controller implementation
+// summary: Implements the controller that disables Bluetooth while warning users when only Bluetooth HID devices are connected, showing a confirmation dialog and recording metrics.
+// relations:
+//   - implements /ash/system/bluetooth/hid_preserving_controller/hid_preserving_bluetooth_state_controller.h
+//   - depends_on /ash/shell.h
+//   - depends_on /ash/system/bluetooth/hid_preserving_controller/disable_bluetooth_dialog_controller_impl.h
+// ---
+
 #include "ash/system/bluetooth/hid_preserving_controller/hid_preserving_bluetooth_state_controller.h"
 
 #include "ash/constants/ash_features.h"

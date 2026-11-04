@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Log test helpers header
+// summary: Declares helper functions for splitting log contents into lines and parsing separator-based line fields in diagnostics tests.
+// ---
+
 #ifndef ASH_SYSTEM_DIAGNOSTICS_LOG_TEST_HELPERS_H_
 #define ASH_SYSTEM_DIAGNOSTICS_LOG_TEST_HELPERS_H_
 

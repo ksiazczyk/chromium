@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DiagnosticsLogController unit tests
+// summary: Unit tests for DiagnosticsLogController covering session state changes, log paths, and session log generation.
+// relations:
+//   - tests /ash/system/diagnostics/diagnostics_log_controller.h
+//   - tests /ash/system/diagnostics/diagnostics_log_controller.cc
+//   - references /ash/system/diagnostics/diagnostics_browser_delegate.h
+// ---
+
 #include "ash/system/diagnostics/diagnostics_log_controller.h"
 
 #include <memory>

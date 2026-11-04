@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake DiagnosticsBrowserDelegate class declaration
+// summary: Declares FakeDiagnosticsBrowserDelegate, a test double providing a fake active user profile directory path for diagnostics tests.
+// relations:
+//   - implements /ash/system/diagnostics/diagnostics_browser_delegate.h
+//   - depends_on /base/files/file_path.h
+// ---
+
 #ifndef ASH_SYSTEM_DIAGNOSTICS_FAKE_DIAGNOSTICS_BROWSER_DELEGATE_H_
 #define ASH_SYSTEM_DIAGNOSTICS_FAKE_DIAGNOSTICS_BROWSER_DELEGATE_H_
 

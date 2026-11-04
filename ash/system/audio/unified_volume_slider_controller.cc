@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unified volume slider controller implementation
+// summary: Implements the controller for volume sliders that sets output volume and mute through CrasAudioHandler, creates UnifiedVolumeView instances and records volume change metrics with a delay timer.
+// relations:
+//   - implements /ash/system/audio/unified_volume_slider_controller.h
+//   - references /ash/system/audio/unified_volume_view.h
+//   - depends_on /chromeos/ash/components/audio/cras_audio_handler.h
+// ---
+
 #include "ash/system/audio/unified_volume_slider_controller.h"
 
 #include "ash/constants/quick_settings_catalogs.h"

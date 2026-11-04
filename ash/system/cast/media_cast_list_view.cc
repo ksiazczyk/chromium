@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media cast list view implementation
+// summary: Implements the tray detailed view that lists castable devices for the global media UI and shows a stop casting button while casting.
+// relations:
+//   - implements /ash/system/cast/media_cast_list_view.h
+//   - depends_on /ash/system/tray/tray_detailed_view.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #include "ash/system/cast/media_cast_list_view.h"
 
 #include <map>

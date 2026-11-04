@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility feature disable dialog implementation
+// summary: Implements a modal confirmation dialog shown before disabling accessibility features that could lock users out of their device.
+// relations:
+//   - implements /ash/system/accessibility/accessibility_feature_disable_dialog.h
+// ---
+
 #include "ash/system/accessibility/accessibility_feature_disable_dialog.h"
 
 #include <memory>

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility feature pod controller unit tests
+// summary: Unit tests for the accessibility feature pod controller in ChromeOS quick settings, covering tile visibility for logged-in and logged-out states and UMA histogram tracking.
+// relations:
+//   - tests /ash/system/accessibility/accessibility_feature_pod_controller.h
+// ---
+
 #include "ash/system/accessibility/accessibility_feature_pod_controller.h"
 
 #include "ash/accessibility/a11y_feature_type.h"

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TelemetryLog class header
+// summary: Declares TelemetryLog, which stores the latest telemetry data and renders it as log contents.
+// relations:
+//   - references /ash/ash_export.h
+// ---
+
 #ifndef ASH_SYSTEM_DIAGNOSTICS_TELEMETRY_LOG_H_
 #define ASH_SYSTEM_DIAGNOSTICS_TELEMETRY_LOG_H_
 

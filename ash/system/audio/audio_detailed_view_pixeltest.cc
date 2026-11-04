@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio detailed view pixel tests
+// summary: Pixel tests verifying the rendered appearance of the quick settings audio detailed view across caption and system blur feature states, including the noise cancellation button.
+// relations:
+//   - references /ash/system/tray/tray_detailed_view.h
+// ---
+
 #include <tuple>
 #include <vector>
 

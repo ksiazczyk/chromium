@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth device list item battery view declaration
+// summary: Declares the battery view for a Bluetooth device list item, which updates its icon and label only when the percentage changes enough.
+// relations:
+//   - implemented_by /ash/system/bluetooth/bluetooth_device_list_item_battery_view.cc
+// ---
+
 #ifndef ASH_SYSTEM_BLUETOOTH_BLUETOOTH_DEVICE_LIST_ITEM_BATTERY_VIEW_H_
 #define ASH_SYSTEM_BLUETOOTH_BLUETOOTH_DEVICE_LIST_ITEM_BATTERY_VIEW_H_
 

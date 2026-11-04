@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio detailed view unit tests
+// summary: Unit tests for the audio detailed view covering settings button behavior at lock screen and in active sessions, plus AGC info display under feature flag combinations.
+// relations:
+//   - tests /ash/system/audio/audio_detailed_view.h
+// ---
+
 #include "ash/system/audio/audio_detailed_view.h"
 
 #include <memory>

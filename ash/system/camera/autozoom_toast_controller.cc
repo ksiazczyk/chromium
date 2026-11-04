@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autozoom toast controller implementation
+// summary: Implements the controller that shows, updates, and auto-closes the autozoom toast bubble in the unified system tray when autozoom is enabled and the camera is active.
+// relations:
+//   - implements /ash/system/camera/autozoom_toast_controller.h
+//   - references /ash/accessibility/accessibility_controller.h
+//   - references /ash/shell.h
+// ---
+
 #include "ash/system/camera/autozoom_toast_controller.h"
 
 #include <algorithm>

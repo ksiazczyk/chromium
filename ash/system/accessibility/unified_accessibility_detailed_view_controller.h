@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnifiedAccessibilityDetailedViewController.h
+// summary: Header declaring the controller for the accessibility detailed view in the ChromeOS unified system tray, which creates the view and reacts to accessibility status changes.
+// ---
+
 #ifndef ASH_SYSTEM_ACCESSIBILITY_UNIFIED_ACCESSIBILITY_DETAILED_VIEW_CONTROLLER_H_
 #define ASH_SYSTEM_ACCESSIBILITY_UNIFIED_ACCESSIBILITY_DETAILED_VIEW_CONTROLLER_H_
 

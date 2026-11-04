@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutozoomToastController class declaration
+// summary: Declares the AutozoomToastController class and its Delegate interface for showing, hiding, and auto-closing the autozoom toast bubble in the system tray.
+// relations:
+//   - references /ash/ash_export.h
+//   - depends_on /ash/system/camera/autozoom_observer.h
+//   - references /ash/system/camera/autozoom_toast_view.h
+// ---
+
 #ifndef ASH_SYSTEM_CAMERA_AUTOZOOM_TOAST_CONTROLLER_H_
 #define ASH_SYSTEM_CAMERA_AUTOZOOM_TOAST_CONTROLLER_H_
 

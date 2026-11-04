@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mouse keys bubble view implementation
+// summary: Implements the bubble view that shows mouse keys icons and status text, laid out horizontally and parented to the accessibility bubble container.
+// relations:
+//   - implements /ash/system/accessibility/mouse_keys/mouse_keys_bubble_view.h
+//   - references /ash/public/cpp/accessibility_controller_enums.h
+//   - references /ash/public/cpp/shell_window_ids.h
+// ---
+
 #include "ash/system/accessibility/mouse_keys/mouse_keys_bubble_view.h"
 
 #include <memory>

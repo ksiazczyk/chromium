@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Select-to-speak menu bubble controller declaration
+// summary: Declares the controller managing the Select-to-speak floating menu panel, its bubble views, and the speed bubble controller.
+// relations:
+//   - depends_on /ash/system/accessibility/select_to_speak/select_to_speak_menu_view.h
+//   - depends_on /ash/system/accessibility/select_to_speak/select_to_speak_speed_bubble_controller.h
+// ---
+
 #ifndef ASH_SYSTEM_ACCESSIBILITY_SELECT_TO_SPEAK_SELECT_TO_SPEAK_MENU_BUBBLE_CONTROLLER_H_
 #define ASH_SYSTEM_ACCESSIBILITY_SELECT_TO_SPEAK_SELECT_TO_SPEAK_MENU_BUBBLE_CONTROLLER_H_
 

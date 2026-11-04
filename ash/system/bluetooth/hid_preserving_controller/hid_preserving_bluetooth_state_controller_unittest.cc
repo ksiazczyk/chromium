@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HID preserving Bluetooth state controller unit tests
+// summary: Unit tests covering the HID preserving Bluetooth state controller, including device detection, warning dialog behavior, and metrics using sample Bluetooth, USB, and internal input devices.
+// relations:
+//   - tests /ash/system/bluetooth/hid_preserving_controller/hid_preserving_bluetooth_state_controller.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/system/bluetooth/hid_preserving_controller/fake_disable_bluetooth_dialog_controller.h
+// ---
+
 #include "ash/system/bluetooth/hid_preserving_controller/hid_preserving_bluetooth_state_controller.h"
 
 #include "ash/constants/ash_features.h"

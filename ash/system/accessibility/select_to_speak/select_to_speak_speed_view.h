@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Select-to-Speak speed selection view header
+// summary: Declares the Select-to-Speak reading speed selection view, a box layout of checkable speech rate options with a delegate callback.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/system/tray/view_click_listener.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_SYSTEM_ACCESSIBILITY_SELECT_TO_SPEAK_SELECT_TO_SPEAK_SPEED_VIEW_H_
 #define ASH_SYSTEM_ACCESSIBILITY_SELECT_TO_SPEAK_SELECT_TO_SPEAK_SPEED_VIEW_H_
 

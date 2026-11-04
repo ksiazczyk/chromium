@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unified audio detailed view controller implementation
+// summary: Implements the controller that creates and updates the audio detailed view in the unified system tray, refreshing it on audio node, active node, noise cancellation and style transfer changes.
+// relations:
+//   - implements /ash/system/audio/unified_audio_detailed_view_controller.h
+//   - references /ash/system/audio/audio_detailed_view.h
+//   - references /ash/system/tray/detailed_view_delegate.h
+// ---
+
 #include "ash/system/audio/unified_audio_detailed_view_controller.h"
 
 #include "ash/strings/grit/ash_strings.h"

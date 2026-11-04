@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Select-to-Speak tray icon implementation
+// summary: Implements the status area tray icon for Select-to-Speak, updating its icon, tooltip, and visibility based on the feature's state.
+// relations:
+//   - depends_on /ash/accessibility/accessibility_controller.h
+//   - depends_on /ash/constants/tray_background_view_catalog.h
+//   - depends_on /ash/session/session_controller_impl.h
+// ---
+
 #include "ash/system/accessibility/select_to_speak/select_to_speak_tray.h"
 
 #include "ash/accessibility/accessibility_controller.h"

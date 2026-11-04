@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake HID preserving Bluetooth state controller declaration
+// summary: Declares FakeHidPreservingBluetoothStateController, a test fake that tracks dialog counts and pending Bluetooth enable requests for tests.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /ash/system/bluetooth/hid_preserving_controller/disable_bluetooth_dialog_controller_impl.h
+//   - references /ash/public/mojom/hid_preserving_bluetooth_state_controller.mojom
+// ---
+
 #ifndef ASH_SYSTEM_BLUETOOTH_HID_PRESERVING_CONTROLLER_FAKE_HID_PRESERVING_BLUETOOTH_STATE_CONTROLLER_H_
 #define ASH_SYSTEM_BLUETOOTH_HID_PRESERVING_CONTROLLER_FAKE_HID_PRESERVING_BLUETOOTH_STATE_CONTROLLER_H_
 

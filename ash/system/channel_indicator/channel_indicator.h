@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Channel indicator tray view class declaration
+// summary: Declares ChannelIndicatorView, a TrayItemView shown in the system tray to make non-stable release tracks obvious, with session and shell observer hooks and test introspection methods.
+// relations:
+//   - depends_on /ash/system/tray/tray_item_view.h
+// ---
+
 #ifndef ASH_SYSTEM_CHANNEL_INDICATOR_CHANNEL_INDICATOR_H_
 #define ASH_SYSTEM_CHANNEL_INDICATOR_CHANNEL_INDICATOR_H_
 

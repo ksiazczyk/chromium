@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility detailed view implementation
+// summary: Implements the quick settings detailed view that lists and toggles ChromeOS accessibility features, including SODA dictation and live caption states.
+// relations:
+//   - implements /ash/system/accessibility/accessibility_detailed_view.h
+//   - references /ash/accessibility/accessibility_controller.h
+//   - references /ash/public/cpp/system_tray_client.h
+// ---
+
 #include "ash/system/accessibility/accessibility_detailed_view.h"
 
 #include <memory>

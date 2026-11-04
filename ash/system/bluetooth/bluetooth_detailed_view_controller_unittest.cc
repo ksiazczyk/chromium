@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BluetoothDetailedViewController unit tests
+// summary: Unit tests for the Bluetooth detailed view controller using fake views, device list controllers, and Bluetooth config test helpers.
+// relations:
+//   - tests /ash/system/bluetooth/bluetooth_detailed_view_controller.h
+//   - tests /ash/system/bluetooth/bluetooth_detailed_view_controller.cc
+// ---
+
 #include "ash/system/bluetooth/bluetooth_detailed_view_controller.h"
 
 #include <memory>

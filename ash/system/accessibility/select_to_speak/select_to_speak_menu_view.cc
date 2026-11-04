@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Select-to-speak menu view implementation
+// summary: Implements the floating menu panel view with paragraph, sentence, pause, stop, and speed buttons plus action metrics.
+// relations:
+//   - implements /ash/system/accessibility/select_to_speak/select_to_speak_menu_view.h
+//   - depends_on /ash/system/accessibility/select_to_speak/select_to_speak_constants.h
+//   - depends_on /ash/system/accessibility/select_to_speak/select_to_speak_metrics_utils.h
+// ---
+
 #include "ash/system/accessibility/select_to_speak/select_to_speak_menu_view.h"
 
 #include "ash/public/cpp/accessibility_controller_enums.h"

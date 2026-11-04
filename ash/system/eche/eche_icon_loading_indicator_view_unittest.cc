@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Eche icon loading indicator view
+// summary: Verifies animation and visibility toggling plus painting behavior of the loading indicator, including that nothing is painted when not animating.
+// relations:
+//   - references /ash/system/eche/eche_icon_loading_indicator_view.h
+// ---
+
 #include "ash/system/eche/eche_icon_loading_indicator_view.h"
 
 #include "ash/test/ash_test_base.h"

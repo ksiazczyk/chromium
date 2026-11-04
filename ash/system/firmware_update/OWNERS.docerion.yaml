@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the firmware update directory
+summary: Lists the code owners responsible for the firmware update notification code in this directory.

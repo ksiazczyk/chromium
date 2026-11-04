@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mic gain slider controller implementation
+// summary: Implements the controller for microphone gain sliders, handling gain changes, mute toggling, and input gain metrics recording.
+// relations:
+//   - depends_on /ash/system/audio/mic_gain_slider_controller.h
+//   - depends_on /ash/constants/quick_settings_catalogs.h
+//   - depends_on /ash/system/audio/mic_gain_slider_view.h
+// ---
+
 #include "ash/system/audio/mic_gain_slider_controller.h"
 
 #include "ash/constants/quick_settings_catalogs.h"

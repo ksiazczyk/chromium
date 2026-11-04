@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth detailed view implementation declaration
+// summary: Declares BluetoothDetailedViewImpl, the quick settings Bluetooth detailed view with an on/off toggle, settings button, pair-new-device row and device list.
+// relations:
+//   - implements /ash/system/bluetooth/bluetooth_detailed_view.h
+//   - implements /ash/system/tray/tray_detailed_view.h
+// ---
+
 #ifndef ASH_SYSTEM_BLUETOOTH_BLUETOOTH_DETAILED_VIEW_IMPL_H_
 #define ASH_SYSTEM_BLUETOOTH_BLUETOOTH_DETAILED_VIEW_IMPL_H_
 

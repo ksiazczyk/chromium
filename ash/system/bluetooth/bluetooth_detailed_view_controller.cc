@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothDetailedViewController implementation
+// summary: Implements the controller that updates the detailed Bluetooth quick settings page and translates user interactions into Bluetooth state changes.
+// relations:
+//   - implements /ash/system/bluetooth/bluetooth_detailed_view_controller.h
+//   - depends_on /ash/constants/ash_switches.h
+//   - depends_on /ash/public/cpp/bluetooth_config_service.h
+// ---
+
 #include "ash/system/bluetooth/bluetooth_detailed_view_controller.h"
 
 #include <optional>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Camera directory code owners
+summary: Lists code owners for the camera directory, with a per-file owner for camera effects controller files.

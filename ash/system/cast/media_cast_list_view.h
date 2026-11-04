@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media cast list view header
+// summary: Declares MediaCastListView, a tray detailed view listing castable devices with a stop casting button shown while casting.
+// relations:
+//   - depends_on /ash/system/tray/tray_detailed_view.h
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/functional/callback_forward.h
+// ---
+
 #ifndef ASH_SYSTEM_CAST_MEDIA_CAST_LIST_VIEW_H_
 #define ASH_SYSTEM_CAST_MEDIA_CAST_LIST_VIEW_H_
 

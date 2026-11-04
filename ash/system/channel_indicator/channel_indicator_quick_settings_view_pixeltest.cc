@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick settings channel indicator pixel tests
+// summary: Pixel tests verifying the Quick Settings channel indicator view rendering with the feedback button visible, parameterized by whether system blur is enabled.
+// relations:
+//   - tests /ash/system/channel_indicator/channel_indicator_quick_settings_view.h
+//   - tests /ash/system/channel_indicator/channel_indicator_quick_settings_view.cc
+// ---
+
 #include "ash/public/cpp/test/test_system_tray_client.h"
 #include "ash/system/channel_indicator/channel_indicator_quick_settings_view.h"
 #include "ash/system/unified/quick_settings_header.h"

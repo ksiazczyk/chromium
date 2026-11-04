@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictation bubble controller class declaration
+// summary: Declares the DictationBubbleController class that manages the Dictation bubble view, observes input method caret changes and notifies observers of bubble updates.
+// relations:
+//   - references /ui/base/ime/input_method_observer.h
+//   - references /ui/views/view_observer.h
+//   - references /ash/system/accessibility/dictation_bubble_view.h
+// ---
+
 #ifndef ASH_SYSTEM_ACCESSIBILITY_DICTATION_BUBBLE_CONTROLLER_H_
 #define ASH_SYSTEM_ACCESSIBILITY_DICTATION_BUBBLE_CONTROLLER_H_
 

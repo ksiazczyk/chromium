@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothDetailedViewController class declaration
+// summary: Declares the controller that manages the detailed Bluetooth device page, observes system properties, and handles view delegate callbacks.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/system/bluetooth/bluetooth_detailed_view.h
+//   - depends_on /ash/system/bluetooth/bluetooth_device_list_controller.h
+// ---
+
 #ifndef ASH_SYSTEM_BLUETOOTH_BLUETOOTH_DETAILED_VIEW_CONTROLLER_H_
 #define ASH_SYSTEM_BLUETOOTH_BLUETOOTH_DETAILED_VIEW_CONTROLLER_H_
 

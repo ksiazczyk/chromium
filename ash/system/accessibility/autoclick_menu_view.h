@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autoclick menu view header
+// summary: Declares the view for the automatic clicks menu, defining button IDs and update methods for the selected event type and menu position.
+// ---
+
 #ifndef ASH_SYSTEM_ACCESSIBILITY_AUTOCLICK_MENU_VIEW_H_
 #define ASH_SYSTEM_ACCESSIBILITY_AUTOCLICK_MENU_VIEW_H_
 

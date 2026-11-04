@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick settings display detailed view controller implementation
+// summary: Implements the controller that creates the quick settings display detailed view and provides its accessible name.
+// relations:
+//   - implements /ash/system/brightness/quick_settings_display_detailed_view_controller.h
+// ---
+
 #include "ash/system/brightness/quick_settings_display_detailed_view_controller.h"
 
 #include "ash/strings/grit/ash_strings.h"

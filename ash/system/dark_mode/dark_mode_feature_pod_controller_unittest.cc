@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dark mode feature pod controller unit tests
+// summary: Tests tile visibility, dark mode toggling, auto schedule cancellation, and the logged quick settings metrics.
+// relations:
+//   - tests /ash/system/dark_mode/dark_mode_feature_pod_controller.h
+//   - depends_on /ash/constants/quick_settings_catalogs.h
+//   - depends_on /ash/session/session_controller_impl.h
+// ---
+
 #include "ash/system/dark_mode/dark_mode_feature_pod_controller.h"
 
 #include "ash/constants/quick_settings_catalogs.h"

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast zero state view header
+// summary: Declares CastZeroStateView, the view shown in the system tray when there are no cast targets available.
+// relations:
+//   - references /ui/base/metadata/metadata_header_macros.h
+//   - references /ui/views/view.h
+// ---
+
 #ifndef ASH_SYSTEM_CAST_CAST_ZERO_STATE_VIEW_H_
 #define ASH_SYSTEM_CAST_CAST_ZERO_STATE_VIEW_H_
 

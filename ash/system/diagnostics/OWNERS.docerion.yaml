@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: Diagnostics directory owners
+summary: Lists the primary and backup code owners responsible for the diagnostics directory.
+relations:
+  - references /chromeos/ash/services/cros_healthd/OWNERS

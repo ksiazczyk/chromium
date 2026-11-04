@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth device list controller unit tests
+// summary: Tests device list ordering, sub-header text and view reuse for connected and previously connected Bluetooth devices.
+// relations:
+//   - tests /ash/system/bluetooth/bluetooth_device_list_controller_impl.h
+// ---
+
 #include <memory>
 #include <string>
 #include <string_view>

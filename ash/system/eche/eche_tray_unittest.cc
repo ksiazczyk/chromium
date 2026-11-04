@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Eche tray
+// summary: Tests the Eche tray with a fake connection status observer, covering bubble behavior, connection status updates, and web content unload and go-back callbacks.
+// relations:
+//   - tests /ash/system/eche/eche_tray.h
+// ---
+
 #include "ash/system/eche/eche_tray.h"
 
 #include <memory>

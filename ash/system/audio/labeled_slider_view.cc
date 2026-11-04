@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Labeled slider view implementation
+// summary: Implements a slider view labeled with the audio device name, including device name lookup and focus ring behavior for the audio detailed view.
+// relations:
+//   - depends_on /ash/system/audio/labeled_slider_view.h
+//   - depends_on /ash/style/typography.h
+//   - depends_on /ash/system/audio/audio_detailed_view_utils.h
+// ---
+
 #include "ash/system/audio/labeled_slider_view.h"
 
 #include <memory>

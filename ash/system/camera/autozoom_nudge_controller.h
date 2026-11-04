@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autozoom nudge controller declaration
+// summary: Declares the controller that shows autozoom nudges and tracks shown counts, timing, and prior enablement in user preferences.
+// relations:
+//   - references /ash/ash_export.h
+//   - depends_on /ash/public/cpp/session/session_observer.h
+//   - depends_on /ash/system/camera/autozoom_observer.h
+// ---
+
 #ifndef ASH_SYSTEM_CAMERA_AUTOZOOM_NUDGE_CONTROLLER_H_
 #define ASH_SYSTEM_CAMERA_AUTOZOOM_NUDGE_CONTROLLER_H_
 

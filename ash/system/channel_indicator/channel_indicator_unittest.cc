@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Channel indicator view unit tests
+// summary: Unit tests covering visibility of the channel indicator view across all release channels and session states, plus layout checks that the view is not squished.
+// relations:
+//   - tests /ash/system/channel_indicator/channel_indicator.h
+//   - tests /ash/system/channel_indicator/channel_indicator.cc
+//   - references /ash/system/channel_indicator/channel_indicator_utils.h
+// ---
+
 #include "ash/system/channel_indicator/channel_indicator.h"
 
 #include "ash/public/cpp/shelf_types.h"

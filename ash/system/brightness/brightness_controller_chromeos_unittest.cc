@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BrightnessControllerChromeos
+// summary: Unit tests for the ChromeOS brightness controller, covering brightness pref persistence, ambient light sensor handling, and brightness action histograms.
+// relations:
+//   - references /ash/system/brightness/brightness_controller_chromeos.h
+//   - tests /ash/system/brightness/brightness_controller_chromeos.cc
+// ---
+
 #include "ash/system/brightness/brightness_controller_chromeos.h"
 
 #include <memory>

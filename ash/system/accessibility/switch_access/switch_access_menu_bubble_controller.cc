@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Switch Access menu bubble controller implementation
+// summary: Implements the controller that shows the Switch Access menu bubble, keeps it within screen bounds, and positions its associated back button.
+// relations:
+//   - implements /ash/system/accessibility/switch_access/switch_access_menu_bubble_controller.h
+//   - depends_on /ash/bubble/bubble_constants.h
+//   - depends_on /ash/public/cpp/shell_window_ids.h
+// ---
+
 #include "ash/system/accessibility/switch_access/switch_access_menu_bubble_controller.h"
 
 #include "ash/bubble/bubble_constants.h"

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autozoom toast view implementation
+// summary: Implements the view inside the autozoom toast bubble, with a toggle button, label, and focus handling that pauses and resumes the auto-close timer.
+// relations:
+//   - implements /ash/system/camera/autozoom_toast_view.h
+//   - references /ash/system/camera/autozoom_toast_controller.h
+// ---
+
 #include "ash/system/camera/autozoom_toast_view.h"
 
 #include "ash/resources/vector_icons/vector_icons.h"

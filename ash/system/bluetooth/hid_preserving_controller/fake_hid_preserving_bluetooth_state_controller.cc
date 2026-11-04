@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake HID preserving Bluetooth state controller
+// summary: Implements a fake HidPreservingBluetoothStateController that can simulate the HID warning dialog flow and applies Bluetooth power state via a test helper.
+// relations:
+//   - implements /ash/system/bluetooth/hid_preserving_controller/fake_hid_preserving_bluetooth_state_controller.h
+//   - references /chromeos/ash/services/bluetooth_config/fake_bluetooth_power_controller.h
+//   - references /ash/public/mojom/hid_preserving_bluetooth_state_controller.mojom
+// ---
+
 #include "ash/system/bluetooth/hid_preserving_controller/fake_hid_preserving_bluetooth_state_controller.h"
 
 #include "ash/constants/ash_features.h"

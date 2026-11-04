@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Bluetooth directory include dependency rules
+summary: Defines include rules allowing services/device/public headers plus test-only includes for the Bluetooth feature pod controller unittest.

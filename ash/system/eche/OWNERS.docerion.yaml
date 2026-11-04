@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the eche system directory
+summary: Delegates code ownership of this directory to the OWNERS file of ash/webui/eche_app_ui.
+relations:
+  - references /ash/webui/eche_app_ui/OWNERS

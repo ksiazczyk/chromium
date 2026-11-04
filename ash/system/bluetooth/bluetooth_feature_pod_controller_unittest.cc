@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bluetooth feature pod controller unit tests
+// summary: Tests the Bluetooth feature pod controller tile behavior, covering device names, battery information display, toggling, and metrics under the BluetoothWifiQSPodRefresh feature.
+// relations:
+//   - tests /ash/system/bluetooth/bluetooth_feature_pod_controller.h
+// ---
+
 #include "ash/system/bluetooth/bluetooth_feature_pod_controller.h"
 
 #include <memory>

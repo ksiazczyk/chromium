@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floating accessibility controller class declarations
+// summary: Declares FloatingAccessibilityController, which manages the floating accessibility menu bubble, its position, detailed view, and observer notifications.
+// relations:
+//   - tested_by /ash/system/accessibility/floating_accessibility_controller_unittest.cc
+//   - implements /ash/accessibility/accessibility_observer.h
+//   - depends_on /ash/system/accessibility/floating_accessibility_detailed_controller.h
+// ---
+
 #ifndef ASH_SYSTEM_ACCESSIBILITY_FLOATING_ACCESSIBILITY_CONTROLLER_H_
 #define ASH_SYSTEM_ACCESSIBILITY_FLOATING_ACCESSIBILITY_CONTROLLER_H_
 

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast feature pod controller unit tests
+// summary: Unit tests verifying tile visibility, labels, sub-labels and toggled state for the cast quick settings tile.
+// relations:
+//   - tests /ash/system/cast/cast_feature_pod_controller.cc
+// ---
+
 #include "ash/system/cast/cast_feature_pod_controller.h"
 
 #include "ash/public/cpp/test/test_cast_config_controller.h"

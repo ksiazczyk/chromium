@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RoutineLog implementation
+// summary: Implements logging of diagnostics routine start, completion and cancellation events into per-category log files.
+// relations:
+//   - implements /ash/system/diagnostics/routine_log.h
+//   - depends_on /base/i18n/time_formatting.h
+//   - depends_on /base/logging.h
+// ---
+
 #include "ash/system/diagnostics/routine_log.h"
 
 #include <sstream>

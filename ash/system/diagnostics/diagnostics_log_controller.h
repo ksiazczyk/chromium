@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiagnosticsLogController class declaration
+// summary: Declares DiagnosticsLogController, which manages diagnostics log writer lifetimes and combines session logs.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /ash/login_status.h
+//   - references /ash/public/cpp/session/session_observer.h
+// ---
+
 #ifndef ASH_SYSTEM_DIAGNOSTICS_DIAGNOSTICS_LOG_CONTROLLER_H_
 #define ASH_SYSTEM_DIAGNOSTICS_DIAGNOSTICS_LOG_CONTROLLER_H_
 

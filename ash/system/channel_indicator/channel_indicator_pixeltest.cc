@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Channel indicator pixel tests
+// summary: Parameterized pixel tests comparing screenshots of the channel indicator across beta, dev, and canary channels, shelf alignment, login state, and system blur settings.
+// relations:
+//   - references /ash/system/channel_indicator/channel_indicator_utils.h
+// ---
+
 #include <memory>
 
 #include "ash/shelf/shelf.h"

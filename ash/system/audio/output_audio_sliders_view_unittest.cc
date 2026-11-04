@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Output audio sliders view unit tests
+// summary: Unit tests for OutputAudioSlidersView that build fake speaker and headphone audio nodes and verify slider rendering, device view mapping and device list update callbacks.
+// relations:
+//   - tests /ash/system/audio/output_audio_sliders_view.h
+// ---
+
 #include "ash/system/audio/output_audio_sliders_view.h"
 
 #include <memory>

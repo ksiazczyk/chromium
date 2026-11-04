@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick settings channel indicator view class declaration
+// summary: Declares the view holding the channel indicator UI in the Quick Settings header, with a narrow layout toggle and test accessors for the version and feedback buttons.
+// relations:
+//   - depends_on /ui/views/view.h
+// ---
+
 #ifndef ASH_SYSTEM_CHANNEL_INDICATOR_CHANNEL_INDICATOR_QUICK_SETTINGS_VIEW_H_
 #define ASH_SYSTEM_CHANNEL_INDICATOR_CHANNEL_INDICATOR_QUICK_SETTINGS_VIEW_H_
 

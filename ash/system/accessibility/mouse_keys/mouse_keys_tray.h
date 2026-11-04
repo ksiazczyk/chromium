@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MouseKeysTray class declaration
+// summary: Declares the tray button that lets users pause or resume mouse keys and observes accessibility and session state changes.
+// relations:
+//   - depends_on /ash/accessibility/accessibility_observer.h
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/session/session_observer.h
+// ---
+
 #ifndef ASH_SYSTEM_ACCESSIBILITY_MOUSE_KEYS_MOUSE_KEYS_TRAY_H_
 #define ASH_SYSTEM_ACCESSIBILITY_MOUSE_KEYS_MOUSE_KEYS_TRAY_H_
 

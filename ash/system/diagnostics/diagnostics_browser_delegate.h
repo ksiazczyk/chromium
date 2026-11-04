@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiagnosticsBrowserDelegate interface
+// summary: Declares the interface DiagnosticsLogController uses to retrieve browser state such as the active user's profile directory.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /base/files/file_path.h
+// ---
+
 #ifndef ASH_SYSTEM_DIAGNOSTICS_DIAGNOSTICS_BROWSER_DELEGATE_H_
 #define ASH_SYSTEM_DIAGNOSTICS_DIAGNOSTICS_BROWSER_DELEGATE_H_
 

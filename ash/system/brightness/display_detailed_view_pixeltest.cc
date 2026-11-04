@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pixel tests for the display detailed view
+// summary: Pixel tests verifying the rendering of the quick settings display detailed view with system blur enabled and disabled.
+// relations:
+//   - tests /ash/system/brightness/display_detailed_view.cc
+//   - tests /ash/system/brightness/display_detailed_view.h
+// ---
+
 #include "ash/system/tray/tray_detailed_view.h"
 #include "ash/system/unified/unified_system_tray.h"
 #include "ash/system/unified/unified_system_tray_bubble.h"

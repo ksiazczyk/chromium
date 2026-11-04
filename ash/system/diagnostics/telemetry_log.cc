@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TelemetryLog implementation
+// summary: Implements formatting of the latest system, battery, memory and CPU telemetry into a readable log string.
+// relations:
+//   - implements /ash/system/diagnostics/telemetry_log.h
+//   - references /base/i18n/time_formatting.h
+//   - references /base/time/time.h
+// ---
+
 #include "ash/system/diagnostics/telemetry_log.h"
 
 #include <sstream>

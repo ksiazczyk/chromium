@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera app prefs function declarations
+// summary: Declares functions for registering camera app profile preferences and reading or writing the dev tools and cancel upload dialog settings.
+// relations:
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_SYSTEM_CAMERA_CAMERA_APP_PREFS_H_
 #define ASH_SYSTEM_CAMERA_CAMERA_APP_PREFS_H_
 

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick settings channel indicator unit tests
+// summary: Unit tests verifying the version button is always visible, the feedback button follows the user feedback preference, and button clicks trigger channel info and feedback flows.
+// relations:
+//   - tests /ash/system/channel_indicator/channel_indicator_quick_settings_view.h
+//   - tests /ash/system/channel_indicator/channel_indicator_quick_settings_view.cc
+// ---
+
 #include "ash/system/channel_indicator/channel_indicator_quick_settings_view.h"
 
 #include <tuple>

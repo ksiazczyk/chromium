@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the accessibility system tray
+summary: Owners file that delegates review ownership to the ash/accessibility OWNERS file.
+relations:
+  - references /ash/accessibility/OWNERS

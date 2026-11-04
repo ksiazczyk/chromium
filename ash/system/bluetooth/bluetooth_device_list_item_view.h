@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothDeviceListItemView header
+// summary: Declares the view class representing a single device entry in the Bluetooth detailed quick settings page, including property and accessibility name updates.
+// relations:
+//   - depends_on /ash/system/tray/hover_highlight_view.h
+// ---
+
 #ifndef ASH_SYSTEM_BLUETOOTH_BLUETOOTH_DEVICE_LIST_ITEM_VIEW_H_
 #define ASH_SYSTEM_BLUETOOTH_BLUETOOTH_DEVICE_LIST_ITEM_VIEW_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HID preserving Bluetooth state controller test helper header
+// summary: Declares a test helper that provides a fake HidPreservingBluetoothStateController service interface for tests.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/system/bluetooth/hid_preserving_controller/fake_hid_preserving_bluetooth_state_controller.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_SYSTEM_BLUETOOTH_HID_PRESERVING_CONTROLLER_HID_PRESERVING_BLUETOOTH_STATE_CONTROLLER_TEST_HELPER_H_
 #define ASH_SYSTEM_BLUETOOTH_HID_PRESERVING_CONTROLLER_HID_PRESERVING_BLUETOOTH_STATE_CONTROLLER_TEST_HELPER_H_
 

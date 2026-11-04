@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autoclick menu bubble controller unit tests
+// summary: Unit tests for the autoclick menu bubble controller, verifying bubble existence, menu placement in screen corners, scroll bubble behavior, and RTL layout.
+// relations:
+//   - tests /ash/system/accessibility/autoclick_menu_bubble_controller.h
+// ---
+
 #include "ash/system/accessibility/autoclick_menu_bubble_controller.h"
 
 #include "ash/accessibility/accessibility_controller.h"

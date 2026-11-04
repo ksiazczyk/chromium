@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eche icon loading indicator view implementation
+// summary: Implements a view that draws a spinning throbber around a parent view, sized to the parent bounds and toggled via SetAnimating.
+// relations:
+//   - implements /ash/system/eche/eche_icon_loading_indicator_view.h
+//   - references /base/scoped_observation.h
+//   - references /ui/color/color_provider.h
+// ---
+
 #include "ash/system/eche/eche_icon_loading_indicator_view.h"
 
 #include <algorithm>

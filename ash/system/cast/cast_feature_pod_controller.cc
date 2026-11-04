@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast feature pod controller implementation
+// summary: Implements the cast feature tile in quick settings, updating its label, sub-label and visibility from cast devices and routes.
+// relations:
+//   - implements /ash/system/cast/cast_feature_pod_controller.h
+// ---
+
 #include "ash/system/cast/cast_feature_pod_controller.h"
 
 #include <string>

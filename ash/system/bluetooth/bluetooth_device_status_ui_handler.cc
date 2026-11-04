@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothDeviceStatusUiHandler implementation
+// summary: Implements an observer that shows toasts when Bluetooth devices are paired, connected, or disconnected, and records related metrics and local state preferences.
+// relations:
+//   - implements /ash/system/bluetooth/bluetooth_device_status_ui_handler.h
+//   - references /ash/public/cpp/system/toast_data.h
+//   - references /device/bluetooth/chromeos/bluetooth_utils.h
+// ---
+
 #include "ash/system/bluetooth/bluetooth_device_status_ui_handler.h"
 
 #include "ash/constants/ash_pref_names.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothDeviceListItemView implementation
+// summary: Implements the quick settings list item for a single paired Bluetooth device, showing its name, connection state, battery information, and accessibility description.
+// relations:
+//   - implemented_by /ash/system/bluetooth/bluetooth_device_list_item_view.h
+//   - depends_on /ash/system/bluetooth/bluetooth_device_list_item_battery_view.h
+//   - depends_on /ash/system/bluetooth/bluetooth_device_list_item_multiple_battery_view.h
+// ---
+
 #include "ash/system/bluetooth/bluetooth_device_list_item_view.h"
 
 #include <string>

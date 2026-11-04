@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HID preserving Bluetooth state controller test helper implementation
+// summary: Installs a fake HID preserving Bluetooth state controller as an in-process override for the duration of a test and removes the override on destruction.
+// relations:
+//   - implements /ash/system/bluetooth/hid_preserving_controller/hid_preserving_bluetooth_state_controller_test_helper.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/system/bluetooth/hid_preserving_controller/in_process_instance.h
+// ---
+
 #include "ash/system/bluetooth/hid_preserving_controller/hid_preserving_bluetooth_state_controller_test_helper.h"
 
 #include "ash/constants/ash_features.h"

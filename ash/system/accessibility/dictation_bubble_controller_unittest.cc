@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dictation bubble controller unit tests
+// summary: Unit tests verifying the Dictation bubble controller's show, hide, text, standby, macro success and failure, and hint display behavior.
+// relations:
+//   - references /ash/system/accessibility/dictation_bubble_controller.h
+//   - tests /ash/system/accessibility/dictation_bubble_view.h
+//   - tests /ash/system/accessibility/dictation_bubble_controller.cc
+// ---
+
 #include "ash/system/accessibility/dictation_bubble_controller.h"
 
 #include <string_view>

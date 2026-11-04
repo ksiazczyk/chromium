@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast zero state view pixel tests
+// summary: Pixel tests that verify the appearance of the quick settings cast zero-state view with and without system blur enabled.
+// relations:
+//   - references /ash/test/ash_test_base.h
+// ---
+
 #include "ash/public/cpp/test/test_cast_config_controller.h"
 #include "ash/system/tray/tray_detailed_view.h"
 #include "ash/system/unified/quick_settings_view.h"

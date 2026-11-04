@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floating menu button implementation
+// summary: Implements the FloatingMenuButton view used in floating accessibility menus, handling vector icons, toggle state, highlight drawing, and screen-reader togglable properties.
+// relations:
+//   - implements /ash/system/accessibility/floating_menu_button.h
+// ---
+
 #include "ash/system/accessibility/floating_menu_button.h"
 
 #include <utility>

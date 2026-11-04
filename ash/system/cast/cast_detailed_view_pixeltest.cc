@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast detailed view pixel test
+// summary: Pixel test checking the rendered cast detailed view with access code casting, an inactive sink and an active route.
+// ---
+
 #include "ash/public/cpp/cast_config_controller.h"
 #include "ash/public/cpp/test/test_cast_config_controller.h"
 #include "ash/system/tray/tray_detailed_view.h"

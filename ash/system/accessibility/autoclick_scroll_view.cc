@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autoclick scroll view implementation
+// summary: Implements the automatic clicks scroll menu view with directional scroll buttons, a close button, and custom-shaped hit targets that trigger scroll actions.
+// relations:
+//   - implements /ash/system/accessibility/autoclick_scroll_view.h
+//   - depends_on /ash/accessibility/autoclick/autoclick_controller.h
+// ---
+
 #include "ash/system/accessibility/autoclick_scroll_view.h"
 
 #include "ash/accessibility/autoclick/autoclick_controller.h"

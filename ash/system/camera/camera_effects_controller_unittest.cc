@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Camera effects controller unit tests
+// summary: Unit tests for CameraEffectsController covering background blur states, background image handling, metrics, and video conference tray effect integration.
+// relations:
+//   - tests /ash/system/camera/camera_effects_controller.h
+// ---
+
 #include "ash/system/camera/camera_effects_controller.h"
 
 #include "ash/constants/ash_features.h"

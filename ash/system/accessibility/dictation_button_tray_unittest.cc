@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dictation button tray unit tests
+// summary: Unit tests for the Dictation button tray covering visibility, icon state, tooltips and progress indicator behavior during speech file downloads.
+// ---
+
 #include "ash/system/accessibility/dictation_button_tray.h"
 
 #include <memory>

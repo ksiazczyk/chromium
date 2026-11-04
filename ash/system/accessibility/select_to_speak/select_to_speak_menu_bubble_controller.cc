@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Select-to-speak menu bubble controller implementation
+// summary: Implements the controller that shows and hides the Select-to-speak floating menu bubble and records its visibility duration histogram.
+// relations:
+//   - implements /ash/system/accessibility/select_to_speak/select_to_speak_menu_bubble_controller.h
+//   - depends_on /ash/system/accessibility/select_to_speak/select_to_speak_menu_view.cc
+// ---
+
 #include "ash/system/accessibility/select_to_speak/select_to_speak_menu_bubble_controller.h"
 
 #include "ash/accessibility/accessibility_controller.h"

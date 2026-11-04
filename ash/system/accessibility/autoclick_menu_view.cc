@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autoclick menu view implementation
+// summary: Implements the autoclick menu view that builds buttons for left, right, and double click, drag, scroll, pause, and position controls of the automatic clicks feature.
+// relations:
+//   - implements /ash/system/accessibility/autoclick_menu_view.h
+// ---
+
 #include "ash/system/accessibility/autoclick_menu_view.h"
 
 #include "ash/accessibility/accessibility_controller.h"

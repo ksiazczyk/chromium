@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothDeviceListItemMultipleBatteryView implementation
+// summary: Implements the view that shows separate battery indicators for a device's left bud, case, and right bud, adding or removing each battery view based on the reported battery info.
+// relations:
+//   - implemented_by /ash/system/bluetooth/bluetooth_device_list_item_multiple_battery_view.h
+// ---
+
 #include "ash/system/bluetooth/bluetooth_device_list_item_multiple_battery_view.h"
 
 #include "ash/strings/grit/ash_strings.h"

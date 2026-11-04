@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiagnosticsLogController implementation
+// summary: Implements the diagnostics session log controller, managing log writers and choosing log paths based on session state.
+// relations:
+//   - implements /ash/system/diagnostics/diagnostics_log_controller.h
+//   - references /ash/system/diagnostics/diagnostics_browser_delegate.h
+//   - references /ash/system/diagnostics/keyboard_input_log.h
+// ---
+
 #include "ash/system/diagnostics/diagnostics_log_controller.h"
 
 #include <memory>

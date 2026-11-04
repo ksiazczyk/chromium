@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Select-to-speak menu view declaration
+// summary: Declares the Select-to-speak floating menu panel view, its button IDs, and the delegate invoked when actions are selected.
+// relations:
+//   - implements /ui/views/layout/box_layout_view.h
+// ---
+
 #ifndef ASH_SYSTEM_ACCESSIBILITY_SELECT_TO_SPEAK_SELECT_TO_SPEAK_MENU_VIEW_H_
 #define ASH_SYSTEM_ACCESSIBILITY_SELECT_TO_SPEAK_SELECT_TO_SPEAK_MENU_VIEW_H_
 

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autozoom toast controller unit tests
+// summary: Unit tests for AutozoomToastController using a test delegate, covering toast display when the camera becomes active and the bubble's accessible name.
+// relations:
+//   - tests /ash/system/camera/autozoom_toast_controller.cc
+// ---
+
 #include "ash/system/camera/autozoom_toast_controller.h"
 
 #include "ash/system/unified/unified_system_tray.h"

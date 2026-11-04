@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Floating accessibility menu view implementation
+// summary: Implements the floating accessibility bubble and menu view that displays enabled accessibility options with buttons for dictation, Select-to-Speak, keyboard, IME, and menu positioning.
+// relations:
+//   - implements /ash/system/accessibility/floating_accessibility_view.h
+//   - depends_on /ash/accessibility/accessibility_controller.h
+// ---
+
 #include "ash/system/accessibility/floating_accessibility_view.h"
 
 #include "ash/accessibility/accessibility_controller.h"

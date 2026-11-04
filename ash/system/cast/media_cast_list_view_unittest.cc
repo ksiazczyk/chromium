@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media cast list view unit tests
+// summary: Unit tests for the media cast list view, covering device list updates, casting callbacks and stop casting button behavior.
+// relations:
+//   - tests /ash/system/cast/media_cast_list_view.h
+//   - depends_on /ash/test/ash_test_base.h
+//   - depends_on /base/functional/bind.h
+// ---
+
 #include "ash/system/cast/media_cast_list_view.h"
 
 #include <memory>

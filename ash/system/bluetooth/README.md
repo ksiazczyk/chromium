@@ -1,3 +1,9 @@
+---
+type: readme
+title: Bluetooth Quick Settings UI
+summary: Explains the Bluetooth system tray classes, their roles, and how they use the CrosBluetoothConfig mojo API to display and manage Bluetooth devices.
+---
+
 # Bluetooth Quick Settings UI
 
 This directory contains Bluetooth system tray classes, used to display

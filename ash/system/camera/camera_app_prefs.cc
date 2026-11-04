@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera app preferences helpers
+// summary: Registers and accesses ChromeOS camera app profile preferences such as the dev tools open state and skipping the cancel upload dialog.
+// relations:
+//   - implements /ash/system/camera/camera_app_prefs.h
+//   - references /ash/constants/ash_pref_names.h
+// ---
+
 #include "ash/system/camera/camera_app_prefs.h"
 
 #include "ash/constants/ash_pref_names.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unified cast detailed view controller class declaration
+// summary: Declares the DetailedViewController subclass that manages the Cast detailed view within UnifiedSystemTray, including view creation and accessible naming.
+// relations:
+//   - depends_on /ash/public/cpp/cast_config_controller.h
+//   - implements /ash/system/unified/detailed_view_controller.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_SYSTEM_CAST_UNIFIED_CAST_DETAILED_VIEW_CONTROLLER_H_
 #define ASH_SYSTEM_CAST_UNIFIED_CAST_DETAILED_VIEW_CONTROLLER_H_
 

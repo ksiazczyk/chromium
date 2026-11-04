@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AsyncLog class declaration
+// summary: Declares AsyncLog, a simple logger that appends strings to a file with all I/O performed on a sequenced task runner.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /base/files/file_path.h
+//   - references /base/memory/scoped_refptr.h
+// ---
+
 #ifndef ASH_SYSTEM_DIAGNOSTICS_ASYNC_LOG_H_
 #define ASH_SYSTEM_DIAGNOSTICS_ASYNC_LOG_H_
 

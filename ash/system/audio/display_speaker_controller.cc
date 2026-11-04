@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display speaker controller implementation
+// summary: Updates internal speaker channel swapping for display rotation and triggers HDMI audio rediscovery on display changes, docking events and resume from suspend.
+// relations:
+//   - implements /ash/system/audio/display_speaker_controller.h
+//   - references /chromeos/ash/components/audio/cras_audio_handler.h
+// ---
+
 #include "ash/system/audio/display_speaker_controller.h"
 
 #include "ash/shell.h"

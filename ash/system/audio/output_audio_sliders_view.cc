@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Output audio sliders view implementation
+// summary: Implements a list view of output device volume sliders that updates on audio changes and notifies the media panel about available devices.
+// relations:
+//   - implements /ash/system/audio/output_audio_sliders_view.h
+// ---
+
 #include "ash/system/audio/output_audio_sliders_view.h"
 
 #include <iterator>

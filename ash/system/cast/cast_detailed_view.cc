@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast detailed view implementation
+// summary: Implements the quick settings detailed view that lists cast receivers and provides stop, pause and access-code casting actions.
+// relations:
+//   - implements /ash/system/cast/cast_detailed_view.h
+// ---
+
 #include "ash/system/cast/cast_detailed_view.h"
 
 #include <map>

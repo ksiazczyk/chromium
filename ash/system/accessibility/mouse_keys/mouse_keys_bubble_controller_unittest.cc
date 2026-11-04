@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mouse keys bubble controller unit tests
+// summary: Unit tests covering the bubble label text, accessibility properties, and automatic hiding of the bubble after two seconds using mock time.
+// relations:
+//   - references /ash/system/accessibility/mouse_keys/mouse_keys_bubble_controller.h
+//   - references /ash/accessibility/accessibility_controller.h
+//   - references /ash/accessibility/mouse_keys/mouse_keys_controller.h
+// ---
+
 #include "ash/system/accessibility/mouse_keys/mouse_keys_bubble_controller.h"
 
 #include <string_view>

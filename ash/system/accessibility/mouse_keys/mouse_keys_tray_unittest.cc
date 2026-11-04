@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mouse keys tray unit tests
+// summary: Unit tests covering tray visibility with mouse keys enabled, the accessible name, and icon state changes when mouse keys is paused and resumed.
+// relations:
+//   - tests /ash/system/accessibility/mouse_keys/mouse_keys_tray.h
+//   - depends_on /ash/test/ash_test_base.h
+//   - depends_on /ash/system/status_area_widget_test_helper.h
+// ---
+
 #include "ash/system/accessibility/mouse_keys/mouse_keys_tray.h"
 
 #include "ash/accessibility/accessibility_controller.h"

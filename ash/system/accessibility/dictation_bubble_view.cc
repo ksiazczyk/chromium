@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictation bubble view implementation
+// summary: Implements the Dictation bubble view, including the top row with icons, animations and speech text plus the hint view showing dictation command hints.
+// relations:
+//   - implements /ash/system/accessibility/dictation_bubble_view.h
+//   - references /ash/shell.h
+//   - references /ui/base/metadata/metadata_impl_macros.h
+// ---
+
 #include "ash/system/accessibility/dictation_bubble_view.h"
 
 #include <memory>

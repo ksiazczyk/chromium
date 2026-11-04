@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Select-to-speak speed bubble controller implementation
+// summary: Implements the controller that shows the reading speed selector bubble anchored to the menu and records its visibility duration.
+// relations:
+//   - implements /ash/system/accessibility/select_to_speak/select_to_speak_speed_bubble_controller.h
+//   - references /ash/system/accessibility/select_to_speak/select_to_speak_speed_view.h
+//   - references /ash/system/accessibility/select_to_speak/select_to_speak_constants.h
+// ---
+
 #include "ash/system/accessibility/select_to_speak/select_to_speak_speed_bubble_controller.h"
 
 #include <string>

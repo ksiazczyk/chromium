@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: KeyboardInputLog unit tests
+// summary: Unit tests for KeyboardInputLog covering keyboard registration, key press recording, and log creation for single and multiple keyboards.
+// relations:
+//   - tests /ash/system/diagnostics/keyboard_input_log.h
+//   - references /ash/system/diagnostics/log_test_helpers.h
+// ---
+
 #include "ash/system/diagnostics/keyboard_input_log.h"
 
 #include <cstdint>

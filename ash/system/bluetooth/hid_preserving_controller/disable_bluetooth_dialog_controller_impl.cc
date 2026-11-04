@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Disable Bluetooth warning dialog implementation
+// summary: Implements the warning dialog, building a system dialog that lists up to three connected HID devices and reports the user's confirm or cancel choice via callback.
+// relations:
+//   - implements /ash/system/bluetooth/hid_preserving_controller/disable_bluetooth_dialog_controller_impl.h
+//   - implements /ash/system/bluetooth/hid_preserving_controller/disable_bluetooth_dialog_controller.h
+// ---
+
 #include "ash/system/bluetooth/hid_preserving_controller/disable_bluetooth_dialog_controller_impl.h"
 
 #include <algorithm>

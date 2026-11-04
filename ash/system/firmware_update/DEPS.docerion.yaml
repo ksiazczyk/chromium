@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the firmware update directory
+summary: Defines allowed include dependencies for the firmware update directory, permitting fwupd components and proxy config only for the unit test.

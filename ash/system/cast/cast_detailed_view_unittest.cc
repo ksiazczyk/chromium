@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast detailed view unit tests
+// summary: Unit tests covering device list creation, casting to sinks, bubble closing and access code button behavior.
+// relations:
+//   - depends_on /ash/system/cast/cast_detailed_view.h
+// ---
+
 #include "ash/system/cast/cast_detailed_view.h"
 
 #include <memory>

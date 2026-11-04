@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio detailed view header
+// summary: Declares the AudioDetailedView class for the quick settings audio panel, including view IDs, observer interfaces, and test callbacks for noise cancellation and style transfer.
+// relations:
+//   - references /ash/system/audio/audio_detailed_view_utils.h
+//   - references /ash/system/tray/tray_detailed_view.h
+// ---
+
 #ifndef ASH_SYSTEM_AUDIO_AUDIO_DETAILED_VIEW_H_
 #define ASH_SYSTEM_AUDIO_AUDIO_DETAILED_VIEW_H_
 

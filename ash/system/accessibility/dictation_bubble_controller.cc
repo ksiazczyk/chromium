@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictation bubble controller implementation
+// summary: Implements the controller that creates, shows, hides and repositions the Dictation bubble widget, anchoring it to the caret and avoiding collisions with other system windows.
+// relations:
+//   - implements /ash/system/accessibility/dictation_bubble_controller.h
+//   - references /ash/shell.h
+//   - references /ash/system/accessibility/dictation_bubble_view.h
+// ---
+
 #include "ash/system/accessibility/dictation_bubble_controller.h"
 
 #include "ash/display/window_tree_host_manager.h"

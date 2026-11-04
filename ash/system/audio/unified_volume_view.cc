@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unified volume view implementation
+// summary: Implements the Quick Settings volume slider view, adding a live caption toggle and an audio settings drill-in button and updating icons and state from CrasAudioHandler audio events.
+// relations:
+//   - implements /ash/system/audio/unified_volume_view.h
+//   - references /ash/system/audio/unified_volume_slider_controller.h
+//   - references /ash/system/unified/quick_settings_slider.h
+// ---
+
 #include "ash/system/audio/unified_volume_view.h"
 
 #include <memory>

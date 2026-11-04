@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkingLog unit tests
+// summary: Unit tests for the networking log, verifying logged network info lines for Wi-Fi, Ethernet and cellular networks.
+// relations:
+//   - tests /ash/system/diagnostics/networking_log.h
+//   - depends_on /ash/system/diagnostics/log_test_helpers.h
+//   - depends_on /base/files/scoped_temp_dir.h
+// ---
+
 #include "ash/system/diagnostics/networking_log.h"
 
 #include <vector>

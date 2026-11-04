@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for DisplayDetailedView
+// summary: Unit tests for the display detailed view, checking scroll content children and feature tile visibility across session states.
+// relations:
+//   - tests /ash/system/brightness/display_detailed_view.h
+//   - tests /ash/system/brightness/display_detailed_view.cc
+// ---
+
 #include "ash/system/brightness/display_detailed_view.h"
 
 #include <memory>

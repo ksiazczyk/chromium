@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mouse keys tray implementation
+// summary: Implements the status area tray button that reflects the mouse keys state and toggles pausing or resuming when pressed.
+// relations:
+//   - implements /ash/accessibility/accessibility_controller.h
+//   - depends_on /ash/accessibility/accessibility_controller.h
+//   - depends_on /ash/accessibility/mouse_keys/mouse_keys_controller.h
+// ---
+
 #include "ash/system/accessibility/mouse_keys/mouse_keys_tray.h"
 
 #include "ash/accessibility/accessibility_controller.h"

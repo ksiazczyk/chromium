@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FloatingMenuButton class declaration
+// summary: Declares the FloatingMenuButton ImageButton subclass for floating menus, exposing icon, toggle, highlight, and accessibility togglable properties with view builder support.
+// relations:
+//   - references /ash/system/tray/tray_constants.h
+//   - references /ui/views/controls/button/image_button.h
+// ---
+
 #ifndef ASH_SYSTEM_ACCESSIBILITY_FLOATING_MENU_BUTTON_H_
 #define ASH_SYSTEM_ACCESSIBILITY_FLOATING_MENU_BUTTON_H_
 
