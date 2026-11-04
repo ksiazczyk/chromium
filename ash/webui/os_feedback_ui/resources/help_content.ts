@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Help content element logic
+// summary: Implements the help-content Polymer element that displays help article and forum links, tracks online status, and reports iframe height to the parent window.
+// ---
+
 import './help_resources_icons.html.js';
 import '/strings.m.js';
 import '//resources/ash/common/cr_elements/cr_hidden_style.css.js';

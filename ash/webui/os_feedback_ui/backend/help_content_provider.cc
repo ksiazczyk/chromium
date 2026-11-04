@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HelpContentProvider implementation
+// summary: Implements help content search by posting requests to the Google search API, parsing JSON responses and filtering results by locale.
+// ---
+
 #include "ash/webui/os_feedback_ui/backend/help_content_provider.h"
 
 #include <cstdint>

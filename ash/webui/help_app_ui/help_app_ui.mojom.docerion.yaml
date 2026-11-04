@@ -1,0 +1,4 @@
+# Docerion header of help_app_ui.mojom.
+type: source
+title: Help app Mojo interface definitions
+summary: Defines the Mojo interfaces, structs and enums shared between the browser and the help app renderer, covering device info, settings components and page actions.

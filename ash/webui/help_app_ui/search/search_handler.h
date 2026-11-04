@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchHandler class declaration
+// summary: Declares the SearchHandler class that answers help app search queries by matching against the local search service index and tag registry.
+// ---
+
 #ifndef ASH_WEBUI_HELP_APP_UI_SEARCH_SEARCH_HANDLER_H_
 #define ASH_WEBUI_HELP_APP_UI_SEARCH_SEARCH_HANDLER_H_
 

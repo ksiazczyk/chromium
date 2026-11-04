@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media App UI browser test fixture
+// summary: C++ browser test fixture that registers Media App UI test cases and serves the test JavaScript files to the sandboxed WebUI.
+// ---
+
 #include "ash/webui/media_app_ui/test/media_app_ui_browsertest.h"
 
 #include "ash/public/cpp/style/dark_light_mode_controller.h"

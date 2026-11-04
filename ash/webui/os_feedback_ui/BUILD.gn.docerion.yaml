@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the OS feedback WebUI
+summary: Defines the os_feedback_ui static library and the url_constants source set for the ChromeOS feedback WebUI.

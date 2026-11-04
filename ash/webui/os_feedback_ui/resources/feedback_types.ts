@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feedback type aliases
+// summary: Defines type aliases and interfaces such as HelpContentList and SearchResult used across the feedback app.
+// ---
+
 import type {HelpContent} from './os_feedback_ui.mojom-webui.js';
 
 /**

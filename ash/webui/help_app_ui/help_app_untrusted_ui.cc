@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Help app untrusted WebUI controller implementation
+// summary: Implements the untrusted WebUI controller for the Explore help app, creating a data source that serves bundled resources, localized strings, and content security policy settings.
+// ---
+
 
 #include "ash/webui/help_app_ui/help_app_untrusted_ui.h"
 

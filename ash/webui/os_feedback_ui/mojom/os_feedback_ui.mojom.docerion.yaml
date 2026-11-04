@@ -1,0 +1,4 @@
+# Docerion header of os_feedback_ui.mojom.
+type: source
+title: Mojo interfaces for the ChromeOS Feedback tool
+summary: Defines Mojo structs, enums and interfaces for the ChromeOS Feedback tool, covering help content search requests and feedback context data exchanged between the WebUI and the browser process.

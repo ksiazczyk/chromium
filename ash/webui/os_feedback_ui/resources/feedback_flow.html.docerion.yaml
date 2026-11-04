@@ -1,0 +1,4 @@
+# Docerion header of feedback_flow.html.
+type: source
+title: Feedback flow template
+summary: Template that hosts the search, share data, and confirmation pages of the feedback flow using iron-pages.

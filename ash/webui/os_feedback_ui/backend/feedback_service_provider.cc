@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedbackServiceProvider implementation
+// summary: Implements the mojo feedback service that provides feedback context and screenshots, sends reports, opens related apps and records usage metrics.
+// ---
+
 #include "ash/webui/os_feedback_ui/backend/feedback_service_provider.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the multidevice debug WebUI JavaScript
+summary: Defines Closure-compiled js_library targets for the webui and logs modules of the ChromeOS multidevice debug page.

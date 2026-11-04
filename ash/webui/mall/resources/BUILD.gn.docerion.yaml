@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Mall WebUI resources build configuration
+summary: GN build rules that assemble the ChromeOS Mall WebUI from static files, TypeScript sources, and generated Mojo bindings.

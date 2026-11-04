@@ -1,0 +1,4 @@
+# Docerion header of file_attachment.html.
+type: source
+title: File attachment element template
+summary: HTML template for the file-attachment element that lets users pick a file to attach to the feedback report, including image preview and replace controls.

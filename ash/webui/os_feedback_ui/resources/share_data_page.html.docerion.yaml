@@ -1,0 +1,4 @@
+# Docerion header of share_data_page.html.
+type: source
+title: Share data page template for the OS feedback UI
+summary: HTML template for the second feedback tool step, with screenshot preview, file attachment, user email, and diagnostic data consent controls.

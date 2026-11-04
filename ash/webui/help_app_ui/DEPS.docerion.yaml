@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the help_app_ui directory
+summary: Restricts allowed includes for the directory, forbidding chrome and permitting specific ChromeOS resource and component headers.

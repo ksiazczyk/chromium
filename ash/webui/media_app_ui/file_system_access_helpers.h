@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File system access helper declarations
+// summary: Header declaring the ResolveTransferToken helper that runs a callback on the file represented by a file system access transfer token.
+// ---
+
 #ifndef ASH_WEBUI_MEDIA_APP_UI_FILE_SYSTEM_ACCESS_HELPERS_H_
 #define ASH_WEBUI_MEDIA_APP_UI_FILE_SYSTEM_ACCESS_HELPERS_H_
 

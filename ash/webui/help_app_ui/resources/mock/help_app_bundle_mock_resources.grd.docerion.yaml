@@ -1,0 +1,4 @@
+# Docerion header of help_app_bundle_mock_resources.grd.
+type: config
+title: GRIT bundle definition for Help App mock resources
+summary: GRIT XML that packages the generated mock app_bin.js into the ChromeOS Help App bundle resources, headers and resource map outputs.

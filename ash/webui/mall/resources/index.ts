@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mall WebUI iframe loader
+// summary: TypeScript that embeds the mall iframe, retries loading every 30 seconds, and shows the offline page if loading exceeds 15 seconds.
+// ---
+
 import {PageHandler} from './mall_ui.mojom-webui.js';
 
 const pageHandler = PageHandler.getRemote();

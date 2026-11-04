@@ -1,3 +1,9 @@
+<!--docerion
+type: asset
+title: Media app icon
+summary: Vector app icon for the media app UI, a red rounded square with a tilted photo frame and white sparkles.
+-->
+
 <svg width="192" height="192" viewBox="0 0 192 192" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect width="192" height="192" rx="96" fill="#EB4B3E"/>
 <mask id="mask0" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="192" height="192">

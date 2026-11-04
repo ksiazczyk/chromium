@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mall UI delegate interface
+// summary: Declares the MallUIDelegate interface that lets //chrome services be exposed to the //ash WebUI and provides the URL for embedding the Mall website.
+// ---
+
 #ifndef ASH_WEBUI_MALL_MALL_UI_DELEGATE_H_
 #define ASH_WEBUI_MALL_MALL_UI_DELEGATE_H_
 

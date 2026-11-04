@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media App URL constants header
+// summary: Declares the ash namespace constants for the Media App WebUI host and page URLs so other media app UI sources can use them.
+// ---
+
 #ifndef ASH_WEBUI_MEDIA_APP_UI_URL_CONSTANTS_H_
 #define ASH_WEBUI_MEDIA_APP_UI_URL_CONSTANTS_H_
 

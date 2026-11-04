@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS feedback WebUI controller declaration
+// summary: Declares the OS feedback WebUI controller class and its WebUI configuration for the ChromeOS feedback tool.
+// ---
+
 #ifndef ASH_WEBUI_OS_FEEDBACK_UI_OS_FEEDBACK_UI_H_
 #define ASH_WEBUI_OS_FEEDBACK_UI_OS_FEEDBACK_UI_H_
 

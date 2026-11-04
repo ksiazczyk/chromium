@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Help App UI resources build configuration
+summary: Defines GN build targets that stage, compile and bundle the TypeScript and JavaScript sources for the ChromeOS Help App web UI.

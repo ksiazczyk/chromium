@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Guest driver test helpers
+// summary: Host-side web-driver style controller and fakes for sending test messages to and inspecting the sandboxed Media App guest.
+// ---
+
 import {assertEquals, assertTrue} from 'chrome://webui-test/chai_assert.js';
 
 import type {FileSnapshot, LastLoadedFilesResponse, TestMessageQueryData, TestMessageResponseData, TestMessageRunTestCase} from './driver_api.js';

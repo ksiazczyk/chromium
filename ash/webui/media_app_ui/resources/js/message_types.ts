@@ -7,6 +7,12 @@
  * Message definitions passed over the MediaApp privileged/unprivileged pipe.
  */
 
+// ---docerion
+// type: source
+// title: Message types for the privileged/untrusted pipe
+// summary: Defines the message enum and interfaces exchanged between the privileged and unprivileged media app contexts, such as file loading, renaming, overwriting and navigation.
+// ---
+
 /** Enum for message types. */
 export enum Message {
   DELETE_FILE = 'delete-file',

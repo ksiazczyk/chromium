@@ -7,6 +7,12 @@
  * A script for the app inside the iframe. Implements a delegate.
  */
 
+// ---docerion
+// type: source
+// title: Help app guest frame receiver delegate
+// summary: Script running inside the untrusted guest iframe that exposes a delegate of privileged WebUI operations, such as search index and device info calls, to the parent frame.
+// ---
+
 import './sandboxed_load_time_data.js';
 
 import {COLOR_PROVIDER_CHANGED, ColorChangeUpdater} from '//resources/cr_components/color_change_listener/colors_css_updater.js';

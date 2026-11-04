@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchTagRegistry implementation
+// summary: Implements SearchTagRegistry, which adds search concepts to the LocalSearchService index, caches result metadata and notifies observers on updates.
+// ---
+
 #include "ash/webui/help_app_ui/search/search_tag_registry.h"
 
 #include <utility>

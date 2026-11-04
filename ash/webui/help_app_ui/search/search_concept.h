@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchConcept class declaration
+// summary: Declares the SearchConcept class that saves and loads help app search concept persistence from disk.
+// ---
+
 #ifndef ASH_WEBUI_HELP_APP_UI_SEARCH_SEARCH_CONCEPT_H_
 #define ASH_WEBUI_HELP_APP_UI_SEARCH_SEARCH_CONCEPT_H_
 

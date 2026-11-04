@@ -7,6 +7,12 @@
  * available in the TypeScript toolchain.
  */
 
+// ---docerion
+// type: source
+// title: Extra Chrome type declarations for the media app
+// summary: Handwritten TypeScript declarations for Chrome APIs used by the media app, including launch queue, file pickers and crashReportPrivate, that are not yet in the TypeScript toolchain.
+// ---
+
 interface LaunchParams {
   readonly files: readonly FileSystemHandle[];
 }

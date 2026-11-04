@@ -3,6 +3,12 @@
  * found in the LICENSE file.
  */
 
+/*docerion
+type: source
+title: Shared stylesheet for the multidevice debug WebUI
+summary: Styles the layout, controls panel, and logs panel shared by the debug pages, including severity-colored log items.
+*/
+
 html, body {
   width: 100%;
   height: 100%;

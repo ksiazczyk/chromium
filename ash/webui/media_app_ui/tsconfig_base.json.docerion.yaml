@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_base.json.
+type: config
+title: TypeScript compiler configuration
+summary: Extends the shared TypeScript base config and disables noUncheckedSideEffectImports for the media app UI.

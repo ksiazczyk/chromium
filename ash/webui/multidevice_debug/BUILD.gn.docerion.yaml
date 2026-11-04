@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the multidevice_debug static library
+summary: Defines the multidevice_debug static library build target with its C++ sources and dependencies on device sync, multidevice setup, and WebUI components.

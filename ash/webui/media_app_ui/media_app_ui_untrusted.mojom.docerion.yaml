@@ -1,0 +1,4 @@
+# Docerion header of media_app_ui_untrusted.mojom.
+type: source
+title: Media App untrusted frame Mojo interface definitions
+summary: Defines the Mojo interfaces connecting the untrusted Media App frame to browser services for OCR, Mahi and Mantis, including page metadata and availability checks.

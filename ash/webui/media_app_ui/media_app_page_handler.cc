@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media App page handler implementation
+// summary: Implements the Media App page handler, handling the feedback dialog, fullscreen toggling, file writability checks, editing in Photos and form submission restricted to the Lens host.
+// ---
+
 #include "ash/webui/media_app_ui/media_app_page_handler.h"
 
 #include <utility>

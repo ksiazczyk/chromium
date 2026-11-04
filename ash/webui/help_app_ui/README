@@ -1,2 +1,8 @@
+---
+type: readme
+title: Help App UI README
+summary: Briefly describes the Help App WebUI and the supporting interfaces that let the Help App integrate with ChromeOS.
+---
+
 Provides the chrome://help-app WebUI and supporting interfaces that allow the
 Help App to integrate with ChromeOS.

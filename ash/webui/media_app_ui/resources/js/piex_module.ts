@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Piex module for EXIF orientation header generation
+// summary: TypeScript module that builds a minimal EXIF APP1/TIFF header carrying an orientation tag for JPEG output and disables the Piex loader after unrecoverable wasm errors.
+// ---
+
 import type {PiexWasmModule} from './piex_loader.js';
 import {PIEX_LOADER_TEST_ONLY, PiexLoader} from './piex_loader.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media App WebUI controller implementation
+// summary: Implements the Media App WebUI controller, creating its data source with localized strings, host pages for PDF viewing and the gallery app icons.
+// ---
+
 #include "ash/webui/media_app_ui/media_app_ui.h"
 
 #include <utility>

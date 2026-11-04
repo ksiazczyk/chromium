@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the OS feedback UI directory
+summary: Grants include access to ui/resources, ui/webui and ui/web_dialogs for this directory.

@@ -1,0 +1,4 @@
+# Docerion header of help_app_ui.gni.
+type: config
+title: Help app build configuration
+summary: GN build configuration declaring the enable_cros_help_app argument that selects between the real ChromeOS Help App and a mock app for testing.

@@ -1,0 +1,4 @@
+# Docerion header of media_app_bundle_mock_resources.grd.
+type: config
+title: Media app bundle mock resources GRIT definition
+summary: GRIT resource list that packages mock media app JavaScript modules and placeholder icons into the ChromeOS media app bundle resources.

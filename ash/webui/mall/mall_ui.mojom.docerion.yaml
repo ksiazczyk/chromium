@@ -1,0 +1,4 @@
+# Docerion header of mall_ui.mojom.
+type: source
+title: Mall Mojo interface definition
+summary: Defines the Mojo PageHandler interface used by the Mall WebUI to request the embed URL for the Mall website.

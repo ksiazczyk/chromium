@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash error reporter for the media app
+// summary: Reports window errors, unhandled rejections and console errors to the Chrome crash reporting API, building messages and stack traces for ChromeOS_MediaApp.
+// ---
+
 const PRODUCT_NAME = 'ChromeOS_MediaApp';
 
 interface ErrorObject {

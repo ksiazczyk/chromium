@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feedback questionnaire questions
+// summary: Defines the question strings for feedback questionnaires covering general, Bluetooth, Wi-Fi, cellular, display, and USB issue categories.
+// ---
+
 export const questionnaireBegin = '(Google Internal) To help us diagnose and ' +
     'fix the issue, please answer the following questions:';
 

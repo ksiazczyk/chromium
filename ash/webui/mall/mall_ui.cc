@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mall WebUI controller implementation
+// summary: Implements the MallUI WebUI controller, setting up the data source, localized strings, resource paths, and CSP overrides needed to embed the Mall website.
+// ---
+
 
 #include "ash/webui/mall/mall_ui.h"
 

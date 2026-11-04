@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OsFeedbackDelegate interface header
+// summary: Declares the abstract OsFeedbackDelegate interface that exposes browser functionality such as screenshots, signed-in user info, report sending, and app or dialog launching to the OS Feedback UI.
+// ---
+
 #ifndef ASH_WEBUI_OS_FEEDBACK_UI_BACKEND_OS_FEEDBACK_DELEGATE_H_
 #define ASH_WEBUI_OS_FEEDBACK_UI_BACKEND_OS_FEEDBACK_DELEGATE_H_
 

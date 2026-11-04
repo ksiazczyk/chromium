@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Mall WebUI build configuration
+summary: Defines GN build targets for the Mall WebUI, including the mall source set, Mojo bindings generated from mall_ui.mojom, and the url_constants and app_id source sets.

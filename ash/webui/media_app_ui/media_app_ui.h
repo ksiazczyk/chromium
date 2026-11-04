@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media App WebUI controller declarations
+// summary: Declares the Media App WebUI config and controller classes that register the system web app host and create its Mojo page handler.
+// ---
+
 #ifndef ASH_WEBUI_MEDIA_APP_UI_MEDIA_APP_UI_H_
 #define ASH_WEBUI_MEDIA_APP_UI_MEDIA_APP_UI_H_
 

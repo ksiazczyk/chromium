@@ -4,6 +4,12 @@
 
 /// <reference path="media_app.d.ts" />
 
+// ---docerion
+// type: test
+// title: Guest query receiver
+// summary: Guest-side handler that answers test queries, exposes loaded file lists, and runs registered guest test cases.
+// ---
+
 import type {FileSnapshot, LastLoadedFilesResponse, TestMessageQueryData, TestMessageResponseData, TestMessageRunTestCase} from './driver_api.js';
 import type {ReceivedFileList} from './receiver.js';
 import {TEST_ONLY} from './receiver.js';

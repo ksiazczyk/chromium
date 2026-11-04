@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for HelpContentProvider
+// summary: Tests help content search request conversion, response parsing and locale filtering using a test URL loader factory and fake JSON responses.
+// ---
+
 #include "ash/webui/os_feedback_ui/backend/help_content_provider.h"
 
 #include <memory>

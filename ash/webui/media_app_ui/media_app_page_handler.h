@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media App page handler declarations
+// summary: Declares the page handler class that exposes browser process functions, such as feedback and file writability checks, to the Media App renderer over Mojo.
+// ---
+
 #ifndef ASH_WEBUI_MEDIA_APP_UI_MEDIA_APP_PAGE_HANDLER_H_
 #define ASH_WEBUI_MEDIA_APP_UI_MEDIA_APP_PAGE_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchMetadata struct declaration
+// summary: Declares the SearchMetadata struct storing the localized title, main category and URL path needed to display a help app search result.
+// ---
+
 #ifndef ASH_WEBUI_HELP_APP_UI_SEARCH_SEARCH_METADATA_H_
 #define ASH_WEBUI_HELP_APP_UI_SEARCH_SEARCH_METADATA_H_
 

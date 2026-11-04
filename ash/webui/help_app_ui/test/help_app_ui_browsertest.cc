@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Help app UI browser tests (C++)
+// summary: C++ browser test fixture for the Explore help app WebUI that configures the test file request handler and runs host and guest test cases, including search, dark mode, and load-time data checks.
+// ---
+
 #include "ash/webui/help_app_ui/test/help_app_ui_browsertest.h"
 
 #include "ash/public/cpp/style/dark_light_mode_controller.h"

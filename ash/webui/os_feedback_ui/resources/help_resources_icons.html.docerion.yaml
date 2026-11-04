@@ -1,0 +1,4 @@
+# Docerion header of help_resources_icons.html.
+type: asset
+title: Help resources SVG icon set
+summary: Defines iron-iconset-svg icon graphics such as explore and diagnostics used by the feedback UI's help resources.

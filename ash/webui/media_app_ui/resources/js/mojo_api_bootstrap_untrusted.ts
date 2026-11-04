@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Untrusted Mojo service connections for OCR, Mahi and Mantis
+// summary: Sets up and exposes connections and callback routers for the untrusted OCR, Mahi and Mantis services used by the media app.
+// ---
+
 import {Uuid as mojoBase_mojom_Uuid,} from '//resources/mojo/mojo/public/mojom/base/uuid.mojom-webui.js';
 
 import {MahiUntrustedPageCallbackRouter, MahiUntrustedServiceRemote, MantisUntrustedPageCallbackRouter, OcrUntrustedPageCallbackRouter, OcrUntrustedServiceRemote, UntrustedServiceFactory} from './media_app_ui_untrusted.mojom-webui.js';

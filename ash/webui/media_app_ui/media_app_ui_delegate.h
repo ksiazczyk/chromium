@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media App UI delegate interface
+// summary: Declares the delegate interface exposing //chrome browser functionality such as feedback, fullscreen and Edit in Photos to the media app UI.
+// ---
+
 #ifndef ASH_WEBUI_MEDIA_APP_UI_MEDIA_APP_UI_DELEGATE_H_
 #define ASH_WEBUI_MEDIA_APP_UI_MEDIA_APP_UI_DELEGATE_H_
 

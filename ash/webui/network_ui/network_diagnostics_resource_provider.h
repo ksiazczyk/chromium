@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network diagnostics resource provider header
+// summary: Declares AddResources, which supplies the strings and resource paths needed for network diagnostics elements to a WebUI data source.
+// ---
+
 #ifndef ASH_WEBUI_NETWORK_UI_NETWORK_DIAGNOSTICS_RESOURCE_PROVIDER_H_
 #define ASH_WEBUI_NETWORK_UI_NETWORK_DIAGNOSTICS_RESOURCE_PROVIDER_H_
 

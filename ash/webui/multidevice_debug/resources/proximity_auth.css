@@ -3,6 +3,12 @@
  * found in the LICENSE file.
  */
 
+/*docerion
+type: source
+title: Stylesheet for the ProximityAuth debug page
+summary: Styles device tables, connection status colors, and remote device entries on the ProximityAuth debug page.
+*/
+
 table {
   margin-left: 10px;
 }

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Help app UI delegate interface
+// summary: Declares the HelpAppUIDelegate interface that exposes browser functionality such as the feedback dialog, OS settings, release notes notifications and device info to the help app page handler.
+// ---
+
 #ifndef ASH_WEBUI_HELP_APP_UI_HELP_APP_UI_DELEGATE_H_
 #define ASH_WEBUI_HELP_APP_UI_HELP_APP_UI_DELEGATE_H_
 

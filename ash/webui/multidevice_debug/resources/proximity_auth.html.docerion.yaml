@@ -1,0 +1,4 @@
+# Docerion header of proximity_auth.html.
+type: source
+title: ProximityAuth debug page markup
+summary: HTML page with CryptAuth enrollment and sync controls, a remote device panel, and templates for device and log entries.

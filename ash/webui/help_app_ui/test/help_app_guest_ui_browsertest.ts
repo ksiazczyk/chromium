@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Help app guest UI browser tests
+// summary: Guest-context browser tests covering language, load time data, search index add, find and clear operations, and device info.
+// ---
+
 import {assertDeepEquals, assertEquals, assertTrue} from 'chrome-untrusted://webui-test/chai_assert.js';
 
 import {GUEST_TEST} from './guest_query_receiver.js';

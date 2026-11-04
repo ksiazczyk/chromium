@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Help app WebUI controller header
+// summary: Declares the help app WebUI controller and its config class, including Mojo bindings for the page handler factory, search handler and local search index.
+// ---
+
 #ifndef ASH_WEBUI_HELP_APP_UI_HELP_APP_UI_H_
 #define ASH_WEBUI_HELP_APP_UI_HELP_APP_UI_H_
 

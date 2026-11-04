@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mall page handler header
+// summary: Declares the MallPageHandler class that implements the Mojo page handler interface and supplies the embed URL for the Mall WebUI.
+// ---
+
 #ifndef ASH_WEBUI_MALL_MALL_PAGE_HANDLER_H_
 #define ASH_WEBUI_MALL_MALL_PAGE_HANDLER_H_
 

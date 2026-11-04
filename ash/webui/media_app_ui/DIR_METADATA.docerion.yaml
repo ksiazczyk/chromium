@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Media App UI directory metadata
+summary: Declares Buganizer and Monorail components, the ChromeOS platform and the owning team email for the media_app_ui directory.

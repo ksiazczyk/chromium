@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_base.json.
+type: config
+title: TypeScript compiler base config for help app resources
+summary: TypeScript compiler options for the help app resources, extending the shared Chromium base config and disabling noUncheckedSideEffectImports.

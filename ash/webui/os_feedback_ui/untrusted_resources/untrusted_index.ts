@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Untrusted OS feedback UI entry script
+// summary: Entry script for the untrusted OS feedback page that validates messages from the trusted parent, displays help search results, and applies the Jelly theme styles.
+// ---
+
 import '/strings.m.js';
 import '//os-feedback/help_content.js';
 

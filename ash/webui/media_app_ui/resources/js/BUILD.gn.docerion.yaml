@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for media app JS resources
+summary: GN build file that stages static, generated and compiled TypeScript sources and defines rollup and TypeScript definition targets for the media app UI.

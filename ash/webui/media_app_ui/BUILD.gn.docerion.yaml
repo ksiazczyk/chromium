@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Media App UI GN build targets
+summary: GN build file defining the media_app_ui static library, Mojo bindings, TypeScript libraries, resource copying and browser test support targets.

@@ -1,0 +1,4 @@
+# Docerion header of search.mojom.
+type: source
+title: Mojo interfaces for help app search
+summary: Defines the Mojo structs and interfaces for search results, search concepts, observers, and the search handler used by the help app and launcher.

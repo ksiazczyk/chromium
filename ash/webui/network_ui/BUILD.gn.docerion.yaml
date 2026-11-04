@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Network UI build targets (BUILD.gn)
+summary: Defines ChromeOS-only source_set targets for the network diagnostics and network health resource providers along with their dependencies.

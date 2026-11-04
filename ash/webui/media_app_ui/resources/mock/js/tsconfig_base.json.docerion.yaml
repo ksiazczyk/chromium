@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_base.json.
+type: config
+title: Base TypeScript configuration for the mock
+summary: Extends Chromium's shared TypeScript base config and sets module and moduleResolution options for the mock's TypeScript build.

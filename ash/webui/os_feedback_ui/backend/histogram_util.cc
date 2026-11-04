@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Feedback app histogram emission helpers
+// summary: Emits UMA histograms for feedback app usage such as open duration, time on pages, included data and help content outcomes.
+// ---
+
 #include "ash/webui/os_feedback_ui/backend/histogram_util.h"
 #include "base/metrics/histogram_functions.h"
 #include "base/time/time.h"

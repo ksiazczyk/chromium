@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HelpContentProvider class declaration
+// summary: Declares the HelpContentProvider serving GetHelpContents mojo calls, plus helpers to convert search requests to JSON and parse search responses.
+// ---
+
 #ifndef ASH_WEBUI_OS_FEEDBACK_UI_BACKEND_HELP_CONTENT_PROVIDER_H_
 #define ASH_WEBUI_OS_FEEDBACK_UI_BACKEND_HELP_CONTENT_PROVIDER_H_
 

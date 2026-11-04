@@ -3,6 +3,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: source
+// title: Logs panel controller for the multidevice debug WebUI
+// summary: Renders, clears, and saves ProximityAuth log messages received from the native LogBuffer through the WebUI interface.
+// ---
+
 import {WebUI} from './webui.js';
 
 /**

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media App UI browser test header
+// summary: Declares the MediaAppUiBrowserTest fixture with helpers to load the JS test library and prepare the app for testing.
+// ---
+
 #ifndef ASH_WEBUI_MEDIA_APP_UI_TEST_MEDIA_APP_UI_BROWSERTEST_H_
 #define ASH_WEBUI_MEDIA_APP_UI_TEST_MEDIA_APP_UI_BROWSERTEST_H_
 

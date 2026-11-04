@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for multidevice_debug
+summary: Restricts includes in this directory to device sync, multidevice setup, and Bluetooth code paths.

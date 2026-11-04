@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS feedback WebUI controller implementation
+// summary: Implements the ChromeOS feedback tool WebUI controller, setting up its data source, localized strings, and Mojo interface bindings.
+// ---
+
 #include "ash/webui/os_feedback_ui/os_feedback_ui.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchTagRegistry class declaration
+// summary: Declares the SearchTagRegistry class that indexes search tags in the LocalSearchService and provides result metadata via GetTagMetadata.
+// ---
+
 #ifndef ASH_WEBUI_HELP_APP_UI_SEARCH_SEARCH_TAG_REGISTRY_H_
 #define ASH_WEBUI_HELP_APP_UI_SEARCH_SEARCH_TAG_REGISTRY_H_
 

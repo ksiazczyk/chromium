@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proximity-auth host constant definition
+// summary: Defines the host name constant used to register and address the proximity-auth multidevice debug WebUI page.
+// ---
+
 #include "ash/webui/multidevice_debug/url_constants.h"
 
 namespace ash {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feedback app histogram names and declarations
+// summary: Declares histogram name constants, the contact user consent enum and functions for emitting feedback app metrics.
+// ---
+
 #ifndef ASH_WEBUI_OS_FEEDBACK_UI_BACKEND_HISTOGRAM_UTIL_H_
 #define ASH_WEBUI_OS_FEEDBACK_UI_BACKEND_HISTOGRAM_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProximityAuthWebUIHandler class declaration
+// summary: Declares the WebUI message handler for the proximity-auth debug page, covering log buffer access, local state queries, forced enrollment and device sync callbacks.
+// ---
+
 #ifndef ASH_WEBUI_MULTIDEVICE_DEBUG_PROXIMITY_AUTH_WEBUI_HANDLER_H_
 #define ASH_WEBUI_MULTIDEVICE_DEBUG_PROXIMITY_AUTH_WEBUI_HANDLER_H_
 

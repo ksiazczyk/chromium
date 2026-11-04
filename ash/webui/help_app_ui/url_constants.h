@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Help app WebUI URL constants header
+// summary: Declares host name and address constants for the help app's trusted and untrusted WebUI interfaces.
+// ---
+
 #ifndef ASH_WEBUI_HELP_APP_UI_URL_CONSTANTS_H_
 #define ASH_WEBUI_HELP_APP_UI_URL_CONSTANTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Help App Kids Magazine untrusted WebUI header
+// summary: Declares the untrusted WebUI controller class and its WebUI config class for the Help App Kids Magazine.
+// ---
+
 #ifndef ASH_WEBUI_HELP_APP_UI_HELP_APP_KIDS_MAGAZINE_UNTRUSTED_UI_H_
 #define ASH_WEBUI_HELP_APP_UI_HELP_APP_KIDS_MAGAZINE_UNTRUSTED_UI_H_
 

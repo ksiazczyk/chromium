@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File system access helper implementation
+// summary: Implements ResolveTransferToken, which resolves a file system access transfer token to a FileSystemURL through the browser context's storage partition.
+// ---
+
 #include "ash/webui/media_app_ui/file_system_access_helpers.h"
 
 #include <utility>

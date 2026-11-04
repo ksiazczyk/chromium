@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Media App UI test dependencies
+summary: Dependency rules allowing this test directory to include Chrome browser test base code used by browser_tests.

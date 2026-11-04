@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Help App manager class declaration
+// summary: Declares HelpAppManager, a keyed service that supports help content search through the LocalSearchService.
+// ---
+
 #ifndef ASH_WEBUI_HELP_APP_UI_HELP_APP_MANAGER_H_
 #define ASH_WEBUI_HELP_APP_UI_HELP_APP_MANAGER_H_
 

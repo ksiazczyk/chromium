@@ -1,0 +1,4 @@
+# Docerion header of help_content.html.
+type: source
+title: Help content element template
+summary: HTML template for the help-content element that lists suggested or popular help articles and shows an offline illustration when there is no connection.

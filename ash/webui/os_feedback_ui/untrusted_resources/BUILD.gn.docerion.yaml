@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for OS feedback untrusted resources
+summary: Defines the build_webui target that packages the untrusted feedback UI's static files, TypeScript sources, dependencies, and untrusted webui context type.
