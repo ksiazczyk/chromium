@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PolicyRecommendationRestorer class header
+// summary: Declares the PolicyRecommendationRestorer class, which clears user settings for observed signin-screen prefs so policy recommendations take effect, for example to reset demo devices between users.
+// relations:
+//   - depends_on /ash/public/cpp/session/session_observer.h
+//   - depends_on /base/timer/timer.h
+//   - depends_on /ui/base/user_activity/user_activity_observer.h
+// ---
+
 #ifndef ASH_POLICY_POLICY_RECOMMENDATION_RESTORER_H_
 #define ASH_POLICY_POLICY_RECOMMENDATION_RESTORER_H_
 

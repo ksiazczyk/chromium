@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Projector metadata model implementation
+// summary: Implements serialization of screencast metadata, including transcripts, hypothesis parts, key ideas, caption language, and sentence segmentation rules, to JSON.
+// relations:
+//   - depends_on /ash/projector/projector_metadata_model.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /base/containers/fixed_flat_set.h
+// ---
+
 #include "ash/projector/projector_metadata_model.h"
 
 #include <algorithm>

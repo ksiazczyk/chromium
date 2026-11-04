@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Deferred metrics reporter implementation
+// summary: Implements DeferredMetricsReporter, which buffers metrics until MarkReadyToReport is called and then reports them with a configured prefix.
+// relations:
+//   - depends_on /ash/metrics/deferred_metrics_reporter.h
+//   - depends_on /base/check.h
+// ---
+
 #include "ash/metrics/deferred_metrics_reporter.h"
 
 #include <string>

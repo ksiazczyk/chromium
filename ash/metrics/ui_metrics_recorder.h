@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI metrics recorder declarations
+// summary: Declares the UiMetricsRecorder class with FPS bucket and core event type enums used to record Ash UI event latency and dropped frame metrics.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/containers/span.h
+//   - depends_on /base/sequence_checker.h
+// ---
+
 #ifndef ASH_METRICS_UI_METRICS_RECORDER_H_
 #define ASH_METRICS_UI_METRICS_RECORDER_H_
 

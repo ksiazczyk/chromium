@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Task switch metrics recorder unit tests
+// summary: Unit tests for TaskSwitchMetricsRecorder verifying histogram recording for window cycle controller and overview mode task switches.
+// relations:
+//   - tests /ash/metrics/task_switch_metrics_recorder.h
+//   - depends_on /base/test/metrics/histogram_tester.h
+//   - depends_on /testing/gtest/include/gtest/gtest.h
+// ---
+
 #include "ash/metrics/task_switch_metrics_recorder.h"
 
 #include <memory>

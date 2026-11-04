@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Projector session unit tests
+// summary: Unit tests verifying projector session start and stop behavior, screencast naming, storage directory handling, creation flow metrics, and prevention of duplicate sessions.
+// relations:
+//   - tests /ash/projector/model/projector_session_impl.h
+//   - depends_on /ash/projector/model/projector_session_impl.h
+//   - depends_on /ash/projector/projector_metrics.h
+// ---
+
 #include "ash/projector/model/projector_session_impl.h"
 
 #include "ash/projector/projector_metrics.h"

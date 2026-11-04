@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Projector session implementation
+// summary: Implements the Ash Projector session, generating timestamped screencast names and notifying observers on session start and stop while recording creation flow metrics.
+// relations:
+//   - implements /ash/projector/model/projector_session_impl.h
+//   - depends_on /ash/projector/model/projector_session_impl.h
+//   - depends_on /ash/projector/projector_metrics.h
+// ---
+
 #include "ash/projector/model/projector_session_impl.h"
 
 #include "ash/projector/projector_metrics.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Projector UI controller unit tests
+// summary: Unit tests for the Projector UI controller, verifying failure notifications and creation flow error metrics using a mock message center observer.
+// relations:
+//   - tests /ash/projector/projector_ui_controller.h
+//   - depends_on /ash/projector/projector_ui_controller.h
+//   - depends_on /ash/constants/ash_features.h
+// ---
+
 #include "ash/projector/projector_ui_controller.h"
 
 #include <memory>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login metrics recorder unit tests
+// summary: Verifies that user click events on the lock, login, and OOBE screens are recorded into the correct UMA histogram buckets.
+// relations:
+//   - tests /ash/metrics/login_metrics_recorder.h
+//   - depends_on /ash/login/login_screen_controller.h
+//   - depends_on /ash/login/mock_login_screen_client.h
+// ---
+
 #include "ash/metrics/login_metrics_recorder.h"
 
 #include <memory>

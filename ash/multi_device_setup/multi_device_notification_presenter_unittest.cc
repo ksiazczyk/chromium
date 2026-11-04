@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multi-device notification presenter unit tests
+// summary: Unit tests for MultiDeviceNotificationPresenter using a fake message center and fake multi-device setup service to verify notification display, clicks, and metrics.
+// relations:
+//   - tests /ash/multi_device_setup/multi_device_notification_presenter.h
+//   - depends_on /ash/public/cpp/test/test_system_tray_client.h
+//   - depends_on /ash/session/test_session_controller_client.h
+// ---
+
 #include "ash/multi_device_setup/multi_device_notification_presenter.h"
 
 #include <map>

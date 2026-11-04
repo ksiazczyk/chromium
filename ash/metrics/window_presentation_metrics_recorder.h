@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window presentation metrics recorder class declaration
+// summary: Declares WindowPresentationMetricsRecorder, an aura observer that tracks init-to-first-presentation times for normal app windows.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/containers/flat_map.h
+//   - depends_on /base/memory/weak_ptr.h
+// ---
+
 #ifndef ASH_METRICS_WINDOW_PRESENTATION_METRICS_RECORDER_H_
 #define ASH_METRICS_WINDOW_PRESENTATION_METRICS_RECORDER_H_
 

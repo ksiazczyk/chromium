@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stylus metrics recorder class declarations
+// summary: Declares StylusMetricsRecorder and StylusSessionMetricsDelegate, which record feature usage metrics for stylus garage and dock detach sessions.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/system/power/peripheral_battery_listener.h
+//   - depends_on /chromeos/ash/components/feature_usage/feature_usage_metrics.h
+// ---
+
 #ifndef ASH_METRICS_STYLUS_METRICS_RECORDER_H_
 #define ASH_METRICS_STYLUS_METRICS_RECORDER_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stylus metrics recorder unit tests
+// summary: Unit tests for StylusMetricsRecorder verifying garage and dock session histograms using a mock clock and histogram tester.
+// relations:
+//   - tests /ash/metrics/stylus_metrics_recorder.h
+//   - depends_on /ash/system/power/peripheral_battery_listener.h
+//   - depends_on /ash/system/power/peripheral_battery_tests.h
+// ---
+
 #include "ash/metrics/stylus_metrics_recorder.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Deferred metrics reporter header
+// summary: Declares the DeferredMetricsReporter class and its Metric interface for delaying metric reporting until the reporter is ready.
+// ---
+
 #ifndef ASH_METRICS_DEFERRED_METRICS_REPORTER_H_
 #define ASH_METRICS_DEFERRED_METRICS_REPORTER_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for desktop task switch metric recorder
+// summary: Tests that Desktop_SwitchTask actions are recorded only for user-initiated activation of positionable windows, using an AshTestBase fixture.
+// relations:
+//   - tests /ash/metrics/desktop_task_switch_metric_recorder.h
+//   - depends_on /ash/shell.h
+//   - depends_on /ash/test/ash_test_base.h
+// ---
+
 #include "ash/metrics/desktop_task_switch_metric_recorder.h"
 
 #include <memory>

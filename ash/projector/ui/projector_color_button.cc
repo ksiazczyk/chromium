@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProjectorColorButton implementation
+// summary: Implements ProjectorColorButton, painting a filled circle of a given color and size inside the button contents for use as recording and color picker buttons.
+// relations:
+//   - implements /ash/projector/ui/projector_color_button.h
+//   - depends_on /ui/base/metadata/metadata_impl_macros.h
+//   - depends_on /ui/gfx/canvas.h
+// ---
+
 #include "ash/projector/ui/projector_color_button.h"
 
 #include <utility>

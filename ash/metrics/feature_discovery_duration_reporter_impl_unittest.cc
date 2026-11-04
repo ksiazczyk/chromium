@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Feature discovery duration reporter unit tests
+// summary: Tests that feature discovery durations are recorded only for the primary user, covering session state changes, user switching, and tablet versus clamshell histogram reporting.
+// relations:
+//   - tests /ash/metrics/feature_discovery_duration_reporter_impl.h
+//   - depends_on /ash/public/cpp/ash_prefs.h
+//   - depends_on /ash/public/cpp/feature_discovery_metric_util.h
+// ---
+
 #include "ash/metrics/feature_discovery_duration_reporter_impl.h"
 
 #include <set>

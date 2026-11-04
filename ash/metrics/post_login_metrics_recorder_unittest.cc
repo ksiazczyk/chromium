@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Post login metrics recorder unit tests
+// summary: Unit tests verifying that post-login events produce the expected UMA histogram durations for login performance metrics.
+// relations:
+//   - tests /ash/metrics/post_login_metrics_recorder.h
+//   - depends_on /ash/shell.h
+//   - depends_on /ash/test/ash_test_base.h
+// ---
+
 #include "ash/metrics/post_login_metrics_recorder.h"
 
 #include <memory>

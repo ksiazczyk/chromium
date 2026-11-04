@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Projector session class declaration
+// summary: Declares the ProjectorSessionImpl class that manages projector session state, storage directory, screencast naming, file paths, and observer registration.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - implements /ash/public/cpp/projector/projector_session.h
+//   - depends_on /ash/public/cpp/projector/projector_session.h
+// ---
+
 #ifndef ASH_PROJECTOR_MODEL_PROJECTOR_SESSION_IMPL_H_
 #define ASH_PROJECTOR_MODEL_PROJECTOR_SESSION_IMPL_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Projector metadata controller header
+// summary: Declares ProjectorMetadataController, which records and saves screencast metadata such as transcripts, key ideas, and recognition status.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/projector/projector_metadata_model.h
+//   - depends_on /base/files/file_path.h
+// ---
+
 #ifndef ASH_PROJECTOR_PROJECTOR_METADATA_CONTROLLER_H_
 #define ASH_PROJECTOR_PROJECTOR_METADATA_CONTROLLER_H_
 

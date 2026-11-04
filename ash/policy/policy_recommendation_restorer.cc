@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy recommendation restorer implementation
+// summary: Implements PolicyRecommendationRestorer, which observes signin-screen prefs with recommended values and clears user settings after one minute of user inactivity or when the active user session starts.
+// relations:
+//   - implements /ash/policy/policy_recommendation_restorer.h
+//   - depends_on /ash/session/session_controller_impl.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/policy/policy_recommendation_restorer.h"
 
 #include "ash/session/session_controller_impl.h"

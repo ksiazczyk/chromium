@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PolicyRecommendationRestorer unit tests
+// summary: Unit tests for PolicyRecommendationRestorer that verify recommended accessibility pref values override and restore user settings on the signin screen, including idle-delay and pref-service connection behavior.
+// relations:
+//   - tests /ash/policy/policy_recommendation_restorer.h
+//   - tests /ash/policy/policy_recommendation_restorer.cc
+//   - depends_on /ash/constants/ash_pref_names.h
+// ---
+
 #include "ash/policy/policy_recommendation_restorer.h"
 
 #include "ash/constants/ash_pref_names.h"

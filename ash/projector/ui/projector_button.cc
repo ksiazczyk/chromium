@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProjectorButton implementation
+// summary: Implements the ProjectorButton base class, a toggleable image button with rounded background painting, ink drop styling, tooltips, and accessibility settings for Ash Projector UI.
+// relations:
+//   - implements /ash/projector/ui/projector_button.h
+//   - depends_on /ash/style/ash_color_id.h
+//   - depends_on /ash/style/style_util.h
+// ---
+
 #include "ash/projector/ui/projector_button.h"
 
 #include <utility>

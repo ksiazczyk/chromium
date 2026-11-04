@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unlock throughput recorder implementation
+// summary: Implements UnlockThroughputRecorder, observing lock state changes and reporting unlock animation smoothness histograms split by tablet and clamshell mode.
+// relations:
+//   - implements /ash/metrics/unlock_throughput_recorder.h
+//   - depends_on /ash/public/cpp/metrics_util.h
+//   - depends_on /ash/session/session_controller_impl.h
+// ---
+
 #include "ash/metrics/unlock_throughput_recorder.h"
 
 #include "ash/public/cpp/metrics_util.h"

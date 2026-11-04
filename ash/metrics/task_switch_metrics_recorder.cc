@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task switch metrics recorder implementation
+// summary: Implements the task switch metrics recorder, mapping task switch sources to time trackers that record time-between-switch histograms.
+// relations:
+//   - implements /ash/metrics/task_switch_metrics_recorder.h
+//   - depends_on /ash/metrics/task_switch_time_tracker.h
+//   - depends_on /base/check_op.h
+// ---
+
 #include "ash/metrics/task_switch_metrics_recorder.h"
 
 #include <memory>

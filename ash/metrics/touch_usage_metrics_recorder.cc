@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch usage metrics recorder implementation
+// summary: Implements TouchscreenUsageRecorder and TouchUsageMetricsRecorder, logging touchscreen usage histograms for clamshell and tablet modes across several temporary timer periods.
+// relations:
+//   - depends_on /ash/metrics/touch_usage_metrics_recorder.h
+//   - depends_on /ash/shell.h
+//   - depends_on /base/metrics/histogram_functions.h
+// ---
+
 #include "ash/metrics/touch_usage_metrics_recorder.h"
 
 #include "ash/shell.h"

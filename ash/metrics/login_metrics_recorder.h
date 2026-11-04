@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginMetricsRecorder class header
+// summary: Declares the login screen metrics recorder and the enums of UMA click targets for lock, login, and OOBE screens plus tray and shelf button helpers.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - references /chromeos/ash/components/login/auth/auth_events_recorder.h
+// ---
+
 #ifndef ASH_METRICS_LOGIN_METRICS_RECORDER_H_
 #define ASH_METRICS_LOGIN_METRICS_RECORDER_H_
 

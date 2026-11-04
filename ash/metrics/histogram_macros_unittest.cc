@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Histogram macros unit test
+// summary: Verifies that the tablet and clamshell percentage histogram macros record values only when the device is in the matching mode.
+// relations:
+//   - tests /ash/metrics/histogram_macros.h
+//   - depends_on /ash/test/ash_test_base.h
+//   - depends_on /ash/wm/tablet_mode/tablet_mode_controller_test_api.h
+// ---
+
 #include "ash/metrics/histogram_macros.h"
 
 #include "ash/test/ash_test_base.h"

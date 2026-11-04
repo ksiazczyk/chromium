@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop task switch metric recorder header
+// summary: Declares DesktopTaskSwitchMetricRecorder, an activation observer that tracks task switches caused by clicking or tapping task windows.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/weak_ptr.h
+//   - depends_on /ui/wm/public/activation_change_observer.h
+// ---
+
 #ifndef ASH_METRICS_DESKTOP_TASK_SWITCH_METRIC_RECORDER_H_
 #define ASH_METRICS_DESKTOP_TASK_SWITCH_METRIC_RECORDER_H_
 

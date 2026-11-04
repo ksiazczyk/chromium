@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User metrics recorder implementation
+// summary: Implements UserMetricsRecorder, which records periodic UMA metrics such as shelf item counts and owns sub-recorders for task switching, pointer, touch, stylus, login, and demo session metrics.
+// relations:
+//   - implements /ash/metrics/user_metrics_recorder.h
+//   - depends_on /ash/app_list/app_list_metrics.h
+//   - depends_on /ash/constants/ash_pref_names.h
+// ---
+
 #include "ash/metrics/user_metrics_recorder.h"
 
 #include <memory>

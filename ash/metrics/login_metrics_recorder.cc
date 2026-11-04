@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login metrics recorder implementation
+// summary: Records UMA histograms for user clicks on the lock, login, and OOBE screens, mapping shelf button clicks to session-state-specific click targets.
+// relations:
+//   - implements /ash/metrics/login_metrics_recorder.h
+//   - depends_on /ash/login/ui/lock_screen.h
+//   - depends_on /ash/session/session_controller_impl.h
+// ---
+
 #include "ash/metrics/login_metrics_recorder.h"
 
 #include "ash/login/ui/lock_screen.h"

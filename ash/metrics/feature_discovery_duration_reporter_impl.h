@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureDiscoveryDurationReporterImpl class header
+// summary: Declares the feature discovery duration reporter, which activates and finishes feature observations, tracks active recordings, and stores observation data in the active user's pref service.
+// relations:
+//   - implements /ash/public/cpp/feature_discovery_duration_reporter.h
+//   - implements /ash/public/cpp/session/session_observer.h
+//   - depends_on /ash/session/session_controller_impl.h
+// ---
+
 #ifndef ASH_METRICS_FEATURE_DISCOVERY_DURATION_REPORTER_IMPL_H_
 #define ASH_METRICS_FEATURE_DISCOVERY_DURATION_REPORTER_IMPL_H_
 

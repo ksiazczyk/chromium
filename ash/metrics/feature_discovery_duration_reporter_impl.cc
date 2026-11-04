@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature discovery duration reporter implementation
+// summary: Implements the reporter that tracks how long users take to discover trackable features, persisting observation state in prefs and reporting UMA duration histograms split by tablet mode.
+// relations:
+//   - implements /ash/metrics/feature_discovery_duration_reporter_impl.h
+//   - depends_on /ash/public/cpp/feature_discovery_metric_util.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/metrics/feature_discovery_duration_reporter_impl.h"
 
 #include "ash/public/cpp/feature_discovery_metric_util.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-device notification presenter implementation
+// summary: Implements the presenter that shows, updates, and removes multi-device setup notifications for new users, host switches, and newly added Chromebooks via the message center.
+// relations:
+//   - depends_on /ash/multi_device_setup/multi_device_notification_presenter.h
+//   - depends_on /ash/constants/notifier_catalogs.h
+//   - depends_on /ash/public/cpp/notification_utils.h
+// ---
+
 #include "ash/multi_device_setup/multi_device_notification_presenter.h"
 
 #include <memory>

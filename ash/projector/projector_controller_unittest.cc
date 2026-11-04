@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ProjectorControllerImpl
+// summary: Unit tests covering session handling, transcription processing, speech recognition end states, metrics histograms, and screencast preconditions.
+// relations:
+//   - tests /ash/projector/projector_controller_impl.h
+//   - depends_on /ash/annotator/annotator_controller.h
+//   - depends_on /ash/constants/ash_features.h
+// ---
+
 #include <array>
 #include <initializer_list>
 #include <memory>

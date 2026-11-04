@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Projector controller header
+// summary: Declares ProjectorControllerImpl, which handles projector sessions, transcription callbacks, audio observation, and screencast container folder creation.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/capture_mode/capture_mode_observer.h
+//   - depends_on /ash/projector/model/projector_session_impl.h
+// ---
+
 #ifndef ASH_PROJECTOR_PROJECTOR_CONTROLLER_IMPL_H_
 #define ASH_PROJECTOR_PROJECTOR_CONTROLLER_IMPL_H_
 

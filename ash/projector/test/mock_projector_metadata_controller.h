@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Projector Metadata Controller
+// summary: Defines a gmock-based mock of ProjectorMetadataController with mocked recording, transcription, and metadata-saving methods for use in tests.
+// relations:
+//   - implements /ash/projector/projector_metadata_controller.h
+//   - depends_on /base/files/file_path.h
+//   - depends_on /testing/gmock/include/gmock/gmock.h
+// ---
+
 #ifndef ASH_PROJECTOR_TEST_MOCK_PROJECTOR_METADATA_CONTROLLER_H_
 #define ASH_PROJECTOR_TEST_MOCK_PROJECTOR_METADATA_CONTROLLER_H_
 

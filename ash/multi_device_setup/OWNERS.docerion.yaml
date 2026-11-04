@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Points to the shared multidevice component OWNERS file, designating the approvers for changes in this directory.
+relations:
+  - references /chromeos/ash/components/multidevice/OWNERS

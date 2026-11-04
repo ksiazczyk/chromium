@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window management feature metrics recorder implementation
+// summary: Implements WMFeatureMetricsRecorder, which periodically records window management metrics such as window counts, states, app types, and size ranges.
+// relations:
+//   - implements /ash/metrics/wm_feature_metrics_recorder.h
+//   - depends_on /ash/session/session_controller_impl.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/metrics/wm_feature_metrics_recorder.h"
 
 #include <array>

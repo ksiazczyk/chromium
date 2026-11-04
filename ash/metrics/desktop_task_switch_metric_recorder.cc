@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop task switch metric recorder implementation
+// summary: Implements recording of the Desktop_SwitchTask user action when the user activates a positionable task window by input on the desktop.
+// relations:
+//   - implements /ash/metrics/desktop_task_switch_metric_recorder.h
+//   - depends_on /ash/metrics/user_metrics_recorder.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/metrics/desktop_task_switch_metric_recorder.h"
 
 #include "ash/metrics/user_metrics_recorder.h"

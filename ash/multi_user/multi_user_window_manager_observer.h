@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiUserWindowManagerObserver interface
+// summary: Defines the observer interface for MultiUserWindowManager events such as window owner entry changes and shelf transitions to a new account.
+// relations:
+//   - depends_on /ash/public/cpp/ash_public_export.h
+//   - depends_on /base/observer_list_types.h
+// ---
+
 #ifndef ASH_MULTI_USER_MULTI_USER_WINDOW_MANAGER_OBSERVER_H_
 #define ASH_MULTI_USER_MULTI_USER_WINDOW_MANAGER_OBSERVER_H_
 

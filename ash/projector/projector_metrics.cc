@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Projector metrics implementation
+// summary: Implements UMA histogram recording for Projector toolbar actions, creation flow steps, errors, transcript counts, and speech recognition states.
+// relations:
+//   - depends_on /ash/projector/projector_metrics.h
+//   - depends_on /ash/shell.h
+//   - depends_on /base/metrics/histogram_functions.h
+// ---
+
 #include "ash/projector/projector_metrics.h"
 
 #include "ash/shell.h"

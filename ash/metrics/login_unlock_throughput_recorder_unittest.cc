@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login unlock throughput recorder unit tests
+// summary: Unit tests verifying login and unlock throughput metric recording, using mock post-login event observers, shelf models, and histogram testers.
+// relations:
+//   - tests /ash/metrics/login_unlock_throughput_recorder.h
+//   - depends_on /ash/login/ui/login_test_base.h
+//   - depends_on /ash/public/cpp/shelf_item_delegate.h
+// ---
+
 #include "ash/metrics/login_unlock_throughput_recorder.h"
 
 #include <memory>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pointer metrics recorder implementation
+// summary: Implements the pointer metrics recorder, logging UMA histograms for pointer down events by input type, form factor, and destination app.
+// relations:
+//   - implements /ash/metrics/pointer_metrics_recorder.h
+//   - depends_on /ash/display/screen_orientation_controller.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/metrics/pointer_metrics_recorder.h"
 
 #include "ash/display/screen_orientation_controller.h"

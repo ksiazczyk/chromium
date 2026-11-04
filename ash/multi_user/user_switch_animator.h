@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserSwitchAnimator class declaration
+// summary: Declares the UserSwitchAnimator class that runs the hide-old-user, show-new-user, and finalize animation steps for user transitions in ash.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /base/time/time.h
+// ---
+
 #ifndef ASH_MULTI_USER_USER_SWITCH_ANIMATOR_H_
 #define ASH_MULTI_USER_USER_SWITCH_ANIMATOR_H_
 

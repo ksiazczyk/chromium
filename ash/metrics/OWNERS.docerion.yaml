@@ -1,0 +1,7 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for ash metrics
+summary: Assigns per-file owners, delegating login metrics recorder files and demo session metrics recorder files to their respective OWNERS lists.
+relations:
+  - references /ash/login/LOGIN_LOCK_OWNERS
+  - references /chromeos/ash/components/demo_mode/OWNERS

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for ash metrics
+summary: Defines allowed include dependencies for the ash/metrics directory, permitting cc/metrics, login state, and ash metrics components.

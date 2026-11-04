@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiUserWindowManager implementation
+// summary: Implements the ash MultiUserWindowManager, which associates windows with owning accounts and controls their visibility, animations, and teleporting during user switches.
+// relations:
+//   - implements /ash/multi_user/multi_user_window_manager.h
+//   - depends_on /ash/media/media_controller_impl.h
+//   - depends_on /ash/multi_user/multi_user_window_manager_observer.h
+// ---
+
 #include "ash/multi_user/multi_user_window_manager.h"
 
 #include <set>
