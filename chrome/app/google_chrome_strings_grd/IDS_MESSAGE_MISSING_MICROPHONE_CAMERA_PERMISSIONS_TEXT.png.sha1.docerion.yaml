@@ -1,0 +1,4 @@
+# Docerion header of IDS_MESSAGE_MISSING_MICROPHONE_CAMERA_PERMISSIONS_TEXT.png.sha1.
+type: asset
+title: SHA-1 checksum for missing microphone and camera permissions image
+summary: Contains the SHA-1 hash of the PNG image shown when microphone and camera permissions are missing in Chrome's string resources.

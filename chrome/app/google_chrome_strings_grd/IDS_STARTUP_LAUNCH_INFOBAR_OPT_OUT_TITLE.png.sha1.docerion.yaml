@@ -1,0 +1,4 @@
+# Docerion header of IDS_STARTUP_LAUNCH_INFOBAR_OPT_OUT_TITLE.png.sha1.
+type: data
+title: Startup launch infobar opt-out title image hash
+summary: SHA-1 hash pinning the PNG image associated with the startup launch infobar opt-out title string in Chrome's string resources.

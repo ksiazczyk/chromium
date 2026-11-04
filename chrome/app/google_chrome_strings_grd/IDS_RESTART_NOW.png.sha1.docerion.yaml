@@ -1,0 +1,4 @@
+# Docerion header of IDS_RESTART_NOW.png.sha1.
+type: data
+title: SHA-1 of IDS_RESTART_NOW screenshot
+summary: Stores the SHA-1 checksum of the PNG screenshot for the 'Restart now' string, matching the checksum in the restart-later file.
