@@ -1,0 +1,4 @@
+# Docerion header of demo_setup.html.
+type: source
+title: Demo setup screen template
+summary: HTML template for the demo setup screen showing setup progress steps and an error dialog with retry and powerwash actions.

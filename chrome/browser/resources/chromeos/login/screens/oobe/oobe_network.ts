@@ -6,6 +6,12 @@
  * @fileoverview Polymer element for displaying network selection OOBE dialog.
  */
 
+// ---docerion
+// type: source
+// title: OOBE network screen element
+// summary: TypeScript Polymer element implementing the network selection OOBE screen with Quick Start Wi-Fi support.
+// ---
+
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';
 import '//resources/ash/common/network/network_list.js';
 import '../../components/buttons/oobe_back_button.js';

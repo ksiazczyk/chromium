@@ -1,0 +1,4 @@
+# Docerion header of http_message_object.html.
+type: source
+title: HTTP message object template
+summary: Polymer template that styles and lays out a single HTTP message entry with RPC type, direction, time and an expandable body for the nearby internals HTTP tab.

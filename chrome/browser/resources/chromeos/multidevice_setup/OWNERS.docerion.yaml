@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Multidevice setup OWNERS file
+summary: OWNERS entry that defers review ownership to the shared multidevice component OWNERS file.

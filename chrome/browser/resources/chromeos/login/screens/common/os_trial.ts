@@ -6,6 +6,12 @@
  * @fileoverview Polymer element for OS trial screen.
  */
 
+// ---docerion
+// type: source
+// title: OS trial screen element
+// summary: Polymer element for the OS trial OOBE screen, handling the install-versus-try selection and back and next navigation.
+// ---
+
 import '//resources/ash/common/cr_elements/cros_color_overrides.css.js';
 import '//resources/ash/common/cr_elements/cr_radio_button/cr_radio_button.js';
 import '//resources/ash/common/cr_elements/cr_radio_group/cr_radio_group.js';

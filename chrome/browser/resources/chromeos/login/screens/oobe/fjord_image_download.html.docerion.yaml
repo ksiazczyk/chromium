@@ -1,0 +1,4 @@
+# Docerion header of fjord_image_download.html.
+type: source
+title: Fjord image download screen template
+summary: HTML template showing a loading dialog for the Fjord image download step.

@@ -8,6 +8,12 @@
  * #include=cr-shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shared CSS styles for multidevice internals
+summary: Shared stylesheet defining button, label, and layout styles used across the multidevice internals WebUI pages.
+*/
+
 :host {
   cursor: default;
   font-family: monospace;

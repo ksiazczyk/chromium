@@ -6,6 +6,12 @@
  * @fileoverview Polymer element for Device Disabled message screen.
  */
 
+// ---docerion
+// type: source
+// title: Device disabled screen implementation
+// summary: TypeScript Polymer element implementing the device disabled screen, displaying serial, enrollment domain, admin message, and restriction schedule details.
+// ---
+
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';
 import '../../components/oobe_icons.html.js';
 import '../../components/common_styles/oobe_common_styles.css.js';

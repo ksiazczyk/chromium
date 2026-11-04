@@ -1,0 +1,4 @@
+# Docerion header of phone_name_form.html.
+type: source
+title: Phone name form element
+summary: HTML template for the form that sets a fake phone name in the PhoneHub internals page.

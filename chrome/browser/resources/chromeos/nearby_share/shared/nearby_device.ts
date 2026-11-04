@@ -6,6 +6,12 @@
  * @fileoverview The 'nearby-device' component shows details of a remote device.
  */
 
+// ---docerion
+// type: source
+// title: Nearby device component
+// summary: Implements the nearby-device element that shows details of a remote share target, including its downloaded image and selected state.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_auto_img/cr_auto_img.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_style.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_icons.css.js';

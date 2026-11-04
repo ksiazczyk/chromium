@@ -1,0 +1,4 @@
+# Docerion header of account_selection.html.
+type: source
+title: Account selection screen template
+summary: HTML template for the OOBE dialog that lets the user reuse the enrollment account or sign in with a different account to create the first device user.

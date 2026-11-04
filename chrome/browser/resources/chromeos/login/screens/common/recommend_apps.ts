@@ -7,6 +7,12 @@
  * screen.
  */
 
+// ---docerion
+// type: source
+// title: Recommend apps OOBE screen element
+// summary: Polymer element for the ChromeOS OOBE Recommend Apps screen that loads a list of suggested apps for the user to review and select for installation.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_checkbox/cr_checkbox.js';
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';
 import '../../components/common_styles/oobe_dialog_host_styles.css.js';

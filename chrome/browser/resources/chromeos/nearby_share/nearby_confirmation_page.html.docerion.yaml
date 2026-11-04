@@ -1,0 +1,4 @@
+# Docerion header of nearby_confirmation_page.html.
+type: source
+title: Nearby Share confirmation page template
+summary: HTML template for the confirmation screen showing payload preview, confirmation token, progress animation, contact checkbox and error section.

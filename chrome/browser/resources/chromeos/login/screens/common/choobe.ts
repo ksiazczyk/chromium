@@ -5,6 +5,12 @@
  * @fileoverview Polymer element for theme selection screen.
  */
 
+// ---docerion
+// type: source
+// title: CHOOBE screen implementation
+// summary: TypeScript Polymer element implementing the CHOOBE screen, handling screen selection, skip, and next actions during OOBE.
+// ---
+
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';
 import '//resources/polymer/v3_0/iron-iconset-svg/iron-iconset-svg.js';
 import '../../components/buttons/oobe_next_button.js';

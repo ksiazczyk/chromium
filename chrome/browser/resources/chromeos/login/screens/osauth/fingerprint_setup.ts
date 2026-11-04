@@ -7,6 +7,12 @@
  * Enrollment screen.
  */
 
+// ---docerion
+// type: source
+// title: Fingerprint setup screen element
+// summary: Polymer element handling fingerprint enrollment progress, scan results, child account variants, and dynamic color support.
+// ---
+
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';
 import '../../components/oobe_icons.html.js';
 import '../../components/common_styles/oobe_common_styles.css.js';

@@ -1,0 +1,4 @@
+# Docerion header of contact_tab.html.
+type: source
+title: Contact tab template
+summary: HTML template for the contacts tab with buttons to download contacts and clear messages plus a repeating contact list.

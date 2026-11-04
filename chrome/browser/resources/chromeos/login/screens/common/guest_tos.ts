@@ -6,6 +6,12 @@
  * @fileoverview guest tos screen implementation.
  */
 
+// ---docerion
+// type: source
+// title: Guest terms of service screen implementation
+// summary: Implements the guest ToS login screen, loading Google and ChromeOS EULA webviews and handling terms acceptance and usage stats opt-in.
+// ---
+
 import '//resources/ash/common/cr_elements/cros_color_overrides.css.js';
 import '//resources/ash/common/cr_elements/cr_shared_style.css.js';
 import '//resources/ash/common/cr_elements/cr_toggle/cr_toggle.js';

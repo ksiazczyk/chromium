@@ -1,0 +1,4 @@
+# Docerion header of ui_trigger_list_object.html.
+type: source
+title: List item template for UI trigger messages
+summary: HTML template for a list entry that displays a timestamped message in the UI trigger tab.

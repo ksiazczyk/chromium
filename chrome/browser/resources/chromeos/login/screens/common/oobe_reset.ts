@@ -6,6 +6,12 @@
  * @fileoverview Polymer element for displaying material design reset screen.
  */
 
+// ---docerion
+// type: source
+// title: OOBE reset screen element
+// summary: Polymer element for the reset screen, handling restart-required, revert, powerwash and rollback states plus the TPM firmware update choice.
+// ---
+
 import '//resources/ash/common/cr_elements/cros_color_overrides.css.js';
 import '//resources/ash/common/cr_elements/cr_checkbox/cr_checkbox.js';
 import '//resources/js/action_link.js';

@@ -5,6 +5,12 @@
  * @fileoverview Polymer element for add child screen.
  */
 
+// ---docerion
+// type: source
+// title: Add child screen element
+// summary: Polymer element for the add child screen, handling create-account and sign-in choices, back navigation, and the learn-more dialog.
+// ---
+
 
 import '//resources/ash/common/cr_elements/cros_color_overrides.css.js';
 import '//resources/ash/common/cr_elements/cr_radio_button/cr_card_radio_button.js';

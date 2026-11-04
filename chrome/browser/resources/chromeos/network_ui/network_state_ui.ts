@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network state UI element
+// summary: Polymer element that queries the network config mojo API and fills the device, network and favorite state tables.
+// ---
+
 import 'chrome://resources/ash/common/network/network_icon.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_style.css.js';

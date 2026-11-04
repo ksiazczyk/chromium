@@ -5,6 +5,12 @@
  * @fileoverview Polymer element for categoreis selection screen.
  */
 
+// ---docerion
+// type: source
+// title: Categories selection screen implementation
+// summary: TypeScript Polymer element implementing the categories selection screen, managing loading and overview steps and reporting the user's selected categories.
+// ---
+
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';
 import '../../components/dialogs/oobe_loading_dialog.js';
 import '../../components/oobe_categories_list.js';

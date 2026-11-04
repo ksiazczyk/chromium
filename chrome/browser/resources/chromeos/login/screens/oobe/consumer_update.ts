@@ -6,6 +6,12 @@
  * @fileoverview Polymer element for displaying material design Update screen.
  */
 
+// ---docerion
+// type: source
+// title: Consumer update screen element
+// summary: Polymer element implementing the consumer update screen, handling checking, update, restart, reboot, and cellular steps with progress announcements.
+// ---
+
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';
 import '//resources/polymer/v3_0/paper-progress/paper-progress.js';
 import '../../components/oobe_icons.html.js';

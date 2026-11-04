@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Placeholder OOBE screen element
+// summary: Skeleton Polymer element serving as a starting point for new OOBE login screens with basic back and next user actions.
+// ---
+
 import '//resources/ash/common/cr_elements/cros_color_overrides.css.js';
 import '../../components/buttons/oobe_back_button.js';
 import '../../components/buttons/oobe_next_button.js';

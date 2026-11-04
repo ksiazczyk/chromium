@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser proxy for clearing Nearby prefs
+// summary: Browser proxy that asks the native WebUI handler to clear the stored Nearby preferences.
+// ---
+
 /**
  * JavaScript hooks into the native WebUI handler to communicate with C++ about
  * Nearby prefs.

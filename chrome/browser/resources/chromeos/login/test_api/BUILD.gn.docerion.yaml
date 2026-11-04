@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: OOBE test API build file
+summary: GN build configuration that copies the OOBE test API TypeScript sources into the generated output directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share settings access helpers
+// summary: Provides singleton access to the Nearby Share settings mojo remote, observer registration, and a hook to inject fakes for testing.
+// ---
+
 import type {NearbyShareSettingsInterface, NearbyShareSettingsObserverInterface, NearbyShareSettingsObserverRemote} from 'chrome://resources/mojo/chromeos/ash/services/nearby/public/mojom/nearby_share_settings.mojom-webui.js';
 import {NearbyShareSettings, NearbyShareSettingsObserverReceiver} from 'chrome://resources/mojo/chromeos/ash/services/nearby/public/mojom/nearby_share_settings.mojom-webui.js';
 

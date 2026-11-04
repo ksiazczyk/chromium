@@ -1,0 +1,4 @@
+# Docerion header of network_logs_ui.html.
+type: source
+title: Network logs tab template
+summary: Polymer template for the network logs tab offering options to store system logs and set shill debugging levels.

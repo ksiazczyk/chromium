@@ -6,6 +6,12 @@
  * @fileoverview Polymer element for displaying material design Update screen.
  */
 
+// ---docerion
+// type: source
+// title: Update screen element
+// summary: TypeScript Polymer element implementing the OOBE update screen with progress reporting, battery warnings, and reboot handling.
+// ---
+
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';
 import '//resources/polymer/v3_0/paper-progress/paper-progress.js';
 import '../../components/oobe_cr_lottie.js';

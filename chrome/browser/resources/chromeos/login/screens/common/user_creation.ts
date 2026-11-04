@@ -6,6 +6,12 @@
 // Disable naming-convention checks.
 /* eslint-disable @typescript-eslint/naming-convention */
 
+// ---docerion
+// type: source
+// title: User creation screen implementation
+// summary: TypeScript element implementing the ChromeOS OOBE user creation screen, handling user type selection, enroll triage, and child setup flows.
+// ---
+
 import '//resources/ash/common/cr_elements/cros_color_overrides.css.js';
 import '//resources/ash/common/cr_elements/cr_radio_button/cr_card_radio_button.js';
 import '//resources/ash/common/cr_elements/cr_radio_group/cr_radio_group.js';

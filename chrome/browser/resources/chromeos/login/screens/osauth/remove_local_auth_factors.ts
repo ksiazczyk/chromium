@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remove local auth factors screen logic
+// summary: Polymer element implementing the ChromeOS screen that reports successful removal of local authentication factors.
+// ---
+
 import '//resources/ash/common/cr_elements/cros_color_overrides.css.js';
 import '../../components/buttons/oobe_back_button.js';
 import '../../components/buttons/oobe_next_button.js';

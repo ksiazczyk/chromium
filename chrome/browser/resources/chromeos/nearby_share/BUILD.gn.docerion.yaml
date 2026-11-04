@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Nearby Share WebUI build configuration
+summary: GN build rules that compile the Nearby Share dialog WebUI, listing its HTML, web components, TypeScript files and build dependencies.

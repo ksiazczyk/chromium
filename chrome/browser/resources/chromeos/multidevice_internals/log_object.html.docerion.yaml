@@ -1,0 +1,4 @@
+# Docerion header of log_object.html.
+type: source
+title: Log object element template
+summary: Polymer template for the log-object element that displays a log message's text, time, and source location with severity-based styling.

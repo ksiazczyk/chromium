@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network UI browser proxy
+// summary: Browser proxy interface and implementation that forwards network UI requests such as Shill properties, ONC import, eSIM resets, and tethering queries to the browser via chrome.send.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 
 export interface TetheringStatus {

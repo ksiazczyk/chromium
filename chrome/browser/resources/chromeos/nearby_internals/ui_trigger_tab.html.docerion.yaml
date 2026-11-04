@@ -1,0 +1,4 @@
+# Docerion header of ui_trigger_tab.html.
+type: source
+title: UI trigger tab template
+summary: HTML template for the Nearby internals UI trigger tab with buttons to register send and receive surfaces, trigger notifications, and send text.

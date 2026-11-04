@@ -8,6 +8,12 @@
  * embedded in the nearby_visibility_page as well as the settings pop-up dialog.
  */
 
+// ---docerion
+// type: source
+// title: Contact visibility component
+// summary: Implements the nearby-contact-visibility element that lets users choose contact visibility for Nearby Share and manage per-contact toggles, embedded in the visibility page and settings dialog.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_shared_style.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_radio_group/cr_radio_group.js';
 import 'chrome://resources/ash/common/cr_elements/cr_radio_button/cr_card_radio_button.js';

@@ -5,6 +5,12 @@
  * @fileoverview Polymer element for touchpad scroll screen.
  */
 
+// ---docerion
+// type: source
+// title: Touchpad scroll screen element
+// summary: Polymer element implementing the touchpad scroll screen, managing the reverse scrolling toggle and scroll area resizing.
+// ---
+
 import '//resources/ash/common/cr_elements/cros_color_overrides.css.js';
 import '//resources/polymer/v3_0/iron-iconset-svg/iron-iconset-svg.js';
 import '../../components/buttons/oobe_next_button.js';

@@ -6,6 +6,12 @@
  * @fileoverview Oobe signin screen implementation.
  */
 
+// ---docerion
+// type: source
+// title: Online authentication screen element
+// summary: Polymer element implementing the OOBE online authentication screen, which displays a loading dialog while sign-in is in progress.
+// ---
+
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';
 import '../../components/dialogs/oobe_loading_dialog.js';
 

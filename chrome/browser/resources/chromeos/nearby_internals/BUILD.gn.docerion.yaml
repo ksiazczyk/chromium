@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Nearby internals WebUI build target
+summary: Defines the GN build target that compiles the nearby_internals WebUI TypeScript, HTML and CSS resources for ChromeOS.

@@ -6,6 +6,12 @@
  * @fileoverview Polymer element for signin fatal error.
  */
 
+// ---docerion
+// type: source
+// title: OS auth error screen element
+// summary: Polymer element that shows the OS authentication error screen and cancels the login flow when the retry button is pressed.
+// ---
+
 import '//resources/js/action_link.js';
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';
 import '../../components/oobe_icons.html.js';

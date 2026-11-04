@@ -6,6 +6,12 @@
  * @fileoverview Polymer element for displaying ARC ADB sideloading screen.
  */
 
+// ---docerion
+// type: source
+// title: ADB sideloading screen element
+// summary: Polymer element for the ARC ADB sideloading screen, switching between setup and error states and forwarding enable, cancel, and learn-more actions.
+// ---
+
 import '//resources/js/action_link.js';
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';
 import '../../components/buttons/oobe_text_button.js';

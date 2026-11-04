@@ -6,6 +6,12 @@
  * @fileoverview Polymer element for signin fatal error.
  */
 
+// ---docerion
+// type: source
+// title: Factor setup success screen element
+// summary: Polymer element that displays a success dialog after setting or updating authentication factors, adapting title and subtitle to the factors and change mode.
+// ---
+
 import '//resources/js/action_link.js';
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';
 import '../../components/oobe_icons.html.js';

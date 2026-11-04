@@ -6,6 +6,12 @@
  * @fileoverview Polymer element for OS install screen.
  */
 
+// ---docerion
+// type: source
+// title: OS install screen element
+// summary: Polymer element for the OS install OOBE screen, managing intro, confirmation, progress, error and success steps and user actions.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_shared_vars.css.js';
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';
 import '../../components/oobe_icons.html.js';

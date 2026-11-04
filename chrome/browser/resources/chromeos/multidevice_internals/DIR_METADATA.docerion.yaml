@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA with buganizer component and team email
+summary: Declares the buganizer component ID and the ChromeOS cross-device engineering team email for this directory.

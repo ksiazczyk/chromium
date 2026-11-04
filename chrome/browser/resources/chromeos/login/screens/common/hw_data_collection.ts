@@ -6,6 +6,12 @@
  * @fileoverview Polymer element for HW data collection screen.
  */
 
+// ---docerion
+// type: source
+// title: HW data collection OOBE screen element
+// summary: Polymer element implementing the ChromeOS OOBE hardware data collection screen with a data usage consent checkbox and accept action.
+// ---
+
 import '//resources/ash/common/cr_elements/cros_color_overrides.css.js';
 import '//resources/ash/common/cr_elements/cr_checkbox/cr_checkbox.js';
 import '//resources/ash/common/cr_elements/cr_shared_style.css.js';

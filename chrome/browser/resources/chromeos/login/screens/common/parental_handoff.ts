@@ -6,6 +6,12 @@
  * @fileoverview Polymer element for Parental Handoff screen.
  */
 
+// ---docerion
+// type: source
+// title: Parental handoff screen element
+// summary: Polymer element for the ChromeOS login parental handoff screen, showing the handed-off user's name and handling the next action.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_shared_vars.css.js';
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';
 import '../../components/oobe_icons.html.js';

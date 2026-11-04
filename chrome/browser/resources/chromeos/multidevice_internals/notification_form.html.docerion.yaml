@@ -1,0 +1,4 @@
+# Docerion header of notification_form.html.
+type: source
+title: Notification form template
+summary: Template for composing, updating, and removing fake PhoneHub notifications with fields for ID, app metadata, importance, and content.

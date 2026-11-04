@@ -6,6 +6,12 @@
  * @fileoverview Polymer element for install attributes error screen.
  */
 
+// ---docerion
+// type: source
+// title: Install attributes error screen element
+// summary: Polymer element implementing the install attributes error screen that lets the user trigger a powerwash or system restart.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_shared_vars.css.js';
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';
 import '../../components/oobe_icons.html.js';

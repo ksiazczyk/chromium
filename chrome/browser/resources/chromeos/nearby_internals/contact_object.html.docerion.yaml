@@ -1,0 +1,4 @@
+# Docerion header of contact_object.html.
+type: source
+title: Contact object element template
+summary: HTML template for the contact-object element showing a contact update with expandable contact records and allowed contact IDs.

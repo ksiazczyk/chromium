@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split modifier keyboard info screen element
+// summary: Polymer element implementing the split modifier keyboard info screen shown during ChromeOS login and OOBE.
+// ---
+
 import '//resources/ash/common/cr_elements/cros_color_overrides.css.js';
 import '../../components/buttons/oobe_next_button.js';
 import '../../components/common_styles/oobe_common_styles.css.js';

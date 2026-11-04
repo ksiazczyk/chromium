@@ -1,0 +1,4 @@
+# Docerion header of network_state_ui.html.
+type: source
+title: Network state tab template
+summary: Polymer template with tables for devices, visible networks, Ethernet EAP networks and favorite networks.

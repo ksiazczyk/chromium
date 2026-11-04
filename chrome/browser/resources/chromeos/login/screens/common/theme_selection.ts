@@ -4,6 +4,13 @@
 /**
  * @fileoverview Polymer element for theme selection screen.
  */
+
+// ---docerion
+// type: source
+// title: Theme selection screen element
+// summary: Polymer element handling theme selection between auto, dark and light themes during ChromeOS OOBE, with return-to-CHOOBE support.
+// ---
+
 import '//resources/ash/common/cr_elements/cros_color_overrides.css.js';
 import '//resources/ash/common/cr_elements/cr_radio_button/cr_radio_button.js';
 import '//resources/ash/common/cr_elements/cr_radio_group/cr_radio_group.js';

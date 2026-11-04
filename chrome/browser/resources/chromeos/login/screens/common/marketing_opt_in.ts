@@ -7,6 +7,12 @@
  * opt-in screen.
  */
 
+// ---docerion
+// type: source
+// title: Marketing opt-in screen element
+// summary: Polymer element implementing the marketing opt-in screen with overview and accessibility steps, opt-in toggles, and a Canada-only legal footer.
+// ---
+
 import '//resources/ash/common/cr_elements/cros_color_overrides.css.js';
 import '//resources/ash/common/cr_elements/cr_toggle/cr_toggle.js';
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';

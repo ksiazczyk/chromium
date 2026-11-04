@@ -8,6 +8,12 @@
  * are not currently in the contacts of this user.
  */
 
+// ---docerion
+// type: source
+// title: Nearby Share confirmation page element
+// summary: Polymer element that shows the confirmation screen when sending data to strangers, handling transfer status updates and errors.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_checkbox/cr_checkbox.js';
 import 'chrome://resources/ash/common/cr_elements/cr_lottie/cr_lottie.js';

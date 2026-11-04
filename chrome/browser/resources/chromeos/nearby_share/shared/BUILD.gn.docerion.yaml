@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Nearby Share shared WebUI build file
+summary: GN build rules that compile the shared Nearby Share WebUI components, TypeScript files and icon HTML, and package the JSON animation resources into a GRDP archive.

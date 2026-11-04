@@ -1,0 +1,4 @@
+# Docerion header of nearby_progress.html.
+type: source
+title: Nearby progress markup
+summary: HTML template for the nearby-progress element, with a circular progress wheel, share target image and device name.

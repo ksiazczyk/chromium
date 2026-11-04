@@ -1,0 +1,4 @@
+# Docerion header of network.html.
+type: source
+title: Network UI entry page
+summary: HTML entry page for the network WebUI that loads the network-ui custom element and base stylesheets.

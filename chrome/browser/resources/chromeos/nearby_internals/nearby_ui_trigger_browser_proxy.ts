@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser proxy for the UI trigger tab
+// summary: Browser proxy exposing Nearby Share and Fast Pair actions to the UI trigger tab, including send and receive surface registration and test notifications.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 
 import type {NearbyShareStates, StatusCode} from './types.js';

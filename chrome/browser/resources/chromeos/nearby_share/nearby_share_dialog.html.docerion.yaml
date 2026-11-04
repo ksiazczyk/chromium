@@ -1,0 +1,4 @@
+# Docerion header of nearby_share_dialog.html.
+type: source
+title: Nearby Share dialog HTML shell
+summary: HTML entry point for the ChromeOS Nearby Share dialog that sets up styles and hosts the nearby-share-app element with its module script.

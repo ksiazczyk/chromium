@@ -1,0 +1,4 @@
+# Docerion header of multidevice_internals.html.
+type: source
+title: MultiDevice internals main layout
+summary: Main template for the MultiDevice internals page with a header and tabs switching between the logging and PhoneHub views.

@@ -1,0 +1,4 @@
+# Docerion header of gaia_signin.html.
+type: source
+title: Gaia sign-in screen template
+summary: HTML template for the Gaia sign-in screen containing the sign-in dialog, SAML video alert, security token PIN dialog, loading dialog, and enrollment nudge.

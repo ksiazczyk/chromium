@@ -7,6 +7,12 @@
  * DiscoveryManager which allows interaction with native code.
  */
 
+// ---docerion
+// type: source
+// title: Discovery manager accessor
+// summary: Provides functions to get, observe and override for testing the Mojo DiscoveryManager that connects the Nearby Share UI to native code.
+// ---
+
 import type {DiscoveryManagerInterface, DiscoveryManagerRemote, DiscoveryObserverInterface, DiscoveryObserverRemote} from '/shared/nearby_share.mojom-webui.js';
 import {DiscoveryManager, DiscoveryObserverReceiver} from '/shared/nearby_share.mojom-webui.js';
 

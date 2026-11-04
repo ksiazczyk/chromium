@@ -7,6 +7,12 @@
  * mojo to get values and keeps them in sync by observing for changes
  */
 
+// ---docerion
+// type: source
+// title: Nearby Share settings mixin for Polymer elements
+// summary: Polymer mixin that fetches Nearby Share settings values over mojo, keeps them in sync by observing changes, and exposes them to host elements.
+// ---
+
 import type {DataUsage, FastInitiationNotificationState, NearbyShareSettingsInterface, NearbyShareSettingsObserverReceiver, NearbyShareSettingsRemote, Visibility} from 'chrome://resources/mojo/chromeos/ash/services/nearby/public/mojom/nearby_share_settings.mojom-webui.js';
 import type {PolymerElement} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import {dedupingMixin} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';

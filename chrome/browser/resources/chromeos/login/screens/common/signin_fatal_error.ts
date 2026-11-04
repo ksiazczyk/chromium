@@ -6,6 +6,12 @@
  * @fileoverview Polymer element for signin fatal error.
  */
 
+// ---docerion
+// type: source
+// title: Sign-in fatal error screen element
+// summary: Polymer element implementing the sign-in fatal error screen, displaying error details and triggering restart, powerwash or dismissal actions.
+// ---
+
 import '//resources/js/action_link.js';
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';
 import '../../components/oobe_icons.html.js';

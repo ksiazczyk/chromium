@@ -1,0 +1,4 @@
+# Docerion header of nearby_internals.html.
+type: source
+title: Nearby Share internals page template
+summary: HTML template for the main nearby-internals element, laying out the header and tabs for logs, HTTP messages, contacts, UI triggers and Fast Pair.

@@ -8,6 +8,12 @@
  * and button options.
  */
 
+// ---docerion
+// type: source
+// title: Nearby page template element
+// summary: Polymer element providing a consistent page setup for Nearby Share flows with title, subtitle, body slot and configurable buttons.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_shared_style.css.js';
 import 'chrome://resources/ash/common/cr_elements/cros_color_overrides.css.js';
 

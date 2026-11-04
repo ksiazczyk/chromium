@@ -5,6 +5,12 @@
  * @fileoverview Polymer element for perks discovery screen.
  */
 
+// ---docerion
+// type: source
+// title: Perks discovery screen element
+// summary: Polymer element implementing the perks discovery OOBE screen with loading and overview steps and themed webview illustrations.
+// ---
+
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';
 import '../../components/dialogs/oobe_loading_dialog.js';
 

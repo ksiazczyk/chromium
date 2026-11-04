@@ -7,6 +7,12 @@
  * the Nearby Share flow. It shows a list of devices to select from.
  */
 
+// ---docerion
+// type: source
+// title: Nearby Share discovery page element
+// summary: Polymer element implementing the discovery UI that lists nearby devices, separates self-share targets and manages share target selection.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_lottie/cr_lottie.js';
 import 'chrome://resources/cros_components/lottie_renderer/lottie-renderer.js';

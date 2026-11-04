@@ -6,6 +6,12 @@
  * @fileoverview Polymer element for TPM error screen.
  */
 
+// ---docerion
+// type: source
+// title: TPM error screen element
+// summary: Polymer element implementing the TPM error screen, switching between default, TPM owned and D-Bus error steps.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_shared_vars.css.js';
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';
 import '../../components/oobe_icons.html.js';

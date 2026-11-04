@@ -1,0 +1,4 @@
+# Docerion header of phone_status_model_form.html.
+type: source
+title: Phone status model form element
+summary: HTML template with dropdowns and inputs for fake phone status values like signal strength, charging state and battery.

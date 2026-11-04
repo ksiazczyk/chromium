@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share app element
+// summary: Entry-point Polymer element for the Nearby Share flow that switches between pages and handles close, page-change and onboarding events.
+// ---
+
 import '/shared/nearby_onboarding_one_page.js';
 import '/shared/nearby_visibility_page.js';
 import './nearby_confirmation_page.js';

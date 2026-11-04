@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local password setup screen element
+// summary: Polymer element that collects a new local password during setup or recovery flows, using an auth token and optional back navigation.
+// ---
+
 import '//resources/ash/common/auth_setup/set_local_password_input.js';
 import '//resources/ash/common/cr_elements/cros_color_overrides.css.js';
 import '//resources/ash/common/cr_elements/cr_shared_style.css.js';

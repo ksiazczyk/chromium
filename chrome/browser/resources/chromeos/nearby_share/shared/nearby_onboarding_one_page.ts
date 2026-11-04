@@ -8,6 +8,12 @@
  * chrome://settings and as a standalone dialog via chrome://nearby.
  */
 
+// ---docerion
+// type: source
+// title: Nearby Share one-page onboarding component
+// summary: TypeScript element implementing the single-page Nearby Share onboarding flow, handling device name input, visibility selection, entry-point detection, and cancellation and completion metrics logging.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_shared_style.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_icons.css.js';

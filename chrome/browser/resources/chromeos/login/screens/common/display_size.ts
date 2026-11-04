@@ -6,6 +6,12 @@
  * @fileoverview Polymer element for touchpad scroll screen.
  */
 
+// ---docerion
+// type: source
+// title: Display size screen Polymer element
+// summary: Polymer element implementing the ChromeOS OOBE display size screen, initializing the size selector with available sizes and reporting next or return user actions with the chosen size.
+// ---
+
 import '//resources/polymer/v3_0/iron-iconset-svg/iron-iconset-svg.js';
 import '../../components/buttons/oobe_next_button.js';
 import '../../components/buttons/oobe_text_button.js';

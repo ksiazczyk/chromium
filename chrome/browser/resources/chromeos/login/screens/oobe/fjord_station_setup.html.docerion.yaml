@@ -1,0 +1,4 @@
+# Docerion header of fjord_station_setup.html.
+type: source
+title: Fjord station setup screen template
+summary: HTML template embedding a webview pointing at the codec station setup page together with a done button.

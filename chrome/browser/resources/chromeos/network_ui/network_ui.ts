@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network UI Polymer element
+// summary: Main Polymer element for the ChromeOS network debugging UI, providing tabs for network state, logs, and metrics plus tethering, Wi-Fi Direct, and hostname controls.
+// ---
+
 import 'chrome://resources/ash/common/network_health/network_diagnostics.js';
 import 'chrome://resources/ash/common/network_health/network_health_summary.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';

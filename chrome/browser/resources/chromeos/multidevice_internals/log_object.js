@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Log object custom element
+// summary: Defines the log-object Polymer element that renders individual log messages and applies styling based on their severity level.
+// ---
+
 import {Polymer} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 
 import {getTemplate} from './log_object.html.js';

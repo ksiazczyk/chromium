@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fjord touch controller screen element
+// summary: TypeScript Polymer element implementing the Fjord touch controller OOBE screen with a webview and Mojom handler.
+// ---
+
 import '../../components/buttons/oobe_text_button.js';
 
 import {assert} from '//resources/js/assert.js';

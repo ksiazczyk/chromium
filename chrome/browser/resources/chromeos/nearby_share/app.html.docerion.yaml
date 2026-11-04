@@ -1,0 +1,4 @@
+# Docerion header of app.html.
+type: source
+title: Nearby Share app template
+summary: HTML template that arranges the confirmation, discovery, onboarding and visibility pages inside a cr-view-manager for the Nearby Share dialog.

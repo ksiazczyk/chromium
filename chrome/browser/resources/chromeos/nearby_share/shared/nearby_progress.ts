@@ -9,6 +9,12 @@
  * an animation if the percentage is indeterminate.
  */
 
+// ---docerion
+// type: source
+// title: Nearby Share transfer progress component
+// summary: Polymer element showing a progress indicator for a Nearby Share transfer, with device icon and a determinate or indeterminate circular progress bar.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_auto_img/cr_auto_img.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_style.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_icons.css.js';

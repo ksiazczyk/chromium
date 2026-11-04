@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share contact manager access
+// summary: Exposes a singleton Mojo contact manager for Nearby Share, with helpers to observe contact downloads and to inject a fake manager for testing.
+// ---
+
 import type {ContactManagerInterface, DownloadContactsObserverInterface, DownloadContactsObserverRemote} from 'chrome://resources/mojo/chromeos/ash/services/nearby/public/mojom/nearby_share_settings.mojom-webui.js';
 import {ContactManager, DownloadContactsObserverReceiver} from 'chrome://resources/mojo/chromeos/ash/services/nearby/public/mojom/nearby_share_settings.mojom-webui.js';
 

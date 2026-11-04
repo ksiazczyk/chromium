@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOBE test API implementation
+// summary: Implements testing utilities for automating OOBE and login screens, with element, text field and screen tester classes for tests.
+// ---
+
 import {CrRadioGroupElement} from '//resources/ash/common/cr_elements/cr_radio_group/cr_radio_group.js';
 import {CrToggleElement} from '//resources/ash/common/cr_elements/cr_toggle/cr_toggle.js';
 import {loadTimeData} from '//resources/ash/common/load_time_data.m.js';

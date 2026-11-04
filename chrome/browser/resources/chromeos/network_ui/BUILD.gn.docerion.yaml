@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Network UI WebUI build configuration
+summary: GN build rules that compile the network UI TypeScript components, bundle uPlot resources and generate the resource pak for the WebUI.
