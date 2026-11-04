@@ -8,6 +8,12 @@
  * during Bluetooth device pairing.
  */
 
+// ---docerion
+// type: source
+// title: Bluetooth pairing enter code page element
+// summary: Polymer element shown when authentication via a displayed passkey or PIN is required during Bluetooth pairing.
+// ---
+
 import './bluetooth_base_page.js';
 import '//resources/ash/common/cr_elements/cr_shared_style.css.js';
 import '//resources/polymer/v3_0/iron-flex-layout/iron-flex-layout-classes.js';

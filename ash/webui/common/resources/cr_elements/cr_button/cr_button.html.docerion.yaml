@@ -1,0 +1,4 @@
+# Docerion header of cr_button.html.
+type: source
+title: cr-button element template and styles
+summary: HTML template for the cr-button element defining its layout, light and dark mode colors, and Chrome refresh 2023 styling variants.

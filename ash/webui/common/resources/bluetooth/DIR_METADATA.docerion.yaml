@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bluetooth pairing UI directory metadata
+summary: Metadata file that applies the directory's COMMON_METADATA mixins to this folder.

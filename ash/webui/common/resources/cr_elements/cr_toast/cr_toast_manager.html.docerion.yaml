@@ -1,0 +1,4 @@
+# Docerion header of cr_toast_manager.html.
+type: source
+title: cr-toast-manager element template
+summary: HTML template for the cr-toast-manager element, hosting a cr-toast with an elided text content area and a slot for additional content such as an undo button.

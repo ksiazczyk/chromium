@@ -34,6 +34,12 @@
  * will not be sized correctly.
  */
 
+// ---docerion
+// type: source
+// title: Mixin for scrollable containers with iron-list
+// summary: Polymer mixin that tracks scroll state of containers holding an iron-list and toggles classes used for scroll-dependent styling.
+// ---
+
 // clang-format off
 import type {PolymerElement} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import {beforeNextRender, dedupingMixin, microTask} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';

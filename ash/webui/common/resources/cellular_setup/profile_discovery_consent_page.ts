@@ -7,6 +7,12 @@
  * Page in eSIM Setup flow that requests user consent to scan for profiles.
  */
 
+// ---docerion
+// type: source
+// title: Profile discovery consent page element
+// summary: Implements the eSIM setup flow page that requests user consent to scan for profiles and signals forward navigation when discovery is skipped.
+// ---
+
 import './cellular_setup_icons.html.js';
 import '//resources/ash/common/cr_elements/localized_link/localized_link.js';
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';

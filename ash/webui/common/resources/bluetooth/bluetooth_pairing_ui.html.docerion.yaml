@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_pairing_ui.html.
+type: source
+title: Bluetooth pairing dialog template
+summary: HTML template for the root Bluetooth pairing dialog that switches between device selection, code, confirm and spinner subpages.

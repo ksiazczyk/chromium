@@ -1,0 +1,4 @@
+# Docerion header of psim_flow_ui.html.
+type: source
+title: pSIM flow UI template
+summary: HTML template for the pSIM activation flow, switching between SIM detection, provisioning, and final pages via iron-pages.

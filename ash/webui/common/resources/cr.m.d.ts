@@ -8,6 +8,12 @@
 
 /* eslint-disable @typescript-eslint/naming-convention */
 
+// ---docerion
+// type: source
+// title: TypeScript declarations for the cr.m.js module
+// summary: Declares the WebUI response, promise, and listener functions of cr.m.js so TypeScript UIs in transition can keep relying on it.
+// ---
+
 export function webUIResponse(
     id: string, isSuccess: boolean, response: any): void;
 

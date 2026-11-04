@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shared icon classes mapping icon names to SVG masks
+summary: Defines cr-icon classes that map icon names to SVG mask images with sizing, coloring, dark mode and RTL handling.
+*/
+
 .icon-arrow-back {
   --cr-icon-image: url(chrome://resources/images/icon_arrow_back.svg);
 }

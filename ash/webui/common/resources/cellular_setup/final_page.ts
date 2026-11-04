@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Final page element
+// summary: Implements the final page of the cellular setup flow, displaying a success or error title, message, and illustration based on the flow outcome.
+// ---
+
 /**
  * Final page in Cellular Setup flow, which either displays a success or error
  * message depending on the outcome of the flow. This element contains an image

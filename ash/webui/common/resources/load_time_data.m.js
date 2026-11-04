@@ -8,6 +8,12 @@
  * 'chrome://resources/js/load_time_data.js'.
  */
 
+// ---docerion
+// type: source
+// title: loadTimeData wrapper with Closure annotations
+// summary: Re-exports the shared loadTimeData singleton with Closure Compiler type annotations for non-TypeScript UIs and Tast tests.
+// ---
+
 import {loadTimeData as crLoadTimeData} from '//resources/js/load_time_data.js';
 
 /** @type {!LoadTimeData} */

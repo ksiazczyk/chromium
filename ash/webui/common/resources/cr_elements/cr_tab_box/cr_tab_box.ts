@@ -4,6 +4,12 @@
 
 // Forked from ui/webui/resources/cr_elements/cr_tab_box/cr_tab_box.ts.
 
+// ---docerion
+// type: source
+// title: CrTabBoxElement TypeScript implementation
+// summary: Implements the cr-tab-box custom element, handling tab and panel selection, keyboard navigation with RTL support, accessibility attributes, and index change events.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 import {CustomElement} from '//resources/js/custom_element.js';
 import {FocusOutlineManager} from '//resources/js/focus_outline_manager.js';

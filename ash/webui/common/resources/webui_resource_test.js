@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI test assertion helpers
+// summary: Provides assertion functions such as assertEquals and a runTests harness for browser-based WebUI tests.
+// ---
+
 /**
  * Tests that an observation matches the expected value.
  * @param {*} expected The expected value.

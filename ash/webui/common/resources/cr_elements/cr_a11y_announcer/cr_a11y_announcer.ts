@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrA11yAnnouncer element for screen reader announcements
+// summary: TypeScript source defining the cr-a11y-announcer Polymer element, a visually hidden component that queues messages and reads them out to screen readers after a short timeout.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 import {PolymerElement} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 

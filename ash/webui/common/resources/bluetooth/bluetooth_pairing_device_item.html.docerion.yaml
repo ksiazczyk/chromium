@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_pairing_device_item.html.
+type: source
+title: Pairing device item template
+summary: HTML template for a discovered device row in the pairing list, showing its icon, name and pairing status label.

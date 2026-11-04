@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Type declarations for WebUIListenerBehavior
+// summary: Declares the WebUIListenerBehavior interface for adding WebUI event listeners on Polymer elements.
+// ---
+
 export interface WebUIListenerBehavior {
   addWebUIListener(eventName: string, callback: Function): void;
 }

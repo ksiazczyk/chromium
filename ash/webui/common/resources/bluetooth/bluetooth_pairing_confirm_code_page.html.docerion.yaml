@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_pairing_confirm_code_page.html.
+type: source
+title: Pairing confirm code page template
+summary: HTML template for the pairing page that displays a confirmation passkey to the user during Bluetooth pairing.

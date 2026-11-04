@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AcceleratorFetcher implementation
+// summary: Implements the AcceleratorFetcher Mojo interface that supplies accelerators for actions to WebUI frontends and notifies observers of accelerator changes.
+// ---
+
 #include "ash/webui/common/backend/accelerator_fetcher.h"
 
 #include <algorithm>

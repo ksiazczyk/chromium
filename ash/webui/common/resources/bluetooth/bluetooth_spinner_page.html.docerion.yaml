@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_spinner_page.html.
+type: source
+title: Bluetooth pairing spinner page template
+summary: HTML template for the pairing page that shows a loading spinner while pairing is in progress.

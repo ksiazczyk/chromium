@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: cr-input styling and CSS variables
+summary: Defines the CSS custom properties and visual styling for cr-input, including Chrome Refresh 2023 and dark color scheme variants.
+*/
+
       :host {
         --cr-input-background-color: var(--google-grey-100);
         --cr-input-color: var(--cr-primary-text-color);

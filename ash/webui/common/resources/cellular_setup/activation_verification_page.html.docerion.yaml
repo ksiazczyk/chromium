@@ -1,0 +1,4 @@
+# Docerion header of activation_verification_page.html.
+type: source
+title: Activation verification page template
+summary: HTML template showing a Lottie spinner while the activation code is verified and an eSIM profile is installed.

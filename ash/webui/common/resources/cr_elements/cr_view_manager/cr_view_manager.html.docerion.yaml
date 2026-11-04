@@ -1,0 +1,4 @@
+# Docerion header of cr_view_manager.html.
+type: source
+title: cr_view_manager.html
+summary: HTML template for the cr-view-manager element, hiding slotted views by default and exposing the view slot with active and closing display rules.

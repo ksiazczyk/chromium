@@ -1,0 +1,4 @@
+# Docerion header of setup_loading_page.html.
+type: source
+title: Setup loading page template
+summary: HTML template for the cellular setup loading subpage, showing a Lottie spinner or a SIM detection error graphic with dark mode support.

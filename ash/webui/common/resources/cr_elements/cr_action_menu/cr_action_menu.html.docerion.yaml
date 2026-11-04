@@ -1,0 +1,4 @@
+# Docerion header of cr_action_menu.html.
+type: source
+title: cr-action-menu element template
+summary: HTML template with styles and dialog markup for the cr-action-menu web component, including theming variables, forced-colors handling and slotted dropdown item styling.

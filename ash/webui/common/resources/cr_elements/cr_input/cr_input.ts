@@ -4,6 +4,12 @@
 
 // Forked from ui/webui/resources/cr_elements/cr_input/cr_input.ts
 
+// ---docerion
+// type: source
+// title: cr-input web component implementation
+// summary: Implements the cr-input Polymer element, a native-input-like component with supported input types, validation, label, and error message properties.
+// ---
+
 import '../cr_hidden_style.css.js';
 import '../cr_shared_style.css.js';
 import '../cr_shared_vars.css.js';

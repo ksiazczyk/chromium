@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-policy-pref-indicator element
+// summary: Polymer element that derives the indicator type and tooltip from a settings preference's enforcement, controlling source, and selectable values.
+// ---
+
 /**
  * @fileoverview Polymer element for indicating policies that apply to an
  * element controlling a settings preference.

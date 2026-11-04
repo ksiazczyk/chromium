@@ -8,6 +8,12 @@
  * ui/webui/resources/cr_elements/cr_radio_button/cr_radio_button_mixin.ts
  */
 
+// ---docerion
+// type: source
+// title: cr-radio-button mixin
+// summary: Mixin providing shared radio button behavior, including checked, disabled, focusable, label, and name properties plus ARIA and ripple handling.
+// ---
+
 // clang-format off
 import type {PolymerElement} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import {dedupingMixin} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';

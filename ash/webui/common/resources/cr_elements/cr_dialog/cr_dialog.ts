@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-dialog modal dialog component
+// summary: Implements the cr-dialog Polymer element for showing modal dialogs, with cancel and close events, popstate and keyboard handling, and access to the underlying native dialog element.
+// ---
+
 /**
  * @fileoverview 'cr-dialog' is a component for showing a modal dialog. If the
  * dialog is closed via close(), a 'close' event is fired. If the dialog is

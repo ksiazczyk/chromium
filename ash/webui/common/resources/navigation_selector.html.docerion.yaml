@@ -1,0 +1,4 @@
+# Docerion header of navigation_selector.html.
+type: source
+title: Navigation selector template and styles
+summary: HTML template with styles and DOM for the navigation-selector side bar, rendering selectable navigation items as cr-buttons with icons.

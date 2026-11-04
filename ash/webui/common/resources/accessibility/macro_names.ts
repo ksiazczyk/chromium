@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MacroName enum of accessibility macros
+// summary: Defines the MacroName enum of supported accessibility macros for Dictation and related features, with values persisted to logs.
+// ---
+
 /**
  * Supported macros. Similar to UserIntent.MacroName in
  * google3/intelligence/dbw/proto/macros/user_intent.proto.

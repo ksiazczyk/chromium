@@ -1,0 +1,4 @@
+# Docerion header of cr_checkbox.html.
+type: source
+title: cr-checkbox component template and styles
+summary: HTML template and CSS for the cr-checkbox WebUI component, defining sizes, light and dark mode colors, Chrome Refresh 2023 styling, and disabled, hover, and focus states.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Activation code page element
+// summary: Polymer element for the eSIM setup page that accepts an activation code via manual entry or QR code scanning.
+// ---
+
 /**
  * @fileoverview Page in eSIM Setup flow that accepts activation code.
  * User has option for manual entry or scan a QR code.

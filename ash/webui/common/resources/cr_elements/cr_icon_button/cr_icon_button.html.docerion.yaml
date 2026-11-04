@@ -1,0 +1,4 @@
+# Docerion header of cr_icon_button.html.
+type: source
+title: cr-icon-button element template and styles
+summary: HTML template for the cr-icon-button element, defining its styling, theming variables, RTL mirroring, dark mode and forced-colors behavior.

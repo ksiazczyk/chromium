@@ -16,6 +16,12 @@
  * the current system language.
  */
 
+// ---docerion
+// type: source
+// title: Keyboard layout glyph and label definitions
+// summary: Defines key glyphs and labels for the keyboard-diagram component across all markets where ChromeOS devices ship, matching physical keyboard labels.
+// ---
+
 const kAzertyLetters = [
   [16, 'a'],
   [17, 'z'],

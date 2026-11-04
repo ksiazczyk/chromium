@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for connectivity resources
+summary: GN build file that asserts Chrome OS only and copies the generated Passpoint mojo TypeScript file into the preprocessed connectivity resources directory.

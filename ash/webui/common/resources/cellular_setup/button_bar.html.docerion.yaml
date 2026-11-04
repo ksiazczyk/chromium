@@ -1,0 +1,4 @@
+# Docerion header of button_bar.html.
+type: source
+title: Button bar template
+summary: HTML template with the cancel and forward navigation buttons for the cellular setup flow.

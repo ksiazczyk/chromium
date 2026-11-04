@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard diagram element type declarations
+// summary: TypeScript declarations for the keyboard-diagram element, including enums for mechanical, physical, top-row and number pad layouts.
+// ---
+
 import type {KeyboardKeyState} from './keyboard_key.js';
 
 export enum MechanicalLayout {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-textarea Polymer element TypeScript source
+// summary: Defines the cr-textarea custom element, a native-textarea-like component inheriting cr-input styling, with properties for label, value, autogrow, validation, and footer text.
+// ---
+
 /**
  * @fileoverview 'cr-textarea' is a component similar to native textarea,
  * and inherits styling from cr-input.

@@ -9,6 +9,12 @@
  * it in new code.
  */
 
+// ---docerion
+// type: source
+// title: WebUI listener Polymer behavior (deprecated)
+// summary: Polymer behavior that registers WebUI listeners and removes them automatically when the element detaches; deprecated in favor of a mixin.
+// ---
+
 import {addWebUIListener, removeWebUIListener, WebUIListener} from 'chrome://resources/ash/common/cr.m.js';
 
 

@@ -1,0 +1,4 @@
+# Docerion header of shortcut_input_provider.mojom.
+type: source
+title: ShortcutInputProvider Mojo interfaces
+summary: Defines interfaces for observing key events so users can input customizable shortcuts, initially for peripheral customization in Settings.

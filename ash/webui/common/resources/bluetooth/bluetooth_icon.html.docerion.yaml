@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_icon.html.
+type: source
+title: Bluetooth icon template
+summary: HTML template for the Bluetooth icon element, showing either a device-type icon or a default device image.

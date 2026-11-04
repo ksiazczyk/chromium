@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PluralStringHandler class declaration
+// summary: Declares the PluralStringHandler WebUI message handler that maps string names to pluralized localized string IDs.
+// ---
+
 #ifndef ASH_WEBUI_COMMON_BACKEND_PLURAL_STRING_HANDLER_H_
 #define ASH_WEBUI_COMMON_BACKEND_PLURAL_STRING_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-expand-button element implementation
+// summary: Defines the cr-expand-button Polymer element, a Chrome-specific button that toggles between expanded and collapsed states with configurable icons and accessibility handling.
+// ---
+
 /**
  * @fileoverview
  * 'cr-expand-button' is a chrome-specific wrapper around a button that toggles

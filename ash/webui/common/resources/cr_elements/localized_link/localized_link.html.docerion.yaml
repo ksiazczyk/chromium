@@ -1,0 +1,4 @@
+# Docerion header of localized_link.html.
+type: source
+title: Template and styles for the localized-link element
+summary: HTML template that defines the styling of the localized-link element and provides the container div whose inner HTML is set at runtime.

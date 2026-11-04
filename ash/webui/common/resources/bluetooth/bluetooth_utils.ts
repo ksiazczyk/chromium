@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth device utility functions
+// summary: Shared helpers for Bluetooth WebUI that resolve device names, battery percentages per battery type, and availability of default and True Wireless device images.
+// ---
+
 import type {BluetoothDeviceProperties, PairedBluetoothDeviceProperties} from '//resources/mojo/chromeos/ash/services/bluetooth_config/public/mojom/cros_bluetooth_config.mojom-webui.js';
 
 import {BatteryType} from './bluetooth_types.js';

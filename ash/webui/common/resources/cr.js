@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr namespace with property and event support
+// summary: Defines the cr object providing namespace export paths, property definition kinds, and property change event dispatch for WebUI code.
+// ---
+
 /** @typedef {{eventName: string, uid: number}} */
 // eslint-disable-next-line no-var
 var WebUIListener;

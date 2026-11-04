@@ -1,0 +1,4 @@
+# Docerion header of profile_discovery_consent_page.html.
+type: source
+title: Profile discovery consent page template
+summary: Polymer template for the eSIM setup page that asks for user consent to scan for profiles, with a skip-discovery link and network setup illustration.

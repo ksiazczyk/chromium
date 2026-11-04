@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Button bar element
+// summary: Polymer element managing cancel and forward navigation button states for the cellular setup flow.
+// ---
+
 /** Element containing navigation buttons for the Cellular Setup flow. */
 import '//resources/ash/common/cr_elements/cros_color_overrides.css.js';
 import '//resources/ash/common/cr_elements/cr_button/cr_button.js';

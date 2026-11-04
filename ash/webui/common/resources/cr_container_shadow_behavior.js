@@ -34,6 +34,12 @@
  * use it in any new code.
  */
 
+// ---docerion
+// type: source
+// title: Polymer behavior for container scroll shadows
+// summary: Adds top and optional bottom drop shadows to a scrolling container using intersection observers, deprecated in favor of the mixin version.
+// ---
+
 // clang-format off
 import {assert} from '//resources/ash/common/assert.js';
 // clang-format on

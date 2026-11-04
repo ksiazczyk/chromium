@@ -28,6 +28,12 @@
  * 3) Include the "cros-color-overrides" style module in HTML.
  */
 
+/*docerion
+type: source
+title: ChromeOS color overrides for cr-elements
+summary: Style module that plumbs ChromeOS semantic colors and fonts into cr-elements, including Jelly and Chrome Refresh 2023 overrides.
+*/
+
 :host-context([cros]) a:not(.item)[href] {
   color: var(--cros-link-color);
 }

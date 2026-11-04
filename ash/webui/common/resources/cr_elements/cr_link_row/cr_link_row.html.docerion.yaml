@@ -1,0 +1,4 @@
+# Docerion header of cr_link_row.html.
+type: source
+title: cr_link_row.html template for the cr-link-row element
+summary: HTML template defining the styles and DOM of the cr-link-row element, including start icon, label and sublabel slots, and an accessible cr-icon-button.

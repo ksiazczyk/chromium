@@ -6,6 +6,12 @@
 // still using closure compiler for type checking. New code should use
 // focus_without_ink.ts.
 
+// ---docerion
+// type: source
+// title: focusWithoutInk helper (deprecated)
+// summary: Deprecated helper that focuses an element while suppressing the Polymer ink ripple when focus was triggered by pointer input rather than the keyboard.
+// ---
+
 // clang-format off
 import {assert} from 'chrome://resources/ash/common/assert.js';
 // clang-format on

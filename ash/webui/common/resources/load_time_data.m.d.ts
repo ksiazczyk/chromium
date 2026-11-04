@@ -6,6 +6,12 @@
 // not rely on these definitions. These are checked in so that UIs in
 // transition can keep relying on load_time_data.m.js.
 
+// ---docerion
+// type: source
+// title: loadTimeData module declarations
+// summary: TypeScript declarations for load_time_data.m.js, checked in for UIs in transition that still rely on the module instead of load_time_data.ts.
+// ---
+
 // eslint-disable-next-line no-var
 export var loadTimeData: LoadTimeData;
 declare class LoadTimeData {

@@ -1,0 +1,4 @@
+# Docerion header of cr_toolbar.html.
+type: source
+title: cr-toolbar element template
+summary: HTML template with styles and markup for the cr-toolbar element, including menu button, product logo, page title, and embedded search field.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: eSIM flow UI element
+// summary: Implements the eSIM setup flow element, navigating through profile discovery, activation and confirmation code entry, and install steps while tracking flow state and result metrics.
+// ---
+
 import '//resources/polymer/v3_0/iron-pages/iron-pages.js';
 import './setup_loading_page.js';
 import './activation_code_page.js';

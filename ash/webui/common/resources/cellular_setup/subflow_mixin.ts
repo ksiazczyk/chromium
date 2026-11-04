@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subflow mixin for cellular setup
+// summary: Polymer mixin providing shared button state and navigation methods for cellular setup subflows.
+// ---
+
 /**
  * @fileoverview Polymer mixin for dealing with Cellular setup subflows.
  * It includes some methods and property shared between subflows.

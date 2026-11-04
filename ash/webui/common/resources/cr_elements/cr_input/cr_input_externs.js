@@ -7,6 +7,12 @@
  * @externs
  */
 
+// ---docerion
+// type: source
+// title: cr-input externs for JavaScript callers
+// summary: Declares a minimal CrInputElement externs API so JavaScript code that still uses the element can be type-checked.
+// ---
+
 /**
  * @constructor
  * @extends {HTMLElement}

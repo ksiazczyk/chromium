@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Confirmation code page element
+// summary: Polymer element for the eSIM setup page where the user enters a confirmation code required to install an eSIM profile.
+// ---
+
 /**
  * Page in eSIM Cellular Setup flow shown if an eSIM profile requires a
  * confirmation code to install. This element contains an input for the user to

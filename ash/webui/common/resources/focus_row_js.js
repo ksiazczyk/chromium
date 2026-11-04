@@ -6,6 +6,12 @@
 // still relies on closure compiler for typechecking. All new code should use
 // focus_row.ts.
 
+// ---docerion
+// type: source
+// title: FocusRow class for row focus management (deprecated)
+// summary: Deprecated implementation of the FocusRow class that manages keyboard focus across horizontally arranged elements within a row.
+// ---
+
 // clang-format off
 import {assert, assertInstanceof} from 'chrome://resources/ash/common/assert.js';
 import {EventTracker} from './event_tracker.js';

@@ -1,0 +1,4 @@
+# Docerion header of cr_radio_button.html.
+type: source
+title: cr-radio-button template
+summary: HTML template for the cr-radio-button element, providing the radio disc, overlay, and label wrapper markup with ARIA attributes.

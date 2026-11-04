@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrTabsElement TypeScript implementation
+// summary: Implements the cr-tabs Polymer web component for selecting tabs, including keyboard navigation, RTL support, icons, and animated selection indicator.
+// ---
+
 /**
  * @fileoverview 'cr-tabs' is a control used for selecting different sections or
  * tabs. cr-tabs was created to replace paper-tabs and paper-tab. cr-tabs

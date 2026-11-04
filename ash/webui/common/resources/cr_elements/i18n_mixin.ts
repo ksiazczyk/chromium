@@ -12,6 +12,12 @@
  * Forked from ui/webui/resources/cr_elements/i18n_mixin.ts
  */
 
+// ---docerion
+// type: source
+// title: I18n mixin for translated strings
+// summary: Polymer mixin that loads, substitutes and sanitizes internationalized strings from loadTimeData for use in computed bindings.
+// ---
+
 import {loadTimeData} from '//resources/js/load_time_data.js';
 import type {SanitizeInnerHtmlOpts} from '//resources/js/parse_html_subset.js';
 import {parseHtmlSubset, sanitizeInnerHtml} from '//resources/js/parse_html_subset.js';

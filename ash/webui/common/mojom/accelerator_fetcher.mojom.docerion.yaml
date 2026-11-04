@@ -1,0 +1,4 @@
+# Docerion header of accelerator_fetcher.mojom.
+type: source
+title: AcceleratorFetcher Mojo interfaces
+summary: Defines interfaces for WebUI frontends to fetch shortcut accelerators for actions and observe accelerator changes.

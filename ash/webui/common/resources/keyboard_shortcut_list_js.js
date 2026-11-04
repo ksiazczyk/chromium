@@ -6,6 +6,12 @@
 // still using closure compiler for type checking. New code should use
 // keyboard_shortcut_list.ts.
 
+// ---docerion
+// type: source
+// title: Deprecated keyboard shortcut matching classes
+// summary: Legacy KeyboardShortcut and KeyboardShortcutList classes for matching keyboard events, retained only for legacy JS code using Closure type checking.
+// ---
+
 /** This is used to identify keyboard shortcuts. */
 class KeyboardShortcut {
   /**

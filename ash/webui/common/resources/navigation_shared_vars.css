@@ -7,6 +7,12 @@
  * #import=chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Navigation shared CSS variables
+summary: CSS variables defining grid areas, columns, and container sizing for navigation layouts across different viewport widths.
+*/
+
 html {
   --areas-no-header-nav: 'sideNav main';
   --areas-no-header-nav-banner: 'banner banner'

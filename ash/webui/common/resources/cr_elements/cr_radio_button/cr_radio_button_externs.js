@@ -7,6 +7,12 @@
  * @externs
  */
 
+// ---docerion
+// type: source
+// title: cr-radio-button externs
+// summary: Closure compiler externs declaring the CrRadioButtonMixinInterface and the radio button element constructors for JavaScript-based callers.
+// ---
+
 /** @interface */
 class CrRadioButtonMixinInterface {
   constructor() {

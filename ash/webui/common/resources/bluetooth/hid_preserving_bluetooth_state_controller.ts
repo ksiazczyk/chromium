@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HID-preserving Bluetooth state controller accessor
+// summary: Wraps access to the HidPreservingBluetoothStateController Mojo remote and allows injecting a fake implementation for tests.
+// ---
+
 import type {HidPreservingBluetoothStateControllerInterface} from './hid_preserving_bluetooth_state_controller.mojom-webui.js';
 import {HidPreservingBluetoothStateController} from './hid_preserving_bluetooth_state_controller.mojom-webui.js';
 

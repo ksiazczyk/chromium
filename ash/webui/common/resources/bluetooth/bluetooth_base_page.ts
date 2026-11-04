@@ -7,6 +7,12 @@
  * Base template with elements common to all Bluetooth UI sub-pages.
  */
 
+// ---docerion
+// type: source
+// title: Bluetooth base page element
+// summary: TypeScript element implementing the base template shared by all Bluetooth UI sub-pages, including button bar state and focus handling.
+// ---
+
 import '//resources/polymer/v3_0/iron-flex-layout/iron-flex-layout-classes.js';
 import '//resources/polymer/v3_0/paper-progress/paper-progress.js';
 import '//resources/ash/common/cr_elements/cr_shared_vars.css.js';

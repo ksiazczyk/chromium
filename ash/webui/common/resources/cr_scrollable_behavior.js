@@ -37,6 +37,12 @@
  * it in new code.
  */
 
+// ---docerion
+// type: source
+// title: CrScrollableBehavior
+// summary: Polymer behavior that manages scrollable containers with iron-list, toggling scroll state classes; deprecated in favor of cr_scrollable_mixin.ts.
+// ---
+
 // clang-format off
 import {beforeNextRender, Polymer} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 

@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_base.json.
+type: config
+title: TypeScript base configuration
+summary: TypeScript compiler configuration extending the Chrome OS Polymer base tsconfig with additional type roots.

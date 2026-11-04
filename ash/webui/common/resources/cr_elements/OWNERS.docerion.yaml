@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code ownership rules for the cr_elements directory
+summary: Delegates ownership of cros_color_overrides.css to the ChromeOS settings OWNERS file.

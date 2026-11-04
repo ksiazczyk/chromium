@@ -6,6 +6,12 @@
  * that are still not updated to JS modules. Do not use in new code. Use
  * assert_ts and util_ts instead. */
 
+// ---docerion
+// type: source
+// title: Deprecated utils and assertion support
+// summary: Minimal assertion and DOM helpers for legacy non-JS-module code, marked as not for use in new code.
+// ---
+
 /**
  * Note: This method is deprecated. Use the equivalent method in assert_ts.ts
  * instead.

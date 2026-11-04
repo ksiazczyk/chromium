@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_pairing_device_selection_page.html.
+type: source
+title: Pairing device selection page template
+summary: HTML template for the pairing device selection page, listing discovered devices with a learn-more link and scan progress.

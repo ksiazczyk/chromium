@@ -1,0 +1,4 @@
+# Docerion header of cr_textarea.html.
+type: source
+title: cr-textarea HTML template with styles and DOM structure
+summary: HTML template for the cr-textarea Polymer component, defining its styles, label, textarea input, autogrow mirror div, underline, and footer containers.

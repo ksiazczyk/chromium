@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeMethodResolver type declarations
+// summary: Declares the FakeMethodResolver class for registering fake async methods and resolving them with set results, optionally after a delay.
+// ---
+
 declare class FakeMethodState<T = any> {
   resolveMethod(): Promise<T>;
   resolveMethodWithDelay(delayMs: number): Promise<T>;

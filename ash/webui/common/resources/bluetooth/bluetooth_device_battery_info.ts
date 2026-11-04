@@ -7,6 +7,12 @@
  * View displaying Bluetooth device battery information.
  */
 
+// ---docerion
+// type: source
+// title: Bluetooth device battery info element
+// summary: Polymer element that displays battery information for a Bluetooth device, showing battery percentages when detailed battery data is available.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_shared_style.css.js';
 import './bluetooth_battery_icon_percentage.js';
 

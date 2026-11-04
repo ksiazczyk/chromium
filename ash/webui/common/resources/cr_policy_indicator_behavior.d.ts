@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrPolicyIndicatorBehavior type declarations
+// summary: Declares the CrPolicyIndicatorType enum and the CrPolicyIndicatorBehavior interface for indicating policy-controlled settings in ChromeOS WebUI.
+// ---
+
 export enum CrPolicyIndicatorType {
   DEVICE_POLICY = 'devicePolicy',
   EXTENSION = 'extension',

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Store client mixin binding Polymer elements to a Store
+// summary: TypeScript mixin factory that binds Polymer elements to a central Store instance, providing action dispatch, state watching, and batched property updates for Chromium WebUIs.
+// ---
+
 import type {Action, DeferredAction, Store} from '//resources/js/store.js';
 import type {PolymerElement} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import {dedupingMixin} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';

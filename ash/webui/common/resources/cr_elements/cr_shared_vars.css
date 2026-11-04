@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Common CSS variables for Material Design WebUI
+summary: Declares the Google color palette and shared CSS custom variables used across Material Design WebUI elements, with light and dark scheme values.
+*/
+
 /* Common css variables for Material Design WebUI */
 html {
   --google-blue-50-rgb: 232, 240, 254;  /* #e8f0fe */

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Webcam frame capture utilities
+// summary: Utility module for webcam capture that captures frames from a video element onto canvases, stops media tracks, and defines default front-facing camera constraints.
+// ---
+
 import {convertImageSequenceToPng, convertImageSequenceToPngBinary} from './png.js';
 
 /**

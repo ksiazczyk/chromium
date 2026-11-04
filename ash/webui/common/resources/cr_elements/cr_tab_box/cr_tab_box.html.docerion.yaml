@@ -1,0 +1,4 @@
+# Docerion header of cr_tab_box.html.
+type: source
+title: cr-tab-box HTML template and styles
+summary: HTML template for the cr-tab-box element, defining its tab list and panel slots plus styling for selected, hovered, and focus states.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth pairing UI types and enums
+// summary: Defines enums and interfaces for button states, pairing authentication types, device item states and battery types used by the pairing UI.
+// ---
+
 export enum ButtonState {
   ENABLED = 1,
   DISABLED = 2,

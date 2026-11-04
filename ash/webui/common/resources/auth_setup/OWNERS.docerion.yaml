@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for auth_setup
+summary: Points to the login lock OWNERS list that governs ownership of the auth_setup resources directory.

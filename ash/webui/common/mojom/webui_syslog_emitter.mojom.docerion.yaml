@@ -1,0 +1,4 @@
+# Docerion header of webui_syslog_emitter.mojom.
+type: source
+title: WebUiSyslogEmitter Mojo interface
+summary: Defines an interface for WebUIs to send log messages to the browser, where they are emitted as SYSLOG entries.

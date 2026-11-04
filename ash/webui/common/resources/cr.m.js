@@ -5,6 +5,12 @@
 // This file is a wrapper around cr.ts as a workaround for the closure compiler.
 // Do not use in TypeScript code, use ui/webui/resources/js/cr.ts directly.
 
+// ---docerion
+// type: source
+// title: Closure compiler wrapper around cr.ts
+// summary: Re-exports WebUI messaging functions from cr.js as a Closure compiler workaround and should not be used in new TypeScript code.
+// ---
+
 import {addWebUiListener as crAddWebUiListener, removeWebUiListener as crRemoveWebUiListener, sendWithPromise as crSendWithPromise, webUIListenerCallback as crWebUIListenerCallback, webUIResponse as crWebUIResponse} from '//resources/js/cr.js';
 
 /** @typedef {{eventName: string, uid: number}} */

@@ -1,0 +1,4 @@
+# Docerion header of cr_toast.html.
+type: source
+title: cr-toast element template
+summary: HTML template for the cr-toast element, defining its fixed-position styling, theming variables, transitions, and slotted button appearance.

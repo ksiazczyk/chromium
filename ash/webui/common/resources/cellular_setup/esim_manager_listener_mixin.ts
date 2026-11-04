@@ -7,6 +7,12 @@
  * events.
  */
 
+// ---docerion
+// type: source
+// title: ESimManager listener mixin
+// summary: Polymer mixin that lets elements observe ESimManagerObserver events such as EUICC and profile list changes.
+// ---
+
 import type {ESimManagerObserver, ESimProfileRemote, EuiccRemote} from '//resources/mojo/chromeos/ash/services/cellular_setup/public/mojom/esim_manager.mojom-webui.js';
 import type {PolymerElement} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import {dedupingMixin} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';

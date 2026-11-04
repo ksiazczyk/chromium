@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-checkbox WebUI component implementation
+// summary: TypeScript implementation of the cr-checkbox Polymer element, which fires change events only on user interaction and supports checked and disabled states, ARIA attributes, and ripple behavior.
+// ---
+
 /**
  * @fileoverview 'cr-checkbox' is a component similar to native checkbox.
  *

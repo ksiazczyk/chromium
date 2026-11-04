@@ -19,6 +19,12 @@
  * ui/webui/resources/cr_elements/cr_lazy_render/cr_lazy_render.ts
  */
 
+// ---docerion
+// type: source
+// title: cr-lazy-render element for lazy template rendering
+// summary: Defines the cr-lazy-render Polymer web component that lazily stamps a template into the DOM and gives imperative access to the rendered child element.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 import type {TemplateInstanceBase} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import {html, PolymerElement, templatize} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';

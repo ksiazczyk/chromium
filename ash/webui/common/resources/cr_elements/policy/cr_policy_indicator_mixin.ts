@@ -10,6 +10,12 @@
  * ui/webui/resources/cr_elements/policy/cr_policy_indicator_mixin.ts
  */
 
+// ---docerion
+// type: source
+// title: CrPolicyIndicatorMixin
+// summary: Mixin defining policy indicator types, required CrPolicyStrings, and shared computed properties such as visibility, icon, and tooltip for indicators.
+// ---
+
 import {assertNotReached} from '//resources/js/assert.js';
 import type {PolymerElement} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import {dedupingMixin} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';

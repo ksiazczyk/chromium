@@ -1,0 +1,4 @@
+# Docerion header of cr_lottie.html.
+type: source
+title: cr-lottie HTML template with canvas element
+summary: HTML template for the cr-lottie element that styles a full-size canvas used to render Lottie animations.

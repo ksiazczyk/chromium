@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Activation verification page element
+// summary: Polymer element displayed while the activation code is being verified and an eSIM profile is installed.
+// ---
+
 /**
  * This page is displayed when the activation code is being verified, and
  * an ESim profile is being installed.

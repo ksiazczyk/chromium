@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_base_page.html.
+type: source
+title: Bluetooth base page template
+summary: Polymer template for the base Bluetooth pairing page with title, scan progress bar, and cancel/pair button bar.

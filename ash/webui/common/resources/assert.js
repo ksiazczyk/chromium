@@ -6,6 +6,12 @@
  * @fileoverview Assertion support.
  */
 
+// ---docerion
+// type: source
+// title: Assertion helpers for WebUI JavaScript
+// summary: Exports assert, assertNotReached, and assertInstanceof helpers for JavaScript code, deprecated in favor of the TypeScript assert implementation.
+// ---
+
 /**
  * Note: This method is deprecated. Use the equvalent method in assert_ts.ts
  * instead.

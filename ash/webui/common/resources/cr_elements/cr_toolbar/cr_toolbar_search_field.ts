@@ -5,6 +5,12 @@
 // Forked from
 // ui/webui/resources/cr_elements/cr_toolbar/cr_toolbar_search_field.ts
 
+// ---docerion
+// type: source
+// title: CrToolbarSearchFieldElement web component
+// summary: Defines the cr-toolbar-search-field element, extending the search field mixin with focus handling, spinner display, and search clearing.
+// ---
+
 import '../cr_icon_button/cr_icon_button.js';
 import '../cr_icons.css.js';
 import '../icons.html.js';

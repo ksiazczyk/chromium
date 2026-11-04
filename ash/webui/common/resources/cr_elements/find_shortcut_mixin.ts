@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Find shortcut mixin for WebUI elements
+// summary: Polymer mixin and manager that track a stack of listeners for the Ctrl/Cmd+F or / find shortcut and notify only the active listener.
+// ---
+
 import {assert, assertNotReached} from '//resources/js/assert.js';
 import {KeyboardShortcutList} from '//resources/js/keyboard_shortcut_list.js';
 import {isMac} from '//resources/js/platform.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrLinkRowElement Polymer element implementation
+// summary: Defines the cr-link-row Polymer element, a full-row clickable link with label, sublabel, start icon, and external-link behavior, forked from ui/webui/resources.
+// ---
+
 /**
  * @fileoverview
  * A link row is a UI element similar to a button, though usually wider than a

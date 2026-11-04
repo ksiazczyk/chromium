@@ -7,6 +7,12 @@
  * @externs
  */
 
+// ---docerion
+// type: source
+// title: Closure externs for cr-toolbar-search-field
+// summary: Minimal Closure compiler externs describing the cr-toolbar-search-field API for code that still uses JavaScript instead of TypeScript.
+// ---
+
 /** @interface */
 function CrSearchFieldMixinInterface() {}
 

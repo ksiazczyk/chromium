@@ -1,0 +1,4 @@
+# Docerion header of auth_setup_icons.html.
+type: source
+title: Auth setup icon set
+summary: Defines the auth-setup iron icon set with visibility and visibility-off SVG icons used by the password input UI.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML subset parser and sanitizer for WebUI
+// summary: Parses a restricted subset of HTML with tag and attribute allow-lists and provides Trusted Types-based sanitizing for innerHTML use.
+// ---
+
 import {assert, assertNotReached} from './assert.js';
 
 /**

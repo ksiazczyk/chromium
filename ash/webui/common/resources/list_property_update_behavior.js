@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: List property update Polymer behavior
+// summary: Deprecated Polymer behavior that applies minimal splices to list properties so bound lists avoid full re-render, superseded by list_property_update_mixin.ts.
+// ---
+
 import {calculateSplices} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 
 /**

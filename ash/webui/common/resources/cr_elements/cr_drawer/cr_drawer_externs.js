@@ -7,6 +7,12 @@
  * @externs
  */
 
+// ---docerion
+// type: source
+// title: CrDrawerElement externs for JavaScript callers
+// summary: Provides a minimal Closure externs declaration of the cr-drawer API for code that still uses JavaScript instead of TypeScript.
+// ---
+
 /**
  * @constructor
  * @extends {HTMLElement}

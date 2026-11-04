@@ -1,0 +1,4 @@
+# Docerion header of activation_code_page.html.
+type: source
+title: Activation code page template
+summary: HTML template with styles and markup for the eSIM activation code page, including QR code scanning UI.

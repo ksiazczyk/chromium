@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUiSyslogEmitter implementation
+// summary: Implements the mojo WebUiSyslogEmitter handler that writes prefixed messages received from a WebUI to the system log.
+// ---
+
 #include "ash/webui/common/backend/webui_syslog_emitter.h"
 
 #include <string>

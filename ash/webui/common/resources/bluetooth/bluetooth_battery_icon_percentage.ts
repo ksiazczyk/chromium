@@ -9,6 +9,12 @@
  * type.
  */
 
+// ---docerion
+// type: source
+// title: Bluetooth battery icon percentage element
+// summary: TypeScript element that renders a dynamically colored battery icon and percentage for a given device and battery type.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_shared_style.css.js';
 import './bluetooth_icons.html.js';
 

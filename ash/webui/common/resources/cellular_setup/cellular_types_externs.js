@@ -7,6 +7,12 @@
  * @externs
  */
 
+// ---docerion
+// type: source
+// title: Cellular setup page name externs
+// summary: Closure externs declaring the CellularSetupPageName enum for code that still uses JavaScript instead of TypeScript.
+// ---
+
 /** @enum {string} */
 const CellularSetupPageName = {
   ESIM_FLOW_UI: 'esim-flow-ui',

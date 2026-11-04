@@ -1,0 +1,4 @@
+# Docerion header of cr_input.html.
+type: source
+title: cr-input component HTML template
+summary: HTML template for the cr-input web component, defining its layout, slot handling, error message display, and theming rules.

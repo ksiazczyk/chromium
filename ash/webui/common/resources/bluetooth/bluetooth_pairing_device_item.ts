@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pairing device item element
+// summary: Polymer element representing a discovered Bluetooth device in the pairing list, initiating pairing when selected.
+// ---
+
 /**
  * @fileoverview
  * UI element to show a list of discovered Bluetooth devices and initiate

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ShortcutInputProvider unit tests
+// summary: Unit tests for ShortcutInputProvider covering shortcut event forwarding, function key handling, and accelerator blocking behavior.
+// ---
+
 #include "ash/webui/common/backend/shortcut_input_provider.h"
 
 #include <memory>

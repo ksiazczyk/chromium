@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrosBluetoothConfig accessor wrapper
+// summary: Wraps access to the CrosBluetoothConfig Mojo remote and allows injecting a fake implementation for tests.
+// ---
+
 import type {CrosBluetoothConfigInterface} from '//resources/mojo/chromeos/ash/services/bluetooth_config/public/mojom/cros_bluetooth_config.mojom-webui.js';
 import {CrosBluetoothConfig} from '//resources/mojo/chromeos/ash/services/bluetooth_config/public/mojom/cros_bluetooth_config.mojom-webui.js';
 

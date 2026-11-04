@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessibilityFeatures implementation
+// summary: Implements AccessibilityFeatures, tracking the force hidden elements visible state and notifying WebUI observers when accessibility status changes.
+// ---
+
 #include "ash/webui/common/backend/accessibility_features.h"
 
 #include <utility>

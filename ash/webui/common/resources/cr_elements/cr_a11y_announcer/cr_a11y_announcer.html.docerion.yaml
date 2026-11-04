@@ -1,0 +1,4 @@
+# Docerion header of cr_a11y_announcer.html.
+type: source
+title: CrA11yAnnouncer element HTML template
+summary: HTML template for the cr-a11y-announcer element, rendering a visually hidden live region with role alert used to announce messages to screen readers.

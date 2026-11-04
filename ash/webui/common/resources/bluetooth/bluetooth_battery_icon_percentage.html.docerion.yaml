@@ -1,0 +1,4 @@
+# Docerion header of bluetooth_battery_icon_percentage.html.
+type: source
+title: Bluetooth battery icon percentage template
+summary: Polymer template showing a battery icon and percentage string with styling for low battery and multiple battery cases.

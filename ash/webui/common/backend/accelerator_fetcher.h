@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AcceleratorFetcher class declaration
+// summary: Declares the AcceleratorFetcher class, which observes accelerator configuration changes and exposes accelerators and meta key info to WebUI clients.
+// ---
+
 #ifndef ASH_WEBUI_COMMON_BACKEND_ACCELERATOR_FETCHER_H_
 #define ASH_WEBUI_COMMON_BACKEND_ACCELERATOR_FETCHER_H_
 

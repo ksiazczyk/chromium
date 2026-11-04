@@ -7,6 +7,12 @@
  * @externs
  */
 
+// ---docerion
+// type: source
+// title: cr-action-menu externs for JavaScript callers
+// summary: Closure externs declaring the CrActionMenuElement API and the ShowAtConfig typedef for places in the code that still use JavaScript instead of TypeScript.
+// ---
+
 /**
  * @typedef {{
  *   top: (number|undefined),

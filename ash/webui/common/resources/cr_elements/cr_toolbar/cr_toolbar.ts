@@ -4,6 +4,12 @@
 
 // Forked from ui/webui/resources/cr_elements/cr_toolbar/cr_toolbar.ts
 
+// ---docerion
+// type: source
+// title: CrToolbarElement web component
+// summary: Defines the cr-toolbar Polymer element with properties for page name, search prompt, menu visibility, and narrow-mode layout handling.
+// ---
+
 import '../cr_icon_button/cr_icon_button.js';
 import '../cr_icons.css.js';
 import '../cr_hidden_style.css.js';

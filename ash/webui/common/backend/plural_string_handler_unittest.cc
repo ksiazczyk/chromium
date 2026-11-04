@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PluralStringHandler unit tests
+// summary: Tests plural and singular string lookups and the handling of invalid plural string requests for the PluralStringHandler.
+// ---
+
 #include "ash/webui/common/backend/plural_string_handler.h"
 
 #include <memory>

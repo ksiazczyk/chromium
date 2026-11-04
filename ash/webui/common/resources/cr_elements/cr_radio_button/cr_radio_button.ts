@@ -5,6 +5,12 @@
 // Forked from
 // ui/webui/resources/cr_elements/cr_radio_button/cr_radio_button.ts
 
+// ---docerion
+// type: source
+// title: cr-radio-button element
+// summary: TypeScript module defining the cr-radio-button custom element, combining the radio button mixin with paper ripple behavior.
+// ---
+
 import '../cr_hidden_style.css.js';
 import '../cr_shared_vars.css.js';
 import './cr_radio_button_style.css.js';

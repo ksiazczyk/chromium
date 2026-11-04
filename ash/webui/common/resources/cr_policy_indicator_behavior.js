@@ -8,6 +8,12 @@
  * rework the "policy" naming scheme throughout this directory.
  */
 
+// ---docerion
+// type: source
+// title: CrPolicyIndicatorBehavior
+// summary: Polymer behavior that shows icons and tooltips for settings controlled by policy, extension, owner, primary user, or parent/child restrictions.
+// ---
+
 import {assertNotReached} from '//resources/ash/common/assert.js';
 
 /**

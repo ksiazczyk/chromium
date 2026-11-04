@@ -4,6 +4,12 @@
 
 // Forked from ui/webui/resources/cr_elements/policy/cr_tooltip_icon.ts
 
+// ---docerion
+// type: source
+// title: cr-tooltip-icon element
+// summary: Polymer element displaying an icon with an accessible hover tooltip and a configurable tooltip position, defaulting to top.
+// ---
+
 import '../icons.html.js';
 import '../cr_shared_style.css.js';
 import '../cr_shared_vars.css.js';

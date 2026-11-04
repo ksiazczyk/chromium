@@ -7,6 +7,12 @@
  * @externs
  */
 
+// ---docerion
+// type: source
+// title: CrDialogElement externs declarations
+// summary: Provides minimal extern declarations for CrDialogElement so JavaScript code that still uses the dialog component can be type-checked.
+// ---
+
 /**
  * @constructor
  * @extends {HTMLElement}

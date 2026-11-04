@@ -44,6 +44,12 @@
  * Forked from ui/webui/resources/cr_elements/cr_auto_img/cr_auto_img.ts
  */
 
+// ---docerion
+// type: source
+// title: cr-auto-img WebUI image element
+// summary: Custom image element for Chromium WebUIs that loads local images directly and routes external ones through the browser's image data source, with attributes for Google Photos tokens, static encoding, and clearing while loading.
+// ---
+
 const AUTO_SRC: string = 'auto-src';
 
 const CLEAR_SRC: string = 'clear-src';

@@ -4,6 +4,12 @@
 
 // Forked from ui/webui/resources/cr_elements/cr_action_menu/cr_action_menu.ts
 
+// ---docerion
+// type: source
+// title: cr-action-menu element implementation
+// summary: TypeScript source for the CrActionMenuElement Polymer component that opens, closes and positions a dialog-based action menu relative to an anchor with alignment and bounds handling.
+// ---
+
 import '../cr_shared_vars.css.js';
 
 import {assert} from '//resources/js/assert.js';

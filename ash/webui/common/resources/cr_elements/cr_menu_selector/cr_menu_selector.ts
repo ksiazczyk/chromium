@@ -5,6 +5,12 @@
 // Forked from
 // ui/webui/resources/cr_elements/cr_menu_selector/cr_menu_selector.ts
 
+// ---docerion
+// type: source
+// title: CrMenuSelector web component
+// summary: TypeScript source for the cr-menu-selector element, a Polymer-based menu that manages selectable menu items, keyboard navigation, focus handling, and aria-current state.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 import {FocusOutlineManager} from '//resources/js/focus_outline_manager.js';
 import {IronSelectableBehavior} from '//resources/polymer/v3_0/iron-selector/iron-selectable.js';

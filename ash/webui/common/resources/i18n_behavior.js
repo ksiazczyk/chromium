@@ -12,6 +12,12 @@
  * code.
  */
 
+// ---docerion
+// type: source
+// title: I18nBehavior for localized strings (deprecated)
+// summary: Deprecated Polymer behavior that loads and substitutes internationalization strings, with HTML sanitization and dynamic locale change support.
+// ---
+
 import {loadTimeData} from '//resources/ash/common/load_time_data.m.js';
 
 import {parseHtmlSubset, sanitizeInnerHtml, SanitizeInnerHtmlOpts} from './parse_html_subset.js';

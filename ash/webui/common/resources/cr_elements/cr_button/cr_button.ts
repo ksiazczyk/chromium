@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: cr-button custom element implementation
+// summary: Implements the cr-button Polymer element, handling click and keyboard activation, paper ripple effects, disabled state, and icon slots.
+// ---
+
 /**
  * @fileoverview 'cr-button' is a button which displays slotted elements. It can
  * be interacted with like a normal button using click as well as space and
