@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient photo cache header
+// summary: Declares the ambient_photo_cache API for downloading, writing, reading, and clearing photo cache entries across primary and backup stores.
+// relations:
+//   - depends_on /ash/ambient/ambient_access_token_controller.h
+// ---
+
 #ifndef ASH_AMBIENT_AMBIENT_PHOTO_CACHE_H_
 #define ASH_AMBIENT_AMBIENT_PHOTO_CACHE_H_
 

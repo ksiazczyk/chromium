@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Time of Day utilities
+// summary: Tests resolving the ambient video HTML path through a fake DLC service client, covering successful installs and install errors.
+// relations:
+//   - tests /ash/ambient/util/time_of_day_utils.h
+//   - depends_on /ash/public/cpp/personalization_app/time_of_day_test_utils.h
+//   - depends_on /base/files/file_path.h
+// ---
+
 #include "ash/ambient/util/time_of_day_utils.h"
 
 #include <utility>

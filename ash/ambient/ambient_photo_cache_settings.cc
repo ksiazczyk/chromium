@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient photo cache settings implementation
+// summary: Defines the primary and backup photo cache root directory paths and provides test-only overrides for them.
+// relations:
+//   - implements /ash/ambient/ambient_photo_cache_settings.h
+//   - depends_on /ash/ambient/ambient_constants.h
+//   - depends_on /base/check_is_test.h
+// ---
+
 #include "ash/ambient/ambient_photo_cache_settings.h"
 
 #include <utility>

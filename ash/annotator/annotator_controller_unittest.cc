@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Annotator controller unit tests
+// summary: Unit tests covering annotator tool selection, tray registration across displays, marker color metrics and accessibility behavior of the annotator controller.
+// relations:
+//   - tests /ash/annotator/annotator_controller.h
+//   - depends_on /ash/annotator/annotation_tray.h
+//   - depends_on /ash/annotator/annotator_metrics.h
+// ---
+
 #include "ash/annotator/annotator_controller.h"
 
 #include "ash/annotator/annotation_tray.h"

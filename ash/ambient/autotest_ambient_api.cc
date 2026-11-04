@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autotest ambient API implementation
+// summary: Implements the autotest API for ambient mode, including helpers that wait for photo transition animations and video playback to start.
+// relations:
+//   - implements /ash/public/cpp/autotest_ambient_api.h
+//   - depends_on /ash/ambient/ambient_controller.h
+//   - depends_on /ash/ambient/model/ambient_photo_config.h
+// ---
+
 #include "ash/public/cpp/autotest_ambient_api.h"
 
 #include <utility>

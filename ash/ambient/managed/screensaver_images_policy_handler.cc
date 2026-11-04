@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screensaver images policy handler implementation
+// summary: Implements handling of the managed screensaver image policy, resolving cache paths and URL loader factories per session type.
+// relations:
+//   - depends_on /ash/ambient/managed/screensaver_images_policy_handler.h
+//   - depends_on /ash/constants/ash_paths.h
+//   - depends_on /ash/public/cpp/ambient/ambient_client.h
+// ---
+
 #include "ash/ambient/managed/screensaver_images_policy_handler.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient view ID enum
+// summary: Defines an enum of view IDs for the views composing the Ambient UI, intended for easy view access during unit tests.
+// ---
+
 #ifndef ASH_AMBIENT_UI_AMBIENT_VIEW_IDS_H_
 #define ASH_AMBIENT_UI_AMBIENT_VIEW_IDS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the managed screensaver folder
+summary: Specifies the Buganizer component and owning team email for the ash/ambient/managed directory.

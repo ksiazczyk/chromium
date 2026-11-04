@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Ambient mode include rules
+summary: Specifies allowed include dependencies and per-file exceptions for the ash ambient directory.

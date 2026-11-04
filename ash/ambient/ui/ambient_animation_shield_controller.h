@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AmbientAnimationShieldController header
+// summary: Declares AmbientAnimationShieldController, a ColorModeObserver that toggles a dark-mode shield view in the ambient UI view hierarchy.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/style/color_mode_observer.h
+//   - depends_on /ash/style/dark_light_mode_controller_impl.h
+// ---
+
 #ifndef ASH_AMBIENT_UI_AMBIENT_ANIMATION_SHIELD_CONTROLLER_H_
 #define ASH_AMBIENT_UI_AMBIENT_ANIMATION_SHIELD_CONTROLLER_H_
 

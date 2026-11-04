@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient animation attribution transformer implementation
+// summary: Implements coordinate translation that repositions the Lottie attribution text box so its bottom-right sits 24 dip from the view's bottom-right.
+// relations:
+//   - depends_on /ash/ambient/ui/ambient_animation_attribution_transformer.h
+//   - implements /ash/ambient/ui/ambient_animation_attribution_transformer.h
+//   - depends_on /ash/utility/lottie_util.h
+// ---
+
 #include "ash/ambient/ui/ambient_animation_attribution_transformer.h"
 
 #include <string>

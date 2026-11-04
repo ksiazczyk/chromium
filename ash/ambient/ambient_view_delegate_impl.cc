@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AmbientViewDelegateImpl implementation
+// summary: Implements the ambient view delegate, exposing backend and weather models and notifying observers of marker hits.
+// relations:
+//   - implements /ash/ambient/ambient_view_delegate_impl.h
+//   - depends_on /ash/ambient/ambient_controller.h
+//   - depends_on /ash/ambient/model/ambient_backend_model.h
+// ---
+
 #include "ash/ambient/ambient_view_delegate_impl.h"
 
 #include "ash/ambient/ambient_controller.h"

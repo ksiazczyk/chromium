@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the managed screensaver folder
+summary: Lists the owner responsible for reviewing changes in the ash/ambient/managed directory.

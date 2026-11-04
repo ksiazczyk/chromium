@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ambient animation frame rate schedule unit tests
+// summary: Unit tests verifying section containment and intersection behavior and schedule construction from throttling markers, including adjacent, missing, full, and intersecting marker cases.
+// relations:
+//   - tests /ash/ambient/ui/ambient_animation_frame_rate_schedule.h
+//   - depends_on /base/time/time.h
+//   - depends_on /cc/paint/skottie_marker.h
+// ---
+
 #include "ash/ambient/ui/ambient_animation_frame_rate_schedule.h"
 
 #include <vector>

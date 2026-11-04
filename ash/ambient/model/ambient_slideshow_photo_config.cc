@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient slideshow photo config factory
+// summary: Provides factory functions that build AmbientPhotoConfig instances for the standard and managed full-screen slideshow ambient UIs.
+// relations:
+//   - implements /ash/ambient/model/ambient_slideshow_photo_config.h
+// ---
+
 #include "ash/ambient/model/ambient_slideshow_photo_config.h"
 
 namespace ash {

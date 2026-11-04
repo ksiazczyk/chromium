@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AmbientUiSettings
+// summary: Unit tests covering default settings, pref management, customization IDs, and Time of Day feature behavior for AmbientUiSettings.
+// relations:
+//   - tests /ash/ambient/ambient_ui_settings.h
+//   - depends_on /ash/ambient/ambient_constants.h
+//   - depends_on /ash/ambient/util/time_of_day_utils.h
+// ---
+
 #include "ash/ambient/ambient_ui_settings.h"
 
 #include "ash/ambient/ambient_constants.h"

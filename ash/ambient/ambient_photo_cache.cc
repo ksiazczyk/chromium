@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient photo cache implementation
+// summary: Implements downloading and persisting Ambient mode photos to on-device cache files, including network requests with a traffic annotation and disk space checks.
+// relations:
+//   - implements /ash/ambient/ambient_photo_cache.h
+//   - depends_on /ash/ambient/ambient_access_token_controller.h
+//   - depends_on /ash/ambient/ambient_constants.h
+// ---
+
 #include "ash/ambient/ambient_photo_cache.h"
 
 #include <fstream>

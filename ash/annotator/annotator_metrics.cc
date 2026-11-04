@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Annotator marker color metrics implementation
+// summary: Implements UMA histogram recording for annotator marker colors, appending a tablet or clamshell mode suffix to the histogram name.
+// relations:
+//   - implements /ash/annotator/annotator_metrics.h
+//   - depends_on /ash/shell.h
+//   - depends_on /base/metrics/histogram_functions.h
+// ---
+
 #include "ash/annotator/annotator_metrics.h"
 
 #include "ash/shell.h"

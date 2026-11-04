@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the ambient animation frame rate controller
+// summary: Tests frame rate throttling behavior using a test Skottie wrapper with custom markers and Ash test infrastructure.
+// relations:
+//   - tests /ash/ambient/ui/ambient_animation_frame_rate_controller.h
+//   - depends_on /ash/test/ash_test_base.h
+//   - depends_on /cc/paint/skottie_wrapper.h
+// ---
+
 #include "ash/ambient/ui/ambient_animation_frame_rate_controller.h"
 
 #include <cstdint>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screensaver images policy handler class declaration
+// summary: Declares ScreensaverImagesPolicyHandler, which observes the managed screensaver image policy and drives image downloads.
+// relations:
+//   - depends_on /ash/ambient/managed/screensaver_image_downloader.h
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/files/file_path.h
+// ---
+
 #ifndef ASH_AMBIENT_MANAGED_SCREENSAVER_IMAGES_POLICY_HANDLER_H_
 #define ASH_AMBIENT_MANAGED_SCREENSAVER_IMAGES_POLICY_HANDLER_H_
 

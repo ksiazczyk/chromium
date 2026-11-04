@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Ambient mode directory owners
+summary: Lists the reviewer queue and code owners for changes in the ambient mode directory.

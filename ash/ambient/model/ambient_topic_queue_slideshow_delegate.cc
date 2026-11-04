@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AmbientTopicQueueSlideshowDelegate implementation
+// summary: Implements GetTopicSizes by returning the landscape display size of the ambient mode container to avoid unnecessary scaling of portrait photos.
+// relations:
+//   - implements /ash/ambient/model/ambient_topic_queue_slideshow_delegate.h
+//   - depends_on /ash/public/cpp/shell_window_ids.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/ambient/model/ambient_topic_queue_slideshow_delegate.h"
 
 #include <algorithm>

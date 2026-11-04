@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Annotation source watcher header
+// summary: Declares the AnnotationSourceWatcher class that observes annotation sources such as capture mode and Projector sessions and forwards events to the annotator controller.
+// relations:
+//   - depends_on /ash/capture_mode/capture_mode_controller.h
+//   - depends_on /ash/capture_mode/capture_mode_observer.h
+//   - depends_on /ash/public/cpp/projector/projector_session.h
+// ---
+
 #ifndef ASH_ANNOTATOR_ANNOTATION_SOURCE_WATCHER_H_
 #define ASH_ANNOTATOR_ANNOTATION_SOURCE_WATCHER_H_
 

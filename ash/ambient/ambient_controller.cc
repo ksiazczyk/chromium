@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient controller implementation
+// summary: Implements AmbientController, coordinating session, power, lock screen, fingerprint, and user activity events to launch and manage ambient mode UI.
+// relations:
+//   - implements /ash/ambient/ambient_controller.h
+// ---
+
 #include "ash/ambient/ambient_controller.h"
 
 #include <algorithm>

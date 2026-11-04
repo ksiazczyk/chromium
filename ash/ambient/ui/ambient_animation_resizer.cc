@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient animation resizer implementation
+// summary: Implements resizing of an AnimatedImageView's lottie animation to fill the view bounds by scaling to the width and center-cropping the height, with optional jitter padding.
+// relations:
+//   - implements /ash/ambient/ui/ambient_animation_resizer.h
+//   - depends_on /base/check.h
+//   - depends_on /base/logging.h
+// ---
+
 #include "ash/ambient/ui/ambient_animation_resizer.h"
 
 #include "base/check.h"

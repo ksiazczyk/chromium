@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ambient animation background color
+// summary: Checks that GetAnimationBackgroundColor picks the background_solid color node from test Lottie data with two color nodes.
+// relations:
+//   - tests /ash/ambient/ui/ambient_animation_background_color.h
+//   - depends_on /cc/test/lottie_test_data.h
+// ---
+
 #include "ash/ambient/ui/ambient_animation_background_color.h"
 
 #include "base/memory/scoped_refptr.h"

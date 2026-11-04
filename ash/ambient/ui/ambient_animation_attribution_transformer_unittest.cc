@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the ambient animation attribution transformer
+// summary: Verifies that attribution text box coordinates are transformed correctly for views smaller than the animation and other layout cases.
+// relations:
+//   - tests /ash/ambient/ui/ambient_animation_attribution_transformer.h
+//   - depends_on /ash/ambient/ui/ambient_animation_attribution_transformer.h
+//   - depends_on /ash/ambient/test/ambient_test_util.h
+// ---
+
 #include "ash/ambient/ui/ambient_animation_attribution_transformer.h"
 
 #include <memory>

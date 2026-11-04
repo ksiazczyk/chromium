@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed photo controller class declaration
+// summary: Declares AmbientManagedPhotoController, a barebones controller that takes policy-set image file paths and feeds them one by one into the backend model.
+// relations:
+//   - depends_on /ash/ambient/model/ambient_backend_model.h
+//   - depends_on /ash/ambient/model/ambient_photo_config.h
+//   - depends_on /ash/ambient/ui/ambient_view_delegate.h
+// ---
+
 #ifndef ASH_AMBIENT_AMBIENT_MANAGED_PHOTO_CONTROLLER_H_
 #define ASH_AMBIENT_AMBIENT_MANAGED_PHOTO_CONTROLLER_H_
 

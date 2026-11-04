@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Jitter calculator unit tests
+// summary: Tests that jitter translations honor the configured step size and min/max bounds, including zero-configuration cases.
+// relations:
+//   - tests /ash/ambient/ui/jitter_calculator.h
+//   - depends_on /ash/public/cpp/ambient/ambient_ui_model.h
+//   - depends_on /base/functional/bind.h
+// ---
+
 #include "ash/ambient/ui/jitter_calculator.h"
 
 #include <limits>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient animation UI launcher class declaration
+// summary: Declares the launcher for animated ambient themes such as Feel the Breeze and Float On By.
+// relations:
+//   - depends_on /ash/ambient/ambient_photo_controller.h
+//   - implements /ash/ambient/ambient_ui_launcher.h
+//   - depends_on /ash/ambient/ambient_ui_settings.h
+// ---
+
 #ifndef ASH_AMBIENT_AMBIENT_ANIMATION_UI_LAUNCHER_H_
 #define ASH_AMBIENT_AMBIENT_ANIMATION_UI_LAUNCHER_H_
 

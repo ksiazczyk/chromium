@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PhotoView unit tests
+// summary: Unit tests for the ambient mode photo view, covering photo refresh cycles and image scaling or tiling on portrait and landscape screens.
+// relations:
+//   - tests /ash/ambient/ui/photo_view.h
+//   - depends_on /ash/ambient/ambient_constants.h
+//   - depends_on /ash/ambient/ambient_controller.h
+// ---
+
 #include "ash/ambient/ui/photo_view.h"
 
 #include "ash/ambient/ambient_constants.h"

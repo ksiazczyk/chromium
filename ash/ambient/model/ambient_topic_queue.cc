@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AmbientTopicQueue implementation
+// summary: Implements AmbientTopicQueue, including pairing and splitting of topics, retry backoff for fetching topics from the IMAX server, and automatic queue refill logic.
+// relations:
+//   - depends_on /ash/ambient/model/ambient_topic_queue.h
+//   - depends_on /ash/ambient/ambient_constants.h
+//   - depends_on /ash/public/cpp/shell_window_ids.h
+// ---
+
 #include "ash/ambient/model/ambient_topic_queue.h"
 
 #include <algorithm>

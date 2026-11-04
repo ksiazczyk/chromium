@@ -1,3 +1,11 @@
+---
+type: readme
+title: Ambient mode resources overview
+summary: Explains that ash ambient mode Lottie resources live in an internal CIPD package fetched via gclient and how UX deliveries are uploaded and integrated into the build.
+relations:
+  - documents /ash/ambient/resources/cipd.yaml
+---
+
 Contains ash resources for ambient mode. The main resources currently are Lottie
 animation files and their respective image assets for ash's animated
 screensaver. These resources reside in an internal CIPD package and are

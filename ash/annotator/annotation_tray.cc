@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Annotation tray implementation
+// summary: Implements the status area tray that gives access to annotation tools, including the pen color selection bubble and toggling the annotator on and off.
+// relations:
+//   - implements /ash/annotator/annotation_tray.h
+//   - depends_on /ash/annotator/annotator_controller.h
+//   - depends_on /ash/constants/ash_pref_names.h
+// ---
+
 #include "ash/annotator/annotation_tray.h"
 
 #include "ash/annotator/annotator_controller.h"

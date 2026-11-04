@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient mode utility implementations
+// summary: Implements Ash ambient mode helpers for lock screen checks, ambient-specific colors and fonts, text shadows, topic type filtering, and dynamic Lottie asset ID parsing.
+// relations:
+//   - implements /ash/ambient/util/ambient_util.h
+//   - depends_on /ash/ambient/ambient_constants.h
+//   - depends_on /ash/constants/ash_features.h
+// ---
+
 #include "ash/ambient/util/ambient_util.h"
 
 #include <string_view>

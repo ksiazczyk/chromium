@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Ambient mode common metadata
+summary: Defines the Buganizer component ID for the ChromeOS ambient mode directory.

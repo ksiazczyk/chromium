@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AmbientAnimationStaticResources class interface
+// summary: Declares the class that loads the Lottie animation and static image assets for a given AmbientUiSettings, loading each resource only once internally.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/containers/flat_map.h
+//   - depends_on /base/memory/scoped_refptr.h
+// ---
+
 #ifndef ASH_AMBIENT_RESOURCES_AMBIENT_ANIMATION_STATIC_RESOURCES_H_
 #define ASH_AMBIENT_RESOURCES_AMBIENT_ANIMATION_STATIC_RESOURCES_H_
 

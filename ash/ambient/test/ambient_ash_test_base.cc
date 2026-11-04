@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ambient Ash test base implementation
+// summary: Implements the AmbientAshTestBase fixture for testing Ash ambient mode, including a fake photo download server and cache reading helpers.
+// relations:
+//   - implements /ash/ambient/test/ambient_ash_test_base.h
+//   - depends_on /ash/ambient/test/ambient_ash_test_helper.h
+//   - depends_on /ash/ambient/test/ambient_test_util.h
+// ---
+
 #include "ash/ambient/test/ambient_ash_test_base.h"
 
 #include <map>

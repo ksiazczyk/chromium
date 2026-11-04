@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub for ambient animation static resources
+// summary: Provides dummy definitions for builds without ambient animation resources, failing fatally when resource loading is attempted.
+// relations:
+//   - depends_on /ash/ambient/resources/ambient_animation_static_resources.h
+//   - implements /ash/ambient/resources/ambient_animation_static_resources.h
+//   - depends_on /ash/ambient/ambient_ui_settings.h
+// ---
+
 #include "ash/ambient/resources/ambient_animation_static_resources.h"
 
 #include "ash/ambient/ambient_ui_settings.h"

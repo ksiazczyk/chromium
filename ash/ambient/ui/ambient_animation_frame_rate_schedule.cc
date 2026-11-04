@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient animation frame rate schedule parsing
+// summary: Parses throttled frame rate markers from Skottie animations into a schedule of frame rate sections with validation and a default schedule.
+// relations:
+//   - implements /ash/ambient/ui/ambient_animation_frame_rate_schedule.h
+//   - depends_on /ash/utility/lottie_util.h
+//   - depends_on /cc/paint/skottie_marker.h
+// ---
+
 #include "ash/ambient/ui/ambient_animation_frame_rate_schedule.h"
 
 #include <iterator>

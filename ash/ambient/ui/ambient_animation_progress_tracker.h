@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient animation progress tracker header
+// summary: Declares AmbientAnimationProgressTracker, an animation observer that condenses the progress of multiple ambient lottie animations into a single global progress value.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/containers/flat_set.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_AMBIENT_UI_AMBIENT_ANIMATION_PROGRESS_TRACKER_H_
 #define ASH_AMBIENT_UI_AMBIENT_ANIMATION_PROGRESS_TRACKER_H_
 

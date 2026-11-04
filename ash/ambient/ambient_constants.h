@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient mode constants
+// summary: Header defining timing, cache, image size, directory name, UI spacing, and UMA user action constants shared by the Chrome OS ambient mode implementation.
+// relations:
+//   - depends_on /base/time/time.h
+// ---
+
 #ifndef ASH_AMBIENT_AMBIENT_CONSTANTS_H_
 #define ASH_AMBIENT_AMBIENT_CONSTANTS_H_
 

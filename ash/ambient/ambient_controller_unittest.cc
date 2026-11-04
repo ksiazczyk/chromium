@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ambient controller unit tests
+// summary: Unit tests covering ambient mode controller behavior across UI settings, lock screen, user events, DLC installation, and metrics recording.
+// relations:
+//   - tests /ash/ambient/ambient_controller.h
+//   - depends_on /ash/ambient/ambient_constants.h
+//   - depends_on /ash/ambient/ambient_managed_photo_controller.h
+// ---
+
 #include "ash/ambient/ambient_controller.h"
 
 #include <memory>

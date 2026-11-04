@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient backend controller implementation
+// summary: Implements the Backdrop client of AmbientBackendController, fetching screen update info, preview images, settings, personal albums, and weather from the Google backdrop backend.
+// relations:
+//   - implements /ash/ambient/backdrop/ambient_backend_controller_impl.h
+//   - depends_on /ash/ambient/ambient_controller.h
+//   - depends_on /ash/ambient/ambient_photo_cache.h
+// ---
+
 #include "ash/ambient/backdrop/ambient_backend_controller_impl.h"
 
 #include <array>

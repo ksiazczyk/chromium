@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed slideshow UI launcher class declaration
+// summary: Declares AmbientManagedSlideshowUiLauncher, an AmbientUiLauncher that shows policy-managed screensaver photos and reacts to lock state and image errors.
+// relations:
+//   - depends_on /ash/ambient/ambient_managed_photo_controller.h
+//   - implements /ash/ambient/ambient_ui_launcher.h
+//   - depends_on /ash/ambient/ambient_view_delegate_impl.h
+// ---
+
 #ifndef ASH_AMBIENT_AMBIENT_MANAGED_SLIDESHOW_UI_LAUNCHER_H_
 #define ASH_AMBIENT_AMBIENT_MANAGED_SLIDESHOW_UI_LAUNCHER_H_
 

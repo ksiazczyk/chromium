@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AmbientAnimationAttributionProvider unit tests
+// summary: Unit tests verifying that photo attribution text is assigned to the correct animation text nodes for dynamic image assets.
+// relations:
+//   - tests /ash/ambient/model/ambient_animation_attribution_provider.h
+//   - depends_on /ash/ambient/model/ambient_animation_photo_config.h
+//   - depends_on /ash/ambient/model/ambient_animation_photo_provider.h
+// ---
+
 #include "ash/ambient/model/ambient_animation_attribution_provider.h"
 
 #include <functional>

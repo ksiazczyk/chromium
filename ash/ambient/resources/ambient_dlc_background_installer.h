@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AmbientBackgroundDlcInstaller class declaration
+// summary: Declares a network config observer that triggers a one-time background install of the ambient video DLC after connectivity is up.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/weak_ptr.h
+//   - depends_on /base/scoped_observation.h
+// ---
+
 #ifndef ASH_AMBIENT_RESOURCES_AMBIENT_DLC_BACKGROUND_INSTALLER_H_
 #define ASH_AMBIENT_RESOURCES_AMBIENT_DLC_BACKGROUND_INSTALLER_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient info view implementation
+// summary: Implements the ambient mode info view that lays out glanceable info and detail labels with theme-aware colors and shadows in the lower left of the ambient screen.
+// relations:
+//   - implements /ash/ambient/ui/ambient_info_view.h
+//   - depends_on /ash/ambient/ui/ambient_view_delegate.h
+//   - depends_on /ash/ambient/ui/ambient_view_ids.h
+// ---
+
 #include "ash/ambient/ui/ambient_info_view.h"
 
 #include <memory>

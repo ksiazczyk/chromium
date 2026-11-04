@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tasks delegate interface
+// summary: Defines the TasksDelegate interface for communicating with the Google Tasks API, including fetching, adding, and updating tasks.
+// relations:
+//   - depends_on /ash/api/tasks/tasks_client.h
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_API_TASKS_TASKS_DELEGATE_H_
 #define ASH_API_TASKS_TASKS_DELEGATE_H_
 

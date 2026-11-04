@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Jitter calculator header
+// summary: Declares JitterCalculator, which computes random jitter offsets to prevent screen burn, with an injectable random generator for testing.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/ambient/ambient_ui_model.h
+//   - depends_on /base/functional/callback.h
+// ---
+
 #ifndef ASH_AMBIENT_UI_JITTER_CALCULATOR_H_
 #define ASH_AMBIENT_UI_JITTER_CALCULATOR_H_
 

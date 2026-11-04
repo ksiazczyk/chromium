@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed screensaver image downloader class declaration
+// summary: Declares the ScreensaverImageDownloader class that downloads and caches external images for the managed screensaver feature.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/containers/flat_set.h
+//   - depends_on /base/containers/queue.h
+// ---
+
 #ifndef ASH_AMBIENT_MANAGED_SCREENSAVER_IMAGE_DOWNLOADER_H_
 #define ASH_AMBIENT_MANAGED_SCREENSAVER_IMAGE_DOWNLOADER_H_
 

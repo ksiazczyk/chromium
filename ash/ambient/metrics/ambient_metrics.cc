@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient mode metrics helpers implementation
+// summary: Implements ambient mode metrics helpers, including histogram naming, video playback metric parsing from web view URL fragments, and UMA recording functions.
+// relations:
+//   - implements /ash/ambient/metrics/ambient_metrics.h
+//   - depends_on /ash/ambient/ambient_ui_settings.h
+//   - depends_on /ash/public/cpp/ambient/ambient_ui_model.h
+// ---
+
 #include "ash/ambient/metrics/ambient_metrics.h"
 
 #include <algorithm>

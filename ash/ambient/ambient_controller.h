@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient controller class declaration
+// summary: Declares AmbientController, the class handling all ambient mode functionality, with observers for session, backlight, power, fingerprint, and user activity.
+// relations:
+//   - depends_on /ash/ambient/ambient_access_token_controller.h
+//   - depends_on /ash/ambient/ambient_photo_controller.h
+//   - depends_on /ash/ambient/ambient_ui_launcher.h
+// ---
+
 #ifndef ASH_AMBIENT_AMBIENT_CONTROLLER_H_
 #define ASH_AMBIENT_AMBIENT_CONTROLLER_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient slideshow peripheral UI header
+// summary: Declares the AmbientSlideshowPeripheralUi class showing related info, time, weather and media strings for the slideshow photo view, with jitter updates.
+// relations:
+//   - depends_on /ash/ambient/ui/ambient_info_view.h
+//   - depends_on /ash/ambient/ui/ambient_view_delegate.h
+//   - depends_on /ash/ambient/ui/media_string_view.h
+// ---
+
 #ifndef ASH_AMBIENT_UI_AMBIENT_SLIDESHOW_PERIPHERAL_UI_H_
 #define ASH_AMBIENT_UI_AMBIENT_SLIDESHOW_PERIPHERAL_UI_H_
 

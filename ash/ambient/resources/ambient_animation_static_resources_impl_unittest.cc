@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AmbientAnimationStaticResources
+// summary: Verifies Lottie data loading, static asset loading and caching, and failure behavior for unsupported themes and unknown asset IDs.
+// relations:
+//   - tests /ash/ambient/resources/ambient_animation_static_resources.h
+//   - depends_on /ash/ambient/ambient_ui_settings.h
+//   - depends_on /ash/ambient/resources/ambient_animation_resource_constants.h
+// ---
+
 #include "ash/ambient/resources/ambient_animation_static_resources.h"
 
 #include <string_view>

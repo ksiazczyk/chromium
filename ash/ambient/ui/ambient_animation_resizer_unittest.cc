@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ambient animation resizer unit tests
+// summary: Unit tests verifying landscape and portrait resize behavior, height cropping, border insets, scaling up, and jitter padding for ambient animation views.
+// relations:
+//   - tests /ash/ambient/ui/ambient_animation_resizer.h
+//   - depends_on /base/logging.h
+//   - depends_on /cc/test/skia_common.h
+// ---
+
 #include "ash/ambient/ui/ambient_animation_resizer.h"
 
 #include <memory>

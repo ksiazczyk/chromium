@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ambient photo controller unit tests
+// summary: Unit tests covering topic preparation, cache reads and writes, and backend model updates for the ambient photo controller.
+// relations:
+//   - tests /ash/ambient/ambient_photo_controller.h
+// ---
+
 #include "ash/ambient/ambient_photo_controller.h"
 
 #include <array>

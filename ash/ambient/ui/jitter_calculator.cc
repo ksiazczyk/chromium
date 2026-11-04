@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Jitter calculator implementation
+// summary: Implements random stepwise translation of the UI within configured bounds to prevent screen burn-in.
+// relations:
+//   - implements /ash/ambient/ui/jitter_calculator.h
+//   - depends_on /base/check.h
+//   - depends_on /base/check_op.h
+// ---
+
 #include "ash/ambient/ui/jitter_calculator.h"
 
 #include <utility>

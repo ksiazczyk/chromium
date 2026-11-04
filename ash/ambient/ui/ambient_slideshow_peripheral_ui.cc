@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient slideshow peripheral UI implementation
+// summary: Implements the peripheral UI for the ambient slideshow theme, combining shield, info view and media string with jitter shifts to help prevent screen burn.
+// relations:
+//   - implements /ash/ambient/ui/ambient_slideshow_peripheral_ui.h
+//   - depends_on /ash/ambient/ui/ambient_shield_view.h
+//   - depends_on /ash/ambient/ui/ambient_view_delegate.h
+// ---
+
 #include "ash/ambient/ui/ambient_slideshow_peripheral_ui.h"
 
 #include <memory>

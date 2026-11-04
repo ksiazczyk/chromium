@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient session metrics recorder implementation
+// summary: Implements the per-session recorder that tracks initialization status, startup time, and engagement time for ambient sessions and forwards them to a delegate.
+// relations:
+//   - implements /ash/ambient/metrics/ambient_session_metrics_recorder.h
+//   - depends_on /ash/ambient/metrics/ambient_metrics.h
+//   - depends_on /ash/public/cpp/ambient/ambient_ui_model.h
+// ---
+
 #include "ash/ambient/metrics/ambient_session_metrics_recorder.h"
 
 #include <utility>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient access token controller class declaration
+// summary: Declares the controller that manages and refreshes access tokens for ambient mode requests.
+// relations:
+//   - depends_on /ash/ambient/ambient_constants.h
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/weak_ptr.h
+// ---
+
 #ifndef ASH_AMBIENT_AMBIENT_ACCESS_TOKEN_CONTROLLER_H_
 #define ASH_AMBIENT_AMBIENT_ACCESS_TOKEN_CONTROLLER_H_
 

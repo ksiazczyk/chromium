@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient animation photo config creation
+// summary: Builds an AmbientPhotoConfig for the Skottie animation UI by parsing dynamic asset ids to determine topic set size and buffering behavior.
+// relations:
+//   - implements /ash/ambient/model/ambient_animation_photo_config.h
+//   - depends_on /ash/ambient/util/ambient_util.h
+//   - depends_on /ash/utility/lottie_util.h
+// ---
+
 #include "ash/ambient/model/ambient_animation_photo_config.h"
 
 #include "ash/ambient/util/ambient_util.h"

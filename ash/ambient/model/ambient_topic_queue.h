@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AmbientTopicQueue header
+// summary: Declares AmbientTopicQueue, a self-filling queue of topics fetched from the IMAX server with a Pop API, fetch limits, and a delegate for requested topic sizes.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/ambient/ambient_backend_controller.h
+//   - depends_on /base/containers/flat_map.h
+// ---
+
 #ifndef ASH_AMBIENT_MODEL_AMBIENT_TOPIC_QUEUE_H_
 #define ASH_AMBIENT_MODEL_AMBIENT_TOPIC_QUEUE_H_
 

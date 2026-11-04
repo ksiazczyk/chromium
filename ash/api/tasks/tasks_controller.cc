@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tasks controller implementation
+// summary: Implements the TasksController singleton, which updates the tasks delegate's client when the active user session changes.
+// relations:
+//   - implements /ash/api/tasks/tasks_controller.h
+//   - depends_on /ash/api/tasks/tasks_delegate.h
+//   - depends_on /ash/public/cpp/session/session_controller.h
+// ---
+
 #include "ash/api/tasks/tasks_controller.h"
 
 #include <memory>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ambient slideshow pixel test
+// summary: Parameterized pixel test verifying ambient slideshow UI rendering across media metadata, dark mode and RTL variations using lossless photo compression.
+// relations:
+//   - depends_on /ash/ambient/test/ambient_ash_test_base.h
+//   - depends_on /ash/ambient/ui/media_string_view.h
+//   - depends_on /ash/public/cpp/ambient/ambient_ui_model.h
+// ---
+
 #include <array>
 #include <optional>
 #include <tuple>

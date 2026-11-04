@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Annotations overlay controller header
+// summary: Declares the AnnotationsOverlayController class that owns the annotations overlay widget and handles window bounds and display changes.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /base/scoped_observation.h
+// ---
+
 #ifndef ASH_ANNOTATOR_ANNOTATIONS_OVERLAY_CONTROLLER_H_
 #define ASH_ANNOTATOR_ANNOTATIONS_OVERLAY_CONTROLLER_H_
 

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Gitignore for ambient Lottie resources
+# summary: Keeps the fetched lottie resource folder out of git because the resources are pulled from a CIPD package via gclient.
+# ---
+
 # This folder's resources is fetched from cipd via gclient, so they should not
 # be committed to the git repo.
 lottie

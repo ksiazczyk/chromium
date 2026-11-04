@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ambient mode test utilities header
+// summary: Declares test helpers for generating Lottie asset ids and animation photo configs used by ambient mode tests.
+// ---
+
 #ifndef ASH_AMBIENT_TEST_AMBIENT_TEST_UTIL_H_
 #define ASH_AMBIENT_TEST_AMBIENT_TEST_UTIL_H_
 

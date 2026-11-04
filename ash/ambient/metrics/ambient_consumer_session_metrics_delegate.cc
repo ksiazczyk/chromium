@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient consumer session metrics delegate implementation
+// summary: Implements the metrics delegate for non-enterprise ambient sessions, recording startup time and engagement time through the shared ambient metrics helpers.
+// relations:
+//   - implements /ash/ambient/metrics/ambient_consumer_session_metrics_delegate.h
+//   - depends_on /ash/ambient/metrics/ambient_metrics.h
+//   - depends_on /base/check.h
+// ---
+
 #include "ash/ambient/metrics/ambient_consumer_session_metrics_delegate.h"
 
 #include <utility>

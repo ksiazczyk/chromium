@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the screensaver images policy handler
+// summary: Tests policy handling for user, signin, and managed guest sessions, including cache directory selection and image list updates.
+// relations:
+//   - tests /ash/ambient/managed/screensaver_images_policy_handler.h
+//   - depends_on /ash/ambient/managed/screensaver_image_downloader.h
+// ---
+
 #include "ash/ambient/managed/screensaver_images_policy_handler.h"
 
 #include <algorithm>

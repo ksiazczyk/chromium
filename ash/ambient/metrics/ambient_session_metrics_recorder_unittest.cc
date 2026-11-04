@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the ambient session metrics recorder
+// summary: Parameterized unit tests verifying engagement time, startup time, and failed-start metrics recorded by AmbientSessionMetricsRecorder across ambient UI settings.
+// relations:
+//   - tests /ash/ambient/metrics/ambient_session_metrics_recorder.h
+//   - depends_on /ash/ambient/ambient_ui_settings.h
+//   - depends_on /ash/ambient/metrics/ambient_consumer_session_metrics_delegate.h
+// ---
+
 #include "ash/ambient/metrics/ambient_session_metrics_recorder.h"
 
 #include <string>

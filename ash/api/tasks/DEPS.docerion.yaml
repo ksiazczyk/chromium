@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Tasks API include rules
+summary: Defines the allowed include rules for the ash tasks API directory, permitting google_apis/common headers.

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient photo cache settings header
+// summary: Declares getters for the ambient photo cache root directories and test-only setters to override them.
+// relations:
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_AMBIENT_AMBIENT_PHOTO_CACHE_SETTINGS_H_
 #define ASH_AMBIENT_AMBIENT_PHOTO_CACHE_SETTINGS_H_
 

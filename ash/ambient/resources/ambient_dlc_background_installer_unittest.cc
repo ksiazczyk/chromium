@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ambient DLC background installer unit tests
+// summary: Unit tests verifying that the ambient background DLC installer fetches the Time of Day DLC when the network comes online, installs it only once, and only when the feature is enabled.
+// relations:
+//   - tests /ash/ambient/resources/ambient_dlc_background_installer.h
+//   - depends_on /ash/ambient/resources/ambient_dlc_background_installer.h
+//   - depends_on /ash/constants/ambient_time_of_day_constants.h
+// ---
+
 #include "ash/ambient/resources/ambient_dlc_background_installer.h"
 
 #include <string>

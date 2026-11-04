@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AmbientViewDelegateImpl class declaration
+// summary: Declares AmbientViewDelegateImpl, which forwards model access and observer registration to the ambient controller.
+// relations:
+//   - implements /ash/ambient/ui/ambient_view_delegate.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ash/ambient/model/ambient_backend_model.h
+// ---
+
 #ifndef ASH_AMBIENT_AMBIENT_VIEW_DELEGATE_IMPL_H_
 #define ASH_AMBIENT_AMBIENT_VIEW_DELEGATE_IMPL_H_
 

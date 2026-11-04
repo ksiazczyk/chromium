@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AmbientBackgroundImageView implementation
+// summary: Implements the ambient background image view that resizes, rotates, and displays photo images with details and handles user interaction events.
+// relations:
+//   - implements /ash/ambient/ui/ambient_background_image_view.h
+//   - depends_on /ash/ambient/ambient_constants.h
+//   - depends_on /ash/ambient/ui/ambient_slideshow_peripheral_ui.h
+// ---
+
 #include "ash/ambient/ui/ambient_background_image_view.h"
 
 #include <memory>

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: CIPD package config for ash ambient mode resources
+# summary: CIPD manifest defining the chromeos_internal/assistant/ambient package that provides the lottie resources directory for ash ambient mode.
+# ---
+
 package: chromeos_internal/assistant/ambient
 description: Resources for ash ambient mode.
 data:

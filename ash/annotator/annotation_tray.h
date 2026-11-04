@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Annotation tray header
+// summary: Declares the AnnotationTray status area view and the annotator pen color constants used to access annotation tools from the shelf.
+// relations:
+//   - depends_on /ash/public/cpp/session/session_observer.h
+//   - depends_on /ash/session/session_controller_impl.h
+//   - depends_on /ash/system/tray/imaged_tray_icon.h
+// ---
+
 #ifndef ASH_ANNOTATOR_ANNOTATION_TRAY_H_
 #define ASH_ANNOTATOR_ANNOTATION_TRAY_H_
 

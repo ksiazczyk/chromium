@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AmbientAnimationView header
+// summary: Declares AmbientAnimationView, a views::View that renders ambient mode animations with time, temperature, and media string overlays.
+// relations:
+//   - depends_on /ash/ambient/model/ambient_animation_photo_provider.h
+//   - depends_on /ash/ambient/ui/glanceable_info_view.h
+//   - depends_on /ash/ambient/ui/jitter_calculator.h
+// ---
+
 #ifndef ASH_AMBIENT_UI_AMBIENT_ANIMATION_VIEW_H_
 #define ASH_AMBIENT_UI_AMBIENT_ANIMATION_VIEW_H_
 

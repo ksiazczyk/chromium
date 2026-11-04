@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ambient backup photo downloader unit tests
+// summary: Unit tests verifying that AmbientBackupPhotoDownloader downloads backup photos over the network and stores correctly decoded images in the backup photo cache.
+// relations:
+//   - tests /ash/ambient/ambient_backup_photo_downloader.h
+//   - depends_on /ash/ambient/ambient_access_token_controller.h
+//   - depends_on /ash/ambient/ambient_photo_cache.h
+// ---
+
 #include "ash/ambient/ambient_backup_photo_downloader.h"
 
 #include <utility>

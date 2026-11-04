@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient photo controller header
+// summary: Declares AmbientPhotoController and documents the topic lifecycle and state machine for preparing and rendering ambient mode photos.
+// relations:
+//   - depends_on /ash/ambient/ambient_constants.h
+//   - depends_on /ash/ambient/model/ambient_backend_model.h
+//   - depends_on /ash/ambient/model/ambient_photo_config.h
+// ---
+
 #ifndef ASH_AMBIENT_AMBIENT_PHOTO_CONTROLLER_H_
 #define ASH_AMBIENT_AMBIENT_PHOTO_CONTROLLER_H_
 

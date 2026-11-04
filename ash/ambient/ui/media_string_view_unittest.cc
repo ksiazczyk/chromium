@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media string view unit tests
+// summary: Unit tests for the ambient mode media string view, checking media title and artist display, text width limits, and scrolling animation behavior.
+// relations:
+//   - tests /ash/ambient/ui/media_string_view.h
+//   - depends_on /ash/ambient/ambient_constants.h
+//   - depends_on /ash/ambient/test/ambient_ash_test_base.h
+// ---
+
 #include "ash/ambient/ui/media_string_view.h"
 
 #include <string>

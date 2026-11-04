@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AmbientAnimationStaticResources implementation
+// summary: Implements loading of Lottie animations and static image assets by mapping ambient themes and asset IDs to grit resource IDs.
+// relations:
+//   - implements /ash/ambient/resources/ambient_animation_static_resources.h
+//   - depends_on /ash/ambient/ambient_ui_settings.h
+//   - depends_on /ash/ambient/resources/ambient_animation_resource_constants.h
+// ---
+
 #include "ash/ambient/resources/ambient_animation_static_resources.h"
 
 #include <cstdint>

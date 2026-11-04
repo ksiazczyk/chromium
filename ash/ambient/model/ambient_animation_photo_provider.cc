@@ -52,6 +52,16 @@
 // position. Rotation will just leave all assets in the animation without an
 // assigned topic.
 
+// ---docerion
+// type: source
+// title: AmbientAnimationPhotoProvider implementation
+// summary: Implements the SkottieFrameDataProvider that loads static assets and rotates photos from the backend model across dynamic image assets each animation cycle.
+// relations:
+//   - implements /ash/ambient/model/ambient_animation_photo_provider.h
+//   - depends_on /ash/ambient/metrics/ambient_metrics.h
+//   - depends_on /ash/ambient/resources/ambient_animation_resource_constants.h
+// ---
+
 #include "ash/ambient/model/ambient_animation_photo_provider.h"
 
 #include <algorithm>

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient animation resizer header
+// summary: Declares AmbientAnimationResizer, a static helper that scales a Skottie animation to its view's width and crops or centers the height per ambient mode UX requirements.
+// relations:
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_AMBIENT_UI_AMBIENT_ANIMATION_RESIZER_H_
 #define ASH_AMBIENT_UI_AMBIENT_ANIMATION_RESIZER_H_
 

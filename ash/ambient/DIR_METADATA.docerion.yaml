@@ -1,0 +1,6 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Ambient directory metadata
+summary: Applies the common ambient metadata to this directory via a mixins entry.
+relations:
+  - references /ash/ambient/COMMON_METADATA

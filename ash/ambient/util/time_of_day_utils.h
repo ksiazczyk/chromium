@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Time of Day screen saver utility declarations
+// summary: Declares functions to install the ambient video DLC in the background and fetch the Time of Day screen saver HTML path, plus video file name constants.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/constants/ambient_video.h
+//   - depends_on /base/files/file_path.h
+// ---
+
 #ifndef ASH_AMBIENT_UTIL_TIME_OF_DAY_UTILS_H_
 #define ASH_AMBIENT_UTIL_TIME_OF_DAY_UTILS_H_
 

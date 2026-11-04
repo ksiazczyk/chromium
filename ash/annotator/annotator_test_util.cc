@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Annotator test utility implementation
+// summary: Implements test helpers that verify annotator overlay window stacking, bounds, and enabled state, plus the integration helper setup.
+// relations:
+//   - implements /ash/annotator/annotator_test_util.h
+//   - depends_on /ash/annotator/annotator_controller.h
+//   - depends_on /ash/public/cpp/shell_window_ids.h
+// ---
+
 #include "ash/annotator/annotator_test_util.h"
 
 #include "ash/annotator/annotator_controller.h"

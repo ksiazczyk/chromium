@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Annotations overlay controller implementation
+// summary: Implements the controller that creates and manages the overlay widget hosting annotations on top of a recorded window, root window or region.
+// relations:
+//   - implements /ash/annotator/annotations_overlay_controller.h
+//   - depends_on /ash/accessibility/magnifier/docked_magnifier_controller.h
+//   - depends_on /ash/annotator/annotation_tray.h
+// ---
+
 #include "ash/annotator/annotations_overlay_controller.h"
 
 #include "ash/accessibility/magnifier/docked_magnifier_controller.h"

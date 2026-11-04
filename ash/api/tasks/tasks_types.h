@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task and task list type definitions
+// summary: Defines lightweight TaskList and Task structs mirroring the Google Tasks API resources, including task origin surface types.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/time/time.h
+//   - depends_on /url/gurl.h
+// ---
+
 #ifndef ASH_API_TASKS_TASKS_TYPES_H_
 #define ASH_API_TASKS_TASKS_TYPES_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ambient mode metrics
+// summary: Unit tests verifying photo source mapping from ambient settings and the recording of video smoothness and video session status histograms.
+// relations:
+//   - tests /ash/ambient/metrics/ambient_metrics.h
+//   - depends_on /ash/ambient/ambient_ui_settings.h
+//   - depends_on /ash/constants/ambient_video.h
+// ---
+
 #include "ash/ambient/metrics/ambient_metrics.h"
 
 #include <string>

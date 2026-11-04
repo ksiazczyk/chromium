@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glanceable info view header
+// summary: Declares GlanceableInfoView, a container for displaying glanceable clock and weather info with configurable font size and text shadow.
+// relations:
+//   - depends_on /ash/ambient/model/ambient_weather_model.h
+//   - depends_on /ash/ambient/model/ambient_weather_model_observer.h
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_AMBIENT_UI_GLANCEABLE_INFO_VIEW_H_
 #define ASH_AMBIENT_UI_GLANCEABLE_INFO_VIEW_H_
 

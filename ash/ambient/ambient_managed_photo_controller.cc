@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed photo controller implementation
+// summary: Implements AmbientManagedPhotoController, loading policy-provided screensaver images from disk into the backend model with retry and error state handling.
+// relations:
+//   - implements /ash/ambient/ambient_managed_photo_controller.h
+//   - depends_on /ash/ambient/metrics/managed_screensaver_metrics.h
+//   - depends_on /ash/ambient/model/ambient_backend_model.h
+// ---
+
 #include "ash/ambient/ambient_managed_photo_controller.h"
 
 #include <utility>
