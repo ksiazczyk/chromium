@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split view IPH controller implementation
+// summary: Implements the controller that shows in-product help promos for split view, triggered by creating splits or repeatedly switching between the same two tabs.
+// ---
+
 #include "chrome/browser/ui/tabs/split_view_iph_controller.h"
 
 #include "chrome/browser/profiles/profile.h"

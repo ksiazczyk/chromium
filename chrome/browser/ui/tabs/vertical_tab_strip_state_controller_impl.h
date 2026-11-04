@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vertical tab strip state controller implementation header
+// summary: Declares VerticalTabStripStateControllerImpl, which syncs controller state to preferences and the session service and observes browser window events.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_VERTICAL_TAB_STRIP_STATE_CONTROLLER_IMPL_H_
 #define CHROME_BROWSER_UI_TABS_VERTICAL_TAB_STRIP_STATE_CONTROLLER_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split tab utility functions header
+// summary: Declares the SplitTabActiveLocation enum and helper functions returning the index and orientation of the last active tab in a split.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_SPLIT_TAB_UTIL_H_
 #define CHROME_BROWSER_UI_TABS_SPLIT_TAB_UTIL_H_
 

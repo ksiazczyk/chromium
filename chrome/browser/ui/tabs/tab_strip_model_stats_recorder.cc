@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripModelStatsRecorder implementation
+// summary: Implements recording of tab lifetime and state transition statistics for UMA histograms via tab strip model observations.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_strip_model_stats_recorder.h"
 
 #include <algorithm>

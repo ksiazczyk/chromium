@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group attention indicator implementation
+// summary: Implements TabGroupAttentionIndicator, which stores the attention state of a tab group and notifies observers when it changes.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_group_attention_indicator.h"
 
 TabGroupAttentionIndicator::TabGroupAttentionIndicator() = default;

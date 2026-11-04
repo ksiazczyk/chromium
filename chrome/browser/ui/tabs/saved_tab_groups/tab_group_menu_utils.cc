@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group menu utilities implementation
+// summary: Implements helpers for saved tab group menus, including menu text for groups and tabs and sorting non-empty groups by creation time.
+// ---
+
 #include "chrome/browser/ui/tabs/saved_tab_groups/tab_group_menu_utils.h"
 
 #include "base/strings/utf_string_conversions.h"

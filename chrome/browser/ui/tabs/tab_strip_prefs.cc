@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip preferences implementation
+// summary: Registers tab strip profile preferences, migrates the hover card memory preference, and determines the Tab Search position for a browser window.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_strip_prefs.h"
 
 #include "base/time/time.h"

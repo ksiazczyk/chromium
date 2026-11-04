@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New tab grouping user data
+// summary: Stores the last active tab group ID as per-tab user data so new tabs can be grouped with the previously active group.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_NEW_TAB_GROUPING_USER_DATA_H_
 #define CHROME_BROWSER_UI_TABS_NEW_TAB_GROUPING_USER_DATA_H_
 

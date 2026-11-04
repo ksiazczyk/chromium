@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved tab group web contents listener implementation
+// summary: Implements a WebContentsObserver that keeps local tabs in saved tab groups in sync with navigation events and applies sync-initiated navigations locally.
+// ---
+
 #include "chrome/browser/ui/tabs/saved_tab_groups/saved_tab_group_web_contents_listener.h"
 
 #include "base/functional/bind.h"

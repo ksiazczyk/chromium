@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripModelDelegate interface
+// summary: Declares the delegate interface TabStripModel uses for work it cannot do itself, such as adding tabs, creating new strips, and duplicating contents.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TAB_STRIP_MODEL_DELEGATE_H_
 #define CHROME_BROWSER_UI_TABS_TAB_STRIP_MODEL_DELEGATE_H_
 

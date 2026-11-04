@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripModelDelegate implementation
+// summary: Implements default constructors for the delegate's NewStripContents struct and a stub for unpinning tabs from Glic conversations.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_strip_model_delegate.h"
 
 #include "chrome/browser/ui/tabs/tab_model.h"

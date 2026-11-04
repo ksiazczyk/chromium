@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab site mute state utilities interface
+// summary: Declares IsSiteMuted and AreAllSitesMuted helpers for checking muted sites in a tab strip.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TAB_UTILS_H_
 #define CHROME_BROWSER_UI_TABS_TAB_UTILS_H_
 

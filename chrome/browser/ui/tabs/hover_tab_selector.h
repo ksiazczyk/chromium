@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hover tab selector header
+// summary: Declares HoverTabSelector, a helper that manages the lifecycle of delayed tab transition tasks on a TabStripModel.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_HOVER_TAB_SELECTOR_H_
 #define CHROME_BROWSER_UI_TABS_HOVER_TAB_SELECTOR_H_
 

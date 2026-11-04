@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac input adapter header for tab drag sessions
+// summary: Declares MacInputAdapter, the macOS TabDragSessionInputAdapter using Cocoa mouse capture and a views event monitor to observe drag input.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TAB_DRAG_API_DESKTOP_TAB_DRAG_IMPL_TAB_DRAG_SESSION_INPUT_ADAPTER_MAC_H_
 #define CHROME_BROWSER_UI_TABS_TAB_DRAG_API_DESKTOP_TAB_DRAG_IMPL_TAB_DRAG_SESSION_INPUT_ADAPTER_MAC_H_
 

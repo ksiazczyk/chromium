@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the tab drag API directory
+summary: Lists the code owners for the directory and routes reviews of Mojom files to the IPC security owners, falling back to the parent tabs OWNERS file.

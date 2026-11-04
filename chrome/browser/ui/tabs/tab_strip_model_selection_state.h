@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripModelSelectionState class header
+// summary: Declares the internal selection state class for TabStripModel that tracks selected, active and anchor tabs and exposes a ListSelectionModel view.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TAB_STRIP_MODEL_SELECTION_STATE_H_
 #define CHROME_BROWSER_UI_TABS_TAB_STRIP_MODEL_SELECTION_STATE_H_
 

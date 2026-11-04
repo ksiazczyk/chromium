@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura input adapter for tab drag sessions
+// summary: Implements the Aura input adapter that captures mouse and keyboard events during tab drags and forwards moves, drops, capture changes, and Escape presses.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_drag_api/desktop_tab_drag_impl/tab_drag_session_input_adapter_aura.h"
 
 #include <memory>

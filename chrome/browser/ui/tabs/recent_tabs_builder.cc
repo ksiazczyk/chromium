@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recent tabs builder implementation
+// summary: Implements the builder that assembles recent tabs menu entries from history, recently closed tabs, groups, splits, and tabs synced from other devices.
+// ---
+
 #include "chrome/browser/ui/tabs/recent_tabs_builder.h"
 
 #include <algorithm>

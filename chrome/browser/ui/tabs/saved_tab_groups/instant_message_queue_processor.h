@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Instant message queue processor header
+// summary: Declares a buffer that queues instant messages and shows them one at a time through the toast controller.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_SAVED_TAB_GROUPS_INSTANT_MESSAGE_QUEUE_PROCESSOR_H_
 #define CHROME_BROWSER_UI_TABS_SAVED_TAB_GROUPS_INSTANT_MESSAGE_QUEUE_PROCESSOR_H_
 

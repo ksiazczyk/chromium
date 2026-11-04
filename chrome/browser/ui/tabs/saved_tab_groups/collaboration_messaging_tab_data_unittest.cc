@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Collaboration messaging tab data unit tests
+// summary: Unit tests covering setting and clearing collaboration messages and avatar fetching behavior on tab data.
+// ---
+
 #include "chrome/browser/ui/tabs/saved_tab_groups/collaboration_messaging_tab_data.h"
 
 #include "base/strings/utf_string_conversions.h"

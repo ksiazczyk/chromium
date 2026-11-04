@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabMenuModelDelegate interface
+// summary: Declares the delegate interface TabMenuModel uses for work it cannot do itself, such as listing other browser windows and accessing the tab group sync service.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TAB_MENU_MODEL_DELEGATE_H_
 #define CHROME_BROWSER_UI_TABS_TAB_MENU_MODEL_DELEGATE_H_
 

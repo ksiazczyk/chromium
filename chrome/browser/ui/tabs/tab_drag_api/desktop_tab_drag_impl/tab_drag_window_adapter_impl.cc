@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab drag window adapter implementation
+// summary: Implements the desktop tab drag window adapter, exposing window identity, bounds, coordinate conversion, activation, tab migration, detach-to-new-window and move loop handling.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_drag_api/desktop_tab_drag_impl/tab_drag_window_adapter_impl.h"
 
 #include "base/notimplemented.h"

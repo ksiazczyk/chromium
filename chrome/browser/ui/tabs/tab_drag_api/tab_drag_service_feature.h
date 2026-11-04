@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabDragServiceFeature header
+// summary: Declares the public interface for retrieving the tab drag service for a browser window via Mojo or the native interface, stored as unowned user data.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TAB_DRAG_API_TAB_DRAG_SERVICE_FEATURE_H_
 #define CHROME_BROWSER_UI_TABS_TAB_DRAG_API_TAB_DRAG_SERVICE_FEATURE_H_
 

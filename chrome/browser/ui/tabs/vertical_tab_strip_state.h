@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vertical tab strip state constants and per-window state struct
+// summary: Defines width constants and the per-window VerticalTabStripState struct holding collapse state and uncollapsed width for the vertical tab strip.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_VERTICAL_TAB_STRIP_STATE_H_
 #define CHROME_BROWSER_UI_TABS_VERTICAL_TAB_STRIP_STATE_H_
 

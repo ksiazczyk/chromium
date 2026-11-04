@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inactive window mouse event controller header
+// summary: Declares InactiveWindowMouseEventController and its scoped helper for managing mouse event acceptance while the window is inactive.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_INACTIVE_WINDOW_MOUSE_EVENT_CONTROLLER_H_
 #define CHROME_BROWSER_UI_TABS_INACTIVE_WINDOW_MOUSE_EVENT_CONTROLLER_H_
 

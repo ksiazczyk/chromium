@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recent tabs builder header
+// summary: Declares the RecentTabItem model and RecentTabsBuilder class that build the recent tabs hierarchy of headers, commands, tabs, windows, groups, and devices.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_RECENT_TABS_BUILDER_H_
 #define CHROME_BROWSER_UI_TABS_RECENT_TABS_BUILDER_H_
 

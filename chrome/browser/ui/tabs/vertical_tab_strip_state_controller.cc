@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vertical tab strip state controller base implementation
+// summary: Implements the VerticalTabStripStateController base class, providing callback registration and notification methods for resizing, collapse, hover and mode changes.
+// ---
+
 #include "chrome/browser/ui/tabs/vertical_tab_strip_state_controller.h"
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"
 

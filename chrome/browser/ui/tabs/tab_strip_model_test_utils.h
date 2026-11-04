@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab strip model test utilities header
+// summary: Declares test helpers for tab strip model tests, such as setting tab IDs and building annotated tab strip state strings.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TAB_STRIP_MODEL_TEST_UTILS_H_
 #define CHROME_BROWSER_UI_TABS_TAB_STRIP_MODEL_TEST_UTILS_H_
 

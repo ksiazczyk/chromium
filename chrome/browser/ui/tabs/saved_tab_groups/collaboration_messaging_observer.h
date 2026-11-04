@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Collaboration messaging observer class declaration
+// summary: Declares a keyed service that observes messaging backend events and populates the desktop UI with collaboration activity indicators.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_SAVED_TAB_GROUPS_COLLABORATION_MESSAGING_OBSERVER_H_
 #define CHROME_BROWSER_UI_TABS_SAVED_TAB_GROUPS_COLLABORATION_MESSAGING_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabModel implementation
+// summary: Implements TabModel, the TabInterface implementation wrapping WebContents with tab features, opener, group, pinned and visibility state handling.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_model.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split tab metrics implementation
+// summary: Records histograms, user actions and UKM events for split view creation and orientation changes, mapping sources to persisted metric suffixes.
+// ---
+
 #include "chrome/browser/ui/tabs/split_tab_metrics.h"
 
 #include <string>

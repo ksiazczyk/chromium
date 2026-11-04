@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic tab context menu model implementation
+// summary: Implements the tab context submenu for Glic, listing recent Gemini conversations and pinning selected tabs to a new or existing conversation.
+// ---
+
 #include "chrome/browser/ui/tabs/glic_tab_sub_menu_model.h"
 
 #include "base/metrics/histogram_functions.h"

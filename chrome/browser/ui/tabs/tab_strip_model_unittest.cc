@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabStripModel unit tests
+// summary: Extensive unit tests for TabStripModel covering tab insertion, selection, grouping, pinning, splitting and removal behavior.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_strip_model.h"
 
 #include <stddef.h>

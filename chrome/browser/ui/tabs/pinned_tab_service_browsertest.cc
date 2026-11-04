@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pinned tab service browser tests
+// summary: Browser tests covering pinned tab saving on empty tab strips, window close and popup close scenarios.
+// ---
+
 #include "chrome/browser/ui/tabs/pinned_tab_service.h"
 
 #include "base/memory/raw_ptr.h"

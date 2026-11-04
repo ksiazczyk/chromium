@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab favicon theming implementation
+// summary: Implements functions that recolor default and monochrome favicons using tab strip color IDs so they stay visible against active and inactive tab backgrounds.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_favicon_theming.h"
 
 #include "chrome/browser/favicon/favicon_utils.h"

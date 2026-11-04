@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group features
+// summary: Implements the TabGroupFeatures factory with a test hook for replacing instances, and initializes the group's attention indicator.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_group_features.h"
 
 #include "base/memory/ptr_util.h"

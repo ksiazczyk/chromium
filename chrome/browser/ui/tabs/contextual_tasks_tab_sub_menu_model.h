@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks tab submenu model header
+// summary: Declares the SimpleMenuModel subclass and delegate for the AI Mode tab sharing entry in the tab context menu.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_CONTEXTUAL_TASKS_TAB_SUB_MENU_MODEL_H_
 #define CHROME_BROWSER_UI_TABS_CONTEXTUAL_TASKS_TAB_SUB_MENU_MODEL_H_
 

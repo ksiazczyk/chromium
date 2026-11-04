@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Other device tabs sub menu model header
+// summary: Declares the app menu submenu model for opening tabs from the user's other devices.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_OTHER_DEVICE_TABS_SUB_MENU_MODEL_H_
 #define CHROME_BROWSER_UI_TABS_OTHER_DEVICE_TABS_SUB_MENU_MODEL_H_
 

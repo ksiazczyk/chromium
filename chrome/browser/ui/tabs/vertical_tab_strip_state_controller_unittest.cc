@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Vertical tab strip state controller unit tests
+// summary: Unit tests for VerticalTabStripStateControllerImpl using a mock browser window interface, testing pref service and mock toast controller.
+// ---
+
 #include <optional>
 
 #include "base/test/metrics/user_action_tester.h"

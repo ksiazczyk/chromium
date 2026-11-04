@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab dialog manager browser tests
+// summary: Browser tests covering TabDialogManager behavior, including dialog widget creation, sizing, bounds, and dialog model handling.
+// ---
+
 #include "chrome/browser/ui/tabs/public/tab_dialog_manager.h"
 
 #include <memory>

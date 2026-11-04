@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab group sync delegate browser tests
+// summary: Large browser test suite exercising desktop saved tab groups behaviors such as local changes and simulated sync events.
+// ---
+
 #include <memory>
 #include <optional>
 

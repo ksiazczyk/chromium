@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group deletion dialog controller implementation
+// summary: Implements the controller that builds and shows confirmation dialogs for deleting, ungrouping or closing saved and shared tab groups.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_group_deletion_dialog_controller.h"
 
 #include <string>

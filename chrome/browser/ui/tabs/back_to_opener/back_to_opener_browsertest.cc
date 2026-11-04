@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Back-to-opener browser tests
+// summary: In-process browser tests verifying back-to-opener behavior, such as enabling the back command, closing the destination tab, and refocusing the opener.
+// ---
+
 #include "base/test/metrics/histogram_tester.h"
 #include "chrome/app/chrome_command_ids.h"
 #include "chrome/browser/ui/browser_command_controller.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved tab group metrics implementation
+// summary: Implements histogram recording functions for desktop saved tab group metrics covering recall, manage, submenu, context menu, and editor bubble actions.
+// ---
+
 #include "chrome/browser/ui/tabs/saved_tab_groups/saved_tab_group_metrics.h"
 
 #include <string_view>

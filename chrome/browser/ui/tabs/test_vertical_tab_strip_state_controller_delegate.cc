@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test vertical tab strip state controller delegate implementation
+// summary: Implements a synchronous VerticalTabStripStateController delegate that updates collapsed state on request for unit tests.
+// ---
+
 #include "chrome/browser/ui/tabs/test_vertical_tab_strip_state_controller_delegate.h"
 
 namespace tabs {

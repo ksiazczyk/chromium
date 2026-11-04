@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test vertical tab strip state controller delegate header
+// summary: Declares a test delegate that synchronously updates the vertical tab strip collapsed state, suitable for unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TEST_VERTICAL_TAB_STRIP_STATE_CONTROLLER_DELEGATE_H_
 #define CHROME_BROWSER_UI_TABS_TEST_VERTICAL_TAB_STRIP_STATE_CONTROLLER_DELEGATE_H_
 

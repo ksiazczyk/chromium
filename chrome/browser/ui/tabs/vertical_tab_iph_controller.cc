@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vertical tabs in-product help promo controller
+// summary: Shows the vertical tabs IPH promo when the horizontal tab strip becomes crowded, based on prefs, tab count and tab shrinkage.
+// ---
+
 #include "chrome/browser/ui/tabs/vertical_tab_iph_controller.h"
 
 #include "chrome/browser/profiles/profile.h"

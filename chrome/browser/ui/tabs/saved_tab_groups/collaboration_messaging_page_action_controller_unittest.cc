@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Collaboration messaging page action controller unit tests
+// summary: Unit tests for the page action controller using mock tab and page action controllers to check chip labels and images.
+// ---
+
 #include "chrome/browser/ui/tabs/saved_tab_groups/collaboration_messaging_page_action_controller.h"
 
 #include "base/test/scoped_feature_list.h"

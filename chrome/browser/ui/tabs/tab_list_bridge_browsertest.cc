@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabListBridge browser tests
+// summary: Browser tests verifying TabListBridge tab operations and TabListInterfaceObserver events against TabStripModel behavior.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_list_bridge.h"
 
 #include <deque>

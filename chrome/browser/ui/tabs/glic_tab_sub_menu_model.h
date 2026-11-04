@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic tab context menu model header
+// summary: Declares GlicTabSubMenuModel, a SimpleMenuModel delegate for sharing and unsharing tabs with Gemini from the tab context menu.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_GLIC_TAB_SUB_MENU_MODEL_H_
 #define CHROME_BROWSER_UI_TABS_GLIC_TAB_SUB_MENU_MODEL_H_
 

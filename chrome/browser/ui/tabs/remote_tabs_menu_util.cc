@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote tabs menu utilities implementation
+// summary: Implements shared helpers for menus listing tabs from other devices, including sync and policy checks, device form factor icons, favicons, and tab opening.
+// ---
+
 #include "chrome/browser/ui/tabs/remote_tabs_menu_util.h"
 
 #include "base/functional/bind.h"

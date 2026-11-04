@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExistingWindowSubMenuModel class declaration
+// summary: Declares the submenu model for moving tabs to existing windows, with a platform-specific factory method and helpers to build menu items for browsers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_EXISTING_WINDOW_SUB_MENU_MODEL_H_
 #define CHROME_BROWSER_UI_TABS_EXISTING_WINDOW_SUB_MENU_MODEL_H_
 

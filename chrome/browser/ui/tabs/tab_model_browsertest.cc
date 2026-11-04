@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabModel browser tests
+// summary: Browser test verifying tab activation and visibility callbacks fire correctly when tabs are activated or arranged in a split view.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_model.h"
 
 #include "base/test/mock_callback.h"

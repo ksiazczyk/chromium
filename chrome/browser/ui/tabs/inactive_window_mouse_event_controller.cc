@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inactive window mouse event controller implementation
+// summary: Implements a counter-based controller and scoped helper that decide whether mouse events are accepted while the window is inactive.
+// ---
+
 #include "chrome/browser/ui/tabs/inactive_window_mouse_event_controller.h"
 
 #include "base/memory/weak_ptr.h"

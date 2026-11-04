@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Collaboration messaging observer factory declaration
+// summary: Declares the profile-keyed service factory that provides per-profile access to the CollaborationMessagingObserver.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_SAVED_TAB_GROUPS_COLLABORATION_MESSAGING_OBSERVER_FACTORY_H_
 #define CHROME_BROWSER_UI_TABS_SAVED_TAB_GROUPS_COLLABORATION_MESSAGING_OBSERVER_FACTORY_H_
 

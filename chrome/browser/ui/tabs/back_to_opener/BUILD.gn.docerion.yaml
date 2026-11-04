@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the back_to_opener feature
+summary: Defines GN source sets for the back-to-opener feature, including the public interface, implementation, unit tests, and browser tests.

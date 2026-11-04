@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabModel unit tests
+// summary: Unit tests for the TabModel class, covering tab insertion notifications, detachment, and browser window interface lookups across tab strips.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_model.h"
 
 #include <memory>

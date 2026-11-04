@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Organizer panel controller unit tests
+// summary: Unit tests covering OrganizerPanelController visibility, state change subscriptions, and extension behavior using mock browser interfaces.
+// ---
+
 #include "chrome/browser/ui/tabs/organizer/organizer_panel_controller.h"
 
 #include <memory>

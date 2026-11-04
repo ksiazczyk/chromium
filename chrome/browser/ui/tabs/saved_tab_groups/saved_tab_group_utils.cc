@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved tab group utilities implementation
+// summary: Implements helper functions for opening, deleting, ungrouping, pinning, and moving saved tab groups, along with metrics, dialog handling, and tab conversion logic.
+// ---
+
 #include "chrome/browser/ui/tabs/saved_tab_groups/saved_tab_group_utils.h"
 
 #include <numeric>

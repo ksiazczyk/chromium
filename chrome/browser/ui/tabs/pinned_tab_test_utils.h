@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pinned tab test utilities header
+// summary: Declares the TabsToString helper used to render tab lists as comparable strings in tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_PINNED_TAB_TEST_UTILS_H_
 #define CHROME_BROWSER_UI_TABS_PINNED_TAB_TEST_UTILS_H_
 

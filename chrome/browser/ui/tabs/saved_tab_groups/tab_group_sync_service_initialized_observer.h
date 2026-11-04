@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupSyncServiceInitializedObserver class declaration
+// summary: Declares an observer that waits for the asynchronously initialized TabGroupSyncService before allowing actions such as adding or removing groups.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_SAVED_TAB_GROUPS_TAB_GROUP_SYNC_SERVICE_INITIALIZED_OBSERVER_H_
 #define CHROME_BROWSER_UI_TABS_SAVED_TAB_GROUPS_TAB_GROUP_SYNC_SERVICE_INITIALIZED_OBSERVER_H_
 

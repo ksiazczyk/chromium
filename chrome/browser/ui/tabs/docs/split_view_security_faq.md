@@ -1,3 +1,9 @@
+---
+type: reference
+title: Split View Security FAQ
+summary: Answers common security questions about Chromium's desktop Split View feature, covering the active view indicator, dialog handling, permission restrictions, and spoofing mitigations for developers and security researchers.
+---
+
 # Split View Security FAQ
 
 [TOC]

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split view IPH controller header
+// summary: Declares a TabStripModelObserver that tracks recent tab switches and split creation to show split view feature promos and tutorials.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_SPLIT_VIEW_IPH_CONTROLLER_H_
 #define CHROME_BROWSER_UI_TABS_SPLIT_VIEW_IPH_CONTROLLER_H_
 

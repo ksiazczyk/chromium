@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop tab group sync delegate implementation
+// summary: Implements the desktop sync delegate that opens, creates, connects, and updates local tab groups and records hourly metrics.
+// ---
+
 #include "chrome/browser/ui/tabs/saved_tab_groups/tab_group_sync_delegate_desktop.h"
 
 #include <iterator>

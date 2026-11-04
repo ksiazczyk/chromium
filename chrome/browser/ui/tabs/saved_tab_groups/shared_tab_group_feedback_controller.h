@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared tab group feedback controller header
+// summary: Declares SharedTabGroupFeedbackController, which controls when the shared tab groups feedback button and its IPH appear in the pinned actions toolbar.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_SAVED_TAB_GROUPS_SHARED_TAB_GROUP_FEEDBACK_CONTROLLER_H_
 #define CHROME_BROWSER_UI_TABS_SAVED_TAB_GROUPS_SHARED_TAB_GROUP_FEEDBACK_CONTROLLER_H_
 

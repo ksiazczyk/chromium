@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip preferences header
+// summary: Declares the TabSearchPosition enum and functions for registering tab strip preferences, hover card migration, and Tab Search position lookup.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TAB_STRIP_PREFS_H_
 #define CHROME_BROWSER_UI_TABS_TAB_STRIP_PREFS_H_
 

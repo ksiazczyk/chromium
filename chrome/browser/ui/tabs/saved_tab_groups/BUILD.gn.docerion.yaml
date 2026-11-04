@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build configuration for saved tab groups
+summary: Defines the saved_tab_groups source sets and their dependencies for the Chromium build.

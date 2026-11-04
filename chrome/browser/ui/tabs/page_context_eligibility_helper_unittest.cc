@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page context eligibility helper unit tests
+// summary: Unit tests for the page context eligibility helper using mocked eligibility APIs and a mock tab interface to verify status and callback behavior.
+// ---
+
 #include "chrome/browser/ui/tabs/page_context_eligibility_helper.h"
 
 #include <memory>

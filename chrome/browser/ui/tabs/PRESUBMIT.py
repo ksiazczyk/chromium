@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Tabs presubmit checks
+# summary: Presubmit checks that restrict which WebContents helpers may be created outside TabFeatures ownership, with a reviewed allowlist of exceptions.
+# ---
+
 PRESUBMIT_VERSION = '2.0.0'
 
 _TAB_FEATURES_CC = 'tab_features.cc'

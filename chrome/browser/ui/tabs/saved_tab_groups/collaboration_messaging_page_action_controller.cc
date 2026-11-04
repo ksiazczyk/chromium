@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Collaboration messaging page action controller implementation
+// summary: Shows or hides the collaboration recent-activity suggestion chip on the active tab based on messaging tab data updates.
+// ---
+
 #include "chrome/browser/ui/tabs/saved_tab_groups/collaboration_messaging_page_action_controller.h"
 
 #include "base/functional/bind.h"

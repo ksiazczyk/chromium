@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabCreationMetricsController browser tests
+// summary: Browser tests verifying Tab.GroupingTransition2 histogram buckets for grouped and ungrouped tab creation transitions using a mock task runner.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_creation_metrics_controller.h"
 
 #include "base/test/metrics/histogram_tester.h"

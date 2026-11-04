@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations for the TabGroupHome WebUI controller
+// summary: Declares the TabGroupHomeUI top chrome WebUI controller and its config class, which gates the UI behind the feature flag.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TAB_GROUP_HOME_TAB_GROUP_HOME_UI_H_
 #define CHROME_BROWSER_UI_TABS_TAB_GROUP_HOME_TAB_GROUP_HOME_UI_H_
 

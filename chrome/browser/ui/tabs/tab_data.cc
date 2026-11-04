@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabData implementation
+// summary: Implements TabData, a snapshot of tab UI state including title, favicon, alerts, thumbnails, and resource usage built from a TabInterface.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_data.h"
 
 #include <string>

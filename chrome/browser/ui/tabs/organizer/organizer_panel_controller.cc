@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Organizer panel controller implementation
+// summary: Implements OrganizerPanelController, managing the Organizer Panel's visibility, placement between hosts, and vertical tab strip behavior.
+// ---
+
 #include "chrome/browser/ui/tabs/organizer/organizer_panel_controller.h"
 
 #include <utility>

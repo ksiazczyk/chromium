@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabListBridge header
+// summary: Declares TabListBridge, which adapts the desktop TabStripModel to the cross-platform TabListInterface so shared code works on classic desktop and desktop Android.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TAB_LIST_BRIDGE_H_
 #define CHROME_BROWSER_UI_TABS_TAB_LIST_BRIDGE_H_
 

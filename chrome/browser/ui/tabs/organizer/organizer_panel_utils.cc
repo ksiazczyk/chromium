@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Organizer panel feature flag utilities
+// summary: Defines base::Feature flags and helper functions for the Organizer Panel, foreign tabs, extensions side panel UI, and segmentation control.
+// ---
+
 #include "chrome/browser/ui/tabs/organizer/organizer_panel_utils.h"
 
 #include "base/feature.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupModel header
+// summary: Declares TabGroupModel, the registry of tab groups owned by TabStripModel, with APIs for adding, removing, listing, and querying groups.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TAB_GROUP_MODEL_H_
 #define CHROME_BROWSER_UI_TABS_TAB_GROUP_MODEL_H_
 

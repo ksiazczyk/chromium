@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupModel implementation
+// summary: Implements the model tracking all tab groups in a tab strip, covering group lookup, activity ordering, and least-used color selection for new groups.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_group_model.h"
 
 #include <map>

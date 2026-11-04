@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the tab alert module
+summary: Defines GN source sets for the tab alert public headers, implementation, unit tests, and interactive UI tests together with their dependencies.

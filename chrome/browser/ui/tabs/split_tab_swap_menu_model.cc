@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split tab swap menu model implementation
+// summary: Implements the menu model offering commands to swap the start and end tabs of a split view, with labels and icons adapted to the split layout.
+// ---
+
 #include "chrome/browser/ui/tabs/split_tab_swap_menu_model.h"
 
 #include "chrome/app/vector_icons/vector_icons.h"

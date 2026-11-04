@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pinned tab service factory implementation
+// summary: Implements the profile-keyed service factory that builds and returns PinnedTabService instances per profile.
+// ---
+
 #include "chrome/browser/ui/tabs/pinned_tab_service_factory.h"
 
 #include "chrome/browser/profiles/profile.h"

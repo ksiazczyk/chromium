@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab alert icon implementation
+// summary: Implements helpers that map tab alert states to vector icons and indicator colors depending on tab and frame activation.
+// ---
+
 #include "chrome/browser/ui/tabs/alert/tab_alert_icon.h"
 
 #include "chrome/app/vector_icons/vector_icons.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupFeatures header
+// summary: Declares TabGroupFeatures, a class owning the core controllers for features scoped to a tab group, with a factory hook for test dependency injection.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TAB_GROUP_FEATURES_H_
 #define CHROME_BROWSER_UI_TABS_TAB_GROUP_FEATURES_H_
 

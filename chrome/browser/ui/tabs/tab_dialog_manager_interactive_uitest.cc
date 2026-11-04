@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab dialog manager interactive UI tests
+// summary: Interactive UI tests exercising TabDialogManager dialogs, including desktop widget mode and focus activation behavior across platforms.
+// ---
+
 #include "chrome/browser/ui/tabs/public/tab_dialog_manager.h"
 
 #include <memory>

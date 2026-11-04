@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabAttachmentTracker implementation
+// summary: Implements a per-tab tracker that counts how many times a tab is inserted into a tab strip, stored as unowned user data.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_attachment_tracker.h"
 
 #include "components/tabs/public/tab_interface.h"

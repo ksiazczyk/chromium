@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab activity simulator header
+// summary: Declares a helper class for unit tests that simulates realistic tab activity such as navigation, tab creation, and switching with show and hide events.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TAB_ACTIVITY_SIMULATOR_H_
 #define CHROME_BROWSER_UI_TABS_TAB_ACTIVITY_SIMULATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved tab group preference registration
+// summary: Registers and manages profile preferences for saved tab groups, including UI update migration state, deletion dialog skip flags, and learn more footer counts.
+// ---
+
 #include "chrome/browser/ui/tabs/saved_tab_groups/saved_tab_group_pref_names.h"
 
 #include "components/pref_registry/pref_registry_syncable.h"

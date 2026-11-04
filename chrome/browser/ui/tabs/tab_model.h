@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabModel class header
+// summary: Declares TabModel, the browser-side tab object implementing TabInterface and WebContentsObserver with model, opener, group and split state.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TAB_MODEL_H_
 #define CHROME_BROWSER_UI_TABS_TAB_MODEL_H_
 

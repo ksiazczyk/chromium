@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab mute utilities implementation
+// summary: Implements helpers to set tab audio mute state with a reason and extension ID, and to retrieve the last mute reason from WebContents metadata.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_muted_utils.h"
 
 #include "chrome/browser/ui/tabs/tab_enums.h"

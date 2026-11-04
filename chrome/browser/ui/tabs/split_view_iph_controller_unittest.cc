@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Split view IPH controller unit tests
+// summary: Unit tests for the split view IPH controller, using mock browser window and user education interfaces to verify when feature promos are shown.
+// ---
+
 #include "chrome/browser/ui/tabs/split_view_iph_controller.h"
 
 #include <memory>

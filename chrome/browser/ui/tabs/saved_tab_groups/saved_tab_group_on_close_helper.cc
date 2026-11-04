@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SavedTabGroupOnCloseHelper implementation
+// summary: Implements SavedTabGroupOnCloseHelper, which adds a deleted tab's URL to a specified closed saved tab group and keeps the window open when the last tab closes.
+// ---
+
 #include "chrome/browser/ui/tabs/saved_tab_groups/saved_tab_group_on_close_helper.h"
 
 #include "chrome/browser/ui/browser_window/public/browser_window_features.h"

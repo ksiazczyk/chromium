@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Back-to-opener controller header
+// summary: Declares the back-to-opener controller and its WebContents observers that track opener validity, tab close timing, and opener activation.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_BACK_TO_OPENER_BACK_TO_OPENER_CONTROLLER_H_
 #define CHROME_BROWSER_UI_TABS_BACK_TO_OPENER_BACK_TO_OPENER_CONTROLLER_H_
 

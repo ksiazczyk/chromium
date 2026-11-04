@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExistingWindowSubMenuModel browser tests
+// summary: Browser tests covering the move-to-existing-window submenu, including window titles, tab counts and ChromeOS desk grouping behavior.
+// ---
+
 #include "chrome/browser/ui/tabs/existing_window_sub_menu_model.h"
 
 #include <memory>

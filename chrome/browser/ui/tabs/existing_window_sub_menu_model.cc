@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExistingWindowSubMenuModel implementation
+// summary: Implements the tab context menu submenu for moving tabs to other open browser windows, including visibility checks and accelerator handling.
+// ---
+
 #include "chrome/browser/ui/tabs/existing_window_sub_menu_model.h"
 
 #include "chrome/browser/profiles/profile.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab mute utilities header
+// summary: Declares the LastMuteMetadata WebContents user data struct and the SetTabAudioMuted and GetTabAudioMutedReason functions for tab audio muting.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TAB_MUTED_UTILS_H_
 #define CHROME_BROWSER_UI_TABS_TAB_MUTED_UTILS_H_
 

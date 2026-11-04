@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Vertical tabs IPH controller header
+// summary: Declares a TabStripModelObserver that triggers the vertical tabs feature promo when crowding criteria are met.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_VERTICAL_TAB_IPH_CONTROLLER_H_
 #define CHROME_BROWSER_UI_TABS_VERTICAL_TAB_IPH_CONTROLLER_H_
 

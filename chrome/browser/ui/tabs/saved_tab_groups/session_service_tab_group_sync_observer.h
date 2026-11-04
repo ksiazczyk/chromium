@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session service tab group sync observer interface
+// summary: Declares an observer that persists saved tab group sync metadata to disk through the session service for the owning browser window.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_SAVED_TAB_GROUPS_SESSION_SERVICE_TAB_GROUP_SYNC_OBSERVER_H_
 #define CHROME_BROWSER_UI_TABS_SAVED_TAB_GROUPS_SESSION_SERVICE_TAB_GROUP_SYNC_OBSERVER_H_
 

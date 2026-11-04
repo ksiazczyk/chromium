@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split view layout menu model header
+// summary: Declares a simple menu model for choosing between side-by-side and stacked split layouts, invoking a callback with the selected layout.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_SPLIT_VIEW_LAYOUT_MENU_MODEL_H_
 #define CHROME_BROWSER_UI_TABS_SPLIT_VIEW_LAYOUT_MENU_MODEL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabMenuModel header
+// summary: Declares TabMenuModel, which constructs the tab context menu contents reflecting the current tab state each time the menu is shown.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TAB_MENU_MODEL_H_
 #define CHROME_BROWSER_UI_TABS_TAB_MENU_MODEL_H_
 

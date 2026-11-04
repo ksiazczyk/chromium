@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab group deletion dialog controller unit tests
+// summary: Unit tests for DeletionDialogController covering dialog state cleanup when the dialog widget or the controller itself is destroyed.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_group_deletion_dialog_controller.h"
 
 #include <memory>

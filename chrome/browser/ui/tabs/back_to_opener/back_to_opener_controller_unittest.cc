@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Back-to-opener controller unit tests
+// summary: Unit tests for the back-to-opener controller covering opener relationship setup, validity checks, and clearing, using mocked browser window and tab strip model.
+// ---
+
 #include "chrome/browser/ui/tabs/back_to_opener/back_to_opener_controller.h"
 
 #include <memory>

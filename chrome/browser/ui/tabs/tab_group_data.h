@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group data
+// summary: Declares data structures and an observer caching tab group information such as titles, URLs, crash state and visual data for tab group hover cards.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_TAB_GROUP_DATA_H_
 #define CHROME_BROWSER_UI_TABS_TAB_GROUP_DATA_H_
 

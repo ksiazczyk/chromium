@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unload controller Glic interactive UI tests
+// summary: Interactive browser tests verifying that the actor tab-close confirmation dialog appears during unload when Glic is accessing a tab, with the relevant features enabled and disabled.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "base/memory/raw_ptr_exclusion.h"
 #include "base/test/scoped_feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the TabGroupHome WebUI controller
+// summary: Implements the TabGroupHome WebUI controller, sets up its data source and resources, and enables it only when the feature flag is on.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_group_home/tab_group_home_ui.h"
 
 #include "base/feature_list.h"

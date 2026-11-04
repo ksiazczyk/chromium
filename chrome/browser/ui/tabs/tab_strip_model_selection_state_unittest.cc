@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabStripModelSelectionState unit tests
+// summary: Unit tests covering selection state behavior such as adding, removing and updating selected, active and anchor tabs.
+// ---
+
 #include "chrome/browser/ui/tabs/tab_strip_model_selection_state.h"
 
 #include <memory>

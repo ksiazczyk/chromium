@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page context eligibility helper header
+// summary: Declares a tab-scoped helper wrapping PageContextEligibilityObserver so other tab features can query and observe page context eligibility of active tabs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_PAGE_CONTEXT_ELIGIBILITY_HELPER_H_
 #define CHROME_BROWSER_UI_TABS_PAGE_CONTEXT_ELIGIBILITY_HELPER_H_
 

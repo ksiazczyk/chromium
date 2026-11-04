@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote tabs menu utilities header
+// summary: Declares helpers shared by menus that show open tabs from the user's other devices, covering visibility rules, icons, favicons, and tab restoration.
+// ---
+
 #ifndef CHROME_BROWSER_UI_TABS_REMOTE_TABS_MENU_UTIL_H_
 #define CHROME_BROWSER_UI_TABS_REMOTE_TABS_MENU_UTIL_H_
 
