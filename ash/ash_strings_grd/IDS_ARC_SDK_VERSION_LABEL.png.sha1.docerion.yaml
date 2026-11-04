@@ -1,0 +1,4 @@
+# Docerion header of IDS_ARC_SDK_VERSION_LABEL.png.sha1.
+type: data
+title: ARC SDK version label screenshot checksum
+summary: Holds the SHA-1 hash of the PNG screenshot for the ARC SDK version label string.
