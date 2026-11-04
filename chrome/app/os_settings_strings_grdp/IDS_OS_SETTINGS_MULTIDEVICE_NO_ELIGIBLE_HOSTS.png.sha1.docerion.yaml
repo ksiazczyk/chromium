@@ -1,0 +1,4 @@
+# Docerion header of IDS_OS_SETTINGS_MULTIDEVICE_NO_ELIGIBLE_HOSTS.png.sha1.
+type: asset
+title: SHA1 for IDS_OS_SETTINGS_MULTIDEVICE_NO_ELIGIBLE_HOSTS
+summary: SHA1 checksum pinning the PNG image for the multidevice message shown when no eligible host devices are available in ChromeOS settings.
