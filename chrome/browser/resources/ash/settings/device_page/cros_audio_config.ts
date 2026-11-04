@@ -8,6 +8,12 @@
  * ability to override it with a fake implementation needed for tests.
  */
 
+// ---docerion
+// type: source
+// title: CrosAudioConfig mojo singleton
+// summary: Provides singleton access to the CrosAudioConfig mojo interface with support for overriding it with a fake implementation in tests.
+// ---
+
 import type {CrosAudioConfigInterface as CrosAudioConfigMojomInterface} from '../mojom-webui/cros_audio_config.mojom-webui.js';
 import {CrosAudioConfig} from '../mojom-webui/cros_audio_config.mojom-webui.js';
 

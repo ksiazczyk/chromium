@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake input device test data
+// summary: Supplies fake keyboards, mice, touchpads, styluses and related settings data used by tests of the input device settings UI.
+// ---
+
 import type {ActionChoice, GraphicsTablet, Keyboard, Mouse, PointingStick, SixPackKeyInfo, Stylus, Touchpad} from './input_device_settings_types.js';
 import {AcceleratorAction, ChargeState, CompanionAppState, CustomizableButton, CustomizationRestriction, ExtendedFkeysModifier, GraphicsTabletButtonConfig, MetaKey, ModifierKey, MouseButtonConfig, SimulateRightClickModifier, SixPackShortcutModifier, StaticShortcutAction, TopRowActionKey, Vkey} from './input_device_settings_types.js';
 

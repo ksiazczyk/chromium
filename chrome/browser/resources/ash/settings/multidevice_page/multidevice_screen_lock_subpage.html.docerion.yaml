@@ -1,0 +1,4 @@
+# Docerion header of multidevice_screen_lock_subpage.html.
+type: source
+title: Multidevice screen lock subpage template
+summary: HTML template for the screen lock setup subpage, offering password-only and PIN-or-password radio options with illustrations and password or PIN setup dialogs.

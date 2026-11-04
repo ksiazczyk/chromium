@@ -7,6 +7,12 @@
  * 'settings-keyboard' is the settings subpage for keyboard settings.
  */
 
+// ---docerion
+// type: source
+// title: Keyboard settings subpage element
+// summary: Implements the settings-keyboard subpage element with modifier key remapping, auto-repeat delay and interval sliders, and deep-link support.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_link_row/cr_link_row.js';
 import 'chrome://resources/polymer/v3_0/iron-collapse/iron-collapse.js';
 import '../controls/settings_slider.js';

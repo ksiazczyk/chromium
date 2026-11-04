@@ -8,6 +8,12 @@
  * individually and for forgetting a host.
  */
 
+// ---docerion
+// type: source
+// title: Multidevice subpage element
+// summary: Implements the settings-multidevice-subpage element for managing multidevice features individually, verifying a pending host and forgetting a device, with deep link support.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_link_row/cr_link_row.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js';

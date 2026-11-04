@@ -8,6 +8,12 @@
  * subsection settings in system settings.
  */
 
+// ---docerion
+// type: source
+// title: Per-device mouse subsection element
+// summary: Defines the settings-per-device-mouse-subsection element for configuring per-mouse settings in ChromeOS system settings.
+// ---
+
 import '../settings_shared.css.js';
 import 'chrome://resources/ash/common/bluetooth/bluetooth_battery_icon_percentage.js';
 import 'chrome://resources/ash/common/cr_elements/localized_link/localized_link.js';

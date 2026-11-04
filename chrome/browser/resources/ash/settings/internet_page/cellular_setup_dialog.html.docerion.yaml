@@ -1,0 +1,4 @@
+# Docerion header of cellular_setup_dialog.html.
+type: source
+title: Cellular setup dialog template
+summary: HTML template wrapping the shared cellular-setup flow in a responsive OS Settings styled dialog with pSIM banner support.

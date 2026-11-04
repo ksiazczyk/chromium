@@ -1,0 +1,4 @@
+# Docerion header of multidevice_task_continuation_item.html.
+type: source
+title: Task continuation feature item template
+summary: Polymer template for the Phone Hub task continuation feature item, showing a disabled toggle and localized link when Chrome Sync Open Tabs is disabled.

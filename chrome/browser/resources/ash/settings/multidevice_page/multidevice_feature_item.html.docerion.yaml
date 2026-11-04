@@ -1,0 +1,4 @@
+# Docerion header of multidevice_feature_item.html.
+type: source
+title: Feature item template
+summary: Polymer template for a multidevice feature row with icon, name, summary, policy indicator, and toggle slot.

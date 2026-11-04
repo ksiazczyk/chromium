@@ -1,0 +1,4 @@
+# Docerion header of kerberos_add_account_dialog.html.
+type: source
+title: Kerberos add account dialog template
+summary: Polymer HTML template for the dialog to add a Kerberos account, with username and password fields, remember-password option and an advanced configuration editor.

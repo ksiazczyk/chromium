@@ -1,0 +1,4 @@
+# Docerion header of internet_subpage.html.
+type: source
+title: Internet subpage template
+summary: HTML template for the network subpage listing WiFi, cellular, Instant Tether and VPN networks with device enable toggles.

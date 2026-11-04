@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart Lock toggle metrics logger
+// summary: Records UMA histogram metrics for Smart Lock enable and disable actions, distinguishing the MultiDevice page and lock screen settings toggles.
+// ---
+
 import {assertNotReached} from 'chrome://resources/js/assert.js';
 
 /**

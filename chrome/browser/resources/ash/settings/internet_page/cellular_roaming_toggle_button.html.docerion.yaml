@@ -1,0 +1,4 @@
+# Docerion header of cellular_roaming_toggle_button.html.
+type: source
+title: Cellular roaming toggle button template
+summary: HTML template for the per-network cellular data roaming toggle with policy-aware styling and sub-labels.

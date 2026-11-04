@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Customize tablet buttons subpage element
+// summary: Implements the customize-tablet-buttons-subpage element for configuring tablet button remappings on selected graphics tablets.
+// ---
+
 /**
  * @fileoverview
  * 'customize-tablet-buttons-subpage' displays the customized tablet buttons

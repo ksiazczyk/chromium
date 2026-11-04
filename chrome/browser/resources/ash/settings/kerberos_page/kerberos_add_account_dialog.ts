@@ -7,6 +7,12 @@
  * 'kerberos-add-account-dialog' is an element to add Kerberos accounts.
  */
 
+// ---docerion
+// type: source
+// title: Kerberos add account dialog element
+// summary: TypeScript implementation of the kerberos-add-account-dialog element that collects credentials and Kerberos config, validates them and reports errors.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_checkbox/cr_checkbox.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';

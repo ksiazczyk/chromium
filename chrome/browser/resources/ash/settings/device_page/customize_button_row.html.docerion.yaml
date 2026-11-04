@@ -1,0 +1,4 @@
+# Docerion header of customize_button_row.html.
+type: source
+title: Customize button row template
+summary: HTML template for a draggable row displaying a remappable button with rename and action dropdown controls.

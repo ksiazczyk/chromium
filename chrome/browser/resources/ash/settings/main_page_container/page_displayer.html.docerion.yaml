@@ -1,0 +1,4 @@
+# Docerion header of page_displayer.html.
+type: source
+title: Page displayer template
+summary: Template for the page-displayer element that hides inactive pages and provides a focusable host for page content.

@@ -11,6 +11,12 @@
  * reflects them in the toggle status.
  */
 
+// ---docerion
+// type: source
+// title: MultiDevice feature toggle element
+// summary: Custom toggle for the MultiDevice settings UI that requests pref changes via the MultiDevice service and reflects real-time feature state updates.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_toggle/cr_toggle.js';
 
 import type {CrToggleElement} from 'chrome://resources/ash/common/cr_elements/cr_toggle/cr_toggle.js';

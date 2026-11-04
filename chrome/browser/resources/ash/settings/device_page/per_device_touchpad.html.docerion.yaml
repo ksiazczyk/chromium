@@ -1,0 +1,4 @@
+# Docerion header of per_device_touchpad.html.
+type: source
+title: Per-device touchpad list template
+summary: Template that repeats a per-device touchpad subsection for each connected touchpad in the settings list.

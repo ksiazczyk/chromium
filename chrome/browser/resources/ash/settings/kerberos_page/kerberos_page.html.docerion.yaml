@@ -1,0 +1,4 @@
+# Docerion header of kerberos_page.html.
+type: source
+title: Kerberos page template
+summary: Polymer HTML template for the Kerberos settings page, showing a link row that opens the Kerberos Accounts subpage.

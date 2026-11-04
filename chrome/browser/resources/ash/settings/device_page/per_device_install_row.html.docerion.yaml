@@ -1,0 +1,4 @@
+# Docerion header of per_device_install_row.html.
+type: source
+title: Per-device install row template
+summary: HTML template showing companion app details with a button that starts the installation flow.

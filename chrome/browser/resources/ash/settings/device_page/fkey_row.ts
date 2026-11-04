@@ -8,6 +8,12 @@
  * set a shortcut for remapping key events to F11/F12.
  */
 
+// ---docerion
+// type: source
+// title: Fkey row element
+// summary: Implements the fkey-row element that shows a top-row key with a dropdown for remapping it to F11 or F12.
+// ---
+
 import './input_device_settings_shared.css.js';
 import '../settings_shared.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js';

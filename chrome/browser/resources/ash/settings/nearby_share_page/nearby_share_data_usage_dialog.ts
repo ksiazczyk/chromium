@@ -8,6 +8,12 @@
  * when using Nearby Share.
  */
 
+// ---docerion
+// type: source
+// title: Nearby Share data usage dialog element
+// summary: Dialog element that saves the chosen data usage option into Nearby Share settings and closes on cancel or save.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 import 'chrome://resources/ash/common/cr_elements/cr_radio_button/cr_radio_button.js';

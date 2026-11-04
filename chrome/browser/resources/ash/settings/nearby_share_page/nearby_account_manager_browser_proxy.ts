@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share account manager browser proxy
+// summary: Browser proxy that exposes the Chrome OS AccountManager GAIA account list to the Nearby Share settings UI.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 
 // TODO(crbug.com/1123712): Add a message handler for this class instead of

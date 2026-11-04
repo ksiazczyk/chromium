@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internet config dialog element
+// summary: Polymer element providing a settings dialog wrapper for network-config to configure or join a network.
+// ---
+
 /**
  * @fileoverview
  * 'internet-config' is a Settings dialog wrapper for network-config.

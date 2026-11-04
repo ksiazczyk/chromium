@@ -9,6 +9,12 @@
  * #include=settings-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Internet shared styles
+summary: Shared CSS styles for network icons, policy icons and layout helpers used by internet page elements.
+*/
+
 network-icon {
   padding-inline-end: var(--cr-section-padding);
 }

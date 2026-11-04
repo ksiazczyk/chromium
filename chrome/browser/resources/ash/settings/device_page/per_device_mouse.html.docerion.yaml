@@ -1,0 +1,4 @@
+# Docerion header of per_device_mouse.html.
+type: source
+title: Per-device mouse list template
+summary: Polymer template that repeats a mouse subsection for each connected mouse along with its policies.

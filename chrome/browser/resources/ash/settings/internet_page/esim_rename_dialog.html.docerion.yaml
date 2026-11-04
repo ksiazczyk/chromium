@@ -1,0 +1,4 @@
+# Docerion header of esim_rename_dialog.html.
+type: source
+title: eSIM rename dialog template
+summary: HTML template for the dialog that renames an eSIM profile, with input validation, character count, error display, and disconnect warning.

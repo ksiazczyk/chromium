@@ -7,6 +7,12 @@
  * special logic for setting up multiple features from one click.
  */
 
+// ---docerion
+// type: source
+// title: Combined setup item element
+// summary: Custom element handling one-click setup of multiple Phone Hub features such as camera roll, notifications, and apps.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/localized_link/localized_link.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import './multidevice_feature_item.js';

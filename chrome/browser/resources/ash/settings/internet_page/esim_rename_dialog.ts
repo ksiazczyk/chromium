@@ -6,6 +6,12 @@
  * @fileoverview Polymer element to rename eSIM profile name
  */
 
+// ---docerion
+// type: source
+// title: eSIM rename dialog element
+// summary: Polymer element that renames an eSIM profile, enforcing length limits and rejecting emoji while reporting rename errors.
+// ---
+
 import 'chrome://resources/ash/common/cellular_setup/cellular_setup_icons.html.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 import 'chrome://resources/ash/common/cr_elements/cr_input/cr_input.js';

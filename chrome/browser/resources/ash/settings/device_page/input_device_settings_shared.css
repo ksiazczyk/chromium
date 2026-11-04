@@ -7,6 +7,12 @@
  * #import=chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shared styles for input device settings UI
+summary: Shared CSS styles for input device settings pages, covering subsection headers, key containers, dialogs, and subpage descriptions.
+*/
+
 :host(:not([is-last-device])) .bottom-divider {
   border-bottom: var(--cr-separator-line);
 }

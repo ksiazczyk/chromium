@@ -11,6 +11,12 @@
  * feature's autonomous page if there is one.
  */
 
+// ---docerion
+// type: source
+// title: Feature item element
+// summary: Custom element for an individual multidevice feature, supporting toggling and navigation to a feature subpage.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/localized_link/localized_link.js';
 import 'chrome://resources/ash/common/cr_elements/cr_icon_button/cr_icon_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js';

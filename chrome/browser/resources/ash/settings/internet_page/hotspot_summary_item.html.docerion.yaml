@@ -1,0 +1,4 @@
+# Docerion header of hotspot_summary_item.html.
+type: source
+title: Hotspot summary item template
+summary: HTML template for the hotspot summary row, showing the hotspot icon, state sublabel, policy indicator, and an enable toggle.

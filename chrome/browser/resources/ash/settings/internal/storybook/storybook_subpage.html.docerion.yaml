@@ -1,0 +1,4 @@
+# Docerion header of storybook_subpage.html.
+type: source
+title: Settings storybook subpage markup
+summary: HTML template for the settings storybook subpage, providing a sidenav and demo pages for toggle, slider, dropdown, and row components.

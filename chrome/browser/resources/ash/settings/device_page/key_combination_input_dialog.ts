@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key combination input dialog element
+// summary: Implements the key-combination-input-dialog element that pops up after choosing the Key combination option to record keyboard keys as a remapping action.
+// ---
+
 import 'chrome://resources/ash/common/shortcut_input_ui/shortcut_input_key.js';
 import 'chrome://resources/ash/common/shortcut_input_ui/shortcut_input.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';

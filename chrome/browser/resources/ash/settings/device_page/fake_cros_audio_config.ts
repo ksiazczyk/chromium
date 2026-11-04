@@ -7,6 +7,12 @@
  * Fake implementation of CrosAudioConfig for testing.
  */
 
+// ---docerion
+// type: test
+// title: Fake CrosAudioConfig implementation
+// summary: Fake CrosAudioConfig mojo implementation with predefined audio devices such as mics and speakers, used for testing the audio settings UI.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import type {AudioDevice, AudioSystemProperties, CrosAudioConfigInterface, VoiceIsolationUIAppearance} from '../mojom-webui/cros_audio_config.mojom-webui.js';

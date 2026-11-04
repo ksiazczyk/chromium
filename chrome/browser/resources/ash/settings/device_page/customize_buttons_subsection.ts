@@ -8,6 +8,12 @@
  * elements that allow users to remap buttons to actions or key combinations.
  */
 
+// ---docerion
+// type: source
+// title: Customize buttons subsection element
+// summary: Implements the customize-buttons-subsection element that manages button remapping rows, renaming validation, and drag-and-drop reordering.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 import 'chrome://resources/ash/common/cr_elements/cr_input/cr_input.js';

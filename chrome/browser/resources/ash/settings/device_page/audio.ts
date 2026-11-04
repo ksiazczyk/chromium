@@ -8,6 +8,12 @@
  * settings.
  */
 
+// ---docerion
+// type: source
+// title: Audio settings element
+// summary: Implements the settings-audio element for configuring audio output, input, mute states, and voice isolation in ChromeOS settings.
+// ---
+
 import '../settings_shared.css.js';
 import '//resources/ash/common/cr_elements/cr_shared_style.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_icon_button/cr_icon_button.js';

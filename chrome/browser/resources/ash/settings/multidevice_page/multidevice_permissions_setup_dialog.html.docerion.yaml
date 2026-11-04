@@ -1,0 +1,4 @@
+# Docerion header of multidevice_permissions_setup_dialog.html.
+type: source
+title: Permissions setup dialog template
+summary: HTML template for the Phone Hub notification and apps permissions setup dialog with layout for its intro, progress, and failure states.

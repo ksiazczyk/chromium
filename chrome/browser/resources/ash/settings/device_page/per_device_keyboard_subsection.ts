@@ -8,6 +8,12 @@
  * per-device-keyboard subsection settings in system settings.
  */
 
+// ---docerion
+// type: source
+// title: Per-device keyboard subsection element
+// summary: Defines the settings-per-device-keyboard-subsection element for configuring per-keyboard settings in ChromeOS system settings.
+// ---
+
 import '../settings_shared.css.js';
 import 'chrome://resources/ash/common/cr_elements/localized_link/localized_link.js';
 import 'chrome://resources/ash/common/cr_elements/cr_link_row/cr_link_row.js';

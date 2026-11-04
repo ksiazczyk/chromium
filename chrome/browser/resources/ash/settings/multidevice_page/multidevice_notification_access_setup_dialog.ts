@@ -9,6 +9,12 @@
  * notifications to be mirrored on their Chromebook.
  */
 
+// ---docerion
+// type: source
+// title: Notification access setup dialog element
+// summary: Implements the Phone Hub notification access setup flow dialog that enables mirroring phone notifications on the Chromebook when completed.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_style.css.js';

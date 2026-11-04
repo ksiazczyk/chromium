@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest OS browser proxy
+// summary: Browser proxy used by guest OS settings pages to manage shared paths and USB device sharing.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 
 /**

@@ -1,0 +1,4 @@
+# Docerion header of storage.html.
+type: source
+title: Storage settings subpage template
+summary: HTML template for the storage settings subpage, showing a disk usage progress bar, low space warnings, and storage category breakdowns.

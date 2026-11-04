@@ -1,0 +1,4 @@
+# Docerion header of power_optimized_charging_dialog.html.
+type: source
+title: Optimized charging dialog template
+summary: HTML template for the optimized charging dialog that lets users choose between adaptive charging and battery charge limit via radio buttons.

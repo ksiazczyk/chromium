@@ -7,6 +7,12 @@
  * a toggle button below the network summary item.
  */
 
+// ---docerion
+// type: source
+// title: Hotspot summary item element
+// summary: Polymer element displaying a hotspot summary item row with a toggle button and navigation to the hotspot detail page.
+// ---
+
 import 'chrome://resources/ash/common/network/network_icon.js';
 import 'chrome://resources/ash/common/cr_elements/cr_icon_button/cr_icon_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js';

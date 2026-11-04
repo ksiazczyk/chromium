@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Always-on VPN settings element
+// summary: Polymer element for displaying and modifying always-on VPN settings, including the enable toggle, lockdown mode, and VPN service selection.
+// ---
+
 /**
  * @fileoverview Polymer element for displaying and modifying always-on VPN
  * settings.

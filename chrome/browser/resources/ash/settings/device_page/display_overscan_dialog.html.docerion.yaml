@@ -1,0 +1,4 @@
+# Docerion header of display_overscan_dialog.html.
+type: source
+title: Display overscan dialog HTML template
+summary: Template for the overscan dialog explaining keyboard shortcuts to resize and reposition the display, with reset and save buttons.

@@ -1,0 +1,4 @@
+# Docerion header of per_device_keyboard_remap_keys.html.
+type: source
+title: Per-device keyboard remap keys UI template
+summary: Polymer template rendering per-keyboard key remapping rows for modifier keys and other keys in ChromeOS settings.

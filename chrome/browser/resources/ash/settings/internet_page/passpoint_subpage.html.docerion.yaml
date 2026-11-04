@@ -1,0 +1,4 @@
+# Docerion header of passpoint_subpage.html.
+type: source
+title: Passpoint subscription subpage template
+summary: Template for the settings subpage showing Passpoint subscription details such as expiration, provider, trusted CA, associated networks, domains, and a removal dialog.

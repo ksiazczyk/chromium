@@ -8,6 +8,12 @@
  * per-device-touchpad subsection settings in system settings.
  */
 
+// ---docerion
+// type: source
+// title: Per-device touchpad subsection element
+// summary: Defines the settings-per-device-touchpad-subsection element that manages individual touchpad preferences and related device settings.
+// ---
+
 import '../settings_shared.css.js';
 import 'chrome://resources/ash/common/cr_elements/localized_link/localized_link.js';
 import 'chrome://resources/ash/common/cr_elements/cr_link_row/cr_link_row.js';

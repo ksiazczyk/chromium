@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiDevice constants and enums
+// summary: Defines enums for multidevice settings modes, features, feature states, and Phone Hub permission setup flows.
+// ---
+
 /**
  * The possible statuses of hosts on the logged in account that determine the
  * page content. Note that this is based on (and must include an analog of

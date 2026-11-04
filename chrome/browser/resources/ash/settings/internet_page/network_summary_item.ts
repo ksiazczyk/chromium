@@ -9,6 +9,12 @@
  * section. See crbug.com/40522596.
  */
 
+// ---docerion
+// type: source
+// title: Network summary item element
+// summary: Polymer element showing the active network state and network list for a type, combining Cellular and Tether into a single mobile data section.
+// ---
+
 import 'chrome://resources/ash/common/network/network_icon.js';
 import 'chrome://resources/ash/common/cr_elements/cr_icon_button/cr_icon_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_toggle/cr_toggle.js';

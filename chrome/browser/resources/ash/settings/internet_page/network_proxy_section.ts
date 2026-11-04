@@ -8,6 +8,12 @@
  * shared networks'.
  */
 
+// ---docerion
+// type: source
+// title: Network proxy section element
+// summary: Polymer element hosting the network-proxy control in the internet detail page and managing the allow shared proxies preference.
+// ---
+
 import 'chrome://resources/ash/common/network/cr_policy_network_indicator_mojo.js';
 import 'chrome://resources/ash/common/network/network_proxy.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';

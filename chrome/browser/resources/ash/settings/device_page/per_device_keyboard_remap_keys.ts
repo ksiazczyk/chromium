@@ -8,6 +8,12 @@
  * allow users to configure their keyboard remapped keys for each keyboard.
  */
 
+// ---docerion
+// type: source
+// title: Per-device keyboard remap keys element
+// summary: Defines the settings-per-device-keyboard-remap-keys element that lets users configure remapped keys for each connected keyboard.
+// ---
+
 import '../settings_shared.css.js';
 import '../controls/settings_dropdown_menu.js';
 import './input_device_settings_shared.css.js';

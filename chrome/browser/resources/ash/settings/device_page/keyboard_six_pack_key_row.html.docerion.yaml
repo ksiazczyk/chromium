@@ -1,0 +1,4 @@
+# Docerion header of keyboard_six_pack_key_row.html.
+type: source
+title: Keyboard six pack key row template
+summary: HTML template for the six pack key row, pairing a key label with a dropdown menu bound to a pref.

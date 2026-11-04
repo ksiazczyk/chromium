@@ -1,0 +1,4 @@
+# Docerion header of hotspot_subpage.html.
+type: source
+title: Hotspot subpage template
+summary: HTML template for the hotspot settings subpage with an on/off toggle, configuration row, auto-disable setting, and connected device count.

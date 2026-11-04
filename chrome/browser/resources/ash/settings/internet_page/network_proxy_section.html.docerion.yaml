@@ -1,0 +1,4 @@
+# Docerion header of network_proxy_section.html.
+type: source
+title: Network proxy section template
+summary: HTML template for the proxy settings section with policy indicators, extension-controlled indicator, shared proxies toggle, and confirmation dialog.

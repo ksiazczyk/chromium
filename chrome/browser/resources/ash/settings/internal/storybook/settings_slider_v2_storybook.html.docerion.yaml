@@ -1,0 +1,4 @@
+# Docerion header of settings_slider_v2_storybook.html.
+type: source
+title: Settings slider v2 storybook demo
+summary: Storybook demo template for the settings-slider-v2 element, showing ticks, hidden markers, scale, and managed-via-pref variants.

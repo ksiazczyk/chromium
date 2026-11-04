@@ -11,6 +11,12 @@
  * when an eligible element is dropped.
  */
 
+// ---docerion
+// type: source
+// title: Drag and drop manager for customize button rows
+// summary: Handles drag-and-drop reordering of customize button rows, showing the drop indicator, calculating drop positions and invoking drop callbacks.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import {EventTracker} from 'chrome://resources/js/event_tracker.js';
 

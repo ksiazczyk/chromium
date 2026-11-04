@@ -6,6 +6,12 @@
  * @fileoverview Polymer element to remove eSIM profile
  */
 
+// ---docerion
+// type: source
+// title: eSIM remove profile dialog element
+// summary: Polymer element that uninstalls the selected eSIM profile, navigates back to the cellular networks list, and shows an error toast on failure.
+// ---
+
 import 'chrome://resources/ash/common/cellular_setup/cellular_setup_icons.html.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';

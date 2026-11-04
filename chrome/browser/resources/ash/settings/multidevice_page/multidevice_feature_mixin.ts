@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiDevice feature mixin
+// summary: Polymer mixin sharing page content data and feature state helpers across multidevice settings elements.
+// ---
+
 /**
  * @fileoverview Polymer behavior for dealing with MultiDevice features. It is
  * intended to facilitate passing data between elements in the MultiDevice page

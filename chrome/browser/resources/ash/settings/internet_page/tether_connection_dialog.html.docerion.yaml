@@ -1,0 +1,4 @@
+# Docerion header of tether_connection_dialog.html.
+type: source
+title: Tether connection dialog template
+summary: Template for the tether connection dialog showing the host phone's signal and battery, carrier warning, connection notes, and connect and cancel buttons.

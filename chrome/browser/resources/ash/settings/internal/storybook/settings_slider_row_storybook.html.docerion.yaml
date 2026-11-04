@@ -1,0 +1,4 @@
+# Docerion header of settings_slider_row_storybook.html.
+type: source
+title: Settings slider row storybook demo
+summary: Storybook demo template for the settings-slider-row element, showing tick marks, hidden markers, managed pref, and scale variants.

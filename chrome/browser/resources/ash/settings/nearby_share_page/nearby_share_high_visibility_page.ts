@@ -8,6 +8,12 @@
  * visibility mode at any time.
  */
 
+// ---docerion
+// type: source
+// title: Nearby Share high visibility page element
+// summary: Polymer element for the high-visibility receive page, counting down remaining broadcast time and reporting error states such as timeout or advertising failure.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_lottie/cr_lottie.js';
 import 'chrome://resources/cros_components/lottie_renderer/lottie-renderer.js';
 import 'chrome://resources/polymer/v3_0/iron-icon/iron-icon.js';

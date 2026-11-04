@@ -4,6 +4,12 @@
 
 /** @fileoverview A helper object used for Internet page. */
 
+// ---docerion
+// type: source
+// title: Internet page browser proxy
+// summary: Browser proxy interface that forwards internet page actions such as cellular activation, portal signin and third-party VPN configuration to the browser.
+// ---
+
 import {addWebUiListener} from 'chrome://resources/js/cr.js';
 
 export interface InternetPageBrowserProxy {

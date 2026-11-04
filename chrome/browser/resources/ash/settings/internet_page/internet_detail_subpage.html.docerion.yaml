@@ -1,0 +1,4 @@
+# Docerion header of internet_detail_subpage.html.
+type: source
+title: Internet detail subpage template
+summary: HTML template for the network detail settings subpage, showing network state, policy indicators, and action buttons like connect, forget, and configure.

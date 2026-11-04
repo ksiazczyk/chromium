@@ -8,6 +8,12 @@
  * up screen lock.
  */
 
+// ---docerion
+// type: source
+// title: Multidevice screen lock subpage element
+// summary: Implements the settings-multidevice-screen-lock-subpage element for setting up screen lock, managing auth tokens, PIN state, policy restrictions and dialogs.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js';
 import '../os_people_page/lock_screen_password_prompt_dialog.js';
 import '../os_people_page/setup_pin_dialog.js';

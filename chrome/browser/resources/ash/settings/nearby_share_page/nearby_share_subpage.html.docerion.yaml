@@ -1,0 +1,4 @@
+# Docerion header of nearby_share_subpage.html.
+type: source
+title: Nearby Share settings subpage template
+summary: HTML template for the Nearby Share settings subpage with the feature toggle, setup row, device name, visibility, and data usage entries.

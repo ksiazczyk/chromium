@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Guest OS settings DIR_METADATA
+summary: Directory metadata that mixes in the common guest OS metadata for the Chrome settings guest OS folder.

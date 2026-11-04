@@ -1,0 +1,4 @@
+# Docerion header of nearby_share_receive_dialog.html.
+type: source
+title: Nearby Share receive dialog template
+summary: HTML template for the receive dialog that hosts the high visibility, confirm, onboarding, and visibility views in a view manager.

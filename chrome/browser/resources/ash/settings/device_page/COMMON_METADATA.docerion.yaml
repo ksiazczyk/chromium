@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Device page COMMON_METADATA
+summary: Declares the owning ChromeOS team and Buganizer component for the device page directory.

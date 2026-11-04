@@ -1,0 +1,4 @@
+# Docerion header of display_night_light.html.
+type: source
+title: Night Light settings HTML template
+summary: Template for the Night Light section with an enable toggle, color temperature slider, schedule options and a geolocation warning dialog.

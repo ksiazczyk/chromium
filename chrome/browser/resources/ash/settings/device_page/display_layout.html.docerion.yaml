@@ -1,0 +1,4 @@
+# Docerion header of display_layout.html.
+type: source
+title: Display layout HTML template
+summary: Template rendering draggable display boxes that visualize and let users arrange the physical layout of connected displays.

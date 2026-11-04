@@ -17,6 +17,12 @@
  * is a special case containing two links.
  */
 
+// ---docerion
+// type: source
+// title: Task continuation feature item element
+// summary: Defines the settings-multidevice-task-continuation-item element, which enables the Phone Hub task continuation toggle only when Chrome Sync Open Tabs is active.
+// ---
+
 import './multidevice_feature_item.js';
 import './multidevice_task_continuation_disabled_link.js';
 import 'chrome://resources/ash/common/cr_elements/cr_toggle/cr_toggle.js';

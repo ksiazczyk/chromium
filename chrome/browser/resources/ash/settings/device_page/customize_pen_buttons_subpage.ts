@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Customize pen buttons subpage element
+// summary: Implements the customize-pen-buttons-subpage element for configuring pen button remappings on selected graphics tablets.
+// ---
+
 /**
  * @fileoverview
  * 'customize-pen-buttons-subpage' displays the customized pen buttons on

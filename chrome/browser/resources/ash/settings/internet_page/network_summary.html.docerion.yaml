@@ -1,0 +1,4 @@
+# Docerion header of network_summary.html.
+type: source
+title: Network summary template
+summary: HTML template that lists a network summary item per network type and optionally shows the hotspot summary item.

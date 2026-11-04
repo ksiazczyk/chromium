@@ -1,0 +1,4 @@
+# Docerion header of multidevice_page.html.
+type: source
+title: MultiDevice settings page template
+summary: HTML template for the MultiDevice settings page, including the Better Together suite item, feature toggles, and the Nearby Share entry.

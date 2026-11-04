@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings storybook subpage element
+// summary: Polymer element for the settings storybook subpage that hosts the component demo pages and switches between them on sidenav selection.
+// ---
+
 import 'chrome://resources/cros_components/sidenav/sidenav.js';
 import '../../settings_shared.css.js';
 import './storybook_styles.css.js';

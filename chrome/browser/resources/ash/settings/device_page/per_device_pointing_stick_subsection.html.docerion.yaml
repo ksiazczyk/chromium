@@ -1,0 +1,4 @@
+# Docerion header of per_device_pointing_stick_subsection.html.
+type: source
+title: Per-device pointing stick subsection template
+summary: Polymer template for the per-device pointing stick settings subsection, with primary button swap dropdown, acceleration toggle, and speed slider.

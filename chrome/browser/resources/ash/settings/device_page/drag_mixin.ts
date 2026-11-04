@@ -7,6 +7,12 @@
  *     Draggable elements must have the 'draggable' attribute set.
  */
 
+// ---docerion
+// type: source
+// title: Drag mixin for draggable elements
+// summary: Polymer mixin that adds mouse, touch and keyboard dragging behavior for elements in a container, reporting drag positions through a callback.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import type {PolymerElement} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import {dedupingMixin} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';

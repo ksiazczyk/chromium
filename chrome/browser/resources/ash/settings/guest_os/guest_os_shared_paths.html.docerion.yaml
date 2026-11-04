@@ -1,0 +1,4 @@
+# Docerion header of guest_os_shared_paths.html.
+type: source
+title: Guest OS shared paths template
+summary: HTML template listing shared paths with remove buttons and a dialog for failed removals.

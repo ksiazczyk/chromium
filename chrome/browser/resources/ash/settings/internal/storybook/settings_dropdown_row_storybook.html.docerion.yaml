@@ -1,0 +1,4 @@
+# Docerion header of settings_dropdown_row_storybook.html.
+type: source
+title: Settings dropdown row storybook demo
+summary: Storybook demo template for the settings-dropdown-row element, showing basic and managed-via-pref variants with a disable toggle.

@@ -1,0 +1,4 @@
+# Docerion header of power.html.
+type: source
+title: Power settings subpage template
+summary: HTML template for the ChromeOS power settings subpage, covering power source selection, adaptive charging, battery saver, and idle behavior rows.

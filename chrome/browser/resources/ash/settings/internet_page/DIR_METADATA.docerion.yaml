@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for internet_page
+summary: Points to the shared network WebUI COMMON_METADATA mixins that apply to this directory.

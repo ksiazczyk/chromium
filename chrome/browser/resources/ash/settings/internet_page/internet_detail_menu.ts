@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internet detail menu element
+// summary: Polymer element providing additional actions, such as renaming or removing eSIM profiles, for a network on the detail page.
+// ---
+
 /**
  * @fileoverview 'settings-internet-detail-menu' is a menu that provides
  * additional actions for a network in the network detail page.

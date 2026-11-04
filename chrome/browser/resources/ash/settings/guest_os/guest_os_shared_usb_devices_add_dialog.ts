@@ -8,6 +8,12 @@
  * fields and clicking add.
  */
 
+// ---docerion
+// type: source
+// title: Guest OS shared USB devices add dialog element
+// summary: Polymer element implementing the add shared USB device dialog, letting users pick a device and target VM or container and confirm reassignment.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 import 'chrome://resources/ash/common/cr_elements/md_select.css.js';

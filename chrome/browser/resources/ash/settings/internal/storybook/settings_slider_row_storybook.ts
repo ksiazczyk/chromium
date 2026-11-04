@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings slider row storybook element
+// summary: Defines the settings-slider-row-storybook Polymer element that supplies demo ticks, values, and a managed pref for the slider row storybook page.
+// ---
+
 import '../../controls/v2/settings_slider_row.js';
 
 import type {SliderTick} from 'chrome://resources/ash/common/cr_elements/cr_slider/cr_slider.js';

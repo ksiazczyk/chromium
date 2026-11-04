@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest OS container select element
+// summary: Polymer element enabling selection of a target container from a list stored in preferences.
+// ---
+
 /**
  * @fileoverview 'settings-guest-os-container-select' is a component enabling a
  * user to select a target container from a list stored in prefs.

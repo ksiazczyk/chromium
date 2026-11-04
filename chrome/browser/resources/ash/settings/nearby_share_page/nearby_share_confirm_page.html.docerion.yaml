@@ -1,0 +1,4 @@
+# Docerion header of nearby_share_confirm_page.html.
+type: source
+title: Nearby Share confirm page template
+summary: HTML template for the page that lets a user accept or reject an incoming Nearby Share request, showing progress, connection token, payload preview, and errors.

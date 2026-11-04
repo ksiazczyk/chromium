@@ -7,6 +7,12 @@
  * 'main-page-container' is the container hosting all the top-level pages.
  */
 
+// ---docerion
+// type: source
+// title: Main page container element
+// summary: Polymer element that hosts all top-level ChromeOS settings pages, wiring preferences, page availability, and banner state.
+// ---
+
 /**
  * All top-level basic pages should be imported below.
  */

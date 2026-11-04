@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest OS confirmation dialog element
+// summary: Polymer element wrapping cr-dialog to show a confirmation dialog that reports whether it was accepted.
+// ---
+
 /**
  * @fileoverview 'settings-guest-os-confirmation-dialog' is a wrapper of
  * <cr-dialog> which

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Device page DIR_METADATA
+summary: Directory metadata that references the shared COMMON_METADATA file for team and bug component info.

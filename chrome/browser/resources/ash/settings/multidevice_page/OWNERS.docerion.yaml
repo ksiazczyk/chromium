@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the multidevice page
+summary: Delegates code ownership to the owners of the ChromeOS MultiDevice component.

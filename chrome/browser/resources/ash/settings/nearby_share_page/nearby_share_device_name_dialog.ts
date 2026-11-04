@@ -8,6 +8,12 @@
  * when using Nearby Share.
  */
 
+// ---docerion
+// type: source
+// title: Nearby Share device name dialog element
+// summary: Dialog element that lets users edit and validate the Nearby Share device display name, showing errors for empty, too long, or invalid names.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 import 'chrome://resources/ash/common/cr_elements/cr_input/cr_input.js';

@@ -15,6 +15,12 @@
  * special case containing two links.
  */
 
+// ---docerion
+// type: source
+// title: Wi-Fi sync feature item element
+// summary: Defines the settings-multidevice-wifi-sync-item element, which enables the Wi-Fi Sync toggle only when OS sync of Wi-Fi configurations is active.
+// ---
+
 import './multidevice_feature_item.js';
 import './multidevice_wifi_sync_disabled_link.js';
 import 'chrome://resources/ash/common/cr_elements/cr_toggle/cr_toggle.js';

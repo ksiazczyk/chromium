@@ -1,0 +1,4 @@
+# Docerion header of esim_remove_profile_dialog.html.
+type: source
+title: eSIM remove profile dialog template
+summary: HTML template for the confirmation dialog that removes an eSIM profile, with a cellular disconnect warning and accessible button labels.

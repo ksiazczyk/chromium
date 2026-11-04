@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tether connection dialog element
+// summary: Polymer element implementing the tether connection dialog, converting signal strength to icon bars and firing a tether-connect event on confirmation.
+// ---
+
 import 'chrome://resources/ash/common/network/network_icon.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';

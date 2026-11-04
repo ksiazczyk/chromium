@@ -1,0 +1,4 @@
+# Docerion header of cellular_networks_list.html.
+type: source
+title: Cellular networks list template
+summary: HTML template showing eSIM and cellular network lists with add-eSIM controls, policy indicators, and inhibited-device messaging.

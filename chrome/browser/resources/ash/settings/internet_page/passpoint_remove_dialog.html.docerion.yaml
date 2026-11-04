@@ -1,0 +1,4 @@
+# Docerion header of passpoint_remove_dialog.html.
+type: source
+title: Passpoint remove dialog template
+summary: Dialog template that tells users a Passpoint network is managed by a subscription and offers a button to go to the subscription provider.
