@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpgradeObserver interface
+// summary: Defines the UpgradeObserver interface with callbacks for deferred updates, cellular permission, upgrade recommendations, and outdated installs.
+// ---
+
 #ifndef CHROME_BROWSER_UPGRADE_DETECTOR_UPGRADE_OBSERVER_H_
 #define CHROME_BROWSER_UPGRADE_DETECTOR_UPGRADE_OBSERVER_H_
 

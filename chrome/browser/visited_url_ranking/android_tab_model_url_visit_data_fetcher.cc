@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android tab model URL visit data fetcher implementation
+// summary: Implements fetching URL visit data from Android tab models, mapping tab launch types to tab origins and building aggregate tab entries.
+// ---
+
 #include "chrome/browser/visited_url_ranking/android_tab_model_url_visit_data_fetcher.h"
 
 #include <algorithm>

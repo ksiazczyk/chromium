@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUSB chooser interface
+// summary: Defines the interface web pages use to request user permission to access a USB device.
+// ---
+
 #ifndef CHROME_BROWSER_USB_WEB_USB_CHOOSER_H_
 #define CHROME_BROWSER_USB_WEB_USB_CHOOSER_H_
 

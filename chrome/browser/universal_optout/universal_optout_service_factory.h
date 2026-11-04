@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Universal opt-out service factory header
+// summary: Declares UniversalOptOutServiceFactory, a ProfileKeyedServiceFactory exposing GetInstance and GetForProfile for per-profile service access.
+// ---
+
 #ifndef CHROME_BROWSER_UNIVERSAL_OPTOUT_UNIVERSAL_OPTOUT_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_UNIVERSAL_OPTOUT_UNIVERSAL_OPTOUT_SERVICE_FACTORY_H_
 

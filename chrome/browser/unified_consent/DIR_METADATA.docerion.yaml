@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for unified consent
+summary: Points the chrome unified consent directory to the shared component metadata via a mixin entry.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BrowserUiUtils
+// summary: Robolectric unit tests verifying BrowserUiUtils histogram and user action recording for tab switcher clicks and Android Auto projected detection.
+// ---
+
 package org.chromium.chrome.browser.util;
 
 import static org.mockito.Mockito.mock;

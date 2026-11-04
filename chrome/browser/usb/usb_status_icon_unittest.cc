@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: USB status icon unit tests
+// summary: Unit tests for UsbStatusIcon covering tray icon titles, messages and connection tracking across profiles.
+// ---
+
 #include "chrome/browser/usb/usb_status_icon.h"
 
 #include <string>

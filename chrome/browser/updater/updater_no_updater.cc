@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: No-updater fallback implementation
+// summary: Fallback implementation of the updater functions for builds without an updater, returning empty states and update errors.
+// ---
+
 #include "chrome/browser/updater/updater.h"
 
 #include <optional>

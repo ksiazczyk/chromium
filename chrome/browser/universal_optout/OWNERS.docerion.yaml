@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for universal_optout
+summary: Delegates code ownership to the OWNERS file of the components/universal_optout directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop WebUSB chooser implementation
+// summary: Shows the USB device chooser dialog bubble for desktop browsers when a page requests device access.
+// ---
+
 #include "chrome/browser/usb/web_usb_chooser_desktop.h"
 
 #include <utility>

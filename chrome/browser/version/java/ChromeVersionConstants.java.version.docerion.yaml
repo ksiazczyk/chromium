@@ -1,0 +1,4 @@
+# Docerion header of ChromeVersionConstants.java.version.
+type: source
+title: ChromeVersionConstants.java.version
+summary: Java template defining Chrome-specific version constants, extending VersionConstants with a product name placeholder substituted at build time.

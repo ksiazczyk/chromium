@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUSB detector header
+// summary: Declares WebUsbDetector, which observes USB device additions and removals to manage landing page notifications.
+// ---
+
 #ifndef CHROME_BROWSER_USB_WEB_USB_DETECTOR_H_
 #define CHROME_BROWSER_USB_WEB_USB_DETECTOR_H_
 

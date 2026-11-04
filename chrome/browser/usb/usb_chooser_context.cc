@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UsbChooserContext implementation
+// summary: Implements per-profile storage of granted USB device permissions, device tracking and policy-based device access for WebUSB.
+// ---
+
 #include "chrome/browser/usb/usb_chooser_context.h"
 
 #include <memory>

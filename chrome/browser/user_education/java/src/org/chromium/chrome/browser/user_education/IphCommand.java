@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IphCommand data class for in-product help
+// summary: Encapsulates the data needed to show an in-product help bubble, including strings, anchor views, callbacks, timeouts and highlight options, with resource resolution support.
+// ---
+
 package org.chromium.chrome.browser.user_education;
 
 import android.content.res.Resources;

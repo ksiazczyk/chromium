@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8 compile hints tab helper header
+// summary: Declares the V8CompileHintsTabHelper class, a WebContentsObserver that requests V8_COMPILE_HINTS data from the Optimization Guide and forwards it to the renderer.
+// ---
+
 #ifndef CHROME_BROWSER_V8_COMPILE_HINTS_V8_COMPILE_HINTS_TAB_HELPER_H_
 #define CHROME_BROWSER_V8_COMPILE_HINTS_V8_COMPILE_HINTS_TAB_HELPER_H_
 

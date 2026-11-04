@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync-to-signin unified consent browser tests
+// summary: Browser tests verifying anonymized URL-keyed data collection consent when signing in without full sync, including passphrase cases.
+// ---
+
 #include <memory>
 #include <string>
 

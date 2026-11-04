@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: USB policy allowed devices unit tests
+// summary: Unit tests verifying that the device-to-origins map is built and dynamically updated from the WebUsbAllowDevicesForUrls policy preference.
+// ---
+
 #include "chrome/browser/usb/usb_policy_allowed_devices.h"
 
 #include <memory>

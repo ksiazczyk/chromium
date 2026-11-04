@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop tab model URL visit data fetcher browser tests
+// summary: In-process browser tests verifying that the desktop fetcher returns deduplicated tab data from open browser windows.
+// ---
+
 #include "chrome/browser/visited_url_ranking/desktop_tab_model_url_visit_data_fetcher.h"
 
 #include "base/run_loop.h"

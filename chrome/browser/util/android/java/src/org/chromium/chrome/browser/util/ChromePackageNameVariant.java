@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Android package name constants
+// summary: Holds package name constants for Chrome variants on Android, covering stable, beta, dev, canary, and Chromium builds.
+// ---
+
 package org.chromium.chrome.browser.util;
 
 import org.chromium.build.annotations.NullMarked;

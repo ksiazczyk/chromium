@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners reference for the updater directory
+summary: Delegates code ownership of this directory to the owners of components/update_client.

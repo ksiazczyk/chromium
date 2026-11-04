@@ -1,0 +1,4 @@
+# Docerion header of browser_updater_client_mac.mm.
+type: source
+title: macOS implementation of the browser updater client
+summary: Implements app ID, existence checker path and registration request details for macOS.

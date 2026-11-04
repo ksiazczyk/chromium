@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: USB chooser controller class declaration
+// summary: Declares the UsbChooserController class that presents a chooser for WebUSB devices and observes device additions and removals.
+// ---
+
 #ifndef CHROME_BROWSER_USB_USB_CHOOSER_CONTROLLER_H_
 #define CHROME_BROWSER_USB_USB_CHOOSER_CONTROLLER_H_
 

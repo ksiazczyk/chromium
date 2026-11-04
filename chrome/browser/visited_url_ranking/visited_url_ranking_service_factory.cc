@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Visited URL ranking service factory implementation
+// summary: Implements the per-profile VisitedURLRankingServiceFactory, wiring up data fetchers and transformers to build the visited URL ranking service.
+// ---
+
 #include "chrome/browser/visited_url_ranking/visited_url_ranking_service_factory.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUSB detector browser tests
+// summary: Browser tests verifying WebUSB device notifications, landing page navigation and notification metrics using fake USB devices.
+// ---
+
 #include "chrome/browser/usb/web_usb_detector.h"
 
 #include <memory>

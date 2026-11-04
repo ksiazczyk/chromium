@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recent session tracker implementation
+// summary: Implements RecentSessionTracker, recording recent session start times with retention limits and notifying observers of updates.
+// ---
+
 #include "chrome/browser/user_education/recent_session_tracker.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android task and Document API utilities
+// summary: Utility class handling Android Document-related API calls such as finishing duplicate tasks with matching intent data and moving tasks between displays.
+// ---
+
 package org.chromium.chrome.browser.util;
 
 import android.app.ActivityManager;

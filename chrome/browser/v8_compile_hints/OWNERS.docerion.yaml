@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the v8_compile_hints directory
+summary: Lists the code owners responsible for reviewing changes to the v8_compile_hints directory.

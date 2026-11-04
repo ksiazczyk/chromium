@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserTutorialService implementation
+// summary: Implements the browser-level tutorial service, overriding the body icon alt text to return a localized Chrome tip string.
+// ---
+
 #include "chrome/browser/user_education/browser_tutorial_service.h"
 
 #include "chrome/grit/generated_resources.h"

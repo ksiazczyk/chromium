@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS periodic task scheduling
+// summary: macOS implementation that ensures the updater is present before checking its health and waking it.
+// ---
+
 #include "chrome/browser/updater/scheduler.h"
 
 #include <utility>

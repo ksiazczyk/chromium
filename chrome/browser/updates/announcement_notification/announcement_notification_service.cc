@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Announcement notification service implementation
+// summary: Implements the service that decides when to show the announcement notification based on Finch parameters, preferences, and first-run state.
+// ---
+
 #include "chrome/browser/updates/announcement_notification/announcement_notification_service.h"
 
 #include "base/files/file_path.h"

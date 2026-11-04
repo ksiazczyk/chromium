@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UniqueIdentificationGeneratorFactoryTest
+// summary: Robolectric unit tests covering registration and lookup of generators in UniqueIdentificationGeneratorFactory, including override rules and the exception thrown when no generator is registered.
+// ---
+
 package org.chromium.chrome.browser.uid;
 
 import androidx.annotation.Nullable;

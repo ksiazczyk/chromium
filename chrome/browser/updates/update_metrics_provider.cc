@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update metrics provider implementation
+// summary: Implements the metrics provider that logs pending update state, page blocking update type, and time since update availability to UMA histograms.
+// ---
+
 #include "chrome/browser/updates/update_metrics_provider.h"
 
 #include "base/metrics/histogram_functions.h"

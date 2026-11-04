@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8 compile hints tab helper implementation
+// summary: Implements V8CompileHintsTabHelper, which consults the Optimization Guide on page loads, validates V8 compile hint models, and sends them to the renderer.
+// ---
+
 #include "chrome/browser/v8_compile_hints/v8_compile_hints_tab_helper.h"
 
 #include <optional>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the browser updater
+summary: Defines GN source sets for the browser updater client, its platform-specific variants, unit tests and test support.

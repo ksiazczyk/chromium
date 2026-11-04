@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstalledVersionPoller implementation
+// summary: Implements periodic background polling of the installed browser version, feeding results to BuildState and supporting simulated upgrades for testing.
+// ---
+
 #include "chrome/browser/upgrade_detector/installed_version_poller.h"
 
 #include <stdint.h>

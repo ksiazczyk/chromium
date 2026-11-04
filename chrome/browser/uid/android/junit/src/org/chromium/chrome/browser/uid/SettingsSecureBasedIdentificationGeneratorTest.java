@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SettingsSecureBasedIdentificationGeneratorTest
+// summary: Robolectric unit tests verifying that SettingsSecureBasedIdentificationGenerator hashes the Android ID with MD5, with and without a salt, and returns an empty ID when the Android ID is unavailable.
+// ---
+
 package org.chromium.chrome.browser.uid;
 
 import static org.mockito.Mockito.doReturn;

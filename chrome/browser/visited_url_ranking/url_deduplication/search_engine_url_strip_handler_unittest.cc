@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SearchEngineURLStripHandler unit tests
+// summary: Tests that StripExtraParams removes extra query parameters from template URL search results while leaving non-template URLs unchanged.
+// ---
+
 #include "chrome/browser/visited_url_ranking/url_deduplication/search_engine_url_strip_handler.h"
 
 #include "base/functional/callback.h"

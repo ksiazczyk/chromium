@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for the upgrade detector
+summary: GN build file defining the upgrade detector source sets, platform-specific sources, dependencies, and unit test targets.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the Android USB browser code
+summary: Defines GN build targets for the Android USB Java library, its resources, JNI header generation and Robolectric unit tests.

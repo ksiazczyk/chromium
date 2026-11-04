@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Upgrade detector core implementation
+// summary: Implements the core upgrade detector logic, including annoyance levels, idle detection, and relaunch window computation.
+// ---
+
 #include "chrome/browser/upgrade_detector/upgrade_detector.h"
 
 #include <algorithm>

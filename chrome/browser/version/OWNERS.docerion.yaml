@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the Chrome version directory
+summary: Delegates ownership review for this directory to the owners file of chrome/android.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HashUtilTest
+// summary: JUnit test verifying that HashUtil.getMd5Hash returns fixed expected MD5 strings for "Chrome for Android", with and without salt, for Sync and Omaha.
+// ---
+
 package org.chromium.chrome.browser.util;
 
 import org.junit.Assert;

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build configuration for Chrome USB browser code
+summary: Defines the GN source sets and dependencies for the Chrome browser USB implementation, with platform-specific sources for Android and desktop.

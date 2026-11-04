@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserEducationServiceFactory class declaration
+// summary: Declares UserEducationServiceFactory, a ProfileKeyedServiceFactory providing per-profile UserEducationService access plus a test hook to disable idle polling.
+// ---
+
 #ifndef CHROME_BROWSER_USER_EDUCATION_USER_EDUCATION_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_USER_EDUCATION_USER_EDUCATION_SERVICE_FACTORY_H_
 

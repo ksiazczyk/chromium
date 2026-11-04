@@ -1,0 +1,4 @@
+# Docerion header of browser_updater_helper_client_mac.mm.
+type: source
+title: Mac privileged helper client implementation
+summary: Implements the XPC connection to the macOS privileged helper that sets up the system-level updater during promotion.

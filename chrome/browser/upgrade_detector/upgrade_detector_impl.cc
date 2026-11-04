@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop upgrade detector implementation
+// summary: Implements the non-ChromeOS desktop upgrade detector with outdated build detection, annoyance threshold calculation, and upgrade notification scheduling.
+// ---
+
 #include "chrome/browser/upgrade_detector/upgrade_detector_impl.h"
 
 #include <stdint.h>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for update metrics provider
+summary: Defines GN source sets for the update metrics provider, its public header, and its browser tests along with their dependencies.

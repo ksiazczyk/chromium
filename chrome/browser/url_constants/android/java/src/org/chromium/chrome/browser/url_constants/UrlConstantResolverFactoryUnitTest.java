@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UrlConstantResolverFactoryUnitTest
+// summary: Robolectric unit tests verifying that UrlConstantResolverFactory returns correct resolvers for null, regular, and incognito profiles under various override states.
+// ---
+
 package org.chromium.chrome.browser.url_constants;
 
 import static org.junit.Assert.assertEquals;

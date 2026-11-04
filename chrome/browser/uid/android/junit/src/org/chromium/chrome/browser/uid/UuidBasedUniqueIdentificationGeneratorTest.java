@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UuidBasedUniqueIdentificationGeneratorTest
+// summary: Robolectric unit tests verifying that UuidBasedUniqueIdentificationGenerator generates a UUID once, restores it from preferences afterwards, and keeps separate preference keys per generator.
+// ---
+
 package org.chromium.chrome.browser.uid;
 
 import static org.mockito.Mockito.doReturn;

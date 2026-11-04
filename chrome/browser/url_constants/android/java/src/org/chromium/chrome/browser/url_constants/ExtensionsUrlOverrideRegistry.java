@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionsUrlOverrideRegistry
+// summary: Stores and retrieves shared-preference flags recording whether extensions have overridden the NTP, bookmarks, or history pages, including incognito variants.
+// ---
+
 package org.chromium.chrome.browser.url_constants;
 
 import org.chromium.base.shared_preferences.SharedPreferencesManager;

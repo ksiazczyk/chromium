@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: USB connection tracker factory class declaration
+// summary: Declares the UsbConnectionTrackerFactory that provides per-profile UsbConnectionTracker keyed services.
+// ---
+
 #ifndef CHROME_BROWSER_USB_USB_CONNECTION_TRACKER_FACTORY_H_
 #define CHROME_BROWSER_USB_USB_CONNECTION_TRACKER_FACTORY_H_
 

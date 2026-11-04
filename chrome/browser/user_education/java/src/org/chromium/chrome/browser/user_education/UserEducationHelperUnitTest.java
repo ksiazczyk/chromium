@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for UserEducationHelper
+// summary: Robolectric tests for UserEducationHelper covering profile supplier initialization, IPH request handling, tracker interactions and histogram behavior.
+// ---
+
 package org.chromium.chrome.browser.user_education;
 
 import static org.junit.Assert.assertFalse;

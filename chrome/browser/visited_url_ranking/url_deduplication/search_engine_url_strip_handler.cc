@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engine URL strip handler implementation
+// summary: Implements StripExtraParams, which uses TemplateURLService to remove all query substitutions except search terms from search engine URLs for deduplication.
+// ---
+
 #include "chrome/browser/visited_url_ranking/url_deduplication/search_engine_url_strip_handler.h"
 
 #include <string>

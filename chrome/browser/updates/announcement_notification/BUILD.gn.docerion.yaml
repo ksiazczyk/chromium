@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for announcement notification
+summary: Defines GN source sets for the announcement notification module, including platform-specific sources, dependencies, and the unit test target.

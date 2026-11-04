@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the BuildState class
+// summary: Implements BuildState, storing the update type, installed version, and critical version and notifying observers on changes.
+// ---
+
 #include "chrome/browser/upgrade_detector/build_state.h"
 
 #include <tuple>

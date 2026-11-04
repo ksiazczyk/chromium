@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android tab model URL visit data fetcher header
+// summary: Declares AndroidTabModelURLVisitDataFetcher, a URLVisitDataFetcher that supplies visit data from Android tab models for a profile.
+// ---
+
 #ifndef CHROME_BROWSER_VISITED_URL_RANKING_ANDROID_TAB_MODEL_URL_VISIT_DATA_FETCHER_H_
 #define CHROME_BROWSER_VISITED_URL_RANKING_ANDROID_TAB_MODEL_URL_VISIT_DATA_FETCHER_H_
 

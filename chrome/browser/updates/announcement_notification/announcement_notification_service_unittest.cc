@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Announcement notification service unit tests
+// summary: Unit tests for AnnouncementNotificationService using a mock delegate, testing profile, test clock, and feature parameters to verify notification behavior.
+// ---
+
 #include "chrome/browser/updates/announcement_notification/announcement_notification_service.h"
 
 #include <memory>

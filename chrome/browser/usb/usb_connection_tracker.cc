@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: USB connection tracker implementation
+// summary: Implements the per-profile USB connection tracker that opens content settings exceptions and exposes the USB system tray icon.
+// ---
+
 #include "chrome/browser/usb/usb_connection_tracker.h"
 
 #include "chrome/browser/browser_process.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: USB device blocklist implementation
+// summary: Implements the USB blocklist that excludes known insecure security keys such as YubiKey and Feitian devices from WebUSB access.
+// ---
+
 #include "chrome/browser/usb/usb_blocklist.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for Chrome user education targets
+summary: Defines GN build targets for the user education module, including Android Java libraries, resources, Robolectric tests, and the desktop source set with its dependencies.

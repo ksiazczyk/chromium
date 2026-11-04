@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Chrome update query params delegate
+// summary: Verifies that update query parameters contain the expected OS, architecture, product, channel, version, and language values.
+// ---
+
 #include <string>
 
 #include "base/strings/strcat.h"

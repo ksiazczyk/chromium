@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater health check and wake implementation
+// summary: Implements health checks and waking installed updaters by launching a randomly chosen updater executable with the wake switch.
+// ---
+
 #include <optional>
 #include <utility>
 #include <vector>

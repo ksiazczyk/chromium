@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User education configuration provider header
+// summary: Declares UserEducationConfigurationProvider, which derives feature engagement configuration from IPH promos registered in the browser.
+// ---
+
 #ifndef CHROME_BROWSER_USER_EDUCATION_USER_EDUCATION_CONFIGURATION_PROVIDER_H_
 #define CHROME_BROWSER_USER_EDUCATION_USER_EDUCATION_CONFIGURATION_PROVIDER_H_
 

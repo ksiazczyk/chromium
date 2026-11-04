@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserEducationServiceFactory implementation
+// summary: Implements the profile-keyed factory that builds UserEducationService instances, wiring up the session manager, idle observers, and storage service per profile.
+// ---
+
 #include "chrome/browser/user_education/user_education_service_factory.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Visited URL ranking service factory header
+// summary: Declares the VisitedURLRankingServiceFactory singleton that owns VisitedURLRankingService instances and associates them with profiles.
+// ---
+
 #ifndef CHROME_BROWSER_VISITED_URL_RANKING_VISITED_URL_RANKING_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_VISITED_URL_RANKING_VISITED_URL_RANKING_SERVICE_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PlatformUtilTest
+// summary: Robolectric test verifying that PlatformUtil.showItemInFolder starts a VIEW activity with the expected URI, type and flags.
+// ---
+
 package org.chromium.chrome.browser.util;
 
 import static org.robolectric.Shadows.shadowOf;

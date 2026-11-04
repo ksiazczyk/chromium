@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Android URL constants Java library
+summary: GN build configuration defining the Android Java library for URL constant resolution and URL override registries, plus its Robolectric unit test target and dependencies.

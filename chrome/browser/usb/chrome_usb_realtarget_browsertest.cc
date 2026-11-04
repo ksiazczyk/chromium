@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: USB real hardware browser test
+// summary: Browser test that runs the USB chooser against a real micro:bit device using a test delegate and chooser view.
+// ---
+
 #include <memory>
 
 #include "base/strings/stringprintf.h"

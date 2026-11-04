@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Announcement notification service factory implementation
+// summary: Builds per-profile service instances, selecting platform-specific delegates and an empty service for off-the-record profiles.
+// ---
+
 #include "chrome/browser/updates/announcement_notification/announcement_notification_service_factory.h"
 
 #include <memory>

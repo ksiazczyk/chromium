@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the Chrome version directory
+summary: 'Declares directory metadata: the Build monorail component, clank-app-team contact email, Android OS and Buganizer component ID.'

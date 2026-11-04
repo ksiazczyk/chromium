@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for update metrics provider
+// summary: Browser tests verifying the update state histograms logged by UpdateMetricsProvider across no-update, single tab, and multiple tab scenarios.
+// ---
+
 #include "chrome/browser/updates/update_metrics_provider.h"
 
 #include <memory>

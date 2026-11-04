@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiInstanceUtils
+// summary: Utility for multi-instance and multi-window features that checks whether a device has less than 6500 MB of physical memory.
+// ---
+
 package org.chromium.chrome.browser.util;
 
 import org.chromium.base.SysUtils;

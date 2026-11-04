@@ -1,0 +1,4 @@
+# Docerion header of browser_updater_client_util_mac.mm.
+type: source
+title: Mac updater client utilities
+summary: macOS implementation of updater client utilities, including admin and bundle ownership checks and support for system updater promotion.

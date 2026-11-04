@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark undo service factory implementation
+// summary: Implements the per-profile BookmarkUndoServiceFactory, creating a BookmarkUndoService for regular and guest profiles while excluding system and ChromeOS internals profiles.
+// ---
+
 #include "chrome/browser/undo/bookmark_undo_service_factory.h"
 
 #include "build/chromeos_buildflags.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for browser util
+summary: Restricts includes in the browser util directory, blocking content/public/android except for the content_public Java sources.

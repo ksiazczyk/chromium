@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpgradeDetector base class
+// summary: Defines the UpgradeDetector singleton that detects browser upgrades and schedules user notifications through escalating annoyance levels and relaunch windows.
+// ---
+
 #ifndef CHROME_BROWSER_UPGRADE_DETECTOR_UPGRADE_DETECTOR_H_
 #define CHROME_BROWSER_UPGRADE_DETECTOR_UPGRADE_DETECTOR_H_
 

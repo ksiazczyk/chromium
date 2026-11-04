@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: USB chooser controller implementation
+// summary: Implements the WebUSB device chooser controller that lists available USB devices and grants device permission on selection.
+// ---
+
 #include "chrome/browser/usb/usb_chooser_controller.h"
 
 #include <stddef.h>

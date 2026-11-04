@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for update client
+summary: Delegates code ownership review for this directory to the OWNERS file of components/update_client.

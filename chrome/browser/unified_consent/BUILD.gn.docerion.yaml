@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Unified consent build targets
+summary: GN build file defining the unified consent source sets, their dependencies and the DICE-gated browser test targets.

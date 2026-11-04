@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Group suggestions service factory header
+// summary: Declares the ProfileKeyedServiceFactory that provides GroupSuggestionsService instances per profile.
+// ---
+
 #ifndef CHROME_BROWSER_VISITED_URL_RANKING_GROUP_SUGGESTIONS_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_VISITED_URL_RANKING_GROUP_SUGGESTIONS_SERVICE_FACTORY_H_
 

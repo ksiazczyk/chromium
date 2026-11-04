@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UsbChooserContext factory implementation
+// summary: Implements the profile-keyed service factory that creates UsbChooserContext instances for browser profiles.
+// ---
+
 #include "chrome/browser/usb/usb_chooser_context_factory.h"
 
 #include "chrome/browser/content_settings/host_content_settings_map_factory.h"

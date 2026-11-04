@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for visited_url_ranking
+summary: Defines GN source sets for the visited URL ranking browser code, including platform-specific tab model fetchers and browser and unit test targets.

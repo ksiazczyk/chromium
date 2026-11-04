@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unified consent service factory implementation
+// summary: Builds the per-profile UnifiedConsentService, registers its prefs and records the settings histogram on profile load.
+// ---
+
 #include "chrome/browser/unified_consent/unified_consent_service_factory.h"
 
 #include "build/build_config.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BuildState class declaration
+// summary: Declares BuildState, which holds the browser or device build update state and supports observer registration.
+// ---
+
 #ifndef CHROME_BROWSER_UPGRADE_DETECTOR_BUILD_STATE_H_
 #define CHROME_BROWSER_UPGRADE_DETECTOR_BUILD_STATE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for user agent browser tests
+summary: GN build definition for the browser_tests source_set, selecting Android or desktop user agent test sources and dependencies.

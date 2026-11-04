@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the user education directory
+summary: Delegates review of headers and sources to the components user education owners, assigns NTP promo identifiers to search owners, and lists Android Java owners.

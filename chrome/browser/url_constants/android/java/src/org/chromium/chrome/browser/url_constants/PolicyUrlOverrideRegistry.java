@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PolicyUrlOverrideRegistry
+// summary: Stores and retrieves a shared-preference flag recording whether the NewTabPageLocation enterprise policy has overridden the New Tab Page, with a reset helper.
+// ---
+
 package org.chromium.chrome.browser.url_constants;
 
 import org.chromium.base.shared_preferences.SharedPreferencesManager;

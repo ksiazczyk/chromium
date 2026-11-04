@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser state query utility
+// summary: Utility class for querying the device's default browser setting, including Chrome default state, browser counts, and system browser information.
+// ---
+
 package org.chromium.chrome.browser.util;
 
 import android.content.Context;

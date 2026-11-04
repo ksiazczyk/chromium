@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop WebUSB chooser header
+// summary: Declares the desktop WebUsbChooser implementation that displays the permission prompt as a bubble.
+// ---
+
 #ifndef CHROME_BROWSER_USB_WEB_USB_CHOOSER_DESKTOP_H_
 #define CHROME_BROWSER_USB_WEB_USB_CHOOSER_DESKTOP_H_
 

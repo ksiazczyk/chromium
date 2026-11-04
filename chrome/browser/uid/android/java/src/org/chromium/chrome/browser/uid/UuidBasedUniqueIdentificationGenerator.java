@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UUID-based unique identification generator
+// summary: Generates a UUID string as a unique installation ID and persists it in Chrome shared preferences so later calls return the same ID.
+// ---
+
 package org.chromium.chrome.browser.uid;
 
 import androidx.annotation.VisibleForTesting;

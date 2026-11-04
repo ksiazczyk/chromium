@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: V8 compile hints tab helper unit tests
+// summary: Unit tests for V8CompileHintsTabHelper covering model validation, optimization guide decisions, and sending data to the renderer using a mock optimization guide service.
+// ---
+
 #include "chrome/browser/v8_compile_hints/v8_compile_hints_tab_helper.h"
 
 #include "base/test/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Windows GetInstalledVersion implementation
+// summary: Unit tests for the Windows GetInstalledVersion implementation that use registry overrides to verify version and critical version retrieval.
+// ---
+
 #include "chrome/browser/upgrade_detector/get_installed_version.h"
 
 #include <stdint.h>

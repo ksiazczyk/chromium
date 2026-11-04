@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUSB device detection and notifications
+// summary: Detects connected USB devices and shows notifications linking to their landing pages, tracking closure outcomes in histograms.
+// ---
+
 #include "chrome/browser/usb/web_usb_detector.h"
 
 #include <optional>

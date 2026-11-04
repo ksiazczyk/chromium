@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for updater issue tracking
+summary: Routes bugs to the Internals>Updater component and lists the chrome-updates-dev team email for the directory.

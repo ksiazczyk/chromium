@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UrlConstantResolverUnitTest
+// summary: Robolectric unit tests verifying that UrlConstantResolver returns original URLs without overrides and applies registered overrides when the feature is enabled.
+// ---
+
 package org.chromium.chrome.browser.url_constants;
 
 import static org.junit.Assert.assertEquals;

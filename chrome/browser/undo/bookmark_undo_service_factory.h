@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark undo service factory header
+// summary: Declares BookmarkUndoServiceFactory, a ProfileKeyedServiceFactory singleton exposing GetForProfile and GetForProfileIfExists accessors.
+// ---
+
 #ifndef CHROME_BROWSER_UNDO_BOOKMARK_UNDO_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_UNDO_BOOKMARK_UNDO_SERVICE_FACTORY_H_
 

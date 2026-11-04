@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUSB chooser factory
+// summary: Creates the platform-specific WebUSB chooser for Android or desktop and shows the device permission prompt.
+// ---
+
 #include "chrome/browser/usb/web_usb_chooser.h"
 
 #include <utility>

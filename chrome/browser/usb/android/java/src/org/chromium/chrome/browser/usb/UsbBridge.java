@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UsbBridge
+// summary: Java access point for the native UsbBridge that queries whether a WebContents is connected to a USB device via JNI.
+// ---
+
 package org.chromium.chrome.browser.usb;
 
 import org.jni_zero.NativeMethods;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser UI utility and metrics helpers
+// summary: Utility for browser UI code that records New tab page module click and long-click histograms and detects Android Auto projected mode.
+// ---
+
 package org.chromium.chrome.browser.util;
 
 import android.app.UiModeManager;

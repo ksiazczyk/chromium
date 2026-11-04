@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA
+summary: Declares metadata mixins for the url_constants directory, inheriting settings from chrome/android COMMON_METADATA.

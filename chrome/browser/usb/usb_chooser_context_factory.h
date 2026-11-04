@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UsbChooserContext factory declaration
+// summary: Declares UsbChooserContextFactory, which provides per-profile access to the UsbChooserContext service.
+// ---
+
 #ifndef CHROME_BROWSER_USB_USB_CHOOSER_CONTEXT_FACTORY_H_
 #define CHROME_BROWSER_USB_USB_CHOOSER_CONTEXT_FACTORY_H_
 
