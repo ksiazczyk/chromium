@@ -1,0 +1,4 @@
+# Docerion header of IDS_ASH_PHONE_HUB_RECENT_APPS_TITLE.png.sha1.
+type: asset
+title: Phone Hub recent apps title screenshot hash
+summary: Holds the SHA-1 checksum of the PNG screenshot referenced by the IDS_ASH_PHONE_HUB_RECENT_APPS_TITLE string in the Ash string resources.
