@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Google Photos wallpaper fetchers for unit tests
+// summary: Declares gmock-based mock fetchers for Google Photos albums, shared albums, enablement state and photos so unit tests can run without network requests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_WALLPAPER_HANDLERS_MOCK_GOOGLE_PHOTOS_WALLPAPER_HANDLERS_H_
 #define CHROME_BROWSER_ASH_WALLPAPER_HANDLERS_MOCK_GOOGLE_PHOTOS_WALLPAPER_HANDLERS_H_
 

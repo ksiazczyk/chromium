@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TetherServiceFactory implementation
+// summary: Implements the profile-keyed factory that builds TetherService or FakeTetherService depending on policy, feature flags and the kTetherStub command-line switch.
+// ---
+
 #include "chrome/browser/ash/tether/tether_service_factory.h"
 
 #include "ash/constants/ash_features.h"

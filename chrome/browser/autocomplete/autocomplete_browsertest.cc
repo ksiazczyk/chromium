@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autocomplete browser tests
+// summary: Browser tests covering Chrome's omnibox autocomplete controller, location bar and keyword behavior.
+// ---
+
 #include <inttypes.h>
 #include <stddef.h>
 

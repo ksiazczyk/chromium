@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search provider unit tests
+// summary: Extensive unit tests for the omnibox SearchProvider covering suggestion matching, search term extraction, zero-suggest, and related feature configurations.
+// ---
+
 #include "components/omnibox/browser/search_provider.h"
 
 #include <stddef.h>

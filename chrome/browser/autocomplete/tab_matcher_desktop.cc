@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop tab matcher implementation
+// summary: Implements TabMatcher for desktop platforms, matching omnibox suggestions against open tabs using stripped URLs and WebContents user data.
+// ---
+
 #include "chrome/browser/autocomplete/tab_matcher_desktop.h"
 
 #include "base/feature_list.h"

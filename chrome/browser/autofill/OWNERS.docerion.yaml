@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Autofill OWNERS delegation
+summary: Owners file that delegates code review ownership of the directory to the OWNERS file of components/autofill.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file delegating to autofill actor component owners
+summary: Points to the OWNERS file of components/autofill/core/browser/actor to delegate directory ownership for chrome/browser/autofill/actor.

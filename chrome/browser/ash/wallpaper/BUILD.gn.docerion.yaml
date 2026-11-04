@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Wallpaper BUILD.gn build targets
+summary: Defines the GN build targets for the ChromeOS wallpaper static library and its browser test source set.

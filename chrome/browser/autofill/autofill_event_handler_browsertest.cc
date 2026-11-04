@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill event handler browser test
+// summary: Browser tests that verify autofill event handling, waiting for forms seen, server predictions and completed form fills on desktop and Android.
+// ---
+
 #include <memory>
 #include <string>
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shortcuts extensions manager implementation
+// summary: Implements an extension registry observer that deletes omnibox shortcuts associated with an extension when that extension is unloaded.
+// ---
+
 #include "chrome/browser/autocomplete/shortcuts_extensions_manager.h"
 
 #include "chrome/browser/autocomplete/shortcuts_backend_factory.h"

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Autofill directory metadata
+summary: DIR_METADATA entry that points to the shared autofill metadata in components/autofill for directory tracking and review routing.

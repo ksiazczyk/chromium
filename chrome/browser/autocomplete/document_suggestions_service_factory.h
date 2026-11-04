@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document suggestions service factory header
+// summary: Declares DocumentSuggestionsServiceFactory, providing per-profile access to the document suggestions service.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOCOMPLETE_DOCUMENT_SUGGESTIONS_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_AUTOCOMPLETE_DOCUMENT_SUGGESTIONS_SERVICE_FACTORY_H_
 

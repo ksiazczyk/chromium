@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProviderStateServiceFactory header
+// summary: Declares the ProviderStateServiceFactory keyed service factory and its GetForProfile accessor.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOCOMPLETE_PROVIDER_STATE_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_AUTOCOMPLETE_PROVIDER_STATE_SERVICE_FACTORY_H_
 

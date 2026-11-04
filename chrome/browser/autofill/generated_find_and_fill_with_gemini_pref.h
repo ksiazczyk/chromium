@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GeneratedFindAndFillWithGeminiPref header
+// summary: Declares the GeneratedFindAndFillWithGeminiPref class, a generated settings preference backed by user prefs and the Find and Fill with Gemini enterprise policy.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOFILL_GENERATED_FIND_AND_FILL_WITH_GEMINI_PREF_H_
 #define CHROME_BROWSER_AUTOFILL_GENERATED_FIND_AND_FILL_WITH_GEMINI_PREF_H_
 

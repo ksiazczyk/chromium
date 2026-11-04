@@ -1,3 +1,12 @@
+---
+type: readme
+title: CrosUsbDetector overview and USB sharing flow
+summary: Explains how CrosUsbDetector detects USB devices, queries permission_broker, and shares devices with guest OSes, including a call graph of the share flow.
+relations:
+  - documents /chrome/browser/ash/usb/cros_usb_detector.cc
+  - references /chrome/browser/ash/usb/cros_usb_detector_callgraph.png
+---
+
 chrome/browser/ash/usb
 ======================
 

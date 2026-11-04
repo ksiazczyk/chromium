@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MlLogRouterFactory implementation
+// summary: Implements the profile-keyed service factory that provides a per-profile MlLogRouter for autofill ML model logging, including guest profiles.
+// ---
+
 #include "chrome/browser/autofill/ml_log_router_factory.h"
 
 #include "chrome/browser/profiles/profile.h"

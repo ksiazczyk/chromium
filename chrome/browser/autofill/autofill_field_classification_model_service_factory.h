@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill field classification model service factory declaration
+// summary: Declares the factory that creates one FieldClassificationModelHandler per browser context for autofill field classification.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOFILL_AUTOFILL_FIELD_CLASSIFICATION_MODEL_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_AUTOFILL_AUTOFILL_FIELD_CLASSIFICATION_MODEL_SERVICE_FACTORY_H_
 

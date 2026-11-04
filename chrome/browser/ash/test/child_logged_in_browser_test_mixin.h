@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Child user logged-in browser test mixin header
+// summary: Declares a browser test mixin that simulates a logged-in child user session, similar to browser restart for crash recovery.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_TEST_CHILD_LOGGED_IN_BROWSER_TEST_MIXIN_H_
 #define CHROME_BROWSER_ASH_TEST_CHILD_LOGGED_IN_BROWSER_TEST_MIXIN_H_
 

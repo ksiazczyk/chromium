@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JNI bindings for the AIM eligibility service factory
+// summary: Exposes AIM starter pack eligibility checks to Java through JNI for Android profiles.
+// ---
+
 #include "chrome/browser/autocomplete/aim_eligibility_service_factory.h"
 
 #include "base/android/jni_android.h"

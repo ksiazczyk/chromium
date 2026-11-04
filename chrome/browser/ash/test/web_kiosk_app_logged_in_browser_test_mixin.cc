@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web Kiosk app logged-in browser test mixin implementation
+// summary: Implements a browser test mixin that registers a web kiosk app user, adds matching device local account policy, and prevents kiosk autolaunch during tests.
+// ---
+
 #include "chrome/browser/ash/test/web_kiosk_app_logged_in_browser_test_mixin.h"
 
 #include <utility>

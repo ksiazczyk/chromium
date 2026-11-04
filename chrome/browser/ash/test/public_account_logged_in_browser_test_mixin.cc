@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Public account logged-in browser test mixin implementation
+// summary: Implements a browser test mixin that registers a public session user and configures the command line, local state prefs, and device settings cache so tests run in a logged-in public account session.
+// ---
+
 #include "chrome/browser/ash/test/public_account_logged_in_browser_test_mixin.h"
 
 #include <utility>

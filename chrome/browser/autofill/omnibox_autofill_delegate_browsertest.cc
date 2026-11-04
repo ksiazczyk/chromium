@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the omnibox autofill delegate
+// summary: Browser tests verifying omnibox credit card autofill chip behaviour and metrics using an embedded HTTPS test server and a stored test card.
+// ---
+
 #include <memory>
 #include <string>
 #include <vector>

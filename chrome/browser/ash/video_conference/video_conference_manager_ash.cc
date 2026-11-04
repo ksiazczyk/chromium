@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoConferenceManagerAsh implementation
+// summary: Implements the ash video conference manager that registers C++ clients, aggregates media app info, relays device and usage updates, and launches the background image web app.
+// ---
+
 #include "chrome/browser/ash/video_conference/video_conference_manager_ash.h"
 
 #include <algorithm>

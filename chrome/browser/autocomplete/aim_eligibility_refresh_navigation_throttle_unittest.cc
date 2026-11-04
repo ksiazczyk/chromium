@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the AIM eligibility refresh navigation throttle
+// summary: Verifies throttle behavior for AIM URL navigations using mock services and navigation handles covering outermost and prerendered frames.
+// ---
+
 #include "chrome/browser/autocomplete/aim_eligibility_refresh_navigation_throttle.h"
 
 #include <memory>

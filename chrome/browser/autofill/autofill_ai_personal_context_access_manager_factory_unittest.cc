@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill AI personal context access manager factory unit tests
+// summary: Unit tests checking that the factory creates the access manager for regular profiles with ambient autofill enabled and returns no service for incognito profiles.
+// ---
+
 #include "chrome/browser/autofill/autofill_ai_personal_context_access_manager_factory.h"
 
 #include "base/test/scoped_feature_list.h"

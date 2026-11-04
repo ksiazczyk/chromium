@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing checker client for OTP filling
+// summary: Implements a single-use client that checks frame URLs against the Safe Browsing blocklist before OTP filling and fails closed on timeout.
+// ---
+
 #include "chrome/browser/autofill/otp_filling_safe_browsing_checker_client.h"
 
 #include <algorithm>

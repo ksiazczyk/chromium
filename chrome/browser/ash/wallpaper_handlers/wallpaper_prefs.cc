@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper Google Photos integration pref registration
+// summary: Registers the wallpaper_google_photos_integration_enabled profile preference that controls whether wallpapers may be chosen from Google Photos.
+// ---
+
 #include "chrome/browser/ash/wallpaper_handlers/wallpaper_prefs.h"
 
 #include "components/prefs/pref_registry_simple.h"

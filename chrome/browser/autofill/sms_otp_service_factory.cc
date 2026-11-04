@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SmsOtpServiceFactory implementation
+// summary: Implements the profile-keyed factory that creates the SMS one-time-token service, using the Android SMS OTP backend on Android builds and the autofill log router.
+// ---
+
 #include "chrome/browser/autofill/sms_otp_service_factory.h"
 
 #include <memory>

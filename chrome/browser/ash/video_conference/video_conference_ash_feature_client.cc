@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the Ash feature video conference client
+// summary: Implements VideoConferenceAshFeatureClient, which tracks camera and microphone use by VMs such as Crostini and Borealis and notifies VideoConferenceManagerAsh.
+// ---
+
 #include "chrome/browser/ash/video_conference/video_conference_ash_feature_client.h"
 
 #include "base/check_deref.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Captured sites test utils browser tests
+// summary: Browser tests verifying that recipe replayer helpers return false instead of crashing when a frame has navigated away or unloaded.
+// ---
+
 #include "chrome/browser/autofill/captured_sites_test_utils.h"
 
 #include "chrome/browser/autofill/autofill_uitest.h"

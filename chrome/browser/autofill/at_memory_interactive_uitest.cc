@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AtMemory autofill interactive UI test
+// summary: Interactive UI test that verifies AtMemory autofill suggestions and keyboard triggers across text inputs, number inputs, textareas and content-editable elements.
+// ---
+
 #include <memory>
 #include <string>
 #include <string_view>

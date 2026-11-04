@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill optimization guide decider factory header
+// summary: Declares the AutofillOptimizationGuideDeciderFactory singleton that provides per-profile deciders and cleans them up on profile destruction.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOFILL_AUTOFILL_OPTIMIZATION_GUIDE_DECIDER_FACTORY_H_
 #define CHROME_BROWSER_AUTOFILL_AUTOFILL_OPTIMIZATION_GUIDE_DECIDER_FACTORY_H_
 

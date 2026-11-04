@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersonalDataManagerFactory header
+// summary: Declares the PersonalDataManagerFactory singleton that owns per-profile PersonalDataManager services and cleans them up when profiles are destroyed.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOFILL_PERSONAL_DATA_MANAGER_FACTORY_H_
 #define CHROME_BROWSER_AUTOFILL_PERSONAL_DATA_MANAGER_FACTORY_H_
 

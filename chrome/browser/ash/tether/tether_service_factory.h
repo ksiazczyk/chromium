@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TetherServiceFactory class declaration
+// summary: Declares the singleton TetherServiceFactory that builds and owns TetherService instances per profile.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_TETHER_TETHER_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ASH_TETHER_TETHER_SERVICE_FACTORY_H_
 

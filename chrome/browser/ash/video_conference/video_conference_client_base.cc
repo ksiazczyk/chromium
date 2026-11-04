@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the video conference client base class
+// summary: Implements shared client logic that aggregates tracked app media usage and notifies VideoConferenceManagerAsh when the status changes.
+// ---
+
 #include "chrome/browser/ash/video_conference/video_conference_client_base.h"
 
 #include "base/check_deref.h"

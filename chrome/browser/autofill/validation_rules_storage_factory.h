@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ValidationRulesStorageFactory header
+// summary: Declares the factory that creates i18n address input Storage objects, all backed by a common JSON pref store.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOFILL_VALIDATION_RULES_STORAGE_FACTORY_H_
 #define CHROME_BROWSER_AUTOFILL_VALIDATION_RULES_STORAGE_FACTORY_H_
 

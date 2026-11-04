@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the video conference directory
+summary: DEPS file restricting //chrome includes for the directory and granting per-directory and test-only include exceptions.

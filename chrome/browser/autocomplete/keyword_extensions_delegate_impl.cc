@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyword extensions delegate implementation for the Chrome omnibox
+// summary: Implements the Chrome-side extensions-only logic used by KeywordProvider, routing omnibox input and suggestion events to browser extensions.
+// ---
+
 #include "chrome/browser/autocomplete/keyword_extensions_delegate_impl.h"
 
 #include <stddef.h>

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA pointing to guest_os common metadata
+summary: Points the directory metadata to the shared guest_os COMMON_METADATA mixins.

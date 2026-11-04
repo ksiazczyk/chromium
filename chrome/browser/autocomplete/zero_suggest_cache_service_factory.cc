@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zero suggest cache service factory implementation
+// summary: Defines the profile-keyed factory that builds a ZeroSuggestCacheService with a Chrome autocomplete scheme classifier and profile preferences for each browser context.
+// ---
+
 #include "chrome/browser/autocomplete/zero_suggest_cache_service_factory.h"
 
 #include "chrome/browser/autocomplete/chrome_autocomplete_scheme_classifier.h"

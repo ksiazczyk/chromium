@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill image fetcher factory
+// summary: Profile-keyed service factory that creates the platform-specific autofill image fetcher, including an Android JNI entry point.
+// ---
+
 #include "chrome/browser/autofill/autofill_image_fetcher_factory.h"
 
 #if BUILDFLAG(IS_ANDROID)

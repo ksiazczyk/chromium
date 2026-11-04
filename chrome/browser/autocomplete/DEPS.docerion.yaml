@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for autocomplete directory dependencies
+summary: Grants chrome_autocomplete_provider_client.cc access to Chrome views headers and allows gmock includes in test files.

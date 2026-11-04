@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unscoped extension provider delegate header
+// summary: Declares the delegate class that observes omnibox input and extension suggestion events, manages request IDs, and creates autocomplete matches for unscoped extension suggestions.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOCOMPLETE_UNSCOPED_EXTENSION_PROVIDER_DELEGATE_IMPL_H_
 #define CHROME_BROWSER_AUTOCOMPLETE_UNSCOPED_EXTENSION_PROVIDER_DELEGATE_IMPL_H_
 

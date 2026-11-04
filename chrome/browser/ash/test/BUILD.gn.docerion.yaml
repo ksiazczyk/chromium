@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Ash browser test support
+summary: Defines the test_support static library of logged-in browser test mixins and helpers, plus the browser_tests source set for the device restriction schedule controller browsertest.

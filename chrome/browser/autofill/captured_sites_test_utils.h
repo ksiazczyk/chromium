@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Captured sites test framework declarations
+// summary: Declares captured-site test parameters, action timeouts, and the TestRecipeReplayer used to replay autofill test recipes.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOFILL_CAPTURED_SITES_TEST_UTILS_H_
 #define CHROME_BROWSER_AUTOFILL_CAPTURED_SITES_TEST_UTILS_H_
 

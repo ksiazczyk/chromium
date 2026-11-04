@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Email verification browser tests
+// summary: Browser tests for the email verification protocol, mocking the verifier and checking autofill popups and toasts for verified email addresses.
+// ---
+
 #include <optional>
 
 #include "base/test/gmock_callback_support.h"

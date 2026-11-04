@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for wallpaper handlers
+summary: Defines the wallpaper_handlers static library, test_support, and unit_tests build targets with their sources and dependencies.

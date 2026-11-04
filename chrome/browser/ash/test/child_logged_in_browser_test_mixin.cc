@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Child user logged-in browser test mixin implementation
+// summary: Implements the mixin that sets up child user login switches and registers a persisted child user in local state for browser tests.
+// ---
+
 #include "chrome/browser/ash/test/child_logged_in_browser_test_mixin.h"
 
 #include "ash/constants/ash_switches.h"

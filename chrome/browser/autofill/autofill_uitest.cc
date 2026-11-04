@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill UI test helpers
+// summary: Implements the test support classes from autofill_uitest.h, including UI event observation, prompt closing and event waiting for autofill tests.
+// ---
+
 #include "chrome/browser/autofill/autofill_uitest.h"
 
 #include <optional>

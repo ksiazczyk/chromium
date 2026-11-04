@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Wallpaper directory DEPS include rules
+summary: Sets include dependency rules for the wallpaper directory, blocking //chrome dependencies except for an explicitly allowed list.

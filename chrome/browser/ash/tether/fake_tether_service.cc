@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeTetherService implementation
+// summary: Implements a stub TetherService that adds and removes fake tether networks so Instant Tethering can be developed without a real tether host.
+// ---
+
 #include "chrome/browser/ash/tether/fake_tether_service.h"
 
 #include "base/compiler_specific.h"

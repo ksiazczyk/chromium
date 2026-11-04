@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise search aggregator suggestions service factory header
+// summary: Declares EnterpriseSearchAggregatorSuggestionsServiceFactory for per-profile access to enterprise search aggregator suggestions.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOCOMPLETE_ENTERPRISE_SEARCH_AGGREGATOR_SUGGESTIONS_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_AUTOCOMPLETE_ENTERPRISE_SEARCH_AGGREGATOR_SUGGESTIONS_SERVICE_FACTORY_H_
 

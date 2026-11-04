@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Backdrop wallpaper service fetcher declarations
+// summary: Declares backdrop fetcher classes for downloading wallpaper collections, collection images and surprise-me wallpaper info from the Backdrop service.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_WALLPAPER_HANDLERS_WALLPAPER_HANDLERS_H_
 #define CHROME_BROWSER_ASH_WALLPAPER_HANDLERS_WALLPAPER_HANDLERS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake backdrop wallpaper fetcher declarations
+// summary: Declares fake fetcher classes that return canned backdrop collections, images, and Surprise Me results for tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_WALLPAPER_HANDLERS_FAKE_WALLPAPER_HANDLERS_H_
 #define CHROME_BROWSER_ASH_WALLPAPER_HANDLERS_FAKE_WALLPAPER_HANDLERS_H_
 

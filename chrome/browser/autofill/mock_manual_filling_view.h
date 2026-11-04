@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gmock mock of the manual filling view interface
+// summary: Declares MockManualFillingView, a gmock implementation of ManualFillingViewInterface for testing keyboard accessory sheet behaviour.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOFILL_MOCK_MANUAL_FILLING_VIEW_H_
 #define CHROME_BROWSER_AUTOFILL_MOCK_MANUAL_FILLING_VIEW_H_
 

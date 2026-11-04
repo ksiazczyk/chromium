@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the App Service video conference client
+// summary: Implements VideoConferenceAppServiceClient, which tracks Arc++ app camera and microphone usage through AppService and reports it to VideoConferenceManagerAsh.
+// ---
+
 #include "chrome/browser/ash/video_conference/video_conference_app_service_client.h"
 
 #include <variant>

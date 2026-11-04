@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SubKeyRequesterFactory implementation
+// summary: Implements the singleton factory that owns a SubKeyRequester fetching address validation metadata via libaddressinput, with a JNI entry point for Android.
+// ---
+
 #include "chrome/browser/autofill/subkey_requester_factory.h"
 
 #include <memory>

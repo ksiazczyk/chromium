@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address normalizer factory implementation
+// summary: Implements the AddressNormalizerFactory singleton that builds an address normalizer from Chrome's metadata source, validation rules storage and application locale.
+// ---
+
 #include "chrome/browser/autofill/address_normalizer_factory.h"
 
 #include <memory>

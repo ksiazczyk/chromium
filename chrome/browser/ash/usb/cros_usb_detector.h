@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrosUsbDetector declarations and USB code enums
+// summary: Declares the CrosUsbDetector class, USB class and subclass code enums, device info struct, and observer interface for USB device sharing.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_USB_CROS_USB_DETECTOR_H_
 #define CHROME_BROWSER_ASH_USB_CROS_USB_DETECTOR_H_
 

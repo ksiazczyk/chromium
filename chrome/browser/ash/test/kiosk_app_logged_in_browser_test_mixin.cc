@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk app logged-in browser test mixin implementation
+// summary: Implements the mixin that registers a kiosk app user in local state and the device settings cache and sets login switches without autolaunching the kiosk app.
+// ---
+
 #include "chrome/browser/ash/test/kiosk_app_logged_in_browser_test_mixin.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill UI test base classes
+// summary: Declares the AutofillUiTest base class and event-waiting helpers that browser tests use to drive and observe autofill UI behavior.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOFILL_AUTOFILL_UITEST_H_
 #define CHROME_BROWSER_AUTOFILL_AUTOFILL_UITEST_H_
 

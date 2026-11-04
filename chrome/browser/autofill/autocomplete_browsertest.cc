@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autocomplete history browser test
+// summary: Browser test covering autocomplete history suggestions, field filling and form submission behavior through the browser autofill manager.
+// ---
+
 #include <optional>
 
 #include "base/check.h"

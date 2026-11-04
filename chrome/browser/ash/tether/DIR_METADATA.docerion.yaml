@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata mixin for tether
+summary: Points the directory metadata to the common metadata of chromeos/ash/components/tether.

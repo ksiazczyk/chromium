@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners reference for the tether directory
+summary: Delegates code ownership of this directory to the owners of chromeos/ash/components/tether.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersonalDataManagerFactory implementation
+// summary: Implements the profile-keyed factory that builds PersonalDataManager instances, wiring autofill web data, history, sync, strike database, identity and image fetcher services.
+// ---
+
 #include "chrome/browser/autofill/personal_data_manager_factory.h"
 
 #include "base/no_destructor.h"

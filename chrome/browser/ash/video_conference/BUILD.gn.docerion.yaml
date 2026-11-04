@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definitions for the video conference library
+summary: GN build file defining the video_conference static library plus its unit test and browser test source sets with their dependencies.

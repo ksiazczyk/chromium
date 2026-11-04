@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TPM firmware update unit tests
+// summary: Unit tests covering settings proto decoding and TPM firmware update availability detection using stub settings and path overrides.
+// ---
+
 #include "chrome/browser/ash/tpm/tpm_firmware_update.h"
 
 #include <utility>

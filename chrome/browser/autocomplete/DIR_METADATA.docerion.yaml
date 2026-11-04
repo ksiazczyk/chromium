@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracking metadata for the autocomplete directory
+summary: Maps the directory to the UI>Browser>Omnibox Monorail component and Buganizer component 1457180 for issue tracking.

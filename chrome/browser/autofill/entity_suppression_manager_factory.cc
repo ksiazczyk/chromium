@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Entity suppression manager service factory
+// summary: Implements the profile-keyed factory that builds the autofill AI entity suppression manager with its sync bridge when the feature flag is enabled.
+// ---
+
 #include "chrome/browser/autofill/entity_suppression_manager_factory.h"
 
 #include <memory>

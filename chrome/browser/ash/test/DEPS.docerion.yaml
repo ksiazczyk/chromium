@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Ash test directory
+summary: Sets Chromium include rules for the directory, banning //chrome dependencies by default while allowing specific exceptions for test mixins, browsertests, and the GLIC helper.

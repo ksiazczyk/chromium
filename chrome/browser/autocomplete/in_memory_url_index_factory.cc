@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory URL index factory implementation
+// summary: Profile-keyed service factory that builds the InMemoryURLIndex from bookmark, history and template URL services for omnibox suggestions.
+// ---
+
 #include "chrome/browser/autocomplete/in_memory_url_index_factory.h"
 
 #include "base/no_destructor.h"

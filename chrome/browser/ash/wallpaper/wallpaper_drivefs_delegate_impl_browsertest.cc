@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DriveFS wallpaper delegate browser tests
+// summary: Browser tests covering saving wallpapers, querying modification times, and waiting for wallpaper changes via the DriveFS delegate.
+// ---
+
 #include "chrome/browser/ash/wallpaper/wallpaper_drivefs_delegate_impl.h"
 
 #include <memory>

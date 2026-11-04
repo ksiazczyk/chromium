@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SubKeyRequesterFactory header
+// summary: Declares the singleton factory that owns the single SubKeyRequester instance used for address validation subkey requests.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOFILL_SUBKEY_REQUESTER_FACTORY_H_
 #define CHROME_BROWSER_AUTOFILL_SUBKEY_REQUESTER_FACTORY_H_
 

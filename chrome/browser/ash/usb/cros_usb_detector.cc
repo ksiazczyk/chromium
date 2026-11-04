@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrosUsbDetector implementation
+// summary: Implements USB device detection, user notifications, and attachment of devices to guest OS VMs such as Crostini, ARC, and Bruschetta.
+// ---
+
 #include "chrome/browser/ash/usb/cros_usb_detector.h"
 
 #include <fcntl.h>

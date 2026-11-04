@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome autocomplete provider client browser test
+// summary: Browser test exercising ChromeAutocompleteProviderClient with mocked contextual tasks, Lens search and AIM eligibility services in the omnibox.
+// ---
+
 #include "chrome/browser/autocomplete/chrome_autocomplete_provider_client.h"
 
 #include <memory>

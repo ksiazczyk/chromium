@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI model executor factory implementation
+// summary: Implements the profile-keyed factory that builds the Autofill AI model executor from the model cache and Optimization Guide service when the server model feature is enabled.
+// ---
+
 #include "chrome/browser/autofill/autofill_ai_model_executor_factory.h"
 
 #include "base/no_destructor.h"

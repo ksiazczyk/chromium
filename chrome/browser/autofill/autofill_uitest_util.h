@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill UI test utilities declarations
+// summary: Declares helpers for adding test autofill profiles and credit cards, waiting for personal data loads, and generating the autofill popup.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOFILL_AUTOFILL_UITEST_UTIL_H_
 #define CHROME_BROWSER_AUTOFILL_AUTOFILL_UITEST_UTIL_H_
 

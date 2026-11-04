@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local wallpaper file enumerator implementation
+// summary: Enumerates jpg and png images in the user's My Files folder, excluding trash locations, as candidates for custom wallpapers.
+// ---
+
 #include "chrome/browser/ash/wallpaper/wallpaper_enumerator.h"
 
 #include <algorithm>

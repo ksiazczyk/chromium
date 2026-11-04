@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keyword extensions delegate unit tests
+// summary: Unit tests verifying KeywordExtensionsDelegateImpl extension enablement checks in regular and incognito profiles.
+// ---
+
 #include "chrome/browser/autocomplete/keyword_extensions_delegate_impl.h"
 
 #include <utility>

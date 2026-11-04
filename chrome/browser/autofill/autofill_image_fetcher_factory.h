@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill image fetcher factory declaration
+// summary: Declares the singleton factory that owns AutofillImageFetcher services and associates them with profiles.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOFILL_AUTOFILL_IMAGE_FETCHER_FACTORY_H_
 #define CHROME_BROWSER_AUTOFILL_AUTOFILL_IMAGE_FETCHER_FACTORY_H_
 

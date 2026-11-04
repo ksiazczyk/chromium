@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill across iframes browser test
+// summary: Browser tests verifying how Chrome autofill fills and refills forms across iframes and cross-origin frames, using an embedded test server and a wait-enabled test autofill manager.
+// ---
+
 #include <stddef.h>
 
 #include <array>

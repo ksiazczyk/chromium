@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OTP filling Safe Browsing checker declaration
+// summary: Declares OtpFillingSafeBrowsingCheckerClient, which checks target, main, and outermost main frame URLs and reports them malicious on timeout.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOFILL_OTP_FILLING_SAFE_BROWSING_CHECKER_CLIENT_H_
 #define CHROME_BROWSER_AUTOFILL_OTP_FILLING_SAFE_BROWSING_CHECKER_CLIENT_H_
 

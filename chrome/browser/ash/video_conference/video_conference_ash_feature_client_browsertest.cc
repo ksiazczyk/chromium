@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the Ash feature video conference client
+// summary: In-process browser tests checking that VM camera and microphone usage updates appear in the media apps list and the aggregated media state.
+// ---
+
 #include "chrome/browser/ash/video_conference/video_conference_ash_feature_client.h"
 
 #include <cstdlib>

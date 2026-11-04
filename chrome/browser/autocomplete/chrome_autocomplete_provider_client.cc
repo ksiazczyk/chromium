@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome autocomplete provider client implementation
+// summary: Implements the Chrome AutocompleteProviderClient that wires omnibox providers to profile services like history, bookmarks and search engines.
+// ---
+
 #include "chrome/browser/autocomplete/chrome_autocomplete_provider_client.h"
 
 #include <stddef.h>

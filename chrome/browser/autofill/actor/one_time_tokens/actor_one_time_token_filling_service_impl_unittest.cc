@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActorOneTimeTokenFillingServiceImpl unit tests
+// summary: Unit tests for the actor one-time token filling service implementation, covering OTP retrieval, filling, form validation, and metrics using fake backends.
+// ---
+
 #include "chrome/browser/autofill/actor/one_time_tokens/actor_one_time_token_filling_service_impl.h"
 
 #include <optional>

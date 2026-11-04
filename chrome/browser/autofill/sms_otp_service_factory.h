@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SmsOtpServiceFactory header
+// summary: Declares the SmsOtpServiceFactory keyed service factory that returns the per-profile SMS one-time-token service, creating it on demand.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOFILL_SMS_OTP_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_AUTOFILL_SMS_OTP_SERVICE_FACTORY_H_
 

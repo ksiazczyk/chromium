@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Autofill BUILD.gn build definition
+summary: GN build file for the Chrome browser autofill static library, listing factory sources, buildflag headers and component dependencies.

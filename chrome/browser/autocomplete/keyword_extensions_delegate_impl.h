@@ -5,6 +5,12 @@
 // KeywordExtensionsDelegateImpl contains the extensions-only logic used by
 // KeywordProvider. Overrides KeywordExtensionsDelegate which does nothing.
 
+// ---docerion
+// type: source
+// title: KeywordExtensionsDelegateImpl class header
+// summary: Declares KeywordExtensionsDelegateImpl, the Chrome implementation of KeywordExtensionsDelegate that tracks extension keyword mode and suggestion state.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOCOMPLETE_KEYWORD_EXTENSIONS_DELEGATE_IMPL_H_
 #define CHROME_BROWSER_AUTOCOMPLETE_KEYWORD_EXTENSIONS_DELEGATE_IMPL_H_
 

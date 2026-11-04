@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TPM firmware update notification header
+// summary: Declares ShowNotificationIfNeeded, which informs the user about a pending TPM firmware update and directs them to the about page.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_TPM_TPM_FIRMWARE_UPDATE_NOTIFICATION_H_
 #define CHROME_BROWSER_ASH_TPM_TPM_FIRMWARE_UPDATE_NOTIFICATION_H_
 

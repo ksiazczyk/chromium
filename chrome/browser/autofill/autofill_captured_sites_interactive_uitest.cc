@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill captured sites interactive UI test
+// summary: Runs replay-based interactive UI tests that exercise autofill suggestions, previews and form filling on captured websites.
+// ---
+
 #include <algorithm>
 #include <map>
 #include <optional>
