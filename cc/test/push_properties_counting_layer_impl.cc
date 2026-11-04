@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Push properties counting layer impl implementation
+// summary: Implements the LayerImpl counterpart that counts property moves to the active layer in cc tests.
+// ---
+
 #include "cc/test/push_properties_counting_layer_impl.h"
 #include "base/memory/ptr_util.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestLayerTreeHostBase implementation
+// summary: Implements the TestLayerTreeHostBase fixture that sets up a fake host impl, frame sink and task graph runner for layer tree tests.
+// ---
+
 #include "cc/test/test_layer_tree_host_base.h"
 
 #include <memory>

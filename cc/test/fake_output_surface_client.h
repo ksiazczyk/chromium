@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeOutputSurfaceClient declaration
+// summary: Declares a fake viz OutputSurfaceClient that tracks swap counts and stubs the remaining client callbacks for tests.
+// ---
+
 #ifndef CC_TEST_FAKE_OUTPUT_SURFACE_CLIENT_H_
 #define CC_TEST_FAKE_OUTPUT_SURFACE_CLIENT_H_
 

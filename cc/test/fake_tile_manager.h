@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake tile manager test double header
+// summary: Declares FakeTileManager, a TileManager subclass for tests that tracks tiles assigned for raster and exposes memory assignment to tiles.
+// ---
+
 #ifndef CC_TEST_FAKE_TILE_MANAGER_H_
 #define CC_TEST_FAKE_TILE_MANAGER_H_
 

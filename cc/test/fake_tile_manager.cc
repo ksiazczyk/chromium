@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake tile manager implementation for cc tests
+// summary: Implements FakeTileManager, a test TileManager wired to a synchronous task graph runner, fake raster buffer provider, and fake tile task manager.
+// ---
+
 #include "cc/test/fake_tile_manager.h"
 
 #include <stddef.h>

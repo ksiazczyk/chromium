@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tile draw info declaration
+// summary: Declares TileDrawInfo, which holds the state needed to draw a tile, including resource, solid color, and out-of-memory modes.
+// ---
+
 #ifndef CC_TILES_TILE_DRAW_INFO_H_
 #define CC_TILES_TILE_DRAW_INFO_H_
 

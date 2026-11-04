@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: gmock-based Skia canvas test doubles
+// summary: Declares SaveCountingCanvas and a gmock-based MockCanvas for verifying Skia drawing operations in cc tests.
+// ---
+
 #ifndef CC_TEST_TEST_SKCANVAS_H_
 #define CC_TEST_TEST_SKCANVAS_H_
 

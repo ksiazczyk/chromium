@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stub single-thread layer tree host delegate declaration
+// summary: Declares a no-op LayerTreeHostSingleThreadDelegate test double with empty frame sink submission and loss callbacks.
+// ---
+
 #ifndef CC_TEST_STUB_LAYER_TREE_HOST_SINGLE_THREAD_DELEGATE_H_
 #define CC_TEST_STUB_LAYER_TREE_HOST_SINGLE_THREAD_DELEGATE_H_
 

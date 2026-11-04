@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pixel resource test implementation
+// summary: Implements LayerTreeHostPixelResourceTest, creating raster buffer providers for bitmap, GPU, zero-copy, and one-copy raster types and running pixel resource tests.
+// ---
+
 #include "cc/test/layer_tree_pixel_resource_test.h"
 
 #include "base/task/single_thread_task_runner.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake raster source test helper
+// summary: Declares the FakeRasterSource class with factory methods for creating configurable test raster sources.
+// ---
+
 #ifndef CC_TEST_FAKE_RASTER_SOURCE_H_
 #define CC_TEST_FAKE_RASTER_SOURCE_H_
 

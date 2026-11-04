@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Property tree test utilities header
+// summary: Declares helpers for setting up root properties and creating property tree nodes for layers in cc tests.
+// ---
+
 #ifndef CC_TEST_PROPERTY_TREE_TEST_UTILS_H_
 #define CC_TEST_PROPERTY_TREE_TEST_UTILS_H_
 

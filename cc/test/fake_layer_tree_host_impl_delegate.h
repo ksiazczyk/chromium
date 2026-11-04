@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeLayerTreeHostImplDelegate declaration
+// summary: Declares a fake LayerTreeHostImplDelegate that stubs impl-thread callbacks and exposes resettable state flags for test assertions.
+// ---
+
 #ifndef CC_TEST_FAKE_LAYER_TREE_HOST_IMPL_DELEGATE_H_
 #define CC_TEST_FAKE_LAYER_TREE_HOST_IMPL_DELEGATE_H_
 

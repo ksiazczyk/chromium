@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake raster source implementation for tests
+// summary: Implements FakeRasterSource factory methods that build filled, solid-color, image, text, and empty raster sources for compositor tests.
+// ---
+
 #include "cc/test/fake_raster_source.h"
 
 #include <limits>

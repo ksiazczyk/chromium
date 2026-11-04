@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake compositor timing history and test scheduler declarations
+// summary: Declares FakeCompositorTimingHistory, which allows setting timing estimates, and TestScheduler, which exposes scheduler state machine details for tests.
+// ---
+
 #ifndef CC_TEST_SCHEDULER_TEST_COMMON_H_
 #define CC_TEST_SCHEDULER_TEST_COMMON_H_
 

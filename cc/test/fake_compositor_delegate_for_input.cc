@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeCompositorDelegateForInput implementation
+// summary: Implements a fake compositor delegate for input that returns stub values and no-ops for scroll, animation, and metrics calls in compositor input tests.
+// ---
+
 #include "cc/test/fake_compositor_delegate_for_input.h"
 
 #include "cc/paint/element_id.h"

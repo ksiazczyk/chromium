@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeContentLayerClient implementation
+// summary: Implements a fake content layer client that builds display lists from configured rects, images, and Skottie animation data for layer painting tests.
+// ---
+
 #include "cc/test/fake_content_layer_client.h"
 
 #include <algorithm>

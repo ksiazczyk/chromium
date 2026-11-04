@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Task graph runner test template
+// summary: Reusable test base and templated test class that exercise TaskGraphRunner task scheduling, dependencies and completion across multiple namespaces.
+// ---
+
 #ifndef CC_TEST_TASK_GRAPH_RUNNER_TEST_TEMPLATE_H_
 #define CC_TEST_TASK_GRAPH_RUNNER_TEST_TEMPLATE_H_
 

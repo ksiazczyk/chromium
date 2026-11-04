@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakePictureLayerTilingClient test double implementation
+// summary: Implements a fake PictureLayerTilingClient with a FakeTileManager, configurable tile size, invalidation, and twin tilings for cc tiling tests.
+// ---
+
 #include "cc/test/fake_picture_layer_tiling_client.h"
 
 #include <stddef.h>

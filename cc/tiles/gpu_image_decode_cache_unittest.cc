@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GPU image decode cache unit tests
+// summary: Unit tests covering GpuImageDecodeCache behavior including decode, upload, transfer cache interaction, dark mode filtering, and memory limits.
+// ---
+
 #include "cc/tiles/gpu_image_decode_cache.h"
 
 #include <algorithm>

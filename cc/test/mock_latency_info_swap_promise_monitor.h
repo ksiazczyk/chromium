@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gmock mock of the latency info swap promise monitor
+// summary: Declares a gmock mock of LatencyInfoSwapPromiseMonitor with mocked commit and redraw notification methods.
+// ---
+
 #ifndef CC_TEST_MOCK_LATENCY_INFO_SWAP_PROMISE_MONITOR_H_
 #define CC_TEST_MOCK_LATENCY_INFO_SWAP_PROMISE_MONITOR_H_
 

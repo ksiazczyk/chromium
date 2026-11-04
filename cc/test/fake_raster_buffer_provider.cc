@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeRasterBufferProviderImpl test double implementation
+// summary: Implements a no-op RasterBufferProvider that creates test shared image backings and always reports resources ready to draw for cc raster tests.
+// ---
+
 #include "cc/test/fake_raster_buffer_provider.h"
 
 #include <utility>

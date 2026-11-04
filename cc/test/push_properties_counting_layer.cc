@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Push properties counting layer implementation
+// summary: Implements a test layer that counts how often its properties are pushed to the impl side during commits.
+// ---
+
 #include "cc/test/push_properties_counting_layer.h"
 
 #include "cc/test/push_properties_counting_layer_impl.h"

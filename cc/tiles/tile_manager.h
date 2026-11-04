@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tile manager class declaration
+// summary: Declares the TileManager class, which decides which tiles are rasterized or evicted and coordinates raster and image decode work across the task graph and image worker systems.
+// ---
+
 #ifndef CC_TILES_TILE_MANAGER_H_
 #define CC_TILES_TILE_MANAGER_H_
 

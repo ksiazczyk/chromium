@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeLayerContext implementation
+// summary: Implements a fake LayerContext with no-op display tree updates that counts update calls and records frame interval inputs for tests.
+// ---
+
 #include "cc/test/fake_layer_context.h"
 
 #include <utility>

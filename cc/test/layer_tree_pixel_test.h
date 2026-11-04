@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Layer tree pixel test class declaration
+// summary: Declares the LayerTreePixelTest base class with helpers to run pixel tests, create solid color layers, configure raster types, and compare readback results.
+// ---
+
 #ifndef CC_TEST_LAYER_TREE_PIXEL_TEST_H_
 #define CC_TEST_LAYER_TREE_PIXEL_TEST_H_
 

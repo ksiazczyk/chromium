@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gmock mock of the layer tree mutator
+// summary: Declares a gmock mock of LayerTreeMutator that forwards mutate calls so move-only arguments can be exercised in tests.
+// ---
+
 #ifndef CC_TEST_MOCK_LAYER_TREE_MUTATOR_H_
 #define CC_TEST_MOCK_LAYER_TREE_MUTATOR_H_
 

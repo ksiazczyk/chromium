@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PixelTestOutputSurface class declaration
+// summary: Declares a software output surface used by pixel tests to present frames and read back rendered bitmaps.
+// ---
+
 #ifndef CC_TEST_PIXEL_TEST_OUTPUT_SURFACE_H_
 #define CC_TEST_PIXEL_TEST_OUTPUT_SURFACE_H_
 

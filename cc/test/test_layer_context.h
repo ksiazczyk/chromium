@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestLayerContext class declaration
+// summary: Declares TestLayerContext, a stub LayerContext implementation for exercising layer tree display updates in tests.
+// ---
+
 #ifndef CC_TEST_TEST_LAYER_CONTEXT_H_
 #define CC_TEST_TEST_LAYER_CONTEXT_H_
 

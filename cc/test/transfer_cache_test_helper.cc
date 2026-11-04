@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: In-memory transfer cache helper for tests
+// summary: Implements a test helper that simulates client and service transfer cache operations using a mock Skia GPU context and cache limits.
+// ---
+
 #include "cc/test/transfer_cache_test_helper.h"
 
 #include <memory>

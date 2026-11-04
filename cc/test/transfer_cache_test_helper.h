@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for the transfer cache test helper
+// summary: Declares TransferCacheTestHelper, combining serialize and deserialize helpers to test transfer cache entry locking, creation, and limits.
+// ---
+
 #ifndef CC_TEST_TRANSFER_CACHE_TEST_HELPER_H_
 #define CC_TEST_TRANSFER_CACHE_TEST_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake video frame provider implementation
+// summary: Implements FakeVideoFrameProvider, a test VideoFrameProvider that serves a single settable video frame and counts PutCurrentFrame calls.
+// ---
+
 #include "cc/test/fake_video_frame_provider.h"
 
 #include "components/viz/common/frame_sinks/begin_frame_args.h"

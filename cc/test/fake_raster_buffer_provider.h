@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeRasterBufferProviderImpl test double header
+// summary: Declares FakeRasterBufferProviderImpl, a no-op RasterBufferProvider stub for cc raster and tile tests.
+// ---
+
 #ifndef CC_TEST_FAKE_RASTER_BUFFER_PROVIDER_H_
 #define CC_TEST_FAKE_RASTER_BUFFER_PROVIDER_H_
 

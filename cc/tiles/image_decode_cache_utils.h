@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageDecodeCacheUtils class header
+// summary: Declares the ImageDecodeCacheUtils class providing the default working set size and budget bytes for decoded images in the renderer or UI compositor.
+// ---
+
 #ifndef CC_TILES_IMAGE_DECODE_CACHE_UTILS_H_
 #define CC_TILES_IMAGE_DECODE_CACHE_UTILS_H_
 

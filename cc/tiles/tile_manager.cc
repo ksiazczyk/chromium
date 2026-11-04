@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tile manager implementation
+// summary: Implements the tile manager that assigns tile memory and schedules prioritized raster and image decode work, including raster tasks, image providers, eviction, and tracing.
+// ---
+
 #include "cc/tiles/tile_manager.h"
 
 #include <stddef.h>

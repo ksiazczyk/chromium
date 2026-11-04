@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tile task manager implementation
+// summary: Implements TileTaskManagerImpl, which schedules tile tasks on a TaskGraphRunner, collects completed tasks, notifies external dependents, and shuts down cleanly.
+// ---
+
 #include "cc/tiles/tile_task_manager.h"
 
 #include <utility>

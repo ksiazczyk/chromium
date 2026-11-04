@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TilingSetRasterQueueRequired implementation
+// summary: Implements TilingSetRasterQueueRequired, which iterates over tiles required for activation or draw from high-resolution tilings of a picture layer tiling set.
+// ---
+
 #include "cc/tiles/tiling_set_raster_queue_required.h"
 
 #include <stddef.h>

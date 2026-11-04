@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RasterTilePriorityQueueAll declaration
+// summary: Declares the raster priority queue covering all tiles from active and pending picture layer tiling sets.
+// ---
+
 #ifndef CC_TILES_RASTER_TILE_PRIORITY_QUEUE_ALL_H_
 #define CC_TILES_RASTER_TILE_PRIORITY_QUEUE_ALL_H_
 

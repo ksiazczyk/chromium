@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU image decode cache implementation
+// summary: Implements the GPU image decode cache that decodes and uploads images for Skia's GPU raster path, managing cache limits, working set locks, and image usage state tracking.
+// ---
+
 #include "cc/tiles/gpu_image_decode_cache.h"
 
 #include <inttypes.h>

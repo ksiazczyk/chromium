@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeCompositorDelegateForInput class declaration
+// summary: Declares a fake CompositorDelegateForInput with stubbed input, scroll, pinch, and frame-sequence methods for use in compositor tests.
+// ---
+
 #ifndef CC_TEST_FAKE_COMPOSITOR_DELEGATE_FOR_INPUT_H_
 #define CC_TEST_FAKE_COMPOSITOR_DELEGATE_FOR_INPUT_H_
 

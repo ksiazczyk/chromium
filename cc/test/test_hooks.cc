@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestHooks implementation
+// summary: Implements default TestHooks behaviour used by compositor tests to observe frame preparation, raster buffer creation and main frame metrics.
+// ---
+
 #include "cc/test/test_hooks.h"
 
 #include <memory>

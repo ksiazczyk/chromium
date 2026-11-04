@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tiling set eviction queue implementation
+// summary: Implements TilingSetEvictionQueue, which orders tiles from all tilings in a tiling set by region phase and scale for eviction.
+// ---
+
 #include <stddef.h>
 
 #include <utility>

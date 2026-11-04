@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeMaskLayerImpl declaration
+// summary: Declares a fake PictureLayerImpl subclass for testing mask layers with a settable resource size.
+// ---
+
 #ifndef CC_TEST_FAKE_MASK_LAYER_IMPL_H_
 #define CC_TEST_FAKE_MASK_LAYER_IMPL_H_
 

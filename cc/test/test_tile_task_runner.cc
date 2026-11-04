@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test runner driving the tile task lifecycle
+// summary: Implements TestTileTaskRunner, which schedules, runs, cancels, and completes tile tasks to drive their lifecycle in tests.
+// ---
+
 #include "cc/test/test_tile_task_runner.h"
 
 #include <utility>

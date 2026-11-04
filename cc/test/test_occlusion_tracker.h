@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestOcclusionTracker test helper
+// summary: Declares TestOcclusionTracker, an OcclusionTracker subclass that exposes and allows setting occlusion regions for test assertions.
+// ---
+
 #ifndef CC_TEST_TEST_OCCLUSION_TRACKER_H_
 #define CC_TEST_TEST_OCCLUSION_TRACKER_H_
 

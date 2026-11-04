@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image controller implementation
+// summary: Implements ImageController worker task processing, image decode request queueing, ref counting of locked images, and cleanup on shutdown.
+// ---
+
 #include "cc/tiles/image_controller.h"
 
 #include <utility>

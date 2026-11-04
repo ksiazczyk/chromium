@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Event metrics test creator declarations
+// summary: Declares EventMetricsTestCreator with chained builder templates for creating event and scroll metrics in cc unit tests.
+// ---
+
 #ifndef CC_TEST_EVENT_METRICS_TEST_CREATOR_H_
 #define CC_TEST_EVENT_METRICS_TEST_CREATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Push properties counting layer header
+// summary: Declares a test layer subclass that tracks push-properties counts for cc layer tests.
+// ---
+
 #ifndef CC_TEST_PUSH_PROPERTIES_COUNTING_LAYER_H_
 #define CC_TEST_PUSH_PROPERTIES_COUNTING_LAYER_H_
 

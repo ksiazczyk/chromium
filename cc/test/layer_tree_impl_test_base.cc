@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Layer tree impl test base implementation
+// summary: Implements the LayerTreeImplTestBase fixture that sets up fake layer tree hosts, animation timelines, and helpers for appending quads and updating draw properties in impl-side tests.
+// ---
+
 #include "cc/test/layer_tree_impl_test_base.h"
 
 #include <stddef.h>

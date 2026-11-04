@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gmock mock of the input handler
+// summary: Declares a gmock-based MockInputHandler with mocked scroll, pinch, mouse and hit-test methods for input handler tests.
+// ---
+
 #ifndef CC_TEST_MOCK_INPUT_HANDLER_H_
 #define CC_TEST_MOCK_INPUT_HANDLER_H_
 

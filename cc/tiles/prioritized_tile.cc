@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrioritizedTile implementation
+// summary: Implements PrioritizedTile, which pairs a tile with its raster priority, occlusion state, and tracing output.
+// ---
+
 #include "cc/tiles/prioritized_tile.h"
 
 #include "cc/tiles/picture_layer_tiling.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaintOpHelper string conversion for debugging paint ops
+// summary: Header-only helper class that converts PaintOp and PaintOpBuffer contents to readable strings for debugging and test output.
+// ---
+
 #ifndef CC_TEST_PAINT_OP_HELPER_H_
 #define CC_TEST_PAINT_OP_HELPER_H_
 

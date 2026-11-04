@@ -1,0 +1,4 @@
+# Docerion header of animation_with_2_text_nodes.json.
+type: test
+title: Lottie test animation with two text nodes
+summary: Lottie animation JSON fixture with two text layers and a solid background, used as test data for rendering tests.

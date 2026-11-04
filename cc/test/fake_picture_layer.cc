@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakePictureLayer implementation
+// summary: Implements a fake PictureLayer that counts updates, supports fixed tile sizes, and can gate raster playback with a waitable event.
+// ---
+
 #include "cc/test/fake_picture_layer.h"
 
 #include <utility>

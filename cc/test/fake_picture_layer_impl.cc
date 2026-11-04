@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakePictureLayerImpl test double implementation
+// summary: Implements FakePictureLayerImpl with helpers for creating tiles, marking tiles ready, counting appended quads, and setting raster sources in compositor tests.
+// ---
+
 #include "cc/test/fake_picture_layer_impl.h"
 
 #include <stddef.h>

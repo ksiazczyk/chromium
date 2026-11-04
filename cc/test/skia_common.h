@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skia and paint image test helper declarations
+// summary: Declares test helpers for drawing display lists, comparing raster results, and creating paint, discardable, animated, bitmap, and Skottie test images.
+// ---
+
 #ifndef CC_TEST_SKIA_COMMON_H_
 #define CC_TEST_SKIA_COMMON_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stub image decode cache implementation
+// summary: Implements StubDecodeCache with no-op image decode cache methods that return default task results and empty decoded images for tests.
+// ---
+
 #include "cc/test/stub_decode_cache.h"
 
 namespace cc {

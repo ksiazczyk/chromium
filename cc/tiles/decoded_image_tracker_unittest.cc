@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Decoded image tracker unit tests
+// summary: Unit tests for DecodedImageTracker verifying image locking, unlocking on use, and expiration by frame count or timeout with a mock task runner.
+// ---
+
 #include "cc/tiles/decoded_image_tracker.h"
 
 #include <algorithm>

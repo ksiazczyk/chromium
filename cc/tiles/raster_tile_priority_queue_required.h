@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RasterTilePriorityQueueRequired declaration
+// summary: Declares the raster priority queue that yields only tiles required for draw or activation.
+// ---
+
 #ifndef CC_TILES_RASTER_TILE_PRIORITY_QUEUE_REQUIRED_H_
 #define CC_TILES_RASTER_TILE_PRIORITY_QUEUE_REQUIRED_H_
 

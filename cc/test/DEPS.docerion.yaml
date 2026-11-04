@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the cc test directory
+summary: Defines allowed include dependencies for cc/test, with per-file exceptions granting access to GPU, viz and mojo headers.

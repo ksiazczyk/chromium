@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Event metrics test creator implementation
+// summary: Implements CRTP-based builder classes for constructing EventMetrics and scroll event metrics objects with configurable timestamps in cc unit tests.
+// ---
+
 #include "cc/test/event_metrics_test_creator.h"
 
 #include <memory>

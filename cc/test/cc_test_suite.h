@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cc test suite class declaration
+// summary: Declares CCTestSuite, a base::TestSuite subclass that sets up and tears down the shared environment for cc unit tests.
+// ---
+
 #ifndef CC_TEST_CC_TEST_SUITE_H_
 #define CC_TEST_CC_TEST_SUITE_H_
 

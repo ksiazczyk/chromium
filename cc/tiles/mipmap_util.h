@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MipMapUtil header
+// summary: Declares MipMapUtil static helpers for determining the mip level, size and scale factor between a source and target image size.
+// ---
+
 #ifndef CC_TILES_MIPMAP_UTIL_H_
 #define CC_TILES_MIPMAP_UTIL_H_
 

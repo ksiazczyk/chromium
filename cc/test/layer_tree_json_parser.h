@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Layer tree JSON parser declaration
+// summary: Declares ParseTreeFromJson, which builds a cc layer tree from a JSON string for use in tests.
+// ---
+
 #ifndef CC_TEST_LAYER_TREE_JSON_PARSER_H_
 #define CC_TEST_LAYER_TREE_JSON_PARSER_H_
 

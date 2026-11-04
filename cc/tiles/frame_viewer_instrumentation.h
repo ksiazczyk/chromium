@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame viewer instrumentation header
+// summary: Declares the ScopedRasterTask trace scope and helpers for frame viewer tracing of raster tasks and layer tree snapshots.
+// ---
+
 #ifndef CC_TILES_FRAME_VIEWER_INSTRUMENTATION_H_
 #define CC_TILES_FRAME_VIEWER_INSTRUMENTATION_H_
 

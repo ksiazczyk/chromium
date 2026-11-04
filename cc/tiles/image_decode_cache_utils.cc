@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image decode cache utilities
+// summary: Computes the decoded image working set memory budget based on platform, device memory size, and low-end device policy.
+// ---
+
 #ifndef CC_TILES_IMAGE_DECODE_CACHE_UTILS_CC_
 #define CC_TILES_IMAGE_DECODE_CACHE_UTILS_CC_
 

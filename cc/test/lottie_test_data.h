@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lottie test animations and constants
+// summary: Defines inline Skottie animation JSON strings and constants for testing color, asset and text node animations in the compositor.
+// ---
+
 #ifndef CC_TEST_LOTTIE_TEST_DATA_H_
 #define CC_TEST_LOTTIE_TEST_DATA_H_
 

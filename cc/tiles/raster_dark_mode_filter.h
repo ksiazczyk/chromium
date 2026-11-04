@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RasterDarkModeFilter interface
+// summary: Declares a thread-safe interface for applying dark mode color filters to images during rasterization.
+// ---
+
 #ifndef CC_TILES_RASTER_DARK_MODE_FILTER_H_
 #define CC_TILES_RASTER_DARK_MODE_FILTER_H_
 

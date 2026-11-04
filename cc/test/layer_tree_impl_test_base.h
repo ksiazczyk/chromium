@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Layer tree impl test base class declaration
+// summary: Declares LayerTreeImplTestBase, a test fixture providing layer creation, quad appending with occlusion, draw property updates, and accessors for impl-side layer tree testing.
+// ---
+
 #ifndef CC_TEST_LAYER_TREE_IMPL_TEST_BASE_H_
 #define CC_TEST_LAYER_TREE_IMPL_TEST_BASE_H_
 

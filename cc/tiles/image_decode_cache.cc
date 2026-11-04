@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageDecodeCache base implementation
+// summary: Implements TaskResult constructors and client ID generation for the ImageDecodeCache interface.
+// ---
+
 #include "cc/tiles/image_decode_cache.h"
 
 #include <limits>

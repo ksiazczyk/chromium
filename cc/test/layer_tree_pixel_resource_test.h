@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pixel resource test class declaration
+// summary: Declares LayerTreeHostPixelResourceTest and ParameterizedPixelResourceTest fixtures for running pixel tests with configurable raster and renderer types.
+// ---
+
 #ifndef CC_TEST_LAYER_TREE_PIXEL_RESOURCE_TEST_H_
 #define CC_TEST_LAYER_TREE_PIXEL_RESOURCE_TEST_H_
 

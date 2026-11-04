@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Layer tree JSON parser implementation
+// summary: Implements parsing of JSON layer tree descriptions into cc layer hierarchies, supporting solid color, nine patch, picture, and texture layers for tests.
+// ---
+
 #include "cc/test/layer_tree_json_parser.h"
 
 #include <stddef.h>

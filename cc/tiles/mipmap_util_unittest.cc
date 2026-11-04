@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MipMapUtil unit tests
+// summary: Unit tests covering MipMapUtil level, size and scale calculations, including basic scaling, upscaling, non-square images, maximum levels and rounding.
+// ---
+
 #include "cc/tiles/mipmap_util.h"
 
 #include <array>

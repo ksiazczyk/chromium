@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageDecodeCache interface
+// summary: Defines the interface for generating image decode tasks, decoding and caching images, and returning decoded images for raster.
+// ---
+
 #ifndef CC_TILES_IMAGE_DECODE_CACHE_H_
 #define CC_TILES_IMAGE_DECODE_CACHE_H_
 

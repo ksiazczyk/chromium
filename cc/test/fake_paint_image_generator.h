@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakePaintImageGenerator declaration
+// summary: Declares a fake PaintImageGenerator for image decode tests with YUV support, decode size limits, and controllable failure options.
+// ---
+
 #ifndef CC_TEST_FAKE_PAINT_IMAGE_GENERATOR_H_
 #define CC_TEST_FAKE_PAINT_IMAGE_GENERATOR_H_
 

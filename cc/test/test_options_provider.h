@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestOptionsProvider test helper declaration
+// summary: Declares TestOptionsProvider, a stack-allocated helper combining ImageProvider and TransferCacheTestHelper with paint caches and serialization options for cc paint tests.
+// ---
+
 #ifndef CC_TEST_TEST_OPTIONS_PROVIDER_H_
 #define CC_TEST_TEST_OPTIONS_PROVIDER_H_
 

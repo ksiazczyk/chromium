@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeMaskLayerImpl implementation
+// summary: Implements a fake mask picture layer that returns an invalid resource id and configurable size for mask rendering tests.
+// ---
+
 #include "cc/test/fake_mask_layer_impl.h"
 
 #include <memory>

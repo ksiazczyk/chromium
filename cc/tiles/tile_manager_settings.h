@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tile manager settings struct
+// summary: Defines the TileManagerSettings struct with flags for partial raster, checker imaging, the minimum image bytes for checkering, and ready-to-draw notification.
+// ---
+
 #ifndef CC_TILES_TILE_MANAGER_SETTINGS_H_
 #define CC_TILES_TILE_MANAGER_SETTINGS_H_
 

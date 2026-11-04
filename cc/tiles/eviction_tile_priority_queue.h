@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eviction tile priority queue header
+// summary: Declares EvictionTilePriorityQueue, a priority queue of tiles to evict built from active and pending layer tiling set eviction queues.
+// ---
+
 #ifndef CC_TILES_EVICTION_TILE_PRIORITY_QUEUE_H_
 #define CC_TILES_EVICTION_TILE_PRIORITY_QUEUE_H_
 

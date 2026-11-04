@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Solid color fake content layer client implementation
+// summary: Implements a fake content layer client that paints a solid color with an optional border into a display item list for layer tests.
+// ---
+
 #include "cc/test/solid_color_content_layer_client.h"
 
 #include <stddef.h>

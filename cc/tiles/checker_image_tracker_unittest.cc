@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Checker image tracker unit tests
+// summary: Unit tests for CheckerImageTracker covering checkering decisions based on image size, animation and load state, using a test image controller.
+// ---
+
 #include "cc/tiles/checker_image_tracker.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestLayerTreeFrameSink implementation
+// summary: Implements TestLayerTreeFrameSink, which owns a viz Display and forwards submitted compositor frames for use in compositor tests.
+// ---
+
 #include "cc/test/test_layer_tree_frame_sink.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Raster tile priority queue factory
+// summary: Implements the factory that creates raster tile priority queues of type ALL or required for draw and activation.
+// ---
+
 #include "cc/tiles/raster_tile_priority_queue.h"
 
 #include <utility>

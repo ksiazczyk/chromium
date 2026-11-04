@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake compositor timing history and test scheduler implementation
+// summary: Implements FakeCompositorTimingHistory with controllable duration estimates and TestScheduler, a scheduler subclass exposing state for tests.
+// ---
+
 #include "cc/test/scheduler_test_common.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tiles with resource iterator declaration
+// summary: Declares TilesWithResourceIterator, an iterator over all tiles that have a resource across primary and secondary picture layers, in undefined order.
+// ---
+
 #ifndef CC_TILES_TILES_WITH_RESOURCE_ITERATOR_H_
 #define CC_TILES_TILES_WITH_RESOURCE_ITERATOR_H_
 

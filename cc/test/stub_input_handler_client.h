@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stub input handler client declaration
+// summary: Declares a no-op InputHandlerClient test double with empty overrides for input delivery, animation, and shutdown callbacks.
+// ---
+
 #ifndef CC_TEST_STUB_INPUT_HANDLER_CLIENT_H_
 #define CC_TEST_STUB_INPUT_HANDLER_CLIENT_H_
 

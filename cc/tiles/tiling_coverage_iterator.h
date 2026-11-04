@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tiling coverage iterator
+// summary: Defines a template iterator that yields the minimal set of tiles required to cover a given content rectangle in a generic tiling.
+// ---
+
 #ifndef CC_TILES_TILING_COVERAGE_ITERATOR_H_
 #define CC_TILES_TILING_COVERAGE_ITERATOR_H_
 

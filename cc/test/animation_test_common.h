@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Animation test helper declarations
+// summary: Declares fake float and transform animation curves plus helper functions for building animations in cc animation tests.
+// ---
+
 #ifndef CC_TEST_ANIMATION_TEST_COMMON_H_
 #define CC_TEST_ANIMATION_TEST_COMMON_H_
 

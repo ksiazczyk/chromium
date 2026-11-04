@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tile draw info implementation
+// summary: Implements TileDrawInfo methods for setting and taking raster resources and emitting tracing state for solid color and resource modes.
+// ---
+
 #include "cc/tiles/tile_draw_info.h"
 
 #include <utility>

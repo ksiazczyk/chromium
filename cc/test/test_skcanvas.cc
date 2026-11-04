@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SaveCountingCanvas and MockCanvas implementations
+// summary: Implements SaveCountingCanvas and MockCanvas, Skia no-draw canvas test doubles that record save, restore and draw calls.
+// ---
+
 #include "cc/test/test_skcanvas.h"
 
 #include "third_party/skia/include/gpu/ganesh/gl/GrGLInterface.h"

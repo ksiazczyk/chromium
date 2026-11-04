@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Layer test common helpers implementation
+// summary: Implements shared layer test helpers, including LayerTreeSettings variants for commit modes and functions that verify quad coverage and occlusion in render passes.
+// ---
+
 #include "cc/test/layer_test_common.h"
 
 #include <memory>

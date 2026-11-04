@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakePictureLayer test double header
+// summary: Declares a fake PictureLayer subclass for cc compositor tests that counts updates and supports fixed tile sizes, forced resource updates, and playback gating.
+// ---
+
 #ifndef CC_TEST_FAKE_PICTURE_LAYER_H_
 #define CC_TEST_FAKE_PICTURE_LAYER_H_
 

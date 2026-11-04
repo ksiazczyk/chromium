@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake layer tree frame sink client test helper
+// summary: Declares a fake LayerTreeFrameSinkClient that tracks ack counts, memory policy, and hit test region lists for compositor tests.
+// ---
+
 #ifndef CC_TEST_FAKE_LAYER_TREE_FRAME_SINK_CLIENT_H_
 #define CC_TEST_FAKE_LAYER_TREE_FRAME_SINK_CLIENT_H_
 

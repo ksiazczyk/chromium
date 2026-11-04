@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake layer tree host impl implementation
+// summary: Implements FakeLayerTreeHostImpl, a test LayerTreeHostImpl that starts an initial begin frame, creates pending trees, and tracks tile state changes.
+// ---
+
 #include "cc/test/fake_layer_tree_host_impl.h"
 
 #include <stddef.h>

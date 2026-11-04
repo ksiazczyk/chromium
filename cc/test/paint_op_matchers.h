@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gmock matchers for paint op equality and types
+// summary: Gmock matchers such as PaintOpEq and PaintOpIs that verify paint op buffers contain the expected ops in cc tests.
+// ---
+
 #ifndef CC_TEST_PAINT_OP_MATCHERS_H_
 #define CC_TEST_PAINT_OP_MATCHERS_H_
 

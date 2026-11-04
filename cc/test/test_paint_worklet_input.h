@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestPaintWorkletInput declaration
+// summary: Declares TestPaintWorkletInput, a stub PaintWorkletInput used to exercise paint worklet handling in compositor tests.
+// ---
+
 #ifndef CC_TEST_TEST_PAINT_WORKLET_INPUT_H_
 #define CC_TEST_TEST_PAINT_WORKLET_INPUT_H_
 

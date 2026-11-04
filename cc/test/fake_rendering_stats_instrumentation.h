@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake rendering stats instrumentation
+// summary: Defines an empty FakeRenderingStatsInstrumentation subclass of RenderingStatsInstrumentation for use in tests.
+// ---
+
 #ifndef CC_TEST_FAKE_RENDERING_STATS_INSTRUMENTATION_H_
 #define CC_TEST_FAKE_RENDERING_STATS_INSTRUMENTATION_H_
 

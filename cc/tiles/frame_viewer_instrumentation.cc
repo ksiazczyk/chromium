@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame viewer instrumentation implementation
+// summary: Implements tracing instrumentation for the frame viewer, emitting raster task trace events with tile, layer and source frame number data.
+// ---
+
 #include "cc/tiles/frame_viewer_instrumentation.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skia and paint image test helpers implementation
+// summary: Provides test helpers for drawing and comparing display lists, creating paint, discardable, animated, and bitmap images, YUVA pixmap info, and building Skottie animations.
+// ---
+
 #include "cc/test/skia_common.h"
 
 #include <stddef.h>

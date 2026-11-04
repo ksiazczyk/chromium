@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeOutputSurfaceClient implementation
+// summary: Implements the fake output surface client, counting swap buffers acknowledgments received during tests.
+// ---
+
 #include "cc/test/fake_output_surface_client.h"
 #include "ui/gfx/gpu_fence_handle.h"
 

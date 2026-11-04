@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestPaintWorkletInput implementation
+// summary: Implements TestPaintWorkletInput, a stub PaintWorkletInput carrying a container size and property keys for paint worklet tests.
+// ---
+
 #include "cc/test/test_paint_worklet_input.h"
 #include <vector>
 
