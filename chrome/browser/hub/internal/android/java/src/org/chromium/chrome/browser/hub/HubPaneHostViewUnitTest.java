@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HubPaneHostViewUnitTest
+// summary: Robolectric unit tests for HubPaneHostView covering root view handling and property binding via the change processor.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import static org.junit.Assert.assertEquals;

@@ -4,6 +4,13 @@ Copyright 2025 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Hub pane switcher hover color resource
+summary: Defines the incognito hover color used by hub pane switcher tab items in Chromium for Android.
+-->
+
 <resources>
     <color name="pane_switcher_tab_item_hover_incognito">@color/baseline_neutral_90</color>
 </resources>

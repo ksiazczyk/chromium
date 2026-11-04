@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HubToolbarView
+// summary: Android LinearLayout implementing the Hub toolbar with pane switcher tabs, search box, menu button, and color blend animations.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import static org.chromium.build.NullUtil.assertNonNull;

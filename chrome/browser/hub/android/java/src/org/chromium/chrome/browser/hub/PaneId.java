@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'PaneId: IntDef annotation of Hub pane identifiers'
+// summary: Defines unique integer IDs for each Hub pane and requires new entries before COUNT, kept in sync with the HubPaneId enum in histogram metadata.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import androidx.annotation.IntDef;

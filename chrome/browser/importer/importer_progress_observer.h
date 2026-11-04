@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Importer progress observer interface
+// summary: Declares the ImporterProgressObserver interface for notifications about import start, per-item progress and completion.
+// ---
+
 #ifndef CHROME_BROWSER_IMPORTER_IMPORTER_PROGRESS_OBSERVER_H_
 #define CHROME_BROWSER_IMPORTER_IMPORTER_PROGRESS_OBSERVER_H_
 

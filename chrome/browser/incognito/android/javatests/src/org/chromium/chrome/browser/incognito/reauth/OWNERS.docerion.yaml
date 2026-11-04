@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for incognito reauth tests
+summary: Per-file ownership rule assigning ckitagawa@chromium.org for render revision updates to TabSwitcherIncognitoReauthViewTest.java.

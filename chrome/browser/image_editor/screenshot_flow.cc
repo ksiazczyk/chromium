@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screenshot capture flow implementation
+// summary: Implements the screenshot capture mode with a region selection overlay, navigation monitoring and callbacks delivering captured image data.
+// ---
+
 #include "chrome/browser/image_editor/screenshot_flow.h"
 
 #include <memory>

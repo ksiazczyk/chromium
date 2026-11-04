@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HubToolbarMediatorUnitTest
+// summary: Robolectric tests for the Hub toolbar mediator, covering search entrypoint histograms, visibility properties, and pane switcher behavior.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import static org.junit.Assert.assertEquals;

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Incognito window directory metadata
+summary: Declares the Buganizer component, Android OS scope, and owning team email for the incognito window directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the SVG icon transcoder
+// summary: In-process browser tests covering successful and failed SVG transcoding and saving of the resulting PNG icon.
+// ---
+
 #include "chrome/browser/icon_transcoder/svg_icon_transcoder.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for image descriptions
+summary: Allows dependencies on the content public browser Java sources and the browser UI modaldialog AppModalPresenter.

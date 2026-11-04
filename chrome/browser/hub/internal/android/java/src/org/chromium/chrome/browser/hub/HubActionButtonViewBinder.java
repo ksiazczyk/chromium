@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hub action button view binder
+// summary: Binds action button property model changes to the Hub toolbar button view, applying button data according to the visibility state.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import static org.chromium.chrome.browser.hub.HubActionButtonProperties.ACTION_BUTTON_DATA;

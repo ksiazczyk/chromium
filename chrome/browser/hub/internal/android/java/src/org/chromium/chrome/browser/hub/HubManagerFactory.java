@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HubManagerFactory
+// summary: Factory that creates HubManager instances from activity-level dependencies such as back press, snackbar and bottom sheet controllers.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import android.app.Activity;

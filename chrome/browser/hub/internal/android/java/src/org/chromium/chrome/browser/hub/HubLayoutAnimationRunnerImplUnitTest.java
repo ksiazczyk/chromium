@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HubLayoutAnimationRunnerImplUnitTest
+// summary: Robolectric unit tests for HubLayoutAnimationRunnerImpl covering animation states, timeouts and listener callbacks.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import static org.junit.Assert.assertEquals;

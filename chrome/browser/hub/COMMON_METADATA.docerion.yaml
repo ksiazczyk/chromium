@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Hub shared metadata
+summary: Shared directory metadata setting the bug tracker component, team email and Android OS for the hub.

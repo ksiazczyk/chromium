@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hub action button properties
+// summary: Defines the property keys holding the Hub toolbar action button data, visibility flag, and color mixer for the action button component.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import static org.chromium.chrome.browser.hub.HubColorMixer.COLOR_MIXER;

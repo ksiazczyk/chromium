@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image descriptions feature controller singleton
+// summary: Singleton that controls the Android image descriptions feature, enabling or disabling it per profile and managing settings such as the Wi-Fi-only requirement and just-once usage.
+// ---
+
 package org.chromium.chrome.browser.image_descriptions;
 
 import android.content.Context;

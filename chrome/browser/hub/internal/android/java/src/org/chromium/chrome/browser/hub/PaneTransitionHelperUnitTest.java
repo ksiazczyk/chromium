@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pane transition helper unit tests
+// summary: Robolectric unit tests verifying processing, queuing, removal, and deduplication of pane load hint transitions.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import static org.mockito.ArgumentMatchers.anyInt;

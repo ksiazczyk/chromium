@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-process importer bridge class declaration
+// summary: Declares the InProcessImporterBridge class, an ImporterBridge implementation that forwards imported data to a ProfileWriter and notifies the importer host of progress.
+// ---
+
 #ifndef CHROME_BROWSER_IMPORTER_IN_PROCESS_IMPORTER_BRIDGE_H_
 #define CHROME_BROWSER_IMPORTER_IN_PROCESS_IMPORTER_BRIDGE_H_
 

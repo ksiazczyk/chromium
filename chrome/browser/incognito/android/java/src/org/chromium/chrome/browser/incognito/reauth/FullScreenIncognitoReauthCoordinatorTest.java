@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Full-screen Incognito re-auth coordinator tests
+// summary: Robolectric tests for FullScreenIncognitoReauthCoordinator, verifying assertion behavior on show and dialog creation with mocked dependencies.
+// ---
+
 package org.chromium.chrome.browser.incognito.reauth;
 
 import static org.mockito.ArgumentMatchers.eq;

@@ -1,0 +1,4 @@
+# Docerion header of event_capture_mac.mm.
+type: source
+title: Mac event capture implementation
+summary: Implements Mac mouse capture via CocoaMouseCapture, forwarding mouse and scroll events to the handler and handling capture loss and cursor changes.

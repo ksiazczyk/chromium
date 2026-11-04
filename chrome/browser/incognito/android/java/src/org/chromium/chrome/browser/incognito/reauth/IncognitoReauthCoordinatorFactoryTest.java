@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Incognito re-auth coordinator factory tests
+// summary: Parameterized Robolectric tests for IncognitoReauthCoordinatorFactory, checking coordinator creation for tabbed and non-tabbed activity variants.
+// ---
+
 package org.chromium.chrome.browser.incognito.reauth;
 
 import static org.junit.Assert.assertFalse;

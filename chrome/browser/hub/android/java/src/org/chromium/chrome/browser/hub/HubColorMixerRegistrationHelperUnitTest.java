@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HubColorMixerRegistrationHelperUnitTest
+// summary: Unit tests covering blend registration, mixer switching, and cleanup behavior of HubColorMixerRegistrationHelper.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import static org.mockito.Mockito.mock;

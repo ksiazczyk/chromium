@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HubPaneHostMediatorUnitTest
+// summary: Robolectric unit tests for HubPaneHostMediator covering destroy behavior, root view updates and pane switching.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import static org.junit.Assert.assertEquals;

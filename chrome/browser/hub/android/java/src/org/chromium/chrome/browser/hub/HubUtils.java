@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HubUtils
+// summary: Static utilities for the Hub, including search box height calculation, grid tab switcher UI checks, and tablet width detection.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import android.view.View;

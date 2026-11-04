@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Importer unit test bookmark entry declarations
+// summary: Declares the BookmarkInfo struct and the TestEqualBookmarkEntry helper used to compare imported bookmark entries in importer unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_IMPORTER_IMPORTER_UNITTEST_UTILS_H_
 #define CHROME_BROWSER_IMPORTER_IMPORTER_UNITTEST_UTILS_H_
 

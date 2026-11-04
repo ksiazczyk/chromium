@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Edge import browser test for Windows
+// summary: Browser test verifying bookmark and favicon importing from Microsoft Edge on Windows using registry overrides and expected import data.
+// ---
+
 #include <stddef.h>
 
 #include <string>

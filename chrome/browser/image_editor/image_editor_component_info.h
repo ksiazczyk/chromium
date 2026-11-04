@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image editor component info header
+// summary: Declares the ImageEditorComponentInfo singleton for setting and querying the installed image editor component path and availability.
+// ---
+
 #ifndef CHROME_BROWSER_IMAGE_EDITOR_IMAGE_EDITOR_COMPONENT_INFO_H_
 #define CHROME_BROWSER_IMAGE_EDITOR_IMAGE_EDITOR_COMPONENT_INFO_H_
 

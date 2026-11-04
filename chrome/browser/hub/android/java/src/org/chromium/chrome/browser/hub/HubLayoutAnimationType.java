@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HubLayoutAnimationType
+// summary: IntDef annotation enumerating Hub layout animation types such as fade in, fade out, tab transitions, and translations.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import androidx.annotation.IntDef;

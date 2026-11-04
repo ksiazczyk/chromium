@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Incognito reauth view layout
+summary: Android layout for the incognito reauth screen, showing a menu button, an incognito splash icon, and buttons to unlock Incognito or see other tabs.
+-->
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"

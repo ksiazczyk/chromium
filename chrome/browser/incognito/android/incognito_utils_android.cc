@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android IncognitoUtils JNI implementation
+// summary: C++ implementation of the IncognitoUtils JNI bridge that reports whether incognito mode is enabled, forced, or managed by policy for a profile.
+// ---
+
 #include <jni.h>
 
 #include "chrome/browser/prefs/incognito_mode_prefs.h"

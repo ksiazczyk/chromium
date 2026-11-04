@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Incognito directory metadata
+summary: Sets the issue tracker component, team email, and target OS used for bugs in the incognito directory.

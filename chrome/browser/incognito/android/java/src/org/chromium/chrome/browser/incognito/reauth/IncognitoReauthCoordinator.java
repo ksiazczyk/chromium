@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incognito re-auth coordinator interface
+// summary: Internal interface defining the show, hide, and destroy lifecycle that re-auth coordinator implementations must follow each time the screen is shown.
+// ---
+
 package org.chromium.chrome.browser.incognito.reauth;
 
 import org.chromium.build.annotations.NullMarked;

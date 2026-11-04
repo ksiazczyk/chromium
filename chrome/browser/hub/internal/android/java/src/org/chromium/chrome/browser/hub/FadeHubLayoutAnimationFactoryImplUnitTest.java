@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FadeHubLayoutAnimationFactoryImpl unit tests
+// summary: Robolectric unit tests verifying fade in and fade out animator behavior of FadeHubLayoutAnimationFactoryImpl.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import static org.junit.Assert.assertEquals;

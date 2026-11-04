@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hub action button mediator
+// summary: Mediator holding the logic for the Hub toolbar action button, observing focused pane action button data and visibility changes.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import static org.chromium.chrome.browser.hub.HubActionButtonProperties.ACTION_BUTTON_DATA;

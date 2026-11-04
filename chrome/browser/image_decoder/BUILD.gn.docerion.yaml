@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Image decoder GN build targets
+summary: Defines the image_decoder source set and a test-only browser_tests target for the image decoder browser test.

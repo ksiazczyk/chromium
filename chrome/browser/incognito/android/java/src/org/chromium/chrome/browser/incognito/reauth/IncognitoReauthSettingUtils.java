@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IncognitoReauthSettingUtils
+// summary: Utility helpers for the Incognito re-auth lock setting, checking device screen lock state and building the setting summary with a link to Android security settings.
+// ---
+
 package org.chromium.chrome.browser.incognito.reauth;
 
 import android.app.Activity;

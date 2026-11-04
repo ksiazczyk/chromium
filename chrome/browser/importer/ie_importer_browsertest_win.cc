@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IE importer browser tests on Windows
+// summary: Browser tests for Windows that verify importing bookmarks, favicons, search engines and history from Internet Explorer into a Chrome profile.
+// ---
+
 #include <objbase.h>
 
 #include <unknwn.h>

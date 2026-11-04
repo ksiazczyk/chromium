@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HubPaneHostMediator
+// summary: Mediator that hosts a single Hub pane at a time, updating the pane root view, slide animation direction and snackbar container when the pane changes.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import static org.chromium.chrome.browser.hub.HubPaneHostProperties.INTERACTIVE_ELEMENT_CHECKER;

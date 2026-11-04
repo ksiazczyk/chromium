@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShrinkExpandAnimator for scaling a view between rects
+// summary: Animates a ShrinkExpandImageView scaling and translating between two rects for hub tab transitions.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import android.graphics.Bitmap;

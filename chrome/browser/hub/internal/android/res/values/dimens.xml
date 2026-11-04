@@ -4,6 +4,13 @@ Copyright 2023 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Hub UI dimension resources
+summary: Defines dimension values for the hub pane switcher, search box, toolbar action buttons, and XR layout in Chromium for Android.
+-->
+
 <resources>
     <!-- go/keep-sorted start -->
     <dimen name="hub_edge_swipe_gutter_width">32dp</dimen>

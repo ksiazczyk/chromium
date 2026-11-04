@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IncognitoReauthManagerTest
+// summary: Mock-based Robolectric tests for IncognitoReauthManager covering callback behavior when biometrics are unavailable, the feature is disabled, or authentication succeeds or fails.
+// ---
+
 package org.chromium.chrome.browser.incognito.reauth;
 
 import static org.mockito.ArgumentMatchers.any;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabSwitcherIncognitoReauthCoordinator
+// summary: Coordinator that shows and hides the incognito re-auth screen as a custom view inside the tab switcher, handling back presses and dismissal.
+// ---
+
 package org.chromium.chrome.browser.incognito.reauth;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

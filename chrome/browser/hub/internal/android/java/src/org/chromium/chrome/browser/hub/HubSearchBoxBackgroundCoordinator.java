@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HubSearchBoxBackgroundCoordinator
+// summary: Coordinator that controls the visibility and color scheme of the Hub search box background view.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import android.view.View;

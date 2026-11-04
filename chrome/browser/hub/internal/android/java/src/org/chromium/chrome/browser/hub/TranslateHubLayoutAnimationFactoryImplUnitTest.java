@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TranslateHubLayoutAnimationFactoryImplUnitTest
+// summary: Robolectric unit tests verifying translate up and down Hub animations, including scrim calls, view position, and color mixer state changes.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import static org.junit.Assert.assertEquals;

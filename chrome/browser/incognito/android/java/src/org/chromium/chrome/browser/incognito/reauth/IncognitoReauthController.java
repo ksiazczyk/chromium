@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incognito re-auth controller interface
+// summary: Public interface for non re-auth clients to query whether the re-auth page is showing or pending and to add or remove re-auth callbacks.
+// ---
+
 package org.chromium.chrome.browser.incognito.reauth;
 
 import org.chromium.build.annotations.NullMarked;

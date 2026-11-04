@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External process importer host implementation
+// summary: Implements the import host that checks the Firefox profile lock, waits for bookmark and search engine models to load, and launches the external import client.
+// ---
+
 #include "chrome/browser/importer/external_process_importer_host.h"
 
 #include <memory>

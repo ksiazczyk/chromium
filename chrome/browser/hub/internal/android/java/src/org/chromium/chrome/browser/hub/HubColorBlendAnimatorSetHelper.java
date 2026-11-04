@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HubColorBlendAnimatorSetHelper
+// summary: Helper that collects registered view color blends and builds AnimatorSets for Hub color scheme transitions.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import android.animation.Animator;

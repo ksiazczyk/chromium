@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'PaneManager: interface for managing Hub panes'
+// summary: Interface extending PaneLookup to expose the pane order controller, an observable focused pane supplier, pane focusing, and the active pane order.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import org.chromium.base.supplier.MonotonicObservableSupplier;

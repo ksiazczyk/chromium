@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fade Hub layout animation factory
+// summary: Factory creating fade in and fade out HubLayoutAnimators and animator providers used as Hub layout animations.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import org.chromium.build.annotations.NullMarked;

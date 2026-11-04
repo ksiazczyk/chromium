@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IncognitoReauthDialogTest
+// summary: Robolectric tests verifying that the Incognito re-auth dialog sets correct modal dialog properties and shows or dismisses it via the ModalDialogManager.
+// ---
+
 package org.chromium.chrome.browser.incognito.reauth;
 
 import static org.junit.Assert.assertEquals;

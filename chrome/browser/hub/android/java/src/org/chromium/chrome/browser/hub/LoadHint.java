@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoadHint annotation
+// summary: IntDef annotation defining pane load states from cold to hot that guide resource usage and visibility.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import androidx.annotation.IntDef;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shrink and expand hub layout animation factory
+// summary: Factory creating HubLayoutAnimatorProviders for shrink, expand, and new tab animations, with fade fallbacks when dependencies are unmet.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import androidx.annotation.ColorInt;

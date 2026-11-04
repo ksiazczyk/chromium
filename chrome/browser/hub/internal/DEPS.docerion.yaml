@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for hub internal
+summary: Declares allowed dependency include rules for the hub internal directory, permitting browser_ui bottomsheet and edge_to_edge Android components.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Idle browser module build definition
+summary: Defines the idle source set and its unit and browser test targets with their sources and dependencies.

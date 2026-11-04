@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HubSearchBoxBackgroundViewBinder
+// summary: Binder that applies search box background property changes to the view by setting visibility and background color.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import static org.chromium.chrome.browser.hub.HubSearchBoxBackgroundProperties.COLOR_SCHEME;

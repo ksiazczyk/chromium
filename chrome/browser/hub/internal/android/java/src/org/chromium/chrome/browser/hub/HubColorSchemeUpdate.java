@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HubColorSchemeUpdate
+// summary: Simple holder for the previous and new Hub color schemes of a color scheme update.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import org.chromium.build.annotations.NullMarked;

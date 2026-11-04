@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: NewTabAnimationUtils
+// summary: Utilities for new tab animations, providing background colors and rect updates for various animation start positions.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import android.content.Context;

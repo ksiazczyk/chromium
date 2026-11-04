@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Radio button group accessibility preference
+// summary: Custom preference with radio buttons letting users switch image descriptions between Wi-Fi-only operation and allowing mobile data use.
+// ---
+
 package org.chromium.chrome.browser.image_descriptions;
 
 import android.content.Context;

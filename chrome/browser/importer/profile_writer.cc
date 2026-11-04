@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile writer implementation for imported data
+// summary: Implements ProfileWriter, which writes imported bookmarks, history, passwords, favicons, search engines and autofill entries into the user profile.
+// ---
+
 #include "chrome/browser/importer/profile_writer.h"
 
 #include <stddef.h>

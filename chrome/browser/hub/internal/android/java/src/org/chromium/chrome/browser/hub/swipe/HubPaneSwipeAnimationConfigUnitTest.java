@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for HubPaneSwipeAnimationConfig
+// summary: Robolectric unit tests covering interpolator, duration, and search box animation behavior of HubPaneSwipeAnimationConfig.
+// ---
+
 package org.chromium.chrome.browser.hub.swipe;
 
 import static org.junit.Assert.assertEquals;

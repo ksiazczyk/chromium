@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Importer UMA metrics implementation
+// summary: Logs which importer type was used to UMA histograms, bucketed by importer type and split by entry point.
+// ---
+
 #include "build/build_config.h"
 #include "chrome/browser/importer/importer_uma.h"
 

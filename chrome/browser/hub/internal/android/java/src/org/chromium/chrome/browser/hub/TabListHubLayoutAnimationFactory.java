@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab list hub layout animation factory
+// summary: Factory creating fade-in animator providers for tab list items, used on Android XR to animate the hub layout in full space mode.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import android.view.View;

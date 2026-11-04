@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Importer build targets (BUILD.gn)
+summary: Defines GN source sets for the importer, its implementation, browser tests and unit tests, with platform-conditional sources and dependency lists.

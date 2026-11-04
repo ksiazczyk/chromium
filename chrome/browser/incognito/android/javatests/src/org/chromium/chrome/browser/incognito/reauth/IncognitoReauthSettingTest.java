@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Incognito reauth privacy settings tests
+// summary: Large UI test verifying the incognito tab lock setting in Privacy and security opens the Android security settings when its summary is clicked.
+// ---
+
 package org.chromium.chrome.browser.incognito.reauth;
 
 import static androidx.test.espresso.Espresso.onView;

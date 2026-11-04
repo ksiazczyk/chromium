@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HubLayoutScrimController unit tests
+// summary: Robolectric unit tests verifying that the Hub layout scrim controller shows and hides the scrim and reacts to incognito changes.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import static org.junit.Assert.assertEquals;

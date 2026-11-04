@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: HubToolbarCoordinatorUnitTest
+// summary: Parameterized Robolectric unit tests for the Hub toolbar coordinator, run for both XR and non-XR device configurations.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import static org.junit.Assert.assertFalse;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pane manager implementation
+// summary: Implements PaneManager to track registered panes, handle focus changes, active pane ordering, and hub visibility-driven transitions.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

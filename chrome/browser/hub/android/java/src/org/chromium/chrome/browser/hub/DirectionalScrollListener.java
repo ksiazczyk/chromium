@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DirectionalScrollListener
+// summary: RecyclerView scroll listener that detects scroll direction and invokes throttled callbacks for scrolling up and down.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import android.os.Handler;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External process importer client implementation
+// summary: Implements the out-of-process import client that launches the profile importer utility process, sends localized strings and relays imported data to the bridge.
+// ---
+
 #include "chrome/browser/importer/external_process_importer_client.h"
 
 #include <utility>

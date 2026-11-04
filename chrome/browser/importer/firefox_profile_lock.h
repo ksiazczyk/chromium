@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Firefox profile lock class declaration
+// summary: Declares FirefoxProfileLock, which acquires and releases Firefox profile lock files so only one application accesses a profile during import.
+// ---
+
 #ifndef CHROME_BROWSER_IMPORTER_FIREFOX_PROFILE_LOCK_H__
 #define CHROME_BROWSER_IMPORTER_FIREFOX_PROFILE_LOCK_H__
 

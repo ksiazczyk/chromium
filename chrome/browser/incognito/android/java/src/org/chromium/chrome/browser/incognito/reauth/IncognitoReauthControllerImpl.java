@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incognito re-auth controller implementation
+// summary: Access point for showing the Incognito re-auth dialog; builds and destroys the coordinator, tracks pending state, and observes lifecycle and tab model changes.
+// ---
+
 package org.chromium.chrome.browser.incognito.reauth;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

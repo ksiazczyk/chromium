@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for HubPaneSwipeCoordinator
+// summary: Robolectric unit tests for HubPaneSwipeCoordinator covering root view setup, slide transitions, and gesture handling.
+// ---
+
 package org.chromium.chrome.browser.hub.swipe;
 
 import static org.junit.Assert.assertEquals;

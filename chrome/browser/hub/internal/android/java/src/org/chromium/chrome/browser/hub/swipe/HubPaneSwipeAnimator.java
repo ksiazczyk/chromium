@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HubPaneSwipeAnimator
+// summary: Animates settle and slide transitions between Hub pane views, reporting progress and completion to callers.
+// ---
+
 package org.chromium.chrome.browser.hub.swipe;
 
 import static org.chromium.chrome.browser.hub.HubAnimationConstants.PANE_SLIDE_ANIMATION_DURATION_MS;

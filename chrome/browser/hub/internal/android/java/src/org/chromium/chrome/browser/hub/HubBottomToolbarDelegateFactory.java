@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hub bottom toolbar delegate factory
+// summary: Factory creating HubBottomToolbarDelegate instances, returning a bottom bar implementation when the feature is enabled and null otherwise.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import android.content.Context;

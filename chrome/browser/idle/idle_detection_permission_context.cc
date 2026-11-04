@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Idle detection permission context implementation
+// summary: Implements idle detection permission decisions, denying requests in incognito after a random delay to hide incognito mode.
+// ---
+
 #include "chrome/browser/idle/idle_detection_permission_context.h"
 
 #include "base/functional/bind.h"

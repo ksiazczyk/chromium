@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HubColors
+// summary: Utility class handling color operations shared between Hub classes, such as resolving color schemes and background colors for tabs and surfaces.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HubBottomToolbarMediatorUnitTest
+// summary: Robolectric unit tests verifying HubBottomToolbarMediator behavior for observer registration, visibility changes, and color scheme updates.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import static org.junit.Assert.assertEquals;

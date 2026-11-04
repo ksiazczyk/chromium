@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Image descriptions settings radio group layout
+summary: Android layout for the image descriptions settings preference, offering radio buttons to get descriptions only on Wi-Fi or also on mobile data.
+-->
+
 <org.chromium.components.browser_ui.widget.RadioButtonWithDescriptionLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Image fetcher dependency include rules
+summary: Grants the directory include access to components/image_fetcher via include_rules.

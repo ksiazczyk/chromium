@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HubLayoutAnimationRunnerImpl
+// summary: Implementation of HubLayoutAnimationRunner that tracks animation state and runs hub layout animations, including forced completion.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

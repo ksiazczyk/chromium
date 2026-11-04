@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HubController
+// summary: Interface for communication between HubLayout and Hub internals, exposing container views, background colors, and the color mixer.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import android.view.View;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Importer UMA metrics declaration
+// summary: Declares LogImporterUseToMetrics, which records importer usage to UMA histograms split by entry point.
+// ---
+
 #ifndef CHROME_BROWSER_IMPORTER_IMPORTER_UMA_H_
 #define CHROME_BROWSER_IMPORTER_IMPORTER_UMA_H_
 

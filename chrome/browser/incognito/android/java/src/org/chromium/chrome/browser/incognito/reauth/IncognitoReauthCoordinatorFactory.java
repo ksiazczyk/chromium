@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incognito re-auth coordinator factory
+// summary: Factory that creates full-screen or tab-switcher Incognito re-auth coordinator instances depending on activity type and the available managers.
+// ---
+
 package org.chromium.chrome.browser.incognito.reauth;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

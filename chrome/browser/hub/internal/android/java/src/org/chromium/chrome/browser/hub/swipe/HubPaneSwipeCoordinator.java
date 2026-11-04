@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HubPaneSwipeCoordinator
+// summary: Coordinates swipe-to-switch gestures, settle animations, and pane view transitions within the Hub pane host.
+// ---
+
 package org.chromium.chrome.browser.hub.swipe;
 
 import android.view.MotionEvent;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HubManager interface
+// summary: Primary interface for interacting with the Hub, exposing the pane manager, controller, visibility supplier, and tab selection.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import org.chromium.base.supplier.NonNullObservableSupplier;

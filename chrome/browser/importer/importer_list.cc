@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Importer list implementation
+// summary: Detects installed browsers and profiles such as IE, Edge, Firefox and Safari whose data Chrome can import.
+// ---
+
 #include "chrome/browser/importer/importer_list.h"
 
 #include <stdint.h>

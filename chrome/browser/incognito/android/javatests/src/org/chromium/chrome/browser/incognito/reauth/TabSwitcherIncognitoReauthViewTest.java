@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab switcher Incognito reauth view layout tests
+// summary: Instrumentation and render tests for the incognito reauth view shown in the tab switcher, run with device screen lock and feature flags enabled.
+// ---
+
 package org.chromium.chrome.browser.incognito.reauth;
 
 import static androidx.test.espresso.Espresso.onView;

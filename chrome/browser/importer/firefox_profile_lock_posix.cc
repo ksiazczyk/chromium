@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Firefox profile lock POSIX implementation
+// summary: Implements FirefoxProfileLock on POSIX systems, acquiring and releasing a lock on the Firefox profile using fcntl and a lock file.
+// ---
+
 #include "chrome/browser/importer/firefox_profile_lock.h"
 
 #include <errno.h>

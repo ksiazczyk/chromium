@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ShrinkExpandAnimator render tests
+// summary: Render tests verifying the ShrinkExpandAnimator's rect-based scaling animation output.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import android.animation.ObjectAnimator;

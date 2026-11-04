@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for chrome/browser/idle
+summary: Delegates ownership to the content idle owners and requires permissions owners for permission context files.

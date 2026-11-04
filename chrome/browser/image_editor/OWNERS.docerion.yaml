@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Image editor owners
+summary: Delegates ownership review of the image editor directory to the send_tab_to_self OWNERS file.

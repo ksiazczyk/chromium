@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HubShowPaneHelper
+// summary: Helper that selects which pane to show when the Hub opens, defaulting to the incognito tab switcher in incognito mode.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import org.chromium.build.annotations.NullMarked;

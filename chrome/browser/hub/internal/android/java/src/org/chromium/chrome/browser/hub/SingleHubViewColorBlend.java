@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Single hub view color blend
+// summary: Creates color blend animations for individual hub views during hub color scheme changes, supporting animated and manual progress updates.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import static org.chromium.ui.util.ColorBlendAnimationFactory.createColorBlendAnimation;

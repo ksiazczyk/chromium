@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranslateHubLayoutAnimationFactoryImpl
+// summary: Implements the translate animation factory, building animator sets and listeners for translating the Hub container up or down with scrim control.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import android.animation.AnimatorSet;

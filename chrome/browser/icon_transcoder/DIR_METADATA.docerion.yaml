@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for icon_transcoder
+summary: Declares the Buganizer component (ChromeOS > Software > Guest OS) that tracks issues for this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabSwitcherIncognitoReauthCoordinatorTest
+// summary: Robolectric tests verifying that the tab-switcher re-auth coordinator requests and releases the tab switcher view on show and hide.
+// ---
+
 package org.chromium.chrome.browser.incognito.reauth;
 
 import static org.mockito.Mockito.doNothing;

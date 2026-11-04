@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incognito re-auth dialog
+// summary: Manages showing and hiding the full-screen Incognito re-auth modal dialog through the modal dialog manager with a custom re-auth view.
+// ---
+
 package org.chromium.chrome.browser.incognito.reauth;
 
 import android.view.View;

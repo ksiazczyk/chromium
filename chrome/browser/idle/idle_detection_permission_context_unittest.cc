@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Idle detection permission context unit tests
+// summary: Unit tests for the idle detection permission context, covering incognito auto-denial after a delay.
+// ---
+
 #include "chrome/browser/idle/idle_detection_permission_context.h"
 
 #include "base/test/task_environment.h"

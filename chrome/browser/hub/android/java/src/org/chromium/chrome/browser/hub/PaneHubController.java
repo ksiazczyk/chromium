@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'PaneHubController: interface for controlling the Hub from a pane'
+// summary: Interface available to the focused pane for selecting a tab and hiding the Hub, focusing other panes, retrieving pane buttons, and setting search box background visibility.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import android.view.View;

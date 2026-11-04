@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranslateHubLayoutAnimationFactory
+// summary: Factory creating HubLayoutAnimatorProviders for translate up/down Hub show and hide animations, mainly for large form factor devices.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import org.chromium.build.annotations.NullMarked;
