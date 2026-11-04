@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Inline login dialog browser tests
+// summary: Browser tests for the inline login dialog covering a child modal dialog use-after-free regression, dialog host observer notifications, and dialog arguments.
+// ---
+
 #include "chrome/browser/ui/webui/signin/ash/inline_login_dialog.h"
 
 #include "base/json/json_reader.h"

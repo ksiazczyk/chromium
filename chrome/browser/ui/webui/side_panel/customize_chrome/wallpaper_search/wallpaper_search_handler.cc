@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper search handler implementation
+// summary: Implements the browser-side handler that serves descriptors, inspirations, and search results to the WebUI and manages background image selection and feedback.
+// ---
+
 #include "chrome/browser/ui/webui/side_panel/customize_chrome/wallpaper_search/wallpaper_search_handler.h"
 
 #include <optional>

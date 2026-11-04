@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Turn sync on helper delegate implementation
+// summary: Implements the default TurnSyncOnHelper delegate that shows login errors, email and enterprise confirmations, sync prompts and sync settings during sign-in.
+// ---
+
 #include "chrome/browser/ui/webui/signin/turn_sync_on_helper_delegate_impl.h"
 
 #include <optional>

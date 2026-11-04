@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmarks side panel page handler implementation
+// summary: Implements the browser-side handler for the bookmarks side panel WebUI, covering bookmark commands, context menus, drag-and-drop, and undo.
+// ---
+
 #include "chrome/browser/ui/webui/side_panel/bookmarks/bookmarks_page_handler.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the customize toolbar Mojo handler
+// summary: Implements the browser-side handler that maps Chrome action IDs to Mojom actions, pins and unpins toolbar actions, and notifies the WebUI of changes.
+// ---
+
 #include "chrome/browser/ui/webui/side_panel/customize_chrome/customize_toolbar/customize_toolbar_handler.h"
 
 #include "base/feature_list.h"

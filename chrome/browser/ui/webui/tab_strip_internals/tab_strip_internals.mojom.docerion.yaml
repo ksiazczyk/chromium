@@ -1,0 +1,4 @@
+# Docerion header of tab_strip_internals.mojom.
+type: source
+title: Tab strip internals Mojo interface definitions
+summary: Defines Mojo structs, unions, and enums describing tab strip trees, restore data, and session data for the WebUI.

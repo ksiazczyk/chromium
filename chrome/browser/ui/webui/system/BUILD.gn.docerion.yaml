@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for the system info WebUI
+summary: Defines the system source set, listing its sources, public header, and dependencies for building the Chrome system info WebUI.

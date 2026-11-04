@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skills dialog view implementation
+// summary: Implements the Skills dialog view that hosts a WebView with rounded corners and feature-dependent sizing for the skills WebUI dialog.
+// ---
+
 #include "chrome/browser/ui/webui/skills/skills_dialog_view.h"
 
 #include <memory>

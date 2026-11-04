@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestSignoutConfirmationHandlerWaiter class declaration
+// summary: Declares a test helper that observes SignoutConfirmationUI and waits for its handler to become ready.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SIGNIN_SIGNOUT_CONFIRMATION_TEST_SIGNOUT_CONFIRMATION_HANDLER_WAITER_H_
 #define CHROME_BROWSER_UI_WEBUI_SIGNIN_SIGNOUT_CONFIRMATION_TEST_SIGNOUT_CONFIRMATION_HANDLER_WAITER_H_
 

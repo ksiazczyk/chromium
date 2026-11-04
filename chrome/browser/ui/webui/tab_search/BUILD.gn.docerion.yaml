@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tab search build configuration
+summary: Defines GN build targets for the tab search WebUI, including Mojo bindings, the main source set and unit and browser test targets.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab strip internals WebUI controller header
+// summary: Declares the WebUI controller and its internal WebUI config that registers the tab-strip-internals debug page, enabled only via the internal-only pref.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_TAB_STRIP_INTERNALS_TAB_STRIP_INTERNALS_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_TAB_STRIP_INTERNALS_TAB_STRIP_INTERNALS_UI_H_
 

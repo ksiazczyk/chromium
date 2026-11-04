@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile picker WebUI message handler
+// summary: Implements the message handler for the profile picker main view, covering profile launch, creation, deletion, statistics, keep-alive and signin error dialogs.
+// ---
+
 #include "chrome/browser/ui/webui/signin/profile_picker_handler.h"
 
 #include <algorithm>

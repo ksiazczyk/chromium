@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in utilities implementation
+// summary: Implements sign-in helpers including enterprise profile creation dialog parameters and auth frame lookup.
+// ---
+
 #include "chrome/browser/ui/webui/signin/signin_utils.h"
 
 #include "chrome/browser/enterprise/util/managed_browser_utils.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Batch upload WebUI controller implementation
+// summary: Implements the WebUI controller for the batch upload dialog, setting up its data source, localized strings, favicon and plural string handlers, plus sample data for debugging.
+// ---
+
 #include "chrome/browser/ui/webui/signin/batch_upload_ui.h"
 
 #include "base/functional/callback_helpers.h"

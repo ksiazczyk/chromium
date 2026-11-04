@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signout confirmation WebUI controller implementation
+// summary: Implements the WebUI controller for the signout confirmation dialog, setting up the data source, localized and pluralized strings, Mojo interface binding, and testing helpers.
+// ---
+
 #include "chrome/browser/ui/webui/signin/signout_confirmation/signout_confirmation_ui.h"
 
 #include "base/check_is_test.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Customize Chrome page handler implementation
+// summary: Implements the browser-side handler for the Customize Chrome WebUI, covering themes, backgrounds, search engines, and metrics.
+// ---
+
 #include "chrome/browser/ui/webui/side_panel/customize_chrome/customize_chrome_page_handler.h"
 
 #include <algorithm>

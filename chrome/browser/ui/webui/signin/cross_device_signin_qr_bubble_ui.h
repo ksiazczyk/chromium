@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-device signin QR bubble header
+// summary: Declares CrossDeviceSigninQrBubbleUI and its WebUI config for the cross-device QR code signin bubble, gated by a desktop cross-device signin feature flag.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SIGNIN_CROSS_DEVICE_SIGNIN_QR_BUBBLE_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_SIGNIN_CROSS_DEVICE_SIGNIN_QR_BUBBLE_UI_H_
 

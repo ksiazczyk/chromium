@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skills dialog handler implementation
+// summary: Implements the Skills dialog Mojo handler that saves, updates, deletes, and refines skills via the skills service and Optimization Guide.
+// ---
+
 #include "chrome/browser/ui/webui/skills/skills_dialog_handler.h"
 
 #include <optional>

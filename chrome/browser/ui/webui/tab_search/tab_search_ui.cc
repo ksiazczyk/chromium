@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab Search WebUI controller implementation
+// summary: Implements the Tab Search WebUI controller and config, setting up the data source, localized strings, metrics and handler bindings.
+// ---
+
 #include "chrome/browser/ui/webui/tab_search/tab_search_ui.h"
 
 #include <algorithm>

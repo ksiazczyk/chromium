@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome OS extension wrapper class
+// summary: Declares the Chrome OS wrapper interface for activating the speech engine and requesting language pack information and installs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SIDE_PANEL_READ_ANYTHING_CHROME_OS_EXTENSION_WRAPPER_H_
 #define CHROME_BROWSER_UI_WEBUI_SIDE_PANEL_READ_ANYTHING_CHROME_OS_EXTENSION_WRAPPER_H_
 

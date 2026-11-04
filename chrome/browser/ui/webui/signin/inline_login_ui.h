@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inline login WebUI declaration
+// summary: Declares InlineLoginUI, a WebDialogUI used in sign-in flows on ChromeOS and GCPW for Windows, along with its WebUI config.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SIGNIN_INLINE_LOGIN_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_SIGNIN_INLINE_LOGIN_UI_H_
 

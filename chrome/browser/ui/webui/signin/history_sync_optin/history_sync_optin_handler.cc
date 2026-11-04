@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History sync optin handler implementation
+// summary: Implements the browser-side handler for the history sync optin screen, covering accept and reject actions, account info updates, screen modes, and signin metrics.
+// ---
+
 #include "chrome/browser/ui/webui/signin/history_sync_optin/history_sync_optin_handler.h"
 
 #include "base/check_op.h"

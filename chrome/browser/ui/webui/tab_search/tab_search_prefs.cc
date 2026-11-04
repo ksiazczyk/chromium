@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab Search preferences implementation
+// summary: Registers the profile preference that tracks whether the Tab Search recently closed section is expanded.
+// ---
+
 #include "chrome/browser/ui/webui/tab_search/tab_search_prefs.h"
 
 #include <utility>

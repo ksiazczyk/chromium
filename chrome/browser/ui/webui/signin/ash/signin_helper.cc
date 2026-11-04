@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SigninHelper implementation
+// summary: Implements SigninHelper, which exchanges the sign-in auth code for OAuth tokens, fetches secondary account restriction policies, and upserts the account in AccountManager.
+// ---
+
 #include "chrome/browser/ui/webui/signin/ash/signin_helper.h"
 
 #include "ash/constants/ash_features.h"

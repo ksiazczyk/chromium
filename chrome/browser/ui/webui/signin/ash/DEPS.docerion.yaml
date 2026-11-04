@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for ash sign-in WebUI
+summary: Sets DEPS include rules that allow ash dependencies and this directory's own includes while restricting and enumerating allowed //chrome dependencies for ChromeOS.

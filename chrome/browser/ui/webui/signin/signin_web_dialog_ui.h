@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in web dialog UI header
+// summary: Declares SigninWebDialogUI, the browser-aware base class for sign-in WebUI dialogs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SIGNIN_SIGNIN_WEB_DIALOG_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_SIGNIN_SIGNIN_WEB_DIALOG_UI_H_
 

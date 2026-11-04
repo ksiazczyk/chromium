@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed user profile notice UI declaration
+// summary: Declares the managed user profile notice WebUI controller, its URL config, screen types, and per-web-contents dialog parameters.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SIGNIN_MANAGED_USER_PROFILE_NOTICE_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_SIGNIN_MANAGED_USER_PROFILE_NOTICE_UI_H_
 

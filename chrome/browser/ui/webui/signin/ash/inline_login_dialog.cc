@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inline login dialog implementation
+// summary: Implements the always-on-top ChromeOS sign-in dialog, selecting login URLs for device account re-auth, secondary account addition, and EDU coexistence flows.
+// ---
+
 #include "chrome/browser/ui/webui/signin/ash/inline_login_dialog.h"
 
 #include <algorithm>

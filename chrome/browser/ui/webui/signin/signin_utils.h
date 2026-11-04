@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in utilities header
+// summary: Declares sign-in choice enums, result callbacks and enterprise profile creation dialog parameter classes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SIGNIN_SIGNIN_UTILS_H_
 #define CHROME_BROWSER_UI_WEBUI_SIGNIN_SIGNIN_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Customize Chrome side panel WebUI controller implementation
+// summary: Implements the CustomizeChromeUI WebUI controller, registering data sources, Mojo handler factories and tracked element identifiers for the side panel.
+// ---
+
 #include "chrome/browser/ui/webui/side_panel/customize_chrome/customize_chrome_ui.h"
 
 #include <string>

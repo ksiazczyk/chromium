@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for suggest internals
+summary: Defines the Mojo bindings target and the source set with its dependencies for the suggest internals WebUI.

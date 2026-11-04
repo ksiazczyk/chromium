@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skills page interactive UI tests
+// summary: Interactive browser tests for the skills page UI, covering dialogs, toasts, and screenshot baselines.
+// ---
+
 #include <optional>
 
 #include "base/callback_list.h"

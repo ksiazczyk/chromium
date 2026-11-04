@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InlineLoginHandlerModalDelegate header
+// summary: Declares InlineLoginHandlerModalDelegate, which lets sub-modals such as 2FA WebAuthn dialogs display inside the inline login modal dialog.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SIGNIN_ASH_INLINE_LOGIN_HANDLER_MODAL_DELEGATE_H_
 #define CHROME_BROWSER_UI_WEBUI_SIGNIN_ASH_INLINE_LOGIN_HANDLER_MODAL_DELEGATE_H_
 

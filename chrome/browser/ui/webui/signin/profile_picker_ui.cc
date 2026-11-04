@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile picker WebUI controller
+// summary: Implements the WebUI controller for the profile picker, setting up resources, localized strings, browser signin policy checks, and managed device disclaimers.
+// ---
+
 #include "chrome/browser/ui/webui/signin/profile_picker_ui.h"
 
 #include "base/check_deref.h"

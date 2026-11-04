@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for signin WebUI
+summary: Points the directory to the shared signin component metadata through the COMMON_METADATA mixin.

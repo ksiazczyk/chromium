@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sign-in UI test helpers
+// summary: Implements blocking helpers for browser tests that drive Chrome's sign-in UI, such as signing in via JavaScript and confirming sync dialogs.
+// ---
+
 #include "chrome/browser/ui/webui/signin/login_ui_test_utils.h"
 
 #include <string>

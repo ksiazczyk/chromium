@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab Search sync handler header
+// summary: Declares the TabSearchSyncHandler class that exposes sign-in state to the Tab Search WebUI and observes sync and account info events.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_TAB_SEARCH_TAB_SEARCH_SYNC_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_TAB_SEARCH_TAB_SEARCH_SYNC_HANDLER_H_
 

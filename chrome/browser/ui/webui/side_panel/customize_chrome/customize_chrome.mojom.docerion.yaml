@@ -1,0 +1,4 @@
+# Docerion header of customize_chrome.mojom.
+type: source
+title: Customize Chrome Mojo interface definitions
+summary: Defines Mojo structs, enums, and interfaces for communication between the Customize Chrome WebUI and its browser-side handler.

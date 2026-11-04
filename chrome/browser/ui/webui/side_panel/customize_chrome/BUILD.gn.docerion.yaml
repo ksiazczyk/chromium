@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definitions for Customize Chrome side panel
+summary: Defines GN build targets for the Customize Chrome side panel, including Mojo bindings, mojom traits, and WebUI source sets.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subresource filter internals handler implementation
+// summary: Implements the browser-side handler that reads and writes the ad highlighting preference and notifies observers when it changes.
+// ---
+
 #include "chrome/browser/ui/webui/subresource_filter/subresource_filter_internals_handler.h"
 
 #include <utility>

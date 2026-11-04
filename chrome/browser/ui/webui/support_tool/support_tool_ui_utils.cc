@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Support Tool WebUI utility implementations
+// summary: Implements helpers that map data collectors and PII types to localized strings and build UI data structures, URLs, and token results for the Support Tool page.
+// ---
+
 #include "chrome/browser/ui/webui/support_tool/support_tool_ui_utils.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skills WebUI controller implementation
+// summary: Implements the Skills WebUI controller, adding data source resources, feature flags, locale rules, and bindings for the page, dialog, and v2 page handlers of the browser's skills page.
+// ---
+
 #include "chrome/browser/ui/webui/skills/skills_ui.h"
 
 #include "base/check_deref.h"

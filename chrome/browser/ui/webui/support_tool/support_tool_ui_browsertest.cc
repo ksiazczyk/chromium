@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Support Tool WebUI browser tests
+// summary: Parameterized in-process browser tests verifying that the Support Tool WebUI loads and records the expected action metrics for main, URL generator, and invalid paths.
+// ---
+
 #include "chrome/browser/ui/webui/support_tool/support_tool_ui.h"
 
 #include <string>

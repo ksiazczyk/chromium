@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History sync opt-in service unit tests
+// summary: Unit tests for HistorySyncOptinService covering history sync opt-in flows with mocked helpers, disclaimer service, and identity test utilities.
+// ---
+
 #include "chrome/browser/ui/webui/signin/history_sync_optin_service.h"
 
 #include <cstddef>

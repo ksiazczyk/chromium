@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-device signin QR bubble implementation
+// summary: Implements the WebUI controller and handler for the cross-device signin QR code bubble, providing registration data such as email, avatar, and QR image.
+// ---
+
 #include "chrome/browser/ui/webui/signin/cross_device_signin_qr_bubble_ui.h"
 
 #include <string>

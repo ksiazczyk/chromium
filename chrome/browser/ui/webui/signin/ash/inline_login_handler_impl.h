@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InlineLoginHandlerImpl header
+// summary: Declares InlineLoginHandlerImpl, the ash inline login WebUI message handler that completes login, lists accounts, and reports sign-in errors.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SIGNIN_ASH_INLINE_LOGIN_HANDLER_IMPL_H_
 #define CHROME_BROWSER_UI_WEBUI_SIGNIN_ASH_INLINE_LOGIN_HANDLER_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab strip internals handler browser tests
+// summary: Browser tests verifying tab strip snapshots, selection models, tab groups, and session restore behavior of the handler.
+// ---
+
 #include "chrome/browser/ui/webui/tab_strip_internals/tab_strip_internals_handler.h"
 
 #include <algorithm>

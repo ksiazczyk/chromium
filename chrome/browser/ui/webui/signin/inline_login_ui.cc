@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inline login WebUI implementation
+// summary: Implements the inline login WebUI controller and data source for ChromeOS and desktop sign-in flows, including education coexistence handling on ChromeOS.
+// ---
+
 #include "chrome/browser/ui/webui/signin/inline_login_ui.h"
 
 #include <memory>

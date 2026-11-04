@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search handler implementation
+// summary: Implements case- and accent-insensitive text matching that returns token match ranges for the tab search UI.
+// ---
+
 #include "chrome/browser/ui/webui/tab_search/search_handler.h"
 
 #include <string>

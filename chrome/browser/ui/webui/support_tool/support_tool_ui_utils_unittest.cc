@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Support Tool WebUI utilities
+// summary: Unit tests covering the Support Tool UI utility functions, including PII item conversion, data collector queries, and URL generation.
+// ---
+
 #include "chrome/browser/ui/webui/support_tool/support_tool_ui_utils.h"
 
 #include <memory>

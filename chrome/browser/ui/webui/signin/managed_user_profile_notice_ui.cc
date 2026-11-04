@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed user profile notice WebUI controller
+// summary: Implements the Mojo WebUI controller for the managed user profile notice page, registering resources and choosing legacy or refreshed UI.
+// ---
+
 #include "chrome/browser/ui/webui/signin/managed_user_profile_notice_ui.h"
 
 #include <memory>

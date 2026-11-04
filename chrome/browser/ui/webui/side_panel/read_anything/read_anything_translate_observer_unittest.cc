@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Read Anything translate observer unit tests
+// summary: Unit tests for the translate observer covering language determination and translation state changes, including PDF cases.
+// ---
+
 #include "chrome/browser/ui/webui/side_panel/read_anything/read_anything_translate_observer.h"
 
 #include <memory>

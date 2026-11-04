@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserCloudSigninRestrictionPolicyFetcher header
+// summary: Declares the Chrome OS class that fetches the SecondaryGoogleAccountUsage policy for a Google account, including access token requests, enterprise account checks, and status reporting.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SIGNIN_ASH_USER_CLOUD_SIGNIN_RESTRICTION_POLICY_FETCHER_H_
 #define CHROME_BROWSER_UI_WEBUI_SIGNIN_ASH_USER_CLOUD_SIGNIN_RESTRICTION_POLICY_FETCHER_H_
 

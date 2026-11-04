@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the wallpaper search side panel
+summary: GN build file defining the wallpaper_search source set plus unit test and interactive UI test targets and their dependencies.

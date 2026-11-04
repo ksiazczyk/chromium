@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab Search WebUI browser tests
+// summary: In-process browser tests for the Tab Search WebUI, covering tab item listing and WebUI code cache behavior.
+// ---
+
 #include "chrome/browser/ui/webui/tab_search/tab_search_ui.h"
 
 #include <algorithm>

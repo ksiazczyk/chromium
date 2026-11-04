@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inline login handler implementation
+// summary: Implements the base WebUI message handler for inline login, registering messages for initialization, login completion, switching to full tab, and dialog close.
+// ---
+
 #include "chrome/browser/ui/webui/signin/inline_login_handler.h"
 
 #include <limits.h>

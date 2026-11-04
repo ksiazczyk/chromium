@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suggest internals handler implementation
+// summary: Implements the browser-side handler that observes the remote suggestions service and forwards suggest request lifecycle events, including hardcoded responses, to the WebUI page.
+// ---
+
 #include "chrome/browser/ui/webui/suggest_internals/suggest_internals_handler.h"
 
 #include <optional>

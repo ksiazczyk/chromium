@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EDU account login handler unit tests
+// summary: Unit tests for EduAccountLoginHandler covering parent lookup, profile image fetching, and parent sign-in using fake family member and identity test data.
+// ---
+
 #include "chrome/browser/ui/webui/signin/ash/edu_account_login_handler.h"
 
 #include <memory>

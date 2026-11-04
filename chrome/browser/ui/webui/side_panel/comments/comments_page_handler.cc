@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Comments page handler implementation
+// summary: Implements the browser-side page handler that forwards ShowUI requests to the side panel embedder.
+// ---
+
 #include "chrome/browser/ui/webui/side_panel/comments/comments_page_handler.h"
 
 #include "chrome/browser/ui/webui/side_panel/comments/comments.mojom.h"

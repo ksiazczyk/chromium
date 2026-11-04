@@ -1,0 +1,4 @@
+# Docerion header of customize_toolbar.mojom.
+type: source
+title: Mojo interface definitions for the customize toolbar side panel
+summary: Defines enums, structs, and browser/WebUI Mojo interfaces for listing, pinning, and resetting pinnable toolbar actions.

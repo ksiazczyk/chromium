@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop sign-in utilities unit tests
+// summary: Unit tests covering CanOfferSignin scenarios such as missing profile, reauth mismatch and username patterns.
+// ---
+
 #include "chrome/browser/ui/webui/signin/signin_utils_desktop.h"
 
 #include "base/command_line.h"

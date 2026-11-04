@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading list WebUI controller implementation
+// summary: Implements the ReadingListUI WebUI controller, setting up the data source, localized strings, favicon and theme sources, and the page handler.
+// ---
+
 #include "chrome/browser/ui/webui/side_panel/reading_list/reading_list_ui.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab search page handler browser tests
+// summary: Browser tests exercising page handler behavior such as closing and switching tabs, restoring entries and split view handling.
+// ---
+
 #include "chrome/browser/ui/webui/tab_search/tab_search_page_handler.h"
 
 #include <stdint.h>

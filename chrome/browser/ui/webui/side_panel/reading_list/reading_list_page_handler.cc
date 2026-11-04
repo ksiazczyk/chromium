@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading list side panel page handler implementation
+// summary: Implements the browser-side handler for the reading list side panel, managing read later entries, context menus, user metrics, and the current page action button state.
+// ---
+
 #include "chrome/browser/ui/webui/side_panel/reading_list/reading_list_page_handler.h"
 
 #include <algorithm>

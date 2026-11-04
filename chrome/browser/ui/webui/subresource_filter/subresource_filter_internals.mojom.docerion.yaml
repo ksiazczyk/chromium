@@ -1,0 +1,4 @@
+# Docerion header of subresource_filter_internals.mojom.
+type: source
+title: Subresource filter internals Mojo interface definitions
+summary: Defines Mojo structs and interfaces for internals page settings, including get, set, and observer methods for the ad highlighting preference.

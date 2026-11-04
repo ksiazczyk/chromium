@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signout confirmation handler implementation
+// summary: Implements the browser-side Mojo handler that computes dialog strings, gathers account extension info and reports the user's choice.
+// ---
+
 #include "chrome/browser/ui/webui/signin/signout_confirmation/signout_confirmation_handler.h"
 
 #include <vector>

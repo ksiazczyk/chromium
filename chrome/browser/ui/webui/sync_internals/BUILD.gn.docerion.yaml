@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for sync_internals
+summary: Defines the GN source_set for the sync_internals WebUI, listing its sources, public headers, and dependencies on browser, sync, and content services.

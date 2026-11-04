@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for subresource filter WebUI
+summary: Delegates ownership to the subresource filter component owners and assigns Mojom files to the security owners.

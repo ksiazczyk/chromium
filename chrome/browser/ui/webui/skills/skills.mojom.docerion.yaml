@@ -1,0 +1,4 @@
+# Docerion header of skills.mojom.
+type: source
+title: Skills WebUI Mojo interface definitions
+summary: Defines Mojo structs and interfaces for the Skills WebUI, including page and dialog handlers, initial state data, and browser-to-renderer notifications for skill management.

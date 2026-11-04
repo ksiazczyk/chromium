@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skills page handler v2 implementation
+// summary: Implements the v2 skills dialog page handler with cookie syncing, toasts, sign-in, and pending editor data handoff.
+// ---
+
 #include "chrome/browser/ui/webui/skills/skills_page_handler_v2.h"
 
 #include <optional>

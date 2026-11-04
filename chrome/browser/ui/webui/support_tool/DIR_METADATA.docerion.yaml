@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the support_tool WebUI
+summary: Maps the directory to Buganizer components and lists the ChromeOS commercial supportability team email for triage and questions.

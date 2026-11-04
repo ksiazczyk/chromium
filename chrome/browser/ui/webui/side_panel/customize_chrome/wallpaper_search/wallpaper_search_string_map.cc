@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper search string map implementation
+// summary: Maps keys from the wallpaper search API response to localized resource IDs for categories, subjects, styles, and moods shown in the UI.
+// ---
+
 #include "chrome/browser/ui/webui/side_panel/customize_chrome/wallpaper_search/wallpaper_search_string_map.h"
 
 #include "base/containers/fixed_flat_map.h"

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Tab search code owners
+summary: Lists the owners responsible for the tab search directory and routes Mojo file changes to security owners for review.

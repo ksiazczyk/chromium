@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: History clusters side panel build configuration
+summary: GN build file defining the history_clusters and impl source sets, their public headers, and dependencies for the side panel WebUI.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop sign-in utilities implementation
+// summary: Implements CanOfferSignin checks for policy, reauth account mismatch and cross-profile account restrictions.
+// ---
+
 #include "chrome/browser/ui/webui/signin/signin_utils_desktop.h"
 
 #include "base/command_line.h"

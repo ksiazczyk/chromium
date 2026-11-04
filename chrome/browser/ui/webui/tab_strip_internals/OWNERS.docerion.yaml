@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Tab strip internals code owners
+summary: Lists code owners for the directory and routes Mojo file reviews to IPC security owners.

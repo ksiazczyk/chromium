@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search handler header
+// summary: Declares the Mojo SearchHandler class that serves text match ranges to the tab search WebUI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_TAB_SEARCH_SEARCH_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_TAB_SEARCH_SEARCH_HANDLER_H_
 

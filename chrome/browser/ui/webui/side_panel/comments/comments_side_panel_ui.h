@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Comments side panel UI header
+// summary: Declares the WebUI config and controller classes for the comments side panel, including the Mojo PageHandlerFactory.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SIDE_PANEL_COMMENTS_COMMENTS_SIDE_PANEL_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_SIDE_PANEL_COMMENTS_COMMENTS_SIDE_PANEL_UI_H_
 

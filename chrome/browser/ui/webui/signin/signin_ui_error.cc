@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in UI error implementation
+// summary: Implements the SigninUIError class, constructing the various sign-in error types with localized messages for display in the sign-in error dialog.
+// ---
+
 #include "chrome/browser/ui/webui/signin/signin_ui_error.h"
 
 #include <map>

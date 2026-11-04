@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skills dialog view class declaration
+// summary: Declares SkillsDialogView, the contents view hosting the Skills dialog WebView and managing layout, sizing, and keyboard events.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SKILLS_SKILLS_DIALOG_VIEW_H_
 #define CHROME_BROWSER_UI_WEBUI_SKILLS_SKILLS_DIALOG_VIEW_H_
 

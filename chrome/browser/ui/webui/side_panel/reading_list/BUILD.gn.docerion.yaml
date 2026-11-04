@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Reading list side panel GN build targets
+summary: Defines GN build targets for the reading list side panel, including Mojo bindings, the WebUI source set, implementation sources, and unit tests.

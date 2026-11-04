@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History sync opt-in service factory implementation
+// summary: Implements the profile-keyed factory that creates and provides the HistorySyncOptinService per profile.
+// ---
+
 #include "chrome/browser/ui/webui/signin/history_sync_optin_service_factory.h"
 
 #include "chrome/browser/profiles/profile.h"

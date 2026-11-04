@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for tab search
+summary: Points the tab search directory to shared metadata defined in the tab_search views folder.

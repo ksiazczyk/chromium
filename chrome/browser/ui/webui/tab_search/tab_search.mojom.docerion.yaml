@@ -1,0 +1,4 @@
+# Docerion header of tab_search.mojom.
+type: reference
+title: Tab search Mojo interface definitions
+summary: Defines the Mojo structs, enums and interfaces exchanged between the browser and the tab search WebUI page.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skills navigation throttle header
+// summary: Declares the navigation throttle that redirects Skills settings link clicks to the Chrome AI skills settings page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SKILLS_SKILLS_NAVIGATION_THROTTLE_H_
 #define CHROME_BROWSER_UI_WEBUI_SKILLS_SKILLS_NAVIGATION_THROTTLE_H_
 

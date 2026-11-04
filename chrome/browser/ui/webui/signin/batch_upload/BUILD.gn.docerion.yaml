@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Batch upload Mojom build definition
+summary: GN build file that defines the mojo_bindings target generating WebUI bindings from batch_upload.mojom.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the bookmarks page handler
+// summary: Unit tests for the bookmarks side panel page handler, covering node handling, commands, and metrics with mock WebUI and bookmark models.
+// ---
+
 #include "chrome/browser/ui/webui/side_panel/bookmarks/bookmarks_page_handler.h"
 
 #include <memory>

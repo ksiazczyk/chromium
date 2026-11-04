@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for ash sign-in WebUI
+summary: Delegates code ownership for this directory to the ChromeOS account manager component owners.

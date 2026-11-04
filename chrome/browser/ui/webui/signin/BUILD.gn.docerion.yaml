@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Signin WebUI GN build configuration
+summary: Defines the GN source sets, sources, and dependencies for the Chrome signin WebUI, including batch upload and history sync optin targets.

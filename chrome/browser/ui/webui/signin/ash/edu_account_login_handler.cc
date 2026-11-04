@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EDU account login handler implementation
+// summary: Implements the WebUI handler for the EDU account login flow, fetching parent profile images and access tokens for family members via Gaia and the image fetcher service.
+// ---
+
 #include "chrome/browser/ui/webui/signin/ash/edu_account_login_handler.h"
 
 #include <memory>

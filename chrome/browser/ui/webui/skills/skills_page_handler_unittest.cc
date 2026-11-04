@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skills page handler unit tests
+// summary: Unit tests for the skills page handler covering skill updates, discovery skills, and management metrics.
+// ---
+
 #include "chrome/browser/ui/webui/skills/skills_page_handler.h"
 
 #include <memory>

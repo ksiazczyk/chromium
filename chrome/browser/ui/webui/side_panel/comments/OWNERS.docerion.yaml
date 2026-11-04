@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the comments side panel
+summary: Lists the directory owner and routes reviews of Mojo files to the IPC security owners.

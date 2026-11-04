@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LoginUIService unit tests
+// summary: Unit tests verifying that multiple login UIs can be registered, replaced, and closed while the current login UI is tracked correctly.
+// ---
+
 #include "chrome/browser/ui/webui/signin/login_ui_service.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

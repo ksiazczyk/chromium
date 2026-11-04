@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync confirmation WebUI controller implementation
+// summary: Implements the WebUI controller for the sync confirmation dialog, populating localized string resources and the sync benefits list shown to the user.
+// ---
+
 #include "chrome/browser/ui/webui/signin/sync_confirmation_ui.h"
 
 #include <string>

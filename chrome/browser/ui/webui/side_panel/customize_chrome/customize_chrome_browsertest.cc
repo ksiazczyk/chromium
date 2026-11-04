@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for Customize Chrome side panel
+// summary: Browser tests verifying that the Customize Chrome side panel registers, shows, and remains open across navigations.
+// ---
+
 #include "chrome/browser/profiles/profile.h"
 #include "chrome/browser/search/background/ntp_custom_background_service_factory.h"
 #include "chrome/browser/tab_list/tab_list_interface.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InlineLoginHandlerImpl browser tests
+// summary: Browser tests for InlineLoginHandlerImpl covering secondary account addition, ARC availability, device IDs, and supervised or child account sign-in flows.
+// ---
+
 #include "chrome/browser/ui/webui/signin/ash/inline_login_handler_impl.h"
 
 #include <vector>

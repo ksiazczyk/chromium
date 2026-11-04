@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Read Anything BUILD.gn build configuration
+summary: GN build rules defining the read anything source set plus its unit test and browser test targets and dependencies.

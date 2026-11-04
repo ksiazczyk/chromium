@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Batch upload dialog handler header
+// summary: Declares BatchUploadHandler, the Mojo message handler that serves batch upload data and handles save-to-account requests for the dialog bubble.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SIGNIN_BATCH_UPLOAD_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_SIGNIN_BATCH_UPLOAD_HANDLER_H_
 

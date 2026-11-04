@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Skills directory code owners
+summary: Delegates ownership to the components/skills owners and requires security owners for changes to Mojo files.

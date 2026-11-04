@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabStripNtbUI WebUI controller header
+// summary: Declares the tabstrip new tab button WebUI controller and its config, including how the page binds to the tab strip service via Mojo.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_TABSTRIP_NTB_TABSTRIP_NTB_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_TABSTRIP_NTB_TABSTRIP_NTB_UI_H_
 

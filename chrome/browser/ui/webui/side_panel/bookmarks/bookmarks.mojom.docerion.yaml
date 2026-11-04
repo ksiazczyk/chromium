@@ -1,0 +1,4 @@
+# Docerion header of bookmarks.mojom.
+type: source
+title: Mojo interfaces for the bookmarks side panel
+summary: Defines Mojo enums, structs, and interfaces for communication between the browser and the bookmarks side panel WebUI page.

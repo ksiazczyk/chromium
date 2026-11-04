@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reading list page handler unit tests
+// summary: Unit tests for ReadingListPageHandler covering entry retrieval, read status updates, context menus, and current page action button state.
+// ---
+
 #include "chrome/browser/ui/webui/side_panel/reading_list/reading_list_page_handler.h"
 
 #include <memory>

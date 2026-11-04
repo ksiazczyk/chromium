@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the signout confirmation WebUI
+summary: Defines the source sets, test support library and Mojo bindings targets for the signout confirmation dialog.

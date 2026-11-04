@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History side panel WebUI controller class declarations
+// summary: Declares the history side panel WebUI config and controller classes, including mojo bindings for history, clusters, embeddings, and image service handlers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SIDE_PANEL_HISTORY_HISTORY_SIDE_PANEL_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_SIDE_PANEL_HISTORY_HISTORY_SIDE_PANEL_UI_H_
 
