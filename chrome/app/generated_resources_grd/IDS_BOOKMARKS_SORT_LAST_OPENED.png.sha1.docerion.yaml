@@ -1,0 +1,4 @@
+# Docerion header of IDS_BOOKMARKS_SORT_LAST_OPENED.png.sha1.
+type: data
+title: SHA-1 for the bookmarks sort by last opened image
+summary: Holds the SHA-1 hash of the PNG image for the sort-bookmarks-by-last-opened label used with Chromium's translated resource images.

@@ -1,0 +1,4 @@
+# Docerion header of IDS_CERT_DETAILS_EXPORT_CERTIFICATE_A11Y_LABEL.png.sha1.
+type: asset
+title: SHA-1 checksum for certificate export a11y label image
+summary: Holds the SHA-1 checksum of the placeholder PNG for the certificate details export certificate accessibility label string in Chrome's generated resources.

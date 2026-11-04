@@ -1,0 +1,4 @@
+# Docerion header of IDS_BOOKMARKS_SORT_BY_TYPE.png.sha1.
+type: data
+title: SHA-1 for the bookmarks sort by type image
+summary: Holds the SHA-1 hash of the PNG image for the sort-bookmarks-by-type label, letting the build fetch the matching pretranslated string artwork.
