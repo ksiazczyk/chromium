@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list reorder utility implementation
+// summary: Implements sync item wrappers and comparators for sorting by name, icon color, and ephemeral state, including the order reset threshold.
+// ---
+
 #include "chrome/browser/ash/app_list/reorder/app_list_reorder_util.h"
 
 #include "ash/strings/grit/ash_strings.h"

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: ARC app list owners
+summary: Lists the code owner responsible for reviewing changes in the ARC app list directory.

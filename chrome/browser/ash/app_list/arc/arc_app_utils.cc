@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC app utility functions implementation
+// summary: Implements helpers for launching ARC apps and shortcuts, managing tasks and window info, uninstalling packages, and querying Android IDs.
+// ---
+
 #include "chrome/browser/ash/app_list/arc/arc_app_utils.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcAppIconDescriptor struct header
+// summary: Declares ArcAppIconDescriptor, which maps an icon DIP size and scale factor to pixel size and file names.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_ARC_ARC_APP_ICON_DESCRIPTOR_H_
 #define CHROME_BROWSER_ASH_APP_LIST_ARC_ARC_APP_ICON_DESCRIPTOR_H_
 

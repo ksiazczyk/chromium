@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC intent unit tests
+// summary: Unit tests for the ARC Intent class covering launch intent parsing, appending extra parameters, and creating ticks-based extra params.
+// ---
+
 #include "chrome/browser/ash/app_list/arc/intent.h"
 
 #include <string>

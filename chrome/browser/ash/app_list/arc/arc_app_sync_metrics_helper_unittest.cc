@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcAppSyncMetricsHelper unit tests
+// summary: Unit tests verifying the UMA histograms recorded by ArcAppSyncMetricsHelper for sync latency, app counts, and installed app sizes.
+// ---
+
 #include "chrome/browser/ash/app_list/arc/arc_app_sync_metrics_helper.h"
 
 #include <optional>

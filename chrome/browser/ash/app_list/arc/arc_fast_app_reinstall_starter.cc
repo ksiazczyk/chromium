@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast app reinstall starter implementation
+// summary: Implements the starter that launches the Play Fast App Reinstall flow once the Play Store app is ready and packages are selected.
+// ---
+
 #include "chrome/browser/ash/app_list/arc/arc_fast_app_reinstall_starter.h"
 
 #include "chrome/browser/ash/app_list/arc/arc_app_utils.h"

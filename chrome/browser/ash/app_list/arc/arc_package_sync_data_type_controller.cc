@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcPackageSyncDataTypeController implementation
+// summary: Implements the sync data type controller for ARC packages, gating sync on Play Store availability and initial package list refresh.
+// ---
+
 #include "chrome/browser/ash/app_list/arc/arc_package_sync_data_type_controller.h"
 
 #include <memory>

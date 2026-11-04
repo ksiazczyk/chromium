@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list reorder delegate interface
+// summary: Defines the AppListReorderDelegate interface providing preferred order handling and position calculations for app list sorting.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_REORDER_APP_LIST_REORDER_DELEGATE_H_
 #define CHROME_BROWSER_ASH_APP_LIST_REORDER_APP_LIST_REORDER_DELEGATE_H_
 

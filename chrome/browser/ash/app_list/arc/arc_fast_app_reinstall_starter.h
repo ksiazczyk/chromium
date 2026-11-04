@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast app reinstall starter interface
+// summary: Declares ArcFastAppReinstallStarter, an observer helper that starts the Play Fast App Reinstall flow when the Play Store is ready.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_ARC_ARC_FAST_APP_REINSTALL_STARTER_H_
 #define CHROME_BROWSER_ASH_APP_LIST_ARC_ARC_FAST_APP_REINSTALL_STARTER_H_
 

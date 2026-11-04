@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App list reorder core unit tests
+// summary: Unit tests verifying that target positions are calculated correctly for app list items already in or out of the specified sort order.
+// ---
+
 #include "chrome/browser/ash/app_list/reorder/app_list_reorder_core.h"
 
 #include "ash/public/cpp/app_list/app_list_types.h"

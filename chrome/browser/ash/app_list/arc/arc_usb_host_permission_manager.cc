@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcUsbHostPermissionManager implementation
+// summary: Implements the manager that tracks and persists ARC app USB device access and device list scan permissions.
+// ---
+
 #include "chrome/browser/ash/app_list/arc/arc_usb_host_permission_manager.h"
 
 #include <utility>

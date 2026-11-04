@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcPaiStarter class declaration
+// summary: Declares the helper class that starts the Play Auto Install flow when the Play Store app is ready and other conditions are met.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_ARC_ARC_PAI_STARTER_H_
 #define CHROME_BROWSER_ASH_APP_LIST_ARC_ARC_PAI_STARTER_H_
 

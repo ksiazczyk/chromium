@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcAppIcon class header
+// summary: Declares ArcAppIcon, which provides ARC app icon images to UI code with scale factor and observer support.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_ARC_ARC_APP_ICON_H_
 #define CHROME_BROWSER_ASH_APP_LIST_ARC_ARC_APP_ICON_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC VPN provider manager unit tests
+// summary: Unit tests verifying ArcVpnProviderManager observer notifications when VPN provider packages are added, updated or removed.
+// ---
+
 #include "chrome/browser/ash/app_list/app_list_test_util.h"
 #include "chrome/browser/ash/app_list/arc/arc_app_list_prefs.h"
 #include "chrome/browser/ash/app_list/arc/arc_app_test.h"

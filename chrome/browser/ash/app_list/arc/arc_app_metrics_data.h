@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC app install metrics data header
+// summary: Declares ArcAppMetricsData, a helper that tracks per-app install start times and reports install metrics to UMA under a given histogram base.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_ARC_ARC_APP_METRICS_DATA_H_
 #define CHROME_BROWSER_ASH_APP_LIST_ARC_ARC_APP_METRICS_DATA_H_
 

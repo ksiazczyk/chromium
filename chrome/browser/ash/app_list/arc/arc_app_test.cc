@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArcAppTest test helper implementation
+// summary: Implements the ArcAppTest helper that initializes the ARC bridge, fake app instance, and user manager for ARC app unit tests.
+// ---
+
 #include "chrome/browser/ash/app_list/arc/arc_app_test.h"
 
 #include <algorithm>

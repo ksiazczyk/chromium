@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list reorder core header
+// summary: Declares functions that generate reorder parameters, calculate item positions under a sort order, and compute front position and test entropy.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_REORDER_APP_LIST_REORDER_CORE_H_
 #define CHROME_BROWSER_ASH_APP_LIST_REORDER_APP_LIST_REORDER_CORE_H_
 

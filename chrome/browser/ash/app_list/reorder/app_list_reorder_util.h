@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list reorder utility header
+// summary: Declares ReorderParam, the SyncItemWrapper template, comparator classes, and helpers that build wrappers from sync items or app list items.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_REORDER_APP_LIST_REORDER_UTIL_H_
 #define CHROME_BROWSER_ASH_APP_LIST_REORDER_APP_LIST_REORDER_UTIL_H_
 

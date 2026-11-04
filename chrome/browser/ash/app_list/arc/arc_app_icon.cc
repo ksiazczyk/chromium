@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC app icon loading implementation
+// summary: Implements loading, decoding and scaling of ARC app icons, including placeholder and adaptive icon handling.
+// ---
+
 #include "chrome/browser/ash/app_list/arc/arc_app_icon.h"
 
 #include <algorithm>

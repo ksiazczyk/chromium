@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Package install priority handler implementation
+// summary: Implements install priority handling for synced packages, promoting priorities when users interact with promised icons.
+// ---
+
 #include "chrome/browser/ash/app_list/arc/arc_package_install_priority_handler.h"
 
 #include "chrome/browser/ash/app_list/arc/arc_package_syncable_service.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC app utility functions header
+// summary: Declares ARC app utilities for launching apps with intents, task and window management, package uninstall, and locale or Android ID queries.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_ARC_ARC_APP_UTILS_H_
 #define CHROME_BROWSER_ASH_APP_LIST_ARC_ARC_APP_UTILS_H_
 

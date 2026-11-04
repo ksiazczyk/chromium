@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: ARC app list include rules
+summary: Restricts allowed include dependencies for the directory and grants per-file exceptions for specific implementations.

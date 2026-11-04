@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC app icon descriptor implementation
+// summary: Implements pixel size calculation and disk file naming for regular, foreground and background ARC icons.
+// ---
+
 #include "chrome/browser/ash/app_list/arc/arc_app_icon_descriptor.h"
 
 #include <math.h>

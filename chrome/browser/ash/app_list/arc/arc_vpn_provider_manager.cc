@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC VPN provider manager implementation
+// summary: Implements ArcVpnProviderManager, which identifies ARC VPN provider packages and notifies observers about install, update and removal events.
+// ---
+
 #include "chrome/browser/ash/app_list/arc/arc_vpn_provider_manager.h"
 
 #include "base/check.h"
