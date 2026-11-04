@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pop-ups settings page element
+// summary: Defines the settings-popups-page Polymer element that backs the pop-ups content settings subpage and exposes the content settings enum to its template.
+// ---
+
 import './category_setting_exceptions.js';
 import './settings_category_default_radio_group.js';
 import './site_settings_shared.css.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage access site list element
+// summary: Element representing a group of storage access permissions of one type, populating and filtering the exception list from the browser proxy.
+// ---
+
 /**
  * @fileoverview
  * 'storage-access-site-list' is an element representing a list of storage

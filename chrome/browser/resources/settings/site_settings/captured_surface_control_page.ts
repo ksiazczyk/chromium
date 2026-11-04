@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Captured surface control settings page custom element
+// summary: TypeScript source defining the settings-captured-surface-control-page Polymer element that renders the captured surface control settings subpage.
+// ---
+
 import './settings_category_default_radio_group.js';
 import './site_settings_shared.css.js';
 import '../settings_page/settings_subpage.js';

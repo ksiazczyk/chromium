@@ -6,6 +6,12 @@
  * #type=style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the settings-section element
+summary: Lit CSS defining layout, header, card, and forced-colors styling for the settings-section element, including a settings-refresh-2026 variant.
+*/
+
 :host {
   display: flex;
   flex-direction: column;

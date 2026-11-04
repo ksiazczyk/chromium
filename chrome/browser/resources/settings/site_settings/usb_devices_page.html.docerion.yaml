@@ -1,0 +1,4 @@
+# Docerion header of usb_devices_page.html.
+type: source
+title: USB devices settings page template
+summary: HTML template for the USB devices content settings subpage, with an ask/block default radio group and a chooser exception list.

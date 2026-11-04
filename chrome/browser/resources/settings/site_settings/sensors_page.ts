@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sensors settings page element
+// summary: Defines the settings-sensors-page element backing the sensors content settings subpage, including the allow-ask-block permission model flag handling.
+// ---
+
 import './category_setting_exceptions.js';
 import './settings_category_default_radio_group.js';
 import './site_settings_shared.css.js';

@@ -1,0 +1,4 @@
+# Docerion header of midi_devices_page.html.
+type: source
+title: MIDI devices settings subpage template
+summary: HTML template for the MIDI devices site settings subpage with the default ask or block radio group and read-only exception lists.

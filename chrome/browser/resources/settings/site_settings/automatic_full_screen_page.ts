@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Automatic fullscreen settings page element
+// summary: Defines the settings-automatic-full-screen-page element for the automatic fullscreen content settings subpage.
+// ---
+
 import '../settings_page/settings_subpage.js';
 import '../settings_shared.css.js';
 import './category_setting_exceptions.js';

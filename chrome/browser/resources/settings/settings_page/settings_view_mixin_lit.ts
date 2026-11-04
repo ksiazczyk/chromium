@@ -19,6 +19,12 @@
  *     back button.
  */
 
+// ---docerion
+// type: source
+// title: SettingsViewMixinLit for focus and search bubbles
+// summary: Lit variant of the settings view mixin that handles focus preservation on navigation and search bubble highlighting for parent and child views.
+// ---
+
 import {assert, assertNotReached} from '//resources/js/assert.js';
 import {focusWithoutInk} from '//resources/js/focus_without_ink.js';
 import type {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';

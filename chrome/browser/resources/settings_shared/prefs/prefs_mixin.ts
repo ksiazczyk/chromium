@@ -6,6 +6,12 @@
  * @fileoverview Common prefs behavior.
  */
 
+// ---docerion
+// type: source
+// title: PrefsMixin with common prefs behavior
+// summary: Deduping Polymer mixin offering helpers to get, set, append, update and delete pref list items and dictionary entries.
+// ---
+
 // clang-format off
 import {assert} from 'chrome://resources/js/assert.js';
 import type { PolymerElement} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';

@@ -7,6 +7,12 @@
  * operating system (i.e. network, background processes, hardware).
  */
 
+// ---docerion
+// type: source
+// title: System settings page element
+// summary: Implements the settings-system-page element managing OS-related preferences such as background apps, hardware acceleration, and proxy state.
+// ---
+
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/cr_elements/cr_icon_button/cr_icon_button.js';
 import 'chrome://resources/cr_elements/policy/cr_policy_indicator.js';

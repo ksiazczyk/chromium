@@ -1,0 +1,4 @@
+# Docerion header of captured_surface_control_page.html.
+type: source
+title: Captured surface control settings page template
+summary: HTML template for the Chrome settings subpage controlling captured surface control, with ask/block defaults and per-site exceptions.

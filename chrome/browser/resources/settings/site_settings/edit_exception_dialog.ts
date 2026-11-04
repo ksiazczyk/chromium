@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Edit exception dialog element
+// summary: Polymer element settings-edit-exception-dialog that edits a site exception by removing and re-adding the permission pattern after validation.
+// ---
+
 /**
  * @fileoverview 'settings-edit-exception-dialog' is a component for editing a
  * site exception entry.

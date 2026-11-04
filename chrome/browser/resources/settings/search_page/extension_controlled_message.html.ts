@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML template for the extension controlled message element
+// summary: Lit HTML template rendering the info icon and extension-controlled disclaimer text with click handling.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {ExtensionControlledMessageElement} from './extension_controlled_message.js';

@@ -1,0 +1,4 @@
+# Docerion header of federated_identity_api_page.html.
+type: source
+title: Federated Identity API page template
+summary: HTML template for the Federated Identity API content settings subpage with default allow/block radio group and exception lists.

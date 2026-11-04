@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engine edit dialog template
+// summary: Lit HTML template for the dialog to add or edit a search engine, with name, keyword and query URL inputs.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsSearchEngineEditDialogElement} from './search_engine_edit_dialog.js';

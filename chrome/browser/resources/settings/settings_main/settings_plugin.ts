@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings plugin interface
+// summary: Defines the SettingsPlugin interface that top-level settings surfaces implement so settings-main can display them and search their contents.
+// ---
+
 import type {SearchResult} from '../search_settings.js';
 
 // A Settings "plugin" is a top-level Settings UI surface, meaning that it

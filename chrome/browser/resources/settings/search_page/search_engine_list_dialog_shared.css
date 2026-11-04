@@ -9,6 +9,12 @@
 /* Styles shared by the search engine picker and the more engines dialog, which
  * are shown in place of one another and must look alike. */
 
+/*docerion
+type: source
+title: Shared styles for search engine list dialogs
+summary: Defines CSS styles shared by the search engine picker and more engines dialogs so the two dialogs look alike.
+*/
+
 cr-dialog {
   --cr-dialog-body-padding-horizontal: 16px;
   --cr-dialog-button-container-padding-horizontal: 24px;

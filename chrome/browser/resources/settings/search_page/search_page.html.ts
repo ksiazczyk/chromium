@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search page HTML template
+// summary: Lit HTML template for the search settings page showing the default search engine, picker dialogs, extension-controlled messages, and manage engines entry.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsSearchPageElement} from './search_page.js';

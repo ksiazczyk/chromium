@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension control browser proxy
+// summary: Defines a browser proxy interface and singleton implementation that lets Settings disable an extension via the browser or open the extensions management page for it.
+// ---
+
 export interface ExtensionControlBrowserProxy {
   // TODO(dbeam): should be be returning !Promise<boolean> to indicate whether
   // it succeeded?

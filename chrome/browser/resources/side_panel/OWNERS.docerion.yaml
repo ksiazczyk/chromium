@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Delegates code ownership for the side panel resources directory to the owners list in chrome/browser/ui/views/side_panel/OWNERS.

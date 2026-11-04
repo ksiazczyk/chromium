@@ -1,0 +1,4 @@
+# Docerion header of add_site_dialog.html.
+type: source
+title: Add site dialog template
+summary: HTML template for the dialog used to add site exceptions, with a site input, incognito checkbox and action buttons.

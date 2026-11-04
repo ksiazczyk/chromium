@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Serial ports settings page element
+// summary: Defines the settings-serial-ports-page custom element that hosts the serial ports content settings subpage and exposes the content setting enums.
+// ---
+
 import './chooser_exception_list.js';
 import './settings_category_default_radio_group.js';
 import './site_settings_shared.css.js';

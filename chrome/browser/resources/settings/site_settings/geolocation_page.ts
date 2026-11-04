@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Geolocation Settings Page Element
+// summary: Polymer element backing the location settings subpage, connecting the default setting value to the visibility of the additional geolocation prompt options.
+// ---
+
 import 'chrome://resources/cr_elements/cr_icon/cr_icon.js';
 import 'chrome://resources/cr_elements/cr_hidden_style.css.js';
 import 'chrome://resources/cr_elements/cr_radio_button/cr_radio_button.js';

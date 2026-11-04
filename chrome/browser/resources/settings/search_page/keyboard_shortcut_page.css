@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the keyboard shortcut settings page
+summary: Lit CSS styles for the rows and dropdown menu of the keyboard shortcut settings page.
+*/
+
 .cr-row {
   padding: var(--cr-section-vertical-padding) var(--cr-section-padding);
   gap: 16px;

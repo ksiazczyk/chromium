@@ -7,6 +7,12 @@
  * interact with the content settings prefs.
  */
 
+// ---docerion
+// type: source
+// title: Site settings browser proxy
+// summary: Browser proxy and type definitions used by the site settings UI to read and change content settings prefs through the C++ handler.
+// ---
+
 // clang-format off
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 

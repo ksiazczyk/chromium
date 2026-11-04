@@ -1,0 +1,4 @@
+# Docerion header of keyboard_lock_page.html.
+type: source
+title: Keyboard lock settings page template
+summary: HTML template for the keyboard lock content settings subpage with ask and block options plus per-site exceptions.

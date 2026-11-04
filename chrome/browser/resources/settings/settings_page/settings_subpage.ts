@@ -8,6 +8,12 @@
  * the subpage title, a search field and a back icon.
  */
 
+// ---docerion
+// type: source
+// title: settings-subpage element
+// summary: Defines the settings-subpage element showing a subpage header with title, search field, and back button, handling search terms and focus behavior.
+// ---
+
 import '//resources/cr_elements/cr_icon_button/cr_icon_button.js';
 import '//resources/cr_elements/cr_search_field/cr_search_field.js';
 import '//resources/cr_elements/icons.html.js';

@@ -12,6 +12,12 @@
  * for translations.
  */
 
+// ---docerion
+// type: source
+// title: Content settings type and setting constants
+// summary: Defines enums for content settings types, content setting values, chooser types and cookie controls mode used across the site settings UI.
+// ---
+
 export enum ContentSettingsTypes {
   ADS = 'ads',
   ANTI_ABUSE = 'anti-abuse',

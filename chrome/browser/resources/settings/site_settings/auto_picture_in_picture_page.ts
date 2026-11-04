@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto picture-in-picture settings page element
+// summary: Defines the settings-auto-picture-in-picture-page element for the automatic picture-in-picture content settings subpage.
+// ---
+
 import './settings_category_default_radio_group.js';
 import './site_settings_shared.css.js';
 import '../settings_page/settings_subpage.js';

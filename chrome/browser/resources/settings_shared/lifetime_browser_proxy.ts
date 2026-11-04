@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lifetime browser proxy
+// summary: Defines a browser proxy for restarting and relaunching the browser, with platform-specific relaunch confirmation, sign-out-and-restart and factory reset support.
+// ---
+
 // <if expr="not is_chromeos">
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 // </if>

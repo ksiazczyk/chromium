@@ -10,6 +10,12 @@
  * #include=settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the search engines list
+summary: Styles the search engines list component, covering column headers, entries and fixed-height scrolling.
+*/
+
 #headers {
   display: flex;
   padding: 10px 0;

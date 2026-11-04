@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Category setting exceptions element
+// summary: Lit element that shows one category of site setting exceptions and makes lists read-only when the default is managed by policy.
+// ---
+
 /**
  * @fileoverview
  * 'category-setting-exceptions' is the polymer element for showing a certain

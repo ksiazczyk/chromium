@@ -9,6 +9,12 @@
  * #include=cr-shared-style-lit settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the feature shortcuts settings page
+summary: Lit CSS styles for the layout of the feature and extension shortcuts settings page.
+*/
+
 .expand-row {
   display: flex;
   align-items: flex-start;

@@ -8,6 +8,12 @@
  * #include=settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Search page index styles
+summary: Lit styles for the search page index, hiding views during search and allowing multiple view manager cards to display at once.
+*/
+
 cr-view-manager [hidden-by-search],
 cr-view-manager[show-all] [slot=view][data-parent-view-id] {
   display: none;

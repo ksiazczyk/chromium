@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engine entry component
+// summary: Defines the settings-search-engine-entry Lit element that shows a search engine with name, keyword and query URL and handles activate, edit, default and removal actions.
+// ---
+
 /**
  * @fileoverview 'settings-search-engine-entry' is a component for showing a
  * search engine with its name, domain and query URL.

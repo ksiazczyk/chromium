@@ -1,0 +1,4 @@
+# Docerion header of site_list.html.
+type: source
+title: Site list template
+summary: HTML template for the site list section showing allowed or blocked sites for a category, with add, action menu, search, and tooltip support.

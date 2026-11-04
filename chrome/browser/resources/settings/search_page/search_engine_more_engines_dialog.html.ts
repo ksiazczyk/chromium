@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit template for the more search engines dialog
+// summary: Lit HTML template rendering the dialog for searching additional search engines and choosing one as default.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsSearchEngineMoreEnginesDialogElement} from './search_engine_more_engines_dialog.js';

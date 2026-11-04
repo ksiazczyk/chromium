@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site details page element
+// summary: Defines the site-details element showing permissions and stored data usage for a single origin under Site Settings.
+// ---
+
 /**
  * @fileoverview
  * 'site-details' show the details (permissions and usage) for a given origin

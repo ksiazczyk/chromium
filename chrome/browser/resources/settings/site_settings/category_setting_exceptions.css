@@ -8,6 +8,12 @@
  * #include=settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Category setting exceptions styles
+summary: Styles for the category-setting-exceptions element, mainly padding for the exception header.
+*/
+
 #exceptionHeader {
   padding: 0 var(--cr-section-padding);
 }

@@ -1,0 +1,4 @@
+# Docerion header of v8_page.html.
+type: source
+title: V8 JavaScript optimizer settings page template
+summary: HTML template for the JavaScript optimizer settings subpage, offering default behavior radio options and per-site exception lists.

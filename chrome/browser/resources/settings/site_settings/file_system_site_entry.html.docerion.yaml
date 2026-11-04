@@ -1,0 +1,4 @@
+# Docerion header of file_system_site_entry.html.
+type: source
+title: File system site entry template
+summary: HTML template for a list row showing an origin with file system grants, with navigation to details and removal of all grants.

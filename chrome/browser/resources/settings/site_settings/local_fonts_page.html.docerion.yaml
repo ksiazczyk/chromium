@@ -1,0 +1,4 @@
+# Docerion header of local_fonts_page.html.
+type: source
+title: Local fonts settings page template
+summary: HTML template for the local fonts subpage with the ask/block default radio group and per-site exceptions list.

@@ -8,6 +8,12 @@
  * settings.
  */
 
+// ---docerion
+// type: source
+// title: Anti-abuse settings page element
+// summary: Defines the settings-anti-abuse-page element that manages the anti-abuse content setting toggle, including policy, parent and extension enforcement handling.
+// ---
+
 import 'chrome://resources/cr_elements/cr_icon/cr_icon.js';
 import '../controls/settings_toggle_button.js';
 import '../settings_page/settings_subpage.js';

@@ -1,0 +1,4 @@
+# Docerion header of camera_page.html.
+type: source
+title: Camera settings page template
+summary: HTML template for the Chrome settings subpage controlling camera access, including a media picker, ask/block defaults and site exceptions.

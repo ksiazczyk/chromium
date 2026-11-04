@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site data settings page element
+// summary: Defines the settings-site-data element controlling default site data behavior and cookie exception lists, including the confirm-block dialog flow.
+// ---
+
 /**
  * @fileoverview
  * 'settings-site-data' is the polymer element for showing the

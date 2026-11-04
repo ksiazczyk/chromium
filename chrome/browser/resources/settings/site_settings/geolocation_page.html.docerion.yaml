@@ -1,0 +1,4 @@
+# Docerion header of geolocation_page.html.
+type: source
+title: Geolocation Settings Page Template
+summary: HTML template for the location settings subpage with ask/block defaults, quiet, CPSS, and loud prompt options, and a read-only geolocation exceptions list.

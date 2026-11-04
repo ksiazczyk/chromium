@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: V8 JavaScript optimizer settings page element
+// summary: TypeScript element for the JavaScript optimizer settings page, adjusting the blocked-for-unfamiliar-sites label based on the Safe Browsing preference.
+// ---
+
 import './category_setting_exceptions.js';
 import './site_settings_shared.css.js';
 import '../controls/collapse_radio_button.js';

@@ -1,0 +1,4 @@
+# Docerion header of ar_page.html.
+type: source
+title: AR settings page template
+summary: HTML template for the augmented reality content settings subpage with ask and block radio options plus searchable exception lists.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML template for the keyboard shortcut settings page
+// summary: Lit HTML template with a dropdown bound to the omnibox keyword space triggering preference.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {KeyboardShortcutPageElement} from './keyboard_shortcut_page.js';

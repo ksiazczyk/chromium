@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart card readers settings page element
+// summary: Defines the settings-smard-card-readers-page custom element that hosts the default radio group and chooser exception list for the smart card readers content setting.
+// ---
+
 import './settings_category_default_radio_group.js';
 import './chooser_exception_list.js';
 import './site_settings_shared.css.js';

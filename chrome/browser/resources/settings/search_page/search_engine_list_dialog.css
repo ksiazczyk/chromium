@@ -11,6 +11,12 @@
  * #include=cr-shared-style-lit settings-shared-lit search-engine-list-dialog-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Search engine list dialog styles
+summary: Lit styles for the search engine list dialog, covering title, subtitle, more-engines button and search engine radio rows.
+*/
+
 .subtitle {
   font-size: 0.75rem;
   line-height: 22px;

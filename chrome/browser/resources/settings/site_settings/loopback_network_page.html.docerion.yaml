@@ -1,0 +1,4 @@
+# Docerion header of loopback_network_page.html.
+type: source
+title: Loopback network settings page template
+summary: HTML template for the loopback network subpage with ask/block options and the exceptions list for the loopback network content setting.

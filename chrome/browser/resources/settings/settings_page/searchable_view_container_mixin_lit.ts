@@ -8,6 +8,12 @@
  * views.
  */
 
+// ---docerion
+// type: source
+// title: SearchableViewContainerMixinLit for settings search and highlighting
+// summary: Lit variant of the searchable view container mixin that searches settings plugin views and manages their visibility and search bubbles.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 import {dedupingMixin} from '//resources/lit/v3_0/lit.rollup.js';
 import type {CrLitElement, PropertyValues} from '//resources/lit/v3_0/lit.rollup.js';

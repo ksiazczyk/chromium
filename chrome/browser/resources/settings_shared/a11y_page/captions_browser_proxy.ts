@@ -7,6 +7,12 @@
  * interact with the browser. Used on operating system that is not Chrome OS.
  */
 
+// ---docerion
+// type: source
+// title: Captions browser proxy
+// summary: Browser proxy used by the captions settings section on non-ChromeOS platforms to manage live caption language packs, the system captions dialog, and speech recognition models.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 
 /**

@@ -24,6 +24,12 @@
  * shouldShowAll's value.
  */
 
+// ---docerion
+// type: source
+// title: SearchableViewContainerMixin for settings search and highlighting
+// summary: Polymer mixin that searches parent and child settings views, hides views without search hits, and reveals parent views when child views match.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 import type {PolymerElement} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import type {CrViewManagerElement} from 'chrome://resources/cr_elements/cr_view_manager/cr_view_manager.js';

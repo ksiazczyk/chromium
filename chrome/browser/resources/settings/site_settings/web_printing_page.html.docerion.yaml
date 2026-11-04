@@ -1,0 +1,4 @@
+# Docerion header of web_printing_page.html.
+type: source
+title: Web printing settings page template
+summary: HTML template for the web printing content settings subpage, with an ask/block radio group and searchable exception lists.

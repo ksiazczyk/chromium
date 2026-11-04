@@ -1,0 +1,4 @@
+# Docerion header of local_network_page.html.
+type: source
+title: Local network settings page template
+summary: HTML template for the local network subpage with ask/block options and the exceptions list for the local network content setting.

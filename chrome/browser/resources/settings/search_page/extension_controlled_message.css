@@ -8,6 +8,12 @@
  * #include=settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the extension controlled message element
+summary: Lit CSS styles for the extension-controlled message row shown in the search settings page.
+*/
+
 :host {
   align-items: center;
   display: flex;

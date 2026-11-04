@@ -1,0 +1,4 @@
+# Docerion header of sensors_page.html.
+type: source
+title: Sensors settings page template
+summary: HTML template for the motion sensors content settings subpage, with allow/ask/block or allow/block options and a read-only exceptions list.

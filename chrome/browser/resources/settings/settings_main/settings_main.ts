@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings main element
+// summary: Implements the settings-main element that displays the selected settings page, handling routes, search mode, and the reset profile banner.
+// ---
+
 /**
  * @fileoverview
  * 'settings-main' displays the selected settings page.

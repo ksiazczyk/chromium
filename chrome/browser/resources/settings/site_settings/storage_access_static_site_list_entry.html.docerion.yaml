@@ -1,0 +1,4 @@
+# Docerion header of storage_access_static_site_list_entry.html.
+type: source
+title: Storage access static site list entry template
+summary: HTML template for a static site entry row showing favicon, display name, description, incognito indicator, and a reset button.

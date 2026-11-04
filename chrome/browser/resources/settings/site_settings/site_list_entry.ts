@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site list entry element
+// summary: Polymer element that displays one allowed or blocked site entry for a category, including chooser exceptions and navigation to site details.
+// ---
+
 /**
  * @fileoverview
  * 'site-list-entry' shows an Allowed and Blocked site for a given category.

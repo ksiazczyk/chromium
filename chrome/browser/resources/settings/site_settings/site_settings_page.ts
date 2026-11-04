@@ -8,6 +8,12 @@
  * security site settings.
  */
 
+// ---docerion
+// type: source
+// title: Site settings page element
+// summary: Implements the site settings page element, defining the category item map and wiring Safety Hub, recent permissions, and category lists.
+// ---
+
 import 'chrome://resources/cr_elements/icons.html.js';
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/cr_elements/cr_collapse/cr_collapse.js';

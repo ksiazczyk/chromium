@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AX annotations browser proxy
+// summary: Browser proxy for the accessibility settings page that exposes the ScreenAI install state enum and queries the browser for ScreenAI download status.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 
 /**

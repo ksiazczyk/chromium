@@ -1,0 +1,4 @@
+# Docerion header of settings_ui.html.
+type: source
+title: Settings UI template
+summary: HTML template for the settings-ui element, laying out the toolbar, navigation drawer, side menu, and main settings content area.

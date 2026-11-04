@@ -4,6 +4,12 @@
 
 /** @fileoverview Utility functions to help use prefs in Polymer controls. */
 
+// ---docerion
+// type: source
+// title: Pref string conversion utilities
+// summary: Provides helpers that convert strings to typed pref values and pref values back to strings for use in Polymer controls.
+// ---
+
 import {assertNotReached} from 'chrome://resources/js/assert.js';
 
 /**

@@ -1,0 +1,4 @@
+# Docerion header of all_sites.html.
+type: source
+title: All Sites page template
+summary: HTML template for the All Sites page, including sort controls, clear-data actions, related website sets info and the site entry list.

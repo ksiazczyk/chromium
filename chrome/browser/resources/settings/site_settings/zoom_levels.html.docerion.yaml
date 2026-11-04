@@ -1,0 +1,4 @@
+# Docerion header of zoom_levels.html.
+type: source
+title: Zoom levels settings page template
+summary: HTML template for the zoom levels subpage that lists sites with custom zoom levels and offers a button to remove each entry.

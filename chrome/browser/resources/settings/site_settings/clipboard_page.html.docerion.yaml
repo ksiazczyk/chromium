@@ -1,0 +1,4 @@
+# Docerion header of clipboard_page.html.
+type: source
+title: Clipboard settings page template
+summary: HTML template for the clipboard site settings subpage with a default radio group and category exceptions.

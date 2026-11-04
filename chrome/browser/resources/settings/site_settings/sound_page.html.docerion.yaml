@@ -1,0 +1,4 @@
+# Docerion header of sound_page.html.
+type: source
+title: Sound settings page template
+summary: HTML template for the sound content settings subpage with allow/block radio group, a block autoplay toggle, and sound exception lists.

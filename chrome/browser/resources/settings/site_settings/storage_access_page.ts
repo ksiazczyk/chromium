@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage access settings page element
+// summary: Defines the settings-storage-access-page element that hosts the default radio group and storage access exception lists for the subpage.
+// ---
+
 import '../settings_page/settings_subpage.js';
 import '../settings_shared.css.js';
 import './settings_category_default_radio_group.js';

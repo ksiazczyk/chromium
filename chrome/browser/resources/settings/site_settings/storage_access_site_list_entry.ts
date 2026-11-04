@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage access site list entry element
+// summary: Element representing a group of storage access permissions with the same origin and setting, handling expansion, descriptions, and permission resets.
+// ---
+
 /**
  * @fileoverview
  * 'storage-access-site-list-entry' is an element representing a group of

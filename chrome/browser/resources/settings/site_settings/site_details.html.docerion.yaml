@@ -1,0 +1,4 @@
+# Docerion header of site_details.html.
+type: source
+title: Site details page template
+summary: HTML template for the per-origin site details subpage showing storage usage and permissions, with reset settings and clear storage dialogs.

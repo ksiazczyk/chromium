@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox Everywhere section template
+// summary: Lit HTML template for the Omnibox Everywhere settings section with an enable toggle, shortcut input and show shortcuts toggle.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsOmniboxEverywhereSectionElement} from './omnibox_everywhere_section.js';

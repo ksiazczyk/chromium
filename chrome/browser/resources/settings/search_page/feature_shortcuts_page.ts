@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature shortcuts settings page element
+// summary: Defines the settings-feature-shortcuts-page element that loads and displays categorized feature and extension shortcuts.
+// ---
+
 /**
  * @fileoverview
  * 'settings-feature-shortcuts-page' is the settings page containing

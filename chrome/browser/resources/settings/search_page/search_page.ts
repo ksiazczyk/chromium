@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search settings page element
+// summary: Lit element implementing the settings-search-page with default search engine selection, list and more-engines dialogs, and a confirmation toast.
+// ---
+
 /**
  * @fileoverview
  * 'settings-search-page' is the settings page containing search settings.

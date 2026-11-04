@@ -9,6 +9,12 @@
  * #include=settings-shared-lit md-select-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Media picker styles
+summary: Lit style sheet for the media picker element that sets the host to display block and imports shared styles.
+*/
+
 :host {
   display: block;
 }

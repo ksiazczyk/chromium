@@ -1,0 +1,4 @@
+# Docerion header of idle_detection_page.html.
+type: source
+title: Idle detection settings page template
+summary: HTML template for the idle detection content settings subpage, showing the device use description, default radio group and per-site exceptions.

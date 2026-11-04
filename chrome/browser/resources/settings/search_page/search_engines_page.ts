@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engines settings page element
+// summary: Lit element for the settings-search-engines-page that lists default, active, and other search engines with filtering plus edit and delete dialogs.
+// ---
+
 /**
  * @fileoverview 'settings-search-engines-page' is the settings page
  * containing search engines settings.

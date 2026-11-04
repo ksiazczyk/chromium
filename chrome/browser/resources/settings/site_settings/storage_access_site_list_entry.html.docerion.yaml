@@ -1,0 +1,4 @@
+# Docerion header of storage_access_site_list_entry.html.
+type: source
+title: Storage access site list entry template
+summary: HTML template for a collapsible entry showing an origin with favicon, expand button, reset-all control, and nested embedding origin rows.

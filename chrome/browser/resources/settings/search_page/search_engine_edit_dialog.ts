@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engine edit dialog element
+// summary: Dialog component for adding or editing a search engine entry, handling input validation and policy-driven read-only state.
+// ---
+
 /**
  * @fileoverview 'settings-search-engine-edit-dialog' is a component for adding
  * or editing a search engine entry.

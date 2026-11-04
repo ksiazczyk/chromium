@@ -8,6 +8,12 @@
  * protocol handlers category under Site Settings.
  */
 
+// ---docerion
+// type: source
+// title: Protocol handlers settings page element
+// summary: Defines the protocol-handlers element that manages site protocol handler lists, app protocol handlers, and their allowed or blocked state in site settings.
+// ---
+
 import 'chrome://resources/cr_elements/cr_action_menu/cr_action_menu.js';
 import 'chrome://resources/cr_elements/cr_icon_button/cr_icon_button.js';
 import 'chrome://resources/cr_elements/cr_radio_group/cr_radio_group.js';

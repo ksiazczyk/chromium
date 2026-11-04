@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the search engines page
+summary: Styles the search engines settings page, mainly adding a separator above the omnibox extension entry.
+*/
+
 settings-omnibox-extension-entry {
   border-top: var(--cr-separator-line);
 }

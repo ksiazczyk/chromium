@@ -1,0 +1,4 @@
+# Docerion header of popups_page.html.
+type: source
+title: Pop-ups settings page template
+summary: HTML template for the pop-ups content settings subpage, showing the allow/block default radio group and per-site exceptions list.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Category default radio group element
+// summary: Defines the settings-category-default-radio-group element that shows the default content setting radio group for a Site Settings category.
+// ---
+
 /**
  * @fileoverview
  * 'settings-category-default-radio-group' is the polymer element for showing

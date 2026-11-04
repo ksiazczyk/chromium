@@ -1,0 +1,4 @@
+# Docerion header of storage_access_page.html.
+type: source
+title: Storage access settings page template
+summary: HTML template for the Storage Access content settings subpage with ask/block radio group and blocked and allowed exception site lists.

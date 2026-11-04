@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site list element
+// summary: Polymer element that lists allowed and blocked sites for a given content setting category and manages exception actions and dialogs.
+// ---
+
 /**
  * @fileoverview
  * 'site-list' shows a list of Allowed and Blocked sites for a given
