@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecentSearchQueue
+// summary: Singleton bounded queue of the latest settings entries chosen from search results, persisted to shared preferences and restorable from disk.
+// ---
+
 package org.chromium.chrome.browser.settings.search;
 
 import org.jni_zero.CalledByNative;

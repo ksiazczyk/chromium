@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppSessionService implementation for app window and tab session tracking
+// summary: Implements session command recording for app windows and tabs, covering open, close, window type, app name, and workspace tracking.
+// ---
+
 #include "chrome/browser/sessions/app_session_service.h"
 
 #include <algorithm>

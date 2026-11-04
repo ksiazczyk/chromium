@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session common utilities header
+// summary: Declares helpers for tracking URLs for restore and for selecting the navigation index to restore in a session tab.
+// ---
+
 #ifndef CHROME_BROWSER_SESSIONS_SESSION_COMMON_UTILS_H_
 #define CHROME_BROWSER_SESSIONS_SESSION_COMMON_UTILS_H_
 

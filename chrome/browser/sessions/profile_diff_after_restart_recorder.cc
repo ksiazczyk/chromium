@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileDiffAfterRestartRecorder implementation
+// summary: Implements recording of sparse histograms comparing the number of profiles with open windows before and after a browser restart.
+// ---
+
 #include "chrome/browser/sessions/profile_diff_after_restart_recorder.h"
 
 #include <algorithm>

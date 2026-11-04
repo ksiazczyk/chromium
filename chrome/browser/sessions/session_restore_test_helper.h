@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SessionRestoreTestHelper header
+// summary: Declares SessionRestoreTestHelper, a test helper that blocks until a session restore notification callback is received.
+// ---
+
 #ifndef CHROME_BROWSER_SESSIONS_SESSION_RESTORE_TEST_HELPER_H_
 #define CHROME_BROWSER_SESSIONS_SESSION_RESTORE_TEST_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeManagedPreferenceDelegate
+// summary: Managed preference delegate with Chrome-specific default behavior for custodian control and the managed preference layout.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import androidx.annotation.LayoutRes;

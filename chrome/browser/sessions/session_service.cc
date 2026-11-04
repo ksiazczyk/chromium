@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionService implementation
+// summary: Implements SessionService, which records the state of open windows and tabs so the current session can be saved, restored, or deleted later.
+// ---
+
 #include "chrome/browser/sessions/session_service.h"
 
 #include <stddef.h>

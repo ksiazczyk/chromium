@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SettingsHostUtil helpers for finding the settings host
+// summary: Utility helpers that walk the fragment and context hierarchy to find the SettingsHost and determine whether a settings fragment is shown in a tab.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import android.content.Context;

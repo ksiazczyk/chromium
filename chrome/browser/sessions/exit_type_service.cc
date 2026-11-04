@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExitTypeService implementation
+// summary: Implements ExitTypeService, which tracks whether the last Chrome exit was clean, forced, or a crash and persists that state in profile preferences.
+// ---
+
 #include "chrome/browser/sessions/exit_type_service.h"
 
 #include "base/containers/flat_set.h"

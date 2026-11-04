@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session service factory header
+// summary: Declares SessionServiceFactory, a singleton associating SessionService instances with profiles, including accessors for restore and shutdown.
+// ---
+
 #ifndef CHROME_BROWSER_SESSIONS_SESSION_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_SESSIONS_SESSION_SERVICE_FACTORY_H_
 

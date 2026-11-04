@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppSessionService unit tests
+// summary: Unit tests for AppSessionService covering app window and tab session behavior unique to AppSessionService, since most base functionality is covered by SessionService tests.
+// ---
+
 #include "chrome/browser/sessions/app_session_service.h"
 
 #include <stddef.h>

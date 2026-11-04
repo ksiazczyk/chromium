@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab restore service factory header
+// summary: Declares the singleton factory that owns TabRestoreService instances and associates them with profiles.
+// ---
+
 #ifndef CHROME_BROWSER_SESSIONS_TAB_RESTORE_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_SESSIONS_TAB_RESTORE_SERVICE_FACTORY_H_
 

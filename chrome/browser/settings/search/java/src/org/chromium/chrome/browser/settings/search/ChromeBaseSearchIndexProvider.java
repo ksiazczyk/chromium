@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeBaseSearchIndexProvider
+// summary: Base search index provider for Chrome-layer settings fragments that resolves the preference XML resource with access to the current Profile.
+// ---
+
 package org.chromium.chrome.browser.settings.search;
 
 import android.content.Context;

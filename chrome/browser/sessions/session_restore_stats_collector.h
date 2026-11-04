@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session restore stats collector header
+// summary: Declares the collector that tracks tab loading statistics during session restore and reports them through a delegate.
+// ---
+
 #ifndef CHROME_BROWSER_SESSIONS_SESSION_RESTORE_STATS_COLLECTOR_H_
 #define CHROME_BROWSER_SESSIONS_SESSION_RESTORE_STATS_COLLECTOR_H_
 

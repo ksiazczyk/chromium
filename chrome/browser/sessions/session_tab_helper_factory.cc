@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session tab helper factory
+// summary: Creates a SessionTabHelper for WebContents and wires its delegate lookup to the profile's session or app session service.
+// ---
+
 #include "components/sessions/content/session_tab_helper.h"
 
 #include "chrome/browser/buildflags.h"

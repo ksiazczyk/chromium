@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session service base test helper implementation
+// summary: Implements SessionServiceBaseTestHelper with routines to save sessions, prepare tabs in windows, read saved windows, and assert tab and navigation state in tests.
+// ---
+
 #include "chrome/browser/sessions/session_service_base_test_helper.h"
 
 #include "base/task/sequenced_task_runner.h"

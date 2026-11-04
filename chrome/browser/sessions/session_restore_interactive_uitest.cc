@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session restore interactive UI tests
+// summary: Interactive UI tests that quit browsers and verify session restore of single and multi-window profiles.
+// ---
+
 #include "base/task/current_thread.h"
 #include "build/build_config.h"
 #include "chrome/browser/prefs/session_startup_pref.h"

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the settings folder
+summary: Delegates code ownership of the settings directory to the OWNERS file of the Android settings source folder.

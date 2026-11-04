@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for sessions tests and session_restore
+summary: Grants test files access to views and saved tab group internals and allows session_restore.cc to include Ash and startup task headers.

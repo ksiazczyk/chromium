@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session restore outcome and error reason enums
+// summary: Declares enums and a struct that classify whether a session restore succeeded and, if not, why, for UMA reporting.
+// ---
+
 #ifndef CHROME_BROWSER_SESSIONS_SESSION_RESTORE_METRICS_H_
 #define CHROME_BROWSER_SESSIONS_SESSION_RESTORE_METRICS_H_
 

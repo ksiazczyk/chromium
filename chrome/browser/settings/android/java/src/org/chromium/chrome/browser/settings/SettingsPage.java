@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings native page for tabs
+// summary: Native page that embeds the Chrome settings UI in a tab, delegating fragment setup and URL updates.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import android.app.Activity;

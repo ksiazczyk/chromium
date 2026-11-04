@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session service log unit tests
+// summary: Unit tests verifying that each session service event logging function records the expected event type, time, and data.
+// ---
+
 #include "chrome/browser/sessions/session_service_log.h"
 
 #include "base/time/time.h"

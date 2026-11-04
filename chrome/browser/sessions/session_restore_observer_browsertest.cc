@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session restore observer browser tests
+// summary: Browser tests verifying session restore observer notifications while restored tabs are created and loaded.
+// ---
+
 #include "chrome/browser/sessions/session_restore_observer.h"
 
 #include <memory>

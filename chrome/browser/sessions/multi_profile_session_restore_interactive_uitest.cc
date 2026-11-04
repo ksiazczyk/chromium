@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multi-profile session restore interactive UI test
+// summary: Interactive UI test checking that restoring the last session after a restart respects the Open the New Tab page setting for a relaunched profile.
+// ---
+
 #include "base/command_line.h"
 #include "base/files/file_path.h"
 #include "base/files/file_util.h"

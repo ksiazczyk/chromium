@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Better session restore browser tests
+// summary: Browser tests verifying Chrome's better session restore behavior, including background mode, cookie settings, and session startup preferences across restarts.
+// ---
+
 #include <stddef.h>
 
 #include <string>

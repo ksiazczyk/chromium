@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for settings test files
+summary: Chromium DEPS rules that grant specific test files in this directory access to Chrome activity and browser UI dependencies.

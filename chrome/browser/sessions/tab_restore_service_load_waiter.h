@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab restore service load waiter header
+// summary: Declares an observer-based helper class that blocks waiting for the TabRestoreService to finish loading, doing nothing if it is already loaded.
+// ---
+
 #ifndef CHROME_BROWSER_SESSIONS_TAB_RESTORE_SERVICE_LOAD_WAITER_H_
 #define CHROME_BROWSER_SESSIONS_TAB_RESTORE_SERVICE_LOAD_WAITER_H_
 

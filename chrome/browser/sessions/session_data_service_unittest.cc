@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session data service unit tests
+// summary: Unit tests covering session data cleanup behavior using a mock deleter and mock browser windows across restart and shutdown scenarios.
+// ---
+
 #include "chrome/browser/sessions/session_data_service.h"
 
 #include <algorithm>

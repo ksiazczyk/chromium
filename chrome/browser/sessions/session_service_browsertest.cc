@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session service browser tests
+// summary: Browser tests verifying that SessionService records window workspace commands when a workspace is set or a window is opened.
+// ---
+
 #include "chrome/browser/sessions/session_service.h"
 
 #include <ranges>

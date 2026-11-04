@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test-only settings fragment finder
+// summary: Test helper that finds the settings fragment shown by a settings activity, searching multi-column children too.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import androidx.fragment.app.Fragment;

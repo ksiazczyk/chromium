@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session service window type conversion utilities header
+// summary: Declares functions that convert back and forth between browser and session service window types.
+// ---
+
 #ifndef CHROME_BROWSER_SESSIONS_SESSION_SERVICE_UTILS_H_
 #define CHROME_BROWSER_SESSIONS_SESSION_SERVICE_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionServiceBase implementation
+// summary: Implements SessionServiceBase, the shared command storage, window and tab tracking, and restore logic used by both SessionService and AppSessionService.
+// ---
+
 #include "chrome/browser/sessions/session_service_base.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RestoreOnStartup policy handler declaration
+// summary: Declares the TypeCheckingPolicyHandler that maps the RestoreOnStartup enterprise policy to startup preferences.
+// ---
+
 #ifndef CHROME_BROWSER_SESSIONS_RESTORE_ON_STARTUP_POLICY_HANDLER_H_
 #define CHROME_BROWSER_SESSIONS_RESTORE_ON_STARTUP_POLICY_HANDLER_H_
 

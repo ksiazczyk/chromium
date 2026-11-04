@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SettingsActivityInterface for settings host activities
+// summary: Interface implemented by activities hosting settings fragments, exposing fragment management, search coordination, orientation, and resource helpers.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import androidx.fragment.app.Fragment;

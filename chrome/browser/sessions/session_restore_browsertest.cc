@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session restore browser tests
+// summary: Extensive browser test suite covering session restore behavior, metrics, keep-alive, and multi-window restore scenarios.
+// ---
+
 #include "chrome/browser/sessions/session_restore.h"
 
 #include <stddef.h>

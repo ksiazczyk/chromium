@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session restore stats collector implementation
+// summary: Collects and reports UMA statistics such as foreground tab first paint times during session restore.
+// ---
+
 #include "chrome/browser/sessions/session_restore_stats_collector.h"
 
 #include <string>

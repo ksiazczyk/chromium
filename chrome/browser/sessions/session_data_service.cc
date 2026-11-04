@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session data service implementation
+// summary: Implements a per-profile service that deletes session-only cookies and site data when the browser or all profile windows close, resuming unfinished deletions at startup.
+// ---
+
 #include "chrome/browser/sessions/session_data_service.h"
 
 #include "base/feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileDependentSetting interface
+// summary: Interface marking settings entries that depend on the currently selected profile and receive it via setProfile.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import org.chromium.build.annotations.NullMarked;

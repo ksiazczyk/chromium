@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppSessionServiceFactory implementation
+// summary: Implements the profile-keyed factory that creates, retrieves, and shuts down AppSessionService instances, coordinating with session data cleanup.
+// ---
+
 #include "chrome/browser/sessions/app_session_service_factory.h"
 
 #include "build/build_config.h"

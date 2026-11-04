@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session service lookup helpers
+// summary: Provides helpers that choose between AppSessionService and SessionService based on browser window type for tracking and restore.
+// ---
+
 #include "chrome/browser/sessions/session_service_lookup.h"
 
 #include "chrome/browser/profiles/profile.h"

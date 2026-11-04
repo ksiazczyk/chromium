@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the sessions directory
+summary: Lists directory owners plus per-file owners for session data files and the better session restore browsertest.

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Bug tracker component mapping for the sessions directory
+summary: Maps the directory to the UI>Browser>Sessions monorail component and a Buganizer component ID for issue routing.

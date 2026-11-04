@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SettingsHost interface for settings UI hosts
+// summary: Interface for objects hosting the settings UI that reports whether settings is shown in a browser tab or a standalone activity, fixed for the host lifetime.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session restore metrics mapping unit tests
+// summary: Unit tests verifying that read statuses and replay results map to the expected restore outcomes and error reasons.
+// ---
+
 #include "chrome/browser/sessions/session_restore_metrics.h"
 
 #include <optional>

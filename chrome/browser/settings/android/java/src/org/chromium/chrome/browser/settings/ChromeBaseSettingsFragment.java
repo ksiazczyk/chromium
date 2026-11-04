@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeBaseSettingsFragment base class for Chrome settings
+// summary: Abstract base class for Chrome settings fragments that provides common dependencies such as profile access, themed context, and help and feedback launching.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

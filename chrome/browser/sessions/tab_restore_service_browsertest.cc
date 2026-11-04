@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab restore service browser tests
+// summary: Browser tests verifying that app windows and tabs are recorded as entries and restored correctly by the tab restore service.
+// ---
+
 #include "components/sessions/core/tab_restore_service.h"
 
 #include "chrome/browser/ash/system_web_apps/test_support/test_system_web_app_installation.h"

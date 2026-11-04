@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session service event log header
+// summary: Defines session restore event types and data structures plus logging functions used to track whether session restore is failing.
+// ---
+
 #ifndef CHROME_BROWSER_SESSIONS_SESSION_SERVICE_LOG_H_
 #define CHROME_BROWSER_SESSIONS_SESSION_SERVICE_LOG_H_
 

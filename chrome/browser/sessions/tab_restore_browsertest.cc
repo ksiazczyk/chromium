@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab restore browser tests
+// summary: Browser tests covering closing, restoring and reopening tabs and windows, including app windows and saved tab groups.
+// ---
+
 #include <stddef.h>
 
 #include <optional>

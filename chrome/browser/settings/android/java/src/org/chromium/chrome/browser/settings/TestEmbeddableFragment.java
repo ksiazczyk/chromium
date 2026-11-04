@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test embeddable settings fragment
+// summary: Test fragment implementing an embeddable settings page with preferences for use in settings tests.
+// ---
+
 package org.chromium.chrome.browser.settings;
 
 import android.os.Bundle;

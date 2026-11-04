@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppSessionService test helper implementation
+// summary: Implements a test helper that wraps AppSessionService instances obtained from the factory for use in session service tests.
+// ---
+
 #include "chrome/browser/sessions/app_session_service_test_helper.h"
 
 #include "chrome/browser/profiles/profile.h"

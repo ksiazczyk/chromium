@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session restore stats collector unit tests
+// summary: Unit tests for the stats collector's reporting and lifetime behaviour using a mock reporting delegate.
+// ---
+
 #include "chrome/browser/sessions/session_restore_stats_collector.h"
 
 #include <stddef.h>
