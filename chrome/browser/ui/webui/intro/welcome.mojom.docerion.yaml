@@ -1,0 +1,4 @@
+# Docerion header of welcome.mojom.
+type: source
+title: Welcome page Mojo interfaces
+summary: Mojo interface definitions for the welcome page, including the handler factory and the Continue call carrying optional UMA opt-in and default-browser choices.

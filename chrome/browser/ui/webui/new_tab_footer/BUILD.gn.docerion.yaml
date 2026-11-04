@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for the New Tab Footer WebUI
+summary: Defines the source sets, test targets, and Mojo bindings for the Chrome New Tab Footer WebUI.

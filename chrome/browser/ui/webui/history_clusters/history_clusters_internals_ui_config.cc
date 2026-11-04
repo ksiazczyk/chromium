@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History clusters internals WebUI config implementation
+// summary: Creates the WebUI controller for the history clusters internals page using the profile's history clusters and history services.
+// ---
+
 #include "chrome/browser/ui/webui/history_clusters/history_clusters_internals_ui_config.h"
 
 #include "chrome/browser/history/history_service_factory.h"

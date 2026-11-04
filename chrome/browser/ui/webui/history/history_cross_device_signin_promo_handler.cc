@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-device sign-in promo handler implementation
+// summary: Implements the Mojo handler that decides when to show the cross-device sign-in promo card on the history page and opens the sign-in QR code bubble.
+// ---
+
 #include "chrome/browser/ui/webui/history/history_cross_device_signin_promo_handler.h"
 
 #include "base/feature_list.h"

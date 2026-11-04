@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricsReporter header for WebUI mark timing
+// summary: Declares MetricsReporter, a WebUI utility that measures time between marks and exchanges mark data with the page through the PageMetrics Mojo interface.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_METRICS_REPORTER_METRICS_REPORTER_H_
 #define CHROME_BROWSER_UI_WEBUI_METRICS_REPORTER_METRICS_REPORTER_H_
 

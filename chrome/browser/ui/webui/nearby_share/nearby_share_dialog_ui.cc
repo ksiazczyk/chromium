@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share dialog WebUI controller implementation
+// summary: Implements the WebUI controller for the Nearby Share dialog, setting up data sources, content security policy, and bindings to the Nearby Sharing service and attachment handling.
+// ---
+
 #include "chrome/browser/ui/webui/nearby_share/nearby_share_dialog_ui.h"
 
 #include <string>

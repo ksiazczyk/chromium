@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageNavigationThrottle class declaration
+// summary: Declares the ImageNavigationThrottle class, which blocks navigations to the image WebUI host, with a factory for registration.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_IMAGE_IMAGE_NAVIGATION_THROTTLE_H_
 #define CHROME_BROWSER_UI_WEBUI_IMAGE_IMAGE_NAVIGATION_THROTTLE_H_
 

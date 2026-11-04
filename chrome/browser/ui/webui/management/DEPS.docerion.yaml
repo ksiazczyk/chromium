@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the management UI
+summary: Grants management_ui.cc an include exception that allows using ash string headers on ChromeOS.

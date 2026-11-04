@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History identity state watcher header
+// summary: Declares the HistoryIdentityState struct and a watcher class that tracks sign-in and tab/history sync state changes for the history WebUI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_HISTORY_HISTORY_IDENTITY_STATE_WATCHER_H_
 #define CHROME_BROWSER_UI_WEBUI_HISTORY_HISTORY_IDENTITY_STATE_WATCHER_H_
 

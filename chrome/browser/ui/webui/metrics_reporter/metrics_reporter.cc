@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricsReporter implementation
+// summary: Implements the MetricsReporter class, which records timing marks and measures elapsed time between them, querying the renderer page over Mojo when a mark is missing.
+// ---
+
 #include "chrome/browser/ui/webui/metrics_reporter/metrics_reporter.h"
 
 #include "base/logging.h"

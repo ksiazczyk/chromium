@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share shared string resources implementation
+// summary: Registers the localized strings used by the Nearby Share WebUI, mapping web UI keys to generated resource IDs.
+// ---
+
 #include "chrome/browser/ui/webui/nearby_share/shared_resources.h"
 
 #include <string>

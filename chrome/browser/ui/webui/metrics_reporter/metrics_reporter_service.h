@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricsReporterService header
+// summary: Declares MetricsReporterService, a per-WebContents user data class that provides access to a MetricsReporter and supports injecting one for testing.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_METRICS_REPORTER_METRICS_REPORTER_SERVICE_H_
 #define CHROME_BROWSER_UI_WEBUI_METRICS_REPORTER_METRICS_REPORTER_SERVICE_H_
 

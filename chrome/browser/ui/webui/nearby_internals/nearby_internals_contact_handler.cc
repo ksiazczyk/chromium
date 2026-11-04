@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby internals contact handler implementation
+// summary: Implements WebUI message handlers that initialize the contacts tab, trigger contact downloads and forward Nearby Share contact manager updates as JSON.
+// ---
+
 #include "chrome/browser/ui/webui/nearby_internals/nearby_internals_contact_handler.h"
 
 #include <string>

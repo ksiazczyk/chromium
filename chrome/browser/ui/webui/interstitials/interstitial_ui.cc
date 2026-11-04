@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interstitial UI implementation
+// summary: Implements the WebUI controller that assembles demonstration pages for Chrome's security, enterprise, lookalike, and supervised-user interstitials.
+// ---
+
 #include "chrome/browser/ui/webui/interstitials/interstitial_ui.h"
 
 #include <memory>

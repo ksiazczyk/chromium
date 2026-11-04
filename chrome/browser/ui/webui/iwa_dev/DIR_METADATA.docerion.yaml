@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the IWA developer WebUI
+summary: Maps the directory to Buganizer components and lists the owning team email for Isolated Web Apps.

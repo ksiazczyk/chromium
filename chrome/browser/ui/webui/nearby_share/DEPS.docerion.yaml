@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Nearby Share WebUI include dependency rules (DEPS)
+summary: Sets allow and deny rules for which Chrome headers this directory may include, restricting //chrome dependencies on ChromeOS.

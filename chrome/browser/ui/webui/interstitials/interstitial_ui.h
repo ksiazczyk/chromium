@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interstitial UI class declarations
+// summary: Declares the WebUI controller and internal WebUI config for the interstitials demonstration pages, which are not used for displaying real interstitials.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_INTERSTITIALS_INTERSTITIAL_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_INTERSTITIALS_INTERSTITIAL_UI_H_
 

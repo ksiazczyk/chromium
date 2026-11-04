@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the intro folder
+summary: Points the intro directory metadata to the shared chrome/browser/profiles COMMON_METADATA mixins.

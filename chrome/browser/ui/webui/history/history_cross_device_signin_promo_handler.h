@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History cross-device sign-in promo handler header
+// summary: Declares the Mojo handler that decides when to show the cross-device sign-in promo card on the history page and forwards promo interactions and bubble state.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_HISTORY_HISTORY_CROSS_DEVICE_SIGNIN_PROMO_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_HISTORY_HISTORY_CROSS_DEVICE_SIGNIN_PROMO_HANDLER_H_
 

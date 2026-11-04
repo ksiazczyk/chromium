@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InfoBar internals WebUI controller declaration
+// summary: Declares the InfoBarInternalsUI Mojo WebUI controller and its internal WebUI config for the chrome infobar internals page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_INFOBAR_INTERNALS_INFOBAR_INTERNALS_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_INFOBAR_INTERNALS_INFOBAR_INTERNALS_UI_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the intro WebUI message handler
+// summary: Declares the IntroHandler class, its WebUI message callbacks and helpers for managed-device disclaimers, button resets and taskbar pinning updates.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_INTRO_INTRO_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_INTRO_INTRO_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Intro WebUI controller header
+// summary: Declares the IntroUI controller and its WebUI config for the first-run intro page, including signin choice and default browser callbacks, logging enums, and Mojo interface binding.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_INTRO_INTRO_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_INTRO_INTRO_UI_H_
 

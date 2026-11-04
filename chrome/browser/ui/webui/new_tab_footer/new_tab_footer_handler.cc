@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New Tab Footer handler implementation
+// summary: Implements the browser-side Mojo handler for the New Tab Page footer, covering extension names, management notices, tab state, and background attribution.
+// ---
+
 #include "chrome/browser/ui/webui/new_tab_footer/new_tab_footer_handler.h"
 
 #include <utility>

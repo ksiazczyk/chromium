@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby internals UI trigger handler implementation
+// summary: Implements the trigger handler that lets the Nearby internals debug page simulate Nearby Share events such as sending text, accepting or rejecting transfers, and registering send and receive surfaces.
+// ---
+
 #include "chrome/browser/ui/webui/nearby_internals/nearby_internals_ui_trigger_handler.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Nearby internals directory include rules
+summary: Allows this directory to include headers from components/cross_device/logging and third_party/nearby in Chromium dependency checks.

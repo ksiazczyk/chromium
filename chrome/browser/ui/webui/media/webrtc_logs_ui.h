@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC Logs WebUI header
+// summary: Declares the WebRTC logs WebUI controller and its internal WebUI configuration class used to register the logs listing page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_MEDIA_WEBRTC_LOGS_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_MEDIA_WEBRTC_LOGS_UI_H_
 

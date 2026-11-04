@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sign-in promo handler unit tests
+// summary: Unit tests for the sign-in promo handler covering sign-in choice forwarding, button reset notifications, and managed-device disclaimer behavior.
+// ---
+
 #include "chrome/browser/ui/webui/intro/sign_in_promo_handler.h"
 
 #include <memory>

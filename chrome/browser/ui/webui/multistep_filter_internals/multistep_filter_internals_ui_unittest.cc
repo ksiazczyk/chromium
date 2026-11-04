@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multistep filter internals UI unit tests
+// summary: Unit tests verifying that the multistep filter internals WebUI is enabled only with the feature flag and not in incognito, and that the page handler returns buffered logs.
+// ---
+
 #include "chrome/browser/ui/webui/multistep_filter_internals/multistep_filter_internals_ui.h"
 
 #include <memory>

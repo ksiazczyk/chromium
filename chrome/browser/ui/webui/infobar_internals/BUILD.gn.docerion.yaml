@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Infobar internals BUILD.gn build file
+summary: Defines the GN build targets for the infobar internals WebUI, including Mojo bindings generation and platform-conditional source sets and dependencies.

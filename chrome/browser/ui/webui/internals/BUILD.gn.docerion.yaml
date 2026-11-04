@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the internals WebUI
+summary: Build configuration defining the internals source set, its sources and dependencies, guarded by the session service build flag.

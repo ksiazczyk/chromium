@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Footer context menu class declaration
+// summary: Declares the FooterContextMenu menu model and the FooterContextMenuItem histogram enum for the New Tab Page footer.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_NEW_TAB_FOOTER_FOOTER_CONTEXT_MENU_H_
 #define CHROME_BROWSER_UI_WEBUI_NEW_TAB_FOOTER_FOOTER_CONTEXT_MENU_H_
 

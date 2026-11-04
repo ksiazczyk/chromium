@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Nearby internals build configuration
+summary: GN build file defining the nearby_internals source set, listing its sources, public headers, and dependencies on Nearby Share, Quick Pair, and related components.

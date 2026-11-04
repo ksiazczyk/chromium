@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New tab footer WebUI implementation
+// summary: Implements the new tab footer WebUI controller, setting up the data source, localized strings, profile preferences, load timers, and Mojo interface bindings.
+// ---
+
 #include "chrome/browser/ui/webui/new_tab_footer/new_tab_footer_ui.h"
 
 #include <memory>

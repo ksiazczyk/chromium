@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History identity state watcher implementation
+// summary: Implements observation of IdentityManager and SyncService to compute and report the current sign-in and sync state used by the history page.
+// ---
+
 #include "chrome/browser/ui/webui/history/history_identity_state_watcher.h"
 
 #include "base/functional/bind.h"

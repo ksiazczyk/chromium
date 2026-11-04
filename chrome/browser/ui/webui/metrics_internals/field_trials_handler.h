@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FieldTrialsHandler header
+// summary: Declares the WebUI message handler for the Field Trials tab of the metrics-internals page, wrapping the shared base handler to fetch state, change enrollment, restart, and look up trial or group names.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_METRICS_INTERNALS_FIELD_TRIALS_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_METRICS_INTERNALS_FIELD_TRIALS_HANDLER_H_
 

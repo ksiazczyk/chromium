@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cross-device sign-in promo handler unit tests
+// summary: Unit tests covering promo card visibility, dismissal, action clicks, and bubble state forwarding for the history cross-device sign-in promo handler.
+// ---
+
 #include "chrome/browser/ui/webui/history/history_cross_device_signin_promo_handler.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Indigo Internals WebUI code owners
+summary: Sets code ownership for the directory and requires IPC security owner approval for changes to Mojom files.

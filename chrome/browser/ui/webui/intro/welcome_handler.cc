@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Welcome page handler implementation
+// summary: Implements the welcome page handler, applying metrics reporting changes and default-browser setting before invoking the continue callback.
+// ---
+
 #include "chrome/browser/ui/webui/intro/welcome_handler.h"
 
 #include <optional>

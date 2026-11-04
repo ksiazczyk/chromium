@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for multistep filter internals
+summary: Delegates review ownership to the multistep filter OWNERS file and assigns IPC security owners for mojom changes.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the image navigation throttle
+summary: Defines non-Android GN targets for the image navigation throttle, including the image source set, unit test, and browser test source sets with their dependencies.

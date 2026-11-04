@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in celebration handler header
+// summary: Declares the sign-in celebration page handler, which observes IdentityManager and pushes updated user info to the WebUI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_INTRO_SIGN_IN_CELEBRATION_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_INTRO_SIGN_IN_CELEBRATION_HANDLER_H_
 

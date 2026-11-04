@@ -1,0 +1,4 @@
+# Docerion header of nearby_share_share_type.mojom.
+type: source
+title: Nearby Share ShareType Mojom enum
+summary: Defines the ShareType enum that combines text and file attachment types into categories shown to users in share previews.

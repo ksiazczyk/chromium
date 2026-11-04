@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricsInternalsHandler header
+// summary: Declares the WebUI message handler for the metrics-internals page, delegating to the shared base handler to expose variations, UMA, UKM, and seed information to the page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_METRICS_INTERNALS_METRICS_INTERNALS_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_METRICS_INTERNALS_METRICS_INTERNALS_HANDLER_H_
 

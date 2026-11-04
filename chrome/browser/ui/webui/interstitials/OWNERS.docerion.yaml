@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for the interstitials WebUI directory
+summary: Delegates code ownership review to the OWNERS file of chrome/browser/interstitials.

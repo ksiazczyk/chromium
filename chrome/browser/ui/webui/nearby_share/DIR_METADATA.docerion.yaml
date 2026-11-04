@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Nearby Share WebUI directory metadata (DIR_METADATA)
+summary: Records the Buganizer component and the ChromeOS cross-device engineering team email for this directory.

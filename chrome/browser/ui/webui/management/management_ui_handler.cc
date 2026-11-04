@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Management UI message handler implementation
+// summary: Implements the management page WebUI handler that collects managed status, reporting, and policy information for the UI.
+// ---
+
 #include "chrome/browser/ui/webui/management/management_ui_handler.h"
 
 #include <algorithm>

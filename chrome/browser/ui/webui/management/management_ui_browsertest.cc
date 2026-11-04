@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the management WebUI
+// summary: In-process browser tests that load the management page and verify its reported texts and state under managed, unmanaged, and policy-change scenarios.
+// ---
+
 #include "chrome/browser/ui/webui/management/management_ui.h"
 
 #include "base/json/json_reader.h"

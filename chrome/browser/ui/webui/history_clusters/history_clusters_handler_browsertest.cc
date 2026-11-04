@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History clusters handler browser tests
+// summary: In-process browser tests covering handler behavior such as opening visit URLs in tab groups and incognito menu item availability.
+// ---
+
 #include "chrome/browser/ui/webui/history_clusters/history_clusters_handler.h"
 
 #include "base/memory/raw_ptr.h"

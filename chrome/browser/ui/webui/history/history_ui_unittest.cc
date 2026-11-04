@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Chrome history WebUI
+// summary: Unit tests for HistoryUI covering instantiation, page handler binding, theme source properties and the Android foreign session handler lifecycle and operations.
+// ---
+
 #include "chrome/browser/ui/webui/history/history_ui.h"
 
 #include <memory>

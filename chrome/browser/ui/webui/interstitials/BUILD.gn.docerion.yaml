@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build file for the interstitials WebUI
+summary: GN build file defining the interstitials source set and its non-Android browser test target together with their build dependencies.

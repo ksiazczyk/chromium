@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Nearby Share WebUI code owners (OWNERS)
+summary: Delegates ownership to the nearby_sharing OWNERS file and routes mojom and traits files to IPC security owners.

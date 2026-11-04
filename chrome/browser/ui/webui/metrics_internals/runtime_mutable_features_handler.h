@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RuntimeMutableFeaturesHandler header
+// summary: Declares the message handler for the Runtime-Mutable-Features tab, covering feature fetches, seed fetching pause and seed upload.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_METRICS_INTERNALS_RUNTIME_MUTABLE_FEATURES_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_METRICS_INTERNALS_RUNTIME_MUTABLE_FEATURES_HANDLER_H_
 

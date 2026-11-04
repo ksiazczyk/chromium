@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricsInternalsUI controller implementation
+// summary: Sets up the metrics-internals WebUI by adding its data source and resources, registering the metrics, runtime mutable features, and field trials handlers, and conditionally enabling the structured metrics subpage and private metrics tab.
+// ---
+
 #include "chrome/browser/ui/webui/metrics_internals/metrics_internals_ui.h"
 
 #include "chrome/browser/profiles/profile.h"

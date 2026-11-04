@@ -1,0 +1,4 @@
+# Docerion header of nearby_share.mojom.
+type: source
+title: Mojo interface definitions for the Nearby Share dialog
+summary: Defines Mojo structs, enums, and interfaces for share targets, payload previews, discovery, and transfer status used by the Nearby Share dialog.

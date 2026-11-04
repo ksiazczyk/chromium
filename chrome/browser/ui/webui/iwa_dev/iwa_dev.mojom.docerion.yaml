@@ -1,0 +1,4 @@
+# Docerion header of iwa_dev.mojom.
+type: source
+title: Mojo interface for the IWA developer WebUI
+summary: Defines the Mojo structs and interfaces used to install, launch, update, and uninstall dev-mode Isolated Web Apps from the developer tools page.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Management UI handler unit tests
+// summary: Unit tests for ManagementUIHandler covering managed state, reporting info, threat protection, and promotion eligibility behavior across platforms.
+// ---
+
 #include "chrome/browser/ui/webui/management/management_ui_handler.h"
 
 #include <map>

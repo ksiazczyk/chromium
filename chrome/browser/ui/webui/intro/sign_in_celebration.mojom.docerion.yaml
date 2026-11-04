@@ -1,0 +1,4 @@
+# Docerion header of sign_in_celebration.mojom.
+type: source
+title: sign_in_celebration.mojom
+summary: Defines Mojo interfaces for the sign-in celebration page, exchanging user info such as name and avatar and reporting when the celebration animation finishes.

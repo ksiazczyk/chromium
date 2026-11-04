@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the management UI directory
+summary: Points to the components/policy OWNERS file, delegating ownership review for this directory.

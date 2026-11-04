@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Foreign session handler implementation
+// summary: Implements the WebUI handler that lists, opens, and deletes tabs from other devices' synced sessions.
+// ---
+
 #include "chrome/browser/ui/webui/history/foreign_session_handler.h"
 
 #include <stddef.h>

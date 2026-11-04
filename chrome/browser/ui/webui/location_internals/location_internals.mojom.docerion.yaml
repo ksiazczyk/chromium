@@ -1,0 +1,4 @@
+# Docerion header of location_internals.mojom.
+type: source
+title: Location internals Mojo interface definition
+summary: Defines the Mojo interface that lets the location-internals WebUI page bind the device geolocation internals service through the device service singleton.

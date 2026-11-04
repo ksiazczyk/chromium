@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multistep filter internals page handler unit tests
+// summary: Unit tests for the page handler that use mock services, a test profile, and a log router to verify log delivery and debug info responses.
+// ---
+
 #include "chrome/browser/ui/webui/multistep_filter_internals/multistep_filter_internals_page_handler.h"
 
 #include <memory>

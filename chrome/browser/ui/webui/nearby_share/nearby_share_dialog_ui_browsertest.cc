@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the Nearby Share dialog WebUI
+// summary: Verifies that the nearby-share-app component renders and that close events invoke the sharesheet controller without crashing.
+// ---
+
 #include "chrome/browser/ui/webui/nearby_share/nearby_share_dialog_ui.h"
 
 #include "base/strings/stringprintf.h"

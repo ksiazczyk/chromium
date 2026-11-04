@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Handler that opens URLs from the history WebUI
+// summary: Registers the navigateToUrl message callback and opens the requested URL in the current tab or a new foreground tab based on the click disposition.
+// ---
+
 #include "chrome/browser/ui/webui/history/navigation_handler.h"
 
 #include "base/check.h"

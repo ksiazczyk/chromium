@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal debug pages disabled WebUI controller header
+// summary: Declares the WebUI controller class and its URL configuration for the page shown when internal-only debug pages are disabled.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_INTERNAL_DEBUG_PAGES_DISABLED_INTERNAL_DEBUG_PAGES_DISABLED_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_INTERNAL_DEBUG_PAGES_DISABLED_INTERNAL_DEBUG_PAGES_DISABLED_UI_H_
 

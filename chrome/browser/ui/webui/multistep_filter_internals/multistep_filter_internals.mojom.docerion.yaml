@@ -1,0 +1,4 @@
+# Docerion header of multistep_filter_internals.mojom.
+type: source
+title: Multistep Filter internals Mojo interface definitions
+summary: Defines Mojo structs and interfaces for log entries, account, consent, settings and flag status, plus the browser-side handler and WebUI observer for the Multistep Filter internals page.

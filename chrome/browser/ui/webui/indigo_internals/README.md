@@ -1,3 +1,9 @@
+---
+type: readme
+title: Indigo Internals WebUI README
+summary: Explains that the directory provides a diagnostic page for debugging the Indigo feature and describes how developers can enable and access it behind internal-only UI preferences.
+---
+
 # Indigo Internals WebUI
 
 This directory contains the code for `chrome://indigo-internals`, a diagnostic

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Management WebUI implementation
+// summary: Implements the management WebUI controller, registering the HTML data source, localized strings, and platform-specific handling for ChromeOS and Android.
+// ---
+
 #include "chrome/browser/ui/webui/management/management_ui.h"
 
 #include <memory>

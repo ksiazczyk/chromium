@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the inspect WebUI controller
+// summary: Implements the inspect page controller, handling device discovery, port forwarding, remote debugging, and inspect, activate, close, reload, open, and pause commands.
+// ---
+
 #include "chrome/browser/ui/webui/inspect/inspect_ui.h"
 
 #include <memory>

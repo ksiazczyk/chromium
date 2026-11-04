@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Management UI string constants
+// summary: Defines string constants for management page reporting keys, threat protection labels, and on-prem reporting extension IDs.
+// ---
+
 #include "chrome/browser/ui/webui/management/management_ui_constants.h"
 
 #include "build/android_buildflags.h"

@@ -1,0 +1,4 @@
+# Docerion header of sign_in_promo.mojom.
+type: source
+title: sign_in_promo.mojom
+summary: Defines Mojo interfaces for the sign-in promo page, covering sign-in choice buttons and the managed device disclaimer request.

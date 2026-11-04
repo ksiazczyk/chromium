@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Directory owners
+summary: Delegates code review ownership for this directory to the services/network OWNERS file.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Engagement WebUI implementation
+// summary: Implements the media engagement WebUI controller that serves per-origin engagement score details and configuration from the MediaEngagementService over a Mojo interface.
+// ---
+
 #include "chrome/browser/ui/webui/media/media_engagement_ui.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocationInternalsHandler implementation
+// summary: Implements the Mojo handler that forwards GeolocationInternals binding requests to the browser's DeviceService.
+// ---
+
 #include "chrome/browser/ui/webui/location_internals/location_internals_handler.h"
 
 #include <utility>

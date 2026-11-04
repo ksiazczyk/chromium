@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Welcome page handler unit tests
+// summary: Unit tests for the welcome handler verifying UMA opt-in handling, default-browser behavior, and that the continue callback runs only once.
+// ---
+
 #include "chrome/browser/ui/webui/intro/welcome_handler.h"
 
 #include <memory>

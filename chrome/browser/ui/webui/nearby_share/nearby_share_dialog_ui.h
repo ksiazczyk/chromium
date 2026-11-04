@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share dialog WebUI controller header
+// summary: Declares the WebUI controller and its configuration class for the Nearby Share dialog, including mojo interface bindings, attachment setup, and sharesheet controller integration.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_NEARBY_SHARE_NEARBY_SHARE_DIALOG_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_NEARBY_SHARE_NEARBY_SHARE_DIALOG_UI_H_
 

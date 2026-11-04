@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multistep Filter internals WebUI controller header
+// summary: Declares the WebUI controller and its configuration class, which manage Mojo connections between the browser process and the internals page and gate its availability.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_MULTISTEP_FILTER_INTERNALS_MULTISTEP_FILTER_INTERNALS_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_MULTISTEP_FILTER_INTERNALS_MULTISTEP_FILTER_INTERNALS_UI_H_
 

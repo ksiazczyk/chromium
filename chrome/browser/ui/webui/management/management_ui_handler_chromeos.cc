@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS management UI handler implementation
+// summary: Implements the ChromeOS-specific management page handler, gathering device reporting info, managed state, EOL update notices, and network monitoring disclosures.
+// ---
+
 #include "chrome/browser/ui/webui/management/management_ui_handler_chromeos.h"
 
 #include "ash/constants/ash_features.h"

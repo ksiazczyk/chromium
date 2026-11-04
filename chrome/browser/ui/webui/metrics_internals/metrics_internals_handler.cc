@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricsInternalsHandler implementation
+// summary: Implements the metrics-internals WebUI message handler, registering callbacks that serve variations summaries, seed info, UMA and UKM summaries and logs, encryption public key, and service observer state.
+// ---
+
 #include "chrome/browser/ui/webui/metrics_internals/metrics_internals_handler.h"
 
 #include "base/functional/bind.h"

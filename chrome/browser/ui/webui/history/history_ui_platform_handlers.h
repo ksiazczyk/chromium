@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History UI platform handlers header
+// summary: Declares platform-specific helpers, message keys, and factory functions for populating the history WebUI data source and creating platform handlers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_HISTORY_HISTORY_UI_PLATFORM_HANDLERS_H_
 #define CHROME_BROWSER_UI_WEBUI_HISTORY_HISTORY_UI_PLATFORM_HANDLERS_H_
 

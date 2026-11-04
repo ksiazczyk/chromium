@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby internals HTTP handler implementation
+// summary: Implements WebUI message handlers that observe Nearby Share HTTP notifier RPC requests and responses and expose them to the HTTP tab as JSON.
+// ---
+
 #include "chrome/browser/ui/webui/nearby_internals/nearby_internals_http_handler.h"
 
 #include <utility>

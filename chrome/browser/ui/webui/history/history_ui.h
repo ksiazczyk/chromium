@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History WebUI controller header
+// summary: Declares the HistoryUI Mojo WebUI controller and its WebUIConfig, including interface bindings for history, help bubble, and promo handlers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_HISTORY_HISTORY_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_HISTORY_HISTORY_UI_H_
 

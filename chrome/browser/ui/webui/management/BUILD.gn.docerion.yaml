@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the management WebUI
+summary: GN build file defining the management source set, its dependencies, and the unit test target, with ChromeOS-specific and extension-conditional dependencies.

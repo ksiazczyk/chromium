@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Indigo Internals UI Controller Implementation
+// summary: Implements the Indigo internals WebUI controller, enabling it only when the Indigo feature is on for regular profiles and wiring up the Mojo page handler factory.
+// ---
+
 #include "chrome/browser/ui/webui/indigo_internals/indigo_internals_ui.h"
 
 #include "base/feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History identity state watcher unit tests
+// summary: Unit tests verifying the identity state watcher across signed-out, signed-in, and sync-disabled scenarios with and without the sign-in promos feature.
+// ---
+
 #include "chrome/browser/ui/webui/history/history_identity_state_watcher.h"
 
 #include "base/functional/bind.h"

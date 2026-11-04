@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Indigo Internals Page Handler Header
+// summary: Declares the browser-side handler that answers eligibility, optimization guide and Glic prompt queries from the Indigo internals page and observes URL-keyed data collection consent changes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_INDIGO_INTERNALS_INDIGO_INTERNALS_PAGE_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_INDIGO_INTERNALS_INDIGO_INTERNALS_PAGE_HANDLER_H_
 

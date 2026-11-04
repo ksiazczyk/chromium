@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the internal debug pages disabled WebUI
+summary: GN build file defining the internal_debug_pages_disabled source_set with its sources and Chrome dependency targets.

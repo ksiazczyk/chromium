@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Nearby Share WebUI build targets (BUILD.gn)
+summary: Defines the static library, browser test target, and mojom bindings for the ChromeOS Nearby Share WebUI.

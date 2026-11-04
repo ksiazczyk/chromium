@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InfoBar internals WebUI controller implementation
+// summary: Implements the infobar-internals WebUI controller, creating its data source and binding the Mojo page handler factory to the handler.
+// ---
+
 #include "chrome/browser/ui/webui/infobar_internals/infobar_internals_ui.h"
 
 #include <memory>

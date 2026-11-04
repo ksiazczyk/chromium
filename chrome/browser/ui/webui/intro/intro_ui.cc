@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the intro WebUI controller
+// summary: Implements the IntroUI controller that sets up the intro data source, localized strings, feature-dependent cards and handlers for the Chrome first-run experience page.
+// ---
+
 #include "chrome/browser/ui/webui/intro/intro_ui.h"
 
 #include "base/check_deref.h"

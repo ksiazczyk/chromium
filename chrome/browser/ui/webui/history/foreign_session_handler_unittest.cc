@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Foreign session handler unit tests
+// summary: Tests the foreign session handler using a fake session sync service and a mock Mojo page.
+// ---
+
 #include "chrome/browser/ui/webui/history/foreign_session_handler.h"
 
 #include <memory>

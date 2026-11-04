@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browsing history handler implementation
+// summary: Implements the Mojo page handler that queries, removes, and reports browsing history results for the history WebUI.
+// ---
+
 #include "chrome/browser/ui/webui/history/browsing_history_handler.h"
 
 #include <stddef.h>

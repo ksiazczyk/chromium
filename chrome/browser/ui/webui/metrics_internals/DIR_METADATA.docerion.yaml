@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Metrics internals issue tracker metadata
+summary: Routes bugs for this directory to the Internals>Metrics component in Monorail and Buganizer.

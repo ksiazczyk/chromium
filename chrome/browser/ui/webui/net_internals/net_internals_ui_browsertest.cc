@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Net internals browser test implementation
+// summary: Implements the NetInternalsTest WebUI Mocha browser test with message handlers and DNS lookup helpers that exercise the net-internals page.
+// ---
+
 #include "chrome/browser/ui/webui/net_internals/net_internals_ui_browsertest.h"
 
 #include <algorithm>

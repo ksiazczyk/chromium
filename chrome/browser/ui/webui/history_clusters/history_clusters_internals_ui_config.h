@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History clusters internals WebUI config declaration
+// summary: Declares the InternalWebUIConfig subclass that registers the history clusters internals WebUI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_HISTORY_CLUSTERS_HISTORY_CLUSTERS_INTERNALS_UI_CONFIG_H_
 #define CHROME_BROWSER_UI_WEBUI_HISTORY_CLUSTERS_HISTORY_CLUSTERS_INTERNALS_UI_CONFIG_H_
 

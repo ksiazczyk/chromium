@@ -1,0 +1,4 @@
+# Docerion header of finish_or_continue.mojom.
+type: source
+title: Mojo interfaces for the finish or continue page
+summary: Defines the factory and page handler interfaces that let the finish-or-continue WebUI page report start browsing or continue education choices to the browser.

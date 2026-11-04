@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Infobar internals OWNERS
+summary: Specifies directory ownership by delegating to the infobars OWNERS file and routes mojom file reviews to the IPC security owners.

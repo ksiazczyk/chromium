@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for history WebUI
+summary: Points to the shared metadata mixins defined for the history resources directory.
