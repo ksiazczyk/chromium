@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BirchWeatherProvider implementation
+// summary: Implements BirchWeatherProvider, which fetches weather via the ambient backend when policy, geolocation, and time of day allow, caching results for the Birch model.
+// relations:
+//   - implements /ash/birch/birch_weather_provider.h
+//   - depends_on /ash/ambient/ambient_controller.h
+//   - depends_on /ash/birch/birch_item.h
+// ---
+
 #include "ash/birch/birch_weather_provider.h"
 
 #include <string>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Capture mode camera unit tests
+// summary: Unit tests covering the capture mode camera controller and preview, including device enumeration, selection, and preview behavior.
+// relations:
+//   - depends_on /ash/accessibility/accessibility_controller.h
+//   - depends_on /ash/accessibility/autoclick/autoclick_controller.h
+//   - depends_on /ash/capture_mode/capture_mode_bar_view.h
+// ---
+
 #include <algorithm>
 
 #include "ash/accessibility/accessibility_controller.h"

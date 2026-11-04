@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BirchIconCache class declaration
+// summary: Declares a simple URL-to-icon cache for Birch icons, intentionally without invalidation or item removal.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/containers/flat_map.h
+//   - depends_on /ui/gfx/image/image_skia.h
+// ---
+
 #ifndef ASH_BIRCH_BIRCH_ICON_CACHE_H_
 #define ASH_BIRCH_BIRCH_ICON_CACHE_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture mode behavior implementation
+// summary: Implements capture mode behaviors such as the default variant, configuring session settings, bar views, and feature availability per client.
+// relations:
+//   - implements /ash/capture_mode/capture_mode_behavior.h
+//   - depends_on /ash/capture_mode/base_capture_mode_session.h
+//   - depends_on /ash/capture_mode/capture_mode_camera_controller.h
+// ---
+
 #include "ash/capture_mode/capture_mode_behavior.h"
 
 #include <memory>

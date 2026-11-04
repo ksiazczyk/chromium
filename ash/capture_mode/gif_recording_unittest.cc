@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GIF recording unit tests
+// summary: Unit tests for GIF recording in capture mode, covering recording type drop-down button visibility, settings menu interactions and related metrics.
+// relations:
+//   - tests /ash/capture_mode/capture_mode_controller.h
+//   - depends_on /ash/capture_mode/capture_mode_session_test_api.h
+//   - depends_on /ash/capture_mode/capture_mode_test_util.h
+// ---
+
 #include "ash/capture_mode/capture_button_view.h"
 #include "ash/capture_mode/capture_label_view.h"
 #include "ash/capture_mode/capture_mode_bar_view.h"

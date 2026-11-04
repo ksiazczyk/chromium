@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockAuthInputRowViewObserver
+// summary: GMock implementation of AuthInputRowView::Observer that records textfield focus changes, content edits, caps lock and visibility changes, submissions, and escape presses.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - implements /ash/auth/views/auth_input_row_view.h
+//   - depends_on /testing/gmock/include/gmock/gmock.h
+// ---
+
 #ifndef ASH_AUTH_VIEWS_TEST_SUPPORT_MOCK_AUTH_INPUT_ROW_VIEW_OBSERVER_H_
 #define ASH_AUTH_VIEWS_TEST_SUPPORT_MOCK_AUTH_INPUT_ROW_VIEW_OBSERVER_H_
 

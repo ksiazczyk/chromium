@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stub Birch client implementation
+// summary: Implements StubBirchClient, a no-op BirchClient with stub data providers that supports Birch testing, including stub weather and Coral providers.
+// relations:
+//   - implements /ash/birch/stub_birch_client.h
+//   - depends_on /ash/birch/birch_data_provider.h
+//   - depends_on /ash/birch/birch_model.h
+// ---
+
 #include "ash/birch/stub_birch_client.h"
 
 #include "ash/birch/birch_data_provider.h"

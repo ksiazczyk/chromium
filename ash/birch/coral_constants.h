@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Coral constants header
+// summary: Defines the maximum item count for the Coral suppression context and the CoralSource enum distinguishing post-login and in-session item sources.
+// relations:
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_BIRCH_CORAL_CONSTANTS_H_
 #define ASH_BIRCH_CORAL_CONSTANTS_H_
 

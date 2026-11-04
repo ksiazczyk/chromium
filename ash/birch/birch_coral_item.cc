@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Birch coral item implementation
+// summary: Implements the coral group birch item, including favicon and app icon loading, group launching, and restore actions.
+// relations:
+//   - implements /ash/birch/birch_coral_item.h
+//   - depends_on /ash/birch/birch_coral_grouped_icon_image.h
+//   - depends_on /ash/birch/birch_coral_provider.h
+// ---
+
 #include "ash/birch/birch_coral_item.h"
 
 #include "ash/birch/birch_coral_grouped_icon_image.h"

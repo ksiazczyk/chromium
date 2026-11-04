@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PIN container view header
+// summary: Declares PinContainerView, which hosts the PIN keyboard and input field connected via PinKeyboardInputBridge, with observer and TestApi access.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/auth/views/auth_input_row_view.h
+//   - depends_on /ash/auth/views/pin_keyboard_input_bridge.h
+// ---
+
 #ifndef ASH_AUTH_VIEWS_PIN_CONTAINER_VIEW_H_
 #define ASH_AUTH_VIEWS_PIN_CONTAINER_VIEW_H_
 

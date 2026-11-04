@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PointerHighlightLayer header
+// summary: Declares PointerHighlightLayer, a layer owner that paints a ring at pointer event locations on top of the recorded window.
+// relations:
+//   - depends_on /ui/compositor/layer_delegate.h
+//   - depends_on /ui/compositor/layer_owner.h
+//   - depends_on /ui/compositor/paint_context.h
+// ---
+
 #ifndef ASH_CAPTURE_MODE_POINTER_HIGHLIGHT_LAYER_H_
 #define ASH_CAPTURE_MODE_POINTER_HIGHLIGHT_LAYER_H_
 

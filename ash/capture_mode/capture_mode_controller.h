@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture mode controller header
+// summary: Declares the CaptureModeController class that manages the capture mode session lifecycle, capture folder info, and policy, DLP and HDCP restriction checks.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/capture_mode/capture_mode_education_controller.h
+//   - depends_on /ash/capture_mode/capture_mode_metrics.h
+// ---
+
 #ifndef ASH_CAPTURE_MODE_CAPTURE_MODE_CONTROLLER_H_
 #define ASH_CAPTURE_MODE_CAPTURE_MODE_CONTROLLER_H_
 

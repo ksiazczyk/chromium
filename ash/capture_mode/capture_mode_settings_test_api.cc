@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Capture mode settings test API implementation
+// summary: Implements a test API exposing capture mode settings menu groups and options such as audio input, save-to location and camera for testing.
+// relations:
+//   - depends_on /ash/capture_mode/capture_mode_settings_test_api.h
+//   - depends_on /ash/capture_mode/capture_mode_controller.h
+//   - depends_on /ash/capture_mode/capture_mode_session.h
+// ---
+
 #include "ash/capture_mode/capture_mode_settings_test_api.h"
 
 #include "ash/capture_mode/capture_mode_controller.h"

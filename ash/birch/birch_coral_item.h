@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Birch coral item class declaration
+// summary: Declares BirchCoralItem, a birch item representing a coral group with restore, new desk launch, and desk template actions.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/birch/birch_item.h
+//   - depends_on /ash/birch/coral_constants.h
+// ---
+
 #ifndef ASH_BIRCH_BIRCH_CORAL_ITEM_H_
 #define ASH_BIRCH_BIRCH_CORAL_ITEM_H_
 

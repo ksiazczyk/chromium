@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spotlight notification bubble view implementation
+// summary: Implements the bubble view that lays out a visibility icon and a localized label announcing which teacher is viewing the user's screen.
+// relations:
+//   - implements /ash/boca/spotlight/spotlight_notification_bubble_view.h
+//   - depends_on /ash/boca/spotlight/spotlight_notification_bubble_view.h
+//   - depends_on /ash/style/typography.h
+// ---
+
 #include "ash/boca/spotlight/spotlight_notification_bubble_view.h"
 
 #include <memory>

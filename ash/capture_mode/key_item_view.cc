@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key item view implementation
+// summary: Implements KeyItemView, a rounded key component that displays a keyboard key as an icon or text label with shadow and highlight border styling.
+// relations:
+//   - implements /ash/capture_mode/key_item_view.h
+//   - depends_on /ash/capture_mode/capture_mode_util.h
+//   - depends_on /chromeos/constants/chromeos_features.h
+// ---
+
 #include "ash/capture_mode/key_item_view.h"
 
 #include <memory>

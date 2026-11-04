@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Demo tools test API implementation
+// summary: Implements accessors into CaptureModeDemoToolsController internals so tests can inspect the key combo widget, modifier state and highlight layers.
+// relations:
+//   - implements /ash/capture_mode/capture_mode_demo_tools_test_api.h
+//   - depends_on /ash/capture_mode/capture_mode_demo_tools_controller.h
+//   - depends_on /ash/capture_mode/key_combo_view.h
+// ---
+
 #include "ash/capture_mode/capture_mode_demo_tools_test_api.h"
 
 #include <vector>

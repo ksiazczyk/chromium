@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Ownership and issue tracker metadata for ash calendar
+summary: Specifies the owning team email and the Buganizer and Monorail components used for issues in the ash calendar directory.

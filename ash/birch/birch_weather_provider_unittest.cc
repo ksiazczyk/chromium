@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Birch weather provider unit tests
+// summary: Unit tests for the Birch weather provider, covering weather fetching, icon loading, and use of the ChromeOS weather client ID via a fake ambient backend controller.
+// relations:
+//   - tests /ash/birch/birch_weather_provider.h
+//   - depends_on /ash/ambient/ambient_controller.h
+//   - depends_on /ash/birch/birch_icon_cache.h
+// ---
+
 #include "ash/birch/birch_weather_provider.h"
 
 #include <memory>

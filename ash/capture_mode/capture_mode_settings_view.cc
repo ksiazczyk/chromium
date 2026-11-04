@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture mode settings view implementation
+// summary: Implements the capture mode settings menu view, computing its widget bounds relative to the capture bar and handling audio, save-to folder, and camera options.
+// relations:
+//   - implements /ash/capture_mode/capture_mode_settings_view.h
+//   - depends_on /ash/capture_mode/capture_mode_bar_view.h
+//   - depends_on /ash/capture_mode/capture_mode_constants.h
+// ---
+
 #include "ash/capture_mode/capture_mode_settings_view.h"
 
 #include <memory>

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeVideoSourceProvider implementation
+// summary: Implements a fake VideoSourceProvider mojo interface that manages fake camera devices and simulates device additions, removals and fatal errors for tests.
+// relations:
+//   - depends_on /ash/capture_mode/fake_video_source_provider.h
+// ---
+
 #include "ash/capture_mode/fake_video_source_provider.h"
 
 #include "base/check.h"

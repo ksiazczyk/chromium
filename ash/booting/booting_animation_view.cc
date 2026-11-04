@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Booting animation view implementation
+// summary: Implements the view that renders the lottie booting animation, scaling it to cover the widget and mirroring it for RTL locales.
+// relations:
+//   - depends_on /ash/booting/booting_animation_view.h
+//   - depends_on /base/i18n/rtl.h
+//   - depends_on /cc/paint/skottie_wrapper.h
+// ---
+
 #include "ash/booting/booting_animation_view.h"
 
 #include <string>

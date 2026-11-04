@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PIN status view unit tests
+// summary: Unit tests verifying PIN lockout status messages, including countdown updates, using mock time.
+// relations:
+//   - tests /ash/auth/views/pin_status_view.h
+//   - depends_on /ash/test/ash_test_base.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #include "ash/auth/views/pin_status_view.h"
 
 #include <memory>

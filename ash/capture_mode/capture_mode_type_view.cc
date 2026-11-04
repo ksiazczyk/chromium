@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture mode type view implementation
+// summary: Implements the capture bar view that lets users toggle between image and video capture types via a tab slider, updating the capture mode controller accordingly.
+// relations:
+//   - implements /ash/capture_mode/capture_mode_type_view.h
+//   - depends_on /ash/capture_mode/capture_mode_behavior.h
+//   - depends_on /ash/capture_mode/capture_mode_controller.h
+// ---
+
 #include "ash/capture_mode/capture_mode_type_view.h"
 
 #include <memory>

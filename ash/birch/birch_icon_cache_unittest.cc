@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BirchIconCache unit tests
+// summary: Unit tests verifying that the Birch icon cache returns a null image for missing URLs and retrieves icons that were stored.
+// relations:
+//   - tests /ash/birch/birch_icon_cache.h
+//   - depends_on /testing/gtest/include/gtest/gtest.h
+//   - depends_on /ui/gfx/image/image_skia.h
+// ---
+
 #include "ash/birch/birch_icon_cache.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

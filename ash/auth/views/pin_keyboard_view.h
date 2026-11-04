@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PIN keyboard view class declaration
+// summary: Declares the pin keyboard view with digit and backspace buttons, an observer interface, and a test API.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/style/icon_button.h
+//   - depends_on /base/containers/flat_map.h
+// ---
+
 #ifndef ASH_AUTH_VIEWS_PIN_KEYBOARD_VIEW_H_
 #define ASH_AUTH_VIEWS_PIN_KEYBOARD_VIEW_H_
 

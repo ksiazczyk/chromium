@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auth input row view header
+// summary: Declares the AuthInputRowView class for password and PIN input rows, with observers, a test API, and methods for text visibility, submission, and state reset.
+// relations:
+//   - depends_on /ash/auth/views/auth_textfield.h
+//   - depends_on /ash/ime/ime_controller_impl.h
+//   - depends_on /ash/style/icon_button.h
+// ---
+
 #ifndef ASH_AUTH_VIEWS_AUTH_INPUT_ROW_VIEW_H_
 #define ASH_AUTH_VIEWS_AUTH_INPUT_ROW_VIEW_H_
 

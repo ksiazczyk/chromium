@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture mode session focus cycler implementation
+// summary: Implements focus cycling between capture session UI items, including capture bar buttons, selection region handles, settings menu and camera preview.
+// relations:
+//   - depends_on /ash/capture_mode/capture_mode_session_focus_cycler.h
+//   - depends_on /ash/accessibility/magnifier/magnifier_utils.h
+//   - depends_on /ash/accessibility/scoped_a11y_override_window_setter.h
+// ---
+
 #include "ash/capture_mode/capture_mode_session_focus_cycler.h"
 
 #include <algorithm>

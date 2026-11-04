@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Action button view header
+// summary: Declares the ActionButtonView button class that can show icon and text or collapse to icon only.
+// relations:
+//   - depends_on /ash/capture_mode/capture_mode_types.h
+//   - depends_on /ui/views/controls/button/button.h
+// ---
+
 #ifndef ASH_CAPTURE_MODE_ACTION_BUTTON_VIEW_H_
 #define ASH_CAPTURE_MODE_ACTION_BUTTON_VIEW_H_
 

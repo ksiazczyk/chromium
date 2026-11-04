@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture mode toast controller implementation
+// summary: Implements the controller that creates, positions, shows, and dismisses capture mode toast widgets for user nudges and camera preview messages.
+// relations:
+//   - implements /ash/capture_mode/capture_mode_toast_controller.h
+//   - depends_on /ash/capture_mode/capture_mode_session.h
+//   - depends_on /ash/capture_mode/capture_mode_util.h
+// ---
+
 #include "ash/capture_mode/capture_mode_toast_controller.h"
 
 #include <memory>

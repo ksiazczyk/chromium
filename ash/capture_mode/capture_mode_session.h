@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture mode session class declaration
+// summary: Declares the CaptureModeSession class that encapsulates an active capture mode session and owns its widgets, layers and event handling.
+// relations:
+//   - depends_on /ash/accessibility/magnifier/magnifier_glass.h
+//   - depends_on /ash/capture_mode/base_capture_mode_session.h
+//   - depends_on /ash/capture_mode/capture_label_view.h
+// ---
+
 #ifndef ASH_CAPTURE_MODE_CAPTURE_MODE_SESSION_H_
 #define ASH_CAPTURE_MODE_CAPTURE_MODE_SESSION_H_
 

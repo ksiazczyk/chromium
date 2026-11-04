@@ -1,3 +1,13 @@
+---
+type: readme
+title: Birch overview
+summary: Explains the Birch ChromeOS suggestion system, covering suggestion types, data flow, the ranker, and the item remover.
+relations:
+  - documents /ash/birch/birch_data_provider.h
+  - documents /ash/birch/birch_item_remover.h
+  - documents /ash/birch/birch_model.h
+---
+
 # Birch
 
 B.I.R.C.H. stands for `B`uilt `I`n `R`ecommendations for `CH`romeOS.

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Normal capture bar view implementation
+// summary: Implements the standard capture mode bar content view combining capture type and source views with separators plus settings and close buttons.
+// relations:
+//   - implements /ash/capture_mode/normal_capture_bar_view.h
+//   - depends_on /ash/capture_mode/capture_mode_source_view.h
+//   - depends_on /ash/capture_mode/capture_mode_type_view.h
+// ---
+
 #include "ash/capture_mode/normal_capture_bar_view.h"
 
 #include "ash/capture_mode/capture_mode_source_view.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture mode camera preview view implementation
+// summary: Implements the camera preview view and its resize button, painting camera video frames and supporting collapse, movement, and accessibility behavior.
+// relations:
+//   - implements /ash/capture_mode/capture_mode_camera_preview_view.h
+//   - depends_on /ash/accessibility/scoped_a11y_override_window_setter.h
+//   - depends_on /ash/capture_mode/capture_mode_constants.h
+// ---
+
 #include "ash/capture_mode/capture_mode_camera_preview_view.h"
 
 #include "ash/accessibility/scoped_a11y_override_window_setter.h"

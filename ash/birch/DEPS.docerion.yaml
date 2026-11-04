@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Birch directory dependency rules
+summary: Defines allowed include dependencies for the Birch directory, such as geolocation, settings, signin, and session manager.

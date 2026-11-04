@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Folder selection dialog controller implementation
+// summary: Implements the controller that creates and manages capture mode's folder selection dialog, dims the background, and forwards the chosen folder path to its delegate.
+// relations:
+//   - depends_on /ash/capture_mode/folder_selection_dialog_controller.h
+//   - depends_on /ui/shell_dialogs/select_file_dialog.h
+// ---
+
 #include "ash/capture_mode/folder_selection_dialog_controller.h"
 
 #include <memory>

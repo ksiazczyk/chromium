@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the ash/auth directory
+summary: Defines allowed include dependencies for the ash/auth directory, permitting access to the user manager header.

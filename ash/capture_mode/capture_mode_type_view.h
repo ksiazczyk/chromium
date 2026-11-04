@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture mode type view header
+// summary: Declares the CaptureModeTypeView class that provides image and video toggle buttons for switching capture types within the capture bar.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/capture_mode/capture_mode_behavior.h
+//   - depends_on /ash/capture_mode/capture_mode_types.h
+// ---
+
 #ifndef ASH_CAPTURE_MODE_CAPTURE_MODE_TYPE_VIEW_H_
 #define ASH_CAPTURE_MODE_CAPTURE_MODE_TYPE_VIEW_H_
 

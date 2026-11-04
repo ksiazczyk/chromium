@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthHeaderView implementation
+// summary: Implements the auth header view showing the user avatar, title, and description, including error title display and title restoration.
+// relations:
+//   - implements /ash/auth/views/auth_header_view.h
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/login/ui/animated_rounded_image_view.h
+// ---
+
 #include "ash/auth/views/auth_header_view.h"
 
 #include <string_view>

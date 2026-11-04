@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fingerprint view pixel tests
+// summary: Pixel tests verifying FingerprintView rendering across its states in both dark and light modes.
+// relations:
+//   - tests /ash/auth/views/fingerprint_view.h
+//   - depends_on /ash/public/cpp/login_types.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include <memory>
 #include <string>
 

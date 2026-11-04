@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeCameraDevice implementation
+// summary: Implements a fake camera VideoSource that renders test video frames into shared-image buffers and simulates camera behavior for capture mode unit tests.
+// relations:
+//   - depends_on /ash/capture_mode/fake_camera_device.h
+//   - depends_on /base/containers/span.h
+//   - depends_on /base/functional/bind.h
+// ---
+
 #include "ash/capture_mode/fake_camera_device.h"
 
 #include <memory>

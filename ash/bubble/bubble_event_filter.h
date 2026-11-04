@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bubble event filter class
+// summary: Declares an event handler that invokes a callback when a click or tap occurs outside the bubble widget and its button, with support for changing the button.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/functional/callback.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_BUBBLE_BUBBLE_EVENT_FILTER_H_
 #define ASH_BUBBLE_BUBBLE_EVENT_FILTER_H_
 

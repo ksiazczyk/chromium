@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PointerHighlightLayer implementation
+// summary: Implements a textured layer that paints a ring highlight around mouse or touch press events so they are visible in captured video.
+// relations:
+//   - implements /ash/capture_mode/pointer_highlight_layer.h
+//   - depends_on /ash/capture_mode/capture_mode_constants.h
+//   - depends_on /ash/capture_mode/capture_mode_util.h
+// ---
+
 #include "ash/capture_mode/pointer_highlight_layer.h"
 
 #include "ash/capture_mode/capture_mode_constants.h"

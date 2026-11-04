@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Coral item remover implementation
+// summary: Implements CoralItemRemover methods that record removed Coral entities by identifier and erase them from content item lists.
+// relations:
+//   - implements /ash/birch/coral_item_remover.h
+//   - depends_on /ash/birch/coral_util.h
+// ---
+
 #include "ash/birch/coral_item_remover.h"
 
 #include "ash/birch/coral_util.h"

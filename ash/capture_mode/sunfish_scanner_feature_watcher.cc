@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SunfishScannerFeatureWatcher implementation
+// summary: Implements the watcher that tracks Sunfish and Scanner UI availability from preferences, session, and shell state and notifies observers of changes.
+// relations:
+//   - implements /ash/capture_mode/sunfish_scanner_feature_watcher.h
+//   - depends_on /ash/constants/ash_pref_names.h
+//   - depends_on /ash/public/cpp/capture_mode/capture_mode_api.h
+// ---
+
 #include "ash/capture_mode/sunfish_scanner_feature_watcher.h"
 
 #include "ash/constants/ash_pref_names.h"

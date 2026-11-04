@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base capture mode session implementation
+// summary: Implements the base capture mode session lifecycle, including camera preview handling, behavior attachment, and shutdown cleanup.
+// relations:
+//   - implements /ash/capture_mode/base_capture_mode_session.h
+//   - depends_on /ash/accessibility/accessibility_controller.h
+//   - depends_on /ash/capture_mode/capture_mode_camera_controller.h
+// ---
+
 #include "ash/capture_mode/base_capture_mode_session.h"
 
 #include "ash/accessibility/accessibility_controller.h"

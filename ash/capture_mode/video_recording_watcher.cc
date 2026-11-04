@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoRecordingWatcher implementation
+// summary: Implements the VideoRecordingWatcher that monitors events ending a capture mode video recording, paints a dimming shield over the recorded area, and manages the mouse cursor overlay on captured video frames.
+// relations:
+//   - implements /ash/capture_mode/video_recording_watcher.h
+//   - depends_on /ash/accessibility/magnifier/docked_magnifier_controller.h
+//   - depends_on /ash/annotator/annotator_controller.h
+// ---
+
 #include "ash/capture_mode/video_recording_watcher.h"
 
 #include <memory>

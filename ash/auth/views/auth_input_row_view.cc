@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auth input row view implementation
+// summary: Implements the auth input row view for password and PIN entry, covering layout, submit button, caps lock and display password icons, and accessibility support.
+// relations:
+//   - implements /ash/auth/views/auth_input_row_view.h
+//   - depends_on /ash/auth/views/auth_textfield.h
+// ---
+
 #include "ash/auth/views/auth_input_row_view.h"
 
 #include "ash/accessibility/accessibility_controller.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BirchRanker unit tests
+// summary: Unit tests for BirchRanker verifying morning and evening detection and the ranking of calendar, attachment, tab, and other Birch items at fixed simulated times.
+// relations:
+//   - tests /ash/birch/birch_ranker.h
+//   - depends_on /ash/birch/birch_coral_item.h
+//   - depends_on /ash/birch/birch_item.h
+// ---
+
 #include "ash/birch/birch_ranker.h"
 
 #include <limits>

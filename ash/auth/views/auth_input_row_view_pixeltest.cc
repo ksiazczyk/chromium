@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Auth input row view pixel test
+// summary: Pixel test that verifies the visual appearance of the password input row view, including text entry, focus behavior, and dark mode rendering.
+// relations:
+//   - tests /ash/auth/views/auth_input_row_view.h
+//   - depends_on /ash/auth/views/test_support/mock_auth_input_row_view_observer.h
+//   - depends_on /ash/test/ash_test_base.h
+// ---
+
 #include <memory>
 #include <optional>
 #include <string_view>

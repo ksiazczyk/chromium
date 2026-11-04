@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserNudgeController class declaration
+// summary: Declares the controller that animates highlight rings and a toast to nudge users toward a highlighted capture mode view.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /base/memory/weak_ptr.h
+//   - depends_on /base/scoped_observation.h
+// ---
+
 #ifndef ASH_CAPTURE_MODE_USER_NUDGE_CONTROLLER_H_
 #define ASH_CAPTURE_MODE_USER_NUDGE_CONTROLLER_H_
 

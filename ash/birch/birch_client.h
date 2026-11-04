@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Birch client interface
+// summary: Interface to the birch keyed service, exposing data providers, removed item paths, favicon loading, and launcher removal.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/functional/callback.h
+//   - depends_on /ui/base/models/image_model.h
+// ---
+
 #ifndef ASH_BIRCH_BIRCH_CLIENT_H_
 #define ASH_BIRCH_BIRCH_CLIENT_H_
 

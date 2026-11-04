@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auth textfield timer header
+// summary: Declares the AuthTextfieldTimer class, which clears or hides auth textfield text after periods of inactivity.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/auth/views/auth_textfield.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_AUTH_VIEWS_AUTH_TEXTFIELD_TIMER_H_
 #define ASH_AUTH_VIEWS_AUTH_TEXTFIELD_TIMER_H_
 

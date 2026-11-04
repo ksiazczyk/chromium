@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BirchIconCache implementation
+// summary: Implements the Birch icon cache, mapping URL strings to downloaded icon images and returning a null image for misses.
+// relations:
+//   - implements /ash/birch/birch_icon_cache.h
+//   - depends_on /base/containers/flat_map.h
+//   - depends_on /ui/gfx/image/image_skia.h
+// ---
+
 #include "ash/birch/birch_icon_cache.h"
 
 #include <string>

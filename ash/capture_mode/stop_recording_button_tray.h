@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StopRecordingButtonTray class declaration
+// summary: Declares the status area tray that is shown while capture mode records video and stops the recording when tapped.
+// relations:
+//   - depends_on /ash/system/tray/imaged_tray_icon.h
+//   - depends_on /ui/base/metadata/metadata_header_macros.h
+// ---
+
 #ifndef ASH_CAPTURE_MODE_STOP_RECORDING_BUTTON_TRAY_H_
 #define ASH_CAPTURE_MODE_STOP_RECORDING_BUTTON_TRAY_H_
 

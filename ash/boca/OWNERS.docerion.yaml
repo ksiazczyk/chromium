@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the boca directory
+summary: Sets code ownership for the ash/boca directory by delegating to the Chrome OS boca component owners file.
+relations:
+  - references /chromeos/ash/components/boca/OWNERS

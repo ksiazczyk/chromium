@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera video frame renderer class declaration
+// summary: Declares CameraVideoFrameRenderer, which receives frames from the camera video device and renders them via compositor frames on a layer tree frame sink attached to its host window.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /base/memory/scoped_refptr.h
+//   - depends_on /cc/trees/layer_tree_frame_sink_client.h
+// ---
+
 #ifndef ASH_CAPTURE_MODE_CAMERA_VIDEO_FRAME_RENDERER_H_
 #define ASH_CAPTURE_MODE_CAMERA_VIDEO_FRAME_RENDERER_H_
 

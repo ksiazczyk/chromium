@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture mode session implementation
+// summary: Implements the active capture mode session, creating and owning the capture bar widget, dimming layers, event handling and related capture UI.
+// relations:
+//   - depends_on /ash/capture_mode/capture_mode_session.h
+//   - depends_on /ash/accessibility/accessibility_controller.h
+//   - depends_on /ash/accessibility/magnifier/magnifier_glass.h
+// ---
+
 #include "ash/capture_mode/capture_mode_session.h"
 
 #include <array>

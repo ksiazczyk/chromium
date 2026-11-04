@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the ash calendar directory
+summary: Defines the include rules that allow code in ash/calendar to depend on google_apis/calendar headers.

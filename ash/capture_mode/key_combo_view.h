@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key combo view header
+// summary: Declares KeyComboView, a view that arranges modifier and non-modifier key item widgets into a keyboard shortcut combo for capture mode demo tools.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/capture_mode/key_item_view.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_CAPTURE_MODE_KEY_COMBO_VIEW_H_
 #define ASH_CAPTURE_MODE_KEY_COMBO_VIEW_H_
 

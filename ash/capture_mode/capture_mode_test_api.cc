@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Capture mode test API implementation
+// summary: Implements CaptureModeTestApi, letting tests start capture sessions, set sources and regions, perform captures, and observe recording and file-save events.
+// relations:
+//   - implements /ash/public/cpp/capture_mode/capture_mode_test_api.h
+//   - depends_on /ash/annotator/annotator_controller.h
+//   - depends_on /ash/capture_mode/camera_video_frame_renderer.h
+// ---
+
 #include "ash/public/cpp/capture_mode/capture_mode_test_api.h"
 
 #include "ash/annotator/annotator_controller.h"

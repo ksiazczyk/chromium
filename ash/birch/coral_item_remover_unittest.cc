@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Coral item remover unit tests
+// summary: Unit tests verifying that CoralItemRemover filters removed tabs and apps out of entity lists as items are removed.
+// relations:
+//   - tests /ash/birch/coral_item_remover.h
+//   - depends_on /testing/gmock/include/gmock/gmock.h
+// ---
+
 #include "ash/birch/coral_item_remover.h"
 
 #include "testing/gmock/include/gmock/gmock.h"

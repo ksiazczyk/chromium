@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture mode controller implementation
+// summary: Implements the CaptureModeController that starts and ends capture mode sessions, enforces policy, DLP and HDCP checks, and handles saving, notifications and toasts.
+// relations:
+//   - implements /ash/capture_mode/capture_mode_controller.h
+//   - depends_on /ash/capture_mode/base_capture_mode_session.h
+//   - depends_on /ash/capture_mode/capture_mode_ash_notification_view.h
+// ---
+
 #include "ash/capture_mode/capture_mode_controller.h"
 
 #include <algorithm>

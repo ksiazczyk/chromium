@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fingerprint view header
+// summary: Declares FingerprintView, a view showing a fingerprint icon and label that adapts to fingerprint state, PIN presence and auth results, with a TestApi.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/login/ui/animated_rounded_image_view.h
+//   - depends_on /ash/public/cpp/login_types.h
+// ---
+
 #ifndef ASH_AUTH_VIEWS_FINGERPRINT_VIEW_H_
 #define ASH_AUTH_VIEWS_FINGERPRINT_VIEW_H_
 

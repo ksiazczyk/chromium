@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ParentAccessControllerImpl class declaration
+// summary: Declares the ParentAccessControllerImpl class with UMA enums and histogram names for parent access PIN requests, validation results, and usage contexts.
+// relations:
+//   - depends_on /ash/login/ui/pin_request_view.h
+//   - depends_on /ash/login/ui/pin_request_widget.h
+//   - depends_on /ash/public/cpp/child_accounts/parent_access_controller.h
+// ---
+
 #ifndef ASH_CHILD_ACCOUNTS_PARENT_ACCESS_CONTROLLER_IMPL_H_
 #define ASH_CHILD_ACCOUNTS_PARENT_ACCESS_CONTROLLER_IMPL_H_
 

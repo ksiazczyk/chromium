@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BirchRanker class declaration
+// summary: Declares BirchRanker, which computes time-of-day-dependent rankings for each Birch item type, with the current time injected as a constructor parameter for testing.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/birch/birch_item.h
+//   - depends_on /base/time/time.h
+// ---
+
 #ifndef ASH_BIRCH_BIRCH_RANKER_H_
 #define ASH_BIRCH_BIRCH_RANKER_H_
 

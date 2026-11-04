@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture mode observer interface
+// summary: Interface for observing capture mode changes, notifying about recording start and end, video file finalization, recorded window display changes and aborted recordings.
+// relations:
+//   - depends_on /base/observer_list_types.h
+// ---
+
 #ifndef ASH_CAPTURE_MODE_CAPTURE_MODE_OBSERVER_H_
 #define ASH_CAPTURE_MODE_CAPTURE_MODE_OBSERVER_H_
 

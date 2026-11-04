@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Booting animation controller implementation
+// summary: Implements the controller that loads the splash animation data, shows a fullscreen translucent widget on the primary display, and plays the booting animation once GPU and display are ready.
+// relations:
+//   - depends_on /ash/booting/booting_animation_controller.h
+//   - depends_on /ash/booting/booting_animation_view.h
+//   - depends_on /ash/constants/ash_features.h
+// ---
+
 #include "ash/booting/booting_animation_controller.h"
 
 #include <memory>

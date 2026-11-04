@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PIN container view implementation
+// summary: Implements PinContainerView, which combines the PIN input row and PIN keyboard and bridges their interactions.
+// relations:
+//   - implements /ash/auth/views/pin_container_view.h
+//   - depends_on /ash/auth/views/auth_input_row_view.h
+//   - depends_on /ash/auth/views/pin_keyboard_input_bridge.h
+// ---
+
 #include "ash/auth/views/pin_container_view.h"
 
 #include <memory>

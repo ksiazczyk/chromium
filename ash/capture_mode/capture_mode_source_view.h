@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture mode source view header
+// summary: Declares CaptureModeSourceView, the capture bar view for switching between the fullscreen, region, and window capture sources.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/capture_mode/capture_mode_types.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_CAPTURE_MODE_CAPTURE_MODE_SOURCE_VIEW_H_
 #define ASH_CAPTURE_MODE_CAPTURE_MODE_SOURCE_VIEW_H_
 

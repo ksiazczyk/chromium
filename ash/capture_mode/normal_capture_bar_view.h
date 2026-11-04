@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NormalCaptureBarView header for the standard capture mode bar
+// summary: Declares NormalCaptureBarView, the content view of the capture mode bar widget for normal sessions, with capture type, source, and settings buttons.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/capture_mode/capture_mode_bar_view.h
+//   - depends_on /ash/capture_mode/capture_mode_types.h
+// ---
+
 #ifndef ASH_CAPTURE_MODE_NORMAL_CAPTURE_BAR_VIEW_H_
 #define ASH_CAPTURE_MODE_NORMAL_CAPTURE_BAR_VIEW_H_
 

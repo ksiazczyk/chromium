@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ParentAccessControllerImpl implementation
+// summary: Implements the Ash parent access controller that shows the parent access PIN dialog for supervised actions and records validation results to UMA histograms.
+// relations:
+//   - depends_on /ash/child_accounts/parent_access_controller_impl.h
+//   - depends_on /ash/login/login_screen_controller.h
+//   - depends_on /ash/session/session_controller_impl.h
+// ---
+
 #include "ash/child_accounts/parent_access_controller_impl.h"
 
 #include <string>

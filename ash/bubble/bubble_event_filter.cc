@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bubble event filter implementation
+// summary: Implements BubbleEventFilter, running the outside-click callback for mouse and touch presses that fall outside the bubble widget and its spawning button.
+// relations:
+//   - implements /ash/bubble/bubble_event_filter.h
+//   - depends_on /ash/bubble/bubble_utils.h
+//   - depends_on /ash/shelf/shelf.h
+// ---
+
 #include "ash/bubble/bubble_event_filter.h"
 
 #include "ash/bubble/bubble_utils.h"

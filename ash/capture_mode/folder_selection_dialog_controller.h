@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Folder selection dialog controller header
+// summary: Declares the FolderSelectionDialogController class that creates, shows and controls capture mode's folder selection dialog and reports selections and window changes to its delegate.
+// relations:
+//   - depends_on /ash/wm/window_dimmer.h
+//   - depends_on /base/files/file_path.h
+//   - depends_on /base/functional/callback_forward.h
+// ---
+
 #ifndef ASH_CAPTURE_MODE_FOLDER_SELECTION_DIALOG_CONTROLLER_H_
 #define ASH_CAPTURE_MODE_FOLDER_SELECTION_DIALOG_CONTROLLER_H_
 

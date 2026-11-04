@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spotlight notification bubble controller implementation
+// summary: Implements the controller that creates, shows, hides and repositions the Spotlight notification bubble widget, flipping its screen side when the mouse enters it.
+// relations:
+//   - implements /ash/boca/spotlight/spotlight_notification_bubble_controller.h
+//   - depends_on /ash/boca/spotlight/spotlight_notification_bubble_controller.h
+//   - depends_on /ash/boca/spotlight/spotlight_notification_bubble_view.h
+// ---
+
 #include "ash/boca/spotlight/spotlight_notification_bubble_controller.h"
 
 #include <memory>

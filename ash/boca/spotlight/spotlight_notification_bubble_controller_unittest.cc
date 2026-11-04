@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spotlight notification bubble controller unit tests
+// summary: Unit tests covering showing, hiding, closing on session end, initial bottom-right placement and mouse-driven repositioning of the notification bubble controller.
+// relations:
+//   - tests /ash/boca/spotlight/spotlight_notification_bubble_controller.h
+//   - depends_on /ash/boca/spotlight/spotlight_notification_bubble_controller.h
+//   - depends_on /ash/test/ash_test_base.h
+// ---
+
 #include "ash/boca/spotlight/spotlight_notification_bubble_controller.h"
 
 #include <memory>

@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for the ash/auth directory
+summary: Designates code owners for the ash/auth directory by referencing the shared login lock owners list.
+relations:
+  - references /ash/login/LOGIN_LOCK_OWNERS

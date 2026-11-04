@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Removed items storage proto
+// summary: Protocol buffer defining the persistent storage format for removed Birch items, covering hashed tab URLs, calendar event IDs, and file IDs.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BirchDataProvider implementation
+// summary: Implements the BirchDataProvider base class, managing the callback used to notify listeners of data provider changes.
+// relations:
+//   - implements /ash/birch/birch_data_provider.h
+// ---
+
 #include "ash/birch/birch_data_provider.h"
 
 namespace ash {

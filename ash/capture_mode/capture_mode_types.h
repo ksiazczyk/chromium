@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture mode shared type definitions
+// summary: Defines enums used across capture mode, including capture type and source, camera preview snap positions, recording formats, audio modes, behavior types, and action button ranks.
+// ---
+
 #ifndef ASH_CAPTURE_MODE_CAPTURE_MODE_TYPES_H_
 #define ASH_CAPTURE_MODE_CAPTURE_MODE_TYPES_H_
 

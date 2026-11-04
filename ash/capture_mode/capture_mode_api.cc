@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture mode API implementation
+// summary: Implements capture mode API entry points such as capturing screenshots of all displays and gating Sunfish and scanner UI by feature flags, session state, user type, and policy checks.
+// relations:
+//   - implements /ash/public/cpp/capture_mode/capture_mode_api.h
+//   - depends_on /ash/capture_mode/capture_mode_controller.h
+//   - depends_on /ash/constants/ash_features.h
+// ---
+
 #include "ash/public/cpp/capture_mode/capture_mode_api.h"
 
 #include "ash/capture_mode/capture_mode_controller.h"

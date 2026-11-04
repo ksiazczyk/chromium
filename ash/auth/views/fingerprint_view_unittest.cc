@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fingerprint view unit tests
+// summary: Unit tests verifying FingerprintView state transitions after failed attempts, touch sensor warnings and timed resets using mock time.
+// relations:
+//   - tests /ash/auth/views/fingerprint_view.h
+//   - depends_on /ash/public/cpp/login_types.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/auth/views/fingerprint_view.h"
 
 #include <memory>

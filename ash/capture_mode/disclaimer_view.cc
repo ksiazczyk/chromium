@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisclaimerView implementation
+// summary: Implements the consent disclaimer dialog for the Scanner and Sunfish features, showing an image, disclaimer text and accept/decline buttons, with a reminder variant that omits decline.
+// relations:
+//   - depends_on /ash/capture_mode/disclaimer_view.h
+//   - depends_on /ash/public/cpp/shell_window_ids.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/capture_mode/disclaimer_view.h"
 
 #include <cstddef>

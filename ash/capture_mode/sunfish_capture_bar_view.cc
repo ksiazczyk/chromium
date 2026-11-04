@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SunfishCaptureBarView implementation
+// summary: Implements the capture mode bar content view for Sunfish capture sessions, which adds only a close button.
+// relations:
+//   - implements /ash/capture_mode/sunfish_capture_bar_view.h
+// ---
+
 #include "ash/capture_mode/sunfish_capture_bar_view.h"
 
 #include "ash/strings/grit/ash_strings.h"

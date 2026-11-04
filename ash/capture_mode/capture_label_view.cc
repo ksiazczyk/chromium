@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture label view implementation
+// summary: Implements the capture label view, including the three-second countdown animation with counter fade and scale effects and the drop-to-stop-recording button animation for video capture.
+// relations:
+//   - implements /ash/capture_mode/capture_label_view.h
+//   - depends_on /ash/capture_mode/capture_button_view.h
+//   - depends_on /ash/capture_mode/capture_mode_controller.h
+// ---
+
 #include "ash/capture_mode/capture_label_view.h"
 
 #include "ash/capture_mode/capture_button_view.h"

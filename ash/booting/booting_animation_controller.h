@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Booting animation controller header
+// summary: Declares the BootingAnimationController class, which observes display configuration and lottie animation cycles to manage the booting splash widget and its end callback.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/display/manager/display_configurator.h
+//   - depends_on /ui/lottie/animation_observer.h
+// ---
+
 #ifndef ASH_BOOTING_BOOTING_ANIMATION_CONTROLLER_H_
 #define ASH_BOOTING_BOOTING_ANIMATION_CONTROLLER_H_
 

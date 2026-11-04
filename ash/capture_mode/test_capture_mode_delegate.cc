@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestCaptureModeDelegate implementation
+// summary: Implements a test double for CaptureModeDelegate with fake file directories, recording service access, and configurable DLP and policy allowances.
+// relations:
+//   - implements /ash/capture_mode/test_capture_mode_delegate.h
+//   - depends_on /ash/capture_mode/capture_mode_metrics.h
+//   - depends_on /ash/capture_mode/fake_video_source_provider.h
+// ---
+
 #include "ash/capture_mode/test_capture_mode_delegate.h"
 
 #include <utility>

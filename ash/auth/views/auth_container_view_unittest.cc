@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AuthContainerView unit tests
+// summary: Unit tests for the auth container covering switching between password and PIN, submissions, input enabling, and observer events.
+// relations:
+//   - tests /ash/auth/views/auth_container_view.h
+//   - depends_on /ash/auth/views/auth_input_row_view.h
+//   - depends_on /ash/auth/views/fingerprint_view.h
+// ---
+
 #include "ash/auth/views/auth_container_view.h"
 
 #include <memory>

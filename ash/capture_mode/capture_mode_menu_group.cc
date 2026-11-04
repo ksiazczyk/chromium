@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture mode settings menu group implementation
+// summary: Implements grouped views for the capture mode settings menu, including headers with icons, selectable options, and menu items.
+// relations:
+//   - implements /ash/capture_mode/capture_mode_menu_group.h
+//   - depends_on /ash/capture_mode/capture_mode_constants.h
+//   - depends_on /ash/capture_mode/capture_mode_util.h
+// ---
+
 #include "ash/capture_mode/capture_mode_menu_group.h"
 
 #include <algorithm>

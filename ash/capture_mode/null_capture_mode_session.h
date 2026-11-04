@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NullCaptureModeSession header
+// summary: Declares NullCaptureModeSession, a null-object session that skips the countdown and user input and performs no capture bar operations.
+// relations:
+//   - depends_on /ash/capture_mode/base_capture_mode_session.h
+//   - depends_on /ui/aura/window_tracker.h
+// ---
+
 #ifndef ASH_CAPTURE_MODE_NULL_CAPTURE_MODE_SESSION_H_
 #define ASH_CAPTURE_MODE_NULL_CAPTURE_MODE_SESSION_H_
 

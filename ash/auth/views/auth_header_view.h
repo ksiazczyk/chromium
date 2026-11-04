@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthHeaderView class declaration
+// summary: Declares the auth header view with avatar, title, and description labels, error title handling, and title change observers.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/login/ui/animated_rounded_image_view.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_AUTH_VIEWS_AUTH_HEADER_VIEW_H_
 #define ASH_AUTH_VIEWS_AUTH_HEADER_VIEW_H_
 

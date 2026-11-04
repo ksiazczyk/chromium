@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fingerprint view implementation
+// summary: Implements the fingerprint icon and label view with state animations, success and failure feedback, and accessibility support for Ash login.
+// relations:
+//   - implements /ash/auth/views/fingerprint_view.h
+//   - depends_on /ash/auth/views/auth_common.h
+//   - depends_on /ash/login/ui/animated_rounded_image_view.h
+// ---
+
 #include "ash/auth/views/fingerprint_view.h"
 
 #include <memory>

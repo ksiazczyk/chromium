@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture mode education controller implementation
+// summary: Implements the education controller that shows a system nudge about the screenshot shortcut, limited to three shows and at most once per 24 hours.
+// relations:
+//   - implements /ash/capture_mode/capture_mode_education_controller.h
+//   - depends_on /ash/constants/ash_pref_names.h
+//   - depends_on /ash/constants/notifier_catalogs.h
+// ---
+
 #include "ash/capture_mode/capture_mode_education_controller.h"
 
 #include "ash/constants/ash_pref_names.h"

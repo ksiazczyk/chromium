@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Coral utility functions implementation
+// summary: Implements Coral helpers for entity identifiers, desk-move eligibility, splitting content into tabs and apps, debug serialization, and policy checks.
+// relations:
+//   - implements /ash/birch/coral_util.h
+//   - depends_on /ash/constants/ash_pref_names.h
+//   - depends_on /ash/multi_user/multi_user_window_manager.h
+// ---
+
 #include "ash/birch/coral_util.h"
 
 #include <utility>

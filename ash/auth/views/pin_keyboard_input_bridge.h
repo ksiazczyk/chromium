@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PIN keyboard input bridge class declaration
+// summary: Declares a bridge class that listens to pin keyboard key presses and forwards them to the auth input row view.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/auth/views/auth_input_row_view.h
+//   - depends_on /ash/auth/views/pin_keyboard_view.h
+// ---
+
 #ifndef ASH_AUTH_VIEWS_PIN_KEYBOARD_INPUT_BRIDGE_H_
 #define ASH_AUTH_VIEWS_PIN_KEYBOARD_INPUT_BRIDGE_H_
 

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BirchModel unit tests
+// summary: Unit tests for BirchModel covering data fetches, item setting, pref handling, and removal across calendar, tab, file, weather, and coral data types.
+// relations:
+//   - tests /ash/birch/birch_model.h
+// ---
+
 #include "ash/birch/birch_model.h"
 
 #include <algorithm>

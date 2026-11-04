@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Game capture bar view implementation
+// summary: Implements the content view of the capture mode bar for game capture sessions, providing a start recording button along with settings and close buttons.
+// relations:
+//   - implements /ash/capture_mode/game_capture_bar_view.h
+//   - depends_on /ash/capture_mode/capture_mode_controller.h
+//   - depends_on /ash/capture_mode/capture_mode_session_focus_cycler.h
+// ---
+
 #include "ash/capture_mode/game_capture_bar_view.h"
 
 #include "ash/capture_mode/capture_mode_controller.h"

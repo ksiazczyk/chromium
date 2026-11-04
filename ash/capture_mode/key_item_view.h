@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Key item view header
+// summary: Declares KeyItemView, a view that renders a single modifier or keyboard key as a rounded UI component containing an icon or text label.
+// relations:
+//   - depends_on /ash/style/system_shadow.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/gfx/vector_icon_types.h
+// ---
+
 #ifndef ASH_CAPTURE_MODE_KEY_ITEM_VIEW_H_
 #define ASH_CAPTURE_MODE_KEY_ITEM_VIEW_H_
 

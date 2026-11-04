@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisclaimerView header
+// summary: Declares the consent disclaimer view for the Scanner and Sunfish features, including view IDs for UI testing and a helper to create its widget.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/wm/system_panel_view.h
+//   - depends_on /base/functional/callback_forward.h
+// ---
+
 #ifndef ASH_CAPTURE_MODE_DISCLAIMER_VIEW_H_
 #define ASH_CAPTURE_MODE_DISCLAIMER_VIEW_H_
 

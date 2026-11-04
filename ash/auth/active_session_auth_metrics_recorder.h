@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Active session auth metrics recorder header
+// summary: Declares the metrics recorder class that tracks active session auth dialog events, attempt counters and success state for UMA reporting.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/auth/views/auth_common.h
+//   - depends_on /ash/public/cpp/auth/active_session_auth_controller.h
+// ---
+
 #ifndef ASH_AUTH_ACTIVE_SESSION_AUTH_METRICS_RECORDER_H_
 #define ASH_AUTH_ACTIVE_SESSION_AUTH_METRICS_RECORDER_H_
 

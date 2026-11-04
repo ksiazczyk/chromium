@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture button view class declaration
+// summary: Declares CaptureButtonView, which hosts the capture button and an optional drop-down button for choosing the video recording format, exposing highlightable items for keyboard navigation.
+// relations:
+//   - depends_on /ash/capture_mode/capture_mode_session_focus_cycler.h
+//   - depends_on /base/functional/callback_forward.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_CAPTURE_MODE_CAPTURE_BUTTON_VIEW_H_
 #define ASH_CAPTURE_MODE_CAPTURE_BUTTON_VIEW_H_
 

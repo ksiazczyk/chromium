@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Coral item remover class declaration
+// summary: Declares CoralItemRemover, which tracks user-removed Coral items for the current session and filters them from entity lists.
+// relations:
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_BIRCH_CORAL_ITEM_REMOVER_H_
 #define ASH_BIRCH_CORAL_ITEM_REMOVER_H_
 

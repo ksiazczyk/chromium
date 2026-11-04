@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test Birch client implementation
+// summary: Implements a fake Birch client and templated test data providers that return preset calendar, tab, file, and other items to the Birch model during tests.
+// relations:
+//   - implements /ash/birch/test_birch_client.h
+//   - depends_on /ash/birch/birch_item.h
+//   - depends_on /ash/birch/birch_model.h
+// ---
+
 #include "ash/birch/test_birch_client.h"
 
 #include "ash/birch/birch_item.h"

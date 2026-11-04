@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sunfish capture mode unit tests
+// summary: Unit tests covering Sunfish capture mode behavior, including the capture bar, scanner integration, policies, and session interactions.
+// relations:
+//   - depends_on /ash/accelerators/accelerator_controller_impl.h
+//   - depends_on /ash/app_list/app_list_bubble_presenter.h
+//   - depends_on /ash/app_list/app_list_controller_impl.h
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

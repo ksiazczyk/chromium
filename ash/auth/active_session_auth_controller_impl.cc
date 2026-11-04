@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Active session auth controller implementation
+// summary: Implements the controller that shows and manages the in-session authentication dialog, handling password and PIN verification through cryptohome.
+// relations:
+//   - implements /ash/auth/active_session_auth_controller_impl.h
+//   - depends_on /ash/auth/views/active_session_auth_view.h
+//   - depends_on /ash/auth/views/auth_common.h
+// ---
+
 #include "ash/auth/active_session_auth_controller_impl.h"
 
 #include <memory>

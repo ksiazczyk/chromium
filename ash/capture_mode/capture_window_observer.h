@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CaptureWindowObserver header
+// summary: Declares the capture mode class that observes the selected to-be-captured window, tracking bounds, activation, visibility and desk changes to keep the capture region and bar up to date.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/wm/desks/desks_controller.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_CAPTURE_MODE_CAPTURE_WINDOW_OBSERVER_H_
 #define ASH_CAPTURE_MODE_CAPTURE_WINDOW_OBSERVER_H_
 

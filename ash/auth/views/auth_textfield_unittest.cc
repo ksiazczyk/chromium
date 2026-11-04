@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AuthTextfield unit tests
+// summary: Unit tests for the Ash auth textfield covering focus, blur, content change, visibility, submit and escape observer behavior for password and PIN input.
+// relations:
+//   - tests /ash/auth/views/auth_textfield.h
+//   - depends_on /ash/auth/views/test_support/mock_auth_textfield_observer.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/auth/views/auth_textfield.h"
 
 #include <memory>

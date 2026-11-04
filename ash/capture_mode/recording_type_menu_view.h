@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecordingTypeMenuView header
+// summary: Declares RecordingTypeMenuView, the contents view of the recording type menu widget for picking the desired recording format.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/capture_mode/capture_mode_menu_group.h
+//   - depends_on /base/functional/callback_forward.h
+// ---
+
 #ifndef ASH_CAPTURE_MODE_RECORDING_TYPE_MENU_VIEW_H_
 #define ASH_CAPTURE_MODE_RECORDING_TYPE_MENU_VIEW_H_
 

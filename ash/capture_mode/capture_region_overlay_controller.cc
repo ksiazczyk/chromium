@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture region overlay controller implementation
+// summary: Implements painting of the capture region overlay, including detected text regions, translated text, and a pulsing glow animation while processing.
+// relations:
+//   - implements /ash/capture_mode/capture_region_overlay_controller.h
+//   - depends_on /ash/capture_mode/capture_mode_constants.h
+//   - depends_on /ash/constants/ash_features.h
+// ---
+
 #include "ash/capture_mode/capture_region_overlay_controller.h"
 
 #include <optional>

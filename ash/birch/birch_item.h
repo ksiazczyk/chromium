@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BirchItem class declarations
+// summary: Declares the BirchItem base class plus item type, primary and secondary icon, and chip add-on enums used by Birch suggestion items.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/files/file_path.h
+//   - depends_on /base/functional/callback_forward.h
+// ---
+
 #ifndef ASH_BIRCH_BIRCH_ITEM_H_
 #define ASH_BIRCH_BIRCH_ITEM_H_
 

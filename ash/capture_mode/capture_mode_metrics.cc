@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture mode metrics recording
+// summary: Records UMA histograms for capture mode usage, including entry points, recording durations, camera events, save locations, and education nudge actions.
+// relations:
+//   - implements /ash/capture_mode/capture_mode_metrics.h
+//   - depends_on /ash/capture_mode/capture_mode_behavior.h
+//   - depends_on /ash/capture_mode/capture_mode_types.h
+// ---
+
 #include "ash/capture_mode/capture_mode_metrics.h"
 
 #include "ash/capture_mode/capture_mode_behavior.h"

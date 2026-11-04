@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PIN container view unit tests
+// summary: Unit tests verifying PIN keyboard typing into the input row, backspace, submit and disabled input behavior in PinContainerView.
+// relations:
+//   - tests /ash/auth/views/pin_container_view.h
+//   - depends_on /ash/auth/views/test_support/mock_auth_input_row_view_observer.h
+//   - depends_on /ash/test/ash_test_base.h
+// ---
+
 #include "ash/auth/views/pin_container_view.h"
 
 #include <memory>

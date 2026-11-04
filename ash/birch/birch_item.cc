@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BirchItem implementation
+// summary: Implements Birch item classes, including icon downloading with cache lookup, backup icons, and network traffic annotations for suggestion chips.
+// relations:
+//   - implements /ash/birch/birch_item.h
+//   - depends_on /ash/birch/birch_icon_cache.h
+//   - depends_on /ash/birch/birch_model.h
+// ---
+
 #include "ash/birch/birch_item.h"
 
 #include <limits>

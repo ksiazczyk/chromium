@@ -1,3 +1,9 @@
+---
+type: readme
+title: //ash/bubble
+summary: Explains that bubbles are rounded-corner widgets shown over workspace content and that this directory holds shared bubble code, while individual bubbles live elsewhere.
+---
+
 # //ash/bubble
 
 Bubbles are widgets with rounded corners. They appear over the main workspace

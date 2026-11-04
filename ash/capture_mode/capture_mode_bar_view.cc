@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture mode bar view implementation
+// summary: Implements the capture mode bar view, including its shadow, background, layout, and the settings and close buttons shared by capture bar variants.
+// relations:
+//   - implements /ash/capture_mode/capture_mode_bar_view.h
+//   - depends_on /ash/capture_mode/capture_mode_constants.h
+//   - depends_on /ash/capture_mode/capture_mode_util.h
+// ---
+
 #include "ash/capture_mode/capture_mode_bar_view.h"
 
 #include <memory>

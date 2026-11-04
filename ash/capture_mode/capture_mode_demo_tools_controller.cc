@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture mode demo tools controller implementation
+// summary: Implements the demo tools controller that shows mouse, touch and key combination highlights during video recording when the user enables them.
+// relations:
+//   - implements /ash/capture_mode/capture_mode_demo_tools_controller.h
+//   - depends_on /ash/accessibility/accessibility_controller.h
+//   - depends_on /ash/capture_mode/capture_mode_constants.h
+// ---
+
 #include "ash/capture_mode/capture_mode_demo_tools_controller.h"
 
 #include <algorithm>

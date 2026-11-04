@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Action button view unit tests
+// summary: Unit tests checking default icon and label visibility, collapse to icon-only, and shadow bounds alignment.
+// relations:
+//   - tests /ash/capture_mode/action_button_view.h
+//   - depends_on /ash/style/system_shadow.h
+//   - depends_on /testing/gtest/include/gtest/gtest.h
+// ---
+
 #include "ash/capture_mode/action_button_view.h"
 
 #include <string>

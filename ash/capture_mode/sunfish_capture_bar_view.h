@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SunfishCaptureBarView class declaration
+// summary: Declares the capture bar view used as the widget content for Sunfish capture sessions, containing only a close button.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/capture_mode/capture_mode_bar_view.h
+//   - depends_on /ui/base/metadata/metadata_impl_macros.h
+// ---
+
 #ifndef ASH_CAPTURE_MODE_SUNFISH_CAPTURE_BAR_VIEW_H_
 #define ASH_CAPTURE_MODE_SUNFISH_CAPTURE_BAR_VIEW_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Capture region overlay controller unit tests
+// summary: Unit tests verifying that detected text regions and the glow animation are painted correctly on the capture region overlay canvas.
+// relations:
+//   - tests /ash/capture_mode/capture_region_overlay_controller.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/scanner/scanner_text.h
+// ---
+
 #include "ash/capture_mode/capture_region_overlay_controller.h"
 
 #include <memory>

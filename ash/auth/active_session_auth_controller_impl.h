@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Active session auth controller header
+// summary: Declares the ActiveSessionAuthControllerImpl class and its test API for showing the in-session auth dialog and dispatching password, PIN and fingerprint requests.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/auth/active_session_auth_metrics_recorder.h
+//   - depends_on /ash/auth/views/active_session_auth_view.h
+// ---
+
 #ifndef ASH_AUTH_ACTIVE_SESSION_AUTH_CONTROLLER_IMPL_H_
 #define ASH_AUTH_ACTIVE_SESSION_AUTH_CONTROLLER_IMPL_H_
 

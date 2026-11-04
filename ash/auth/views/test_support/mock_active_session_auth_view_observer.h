@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockActiveSessionAuthViewObserver
+// summary: GMock implementation of ActiveSessionAuthView::Observer that records password submissions, PIN submissions, and close events for tests.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - implements /ash/auth/views/active_session_auth_view.h
+//   - depends_on /testing/gmock/include/gmock/gmock.h
+// ---
+
 #ifndef ASH_AUTH_VIEWS_TEST_SUPPORT_MOCK_ACTIVE_SESSION_AUTH_VIEW_OBSERVER_H_
 #define ASH_AUTH_VIEWS_TEST_SUPPORT_MOCK_ACTIVE_SESSION_AUTH_VIEW_OBSERVER_H_
 

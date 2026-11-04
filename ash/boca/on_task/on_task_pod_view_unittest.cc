@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnTask pod view unit tests
+// summary: Tests OnTaskPodView behavior with a mocked controller, covering layout orientation, navigation button clicks, and button enablement states.
+// relations:
+//   - tests /ash/boca/on_task/on_task_pod_view.h
+//   - depends_on /ash/boca/on_task/on_task_pod_controller.h
+//   - depends_on /ash/test/ash_test_base.h
+// ---
+
 #include "ash/boca/on_task/on_task_pod_view.h"
 
 #include <memory>

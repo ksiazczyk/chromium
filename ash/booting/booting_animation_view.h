@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Booting animation view header
+// summary: Declares the BootingAnimationView class that hosts the animated image view used to display the booting splash animation.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/lottie/animation.h
+//   - depends_on /ui/views/controls/animated_image_view.h
+// ---
+
 #ifndef ASH_BOOTING_BOOTING_ANIMATION_VIEW_H_
 #define ASH_BOOTING_BOOTING_ANIMATION_VIEW_H_
 

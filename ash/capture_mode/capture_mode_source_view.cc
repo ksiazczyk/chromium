@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture mode source view implementation
+// summary: Implements the capture bar's source view that lets users toggle between fullscreen, region, and window capture sources with tooltips per capture type.
+// relations:
+//   - implements /ash/capture_mode/capture_mode_source_view.h
+//   - depends_on /ash/capture_mode/capture_mode_constants.h
+//   - depends_on /ash/capture_mode/capture_mode_controller.h
+// ---
+
 #include "ash/capture_mode/capture_mode_source_view.h"
 
 #include <memory>

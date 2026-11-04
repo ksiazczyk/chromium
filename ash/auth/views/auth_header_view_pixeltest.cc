@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Auth header view pixel test
+// summary: Pixel test that verifies the rendering of the auth header view in day mode, including error title display and title restoration.
+// relations:
+//   - tests /ash/auth/views/auth_header_view.h
+//   - depends_on /ash/test/ash_test_base.h
+//   - depends_on /ash/test/pixel/ash_pixel_differ.h
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

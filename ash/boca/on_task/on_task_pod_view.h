@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnTask pod view header
+// summary: Declares the OnTaskPodView box layout view hosting the OnTask pod shortcut buttons, its layout constants, and test accessors for its buttons.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/style/icon_button.h
+//   - depends_on /ash/style/system_shadow.h
+// ---
+
 #ifndef ASH_BOCA_ON_TASK_ON_TASK_POD_VIEW_H_
 #define ASH_BOCA_ON_TASK_ON_TASK_POD_VIEW_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture mode toast controller header
+// summary: Declares CaptureModeToastController, which manages the toast widget shown conditionally during a capture mode session, including its types and dismissal timer.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /base/timer/timer.h
+//   - depends_on /ui/views/widget/unique_widget_ptr.h
+// ---
+
 #ifndef ASH_CAPTURE_MODE_CAPTURE_MODE_TOAST_CONTROLLER_H_
 #define ASH_CAPTURE_MODE_CAPTURE_MODE_TOAST_CONTROLLER_H_
 

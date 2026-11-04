@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: Birch directory code owners
+summary: Lists code owners for the Birch directory, with coral files owned via the coral OWNERS file.
+relations:
+  - references /ash/wm/coral/OWNERS
