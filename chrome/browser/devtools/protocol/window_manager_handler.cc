@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowManager DevTools protocol handler implementation
+// summary: Implements the DevTools WindowManager domain for ChromeOS, entering and exiting Ash overview mode on request.
+// ---
+
 #include "chrome/browser/devtools/protocol/window_manager_handler.h"
 
 #include "ash/shell.h"

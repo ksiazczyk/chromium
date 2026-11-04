@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PWA DevTools protocol browser tests
+// summary: Browser tests exercising DevTools protocol commands for web apps (PWAs), including installation, app id, and related app behaviors.
+// ---
+
 #include <climits>
 #include <initializer_list>
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemInfo handler implementation
+// summary: Implements the DevTools SystemInfo domain, reporting whether the DIPS/BTM feature is enabled for GetFeatureState.
+// ---
+
 #include "chrome/browser/devtools/protocol/system_info_handler.h"
 
 #include "content/public/browser/browser_thread.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools connection dialog implementation
+// summary: Implements a modal dialog that asks the user to allow or deny an incoming DevTools debugging connection, with an extra action opening the remote debugging settings page.
+// ---
+
 #include "chrome/browser/devtools/devtools_connection_dialog.h"
 
 #include "base/functional/bind.h"

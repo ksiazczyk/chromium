@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Global confirm info bar browser tests
+// summary: Browser tests verifying that GlobalConfirmInfoBar appears on every open tab and closes when the info bar on one tab is accepted.
+// ---
+
 #include "chrome/browser/devtools/global_confirm_info_bar.h"
 
 #include <utility>

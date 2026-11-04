@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools file storage header
+// summary: Declares DevToolsFileStorage, a DevToolsFileHelper::Storage implementation backed by the storage isolated context for a given WebContents.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_DEVTOOLS_FILE_STORAGE_H_
 #define CHROME_BROWSER_DEVTOOLS_DEVTOOLS_FILE_STORAGE_H_
 

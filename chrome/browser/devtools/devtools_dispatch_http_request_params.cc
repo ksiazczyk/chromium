@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools HTTP request dispatch parameters implementation
+// summary: Implements parsing of HTTP request dispatch parameters such as service, path, method, body, query parameters and stream id from a dictionary.
+// ---
+
 #include "chrome/browser/devtools/devtools_dispatch_http_request_params.h"
 
 DevToolsDispatchHttpRequestParams::DevToolsDispatchHttpRequestParams() =

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools auto opener implementation
+// summary: Implements DevToolsAutoOpener, a tab strip observer that automatically opens a DevTools window for each newly inserted tab that is not already a DevTools window.
+// ---
+
 #include "chrome/browser/devtools/devtools_auto_opener.h"
 
 #include "base/command_line.h"

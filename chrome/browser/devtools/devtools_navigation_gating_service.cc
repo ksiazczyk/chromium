@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools navigation gating service implementation
+// summary: Implements the per-profile KeyedService that registers an origin gating checker to decide whether DevTools-controlled navigations are allowed.
+// ---
+
 #include "chrome/browser/devtools/devtools_navigation_gating_service.h"
 
 #include <utility>

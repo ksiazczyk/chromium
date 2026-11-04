@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools navigation gating service factory implementation
+// summary: Defines the ProfileKeyedServiceFactory that builds DevToolsNavigationGatingService instances per browser context, depending on the origin gating service.
+// ---
+
 #include "chrome/browser/devtools/devtools_navigation_gating_service_factory.h"
 
 #include "base/types/pass_key.h"

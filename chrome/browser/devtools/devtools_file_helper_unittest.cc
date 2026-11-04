@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools file helper unit tests
+// summary: Unit tests for DevToolsFileHelper covering suggested save paths, file system registration and removal, and delegate notifications using mock delegate and storage objects.
+// ---
+
 #include "chrome/browser/devtools/devtools_file_helper.h"
 
 #include <vector>

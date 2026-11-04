@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote debugging server implementation
+// summary: Implements the remote debugging server that starts HTTP or pipe debugging endpoints based on command-line switches, preferences and enterprise policy.
+// ---
+
 #include "chrome/browser/devtools/remote_debugging_server.h"
 
 #include <memory>

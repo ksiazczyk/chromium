@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools protocol test support header
+// summary: Declares DevToolsProtocolTestBase, a browser test base class combining PlatformBrowserTest with a DevTools protocol test client.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_PROTOCOL_DEVTOOLS_PROTOCOL_TEST_SUPPORT_H_
 #define CHROME_BROWSER_DEVTOOLS_PROTOCOL_DEVTOOLS_PROTOCOL_TEST_SUPPORT_H_
 

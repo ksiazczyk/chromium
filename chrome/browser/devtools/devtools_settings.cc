@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools settings implementation
+// summary: Implements DevTools settings storage in profile preferences, moving settings between synced and unsynced dictionaries.
+// ---
+
 #include "chrome/browser/devtools/devtools_settings.h"
 
 #include "base/strings/to_string.h"

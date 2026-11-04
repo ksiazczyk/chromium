@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TCP device provider implementation
+// summary: Implements a device provider that resolves hosts and opens TCP sockets to reach remote debugging targets such as localhost ports.
+// ---
+
 #include "chrome/browser/devtools/device/tcp_device_provider.h"
 
 #include <algorithm>

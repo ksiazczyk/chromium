@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Target DevTools protocol handler header
+// summary: Declares TargetHandlerAndroid, the Android backend for the DevTools Target domain.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_PROTOCOL_TARGET_HANDLER_ANDROID_H_
 #define CHROME_BROWSER_DEVTOOLS_PROTOCOL_TARGET_HANDLER_ANDROID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebMCP DevTools protocol handler implementation
+// summary: Implements the browser-side WebMCP DevTools domain handler that forwards enable requests to the renderer.
+// ---
+
 #include "chrome/browser/devtools/protocol/webmcp_handler.h"
 
 #include "base/json/json_reader.h"

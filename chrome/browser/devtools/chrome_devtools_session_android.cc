@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Chrome DevTools session implementation
+// summary: Implements the Android variant of the DevTools session, wiring autofill, browser, target and optional page handlers for trusted and untrusted clients.
+// ---
+
 #include "chrome/browser/devtools/chrome_devtools_session_android.h"
 
 #include <type_traits>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools targets UI handlers header
+// summary: Declares DevToolsTargetsUIHandler and PortForwardingStatusSerializer for reporting DevTools targets to the UI.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_DEVTOOLS_TARGETS_UI_H_
 #define CHROME_BROWSER_DEVTOOLS_DEVTOOLS_TARGETS_UI_H_
 

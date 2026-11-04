@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools availability checker implementation
+// summary: Implements checks of DeveloperToolsAvailability policies, URL allowlists and blocklists, extension, web app and ChromeOS rules to determine why DevTools are blocked for a context.
+// ---
+
 #include "chrome/browser/devtools/devtools_availability_checker.h"
 
 #include <optional>

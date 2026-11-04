@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android RSA unit tests
+// summary: Unit tests verifying encoding of Android ADB RSA public keys, including rejection of keys smaller than 2048 bits.
+// ---
+
 #include "chrome/browser/devtools/device/usb/android_rsa.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools UI bindings implementation
+// summary: Implements the browser-side bindings for the DevTools front-end, handling embedder messages, preferences, infobars, file helpers, search engines, and AI assistance integration.
+// ---
+
 #include "chrome/browser/devtools/devtools_ui_bindings.h"
 
 #include <stddef.h>

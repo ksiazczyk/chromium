@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools toggle action implementation
+// summary: Implements the DevToolsToggleAction value type with factory methods for showing, toggling, inspecting and revealing in DevTools.
+// ---
+
 #include "chrome/browser/devtools/devtools_toggle_action.h"
 
 #include <memory>

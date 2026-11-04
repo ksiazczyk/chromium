@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiagnosticsController implementation
+// summary: Implements the singleton controller that runs diagnostics tests and recovery through the model and reports results via a writer.
+// ---
+
 #include "chrome/browser/diagnostics/diagnostics_controller.h"
 
 #include <memory>

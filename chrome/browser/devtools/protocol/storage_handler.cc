@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage handler implementation
+// summary: Implements DevTools Storage domain commands such as bounce tracking mitigations and private verification token management.
+// ---
+
 #include "chrome/browser/devtools/protocol/storage_handler.h"
 
 #include <memory>

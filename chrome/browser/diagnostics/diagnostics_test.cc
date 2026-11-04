@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Diagnostics test base implementation
+// summary: Implements the DiagnosticsTest base class and the table of test names and descriptions used for UMA metrics.
+// ---
+
 #include "chrome/browser/diagnostics/diagnostics_test.h"
 
 #include <array>

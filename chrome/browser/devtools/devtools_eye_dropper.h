@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools eye dropper header
+// summary: Declares the DevToolsEyeDropper class, a WebContentsObserver and frame sink video consumer that delivers picked colors to an EyeDropperCallback.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_DEVTOOLS_EYE_DROPPER_H_
 #define CHROME_BROWSER_DEVTOOLS_DEVTOOLS_EYE_DROPPER_H_
 

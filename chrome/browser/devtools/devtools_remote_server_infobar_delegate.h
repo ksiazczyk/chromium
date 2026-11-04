@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools remote server infobar delegate
+// summary: Declares an infobar delegate class that globally warns users when a CDP connection has been established.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_DEVTOOLS_REMOTE_SERVER_INFOBAR_DELEGATE_H_
 #define CHROME_BROWSER_DEVTOOLS_DEVTOOLS_REMOTE_SERVER_INFOBAR_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools browser context manager header
+// summary: Declares DevToolsBrowserContextManager, a singleton that maps DevTools browser context IDs to OTR profiles and observes profile and browser window lifetime.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_DEVTOOLS_BROWSER_CONTEXT_MANAGER_H_
 #define CHROME_BROWSER_DEVTOOLS_DEVTOOLS_BROWSER_CONTEXT_MANAGER_H_
 

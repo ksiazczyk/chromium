@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock ADB server implementation
+// summary: Implements a mock ADB server for browser tests that simulates devices, shell command output, and DevTools HTTP JSON responses.
+// ---
+
 #include "chrome/browser/devtools/device/adb/mock_adb_server.h"
 
 #include <stddef.h>

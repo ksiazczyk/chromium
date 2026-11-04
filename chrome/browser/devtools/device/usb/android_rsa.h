@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android RSA key handling declarations
+// summary: Declares functions to retrieve the stored ADB private key, encode its public key in Android's custom format, and sign data for ADB.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_DEVICE_USB_ANDROID_RSA_H_
 #define CHROME_BROWSER_DEVTOOLS_DEVICE_USB_ANDROID_RSA_H_
 

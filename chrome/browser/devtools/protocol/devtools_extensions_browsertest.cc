@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools extensions browser tests
+// summary: Browser tests for the DevTools Extensions domain, covering loadUnpacked, incognito enabling and extension storage commands.
+// ---
+
 #include "base/features.h"
 #include "base/files/file.h"
 #include "base/one_shot_event.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill form issues DevTools browser tests
+// summary: Browser tests verifying that the Audits domain reports autofill form issues such as duplicate input IDs and empty autocomplete attributes.
+// ---
+
 #include <memory>
 #include <tuple>
 

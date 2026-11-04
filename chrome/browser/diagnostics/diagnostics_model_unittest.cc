@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DiagnosticsModel unit tests
+// summary: Verifies the model's initial state, test run counts, and observer callbacks during test execution and recovery.
+// ---
+
 #include "chrome/browser/diagnostics/diagnostics_model.h"
 
 #include <memory>

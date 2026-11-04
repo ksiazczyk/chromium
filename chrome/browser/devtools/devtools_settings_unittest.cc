@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools settings unit tests
+// summary: Unit tests covering CRUD operations and moving settings between synced and unsynced states in DevToolsSettings.
+// ---
+
 #include "chrome/browser/devtools/devtools_settings.h"
 
 #include "chrome/common/pref_names.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Port forwarding controller class declaration
+// summary: Declares PortForwardingController, a profile-keyed service that manages forwarding connections and reacts to preference and device changes.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_DEVICE_PORT_FORWARDING_CONTROLLER_H_
 #define CHROME_BROWSER_DEVTOOLS_DEVICE_PORT_FORWARDING_CONTROLLER_H_
 

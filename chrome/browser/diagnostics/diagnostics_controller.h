@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiagnosticsController class declaration
+// summary: Declares the singleton controller API for running diagnostics and recovery and for querying or clearing accumulated results.
+// ---
+
 #ifndef CHROME_BROWSER_DIAGNOSTICS_DIAGNOSTICS_CONTROLLER_H_
 #define CHROME_BROWSER_DIAGNOSTICS_DIAGNOSTICS_CONTROLLER_H_
 

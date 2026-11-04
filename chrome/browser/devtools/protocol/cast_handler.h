@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast handler class declaration
+// summary: Declares CastHandler, the DevTools Cast domain backend that bridges protocol commands to the media router and reports sink updates.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_PROTOCOL_CAST_HANDLER_H_
 #define CHROME_BROWSER_DEVTOOLS_PROTOCOL_CAST_HANDLER_H_
 

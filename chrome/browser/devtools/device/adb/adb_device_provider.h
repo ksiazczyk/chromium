@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ADB device provider header
+// summary: Declares AdbDeviceProvider, an AndroidDeviceManager device provider that lists devices, queries device info, and opens sockets via ADB.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_DEVICE_ADB_ADB_DEVICE_PROVIDER_H_
 #define CHROME_BROWSER_DEVTOOLS_DEVICE_ADB_ADB_DEVICE_PROVIDER_H_
 

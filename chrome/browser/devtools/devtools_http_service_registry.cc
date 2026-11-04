@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools HTTP service registry implementation
+// summary: Registers the aida, gca, and gdp DevTools services with their allowed endpoints and dispatches requests to the matching handler.
+// ---
+
 #include "chrome/browser/devtools/devtools_http_service_registry.h"
 
 #include <ranges>

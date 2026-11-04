@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ADB device provider implementation
+// summary: Implements AdbDeviceProvider, which queries the ADB server on port 5037 for connected devices, device info, and opens local abstract sockets.
+// ---
+
 #include "chrome/browser/devtools/device/adb/adb_device_provider.h"
 
 #include <string_view>

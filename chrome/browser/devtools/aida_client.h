@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AIDA client header
+// summary: Declares the AidaClient class, its availability struct, generative AI enterprise policy values, and AIDA endpoint URLs.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_AIDA_CLIENT_H_
 #define CHROME_BROWSER_DEVTOOLS_AIDA_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebMCP DevTools protocol browser test
+// summary: Browser test verifying the WebMCP DevTools domain, covering tool invocation and response events with and without back-forward cache.
+// ---
+
 #include "base/test/run_until.h"
 #include "base/test/values_test_util.h"
 #include "base/values.h"

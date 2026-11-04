@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Serialize host descriptions header
+// summary: Declares HostDescriptionNode and a helper that serializes DevTools agent host trees into nested value lists keyed by a child key.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_SERIALIZE_HOST_DESCRIPTIONS_H_
 #define CHROME_BROWSER_DEVTOOLS_SERIALIZE_HOST_DESCRIPTIONS_H_
 

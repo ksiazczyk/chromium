@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ADB client socket implementation
+// summary: Implements the ADB client socket used by Chrome DevTools to connect to an ADB server, send host transport and query commands, and relay responses.
+// ---
+
 #include "chrome/browser/devtools/device/adb/adb_client_socket.h"
 
 #include <stddef.h>

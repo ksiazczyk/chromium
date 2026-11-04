@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser handler Android unit tests
+// summary: Unit tests for the Android DevTools browser handler, using fake window implementations to exercise bounds, show state and resize behavior.
+// ---
+
 #include "chrome/browser/devtools/protocol/browser_handler_android.h"
 
 #include <cstdint>

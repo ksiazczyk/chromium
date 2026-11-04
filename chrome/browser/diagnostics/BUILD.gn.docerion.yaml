@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Diagnostics build targets
+summary: GN build file defining the diagnostics source sets for headers, implementation, and unit tests together with their platform-dependent dependencies.

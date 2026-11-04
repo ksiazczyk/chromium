@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools autofill browser tests
+// summary: Browser tests verifying the DevTools Autofill domain, including filled-field attributes and address profile data exposed to the frontend.
+// ---
+
 #include "base/check_deref.h"
 #include "base/containers/to_vector.h"
 #include "base/scoped_observation.h"

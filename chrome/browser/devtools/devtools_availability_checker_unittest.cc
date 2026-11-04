@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools availability checker unit tests
+// summary: Unit tests verifying URL allowlist and blocklist policies, allowlist precedence over blocklist and other DevTools availability rules using testing profiles and web contents.
+// ---
+
 #include "chrome/browser/devtools/devtools_availability_checker.h"
 
 #include "base/test/scoped_feature_list.h"

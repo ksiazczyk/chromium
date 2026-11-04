@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android USB device implementation
+// summary: Implements the AndroidUsbDevice class that manages ADB protocol communication with Android devices over claimed USB connections.
+// ---
+
 #include "chrome/browser/devtools/device/usb/android_usb_device.h"
 
 #include <algorithm>

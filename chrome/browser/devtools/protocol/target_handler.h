@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Target DevTools protocol handler header
+// summary: Declares TargetHandler, the browser-side backend for the DevTools Target domain including target creation and remote locations.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_PROTOCOL_TARGET_HANDLER_H_
 #define CHROME_BROWSER_DEVTOOLS_PROTOCOL_TARGET_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ads DevTools protocol handler implementation
+// summary: Implements the Ads DevTools domain, reporting ad density, CPU time, network bytes, and per-frame ad statistics from the ads page load metrics observer.
+// ---
+
 #include "chrome/browser/devtools/protocol/ads_handler.h"
 
 #include "components/page_load_metrics/browser/metrics_web_contents_observer.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools dock tile header
+// summary: Declares the DevToolsDockTile class with a static Update method for setting the dock tile label and image.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_DEVTOOLS_DOCK_TILE_H_
 #define CHROME_BROWSER_DEVTOOLS_DEVTOOLS_DOCK_TILE_H_
 

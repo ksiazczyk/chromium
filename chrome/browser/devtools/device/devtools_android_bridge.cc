@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools Android bridge implementation
+// summary: Implements DevToolsAndroidBridge, the per-profile service that connects Chrome DevTools to Android devices and their providers.
+// ---
+
 #include "chrome/browser/devtools/device/devtools_android_bridge.h"
 
 #include <stddef.h>

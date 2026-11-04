@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQLite integrity diagnostics declarations
+// summary: Declares SQLite integrity outcome codes and factory functions for database diagnostic tests.
+// ---
+
 #ifndef CHROME_BROWSER_DIAGNOSTICS_SQLITE_DIAGNOSTICS_H_
 #define CHROME_BROWSER_DIAGNOSTICS_SQLITE_DIAGNOSTICS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools file helper implementation
+// summary: Implements saving, appending, and managing workspace file systems for DevTools, including last save path persistence, file writing, and file system registration flows.
+// ---
+
 #include "chrome/browser/devtools/devtools_file_helper.h"
 
 #include <set>

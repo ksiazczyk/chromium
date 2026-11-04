@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools connection dialog header
+// summary: Declares DevToolsConnectionDialog, a self-destructing dialog that confirms debugging connections and reports the user's decision through an accept callback.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_DEVTOOLS_CONNECTION_DIALOG_H_
 #define CHROME_BROWSER_DEVTOOLS_DEVTOOLS_CONNECTION_DIALOG_H_
 

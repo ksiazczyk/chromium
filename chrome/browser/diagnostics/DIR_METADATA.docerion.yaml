@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Diagnostics bug tracking metadata
+summary: Maps the diagnostics directory to the Internals>PlatformIntegration monorail component and a Buganizer component ID.

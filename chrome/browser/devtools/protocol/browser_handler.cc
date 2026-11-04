@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser DevTools protocol handler implementation
+// summary: Implements the Browser DevTools domain for desktop Chrome, covering window bounds, close, dock tile, browser commands, and privacy sandbox overrides.
+// ---
+
 #include "chrome/browser/devtools/protocol/browser_handler.h"
 
 #include <set>

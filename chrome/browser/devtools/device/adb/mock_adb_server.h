@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock ADB server header
+// summary: Declares StartMockAdbServer and StopMockAdbServer plus MockAndroidConnection for running a single-instance mock ADB server on the IO thread in tests.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_DEVICE_ADB_MOCK_ADB_SERVER_H_
 #define CHROME_BROWSER_DEVTOOLS_DEVICE_ADB_MOCK_ADB_SERVER_H_
 

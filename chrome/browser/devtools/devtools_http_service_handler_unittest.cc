@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools HTTP service handler unit tests
+// summary: Unit tests covering request validation for null and incognito profiles, streaming success, and error handling via a test handler.
+// ---
+
 #include "chrome/browser/devtools/devtools_http_service_handler.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page domain handler header
+// summary: Declares PageHandler, the DevTools Page domain backend for PrintToPDF, app id, sub apps, installability errors, and manifest icons.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_PROTOCOL_PAGE_HANDLER_H_
 #define CHROME_BROWSER_DEVTOOLS_PROTOCOL_PAGE_HANDLER_H_
 

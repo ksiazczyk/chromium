@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the Android DevTools window
+summary: Defines GN targets for JNI generation, the Android Java library, and the native source set that build the DevTools window for Android.

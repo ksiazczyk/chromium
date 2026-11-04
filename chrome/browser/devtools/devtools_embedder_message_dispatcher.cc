@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools embedder message dispatcher implementation
+// summary: Implements parsing and dispatching of messages sent from the DevTools frontend renderer to the browser embedder, converting base::Value payloads into typed arguments for delegate calls.
+// ---
+
 #include "chrome/browser/devtools/devtools_embedder_message_dispatcher.h"
 
 #include <memory>

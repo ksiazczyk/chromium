@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reconnaissance diagnostics tests implementation
+// summary: Implements reconnaissance diagnostic tests for disk space, install type, JSON files, paths, and version checks.
+// ---
+
 #include "chrome/browser/diagnostics/recon_diagnostics.h"
 
 #include <stddef.h>

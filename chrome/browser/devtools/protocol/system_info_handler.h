@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemInfo DevTools protocol handler header
+// summary: Declares SystemInfoHandler, the browser-side backend for the DevTools SystemInfo domain that reports feature state.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_PROTOCOL_SYSTEM_INFO_HANDLER_H_
 #define CHROME_BROWSER_DEVTOOLS_PROTOCOL_SYSTEM_INFO_HANDLER_H_
 

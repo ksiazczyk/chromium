@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools print-to-PDF browser tests
+// summary: Browser tests for Page.printToPDF in headed and headless modes, validating generated PDF pages, streams and paper settings.
+// ---
+
 #include <optional>
 #include <string>
 #include <vector>

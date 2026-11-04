@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AIDA client implementation
+// summary: Implements AidaClient, which checks country, age, and enterprise policy availability and prepares OAuth-authenticated requests to AIDA endpoints for DevTools AI features.
+// ---
+
 #include "chrome/browser/devtools/aida_client.h"
 
 #include <string>

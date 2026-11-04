@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome DevTools manager delegate
+// summary: Declares ChromeDevToolsManagerDelegate, the Chrome override of the content DevTools manager delegate handling agent hosts, browser contexts and target metadata.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_CHROME_DEVTOOLS_MANAGER_DELEGATE_H_
 #define CHROME_BROWSER_DEVTOOLS_CHROME_DEVTOOLS_MANAGER_DELEGATE_H_
 

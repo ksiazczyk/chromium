@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools embedder message dispatcher header
+// summary: Declares the DevToolsEmbedderMessageDispatcher class and its Delegate interface for frontend-to-embedder messages such as window activation, file saving, indexing, and zooming.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_DEVTOOLS_EMBEDDER_MESSAGE_DISPATCHER_H_
 #define CHROME_BROWSER_DEVTOOLS_DEVTOOLS_EMBEDDER_MESSAGE_DISPATCHER_H_
 

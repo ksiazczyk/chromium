@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools UI controller implementation
+// summary: Implements DevtoolsUIController, which manages docked DevTools views per browser window, including focus restoration, scrim visibility, and layout updates.
+// ---
+
 #include "chrome/browser/devtools/devtools_ui_controller.h"
 
 #include "base/memory/raw_ptr.h"

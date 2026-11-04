@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools navigation throttle header
+// summary: Declares the DevToolsNavigationThrottle class that gates navigations in tabs under the control of a DevTools Protocol session.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_DEVTOOLS_NAVIGATION_THROTTLE_H_
 #define CHROME_BROWSER_DEVTOOLS_DEVTOOLS_NAVIGATION_THROTTLE_H_
 

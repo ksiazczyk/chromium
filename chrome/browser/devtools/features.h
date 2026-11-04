@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools feature flag declarations
+// summary: Declares DevTools feature flags and their parameters, including user tier and execution mode enums used by the AI assistance features.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_FEATURES_H_
 #define CHROME_BROWSER_DEVTOOLS_FEATURES_H_
 

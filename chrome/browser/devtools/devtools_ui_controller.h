@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools UI controller header
+// summary: Declares DevtoolsUIController, which tracks DevTools web views attached to contents containers and updates their visibility, focus, and resizing strategy.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_DEVTOOLS_UI_CONTROLLER_H_
 #define CHROME_BROWSER_DEVTOOLS_DEVTOOLS_UI_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security handler implementation
+// summary: Implements the DevTools Security domain, mapping page security levels, certificates, and TLS details to protocol responses.
+// ---
+
 #include "chrome/browser/devtools/protocol/security_handler.h"
 
 #include <string>

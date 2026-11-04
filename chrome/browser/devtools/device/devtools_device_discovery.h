@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools device discovery class declarations
+// summary: Declares DevToolsDeviceDiscovery and its RemotePage, RemoteBrowser and RemoteDevice classes representing inspectable remote targets.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_DEVICE_DEVTOOLS_DEVICE_DISCOVERY_H_
 #define CHROME_BROWSER_DEVTOOLS_DEVICE_DEVTOOLS_DEVICE_DISCOVERY_H_
 

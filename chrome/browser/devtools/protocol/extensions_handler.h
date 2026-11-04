@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions domain handler header
+// summary: Declares ExtensionsHandler, the DevTools Extensions domain backend for loading, uninstalling, triggering actions, and extension storage commands.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_PROTOCOL_EXTENSIONS_HANDLER_H_
 #define CHROME_BROWSER_DEVTOOLS_PROTOCOL_EXTENSIONS_HANDLER_H_
 

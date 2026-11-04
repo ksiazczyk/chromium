@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Global confirm info bar implementation
+// summary: Implements a confirm info bar shown in every tab of every browser, using delegate proxies and tab tracking across desktop and Android.
+// ---
+
 #include "chrome/browser/devtools/global_confirm_info_bar.h"
 
 #include <utility>

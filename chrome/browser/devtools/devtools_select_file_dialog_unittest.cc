@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools select file dialog unit tests
+// summary: Unit tests verifying selected and canceled callbacks and default path handling of the DevTools select file dialog.
+// ---
+
 #include "chrome/browser/devtools/devtools_select_file_dialog.h"
 
 #include "base/files/file_path.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast device provider header
+// summary: Declares CastDeviceProvider, which supplies Cast device information for remote debugging of Cast applications over ADB.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_DEVICE_CAST_DEVICE_PROVIDER_H_
 #define CHROME_BROWSER_DEVTOOLS_DEVICE_CAST_DEVICE_PROVIDER_H_
 

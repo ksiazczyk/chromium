@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android RSA key handling for ADB authentication
+// summary: Implements RSA key generation, storage and Android ADB public key encoding used to authenticate USB debugging with Android devices.
+// ---
+
 #include "chrome/browser/devtools/device/usb/android_rsa.h"
 
 #include <stddef.h>

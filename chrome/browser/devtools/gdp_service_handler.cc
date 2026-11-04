@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Developer Profiles service handler
+// summary: Implements the DevTools service handler for the Google Developer Profiles API used for badges and sign-up, with its traffic annotation.
+// ---
+
 #include "chrome/browser/devtools/gdp_service_handler.h"
 
 #include "google_apis/gaia/gaia_constants.h"

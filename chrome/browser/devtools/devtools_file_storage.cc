@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools file storage implementation
+// summary: Registers and revokes isolated file systems for the DevTools frontend, granting the renderer read, write, create, and delete permissions and resolving dragged file system paths.
+// ---
+
 #include "chrome/browser/devtools/devtools_file_storage.h"
 
 #include <vector>

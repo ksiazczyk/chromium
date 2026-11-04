@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools HTTP service handler implementation
+// summary: Implements authenticated HTTP requests to DevTools services, including streaming responses, status capture, and bounded error bodies.
+// ---
+
 #include "chrome/browser/devtools/devtools_http_service_handler.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools isolated web app browser tests
+// summary: Browser tests exercising DevTools PWA commands against isolated web apps installed from signed web bundles.
+// ---
+
 #include <climits>
 #include <initializer_list>
 #include <memory>

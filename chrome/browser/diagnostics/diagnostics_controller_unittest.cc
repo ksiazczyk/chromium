@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DiagnosticsController unit tests
+// summary: Unit tests that run diagnostics and recovery through the controller using a temporary user data directory and corrupted data files.
+// ---
+
 #include "chrome/browser/diagnostics/diagnostics_controller.h"
 
 #include <memory>

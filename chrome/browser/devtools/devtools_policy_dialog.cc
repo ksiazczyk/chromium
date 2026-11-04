@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools policy dialog implementation
+// summary: Implements the dialog shown when enterprise policy blocks DevTools, recording DevTools.BlockedByPolicy usage histograms once per attempt.
+// ---
+
 #include "chrome/browser/devtools/devtools_policy_dialog.h"
 
 #include "base/functional/bind.h"

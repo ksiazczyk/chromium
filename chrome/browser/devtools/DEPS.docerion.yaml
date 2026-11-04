@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for inspector protocol CRDTP
+summary: Grants the directory access to third_party/inspector_protocol/crdtp for JSON and CBOR conversion in devtools_session_encoding.cc.

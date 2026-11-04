@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for Chrome DevTools
+summary: Lists directory owners and assigns IPC security owners to the embedder message dispatcher and HTTP service registry files.

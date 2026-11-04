@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI bindings for the Android DevTools window
+// summary: Implements JNI entry points that open DevTools, the console, and the inspector, check whether DevTools is allowed for a profile, and attach the window to a browser.
+// ---
+
 #include "base/notreached.h"
 #include "build/android_buildflags.h"
 #include "chrome/browser/devtools/android/jni/DevToolsWindowAndroid_jni.h"

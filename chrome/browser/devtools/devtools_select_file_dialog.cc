@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools select file dialog implementation
+// summary: Implements a self-deleting file selection dialog for DevTools, including Android content URI resolution for workspace file operations.
+// ---
+
 #include "chrome/browser/devtools/devtools_select_file_dialog.h"
 
 #include "base/files/file_util.h"

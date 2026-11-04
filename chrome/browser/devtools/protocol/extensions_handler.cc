@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions domain handler implementation
+// summary: Implements the Extensions domain backend of the Chrome DevTools protocol, covering extension lookup, storage access, and unpacked loading.
+// ---
+
 #include "chrome/browser/devtools/protocol/extensions_handler.h"
 
 #include <memory>

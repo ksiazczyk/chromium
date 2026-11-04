@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini Code Assist service handler
+// summary: Implements the DevTools HTTP service handler for the Gemini Code Assist API, defining its network traffic annotation, base URL, and OAuth consumer.
+// ---
+
 #include "chrome/browser/devtools/gca_service_handler.h"
 
 #include "chrome/browser/devtools/aida_client.h"

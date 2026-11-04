@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools contents resizing strategy header
+// summary: Declares the DevToolsContentsResizingStrategy class and the helper that computes DevTools and inspected contents bounds inside a container view.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_DEVTOOLS_CONTENTS_RESIZING_STRATEGY_H_
 #define CHROME_BROWSER_DEVTOOLS_DEVTOOLS_CONTENTS_RESIZING_STRATEGY_H_
 

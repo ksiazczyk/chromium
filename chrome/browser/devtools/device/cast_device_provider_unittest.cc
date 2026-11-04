@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast device provider unit tests
+// summary: Tests Cast service discovery handling, verifying device info mapping from service metadata and rejection of non-Cast services.
+// ---
+
 #include "chrome/browser/devtools/device/cast_device_provider.h"
 
 #include "base/functional/bind.h"

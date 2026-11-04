@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Emulation domain handler header
+// summary: Declares EmulationHandler, the DevTools Emulation domain backend for screen info queries, screen manipulation, and automation overrides.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_PROTOCOL_EMULATION_HANDLER_H_
 #define CHROME_BROWSER_DEVTOOLS_PROTOCOL_EMULATION_HANDLER_H_
 

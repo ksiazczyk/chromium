@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SQLite integrity diagnostics implementation
+// summary: Implements SQLite database integrity diagnostic tests, including recovery that removes corrupted databases.
+// ---
+
 #include "chrome/browser/diagnostics/sqlite_diagnostics.h"
 
 #include <stdint.h>

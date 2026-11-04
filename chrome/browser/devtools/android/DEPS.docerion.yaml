@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Android DevTools folder
+summary: Allows dependencies on third_party/jni_zero for code in this directory.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for Chrome DevTools
+summary: Defines build targets, generated CDP protocol sources, protocol concatenation, and dependencies for the DevTools browser code.

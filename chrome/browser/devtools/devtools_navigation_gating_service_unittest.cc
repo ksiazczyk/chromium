@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools navigation gating service unit tests
+// summary: Unit tests checking that the navigation gating service registers an origin gating checker from rule manager rules and unregisters it on destruction.
+// ---
+
 #include "chrome/browser/devtools/devtools_navigation_gating_service.h"
 
 #include <memory>
