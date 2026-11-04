@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Single scrollbar thinning animation implementation
+// summary: Implements per-scrollbar thinning and expansion animations that react to pointer proximity for overlay scrollbars.
+// ---
+
 #include "cc/input/single_scrollbar_animation_controller_thinning.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools instrumentation trace event helpers
+// summary: Declares scoped trace classes and event name constants for compositor tasks such as image decode and upload, begin frame, commit, and draw events.
+// ---
+
 #ifndef CC_BASE_DEVTOOLS_INSTRUMENTATION_H_
 #define CC_BASE_DEVTOOLS_INSTRUMENTATION_H_
 

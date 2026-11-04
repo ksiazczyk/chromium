@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserControlsOffsetManager implementation
+// summary: Implements management of browser controls show and hide offsets, including animation timing, snap thresholds, and shown ratio tracking.
+// ---
+
 #include "cc/input/browser_controls_offset_manager.h"
 
 #include <stdint.h>

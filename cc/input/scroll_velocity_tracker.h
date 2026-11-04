@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollVelocityTracker class declaration
+// summary: Declares ScrollVelocityTracker, which retains scroll delta samples within a time window and computes velocity in scroll units per millisecond.
+// ---
+
 #ifndef CC_INPUT_SCROLL_VELOCITY_TRACKER_H_
 #define CC_INPUT_SCROLL_VELOCITY_TRACKER_H_
 

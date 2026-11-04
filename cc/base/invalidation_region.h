@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InvalidationRegion class declaration
+// summary: Header declaring the InvalidationRegion class, an approximation of Region that may over-approximate the union of added rects to bound complexity.
+// ---
+
 #ifndef CC_BASE_INVALIDATION_REGION_H_
 #define CC_BASE_INVALIDATION_REGION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RTree performance tests
+// summary: Performance tests measuring RTree construction and search throughput over varying numbers of rectangles using LapTimer.
+// ---
+
 #include "base/timer/lap_timer.h"
 #include "cc/base/rtree.h"
 

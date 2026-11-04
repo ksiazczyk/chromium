@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Animation class implementation
+// summary: Implements the Animation class, managing its keyframe effect, element attachment, registration with the host and property pushing to the impl thread.
+// ---
+
 #include "cc/animation/animation.h"
 
 #include <inttypes.h>

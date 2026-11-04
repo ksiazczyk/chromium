@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollOffsetAnimationCurve class declaration
+// summary: Declares ScrollOffsetAnimationCurve, which computes scroll offset as a function of time during scroll animations running in Blink or cc.
+// ---
+
 #ifndef CC_ANIMATION_SCROLL_OFFSET_ANIMATION_CURVE_H_
 #define CC_ANIMATION_SCROLL_OFFSET_ANIMATION_CURVE_H_
 

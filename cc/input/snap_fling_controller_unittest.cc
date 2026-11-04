@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Snap fling controller unit tests
+// summary: Unit tests for SnapFlingController that verify event filtering, curve creation, and animation behavior using mock client and curve objects.
+// ---
+
 #include "cc/input/snap_fling_controller.h"
 
 #include <utility>

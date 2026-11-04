@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserControlsOffsetManager unit tests
+// summary: Unit tests for the browser controls offset manager using a mock client and a fake layer tree host implementation.
+// ---
+
 #include "cc/input/browser_controls_offset_manager.h"
 
 #include <algorithm>

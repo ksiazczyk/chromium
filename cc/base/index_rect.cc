@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexRect implementation
+// summary: Implements IndexRect operations for clamping to another rect, containment checks for index coordinates, and string formatting of the rect bounds.
+// ---
+
 #include "cc/base/index_rect.h"
 
 #include <algorithm>

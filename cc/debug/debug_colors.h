@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Debug colors class declaration
+// summary: Declares the DebugColors class with static accessors for border colors, widths, and checkerboard colors used in debug rendering.
+// ---
+
 #ifndef CC_DEBUG_DEBUG_COLORS_H_
 #define CC_DEBUG_DEBUG_COLORS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scroll offset animation curve factory implementation
+// summary: Implements a factory that creates scroll offset animation curves with a duration behavior chosen from the scroll type.
+// ---
+
 #include "cc/animation/scroll_offset_animation_curve_factory.h"
 
 #include "base/memory/ptr_util.h"

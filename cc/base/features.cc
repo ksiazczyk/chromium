@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compositor feature flag definitions
+// summary: Defines base::Feature flags and parameters that control Chromium compositor behavior, such as raster translation, impl invalidation deferral, tile reclamation, and WebView memory settings.
+// ---
+
 #include "cc/base/features.h"
 
 #include <atomic>

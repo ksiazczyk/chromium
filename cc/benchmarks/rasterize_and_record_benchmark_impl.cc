@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RasterizeAndRecordBenchmarkImpl implementation
+// summary: Implements the impl-side rasterize and record benchmark, timing raster source playback on picture layers and collecting rasterized pixel statistics.
+// ---
+
 #include "cc/benchmarks/rasterize_and_record_benchmark_impl.h"
 
 #include <stddef.h>

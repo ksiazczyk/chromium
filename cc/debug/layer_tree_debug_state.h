@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Layer tree debug state declaration
+// summary: Declares LayerTreeDebugState flags controlling debug borders, HUD overlays, raster behavior, and rendering stats recording.
+// ---
+
 #ifndef CC_DEBUG_LAYER_TREE_DEBUG_STATE_H_
 #define CC_DEBUG_LAYER_TREE_DEBUG_STATE_H_
 

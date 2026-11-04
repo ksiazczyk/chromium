@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scroll timeline unit tests
+// summary: Unit tests verifying ScrollTimeline current time calculation, activation state, and precision behavior using property trees and scrolling elements.
+// ---
+
 #include "cc/animation/scroll_timeline.h"
 
 #include <limits>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TilingData class header
+// summary: Declares tiling geometry helpers mapping between tile indices and tile bounds, plus iterator classes for tiles and difference regions.
+// ---
+
 #ifndef CC_BASE_TILING_DATA_H_
 #define CC_BASE_TILING_DATA_H_
 

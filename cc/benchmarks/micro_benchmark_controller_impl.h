@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Impl-side micro benchmark controller declaration
+// summary: Declares the MicroBenchmarkControllerImpl that schedules and manages impl-side micro benchmarks for the layer tree host impl.
+// ---
+
 #ifndef CC_BENCHMARKS_MICRO_BENCHMARK_CONTROLLER_IMPL_H_
 #define CC_BENCHMARKS_MICRO_BENCHMARK_CONTROLLER_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Animation class unit tests
+// summary: Unit tests for the cc Animation class covering attaching and detaching animations, timelines, and keyframe effects across main and impl threads.
+// ---
+
 #include "cc/animation/animation.h"
 
 #include <memory>

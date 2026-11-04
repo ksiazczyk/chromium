@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Snap fling controller header
+// summary: Declares the SnapFlingClient interface and SnapFlingController class that filters gesture scroll events and animates flings so they land on valid scroll snap positions.
+// ---
+
 #ifndef CC_INPUT_SNAP_FLING_CONTROLLER_H_
 #define CC_INPUT_SNAP_FLING_CONTROLLER_H_
 

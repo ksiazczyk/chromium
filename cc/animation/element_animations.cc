@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ElementAnimations implementation
+// summary: Implements ElementAnimations, which groups keyframe effects for a target element and tracks animating property state for active and pending trees.
+// ---
+
 #include "cc/animation/element_animations.h"
 
 #include <stddef.h>

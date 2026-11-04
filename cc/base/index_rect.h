@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IndexRect class for tiling index bounds
+// summary: Header defining the IndexRect class that encapsulates left, right, top, and bottom index boundaries for tiled regions, with validity and quadrant checks.
+// ---
+
 #ifndef CC_BASE_INDEX_RECT_H_
 #define CC_BASE_INDEX_RECT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnimationHost implementation
+// summary: Implements AnimationHost, which owns timelines, ticks animations, manages mutators and handles worklet animation mutation state.
+// ---
+
 #include "cc/animation/animation_host.h"
 
 #include <algorithm>

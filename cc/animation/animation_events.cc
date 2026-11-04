@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Animation events implementation
+// summary: Implements the animation playback and trigger event classes, including constructors, copying and rules for dispatching events to keyframe effects.
+// ---
+
 #include "cc/animation/animation_events.h"
 
 namespace cc {

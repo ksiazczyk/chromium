@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserControlsOffsetTags struct
+// summary: Holds offset tags for top, content, and bottom controls so viz can move them during scrolls without browser compositor frames.
+// ---
+
 #ifndef CC_INPUT_BROWSER_CONTROLS_OFFSET_TAGS_H_
 #define CC_INPUT_BROWSER_CONTROLS_OFFSET_TAGS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TilingData implementation
+// summary: Implements tile index and bounds computation for a tiling grid, including iterators, border texel handling, and around-rect lookup.
+// ---
+
 #include "cc/base/tiling_data.h"
 
 #include <algorithm>

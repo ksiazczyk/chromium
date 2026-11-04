@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AnimationHost performance tests
+// summary: Performance tests that measure creating timelines and animations on AnimationHost and pushing their properties to the impl thread.
+// ---
+
 #include "cc/animation/animation_host.h"
 
 #include "base/memory/raw_ptr.h"

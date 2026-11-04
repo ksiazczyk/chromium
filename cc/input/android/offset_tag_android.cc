@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offset tag JNI conversion helpers for Android
+// summary: Implements JNI converters that turn Java offset tag and browser controls offset tag objects into their C++ counterparts in the cc::android namespace.
+// ---
+
 #include "cc/input/android/offset_tag_android.h"
 
 #include "base/android/scoped_java_ref.h"

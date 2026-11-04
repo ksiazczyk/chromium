@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UMA histogram timer implementation
+// summary: Implements client-name tracking for compositor metrics and the base class for scoped UMA area timers that report elapsed time and pixels processed per millisecond.
+// ---
+
 #include "cc/base/histograms.h"
 
 #include <stdint.h>

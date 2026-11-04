@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScrollState unit tests
+// summary: Unit tests verifying delta consumption behavior and unconstrained delta handling in ScrollState.
+// ---
+
 #include "cc/input/scroll_state.h"
 
 #include "cc/layers/layer_impl.h"

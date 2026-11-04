@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleEnclosedRegion class header
+// summary: Declares a constant-size approximation of a Region that may exclude points but never includes false positives, with containment, intersection, union, and subtraction operations.
+// ---
+
 #ifndef CC_BASE_SIMPLE_ENCLOSED_REGION_H_
 #define CC_BASE_SIMPLE_ENCLOSED_REGION_H_
 

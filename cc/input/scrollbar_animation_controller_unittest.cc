@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScrollbarAnimationController unit tests
+// summary: Unit tests covering fade, thinning and visibility behavior of ScrollbarAnimationController for Android and Aura overlay scrollbars.
+// ---
+
 #include "cc/input/scrollbar_animation_controller.h"
 
 #include <utility>

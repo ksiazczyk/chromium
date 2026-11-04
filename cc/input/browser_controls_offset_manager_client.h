@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserControlsOffsetManagerClient interface
+// summary: Declares the client interface supplying browser controls heights, shown ratios, viewport scroll offsets, and commit notifications.
+// ---
+
 #ifndef CC_INPUT_BROWSER_CONTROLS_OFFSET_MANAGER_CLIENT_H_
 #define CC_INPUT_BROWSER_CONTROLS_OFFSET_MANAGER_CLIENT_H_
 

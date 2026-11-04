@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Snap selection strategy header
+// summary: Declares the SnapSelectionStrategy abstract class and factories that decide which snap positions are valid for end-position, directional, displacement, and page scroll types.
+// ---
+
 #ifndef CC_INPUT_SNAP_SELECTION_STRATEGY_H_
 #define CC_INPUT_SNAP_SELECTION_STRATEGY_H_
 

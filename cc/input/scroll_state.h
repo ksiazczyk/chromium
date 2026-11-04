@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollState class declaration
+// summary: Declares the ScrollState class, based on the scroll customization proposal, exposing scroll deltas, hints, phase flags, and interaction state for the compositor.
+// ---
+
 #ifndef CC_INPUT_SCROLL_STATE_H_
 #define CC_INPUT_SCROLL_STATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ElementAnimations class header
+// summary: Declares ElementAnimations, the ref-counted owner of all KeyframeEffects attached to a single animatable target identified by an ElementId.
+// ---
+
 #ifndef CC_ANIMATION_ELEMENT_ANIMATIONS_H_
 #define CC_ANIMATION_ELEMENT_ANIMATIONS_H_
 

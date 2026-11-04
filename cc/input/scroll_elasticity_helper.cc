@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollElasticityHelper implementation for elastic overscroll
+// summary: Implements ScrollElasticityHelperImpl, applying elastic overscroll stretch amounts to the compositor transform trees and managing scroll state for LayerTreeHostImpl.
+// ---
+
 #include "cc/input/scroll_elasticity_helper.h"
 
 #include <vector>

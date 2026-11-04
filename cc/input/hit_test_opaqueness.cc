@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hit test opaqueness implementation
+// summary: Implements string conversion and the union computation of hit test opaqueness for rectangles that are transparent, opaque, or mixed.
+// ---
+
 #include "cc/input/hit_test_opaqueness.h"
 #include "base/check_op.h"
 #include "base/notreached.h"

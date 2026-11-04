@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Export macros for the cc_base component
+// summary: Header defining the CC_BASE_EXPORT macro for symbol visibility in component builds on Windows and other platforms.
+// ---
+
 #ifndef CC_BASE_BASE_EXPORT_H_
 #define CC_BASE_BASE_EXPORT_H_
 

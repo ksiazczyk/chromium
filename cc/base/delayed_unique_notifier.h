@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DelayedUniqueNotifier class declaration
+// summary: Declares a notifier that coalesces repeated Schedule calls so only one delayed callback run is pending at a time.
+// ---
+
 #ifndef CC_BASE_DELAYED_UNIQUE_NOTIFIER_H_
 #define CC_BASE_DELAYED_UNIQUE_NOTIFIER_H_
 

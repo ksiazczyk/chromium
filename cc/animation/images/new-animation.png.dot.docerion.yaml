@@ -1,0 +1,4 @@
+# Docerion header of new-animation.png.dot.
+type: source
+title: New composited animation flow diagram source
+summary: Graphviz DOT source that generates the new-animation.png diagram showing the flow for starting a new composited animation across the main and compositor threads.

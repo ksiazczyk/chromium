@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SimpleEnclosedRegion unit tests
+// summary: Unit tests verifying creation, assignment, clearing, region complexity, containment, and geometry operations of SimpleEnclosedRegion.
+// ---
+
 #include "cc/base/simple_enclosed_region.h"
 
 #include <stddef.h>

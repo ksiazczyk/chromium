@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HitTestOpaqueness enum
+// summary: Defines the HitTestOpaqueness enum describing whether layered content is transparent, mixed, or opaque for hit testing, plus helper declarations.
+// ---
+
 #ifndef CC_INPUT_HIT_TEST_OPAQUENESS_H_
 #define CC_INPUT_HIT_TEST_OPAQUENESS_H_
 

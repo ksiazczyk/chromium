@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scroll timeline implementation
+// summary: Implements ScrollTimeline, an animation timeline whose current time is derived from the scroll progress of a scroll container in the scroll tree.
+// ---
+
 #include "cc/animation/scroll_timeline.h"
 
 #include <memory>

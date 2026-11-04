@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollStateData implementation
+// summary: Implements ScrollStateData constructors and accessors for the current native scrolling element.
+// ---
+
 #include "cc/input/scroll_state_data.h"
 #include "cc/trees/scroll_node.h"
 

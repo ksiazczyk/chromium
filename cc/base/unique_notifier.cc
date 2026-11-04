@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UniqueNotifier implementation
+// summary: Implements UniqueNotifier, which coalesces repeated Schedule calls into a single pending notification on a sequenced task runner and supports cancellation.
+// ---
+
 #include "cc/base/unique_notifier.h"
 
 #include <utility>

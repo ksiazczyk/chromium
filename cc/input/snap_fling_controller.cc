@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SnapFlingController implementation
+// summary: Implements SnapFlingController, which estimates inertial scroll displacement and animates gesture flings to their snap targets.
+// ---
+
 #include "cc/input/snap_fling_controller.h"
 
 #include <utility>

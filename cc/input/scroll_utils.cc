@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollUtils implementation
+// summary: Implements ScrollUtils helpers that convert percentage scroll deltas to pixels and compute page snap steps and scrollbar thumb length.
+// ---
+
 #include "cc/input/scroll_utils.h"
 
 #include <algorithm>

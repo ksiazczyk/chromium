@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RasterizeAndRecordBenchmark class declaration
+// summary: Declares the RasterizeAndRecordBenchmark class, a main-thread micro benchmark that measures paint recording and rasterization and collects result values.
+// ---
+
 #ifndef CC_BENCHMARKS_RASTERIZE_AND_RECORD_BENCHMARK_H_
 #define CC_BENCHMARKS_RASTERIZE_AND_RECORD_BENCHMARK_H_
 

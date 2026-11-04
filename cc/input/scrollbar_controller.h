@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollbarController class declaration
+// summary: Declares ScrollbarController with detailed comments on click scrolling, thumb dragging, autoscroll, snapping and anchoring behavior for composited scrollbars.
+// ---
+
 #ifndef CC_INPUT_SCROLLBAR_CONTROLLER_H_
 #define CC_INPUT_SCROLLBAR_CONTROLLER_H_
 

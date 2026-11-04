@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UniqueNotifier class declaration
+// summary: Declares the cc::UniqueNotifier class, which schedules at most one pending closure notification on a task runner, with Schedule and Cancel methods.
+// ---
+
 #ifndef CC_BASE_UNIQUE_NOTIFIER_H_
 #define CC_BASE_UNIQUE_NOTIFIER_H_
 

@@ -1,3 +1,11 @@
+---
+type: readme
+title: 'cc/input: compositor input handling and scrolling'
+summary: Explains input handling and scrolling in the compositor, covering viewport scrolling, scroll snapping, inertial scrolls, and threaded scrollbar scrolling.
+relations:
+  - references /third_party/blink/renderer/core/page/scrolling/README.md
+---
+
 # cc/input
 
 This directory contains code specific to input handling and scrolling in in the

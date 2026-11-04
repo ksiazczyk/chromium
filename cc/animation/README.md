@@ -1,3 +1,13 @@
+---
+type: readme
+title: cc/animation documentation
+summary: Explains how cc/animation works, covering terminology, animation ticking, curve types, timelines and how Blink and ui/ interact with it.
+relations:
+  - documents /cc/animation/animation.cc
+  - documents /cc/animation/animation.h
+  - documents /cc/animation/animation_host.cc
+---
+
 # cc/animation
 
 [TOC]

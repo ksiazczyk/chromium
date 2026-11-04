@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnimationIdProvider class declaration
+// summary: Declares static methods that return monotonically increasing identifiers for animation entities.
+// ---
+
 #ifndef CC_ANIMATION_ANIMATION_ID_PROVIDER_H_
 #define CC_ANIMATION_ANIMATION_ID_PROVIDER_H_
 

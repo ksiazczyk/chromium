@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Debug colors implementation for compositor overlays
+// summary: Implements border colors and widths for debug visualizations of layers, tiles, checkerboards, and paint rects.
+// ---
+
 #include "cc/debug/debug_colors.h"
 
 #include "base/check_op.h"

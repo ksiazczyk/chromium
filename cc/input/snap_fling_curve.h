@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Snap fling curve header
+// summary: Declares the SnapFlingCurve class, which generates a geometric sequence of per-frame scroll deltas for snap fling animations and tracks completion.
+// ---
+
 #ifndef CC_INPUT_SNAP_FLING_CURVE_H_
 #define CC_INPUT_SNAP_FLING_CURVE_H_
 

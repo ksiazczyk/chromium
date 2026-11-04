@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Filter animation curve unit tests
+// summary: Tests KeyframedFilterAnimationCurve sampling with one, two, three, and repeated keyframes, verifying brightness filter interpolation at various times.
+// ---
+
 #include "cc/animation/filter_animation_curve.h"
 
 #include <memory>

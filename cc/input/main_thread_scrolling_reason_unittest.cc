@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for main thread scrolling reason text output
+// summary: Verifies that MainThreadScrollingReason::AsText produces the expected human-readable strings for repaint, hit-test and other scrolling reason sets.
+// ---
+
 #include "cc/input/main_thread_scrolling_reason.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

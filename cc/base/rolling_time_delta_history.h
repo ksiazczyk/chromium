@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RollingTimeDeltaHistory class declaration
+// summary: Declares a rolling history of base::TimeDelta samples that discards the oldest sample when full and supports percentile lookups.
+// ---
+
 #ifndef CC_BASE_ROLLING_TIME_DELTA_HISTORY_H_
 #define CC_BASE_ROLLING_TIME_DELTA_HISTORY_H_
 

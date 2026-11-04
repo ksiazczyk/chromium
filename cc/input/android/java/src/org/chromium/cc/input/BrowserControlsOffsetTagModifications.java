@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserControlsOffsetTagModifications
+// summary: Java counterpart to the native cc::BrowserControlsOffsetTagModifications, holding browser controls offset tags plus additional top and bottom control heights used to hide control shadows when controls scroll off screen.
+// ---
+
 package org.chromium.cc.input;
 
 import com.google.errorprone.annotations.DoNotMock;

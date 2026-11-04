@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageScaleAnimation class for page zoom animation math
+// summary: Declares the PageScaleAnimation helper class that computes interpolated scroll offsets and page scale factors over time for zoom animations such as double-tap zoom.
+// ---
+
 #ifndef CC_INPUT_PAGE_SCALE_ANIMATION_H_
 #define CC_INPUT_PAGE_SCALE_ANIMATION_H_
 

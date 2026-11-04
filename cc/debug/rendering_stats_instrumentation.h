@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rendering stats instrumentation class header
+// summary: Declares the thread-shared RenderingStatsInstrumentation class that manages conditional recording of rendering stats into a private RenderingStats instance.
+// ---
+
 #ifndef CC_DEBUG_RENDERING_STATS_INSTRUMENTATION_H_
 #define CC_DEBUG_RENDERING_STATS_INSTRUMENTATION_H_
 

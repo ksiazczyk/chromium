@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Animation events declarations
+// summary: Declares AnimationPlaybackEvent, AnimationTriggerEvent and the AnimationEvents container used to carry animation events between threads.
+// ---
+
 #ifndef CC_ANIMATION_ANIMATION_EVENTS_H_
 #define CC_ANIMATION_ANIMATION_EVENTS_H_
 

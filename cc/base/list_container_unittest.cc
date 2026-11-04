@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ListContainer unit tests
+// summary: Unit tests covering ListContainer allocation, iteration, erasure, destructor call expectations and handling of derived and non-derived element types.
+// ---
+
 #include "cc/base/list_container.h"
 
 #include <stddef.h>

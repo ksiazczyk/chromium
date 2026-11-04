@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyframeModel implementation for animation state
+// summary: Implements the cc KeyframeModel class, which holds the state needed to play an animation curve, including target property identification and cloning for the compositor impl thread.
+// ---
+
 #include "cc/animation/keyframe_model.h"
 
 #include <algorithm>

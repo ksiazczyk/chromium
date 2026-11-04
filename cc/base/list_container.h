@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ListContainer template container
+// summary: Declares the ListContainer template that stores elements such as DrawQuad in contiguous, non-reallocating memory with iterator and reverse iterator support.
+// ---
+
 #ifndef CC_BASE_LIST_CONTAINER_H_
 #define CC_BASE_LIST_CONTAINER_H_
 

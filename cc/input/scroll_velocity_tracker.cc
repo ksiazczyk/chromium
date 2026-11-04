@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollVelocityTracker implementation
+// summary: Implements a moving time-window velocity tracker that records scroll delta samples, discards stale ones, and computes current scroll velocity.
+// ---
+
 #include "cc/input/scroll_velocity_tracker.h"
 
 #include <limits>

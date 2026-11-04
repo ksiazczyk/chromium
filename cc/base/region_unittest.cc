@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Region unit tests
+// summary: Unit tests for the cc Region class, verifying point containment, union, subtract, empty spans, and intersection behavior.
+// ---
+
 #include "cc/base/region.h"
 
 #include <vector>

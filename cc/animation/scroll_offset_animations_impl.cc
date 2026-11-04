@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scroll offset animations implementation
+// summary: Implements impl-thread scroll offset animations, creating autoscroll and mouse wheel scroll animations and updating or aborting their targets on the compositor.
+// ---
+
 #include "cc/animation/scroll_offset_animations_impl.h"
 
 #include <utility>

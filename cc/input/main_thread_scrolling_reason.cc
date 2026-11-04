@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Main thread scrolling reason helpers
+// summary: Converts main thread scrolling, repaint, and hit test reason bitmasks into readable text and traced values for diagnostics.
+// ---
+
 #include "cc/input/main_thread_scrolling_reason.h"
 
 #include <string>

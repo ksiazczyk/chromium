@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event listener class and property enums
+// summary: Defines enums classifying event listener kinds such as touch, wheel, and pointer raw update, together with their passive and blocking property levels.
+// ---
+
 #ifndef CC_INPUT_EVENT_LISTENER_PROPERTIES_H_
 #define CC_INPUT_EVENT_LISTENER_PROPERTIES_H_
 

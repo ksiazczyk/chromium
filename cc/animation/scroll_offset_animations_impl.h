@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scroll offset animations impl header
+// summary: Declares ScrollOffsetAnimationImpl, an impl-only scroll offset animation owning a timeline and animation for autoscroll and mouse wheel scrolling on the compositor thread.
+// ---
+
 #ifndef CC_ANIMATION_SCROLL_OFFSET_ANIMATIONS_IMPL_H_
 #define CC_ANIMATION_SCROLL_OFFSET_ANIMATIONS_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RollingTimeDeltaHistory unit tests
+// summary: Unit tests covering empty, size-one, and large rolling histories, including percentile results and eviction of oldest samples.
+// ---
+
 #include "cc/base/rolling_time_delta_history.h"
 #include "testing/gtest/include/gtest/gtest.h"
 

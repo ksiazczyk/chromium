@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scrollbar base interface for compositor scrollbars
+// summary: Abstract Scrollbar interface defining orientation, parts, geometry, opacity and painting hooks that compositor scrollbar implementations must provide.
+// ---
+
 #ifndef CC_INPUT_SCROLLBAR_H_
 #define CC_INPUT_SCROLLBAR_H_
 

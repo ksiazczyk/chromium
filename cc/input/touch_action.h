@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch action enum definition
+// summary: Defines the TouchAction enum representing permitted panning and zooming operations via touch input, with bitwise operators and string conversion helpers.
+// ---
+
 #ifndef CC_INPUT_TOUCH_ACTION_H_
 #define CC_INPUT_TOUCH_ACTION_H_
 

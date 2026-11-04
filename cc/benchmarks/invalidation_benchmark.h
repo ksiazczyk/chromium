@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Invalidation benchmark class declaration
+// summary: Declares the InvalidationBenchmark class, which invalidates layer areas each frame for use with telemetry benchmarks that do the measuring.
+// ---
+
 #ifndef CC_BENCHMARKS_INVALIDATION_BENCHMARK_H_
 #define CC_BENCHMARKS_INVALIDATION_BENCHMARK_H_
 

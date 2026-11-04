@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Snap fling curve unit tests
+// summary: Unit tests for SnapFlingCurve covering curve initialization, delta progression, completion within one pixel, and displacement estimation with the decay prediction feature.
+// ---
+
 #include "cc/input/snap_fling_curve.h"
 
 #include "base/test/scoped_feature_list.h"

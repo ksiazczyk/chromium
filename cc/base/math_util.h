@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MathUtil and HomogeneousCoordinate declarations
+// summary: Declares MathUtil with rounding, projection and clipping helpers plus the HomogeneousCoordinate struct used for transform math in the compositor.
+// ---
+
 #ifndef CC_BASE_MATH_UTIL_H_
 #define CC_BASE_MATH_UTIL_H_
 

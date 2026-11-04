@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ListContainerHelper implementation
+// summary: Implements the non-templated ListContainerHelper logic, including the CharAllocator that manages aligned memory chunks, insertion, erasure and iteration.
+// ---
+
 #include "cc/base/list_container_helper.h"
 
 #include <stddef.h>

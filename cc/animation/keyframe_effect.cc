@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyframeEffect implementation
+// summary: Implements KeyframeEffect, managing the running states of its keyframe models, ticking them per frame, and pushing properties between main and impl threads.
+// ---
+
 #include "cc/animation/keyframe_effect.h"
 
 #include <algorithm>

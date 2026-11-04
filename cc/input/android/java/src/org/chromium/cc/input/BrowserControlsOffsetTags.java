@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserControlsOffsetTags
+// summary: Java counterpart to the native cc::BrowserControlsOffsetTags, a value object holding optional offset tags for the top controls, content, and bottom controls with equality and tag-presence checks.
+// ---
+
 package org.chromium.cc.input;
 
 import com.google.errorprone.annotations.DoNotMock;

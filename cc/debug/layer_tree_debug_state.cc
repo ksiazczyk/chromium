@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Layer tree debug state implementation
+// summary: Implements LayerTreeDebugState helpers that report which debug rects, HUD info, and rendering stats should be shown.
+// ---
+
 #include "cc/debug/layer_tree_debug_state.h"
 
 namespace cc {

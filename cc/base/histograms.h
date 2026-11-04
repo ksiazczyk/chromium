@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UMA histogram timer macros and declarations
+// summary: Header providing macros to define scoped UMA histogram timers for time and area metrics, plus declarations for setting and getting the metrics client name.
+// ---
+
 #ifndef CC_BASE_HISTOGRAMS_H_
 #define CC_BASE_HISTOGRAMS_H_
 

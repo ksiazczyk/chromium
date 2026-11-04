@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the cc_animation component
+summary: Defines the cc_animation GN component, listing its source files, dependencies and the CC_ANIMATION_IMPLEMENTATION define.

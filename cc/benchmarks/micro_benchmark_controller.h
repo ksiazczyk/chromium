@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Micro benchmark controller declaration
+// summary: Declares the MicroBenchmarkController that schedules, identifies, and manages micro benchmarks for a layer tree host.
+// ---
+
 #ifndef CC_BENCHMARKS_MICRO_BENCHMARK_CONTROLLER_H_
 #define CC_BENCHMARKS_MICRO_BENCHMARK_CONTROLLER_H_
 

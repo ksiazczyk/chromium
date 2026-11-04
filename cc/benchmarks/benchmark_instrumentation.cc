@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Benchmark instrumentation trace events
+// summary: Emits benchmark trace events, including impl-thread rendering stats, whose names must stay in sync with performance measurement tooling.
+// ---
+
 #include "cc/benchmarks/benchmark_instrumentation.h"
 #include "base/trace_event/trace_event.h"
 

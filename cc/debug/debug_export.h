@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CC_DEBUG_EXPORT symbol visibility macro
+// summary: Defines the CC_DEBUG_EXPORT macro for importing or exporting symbols when the debug component is built as a shared library.
+// ---
+
 #ifndef CC_DEBUG_DEBUG_EXPORT_H_
 #define CC_DEBUG_DEBUG_EXPORT_H_
 

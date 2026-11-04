@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MathUtil unit tests
+// summary: Unit tests for MathUtil projection, clipping and enclosing rect behavior, including perpendicular and near-perpendicular transform edge cases.
+// ---
+
 #include "cc/base/math_util.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnittestOnlyBenchmark class declaration
+// summary: Declares the UnittestOnlyBenchmark class, a simple micro benchmark used in tests that optionally delegates to an impl-side benchmark implementation.
+// ---
+
 #ifndef CC_BENCHMARKS_UNITTEST_ONLY_BENCHMARK_H_
 #define CC_BENCHMARKS_UNITTEST_ONLY_BENCHMARK_H_
 

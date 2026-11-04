@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filter animation curve declarations
+// summary: Declares FilterAnimationCurve, FilterKeyframe, and KeyframedFilterAnimationCurve for animating FilterOperations between time-sorted keyframes.
+// ---
+
 #ifndef CC_ANIMATION_FILTER_ANIMATION_CURVE_H_
 #define CC_ANIMATION_FILTER_ANIMATION_CURVE_H_
 

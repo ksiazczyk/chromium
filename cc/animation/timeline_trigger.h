@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Timeline trigger class declaration
+// summary: Declares TimelineTrigger, an animation trigger driven by timeline time with activation and active range boundaries, plus conversion helpers.
+// ---
+
 #ifndef CC_ANIMATION_TIMELINE_TRIGGER_H_
 #define CC_ANIMATION_TIMELINE_TRIGGER_H_
 

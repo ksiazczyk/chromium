@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputHandler implementation
+// summary: Implements the compositor input handler for scrolling, covering scroll event dispatch modes, scrollbar control, overscroll, snapping, and UMA metrics.
+// ---
+
 #include "cc/input/input_handler.h"
 
 #include <algorithm>
