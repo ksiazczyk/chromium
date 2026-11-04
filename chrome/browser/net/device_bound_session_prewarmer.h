@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device bound session prewarmer header
+// summary: Declares DeviceBoundSessionPrewarmer, which schedules pre-warm refreshes of device bound session cookies and observes session access and connectivity events.
+// ---
+
 #ifndef CHROME_BROWSER_NET_DEVICE_BOUND_SESSION_PREWARMER_H_
 #define CHROME_BROWSER_NET_DEVICE_BOUND_SESSION_PREWARMER_H_
 

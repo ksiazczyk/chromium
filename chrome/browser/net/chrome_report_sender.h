@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome report sender header
+// summary: Declares SendReport, a helper similar to net::ReportSender that posts reports using SimpleURLLoader and omits credentials.
+// ---
+
 #ifndef CHROME_BROWSER_NET_CHROME_REPORT_SENDER_H_
 #define CHROME_BROWSER_NET_CHROME_REPORT_SENDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Explicitly allowed network ports pref unit tests
+// summary: Unit tests checking conversion of the ports preference for empty, valid, mixed-type, boolean, and out-of-range lists.
+// ---
+
 #include "chrome/browser/net/convert_explicitly_allowed_network_ports_pref.h"
 
 #include <memory>

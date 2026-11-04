@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojom traits mapping FormFactor to syncer::DeviceInfo
+// summary: Provides mojo enum traits converting between the mojom FormFactor enum and syncer::DeviceInfo::FormFactor.
+// ---
+
 #ifndef CHROME_BROWSER_NEW_TAB_PAGE_MODULES_V2_MOST_RELEVANT_TAB_RESUMPTION_URL_VISIT_TYPES_MOJOM_TRAITS_H_
 #define CHROME_BROWSER_NEW_TAB_PAGE_MODULES_V2_MOST_RELEVANT_TAB_RESUMPTION_URL_VISIT_TYPES_MOJOM_TRAITS_H_
 

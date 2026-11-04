@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProxyConfigMonitor unit tests
+// summary: Unit tests for ProxyConfigMonitor::IsProxyConfigured covering direct, auto-detect, PAC script, fixed servers, override rules, and local state configurations.
+// ---
+
 #include "chrome/browser/net/proxy_config_monitor.h"
 
 #include <memory>

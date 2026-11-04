@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Winsock service provider enumeration for Windows
+// summary: Enumerates Winsock namespace and layered service providers on Windows, collecting their names, versions and paths.
+// ---
+
 #include "chrome/browser/net/service_providers_win.h"
 
 #include <winsock2.h>

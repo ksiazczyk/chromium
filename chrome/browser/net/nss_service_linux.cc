@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NssService Linux implementation
+// summary: Linux-specific NssService that returns a single shared NSSCertDatabase backed by the internal PK11 key slot for all profiles.
+// ---
+
 #include "chrome/browser/net/nss_service.h"
 
 #include <pk11pub.h>

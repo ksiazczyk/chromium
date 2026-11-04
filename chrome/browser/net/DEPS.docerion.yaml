@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for chrome/browser/net
+summary: Declares allowed include directories for the folder, with extra include permissions for tests and the DBus-based proxy resolver files.

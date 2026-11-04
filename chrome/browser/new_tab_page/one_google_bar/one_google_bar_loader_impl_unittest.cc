@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OneGoogleBarLoaderImpl unit tests
+// summary: Unit tests for OneGoogleBarLoaderImpl covering response parsing, account consistency headers and error handling using a test URL loader factory.
+// ---
+
 #include "chrome/browser/new_tab_page/one_google_bar/one_google_bar_loader_impl.h"
 
 #include <optional>

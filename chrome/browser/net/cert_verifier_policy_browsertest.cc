@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cert verifier policy browser tests
+// summary: Browser tests checking how certificate-related enterprise policies such as CACertificates affect certificate verification and the certificate management UI.
+// ---
+
 #include <optional>
 
 #include "base/base64.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Net error tab helper implementation
+// summary: Implements the tab helper that monitors navigations for network errors, starts DNS probes, and binds error page support and diagnostics Mojo interfaces.
+// ---
+
 #include "chrome/browser/net/net_error_tab_helper.h"
 
 #include "base/functional/bind.h"

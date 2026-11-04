@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Outlook calendar page handler implementation
+// summary: Implements the NTP Outlook calendar handler that fetches calendar events and attachment availability from the Microsoft Graph API.
+// ---
+
 #include "chrome/browser/new_tab_page/modules/v2/calendar/outlook_calendar_page_handler.h"
 
 #include <optional>

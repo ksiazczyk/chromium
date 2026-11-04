@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QWAC web contents observer browser tests
+// summary: Browser tests for 2-QWAC link header processing, covering fetching, verification outcomes, and related histograms.
+// ---
+
 #include "chrome/browser/net/qwac_web_contents_observer.h"
 
 #include "base/containers/span.h"

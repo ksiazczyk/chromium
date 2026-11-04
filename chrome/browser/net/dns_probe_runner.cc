@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DNS probe runner implementation
+// summary: Implements DNS probes against a known-good hostname, mapping resolver errors to probe results such as correct, incorrect, failing, or unreachable.
+// ---
+
 #include "chrome/browser/net/dns_probe_runner.h"
 
 #include <optional>

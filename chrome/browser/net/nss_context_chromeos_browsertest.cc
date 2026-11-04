@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NSS context ChromeOS browser test
+// summary: Browser test verifying per-profile retrieval of the NSS certificate database and slot isolation for ChromeOS users across login and user-adding scenarios.
+// ---
+
 #include <memory>
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Explicitly allowed network ports pref conversion
+// summary: Reads the explicitly allowed network ports preference and converts it to a vector of 16-bit port numbers, ignoring invalid or out-of-range values.
+// ---
+
 #include "convert_explicitly_allowed_network_ports_pref.h"
 
 #include <string>

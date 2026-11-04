@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS network diagnostics dialog implementation
+// summary: ChromeOS implementation that launches the connectivity diagnostics system web app at the connectivity screen for failed URLs.
+// ---
+
 #include "chrome/browser/net/net_error_diagnostics_dialog.h"
 
 #include "ash/webui/connectivity_diagnostics/url_constants.h"

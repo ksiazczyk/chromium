@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac system proxy resolver service proxy
+// summary: Implements a system proxy resolver that forwards requests to the macOS proxy resolver service, launching it on demand with an idle timeout.
+// ---
+
 #include "chrome/browser/net/chrome_mojo_proxy_resolver_mac.h"
 
 #include "base/no_destructor.h"

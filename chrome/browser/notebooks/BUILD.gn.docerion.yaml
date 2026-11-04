@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Notebooks browser BUILD.gn build definition
+summary: Defines GN build targets for the notebooks browser factories and their unit tests, with dependencies on profiles, signin, sync, and the notebooks components.

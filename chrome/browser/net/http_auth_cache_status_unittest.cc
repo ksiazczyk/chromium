@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HTTP auth cache status unit tests
+// summary: Unit tests verifying the HTTP auth use counter increments only for cross-partition subresource loads that used server HTTP auth.
+// ---
+
 #include "chrome/browser/net/http_auth_cache_status.h"
 
 #include <memory>

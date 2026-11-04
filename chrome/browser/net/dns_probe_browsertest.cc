@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DNS probe browser tests
+// summary: Browser tests for the DNS probe service covering probe behavior, error page status reporting, secure DNS settings, and enterprise policy interactions.
+// ---
+
 #include <memory>
 #include <set>
 

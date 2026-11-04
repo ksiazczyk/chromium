@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS NSS temporary certificates cache class declaration
+// summary: Declares NSSTempCertsCacheChromeOS, which keeps NSS temporary certificates alive in memory for client certificate matching on ChromeOS.
+// ---
+
 #ifndef CHROME_BROWSER_NET_NSS_TEMP_CERTS_CACHE_CHROMEOS_H_
 #define CHROME_BROWSER_NET_NSS_TEMP_CERTS_CACHE_CHROMEOS_H_
 

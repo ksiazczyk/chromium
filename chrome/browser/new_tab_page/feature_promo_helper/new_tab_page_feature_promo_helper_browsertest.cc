@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: New Tab Page feature promo helper browser tests
+// summary: Browser tests for the New Tab Page feature promo helper, verifying promo feature usage recording and Customize Chrome promo display with mocked user education interfaces.
+// ---
+
 #include "chrome/browser/new_tab_page/feature_promo_helper/new_tab_page_feature_promo_helper.h"
 
 #include <memory>

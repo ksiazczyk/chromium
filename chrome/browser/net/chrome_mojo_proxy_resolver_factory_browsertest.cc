@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome Mojo proxy resolver factory browser test
+// summary: Browser test exercising the proxy resolver service lifecycle, including service launch, resolver creation, and shutdown after idle.
+// ---
+
 #include "chrome/browser/net/chrome_mojo_proxy_resolver_factory.h"
 
 #include <stdint.h>

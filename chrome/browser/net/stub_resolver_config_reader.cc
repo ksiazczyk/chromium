@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure DNS stub resolver configuration reader implementation
+// summary: Implements reading Chrome's secure DNS and DoH configuration from preferences, enterprise policy, parental controls and managed environment checks.
+// ---
+
 #include "chrome/browser/net/stub_resolver_config_reader.h"
 
 #include <set>

@@ -12,6 +12,12 @@
 // All access to this class is performed via the Predictor class, which only
 // operates on the IO thread.
 
+// ---docerion
+// type: source
+// title: Referrer preconnect learning header
+// summary: Declares Referrer and ReferrerValue, which track subresource hosts worth speculative DNS resolution or preconnection.
+// ---
+
 #ifndef CHROME_BROWSER_NET_REFERRER_H_
 #define CHROME_BROWSER_NET_REFERRER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stub resolver config reader browser tests
+// summary: Browser tests verifying secure DNS configuration behavior under enterprise policies and the async DNS feature.
+// ---
+
 #include "chrome/browser/net/stub_resolver_config_reader.h"
 
 #include <string>

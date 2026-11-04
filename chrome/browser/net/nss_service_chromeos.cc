@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NssService ChromeOS implementation
+// summary: ChromeOS-specific NssService that initializes per-profile NSS databases and TPM slots using user manager info, cryptohome PKCS#11 and TPM token getters.
+// ---
+
 #include "chrome/browser/net/nss_service.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Realbox interactive UI tests
+// summary: Interactive browser tests for the NTP Realbox search box covering model modes, input types, file and image attachment flows and pixel checks.
+// ---
+
 #include <string_view>
 
 #include "base/check_deref.h"

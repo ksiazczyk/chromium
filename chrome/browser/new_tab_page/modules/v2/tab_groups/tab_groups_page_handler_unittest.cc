@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab groups page handler unit tests
+// summary: Unit tests for TabGroupsPageHandler using a mock TabGroupSyncService, fake device info and a mock browser window interface.
+// ---
+
 #include "chrome/browser/new_tab_page/modules/v2/tab_groups/tab_groups_page_handler.h"
 
 #include <memory>

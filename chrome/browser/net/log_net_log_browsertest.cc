@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Log net-log browser tests
+// summary: Browser tests verifying that the --log-net-log switch writes a valid netlog JSON file to disk, honoring the --net-log-capture-mode flag and cookie stripping.
+// ---
+
 #include <string>
 #include <string_view>
 

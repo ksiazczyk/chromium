@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome accept encoding header browser test
+// summary: Browser test verifying that Chrome sends the expected Accept-Encoding header for navigations and fetch subrequests.
+// ---
+
 #include "base/run_loop.h"
 #include "base/test/bind.h"
 #include "chrome/test/base/in_process_browser_test.h"

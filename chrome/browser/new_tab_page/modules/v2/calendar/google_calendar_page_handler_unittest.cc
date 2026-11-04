@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Google Calendar page handler unit tests
+// summary: Unit tests for the Google Calendar page handler covering event parsing, metrics, and API responses using mock URL loaders.
+// ---
+
 #include "chrome/browser/new_tab_page/modules/v2/calendar/google_calendar_page_handler.h"
 
 #include <memory>

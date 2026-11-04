@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Net error tab helper browser tests
+// summary: Browser tests for NetErrorTabHelper checking the diagnose-errors link on error pages and DNS probe status updates, including with prerendering.
+// ---
+
 #include "chrome/browser/net/net_error_tab_helper.h"
 
 #include "base/memory/raw_ptr.h"

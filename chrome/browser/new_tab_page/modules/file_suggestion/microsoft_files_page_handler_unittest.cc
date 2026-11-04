@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Microsoft files page handler unit tests
+// summary: Unit tests for the Microsoft files page handler covering file requests, JSON parsing, metrics, and throttling behavior.
+// ---
+
 #include "chrome/browser/new_tab_page/modules/file_suggestion/microsoft_files_page_handler.h"
 
 #include <vector>

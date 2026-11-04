@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Most Relevant Tab Resumption page handler
+// summary: Tests fetching, dismissing, restoring and metrics recording of URL visits using a mock visited URL ranking service.
+// ---
+
 #include "chrome/browser/new_tab_page/modules/v2/most_relevant_tab_resumption/most_relevant_tab_resumption_page_handler.h"
 
 #include <vector>

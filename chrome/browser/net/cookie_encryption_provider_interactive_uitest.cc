@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cookie encryption provider interactive UI tests
+// summary: Interactive browser tests for cookie encryption provider configurations on Windows and Linux, including app-bound encryption and secret portal key providers.
+// ---
+
 #include <optional>
 #include <string>
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Explicitly allowed network ports policy handler header
+// summary: Declares a ListPolicyHandler that checks and converts ExplicitlyAllowedNetworkPorts policy strings to integer prefs.
+// ---
+
 #ifndef CHROME_BROWSER_NET_EXPLICITLY_ALLOWED_NETWORK_PORTS_POLICY_HANDLER_H_
 #define CHROME_BROWSER_NET_EXPLICITLY_ALLOWED_NETWORK_PORTS_POLICY_HANDLER_H_
 

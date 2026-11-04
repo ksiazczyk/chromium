@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network annotation monitor
+// summary: Declares the NetworkAnnotationMonitor class, which watches for disabled network annotations and emits UMA metrics for matching hash codes.
+// ---
+
 #ifndef CHROME_BROWSER_NET_NETWORK_ANNOTATION_MONITOR_H_
 #define CHROME_BROWSER_NET_NETWORK_ANNOTATION_MONITOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network error diagnostics dialog interface
+// summary: Declares functions that decide whether and how to show a dialog for diagnosing network errors on a failed URL, depending on platform and incognito state.
+// ---
+
 #ifndef CHROME_BROWSER_NET_NET_ERROR_DIAGNOSTICS_DIALOG_H_
 #define CHROME_BROWSER_NET_NET_ERROR_DIAGNOSTICS_DIALOG_H_
 

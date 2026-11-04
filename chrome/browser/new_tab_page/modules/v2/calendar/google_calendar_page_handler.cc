@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Calendar page handler implementation
+// summary: Implements the browser-side handler that fetches the signed-in user's Google Calendar events via the Calendar API and returns them to the NTP UI.
+// ---
+
 #include "chrome/browser/new_tab_page/modules/v2/calendar/google_calendar_page_handler.h"
 
 #include <memory>

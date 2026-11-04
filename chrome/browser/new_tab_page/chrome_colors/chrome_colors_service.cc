@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome colors service implementation
+// summary: Implements applying, confirming and reverting theme color changes from the new tab page customization menu through the theme service.
+// ---
+
 #include "chrome/browser/new_tab_page/chrome_colors/chrome_colors_service.h"
 
 #include <algorithm>

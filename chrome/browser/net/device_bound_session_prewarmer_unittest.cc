@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device bound session prewarmer unit tests
+// summary: Unit tests for DeviceBoundSessionPrewarmer covering pre-warm triggers, scheduling, transient error retries, and trigger histograms using a mock session manager.
+// ---
+
 #include "chrome/browser/net/device_bound_session_prewarmer.h"
 
 #include <memory>

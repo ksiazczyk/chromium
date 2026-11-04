@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Disk cache directory policy handler
+// summary: Applies the DiskCacheDir policy by expanding path variables and writing the resulting directory into the disk cache directory preference.
+// ---
+
 #include "chrome/browser/net/disk_cache_dir_policy_handler.h"
 
 #include "base/files/file_path.h"

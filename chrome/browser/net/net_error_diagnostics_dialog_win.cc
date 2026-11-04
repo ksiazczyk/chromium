@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows network diagnostics dialog implementation
+// summary: Windows implementation that runs the NDF diagnosis tool for a failed URL on a private thread, excluding incognito and guest profiles.
+// ---
+
 #include "chrome/browser/net/net_error_diagnostics_dialog.h"
 
 #include <windows.h>

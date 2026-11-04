@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Secure DNS policy handler unit tests
+// summary: Unit tests verifying policy error reporting and preference application for the secure DNS policy handler.
+// ---
+
 #include "chrome/browser/net/secure_dns_policy_handler.h"
 
 #include <memory>

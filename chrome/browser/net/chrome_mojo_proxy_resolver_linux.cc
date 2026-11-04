@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux system proxy resolver via XDG portal
+// summary: Implements system proxy resolution on Linux by calling the org.freedesktop.portal.ProxyResolver XDG portal over D-Bus and parsing returned proxy URIs.
+// ---
+
 #include "chrome/browser/net/chrome_mojo_proxy_resolver_linux.h"
 
 #include <algorithm>

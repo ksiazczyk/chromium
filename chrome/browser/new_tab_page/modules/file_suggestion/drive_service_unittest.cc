@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive service unit tests
+// summary: Tests DriveService request handling, response parsing, and metrics using fake tokens and network responses.
+// ---
+
 #include "chrome/browser/new_tab_page/modules/file_suggestion/drive_service.h"
 
 #include "base/barrier_closure.h"

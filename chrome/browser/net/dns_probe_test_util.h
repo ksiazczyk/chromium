@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DNS probe test utilities header
+// summary: Declares fake and hanging host resolver test doubles and fake network contexts for DNS probe service tests.
+// ---
+
 #ifndef CHROME_BROWSER_NET_DNS_PROBE_TEST_UTIL_H_
 #define CHROME_BROWSER_NET_DNS_PROBE_TEST_UTIL_H_
 

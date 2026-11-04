@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Microsoft auth service factory implementation
+// summary: Implements the profile-keyed factory that returns a MicrosoftAuthService for a profile only when the Microsoft module is enabled for that profile.
+// ---
+
 #include "chrome/browser/new_tab_page/microsoft_auth/microsoft_auth_service_factory.h"
 
 #include <memory>

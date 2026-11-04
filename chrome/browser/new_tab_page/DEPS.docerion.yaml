@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: New Tab Page include rules
+summary: Lists allowed include dependencies for the new_tab_page directory, with separate rules for test code.

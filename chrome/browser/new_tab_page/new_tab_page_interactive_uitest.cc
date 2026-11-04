@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: New Tab Page interactive UI tests
+// summary: Interactive browser tests for the desktop New Tab Page that track network resource loads and verify rendering via the DevTools protocol.
+// ---
+
 #include <algorithm>
 #include <iterator>
 #include <map>

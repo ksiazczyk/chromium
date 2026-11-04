@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Most Relevant Tab Resumption page handler implementation
+// summary: Implements the browser-side handler that fetches, ranks, decorates, dismisses and restores URL visits and records metrics for the NTP module.
+// ---
+
 #include "chrome/browser/new_tab_page/modules/v2/most_relevant_tab_resumption/most_relevant_tab_resumption_page_handler.h"
 
 #include <stddef.h>

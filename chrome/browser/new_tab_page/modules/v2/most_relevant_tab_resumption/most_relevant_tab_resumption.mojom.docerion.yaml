@@ -1,0 +1,4 @@
+# Docerion header of most_relevant_tab_resumption.mojom.
+type: source
+title: Mojom interface for the Tab Resumption page handler
+summary: Defines the PageHandler mojom interface for querying, dismissing and restoring URL visits plus the ScoredURLUserAction enum.

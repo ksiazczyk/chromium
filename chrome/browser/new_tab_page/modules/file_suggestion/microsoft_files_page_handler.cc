@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Microsoft files page handler implementation
+// summary: Implements the Microsoft files page handler, fetching and parsing Microsoft Graph file suggestions for display on the new tab page.
+// ---
+
 #include "chrome/browser/new_tab_page/modules/file_suggestion/microsoft_files_page_handler.h"
 
 #include <optional>

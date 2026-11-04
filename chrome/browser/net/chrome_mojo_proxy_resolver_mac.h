@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac system proxy resolver header
+// summary: Declares ChromeMojoProxyResolverMac, a SystemProxyResolver that proxies to the macOS proxy resolver service and manages its lifecycle.
+// ---
+
 #ifndef CHROME_BROWSER_NET_CHROME_MOJO_PROXY_RESOLVER_MAC_H_
 #define CHROME_BROWSER_NET_CHROME_MOJO_PROXY_RESOLVER_MAC_H_
 

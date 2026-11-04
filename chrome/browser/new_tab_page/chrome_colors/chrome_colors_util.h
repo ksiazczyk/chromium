@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome colors utility header
+// summary: Declares color ID constants and histogram recording functions for Chrome colors metrics, matching enums.xml values.
+// ---
+
 #ifndef CHROME_BROWSER_NEW_TAB_PAGE_CHROME_COLORS_CHROME_COLORS_UTIL_H_
 #define CHROME_BROWSER_NEW_TAB_PAGE_CHROME_COLORS_CHROME_COLORS_UTIL_H_
 

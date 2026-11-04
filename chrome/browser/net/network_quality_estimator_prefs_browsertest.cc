@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network quality estimator prefs browser test
+// summary: Browser test verifying network quality estimator behavior with persisted prefs by simulating network quality changes and observing effective connection types.
+// ---
+
 #include <memory>
 #include <string>
 

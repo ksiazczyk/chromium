@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the ChromeOS NSS temporary certificates cache
+// summary: Unit tests verifying that cached certificates are findable via CERT_FindCertByName and become unavailable once the cache goes out of scope.
+// ---
+
 #include "chrome/browser/net/nss_temp_certs_cache_chromeos.h"
 
 #include <cert.h>

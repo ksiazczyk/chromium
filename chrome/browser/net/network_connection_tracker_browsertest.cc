@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network connection tracker browser test
+// summary: Browser test that simulates network connection changes and verifies observer notifications and connection type queries through the network connection tracker.
+// ---
+
 #include "base/check_op.h"
 #include "base/feature_list.h"
 #include "base/functional/bind.h"

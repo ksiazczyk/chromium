@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Error page browser tests
+// summary: Browser tests for network error pages, covering DNS probe statuses, error auto-reload, and the net error diagnostics dialog.
+// ---
+
 #include <algorithm>
 #include <memory>
 #include <string_view>

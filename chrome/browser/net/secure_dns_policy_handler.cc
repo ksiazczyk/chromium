@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure DNS policy handler implementation
+// summary: Implements validation and application of DNS-over-HTTPS policies such as mode, templates and salt, including Chrome OS-specific salt checks.
+// ---
+
 #include "chrome/browser/net/secure_dns_policy_handler.h"
 
 #include <string>

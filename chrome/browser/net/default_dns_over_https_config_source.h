@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default DNS-over-HTTPS config source header
+// summary: Declares DefaultDnsOverHttpsConfigSource, a cross-platform DnsOverHttpsConfigSource that derives DNS-over-HTTPS settings from local state preferences.
+// ---
+
 #ifndef CHROME_BROWSER_NET_DEFAULT_DNS_OVER_HTTPS_CONFIG_SOURCE_H_
 #define CHROME_BROWSER_NET_DEFAULT_DNS_OVER_HTTPS_CONFIG_SOURCE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DNS-over-HTTPS browser tests
+// summary: Parameterized browser tests verifying secure DNS-over-HTTPS configuration with external provider servers and navigation behavior in secure mode.
+// ---
+
 #include <string>
 #include <utility>
 #include <vector>

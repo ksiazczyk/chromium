@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: External protocol handling browser test
+// summary: Browser test that verifies external protocol handling launches URLs via a fake protocol handler delegate when the browser is not the default scheme handler.
+// ---
+
 #include <utility>
 #include <vector>
 

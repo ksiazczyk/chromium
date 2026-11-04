@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for chrome/browser/net
+summary: Inherits owners from //net/OWNERS and adds per-file owners for network annotation monitor and device bound session files.

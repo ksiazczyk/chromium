@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeMojoProxyResolverWin class declaration
+// summary: Declares ChromeMojoProxyResolverWin, a SystemProxyResolver that forwards requests to the Windows proxy resolver service without keeping it alive.
+// ---
+
 #ifndef CHROME_BROWSER_NET_CHROME_MOJO_PROXY_RESOLVER_WIN_H_
 #define CHROME_BROWSER_NET_CHROME_MOJO_PROXY_RESOLVER_WIN_H_
 

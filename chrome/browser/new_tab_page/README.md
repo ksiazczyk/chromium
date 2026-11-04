@@ -1,3 +1,11 @@
+---
+type: readme
+title: WebUI New Tab Page (Desktop)
+summary: Documents the desktop Google New Tab Page backend and its features, including One Google Bar, doodles, Realbox, most visited tiles and middle-slot promos.
+relations:
+  - documents /chrome/browser/new_tab_page/new_tab_page_realbox_interactive_uitest.cc
+---
+
 WebUI New Tab Page (Desktop)
 ============================
 

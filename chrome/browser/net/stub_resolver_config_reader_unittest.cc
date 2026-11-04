@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stub resolver config reader unit tests
+// summary: Unit tests covering secure DNS mode, DoH config, managed environment and parental controls handling in StubResolverConfigReader.
+// ---
+
 #include "chrome/browser/net/stub_resolver_config_reader.h"
 
 #include <memory>

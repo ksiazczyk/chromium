@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DNS probe service factory implementation
+// summary: Implements the per-profile DnsProbeService that probes DNS with the current config and Google public DNS, caching results for five seconds.
+// ---
+
 #include "chrome/browser/net/dns_probe_service_factory.h"
 
 #include <stdint.h>

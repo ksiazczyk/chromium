@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network quality tracker browser test
+// summary: Browser test that simulates network quality changes and verifies NetworkQualityTracker observer notifications of effective connection type.
+// ---
+
 #include "services/network/public/cpp/network_quality_tracker.h"
 
 #include <memory>

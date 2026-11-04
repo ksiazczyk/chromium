@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Microsoft auth service observer interface
+// summary: Declares the MicrosoftAuthServiceObserver interface with a callback invoked when the Microsoft auth state is updated.
+// ---
+
 #ifndef CHROME_BROWSER_NEW_TAB_PAGE_MICROSOFT_AUTH_MICROSOFT_AUTH_SERVICE_OBSERVER_H_
 #define CHROME_BROWSER_NEW_TAB_PAGE_MICROSOFT_AUTH_MICROSOFT_AUTH_SERVICE_OBSERVER_H_
 

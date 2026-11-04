@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cookie use counter browser tests
+// summary: Browser tests verifying use counter metrics when HttpOnly cookies are shadowed by non-HttpOnly partitioned cookies, checking histogram counts and cookie header contents.
+// ---
+
 #include "base/path_service.h"
 #include "base/test/metrics/histogram_tester.h"
 #include "build/build_config.h"

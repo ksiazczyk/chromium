@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Explicitly allowed network ports policy handler implementation
+// summary: Validates and converts ExplicitlyAllowedNetworkPorts policy strings into the integer port list preference.
+// ---
+
 #include "chrome/browser/net/explicitly_allowed_network_ports_policy_handler.h"
 
 #include "base/check.h"

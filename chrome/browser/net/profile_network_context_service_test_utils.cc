@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ambient authentication test helper implementation
+// summary: Implements AmbientAuthenticationTestHelper to check whether ambient HTTP auth default credentials are allowed for a profile by configuring network context params.
+// ---
+
 #include "chrome/browser/net/profile_network_context_service_test_utils.h"
 
 #include "chrome/browser/browser_process.h"

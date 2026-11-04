@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New tab page modules implementation
+// summary: Builds the list of enabled new tab page module details for a profile and determines whether modules are enabled based on features, switches, and sign-in state.
+// ---
+
 #include "chrome/browser/new_tab_page/modules/new_tab_page_modules.h"
 
 #include <string>

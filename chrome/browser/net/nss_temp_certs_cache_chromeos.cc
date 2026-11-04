@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS NSS temporary certificates cache implementation
+// summary: Implements a cache that holds NSS temporary certificates in memory on ChromeOS so they can be found during client certificate discovery.
+// ---
+
 #include "chrome/browser/net/nss_temp_certs_cache_chromeos.h"
 
 #include "base/logging.h"

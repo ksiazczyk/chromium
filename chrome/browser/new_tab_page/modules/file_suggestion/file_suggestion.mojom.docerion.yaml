@@ -1,0 +1,4 @@
+# Docerion header of file_suggestion.mojom.
+type: source
+title: File suggestion Mojom types
+summary: Defines the File struct and recommendation type enum shared between the browser and the new tab page file suggestion UI.

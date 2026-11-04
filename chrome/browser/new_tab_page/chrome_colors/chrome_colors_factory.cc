@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome colors factory implementation
+// summary: Implements the profile-keyed factory that creates and provides a ChromeColorsService instance for each profile.
+// ---
+
 #include "chrome/browser/new_tab_page/chrome_colors/chrome_colors_factory.h"
 
 #include "chrome/browser/new_tab_page/chrome_colors/chrome_colors_service.h"

@@ -1,0 +1,4 @@
+# Docerion header of outlook_calendar.mojom.
+type: source
+title: Outlook Calendar page handler Mojom interface
+summary: Defines the Mojo interface the NTP module UI uses to request today's Outlook Calendar events from the browser.

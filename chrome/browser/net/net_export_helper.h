@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Net export helper for net log polled data
+// summary: Declares UI-thread helpers that return Value summaries of net log polled data, such as prerender info, extension info, and Windows service providers.
+// ---
+
 #ifndef CHROME_BROWSER_NET_NET_EXPORT_HELPER_H_
 #define CHROME_BROWSER_NET_NET_EXPORT_HELPER_H_
 

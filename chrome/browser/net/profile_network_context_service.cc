@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile network context service implementation
+// summary: Implements the per-profile service that configures NetworkContexts, certificate verification, cookie and SSL settings, and enterprise certificate policies.
+// ---
+
 #include "chrome/browser/net/profile_network_context_service.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Storage access test utilities header
+// summary: Declares helpers for setting and checking storage, cross-tab info and storage access on frames and workers during tests.
+// ---
+
 #ifndef CHROME_BROWSER_NET_STORAGE_TEST_UTILS_H_
 #define CHROME_BROWSER_NET_STORAGE_TEST_UTILS_H_
 

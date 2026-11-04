@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network annotation monitor unit test
+// summary: Unit test verifying that the monitor reports violations for blocklisted hash codes and can rebind its client, as happens after a network service crash.
+// ---
+
 #include "chrome/browser/net/network_annotation_monitor.h"
 
 #include "base/strings/string_number_conversions.h"

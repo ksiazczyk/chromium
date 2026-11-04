@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Microsoft modules helper implementation
+// summary: Implements helpers that derive file extensions from MIME types, strip extensions from file names, and map MIME types to Microsoft Fluent file icon URLs for new tab page modules.
+// ---
+
 #include "chrome/browser/new_tab_page/modules/microsoft_modules_helper.h"
 
 #include "base/containers/fixed_flat_map.h"

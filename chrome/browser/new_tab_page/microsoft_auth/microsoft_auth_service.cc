@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Microsoft auth service implementation
+// summary: Implements the keyed service that stores the Microsoft auth access token and state for the desktop new tab page, clears expired tokens, and notifies observers of state changes.
+// ---
+
 #include "chrome/browser/new_tab_page/microsoft_auth/microsoft_auth_service.h"
 
 #include <string>

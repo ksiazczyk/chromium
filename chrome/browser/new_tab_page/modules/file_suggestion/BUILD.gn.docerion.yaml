@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for file suggestion Mojo bindings
+summary: Defines the Mojo bindings target for the Drive, file suggestion, and Microsoft files interfaces of the new tab page module.

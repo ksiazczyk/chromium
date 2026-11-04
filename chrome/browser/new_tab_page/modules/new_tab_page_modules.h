@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New tab page modules header
+// summary: Declares the ModuleIdDetail struct and functions that assemble module details and check whether new tab page modules are enabled.
+// ---
+
 #ifndef CHROME_BROWSER_NEW_TAB_PAGE_MODULES_NEW_TAB_PAGE_MODULES_H_
 #define CHROME_BROWSER_NEW_TAB_PAGE_MODULES_NEW_TAB_PAGE_MODULES_H_
 

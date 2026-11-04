@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Selected colors info header
+// summary: Defines the ColorInfo struct and the list of preselected colors shown in the Chrome Colors menu, kept in sync with ChromeColorsInfo in enums.xml.
+// ---
+
 #ifndef CHROME_BROWSER_NEW_TAB_PAGE_CHROME_COLORS_SELECTED_COLORS_INFO_H_
 #define CHROME_BROWSER_NEW_TAB_PAGE_CHROME_COLORS_SELECTED_COLORS_INFO_H_
 

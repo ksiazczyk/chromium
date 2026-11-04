@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network context configuration browser test
+// summary: Browser test suite verifying how the network context is configured, covering areas such as cookies, proxy settings, SSL, and user agent handling.
+// ---
+
 #include <atomic>
 #include <optional>
 #include <string>

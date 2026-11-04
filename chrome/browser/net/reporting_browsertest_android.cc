@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android Reporting API browser tests
+// summary: Android browser tests for the Reporting API, using a platform cert verifier browser test base and controlled report upload responses.
+// ---
+
 #include <memory>
 #include <string>
 

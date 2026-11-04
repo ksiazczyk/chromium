@@ -5,6 +5,12 @@
 // This protocol buffer defines the message format between the probe clients
 // and the probe servers.
 
+// ---docerion
+// type: source
+// title: Probe packet protocol buffer definition
+// summary: Defines the ProbePacket protocol buffer message format between probe clients and servers, including header, token and padding fields.
+// ---
+
 syntax = "proto2";
 
 package chrome_browser_net;

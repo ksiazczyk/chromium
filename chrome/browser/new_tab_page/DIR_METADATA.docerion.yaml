@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: New Tab Page directory metadata
+summary: Specifies the owning team email and public Buganizer component for the new_tab_page directory.

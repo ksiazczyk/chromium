@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OneGoogleBarService unit tests
+// summary: Unit tests for OneGoogleBarService using a fake loader and identity test environment, covering refresh behavior and observer notifications.
+// ---
+
 #include "chrome/browser/new_tab_page/one_google_bar/one_google_bar_service.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileNetworkContextServiceFactory header
+// summary: Declares the ProfileNetworkContextServiceFactory singleton that returns the ProfileNetworkContextService supporting NetworkContexts for a browser context.
+// ---
+
 #ifndef CHROME_BROWSER_NET_PROFILE_NETWORK_CONTEXT_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_NET_PROFILE_NETWORK_CONTEXT_SERVICE_FACTORY_H_
 

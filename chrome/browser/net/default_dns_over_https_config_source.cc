@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default DNS-over-HTTPS config source
+// summary: Implements the default cross-platform DNS-over-HTTPS configuration source that reads mode, templates, fallback, and managed state from local state preferences.
+// ---
+
 #include "chrome/browser/net/default_dns_over_https_config_source.h"
 
 #include <string>

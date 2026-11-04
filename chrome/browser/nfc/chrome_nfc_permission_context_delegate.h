@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome NFC permission context delegate header
+// summary: Declares ChromeNfcPermissionContextDelegate implementing NfcPermissionContext::Delegate with an InteractabilityChecker interface for Android builds.
+// ---
+
 #ifndef CHROME_BROWSER_NFC_CHROME_NFC_PERMISSION_CONTEXT_DELEGATE_H_
 #define CHROME_BROWSER_NFC_CHROME_NFC_PERMISSION_CONTEXT_DELEGATE_H_
 

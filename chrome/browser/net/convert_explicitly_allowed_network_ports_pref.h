@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Explicitly allowed network ports pref conversion header
+// summary: Declares ConvertExplicitlyAllowedNetworkPortsPref, which converts the ports preference into 16-bit unsigned integers.
+// ---
+
 #ifndef CHROME_BROWSER_NET_CONVERT_EXPLICITLY_ALLOWED_NETWORK_PORTS_PREF_H_
 #define CHROME_BROWSER_NET_CONVERT_EXPLICITLY_ALLOWED_NETWORK_PORTS_PREF_H_
 

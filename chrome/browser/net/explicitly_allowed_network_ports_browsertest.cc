@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Explicitly allowed network ports browser tests
+// summary: Browser tests verifying the ExplicitlyAllowedNetworkPorts policy unblocks port 79 in the network service and render process.
+// ---
+
 #include <string>
 
 #include "chrome/browser/policy/policy_test_utils.h"

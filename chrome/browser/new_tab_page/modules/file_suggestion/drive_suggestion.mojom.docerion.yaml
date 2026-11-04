@@ -1,0 +1,4 @@
+# Docerion header of drive_suggestion.mojom.
+type: source
+title: Drive suggestion Mojo interface
+summary: Defines the DriveSuggestionHandler Mojo interface used by the NTP UI to fetch Drive file suggestions.

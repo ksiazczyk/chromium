@@ -1,0 +1,4 @@
+# Docerion header of url_visit_types.mojom.
+type: source
+title: Mojom types for URL visits in the Tab Resumption module
+summary: Defines form factor, decoration and visit source enums plus the URLVisit struct describing visits shown in the Tab Resumption module.

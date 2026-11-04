@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Disk cache directory policy handler header
+// summary: Declares DiskCacheDirPolicyHandler, a type-checking configuration policy handler for the DiskCacheDir policy.
+// ---
+
 #ifndef CHROME_BROWSER_NET_DISK_CACHE_DIR_POLICY_HANDLER_H_
 #define CHROME_BROWSER_NET_DISK_CACHE_DIR_POLICY_HANDLER_H_
 

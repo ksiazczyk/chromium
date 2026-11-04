@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake NSS service class declaration
+// summary: Declares FakeNssService, a test double of NssService that maintains its own temporary NSS slots for a browser context during testing.
+// ---
+
 #ifndef CHROME_BROWSER_NET_FAKE_NSS_SERVICE_H_
 #define CHROME_BROWSER_NET_FAKE_NSS_SERVICE_H_
 

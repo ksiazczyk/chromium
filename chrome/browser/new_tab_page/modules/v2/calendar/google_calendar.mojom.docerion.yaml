@@ -1,0 +1,4 @@
+# Docerion header of google_calendar.mojom.
+type: source
+title: Google Calendar page handler Mojom interface
+summary: Defines the Mojo interface the NTP module UI uses to request today's Google Calendar events from the browser.

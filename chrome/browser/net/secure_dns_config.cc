@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Secure DNS configuration implementation
+// summary: Implements SecureDnsConfig, including parsing and string conversion of secure DNS modes.
+// ---
+
 #include "chrome/browser/net/secure_dns_config.h"
 
 #include <string_view>

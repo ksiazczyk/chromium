@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive suggestion handler declaration
+// summary: Declares the Mojo receiver that handles Drive module requests sent from JavaScript.
+// ---
+
 #ifndef CHROME_BROWSER_NEW_TAB_PAGE_MODULES_FILE_SUGGESTION_DRIVE_SUGGESTION_HANDLER_H_
 #define CHROME_BROWSER_NEW_TAB_PAGE_MODULES_FILE_SUGGESTION_DRIVE_SUGGESTION_HANDLER_H_
 

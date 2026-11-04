@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mac Mojo proxy resolver service browser tests
+// summary: Browser tests verifying that the macOS system proxy resolver service launches on demand, is reused, and shuts down when no resolvers remain.
+// ---
+
 #include "chrome/browser/net/chrome_mojo_proxy_resolver_mac.h"
 
 #include "base/run_loop.h"

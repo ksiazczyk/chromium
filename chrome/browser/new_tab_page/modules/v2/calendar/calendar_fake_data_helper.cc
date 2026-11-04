@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Calendar fake data helper implementation
+// summary: Generates fake calendar events and a fake Outlook JSON response used by the new tab page calendar module for development and testing.
+// ---
+
 #include "chrome/browser/new_tab_page/modules/v2/calendar/calendar_fake_data_helper.h"
 
 #include "base/strings/string_number_conversions.h"

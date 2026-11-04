@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile network context service class declaration
+// summary: Declares ProfileNetworkContextService, a KeyedService that initializes and provides NetworkContexts for a profile, eventually replacing ProfileIOData.
+// ---
+
 #ifndef CHROME_BROWSER_NET_PROFILE_NETWORK_CONTEXT_SERVICE_H_
 #define CHROME_BROWSER_NET_PROFILE_NETWORK_CONTEXT_SERVICE_H_
 

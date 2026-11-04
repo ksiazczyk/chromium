@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Microsoft files page handler header
+// summary: Declares the MicrosoftFilesPageHandler class with request result enums and methods for retrieving and aggregating file suggestions.
+// ---
+
 #ifndef CHROME_BROWSER_NEW_TAB_PAGE_MODULES_FILE_SUGGESTION_MICROSOFT_FILES_PAGE_HANDLER_H_
 #define CHROME_BROWSER_NEW_TAB_PAGE_MODULES_FILE_SUGGESTION_MICROSOFT_FILES_PAGE_HANDLER_H_
 
