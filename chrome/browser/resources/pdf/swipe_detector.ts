@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Swipe gesture detector
+// summary: Detects horizontal touch swipes in presentation mode and dispatches swipe direction events to the viewer.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 /**

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Advanced settings item element
+// summary: Lit element representing one vendor capability in the advanced settings dialog, syncing its control value with the vendorItems setting and supporting search highlighting.
+// ---
+
 import 'chrome://resources/cr_elements/cr_checkbox/cr_checkbox.js';
 import 'chrome://resources/cr_elements/cr_input/cr_input.js';
 

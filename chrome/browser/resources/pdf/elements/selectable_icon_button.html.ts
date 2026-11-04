@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Selectable icon button HTML template
+// summary: Lit HTML template for the selectable-icon-button element, rendering a radio-role cr-icon-button with ARIA attributes.
+// ---
+
 import 'chrome://resources/cr_elements/cr_icon_button/cr_icon_button.js';
 
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: PDF viewer extension manifest
+summary: Manifest for the built-in PDF viewer extension declaring its permissions, handled MIME types, and entry page.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pages settings HTML template
+// summary: Lit HTML template with a page range select for all, odd, even, and custom pages plus a collapsible custom range input.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {PagesSettingsElement} from './pages_settings.js';

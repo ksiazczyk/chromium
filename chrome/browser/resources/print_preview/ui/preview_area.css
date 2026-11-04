@@ -10,6 +10,12 @@
  * #include=cr-hidden-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Preview area styles
+summary: CSS for the print preview area element, covering the loading dots animation, plugin fade transitions, and overlay message layout.
+*/
+
 @keyframes dancing-dots-jump {
   0% { top: 0; }
   55% { top: 0; }

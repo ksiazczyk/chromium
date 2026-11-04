@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF viewer page indicator template
+// summary: Lit HTML template rendering the page indicator's label text and triangle pointer.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {ViewerPageIndicatorElement} from './viewer_page_indicator.js';

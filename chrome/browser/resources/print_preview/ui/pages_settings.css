@@ -9,6 +9,12 @@
  * #include=print-preview-shared md-select-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Pages settings styles
+summary: Lit CSS for the print preview pages settings, adjusting error display and margins of the custom page range input.
+*/
+
 :host([error-state_='0']) #pageSettingsCustomInput,
 :host([error-state_='3']) #pageSettingsCustomInput {
   --cr-input-error-display: none;

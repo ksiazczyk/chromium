@@ -9,6 +9,12 @@
  * #include=pdf-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Viewer toolbar styles
+summary: Stylesheet for the PDF viewer toolbar covering layout, zoom controls, responsive breakpoints, loading state, and annotation buttons.
+*/
+
 :host {
   --viewer-pdf-toolbar-height: 56px;
   position: relative;

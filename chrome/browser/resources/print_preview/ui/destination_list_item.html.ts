@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Destination list item Lit template
+// summary: Lit HTML template for a destination list item showing the destination icon, display name, search hint and extension indicator.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {DestinationListItemElement} from './destination_list_item.js';

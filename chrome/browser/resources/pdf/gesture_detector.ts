@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch and pinch gesture detector
+// summary: Class that monitors touch and ctrl-wheel events on an element and emits pinch gesture events such as pinchstart, pinchupdate and pinchend.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import type {Point} from './constants.js';

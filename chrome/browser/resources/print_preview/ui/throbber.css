@@ -7,6 +7,12 @@
  * #import=./print_preview_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Throbber styles for print preview
+summary: CSS defining the small throbber loading indicator used in the print preview UI, wrapped for Lit style consumption.
+*/
+
 .throbber {
   background: url(chrome://resources/images/throbber_small.svg) no-repeat;
   display: inline-block;

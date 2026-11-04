@@ -10,6 +10,12 @@
  * #include=cr-hidden-style-lit print-preview-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: More settings styles
+summary: Lit CSS styles for the print preview more settings expander, styling its top border, expand button layout and disabled state.
+*/
+
 :host {
   border-top: var(--print-preview-settings-border);
   display: block;

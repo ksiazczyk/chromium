@@ -10,6 +10,12 @@
  * #include=print-preview-shared cr-hidden-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Advanced settings dialog styles
+summary: Lit CSS styles for the advanced settings dialog, defining dialog dimensions, search box spacing, and the scrollable item list layout.
+*/
+
 #dialog::part(dialog) {
   height: -webkit-fit-content;
   max-height: calc(100vh - 2 * var(--print-preview-dialog-margin));

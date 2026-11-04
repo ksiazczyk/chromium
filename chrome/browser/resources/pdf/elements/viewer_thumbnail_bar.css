@@ -9,6 +9,12 @@
  * #css_wrapper_metadata_end */
 
 
+/*docerion
+type: source
+title: PDF viewer thumbnail bar styles
+summary: Styles the scrollable thumbnail bar container whose viewport determines which page thumbnails load.
+*/
+
 /* <viewer-thumbnail-bar> must have a limited height, since the viewport of the
  * internal #thumbnails div is used to determine which thumbnails to load. */
 :host {

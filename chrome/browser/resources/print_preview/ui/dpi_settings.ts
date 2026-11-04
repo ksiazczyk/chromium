@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview DPI settings element
+// summary: Lit element for the print preview DPI setting, building option labels and syncing the selected dpi value with sticky settings.
+// ---
+
 import './settings_section.js';
 import '/strings.m.js';
 import './settings_select.js';

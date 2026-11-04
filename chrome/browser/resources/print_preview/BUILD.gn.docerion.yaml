@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Print preview WebUI build targets
+summary: Defines the GN build targets and the TypeScript, CSS, and HTML file lists for the print preview WebUI.

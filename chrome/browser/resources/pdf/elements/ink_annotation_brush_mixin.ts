@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ink annotation brush mixin
+// summary: Mixin supplying pen and highlighter color options and current brush state to ink annotation toolbar elements.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import {EventTracker} from 'chrome://resources/js/event_tracker.js';
 import type {CrLitElement} from 'chrome://resources/lit/v3_0/lit.rollup.js';

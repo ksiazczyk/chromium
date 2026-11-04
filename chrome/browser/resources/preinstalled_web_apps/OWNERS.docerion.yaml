@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file delegating to web_applications owners
+summary: Points to chrome/browser/web_applications/OWNERS so that team owns the preinstalled web apps resources directory.

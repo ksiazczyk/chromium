@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Viewer bottom toolbar element
+// summary: Lit element toolbar for annotation brushes, handling pen and highlighter sizes, colors and eraser mode.
+// ---
+
 import './ink_brush_selector.js';
 import './ink_color_selector.js';
 import './ink_size_selector.js';

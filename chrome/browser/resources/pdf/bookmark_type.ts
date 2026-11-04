@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF bookmark type definition
+// summary: Defines the Bookmark interface describing table-of-contents entries that target a page location with optional position and zoom, or a URI.
+// ---
+
 /**
  * The |title| is the text label displayed for the bookmark.
  *

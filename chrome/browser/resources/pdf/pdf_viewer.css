@@ -13,6 +13,12 @@
  * #include=pdf-viewer-shared-style cr-hidden-style-lit cr-spinner-style-lit scrollbar
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: PDF viewer styles
+summary: Defines the PDF viewer's layout styles for the toolbar, side navigation panel, content area, spinner, and annotation surfaces.
+*/
+
 :host {
   --viewer-pdf-sidenav-width: 300px;
   display: flex;

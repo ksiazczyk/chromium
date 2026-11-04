@@ -9,6 +9,12 @@
  * #include=cr-hidden-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Viewer attachment styles
+summary: Styles for a PDF attachment list item, covering hover highlight, title ellipsis and download button placement.
+*/
+
 #item {
   align-items: flex-start;
   display: flex;

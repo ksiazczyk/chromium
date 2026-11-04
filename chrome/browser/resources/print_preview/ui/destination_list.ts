@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview destination list element
+// summary: Implements the print-preview-destination-list element that filters destinations by search query and manages list height and loading state.
+// ---
+
 import '//resources/cr_elements/cr_infinite_list/cr_infinite_list.js';
 import './destination_list_item.js';
 import '/strings.m.js';

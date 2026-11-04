@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit throbber cr-hidden-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Print preview link container styles
+summary: Styles for the print preview link container, covering the system dialog link, throbber, and disabled link appearance.
+*/
+
 :host {
   display: block;
 }

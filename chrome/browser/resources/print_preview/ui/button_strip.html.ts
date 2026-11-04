@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview button strip template
+// summary: Lit HTML template for the button strip element rendering cancel and print buttons with platform-specific ordering.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ButtonStripElement} from './button_strip.js';

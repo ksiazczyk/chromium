@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview color settings element
+// summary: Color settings element that syncs the color print option with the model and disables the control when managed by policy.
+// ---
+
 import 'chrome://resources/cr_elements/md_select_lit.css.js';
 import './print_preview_shared.css.js';
 import './settings_section.js';

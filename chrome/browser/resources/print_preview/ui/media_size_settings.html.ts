@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media size settings HTML template
+// summary: Lit HTML template for the print preview media size settings section, wrapping a settings select bound to the printer's media size capability.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {MediaSizeSettingsElement} from './media_size_settings.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Advanced settings dialog HTML template
+// summary: Lit HTML template for the advanced settings dialog with a title, search box, vendor capability item list, no-match hint, and cancel and apply buttons.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {AdvancedSettingsDialogElement} from './advanced_settings_dialog.js';

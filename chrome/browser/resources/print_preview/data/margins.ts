@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print margins model
+// summary: Defines the Margins class holding margin values in points, with orientation and margin type enums plus serialization and comparison helpers.
+// ---
+
 /**
  * Enumeration of the orientations of margins.
  */

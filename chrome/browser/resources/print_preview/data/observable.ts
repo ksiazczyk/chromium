@@ -25,6 +25,12 @@
 //  Note: Array push() and splice() notifications are not implemented yet, will
 //  be implemented if/when the need arises.
 
+// ---docerion
+// type: source
+// title: Observable subproperty observation for Lit migrations
+// summary: Implements an Observable class that wraps objects in ES Proxies to report nested property changes, replicating Polymer observer behavior to ease Lit migrations.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 type ChangeCallback<T> = (newValue: T, previousValue: T, path: string) => void;

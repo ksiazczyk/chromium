@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Duplex settings element
+// summary: Print preview duplex settings element that binds the duplex and short-edge settings to a checkbox and select, honoring policy.
+// ---
+
 import 'chrome://resources/cr_elements/cr_checkbox/cr_checkbox.js';
 import 'chrome://resources/cr_elements/cr_collapse/cr_collapse.js';
 import './icons.html.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF viewer scripting API
+// summary: Provides a scripting interface to the PDF viewer so hosts like print preview can control loading, key events, scrolling, and viewport changes.
+// ---
+
 type ViewportChangedCallback =
     (pageX: number, pageY: number, pageWidth: number, viewportWidth: number,
      viewportHeight: number) => void;

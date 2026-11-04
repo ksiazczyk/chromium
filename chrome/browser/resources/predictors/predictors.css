@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Predictors page styles
+summary: Styles the predictors WebUI page, covering table layout, the count banner, disabled mode, and color coding for predictor actions.
+*/
+
 body {
   margin: 20px;
 }

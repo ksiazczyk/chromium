@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Margins settings element
+// summary: Lit element implementing the print preview margins setting, syncing the selected margin type and disabling it when pages per sheet exceeds one.
+// ---
+
 import './settings_section.js';
 
 import {getCss as getMdSelectLitCss} from 'chrome://resources/cr_elements/md_select_lit.css.js';

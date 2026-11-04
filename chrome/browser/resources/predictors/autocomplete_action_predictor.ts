@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autocomplete Action Predictor WebUI logic
+// summary: Requests the autocomplete action predictor database from the browser backend and renders its entries in a filterable table with confidence-based styling.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 

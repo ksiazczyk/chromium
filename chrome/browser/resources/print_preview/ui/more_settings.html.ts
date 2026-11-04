@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: More settings HTML template
+// summary: Lit HTML template for the print preview more settings toggle, rendering an expand button that shows or hides advanced options.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {MoreSettingsElement} from './more_settings.js';

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Print preview directory owners
+summary: Delegates code review ownership to the owners file of the printing directory.

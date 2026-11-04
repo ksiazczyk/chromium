@@ -9,6 +9,12 @@
  * #include=print-preview-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the print preview settings section element
+summary: Lit CSS that lays out the slotted title and controls of a print preview settings section with shared print preview variables.
+*/
+
 :host {
   display: flex;
   padding-inline-start: var(--print-preview-sidebar-margin);

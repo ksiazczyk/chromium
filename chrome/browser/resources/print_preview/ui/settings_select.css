@@ -9,6 +9,12 @@
  * #include=print-preview-shared md-select-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the print preview settings select element
+summary: Lit CSS applying margins and width to the Material Design select used by print preview settings.
+*/
+
 select.md-select {
   margin: 2px;
   --md-select-width: calc(100% - 4px);

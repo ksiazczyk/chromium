@@ -6,6 +6,12 @@
  * #type=style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Viewer zoom toolbar styles
+summary: Stylesheet that positions the fixed zoom toolbar, handles RTL layout, and animates the visibility of the zoom buttons.
+*/
+
 :host {
   --button-position-offset: 24px;
   bottom: 0;

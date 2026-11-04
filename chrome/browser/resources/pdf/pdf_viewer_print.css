@@ -8,6 +8,12 @@
  * #include=pdf-viewer-shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Print preview viewer styles
+summary: Lit styles for the print preview PDF viewer that hide the page indicator and zoom toolbar in small windows.
+*/
+
 viewer-page-indicator {
   opacity: 0;
   visibility: hidden;

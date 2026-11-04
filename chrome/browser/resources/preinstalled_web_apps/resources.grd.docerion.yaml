@@ -1,0 +1,4 @@
+# Docerion header of resources.grd.
+type: config
+title: GRIT resource definitions for preinstalled web app icons
+summary: GRIT file defining outputs and bundling 192/512 px PNG icons for preinstalled web apps such as Google Chat, Docs, Drive, Sheets, Slides, Gmail, YouTube, plus ChromeOS-only apps like Gemini and Vids.

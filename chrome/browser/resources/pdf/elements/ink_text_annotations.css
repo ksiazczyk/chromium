@@ -7,6 +7,12 @@
  * #import=./shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Ink text annotations styles
+summary: Styles the text annotation overlay, positioning placeholder boxes over the PDF plugin with rotation-aware offsets and focus rings.
+*/
+
 :host {
   display: block;
   left: 0;

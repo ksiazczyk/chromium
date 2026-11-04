@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF viewer bottom toolbar dropdown element
+// summary: Lit element implementing a dropdown button for the PDF viewer's bottom toolbar, with focus tracking to close the menu when focus leaves.
+// ---
+
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 
 import {assert} from 'chrome://resources/js/assert.js';

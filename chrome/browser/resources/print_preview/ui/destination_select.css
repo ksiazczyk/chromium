@@ -13,6 +13,12 @@
  * #include=cr-shared-style-lit print-preview-shared throbber md-select-lit cr-hidden-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Destination select styles
+summary: Lit CSS styles for the print preview destination select dropdown, covering printer icon sizing, RTL layout, and the throbber container.
+*/
+
 :host {
   --printer-icon-side-padding: 4px;
   --printer-icon-size: 20px;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview link container template
+// summary: Lit HTML template rendering the system print dialog link and, on macOS, the open-PDF-in-Preview link with throbbers.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {LinkContainerElement} from './link_container.js';

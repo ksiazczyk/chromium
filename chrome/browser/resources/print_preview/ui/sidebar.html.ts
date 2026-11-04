@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML template for the print preview sidebar
+// summary: Lit template composing the header and all print settings sections, including the collapsible more-settings area, for the sidebar.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SidebarElement} from './sidebar.js';

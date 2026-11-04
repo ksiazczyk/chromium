@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings mixin for print preview elements
+// summary: Lit mixin that connects elements to the print preview model to observe, read, and update print settings, including validity and sticky handling.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import type {CrLitElement} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 

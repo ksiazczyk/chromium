@@ -6,6 +6,12 @@
  * #type=style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shared PDF viewer styles
+summary: Shared Lit styles defining the layout of the content, plugin and sizer elements in the PDF viewer.
+*/
+
 #content {
   height: 100%;
   position: fixed;

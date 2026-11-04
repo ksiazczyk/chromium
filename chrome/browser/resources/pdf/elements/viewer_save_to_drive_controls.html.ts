@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save to Drive controls HTML template
+// summary: Lit HTML template for the Save to Drive toolbar button, with a circular progress ring during uploads and a menu for saving edited or original copies.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {ViewerSaveToDriveControlsElement} from './viewer_save_to_drive_controls.js';

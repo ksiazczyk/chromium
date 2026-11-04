@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview PDF wrapper
+// summary: Re-exports PDF viewer modules and elements for use by the print preview PDF viewer.
+// ---
+
 import './elements/viewer_page_indicator.js';
 import './pdf_viewer_print.js';
 import './elements/viewer_zoom_button.js';

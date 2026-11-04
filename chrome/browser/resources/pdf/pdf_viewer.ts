@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF viewer main element
+// summary: Main PDF viewer web component that wires the toolbar, side navigation, plugin controller, navigation, metrics, and annotation features together.
+// ---
+
 // clang-format off
 // <if expr="enable_pdf_ink2">
 import 'chrome://resources/cr_elements/cr_page_selector/cr_page_selector.js';

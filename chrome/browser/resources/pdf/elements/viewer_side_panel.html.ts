@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Viewer side panel HTML template
+// summary: Lit HTML template for the side panel that renders the ink brush selector and, when not erasing, the size and color options.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {ViewerSidePanelElement} from './viewer_side_panel.js';

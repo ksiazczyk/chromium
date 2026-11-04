@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview sidebar element
+// summary: Defines the print-preview-sidebar Lit element that hosts the destination and print settings sections, including the collapsible More settings area.
+// ---
+
 import 'chrome://resources/cr_elements/cr_collapse/cr_collapse.js';
 import './advanced_options_settings.js';
 import './button_strip.js';

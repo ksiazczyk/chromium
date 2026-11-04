@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF viewer text side panel element
+// summary: Lit element for the text annotation side panel that forwards typeface and size selections through ink mixins.
+// ---
+
 import './text_styles_selector.js';
 import './text_alignment_selector.js';
 import './ink_color_selector.js';

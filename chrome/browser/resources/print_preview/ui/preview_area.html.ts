@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preview area HTML template
+// summary: Lit HTML template for the preview area element, rendering the overlay message, plugin wrapper, and margin control container.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {PreviewAreaElement} from './preview_area.js';

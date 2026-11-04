@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header element
+// summary: Print preview header element that displays the title and a summary of sheet count, printing state or error messages.
+// ---
+
 import 'chrome://resources/cr_elements/cr_icon/cr_icon.js';
 import './icons.html.js';
 import '/strings.m.js';

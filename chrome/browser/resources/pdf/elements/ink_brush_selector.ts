@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ink brush selector element
+// summary: Lit element for choosing pen, highlighter, or eraser, updating icons, labels, and recording user metrics.
+// ---
+
 import 'chrome://resources/cr_elements/cr_radio_group/cr_radio_group.js';
 import './selectable_icon_button.js';
 

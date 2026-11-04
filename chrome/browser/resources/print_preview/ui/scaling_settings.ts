@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scaling settings element
+// summary: Lit element managing print preview scaling settings, including fit-to-page and fit-to-paper options for PDFs and custom scaling input.
+// ---
+
 import 'chrome://resources/cr_elements/cr_collapse/cr_collapse.js';
 import './number_settings_section.js';
 import './settings_section.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-process PDF plugin wrapper
+// summary: Wraps the in-process PDF plugin, relaying messages between the plugin and its parent frame while handling gestures, focus, scrolling, and presentation mode.
+// ---
+
 import {hasKeyModifiers} from 'chrome://resources/js/util.js';
 
 import {FormFieldFocusType} from './constants.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save to Drive bubble HTML template
+// summary: Lit HTML template for the Save to Drive bubble, showing upload progress, cancel, retry, manage storage, and open in Drive actions per state.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import {SaveToDriveState} from '../constants.js';

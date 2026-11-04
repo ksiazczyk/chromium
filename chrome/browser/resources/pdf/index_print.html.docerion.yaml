@@ -1,0 +1,4 @@
+# Docerion header of index_print.html.
+type: source
+title: Print preview PDF viewer entry HTML page
+summary: Entry HTML page for the print preview PDF viewer, hosting the pdf-viewer-print element and its scripts.

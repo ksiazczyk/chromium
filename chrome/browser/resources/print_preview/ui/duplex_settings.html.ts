@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Duplex settings template
+// summary: Lit HTML template for the duplex settings section with a two-sided printing checkbox and a long/short edge select.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {DuplexMode} from '../data/model.js';

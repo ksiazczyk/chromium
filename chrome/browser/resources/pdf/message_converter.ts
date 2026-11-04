@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF viewer message converter
+// summary: Converts untyped postMessage payloads from the PDF plugin into typed message structures for key events, form focus changes, load progress, and document dimensions.
+// ---
+
 import type {ExtendedKeyEvent, FormFieldFocusType} from './constants.js';
 import type {MessageData} from './controller.js';
 import {deserializeKeyEvent} from './pdf_scripting_api.js';

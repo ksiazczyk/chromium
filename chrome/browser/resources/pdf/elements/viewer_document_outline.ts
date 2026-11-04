@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF viewer document outline element
+// summary: Lit element that displays the PDF's bookmark outline as a tree of viewer-bookmark components.
+// ---
+
 import './viewer_bookmark.js';
 
 import {CrLitElement} from 'chrome://resources/lit/v3_0/lit.rollup.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview UMA metrics definitions
+// summary: Defines histogram buckets and a metrics context for recording print preview usage statistics via UMA.
+// ---
+
 import type {NativeLayer} from './native_layer.js';
 import {NativeLayerImpl} from './native_layer.js';
 

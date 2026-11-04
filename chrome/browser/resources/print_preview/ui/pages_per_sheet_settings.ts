@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pages per sheet settings element
+// summary: Lit element that binds the pages-per-sheet print setting to a select control and writes user changes back to the setting.
+// ---
+
 import './settings_section.js';
 
 import {getCss as getMdSelectLitCss} from 'chrome://resources/cr_elements/md_select_lit.css.js';

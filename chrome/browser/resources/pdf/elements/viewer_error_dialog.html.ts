@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF viewer error dialog template
+// summary: Lit HTML template for the error dialog showing a page load failure message and an optional reload button.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {ViewerErrorDialogElement} from './viewer_error_dialog.js';

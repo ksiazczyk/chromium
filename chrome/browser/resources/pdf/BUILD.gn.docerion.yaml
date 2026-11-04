@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the PDF viewer WebUI
+summary: Defines the GN build targets that compile and package the PDF viewer's TypeScript, CSS and HTML resources, including optional Ink annotation files.

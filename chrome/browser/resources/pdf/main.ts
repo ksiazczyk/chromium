@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF viewer entry point script
+// summary: Initializes the PDF viewer by creating the browser API and buffering scripting messages that arrive before the viewer exists.
+// ---
+
 import './pdf_viewer_wrapper.js';
 
 import type {BrowserApi} from './browser_api.js';

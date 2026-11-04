@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF viewer side navigation template
+// summary: Lit HTML template rendering the sidenav tab icon rail and the content views for the thumbnail bar, document outline and attachment bar.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {ViewerPdfSidenavElement} from './viewer_pdf_sidenav.js';

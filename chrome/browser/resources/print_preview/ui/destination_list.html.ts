@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Destination list Lit template
+// summary: Lit HTML template for the destination list that renders matching destinations in a cr-infinite-list with a throbber and empty message.
+// ---
+
 import type {CrInfiniteListElement} from 'chrome://resources/cr_elements/cr_infinite_list/cr_infinite_list.js';
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 

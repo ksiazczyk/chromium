@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Two-dimensional coordinate class
+// summary: Provides an immutable Coordinate2d class representing a point with x and y values plus equality comparison.
+// ---
+
 export class Coordinate2d {
   private x_: number;
   private y_: number;

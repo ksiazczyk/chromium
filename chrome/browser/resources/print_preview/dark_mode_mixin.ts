@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Dark mode mixin for Lit elements
+// summary: Lit mixin that tracks the OS dark mode preference and exposes an inDarkMode property to elements.
+// ---
+
 import type {CrLitElement} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 const prefersDark = window.matchMedia('(prefers-color-scheme: dark)');

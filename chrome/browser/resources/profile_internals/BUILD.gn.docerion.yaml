@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build configuration for profile_internals WebUI
+summary: Defines the WebUI build for the profile_internals page, listing its HTML, TypeScript, and CSS sources along with TypeScript dependencies.

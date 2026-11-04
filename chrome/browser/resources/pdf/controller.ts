@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF viewer controller and message types
+// summary: Defines the message types and controller logic for communication between the viewer UI and the plugin, covering saving, printing, thumbnails and annotations.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import {PromiseResolver} from 'chrome://resources/js/promise_resolver.js';
 

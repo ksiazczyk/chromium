@@ -7,6 +7,12 @@
  * #import=chrome://resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Circular progress ring styles
+summary: CSS for the circular progress ring SVG, sizing the ring and setting track and progress stroke colors.
+*/
+
 :host {
   display: contents;
 }

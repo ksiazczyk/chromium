@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pages settings element
+// summary: Lit element handling page range selection and custom range input validation, including Unicode comma and non-ASCII digit normalization.
+// ---
+
 import 'chrome://resources/cr_elements/cr_input/cr_input.js';
 import 'chrome://resources/cr_elements/cr_collapse/cr_collapse.js';
 import './print_preview_shared.css.js';

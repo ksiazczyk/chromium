@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Other options settings HTML template
+// summary: Lit HTML template rendering a checkbox for each print preview option such as headers and footers, backgrounds, rasterize, and selection only.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {OtherOptionsSettingsElement} from './other_options_settings.js';

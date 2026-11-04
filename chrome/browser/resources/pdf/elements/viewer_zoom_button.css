@@ -7,6 +7,12 @@
  * #import=chrome://resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Viewer zoom button styles
+summary: Stylesheet for the floating zoom button, defining its round shape, elevation shadows, and light and dark theme colors.
+*/
+
 cr-icon-button {
   --cr-icon-button-fill-color: white;
   --cr-icon-button-icon-size: 20px;

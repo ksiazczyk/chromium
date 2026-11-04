@@ -1,0 +1,4 @@
+# Docerion header of print_preview.html.
+type: source
+title: Print preview WebUI HTML shell
+summary: HTML shell for the Chrome print preview page that sets base styling, dark mode backgrounds, and a loading placeholder, then loads the print preview app element and its module script.

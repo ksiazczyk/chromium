@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text alignment selector HTML template
+// summary: Lit HTML template rendering left, center and right alignment buttons for the PDF text alignment selector.
+// ---
+
 import 'chrome://resources/cr_elements/cr_radio_group/cr_radio_group.js';
 import './icons.html.js';
 import './selectable_icon_button.js';

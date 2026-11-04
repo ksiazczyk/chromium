@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview app element
+// summary: Main print preview app element that coordinates destination, document info, preview area, and sidebar and handles print, cancel, and error events.
+// ---
+
 import '/strings.m.js';
 import '../data/document_info.js';
 import '../data/model.js';

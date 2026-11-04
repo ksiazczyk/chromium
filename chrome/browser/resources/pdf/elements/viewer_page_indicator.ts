@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF viewer page indicator element
+// summary: Lit element that shows the current page label in an overlay that fades in on scroll and is positioned according to the viewer's scroll position and scrollbars.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import {isRTL} from 'chrome://resources/js/util.js';
 import {CrLitElement} from 'chrome://resources/lit/v3_0/lit.rollup.js';

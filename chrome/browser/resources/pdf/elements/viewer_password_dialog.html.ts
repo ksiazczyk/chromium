@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF viewer password dialog template
+// summary: Lit HTML template for the password dialog with a title, prompt message, password input showing an error when invalid, and a submit button.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {ViewerPasswordDialogElement} from './viewer_password_dialog.js';

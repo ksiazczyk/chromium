@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Number settings section HTML template
+// summary: Lit HTML template for the print preview numeric settings section, rendering a validated number input with min, max, delay and error message.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {NumberSettingsSectionElement} from './number_settings_section.js';

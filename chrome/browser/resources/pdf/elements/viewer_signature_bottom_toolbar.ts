@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signature bottom toolbar element
+// summary: Lit element defining the viewer-signature-bottom-toolbar custom element as a placeholder for future signature toolbar content.
+// ---
+
 import {CrLitElement} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import {getCss} from './viewer_signature_bottom_toolbar.css.js';

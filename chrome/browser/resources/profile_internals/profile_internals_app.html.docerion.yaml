@@ -1,0 +1,4 @@
+# Docerion header of profile_internals_app.html.
+type: source
+title: Lit HTML template listing Chrome profile details
+summary: Lit template that renders an expandable table of profile details such as path, signin state, Gaia info, keep-alives, and country info.

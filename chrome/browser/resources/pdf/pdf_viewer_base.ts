@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF viewer base element class
+// summary: Abstract Lit element base class for the PDF viewer that handles scripting messages, viewport, zoom, plugin loading and error dialogs.
+// ---
+
 import {HelpBubbleMixinLit} from 'chrome://resources/cr_components/help_bubble/help_bubble_mixin_lit.js';
 import {PdfHelpBubbleProxyImpl} from 'chrome://resources/cr_components/help_bubble/pdf_help_bubble_proxy.js';
 import {assert} from 'chrome://resources/js/assert.js';

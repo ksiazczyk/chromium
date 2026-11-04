@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input mixin
+// summary: Mixin that debounces text input changes with a configurable timeout and fires input-change events for print preview fields.
+// ---
+
 import type {CrInputElement} from 'chrome://resources/cr_elements/cr_input/cr_input.js';
 import {assert, assertNotReached} from 'chrome://resources/js/assert.js';
 import type {CrLitElement} from 'chrome://resources/lit/v3_0/lit.rollup.js';

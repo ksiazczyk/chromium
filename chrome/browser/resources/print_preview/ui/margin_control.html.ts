@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview margin control template
+// summary: Lit HTML template rendering a margin control's drag line, editable margin input, and measurement unit label.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {MarginControlElement} from './margin_control.js';

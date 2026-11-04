@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zoom manager coordinating browser and viewer zoom
+// summary: Coordinates browser and PDF viewer zoom levels through active, embedded, and inactive zoom manager strategies.
+// ---
+
 import {ZoomBehavior} from './browser_api.js';
 
 

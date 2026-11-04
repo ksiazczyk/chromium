@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Undo/redo stack for PDF annotation edits
+// summary: Implements an undo/redo stack for text and ink annotation changes, tracking saved state and dispatching state change events.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import type {TextAnnotation} from './constants.js';

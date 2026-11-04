@@ -9,6 +9,12 @@
  * #include=pdf-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Ink size selector styles
+summary: Styles the ink size selector's radio group of selectable icon buttons used to choose brush sizes.
+*/
+
 :host {
   display: inline-block;
 }

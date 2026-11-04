@@ -9,6 +9,12 @@
  * #include=cr-shared-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Viewer properties dialog styles
+summary: Lit CSS styles for the PDF viewer properties dialog, defining the layout of the metadata table and value columns.
+*/
+
 :host {
   --break-padding: 8px;
 }

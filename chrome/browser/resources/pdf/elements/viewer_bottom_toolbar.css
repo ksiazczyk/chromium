@@ -10,6 +10,12 @@
  * #include=pdf-shared bottom-toolbar-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Viewer bottom toolbar styles
+summary: CSS styles for the annotation bottom toolbar, including the vertical separator and ink selector sizing.
+*/
+
 :host {
   --cr-icon-button-margin-end: 0;
   --cr-icon-button-margin-start: 0;

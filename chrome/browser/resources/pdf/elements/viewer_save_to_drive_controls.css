@@ -9,6 +9,12 @@
  * #include=pdf-shared viewer-save-controls-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Save to Drive controls styles
+summary: Lit CSS styles for the Save to Drive toolbar control, including the uploading state color adjustments.
+*/
+
 :host {
   display: inline-flex;
   justify-content: center;

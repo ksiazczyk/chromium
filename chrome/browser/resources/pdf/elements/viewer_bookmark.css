@@ -10,6 +10,12 @@
  * #include=pdf-shared cr-hidden-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Viewer bookmark styles
+summary: CSS styles for bookmark items, covering hover and active states, title ellipsis and the expand button.
+*/
+
 #item {
   align-items: flex-start;
   cursor: pointer;

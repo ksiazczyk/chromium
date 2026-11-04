@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF viewer constants and shared types
+// summary: Defines shared enums, interfaces and constants for annotations, text styling, document metadata, fitting types and form field focus.
+// ---
+
 // <if expr="enable_pdf_ink2">
 type Typeface = chrome.pdfViewerPrivate.Typeface;
 
