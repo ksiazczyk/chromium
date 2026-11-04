@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app identity update dialog types
+// summary: Declares WebAppIdentity, WebAppIdentityUpdate, and the WebAppIdentityUpdateResult enum describing user responses to the web app update dialog.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_UI_MANAGER_UPDATE_DIALOG_TYPES_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_UI_MANAGER_UPDATE_DIALOG_TYPES_H_
 

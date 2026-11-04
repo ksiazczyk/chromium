@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShortcutMenuHandlingSubManager class header
+// summary: Declares the ShortcutMenuHandlingSubManager class that tracks when shortcut menu icons, app title and launch URL were last updated and refreshes them for OS integration.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_OS_INTEGRATION_SHORTCUT_MENU_HANDLING_SUB_MANAGER_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_OS_INTEGRATION_SHORTCUT_MENU_HANDLING_SUB_MANAGER_H_
 

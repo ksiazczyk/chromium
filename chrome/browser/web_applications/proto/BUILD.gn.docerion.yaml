@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for web app protos
+summary: GN build file that compiles the web app protobuf sources and proto_extras targets with their cross-directory dependencies.

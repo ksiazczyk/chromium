@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app policy manager unit tests
+// summary: Unit tests for WebAppPolicyManager, exercising policy-driven web app installation, settings and OS integration behavior.
+// ---
+
 #include "chrome/browser/web_applications/policy/web_app_policy_manager.h"
 
 #include <memory>

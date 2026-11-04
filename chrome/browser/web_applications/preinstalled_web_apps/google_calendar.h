@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Calendar Preinstalled Web App Config Header
+// summary: Declares GetConfigForGoogleCalendar(), which returns the install options for the preinstalled Google Calendar web app.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_PREINSTALLED_WEB_APPS_GOOGLE_CALENDAR_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_PREINSTALLED_WEB_APPS_GOOGLE_CALENDAR_H_
 

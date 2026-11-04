@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app translations proto definitions
+// summary: Defines protobuf messages that map web app IDs and locales to translated name, short name, and description overrides.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

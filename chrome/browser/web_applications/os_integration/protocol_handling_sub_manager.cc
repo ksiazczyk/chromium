@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protocol handling sub manager implementation
+// summary: Registers and unregisters web app protocol handlers with the operating system during OS integration synchronization.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/protocol_handling_sub_manager.h"
 
 #include <memory>

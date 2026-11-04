@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile test helper implementation
+// summary: Implements helpers for parameterized profile-type tests, including a GTest name formatter and ChromeOS guest mode command-line setup.
+// ---
+
 #include "chrome/browser/web_applications/test/profile_test_helper.h"
 
 #include <vector>

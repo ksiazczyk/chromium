@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App shim launch interface
+// summary: Declares functions to launch app shims for web app shortcuts on macOS, with launch modes, callbacks, and testing helpers.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_OS_INTEGRATION_MAC_APP_SHIM_LAUNCH_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_OS_INTEGRATION_MAC_APP_SHIM_LAUNCH_H_
 

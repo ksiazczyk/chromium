@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sub Apps permissions policy browser tests
+// summary: Browser tests verifying that Sub Apps API calls fail when the subApps permissions policy is not granted to the frame.
+// ---
+
 #include <string_view>
 
 #include "base/test/gmock_expected_support.h"

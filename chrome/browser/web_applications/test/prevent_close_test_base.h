@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PreventCloseTestBase header
+// summary: Declares a policy-based browser test base for web app prevent-close tests with helpers to set policies, install PWAs, and launch them in windows or tabs.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_TEST_PREVENT_CLOSE_TEST_BASE_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_TEST_PREVENT_CLOSE_TEST_BASE_H_
 

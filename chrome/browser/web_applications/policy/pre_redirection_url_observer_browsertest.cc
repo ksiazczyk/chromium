@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pre-redirection URL observer browser tests
+// summary: Browser tests verifying the observer tracks pre-redirect URLs across navigations, redirects, subframe and same-document navigations.
+// ---
+
 #include "chrome/browser/web_applications/policy/pre_redirection_url_observer.h"
 
 #include "chrome/browser/profiles/profile.h"

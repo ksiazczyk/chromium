@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generated icon fix result logging implementation
+// summary: Implements the ostream operator that prints GeneratedIconFixResult enum values as readable strings.
+// ---
+
 #include "chrome/browser/web_applications/scheduler/generated_icon_fix_result.h"
 
 #include <ostream>

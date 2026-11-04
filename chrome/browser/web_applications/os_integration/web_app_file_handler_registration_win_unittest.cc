@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows file handler registration unit tests
+// summary: Unit tests for Windows file handler registration that use a fake registry and testing profiles to verify ProgId and file association handling.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/web_app_file_handler_registration.h"
 
 #include <set>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows web app desktop shortcut unit tests
+// summary: Unit tests for Windows shortcut helpers covering file name sanitization, shortcut lookup by profile and app ID, and UpdatePlatformShortcuts behavior.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/web_app_shortcut_win.h"
 
 #include <algorithm>

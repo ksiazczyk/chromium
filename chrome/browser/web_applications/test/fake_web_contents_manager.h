@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeWebContentsManager header
+// summary: Declares FakeWebContentsManager with FakePageState and FakeIconState structures that simulate network and page state for web app tests.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_TEST_FAKE_WEB_CONTENTS_MANAGER_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_TEST_FAKE_WEB_CONTENTS_MANAGER_H_
 

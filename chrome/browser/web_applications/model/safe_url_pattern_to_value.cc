@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe URL pattern to debug value conversion
+// summary: Converts a blink SafeUrlPattern into a base::DictValue with pattern strings for each URL component, for debugging purposes.
+// ---
+
 #include "chrome/browser/web_applications/model/safe_url_pattern_to_value.h"
 
 #include <string_view>

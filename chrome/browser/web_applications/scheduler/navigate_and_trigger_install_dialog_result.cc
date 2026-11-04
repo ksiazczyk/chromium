@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigateAndTriggerInstallDialogResult ostream operator implementation
+// summary: Implements the ostream operator that prints NavigateAndTriggerInstallDialogResult enum values for logging and debugging.
+// ---
+
 #include "chrome/browser/web_applications/scheduler/navigate_and_trigger_install_dialog_result.h"
 
 #include <ostream>

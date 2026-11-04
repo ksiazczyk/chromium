@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app test observers header
+// summary: Declares observer adapters and delegate callbacks for tracking web app install, uninstall, manifest update, and migration events in tests.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_TEST_WEB_APP_TEST_OBSERVERS_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_TEST_WEB_APP_TEST_OBSERVERS_H_
 

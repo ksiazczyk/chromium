@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app debug info printer for tests
+// summary: Implements a test helper that logs web app internals debug information to the console, with a command line switch to disable the output and extra system log capture on macOS.
+// ---
+
 #include "chrome/browser/web_applications/test/debug_info_printer.h"
 
 #include <string_view>

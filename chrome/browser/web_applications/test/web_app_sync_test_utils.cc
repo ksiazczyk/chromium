@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app sync bridge test utilities implementation
+// summary: Implements helpers that apply add, update, and delete sync entity changes to a WebAppSyncBridge in tests.
+// ---
+
 #include "chrome/browser/web_applications/test/web_app_sync_test_utils.h"
 
 #include "chrome/browser/web_applications/web_app.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shortcuts menu registration stub for non-Windows platforms
+// summary: Provides no-op shortcuts menu OS registration for platforms other than Windows, invoking the callback with an ok result.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/web_app_shortcuts_menu.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockFileUtilsWrapper header
+// summary: Declares MockFileUtilsWrapper, a gmock mock of FileUtilsWrapper that mocks WriteFile, ReadFileToString and DeleteFileRecursively for tests.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_TEST_MOCK_FILE_UTILS_WRAPPER_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_TEST_MOCK_FILE_UTILS_WRAPPER_H_
 

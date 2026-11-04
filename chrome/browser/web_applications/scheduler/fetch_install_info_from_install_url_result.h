@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fetch install info result enum
+// summary: Defines the FetchInstallInfoResult enum for fetching WebAppInstallInfo from an install URL, plus a callback type for delivering the result.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_SCHEDULER_FETCH_INSTALL_INFO_FROM_INSTALL_URL_RESULT_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_SCHEDULER_FETCH_INSTALL_INFO_FROM_INSTALL_URL_RESULT_H_
 

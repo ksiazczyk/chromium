@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake data retriever implementation
+// summary: Implements a fake WebAppDataRetriever that returns canned manifests, icons, and install info to simulate web contents during install tests.
+// ---
+
 #include "chrome/browser/web_applications/test/fake_data_retriever.h"
 
 #include <memory>

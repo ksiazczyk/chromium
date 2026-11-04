@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MigrationSource class header
+// summary: Declares the MigrationSource class abstracting the proto migration source given in a web app manifest's migration_from field.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_MODEL_MIGRATION_SOURCE_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_MODEL_MIGRATION_SOURCE_H_
 

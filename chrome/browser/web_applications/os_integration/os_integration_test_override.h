@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS integration test override
+// summary: Declares a test helper class that redirects or records OS integration operations so tests can run safely on trybots.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_OS_INTEGRATION_OS_INTEGRATION_TEST_OVERRIDE_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_OS_INTEGRATION_OS_INTEGRATION_TEST_OVERRIDE_H_
 

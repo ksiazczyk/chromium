@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shortcut sub manager implementation
+// summary: Implements the OS integration sub manager that creates, updates and removes web app shortcuts and records shortcut creation result metrics.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/shortcut_sub_manager.h"
 
 #include <string>

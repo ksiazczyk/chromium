@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IntegrityBlockData implementation
+// summary: Implements IntegrityBlockData, converting signed web bundle signature information between proto messages and model types.
+// ---
+
 #include "chrome/browser/web_applications/model/integrity_block_data.h"
 
 #include <variant>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows web app protocol handler registration unit tests
+// summary: Unit tests verifying that Windows URL association registry entries for web app protocols are created and removed, using registry overrides and test profiles.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/web_app_protocol_handler_registration.h"
 
 #include <string>

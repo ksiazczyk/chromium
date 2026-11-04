@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app policy constants declarations
+// summary: Declares the string keys and values used by the WebAppInstallForceList preference, including custom icon hash and run-on-os-login options.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_POLICY_WEB_APP_POLICY_CONSTANTS_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_POLICY_WEB_APP_POLICY_CONSTANTS_H_
 

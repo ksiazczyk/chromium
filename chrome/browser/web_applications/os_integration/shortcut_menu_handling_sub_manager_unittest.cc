@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shortcut menu handling sub manager unit tests
+// summary: Unit tests for ShortcutMenuHandlingSubManager covering shortcut menu registration, icon bitmaps and unregistration using a fake web app provider and OS integration test overrides.
+// ---
+
 #include <cstddef>
 #include <memory>
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app install test utilities implementation
+// summary: Implements helpers to start the WebAppProvider and synchronously install or uninstall web apps in tests.
+// ---
+
 #include "chrome/browser/web_applications/test/web_app_install_test_utils.h"
 
 #include "base/command_line.h"

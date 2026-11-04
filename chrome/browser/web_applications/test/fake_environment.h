@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake environment declarations
+// summary: Declares a fake base::Environment that serves environment variable values from a stored map for tests.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_TEST_FAKE_ENVIRONMENT_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_TEST_FAKE_ENVIRONMENT_H_
 

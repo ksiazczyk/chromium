@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IsolatedWebAppApplyUpdateCommandError ostream operator implementation
+// summary: Implements the ostream operator that prints IsolatedWebAppApplyUpdateCommandError messages for debugging.
+// ---
+
 #include "chrome/browser/web_applications/scheduler/isolated_web_app_apply_update_result.h"
 
 namespace web_app {

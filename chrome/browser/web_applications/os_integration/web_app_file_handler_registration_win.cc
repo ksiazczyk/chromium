@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows web app file handler registration
+// summary: Registers web app file handlers with Windows by creating app launcher files, ProgIds, and file associations in the registry.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/web_app_file_handler_registration.h"
 
 #include <iterator>

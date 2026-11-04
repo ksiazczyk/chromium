@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preinstalled web app definition utilities header
+// summary: Declares the icon loading helper, the Translation struct, and the translated-name lookup used by preinstalled web app definitions.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_PREINSTALLED_WEB_APPS_PREINSTALLED_WEB_APP_DEFINITION_UTILS_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_PREINSTALLED_WEB_APPS_PREINSTALLED_WEB_APP_DEFINITION_UTILS_H_
 

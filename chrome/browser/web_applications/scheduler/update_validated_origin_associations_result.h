@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdateValidatedOriginAssociationsResult enum
+// summary: Defines the enum of outcomes for fetching, validating and storing web app origin associations, with values persisted to logs.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_SCHEDULER_UPDATE_VALIDATED_ORIGIN_ASSOCIATIONS_RESULT_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_SCHEDULER_UPDATE_VALIDATED_ORIGIN_ASSOCIATIONS_RESULT_H_
 

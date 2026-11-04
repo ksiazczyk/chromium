@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: External app registration waiter declarations
+// summary: Declares a test helper that awaits service worker registrations for externally managed web app installs.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_TEST_EXTERNAL_APP_REGISTRATION_WAITER_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_TEST_EXTERNAL_APP_REGISTRATION_WAITER_H_
 

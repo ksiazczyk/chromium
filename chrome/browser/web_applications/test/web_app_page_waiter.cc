@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebAppPageWaiter test helper implementation
+// summary: Implements a test helper that waits for page loads and manifest processing to settle, then flushes pending web app commands.
+// ---
+
 #include "chrome/browser/web_applications/test/web_app_page_waiter.h"
 
 #include <algorithm>

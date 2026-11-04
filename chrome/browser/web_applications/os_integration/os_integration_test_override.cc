@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS integration test override implementation
+// summary: Implements global test-only state that tracks blocking registrations and checks whether OS integration is allowed in tests.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/os_integration_test_override.h"
 
 #include <ostream>

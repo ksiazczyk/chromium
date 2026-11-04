@@ -1,0 +1,4 @@
+# Docerion header of web_app_run_on_os_login_mac_unittest.mm.
+type: test
+title: Mac web app run on OS login unit tests
+summary: Unit tests for Mac run-on-OS-login registration, using a mock WebAppAutoLoginUtil to verify login item additions and removals.

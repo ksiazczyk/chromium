@@ -1,0 +1,4 @@
+# Docerion header of user_display_mode.mojom.
+type: source
+title: UserDisplayMode Mojom enum
+summary: Defines the UserDisplayMode enum mirroring the sync protocol, with values for browser, standalone, and tabbed web app display.

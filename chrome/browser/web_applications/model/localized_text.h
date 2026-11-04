@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalizedText class header
+// summary: Declares a localized text object per the web app manifest spec, with value, language and text direction attributes and string assignment helpers.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_MODEL_LOCALIZED_TEXT_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_MODEL_LOCALIZED_TEXT_H_
 

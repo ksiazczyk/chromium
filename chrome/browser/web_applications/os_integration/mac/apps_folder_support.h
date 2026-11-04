@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apps folder support interface
+// summary: Declares helpers to get and localize the Chrome Apps folder in ~/Applications, including a test hook to re-trigger naming and icon updates.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_OS_INTEGRATION_MAC_APPS_FOLDER_SUPPORT_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_OS_INTEGRATION_MAC_APPS_FOLDER_SUPPORT_H_
 

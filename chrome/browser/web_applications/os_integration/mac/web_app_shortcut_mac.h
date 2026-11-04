@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for macOS web app shortcut helpers
+// summary: Declares helpers for app shim bundle identifiers, login item removal, revealing shims in Finder, and ad-hoc signing feature checks on macOS.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_OS_INTEGRATION_MAC_WEB_APP_SHORTCUT_MAC_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_OS_INTEGRATION_MAC_WEB_APP_SHORTCUT_MAC_H_
 

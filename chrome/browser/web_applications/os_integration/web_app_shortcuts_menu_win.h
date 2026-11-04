@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows shortcuts menu helpers
+// summary: Declares the jump list testing hook, AppUserModelId generation, and deletion of shortcuts menu icon files for Windows web apps.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_OS_INTEGRATION_WEB_APP_SHORTCUTS_MENU_WIN_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_OS_INTEGRATION_WEB_APP_SHORTCUTS_MENU_WIN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeWebAppDatabaseFactory implementation for web app tests
+// summary: Implements a fake web app database factory backed by an in-memory sync data type store, with helpers to read and write registry and metadata for tests.
+// ---
+
 #include "chrome/browser/web_applications/test/fake_web_app_database_factory.h"
 
 #include "base/check.h"

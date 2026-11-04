@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manifest silent update result helpers implementation
+// summary: Implements IsAppUpdated, the ManifestSilentUpdateCompletionInfo struct and ostream output for manifest silent update check results.
+// ---
+
 #include "chrome/browser/web_applications/scheduler/manifest_silent_update_result.h"
 
 #include <ostream>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app sync bridge test utilities header
+// summary: Declares helpers for applying sync server state changes to a WebAppSyncBridge in tests.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_TEST_WEB_APP_SYNC_TEST_UTILS_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_TEST_WEB_APP_SYNC_TEST_UTILS_H_
 

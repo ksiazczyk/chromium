@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app policy manager implementation
+// summary: Implements the manager that tracks web app policies and decides which apps to install, uninstall and update for managed users.
+// ---
+
 #include "chrome/browser/web_applications/policy/web_app_policy_manager.h"
 
 #include <algorithm>

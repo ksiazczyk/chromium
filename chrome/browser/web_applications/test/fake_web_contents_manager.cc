@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeWebContentsManager implementation
+// summary: Implements FakeWebContentsManager, including a fake URL loader that serves configured page state such as redirects, manifests and icons for tests.
+// ---
+
 #include "chrome/browser/web_applications/test/fake_web_contents_manager.h"
 
 #include <memory>

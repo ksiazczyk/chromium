@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac web app file handler registration
+// summary: Registers and unregisters web app file handlers on macOS by persisting file extension and MIME type information in the AppShimRegistry.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/web_app_file_handler_registration.h"
 
 #include "base/files/file_path.h"

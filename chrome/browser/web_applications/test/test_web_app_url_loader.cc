@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestWebAppUrlLoader implementation
+// summary: Implements a fake WebAppUrlLoader that returns queued results per URL and can defer load requests until they are explicitly processed.
+// ---
+
 #include "chrome/browser/web_applications/test/test_web_app_url_loader.h"
 
 #include "base/functional/callback.h"

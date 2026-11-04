@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppInstalledBy implementation
+// summary: Implements the AppInstalledBy model, parsing and serializing Web Install API install time and requesting URL to and from proto.
+// ---
+
 #include "chrome/browser/web_applications/model/app_installed_by.h"
 
 #include <algorithm>

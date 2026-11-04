@@ -1,0 +1,4 @@
+# Docerion header of web_app_shortcut_creator_unittest.mm.
+type: test
+title: Unit tests for the macOS web app shortcut creator
+summary: Unit tests that verify macOS web app shortcut creation, including bundle sorting, login item handling, and Finder reveal behavior.

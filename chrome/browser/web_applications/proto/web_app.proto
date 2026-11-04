@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'web_app.proto: core web app message definitions'
+// summary: Core protobuf definitions for web apps covering file handlers, protocol handlers, scope extensions, install sources, ChromeOS data and shortcut menus.
+// ---
+
 syntax = "proto2";
 
 import "components/sync/protocol/web_app_specifics.proto";

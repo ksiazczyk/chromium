@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app test observers implementation
+// summary: Implements observer adapters that let tests wait for and react to web app install, uninstall, manifest update, source removal, and migration events from the install manager.
+// ---
+
 #include "chrome/browser/web_applications/test/web_app_test_observers.h"
 
 #include <sstream>

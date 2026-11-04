@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini Preinstalled Web App Config Header
+// summary: Declares GetConfigForGemini(), which returns the preinstall config for the Gemini app given optional device info.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_PREINSTALLED_WEB_APPS_GEMINI_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_PREINSTALLED_WEB_APPS_GEMINI_H_
 

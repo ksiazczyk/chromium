@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Messages dogfood preinstalled web app config
+// summary: Defines install options for the Messages dogfood web app, restricted to managed users and replacing the deprecated app.
+// ---
+
 #include "chrome/browser/web_applications/preinstalled_web_apps/messages_dogfood.h"
 
 #include "ash/constants/web_app_id_constants.h"

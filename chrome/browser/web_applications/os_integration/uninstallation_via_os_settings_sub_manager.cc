@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Uninstallation via OS settings sub manager implementation
+// summary: Implements registration and unregistration of web apps for uninstallation through OS settings, currently supported only on Windows.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/uninstallation_via_os_settings_sub_manager.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeWebAppProvider implementation for web app tests
+// summary: Implements a fake WebAppProvider that wires fake subsystems such as the database, OS integration, and web contents managers for web app testing.
+// ---
+
 #include "chrome/browser/web_applications/test/fake_web_app_provider.h"
 
 #include <memory>

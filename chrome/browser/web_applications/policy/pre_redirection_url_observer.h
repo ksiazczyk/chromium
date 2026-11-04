@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pre-redirection URL observer header
+// summary: Declares a WebContents observer storing the last pre-redirect URL, needed to apply WebAppInstallForceList custom names and icons correctly.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_POLICY_PRE_REDIRECTION_URL_OBSERVER_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_POLICY_PRE_REDIRECTION_URL_OBSERVER_H_
 

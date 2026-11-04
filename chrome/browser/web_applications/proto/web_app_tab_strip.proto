@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'web_app_tab_strip.proto: tab strip manifest proto'
+// summary: Defines the TabStrip protobuf mirroring the tab_strip manifest field, with new tab button and home tab parameters.
+// ---
+
 syntax = "proto2";
 
 import "content/browser/background_fetch/background_fetch.proto";

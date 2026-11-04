@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeWebAppOriginAssociationManager implementation
+// summary: Implements a fake WebAppOriginAssociationManager that returns preset or pass-through origin association results for web app tests.
+// ---
+
 #include "chrome/browser/web_applications/test/fake_web_app_origin_association_manager.h"
 
 #include <utility>

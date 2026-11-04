@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app OS integration stub implementations
+// summary: Provides stub implementations of file handler registration and shortcut management that return errors or do nothing on platforms without native support.
+// ---
+
 #include <utility>
 
 #include "base/files/file_path.h"

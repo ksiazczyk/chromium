@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeOsIntegrationManager implementation for web app tests
+// summary: Implements a fake OsIntegrationManager that suppresses real OS changes and lets tests preset shortcut locations and shortcut info for apps.
+// ---
+
 #include "chrome/browser/web_applications/test/fake_os_integration_manager.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apply pending manifest update result logging implementation
+// summary: Implements the ostream operator that prints ApplyPendingManifestUpdateResult enum values as readable strings.
+// ---
+
 #include "chrome/browser/web_applications/scheduler/apply_pending_manifest_update_result.h"
 
 #include <ostream>

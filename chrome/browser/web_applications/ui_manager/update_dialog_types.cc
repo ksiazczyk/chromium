@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of web app identity update types
+// summary: Implements WebAppIdentity and WebAppIdentityUpdate methods that build old and new identities and classify title, icon, and URL changes for the update dialog.
+// ---
+
 #include "chrome/browser/web_applications/ui_manager/update_dialog_types.h"
 
 #include <optional>

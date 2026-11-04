@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux web app desktop shortcut declarations
+// summary: Declares DesktopActionInfo and functions to create, update, locate, and delete Linux .desktop shortcuts for web apps and extensions, following the freedesktop spec.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_OS_INTEGRATION_WEB_APP_SHORTCUT_LINUX_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_OS_INTEGRATION_WEB_APP_SHORTCUT_LINUX_H_
 

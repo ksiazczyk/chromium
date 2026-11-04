@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PreventCloseTestBase implementation
+// summary: Implements a browser test base that sets WebAppSettings and force-install policies, installs and launches PWAs, and clears settings for prevent-close tests.
+// ---
+
 #include "chrome/browser/web_applications/test/prevent_close_test_base.h"
 
 #include <string_view>

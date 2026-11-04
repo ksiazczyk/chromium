@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pending migration info implementation
+// summary: Implements PendingMigrationInfo, including parsing from and serializing to protobuf and producing debug values for pending app migrations.
+// ---
+
 #include "chrome/browser/web_applications/model/pending_migration_info.h"
 
 #include <utility>

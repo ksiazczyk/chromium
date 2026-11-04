@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app protocol handler manager header
+// summary: Declares the WebAppProtocolHandlerManager class exposing protocol handler queries and protocol URL translation for installed web apps.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_OS_INTEGRATION_WEB_APP_PROTOCOL_HANDLER_MANAGER_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_OS_INTEGRATION_WEB_APP_PROTOCOL_HANDLER_MANAGER_H_
 

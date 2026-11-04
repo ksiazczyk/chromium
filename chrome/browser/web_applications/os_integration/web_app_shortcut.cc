@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app shortcut creation and management
+// summary: Implements cross-platform creation, update and deletion of web app platform shortcuts, including icon handling.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/web_app_shortcut.h"
 
 #include <functional>

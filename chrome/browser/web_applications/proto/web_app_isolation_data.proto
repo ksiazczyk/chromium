@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'web_app_isolation_data.proto: isolated web app data'
+// summary: Defines the IsolationData message holding Isolated Web App details such as bundle locations, integrity block signatures, pending updates and partitions.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

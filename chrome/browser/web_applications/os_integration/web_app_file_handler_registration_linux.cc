@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux web app file handler registration
+// summary: Registers and unregisters web app MIME types on Linux via xdg-mime and update-desktop-database, recording UMA metrics for the results.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/web_app_file_handler_registration.h"
 
 #include <memory>

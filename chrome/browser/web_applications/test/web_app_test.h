@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebAppTest base fixture header
+// summary: Declares the WebAppTest base class providing a testing profile, fake provider, and OS integration override for web app unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_TEST_WEB_APP_TEST_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_TEST_WEB_APP_TEST_H_
 

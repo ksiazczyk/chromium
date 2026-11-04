@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IsolationData class header
+// summary: Declares the IsolationData class representing IWA-specific pieces of a web app, including pending update info and opened tabs counter notification state.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_ISOLATION_DATA_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_ISOLATION_DATA_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DynamicLauncher portal class interface
+// summary: Declares the DynamicLauncherPortal helper class for communicating with the freedesktop DynamicLauncher portal to create and remove desktop launcher shortcuts.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_OS_INTEGRATION_DYNAMIC_LAUNCHER_PORTAL_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_OS_INTEGRATION_DYNAMIC_LAUNCHER_PORTAL_H_
 

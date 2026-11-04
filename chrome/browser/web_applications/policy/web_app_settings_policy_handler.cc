@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAppSettings policy handler implementation
+// summary: Implements the WebAppSettings policy handler, validating wildcard manifest IDs for run_on_os_login and OS integration unregistration.
+// ---
+
 #include "chrome/browser/web_applications/policy/web_app_settings_policy_handler.h"
 
 #include <algorithm>

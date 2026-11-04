@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ICNS encoder interface
+// summary: Declares IcnsEncoder for building .icns icon files by adding multiple image sizes and writing the result to disk.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_OS_INTEGRATION_MAC_ICNS_ENCODER_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_OS_INTEGRATION_MAC_ICNS_ENCODER_H_
 

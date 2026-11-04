@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini Preinstalled Web App Config
+// summary: Builds install options for preinstalling the Gemini app, computing activation time thresholds and launch query parameters from optional device info.
+// ---
+
 #include "chrome/browser/web_applications/preinstalled_web_apps/gemini.h"
 
 #include <memory>

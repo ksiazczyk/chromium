@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS integration manager implementation
+// summary: Implements the central manager that coordinates creation, update, and deletion of OS hooks for web apps via its sub managers.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/os_integration_manager.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAppInstallFromMigrateFromFieldResult enum and callback
+// summary: Defines the enum of outcomes for installing a web app from a manifest's migrate_from field, with its callback type and stream operator declaration.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_SCHEDULER_WEB_APP_INSTALL_FROM_MIGRATE_FROM_FIELD_RESULT_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_SCHEDULER_WEB_APP_INSTALL_FROM_MIGRATE_FROM_FIELD_RESULT_H_
 

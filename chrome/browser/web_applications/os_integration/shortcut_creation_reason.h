@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shortcut creation reason enum
+// summary: Defines an enum encoding whether shortcut creation was user-initiated or automated, since behavior differs per case.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_OS_INTEGRATION_SHORTCUT_CREATION_REASON_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_OS_INTEGRATION_SHORTCUT_CREATION_REASON_H_
 

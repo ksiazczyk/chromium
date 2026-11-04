@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for web app model directory
+summary: Defines per-file owners for integrity block and isolation data model files, delegating review to the isolated web apps OWNERS file.

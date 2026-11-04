@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apply manifest migration result logging implementation
+// summary: Implements the ostream operator that converts ApplyManifestMigrationResult enum values into readable strings for logging.
+// ---
+
 #include "chrome/browser/web_applications/scheduler/apply_manifest_migration_result.h"
 
 #include <ostream>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the ui_manager source set
+summary: GN build file that defines the ui_manager source set containing the update dialog types and its dependencies on base, ui/gfx, and url.

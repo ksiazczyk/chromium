@@ -1,0 +1,4 @@
+# Docerion header of icon_utils.mm.
+type: source
+title: Icon utilities implementation
+summary: Implements Apple template-based icon masking, DIY app icon masking, and apps folder icon composition using Skia and Cocoa.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installable check result enum
+// summary: Defines the InstallableCheckResult enum for URL installability checks used by Chrome management and a callback returning an optional app ID.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_SCHEDULER_FETCH_INSTALLABILITY_FOR_CHROME_MANAGEMENT_RESULT_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_SCHEDULER_FETCH_INSTALLABILITY_FOR_CHROME_MANAGEMENT_RESULT_H_
 

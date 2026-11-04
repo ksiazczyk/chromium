@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app run on OS login declarations
+// summary: Declares functions to register and unregister web apps with the OS for launch at login, noting that platform-specific implementations are required.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_OS_INTEGRATION_WEB_APP_RUN_ON_OS_LOGIN_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_OS_INTEGRATION_WEB_APP_RUN_ON_OS_LOGIN_H_
 

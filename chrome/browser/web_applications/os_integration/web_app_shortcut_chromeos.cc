@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS no-op web app shortcut implementation
+// summary: Provides no-op shortcut operations for ChromeOS, where Launcher and Shelf integration happens via App Service.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/web_app_shortcut.h"
 
 #include <utility>

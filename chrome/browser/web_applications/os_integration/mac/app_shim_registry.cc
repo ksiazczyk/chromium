@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App shim registry implementation
+// summary: Implements AppShimRegistry, which tracks installed app shims, profiles, handlers, and code signature HMACs in Chrome's local state.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/mac/app_shim_registry.h"
 
 #include <memory>

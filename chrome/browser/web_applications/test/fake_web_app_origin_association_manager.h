@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeWebAppOriginAssociationManager test fake header
+// summary: Declares a fake WebAppOriginAssociationManager letting tests mock scope extension and migration validation responses or bypass them.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_TEST_FAKE_WEB_APP_ORIGIN_ASSOCIATION_MANAGER_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_TEST_FAKE_WEB_APP_ORIGIN_ASSOCIATION_MANAGER_H_
 

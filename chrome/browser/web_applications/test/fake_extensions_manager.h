@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeExtensionsManager test fake header
+// summary: Declares a fake ExtensionsManager used to stub the extensions dependency of WebAppProvider in tests, with setters for install and policy states.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_TEST_FAKE_EXTENSIONS_MANAGER_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_TEST_FAKE_EXTENSIONS_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstallMigrateToAppResult ostream operator implementation
+// summary: Implements the ostream operator that prints InstallMigrateToAppResult enum values for logging and debugging.
+// ---
+
 #include "chrome/browser/web_applications/scheduler/install_migrate_to_app_result.h"
 
 #include <ostream>

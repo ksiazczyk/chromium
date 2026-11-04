@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DialogImageInfo header
+// summary: Declares DialogImageInfo, storing manifest icon bitmaps and maskability for showing icons in dialogs before an app is installed.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_MODEL_DIALOG_IMAGE_INFO_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_MODEL_DIALOG_IMAGE_INFO_H_
 

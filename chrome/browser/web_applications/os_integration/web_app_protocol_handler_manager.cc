@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app protocol handler manager
+// summary: Implements the per-profile manager that looks up web app protocol handlers, translates protocol URLs and filters allowed and disallowed launch protocols.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/web_app_protocol_handler_manager.h"
 
 #include "chrome/browser/profiles/profile.h"

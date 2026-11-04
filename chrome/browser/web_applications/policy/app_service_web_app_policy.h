@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App service web app policy header
+// summary: Declares helpers to look up the policy ID for a system web app type and to detect ARC app and system web app policy IDs.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_POLICY_APP_SERVICE_WEB_APP_POLICY_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_POLICY_APP_SERVICE_WEB_APP_POLICY_H_
 

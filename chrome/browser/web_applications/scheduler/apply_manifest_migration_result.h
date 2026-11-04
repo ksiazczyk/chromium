@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apply manifest migration result enum
+// summary: Defines the UMA-recorded ApplyManifestMigrationResult enum covering manifest migration outcomes and a callback type for reporting them.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_SCHEDULER_APPLY_MANIFEST_MIGRATION_RESULT_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_SCHEDULER_APPLY_MANIFEST_MIGRATION_RESULT_H_
 

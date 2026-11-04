@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for file handler utility functions
+// summary: Tests extraction of file extensions and MIME types from web app file handler structures.
+// ---
+
 #include <set>
 #include <string>
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome OS stub for web app file handler registration
+// summary: Provides Chrome OS stub implementations of file handler registration, since Chrome OS does not register file handlers with the operating system.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/web_app_file_handler_registration.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OsIntegrationTestOverrideImpl implementation
+// summary: Implements OsIntegrationTestOverrideImpl, which fakes OS integration such as shortcuts, registry entries and file handlers across Windows, Mac and Linux.
+// ---
+
 #include "chrome/browser/web_applications/test/os_integration_test_override_impl.h"
 
 #include <algorithm>

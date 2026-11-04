@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: YouTube preinstalled web app install configuration
+// summary: Defines the external install options for preinstalling YouTube, including install URL, platform-dependent display mode, app info factory with bundled icon, and expected app ID.
+// ---
+
 #include "chrome/browser/web_applications/preinstalled_web_apps/youtube.h"
 
 #include "ash/constants/web_app_id_constants.h"

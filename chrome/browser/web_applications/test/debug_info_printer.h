@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Debug info printer declarations
+// summary: Declares LogDebugInfoToConsole, which prints web app debug information for test profiles to the console.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_TEST_DEBUG_INFO_PRINTER_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_TEST_DEBUG_INFO_PRINTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pending migration info class
+// summary: Declares PendingMigrationInfo, which represents an identified migration where the app is the source, abstracting the protobuf type for faster compilation.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_MODEL_PENDING_MIGRATION_INFO_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_MODEL_PENDING_MIGRATION_INFO_H_
 

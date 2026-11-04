@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app shortcut resource directory unit tests
+// summary: Unit tests verifying that GetOsIntegrationResourcesDirectoryForApp builds the expected per-app Web Applications directory for app IDs and URLs.
+// ---
+
 #include "chrome/browser/web_applications/os_integration/web_app_shortcut.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

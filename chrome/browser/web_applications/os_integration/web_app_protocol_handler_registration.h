@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app protocol handler registration declarations
+// summary: Declares the RegisterProtocolHandlersWithOs and UnregisterProtocolHandlersWithOs functions used to register web app protocol handlers with the OS.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_OS_INTEGRATION_WEB_APP_PROTOCOL_HANDLER_REGISTRATION_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_OS_INTEGRATION_WEB_APP_PROTOCOL_HANDLER_REGISTRATION_H_
 

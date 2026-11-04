@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fetch install info result logging implementation
+// summary: Implements the ostream operator that prints FetchInstallInfoResult enum values as readable strings.
+// ---
+
 #include "chrome/browser/web_applications/scheduler/fetch_install_info_from_install_url_result.h"
 
 #include <ostream>

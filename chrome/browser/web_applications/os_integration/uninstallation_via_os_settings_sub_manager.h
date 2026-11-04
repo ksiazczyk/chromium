@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UninstallationViaOsSettingsSubManager class header
+// summary: Declares the sub manager that registers and unregisters web app uninstallation through OS settings, used only on Windows.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_OS_INTEGRATION_UNINSTALLATION_VIA_OS_SETTINGS_SUB_MANAGER_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_OS_INTEGRATION_UNINSTALLATION_VIA_OS_SETTINGS_SUB_MANAGER_H_
 

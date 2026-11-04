@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppInstalledBy header
+// summary: Declares AppInstalledBy, which records when and from where an app was installed via the Web Install API, with proto conversion helpers.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_MODEL_APP_INSTALLED_BY_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_MODEL_APP_INSTALLED_BY_H_
 

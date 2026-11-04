@@ -1,3 +1,13 @@
+---
+type: readme
+title: Sub Apps API (chrome/browser/web_applications/sub_apps)
+summary: Documents the Sub Apps API implementation, its architecture and security model, and links to companion documentation.
+relations:
+  - references /chrome/browser/ui/views/web_apps/sub_apps/README.md
+  - references /chrome/browser/web_applications/AGENTS.md
+  - references /chrome/browser/web_applications/isolated_web_apps/README.md
+---
+
 # Sub Apps API (`chrome/browser/web_applications/sub_apps`)
 
 This directory implements the browser-side `blink::mojom::SubAppsService` for
