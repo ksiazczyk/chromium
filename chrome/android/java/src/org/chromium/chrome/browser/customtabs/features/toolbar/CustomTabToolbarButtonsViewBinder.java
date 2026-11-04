@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom tab toolbar buttons view binder
+// summary: Binds custom tab toolbar button properties to the toolbar view, handling visibility, positioning, tinting and the custom action button list.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.toolbar;
 
 import static androidx.browser.customtabs.CustomTabsIntent.CLOSE_BUTTON_POSITION_END;

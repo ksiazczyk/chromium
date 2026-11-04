@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DuplicateDownloadDialogBridge
+// summary: JNI bridge that glues the duplicate download dialog UI to the native download backend and reports the user's confirmation back to native code.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import android.app.Activity;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Partial Custom Tab version compatibility layer
+// summary: Abstract compatibility class providing display, inset, and keyboard measurements that differ per Android version, with separate implementations for pre-R and R and later builds.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.partialcustomtab;
 
 import android.app.Activity;

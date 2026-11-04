@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reader mode bottom sheet view binder
+// summary: Binds reader mode bottom sheet property keys to view updates such as content swapping, background tinting, and text colors.
+// ---
+
 package org.chromium.chrome.browser.dom_distiller;
 
 import android.content.res.ColorStateList;

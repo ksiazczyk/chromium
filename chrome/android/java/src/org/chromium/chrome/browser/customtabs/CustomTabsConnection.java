@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom Tabs connection for client sessions and requests
+// summary: Core Custom Tabs service connection that manages client sessions, warmup, URL prefetching, post messages, engagement signals, and related metrics.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

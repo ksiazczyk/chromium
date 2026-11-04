@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom Tabs connection service implementation
+// summary: Implements Custom Tabs service callbacks such as warmup, newSession, mayLaunchUrl, prefetch, and postMessage, delegating to CustomTabsConnection.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import android.content.Intent;

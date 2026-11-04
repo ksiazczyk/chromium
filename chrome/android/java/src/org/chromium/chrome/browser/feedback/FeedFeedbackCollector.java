@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedFeedbackCollector
+// summary: Collects feedback from Chrome's feed, bundling URL and feed context data into key-value pairs for feedback requests.
+// ---
+
 package org.chromium.chrome.browser.feedback;
 
 import android.app.Activity;

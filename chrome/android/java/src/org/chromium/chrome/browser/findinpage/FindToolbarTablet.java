@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FindToolbarTablet
+// summary: Tablet-specific subclass of FindToolbar that adds enter, exit, and make-room animations and side UI integration for the find toolbar.
+// ---
+
 package org.chromium.chrome.browser.findinpage;
 
 import android.animation.Animator;

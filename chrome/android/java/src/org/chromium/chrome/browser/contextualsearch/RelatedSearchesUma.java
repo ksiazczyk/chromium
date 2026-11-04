@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RelatedSearchesUma
+// summary: Centralizes UMA histogram logging for Related Searches, covering user permissions, qualified users, and suggestion selections.
+// ---
+
 package org.chromium.chrome.browser.contextualsearch;
 
 import androidx.annotation.IntDef;

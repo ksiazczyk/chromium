@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom tab toolbar color controller
+// summary: Maintains the toolbar background color and tint for custom tab activities, reacting to theme changes and desktop windowing mode.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.toolbar;
 
 import android.content.Context;

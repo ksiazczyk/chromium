@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UMA helper for download notification statistics
+// summary: Records UMA histograms for foreground service lifecycle changes and expected versus unexpected service stops.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import androidx.annotation.IntDef;

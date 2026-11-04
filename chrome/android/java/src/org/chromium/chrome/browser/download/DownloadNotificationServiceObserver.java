@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Observer forwarding service events to the notification service
+// summary: Forwards foreground service task removal and destruction events to DownloadNotificationService via reflection registration.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import org.chromium.build.annotations.NullMarked;

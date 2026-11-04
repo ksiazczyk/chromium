@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reader mode toolbar button controller
+// summary: Supplies reader mode toolbar button data, controlling when the contextual page action button appears and auto-hides for the active tab.
+// ---
+
 package org.chromium.chrome.browser.dom_distiller;
 
 import android.content.Context;

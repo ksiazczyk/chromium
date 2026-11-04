@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeLauncherActivity intent dispatcher for Chrome on Android
+// summary: Android activity that dispatches incoming intents to the appropriate Chrome activity based on the current configuration and the fired intent, recording launch metrics along the way.
+// ---
+
 package org.chromium.chrome.browser.document;
 
 import android.app.Activity;

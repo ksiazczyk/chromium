@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DuplicateDownloadClickableSpan
+// summary: Clickable span that opens an existing download file when its name is tapped in a duplicate download dialog or infobar.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import android.net.Uri;

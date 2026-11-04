@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM distiller service factory
+// summary: Factory that maps each profile to a single DomDistillerService instance, creating it through JNI on first access.
+// ---
+
 package org.chromium.chrome.browser.dom_distiller;
 
 import org.jni_zero.JNINamespace;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Holder for the Custom Tab minimization manager
+// summary: Creates and holds the CustomTabMinimizationManager when minimized Custom Tabs are available and enabled, destroying it on teardown.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.minimizedcustomtab;
 
 import android.os.Bundle;

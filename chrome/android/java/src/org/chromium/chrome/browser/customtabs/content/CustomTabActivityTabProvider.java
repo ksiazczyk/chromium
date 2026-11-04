@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom Tab activity tab provider
+// summary: Single source of truth for the current tab of a Custom Tab activity, aware of hidden tabs and tab swaps.
+// ---
+
 package org.chromium.chrome.browser.customtabs.content;
 
 import org.chromium.base.ObserverList;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomTabMtbHiddenReason
+// summary: IntDef enumeration of reasons why the adaptive toolbar button on Custom Tabs can be hidden, kept in sync with histograms metadata.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.toolbar;
 
 import androidx.annotation.IntDef;

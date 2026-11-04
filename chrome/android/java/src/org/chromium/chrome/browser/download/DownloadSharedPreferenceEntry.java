@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared preferences entry for download notifications
+// summary: Models download notification data persisted in SharedPreferences and parses it across multiple serialized format versions.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import android.text.TextUtils;

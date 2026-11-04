@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomTabDragBar touch-forwarding view
+// summary: Top strip view of the custom tab toolbar that forwards touch events to the handle strategy for dragging the custom tab up and down.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.partialcustomtab;
 
 import android.annotation.SuppressLint;

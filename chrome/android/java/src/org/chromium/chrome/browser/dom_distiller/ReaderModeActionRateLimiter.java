@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reader mode action rate limiter
+// summary: Rate limits how often the reader mode contextual page action is shown, temporarily and then permanently suppressing it after repeated shows without interaction.
+// ---
+
 package org.chromium.chrome.browser.dom_distiller;
 
 import androidx.annotation.VisibleForTesting;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom Tab minimization manager for picture-in-picture
+// summary: Manages minimizing a Custom Tab into picture-in-picture, recording minimize, maximize and destroy events and restoring state.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.minimizedcustomtab;
 
 import static org.chromium.build.NullUtil.assertNonNull;

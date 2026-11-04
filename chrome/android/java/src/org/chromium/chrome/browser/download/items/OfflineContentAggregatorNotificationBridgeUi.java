@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflineContentAggregatorNotificationBridgeUi
+// summary: Bridges the profile-attached OfflineContentProvider with Chrome's download notification code, forwarding item updates and caching visuals for in-progress downloads.
+// ---
+
 package org.chromium.chrome.browser.download.items;
 
 import static org.chromium.build.NullUtil.assertNonNull;

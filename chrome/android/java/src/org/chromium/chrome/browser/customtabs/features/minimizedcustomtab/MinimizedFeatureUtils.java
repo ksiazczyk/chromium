@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Utilities for the Minimized Custom Tab feature
+// summary: Computes device eligibility and availability of the Minimized Custom Tab feature, emitting availability histograms.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.minimizedcustomtab;
 
 import static org.chromium.build.NullUtil.assertNonNull;

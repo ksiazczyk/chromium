@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom tab status bar color provider
+// summary: Manages the status bar color for a CustomTabActivity, choosing between web page theme color, browser default, and intent-provided colors.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import static org.chromium.chrome.browser.ui.system.StatusBarColorController.DEFAULT_STATUS_BAR_COLOR;

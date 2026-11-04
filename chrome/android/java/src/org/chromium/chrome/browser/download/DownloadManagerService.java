@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadManagerService
+// summary: Central Chrome service tracking in-progress downloads, generating progress updates, and handling Android DownloadManager interactions and interrupted notification cleanup.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import static org.chromium.build.NullUtil.assertNonNull;

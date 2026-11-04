@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Central download notification service
+// summary: Receives download updates and creates or updates download notifications, coordinating with the foreground service manager.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import static org.chromium.chrome.browser.download.DownloadBroadcastManagerImpl.getServiceDelegate;

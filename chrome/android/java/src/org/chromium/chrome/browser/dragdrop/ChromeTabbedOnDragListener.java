@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drag event listener for ChromeTabbedActivity
+// summary: Handles drag events not consumed by child views in the tabbed activity, routing drops of tabs, groups and links to new or existing Chrome windows.
+// ---
+
 package org.chromium.chrome.browser.dragdrop;
 
 import android.content.ClipDescription;

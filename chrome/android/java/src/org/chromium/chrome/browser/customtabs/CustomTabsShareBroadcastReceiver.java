@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom Tabs share broadcast receiver
+// summary: Broadcast receiver that handles share requests from Custom Tabs and opens the Android share sheet for the URL.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import android.content.BroadcastReceiver;

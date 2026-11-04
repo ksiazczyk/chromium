@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentGestureListener for partial custom tab gestures
+// summary: Detects swipe and scroll gestures on the partial custom tab content view and routes motion events to the tab window or the content view.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.partialcustomtab;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

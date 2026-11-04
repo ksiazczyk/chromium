@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common metadata for the display cutout directory
+summary: Declares the Blink>Layout monorail component and the public Buganizer component used for issues in this directory.

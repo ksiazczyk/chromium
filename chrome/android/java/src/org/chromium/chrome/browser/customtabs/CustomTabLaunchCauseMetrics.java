@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomTabLaunchCauseMetrics
+// summary: Computes the launch cause metric for Custom Tab activities, distinguishing trusted web activity, custom tab, and auth tab launches.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import org.chromium.build.annotations.NullMarked;

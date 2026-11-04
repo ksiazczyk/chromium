@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom Tabs feature usage histogram recorder
+// summary: Records the CustomTabs.FeatureUsage histogram that tracks which Custom Tabs features client applications use.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import androidx.annotation.IntDef;

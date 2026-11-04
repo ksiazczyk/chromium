@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Partial Custom Tab handle strategy factory
+// summary: Factory that creates handle strategies for partial custom tabs that support resizing by dragging, returning a strategy for bottom sheet types and null for side sheet or full size.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.partialcustomtab;
 
 import android.content.Context;

@@ -1,6 +1,13 @@
 // Copyright 2017 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: ChromeMinidumpUploaderDelegate
+// summary: Chrome-specific delegate for minidump upload logic, covering crash reporting permission checks, network state evaluation, and upload success and failure counting.
+// ---
+
 package org.chromium.chrome.browser.crash;
 
 import android.content.Context;

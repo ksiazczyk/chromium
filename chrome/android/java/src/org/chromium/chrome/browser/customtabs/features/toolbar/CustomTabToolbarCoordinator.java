@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom tab toolbar coordinator
+// summary: Coordinates the custom tab toolbar, encapsulating interactions with Chrome's toolbar manager and browser controls visibility handling.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.toolbar;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

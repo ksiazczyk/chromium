@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextualSearchObserver
+// summary: Interface for observers to be notified when a contextual search is shown or is no longer active in Chrome's Contextual Search feature.
+// ---
+
 package org.chromium.chrome.browser.contextualsearch;
 
 import org.chromium.build.annotations.NullMarked;

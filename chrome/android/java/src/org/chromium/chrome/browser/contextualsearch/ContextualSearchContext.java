@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextualSearchContext
+// summary: Abstract class providing the search context for Contextual Search, tracking the selection, surrounding page content, detected language, and translation data while linking to its native counterpart.
+// ---
+
 package org.chromium.chrome.browser.contextualsearch;
 
 import android.text.TextUtils;

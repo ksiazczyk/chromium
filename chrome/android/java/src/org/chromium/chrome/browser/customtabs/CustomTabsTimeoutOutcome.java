@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom Tabs timeout outcome histogram recorder
+// summary: Records the CustomTabs.ResetTimeout.Outcome histogram tracking results of Custom Tabs sessions with a configured timeout.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import androidx.annotation.IntDef;

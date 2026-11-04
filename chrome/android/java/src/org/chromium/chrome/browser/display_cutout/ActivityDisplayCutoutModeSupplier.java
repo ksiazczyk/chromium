@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActivityDisplayCutoutModeSupplier
+// summary: Supplies an activity-wide display cutout mode override that is attached to a WindowAndroid's unowned user data host, with a hook for test instances.
+// ---
+
 package org.chromium.chrome.browser.display_cutout;
 
 import org.chromium.base.UnownedUserDataHost;

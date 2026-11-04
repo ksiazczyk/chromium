@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface for download service UI delegates
+// summary: Defines an interface for cancelling, pausing, and resuming downloads from a concrete download service UI implementation.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import org.chromium.build.annotations.NullMarked;

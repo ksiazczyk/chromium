@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomTabToolbarButtonsCoordinator
+// summary: Coordinator wiring the property model, mediator, and view for Custom Tab toolbar buttons such as close, minimize, and custom action buttons.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.toolbar;
 
 import static org.chromium.chrome.browser.customtabs.features.toolbar.CustomTabToolbarButtonsProperties.CLICK_LISTENER;

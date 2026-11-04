@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlatformAuthEntraTokensReader
+// summary: Java class that reads SSO authentication tokens from the Microsoft Entra broker via Android AccountManager for native Chromium enterprise auth callers.
+// ---
+
 package org.chromium.chrome.browser.enterprise;
 
 import android.accounts.Account;

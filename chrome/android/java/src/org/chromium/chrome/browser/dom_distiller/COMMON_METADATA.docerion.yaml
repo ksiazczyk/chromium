@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common directory metadata for dom_distiller
+summary: Shared Chromium metadata defining the Reader Mode monorail component, team email, and public buganizer component for the directory.

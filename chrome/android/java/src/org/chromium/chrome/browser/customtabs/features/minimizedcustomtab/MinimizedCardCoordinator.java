@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Coordinator for the minimized Custom Tab card view
+// summary: Inflates and attaches the full-activity minimized card view, binding it to the property model, and removes it on dismissal.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.minimizedcustomtab;
 
 import android.content.Context;

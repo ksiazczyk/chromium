@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parameters for opening a downloaded file
+// summary: Holds builder-constructed parameters such as file path, MIME type, and profile needed to open a downloaded file.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import android.content.Context;

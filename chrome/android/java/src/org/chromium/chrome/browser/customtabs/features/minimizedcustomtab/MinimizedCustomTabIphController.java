@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPH controller for Minimized Custom Tabs
+// summary: Shows in-product help highlighting the minimize button after page load and notifies engagement events via the feature tracker.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.minimizedcustomtab;
 
 import android.app.Activity;

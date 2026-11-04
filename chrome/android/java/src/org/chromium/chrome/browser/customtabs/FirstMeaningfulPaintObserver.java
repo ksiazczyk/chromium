@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FirstMeaningfulPaintObserver
+// summary: Page load metrics observer that notifies the CustomTabObserver when first meaningful paint occurs for a Custom Tab.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import org.chromium.build.annotations.NullMarked;

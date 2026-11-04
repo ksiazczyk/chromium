@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafetyPromoCarouselFirstRunFragment
+// summary: Fragment for the horizontal swipable Safety promo carousel page during the First Run Experience, handling layout and configuration changes.
+// ---
+
 package org.chromium.chrome.browser.firstrun;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

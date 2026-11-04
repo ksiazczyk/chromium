@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Handle strategy for resizing the custom tab window
+// summary: Processes touch events on the drag handle to resize the partial custom tab window, reporting drag start, move and end with fling velocity.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.partialcustomtab;
 
 import android.content.Context;

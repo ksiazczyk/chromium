@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageLoadMetricsObserver
+// summary: Page load metrics observer that notifies CustomTabsConnection of metrics such as first contentful paint and network quality.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import android.os.Bundle;

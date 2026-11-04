@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: First Run directory metadata
+summary: Maps the firstrun directory to the UI>Browser>First Run monorail component and a Buganizer component ID for issue routing.

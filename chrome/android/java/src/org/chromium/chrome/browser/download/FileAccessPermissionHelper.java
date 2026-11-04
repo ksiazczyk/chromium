@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileAccessPermissionHelper
+// summary: Requests the storage permissions needed for file access on Android and reports whether the permission was granted.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import android.Manifest.permission;

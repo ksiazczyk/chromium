@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomTabAppMenuPropertiesDelegate
+// summary: App menu properties delegate for CustomTabActivity that customizes which menu items, such as share, star, download and custom entries, appear in custom tabs.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import android.content.Context;

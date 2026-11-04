@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserServicesThemeColorProvider
+// summary: Theme color provider that computes the Custom Tab toolbar primary color from web app manifest data, the tab's theme color, and Chrome's default theme.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.toolbar;
 
 import static org.chromium.chrome.browser.flags.CustomTabProfileType.INCOGNITO;

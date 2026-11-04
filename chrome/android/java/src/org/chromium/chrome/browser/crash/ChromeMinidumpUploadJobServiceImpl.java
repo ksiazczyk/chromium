@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeMinidumpUploadJobServiceImpl
+// summary: Implementation of the minidump upload job service that creates upload jobs interacting with the Android JobScheduler to upload minidumps at appropriate times.
+// ---
+
 package org.chromium.chrome.browser.crash;
 
 import static org.chromium.build.NullUtil.assertNonNull;

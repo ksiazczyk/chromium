@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom tab trusted CDN publisher URL visibility
+// summary: Implements TrustedCdn.PublisherUrlVisibility to control whether a trusted CDN publisher URL can be shown when a tab is attached to a custom tab activity.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import org.chromium.build.annotations.NullMarked;

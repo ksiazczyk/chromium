@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reader mode manager
+// summary: Manages reader mode UI effects on Android, including showing and hiding reader mode, the toolbar icon, browser controls, and entry-point tracking.
+// ---
+
 package org.chromium.chrome.browser.dom_distiller;
 
 import static org.chromium.build.NullUtil.assertNonNull;

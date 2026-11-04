@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: First run chooser view
+// summary: Scroll view used for option chooser pages in first run, adjusting the header title size and padding by orientation.
+// ---
+
 package org.chromium.chrome.browser.firstrun;
 
 import android.content.Context;

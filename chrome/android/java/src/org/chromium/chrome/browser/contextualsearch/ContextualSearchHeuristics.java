@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextualSearchHeuristics
+// summary: Manages a set of Contextual Search heuristics, logging their condition states and results seen for tap-suppression experimentation.
+// ---
+
 package org.chromium.chrome.browser.contextualsearch;
 
 import org.chromium.build.annotations.NullMarked;

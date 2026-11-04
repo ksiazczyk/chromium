@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Custom tabs directory dependency rules
+summary: Chromium DEPS file listing the include rules that restrict dependencies for the customtabs directory.

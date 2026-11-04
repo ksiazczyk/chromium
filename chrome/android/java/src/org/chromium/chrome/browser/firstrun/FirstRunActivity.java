@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: First Run Experience activity
+// summary: Activity that hosts the sequence of first run pages shown when Chrome is launched for the first time on Android.
+// ---
+
 package org.chromium.chrome.browser.firstrun;
 
 import static androidx.annotation.VisibleForTesting.PRIVATE;

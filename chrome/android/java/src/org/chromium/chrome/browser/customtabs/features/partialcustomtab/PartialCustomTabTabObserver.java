@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Partial Custom Tab tab observer
+// summary: Tab observer that installs the partial custom tab input method wrapper on a tab's WebContents so the tab can detect when the soft keyboard is shown.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.partialcustomtab;
 
 import static org.chromium.build.NullUtil.assertNonNull;

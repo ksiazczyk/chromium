@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RelatedSearchesList
+// summary: Parses server JSON into a list of Related Searches suggestions and provides their queries and search URIs for the panel UI.
+// ---
+
 package org.chromium.chrome.browser.contextualsearch;
 
 import android.net.Uri;

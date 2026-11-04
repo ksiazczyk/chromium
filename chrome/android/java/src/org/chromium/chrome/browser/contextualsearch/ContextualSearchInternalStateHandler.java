@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextualSearchInternalStateHandler
+// summary: Interface the internal state controller uses to drive Contextual Search Manager operations like showing UI, gathering surrounding text, and resolving search terms.
+// ---
+
 package org.chromium.chrome.browser.contextualsearch;
 
 import org.chromium.build.annotations.NullMarked;

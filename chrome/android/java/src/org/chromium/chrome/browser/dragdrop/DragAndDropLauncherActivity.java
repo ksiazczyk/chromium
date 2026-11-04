@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drag and drop launcher activity
+// summary: Trampoline activity that validates and routes drag and drop launcher intents to a new or existing ChromeTabbedActivity while recording launch metrics.
+// ---
+
 package org.chromium.chrome.browser.dragdrop;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

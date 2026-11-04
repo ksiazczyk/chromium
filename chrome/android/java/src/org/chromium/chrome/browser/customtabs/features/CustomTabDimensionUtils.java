@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom Tab dimension utilities
+// summary: Utility methods that compute Custom Tab display width and clamp the initial activity width based on screen metrics and intent data.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features;
 
 import android.app.Activity;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomTabColorProviderImpl
+// summary: ColorProvider implementation for normal profiles that resolves toolbar, bottom bar, navigation bar and background colors from Custom Tab intent color scheme params.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import static androidx.browser.customtabs.CustomTabsIntent.COLOR_SCHEME_LIGHT;

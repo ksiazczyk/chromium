@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Partial Custom Tab input method wrapper
+// summary: Wrapper around the default input method manager wrapper that intercepts showSoftInput to trigger a partial custom tab height change when the soft keyboard appears.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.partialcustomtab;
 
 import android.content.Context;

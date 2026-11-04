@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabObserverRegistrar
+// summary: Registers and manages tab and page load metrics observers, attaching them to tabs as they enter or leave the Custom Tab tab model.
+// ---
+
 package org.chromium.chrome.browser.customtabs.content;
 
 import org.chromium.base.ObserverList;

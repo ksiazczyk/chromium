@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: No-op keyboard visibility delegate
+// summary: Provides a keyboard visibility delegate that never shows the keyboard, for use in custom tabs.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.toolbar;
 
 import android.view.View;

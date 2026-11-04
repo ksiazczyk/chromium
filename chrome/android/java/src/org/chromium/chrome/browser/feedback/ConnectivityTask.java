@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConnectivityTask
+// summary: Checks Internet connectivity over HTTP and HTTPS using both the Chrome and Android network stacks and reports the results as feedback data.
+// ---
+
 package org.chromium.chrome.browser.feedback;
 
 import android.os.SystemClock;

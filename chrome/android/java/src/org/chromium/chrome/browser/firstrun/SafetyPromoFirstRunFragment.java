@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafetyPromoFirstRunFragment
+// summary: Fragment for the Safety promo during the First Run Experience, selecting layouts per field trial arm and orientation and advancing the flow.
+// ---
+
 package org.chromium.chrome.browser.firstrun;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

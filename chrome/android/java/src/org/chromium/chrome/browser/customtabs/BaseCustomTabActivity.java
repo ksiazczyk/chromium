@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base activity for Custom Tab variants
+// summary: Base activity for Custom Tab, Trusted Web Activity, and Auth Tab launches, coordinating lifecycle, intent handling, and shared setup.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import static androidx.browser.customtabs.CustomTabsIntent.CLOSE_BUTTON_POSITION_END;

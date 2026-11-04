@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app insets consumer for edge-to-edge
+// summary: Withholds system bar and display cutout insets while a token is held so installed web apps can draw edge-to-edge without content padding.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features;
 
 import android.view.View;

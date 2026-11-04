@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TapSuppressionHeuristics
+// summary: Aggregates Contextual Search tap suppression heuristics to decide whether a tap should be suppressed and to log their condition and results state.
+// ---
+
 package org.chromium.chrome.browser.contextualsearch;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop site settings IPH controller
+// summary: Android Chrome controller that shows in-product help messages for desktop site per-site and window settings on eligible tabs.
+// ---
+
 package org.chromium.chrome.browser.desktop_site;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

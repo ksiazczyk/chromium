@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom tab observer for logging and messaging
+// summary: TabObserver that handles custom tabs specific logging and messaging, recording launch timing metrics, navigation info capture, and TWA startup times.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import static org.chromium.build.NullUtil.assertNonNull;

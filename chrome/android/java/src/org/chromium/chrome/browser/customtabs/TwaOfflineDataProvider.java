@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TWA offline data provider stored as tab user data
+// summary: Holds Trusted Web Activity offline page details such as the initial URL, additional origins, and client package name as user data on a Tab.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import org.chromium.base.UserData;

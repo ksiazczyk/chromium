@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reader mode bottom sheet properties
+// summary: Defines property keys for the reader mode bottom sheet model, covering the content view, background and text colors, and icon tint.
+// ---
+
 package org.chromium.chrome.browser.dom_distiller;
 
 import android.content.res.ColorStateList;

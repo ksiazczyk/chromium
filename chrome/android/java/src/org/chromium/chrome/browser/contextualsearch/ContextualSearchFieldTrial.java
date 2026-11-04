@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextualSearchFieldTrial
+// summary: Field trial and feature flag support for Contextual Search in Chrome for Android, detecting whether the feature is enabled and reading experiment parameters such as Related Searches stamps.
+// ---
+
 package org.chromium.chrome.browser.contextualsearch;
 
 import android.text.TextUtils;

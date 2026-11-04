@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResolvedSearchTerm
+// summary: Immutable object encapsulating the server response to a search term resolution request, including display text, URLs, and card metadata.
+// ---
+
 package org.chromium.chrome.browser.contextualsearch;
 
 import androidx.annotation.IntDef;

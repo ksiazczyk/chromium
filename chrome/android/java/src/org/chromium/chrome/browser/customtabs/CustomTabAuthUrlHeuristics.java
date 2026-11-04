@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomTabAuthUrlHeuristics
+// summary: Records a histogram of OAuth-like query parameters to detect whether a Custom Tab was launched with an authentication URL.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import android.net.Uri;

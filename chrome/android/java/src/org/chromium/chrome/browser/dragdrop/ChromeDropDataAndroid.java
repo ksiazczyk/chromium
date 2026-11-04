@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome drop data base class
+// summary: Abstract base for Chrome-specific drop data, carrying window ID and instance-creation flags through a builder used by its subclasses.
+// ---
+
 package org.chromium.chrome.browser.dragdrop;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom Tab activity navigation controller
+// summary: Controls navigation to new pages and back within a Custom Tab activity, including finish reason tracking and back press handling.
+// ---
+
 package org.chromium.chrome.browser.customtabs.content;
 
 import static org.chromium.build.NullUtil.assertNonNull;

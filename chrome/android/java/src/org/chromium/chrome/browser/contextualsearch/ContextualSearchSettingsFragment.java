@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextualSearchSettingsFragment
+// summary: Settings fragment that manages the Contextual Search preferences in Chrome Settings and explains what the feature does to the user.
+// ---
+
 package org.chromium.chrome.browser.contextualsearch;
 
 import android.content.Context;

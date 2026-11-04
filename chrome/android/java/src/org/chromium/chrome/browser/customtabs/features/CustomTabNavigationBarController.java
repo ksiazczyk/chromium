@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom Tab navigation bar controller
+// summary: Configures the system navigation bar color and divider for a Custom Tab activity according to intent extras and edge-to-edge state.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features;
 
 import android.content.Context;

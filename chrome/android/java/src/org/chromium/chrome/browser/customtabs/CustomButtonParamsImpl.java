@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom button parameters implementation
+// summary: Implements CustomButtonParams, storing icon, description, tinting, and PendingIntent for client-supplied toolbar and bottom bar buttons.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import android.app.PendingIntent;

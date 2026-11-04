@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM distiller tab utilities
+// summary: Helper class for triggering page distillation, showing distilled content, formatting distiller URLs, and checking distiller heuristics.
+// ---
+
 package org.chromium.chrome.browser.dom_distiller;
 
 import org.jni_zero.JNINamespace;

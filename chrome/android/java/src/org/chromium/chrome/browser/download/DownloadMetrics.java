@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download UMA metrics recorder for Android
+// summary: Records download-related UMA histograms for open sources, open targets, and per-profile-type download page opens.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import androidx.annotation.IntDef;

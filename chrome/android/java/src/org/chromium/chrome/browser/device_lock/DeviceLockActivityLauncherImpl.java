@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceLockActivityLauncherImpl
+// summary: Singleton implementation of DeviceLockActivityLauncher that builds the intent and launches DeviceLockActivity in different scenarios.
+// ---
+
 package org.chromium.chrome.browser.device_lock;
 
 import android.content.Context;

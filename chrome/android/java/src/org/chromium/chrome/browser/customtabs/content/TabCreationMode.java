@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabCreationMode
+// summary: IntDef annotation enumerating the ways the initial tab in a Custom Tab activity can be created, such as default, early, restored or hidden.
+// ---
+
 package org.chromium.chrome.browser.customtabs.content;
 
 import androidx.annotation.IntDef;

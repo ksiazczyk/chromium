@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom tab session handler
+// summary: Implements SessionHandler for a Custom Tab activity, registering and unregistering itself in SessionDataHolder to route client messages to the active session.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import android.app.Activity;

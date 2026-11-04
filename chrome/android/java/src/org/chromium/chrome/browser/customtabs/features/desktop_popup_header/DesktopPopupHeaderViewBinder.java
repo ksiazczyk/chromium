@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop popup header view binder
+// summary: View binder that applies property model changes to the header view, covering visibility, title text, appearance, margins, background color, and layout height.
+// ---
+
 package org.chromium.chrome.browser.customtabs.features.desktop_popup_header;
 
 import android.view.View;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafetyPromoFirstRunState
+// summary: Carries the card selected on the Safety FRE overview page to the carousel page, with a null selection meaning the carousel is not shown.
+// ---
+
 package org.chromium.chrome.browser.firstrun;
 
 import org.chromium.base.supplier.NullableObservableSupplier;

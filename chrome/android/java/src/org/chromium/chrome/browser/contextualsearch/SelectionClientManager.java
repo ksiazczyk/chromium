@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SelectionClientManager
+// summary: Manages up to two SelectionClient instances, combining a permanent Smart Selection client with an optional Contextual Search client.
+// ---
+
 package org.chromium.chrome.browser.contextualsearch;
 
 import android.view.textclassifier.TextClassifier;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom Tabs client file processor
+// summary: Processes files received from client apps over the Custom Tabs connection, currently handling Trusted Web Activity splash screen images.
+// ---
+
 package org.chromium.chrome.browser.customtabs;
 
 import android.graphics.Bitmap;

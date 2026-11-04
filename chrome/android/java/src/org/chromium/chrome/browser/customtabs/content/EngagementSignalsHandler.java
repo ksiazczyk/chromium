@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Engagement signals handler
+// summary: Initializes engagement signal reporting when a client app sets an EngagementSignalsCallback for a Custom Tab session.
+// ---
+
 package org.chromium.chrome.browser.customtabs.content;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DuplicateDownloadDialog
+// summary: Shows a modal dialog asking the user to confirm downloading a file that already exists on disk, including an incognito warning when needed.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import android.content.Context;

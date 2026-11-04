@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom Tab intent handling strategy interface
+// summary: Defines the strategy interface for handling initial and new intents delivered to a running Custom Tab.
+// ---
+
 package org.chromium.chrome.browser.customtabs.content;
 
 import org.chromium.build.annotations.NullMarked;
