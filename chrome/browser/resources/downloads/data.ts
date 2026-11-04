@@ -7,6 +7,12 @@
  * JS for chrome://downloads.
  */
 
+// ---docerion
+// type: source
+// title: Mojo data interface augmentation
+// summary: TypeScript interface extending the Mojo Data type with an optional hideDate flag for data passed from C++ to the downloads page front end.
+// ---
+
 import type {Data} from './downloads.mojom-webui.js';
 
 export interface MojomData extends Data {

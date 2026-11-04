@@ -9,6 +9,12 @@
  * #include=action-link-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Memory tab stylesheet
+summary: Styles the memory tab table, sortable headers, magnitude bars, sparklines, dead-process badges and dark mode theming.
+*/
+
 :host {
   display: block;
   font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;

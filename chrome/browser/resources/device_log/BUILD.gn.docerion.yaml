@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the device_log WebUI
+summary: Defines the build_webui target bundling the device log TypeScript, CSS, and static HTML with Lit and cr_elements dependencies.

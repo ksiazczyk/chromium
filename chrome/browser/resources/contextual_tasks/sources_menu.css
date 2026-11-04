@@ -9,6 +9,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Sources menu styles
+summary: Lit CSS styles for the sources menu, defining dropdown item width, menu padding, header text, and file icon colors.
+*/
+
 .dropdown-item {
   width: 320px;
   padding: 0 0;

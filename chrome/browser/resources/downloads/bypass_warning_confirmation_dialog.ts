@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bypass warning confirmation dialog element
+// summary: Defines the downloads-bypass-warning-confirmation-dialog element that lets users keep a file flagged as dangerous.
+// ---
+
 /**
  * @fileoverview 'downloads-bypass-warning-confirmation-dialog' is the dialog
  * that allows bypassing a download warning (keeping a file flagged as

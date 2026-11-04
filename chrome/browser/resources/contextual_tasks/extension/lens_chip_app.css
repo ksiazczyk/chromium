@@ -6,6 +6,12 @@
  * #type=style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Lens chip app styles
+summary: Lit CSS for the Lens chip element covering the crop image, hover close button, RTL layout and forced colors mode.
+*/
+
 :host {
   border-radius: 8px;
   box-sizing: border-box;

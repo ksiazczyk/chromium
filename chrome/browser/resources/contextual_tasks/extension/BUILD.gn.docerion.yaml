@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the contextual tasks extension
+summary: Defines GN targets that rewrite Mojo imports, compile and bundle the extension TypeScript, and generate the background resource pack.

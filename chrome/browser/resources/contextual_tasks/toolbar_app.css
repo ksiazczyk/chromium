@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Toolbar app styles
+summary: Lit CSS defining toolbar app color variables for search background, menus, text, and dark mode theming.
+*/
+
 :host {
   display: block;
   height: 100%;

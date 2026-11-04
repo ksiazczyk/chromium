@@ -1,0 +1,4 @@
+# Docerion header of site_engagement.html.
+type: source
+title: Site Engagement page HTML shell
+summary: HTML entry page for the Site Engagement WebUI that loads the app module and custom element and applies base font styling.

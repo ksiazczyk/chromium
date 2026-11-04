@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Critical Actions WebUI OWNERS file
+summary: Delegates code ownership review to the OWNERS file of components/critical_actions.

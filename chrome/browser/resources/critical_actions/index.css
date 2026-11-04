@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Critical Actions Internals page stylesheet
+summary: Styles the Critical Actions Internals WebUI page, setting the body background to the Material Design background color and removing the default margin.
+*/
+
 body {
   background-color: var(--md-background-color);
   margin: 0;

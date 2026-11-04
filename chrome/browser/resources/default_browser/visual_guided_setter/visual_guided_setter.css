@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Visual guided setter page styles
+summary: CSS that lays out the guided default-browser page and defines the docking placeholder slot that frames the docked Windows Settings window, with lint-matched geometry.
+*/
+
 html {
   box-sizing: border-box;
   height: 100%;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Downloads manager element
+// summary: Implements the downloads-manager element that coordinates the download list, search mode, focus and toolbar events.
+// ---
+
 import '/strings.m.js';
 import './bypass_warning_confirmation_dialog.js';
 import './item.js';

@@ -12,6 +12,12 @@
  * #include=cr-hidden-style-lit action-link-lit cr-icons-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Download item styles
+summary: Styles for the download item element, covering card layout, dark mode and webui-refresh-2026 theming.
+*/
+
 :host {
   --controlled-by-active-color: #333;
   --controlled-by-active-link-color: var(--google-blue-600);

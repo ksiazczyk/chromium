@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the downloads resources directory
+summary: Lists the primary and secondary code owners responsible for reviewing changes in this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks toolbar browser proxy
+// summary: Browser proxy connecting the toolbar to the contextual tasks toolbar UI service and its observer callback router.
+// ---
+
 import {ContextualTasksToolbarUIObserverCallbackRouter, ContextualTasksToolbarUIService, PageCallbackRouter, PageHandlerFactory, PageHandlerRemote} from './contextual_tasks_toolbar.mojom-webui.js';
 import type {ContextualTasksToolbarUIServiceInterface, PageHandlerInterface} from './contextual_tasks_toolbar.mojom-webui.js';
 

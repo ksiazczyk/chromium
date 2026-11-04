@@ -1,0 +1,4 @@
+# Docerion header of data_sharing_app.html.
+type: source
+title: Data sharing app component template
+summary: Template for the data sharing app element that maps Chrome color system variables to ShareKit styles and hosts the flow dialogs.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Tasks Internals browser proxy
+// summary: Singleton browser proxy that wires the internals page to the ContextualTasksInternals Mojo handler and callback router.
+// ---
+
 import {ContextualTasksInternalsPageCallbackRouter, ContextualTasksInternalsPageHandlerFactory, ContextualTasksInternalsPageHandlerRemote} from '../contextual_tasks_internals.mojom-webui.js';
 
 /**

@@ -1,0 +1,4 @@
+# Docerion header of context_library.html.
+type: source
+title: Context library host page
+summary: HTML page that hosts the context-library element and opts the iframe into responsive embedded sizing for the embedder.

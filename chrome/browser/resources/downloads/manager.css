@@ -13,6 +13,12 @@
  * #include=cr-hidden-style-lit cr-page-host-style-lit cr-shared-style-lit cr-scrollable-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Downloads manager styles
+summary: Styles for the downloads manager page, including toolbar sizing, list layout and the empty state illustration.
+*/
+
 :host {
   display: flex;
   flex: 1 0;

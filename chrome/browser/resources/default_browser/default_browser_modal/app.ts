@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser modal app element
+// summary: Lit element implementing the default browser modal dialog, handling sticky modal focus, acceptance state and button actions via the browser proxy.
+// ---
+
 import '/strings.m.js';
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 

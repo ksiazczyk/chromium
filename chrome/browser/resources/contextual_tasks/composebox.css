@@ -10,6 +10,12 @@
 
 /* TODO(crbug.com/461801378): Add styling for non-AIM pages. */
 
+/*docerion
+type: source
+title: Styles for the contextual tasks composebox
+summary: Defines layout variables, motion curves, animations and theming for the contextual tasks composebox element.
+*/
+
 :host {
   --aim-header-height: 66px;
   --cancel-button-inline-end: 16px;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit template for the Lens button app
+// summary: Exports the Lit HTML template that renders the Lens cr-icon-button with aria attributes and click and mousedown handlers.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {LensButtonAppElement} from './lens_button_app.js';

@@ -8,6 +8,12 @@
  * #include=cr-hidden-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Main discards layout styles
+summary: Styles the main discards element layout with a flex column host and sizing rules for the page selector and graph tab.
+*/
+
 :host {
   display: flex;
   flex-direction: column;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab picker app HTML template
+// summary: Lit HTML template for the tab picker app element, rendering the share tabs trigger button and the tab suggestion action menu.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {TabPickerAppElement} from './tab_picker_app.js';

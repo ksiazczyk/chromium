@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Database tab styles
+summary: Styles the site data database tab with table borders, sortable header indicators, and dark color scheme handling.
+*/
+
 @media (prefers-color-scheme: dark) {
   :host {
     color: var(--cr-secondary-text-color);

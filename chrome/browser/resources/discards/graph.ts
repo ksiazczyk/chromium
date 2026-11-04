@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: D3 force graph for the discards graph view
+// summary: Implements the D3-based force-directed graph of pages, frames, processes and workers, including draggable tooltips and node layout forces.
+// ---
+
 import 'chrome://resources/d3/d3.min.js';
 
 import {assert} from 'chrome://resources/js/assert.js';

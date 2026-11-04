@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual Tasks Internals app HTML template
+// summary: Lit HTML template rendering the model selection, query testing, relevant tabs, event logs, debugging, and eligibility panels of the debug page.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ContextualTasksInternalsAppElement} from './app.js';

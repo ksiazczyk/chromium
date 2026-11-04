@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks icon set
+// summary: Defines the contextual_tasks cr-iconset with SVG icon definitions such as edit-square and notes-spark for the UI.
+// ---
+
 import '//resources/cr_elements/cr_icon/cr_iconset.js';
 
 import {getTrustedHTML} from '//resources/js/static_types.js';

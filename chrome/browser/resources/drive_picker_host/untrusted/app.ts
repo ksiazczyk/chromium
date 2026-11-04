@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive Picker host untrusted app element
+// summary: Implements the Lit app element that hosts the Google Picker, handles Consent Kit iframe messaging and reports picker results through Mojo.
+// ---
+
 import '//resources/cr_elements/cr_button/cr_button.js';
 import {I18nMixinLit} from '//resources/cr_elements/i18n_mixin_lit.js';
 import {assert} from '//resources/js/assert.js';

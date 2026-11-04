@@ -1,0 +1,4 @@
+# Docerion header of lens_chip.html.
+type: source
+title: Lens chip host page
+summary: HTML host page that mounts the lens-chip-app element and loads its scripts for the Lens region chip iframe.

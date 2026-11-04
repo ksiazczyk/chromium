@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Graph tab element
+// summary: WebUI element hosting the graph view, connecting to the Mojo GraphDump remote and forwarding node description requests and graph updates.
+// ---
+
 import {CrLitElement} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {GraphDumpRemote} from './discards.mojom-webui.js';

@@ -1,0 +1,4 @@
+# Docerion header of data_sharing.html.
+type: source
+title: Data sharing WebUI entry page
+summary: Entry HTML page for the data sharing WebUI that loads theme styles, the SDK stylesheet, and the data sharing app element.

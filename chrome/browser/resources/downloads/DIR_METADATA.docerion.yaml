@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for downloads resources
+summary: Points to COMMON_METADATA so its tracker component settings apply to this directory.

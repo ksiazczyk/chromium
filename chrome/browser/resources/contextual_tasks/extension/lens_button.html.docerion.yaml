@@ -1,0 +1,4 @@
+# Docerion header of lens_button.html.
+type: source
+title: Lens button host page
+summary: HTML page that hosts the lens-button-app element and loads its strings, app script, and post message entry point.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inner composebox context menu template
+// summary: Lit HTML template for the composebox context menu container handling tab context, tool chips and upload actions.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ContextualTasksInnerComposeboxElement} from './contextual_tasks_inner_composebox.js';

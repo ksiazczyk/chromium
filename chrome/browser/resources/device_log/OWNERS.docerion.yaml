@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the device_log directory
+summary: Lists nsatragno@chromium.org and the device/fido owners as reviewers for changes in this directory.

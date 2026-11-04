@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the contextual tasks app element
+summary: Defines CSS custom properties and layout styles for the app, including composebox colors, sizing and theming variables.
+*/
+
 :host {
   --color-composebox-cancel-button: rgba(10,10,10, 1);
   --color-composebox-context-entrypoint-text-disabled: rgba(31, 31, 31, 0.38);

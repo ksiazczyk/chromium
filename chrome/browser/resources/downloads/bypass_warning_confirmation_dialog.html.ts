@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Template for the bypass warning confirmation dialog
+// summary: Lit HTML template that renders the dangerous download warning dialog with keep-dangerous and cancel actions.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {DownloadsBypassWarningConfirmationDialogElement} from './bypass_warning_confirmation_dialog.js';

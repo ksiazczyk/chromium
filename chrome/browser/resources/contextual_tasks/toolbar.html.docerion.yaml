@@ -1,0 +1,4 @@
+# Docerion header of toolbar.html.
+type: source
+title: Contextual tasks toolbar page
+summary: HTML entry page for the toolbar WebUI that sets base page styling and loads the toolbar app script.

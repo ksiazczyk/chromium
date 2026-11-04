@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Drive picker host WebUI build configuration
+summary: GN build rules that assemble the drive_picker_host WebUI from its HTML, TypeScript, CSS and generated Mojo bindings.

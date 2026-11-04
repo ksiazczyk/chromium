@@ -1,0 +1,4 @@
+# Docerion header of drive_picker_host.html.
+type: source
+title: Drive picker host WebUI entry page
+summary: Entry HTML page for the trusted drive picker host WebUI that loads the app module and custom element.

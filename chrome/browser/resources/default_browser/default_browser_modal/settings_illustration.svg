@@ -1,3 +1,9 @@
+<!--docerion
+type: asset
+title: Settings page illustration
+summary: Large SVG illustration of the settings page shown in the modal when the settings illustration variant is enabled.
+-->
+
 <svg width="478" height="178" viewBox="0 0 478 178" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g filter="url(#filter0_d_2147_50551)">
 <rect width="468" height="172" transform="translate(0 6)" fill="#F3F3F3"/>

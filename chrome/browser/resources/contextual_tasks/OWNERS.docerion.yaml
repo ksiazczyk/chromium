@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for contextual tasks resources
+summary: Delegates code ownership for this directory to the chrome/browser/contextual_tasks OWNERS file.

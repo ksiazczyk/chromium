@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Info tooltip styles
+summary: Styles the contextual tasks info tooltip, covering caret alignment, drop shadow, sizing, and close button layout.
+*/
+
 cr-tooltip {
   --paper-tooltip-delay-in: 300ms;
   --paper-tooltip-delay-out: 0ms;

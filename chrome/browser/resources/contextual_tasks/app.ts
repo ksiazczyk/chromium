@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks app element implementation
+// summary: Implements the main ContextualTasksAppElement, wiring the webview, composebox, toolbar, promos, browser proxies and window management.
+// ---
+
 // clang-format off
 // <if expr="not is_android">
 import './banner_promo.js';

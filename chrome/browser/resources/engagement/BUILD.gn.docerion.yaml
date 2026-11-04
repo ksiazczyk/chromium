@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the engagement WebUI
+summary: Defines the WebUI build target bundling the site engagement page, its TypeScript component, and Mojo bindings dependencies.

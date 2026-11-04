@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA
+summary: Directory metadata assigning the UI>Browser>TopChrome monorail component, team email, and Buganizer component.

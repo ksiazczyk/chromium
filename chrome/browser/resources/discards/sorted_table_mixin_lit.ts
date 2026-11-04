@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sortable table Lit mixin
+// summary: Lit mixin that adds clickable sortable column headers with a sort key and reverse toggle to table-based elements.
+// ---
+
 import type {CrLitElement} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 type Constructor<T> = new (...args: any[]) => T;

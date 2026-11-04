@@ -11,6 +11,12 @@
  * #include=cr-icons-lit composebox-shared-style composebox
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Inner composebox styles
+summary: Lit CSS styles for the inner contextual tasks composebox, composing shared composebox style imports.
+*/
+
 #composebox {
   border-radius: inherit;
   display: flex;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site engagement app element
+// summary: TypeScript custom element that fetches, sorts, renders and auto-updates per-origin site engagement scores in the WebUI table.
+// ---
+
 import {assert, assertNotReached} from 'chrome://resources/js/assert.js';
 import {CustomElement} from 'chrome://resources/js/custom_element.js';
 import {PromiseResolver} from 'chrome://resources/js/promise_resolver.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Downloads search service
+// summary: Singleton service that splits search terms and queries the browser for matching downloads or clears finished ones.
+// ---
+
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';
 
 import {browserProxyFactory} from './downloads.mojom-webui.js';

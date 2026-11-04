@@ -1,0 +1,4 @@
+# Docerion header of dev_ui_loader_error.html.
+type: source
+title: DevUI DFM loader error page
+summary: HTML template for the DevUI DFM loader failure screen, showing a localized error heading, message, and list of suggestions when the module cannot load.

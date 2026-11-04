@@ -1,0 +1,4 @@
+# Docerion header of drive_picker_host_untrusted.html.
+type: source
+title: Entry HTML page for the Drive Picker host untrusted WebUI
+summary: Serves as the HTML entry point that loads strings and the app module and mounts the untrusted Drive Picker host element.

@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Default browser modal page styles
+summary: Base page CSS resetting margins and padding and preventing overflow and text selection in the modal window.
+*/
+
 html,
 body {
   margin: 0;

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the discards WebUI
+summary: Defines the GN build for the discards WebUI, listing TypeScript, CSS, and Mojo sources together with build dependencies.

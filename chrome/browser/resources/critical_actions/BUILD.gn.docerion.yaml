@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Critical Actions Internals WebUI build configuration
+summary: Defines the GN build for the Critical Actions Internals WebUI, listing static, TypeScript, and CSS files plus Mojo bindings and Lit dependencies.

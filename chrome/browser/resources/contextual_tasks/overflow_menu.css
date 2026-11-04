@@ -11,6 +11,12 @@
  * #include=cr-icons-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Overflow menu styles
+summary: Styles the contextual tasks overflow action menu, covering dropdown items, icons, disabled state, and divider.
+*/
+
 .dropdown-item {
   display: flex;
   align-items: center;

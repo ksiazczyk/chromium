@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Contextual Tasks extension manifest
+summary: Manifest V3 configuration for the Contextual Tasks extension declaring its service worker, permissions and web-accessible resources.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit template for the context library element
+// summary: Exports the Lit HTML template that renders the composebox favicon group with tab and submitted tab state.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {ContextLibraryElement} from './context_library.js';

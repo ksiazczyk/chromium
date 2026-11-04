@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Critical action row Lit element
+// summary: Defines the critical-action-row element that displays a critical action item, toggles formatted JSON metadata, and fires delete-entry events.
+// ---
+
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {getCss} from './action_row.css.js';

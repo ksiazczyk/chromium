@@ -1,3 +1,9 @@
+---
+type: reference
+title: Graph view design documentation
+summary: Explains how the discards graph view renders with D3 inside a webview, its security model, build details and how to debug it.
+---
+
 # Graph View
 
 The graph view displays an animated graph of the resource coordinator graph.

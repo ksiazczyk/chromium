@@ -11,6 +11,12 @@
  * #include=cr-icons-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Contextual tasks top toolbar styles
+summary: Defines the Lit styles for the contextual tasks top toolbar, covering layout, logo, action buttons, dark mode, and profile indicator.
+*/
+
 :host {
   --mwb-primary-text-font-size: 12px;
   --mwb-secondary-text-font-size: 11px;

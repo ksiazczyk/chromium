@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inner composebox element
+// summary: Lit element implementing the inner contextual tasks composebox with file inputs, dropdown, voice search and resize events.
+// ---
+
 import '//resources/cr_components/composebox/composebox_dropdown.js';
 import '//resources/cr_components/composebox/composebox_file_inputs.js';
 import '//resources/cr_components/composebox/composebox_input.js';

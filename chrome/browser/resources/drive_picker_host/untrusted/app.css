@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the Drive Picker host untrusted app
+summary: Provides layout styling for the app element, picker container, iframe and disclaimer error screen of the untrusted Drive Picker host.
+*/
+
 :host {
   display: flex;
   align-items: center;

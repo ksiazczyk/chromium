@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory tab Lit element
+// summary: Lit element that polls process memory dumps every two seconds and shows per-process private memory footprint, trends and metric sections.
+// ---
+
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 
 import {CrLitElement} from 'chrome://resources/lit/v3_0/lit.rollup.js';

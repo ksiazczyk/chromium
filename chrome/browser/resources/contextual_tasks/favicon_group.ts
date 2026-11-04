@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks favicon group element
+// summary: Lit custom element that shows up to three context favicons from ContextInfo data with an overflow count badge.
+// ---
+
 import './icons.html.js';
 import '//resources/cr_elements/cr_icon/cr_icon.js';
 

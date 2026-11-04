@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Downloads manager template
+// summary: Lit HTML template for the downloads manager, rendering the toolbar, infinite download list, toast and warning dialog.
+// ---
+
 import type {CrInfiniteListElement} from '//resources/cr_elements/cr_infinite_list/cr_infinite_list.js';
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 

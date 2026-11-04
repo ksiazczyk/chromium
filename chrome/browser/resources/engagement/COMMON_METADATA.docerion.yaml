@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common metadata for the engagement directory
+summary: Maps the directory to the Internals>SiteEngagement Monorail component and a Buganizer component ID for issue tracking.

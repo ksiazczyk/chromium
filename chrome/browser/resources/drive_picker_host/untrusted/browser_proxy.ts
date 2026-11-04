@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser proxy for the Drive Picker host untrusted page
+// summary: Supplies a singleton Mojo browser proxy connecting the untrusted page to its browser-side page handler and callback router.
+// ---
+
 import {PageCallbackRouter, PageHandlerFactory, PageHandlerRemote} from './drive_picker_host_untrusted.mojom-webui.js';
 
 export interface BrowserProxy {

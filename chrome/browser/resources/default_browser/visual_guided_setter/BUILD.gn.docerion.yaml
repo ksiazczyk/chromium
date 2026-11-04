@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Visual guided setter WebUI build definition
+summary: GN build rules that package the visual guided setter WebUI, wiring its HTML, CSS, TypeScript, and generated Mojo bindings into the Chrome build.

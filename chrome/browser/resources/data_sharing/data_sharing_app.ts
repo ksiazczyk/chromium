@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data sharing app web component
+// summary: Web component implementing the data sharing UI flows such as share, join, manage, delete, and leave, including URL parameter handling and metrics logging.
+// ---
+
 // clang-format off
 // <if expr="_google_chrome">
 import './data_sharing_sdk.js';

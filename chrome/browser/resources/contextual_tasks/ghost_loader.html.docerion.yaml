@@ -1,0 +1,4 @@
+# Docerion header of ghost_loader.html.
+type: source
+title: Ghost loader page
+summary: WebUI HTML page that hosts the ghost loader element with light and dark theme variables for the loading skeleton.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks composebox element
+// summary: Lit element implementing the contextual tasks composebox with zero-state suggestions, voice search metrics and Lens support.
+// ---
+
 import './contextual_tasks_inner_composebox.js';
 import '//resources/cr_components/composebox/composebox_dropdown.js';
 import '//resources/cr_components/localized_link/localized_link.js';

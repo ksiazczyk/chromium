@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Ghost loader styles
+summary: Lit CSS styles for the ghost loader skeleton, with staggered shimmer gradient animations and delay classes.
+*/
+
 :host {
   --animation-delay: -1600ms;
   --animation-offset: 2000ms;

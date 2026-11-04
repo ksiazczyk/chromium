@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar app element
+// summary: Lit custom element hosting the top toolbar, listening for thread title, side panel, and AI page status changes, and handling new thread clicks.
+// ---
+
 import './top_toolbar.js';
 
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';

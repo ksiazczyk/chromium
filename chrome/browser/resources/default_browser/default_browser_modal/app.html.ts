@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser modal Lit HTML template
+// summary: Lit HTML template rendering the modal's header, title, body text, illustration and cancel, confirm, retry or close buttons.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {DefaultBrowserModalAppElement} from './app.js';
