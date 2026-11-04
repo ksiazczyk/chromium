@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gesture navigation JNI utilities
+// summary: Native JNI bridge that exposes back-forward transition animation checks and a test-only minimum RAM override to Java.
+// ---
+
 #include "base/android/callback_android.h"
 #include "chrome/android/chrome_jni_headers/GestureNavigationUtils_jni.h"
 #include "content/public/browser/back_forward_transition_animation_manager.h"

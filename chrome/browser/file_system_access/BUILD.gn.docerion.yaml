@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the file_system_access browser code
+summary: GN build file grouping the file system access sources, implementation dependencies, and browser tests into source sets.

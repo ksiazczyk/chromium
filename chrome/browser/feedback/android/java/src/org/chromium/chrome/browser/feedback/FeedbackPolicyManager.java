@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedbackPolicyManager for user feedback enterprise policy
+// summary: Singleton that tracks whether enterprise policy allows user feedback, syncing preference changes and safe to call pre-native.
+// ---
+
 package org.chromium.chrome.browser.feedback;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

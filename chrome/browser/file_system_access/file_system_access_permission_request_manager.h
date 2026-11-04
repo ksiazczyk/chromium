@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File System Access permission request manager header
+// summary: Declares the manager that handles File System Access permission requests per WebContents, covering new-permission and restore-permission request types.
+// ---
+
 #ifndef CHROME_BROWSER_FILE_SYSTEM_ACCESS_FILE_SYSTEM_ACCESS_PERMISSION_REQUEST_MANAGER_H_
 #define CHROME_BROWSER_FILE_SYSTEM_ACCESS_FILE_SYSTEM_ACCESS_PERMISSION_REQUEST_MANAGER_H_
 

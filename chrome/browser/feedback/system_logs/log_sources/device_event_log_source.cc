@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device event log source implementation
+// summary: Adds network and non-network device event log entries to feedback system logs.
+// ---
+
 #include "chrome/browser/feedback/system_logs/log_sources/device_event_log_source.h"
 
 #include "components/device_event_log/device_event_log.h"

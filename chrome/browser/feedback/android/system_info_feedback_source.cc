@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System info feedback source JNI functions
+// summary: Exposes CPU architecture, GPU vendor and model, and available and total memory to Java for system feedback data.
+// ---
+
 #include <string>
 
 #include "base/android/jni_string.h"

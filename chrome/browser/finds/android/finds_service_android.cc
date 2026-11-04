@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android bridge implementation for FindsService
+// summary: Implements the JNI bridge that forwards FindsService opt-in and notification events between the native C++ service and its Java counterpart.
+// ---
+
 #include "chrome/browser/finds/android/finds_service_android.h"
 
 #include <jni.h>

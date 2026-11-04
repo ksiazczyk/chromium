@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Finds utility functions declaration
+// summary: Declares Finds utility functions for theme mapping, preference timestamps and opt-in eligibility checks.
+// ---
+
 #ifndef CHROME_BROWSER_FINDS_CORE_FINDS_UTILS_H_
 #define CHROME_BROWSER_FINDS_CORE_FINDS_UTILS_H_
 

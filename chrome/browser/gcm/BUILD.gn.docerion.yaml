@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GCM browser build targets (BUILD.gn)
+summary: Defines the gcm source set and its unit_tests target, listing sources and dependencies for the browser GCM code.

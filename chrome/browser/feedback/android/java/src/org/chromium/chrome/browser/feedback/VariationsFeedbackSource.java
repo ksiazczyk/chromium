@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VariationsFeedbackSource
+// summary: Feedback source that returns the variations state feedback map, skipping collection for off-the-record profiles.
+// ---
+
 package org.chromium.chrome.browser.feedback;
 
 import org.chromium.build.annotations.NullMarked;

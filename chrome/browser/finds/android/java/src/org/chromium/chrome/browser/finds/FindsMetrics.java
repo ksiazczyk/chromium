@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Finds notification opt-in metrics
+// summary: Records an enumerated histogram of Finds opt-in events such as shown, accepted, declined, snackbar action clicked and dismissed.
+// ---
+
 package org.chromium.chrome.browser.finds;
 
 import androidx.annotation.IntDef;

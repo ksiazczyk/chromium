@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux first run internals
+// summary: Linux implementation that locates initial preferences and shows the EULA dialog, writing an acceptance sentinel file when accepted.
+// ---
+
 #include "chrome/browser/first_run/first_run_internal.h"
 
 #include <string>

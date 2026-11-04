@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Finds flow startup manager
+// summary: Observes FindsService and launches the opt-in bottom sheet coordinator when the opt-in criteria are fulfilled.
+// ---
+
 package org.chromium.chrome.browser.finds;
 
 import android.content.Context;

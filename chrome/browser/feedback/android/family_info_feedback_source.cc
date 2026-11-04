@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Family info feedback source native implementation
+// summary: Implements the native JNI bridge that fetches family members and reports the primary account's family role and child web filter to Java.
+// ---
+
 #include "chrome/browser/feedback/android/family_info_feedback_source.h"
 
 #include <string>

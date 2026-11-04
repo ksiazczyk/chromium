@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Finds notification utilities
+// summary: Static helpers for checking the Finds notification channel and notification settings, launching channel settings and storing opt-in promo preference keys.
+// ---
+
 package org.chromium.chrome.browser.finds;
 
 import android.app.NotificationManager;

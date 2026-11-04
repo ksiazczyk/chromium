@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryDetailsLogSource header
+// summary: Declares MemoryDetailsLogSource, a system logs source that fetches memory usage details.
+// ---
+
 #ifndef CHROME_BROWSER_FEEDBACK_SYSTEM_LOGS_LOG_SOURCES_MEMORY_DETAILS_LOG_SOURCE_H_
 #define CHROME_BROWSER_FEEDBACK_SYSTEM_LOGS_LOG_SOURCES_MEMORY_DETAILS_LOG_SOURCE_H_
 

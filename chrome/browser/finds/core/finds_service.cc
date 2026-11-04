@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Finds service implementation
+// summary: Implements the FindsService that queries history, runs optimization guide model execution, and schedules finds notifications with cooldown and opt-in logic.
+// ---
+
 #include "chrome/browser/finds/core/finds_service.h"
 
 #include <algorithm>

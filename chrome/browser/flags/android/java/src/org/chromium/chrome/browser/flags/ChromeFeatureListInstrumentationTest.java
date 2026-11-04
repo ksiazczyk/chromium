@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Instrumentation tests for ChromeFeatureList
+// summary: Instrumentation tests checking ChromeFeatureList flag behavior with default values, annotations, and FeatureOverrides in a Chrome activity.
+// ---
+
 package org.chromium.chrome.browser.flags;
 
 import static org.junit.Assert.assertFalse;

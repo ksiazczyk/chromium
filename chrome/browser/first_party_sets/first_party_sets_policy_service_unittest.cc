@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FirstPartySetsPolicyService unit tests
+// summary: Tests service enablement across profiles, guest sessions, and preference changes using a scoped mock First-Party Sets handler.
+// ---
+
 #include "chrome/browser/first_party_sets/first_party_sets_policy_service.h"
 
 #include "base/functional/callback.h"

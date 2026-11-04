@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build target for the finds service
+summary: Defines the Android-only static library target for the finds service, listing its sources and dependencies on base, history, notifications, optimization guide, profiles, and sync.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FirstPartySetsPolicyServiceFactory unit tests
+// summary: Verifies the service is created regardless of the Related Website Sets pref and that off-the-record profiles get distinct disabled services.
+// ---
+
 #include "chrome/browser/first_party_sets/first_party_sets_policy_service_factory.h"
 
 #include "base/test/values_test_util.h"

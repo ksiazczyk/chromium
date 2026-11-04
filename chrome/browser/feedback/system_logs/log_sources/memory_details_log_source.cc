@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryDetailsLogSource implementation
+// summary: Implements the MemoryDetails system logs source that collects Chrome memory usage strings with and without tab titles for feedback reports.
+// ---
+
 #include "chrome/browser/feedback/system_logs/log_sources/memory_details_log_source.h"
 
 #include "chrome/browser/memory_details.h"

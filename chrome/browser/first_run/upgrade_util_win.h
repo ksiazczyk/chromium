@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows upgrade and relaunch declarations
+// summary: Declares Windows upgrade helpers for swapping new_chrome.exe, detecting old Chrome processes, and performing upgrade relaunch tasks.
+// ---
+
 #ifndef CHROME_BROWSER_FIRST_RUN_UPGRADE_UTIL_WIN_H_
 #define CHROME_BROWSER_FIRST_RUN_UPGRADE_UTIL_WIN_H_
 

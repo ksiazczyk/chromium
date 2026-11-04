@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Family info feedback source class declaration
+// summary: Declares the native FamilyInfoFeedbackSource class that asynchronously retrieves family member information for feedback reports.
+// ---
+
 #ifndef CHROME_BROWSER_FEEDBACK_ANDROID_FAMILY_INFO_FEEDBACK_SOURCE_H_
 #define CHROME_BROWSER_FEEDBACK_ANDROID_FAMILY_INFO_FEEDBACK_SOURCE_H_
 

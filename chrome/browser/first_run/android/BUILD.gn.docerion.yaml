@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Android first-run Java library
+summary: GN build file defining the android_library target for first-run Java sources such as FirstRunStatus and MobileFreProgress.

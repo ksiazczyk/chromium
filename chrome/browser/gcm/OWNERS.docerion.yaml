@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: GCM folder owners
+summary: Names fgorski@chromium.org as owner and includes the gcm_driver OWNERS file for review routing.

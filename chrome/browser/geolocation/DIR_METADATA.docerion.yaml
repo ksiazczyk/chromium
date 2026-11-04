@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Geolocation issue tracker metadata
+summary: Maps the geolocation directory to the Internals>Permissions monorail component and Buganizer component 1456530 for issue routing.

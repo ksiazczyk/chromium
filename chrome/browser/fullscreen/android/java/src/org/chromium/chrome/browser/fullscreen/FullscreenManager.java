@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FullscreenManager interface for tab fullscreen mode
+// summary: Defines the Android Chrome interface for observing and controlling renderer-initiated tab fullscreen mode, including observers, persistent fullscreen state, and enter/exit callbacks.
+// ---
+
 package org.chromium.chrome.browser.fullscreen;
 
 import org.chromium.base.supplier.NonNullObservableSupplier;

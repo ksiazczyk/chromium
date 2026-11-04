@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Slim WebView geolocation permission decision header
+// summary: Declares the static DecidePermission helper that reports whether a geolocation permission request was handled by Slim WebView logic.
+// ---
+
 #ifndef CHROME_BROWSER_GEOLOCATION_GEOLOCATION_PERMISSION_CONTEXT_SLIM_WEB_VIEW_H_
 #define CHROME_BROWSER_GEOLOCATION_GEOLOCATION_PERMISSION_CONTEXT_SLIM_WEB_VIEW_H_
 

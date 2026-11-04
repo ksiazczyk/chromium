@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: NativePageBitmapCapturerTest
+// summary: Instrumented tests verifying that NativePageBitmapCapturer correctly captures native pages as bitmaps and hardware buffers.
+// ---
+
 package org.chromium.chrome.browser.gesturenav;
 
 import android.view.View;

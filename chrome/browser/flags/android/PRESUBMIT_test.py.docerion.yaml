@@ -1,0 +1,4 @@
+# Docerion header of PRESUBMIT_test.py.
+type: test
+title: Tests for the Chrome Android feature flag presubmit check
+summary: Unit tests verifying the CheckChromeFeatureIsSorted presubmit check for sorted feature lists.

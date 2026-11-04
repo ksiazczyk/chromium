@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android FindsService bridge header
+// summary: Declares FindsServiceAndroid, an observer that forwards native FindsService events to Java and handles JNI calls such as rescheduling notifications.
+// ---
+
 #ifndef CHROME_BROWSER_FINDS_ANDROID_FINDS_SERVICE_ANDROID_H_
 #define CHROME_BROWSER_FINDS_ANDROID_FINDS_SERVICE_ANDROID_H_
 

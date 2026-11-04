@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS dependency rules for Android fullscreen
+summary: Sets include rules that allowlist base, build/android, chrome/browser/tab, browser_ui widget and flags dependencies for this directory.

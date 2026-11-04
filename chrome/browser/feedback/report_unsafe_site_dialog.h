@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Report unsafe site dialog interface
+// summary: Declares static helpers that check whether reporting unsafe sites is enabled for a profile and show the report-unsafe-site dialog in a browser window.
+// ---
+
 #ifndef CHROME_BROWSER_FEEDBACK_REPORT_UNSAFE_SITE_DIALOG_H_
 #define CHROME_BROWSER_FEEDBACK_REPORT_UNSAFE_SITE_DIALOG_H_
 

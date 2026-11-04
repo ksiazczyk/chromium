@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File system access permission context profile factory
+// summary: Implements the per-profile keyed service factory that builds the Chrome file system access permission context.
+// ---
+
 #include "chrome/browser/file_system_access/file_system_access_permission_context_factory.h"
 
 #include "base/no_destructor.h"

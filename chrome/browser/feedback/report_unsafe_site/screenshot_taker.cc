@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenshotTaker implementation
+// summary: Implements ScreenshotTaker, which captures a scaled screenshot of the current web contents via CopyFromSurface for the report-unsafe-site dialog and CSD ping.
+// ---
+
 #include "chrome/browser/feedback/report_unsafe_site/screenshot_taker.h"
 
 #include <algorithm>

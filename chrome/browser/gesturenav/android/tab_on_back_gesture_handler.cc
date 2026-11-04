@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab back gesture handler implementation
+// summary: Implements the native handler that forwards Android predictive back gesture start, progress, cancel and invoke events to the back-forward transition animation manager.
+// ---
+
 #include "chrome/browser/gesturenav/android/tab_on_back_gesture_handler.h"
 
 #include "base/debug/crash_logging.h"

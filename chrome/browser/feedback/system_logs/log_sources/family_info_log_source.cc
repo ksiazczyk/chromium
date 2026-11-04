@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FamilyInfoLogSource implementation
+// summary: Implements the FamilyInfo system logs source that fetches Family Link member role information for the signed-in user and records fetch UMA metrics.
+// ---
+
 #include "chrome/browser/feedback/system_logs/log_sources/family_info_log_source.h"
 
 #include "base/metrics/histogram_functions.h"

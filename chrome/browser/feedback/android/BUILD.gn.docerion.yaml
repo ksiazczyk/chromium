@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for Android feedback sources
+summary: Defines JNI header generation, a native source set, and Java library targets for Chrome's Android feedback sources.

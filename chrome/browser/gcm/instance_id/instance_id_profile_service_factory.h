@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Instance ID profile service factory header
+// summary: Declares the InstanceIDProfileServiceFactory singleton, a ProfileKeyedServiceFactory that owns InstanceIDProfileService instances and associates them with browser profiles.
+// ---
+
 #ifndef CHROME_BROWSER_GCM_INSTANCE_ID_INSTANCE_ID_PROFILE_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_GCM_INSTANCE_ID_INSTANCE_ID_PROFILE_SERVICE_FACTORY_H_
 

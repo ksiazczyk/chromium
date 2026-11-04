@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File System Access tab helper header
+// summary: Declares a WebContents observer that informs the permission context when the active origin changes so permissions can be revoked when no tabs remain.
+// ---
+
 #ifndef CHROME_BROWSER_FILE_SYSTEM_ACCESS_FILE_SYSTEM_ACCESS_TAB_HELPER_H_
 #define CHROME_BROWSER_FILE_SYSTEM_ACCESS_FILE_SYSTEM_ACCESS_TAB_HELPER_H_
 

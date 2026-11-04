@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Android session state implementation
+// summary: Tracks Chrome Android activity type, dark mode and multi-profile state and emits related UMA histograms.
+// ---
+
 #include "chrome/browser/flags/android/chrome_session_state.h"
 
 #include "base/metrics/histogram_macros.h"

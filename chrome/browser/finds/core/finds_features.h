@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Finds feature flag and parameter declarations
+// summary: Declares the Finds feature flags and feature parameters controlling model execution, notifications, and opt-in promo behavior.
+// ---
+
 #ifndef CHROME_BROWSER_FINDS_CORE_FINDS_FEATURES_H_
 #define CHROME_BROWSER_FINDS_CORE_FINDS_FEATURES_H_
 

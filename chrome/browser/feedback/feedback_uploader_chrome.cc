@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome implementation of the feedback uploader
+// summary: Implements uploading of feedback reports with OAuth access tokens, including Chromebox for Meetings device token authentication support.
+// ---
+
 #include "chrome/browser/feedback/feedback_uploader_chrome.h"
 
 #include <string>

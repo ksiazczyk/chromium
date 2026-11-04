@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab back gesture handler header
+// summary: Declares TabOnBackGestureHandler, which drives seamless back and forward navigation gestures for a tab on Android.
+// ---
+
 #ifndef CHROME_BROWSER_GESTURENAV_ANDROID_TAB_ON_BACK_GESTURE_HANDLER_H_
 #define CHROME_BROWSER_GESTURENAV_ANDROID_TAB_ON_BACK_GESTURE_HANDLER_H_
 

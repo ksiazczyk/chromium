@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome first run API header
+// summary: Declares first run detection, sentinel creation, auto import and initial preferences entry points used by the startup flow.
+// ---
+
 #ifndef CHROME_BROWSER_FIRST_RUN_FIRST_RUN_H_
 #define CHROME_BROWSER_FIRST_RUN_FIRST_RUN_H_
 

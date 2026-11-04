@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome root store log source header
+// summary: Declares ChromeRootStoreLogSource, which reports the contents of the Chrome Root Store in use.
+// ---
+
 #ifndef CHROME_BROWSER_FEEDBACK_SYSTEM_LOGS_LOG_SOURCES_CHROME_ROOT_STORE_LOG_SOURCE_H_
 #define CHROME_BROWSER_FEEDBACK_SYSTEM_LOGS_LOG_SOURCES_CHROME_ROOT_STORE_LOG_SOURCE_H_
 

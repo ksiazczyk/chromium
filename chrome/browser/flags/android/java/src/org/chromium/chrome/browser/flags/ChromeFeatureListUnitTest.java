@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ChromeFeatureList
+// summary: Robolectric unit tests covering ChromeFeatureList flag and parameter handling, including required overrides and annotation-based configuration.
+// ---
+
 package org.chromium.chrome.browser.flags;
 
 import static org.junit.Assert.assertEquals;

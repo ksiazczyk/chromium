@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process ID feedback source class declaration
+// summary: Declares the native ProcessIdFeedbackSource class that lists child process IDs by type and cleans up after collection completes.
+// ---
+
 #ifndef CHROME_BROWSER_FEEDBACK_ANDROID_PROCESS_ID_FEEDBACK_SOURCE_H_
 #define CHROME_BROWSER_FEEDBACK_ANDROID_PROCESS_ID_FEEDBACK_SOURCE_H_
 

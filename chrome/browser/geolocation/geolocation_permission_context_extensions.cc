@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Geolocation permission context extensions implementation
+// summary: Decides geolocation permissions for extension web views and extension processes holding the geolocation API permission, gated by the extensions-core build flag.
+// ---
+
 #include "chrome/browser/geolocation/geolocation_permission_context_extensions.h"
 
 #include <variant>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FindsService unit tests
+// summary: Unit tests for the FindsService, covering opt-in criteria, notification scheduling and preference behavior.
+// ---
+
 #include "chrome/browser/finds/core/finds_service.h"
 
 #include "base/functional/bind.h"

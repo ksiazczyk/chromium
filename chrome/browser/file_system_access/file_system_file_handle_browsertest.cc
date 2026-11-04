@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File System file handle browser test
+// summary: Browser tests checking that creating a sync access handle fails with a SecurityError when storage access is blocked through cookie settings.
+// ---
+
 #include "chrome/browser/content_settings/cookie_settings_factory.h"
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"
 #include "chrome/browser/ui/tabs/tab_strip_model.h"

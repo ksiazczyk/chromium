@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the feedback disabled dialog
+// summary: Shows a browser-modal dialog explaining that feedback is disabled by policy or account capabilities, with a fallback parent window and histogram logging.
+// ---
+
 #include "chrome/browser/feedback/feedback_disabled_dialog.h"
 
 #include <utility>

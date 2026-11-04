@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Lists code owners for the flags module, with per-file rules letting any owner approve simple feature additions and removals.

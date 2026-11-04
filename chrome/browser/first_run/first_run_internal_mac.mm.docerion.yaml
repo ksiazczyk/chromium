@@ -1,0 +1,4 @@
+# Docerion header of first_run_internal_mac.mm.
+type: source
+title: Mac first run internals
+summary: Mac implementation that returns the initial preferences path via the Mac initial_prefs helper.

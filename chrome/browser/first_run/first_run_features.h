@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: First run feature declarations
+// summary: Declares the kBookmarksImportOnFirstRun feature that controls loading bookmarks from initial preferences on browser first run.
+// ---
+
 #ifndef CHROME_BROWSER_FIRST_RUN_FIRST_RUN_FEATURES_H_
 #define CHROME_BROWSER_FIRST_RUN_FIRST_RUN_FEATURES_H_
 

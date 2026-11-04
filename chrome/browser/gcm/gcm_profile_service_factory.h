@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM profile service factory header
+// summary: Declares the keyed service factory singleton that associates GCMProfileService instances with profiles, plus a testing factory installer.
+// ---
+
 #ifndef CHROME_BROWSER_GCM_GCM_PROFILE_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_GCM_GCM_PROFILE_SERVICE_FACTORY_H_
 

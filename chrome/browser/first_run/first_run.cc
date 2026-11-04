@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome first run logic implementation
+// summary: Implements first run detection via a sentinel file, auto import of user data and processing of installer initial preferences.
+// ---
+
 #include "chrome/browser/first_run/first_run.h"
 
 #include <algorithm>

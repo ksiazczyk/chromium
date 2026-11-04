@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'FindsFeatureMap: Java mapping of native Finds features'
+// summary: Singleton FeatureMap subclass that bridges native Finds feature flags to Java over JNI.
+// ---
+
 package org.chromium.chrome.browser.finds;
 
 import org.jni_zero.JNINamespace;

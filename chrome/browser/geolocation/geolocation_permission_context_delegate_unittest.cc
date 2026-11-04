@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Geolocation permission delegate unit tests
+// summary: Unit tests for the geolocation permission delegate, including mocked Android location settings and permission request flows via the permission manager.
+// ---
+
 #include "build/build_config.h"
 #include "chrome/browser/content_settings/page_specific_content_settings_delegate.h"
 #include "chrome/browser/permissions/permission_manager_factory.h"

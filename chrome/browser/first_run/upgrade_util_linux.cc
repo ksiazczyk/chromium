@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux browser relaunch implementation
+// summary: Implements Linux browser relaunching via base::LaunchProcess and tracks the executable's last modified time to detect pending updates.
+// ---
+
 #include "chrome/browser/first_run/upgrade_util.h"
 
 #include "base/base_paths.h"

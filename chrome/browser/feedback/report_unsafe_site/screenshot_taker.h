@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenshotTaker class header
+// summary: Declares the ScreenshotTaker class that captures full-size screenshots of web contents for display in the report-unsafe-site dialog and client-side detection ping.
+// ---
+
 #ifndef CHROME_BROWSER_FEEDBACK_REPORT_UNSAFE_SITE_SCREENSHOT_TAKER_H_
 #define CHROME_BROWSER_FEEDBACK_REPORT_UNSAFE_SITE_SCREENSHOT_TAKER_H_
 

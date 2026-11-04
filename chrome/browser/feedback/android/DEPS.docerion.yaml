@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the Android feedback directory
+summary: Allows includes from content public Java and the minidump uploader component for this directory.

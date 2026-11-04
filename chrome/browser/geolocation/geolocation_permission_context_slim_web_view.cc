@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Slim WebView geolocation permission decision implementation
+// summary: Implements DecidePermission so geolocation requests from guest view Slim WebViews are delegated to the SlimWebViewPermissionHelper when that build flag is enabled.
+// ---
+
 #include "chrome/browser/geolocation/geolocation_permission_context_slim_web_view.h"
 
 #include "components/guest_view/buildflags/buildflags.h"

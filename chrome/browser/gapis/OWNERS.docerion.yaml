@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Gapis browser OWNERS file
+summary: Delegates code ownership for the chrome/browser/gapis directory to the OWNERS file of components/gapis.

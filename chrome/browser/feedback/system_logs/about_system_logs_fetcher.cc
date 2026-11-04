@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: About system logs fetcher implementation
+// summary: Builds a SystemLogsFetcher that aggregates Chrome and ChromeOS log sources, such as device events, memory, network, and input logs, for the browser's About system diagnostics page.
+// ---
+
 #include "chrome/browser/feedback/system_logs/about_system_logs_fetcher.h"
 
 #include <memory>

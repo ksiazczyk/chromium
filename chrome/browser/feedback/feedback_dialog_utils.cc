@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of feedback dialog utility functions
+// summary: Implements helpers that resolve the target tab URL, pick the profile for the feedback dialog and show the feedback dialog from WebUI sources.
+// ---
+
 #include "chrome/browser/feedback/feedback_dialog_utils.h"
 
 #include "build/build_config.h"

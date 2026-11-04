@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenshotSource interface
+// summary: Interface for classes that asynchronously capture and provide a screenshot bitmap to feedback consumers.
+// ---
+
 package org.chromium.chrome.browser.feedback;
 
 import android.graphics.Bitmap;

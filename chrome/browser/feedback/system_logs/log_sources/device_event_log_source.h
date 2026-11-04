@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceEventLogSource header
+// summary: Declares DeviceEventLogSource, a system logs source that fetches network_event_log and device_event_log entries for feedback reports.
+// ---
+
 #ifndef CHROME_BROWSER_FEEDBACK_SYSTEM_LOGS_LOG_SOURCES_DEVICE_EVENT_LOG_SOURCE_H_
 #define CHROME_BROWSER_FEEDBACK_SYSTEM_LOGS_LOG_SOURCES_DEVICE_EVENT_LOG_SOURCE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI factory for the Android Finds service
+// summary: Implements the JNI GetForProfile entry point that creates or returns the FindsServiceAndroid attached to a profile's FindsService.
+// ---
+
 #include "chrome/browser/finds/finds_service_factory.h"
 
 #include <jni.h>

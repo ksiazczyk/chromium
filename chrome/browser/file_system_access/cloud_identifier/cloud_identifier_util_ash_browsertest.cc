@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for Ash Chrome cloud identifier utility
+// summary: In-process browser tests exercising GetCloudIdentifier for local files and cloud-backed file systems, using fake DriveFS and temporary local mounts to verify returned identifiers and errors.
+// ---
+
 #include "chrome/browser/file_system_access/cloud_identifier/cloud_identifier_util_ash.h"
 
 #include "base/files/file_path.h"

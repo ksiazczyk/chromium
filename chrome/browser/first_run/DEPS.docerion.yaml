@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the first_run directory
+summary: Restricts includes in the first_run directory to an allowlist of headers, with per-file exceptions for tests and upgrade utilities.

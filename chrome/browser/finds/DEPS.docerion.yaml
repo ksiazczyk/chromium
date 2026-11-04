@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the finds folder
+summary: Grants include access to the Android bottomsheet and notification browser UI components for code in this directory.

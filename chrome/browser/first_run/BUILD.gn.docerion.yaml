@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: First run GN build definitions
+summary: Defines GN source sets for the first run module, its platform-specific implementations, test support and unit and browser test targets.

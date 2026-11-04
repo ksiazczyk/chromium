@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process ID feedback source
+// summary: Asynchronously gathers process IDs for renderer, utility, GPU and browser processes via JNI for feedback reports.
+// ---
+
 package org.chromium.chrome.browser.feedback;
 
 import org.jni_zero.CalledByNative;

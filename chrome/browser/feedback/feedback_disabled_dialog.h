@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the feedback disabled dialog
+// summary: Declares ShowFeedbackDisabledDialog, which displays a modal dialog when feedback cannot be submitted for a profile.
+// ---
+
 #ifndef CHROME_BROWSER_FEEDBACK_FEEDBACK_DISABLED_DIALOG_H_
 #define CHROME_BROWSER_FEEDBACK_FEEDBACK_DISABLED_DIALOG_H_
 

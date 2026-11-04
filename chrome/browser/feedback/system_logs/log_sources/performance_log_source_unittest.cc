@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Performance log source unit tests
+// summary: Unit tests for the Chrome performance system log source, verifying memory saver and battery saver mode entries in feedback logs.
+// ---
+
 #include "chrome/browser/feedback/system_logs/log_sources/performance_log_source.h"
 
 #include <string>

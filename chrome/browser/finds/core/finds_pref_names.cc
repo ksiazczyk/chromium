@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Finds preference name constants
+// summary: Defines preference name constants for finds model execution timestamps, not-interested themes, and opt-in promo state.
+// ---
+
 #include "chrome/browser/finds/core/finds_pref_names.h"
 
 namespace finds::prefs {

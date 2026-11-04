@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: First run bookmark importer API header
+// summary: Declares StartBookmarkImportFromDict, which asynchronously imports bookmarks from a dictionary once the bookmark model loads.
+// ---
+
 #ifndef CHROME_BROWSER_FIRST_RUN_BOOKMARK_IMPORTER_H_
 #define CHROME_BROWSER_FIRST_RUN_BOOKMARK_IMPORTER_H_
 

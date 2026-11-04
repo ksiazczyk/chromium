@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Show feedback page unit tests
+// summary: Unit tests for CanSubmitFeedback and CanShowFeedback covering null profiles, policy settings, sign-in capabilities, and the disabled dialog feature.
+// ---
+
 #include "chrome/browser/feedback/show_feedback_page.h"
 
 #include "base/test/with_feature_override.h"

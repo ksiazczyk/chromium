@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feedback report uploader for Chrome
+// summary: Declares FeedbackUploaderChrome, which dispatches feedback report uploads and attaches primary account access tokens to the upload requests.
+// ---
+
 #ifndef CHROME_BROWSER_FEEDBACK_FEEDBACK_UPLOADER_CHROME_H_
 #define CHROME_BROWSER_FEEDBACK_FEEDBACK_UPLOADER_CHROME_H_
 

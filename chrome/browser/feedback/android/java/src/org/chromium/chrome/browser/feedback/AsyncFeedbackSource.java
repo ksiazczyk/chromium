@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AsyncFeedbackSource interface for asynchronous feedback sources
+// summary: Interface for feedback sources that gather data asynchronously, starting collection and notifying a callback when finished or on timeout.
+// ---
+
 package org.chromium.chrome.browser.feedback;
 
 import org.chromium.build.annotations.NullMarked;

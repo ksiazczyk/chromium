@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permission feedback source
+// summary: Lists the app's granted and not-granted requested permissions for inclusion in feedback reports.
+// ---
+
 package org.chromium.chrome.browser.feedback;
 
 import android.content.pm.PackageInfo;

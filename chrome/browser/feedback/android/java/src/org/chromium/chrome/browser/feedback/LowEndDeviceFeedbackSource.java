@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Low-end device feedback source
+// summary: Reports whether the feedback comes from a low-memory (low-end) device under the lowmem key.
+// ---
+
 package org.chromium.chrome.browser.feedback;
 
 import org.chromium.base.SysUtils;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome system logs fetcher header
+// summary: Declares BuildChromeSystemLogsFetcher, which creates a self-deleting SystemLogsFetcher that aggregates logs for feedback reports with optional PII scrubbing.
+// ---
+
 #ifndef CHROME_BROWSER_FEEDBACK_SYSTEM_LOGS_CHROME_SYSTEM_LOGS_FETCHER_H_
 #define CHROME_BROWSER_FEEDBACK_SYSTEM_LOGS_CHROME_SYSTEM_LOGS_FETCHER_H_
 

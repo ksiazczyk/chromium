@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the feedback disabled dialog
+// summary: Browser tests verifying dialog display for enterprise and account cases, parent window fallback behavior and the ParentStatus histogram.
+// ---
+
 #include "chrome/browser/feedback/feedback_disabled_dialog.h"
 
 #include <string>

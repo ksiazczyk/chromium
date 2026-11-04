@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Show feedback page implementation
+// summary: Implements showing the Chrome feedback UI, including OS feedback URL construction and the disabled-feedback dialog on desktop platforms.
+// ---
+
 #include "chrome/browser/feedback/show_feedback_page.h"
 
 #include <string>

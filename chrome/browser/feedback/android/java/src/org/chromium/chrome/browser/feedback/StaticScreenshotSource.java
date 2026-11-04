@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StaticScreenshotSource
+// summary: ScreenshotSource implementation that returns a Bitmap supplied at construction instead of capturing a new screenshot.
+// ---
+
 package org.chromium.chrome.browser.feedback;
 
 import android.graphics.Bitmap;

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the First-Party Sets browser code
+summary: Defines source_set targets and dependencies for the First-Party Sets service, its implementation, and its unit tests.

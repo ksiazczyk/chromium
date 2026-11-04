@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Finds metrics enums and recording functions
+// summary: Declares enums for notification user interaction and opt-in trigger reasons plus functions that record finds metrics.
+// ---
+
 #ifndef CHROME_BROWSER_FINDS_CORE_FINDS_METRICS_H_
 #define CHROME_BROWSER_FINDS_CORE_FINDS_METRICS_H_
 

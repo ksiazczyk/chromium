@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the GEiC directory
+summary: Lists code owners for the directory and requires security review for changes to Mojom IPC files.

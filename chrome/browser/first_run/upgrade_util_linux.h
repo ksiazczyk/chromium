@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux relaunch utility declarations
+// summary: Declares functions to save and retrieve the last modified time of the Chrome executable on Linux.
+// ---
+
 #ifndef CHROME_BROWSER_FIRST_RUN_UPGRADE_UTIL_LINUX_H_
 #define CHROME_BROWSER_FIRST_RUN_UPGRADE_UTIL_LINUX_H_
 

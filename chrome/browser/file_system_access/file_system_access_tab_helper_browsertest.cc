@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File System Access tab helper browser test
+// summary: Browser tests using a mock permission context to verify the tab helper reports navigation away from origins, including during prerendering.
+// ---
+
 #include "chrome/browser/file_system_access/file_system_access_tab_helper.h"
 
 #include "base/memory/raw_ptr.h"

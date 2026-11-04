@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Finds utility functions implementation
+// summary: Implements Finds helpers for theme preference updates, cooldown timestamps, sync checks and enterprise policy.
+// ---
+
 #include "chrome/browser/finds/core/finds_utils.h"
 
 #include "base/metrics/field_trial_params.h"

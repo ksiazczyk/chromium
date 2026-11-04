@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for first-run ToS dialog behavior preferences
+// summary: Declares the TosDialogBehavior enum and the kTosDialogBehavior preference name used by the Android first-run flow.
+// ---
+
 #ifndef CHROME_BROWSER_FIRST_RUN_ANDROID_FIRST_RUN_PREFS_H_
 #define CHROME_BROWSER_FIRST_RUN_ANDROID_FIRST_RUN_PREFS_H_
 
