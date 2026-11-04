@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome structured metrics recorder unit tests
+// summary: Unit tests for the Chrome structured metrics recorder, covering device key setup, event recording, and report generation with testing pref services.
+// ---
+
 #include "chrome/browser/metrics/structured/chrome_structured_metrics_recorder.h"
 
 #include <utility>

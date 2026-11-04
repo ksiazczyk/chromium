@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash structured metrics recorder header
+// summary: Declares AshStructuredMetricsRecorder, the Ash Chrome recorder handling device and profile keys, events, and external metrics from platform2.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_STRUCTURED_ASH_STRUCTURED_METRICS_RECORDER_H_
 #define CHROME_BROWSER_METRICS_STRUCTURED_ASH_STRUCTURED_METRICS_RECORDER_H_
 

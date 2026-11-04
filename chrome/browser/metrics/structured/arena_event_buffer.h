@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Arena event buffer header
+// summary: Declares ArenaEventBuffer, an EventBuffer that stores structured events in an ArenaPersistentProto with size estimation, periodic backup, and path update support.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_STRUCTURED_ARENA_EVENT_BUFFER_H_
 #define CHROME_BROWSER_METRICS_STRUCTURED_ARENA_EVENT_BUFFER_H_
 

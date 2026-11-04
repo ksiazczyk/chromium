@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome event storage header
+// summary: Declares ChromeEventStorage, the in-memory event storage for structured metrics events on Chrome (Windows, Linux, and Mac) that loses events on crash.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_STRUCTURED_CHROME_EVENT_STORAGE_H_
 #define CHROME_BROWSER_METRICS_STRUCTURED_CHROME_EVENT_STORAGE_H_
 

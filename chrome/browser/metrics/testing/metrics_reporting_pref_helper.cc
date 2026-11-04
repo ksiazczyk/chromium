@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics reporting preference helper implementation
+// summary: Implements SetUpUserDataDirectoryForTesting, which writes the metrics reporting enabled pref to the local state file, including ChromeOS device settings handling, for browser tests.
+// ---
+
 #include "chrome/browser/metrics/testing/metrics_reporting_pref_helper.h"
 
 #include "base/files/file_path.h"

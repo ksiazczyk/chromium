@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab usage scenario tracker header
+// summary: Declares TabUsageScenarioTracker, a TabStatsObserver and DisplayObserver that forwards usage information to the UsageScenarioDataStore without storing it.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_USAGE_SCENARIO_TAB_USAGE_SCENARIO_TRACKER_H_
 #define CHROME_BROWSER_METRICS_USAGE_SCENARIO_TAB_USAGE_SCENARIO_TRACKER_H_
 

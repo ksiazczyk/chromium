@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ash structured metrics recorder unit tests
+// summary: Unit tests for the Ash structured metrics recorder, verifying event recording, key data handling, and event storage behavior on ChromeOS.
+// ---
+
 #include "chrome/browser/metrics/structured/ash_structured_metrics_recorder.h"
 
 #include <cstdint>

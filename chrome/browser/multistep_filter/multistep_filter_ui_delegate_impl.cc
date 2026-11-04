@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multistep filter UI delegate implementation
+// summary: Implements MultistepFilterUiDelegate by forwarding suggestion display and clearing, marking ignored suggestions, to the tab's FilterUiController.
+// ---
+
 #include "chrome/browser/multistep_filter/multistep_filter_ui_delegate_impl.h"
 
 #include <utility>

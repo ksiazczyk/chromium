@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab stats tracker unit tests
+// summary: Unit tests for the tab stats tracker covering histogram reporting, observer notifications and tab lifecycle events.
+// ---
+
 #include "chrome/browser/metrics/tab_stats/tab_stats_tracker.h"
 
 #include <map>

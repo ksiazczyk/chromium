@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics consent override header
+// summary: Declares the metrics::test::MetricsConsentOverride class, a helper object for overriding the metrics enabled state during testing.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_TESTING_METRICS_CONSENT_OVERRIDE_H_
 #define CHROME_BROWSER_METRICS_TESTING_METRICS_CONSENT_OVERRIDE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigation predictor preconnect client browser tests
+// summary: Browser tests verifying preconnect behavior of the preconnect client across feature configurations, visibility changes, and search engine pages.
+// ---
+
 #include "chrome/browser/navigation_predictor/navigation_predictor_preconnect_client.h"
 
 #include <memory>

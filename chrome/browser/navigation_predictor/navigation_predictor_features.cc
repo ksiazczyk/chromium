@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation predictor feature flags
+// summary: Defines base features for device bound session DSE prewarming and the navigation predictor preconnect holdback with their parameters.
+// ---
+
 #include "chrome/browser/navigation_predictor/navigation_predictor_features.h"
 
 #include "build/build_config.h"

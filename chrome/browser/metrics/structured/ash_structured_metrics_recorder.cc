@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash structured metrics recorder implementation
+// summary: Implements the Ash structured metrics recorder, wiring the Ash key data provider, event storage, external metrics, and event sequence metadata.
+// ---
+
 #include "chrome/browser/metrics/structured/ash_structured_metrics_recorder.h"
 
 #include <memory>

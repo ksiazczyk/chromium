@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multistep filter UI delegate unit tests
+// summary: Unit tests for the Chrome multistep filter UI delegate, verifying that suggestions are shown and cleared through the filter UI controller and that missing controllers are handled safely.
+// ---
+
 #include "chrome/browser/multistep_filter/multistep_filter_ui_delegate_impl.h"
 
 #include <memory>

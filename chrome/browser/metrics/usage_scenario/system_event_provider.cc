@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System event provider implementation
+// summary: Notifies the usage scenario data store when the system suspends by observing power monitor suspend events.
+// ---
+
 #include "chrome/browser/metrics/usage_scenario/system_event_provider.h"
 
 #include "base/power_monitor/power_monitor.h"

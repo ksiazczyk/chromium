@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics reporting preference helper header
+// summary: Declares SetUpUserDataDirectoryForTesting, which configures on-disk prefs to enable or disable metrics reporting for browser tests and returns the local state file path.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_TESTING_METRICS_REPORTING_PREF_HELPER_H_
 #define CHROME_BROWSER_METRICS_TESTING_METRICS_REPORTING_PREF_HELPER_H_
 

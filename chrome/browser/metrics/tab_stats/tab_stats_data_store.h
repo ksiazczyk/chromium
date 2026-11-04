@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab stats data store header
+// summary: Declares TabStatsDataStore, which stores tab and window statistics and discard/reload counts used by the tab stats tracker.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_TAB_STATS_TAB_STATS_DATA_STORE_H_
 #define CHROME_BROWSER_METRICS_TAB_STATS_TAB_STATS_DATA_STORE_H_
 

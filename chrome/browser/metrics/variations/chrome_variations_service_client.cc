@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome variations service client implementation
+// summary: Implements VariationsServiceClient for Chrome, supplying version, URL loader factory, network time tracker, seed file directory, enterprise checks and profile keys to the variations service.
+// ---
+
 #include "chrome/browser/metrics/variations/chrome_variations_service_client.h"
 
 #include "base/check.h"

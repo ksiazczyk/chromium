@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engine preconnector keyed service factory declaration
+// summary: Declares the ProfileKeyedServiceFactory that owns and provides SearchEnginePreconnector instances per profile.
+// ---
+
 #ifndef CHROME_BROWSER_NAVIGATION_PREDICTOR_SEARCH_ENGINE_PRECONNECTOR_KEYED_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_NAVIGATION_PREDICTOR_SEARCH_ENGINE_PRECONNECTOR_KEYED_SERVICE_FACTORY_H_
 

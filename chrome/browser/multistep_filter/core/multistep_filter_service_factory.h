@@ -1,6 +1,13 @@
 // Copyright 2026 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Multistep filter service factory header
+// summary: Declares the singleton profile-keyed factory that owns MultistepFilterService instances per profile and registers retention-related profile preferences.
+// ---
+
 #ifndef CHROME_BROWSER_MULTISTEP_FILTER_CORE_MULTISTEP_FILTER_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_MULTISTEP_FILTER_CORE_MULTISTEP_FILTER_SERVICE_FACTORY_H_
 #include "base/no_destructor.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Structured metrics key events observer declaration
+// summary: Declares an observer that detects key ChromeOS events such as login, logout and system suspend for structured metrics recording.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_STRUCTURED_STRUCTURED_METRICS_KEY_EVENTS_OBSERVER_H_
 #define CHROME_BROWSER_METRICS_STRUCTURED_STRUCTURED_METRICS_KEY_EVENTS_OBSERVER_H_
 

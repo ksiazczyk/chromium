@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome responsiveness calculator delegate unit tests
+// summary: Verifies that responsiveness histograms receive the correct usage scenario suffix and only reflect the last measurement interval.
+// ---
+
 #include "chrome/browser/metrics/usage_scenario/chrome_responsiveness_calculator_delegate.h"
 
 #include "base/test/metrics/histogram_tester.h"

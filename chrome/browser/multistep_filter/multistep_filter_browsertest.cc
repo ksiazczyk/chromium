@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multistep filter browser tests
+// summary: In-process browser tests for the multistep filter feature, covering navigation-driven suggestions and related UI, signin, sync, and history interactions.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Usage scenario tracker implementation
+// summary: Constructs the UsageScenarioTracker, wiring tab, video capture and system event providers to a shared usage scenario data store.
+// ---
+
 #include "chrome/browser/metrics/usage_scenario/usage_scenario_tracker.h"
 
 #include "base/sequence_checker.h"

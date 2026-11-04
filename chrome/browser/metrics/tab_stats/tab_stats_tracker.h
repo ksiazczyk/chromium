@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab stats tracker header
+// summary: Declares TabStatsTracker, a singleton class that tracks and records tab and browser window usage and notifies registered observers.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_TAB_STATS_TAB_STATS_TRACKER_H_
 #define CHROME_BROWSER_METRICS_TAB_STATS_TAB_STATS_TRACKER_H_
 

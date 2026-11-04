@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilterUiController implementation
+// summary: Implements the per-tab controller that shows multistep filter suggestion cues, handles user decisions such as accept or dismiss, and logs suggestion outcomes.
+// ---
+
 #include "chrome/browser/multistep_filter/ui/filter_ui_controller.h"
 
 #include <utility>

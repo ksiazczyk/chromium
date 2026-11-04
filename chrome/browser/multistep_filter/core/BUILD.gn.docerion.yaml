@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Multistep filter core BUILD.gn build targets
+summary: Defines the core source set and testonly unit_tests target for the browser-side multistep filter factories, listing their GN public and private dependencies.

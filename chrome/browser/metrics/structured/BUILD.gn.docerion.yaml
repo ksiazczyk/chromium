@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for structured metrics
+summary: Defines GN build targets for the browser structured metrics code, including the structured source set, test support, and platform-specific unit and browser tests.

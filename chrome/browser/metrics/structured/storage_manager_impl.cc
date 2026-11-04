@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Structured metrics storage manager implementation
+// summary: Implements event storage for structured metrics on Ash ChromeOS with an in-memory arena buffer and a disk quota for flushed events.
+// ---
+
 #include "chrome/browser/metrics/structured/storage_manager_impl.h"
 
 #include <vector>

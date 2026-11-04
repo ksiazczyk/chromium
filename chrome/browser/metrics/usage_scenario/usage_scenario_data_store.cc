@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Usage scenario data store implementation
+// summary: Implements UsageScenarioDataStoreImpl, tracking tab, window, navigation, interaction and media events to build interval usage data.
+// ---
+
 #include "chrome/browser/metrics/usage_scenario/usage_scenario_data_store.h"
 
 #include <algorithm>

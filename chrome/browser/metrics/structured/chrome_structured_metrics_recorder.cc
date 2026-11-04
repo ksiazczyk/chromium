@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome structured metrics recorder implementation
+// summary: Implements the Chrome structured metrics recorder using KeyDataProviderChrome and ChromeEventStorage, and registers its local state preferences.
+// ---
+
 #include "chrome/browser/metrics/structured/chrome_structured_metrics_recorder.h"
 
 #include <memory>

@@ -1,6 +1,13 @@
 // Copyright 2026 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Multistep filter service factory implementation
+// summary: Implements the profile-keyed factory that builds MultistepFilterService with history, identity, sync, optimization guide and consent dependencies when the feature is enabled.
+// ---
+
 #include "chrome/browser/multistep_filter/core/multistep_filter_service_factory.h"
 
 #include "base/feature_list.h"

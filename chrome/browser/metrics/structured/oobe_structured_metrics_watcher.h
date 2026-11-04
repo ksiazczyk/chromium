@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOBE structured metrics watcher declaration
+// summary: Declares OobeStructuredMetricsWatcher, an events processor that triggers manual metric uploads during OOBE after a set event count.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_STRUCTURED_OOBE_STRUCTURED_METRICS_WATCHER_H_
 #define CHROME_BROWSER_METRICS_STRUCTURED_OOBE_STRUCTURED_METRICS_WATCHER_H_
 

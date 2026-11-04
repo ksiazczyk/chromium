@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ash key data provider unit tests
+// summary: Unit tests verifying device versus profile key selection for structured metrics projects, including CrOS events and missing profile keys.
+// ---
+
 #include "chrome/browser/metrics/structured/key_data_provider_ash.h"
 
 #include <memory>

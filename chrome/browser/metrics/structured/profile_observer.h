@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Structured metrics profile observer declaration
+// summary: Declares ProfileObserver, a base class that validates regular profiles and notifies subclasses when a profile is added.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_STRUCTURED_PROFILE_OBSERVER_H_
 #define CHROME_BROWSER_METRICS_STRUCTURED_PROFILE_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Usage scenario data store unit tests
+// summary: Unit tests covering uptime, tab and window counts, navigation and interaction tracking in UsageScenarioDataStoreImpl.
+// ---
+
 #include "chrome/browser/metrics/usage_scenario/usage_scenario_data_store.h"
 
 #include <tuple>

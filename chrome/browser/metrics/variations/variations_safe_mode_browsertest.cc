@@ -6,6 +6,12 @@
 // should be kept in sync with those in ios/chrome/browser/variations/
 // variations_safe_mode_egtest.mm.
 
+// ---docerion
+// type: test
+// title: Variations safe mode browser tests
+// summary: Browser tests verifying that repeated crashes or seed fetch failures trigger variations safe mode and a safe seed fallback.
+// ---
+
 #include "base/metrics/field_trial.h"
 #include "base/test/metrics/histogram_tester.h"
 #include "chrome/browser/browser_process.h"

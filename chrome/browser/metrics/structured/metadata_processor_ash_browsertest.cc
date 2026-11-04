@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ash metadata processor browser tests
+// summary: Browser tests verifying device and primary user segment metadata across consumer, education, enterprise, kiosk and demo mode sessions.
+// ---
+
 #include "chrome/browser/metrics/structured/metadata_processor_ash.h"
 
 #include <optional>

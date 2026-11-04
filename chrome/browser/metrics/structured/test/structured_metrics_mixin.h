@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Structured metrics mixin header
+// summary: Declares the StructuredMetricsMixin class that browser tests use to set up structured metrics recording and query or wait for recorded events.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_STRUCTURED_TEST_STRUCTURED_METRICS_MIXIN_H_
 #define CHROME_BROWSER_METRICS_STRUCTURED_TEST_STRUCTURED_METRICS_MIXIN_H_
 

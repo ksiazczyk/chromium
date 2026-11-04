@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multistep filter log router factory unit tests
+// summary: Unit tests verifying the log router factory returns null when the feature is disabled or for incognito profiles, and a stable instance for the same profile when enabled.
+// ---
+
 #include "chrome/browser/multistep_filter/core/multistep_filter_log_router_factory.h"
 
 #include "base/test/scoped_feature_list.h"

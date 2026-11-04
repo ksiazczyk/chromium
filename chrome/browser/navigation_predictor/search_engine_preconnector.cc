@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engine preconnector implementation
+// summary: Implements periodic preconnecting to the user's default search engine when the browser is likely in the foreground, including retry, battery saver, and traffic annotation handling.
+// ---
+
 #include "chrome/browser/navigation_predictor/search_engine_preconnector.h"
 
 #include <limits>

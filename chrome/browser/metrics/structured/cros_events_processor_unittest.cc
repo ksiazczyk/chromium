@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CrOSEvents processor unit tests
+// summary: Unit tests verifying that the CrOSEvents processor loads the reset counter written by platform2 and attaches it to event sequence metadata.
+// ---
+
 #include "chrome/browser/metrics/structured/cros_events_processor.h"
 
 #include <fstream>

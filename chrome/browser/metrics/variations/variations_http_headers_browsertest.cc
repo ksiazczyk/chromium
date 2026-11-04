@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Variations HTTP headers browser test
+// summary: Browser test suite verifying that variations experiment IDs are attached as HTTP headers to network requests under various conditions.
+// ---
+
 #include "components/variations/net/variations_http_headers.h"
 
 #include <map>

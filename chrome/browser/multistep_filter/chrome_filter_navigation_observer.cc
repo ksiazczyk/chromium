@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome filter navigation observer implementation
+// summary: Implements the per-tab ChromeFilterNavigationObserver that wires the component ContentFilterNavigationObserver to the multistep filter service, log router, and UI delegate.
+// ---
+
 #include "chrome/browser/multistep_filter/chrome_filter_navigation_observer.h"
 
 #include "base/check.h"

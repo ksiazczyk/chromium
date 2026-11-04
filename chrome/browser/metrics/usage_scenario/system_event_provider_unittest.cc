@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System event provider unit tests
+// summary: Checks that generated suspend events increment the sleep event count recorded in the usage scenario data store.
+// ---
+
 #include "chrome/browser/metrics/usage_scenario/system_event_provider.h"
 
 #include <memory>

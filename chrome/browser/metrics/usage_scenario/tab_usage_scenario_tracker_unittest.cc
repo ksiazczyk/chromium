@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab usage scenario tracker unit tests
+// summary: Unit tests verifying that TabUsageScenarioTracker updates the usage scenario data store for tab visibility, navigation and display count changes.
+// ---
+
 #include "chrome/browser/metrics/usage_scenario/tab_usage_scenario_tracker.h"
 
 #include <memory>

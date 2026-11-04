@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome responsiveness calculator delegate header
+// summary: Declares the delegate that adds usage scenario suffixes to responsiveness metrics emitted through the content layer.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_USAGE_SCENARIO_CHROME_RESPONSIVENESS_CALCULATOR_DELEGATE_H_
 #define CHROME_BROWSER_METRICS_USAGE_SCENARIO_CHROME_RESPONSIVENESS_CALCULATOR_DELEGATE_H_
 

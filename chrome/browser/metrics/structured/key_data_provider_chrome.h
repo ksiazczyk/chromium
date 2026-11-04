@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome key data provider header
+// summary: Declares KeyDataProviderChrome, which provides device keys for structured metrics on non-ChromeOS platforms via preferences.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_STRUCTURED_KEY_DATA_PROVIDER_CHROME_H_
 #define CHROME_BROWSER_METRICS_STRUCTURED_KEY_DATA_PROVIDER_CHROME_H_
 

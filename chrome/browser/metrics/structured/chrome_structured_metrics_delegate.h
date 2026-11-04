@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome structured metrics delegate header
+// summary: Declares ChromeStructuredMetricsDelegate, a singleton that unifies platform-specific structured metrics recorder implementations behind a common recording API.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_STRUCTURED_CHROME_STRUCTURED_METRICS_DELEGATE_H_
 #define CHROME_BROWSER_METRICS_STRUCTURED_CHROME_STRUCTURED_METRICS_DELEGATE_H_
 

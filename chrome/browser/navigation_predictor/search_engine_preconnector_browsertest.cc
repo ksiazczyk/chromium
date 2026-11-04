@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search engine preconnector browser tests
+// summary: Browser tests that verify preconnect behavior toward the default search engine, covering foreground checks, retry intervals, and device bound session prewarming.
+// ---
+
 #include "chrome/browser/navigation_predictor/search_engine_preconnector.h"
 
 #include "base/run_loop.h"

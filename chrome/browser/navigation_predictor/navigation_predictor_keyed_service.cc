@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation predictor keyed service implementation
+// summary: Implements the profile-keyed service that stores navigation predictions and logs predicted URLs to the console for the active page.
+// ---
+
 #include "chrome/browser/navigation_predictor/navigation_predictor_keyed_service.h"
 
 #include "base/command_line.h"
