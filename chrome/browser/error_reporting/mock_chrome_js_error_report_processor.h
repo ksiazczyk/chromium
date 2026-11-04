@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Chrome JS error report processor header
+// summary: Header declaring the mock JS error report processor and a scoped wrapper that installs and uninstalls it as the default processor during tests.
+// ---
+
 #ifndef CHROME_BROWSER_ERROR_REPORTING_MOCK_CHROME_JS_ERROR_REPORT_PROCESSOR_H_
 #define CHROME_BROWSER_ERROR_REPORTING_MOCK_CHROME_JS_ERROR_REPORT_PROCESSOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension request policy handler implementation
+// summary: Implements validation and application of the CloudExtensionRequestEnabled policy, requiring CloudReportingEnabled and user affiliation.
+// ---
+
 #include "chrome/browser/enterprise/reporting/extension_request/extension_request_policy_handler.h"
 
 #include "base/values.h"

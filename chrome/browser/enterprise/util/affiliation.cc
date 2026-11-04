@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile affiliation checks implementation
+// summary: Implements checks for whether a profile is affiliated with the browser's management and classifies the reasons a profile is unaffiliated.
+// ---
+
 #include "chrome/browser/enterprise/util/affiliation.h"
 
 #include "chrome/browser/browser_process.h"

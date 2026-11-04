@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile signals collector browser tests
+// summary: Browser tests verifying that ProfileSignalsCollector supports and correctly collects profile-level signals such as enrollment domain, Safe Browsing level and built-in DNS client.
+// ---
+
 #include "chrome/browser/enterprise/signals/profile_signals_collector.h"
 
 #include <array>

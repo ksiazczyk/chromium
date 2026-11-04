@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserDelegateImpl implementation
+// summary: Implements the browser-side user delegate that reports managed state, affiliation, matching user, policy scopes and signals consent requirements.
+// ---
+
 #include "chrome/browser/enterprise/signals/user_delegate_impl.h"
 
 #include <set>

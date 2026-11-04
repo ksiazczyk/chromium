@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android extension request notification handler
+// summary: Handles clicks and closes of Android extension request notifications, launching Chrome Web Store pages and removing extensions from the pending request list.
+// ---
+
 #include "chrome/browser/enterprise/reporting/extension_request/extension_request_notification_handler_android.h"
 
 #include <utility>

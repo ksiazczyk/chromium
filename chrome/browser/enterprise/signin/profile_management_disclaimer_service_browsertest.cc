@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile management disclaimer service browser tests
+// summary: Parameterized browser tests verifying management disclaimer behavior for managed and unmanaged accounts, profile creation outcomes, and policy enforcement.
+// ---
+
 #include "chrome/browser/enterprise/signin/profile_management_disclaimer_service.h"
 
 #include "base/json/values_util.h"

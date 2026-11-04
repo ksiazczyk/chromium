@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LegacyTechService and factory header
+// summary: Declares LegacyTechService, which reports legacy tech events matching the policy allowlist, and its profile-keyed service factory.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_REPORTING_LEGACY_TECH_LEGACY_TECH_SERVICE_H_
 #define CHROME_BROWSER_ENTERPRISE_REPORTING_LEGACY_TECH_LEGACY_TECH_SERVICE_H_
 

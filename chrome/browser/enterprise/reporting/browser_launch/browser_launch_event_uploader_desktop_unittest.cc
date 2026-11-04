@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the desktop browser launch event uploader
+// summary: Tests browser-level and profile-level launch event uploads, including unaffiliated and multiple affiliated profiles, using mock reporting clients.
+// ---
+
 #include "chrome/browser/enterprise/reporting/browser_launch/browser_launch_event_uploader_desktop.h"
 
 #include "base/functional/callback.h"

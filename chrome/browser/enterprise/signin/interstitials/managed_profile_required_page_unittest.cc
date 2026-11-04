@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the managed profile required interstitial page
+// summary: Unit tests verifying that the managed profile required interstitial records decision metrics and populates the expected strings for known and unknown managers.
+// ---
+
 #include "chrome/browser/enterprise/signin/interstitials/managed_profile_required_page.h"
 
 #include "base/strings/utf_string_conversions.h"

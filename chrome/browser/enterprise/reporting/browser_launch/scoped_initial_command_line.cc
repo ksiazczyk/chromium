@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Initial browser command line fallback and scoped override
+// summary: Provides a link-time fallback for GetInitialBrowserCommandLine plus a RAII override so tests and utility binaries that skip chrome_main.cc can stub the command line.
+// ---
+
 #include "chrome/browser/enterprise/reporting/browser_launch/scoped_initial_command_line.h"
 #include "base/command_line.h"
 

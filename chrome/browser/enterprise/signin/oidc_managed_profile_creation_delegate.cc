@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OIDC managed profile creation delegate
+// summary: Implements the managed profile creation delegate for OIDC sign-ins, storing OIDC tokens and the user display name and email on the new profile.
+// ---
+
 #include "chrome/browser/enterprise/signin/oidc_managed_profile_creation_delegate.h"
 
 #include "base/check.h"

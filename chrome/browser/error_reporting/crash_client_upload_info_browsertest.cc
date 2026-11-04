@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crash client upload info browser tests
+// summary: Browser tests for crash client upload info, checking stats consent does not crash and that the reported product name matches each platform and branding.
+// ---
+
 #include "base/run_loop.h"
 #include "base/task/task_traits.h"
 #include "base/task/thread_pool.h"

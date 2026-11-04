@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop browser launch event controller factory implementation
+// summary: Creates browser-level and profile-level BrowserLaunchEventController instances wired with the desktop data collector and uploader.
+// ---
+
 #include "chrome/browser/enterprise/reporting/browser_launch/browser_launch_event_controller_factory_desktop.h"
 
 #include <memory>

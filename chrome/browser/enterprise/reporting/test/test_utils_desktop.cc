@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop enterprise reporting test utilities
+// summary: Desktop implementation of the test helpers, verifying device identifier and OS report signals on non-Android platforms.
+// ---
+
 #include "base/run_loop.h"
 #include "base/task/task_traits.h"
 #include "base/task/thread_pool.h"

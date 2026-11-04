@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Views example demonstrating the watermark overlay
+// summary: Implements an interactive views example with sliders and a text area for tuning the watermark overlay.
+// ---
+
 #include "chrome/browser/enterprise/watermark/watermark_example.h"
 
 #include <memory>

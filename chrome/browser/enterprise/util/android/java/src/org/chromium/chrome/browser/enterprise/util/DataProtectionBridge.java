@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataProtectionBridge
+// summary: Java bridge exposing enterprise data protection policy checks for copying, sharing, and search-with actions, delegating to native code via JNI.
+// ---
+
 package org.chromium.chrome.browser.enterprise.util;
 
 import static org.chromium.chrome.browser.flags.ChromeFeatureList.DATA_CONTROLS_SEARCH_WITH;

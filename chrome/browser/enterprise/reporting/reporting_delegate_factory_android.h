@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android reporting delegate factory class declaration
+// summary: Declares the Android implementation of the reporting delegate factory that supplies platform-specific reporting delegates.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_REPORTING_REPORTING_DELEGATE_FACTORY_ANDROID_H_
 #define CHROME_BROWSER_ENTERPRISE_REPORTING_REPORTING_DELEGATE_FACTORY_ANDROID_H_
 

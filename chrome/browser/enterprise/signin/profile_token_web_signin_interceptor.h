@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile token web signin interceptor header
+// summary: Declares the ProfileTokenWebSigninInterceptor keyed service that intercepts signins with enrollment tokens and drives enterprise profile creation or switching.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_SIGNIN_PROFILE_TOKEN_WEB_SIGNIN_INTERCEPTOR_H_
 #define CHROME_BROWSER_ENTERPRISE_SIGNIN_PROFILE_TOKEN_WEB_SIGNIN_INTERCEPTOR_H_
 

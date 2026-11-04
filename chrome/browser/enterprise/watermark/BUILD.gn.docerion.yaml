@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the enterprise watermark code
+summary: Defines GN build targets for the watermark library, a test-only example app, and browser tests.

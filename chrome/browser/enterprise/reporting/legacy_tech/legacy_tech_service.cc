@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LegacyTechService implementation
+// summary: Implements the profile-keyed service that matches event URLs against the allowlist policy and triggers legacy tech reports, plus its factory.
+// ---
+
 #include "chrome/browser/enterprise/reporting/legacy_tech/legacy_tech_service.h"
 
 #include <optional>

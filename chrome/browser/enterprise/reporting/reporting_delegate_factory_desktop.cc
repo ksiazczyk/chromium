@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop reporting delegate factory implementation
+// summary: Creates desktop-specific delegates for the browser, profile, scheduler and real-time enterprise reporting components.
+// ---
+
 #include "chrome/browser/enterprise/reporting/reporting_delegate_factory_desktop.h"
 
 #include <memory>

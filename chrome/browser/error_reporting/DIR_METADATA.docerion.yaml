@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA bug tracker component mapping
+summary: Maps the error_reporting directory to the Internals>CrashReporting Monorail component and Buganizer public component 1456911.

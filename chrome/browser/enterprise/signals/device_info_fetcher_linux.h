@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux device info fetcher class declaration
+// summary: Declares DeviceInfoFetcherLinux, the Linux subclass of DeviceInfoFetcher that overrides Fetch() to gather device information.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_SIGNALS_DEVICE_INFO_FETCHER_LINUX_H_
 #define CHROME_BROWSER_ENTERPRISE_SIGNALS_DEVICE_INFO_FETCHER_LINUX_H_
 

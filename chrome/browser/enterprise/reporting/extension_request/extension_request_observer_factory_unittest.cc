@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension request observer factory unit tests
+// summary: Unit tests verifying observer creation, profile addition, deletion and destruction handling in the extension request observer factory.
+// ---
+
 #include "chrome/browser/enterprise/reporting/extension_request/extension_request_observer_factory.h"
 
 #include "base/functional/callback_helpers.h"

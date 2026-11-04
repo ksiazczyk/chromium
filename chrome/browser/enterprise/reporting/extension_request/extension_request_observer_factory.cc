@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension request observer factory implementation
+// summary: Creates and manages per-profile ExtensionRequestObserver instances, skipping system, guest and incognito profiles and cleaning up on profile destruction.
+// ---
+
 #include "chrome/browser/enterprise/reporting/extension_request/extension_request_observer_factory.h"
 
 #include "chrome/browser/browser_process.h"

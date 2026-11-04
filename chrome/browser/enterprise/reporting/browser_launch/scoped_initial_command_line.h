@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped initial command line header
+// summary: Declares GetInitialBrowserCommandLine and the ScopedInitialCommandLine RAII class for temporarily overriding the initial browser command line.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_REPORTING_BROWSER_LAUNCH_SCOPED_INITIAL_COMMAND_LINE_H_
 #define CHROME_BROWSER_ENTERPRISE_REPORTING_BROWSER_LAUNCH_SCOPED_INITIAL_COMMAND_LINE_H_
 

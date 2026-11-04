@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User policy OIDC signin service browser tests
+// summary: Browser tests covering policy fetching and management behavior for OIDC-enrolled profiles through the UserPolicyOidcSigninService.
+// ---
+
 #include "chrome/browser/enterprise/signin/user_policy_oidc_signin_service.h"
 
 #include <variant>

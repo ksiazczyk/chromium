@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop browser report generator delegate
+// summary: Desktop implementation of platform-specific info fetching for enterprise browser reports, including build state and profile list.
+// ---
+
 #include "chrome/browser/enterprise/reporting/browser_report_generator_desktop.h"
 
 #include "base/files/file_path.h"

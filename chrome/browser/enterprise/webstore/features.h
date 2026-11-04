@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Webstore navigation throttle feature declaration
+// summary: Declares the kChromeWebStoreNavigationThrottle feature flag that controls whether the webstore navigation throttle is enabled.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_WEBSTORE_FEATURES_H_
 #define CHROME_BROWSER_ENTERPRISE_WEBSTORE_FEATURES_H_
 

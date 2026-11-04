@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop browser report generator delegate header
+// summary: Declares the desktop delegate implementing the BrowserReportGenerator platform hooks.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_REPORTING_BROWSER_REPORT_GENERATOR_DESKTOP_H_
 #define CHROME_BROWSER_ENTERPRISE_REPORTING_BROWSER_REPORT_GENERATOR_DESKTOP_H_
 

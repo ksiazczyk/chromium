@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Chrome JS error report processor implementation
+// summary: Test double for the Chrome JS error report processor that counts sent reports, overrides crash endpoints and experiment lists, and redirects uploads to a mock endpoint.
+// ---
+
 #include "chrome/browser/error_reporting/mock_chrome_js_error_report_processor.h"
 
 #include "base/base_paths.h"

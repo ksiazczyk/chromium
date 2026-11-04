@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Real time report controller unit tests
+// summary: Unit tests for the real-time report controller verifying extension request and legacy tech report generation and upload behavior with mocked generators and uploaders.
+// ---
+
 #include "components/enterprise/browser/reporting/real_time_report_controller.h"
 
 #include <memory>

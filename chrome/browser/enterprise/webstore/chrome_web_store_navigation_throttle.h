@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Web Store navigation throttle class declaration
+// summary: Declares the ChromeWebStoreNavigationThrottle class that attaches DM token and client ID headers to Chrome Web Store navigations.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_WEBSTORE_CHROME_WEB_STORE_NAVIGATION_THROTTLE_H_
 #define CHROME_BROWSER_ENTERPRISE_WEBSTORE_CHROME_WEB_STORE_NAVIGATION_THROTTLE_H_
 

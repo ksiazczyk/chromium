@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ManagementContextMixinBrowser implementation
+// summary: Implements a browser test mixin that fakes DM token storage and sets up cloud machine and user policy data for enterprise management browser tests.
+// ---
+
 #include "chrome/browser/enterprise/test/browser/management_context_mixin_browser.h"
 
 #include "build/branding_buildflags.h"

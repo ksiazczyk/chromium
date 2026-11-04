@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManagedBrowserUtils
+// summary: Java utility wrapping native calls that report managed browser and profile state, cloud reporting, and enterprise connector settings.
+// ---
+
 package org.chromium.chrome.browser.enterprise.util;
 
 import org.jni_zero.JNINamespace;

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for enterprise webstore unit tests
+summary: Defines a unit_tests source set that builds the Chrome Web Store navigation throttle tests on Linux, Mac and Windows.

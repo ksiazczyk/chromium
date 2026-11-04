@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EnterpriseSigninService implementation
+// summary: Implements a per-profile service that opens or activates a GAIA reauth tab when sync is paused and the reauth prompt preference is enabled.
+// ---
+
 #include "chrome/browser/enterprise/signin/enterprise_signin_service.h"
 
 #include <algorithm>

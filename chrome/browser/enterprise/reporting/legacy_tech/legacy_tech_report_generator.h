@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LegacyTechReportGenerator class header
+// summary: Declares the LegacyTechReportGenerator class and its LegacyTechData struct used to build legacy tech real-time reports.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_REPORTING_LEGACY_TECH_LEGACY_TECH_REPORT_GENERATOR_H_
 #define CHROME_BROWSER_ENTERPRISE_REPORTING_LEGACY_TECH_LEGACY_TECH_REPORT_GENERATOR_H_
 

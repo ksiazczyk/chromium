@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for enterprise signals
+summary: Points to the shared device signals component metadata through a mixin entry.

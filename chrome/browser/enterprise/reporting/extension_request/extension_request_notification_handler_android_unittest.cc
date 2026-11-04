@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android notification handler unit tests
+// summary: Unit tests for the Android extension request notification handler covering notification ID parsing and removal of extensions from the pending list.
+// ---
+
 #include "chrome/browser/enterprise/reporting/extension_request/extension_request_notification_handler_android.h"
 
 #include <memory>

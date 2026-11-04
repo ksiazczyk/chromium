@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Real time report generator delegate
+// summary: Generates real-time reports by dispatching extension request and legacy tech report types to their respective report generators.
+// ---
+
 #include "chrome/browser/enterprise/reporting/real_time_report_generator_delegate.h"
 
 #include "base/logging.h"

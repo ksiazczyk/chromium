@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SaaS usage report factory delegate header
+// summary: Declares SaasUsageReportFactoryDelegateImpl, providing profile ID and affiliation data to the SaaS usage report factory.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_REPORTING_SAAS_USAGE_SAAS_USAGE_REPORT_FACTORY_DELEGATE_IMPL_H_
 #define CHROME_BROWSER_ENTERPRISE_REPORTING_SAAS_USAGE_SAAS_USAGE_REPORT_FACTORY_DELEGATE_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop browser launch data collector header
+// summary: Declares BrowserLaunchDataCollectorDesktop, which captures command-line switches and process creation time for browser launch events on Windows, Mac, and Linux.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_REPORTING_BROWSER_LAUNCH_BROWSER_LAUNCH_DATA_COLLECTOR_DESKTOP_H_
 #define CHROME_BROWSER_ENTERPRISE_REPORTING_BROWSER_LAUNCH_BROWSER_LAUNCH_DATA_COLLECTOR_DESKTOP_H_
 

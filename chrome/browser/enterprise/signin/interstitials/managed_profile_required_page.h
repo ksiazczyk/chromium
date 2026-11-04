@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed profile required interstitial page class declaration
+// summary: Declares the ManagedProfileRequiredPage class, a security interstitial shown when an organization requires signing in with a managed profile.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_SIGNIN_INTERSTITIALS_MANAGED_PROFILE_REQUIRED_PAGE_H_
 #define CHROME_BROWSER_ENTERPRISE_SIGNIN_INTERSTITIALS_MANAGED_PROFILE_REQUIRED_PAGE_H_
 

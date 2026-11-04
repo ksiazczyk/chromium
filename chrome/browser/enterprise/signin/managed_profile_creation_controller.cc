@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManagedProfileCreationController implementation
+// summary: Implements the controller that creates a new managed profile for a signed-in managed account, reusing an existing profile for the account when available.
+// ---
+
 #include "chrome/browser/enterprise/signin/managed_profile_creation_controller.h"
 
 #include "base/check_is_test.h"

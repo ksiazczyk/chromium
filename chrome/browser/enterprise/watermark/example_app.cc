@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Entry point for the watermark views example app
+// summary: Main entry point that launches the views examples window with the watermark example registered.
+// ---
+
 #include "base/at_exit.h"
 #include "base/command_line.h"
 #include "base/test/test_timeouts.h"

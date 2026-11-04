@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserPermissionServiceFactory class declaration
+// summary: Declares the profile-keyed singleton factory that provides a UserPermissionService per profile.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_SIGNALS_USER_PERMISSION_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ENTERPRISE_SIGNALS_USER_PERMISSION_SERVICE_FACTORY_H_
 

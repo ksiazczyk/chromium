@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Real time report generator unit tests
+// summary: Unit tests for real-time extension request report generation under enabled, disabled, and empty pending request policy and preference conditions.
+// ---
+
 #include "components/enterprise/browser/reporting/real_time_report_generator.h"
 
 #include <set>

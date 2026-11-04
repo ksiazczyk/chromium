@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ManagedProfileRequiredNavigationThrottle browser tests
+// summary: Browser tests verifying that the throttle cancels navigations with the managed profile required interstitial when the feature is enabled and does nothing when disabled.
+// ---
+
 #include "chrome/browser/enterprise/signin/managed_profile_required_navigation_throttle.h"
 
 #include <memory>

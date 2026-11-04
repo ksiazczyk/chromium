@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for enterprise signals tests
+summary: GN build rules defining unit test, browser test, and Android browser test targets for the signals folder.

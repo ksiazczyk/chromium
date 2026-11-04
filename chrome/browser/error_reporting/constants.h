@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaScript stack key constant declaration
+// summary: Declares the Chrome OS key constant for the JavaScript stack payload, matching the format expected by ChromeCollector::ParseCrashLog.
+// ---
+
 #ifndef CHROME_BROWSER_ERROR_REPORTING_CONSTANTS_H_
 #define CHROME_BROWSER_ERROR_REPORTING_CONSTANTS_H_
 

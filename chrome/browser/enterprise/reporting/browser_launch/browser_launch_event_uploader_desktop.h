@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop browser launch event uploader header
+// summary: Declares BrowserLaunchEventUploaderDesktop, which wraps launch events for upload and observes the profile manager to handle deferred uploads.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_REPORTING_BROWSER_LAUNCH_BROWSER_LAUNCH_EVENT_UPLOADER_DESKTOP_H_
 #define CHROME_BROWSER_ENTERPRISE_REPORTING_BROWSER_LAUNCH_BROWSER_LAUNCH_EVENT_UPLOADER_DESKTOP_H_
 

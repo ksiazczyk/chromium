@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome OS crash reporter integration for JS error reports
+// summary: Implements the Chrome OS code path that hands JavaScript error reports to crash_reporter via memfd or a temporary file and waits for it to finish.
+// ---
+
 #include "chrome/browser/error_reporting/chrome_js_error_report_processor.h"
 
 #include <errno.h>

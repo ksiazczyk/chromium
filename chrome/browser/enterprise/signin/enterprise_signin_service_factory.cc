@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EnterpriseSigninService factory implementation
+// summary: Implements the profile-keyed service factory that creates EnterpriseSigninService for regular, non-Incognito profiles.
+// ---
+
 #include "chrome/browser/enterprise/signin/enterprise_signin_service_factory.h"
 
 #include "chrome/browser/profiles/profile.h"

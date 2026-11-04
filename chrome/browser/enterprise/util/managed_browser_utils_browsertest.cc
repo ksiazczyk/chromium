@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for managed browser utils
+// summary: Browser tests verifying machine policy pref detection and enterprise profile badging behavior for managed and unmanaged profiles.
+// ---
+
 #include "chrome/browser/enterprise/util/managed_browser_utils.h"
 
 #include <vector>

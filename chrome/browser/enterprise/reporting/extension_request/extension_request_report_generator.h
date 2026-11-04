@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension request report generator header
+// summary: Declares the generator that produces ExtensionsWorkflowEvent real-time reports for a profile's extension requests.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_REPORTING_EXTENSION_REQUEST_EXTENSION_REQUEST_REPORT_GENERATOR_H_
 #define CHROME_BROWSER_ENTERPRISE_REPORTING_EXTENSION_REQUEST_EXTENSION_REQUEST_REPORT_GENERATOR_H_
 

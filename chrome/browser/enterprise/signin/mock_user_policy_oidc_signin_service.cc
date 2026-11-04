@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock user policy OIDC signin service
+// summary: Implements a mock UserPolicyOidcSigninService that forwards construction to the real service so tests can substitute it.
+// ---
+
 #include "chrome/browser/enterprise/signin/mock_user_policy_oidc_signin_service.h"
 
 #include <variant>

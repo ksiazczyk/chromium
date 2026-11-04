@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SaaS usage reporting delegate factory implementation
+// summary: Implements the delegate factory supplying pref services, report factory delegates, uploaders, and scheduler delegates for browser-level or profile-level SaaS usage reporting.
+// ---
+
 #include "chrome/browser/enterprise/reporting/saas_usage/saas_usage_reporting_delegate_factory_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android data protection JNI bridge
+// summary: Bridges Java calls to native policy checks for clipboard copy, share, and screenshot restrictions in enterprise data protection on Android.
+// ---
+
 #include <cstdint>
 
 #include "base/android/callback_android.h"

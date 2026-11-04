@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System signals service host factory implementation
+// summary: Implements the profile-keyed factory that creates a SystemSignalsServiceHost instance for each browser context.
+// ---
+
 #include "chrome/browser/enterprise/signals/system_signals_service_host_factory.h"
 
 #include "base/no_destructor.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManagedProfileCreationController class header
+// summary: Declares the controller that creates a managed profile for an account, showing the enterprise management disclaimer and converting, creating, or signing out based on the user's choice.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_SIGNIN_MANAGED_PROFILE_CREATION_CONTROLLER_H_
 #define CHROME_BROWSER_ENTERPRISE_SIGNIN_MANAGED_PROFILE_CREATION_CONTROLLER_H_
 

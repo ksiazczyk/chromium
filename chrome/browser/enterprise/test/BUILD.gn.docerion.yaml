@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for enterprise test support
+summary: Defines the testonly test_support source set for enterprise browser tests, listing platform-specific management context mixin sources and policy and testing dependencies.

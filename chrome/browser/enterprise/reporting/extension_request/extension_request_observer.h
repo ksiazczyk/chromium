@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension request observer header
+// summary: Declares ExtensionRequestObserver, which watches extension policy changes to show extension request notifications and enable or disable report triggers.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_REPORTING_EXTENSION_REQUEST_EXTENSION_REQUEST_OBSERVER_H_
 #define CHROME_BROWSER_ENTERPRISE_REPORTING_EXTENSION_REQUEST_EXTENSION_REQUEST_OBSERVER_H_
 

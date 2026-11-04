@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension info header
+// summary: Declares helpers that convert extension types to protos and append extension information into profile reports.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_REPORTING_EXTENSION_INFO_H_
 #define CHROME_BROWSER_ENTERPRISE_REPORTING_EXTENSION_INFO_H_
 

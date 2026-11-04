@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Real time report controller delegate
+// summary: Implements the browser-side delegate that watches extension requests and legacy technology usage to trigger real-time enterprise reports.
+// ---
+
 #include "chrome/browser/enterprise/reporting/real_time_report_controller_delegate.h"
 
 #include <memory>

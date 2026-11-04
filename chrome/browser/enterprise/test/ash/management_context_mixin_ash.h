@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ash management context test mixin header
+// summary: Declares ManagementContextMixinAsh, a browser test mixin that configures ChromeOS device and user policy management state for enterprise test scenarios.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_TEST_ASH_MANAGEMENT_CONTEXT_MIXIN_ASH_H_
 #define CHROME_BROWSER_ENTERPRISE_TEST_ASH_MANAGEMENT_CONTEXT_MIXIN_ASH_H_
 

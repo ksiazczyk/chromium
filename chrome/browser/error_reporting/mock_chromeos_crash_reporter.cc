@@ -10,6 +10,12 @@
 // (but without the compression). This is used in tests to substitute for the
 // actual OS crash reporting system.
 
+// ---docerion
+// type: test
+// title: Mock ChromeOS crash reporter test binary
+// summary: Standalone test binary that mimics ChromeOS crash_reporter and crash_sender, parsing crash log triplets and uploading reports over HTTP to a test endpoint.
+// ---
+
 #include <stdio.h>
 #include <stdlib.h>
 

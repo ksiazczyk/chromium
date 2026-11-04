@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Realtime event upload helper unit tests
+// summary: Unit tests for RealtimeEventUploadHelper, covering profile and browser upload context preparation, reporting client discovery, and failure cases when no client or DM token is available.
+// ---
+
 #include "chrome/browser/enterprise/reporting/realtime_event_upload_helper.h"
 
 #include <memory>

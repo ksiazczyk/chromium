@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DataProtectionBridge unit tests
+// summary: Robolectric and Mockito unit tests verifying DataProtectionBridge behavior for copy, share, search-with, and screenshot rules under varying feature flags.
+// ---
+
 package org.chromium.chrome.browser.enterprise.util;
 
 import static org.junit.Assert.assertFalse;

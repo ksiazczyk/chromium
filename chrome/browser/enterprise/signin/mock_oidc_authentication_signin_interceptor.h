@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockOidcAuthenticationSigninInterceptor header
+// summary: Declares a gmock mock of the OIDC authentication sign-in interceptor with testing helpers for finalizing interception and setting the new profile.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_SIGNIN_MOCK_OIDC_AUTHENTICATION_SIGNIN_INTERCEPTOR_H_
 #define CHROME_BROWSER_ENTERPRISE_SIGNIN_MOCK_OIDC_AUTHENTICATION_SIGNIN_INTERCEPTOR_H_
 

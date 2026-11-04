@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed profile required interstitial page implementation
+// summary: Implements the managed profile required interstitial page, populating its localized strings and handling commands such as continuing to the profile picker or showing a blocked window.
+// ---
+
 #include "chrome/browser/enterprise/signin/interstitials/managed_profile_required_page.h"
 
 #include <utility>

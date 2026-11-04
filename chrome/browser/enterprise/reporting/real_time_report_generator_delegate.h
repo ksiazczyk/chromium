@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Real time report generator delegate header
+// summary: Declares the RealTimeReportGeneratorDelegate that routes real-time report types to the extension request and legacy tech report generators.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_REPORTING_REAL_TIME_REPORT_GENERATOR_DELEGATE_H_
 #define CHROME_BROWSER_ENTERPRISE_REPORTING_REAL_TIME_REPORT_GENERATOR_DELEGATE_H_
 

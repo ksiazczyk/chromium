@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Report request queue generator unit tests
+// summary: Unit tests for ReportRequestQueueGenerator, checking how idle, active, and content-bearing profiles are included in generated report requests.
+// ---
+
 #include "components/enterprise/browser/reporting/report_request_queue_generator.h"
 
 #include <vector>

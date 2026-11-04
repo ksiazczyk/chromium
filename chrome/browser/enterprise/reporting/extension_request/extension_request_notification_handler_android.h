@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android extension request notification handler header
+// summary: Declares the Android notification handler for enterprise extension requests, covering click and close handling and Web Store URL launching.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_REPORTING_EXTENSION_REQUEST_EXTENSION_REQUEST_NOTIFICATION_HANDLER_ANDROID_H_
 #define CHROME_BROWSER_ENTERPRISE_REPORTING_EXTENSION_REQUEST_EXTENSION_REQUEST_NOTIFICATION_HANDLER_ANDROID_H_
 

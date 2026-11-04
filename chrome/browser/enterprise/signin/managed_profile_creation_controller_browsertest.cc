@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ManagedProfileCreationController browser tests
+// summary: Parameterized browser tests covering managed profile creation results for combinations of user choices, profile separation policies, and primary account states.
+// ---
+
 #include "chrome/browser/enterprise/signin/managed_profile_creation_controller.h"
 
 #include "base/test/bind.h"

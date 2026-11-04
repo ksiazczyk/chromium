@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EnterpriseSigninService header
+// summary: Declares EnterpriseSigninService, a desktop-only keyed service observing sync state and browser activation to prompt enterprise reauthentication.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_SIGNIN_ENTERPRISE_SIGNIN_SERVICE_H_
 #define CHROME_BROWSER_ENTERPRISE_SIGNIN_ENTERPRISE_SIGNIN_SERVICE_H_
 

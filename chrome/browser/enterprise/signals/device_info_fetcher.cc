@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device info fetcher dispatch and stub
+// summary: Selects a platform-specific device info fetcher and provides a stub instance plus testing hooks for duplicate MAC addresses.
+// ---
+
 #include "chrome/browser/enterprise/signals/device_info_fetcher.h"
 
 #include "build/build_config.h"

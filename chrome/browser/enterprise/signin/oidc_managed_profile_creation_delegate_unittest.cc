@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OIDC managed profile creation delegate unit tests
+// summary: Parameterized unit tests verifying that the delegate sets profile attributes and user preferences for both dasher-based and dasherless modes.
+// ---
+
 #include "chrome/browser/enterprise/signin/oidc_managed_profile_creation_delegate.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android browser report generator delegate header
+// summary: Declares the Android delegate implementing the BrowserReportGenerator platform hooks.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_REPORTING_BROWSER_REPORT_GENERATOR_ANDROID_H_
 #define CHROME_BROWSER_ENTERPRISE_REPORTING_BROWSER_REPORT_GENERATOR_ANDROID_H_
 

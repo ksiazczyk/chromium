@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android enterprise reporting test utilities
+// summary: Android implementation of the test helpers, including Safe Browsing verify apps and harmful apps signal checks.
+// ---
+
 #include "chrome/browser/enterprise/reporting/test/test_utils.h"
 
 #include "base/android/device_info.h"

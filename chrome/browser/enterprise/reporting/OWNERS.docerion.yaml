@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for enterprise reporting
+summary: Points to the shared OWNERS file in components/enterprise/browser/reporting that governs approvals for this directory.

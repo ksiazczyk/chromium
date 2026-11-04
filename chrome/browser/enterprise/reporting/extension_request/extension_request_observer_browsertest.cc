@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension request observer browser tests
+// summary: Browser tests verifying notification display and update metrics when extension requests are approved, rejected or force-installed through policy settings.
+// ---
+
 #include "chrome/browser/enterprise/reporting/extension_request/extension_request_observer.h"
 
 #include <algorithm>

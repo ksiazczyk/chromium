@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise test constants definitions
+// summary: Defines fake customer IDs, DM tokens, client IDs, an enrollment token and a helper that builds browser client info for policy tests.
+// ---
+
 #include "chrome/browser/enterprise/test/test_constants.h"
 
 #include "components/policy/core/common/cloud/cloud_policy_constants.h"

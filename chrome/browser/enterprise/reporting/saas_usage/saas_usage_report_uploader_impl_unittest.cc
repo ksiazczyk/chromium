@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SaaS usage report uploader unit tests
+// summary: Parameterized unit tests verifying DM token selection and upload behavior of the SaaS usage report uploader for browser and profile reporting scenarios.
+// ---
+
 #include "chrome/browser/enterprise/reporting/saas_usage/saas_usage_report_uploader_impl.h"
 
 #include <memory>

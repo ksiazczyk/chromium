@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Report scheduler unit tests
+// summary: Unit tests for the enterprise reporting report scheduler, covering upload scheduling, trigger metrics and platform-specific delegate behavior.
+// ---
+
 #include "components/enterprise/browser/reporting/report_scheduler.h"
 
 #include <memory>

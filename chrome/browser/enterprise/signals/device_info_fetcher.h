@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device info fetcher interface and DeviceInfo struct
+// summary: Declares the DeviceInfo struct and the platform-agnostic DeviceInfoFetcher interface used by chrome.enterprise.reportingPrivate.getDeviceInfo() to fetch device information, with per-platform subclasses.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_SIGNALS_DEVICE_INFO_FETCHER_H_
 #define CHROME_BROWSER_ENTERPRISE_SIGNALS_DEVICE_INFO_FETCHER_H_
 

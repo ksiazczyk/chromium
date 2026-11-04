@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension request report generator unit tests
+// summary: Unit tests verifying report generation for pending and uploaded extension requests under different extension management settings.
+// ---
+
 #include "chrome/browser/enterprise/reporting/extension_request/extension_request_report_generator.h"
 
 #include "base/json/json_reader.h"

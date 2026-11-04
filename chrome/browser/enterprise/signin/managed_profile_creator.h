@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManagedProfileCreator class header
+// summary: Declares ManagedProfileCreator and its ManagedProfileCreationDelegate interface for creating and setting up managed Chrome profiles.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_SIGNIN_MANAGED_PROFILE_CREATOR_H_
 #define CHROME_BROWSER_ENTERPRISE_SIGNIN_MANAGED_PROFILE_CREATOR_H_
 

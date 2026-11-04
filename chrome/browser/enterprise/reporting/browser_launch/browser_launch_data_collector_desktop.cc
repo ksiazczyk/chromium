@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser launch data collector for desktop
+// summary: Implements the desktop browser launch data collector that gathers command line switch keys, including flags enabled via the flags UI, and the process creation time into a browser launch event.
+// ---
+
 #include "chrome/browser/enterprise/reporting/browser_launch/browser_launch_data_collector_desktop.h"
 
 #include <algorithm>

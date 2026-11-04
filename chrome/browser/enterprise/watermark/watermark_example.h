@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the watermark views example
+// summary: Declares the WatermarkExample views example class and its watermark text area control.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_WATERMARK_WATERMARK_EXAMPLE_H_
 #define CHROME_BROWSER_ENTERPRISE_WATERMARK_WATERMARK_EXAMPLE_H_
 

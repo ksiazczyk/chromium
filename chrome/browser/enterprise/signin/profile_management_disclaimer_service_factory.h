@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile management disclaimer service factory header
+// summary: Declares the ProfileKeyedServiceFactory that provides per-profile ProfileManagementDisclaimerService instances.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_SIGNIN_PROFILE_MANAGEMENT_DISCLAIMER_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ENTERPRISE_SIGNIN_PROFILE_MANAGEMENT_DISCLAIMER_SERVICE_FACTORY_H_
 

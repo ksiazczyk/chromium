@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android app info generator unit tests
+// summary: Unit tests verifying AndroidAppInfoGenerator output for ARC apps, packages and permission states.
+// ---
+
 #include "chrome/browser/enterprise/reporting/android_app_info_generator.h"
 
 #include <memory>

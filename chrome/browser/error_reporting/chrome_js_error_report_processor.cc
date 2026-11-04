@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome JavaScript error report processor implementation
+// summary: Implements Chrome's JavaScript error report processor, including stack trace cleanup, message redaction and truncation, and report upload handling.
+// ---
+
 #include "chrome/browser/error_reporting/chrome_js_error_report_processor.h"
 
 #include <stddef.h>

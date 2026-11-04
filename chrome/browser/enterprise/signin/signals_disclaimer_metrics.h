@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise signals disclaimer metrics definitions
+// summary: Defines histogram names and enums tracking when the enterprise signals disclaimer modal and profile picker are shown and how users respond.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_SIGNIN_SIGNALS_DISCLAIMER_METRICS_H_
 #define CHROME_BROWSER_ENTERPRISE_SIGNIN_SIGNALS_DISCLAIMER_METRICS_H_
 

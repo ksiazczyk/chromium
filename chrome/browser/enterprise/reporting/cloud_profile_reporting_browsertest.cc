@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cloud profile reporting browser tests
+// summary: Browser tests verifying that the cloud profile reporting service schedules reports according to profile and security signals reporting policies.
+// ---
+
 #include <tuple>
 
 #include "base/test/run_until.h"

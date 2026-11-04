@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS delegation to crash reporting component
+summary: Delegates directory code ownership to the OWNERS file of components/crash/content/browser/error_reporting.

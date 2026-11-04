@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for enterprise signin
+summary: Defines GN source sets for test support mocks, unit tests and browser tests of the enterprise signin code.

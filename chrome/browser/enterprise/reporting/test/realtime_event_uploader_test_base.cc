@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Realtime event uploader test base implementation
+// summary: Implements the RealtimeEventUploaderTestBase fixture and MockRealtimeReportingClient used by real-time event uploader unit tests.
+// ---
+
 #include "chrome/browser/enterprise/reporting/test/realtime_event_uploader_test_base.h"
 
 #include <memory>

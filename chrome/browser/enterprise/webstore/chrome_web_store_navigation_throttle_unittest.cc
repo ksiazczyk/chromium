@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome Web Store navigation throttle unit tests
+// summary: Unit tests verifying that DM token and client ID headers are set for Chrome Web Store navigations and omitted elsewhere, including incognito.
+// ---
+
 #include "chrome/browser/enterprise/webstore/chrome_web_store_navigation_throttle.h"
 
 #include <memory>

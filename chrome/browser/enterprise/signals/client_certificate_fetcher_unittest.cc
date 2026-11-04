@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for client certificate fetcher
+// summary: Tests auto-selected certificate fetching using mocked cert stores, test certificates, and auto-select content settings filters.
+// ---
+
 #include "chrome/browser/enterprise/signals/client_certificate_fetcher.h"
 
 #include <vector>

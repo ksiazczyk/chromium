@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS security reporting browser tests
+// summary: Browser tests verifying security profile report uploads on ChromeOS, including cookie capture and device policy setup.
+// ---
+
 #include "ash/constants/ash_pref_names.h"
 #include "base/run_loop.h"
 #include "base/strings/strcat.h"

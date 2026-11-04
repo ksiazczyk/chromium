@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows device info fetcher implementation
+// summary: Implements DeviceInfoFetcher on Windows, adding Windows machine and user domains and secure boot status to the collected device information.
+// ---
+
 #include "chrome/browser/enterprise/signals/device_info_fetcher_win.h"
 
 #include "base/strings/string_number_conversions.h"

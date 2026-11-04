@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OIDC enrollment metrics utilities
+// summary: Implements UMA histogram recording for OIDC enrollment interception and profile creation funnel steps, results, and registration and policy fetch latencies.
+// ---
+
 #include "chrome/browser/enterprise/signin/oidc_metrics_utils.h"
 
 #include "base/metrics/histogram_functions.h"

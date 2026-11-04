@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop report generator delegate implementation
+// summary: Implements the desktop report generator delegate, adding Android app information to device reports on Chrome OS from the primary profile's ARC app list.
+// ---
+
 #include "chrome/browser/enterprise/reporting/report_generator_desktop.h"
 
 #include <utility>

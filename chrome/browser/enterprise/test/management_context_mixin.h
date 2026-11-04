@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Management context mixin for browser tests
+// summary: Declares a browser test mixin that simplifies cloud management setup, letting tests manage a cloud user and set user or machine cloud policies.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_TEST_MANAGEMENT_CONTEXT_MIXIN_H_
 #define CHROME_BROWSER_ENTERPRISE_TEST_MANAGEMENT_CONTEXT_MIXIN_H_
 

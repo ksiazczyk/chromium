@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Realtime event upload helper
+// summary: Prepares real-time enterprise event uploads by locating the reporting client and retrieving the appropriate browser or profile DM token.
+// ---
+
 #include "chrome/browser/enterprise/reporting/realtime_event_upload_helper.h"
 
 #include <optional>

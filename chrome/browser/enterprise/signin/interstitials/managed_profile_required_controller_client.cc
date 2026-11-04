@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed profile required interstitial controller client implementation
+// summary: Implements the controller client for the managed profile required interstitial, setting up metrics reporting with the managed_profile_required prefix and handling navigation back.
+// ---
+
 #include "chrome/browser/enterprise/signin/interstitials/managed_profile_required_controller_client.h"
 
 #include <memory>

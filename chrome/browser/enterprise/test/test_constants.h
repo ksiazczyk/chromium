@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise test constants declarations
+// summary: Declares shared fake identifiers and tokens used by enterprise management tests, plus a helper to create browser client info.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_TEST_TEST_CONSTANTS_H_
 #define CHROME_BROWSER_ENTERPRISE_TEST_TEST_CONSTANTS_H_
 

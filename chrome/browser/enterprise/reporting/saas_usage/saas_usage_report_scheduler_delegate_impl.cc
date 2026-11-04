@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SaaS usage report scheduler delegate implementation
+// summary: Implements the browser-level scheduler delegate that observes profile additions and removals and signals readiness when a profile with a RealtimeReportingClient exists.
+// ---
+
 #include "chrome/browser/enterprise/reporting/saas_usage/saas_usage_report_scheduler_delegate_impl.h"
 
 #include "chrome/browser/browser_process.h"

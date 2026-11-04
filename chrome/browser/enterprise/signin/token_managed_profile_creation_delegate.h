@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Token managed profile creation delegate header
+// summary: Declares a ManagedProfileCreationDelegate that attaches an enrollment token to profiles created for token-based profile management.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_SIGNIN_TOKEN_MANAGED_PROFILE_CREATION_DELEGATE_H_
 #define CHROME_BROWSER_ENTERPRISE_SIGNIN_TOKEN_MANAGED_PROFILE_CREATION_DELEGATE_H_
 

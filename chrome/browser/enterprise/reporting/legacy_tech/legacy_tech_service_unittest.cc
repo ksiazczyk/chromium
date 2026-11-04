@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the legacy tech service
+// summary: Unit tests verifying report triggering for disabled, unmatched, and matched policy URLs, including cookie issue details.
+// ---
+
 #include "chrome/browser/enterprise/reporting/legacy_tech/legacy_tech_service.h"
 
 #include <functional>

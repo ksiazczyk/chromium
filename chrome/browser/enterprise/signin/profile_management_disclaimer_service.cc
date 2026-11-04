@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile management disclaimer service implementation
+// summary: Implements a keyed service that shows enterprise management disclaimers at startup for profiles with managed accounts that have not accepted profile management.
+// ---
+
 #include "chrome/browser/enterprise/signin/profile_management_disclaimer_service.h"
 
 #include <memory>

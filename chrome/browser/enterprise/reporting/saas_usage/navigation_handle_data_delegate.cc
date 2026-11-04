@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation handle data delegate implementation
+// summary: Implements the delegate that exposes a navigation's URL and encryption protocol to the SaaS usage reporting controller.
+// ---
+
 #include "chrome/browser/enterprise/reporting/saas_usage/navigation_handle_data_delegate.h"
 
 #include <optional>

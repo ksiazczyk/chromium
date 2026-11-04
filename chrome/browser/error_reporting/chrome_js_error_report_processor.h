@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome JavaScript error report processor header
+// summary: Declares ChromeJsErrorReportProcessor, Chrome's implementation of the JavaScript error reporter, with testing hooks and platform-specific report sending.
+// ---
+
 #ifndef CHROME_BROWSER_ERROR_REPORTING_CHROME_JS_ERROR_REPORT_PROCESSOR_H_
 #define CHROME_BROWSER_ERROR_REPORTING_CHROME_JS_ERROR_REPORT_PROCESSOR_H_
 

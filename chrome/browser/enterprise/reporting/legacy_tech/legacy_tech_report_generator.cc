@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LegacyTechReportGenerator implementation
+// summary: Implements generation of legacy tech usage events, sanitizing URLs and mapping cookie issue details into the report protobuf.
+// ---
+
 #include "chrome/browser/enterprise/reporting/legacy_tech/legacy_tech_report_generator.h"
 
 #include "components/enterprise/common/proto/synced/legacy_tech_events.pb.h"

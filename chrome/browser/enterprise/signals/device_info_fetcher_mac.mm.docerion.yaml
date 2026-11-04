@@ -1,0 +1,4 @@
+# Docerion header of device_info_fetcher_mac.mm.
+type: source
+title: Mac device info fetcher implementation
+summary: Implements DeviceInfoFetcher on macOS, collecting OS version, host name, device model, serial number, screen lock, disk encryption and MAC addresses.

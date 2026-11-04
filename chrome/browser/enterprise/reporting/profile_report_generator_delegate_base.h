@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile report generator delegate base
+// summary: Base desktop and Android implementation of the profile reporting delegate that fills sign-in, affiliation, profile ID, name, and extension info into profile reports.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_REPORTING_PROFILE_REPORT_GENERATOR_DELEGATE_BASE_H_
 #define CHROME_BROWSER_ENTERPRISE_REPORTING_PROFILE_REPORT_GENERATOR_DELEGATE_BASE_H_
 
