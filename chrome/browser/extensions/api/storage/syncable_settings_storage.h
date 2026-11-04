@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncableSettingsStorage class declaration
+// summary: Declares SyncableSettingsStorage, a ValueStore decorator that adds sync behavior to extension settings storage areas, including start and stop syncing and processing sync changes.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_STORAGE_SYNCABLE_SETTINGS_STORAGE_H_
 #define CHROME_BROWSER_EXTENSIONS_API_STORAGE_SYNCABLE_SETTINGS_STORAGE_H_
 

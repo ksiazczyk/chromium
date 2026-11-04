@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System display extension API browser tests
+// summary: Browser tests for the chrome.system.display extension API, covering ChromeOS kiosk-only restrictions and display property updates through a mock display info provider.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

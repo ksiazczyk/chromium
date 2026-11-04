@@ -4,6 +4,12 @@
 
 // Constants used for the Tabs API and the Windows API.
 
+// ---docerion
+// type: source
+// title: Tabs and Windows API constants
+// summary: Declares shared serialization keys and error message strings used by the Tabs and Windows extension APIs.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_TABS_TABS_CONSTANTS_H_
 #define CHROME_BROWSER_EXTENSIONS_API_TABS_TABS_CONSTANTS_H_
 

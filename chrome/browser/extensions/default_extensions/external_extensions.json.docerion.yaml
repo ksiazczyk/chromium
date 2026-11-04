@@ -1,0 +1,4 @@
+# Docerion header of external_extensions.json.
+type: config
+title: External extensions list for the installer
+summary: JSON file intended to list extensions included in the installer, currently empty.

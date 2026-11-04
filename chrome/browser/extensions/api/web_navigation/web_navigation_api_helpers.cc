@@ -4,6 +4,12 @@
 
 // Implements the Chrome Extensions WebNavigation API.
 
+// ---docerion
+// type: source
+// title: WebNavigation API event helpers implementation
+// summary: Constructs and dispatches webNavigation extension events such as onBeforeNavigate with tab, frame, document and transition details.
+// ---
+
 #include "chrome/browser/extensions/api/web_navigation/web_navigation_api_helpers.h"
 
 #include <memory>

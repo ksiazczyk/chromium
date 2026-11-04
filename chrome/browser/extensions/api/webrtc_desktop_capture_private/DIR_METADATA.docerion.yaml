@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for webrtc_desktop_capture_private
+summary: Sets the monorail component, team email and Buganizer component used for issues in this directory.

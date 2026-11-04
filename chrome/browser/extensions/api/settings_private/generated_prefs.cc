@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GeneratedPrefs virtual preference store implementation
+// summary: Implements a keyed service that stores and dispatches virtual preferences exposed through the settingsPrivate API.
+// ---
+
 #include "chrome/browser/extensions/api/settings_private/generated_prefs.h"
 
 #include "base/feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ErrorConsoleTestObserver header
+// summary: Declares a test helper observer that enables error collection and waits for extension errors during tests.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_ERROR_CONSOLE_ERROR_CONSOLE_TEST_OBSERVER_H_
 #define CHROME_BROWSER_EXTENSIONS_ERROR_CONSOLE_ERROR_CONSOLE_TEST_OBSERVER_H_
 

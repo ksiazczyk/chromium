@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefsUtil settingsPrivate preference utility implementation
+// summary: Implements the allowlist and get and set logic that lets the settingsPrivate API read and modify Chrome preferences across profile and device services.
+// ---
+
 #include "chrome/browser/extensions/api/settings_private/prefs_util.h"
 
 #include <memory>

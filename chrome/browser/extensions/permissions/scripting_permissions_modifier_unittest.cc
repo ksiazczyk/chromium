@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scripting permissions modifier unit tests
+// summary: Unit tests for ScriptingPermissionsModifier behavior around withholding and granting host permissions for extensions.
+// ---
+
 #include "extensions/browser/permissions/scripting_permissions_modifier.h"
 
 #include <utility>

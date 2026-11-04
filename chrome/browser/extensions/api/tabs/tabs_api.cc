@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: chrome.tabs extension API implementation
+// summary: Implements the chrome.tabs extension API functions, including tab query, create, update, capture, zoom, and window interaction logic.
+// ---
+
 #include "chrome/browser/extensions/api/tabs/tabs_api.h"
 
 #include "base/metrics/histogram_functions.h"

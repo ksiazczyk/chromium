@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Force-installed extension tracker implementation
+// summary: Tracks installation status of policy force-installed extensions and notifies observers about state changes.
+// ---
+
 #include "chrome/browser/extensions/forced_extensions/force_installed_tracker.h"
 
 #include "base/functional/bind.h"

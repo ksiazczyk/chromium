@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SettingsSyncProcessor implementation
+// summary: Implements the per-extension sync processor that translates setting changes into sync add, update and delete operations and tracks synced keys.
+// ---
+
 #include "chrome/browser/extensions/api/storage/settings_sync_processor.h"
 
 #include "base/logging.h"

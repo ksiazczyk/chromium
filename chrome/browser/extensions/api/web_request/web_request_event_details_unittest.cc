@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for webRequest event details
+// summary: Unit tests verifying how webRequest event details filter and expose response headers, including special handling for Gaia URLs and status lines.
+// ---
+
 #include "extensions/browser/api/web_request/web_request_event_details.h"
 
 #include <memory>

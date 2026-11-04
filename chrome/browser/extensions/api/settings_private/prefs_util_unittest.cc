@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrefsUtil unit tests
+// summary: Unit tests verifying allowlisted preference get and set behavior, type mismatch handling and URL fixing in PrefsUtil.
+// ---
+
 #include "chrome/browser/extensions/api/settings_private/prefs_util.h"
 
 #include <optional>

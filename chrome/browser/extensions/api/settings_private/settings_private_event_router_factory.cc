@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SettingsPrivateEventRouterFactory implementation
+// summary: Implements the per-profile keyed service factory that creates SettingsPrivateEventRouter instances and declares dependencies on related factories.
+// ---
+
 #include "chrome/browser/extensions/api/settings_private/settings_private_event_router_factory.h"
 
 #include "chrome/browser/extensions/api/settings_private/generated_prefs_factory.h"

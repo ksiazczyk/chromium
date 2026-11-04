@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup status printer implementation
+// summary: Implements a terminal printer that renders progress spinners, stage bars, errors and success messages using ANSI escape sequences.
+// ---
+
 #include "chrome/browser/extensions/api/terminal/startup_status.h"
 
 #include <unistd.h>

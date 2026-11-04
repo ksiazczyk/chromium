@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UserScripts API browser test implementation
+// summary: Implements the UserScriptsAPITest fixture that loads extensions, enables the userScripts API, and checks injected user scripts in browser tests.
+// ---
+
 #include "chrome/browser/extensions/api/user_scripts/user_scripts_apitest.h"
 
 #include "base/one_shot_event.h"

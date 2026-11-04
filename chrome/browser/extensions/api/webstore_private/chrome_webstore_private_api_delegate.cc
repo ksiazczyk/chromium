@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome implementation of the WebstorePrivate API delegate
+// summary: Implements the Chrome-side delegate for the webstore_private extension API, supplying service dependencies, allowlist and identity access, install dialogs and Safe Browsing hooks.
+// ---
+
 #include "chrome/browser/extensions/api/webstore_private/chrome_webstore_private_api_delegate.h"
 
 #include <memory>

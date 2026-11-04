@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TCP socket unit tests
+// summary: Unit tests for the extensions TCPSocket class covering connect, listen, read, and write flows.
+// ---
+
 #include "extensions/browser/api/socket/tcp_socket.h"
 
 #include <memory>

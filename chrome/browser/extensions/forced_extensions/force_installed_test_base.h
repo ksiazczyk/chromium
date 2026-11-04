@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test base class for force-installed extension tests
+// summary: Declares a test fixture with helpers to configure the ExtensionInstallForcelist policy and fake extension states.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_FORCED_EXTENSIONS_FORCE_INSTALLED_TEST_BASE_H_
 #define CHROME_BROWSER_EXTENSIONS_FORCED_EXTENSIONS_FORCE_INSTALLED_TEST_BASE_H_
 

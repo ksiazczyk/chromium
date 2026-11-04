@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmarks feature flag declarations
+// summary: Declares the kEnforceBookmarkVisibilityOnExtensionsAPI feature that controls strict bookmark visibility enforcement for read and write operations.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_BOOKMARKS_BOOKMARKS_FEATURES_H_
 #define CHROME_BROWSER_EXTENSIONS_BOOKMARKS_BOOKMARKS_FEATURES_H_
 

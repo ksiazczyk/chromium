@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote session state change notifier implementation
+// summary: Implements a file watcher that monitors a per-extension file in a well-known directory and broadcasts onRemoteSessionStateChange events for the webAuthenticationProxy API.
+// ---
+
 #include "chrome/browser/extensions/api/web_authentication_proxy/remote_session_state_change.h"
 
 #include <memory>

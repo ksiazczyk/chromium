@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side panel extension API function implementations
+// summary: Implements the chrome.sidePanel extension functions such as getOptions, setOptions, panel behavior, open, and close, including user gesture and window ID validation.
+// ---
+
 #include "chrome/browser/extensions/api/side_panel/side_panel_api.h"
 
 #include <optional>

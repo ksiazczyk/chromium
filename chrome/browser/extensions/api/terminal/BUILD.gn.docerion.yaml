@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Terminal extension API build definition
+summary: Defines GN source sets for the terminal private extension API and the startup status printer with their dependencies.

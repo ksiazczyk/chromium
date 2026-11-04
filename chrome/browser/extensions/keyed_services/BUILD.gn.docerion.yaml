@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Keyed service factories build target
+summary: Defines the keyed_service_factories source_set collecting Chrome extensions keyed service factories so separate builds can depend on it without all of //chrome/browser/extensions.

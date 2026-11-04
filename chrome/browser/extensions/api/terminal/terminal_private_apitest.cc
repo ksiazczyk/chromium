@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Terminal private API browser tests
+// summary: Browser tests exercising the terminal private API through a cat process and a component extension.
+// ---
+
 #include "base/command_line.h"
 #include "base/files/file_path.h"
 #include "base/functional/bind.h"

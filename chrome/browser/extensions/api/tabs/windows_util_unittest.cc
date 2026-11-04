@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for windows_util incognito handling
+// summary: Unit tests verifying ShouldOpenIncognitoWindow behavior when incognito is disabled, forced, or URLs cannot be opened incognito.
+// ---
+
 #include "chrome/browser/extensions/api/tabs/windows_util.h"
 
 #include <string>

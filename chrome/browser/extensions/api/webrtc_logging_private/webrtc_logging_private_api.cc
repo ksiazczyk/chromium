@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the webrtcLoggingPrivate extension API
+// summary: Implements the browser-side extension functions for WebRTC logging, including start, stop, store, upload, RTP dump, event logging and audio debug recordings.
+// ---
+
 #include "chrome/browser/extensions/api/webrtc_logging_private/webrtc_logging_private_api.h"
 
 #include <memory>

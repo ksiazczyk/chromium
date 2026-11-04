@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SocketsTcpServer API browser tests
+// summary: In-process browser tests for the sockets.tcpServer extension API covering socket creation, an extension-driven server test, and a disabled unload-rebind test.
+// ---
+
 #include <utility>
 
 #include "base/memory/ref_counted.h"

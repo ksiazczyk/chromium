@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tabs API shared utility declarations
+// summary: Declares shared helpers used by the chrome.tabs and chrome.windows API implementations for tab lookup and moving tabs between windows.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_TABS_TABS_UTIL_H_
 #define CHROME_BROWSER_EXTENSIONS_API_TABS_TABS_UTIL_H_
 

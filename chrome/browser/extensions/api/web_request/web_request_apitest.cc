@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the extension webRequest API
+// summary: End-to-end extension API browser tests exercising webRequest event handling, proxy settings, service workers, and related behaviors in Chrome.
+// ---
+
 #include <array>
 #include <memory>
 #include <optional>

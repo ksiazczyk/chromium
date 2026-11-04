@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: web_navigation_api_helpers.h
+// summary: Header declaring helper functions that compute frame IDs and create or dispatch webNavigation API events such as onBeforeNavigate, onCommitted, and onCompleted.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_WEB_NAVIGATION_WEB_NAVIGATION_API_HELPERS_H_
 #define CHROME_BROWSER_EXTENSIONS_API_WEB_NAVIGATION_WEB_NAVIGATION_API_HELPERS_H_
 

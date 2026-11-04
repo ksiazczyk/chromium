@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ErrorConsoleTestObserver implementation
+// summary: Implements a test helper that observes reported extension errors and waits until the expected number of errors has been seen.
+// ---
+
 #include "chrome/browser/extensions/error_console/error_console_test_observer.h"
 
 #include "chrome/browser/profiles/profile.h"

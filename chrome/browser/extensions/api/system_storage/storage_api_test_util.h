@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage API test utility header
+// summary: Declares the TestStorageUnitInfo struct and a helper that builds StorageInfo for system.storage API tests.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_SYSTEM_STORAGE_STORAGE_API_TEST_UTIL_H_
 #define CHROME_BROWSER_EXTENSIONS_API_SYSTEM_STORAGE_STORAGE_API_TEST_UTIL_H_
 

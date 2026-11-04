@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebView API test base class header
+// summary: Declares the WebViewAPITest base class and WebViewDPIAPITest used to run WebView extension API browser tests, with helpers for launching apps and managing the test server.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_GUEST_VIEW_WEB_VIEW_WEB_VIEW_APITEST_H_
 #define CHROME_BROWSER_EXTENSIONS_GUEST_VIEW_WEB_VIEW_WEB_VIEW_APITEST_H_
 

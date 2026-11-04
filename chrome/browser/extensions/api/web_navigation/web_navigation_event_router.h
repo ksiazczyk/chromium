@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: web_navigation_event_router.h
+// summary: Header for the webNavigation event router class that records new WebContents and routes tab creation and replacement events to the extension system.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_WEB_NAVIGATION_WEB_NAVIGATION_EVENT_ROUTER_H_
 #define CHROME_BROWSER_EXTENSIONS_API_WEB_NAVIGATION_WEB_NAVIGATION_EVENT_ROUTER_H_
 

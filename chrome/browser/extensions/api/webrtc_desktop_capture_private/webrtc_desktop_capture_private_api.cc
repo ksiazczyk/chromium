@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private WebRTC desktop capture extension API implementation
+// summary: Implements the webrtcDesktopCapturePrivate.chooseDesktopMedia function, enforcing secure origins for capture targets, and the cancel function.
+// ---
+
 #include "chrome/browser/extensions/api/webrtc_desktop_capture_private/webrtc_desktop_capture_private_api.h"
 
 #include "base/command_line.h"

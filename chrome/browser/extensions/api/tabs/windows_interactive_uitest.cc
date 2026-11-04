@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive UI tests for the windows extension API
+// summary: Runs interactive browser tests for chrome.windows API functions such as getting the last focused window and window focus behavior.
+// ---
+
 #include <stddef.h>
 
 #include "apps/test/app_window_waiter.h"

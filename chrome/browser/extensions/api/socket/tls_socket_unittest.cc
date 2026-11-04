@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TLS socket unit tests
+// summary: Unit tests for the extensions TLSSocket class, including upgrading connected TCP sockets to TLS.
+// ---
+
 #include "extensions/browser/api/socket/tls_socket.h"
 
 #include <memory>

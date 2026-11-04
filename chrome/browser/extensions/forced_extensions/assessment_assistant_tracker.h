@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Assessment Assistant tracker class declaration
+// summary: Declares the AssessmentAssistantTracker observer service and its browser context keyed service factory.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_FORCED_EXTENSIONS_ASSESSMENT_ASSISTANT_TRACKER_H_
 #define CHROME_BROWSER_EXTENSIONS_FORCED_EXTENSIONS_ASSESSMENT_ASSISTANT_TRACKER_H_
 

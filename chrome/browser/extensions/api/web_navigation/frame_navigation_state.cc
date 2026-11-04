@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameNavigationState implementation
+// summary: Implements per-frame navigation state tracking, including valid URL checks and error, loading and parsing status, for the webNavigation API.
+// ---
+
 #include "chrome/browser/extensions/api/web_navigation/frame_navigation_state.h"
 
 #include "base/check.h"

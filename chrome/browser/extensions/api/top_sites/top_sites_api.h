@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Top sites extension API header
+// summary: Declares the TopSitesGetFunction extension function that serves the topSites.get API for extensions.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_TOP_SITES_TOP_SITES_API_H_
 #define CHROME_BROWSER_EXTENSIONS_API_TOP_SITES_TOP_SITES_API_H_
 

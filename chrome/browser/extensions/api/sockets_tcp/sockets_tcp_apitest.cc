@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sockets TCP extension API browser tests
+// summary: Browser tests for the chrome.sockets.tcp extension API, verifying socket creation, hostname resolution in connect(), and DNS NetworkAnonymizationKey partitioning.
+// ---
+
 #include <utility>
 
 #include "base/command_line.h"

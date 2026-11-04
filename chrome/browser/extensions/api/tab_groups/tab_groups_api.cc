@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the chrome.tabGroups extension functions
+// summary: Implements the tabGroups get, query, update and move extension functions, including validation of group move targets.
+// ---
+
 #include "chrome/browser/extensions/api/tab_groups/tab_groups_api.h"
 
 #include <memory>

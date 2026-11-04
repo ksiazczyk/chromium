@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web file handlers permission handler implementation
+// summary: Implements the permission handler that shows the file launch dialog for extensions and remembers the user's allow or deny choice in extension prefs.
+// ---
+
 #include "chrome/browser/extensions/file_handlers/web_file_handlers_permission_handler.h"
 
 #include <memory>

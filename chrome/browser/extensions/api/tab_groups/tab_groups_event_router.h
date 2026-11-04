@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the TabGroupsEventRouter service
+// summary: Declares the TabGroupsEventRouter keyed service that routes tab group events to extension processes within the same profile.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_TAB_GROUPS_TAB_GROUPS_EVENT_ROUTER_H_
 #define CHROME_BROWSER_EXTENSIONS_API_TAB_GROUPS_TAB_GROUPS_EVENT_ROUTER_H_
 

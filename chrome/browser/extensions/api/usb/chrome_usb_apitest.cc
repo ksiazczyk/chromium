@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome USB API browser test with policy-granted devices
+// summary: Browser test for the chrome.usb extension API that uses a fake USB device manager to verify device enumeration, including devices allowed by enterprise policy.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "base/test/gmock_callback_support.h"
 #include "base/test/values_test_util.h"

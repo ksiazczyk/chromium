@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the chrome.sidePanel extension API
+// summary: Runs in-process browser tests covering side panel functionality, permissions, manifest keys, panel behavior, and option fallbacks when extensions are disabled or uninstalled.
+// ---
+
 #include <optional>
 
 #include "chrome/browser/extensions/api/side_panel/side_panel_service.h"

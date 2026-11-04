@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebNavigation API constants implementation
+// summary: Defines string constants for webNavigation event detail keys such as tabId, frameId, url and timeStamp.
+// ---
+
 #include "chrome/browser/extensions/api/web_navigation/web_navigation_api_constants.h"
 
 #include "extensions/buildflags/buildflags.h"

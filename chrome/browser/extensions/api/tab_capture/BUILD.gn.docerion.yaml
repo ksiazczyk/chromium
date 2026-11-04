@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tab capture build target definition
+summary: Defines the tab_capture source set with its sources and build dependencies for the GN build.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tabs API shared utility implementations
+// summary: Implements helpers to look up tabs by ID, validate tab moves, and move tabs between browser windows for the tabs and windows APIs.
+// ---
+
 #include "chrome/browser/extensions/api/tabs/tabs_util.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permissions updater browser tests
+// summary: Browser tests for PermissionsUpdater, including that permission updates for disabled extensions do not reach the renderer.
+// ---
+
 #include "extensions/browser/permissions/permissions_updater.h"
 
 #include "chrome/browser/extensions/extension_browsertest.h"

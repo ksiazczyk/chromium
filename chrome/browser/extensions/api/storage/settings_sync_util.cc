@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings sync utility implementation
+// summary: Implements helpers that build SyncData and SyncChange objects, client tags and syncable service providers for extension and app settings.
+// ---
+
 #include "chrome/browser/extensions/api/storage/settings_sync_util.h"
 
 #include "base/functional/bind.h"

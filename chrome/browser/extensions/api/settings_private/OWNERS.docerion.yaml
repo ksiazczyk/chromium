@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners list for settings_private
+summary: Points to the ChromeOS Settings OWNERS files that must review changes in this directory.

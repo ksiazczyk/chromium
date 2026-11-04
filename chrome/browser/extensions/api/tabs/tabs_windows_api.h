@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabsWindowsAPI class declaration
+// summary: Declares the keyed API that owns the TabsEventRouter and WindowsEventRouter and dispatches their events to extension listeners.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_TABS_TABS_WINDOWS_API_H_
 #define CHROME_BROWSER_EXTENSIONS_API_TABS_TABS_WINDOWS_API_H_
 

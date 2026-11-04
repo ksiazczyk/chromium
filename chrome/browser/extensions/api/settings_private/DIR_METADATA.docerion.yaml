@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for settings_private
+summary: Maps the directory to the UI>Settings monorail component and a Buganizer component ID for issue routing.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Component extensions allowlist OWNERS
+summary: Requires Extensions Tech Lead approval for adding new component extensions and delegates to EXTENSION_ALLOWLIST_OWNERS.

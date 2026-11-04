@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommandService class declaration
+// summary: Declares the service tracking extension command keybindings, including query types, command scopes, and observer notifications for added and removed commands.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_COMMANDS_COMMAND_SERVICE_H_
 #define CHROME_BROWSER_EXTENSIONS_COMMANDS_COMMAND_SERVICE_H_
 

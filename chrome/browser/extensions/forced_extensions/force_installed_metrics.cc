@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Force-installed extension metrics implementation
+// summary: Reports UMA histograms about force-installed extension installation status, failures, stages and user session types.
+// ---
+
 #include "chrome/browser/extensions/forced_extensions/force_installed_metrics.h"
 
 #include <set>

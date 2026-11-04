@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: webAuthenticationProxy API browser tests
+// summary: Extension API browser tests covering proxy attach and detach, WebAuthn request interception and remote session state change events.
+// ---
+
 #include "base/files/file.h"
 #include "base/files/file_path.h"
 #include "base/files/file_util.h"

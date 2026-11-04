@@ -4,6 +4,12 @@
 
 // Constants used for the WebNavigation API.
 
+// ---docerion
+// type: source
+// title: WebNavigation API constants header
+// summary: Declares string constants for webNavigation event detail keys and event names such as onBeforeNavigate and onCommitted.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_WEB_NAVIGATION_WEB_NAVIGATION_API_CONSTANTS_H_
 #define CHROME_BROWSER_EXTENSIONS_API_WEB_NAVIGATION_WEB_NAVIGATION_API_CONSTANTS_H_
 

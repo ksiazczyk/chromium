@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EnsureChromeBrowserContextKeyedServiceFactoriesBuilt declaration
+// summary: Declares EnsureChromeBrowserContextKeyedServiceFactoriesBuilt, which ensures the existence of BrowserContextKeyedServiceFactory instances from Chrome extensions code.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_KEYED_SERVICES_CHROME_BROWSER_CONTEXT_KEYED_SERVICE_FACTORIES_H_
 #define CHROME_BROWSER_EXTENSIONS_KEYED_SERVICES_CHROME_BROWSER_CONTEXT_KEYED_SERVICE_FACTORIES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Top sites extension API implementation
+// summary: Implements the topSites.get extension function that returns the profile's most visited URLs as a list of url and title entries.
+// ---
+
 #include "chrome/browser/extensions/api/top_sites/top_sites_api.h"
 
 #include <stddef.h>

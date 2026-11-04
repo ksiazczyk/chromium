@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: USB extension API browser test for Chrome OS
+// summary: Browser test for the Chrome OS USB extension API that exercises permission prompts, device opening, and control, bulk, and isochronous transfers against fake USB devices.
+// ---
+
 #include <stddef.h>
 
 #include <numeric>

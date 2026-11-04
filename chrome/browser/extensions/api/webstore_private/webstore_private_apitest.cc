@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the webstore_private API
+// summary: Browser tests exercising webstore_private extension install flows, including install prompts, policy blocking, supervised user approvals and Safe Browsing behavior.
+// ---
+
 #include <memory>
 #include <optional>
 #include <vector>

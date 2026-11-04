@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the webstore_private API
+// summary: Unit tests for webstore_private API functions, covering install success and error paths, policy-based blocking and permission restrictions.
+// ---
+
 #include <optional>
 #include <string_view>
 #include <vector>

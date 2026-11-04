@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the tab groups API directory
+summary: Delegates code ownership to the owners of chrome/browser/ui/tabs.

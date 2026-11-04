@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SettingSyncData implementation
+// summary: Implements extraction of extension or app setting data, including extension ID, key, and JSON value, from sync data and sync changes.
+// ---
+
 #include "chrome/browser/extensions/api/storage/setting_sync_data.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebView API browser test implementation
+// summary: Implements the WebViewAPITest browser test fixture for the WebView extension API, including embedded test server setup, app launching, and test helpers.
+// ---
+
 #include "chrome/browser/extensions/guest_view/web_view/web_view_apitest.h"
 
 #include <memory>

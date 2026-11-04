@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Generated pref test base declaration
+// summary: Declares pref setting and source enums, helper functions, a test observer, and a fixture base class for generated pref tests.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_SETTINGS_PRIVATE_GENERATED_PREF_TEST_BASE_H_
 #define CHROME_BROWSER_EXTENSIONS_API_SETTINGS_PRIVATE_GENERATED_PREF_TEST_BASE_H_
 

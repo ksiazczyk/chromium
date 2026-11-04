@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmarks feature flag definitions
+// summary: Defines the kEnforceBookmarkVisibilityOnExtensionsAPI feature, enabled by default, which enforces bookmark visibility on the extensions API.
+// ---
+
 #include "chrome/browser/extensions/bookmarks/bookmarks_features.h"
 
 #include "base/feature_list.h"

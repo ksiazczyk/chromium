@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Active tab extension API browser tests
+// summary: Browser tests for the activeTab extension API, checking permission grants on extension actions and revocation on navigation.
+// ---
+
 #include <memory>
 
 #include "base/functional/bind.h"

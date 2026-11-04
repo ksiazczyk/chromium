@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SettingsPrivateEventRouter unit tests
+// summary: Unit tests for the settingsPrivate event router, including a regression test ensuring incognito profile events are not routed to regular profiles.
+// ---
+
 #include "chrome/browser/extensions/api/settings_private/settings_private_event_router.h"
 
 #include "base/test/run_until.h"

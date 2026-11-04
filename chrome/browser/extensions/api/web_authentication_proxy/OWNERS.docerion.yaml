@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for web_authentication_proxy
+summary: Delegates code ownership of this directory to the owners of device/fido.

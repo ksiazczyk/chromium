@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: VPN provider directory metadata
+summary: Maps the vpn_provider API directory to Buganizer component 156085 and the OS>Systems>Network monorail component for issue routing.

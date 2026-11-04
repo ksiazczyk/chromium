@@ -5,6 +5,12 @@
 // Defines the Chrome Extensions WebNavigation API functions for observing and
 // intercepting navigation events, as specified in the extension JSON API.
 
+// ---docerion
+// type: source
+// title: WebNavigation API header
+// summary: Declares the webNavigation.getFrame and getAllFrames extension functions and the WebNavigationAPI BrowserContextKeyedAPI service.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_WEB_NAVIGATION_WEB_NAVIGATION_API_H_
 #define CHROME_BROWSER_EXTENSIONS_API_WEB_NAVIGATION_WEB_NAVIGATION_API_H_
 

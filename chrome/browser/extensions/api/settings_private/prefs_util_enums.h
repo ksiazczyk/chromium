@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SetPrefResult enum for preference setting outcomes
+// summary: Defines the SetPrefResult enum listing success and error statuses returned when setting a preference via PrefsUtil.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_SETTINGS_PRIVATE_PREFS_UTIL_ENUMS_H_
 #define CHROME_BROWSER_EXTENSIONS_API_SETTINGS_PRIVATE_PREFS_UTIL_ENUMS_H_
 

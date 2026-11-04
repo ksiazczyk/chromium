@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncableSettingsStorage implementation
+// summary: Implements the SyncableSettingsStorage class, which decorates a ValueStore with sync behavior, forwarding storage operations to a delegate and pushing local writes to sync.
+// ---
+
 #include "chrome/browser/extensions/api/storage/syncable_settings_storage.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Force-installed tracker unit tests
+// summary: Unit tests verifying that ForceInstalledTracker reports loaded, ready and failed states for force-installed extensions, including empty force-list cases.
+// ---
+
 #include "chrome/browser/extensions/forced_extensions/force_installed_tracker.h"
 
 #include <map>

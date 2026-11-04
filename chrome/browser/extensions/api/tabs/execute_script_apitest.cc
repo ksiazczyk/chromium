@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExecuteScript extension API browser tests
+// summary: Parameterized browser tests for the chrome.tabs.executeScript API covering basic injection, frames, permissions, encoding, and mime types.
+// ---
+
 #include "base/cfi_buildflags.h"
 #include "base/path_service.h"
 #include "base/strings/string_number_conversions.h"

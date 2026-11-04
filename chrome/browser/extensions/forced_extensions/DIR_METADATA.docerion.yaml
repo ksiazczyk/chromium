@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Chromium component metadata for forced extensions
+summary: Maps the folder to the OS>Software>Enterprise>ExtensionReliability monorail component and a Buganizer component ID.

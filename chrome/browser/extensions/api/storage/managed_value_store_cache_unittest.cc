@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ManagedValueStoreCache unit tests
+// summary: Unit tests for ManagedValueStoreCache using mock policy providers, policy bundles, and a test value store factory to verify managed storage behavior.
+// ---
+
 #include "chrome/browser/extensions/api/storage/managed_value_store_cache.h"
 
 #include "base/json/json_reader.h"

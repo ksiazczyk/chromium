@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: web_navigation_event_router.cc
+// summary: Implements the webNavigation event router that tracks newly created tabs and dispatches navigation events, with separate tab tracking paths for Android and desktop.
+// ---
+
 #include "chrome/browser/extensions/api/web_navigation/web_navigation_event_router.h"
 
 #include "chrome/browser/extensions/api/web_navigation/frame_navigation_state.h"

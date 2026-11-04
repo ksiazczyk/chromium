@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the webrtc_logging_private extension API
+summary: Defines the webrtc_logging_private source set, listing its sources and dependencies for the Chromium build.

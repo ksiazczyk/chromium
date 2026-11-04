@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android-specific Tabs API regression test
+// summary: Defines a disabled Android-only browser test that regresses an Android-specific zoom bug in the Tabs API.
+// ---
+
 #include "chrome/browser/extensions/extension_apitest.h"
 #include "content/public/test/browser_test.h"
 #include "extensions/buildflags/buildflags.h"

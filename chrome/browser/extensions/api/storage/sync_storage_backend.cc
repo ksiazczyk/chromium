@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncStorageBackend implementation
+// summary: Implements the SyncableService backend that creates per-extension ValueStores with quota enforcement and routes sync changes to them.
+// ---
+
 #include "chrome/browser/extensions/api/storage/sync_storage_backend.h"
 
 #include <memory>

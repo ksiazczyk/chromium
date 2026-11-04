@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for force-installed extension metrics
+// summary: Verifies UMA reporting of force-installed extension load times, ready times, failures and installation stages.
+// ---
+
 #include "chrome/browser/extensions/forced_extensions/force_installed_metrics.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android implementation of child window checks
+// summary: Provides the Android-specific CalledFromChildWindow implementation that compares native windows for the tabs extension API.
+// ---
+
 #include "chrome/browser/extensions/api/tabs/windows_util.h"
 
 #include "chrome/browser/extensions/window_controller.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Host access requests helper unit tests
+// summary: Unit tests for the host access request helper, covering withheld host permissions and activeTab-driven access requests.
+// ---
+
 #include <optional>
 
 #include "base/auto_reset.h"

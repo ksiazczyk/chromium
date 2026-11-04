@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings private event router implementation
+// summary: Implements the router that observes user prefs, local state and ChromeOS settings changes and notifies onPrefsChanged listeners on the settingsPrivate API.
+// ---
+
 #include "chrome/browser/extensions/api/settings_private/settings_private_event_router.h"
 
 #include <utility>

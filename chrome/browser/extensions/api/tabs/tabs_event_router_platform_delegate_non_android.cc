@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Non-Android tabs event router platform delegate
+// summary: Implements the desktop platform delegate handling browser activation, split tab changes and tab lifecycle state events for the router.
+// ---
+
 #include "chrome/browser/extensions/api/tabs/tabs_event_router_platform_delegate_non_android.h"
 
 #include <utility>

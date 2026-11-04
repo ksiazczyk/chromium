@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VPN provider extension API browser tests
+// summary: Extension API tests for the third-party VPN provider, exercising parameter setting and connection state updates against a fake Shill VPN driver client.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

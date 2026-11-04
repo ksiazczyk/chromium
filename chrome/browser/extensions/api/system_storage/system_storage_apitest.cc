@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System storage API browser tests
+// summary: Browser tests for the chrome.systemStorage API using mock storage devices and a test storage info provider.
+// ---
+
 #include <stddef.h>
 
 #include <atomic>

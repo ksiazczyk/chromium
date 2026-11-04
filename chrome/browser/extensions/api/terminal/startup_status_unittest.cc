@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Startup status printer unit tests
+// summary: Unit tests verifying verbose and non-verbose progress output, error messages and ANSI escape sequences.
+// ---
+
 #include "chrome/browser/extensions/api/terminal/startup_status.h"
 
 #include <memory>

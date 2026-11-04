@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon utility implementation for extension requests
+// summary: Implements favicon fetching for extension API requests, checking permissions, parsing favicon URLs, and falling back to default favicons with dark mode support.
+// ---
+
 #include "chrome/browser/extensions/favicon/favicon_util.h"
 
 #include "base/functional/bind.h"

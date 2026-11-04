@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web file handlers permission handler class declaration
+// summary: Declares the WebFileHandlersPermissionHandler class that verifies whether files may be opened by an extension and confirms via a launch dialog callback.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_FILE_HANDLERS_WEB_FILE_HANDLERS_PERMISSION_HANDLER_H_
 #define CHROME_BROWSER_EXTENSIONS_FILE_HANDLERS_WEB_FILE_HANDLERS_PERMISSION_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sockets UDP extension API browser tests
+// summary: Browser tests for the chrome.sockets.udp extension API, covering socket creation, hostname resolution via a UDP echo server, multicast (disabled), and write quota limits.
+// ---
+
 #include "base/memory/ref_counted.h"
 #include "base/memory/scoped_refptr.h"
 #include "base/strings/stringprintf.h"

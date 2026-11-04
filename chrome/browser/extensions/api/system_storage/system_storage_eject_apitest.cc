@@ -4,6 +4,12 @@
 //
 // SystemStorage eject API browser tests.
 
+// ---docerion
+// type: test
+// title: System storage eject API browser tests
+// summary: Browser tests for the system.storage eject API, simulating attach and detach of a removable storage device.
+// ---
+
 #include "base/functional/callback_helpers.h"
 #include "base/memory/raw_ptr.h"
 #include "base/strings/stringprintf.h"

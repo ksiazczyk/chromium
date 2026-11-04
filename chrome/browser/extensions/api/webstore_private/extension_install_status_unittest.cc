@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for extension install status
+// summary: Unit tests verifying how extension install status and messages are computed, covering policy blocking, supervised users and identity requirements.
+// ---
+
 #include "extensions/browser/api/webstore_private/extension_install_status.h"
 
 #include <vector>

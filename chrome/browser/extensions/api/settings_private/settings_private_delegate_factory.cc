@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings private delegate factory implementation
+// summary: Implements the profile-keyed service factory that creates a SettingsPrivateDelegate instance for each browser context.
+// ---
+
 #include "chrome/browser/extensions/api/settings_private/settings_private_delegate_factory.h"
 
 #include "chrome/browser/browser_process.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resolve timezone by geolocation on/off generated pref implementation
+// summary: Implements the generated pref that toggles automatic time zone detection on ChromeOS by mapping a boolean to the resolve method.
+// ---
+
 #include "chrome/browser/extensions/api/settings_private/chromeos_resolve_time_zone_by_geolocation_on_off.h"
 
 #include "ash/constants/ash_pref_names.h"

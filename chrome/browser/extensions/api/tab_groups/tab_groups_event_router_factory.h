@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupsEventRouterFactory service factory header
+// summary: Declares the ProfileKeyedServiceFactory that creates and provides the TabGroupsEventRouter for the tabGroups extension API on a per-profile basis.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_TAB_GROUPS_TAB_GROUPS_EVENT_ROUTER_FACTORY_H_
 #define CHROME_BROWSER_EXTENSIONS_API_TAB_GROUPS_TAB_GROUPS_EVENT_ROUTER_FACTORY_H_
 

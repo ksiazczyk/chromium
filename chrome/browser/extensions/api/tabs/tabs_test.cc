@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tabs and windows extension API browser tests
+// summary: Browser tests covering the chrome.tabs and chrome.windows extension APIs, including tab lookup, moves, zoom, and window behaviors.
+// ---
+
 #include <limits.h>
 #include <stddef.h>
 #include <stdint.h>

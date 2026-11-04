@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: API tests for the chrome.tabGroups functions
+// summary: Browser API tests exercising tabGroups functions such as get against real tab groups and extensions with the tabGroups permission.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "base/test/test_future.h"
 #include "build/build_config.h"

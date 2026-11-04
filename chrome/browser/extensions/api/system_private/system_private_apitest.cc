@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: system_private API browser tests
+// summary: Browser tests for the systemPrivate extension API, verifying incognito mode availability and update status reporting using a fake update engine client on ChromeOS.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "build/build_config.h"
 #include "build/chromeos_buildflags.h"

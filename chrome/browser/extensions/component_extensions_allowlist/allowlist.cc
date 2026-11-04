@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component extension allowlist implementation
+// summary: Implements checks that determine whether a component extension ID or manifest resource ID is allowlisted in Chrome.
+// ---
+
 #include "chrome/browser/extensions/component_extensions_allowlist/allowlist.h"
 
 #include <stddef.h>

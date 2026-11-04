@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resolve timezone by geolocation method generated pref implementation
+// summary: Implements the ChromeOS generated pref for the time zone resolve method, with get and set logic and policy or parent control checks.
+// ---
+
 #include "chrome/browser/extensions/api/settings_private/chromeos_resolve_time_zone_by_geolocation_method_short.h"
 
 #include "ash/constants/ash_pref_names.h"

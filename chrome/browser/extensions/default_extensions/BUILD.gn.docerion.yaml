@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Default extensions build targets
+summary: GN build file that copies external_extensions.json into the output directory on Windows and defines a no-op group on other platforms.

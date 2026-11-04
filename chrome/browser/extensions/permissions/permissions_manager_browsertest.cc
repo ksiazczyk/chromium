@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permissions manager browser tests
+// summary: Browser tests verifying that user restricted and permitted sites persist across browser sessions in PermissionsManager.
+// ---
+
 #include "extensions/browser/permissions_manager.h"
 
 #include "chrome/browser/extensions/extension_browsertest.h"

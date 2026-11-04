@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: webAuthenticationProxy extension API implementation
+// summary: Implements the browser-side extension functions for attach, detach and request completion plus the event observer that manages session state change notifiers.
+// ---
+
 #include "chrome/browser/extensions/api/web_authentication_proxy/web_authentication_proxy_api.h"
 
 #include "base/functional/bind.h"

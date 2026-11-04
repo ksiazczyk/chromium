@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resolve timezone by geolocation on/off generated pref header
+// summary: Declares the pref name constant and factory function for the automatic time zone detection toggle generated pref.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_API_SETTINGS_PRIVATE_CHROMEOS_RESOLVE_TIME_ZONE_BY_GEOLOCATION_ON_OFF_H_
 #define CHROME_BROWSER_EXTENSIONS_API_SETTINGS_PRIVATE_CHROMEOS_RESOLVE_TIME_ZONE_BY_GEOLOCATION_ON_OFF_H_
 

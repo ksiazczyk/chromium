@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Factory for the TabGroupsEventRouter service
+// summary: Defines the profile-keyed service factory that creates TabGroupsEventRouter instances per browser context.
+// ---
+
 #include "chrome/browser/extensions/api/tab_groups/tab_groups_event_router_factory.h"
 
 #include "base/no_destructor.h"

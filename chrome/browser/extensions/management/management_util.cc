@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions management utility implementation
+// summary: Implements helpers that return the higher management authority trustworthiness between the platform and the user profile, for Windows and Mac only.
+// ---
+
 #include "chrome/browser/extensions/management/management_util.h"
 
 #include "build/build_config.h"

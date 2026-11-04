@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for virtual_keyboard_private
+summary: Defines include rules allowing this extension API directory to depend on ash/clipboard and media/audio headers.

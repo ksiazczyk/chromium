@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows utility helpers implementation
+// summary: Implements helpers to resolve window controllers by ID, check whether functions may operate on windows, and decide incognito window creation.
+// ---
+
 #include "chrome/browser/extensions/api/tabs/windows_util.h"
 
 #include <string>

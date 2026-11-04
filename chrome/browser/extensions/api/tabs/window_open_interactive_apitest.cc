@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window open extension API tests
+// summary: Browser tests verifying extension window-open focus and spanning behavior, with one case disabled under sanitizer builds.
+// ---
+
 #include "build/build_config.h"
 #include "build/chromeos_buildflags.h"
 #include "chrome/browser/extensions/extension_apitest.h"
