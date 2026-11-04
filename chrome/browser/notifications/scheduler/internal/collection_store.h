@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CollectionStore storage interface
+// summary: Templated storage interface that initializes a database, loads all entries into memory and supports adding, updating and deleting entries by key.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_SCHEDULER_INTERNAL_COLLECTION_STORE_H_
 #define CHROME_BROWSER_NOTIFICATIONS_SCHEDULER_INTERNAL_COLLECTION_STORE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scheduler utility functions implementation
+// summary: Implements helpers that count notifications shown today from impression data and create client state for newly registered clients.
+// ---
+
 #include "chrome/browser/notifications/scheduler/internal/scheduler_utils.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build config for notification scheduler test mocks and fakes
+summary: Defines test_support and test_lib source sets that group public mocks and internal fakes for the notification scheduler tests.

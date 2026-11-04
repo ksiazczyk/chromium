@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for notification unit tests
+summary: Allows unit test files in this directory to include headers from chrome/installer/setup.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Impression types implementation
+// summary: Implements constructors and equality operators for the Impression, SuppressionInfo and ClientState notification scheduler data types.
+// ---
+
 #include "chrome/browser/notifications/scheduler/internal/impression_types.h"
 
 namespace notifications {

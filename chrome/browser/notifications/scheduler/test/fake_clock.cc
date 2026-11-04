@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake clock implementation for notification scheduler tests
+// summary: Implements FakeClock, which returns a fixed mocked time in tests and can be reset to fall back to the real clock.
+// ---
+
 #include "chrome/browser/notifications/scheduler/test/fake_clock.h"
 
 namespace notifications {

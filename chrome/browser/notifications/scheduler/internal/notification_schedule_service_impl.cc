@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationScheduleServiceImpl implementation
+// summary: Implements the notification schedule service by delegating scheduling, deletion, client overview, background tasks, and user actions to the notification scheduler.
+// ---
+
 #include "chrome/browser/notifications/scheduler/internal/notification_schedule_service_impl.h"
 
 #include <utility>

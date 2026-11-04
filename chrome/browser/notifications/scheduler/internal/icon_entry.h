@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IconEntry struct
+// summary: Defines the database entry holding raw notification icon data deserialized from the icon protobuf.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_SCHEDULER_INTERNAL_ICON_ENTRY_H_
 #define CHROME_BROWSER_NOTIFICATIONS_SCHEDULER_INTERNAL_ICON_ENTRY_H_
 

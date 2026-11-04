@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background task coordinator unit tests
+// summary: Unit tests for BackgroundTaskCoordinator using a fake clock and mock background task scheduler to verify throttled and unthrottled scheduling behavior.
+// ---
+
 #include "chrome/browser/notifications/scheduler/internal/background_task_coordinator.h"
 
 #include <map>

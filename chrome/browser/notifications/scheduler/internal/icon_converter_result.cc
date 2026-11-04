@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Icon converter result types
+// summary: Implements EncodeResult and DecodeResult classes that carry a success flag together with encoded icon strings or decoded SkBitmap icons.
+// ---
+
 #include "chrome/browser/notifications/scheduler/internal/icon_converter_result.h"
 
 #include <utility>

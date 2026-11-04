@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock notification background task scheduler for tests
+// summary: GoogleMock implementation of NotificationBackgroundTaskScheduler that mocks Schedule and Cancel for scheduler unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_SCHEDULER_TEST_MOCK_NOTIFICATION_BACKGROUND_TASK_SCHEDULER_H_
 #define CHROME_BROWSER_NOTIFICATIONS_SCHEDULER_TEST_MOCK_NOTIFICATION_BACKGROUND_TASK_SCHEDULER_H_
 

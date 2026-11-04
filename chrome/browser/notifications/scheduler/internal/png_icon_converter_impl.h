@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PNG icon converter implementation header
+// summary: Declares PngIconConverterImpl, the IconConverter implementation that encodes and decodes notification icons as PNG data.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_SCHEDULER_INTERNAL_PNG_ICON_CONVERTER_IMPL_H_
 #define CHROME_BROWSER_NOTIFICATIONS_SCHEDULER_INTERNAL_PNG_ICON_CONVERTER_IMPL_H_
 

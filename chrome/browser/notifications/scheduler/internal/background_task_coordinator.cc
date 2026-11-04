@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background task coordinator implementation
+// summary: Implements scheduling of background notification tasks, separating throttled from unthrottled notifications and applying daily show limits based on impression data.
+// ---
+
 #include "chrome/browser/notifications/scheduler/internal/background_task_coordinator.h"
 
 #include <algorithm>

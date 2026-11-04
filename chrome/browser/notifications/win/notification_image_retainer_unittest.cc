@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification image retainer unit tests
+// summary: Unit tests verifying temporary image registration, timed deletion, and batch cleanup behavior of NotificationImageRetainer.
+// ---
+
 #include "chrome/browser/notifications/win/notification_image_retainer.h"
 
 #include "base/files/file_path.h"

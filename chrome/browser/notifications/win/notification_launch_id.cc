@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification launch ID implementation
+// summary: Implements encoding and decoding of notification launch ID strings exchanged with the Windows Action Center, logging decode status to UMA histograms.
+// ---
+
 #include "chrome/browser/notifications/win/notification_launch_id.h"
 
 #include "base/metrics/histogram_macros.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI notification scheduler client implementation
+// summary: Implements WebUIClient for the notification scheduler, forwarding notification data and stubbing most client callbacks as not implemented.
+// ---
+
 #include "chrome/browser/notifications/scheduler/internal/webui_client.h"
 
 #include <utility>

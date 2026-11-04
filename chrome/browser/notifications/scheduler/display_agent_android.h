@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android display agent class declaration
+// summary: Declares DisplayAgentAndroid, the Android implementation of the notifications DisplayAgent interface.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_SCHEDULER_DISPLAY_AGENT_ANDROID_H_
 #define CHROME_BROWSER_NOTIFICATIONS_SCHEDULER_DISPLAY_AGENT_ANDROID_H_
 

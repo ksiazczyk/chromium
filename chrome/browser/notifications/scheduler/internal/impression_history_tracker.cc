@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImpressionHistoryTracker implementation
+// summary: Implements notification impression history tracking, including adding impressions and analyzing history to adjust daily show limits.
+// ---
+
 #include "chrome/browser/notifications/scheduler/internal/impression_history_tracker.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification launch ID unit tests
+// summary: Unit tests covering serialization and parsing of notification launch ID strings, including button, context menu, dismiss, and malformed input cases.
+// ---
+
 #include "chrome/browser/notifications/win/notification_launch_id.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

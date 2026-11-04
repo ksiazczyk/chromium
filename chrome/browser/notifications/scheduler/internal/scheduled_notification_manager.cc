@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scheduled notification manager implementation
+// summary: Implements scheduling, displaying, listing, validating, and deleting scheduled notifications backed by the notification and icon stores.
+// ---
+
 #include "chrome/browser/notifications/scheduler/internal/scheduled_notification_manager.h"
 
 #include <algorithm>

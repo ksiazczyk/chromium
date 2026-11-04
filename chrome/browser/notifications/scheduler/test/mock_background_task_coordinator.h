@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background task coordinator mock for scheduler tests
+// summary: Declares a gmock mock of BackgroundTaskCoordinator that mocks scheduling background notification tasks in scheduler tests.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_SCHEDULER_TEST_MOCK_BACKGROUND_TASK_COORDINATOR_H_
 #define CHROME_BROWSER_NOTIFICATIONS_SCHEDULER_TEST_MOCK_BACKGROUND_TASK_COORDINATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android finds agent implementation
+// summary: Implements the Android finds agent, opening a notification URL through a JNI call into Java.
+// ---
+
 #include "chrome/browser/notifications/scheduler/finds_agent_android.h"
 
 #include "url/android/gurl_android.h"

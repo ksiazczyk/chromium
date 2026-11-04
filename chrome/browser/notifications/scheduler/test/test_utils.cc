@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test utilities for notification scheduler tests
+// summary: Helpers such as ImpressionTestData, AddImpressionTestData, CreateImpression and DebugString to build client states and log notification data in tests.
+// ---
+
 #include "chrome/browser/notifications/scheduler/test/test_utils.h"
 
 #include <sstream>

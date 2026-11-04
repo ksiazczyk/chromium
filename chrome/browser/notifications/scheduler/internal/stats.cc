@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification scheduler stats implementation
+// summary: Logs UMA histograms for user actions, notification lifecycle events and tips feature types, with suffixes per scheduler client type.
+// ---
+
 #include "chrome/browser/notifications/scheduler/internal/stats.h"
 
 #include <string>

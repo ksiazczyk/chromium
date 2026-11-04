@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification schedule service creation helper
+// summary: Assembles the notification schedule service internals, wiring clients, proto database stores and scheduler components from embedder dependencies.
+// ---
+
 #include "chrome/browser/notifications/scheduler/schedule_service_factory_helper.h"
 
 #include <utility>

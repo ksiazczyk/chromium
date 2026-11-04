@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows notification metrics logging
+// summary: Implements UMA histogram logging functions for Windows notification display, close, history, activation, settings, and event handling statuses.
+// ---
+
 #include "chrome/browser/notifications/win/notification_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

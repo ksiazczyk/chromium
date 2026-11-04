@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scheduler config unit tests
+// summary: Tests creating SchedulerConfig from Finch feature parameters and verifies the parsed daily limits, expirations and durations.
+// ---
+
 #include "chrome/browser/notifications/scheduler/internal/scheduler_config.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FindsClient class declaration
+// summary: Declares FindsClient, the NotificationSchedulerClient for Chrome Finds notifications, with callbacks for showing notifications, user actions, and throttle configuration.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_SCHEDULER_INTERNAL_CLIENTS_FINDS_CLIENT_H_
 #define CHROME_BROWSER_NOTIFICATIONS_SCHEDULER_INTERNAL_CLIENTS_FINDS_CLIENT_H_
 

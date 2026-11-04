@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationSchedulerContext implementation
+// summary: Constructs the scheduler context that owns the client registrar, trackers, managers, display components, configuration, and background task coordinator.
+// ---
+
 #include "chrome/browser/notifications/scheduler/internal/notification_scheduler_context.h"
 
 #include <memory>

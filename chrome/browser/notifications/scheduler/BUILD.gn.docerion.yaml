@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Notification scheduler build targets
+summary: Defines GN build targets for the scheduler factory helper, Android unit tests and browser tests, with their dependencies.

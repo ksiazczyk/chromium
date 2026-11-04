@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake IToastNotification for unit tests
+// summary: Implements a fake Windows toast notification COM object that returns canned XML content, tag and group values.
+// ---
+
 #include "chrome/browser/notifications/win/fake_itoastnotification.h"
 
 #include <wrl/client.h>

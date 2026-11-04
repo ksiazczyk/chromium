@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proto conversion header
+// summary: Declares functions converting icon entries, client state, and notification entries between scheduler objects and their protobuf representations.
+// ---
+
 #ifndef CHROME_BROWSER_NOTIFICATIONS_SCHEDULER_INTERNAL_PROTO_CONVERSION_H_
 #define CHROME_BROWSER_NOTIFICATIONS_SCHEDULER_INTERNAL_PROTO_CONVERSION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scheduled notification manager unit tests
+// summary: Unit tests for ScheduledNotificationManager covering scheduling, display, retrieval, and deletion of notifications using mock stores.
+// ---
+
 #include "chrome/browser/notifications/scheduler/internal/scheduled_notification_manager.h"
 
 #include <utility>

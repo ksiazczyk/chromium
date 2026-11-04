@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scheduler stats unit tests
+// summary: Verifies histogram logging of user actions, notification shows and tips feature events using HistogramTester.
+// ---
+
 #include "chrome/browser/notifications/scheduler/internal/stats.h"
 
 #include "base/test/metrics/histogram_tester.h"

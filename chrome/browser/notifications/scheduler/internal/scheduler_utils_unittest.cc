@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scheduler utils unit tests
+// summary: Tests ToLocalHour timestamp conversion and counting notifications shown today across multiple clients using a fake clock.
+// ---
+
 #include "chrome/browser/notifications/scheduler/internal/scheduler_utils.h"
 
 #include <algorithm>

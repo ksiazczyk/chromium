@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Non-Android background task scheduler stub
+// summary: Provides a placeholder NotificationBackgroundTaskScheduler for non-Android platforms whose Schedule and Cancel methods are not yet implemented.
+// ---
+
 #include "chrome/browser/notifications/scheduler/notification_background_task_scheduler_impl.h"
 
 #include "base/notimplemented.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display decider implementation
+// summary: Implements the logic that filters scheduled notifications by suppression and delivery time windows and picks which ones to show within daily limits.
+// ---
+
 #include "chrome/browser/notifications/scheduler/internal/display_decider.h"
 
 #include <algorithm>

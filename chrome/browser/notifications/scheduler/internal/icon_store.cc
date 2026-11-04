@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IconProtoDbStore implementation
+// summary: Implements the proto database backed icon store, including initialization, loading, adding, and deleting icons with conversion.
+// ---
+
 #include "chrome/browser/notifications/scheduler/internal/icon_store.h"
 
 #include <algorithm>

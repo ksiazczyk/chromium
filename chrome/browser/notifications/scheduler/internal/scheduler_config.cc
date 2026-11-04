@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scheduler configuration
+// summary: Defines SchedulerConfig default values and Finch-driven parameters such as daily shown limits, expirations, suppression duration, and background task windows.
+// ---
+
 #include "chrome/browser/notifications/scheduler/internal/scheduler_config.h"
 
 #include <string>

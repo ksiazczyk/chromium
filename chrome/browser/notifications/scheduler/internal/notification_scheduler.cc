@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationScheduler implementation
+// summary: Implements the core notification scheduler, coordinating subsystem initialization, notification display, background tasks, and user action handling.
+// ---
+
 #include "chrome/browser/notifications/scheduler/internal/notification_scheduler.h"
 
 #include <optional>
