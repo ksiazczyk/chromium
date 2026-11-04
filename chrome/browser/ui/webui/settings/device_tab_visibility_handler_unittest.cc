@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device tab visibility handler unit tests
+// summary: Unit tests verifying the device tab visibility handler's device list responses and visibility preference updates using mock session sync services.
+// ---
+
 #include "chrome/browser/ui/webui/settings/device_tab_visibility_handler.h"
 
 #include <memory>

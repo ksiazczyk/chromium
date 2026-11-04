@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved info handler declarations
+// summary: Declares the WebUI handler that observes password, passkey, and autofill valuables data to report saved info counts in settings.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SETTINGS_SAVED_INFO_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_SETTINGS_SAVED_INFO_HANDLER_H_
 

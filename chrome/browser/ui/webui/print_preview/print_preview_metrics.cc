@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview metrics implementation
+// summary: Reports UMA histograms for print preview settings, document types, printer counts, and user actions.
+// ---
+
 #include "chrome/browser/ui/webui/print_preview/print_preview_metrics.h"
 
 #include <optional>

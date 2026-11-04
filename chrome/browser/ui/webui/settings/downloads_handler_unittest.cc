@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Downloads handler unit tests
+// summary: Unit tests verifying the auto-open downloads changed callback fired by the downloads settings handler.
+// ---
+
 #include "chrome/browser/ui/webui/settings/downloads_handler.h"
 
 #include "base/json/json_reader.h"

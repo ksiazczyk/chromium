@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Searchbox DEPS include rules
+summary: Grants unit test files in this directory an include exception for third_party/webrtc/modules/desktop_capture.

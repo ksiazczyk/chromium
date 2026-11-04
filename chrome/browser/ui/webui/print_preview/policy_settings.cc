@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview policy settings registration
+// summary: Registers enterprise policy preferences enforced in print preview, such as printer deny lists and default print modes.
+// ---
+
 #include "chrome/browser/ui/webui/print_preview/policy_settings.h"
 
 #include "chrome/common/pref_names.h"

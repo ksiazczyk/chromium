@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the sandbox WebUI folder
+summary: Points to the shared sandbox COMMON_METADATA mixins that supply directory-wide Chromium metadata.

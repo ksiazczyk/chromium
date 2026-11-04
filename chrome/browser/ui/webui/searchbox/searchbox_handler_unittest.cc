@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Searchbox handler unit tests
+// summary: Unit tests for the WebUI searchbox handler covering autocomplete, keyword models, contextual search and metrics.
+// ---
+
 #include "chrome/browser/ui/webui/cr_components/searchbox/searchbox_handler.h"
 
 #include <memory>

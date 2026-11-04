@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Searchbox OWNERS
+summary: Lists code owners for the searchbox directory and delegates type converter files to IPC security owners.

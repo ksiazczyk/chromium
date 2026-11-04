@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device AI settings handler implementation
+// summary: Implements the WebUI handler that reads and toggles the on-device AI setting, respects enterprise policy, and opens a feedback dialog.
+// ---
+
 #include "chrome/browser/ui/webui/settings/on_device_ai_settings_handler.h"
 
 #include "base/functional/bind.h"

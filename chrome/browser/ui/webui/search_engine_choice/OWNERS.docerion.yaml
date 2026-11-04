@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Search engine choice WebUI code owners
+summary: Delegates ownership to search engine compliance owners and requires security owners for changes to Mojo files.

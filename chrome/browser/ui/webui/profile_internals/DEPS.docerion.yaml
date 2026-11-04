@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for profile_internals_handler
+summary: Grants profile_internals_handler.cc an include exception for the regional capabilities country access reason header.

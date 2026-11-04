@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site settings helper unit tests
+// summary: Unit tests for the site settings helper, verifying exception listing, setting sources, and chooser exception behavior.
+// ---
+
 #include "chrome/browser/ui/webui/settings/site_settings_helper.h"
 
 #include <algorithm>

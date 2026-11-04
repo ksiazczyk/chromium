@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security keys settings handler implementation
+// summary: Implements WebUI message handlers for the Security Keys settings subpage, covering PIN setup, key reset, fingerprint enrollment and credential management.
+// ---
+
 #include "chrome/browser/ui/webui/settings/settings_security_key_handler.h"
 
 #include <algorithm>

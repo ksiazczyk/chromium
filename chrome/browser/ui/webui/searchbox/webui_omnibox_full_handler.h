@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI omnibox full handler header
+// summary: Declares WebuiOmniboxFullHandler, a minimal ContextualSearchboxHandler for the full WebUI omnibox that relies on frontend keyword handling.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SEARCHBOX_WEBUI_OMNIBOX_FULL_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_SEARCHBOX_WEBUI_OMNIBOX_FULL_HANDLER_H_
 

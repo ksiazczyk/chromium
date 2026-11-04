@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engine choice WebUI controller header
+// summary: Declares the WebUI controller and its configuration class for the search engine choice page, including mojo interface binding and choice and dialog callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SEARCH_ENGINE_CHOICE_SEARCH_ENGINE_CHOICE_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_SEARCH_ENGINE_CHOICE_SEARCH_ENGINE_CHOICE_UI_H_
 

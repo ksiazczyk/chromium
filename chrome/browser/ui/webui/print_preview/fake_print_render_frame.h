@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake print render frame declaration
+// summary: Declares a fake PrintRenderFrame that binds to an AssociatedInterfaceProvider to intercept print requests in unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_PRINT_PREVIEW_FAKE_PRINT_RENDER_FRAME_H_
 #define CHROME_BROWSER_UI_WEBUI_PRINT_PREVIEW_FAKE_PRINT_RENDER_FRAME_H_
 

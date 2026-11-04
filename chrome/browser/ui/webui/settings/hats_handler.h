@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HaTS survey settings handler class declaration
+// summary: Declares HatsHandler, which launches HaTS surveys in response to trust and safety interactions on the settings privacy and security pages.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SETTINGS_HATS_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_SETTINGS_HATS_HANDLER_H_
 

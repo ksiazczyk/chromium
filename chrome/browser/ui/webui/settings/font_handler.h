@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Font handler header
+// summary: Declares the handler for OS font list and font preference settings on the settings WebUI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SETTINGS_FONT_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_SETTINGS_FONT_HANDLER_H_
 

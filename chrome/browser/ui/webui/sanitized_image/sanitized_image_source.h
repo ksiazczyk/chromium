@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sanitized image source class declaration
+// summary: Declares the SanitizedImageSource URL data source that lets WebUIs embed external images safely by re-encoding them in an isolated process, with options for static encoding, WebP output, and Google Photos authentication.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SANITIZED_IMAGE_SANITIZED_IMAGE_SOURCE_H_
 #define CHROME_BROWSER_UI_WEBUI_SANITIZED_IMAGE_SANITIZED_IMAGE_SOURCE_H_
 

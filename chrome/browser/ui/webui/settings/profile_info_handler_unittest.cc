@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProfileInfoHandler unit tests
+// summary: Unit tests verifying that the profile info handler returns correct profile name and icon data on desktop and Chrome OS.
+// ---
+
 #include "chrome/browser/ui/webui/settings/profile_info_handler.h"
 
 #include <memory>

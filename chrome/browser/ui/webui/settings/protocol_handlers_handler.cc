@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protocol handlers settings WebUI handler implementation
+// summary: Implements settings page handlers for listing, enabling, removing, and setting default custom protocol handlers, integrating with web app registrations.
+// ---
+
 #include "chrome/browser/ui/webui/settings/protocol_handlers_handler.h"
 
 #include <memory>

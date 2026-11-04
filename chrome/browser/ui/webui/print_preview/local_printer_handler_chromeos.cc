@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS local printer handler implementation
+// summary: Implements ChromeOS local printer enumeration, capabilities, status, and printing, adding user info, OAuth tokens, and IPP client info to job settings.
+// ---
+
 #include "chrome/browser/ui/webui/print_preview/local_printer_handler_chromeos.h"
 
 #include <memory>

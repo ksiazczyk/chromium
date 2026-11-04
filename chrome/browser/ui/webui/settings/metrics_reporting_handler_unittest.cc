@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Metrics reporting handler unit tests
+// summary: Unit tests verifying that metrics reporting pref changes notify the settings page and are suppressed while JavaScript is disallowed.
+// ---
+
 #include "build/branding_buildflags.h"
 #include "build/build_config.h"
 

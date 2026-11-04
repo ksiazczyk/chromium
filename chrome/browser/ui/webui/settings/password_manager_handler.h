@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager settings handler header
+// summary: Declares the PasswordManagerHandler WebUI message handler that enables interaction with Password Manager from the settings UI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SETTINGS_PASSWORD_MANAGER_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_SETTINGS_PASSWORD_MANAGER_HANDLER_H_
 

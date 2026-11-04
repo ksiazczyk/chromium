@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Languages settings handler implementation
+// summary: Implements the settings WebUI handler for getting and setting the prospective UI language, with Chrome OS-specific profile locale handling.
+// ---
+
 #include "chrome/browser/ui/webui/settings/languages_handler.h"
 
 #include "base/functional/bind.h"

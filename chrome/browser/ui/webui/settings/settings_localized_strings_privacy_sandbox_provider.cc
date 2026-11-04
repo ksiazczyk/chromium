@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy sandbox settings localized strings provider
+// summary: Adds privacy sandbox and third-party cookie related localized strings, including privacy guide texts, to the settings WebUI data source.
+// ---
+
 #include "chrome/browser/profiles/profile.h"
 #include "chrome/browser/ui/webui/settings/settings_localized_strings_provider.h"
 #include "components/strings/grit/privacy_sandbox_strings.h"

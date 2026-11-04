@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager settings handler implementation
+// summary: Implements a WebUI handler that opens the password manager or password checkup page in the current browser from settings.
+// ---
+
 #include "chrome/browser/ui/webui/settings/password_manager_handler.h"
 
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

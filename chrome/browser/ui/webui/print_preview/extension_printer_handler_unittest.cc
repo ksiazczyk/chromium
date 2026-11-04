@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension printer handler unit tests
+// summary: Unit tests for ExtensionPrinterHandler covering printer enumeration, capabilities, USB permissions, and print job dispatch via the printerProvider API.
+// ---
+
 #include "chrome/browser/ui/webui/print_preview/extension_printer_handler.h"
 
 #include <stddef.h>

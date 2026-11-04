@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the reset_password directory
+summary: Maps the directory to the Safe Browsing Monorail component and a Buganizer component for issue tracking.

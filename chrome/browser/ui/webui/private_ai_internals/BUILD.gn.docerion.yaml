@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for private_ai_internals
+summary: Defines the private_ai_internals source set with its C++ sources and build dependencies for the Chrome build.

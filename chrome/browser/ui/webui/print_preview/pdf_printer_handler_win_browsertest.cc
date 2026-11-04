@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF printer handler Windows browser test
+// summary: Windows browser test verifying that cancelling the save-as-PDF file selection dialog is handled correctly.
+// ---
+
 #include "chrome/browser/ui/webui/print_preview/pdf_printer_handler.h"
 
 #include <windows.h>  // Must be in front of other Windows header files.

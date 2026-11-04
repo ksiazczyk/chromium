@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SanitizedImageSource unit tests
+// summary: Unit tests for SanitizedImageSource that use mock data decoder and URL loader factories to verify parallel request handling, image encoding, and animation behavior.
+// ---
+
 #include "chrome/browser/ui/webui/sanitized_image/sanitized_image_source.h"
 
 #include "base/memory/raw_ptr.h"

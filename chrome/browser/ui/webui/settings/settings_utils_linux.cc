@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux settings utilities
+// summary: Implements Linux-specific proxy settings by launching desktop environment configuration tools and falling back to a help URL.
+// ---
+
 #include "chrome/browser/ui/webui/settings/settings_utils.h"
 
 #include <stddef.h>

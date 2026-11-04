@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Font handler implementation
+// summary: Implements fetching the OS font list asynchronously and annotating fonts with RTL or LTR direction for the fonts settings page.
+// ---
+
 #include "chrome/browser/ui/webui/settings/font_handler.h"
 
 #include <stddef.h>

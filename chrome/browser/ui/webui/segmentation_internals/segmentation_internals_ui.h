@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Segmentation internals WebUI controller header
+// summary: Declares the Mojo WebUI controller and its WebUI configuration for the segmentation internals page, including interface binding and page handler creation.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SEGMENTATION_INTERNALS_SEGMENTATION_INTERNALS_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_SEGMENTATION_INTERNALS_SEGMENTATION_INTERNALS_UI_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Realbox handler implementation
+// summary: Implements RealboxHandler and its RealboxOmniboxClient for the new tab page realbox, wiring autocomplete and suggest inputs.
+// ---
+
 #include "chrome/browser/ui/webui/searchbox/realbox_handler.h"
 
 #include <memory>

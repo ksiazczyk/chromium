@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the reset password WebUI
+summary: GN build file defining the Mojo bindings target and the reset_password source set with its Safe Browsing, password manager, and WebUI dependencies.

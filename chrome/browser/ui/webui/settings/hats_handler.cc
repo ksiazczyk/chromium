@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HaTS survey settings handler implementation
+// summary: Implements the settings WebUI handler that triggers HaTS surveys for privacy and security page interactions, including time-on-page bucketing.
+// ---
+
 #include "chrome/browser/ui/webui/settings/hats_handler.h"
 
 #include "base/functional/bind.h"

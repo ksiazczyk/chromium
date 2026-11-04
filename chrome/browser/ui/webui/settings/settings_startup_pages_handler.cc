@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup pages settings handler implementation
+// summary: Implements the WebUI handler for the On startup settings page, managing the list of pages opened when the browser starts.
+// ---
+
 #include "chrome/browser/ui/webui/settings/settings_startup_pages_handler.h"
 
 #include <memory>

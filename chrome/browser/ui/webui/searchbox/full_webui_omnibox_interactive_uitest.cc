@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Full WebUI omnibox interactive UI test
+// summary: Interactive UI tests for the full WebUI omnibox covering popup behavior, bookmarks, find bar, and toolbar integration.
+// ---
+
 #include "base/auto_reset.h"
 #include "base/base64.h"
 #include "base/notreached.h"

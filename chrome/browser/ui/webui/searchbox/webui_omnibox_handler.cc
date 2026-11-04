@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI omnibox handler implementation
+// summary: Implements the browser-side handler for the WebUI omnibox, wiring autocomplete queries, keyword mode, Lens search, tab context, and metrics to the NTP realbox.
+// ---
+
 #include "chrome/browser/ui/webui/searchbox/webui_omnibox_handler.h"
 
 #include <memory>

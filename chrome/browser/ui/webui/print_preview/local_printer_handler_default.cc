@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default local printer handler implementation
+// summary: Implements the default printer handler that enumerates local printers and fetches capabilities via the print backend, with platform-specific threading and out-of-process printing support.
+// ---
+
 #include "chrome/browser/ui/webui/print_preview/local_printer_handler_default.h"
 
 #include <string>

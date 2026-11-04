@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox handler class declaration
+// summary: Declares the WebUI message handler that sends the list of processes and their sandboxing status to the sandbox internals page when requested.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SANDBOX_SANDBOX_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_SANDBOX_SANDBOX_HANDLER_H_
 

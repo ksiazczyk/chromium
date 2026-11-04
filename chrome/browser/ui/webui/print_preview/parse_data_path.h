@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview data path parsing declaration
+// summary: Declares ParseDataPath and the PrintPreviewIdAndPageIndex struct used to extract a UI ID and page index from preview PDF data paths.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_PRINT_PREVIEW_PARSE_DATA_PATH_H_
 #define CHROME_BROWSER_UI_WEBUI_PRINT_PREVIEW_PARSE_DATA_PATH_H_
 

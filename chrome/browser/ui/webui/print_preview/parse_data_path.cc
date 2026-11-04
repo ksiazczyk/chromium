@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview data path parsing implementation
+// summary: Parses chrome-untrusted print preview PDF data paths into a UI ID and page index, handling print.pdf and test.pdf requests.
+// ---
+
 #include "chrome/browser/ui/webui/print_preview/parse_data_path.h"
 
 #include <optional>

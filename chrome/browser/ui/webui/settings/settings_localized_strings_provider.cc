@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings localized strings provider implementation
+// summary: Large implementation that assembles all localized strings for the browser settings page, covering profiles, signin, sync, performance, and feature-gated texts.
+// ---
+
 #include "chrome/browser/ui/webui/settings/settings_localized_strings_provider.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox internals WebUI controller implementation
+// summary: Implements the WebUI controller that serves the sandbox internals page and populates sandbox status data on Linux, ChromeOS, Android and Windows.
+// ---
+
 #include "chrome/browser/ui/webui/sandbox/sandbox_internals_ui.h"
 
 #include <string>

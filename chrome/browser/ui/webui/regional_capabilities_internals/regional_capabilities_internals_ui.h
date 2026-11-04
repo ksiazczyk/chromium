@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Regional capabilities internals WebUI controller header
+// summary: Declares the WebUI controller class and its default internal WebUI configuration for the regional capabilities internals page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_REGIONAL_CAPABILITIES_INTERNALS_REGIONAL_CAPABILITIES_INTERNALS_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_REGIONAL_CAPABILITIES_INTERNALS_REGIONAL_CAPABILITIES_INTERNALS_UI_H_
 

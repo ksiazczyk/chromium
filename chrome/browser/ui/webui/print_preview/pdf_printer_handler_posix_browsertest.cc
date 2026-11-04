@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF printer handler POSIX browser test
+// summary: Browser test verifying that PDF files saved through print preview receive correct POSIX file permissions under different umask settings.
+// ---
+
 #include "chrome/browser/ui/webui/print_preview/pdf_printer_handler.h"
 
 #include <sys/stat.h>

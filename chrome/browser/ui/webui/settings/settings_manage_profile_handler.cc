@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manage profile settings WebUI handler implementation
+// summary: Implements the settings WebUI handler for profile management, handling avatar icons, profile names, and desktop profile shortcuts.
+// ---
+
 #include "chrome/browser/ui/webui/settings/settings_manage_profile_handler.h"
 
 #include <cstdint>

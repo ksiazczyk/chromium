@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for segmentation internals WebUI
+summary: GN build file defining the mojo bindings target, the segmentation internals source set, and the unit test target with their dependencies.

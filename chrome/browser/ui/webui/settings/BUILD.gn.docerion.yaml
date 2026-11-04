@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Settings WebUI GN build configuration
+summary: Defines the GN build target for the Chrome settings WebUI, listing handler sources and platform-conditional dependencies.

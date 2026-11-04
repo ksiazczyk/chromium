@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI omnibox full handler implementation
+// summary: Implements the handler for the full WebUI omnibox popup, extending ContextualSearchboxHandler without an OmniboxEditModel and supporting keyword mode.
+// ---
+
 #include "chrome/browser/ui/webui/searchbox/webui_omnibox_full_handler.h"
 
 #include <utility>

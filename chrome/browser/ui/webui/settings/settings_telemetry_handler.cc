@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings telemetry handler implementation
+// summary: Implements the WebUI handler that records Settings critical user journey telemetry events for navigation category clicks and search queries.
+// ---
+
 #include "chrome/browser/ui/webui/settings/settings_telemetry_handler.h"
 
 #include "base/check_op.h"

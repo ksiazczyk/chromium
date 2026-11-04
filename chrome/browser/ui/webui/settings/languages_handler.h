@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Languages settings handler class declaration
+// summary: Declares LanguagesHandler, the settings page handler for reading and changing the preferred UI language subject to user permissions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SETTINGS_LANGUAGES_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_SETTINGS_LANGUAGES_HANDLER_H_
 

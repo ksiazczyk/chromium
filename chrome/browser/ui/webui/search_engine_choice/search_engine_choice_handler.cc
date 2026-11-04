@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engine choice WebUI page handler implementation
+// summary: Implements the search engine choice page handler by forwarding Mojo requests to injected callbacks and recording scroll state histograms.
+// ---
+
 #include "chrome/browser/ui/webui/search_engine_choice/search_engine_choice_handler.h"
 
 #include "base/metrics/histogram_functions.h"

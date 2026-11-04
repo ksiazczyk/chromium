@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saved info handler implementation
+// summary: Implements the WebUI handler that reports saved password, passkey, and loyalty card counts and requests a data management survey.
+// ---
+
 #include "chrome/browser/ui/webui/settings/saved_info_handler.h"
 
 #include "base/functional/bind.h"

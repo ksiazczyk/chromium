@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Safe Browsing WebUI build configuration (BUILD.gn)
+summary: Defines the GN source_set for the Chrome Safe Browsing WebUI, listing its sources and component dependencies.

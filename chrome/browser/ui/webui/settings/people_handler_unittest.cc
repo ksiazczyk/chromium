@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: People handler unit tests
+// summary: Unit tests for the People settings handler covering sync setup, passphrase handling, and sign-in flows.
+// ---
+
 #include "chrome/browser/ui/webui/settings/people_handler.h"
 
 #include <memory>

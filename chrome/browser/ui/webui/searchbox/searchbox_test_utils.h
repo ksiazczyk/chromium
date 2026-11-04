@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Searchbox test utilities header
+// summary: Declares mock searchbox and popup pages, autocomplete controller, edit model, Lens client, and helper functions used by searchbox WebUI tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SEARCHBOX_SEARCHBOX_TEST_UTILS_H_
 #define CHROME_BROWSER_UI_WEBUI_SEARCHBOX_SEARCHBOX_TEST_UTILS_H_
 

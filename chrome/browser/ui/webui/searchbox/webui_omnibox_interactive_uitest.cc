@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI omnibox interactive UI tests
+// summary: Interactive browser tests for the WebUI omnibox popup covering autocomplete, AIM eligibility, keyword mode, accessibility, and popup presenter behavior.
+// ---
+
 #include <optional>
 
 #include "base/base64.h"

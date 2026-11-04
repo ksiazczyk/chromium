@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Search engine choice WebUI directory metadata
+summary: Points to the shared COMMON_METADATA mixins for the search engine choice browser directory.

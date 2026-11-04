@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens searchbox handler implementation
+// summary: Implements LensSearchboxHandler and its LensOmniboxClient, the browser-side handler for the Lens overlay and side panel searchboxes.
+// ---
+
 #include "chrome/browser/ui/webui/searchbox/lens_searchbox_handler.h"
 
 #include "chrome/browser/profiles/profile.h"

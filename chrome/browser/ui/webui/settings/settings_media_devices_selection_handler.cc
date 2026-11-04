@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media devices selection handler implementation
+// summary: Implements the settings WebUI handler that lists audio and video capture devices and sets the preferred capture device.
+// ---
+
 #include "chrome/browser/ui/webui/settings/settings_media_devices_selection_handler.h"
 
 #include <stddef.h>

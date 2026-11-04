@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox Everywhere settings handler implementation
+// summary: Implements the WebUI handler for getting, setting and suspending the Omnibox Everywhere global shortcut on the search settings page.
+// ---
+
 #include "chrome/browser/ui/webui/settings/omnibox_everywhere_settings_handler.h"
 
 #include "base/functional/bind.h"

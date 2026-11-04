@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search engine choice WebUI page handler header
+// summary: Declares the SearchEngineChoiceHandler class that binds the PageHandler Mojo interface to callbacks used by the WebUI dialog.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SEARCH_ENGINE_CHOICE_SEARCH_ENGINE_CHOICE_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_SEARCH_ENGINE_CHOICE_SEARCH_ENGINE_CHOICE_HANDLER_H_
 

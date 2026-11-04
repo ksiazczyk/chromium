@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for regional capabilities internals
+summary: GN build definition that creates the regional_capabilities_internals source set and lists its dependencies on browser, components, and WebUI targets.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reset settings handler unit tests
+// summary: Unit tests for the reset settings handler covering profile reset invocation, JavaScript callback responses, and tampered preference reporting.
+// ---
+
 #include "chrome/browser/ui/webui/settings/reset_settings_handler.h"
 
 #include <stddef.h>

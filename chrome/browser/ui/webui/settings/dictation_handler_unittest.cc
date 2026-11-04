@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dictation handler unit tests
+// summary: Unit tests checking that valid dictation shortcuts with modifiers are saved and invalid ones are rejected.
+// ---
+
 #include "chrome/browser/ui/webui/settings/dictation_handler.h"
 
 #include <memory>

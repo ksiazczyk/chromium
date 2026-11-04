@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings telemetry handler declarations
+// summary: Declares the SettingsTelemetryHandler class that records Settings CUJ telemetry events dispatched from TypeScript via MetricsBrowserProxy.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SETTINGS_SETTINGS_TELEMETRY_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_SETTINGS_SETTINGS_TELEMETRY_HANDLER_H_
 

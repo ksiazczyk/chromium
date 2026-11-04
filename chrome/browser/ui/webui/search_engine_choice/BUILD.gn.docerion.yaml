@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Search engine choice WebUI build configuration
+summary: Defines GN build targets for the search engine choice WebUI, including Mojo bindings, the non-Android source set, and Windows/Linux browser tests.

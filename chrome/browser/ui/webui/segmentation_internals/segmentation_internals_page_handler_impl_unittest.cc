@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the segmentation internals page handler
+// summary: Tests that the page handler correctly converts and forwards client info and service status updates to the WebUI page using mock service and page objects.
+// ---
+
 #include "chrome/browser/ui/webui/segmentation_internals/segmentation_internals_page_handler_impl.h"
 
 #include "base/test/task_environment.h"

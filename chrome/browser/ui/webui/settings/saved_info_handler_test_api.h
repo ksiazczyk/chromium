@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Saved info handler test API
+// summary: Test API header exposing SavedInfoHandler message handlers and WebUI setter for use in unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SETTINGS_SAVED_INFO_HANDLER_TEST_API_H_
 #define CHROME_BROWSER_UI_WEBUI_SETTINGS_SAVED_INFO_HANDLER_TEST_API_H_
 

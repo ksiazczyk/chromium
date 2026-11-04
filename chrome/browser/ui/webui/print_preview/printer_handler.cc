@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printer handler factory implementations
+// summary: Creates printer handler instances for extension, local, and PDF printers, selecting a platform-specific local handler on ChromeOS.
+// ---
+
 #include "chrome/browser/ui/webui/print_preview/printer_handler.h"
 
 #include "build/build_config.h"

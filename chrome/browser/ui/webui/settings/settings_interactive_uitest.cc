@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Settings interactive UI browser tests
+// summary: In-process browser tests that drive the settings WebUI through interaction sequences, waiting for and clicking DOM elements via web contents interaction test utilities.
+// ---
+
 #include "base/feature_list.h"
 #include "base/test/bind.h"
 #include "base/test/run_until.h"

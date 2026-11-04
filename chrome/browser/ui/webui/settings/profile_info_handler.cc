@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile info settings WebUI handler implementation
+// summary: Implements handlers that supply the settings UI with profile name, icon, and statistics, and pushes updates when profile attributes change.
+// ---
+
 #include "chrome/browser/ui/webui/settings/profile_info_handler.h"
 
 #include "base/functional/bind.h"

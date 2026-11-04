@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omnibox Everywhere settings handler header
+// summary: Declares the WebUI message handler that reads, updates, and suspends the Omnibox Everywhere global hotkey setting shown on the search settings page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SETTINGS_OMNIBOX_EVERYWHERE_SETTINGS_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_SETTINGS_OMNIBOX_EVERYWHERE_SETTINGS_HANDLER_H_
 

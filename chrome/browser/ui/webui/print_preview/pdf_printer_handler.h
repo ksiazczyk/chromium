@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF printer handler class declaration
+// summary: Declares PdfPrinterHandler, the PrinterHandler for saving print jobs as PDF files with select file dialog support and testing hooks.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_PRINT_PREVIEW_PDF_PRINTER_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_PRINT_PREVIEW_PDF_PRINTER_HANDLER_H_
 

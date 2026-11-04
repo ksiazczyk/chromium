@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Segmentation internals page handler class declaration
+// summary: Declares SegmentationInternalsPageHandlerImpl, which implements the mojom PageHandler and observes segmentation service updates as a ServiceProxy observer.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SEGMENTATION_INTERNALS_SEGMENTATION_INTERNALS_PAGE_HANDLER_IMPL_H_
 #define CHROME_BROWSER_UI_WEBUI_SEGMENTATION_INTERNALS_SEGMENTATION_INTERNALS_PAGE_HANDLER_IMPL_H_
 

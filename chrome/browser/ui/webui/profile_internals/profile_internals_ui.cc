@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile internals WebUI controller implementation
+// summary: Implements the WebUI controller that sets up the profile internals data source with its resources and attaches the message handler for the debug page.
+// ---
+
 #include "chrome/browser/ui/webui/profile_internals/profile_internals_ui.h"
 
 #include "chrome/browser/profiles/profile.h"

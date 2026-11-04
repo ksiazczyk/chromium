@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print preview handler unit tests
+// summary: Unit tests for the print preview WebUI handler, covering print settings, metrics, and enterprise content analysis scenarios.
+// ---
+
 #include "chrome/browser/ui/webui/print_preview/print_preview_handler.h"
 
 #include <array>

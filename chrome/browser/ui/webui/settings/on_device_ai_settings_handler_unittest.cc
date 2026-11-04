@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: On device AI settings handler unit tests
+// summary: Unit tests for the on-device AI settings WebUI handler, verifying the enable pref and enterprise policy restrictions.
+// ---
+
 #include "chrome/browser/ui/webui/settings/on_device_ai_settings_handler.h"
 
 #include "base/run_loop.h"

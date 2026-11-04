@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub handler implementation
+// summary: Implements the WebUI handler for Safety Hub modules such as extensions, passwords, Safe Browsing, and unused site permissions.
+// ---
+
 #include "chrome/browser/ui/webui/settings/safety_hub_handler.h"
 
 #include <memory>

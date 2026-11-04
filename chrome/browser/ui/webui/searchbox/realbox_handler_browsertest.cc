@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Realbox handler browser tests
+// summary: Browser tests for the NTP realbox handler covering autocomplete results, pedals, selection and search prefetch behavior.
+// ---
+
 #include "chrome/browser/ui/webui/searchbox/realbox_handler.h"
 
 #include <gtest/gtest.h>

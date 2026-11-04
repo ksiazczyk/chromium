@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual searchbox test utilities
+// summary: Implements mock contextual search services and query controllers used by searchbox tests.
+// ---
+
 #include "chrome/browser/ui/webui/searchbox/contextual_searchbox_test_utils.h"
 
 #include <optional>

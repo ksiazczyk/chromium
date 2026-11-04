@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom home pages table model header
+// summary: Declares CustomHomePagesTableModel, the ui::TableModel backing the settings list of pages the user wants opened on startup.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SETTINGS_CUSTOM_HOME_PAGES_TABLE_MODEL_H_
 #define CHROME_BROWSER_UI_WEBUI_SETTINGS_CUSTOM_HOME_PAGES_TABLE_MODEL_H_
 

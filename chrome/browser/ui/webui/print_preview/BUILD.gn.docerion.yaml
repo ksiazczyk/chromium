@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Print preview GN build configuration
+summary: Defines the print_preview header-only and impl source sets, listing public headers, sources, and GN dependencies.

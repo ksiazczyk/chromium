@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for settings WebUI handlers
+summary: Lists code owners for the settings WebUI directory with per-file ownership rules for individual handlers.

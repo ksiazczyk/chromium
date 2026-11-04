@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: People settings handler implementation
+// summary: Implements the WebUI handler for the People settings page, covering sign-in, sync configuration, passphrases, and profile information.
+// ---
+
 #include "chrome/browser/ui/webui/settings/people_handler.h"
 
 #include <memory>

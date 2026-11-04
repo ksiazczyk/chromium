@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print preview UI browser tests
+// summary: Browser tests verifying print command behavior, print preview dialog creation, and task manager entries.
+// ---
+
 #include "chrome/browser/ui/webui/print_preview/print_preview_ui.h"
 
 #include "base/strings/utf_string_conversions.h"

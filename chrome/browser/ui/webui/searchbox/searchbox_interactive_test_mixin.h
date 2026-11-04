@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Searchbox interactive test mixin
+// summary: Test mixin for interactive browser tests that seeds history autocomplete results and waits for Google search navigations.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SEARCHBOX_SEARCHBOX_INTERACTIVE_TEST_MIXIN_H_
 #define CHROME_BROWSER_UI_WEBUI_SEARCHBOX_SEARCHBOX_INTERACTIVE_TEST_MIXIN_H_
 

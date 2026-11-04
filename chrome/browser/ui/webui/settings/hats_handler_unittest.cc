@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HaTS handler unit tests
+// summary: Unit tests for HatsHandler covering survey triggering for privacy settings, privacy guide, privacy sandbox, and security page interactions using mock services.
+// ---
+
 #include "chrome/browser/ui/webui/settings/hats_handler.h"
 
 #include <memory>

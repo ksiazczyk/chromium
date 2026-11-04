@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for regional capabilities internals
+summary: Grants include access to the WebUI constants header and the country access reason header.

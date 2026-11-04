@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Safe Browsing WebUI header
+// summary: Declares the ChromeSafeBrowsingUI class and its internal WebUI config registered under the Safe Browsing host.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_SAFE_BROWSING_CHROME_SAFE_BROWSING_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_SAFE_BROWSING_CHROME_SAFE_BROWSING_UI_H_
 

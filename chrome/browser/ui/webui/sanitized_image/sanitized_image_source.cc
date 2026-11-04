@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sanitized image source implementation
+// summary: Implements the sanitized image data source that downloads external images in the browser process, decodes them in an isolated utility process, and re-encodes them for safe embedding in WebUIs, including Google Photos token fetching.
+// ---
+
 #include "chrome/browser/ui/webui/sanitized_image/sanitized_image_source.h"
 
 #include <map>

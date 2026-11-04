@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print preview utility functions implementation
+// summary: Implements helper functions for print preview, including printer list conversion, CDD validation, DPI capability handling, and starting local print jobs.
+// ---
+
 #include "chrome/browser/ui/webui/print_preview/print_preview_utils.h"
 
 #include <string>

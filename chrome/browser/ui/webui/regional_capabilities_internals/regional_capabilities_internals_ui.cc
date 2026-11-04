@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Regional capabilities internals WebUI controller implementation
+// summary: Implements the WebUI controller for the regional capabilities internals debug page, adding service data and search engine choice strings to the data source.
+// ---
+
 #include "chrome/browser/ui/webui/regional_capabilities_internals/regional_capabilities_internals_ui.h"
 
 #include "base/check_deref.h"

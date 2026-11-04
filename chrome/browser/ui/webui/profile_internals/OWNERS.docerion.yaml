@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for profile_internals
+summary: Delegates code ownership review to the owners of chrome/browser/profiles.
