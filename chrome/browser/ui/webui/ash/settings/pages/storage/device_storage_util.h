@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Byte size rounding helper declaration
+// summary: Declares RoundByteSize, a helper that rounds a byte count to the next power of two.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_STORAGE_DEVICE_STORAGE_UTIL_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_STORAGE_DEVICE_STORAGE_UTIL_H_
 

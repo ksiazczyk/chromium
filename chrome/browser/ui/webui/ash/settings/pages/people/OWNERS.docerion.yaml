@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Per-file owners for account manager handlers
+summary: Delegates ownership of the account manager files to the owners of the ChromeOS account manager component.

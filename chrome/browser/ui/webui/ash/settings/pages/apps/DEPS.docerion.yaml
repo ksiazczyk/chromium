@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the Ash settings apps directory
+summary: Restricts includes to allowed ChromeOS and ash dependencies and grants test files additional chrome test access.

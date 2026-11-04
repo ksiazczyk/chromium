@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for Crostini settings
+summary: Delegates directory code ownership to the guest_os OWNERS file.

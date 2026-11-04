@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Byte size rounding helper implementation
+// summary: Implements RoundByteSize, which rounds a byte count up to the next power of two.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/storage/device_storage_util.h"
 
 #include <bit>

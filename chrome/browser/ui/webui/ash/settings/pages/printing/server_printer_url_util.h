@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Server printer URL utility header
+// summary: Declares ash::settings helpers that validate server printer URL schemes and generate GURLs, defaulting to HTTPS when a scheme is missing.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_PRINTING_SERVER_PRINTER_URL_UTIL_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_PRINTING_SERVER_PRINTER_URL_UTIL_H_
 

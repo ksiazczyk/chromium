@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for the Ash settings apps handlers
+summary: Defines the apps static library plus browser test and unit test targets for the ChromeOS settings apps page handlers.

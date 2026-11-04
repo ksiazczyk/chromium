@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for ChromeOS settings pages
+summary: Defines the pages static library and its unit_tests source_set, listing sources, dependencies, and allowed circular includes for the settings pages.

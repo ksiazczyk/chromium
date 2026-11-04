@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Printing settings BUILD.gn
+summary: Defines the GN build targets for the ChromeOS settings printing library and its unit tests, listing sources and dependencies.

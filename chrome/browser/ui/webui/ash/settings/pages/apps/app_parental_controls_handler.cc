@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App parental controls handler implementation
+// summary: Implements the Mojo handler for blocking ARC apps, PIN validation, and on-device app controls for the settings page.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/apps/app_parental_controls_handler.h"
 
 #include <memory>

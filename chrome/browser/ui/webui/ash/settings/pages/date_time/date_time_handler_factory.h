@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Date and time page handler factory header
+// summary: Declares the DateTimeHandlerFactory class that binds the date_time Mojo PageHandlerFactory and owns the created page handler.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_DATE_TIME_DATE_TIME_HANDLER_FACTORY_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_DATE_TIME_DATE_TIME_HANDLER_FACTORY_H_
 

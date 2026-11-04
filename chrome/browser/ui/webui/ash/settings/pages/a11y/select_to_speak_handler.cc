@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Select to Speak settings handler implementation
+// summary: Implements the WebUI message handler for the ChromeOS Select to Speak settings page, providing TTS voice data, voice previews and the application locale.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/a11y/select_to_speak_handler.h"
 
 #include "ash/webui/settings/public/constants/routes.mojom.h"

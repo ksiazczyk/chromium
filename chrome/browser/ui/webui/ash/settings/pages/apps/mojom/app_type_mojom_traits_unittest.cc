@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Readiness mojom enum traits
+// summary: Verifies round-trip serialization and deserialization of all apps::Readiness enum values through the mojom traits.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/apps/mojom/app_type_mojom_traits.h"
 
 #include "chrome/browser/ui/webui/ash/settings/pages/apps/mojom/app_notification_handler.mojom.h"

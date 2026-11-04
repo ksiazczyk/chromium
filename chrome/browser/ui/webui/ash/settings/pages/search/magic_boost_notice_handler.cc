@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Magic Boost notice handler implementation
+// summary: Shows the Magic Boost disclaimer or Editor notice when requested from the settings search page.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/search/magic_boost_notice_handler.h"
 
 #include "chrome/browser/ash/input_method/editor_mediator_factory.h"

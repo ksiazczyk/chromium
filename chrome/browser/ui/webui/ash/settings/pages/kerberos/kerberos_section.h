@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kerberos settings section class declaration
+// summary: Declares the KerberosSection class that provides UI strings and search tags for the Kerberos settings section.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_KERBEROS_KERBEROS_SECTION_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_KERBEROS_KERBEROS_SECTION_H_
 

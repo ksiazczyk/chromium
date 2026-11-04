@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send search feedback handler implementation
+// summary: Implements the WebUI message handler that opens the Chrome feedback dialog with a description template coming from settings search.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/main/send_search_feedback_handler.h"
 
 #include "chrome/browser/ui/browser_commands.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fast Pair saved devices handler unit tests
+// summary: Unit tests for the Fast Pair saved devices handler, verifying saved device loading, image encoding, device removal, and related histogram metrics using fake repository and mock image decoder.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/bluetooth/fast_pair_saved_devices_handler.h"
 
 #include "ash/quick_pair/common/logging.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the About Chrome OS settings section
+summary: Defines the static library target for the About Chrome OS settings section, listing its sources and its public and private build dependencies.

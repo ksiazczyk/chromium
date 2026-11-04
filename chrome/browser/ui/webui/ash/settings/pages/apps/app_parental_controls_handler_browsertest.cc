@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the app parental controls handler
+// summary: Runs in-process browser tests for the app parental controls handler, covering ARC app updates, observer notifications and related settings behavior.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/apps/app_parental_controls_handler.h"
 
 #include <map>

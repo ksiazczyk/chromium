@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Switch Access settings handler implementation
+// summary: Implements the WebUI handler for the Switch Access settings subpage, managing switch assignments, key capture and device information.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/a11y/switch_access_handler.h"
 
 #include <array>

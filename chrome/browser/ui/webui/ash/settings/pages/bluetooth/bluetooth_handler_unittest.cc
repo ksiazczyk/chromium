@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BluetoothHandler unit tests
+// summary: Unit tests verifying the Fast Pair device support status message emitted by the Bluetooth settings handler.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/bluetooth/bluetooth_handler.h"
 
 #include <memory>

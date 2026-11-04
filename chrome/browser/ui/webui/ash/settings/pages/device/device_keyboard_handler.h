@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard settings WebUI message handler declaration
+// summary: Declares the KeyboardHandler class with a TestAPI and input device observation for the keyboard settings page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_DEVICE_DEVICE_KEYBOARD_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_DEVICE_DEVICE_KEYBOARD_HANDLER_H_
 

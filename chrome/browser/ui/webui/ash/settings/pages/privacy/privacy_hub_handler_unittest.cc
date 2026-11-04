@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Privacy Hub handler unit tests
+// summary: Unit tests verifying that the Privacy Hub handler sends correct WebUI responses and listener events for microphone, camera LED fallback, and related states.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/privacy/privacy_hub_handler.h"
 
 #include <algorithm>

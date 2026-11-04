@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth settings WebUI message handler implementation
+// summary: Implements the ChromeOS Bluetooth settings handler that reports Fast Pair device support status to the WebUI.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/bluetooth/bluetooth_handler.h"
 
 #include "base/functional/bind.h"

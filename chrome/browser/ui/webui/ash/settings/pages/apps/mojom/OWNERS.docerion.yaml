@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for the apps settings mojom directory
+summary: Lists jimmyxgong@chromium.org as primary owner and requires IPC security owners for mojom and traits files.

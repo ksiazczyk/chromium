@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy Hub WebUI handler class declaration
+// summary: Declares the PrivacyHubHandler class, a WebUI message handler that observes audio, session, and privacy hub delegate events for ChromeOS privacy settings.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_PRIVACY_PRIVACY_HUB_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_PRIVACY_PRIVACY_HUB_HANDLER_H_
 

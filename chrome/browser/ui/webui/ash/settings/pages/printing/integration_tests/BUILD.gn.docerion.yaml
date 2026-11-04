@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for printer settings integration tests
+summary: Defines the crosier_tests GN target that builds the printer settings integration tests for ChromeOS devices, listing the test source and its dependencies.

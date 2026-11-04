@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the About Chrome OS settings section class
+// summary: Declares the AboutSection class, which supplies UI strings and search tags for the settings About Chrome OS page and includes a Crostini subsection.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_ABOUT_ABOUT_SECTION_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_ABOUT_ABOUT_SECTION_H_
 

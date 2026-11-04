@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the Kerberos settings directory
+summary: Restricts and allows Chromium dependencies for code in the Kerberos settings directory via include_rules.

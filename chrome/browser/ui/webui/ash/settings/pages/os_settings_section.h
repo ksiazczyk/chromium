@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OsSettingsSection class declaration
+// summary: Declares the base class for a top-level settings app section, covering availability tracking, search tags, loadTimeData, and the HierarchyGenerator interface.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_OS_SETTINGS_SECTION_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_OS_SETTINGS_SECTION_H_
 

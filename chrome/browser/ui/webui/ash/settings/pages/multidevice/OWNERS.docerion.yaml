@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file delegating to multidevice component owners
+summary: Delegates code ownership for this directory to the multidevice component OWNERS file.

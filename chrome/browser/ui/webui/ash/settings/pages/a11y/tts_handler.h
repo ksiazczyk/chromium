@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTS settings handler header
+// summary: Declares the TtsHandler class that serves the ChromeOS manageAccessibility TTS settings page and extends the shared TTS preview handler.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_A11Y_TTS_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_A11Y_TTS_HANDLER_H_
 

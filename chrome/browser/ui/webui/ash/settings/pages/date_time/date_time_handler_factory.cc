@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Date and time page handler factory implementation
+// summary: Implements the Mojo PageHandlerFactory that creates a NewDateTimeHandler instance for the date and time settings page.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/date_time/date_time_handler_factory.h"
 
 #include <memory>

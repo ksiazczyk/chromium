@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics choice handler class declaration
+// summary: Declares the MetricsChoiceHandler WebUI message handler for fetching and updating the metrics consent state.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_PRIVACY_METRICS_CHOICE_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_PRIVACY_METRICS_CHOICE_HANDLER_H_
 

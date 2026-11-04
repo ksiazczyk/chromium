@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini settings section implementation
+// summary: Implements the Crostini settings section with UI strings, search tags, load-time data, and subpage hierarchy registration.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/crostini/crostini_section.h"
 
 #include <array>

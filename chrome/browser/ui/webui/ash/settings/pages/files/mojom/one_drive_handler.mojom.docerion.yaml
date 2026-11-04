@@ -1,0 +1,4 @@
+# Docerion header of one_drive_handler.mojom.
+type: source
+title: OneDrive settings page handler Mojom interfaces
+summary: Defines Mojo interfaces for the OneDrive settings page, covering account email lookup, mount and unmount requests and mount state notifications.

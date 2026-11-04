@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the About settings directory
+summary: Restricts dependencies for this directory, blocking //chrome includes by default and allowlisting specific ash, settings, and webui paths.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fingerprint settings handler class declaration
+// summary: Declares the settings handler that bridges the fingerprint Mojo service and session state to the people settings page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_PEOPLE_FINGERPRINT_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_PEOPLE_FINGERPRINT_HANDLER_H_
 

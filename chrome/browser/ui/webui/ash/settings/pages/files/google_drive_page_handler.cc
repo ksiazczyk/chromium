@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Drive settings page handler implementation
+// summary: Implements the Mojo handler for the Google Drive settings page, reporting bulk pinning progress, content cache size and pinned file clearing.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/files/google_drive_page_handler.h"
 
 #include <optional>

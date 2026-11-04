@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultitaskingSection class declaration
+// summary: Declares the MultitaskingSection class that supplies UI strings and search tags for the multitasking settings subsection.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_MULTITASKING_MULTITASKING_SECTION_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_MULTITASKING_MULTITASKING_SECTION_H_
 

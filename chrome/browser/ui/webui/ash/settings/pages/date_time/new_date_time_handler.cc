@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo-based date and time settings handler implementation
+// summary: Implements the Mojo-based date and time settings handler, covering timezone lists, set-time UI, and parent access approval for timezone changes.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/date_time/new_date_time_handler.h"
 
 #include <vector>

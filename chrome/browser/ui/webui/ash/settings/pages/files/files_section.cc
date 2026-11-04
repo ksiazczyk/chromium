@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Files settings section implementation
+// summary: Implements the Files settings section, registering UI strings, handlers and search tags for Google Drive, OneDrive, Microsoft 365 and network file shares.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/files/files_section.h"
 
 #include <array>

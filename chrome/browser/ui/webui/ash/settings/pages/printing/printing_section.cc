@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printing settings section implementation
+// summary: Implements the Printing settings section, registering search tags, UI strings, and the CUPS printers handler for ChromeOS settings.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/printing/printing_section.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Switch Access handler browser tests
+// summary: Browser tests verifying that the Switch Access settings handler receives key events and reports assignment details when the assignment pane is active.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/a11y/switch_access_handler.h"
 
 #include "base/test/bind.h"

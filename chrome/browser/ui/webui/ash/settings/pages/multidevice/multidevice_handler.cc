@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multidevice settings WebUI message handler implementation
+// summary: Implements the WebUI message handler for the ChromeOS Connected Devices settings page, exposing feature states, prefs, and permission onboarding metrics.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/multidevice/multidevice_handler.h"
 
 #include "ash/constants/ash_features.h"

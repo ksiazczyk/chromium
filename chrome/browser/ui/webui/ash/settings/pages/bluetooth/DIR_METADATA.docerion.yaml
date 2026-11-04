@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for Bluetooth settings
+summary: Points to shared directory metadata mixins for the Bluetooth settings folder.

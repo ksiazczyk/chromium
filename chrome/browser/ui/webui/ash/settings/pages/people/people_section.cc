@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PeopleSection implementation
+// summary: Implements the People settings section, registering handlers, load-time data, and search tags for accounts, sync, fingerprint, quick unlock, and parental controls.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/people/people_section.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync settings section implementation
+// summary: Implements the Sync settings subsection, adding localized strings, search tags, and handlers for sync controls within the ChromeOS privacy settings.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/privacy/sync_section.h"
 
 #include <array>

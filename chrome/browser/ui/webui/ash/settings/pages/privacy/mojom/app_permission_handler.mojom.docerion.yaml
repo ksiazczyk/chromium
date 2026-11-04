@@ -1,0 +1,4 @@
+# Docerion header of app_permission_handler.mojom.
+type: source
+title: App permission handler Mojom interfaces
+summary: Defines the App struct plus browser and frontend interfaces for listing apps, observing permission updates, and managing camera and microphone permissions in ChromeOS privacy settings.

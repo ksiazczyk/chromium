@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OneDrive settings page handler header
+// summary: Declares the OneDrivePageHandler class, which implements the Mojo PageHandler interface and observes file system provider mount and unmount events.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_FILES_ONE_DRIVE_PAGE_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_FILES_ONE_DRIVE_PAGE_HANDLER_H_
 

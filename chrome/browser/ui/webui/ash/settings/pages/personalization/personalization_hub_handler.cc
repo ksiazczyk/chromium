@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personalization Hub WebUI message handler implementation
+// summary: Implements the WebUI message handler that registers the openPersonalizationHub callback and launches the Personalization Hub system web app.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/personalization/personalization_hub_handler.h"
 
 #include "base/functional/bind.h"

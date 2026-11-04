@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for accessibility settings dependencies
+summary: Specifies allowed include rules for the accessibility settings directory, restricting //chrome dependencies and granting exceptions for specific test and handler files.

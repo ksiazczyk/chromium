@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the display settings targets
+summary: GN build file defining the Mojo bindings target, the display settings static library, and its unit tests for the ChromeOS settings display page.

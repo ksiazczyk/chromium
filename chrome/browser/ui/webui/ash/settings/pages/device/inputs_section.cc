@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inputs section implementation for Chrome OS settings
+// summary: Implements the Inputs settings section, adding input method, spell check and dictionary UI strings and search tags.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/device/inputs_section.h"
 
 #include <array>

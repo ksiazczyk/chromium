@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Peripheral data access handler class declaration
+// summary: Declares the PeripheralDataAccessHandler WebUI message handler for Thunderbolt support and peripheral data access policy state.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_PRIVACY_PERIPHERAL_DATA_ACCESS_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_PRIVACY_PERIPHERAL_DATA_ACCESS_HANDLER_H_
 

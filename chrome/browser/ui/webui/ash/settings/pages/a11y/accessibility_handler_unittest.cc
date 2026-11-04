@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the accessibility settings handler
+// summary: Contains unit tests for the accessibility settings handler, verifying that the showBrowserAppearanceSettings message opens the expected settings URL.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/a11y/accessibility_handler.h"
 
 #include "ash/constants/chrome_webui_url_constants.h"

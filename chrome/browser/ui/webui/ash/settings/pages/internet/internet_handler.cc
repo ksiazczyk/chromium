@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internet settings WebUI message handler implementation
+// summary: Implements the ChromeOS internet settings WebUI handler for third-party VPN, carrier account detail, cellular setup, portal signin and GMS core notification messages.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/internet/internet_handler.h"
 
 #include <memory>

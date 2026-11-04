@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apps settings section implementation
+// summary: Implements the Apps section of ChromeOS settings, registering search tags, load-time data and handlers for app-related subpages such as app management and notifications.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/apps/apps_section.h"
 
 #include <array>

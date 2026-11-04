@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the app notification handler
+// summary: Tests app list updates, notification permissions, and quiet mode behavior using a fake message center and test observers.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/apps/app_notification_handler.h"
 
 #include <memory>

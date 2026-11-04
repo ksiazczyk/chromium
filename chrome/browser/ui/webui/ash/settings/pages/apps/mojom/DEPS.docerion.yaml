@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the apps settings mojom directory
+summary: Bans //chrome dependencies for ChromeOS code while allowing this directory to include its own files.

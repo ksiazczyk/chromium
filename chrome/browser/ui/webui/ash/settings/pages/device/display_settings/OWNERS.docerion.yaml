@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the display settings directory
+summary: Lists the directory owner and routes approval of Mojom file changes to the IPC security owners.

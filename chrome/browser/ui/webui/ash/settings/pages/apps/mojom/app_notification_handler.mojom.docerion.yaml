@@ -1,0 +1,4 @@
+# Docerion header of app_notification_handler.mojom.
+type: source
+title: Mojom interfaces for app notification settings
+summary: Defines the Readiness enum, App struct, and AppNotificationsHandler/Observer interfaces for managing app notification permissions in OS Settings.

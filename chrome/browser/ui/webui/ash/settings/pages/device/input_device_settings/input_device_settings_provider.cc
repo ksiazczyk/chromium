@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input device settings provider implementation
+// summary: Implements the ChromeOS settings provider that fetches and updates keyboard, mouse, touchpad, pointing stick, and graphics tablet settings and notifies observers.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/device/input_device_settings/input_device_settings_provider.h"
 
 #include <algorithm>

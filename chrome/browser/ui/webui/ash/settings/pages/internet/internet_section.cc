@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internet settings section implementation
+// summary: Implements the internet settings section, registering subpages, search tags, load-time data and network, hotspot and cellular setup handlers.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/internet/internet_section.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the storage settings page
+summary: Defines the static library target for the storage settings sources and the unit_tests source_set, along with their GN dependencies.

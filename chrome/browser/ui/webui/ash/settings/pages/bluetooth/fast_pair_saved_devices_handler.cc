@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair saved devices WebUI handler implementation
+// summary: Implements the WebUI handler that loads, lists and removes Fast Pair saved devices in Bluetooth settings.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/bluetooth/fast_pair_saved_devices_handler.h"
 
 #include "ash/quick_pair/common/fast_pair/fast_pair_metrics.h"

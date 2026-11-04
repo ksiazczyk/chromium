@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the storage settings directory
+summary: Sets include rules that block //chrome dependencies for ChromeOS while allowing needed ash settings includes, with extra allowances for the unit test.

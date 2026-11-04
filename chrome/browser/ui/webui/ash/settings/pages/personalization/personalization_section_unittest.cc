@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Personalization settings section
+// summary: Contains unit tests for PersonalizationSection, verifying load time data strings and search tags for regular and guest user sessions.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/personalization/personalization_section.h"
 
 #include "ash/constants/ash_features.h"

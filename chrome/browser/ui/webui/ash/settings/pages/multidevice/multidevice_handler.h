@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultideviceHandler class declaration
+// summary: Declares the WebUI message handler for the multidevice settings page, observing multidevice setup, Phone Hub, and apps access state changes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_MULTIDEVICE_MULTIDEVICE_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_MULTIDEVICE_MULTIDEVICE_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display settings provider implementation
+// summary: Implements the browser-side display settings provider, handling display configuration, brightness, ambient light sensor state, and recording related UMA metrics.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/device/display_settings/display_settings_provider.h"
 
 #include <optional>

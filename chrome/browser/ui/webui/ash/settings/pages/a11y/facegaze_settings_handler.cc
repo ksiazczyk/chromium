@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaceGaze settings WebUI handler implementation
+// summary: Implements the WebUI handler for FaceGaze settings, enabling or disabling FaceGaze and forwarding gesture information and disable dialog results to the settings page.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/a11y/facegaze_settings_handler.h"
 
 #include "base/functional/bind.h"

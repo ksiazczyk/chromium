@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the storage settings directory
+summary: Points the directory metadata to the shared file manager COMMON_METADATA mixins.

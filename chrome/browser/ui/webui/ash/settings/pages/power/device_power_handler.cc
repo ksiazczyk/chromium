@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PowerHandler implementation for device power settings
+// summary: Implements the PowerHandler WebUI message handler that manages ChromeOS battery status, idle behaviors, power sources, and charging settings.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/power/device_power_handler.h"
 
 #include <memory>

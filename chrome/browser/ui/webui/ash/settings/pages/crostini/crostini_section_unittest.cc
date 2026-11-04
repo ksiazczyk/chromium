@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CrostiniSection unit tests
+// summary: Verifies that the Bruschetta section shows when a config is installable or a Bruschetta VM is installed.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/crostini/crostini_section.h"
 
 #include "ash/constants/ash_features.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the metrics choice handler
+// summary: Tests metrics consent handling for owner, non-owner and child users with fake device settings and metrics services.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/privacy/metrics_choice_handler.h"
 
 #include <ranges>

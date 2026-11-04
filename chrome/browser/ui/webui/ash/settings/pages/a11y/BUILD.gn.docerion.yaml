@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for accessibility settings pages
+summary: Defines the a11y static library plus browser test and unit test targets, listing their sources and dependencies for the ChromeOS accessibility settings.

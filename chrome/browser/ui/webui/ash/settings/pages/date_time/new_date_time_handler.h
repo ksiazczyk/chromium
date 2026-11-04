@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo-based date and time settings handler header
+// summary: Declares the NewDateTimeHandler class, a Mojo PageHandler and SystemClockClient observer for the ChromeOS date and time settings.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_DATE_TIME_NEW_DATE_TIME_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_DATE_TIME_NEW_DATE_TIME_HANDLER_H_
 

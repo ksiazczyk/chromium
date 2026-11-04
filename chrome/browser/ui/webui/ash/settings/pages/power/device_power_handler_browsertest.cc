@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for PowerHandler
+// summary: Browser tests for PowerHandler covering idle behaviors, lid actions, adaptive charging, charge limits, and policy-managed power settings.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/power/device_power_handler.h"
 
 #include <memory>

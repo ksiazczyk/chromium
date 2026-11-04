@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the send search feedback handler
+// summary: Verifies that the openSearchFeedbackDialog message passes the description template through to the feedback dialog wrapper.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/main/send_search_feedback_handler.h"
 
 #include "content/public/test/test_web_ui.h"

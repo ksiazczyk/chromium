@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OsSettingsSection unit tests
+// summary: Tests GetDefaultModifiedUrl behavior for sections, subpages, and settings, including adding settingId to URLs with and without existing query parameters.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/os_settings_section.h"
 
 #include "ash/webui/settings/public/constants/setting.mojom.h"

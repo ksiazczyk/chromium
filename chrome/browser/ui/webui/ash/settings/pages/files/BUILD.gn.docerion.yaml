@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: ChromeOS settings files section build config
+summary: Defines the static library and browser test targets with their sources and dependencies for the ChromeOS settings Files section.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Drive settings page handler factory header
+// summary: Declares the GoogleDrivePageHandlerFactory class that implements the Mojo PageHandlerFactory interface and creates the Google Drive settings page handler.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_FILES_GOOGLE_DRIVE_PAGE_HANDLER_FACTORY_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_FILES_GOOGLE_DRIVE_PAGE_HANDLER_FACTORY_H_
 

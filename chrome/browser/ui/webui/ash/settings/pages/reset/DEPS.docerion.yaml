@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the reset settings directory
+summary: Defines include rules that restrict //chrome dependencies for this ChromeOS directory while allowing specific ash settings, profile, and grit headers.

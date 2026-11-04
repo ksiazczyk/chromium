@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the display settings directory
+summary: Include rules that block //chrome dependencies for this directory, allow its own headers, and permit chrome/test includes for unit tests only.

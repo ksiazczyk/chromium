@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the date/time settings Mojom target
+summary: Defines the GN mojom target that builds date_time_handler.mojom with a dependency on //mojo/public/mojom/base for the ChromeOS settings UI.

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the Ash settings apps page
+summary: Points to shared metadata mixins from the os_apps_page settings resources for this directory.

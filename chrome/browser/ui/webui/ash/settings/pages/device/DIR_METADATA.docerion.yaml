@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata pointing to device page COMMON_METADATA
+summary: Points the directory metadata to the shared mixins of the ChromeOS settings device page resources.

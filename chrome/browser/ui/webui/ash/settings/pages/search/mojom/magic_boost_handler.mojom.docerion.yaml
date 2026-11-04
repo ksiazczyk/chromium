@@ -1,0 +1,4 @@
+# Docerion header of magic_boost_handler.mojom.
+type: source
+title: Magic Boost settings Mojom interfaces
+summary: Defines Mojo interfaces letting a renderer create a browser-side page handler and show the Magic Boost notice terms and conditions.

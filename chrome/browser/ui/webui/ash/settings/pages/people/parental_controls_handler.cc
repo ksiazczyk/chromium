@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ParentalControlsHandler implementation
+// summary: Implements the Parental Controls settings page handler that shows the add supervision dialog and launches Family Link via app, Play Store, or browser.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/people/parental_controls_handler.h"
 
 #include "ash/public/cpp/new_window_delegate.h"

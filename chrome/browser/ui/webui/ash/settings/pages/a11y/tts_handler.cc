@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTS settings handler implementation
+// summary: Implements the WebUI handler for the ChromeOS text-to-speech settings page, listing TTS extensions, voices and locale display names.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/a11y/tts_handler.h"
 
 #include "ash/constants/ash_extension_constants.h"

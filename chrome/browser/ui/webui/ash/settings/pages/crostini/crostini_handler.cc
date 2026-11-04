@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini settings WebUI handler implementation
+// summary: Implements the WebUI message handler for Crostini install, removal, container and disk export/import, and ARC ADB sideloading.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/crostini/crostini_handler.h"
 
 #include <string>

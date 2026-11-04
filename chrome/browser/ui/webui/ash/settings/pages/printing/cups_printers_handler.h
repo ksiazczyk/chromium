@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CUPS printers settings WebUI handler header
+// summary: Declares the CupsPrintersHandler class that handles WebUI messages for CUPS printer setup, update, removal, and status in ChromeOS settings.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_PRINTING_CUPS_PRINTERS_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_PRINTING_CUPS_PRINTERS_HANDLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build configuration for the Kerberos settings library
+summary: Defines the kerberos static library target, its source files and its Chromium dependencies for the settings UI.

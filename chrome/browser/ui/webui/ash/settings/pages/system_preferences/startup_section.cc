@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup section implementation
+// summary: Implements the Startup settings section, adding localized strings and search tags for the restore apps and pages setting.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/system_preferences/startup_section.h"
 
 #include "base/no_destructor.h"

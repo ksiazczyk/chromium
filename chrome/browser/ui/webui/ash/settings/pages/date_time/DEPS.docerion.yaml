@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for date_time settings
+summary: Specifies Chromium include rules that restrict //chrome dependencies for the date_time settings directory and allow specific exceptions.

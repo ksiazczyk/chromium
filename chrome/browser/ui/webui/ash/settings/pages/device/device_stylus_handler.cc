@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stylus handler implementation for Chrome OS settings
+// summary: Implements the StylusHandler WebUI handler that lists note-taking apps, sets the preferred app and reports stylus availability.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/device/device_stylus_handler.h"
 
 #include <memory>

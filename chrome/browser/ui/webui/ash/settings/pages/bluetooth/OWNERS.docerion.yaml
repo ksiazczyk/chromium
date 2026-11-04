@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Bluetooth settings owners file
+summary: Delegates code ownership review to the OS Bluetooth settings page OWNERS file.

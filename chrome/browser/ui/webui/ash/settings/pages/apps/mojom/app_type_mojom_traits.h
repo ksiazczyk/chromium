@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations for Readiness mojom enum traits
+// summary: Declares EnumTraits mapping apps::Readiness to the mojom Readiness enum and CloneTraits for app permission pointers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_APPS_MOJOM_APP_TYPE_MOJOM_TRAITS_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_APPS_MOJOM_APP_TYPE_MOJOM_TRAITS_H_
 

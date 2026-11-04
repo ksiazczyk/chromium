@@ -1,0 +1,4 @@
+# Docerion header of app_parental_controls_handler.mojom.
+type: source
+title: Mojom interfaces for app parental controls settings
+summary: Defines the App struct, PIN validation result enum, and AppParentalControlsHandler/Observer interfaces for on-device parental controls in OS Settings.

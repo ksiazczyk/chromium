@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrostiniHandler class declaration
+// summary: Declares the Crostini settings WebUI message handler and its installer, export-import, port-forwarding, and container observer interfaces.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_CROSTINI_CROSTINI_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_CROSTINI_CROSTINI_HANDLER_H_
 

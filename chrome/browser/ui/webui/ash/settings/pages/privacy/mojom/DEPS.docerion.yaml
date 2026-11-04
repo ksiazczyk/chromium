@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the privacy settings Mojom directory
+summary: Sets include rules that forbid ChromeOS code from depending on //chrome and notes existing exceptions under an active refactoring effort.

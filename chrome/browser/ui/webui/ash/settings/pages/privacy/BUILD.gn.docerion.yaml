@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the ChromeOS settings privacy handlers
+summary: Defines the GN static library and unit test targets for the privacy settings handlers, listing their sources and build dependencies.

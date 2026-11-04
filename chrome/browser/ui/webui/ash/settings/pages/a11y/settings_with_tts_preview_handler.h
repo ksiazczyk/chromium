@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TTS settings preview handler header
+// summary: Declares the base WebUI message handler class for ChromeOS TTS-related settings pages with voice preview and voice change observation.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_A11Y_SETTINGS_WITH_TTS_PREVIEW_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_A11Y_SETTINGS_WITH_TTS_PREVIEW_HANDLER_H_
 

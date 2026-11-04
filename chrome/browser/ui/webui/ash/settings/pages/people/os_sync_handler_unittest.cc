@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OSSyncHandler unit tests
+// summary: Unit tests verifying that OSSyncHandler pushes the expected sync preference dictionary and handles sync datatype updates for the JavaScript settings layer.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pages/people/os_sync_handler.h"
 
 #include <memory>

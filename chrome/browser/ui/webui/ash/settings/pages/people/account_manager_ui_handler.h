@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account manager UI handler class declaration
+// summary: Declares the WebUI handler that observes account manager, identity manager and ARC availability changes for the settings people page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_PEOPLE_ACCOUNT_MANAGER_UI_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_PEOPLE_ACCOUNT_MANAGER_UI_HANDLER_H_
 

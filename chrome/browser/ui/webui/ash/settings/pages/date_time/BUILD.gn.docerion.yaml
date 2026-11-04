@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the date_time settings static library
+summary: Defines the GN static_library target for the ChromeOS date and time settings sources together with its public and private build dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of input_device_settings_provider.mojom.
+type: source
+title: Input device settings provider Mojo interface
+summary: Defines the Mojo structs and observer interfaces for observing and configuring keyboard, mouse, touchpad, pointing stick, graphics tablet, and brightness settings.

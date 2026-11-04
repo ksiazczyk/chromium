@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the settings main directory
+summary: Restricts and allows header includes for the directory, documenting ChromeOS dependency rules and the allowed //chrome exceptions.

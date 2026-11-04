@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the apps settings mojom bindings
+summary: Defines the mojom bindings target for app notification and parental controls handlers, typemaps for Readiness, and a unit_tests source set.

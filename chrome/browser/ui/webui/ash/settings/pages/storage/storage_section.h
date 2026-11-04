@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StorageSection header for ChromeOS Ash settings
+// summary: Declares the StorageSection class that supplies UI strings, search tags, and message handlers for the Storage settings page in ChromeOS Ash settings.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_STORAGE_STORAGE_SECTION_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_PAGES_STORAGE_STORAGE_SECTION_H_
 
