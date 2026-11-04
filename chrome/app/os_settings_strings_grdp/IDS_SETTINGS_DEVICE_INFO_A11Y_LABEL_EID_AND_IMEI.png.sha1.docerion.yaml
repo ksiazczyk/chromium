@@ -1,0 +1,4 @@
+# Docerion header of IDS_SETTINGS_DEVICE_INFO_A11Y_LABEL_EID_AND_IMEI.png.sha1.
+type: asset
+title: Checksum for the EID and IMEI accessibility label image
+summary: SHA-1 checksum for the placeholder image of the ChromeOS settings device info label that combines EID and IMEI values.

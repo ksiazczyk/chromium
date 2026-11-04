@@ -1,0 +1,4 @@
+# Docerion header of IDS_SETTINGS_FLASH_NOTIFICATIONS_DESCRIPTION.png.sha1.
+type: data
+title: SHA-1 checksum for flash notifications description image
+summary: Stores the SHA-1 hash of the flash notifications description PNG resource in the ChromeOS settings strings folder.
