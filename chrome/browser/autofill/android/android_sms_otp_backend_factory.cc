@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidSmsOtpBackendFactory implementation
+// summary: Implements a profile-keyed service factory that builds the Android SMS OTP backend per profile.
+// ---
+
 #include "chrome/browser/autofill/android/android_sms_otp_backend_factory.h"
 
 #include "chrome/browser/profiles/profile.h"

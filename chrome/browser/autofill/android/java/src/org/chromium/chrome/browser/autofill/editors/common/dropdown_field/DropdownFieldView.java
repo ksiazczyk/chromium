@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DropdownFieldView
+// summary: Builds the labelled dropdown spinner view for autofill editors, handling selection, hints, validation, error messages, focus and accessibility.
+// ---
+
 package org.chromium.chrome.browser.autofill.editors.common.dropdown_field;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

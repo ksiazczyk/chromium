@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FaviconHelper
+// summary: Android autofill helper that provides default favicons and fetches favicons for origins, using a swappable creation strategy to support test mocks.
+// ---
+
 package org.chromium.chrome.browser.autofill.helpers;
 
 import android.content.Context;

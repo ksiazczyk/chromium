@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Address editor render test
+// summary: Instrumentation tests that render screenshots of the Chrome autofill address editor across different setups and compare them to gold standard images.
+// ---
+
 package org.chromium.chrome.browser.autofill.editors.address;
 
 import static org.mockito.ArgumentMatchers.anyInt;

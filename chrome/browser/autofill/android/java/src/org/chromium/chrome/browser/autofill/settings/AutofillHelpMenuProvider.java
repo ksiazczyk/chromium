@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillHelpMenuProvider
+// summary: MenuProvider that adds a help icon to the autofill settings toolbar and opens the Help and Feedback launcher when clicked.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import android.view.Menu;

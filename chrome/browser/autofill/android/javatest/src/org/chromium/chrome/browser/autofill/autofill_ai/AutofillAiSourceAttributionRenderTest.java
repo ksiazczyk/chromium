@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill AI source attribution render test
+// summary: Render tests for the Autofill AI source attribution bottom sheet, parameterized by default, RTL, and night mode variants.
+// ---
+
 package org.chromium.chrome.browser.autofill.autofill_ai;
 
 import static org.chromium.base.ThreadUtils.runOnUiThreadBlocking;

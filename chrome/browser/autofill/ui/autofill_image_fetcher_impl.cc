@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillImageFetcherImpl desktop implementation
+// summary: Implements the Chrome desktop autofill image fetcher that resolves card art and valuable image URLs and applies sizing, borders and grey overlays.
+// ---
+
 #include "chrome/browser/autofill/ui/autofill_image_fetcher_impl.h"
 
 #include "base/strings/strcat.h"

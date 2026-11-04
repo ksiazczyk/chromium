@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill options property keys
+// summary: Defines the property keys describing the state of the autofill options settings screen for building its PropertyModel.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings.options;
 
 import android.text.SpannableString;

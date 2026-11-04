@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillPersonalContextCoordinator
+// summary: Coordinator that wires the Autofill Personal Context settings fragment to its mediator and binds the property model via a change processor.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings.personal_context;
 
 import android.content.Context;

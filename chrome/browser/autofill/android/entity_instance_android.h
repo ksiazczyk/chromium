@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EntityInstance Android JNI bridge header
+// summary: Declares the C++ mirror of the Java EntityInstance class with JNI conversion helpers and loss-less conversion back to a native EntityInstance.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOFILL_ANDROID_ENTITY_INSTANCE_ANDROID_H_
 #define CHROME_BROWSER_AUTOFILL_ANDROID_ENTITY_INSTANCE_ANDROID_H_
 

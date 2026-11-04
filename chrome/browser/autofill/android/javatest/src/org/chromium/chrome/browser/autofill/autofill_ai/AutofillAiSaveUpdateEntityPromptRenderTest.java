@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill AI save/update entity prompt render test
+// summary: Render tests that screenshot the Autofill AI save/update entity prompt and compare it against goldens, parameterized by night mode.
+// ---
+
 package org.chromium.chrome.browser.autofill.autofill_ai;
 
 import static org.chromium.base.ThreadUtils.runOnUiThreadBlocking;

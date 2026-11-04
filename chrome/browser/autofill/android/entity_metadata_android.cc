@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EntityMetadata Android JNI conversion
+// summary: Implements conversions between native entity metadata and the Java EntityMetadata class, mapping GUID, modification and use dates, and use count.
+// ---
+
 #include "chrome/browser/autofill/android/entity_metadata_android.h"
 
 #include "base/android/jni_string.h"

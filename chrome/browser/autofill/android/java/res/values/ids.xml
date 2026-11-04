@@ -6,6 +6,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Autofill Android ID resources
+summary: Declares Android ID resources for autofill date field labels, month, day and year dropdowns, and error message views.
+-->
+
 <resources>
     <!-- Date field ids -->
     <item type="id" name="date_field_label" />

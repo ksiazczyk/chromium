@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillPaymentsChurnedUsersBottomSheetCoordinator
+// summary: Coordinator that assembles the mediator, view, content and model change processor for the Payments Churned Users bottom sheet and manages its lifecycle.
+// ---
+
 package org.chromium.chrome.browser.autofill.payments_churned_users;
 
 import android.content.Context;

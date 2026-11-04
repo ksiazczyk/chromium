@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Entity data manager Java wrapper
+// summary: UI-thread Java wrapper of the native entity data manager for querying, adding, updating, and removing autofill AI entity instances.
+// ---
+
 package org.chromium.chrome.browser.autofill.autofill_ai;
 
 import androidx.annotation.VisibleForTesting;

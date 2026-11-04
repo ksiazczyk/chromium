@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address editor coordinator
+// summary: Coordinates the address editor for creating, editing and deleting autofill address profiles, exposing a delegate for done, cancel, delete and external edit interactions.
+// ---
+
 package org.chromium.chrome.browser.autofill.editors.address;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

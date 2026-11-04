@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FieldView
+// summary: Interface for autofill editor fields that defines validation, required-field checks, and scrolling to focus a field.
+// ---
+
 package org.chromium.chrome.browser.autofill.editors.common.field;
 
 import org.chromium.build.annotations.NullMarked;

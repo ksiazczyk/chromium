@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill options view binder
+// summary: Stateless binder that maps changes in the autofill options property model to the preferences of the settings fragment.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings.options;
 
 import static org.chromium.chrome.browser.autofill.settings.options.AutofillOptionsProperties.AUTOFILL_AI_REAUTH_SETTING_ON;

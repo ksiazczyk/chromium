@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EditorViewBase
+// summary: Base view class for autofill editor dialogs, handling field layout, animations, validation, and confirmation flows.
+// ---
+
 package org.chromium.chrome.browser.autofill.editors.common;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

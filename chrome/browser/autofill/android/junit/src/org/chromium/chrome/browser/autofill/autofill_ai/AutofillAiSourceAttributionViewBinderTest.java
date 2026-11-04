@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutofillAiSourceAttributionViewBinderTest
+// summary: Robolectric unit tests for the source attribution view binder, asserting that header and source card views bind and update model properties correctly.
+// ---
+
 package org.chromium.chrome.browser.autofill.autofill_ai;
 
 import static org.junit.Assert.assertEquals;

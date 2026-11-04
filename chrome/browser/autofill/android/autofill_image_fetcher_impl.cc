@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android implementation of the autofill image fetcher
+// summary: Implements the Android autofill image fetcher, prefetching credit card art, Pix account and valuable images through JNI while caching images on the Java side.
+// ---
+
 #include "chrome/browser/autofill/android/autofill_image_fetcher_impl.h"
 
 #include "base/android/jni_android.h"

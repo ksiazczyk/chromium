@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'PersonalDataManager: Java wrapper for autofill profile and card data'
+// summary: Android Java wrapper around the native PersonalDataManager that gives the UI thread access to saved autofill profiles, credit cards, IBANs, and related settings.
+// ---
+
 package org.chromium.chrome.browser.autofill;
 
 

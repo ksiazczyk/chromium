@@ -4,6 +4,13 @@ Copyright 2021 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Autofill save address profile prompt layout
+summary: Android layout for the prompt that saves an address profile, displaying the address, email and phone values with an edit button and a record type notice.
+-->
+
 <ScrollView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Autofill editor base buttons layout
+summary: Reusable Android layout providing the Cancel and Done button bar included at the bottom of Autofill editor dialogs.
+-->
+
 <merge
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto" >

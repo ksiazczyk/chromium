@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Third-party autofill filling preference radio group layout
+summary: Android layout for the third-party autofill filling preference, presenting radio buttons for the default and opt-in filling options.
+-->
+
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_height="wrap_content"
     android:layout_width="wrap_content"

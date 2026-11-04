@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EditorFieldValidator
+// summary: Validates autofill editor field values and sets error messages for initial hints, empty required fields, and invalid input, built via a builder.
+// ---
+
 package org.chromium.chrome.browser.autofill.editors.common.field;
 
 import static org.chromium.chrome.browser.autofill.editors.common.field.FieldProperties.ERROR_MESSAGE;

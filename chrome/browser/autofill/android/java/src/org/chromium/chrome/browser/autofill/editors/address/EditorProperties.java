@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Editor properties
+// summary: Defines the property keys that describe the visible state of the address editor dialog, such as title, fields, buttons and visibility.
+// ---
+
 package org.chromium.chrome.browser.autofill.editors.address;
 
 import android.app.Activity;

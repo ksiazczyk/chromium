@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EntityDataManagerTest
+// summary: Robolectric unit tests for EntityDataManager, verifying JNI-backed entity instance lookup, removal, and add-or-update calls with mocked natives.
+// ---
+
 package org.chromium.chrome.browser.autofill.autofill_ai;
 
 import static org.hamcrest.MatcherAssert.assertThat;

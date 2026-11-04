@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FieldProperties
+// summary: Defines the shared PropertyKey constants (label, validator, error message, required flag, focus, value) used by autofill editor field property models.
+// ---
+
 package org.chromium.chrome.browser.autofill.editors.common.field;
 
 import org.chromium.base.Callback;

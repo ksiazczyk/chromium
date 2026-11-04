@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EntityInstance Android unit tests
+// summary: Unit tests verifying conversion of Android entity instances to native Autofill AI EntityInstance objects, including reuse of unchanged attributes on updates.
+// ---
+
 #include "chrome/browser/autofill/android/entity_instance_android.h"
 
 #include <string>

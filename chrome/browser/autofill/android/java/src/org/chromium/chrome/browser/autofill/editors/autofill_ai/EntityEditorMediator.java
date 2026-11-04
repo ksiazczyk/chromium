@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mediator for the Autofill AI entity editor
+// summary: Implements the editor logic for Autofill AI entities, building editor fields and handling validation, delete confirmation and consent notices.
+// ---
+
 package org.chromium.chrome.browser.autofill.editors.autofill_ai;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillPersonalContextNoticePreference
+// summary: Temporary ChromeExpandableSwitchPreference subclass that hides the switch widget until a toggle is needed on the notice preference.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings.personal_context;
 
 import android.content.Context;

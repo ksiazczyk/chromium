@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI save/update entity prompt controller implementation
+// summary: Implements the Android controller that shows the save or update prompt for autofill AI entities and handles user acceptance, editing, and decline via JNI.
+// ---
+
 #include "chrome/browser/autofill/android/autofill_ai_save_update_entity_prompt_controller.h"
 
 #include <memory>

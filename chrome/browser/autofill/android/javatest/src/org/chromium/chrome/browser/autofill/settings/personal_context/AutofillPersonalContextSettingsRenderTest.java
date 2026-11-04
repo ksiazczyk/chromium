@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Render tests for the Autofill personal context settings screen
+// summary: Parameterized Android render tests that capture the AutofillPersonalContextFragment settings UI in collapsed and expanded states across light and night modes.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings.personal_context;
 
 import static org.chromium.base.ThreadUtils.runOnUiThreadBlocking;

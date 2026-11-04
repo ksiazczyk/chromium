@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill fallback surface launcher header
+// summary: Declares functions to open the Google Wallet passes management page and the private passes help center page in Chrome Custom Tabs.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOFILL_ANDROID_AUTOFILL_FALLBACK_SURFACE_LAUNCHER_H_
 #define CHROME_BROWSER_AUTOFILL_ANDROID_AUTOFILL_FALLBACK_SURFACE_LAUNCHER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Automotive toolbar Android library build definition
+summary: GN build file defining the automotive toolbar Android library target with its Java sources and dependencies.

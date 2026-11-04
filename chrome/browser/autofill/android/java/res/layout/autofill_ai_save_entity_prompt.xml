@@ -4,6 +4,13 @@ Copyright 2025 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Autofill AI save entity prompt layout
+summary: Android layout for the prompt that saves an Autofill AI entity, listing attribute infos plus clickable source and public passes notices.
+-->
+
 <ScrollView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

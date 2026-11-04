@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EditorObserverForTest
+// summary: Test-only observer interface exposing editor events such as readiness, validation errors, text updates, dismissal, and confirmation dialogs.
+// ---
+
 package org.chromium.chrome.browser.autofill.editors.common;
 
 import org.chromium.build.annotations.NullMarked;

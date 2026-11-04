@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declaration of the AtMemoryQueryService factory
+// summary: Declares AtMemoryQueryServiceFactory, a ProfileKeyedServiceFactory exposing per-profile access to the at_memory autofill query service.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOFILL_AT_MEMORY_AT_MEMORY_QUERY_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_AUTOFILL_AT_MEMORY_AT_MEMORY_QUERY_SERVICE_FACTORY_H_
 

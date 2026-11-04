@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DateFieldView
+// summary: Android view for date selection that combines month, day, and year dropdowns and also supports a Material date picker, bound to a property model.
+// ---
+
 package org.chromium.chrome.browser.autofill.editors.common.date_field;
 
 import static org.chromium.chrome.browser.autofill.editors.common.date_field.DateFieldProperties.DATE_VALID;

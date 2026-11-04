@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JNI wrapper for the Autofill AI entity data manager
+// summary: Implements the Java-facing wrapper that manages Autofill AI eligibility, opt-in status and entity instances, including wallet pass storage.
+// ---
+
 #include "chrome/browser/autofill/android/entity_data_manager_android.h"
 
 #include <algorithm>

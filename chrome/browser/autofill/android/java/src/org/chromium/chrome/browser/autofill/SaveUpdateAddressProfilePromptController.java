@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'SaveUpdateAddressProfilePromptController: JNI bridge for prompt events'
+// summary: JNI wrapper for the C++ prompt controller that forwards prompt dismissal, acceptance, decline, and edit events from the Java dialog to native code.
+// ---
+
 package org.chromium.chrome.browser.autofill;
 
 import androidx.annotation.VisibleForTesting;

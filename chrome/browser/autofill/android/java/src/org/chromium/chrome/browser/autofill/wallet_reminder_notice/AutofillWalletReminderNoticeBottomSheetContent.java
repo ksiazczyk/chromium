@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallet Reminder Notice bottom sheet content
+// summary: Implements BottomSheetContent with high priority, custom lifecycle to stay open during checkout navigation, and accessibility strings.
+// ---
+
 package org.chromium.chrome.browser.autofill.wallet_reminder_notice;
 
 import android.view.View;

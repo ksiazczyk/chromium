@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidSmsOtpBackendFactory declaration
+// summary: Declares the profile-keyed service factory that provides the Android SMS OTP backend for a profile.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOFILL_ANDROID_ANDROID_SMS_OTP_BACKEND_FACTORY_H_
 #define CHROME_BROWSER_AUTOFILL_ANDROID_ANDROID_SMS_OTP_BACKEND_FACTORY_H_
 

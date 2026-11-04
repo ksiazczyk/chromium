@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill payments churned users bottom sheet render tests
+// summary: Render tests comparing the Payments Churned Users bottom sheet against goldens across default, RTL, and night mode variants and loading states.
+// ---
+
 package org.chromium.chrome.browser.autofill.payments_churned_users;
 
 import static org.chromium.base.ThreadUtils.runOnUiThreadBlocking;

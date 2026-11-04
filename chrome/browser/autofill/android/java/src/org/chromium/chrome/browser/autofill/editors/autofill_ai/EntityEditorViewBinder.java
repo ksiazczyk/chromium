@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View binder for the Autofill AI entity editor
+// summary: Maps changes of the entity editor property model to the corresponding update methods on the editor dialog view.
+// ---
+
 package org.chromium.chrome.browser.autofill.editors.autofill_ai;
 
 import static org.chromium.chrome.browser.autofill.editors.autofill_ai.EntityEditorProperties.ALLOW_DELETE;

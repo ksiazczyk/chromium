@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Autofill AI attribute info layout with edit button
+summary: Android layout showing an Autofill AI attribute's name, value, and old value next to an edit button shown only for the first attribute in the list.
+-->
+
 <RelativeLayout
       xmlns:android="http://schemas.android.com/apk/res/android"
       xmlns:app="http://schemas.android.com/apk/res-auto"

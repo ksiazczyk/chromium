@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillPersonalContextMediator
+// summary: Mediator that handles toggle changes and manage-connected-apps clicks, updating EntityDataManager and recording user actions.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings.personal_context;
 
 import static org.chromium.chrome.browser.autofill.settings.personal_context.AutofillPersonalContextProperties.ON_MANAGE_CONNECTED_APPS_CLICKED;

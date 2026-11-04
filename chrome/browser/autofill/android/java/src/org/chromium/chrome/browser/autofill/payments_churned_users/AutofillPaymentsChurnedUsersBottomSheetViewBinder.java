@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillPaymentsChurnedUsersBottomSheetViewBinder
+// summary: View binder that applies property model changes for the Payments Churned Users bottom sheet to its widgets, including text, icons, click listeners and loading state.
+// ---
+
 package org.chromium.chrome.browser.autofill.payments_churned_users;
 
 import static org.chromium.chrome.browser.autofill.payments_churned_users.AutofillPaymentsChurnedUsersBottomSheetProperties.ACCEPT_BUTTON_LABEL;

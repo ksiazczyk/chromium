@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI bridge for autofill address and country data
+// summary: Exposes the default country code, supported countries, required address fields and address editor UI information to the Java layer via JNI.
+// ---
+
 #include "chrome/browser/autofill/android/autofill_profile_bridge.h"
 
 #include <algorithm>

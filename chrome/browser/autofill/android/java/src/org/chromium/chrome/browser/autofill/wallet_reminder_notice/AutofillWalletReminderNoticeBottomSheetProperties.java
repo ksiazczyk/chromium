@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallet Reminder Notice bottom sheet properties
+// summary: Defines the property keys for the bottom sheet model, covering header icon, title, legal message, and Got It click action.
+// ---
+
 package org.chromium.chrome.browser.autofill.wallet_reminder_notice;
 
 import org.chromium.build.annotations.NullMarked;

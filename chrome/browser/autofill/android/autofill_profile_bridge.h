@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address validation types for the autofill profile bridge
+// summary: Defines the AddressValidationType enum that selects between PaymentRequest and account address validation rules for Android.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOFILL_ANDROID_AUTOFILL_PROFILE_BRIDGE_H_
 #define CHROME_BROWSER_AUTOFILL_ANDROID_AUTOFILL_PROFILE_BRIDGE_H_
 

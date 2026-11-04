@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the save/update address profile prompt controller
+// summary: Tests the prompt controller's titles, profile diffs and user decision handling using mock views and test profiles.
+// ---
+
 #include "chrome/browser/autofill/android/save_update_address_profile_prompt_controller.h"
 
 #include <jni.h>

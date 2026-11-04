@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Autofill AI source drawable aliases
+summary: Defines fallback unbranded drawable aliases for Autofill AI source attribution icons, overlaid by Google-branded assets in official builds.
+-->
+
 <resources>
     <!-- Fallback unbranded icons for Autofill AI source attribution.
          Overlaid by official Google-branded assets in official builds. -->

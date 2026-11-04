@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI source attribution coordinator
+// summary: Coordinates the source attribution bottom sheet lifecycle, wiring the model list, view, mediator, and bottom sheet observers.
+// ---
+
 package org.chromium.chrome.browser.autofill.autofill_ai;
 
 import android.content.Context;

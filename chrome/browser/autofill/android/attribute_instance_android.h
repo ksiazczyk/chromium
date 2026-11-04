@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AttributeInstanceAndroid struct declaration
+// summary: Declares the C++ mirror of the Java AttributeInstance class, holding string or date attribute values with verification status.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOFILL_ANDROID_ATTRIBUTE_INSTANCE_ANDROID_H_
 #define CHROME_BROWSER_AUTOFILL_ANDROID_ATTRIBUTE_INSTANCE_ANDROID_H_
 

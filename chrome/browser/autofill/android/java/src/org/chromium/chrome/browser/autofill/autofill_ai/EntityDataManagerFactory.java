@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EntityDataManagerFactory
+// summary: Factory that provides the EntityDataManager instance associated with a given Chrome profile, including a test-only override registered via ResettersForTesting.
+// ---
+
 package org.chromium.chrome.browser.autofill.autofill_ai;
 
 import org.chromium.base.ResettersForTesting;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidAutofillAvailabilityStatus enum
+// summary: Defines an enum of reasons Android autofill may be unavailable, recorded as a metric and exported to Java.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOFILL_ANDROID_ANDROID_AUTOFILL_AVAILABILITY_STATUS_H_
 #define CHROME_BROWSER_AUTOFILL_ANDROID_ANDROID_AUTOFILL_AVAILABILITY_STATUS_H_
 

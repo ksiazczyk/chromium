@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill options settings coordinator
+// summary: Connects the autofill options settings fragment with the property model and mediator, observing fragment lifecycle to keep the UI consistent with preferences.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings.options;
 
 import androidx.annotation.StringRes;

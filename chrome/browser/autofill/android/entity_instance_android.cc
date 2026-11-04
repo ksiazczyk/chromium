@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EntityInstance Android JNI bridge implementation
+// summary: Implements conversions between the native Autofill AI EntityInstance and its Java counterpart, mapping record type, attributes, nickname, and metadata.
+// ---
+
 #include "chrome/browser/autofill/android/entity_instance_android.h"
 
 #include <optional>

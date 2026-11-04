@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI switch preference with info items
+// summary: Custom ChromeSwitchPreference for the Autofill AI toggle that adds informational items below the switch and adapts strings based on the private AI feature flag and enterprise policy.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings.options;
 
 import android.content.Context;

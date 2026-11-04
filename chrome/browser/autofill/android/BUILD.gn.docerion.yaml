@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for Chrome Android autofill
+summary: Defines GN build targets, Java libraries and generated enums for the Android autofill browser code.

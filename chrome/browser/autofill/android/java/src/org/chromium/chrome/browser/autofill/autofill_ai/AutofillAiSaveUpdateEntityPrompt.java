@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI save/update entity prompt
+// summary: Android modal dialog that asks users to confirm saving an entity imported from a form submission, with metrics and entity editor integration.
+// ---
+
 package org.chromium.chrome.browser.autofill.autofill_ai;
 
 import android.app.Activity;

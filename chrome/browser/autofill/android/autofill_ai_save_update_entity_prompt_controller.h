@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI save/update entity prompt controller header
+// summary: Declares the Android controller for the modal prompt to save or update autofill AI entities, exposing prompt text, wallet eligibility, and JNI callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOFILL_ANDROID_AUTOFILL_AI_SAVE_UPDATE_ENTITY_PROMPT_CONTROLLER_H_
 #define CHROME_BROWSER_AUTOFILL_ANDROID_AUTOFILL_AI_SAVE_UPDATE_ENTITY_PROMPT_CONTROLLER_H_
 

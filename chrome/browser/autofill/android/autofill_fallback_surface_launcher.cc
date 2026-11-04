@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill fallback surface launcher implementation
+// summary: Implements JNI functions that open the Google Wallet passes page and the private passes help center page in Chrome Custom Tabs on Android.
+// ---
+
 #include "chrome/browser/autofill/android/autofill_fallback_surface_launcher.h"
 
 #include "base/android/jni_android.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill server cache replayer unit tests
+// summary: Unit tests for the ServerCacheReplayer, verifying cache loading and query response lookup with generated proto request and response pairs on Linux and ChromeOS.
+// ---
+
 #include "chrome/browser/autofill/automated_tests/cache_replayer.h"
 
 #include <memory>

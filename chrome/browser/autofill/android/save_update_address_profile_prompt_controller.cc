@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save/update address profile prompt controller implementation
+// summary: Implements the Android controller that shows the save or update address profile prompt and reports the user's decision.
+// ---
+
 #include "chrome/browser/autofill/android/save_update_address_profile_prompt_controller.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DateFieldValidator
+// summary: Extends EditorFieldValidator to set an error message when the date field's DATE_VALID property is false, covering invalid states not reflected in the value.
+// ---
+
 package org.chromium.chrome.browser.autofill.editors.common.date_field;
 
 import static org.chromium.chrome.browser.autofill.editors.common.date_field.DateFieldProperties.DATE_VALID;

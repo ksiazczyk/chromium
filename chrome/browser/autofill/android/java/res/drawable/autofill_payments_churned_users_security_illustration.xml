@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Autofill payments churned users security illustration
+summary: 320x120dp vector illustration for the security message shown to churned autofill payments users.
+-->
+
 <!-- VectorRaster warning is ignored because we intentionally want the width to
      be greater than 200. -->
 <vector xmlns:android="http://schemas.android.com/apk/res/android"

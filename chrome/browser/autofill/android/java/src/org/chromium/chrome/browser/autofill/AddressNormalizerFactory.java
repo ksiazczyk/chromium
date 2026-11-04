@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AddressNormalizerFactory
+// summary: Factory giving Chrome access to the AddressNormalizer for address normalization through JNI.
+// ---
+
 package org.chromium.chrome.browser.autofill;
 
 import org.jni_zero.JNINamespace;

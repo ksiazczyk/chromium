@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address editor mediator
+// summary: Implements the address editor behavior, building editor fields and updating the editor property model in response to user interactions.
+// ---
+
 package org.chromium.chrome.browser.autofill.editors.address;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Autofill AI source attribution sheet layout
+summary: Android layout containing the recycler view used to display the Autofill AI source attribution bottom sheet.
+-->
+
 <androidx.recyclerview.widget.RecyclerView
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/autofill_ai_attribution_sheet_recycler_view"

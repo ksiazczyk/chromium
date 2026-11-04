@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DateFieldProperties
+// summary: Defines the property keys for the date field, adding a DATE_VALID flag to the shared field properties used by the model.
+// ---
+
 package org.chromium.chrome.browser.autofill.editors.common.date_field;
 
 import com.google.common.collect.ObjectArrays;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for TextFieldView
+// summary: Robolectric unit tests for the TextFieldView editor field, covering validation errors, value change callbacks, focus behavior, and accessibility.
+// ---
+
 package org.chromium.chrome.browser.autofill.editors.common.text_field;
 
 import static org.junit.Assert.assertEquals;

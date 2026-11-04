@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the wallet reminder notice bottom sheet bridge
+// summary: Robolectric unit tests verifying that the bottom sheet bridge requests and hides the wallet reminder notice content and handles a missing bottom sheet controller.
+// ---
+
 package org.chromium.chrome.browser.autofill.wallet_reminder_notice;
 
 import static org.hamcrest.MatcherAssert.assertThat;

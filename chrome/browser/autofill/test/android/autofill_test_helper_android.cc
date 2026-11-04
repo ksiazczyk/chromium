@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill test helper for Android
+// summary: Native JNI helper that lets Android tests add server credit cards and set or read autofill profile usage stats in the personal data manager.
+// ---
+
 #include <jni.h>
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutofillAiSourceAttributionCoordinatorTest
+// summary: Robolectric unit tests for the source attribution coordinator, verifying model initialization, bottom sheet display, dismissal, and histogram logging.
+// ---
+
 package org.chromium.chrome.browser.autofill.autofill_ai;
 
 import static org.junit.Assert.assertEquals;

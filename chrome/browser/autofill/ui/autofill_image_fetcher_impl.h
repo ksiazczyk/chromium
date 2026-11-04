@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutofillImageFetcherImpl class declaration
+// summary: Declares the chrome-level AutofillImageFetcherImpl KeyedService that fetches and processes autofill card art and valuable images for desktop clients.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOFILL_UI_AUTOFILL_IMAGE_FETCHER_IMPL_H_
 #define CHROME_BROWSER_AUTOFILL_UI_AUTOFILL_IMAGE_FETCHER_IMPL_H_
 

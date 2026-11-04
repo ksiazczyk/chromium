@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersonalContextSettingsLauncher
+// summary: Static helper that navigates to the AutofillPersonalContextFragment to show the Personal Context settings.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import android.content.Context;

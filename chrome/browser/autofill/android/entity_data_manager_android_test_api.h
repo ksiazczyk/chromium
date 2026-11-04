@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test API for the Android entity data manager
+// summary: Exposes testing operations on EntityDataManagerAndroid so tests can add or replace entity instances with simplified parameters.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOFILL_ANDROID_ENTITY_DATA_MANAGER_ANDROID_TEST_API_H_
 #define CHROME_BROWSER_AUTOFILL_ANDROID_ENTITY_DATA_MANAGER_ANDROID_TEST_API_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the payments churned users bottom sheet view
+// summary: Robolectric unit tests verifying view accessors and property model bindings for the churned users bottom sheet UI elements.
+// ---
+
 package org.chromium.chrome.browser.autofill.payments_churned_users;
 
 import static org.hamcrest.MatcherAssert.assertThat;

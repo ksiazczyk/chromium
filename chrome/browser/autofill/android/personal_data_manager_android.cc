@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JNI bridge for the autofill personal data manager
+// summary: Implements the native side of the PersonalDataManager JNI wrapper, exposing address and payment data to the Java layer on Android.
+// ---
+
 #include "chrome/browser/autofill/android/personal_data_manager_android.h"
 
 #include <stddef.h>

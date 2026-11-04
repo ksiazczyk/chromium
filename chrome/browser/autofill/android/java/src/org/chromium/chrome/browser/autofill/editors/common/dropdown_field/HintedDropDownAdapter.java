@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HintedDropDownAdapter
+// summary: DropdownFieldAdapter subclass that inserts a hint as the first dropdown entry and adjusts padding and styling of the expanded dropdown views.
+// ---
+
 package org.chromium.chrome.browser.autofill.editors.common.dropdown_field;
 
 import android.content.Context;

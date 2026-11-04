@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Autofill payments churned users bottom sheet layout
+summary: Android layout for the payments churned users bottom sheet with header icon, title, description, accept and cancel buttons and a loading spinner.
+-->
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
