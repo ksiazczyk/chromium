@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Compose enabling unit tests
+// summary: Unit tests for ComposeEnabling, covering feature enablement, preferences, language support and Optimization Guide interactions using mock services.
+// ---
+
 #include "chrome/browser/compose/compose_enabling.h"
 
 #include <memory>

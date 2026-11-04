@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hyphenation component installer header
+// summary: Declares the Hyphenation component installer policy, its hyphenation dictionary access callback, and the component registration function.
+// ---
+
 #ifndef CHROME_BROWSER_COMPONENT_UPDATER_HYPHENATION_COMPONENT_INSTALLER_H_
 #define CHROME_BROWSER_COMPONENT_UPDATER_HYPHENATION_COMPONENT_INSTALLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ComposeplateMetricsUtils
+// summary: Utility class that records composeplate, fake search box and button impression and click histograms for the New Tab Page.
+// ---
+
 package org.chromium.chrome.browser.composeplate;
 
 import org.chromium.base.metrics.RecordHistogram;

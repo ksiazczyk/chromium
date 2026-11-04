@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Engagement Preload installer header
+// summary: Declares the MediaEngagementPreloadComponentInstallerPolicy class and the startup registration function for the MEI Preload component.
+// ---
+
 #ifndef CHROME_BROWSER_COMPONENT_UPDATER_MEI_PRELOAD_COMPONENT_INSTALLER_H_
 #define CHROME_BROWSER_COMPONENT_UPDATER_MEI_PRELOAD_COMPONENT_INSTALLER_H_
 

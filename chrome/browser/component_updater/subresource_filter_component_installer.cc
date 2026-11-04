@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subresource filter component installer implementation
+// summary: Implements the installer policy that delivers Safe Browsing subresource filter rules, indexing and publishing the ruleset when the component is ready.
+// ---
+
 #include "chrome/browser/component_updater/subresource_filter_component_installer.h"
 
 #include <stdint.h>

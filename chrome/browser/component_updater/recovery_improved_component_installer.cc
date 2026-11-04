@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Improved recovery component installer
+// summary: Implements the Chrome recovery component installer and action handler that unpacks and runs the updater recovery program, including elevated system installs.
+// ---
+
 #include "chrome/browser/component_updater/recovery_improved_component_installer.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SODA language pack component installer unit tests
+// summary: Unit tests verifying that SODA language component configs can be looked up by locale name and by language code.
+// ---
+
 #include "chrome/browser/component_updater/soda_language_pack_component_installer.h"
 
 #include "base/files/file_path.h"

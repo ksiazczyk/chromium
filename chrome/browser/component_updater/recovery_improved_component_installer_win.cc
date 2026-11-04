@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recovery improved component installer for Windows
+// summary: Windows implementation of the recovery component action handler that runs the recovery CRX elevated through the Chrome elevation service and waits for the recovery process to exit.
+// ---
+
 #include "build/branding_buildflags.h"
 #if BUILDFLAG(GOOGLE_CHROME_BRANDING)
 

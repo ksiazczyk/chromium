@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome Compose client unit tests
+// summary: Unit tests for ChromeComposeClient covering autofill integration, nudge behavior, model execution and HATS survey interactions using mocks and test injectors.
+// ---
+
 #include "chrome/browser/compose/chrome_compose_client.h"
 
 #include <memory>

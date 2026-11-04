@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Subresource filter component installer unit tests
+// summary: Unit tests for the subresource filter component installer using a test ruleset service and a mock component update service.
+// ---
+
 #include "chrome/browser/component_updater/subresource_filter_component_installer.h"
 
 #include <map>

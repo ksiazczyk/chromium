@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Composeplate coordinator unit tests
+// summary: Robolectric unit tests for ComposeplateCoordinator covering visibility changes, button click handling, and composeplate impression histogram recording.
+// ---
+
 package org.chromium.chrome.browser.composeplate;
 
 import static org.junit.Assert.assertEquals;

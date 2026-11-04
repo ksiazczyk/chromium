@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compose session implementation
+// summary: Implements ComposeSession, which manages a Compose dialog session for a form field, including model execution, metrics, feedback links and inserting results.
+// ---
+
 #include "chrome/browser/compose/compose_session.h"
 
 #include <cmath>

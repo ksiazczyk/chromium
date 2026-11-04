@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Engagement Preload component installer policy
+// summary: Implements the component installer policy for the MEI Preload component and loads its preloaded data protobuf into the media engagement preload list when ready.
+// ---
+
 #include "chrome/browser/component_updater/mei_preload_component_installer.h"
 
 #include <stdint.h>

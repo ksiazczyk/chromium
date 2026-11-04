@@ -6,6 +6,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Composeplate view dimension values
+summary: Defines dimension resources such as margins, paddings, heights and icon sizes used by the Composeplate view in Chrome for Android.
+-->
+
 <resources>
     <dimen name="composeplate_view_button_margin">8dp</dimen>
     <dimen name="composeplate_view_optional_button_padding">32dp</dimen>

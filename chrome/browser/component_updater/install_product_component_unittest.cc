@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Product component installer unit tests
+// summary: Windows unit tests that mock the IAppCommandWeb COM interface and installer delegate to verify product component installation flows and error mapping without touching the live system.
+// ---
+
 #include "chrome/browser/component_updater/install_product_component.h"
 
 #include <memory>

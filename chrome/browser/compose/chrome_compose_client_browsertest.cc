@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome Compose client browser tests
+// summary: In-process browser tests exercising ChromeComposeClient end to end, including model execution results, metrics, UKM logging and compose session flows.
+// ---
+
 #include "chrome/browser/compose/chrome_compose_client.h"
 
 #include <memory>

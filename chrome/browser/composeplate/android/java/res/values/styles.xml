@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Composeplate view styles
+summary: Defines styles for Composeplate view buttons and text appearances, including color variants for dark and on-surface text.
+-->
+
 <resources>
     <style name="ComposeplateViewButton" parent="LocationBarActionButton">
         <item name="android:layout_width">0dp</item>

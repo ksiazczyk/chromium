@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: One-time permission provider
+// summary: Declares the provider for expiring one-time permission grants and its expiry conditions and provider interface methods.
+// ---
+
 #ifndef CHROME_BROWSER_CONTENT_SETTINGS_ONE_TIME_PERMISSION_PROVIDER_H_
 #define CHROME_BROWSER_CONTENT_SETTINGS_ONE_TIME_PERMISSION_PROVIDER_H_
 

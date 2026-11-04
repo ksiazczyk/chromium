@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compose session class interface
+// summary: Declares ComposeSession, which manages a Compose session bound to a WebContents field, with mojo bindings, observers and the autofill insert callback.
+// ---
+
 #ifndef CHROME_BROWSER_COMPOSE_COMPOSE_SESSION_H_
 #define CHROME_BROWSER_COMPOSE_COMPOSE_SESSION_H_
 

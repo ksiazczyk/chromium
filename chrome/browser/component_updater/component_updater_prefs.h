@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component updater preferences header
+// summary: Declares RegisterPrefs, which registers local preferences related to the component updater.
+// ---
+
 #ifndef CHROME_BROWSER_COMPONENT_UPDATER_COMPONENT_UPDATER_PREFS_H_
 #define CHROME_BROWSER_COMPONENT_UPDATER_COMPONENT_UPDATER_PREFS_H_
 

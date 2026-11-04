@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Content Index build rules
+summary: GN build file defining source sets for the Content Index browser code, its unit tests, and non-Android browser tests.

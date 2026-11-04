@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proactive nudge tracker interface
+// summary: Declares ProactiveNudgeTracker, a state machine observing autofill managers to determine when the Compose proactive nudge should be shown.
+// ---
+
 #ifndef CHROME_BROWSER_COMPOSE_PROACTIVE_NUDGE_TRACKER_H_
 #define CHROME_BROWSER_COMPOSE_PROACTIVE_NUDGE_TRACKER_H_
 

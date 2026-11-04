@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for content settings
+summary: GN build configuration defining the content_settings and impl source sets, their sources, and platform-conditional dependencies for Chrome's content settings code.

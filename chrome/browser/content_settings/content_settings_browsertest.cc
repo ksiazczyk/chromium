@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content settings browser tests
+// summary: In-process browser tests covering content settings behavior in Chrome, including cookies, storage access, plugins, PDFs, and navigation-related settings.
+// ---
+
 #include "components/content_settings/core/common/content_settings.h"
 
 #include <variant>

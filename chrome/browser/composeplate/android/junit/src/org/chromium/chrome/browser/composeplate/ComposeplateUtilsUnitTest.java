@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Composeplate utils unit tests
+// summary: Robolectric unit tests for ComposeplateUtils checking feature enablement, policy effects, and when the composeplate button may appear on the NTP.
+// ---
+
 package org.chromium.chrome.browser.composeplate;
 
 import static org.junit.Assert.assertEquals;

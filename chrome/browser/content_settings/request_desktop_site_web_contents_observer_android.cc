@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Request desktop site web contents observer for Android
+// summary: Implements an Android web contents observer that overrides the user agent to request desktop versions of sites based on content settings, command-line switches, window width, and external display conditions.
+// ---
+
 #include "chrome/browser/content_settings/request_desktop_site_web_contents_observer_android.h"
 
 #include <algorithm>

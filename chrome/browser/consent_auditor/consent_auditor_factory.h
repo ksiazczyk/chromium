@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Consent auditor factory declaration
+// summary: Declares ConsentAuditorFactory, a profile-keyed service factory exposing GetInstance and GetForProfile for per-profile consent auditing.
+// ---
+
 #ifndef CHROME_BROWSER_CONSENT_AUDITOR_CONSENT_AUDITOR_FACTORY_H_
 #define CHROME_BROWSER_CONSENT_AUDITOR_CONSENT_AUDITOR_FACTORY_H_
 

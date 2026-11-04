@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SODA component installer unit tests
+// summary: Unit test fixture for the SODA component installer, setting up a mock component update service and test preferences for live caption components.
+// ---
+
 #include "chrome/browser/component_updater/soda_component_installer.h"
 
 #include "base/files/file_path.h"

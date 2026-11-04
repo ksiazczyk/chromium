@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compose enabling implementation
+// summary: Implements ComposeEnabling logic that decides when Compose is available based on profile, sign-in, country, preferences and optimization guide configuration.
+// ---
+
 #include "chrome/browser/compose/compose_enabling.h"
 
 #include <functional>

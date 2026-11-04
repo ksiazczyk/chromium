@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake consent auditor test helper
+// summary: Implements BuildFakeConsentAuditor, which creates a FakeConsentAuditor keyed service for use in tests.
+// ---
+
 #include "chrome/browser/consent_auditor/consent_auditor_test_utils.h"
 #include "components/consent_auditor/fake_consent_auditor.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AIM Eligibility component installer implementation
+// summary: Implements the installer policy that verifies and stages the AIM Eligibility component extension for loading on browser startup.
+// ---
+
 #include "chrome/browser/component_updater/aim_eligibility_component_installer.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Component updater registration
+// summary: Registers the browser's updatable components such as Screen AI, SODA, CRL set, origin trials, and recovery with the component update service at startup.
+// ---
+
 #include "chrome/browser/component_updater/registration.h"
 
 #include "base/feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generated JavaScript optimizer pref implementation
+// summary: Implements a generated preference for the JavaScript optimizer setting supporting allow, block, and block-for-unfamiliar-sites states.
+// ---
+
 #include "chrome/browser/content_settings/generated_javascript_optimizer_pref.h"
 
 #include <optional>

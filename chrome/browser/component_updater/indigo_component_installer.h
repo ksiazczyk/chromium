@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Indigo component installer header
+// summary: Declares the Indigo component installer policy, ready-callback registration, install directory and content script accessors, and a test reset helper.
+// ---
+
 #ifndef CHROME_BROWSER_COMPONENT_UPDATER_INDIGO_COMPONENT_INSTALLER_H_
 #define CHROME_BROWSER_COMPONENT_UPDATER_INDIGO_COMPONENT_INSTALLER_H_
 

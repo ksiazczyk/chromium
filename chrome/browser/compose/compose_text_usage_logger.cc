@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compose text usage logger implementation
+// summary: Implements ComposeTextUsageLogger, which records UKM metrics about user typing in text fields, such as typed character and word counts per form field.
+// ---
+
 #include "chrome/browser/compose/compose_text_usage_logger.h"
 
 #include <algorithm>

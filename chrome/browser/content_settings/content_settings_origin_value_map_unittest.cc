@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content settings origin value map unit tests
+// summary: Unit tests for the origin value map, checking setting, getting, and iterating content setting rules across patterns, origins, and content setting types.
+// ---
+
 #include "components/content_settings/core/browser/content_settings_origin_value_map.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content Index browser tests
+// summary: In-process browser tests covering Content Index registration, offline item lifecycle, tab launching, and UKM metrics.
+// ---
+
 #include <map>
 #include <memory>
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Compose client header
+// summary: Declares ChromeComposeClient, the ComposeClient implementation for desktop and Android, including field change observation and proactive nudge delegate interfaces.
+// ---
+
 #ifndef CHROME_BROWSER_COMPOSE_CHROME_COMPOSE_CLIENT_H_
 #define CHROME_BROWSER_COMPOSE_CHROME_COMPOSE_CLIENT_H_
 

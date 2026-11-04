@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crowd Deny component installer
+// summary: Implements the installer policy for the Crowd Deny component and loads its permission preload data from disk when the component is ready.
+// ---
+
 #include "chrome/browser/component_updater/crowd_deny_component_installer.h"
 
 #include <stdint.h>

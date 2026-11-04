@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recovery improved component installer for macOS
+// summary: macOS implementation of the recovery component action handler that builds the ChromeRecovery command line, removes the quarantine attribute, and reports that elevation is unsupported.
+// ---
+
 #include "chrome/browser/component_updater/recovery_improved_component_installer.h"
 
 #include "base/apple/foundation_util.h"

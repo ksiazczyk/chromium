@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hyphenation component installer
+// summary: Implements the Hyphenation component installer policy that stores the installed hyphenation data directory and serves it to requesting callers.
+// ---
+
 #include "chrome/browser/component_updater/hyphenation_component_installer.h"
 
 #include <stdint.h>

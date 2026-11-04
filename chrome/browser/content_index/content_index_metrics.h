@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content Index metrics header
+// summary: Declares ContentIndexMetrics, which records UKM for Content Index add, open, and user-delete events.
+// ---
+
 #ifndef CHROME_BROWSER_CONTENT_INDEX_CONTENT_INDEX_METRICS_H_
 #define CHROME_BROWSER_CONTENT_INDEX_CONTENT_INDEX_METRICS_H_
 

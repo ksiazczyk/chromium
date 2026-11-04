@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Consent auditor build configuration
+summary: GN build file defining the consent_auditor source set and a test_support target, with platform-specific Android sources and dependencies.

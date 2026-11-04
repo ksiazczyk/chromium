@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content Index provider unit tests
+// summary: Unit tests for ContentIndexProviderImpl that set up a testing profile with history and site engagement services and verify offline content provider notifications for content index entries.
+// ---
+
 #include "chrome/browser/content_index/content_index_provider_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host content settings map factory
+// summary: Builds the per-profile HostContentSettingsMap keyed service and registers content settings providers for extensions, Android, ChromeOS and supervised users.
+// ---
+
 #include "chrome/browser/content_settings/host_content_settings_map_factory.h"
 
 #include <utility>

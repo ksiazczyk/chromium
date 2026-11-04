@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome origin trials component installer header
+// summary: Declares the Chrome-specific origin trials component installer policy and the RegisterOriginTrialsComponent startup registration function.
+// ---
+
 #ifndef CHROME_BROWSER_COMPONENT_UPDATER_CHROME_ORIGIN_TRIALS_COMPONENT_INSTALLER_H_
 #define CHROME_BROWSER_COMPONENT_UPDATER_CHROME_ORIGIN_TRIALS_COMPONENT_INSTALLER_H_
 

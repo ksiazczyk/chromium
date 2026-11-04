@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS MetadataTable for component usage tracking
+// summary: Declares the MetadataTable class that persists per-user component usage records in local state prefs for ChromeOS component installs.
+// ---
+
 #ifndef CHROME_BROWSER_COMPONENT_UPDATER_METADATA_TABLE_CHROMEOS_H_
 #define CHROME_BROWSER_COMPONENT_UPDATER_METADATA_TABLE_CHROMEOS_H_
 

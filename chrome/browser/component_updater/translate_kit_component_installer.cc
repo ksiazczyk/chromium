@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranslateKit component installer implementation
+// summary: Implements the installer policy that registers the TranslateKit on-device translation component with the component updater and stores the installed binary path in preferences.
+// ---
+
 #include "chrome/browser/component_updater/translate_kit_component_installer.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ComposeplateProperties
+// summary: Property keys for the composeplate model, covering visibility, click listeners, styling and the AI Mode, optional and incognito button state.
+// ---
+
 package org.chromium.chrome.browser.composeplate;
 
 import android.content.res.ColorStateList;

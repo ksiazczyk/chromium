@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native JNI bridge for inner text extraction
+// summary: Implements the JNI entry point that retrieves a render frame's inner text via the content_extraction component and returns it to Java through an optional-string callback.
+// ---
+
 #include "base/android/callback_android.h"
 #include "base/types/optional_ref.h"
 #include "components/content_extraction/content/browser/inner_text.h"

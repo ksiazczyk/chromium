@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Host content settings map unit tests
+// summary: Unit tests covering HostContentSettingsMap behavior, including providers, patterns, client hints and pref-backed content settings.
+// ---
+
 #include "components/content_settings/core/browser/host_content_settings_map.h"
 
 #include <array>

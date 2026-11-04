@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crowd Deny component installer declarations
+// summary: Declares the Crowd Deny component installer policy and the function to register the component with the update service at startup.
+// ---
+
 #ifndef CHROME_BROWSER_COMPONENT_UPDATER_CROWD_DENY_COMPONENT_INSTALLER_H_
 #define CHROME_BROWSER_COMPONENT_UPDATER_CROWD_DENY_COMPONENT_INSTALLER_H_
 

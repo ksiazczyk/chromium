@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for Android inner text extraction
+summary: Defines the Android Java library target and JNI header generation for the InnerTextBridge, with dependencies on base, content, and jni_zero.

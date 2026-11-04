@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS component installer unit tests
+// summary: Unit tests covering ChromeOS component registration, update requests, installation verification, and component mounting with fake dependencies.
+// ---
+
 #include "chrome/browser/component_updater/cros_component_installer_chromeos.h"
 
 #include <map>

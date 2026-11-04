@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PKI metadata component installer browser tests
+// summary: Browser tests covering certificate transparency enforcement, Chrome Root Store updates and related PKI metadata component behavior.
+// ---
+
 #include "chrome/browser/component_updater/pki_metadata_component_installer.h"
 
 #include <stddef.h>

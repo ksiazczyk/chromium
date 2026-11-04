@@ -1,0 +1,4 @@
+# Docerion header of updater_state_mac.mm.
+type: source
+title: Updater state for Keystone on macOS
+summary: macOS implementation of UpdaterState that reads Keystone updater name, version, and auto-update settings from preferences and plists.

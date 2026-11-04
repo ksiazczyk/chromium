@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: First-Party Sets component registration
+// summary: Registers the Related Website Sets component with the update service and passes the resulting sets file to the First-Party Sets handler.
+// ---
+
 #include "chrome/browser/component_updater/first_party_sets_component_installer.h"
 
 #include "base/feature_list.h"

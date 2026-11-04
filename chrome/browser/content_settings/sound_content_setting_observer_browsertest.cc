@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sound content setting observer browser tests
+// summary: Browser tests verifying sound content setting behavior, including autoplay flag exceptions for user-configured sites and audio state changes across navigations.
+// ---
+
 #include "chrome/browser/content_settings/sound_content_setting_observer.h"
 
 #include "base/run_loop.h"

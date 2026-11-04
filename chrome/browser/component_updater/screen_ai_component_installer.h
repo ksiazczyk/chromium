@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen AI component installer header
+// summary: Declares the Screen AI component installer policy and functions to register or remove the component with the update service.
+// ---
+
 #ifndef CHROME_BROWSER_COMPONENT_UPDATER_SCREEN_AI_COMPONENT_INSTALLER_H_
 #define CHROME_BROWSER_COMPONENT_UPDATER_SCREEN_AI_COMPONENT_INSTALLER_H_
 

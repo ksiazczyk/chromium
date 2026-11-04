@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InnerHtml browser test
+// summary: In-process browser test that navigates to a test page and verifies GetInnerHtml returns the expected inner HTML string.
+// ---
+
 #include "chrome/browser/content_extraction/inner_html.h"
 
 #include <optional>

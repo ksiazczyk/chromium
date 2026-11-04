@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Real-time URL checks allowlist component installer
+// summary: Implements the installer policy that loads the Safe Browsing real-time URL checks allowlist proto from the component install directory.
+// ---
+
 #include "chrome/browser/component_updater/real_time_url_checks_allowlist_component_installer.h"
 
 #include <stdint.h>

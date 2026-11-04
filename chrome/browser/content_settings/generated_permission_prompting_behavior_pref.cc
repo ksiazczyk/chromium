@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generated permission prompting behavior pref
+// summary: Implements a generated settings-private preference that maps notification and geolocation content settings and quiet UI prefs to a prompting state.
+// ---
+
 #include "chrome/browser/content_settings/generated_permission_prompting_behavior_pref.h"
 
 #include "base/check.h"

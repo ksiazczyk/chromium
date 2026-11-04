@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generated cookie prefs header
+// summary: Declares generated preference classes for the cookie default content setting and the third-party cookie blocking setting.
+// ---
+
 #ifndef CHROME_BROWSER_CONTENT_SETTINGS_GENERATED_COOKIE_PREFS_H_
 #define CHROME_BROWSER_CONTENT_SETTINGS_GENERATED_COOKIE_PREFS_H_
 

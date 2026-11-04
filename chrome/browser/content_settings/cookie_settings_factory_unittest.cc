@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CookieSettingsFactory unit tests
+// summary: Tests cookie settings behavior across regular and incognito profiles, including how blocking rules propagate between profiles.
+// ---
+
 #include "chrome/browser/content_settings/cookie_settings_factory.h"
 
 #include "base/memory/raw_ptr.h"

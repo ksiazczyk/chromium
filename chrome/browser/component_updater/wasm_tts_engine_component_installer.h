@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WASM TTS engine component installer header
+// summary: Declares the WASM TTS engine installer policy, preference registration, and component registration for the update service.
+// ---
+
 #ifndef CHROME_BROWSER_COMPONENT_UPDATER_WASM_TTS_ENGINE_COMPONENT_INSTALLER_H_
 #define CHROME_BROWSER_COMPONENT_UPDATER_WASM_TTS_ENGINE_COMPONENT_INSTALLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private Verification Tokens component installer
+// summary: Registers the Private Verification Tokens component with the component updater when the feature is enabled and propagates the issuer config to loaded profiles.
+// ---
+
 #include "chrome/browser/component_updater/private_verification_tokens_installer.h"
 
 #include <memory>

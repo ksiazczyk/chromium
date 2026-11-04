@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commerce heuristics component installer implementation
+// summary: Implements the installer policy for the Commerce Heuristics component, loading heuristic JSON files and the cart extraction script from the install directory.
+// ---
+
 #include "chrome/browser/component_updater/commerce_heuristics_component_installer.h"
 
 #include <stdint.h>

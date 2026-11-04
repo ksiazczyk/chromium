@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows implementation of product component installation
+// summary: Implements product component installation on Windows via elevated Google Update AppCommand for system-level installs or setup.exe for per-user installs, mapping installer exit codes and COM errors.
+// ---
+
 #include "chrome/browser/component_updater/install_product_component.h"
 
 #include <windows.h>

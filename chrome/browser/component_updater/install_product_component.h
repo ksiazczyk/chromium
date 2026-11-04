@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Product component installer API and result codes
+// summary: Declares the ProductComponentInstallResult enum, the Windows delegate interface for Google Update AppCommand and process launching, and the synchronous InstallProductComponent entry point.
+// ---
+
 #ifndef CHROME_BROWSER_COMPONENT_UPDATER_INSTALL_PRODUCT_COMPONENT_H_
 #define CHROME_BROWSER_COMPONENT_UPDATER_INSTALL_PRODUCT_COMPONENT_H_
 

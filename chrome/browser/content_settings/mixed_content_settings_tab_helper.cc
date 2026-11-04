@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mixed content settings tab helper
+// summary: Tab helper that tracks whether a tab allows running insecure mixed content, inheriting the setting from the opener and applying it to render frames.
+// ---
+
 #include "chrome/browser/content_settings/mixed_content_settings_tab_helper.h"
 
 #include "components/content_settings/common/content_settings_agent.mojom.h"

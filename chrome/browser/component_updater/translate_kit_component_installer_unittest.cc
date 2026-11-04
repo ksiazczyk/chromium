@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TranslateKit component installer unit tests
+// summary: Unit tests for the TranslateKit component installer, covering registration and installation verification with a mock component update service.
+// ---
+
 #include "chrome/browser/component_updater/translate_kit_component_installer.h"
 
 #include <stdint.h>

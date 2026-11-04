@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CRL Set component installer unit tests
+// summary: Unit tests that install a CRL set via the component installer policy and verify network service behavior with an embedded test server.
+// ---
+
 #include "chrome/browser/component_updater/crl_set_component_installer.h"
 
 #include "base/files/file_path.h"

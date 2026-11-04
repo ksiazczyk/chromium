@@ -6,6 +6,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Composeplate view layout
+summary: Main Android layout resource for the Composeplate view, defining the primary AI mode button, an optional gallery button, and an incognito button in a horizontal arrangement.
+-->
+
 <org.chromium.chrome.browser.composeplate.ComposeplateView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"

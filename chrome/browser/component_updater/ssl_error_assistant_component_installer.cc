@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SSL error assistant component installer implementation
+// summary: Implements the installer policy for the SSL error assistant component, loading its protobuf config from disk and publishing the newest version to the SSL error handler.
+// ---
+
 #include "chrome/browser/component_updater/ssl_error_assistant_component_installer.h"
 
 #include <stdint.h>

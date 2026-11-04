@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content Index provider factory implementation
+// summary: Implements the profile-keyed service factory that builds a ContentIndexProviderImpl for each profile.
+// ---
+
 #include "chrome/browser/content_index/content_index_provider_factory.h"
 
 #include "chrome/browser/content_index/content_index_provider_impl.h"

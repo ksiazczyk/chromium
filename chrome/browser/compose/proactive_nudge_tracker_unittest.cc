@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Proactive nudge tracker unit tests
+// summary: Unit tests for the Compose ProactiveNudgeTracker, covering nudge triggering, segmentation platform integration, and metrics via mocks and histogram testers.
+// ---
+
 #include "chrome/browser/compose/proactive_nudge_tracker.h"
 
 #include <memory>

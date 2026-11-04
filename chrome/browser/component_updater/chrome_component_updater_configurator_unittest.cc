@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome component updater configurator unit tests
+// summary: Tests command-line switch handling for the configurator, including disabled pings, fast update delays, and URL overrides.
+// ---
+
 #include "chrome/browser/component_updater/chrome_component_updater_configurator.h"
 
 #include <memory>

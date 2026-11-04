@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JavaScript optimizer content settings provider
+// summary: Content settings provider that blocks JavaScript optimization for all sites when the profile is under advanced protection on Android.
+// ---
+
 #include "chrome/browser/content_settings/javascript_optimizer_provider_android.h"
 
 #include "base/metrics/histogram_functions.h"

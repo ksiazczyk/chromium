@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRL set component installer implementation
+// summary: Implements the CRLSet component installer policy, loading CRL set files and updating the certificate verifier service factory with new CRL sets.
+// ---
+
 #include "chrome/browser/component_updater/crl_set_component_installer.h"
 
 #include <stdint.h>

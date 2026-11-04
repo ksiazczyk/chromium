@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sound content setting observer header
+// summary: Declares the per-tab sound content setting observer that tracks mute reasons, reacts to content setting and audio state changes, and records site-muted UKM metrics.
+// ---
+
 #ifndef CHROME_BROWSER_CONTENT_SETTINGS_SOUND_CONTENT_SETTING_OBSERVER_H_
 #define CHROME_BROWSER_CONTENT_SETTINGS_SOUND_CONTENT_SETTING_OBSERVER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for composeplate
+summary: Defines include rules allowing dependencies on the NewTabPageUtils Java source in the Chrome Android NTP package.

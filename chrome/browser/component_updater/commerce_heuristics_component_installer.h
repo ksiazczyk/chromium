@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commerce heuristics component installer header
+// summary: Declares the CommerceHeuristicsInstallerPolicy class and the RegisterCommerceHeuristicsComponent registration function.
+// ---
+
 #ifndef CHROME_BROWSER_COMPONENT_UPDATER_COMMERCE_HEURISTICS_COMPONENT_INSTALLER_H_
 #define CHROME_BROWSER_COMPONENT_UPDATER_COMMERCE_HEURISTICS_COMPONENT_INSTALLER_H_
 

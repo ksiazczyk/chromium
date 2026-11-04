@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SODA language pack component installer implementation
+// summary: Implements the installer policy for SODA language pack components, including extension ID generation, on-demand updates, and installation verification.
+// ---
+
 #include "chrome/browser/component_updater/soda_language_pack_component_installer.h"
 
 #include <stdint.h>

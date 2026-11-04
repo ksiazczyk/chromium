@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranslateKit language pack component installer declarations
+// summary: Declares the installer policy for TranslateKit language pack components along with registration, on-demand update, and uninstall helper functions.
+// ---
+
 #ifndef CHROME_BROWSER_COMPONENT_UPDATER_TRANSLATE_KIT_LANGUAGE_PACK_COMPONENT_INSTALLER_H_
 #define CHROME_BROWSER_COMPONENT_UPDATER_TRANSLATE_KIT_LANGUAGE_PACK_COMPONENT_INSTALLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dynamic patch component installer policy
+// summary: Declares the installer policy that delivers patched child process binaries for the running browser version via an inner CRX installed into the child modules directory.
+// ---
+
 #ifndef CHROME_BROWSER_COMPONENT_UPDATER_DYNAMIC_PATCH_COMPONENT_INSTALLER_H_
 #define CHROME_BROWSER_COMPONENT_UPDATER_DYNAMIC_PATCH_COMPONENT_INSTALLER_H_
 

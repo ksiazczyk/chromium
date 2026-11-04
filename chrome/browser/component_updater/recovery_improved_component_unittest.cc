@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Recovery improved component unit tests
+// summary: Unit tests for the recovery component action handler covering error propagation and successful per-user recovery execution on Windows and Mac.
+// ---
+
 #include <stdint.h>
 
 #include <iterator>

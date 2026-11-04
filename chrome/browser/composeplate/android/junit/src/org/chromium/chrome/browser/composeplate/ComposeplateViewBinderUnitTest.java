@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Composeplate view binder unit tests
+// summary: Robolectric unit tests verifying ComposeplateViewBinder binds property model state such as visibility, click listeners, and button styling to the composeplate view.
+// ---
+
 package org.chromium.chrome.browser.composeplate;
 
 import static org.junit.Assert.assertEquals;

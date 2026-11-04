@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Compose client implementation
+// summary: Implements ChromeComposeClient, wiring the Compose feature to autofill, the optimization guide, metrics, surveys and UI entry points on desktop and Android.
+// ---
+
 #include "chrome/browser/compose/chrome_compose_client.h"
 
 #include <memory>

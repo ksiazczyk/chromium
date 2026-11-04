@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Private Verification Tokens installer unit tests
+// summary: Unit tests verifying the Private Verification Tokens component is registered only when the feature is enabled.
+// ---
+
 #include "chrome/browser/component_updater/private_verification_tokens_installer.h"
 
 #include "base/functional/callback.h"
