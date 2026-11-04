@@ -1,0 +1,4 @@
+# Docerion header of demo_mode_app_untrusted_ui.mojom.
+type: source
+title: Demo Mode App Untrusted UI Mojom Interfaces
+summary: Defines Mojo interfaces that let the Demo Mode WebUI create a page handler and send fullscreen toggle and app launch commands to the browser process.

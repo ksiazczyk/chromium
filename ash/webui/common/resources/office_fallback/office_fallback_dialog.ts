@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Office fallback dialog custom element
+// summary: Implements the OfficeFallbackElement that lets users choose what to do when opening office files fails, parsing dialog arguments and handling button clicks.
+// ---
+
 import '/strings.m.js';
 import '//resources/ash/common/cr_elements/cr_button/cr_button.js';
 

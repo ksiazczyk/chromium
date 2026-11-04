@@ -1,0 +1,4 @@
+# Docerion header of fingerprint_progress_icons.html.
+type: asset
+title: Fingerprint scanned icon set
+summary: SVG iconset defining the fingerprint-scanned icon consumed by the fingerprint progress element.

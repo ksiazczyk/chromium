@@ -10,6 +10,12 @@
  * #include=cros-color-overrides
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shared styles for the personalization WebUI
+summary: Defines shared CSS custom properties, placeholder ripple animations, and preview layout styles used across the personalization WebUI.
+*/
+
 [hidden] {
   /* The |hidden| attribute does not hide an element with an explicitly
    * specified |display| property. Handle this by forcing display to |none|

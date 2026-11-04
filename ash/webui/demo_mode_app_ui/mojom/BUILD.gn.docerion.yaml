@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Demo Mode App UI Mojom Build Configuration
+summary: Defines the GN build target that generates Mojo bindings for the Demo Mode App UI from its Mojom source, asserting the target is ChromeOS only.

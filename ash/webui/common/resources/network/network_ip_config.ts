@@ -7,6 +7,12 @@
  * a network state.
  */
 
+// ---docerion
+// type: source
+// title: Network IP config element
+// summary: Polymer element that displays and manages the IP configuration properties of a network state, including netmask and routing prefix conversion helpers.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_toggle/cr_toggle.js';
 import '//resources/ash/common/cr_elements/policy/cr_policy_indicator.js';
 import './network_property_list_mojo.js';

@@ -7,6 +7,12 @@
  * SeaPen wallpapers.
  */
 
+// ---docerion
+// type: source
+// title: SeaPen template query element
+// summary: Polymer component that displays a template-based query for searching SeaPen wallpapers, managing chip and option selection and thumbnail loading.
+// ---
+
 import 'chrome://resources/ash/common/personalization/common.css.js';
 import 'chrome://resources/ash/common/personalization/cros_button_style.css.js';
 import 'chrome://resources/ash/common/personalization/personalization_shared_icons.html.js';

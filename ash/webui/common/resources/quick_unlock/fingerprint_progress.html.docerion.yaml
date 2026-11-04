@@ -1,0 +1,4 @@
+# Docerion header of fingerprint_progress.html.
+type: source
+title: Fingerprint progress element template
+summary: HTML template for the fingerprint-progress element, laying out the canvas, Lottie renderer and scanned icon.

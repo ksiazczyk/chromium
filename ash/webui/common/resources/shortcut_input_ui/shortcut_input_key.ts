@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shortcut input key Polymer element
+// summary: Polymer element wrapping a single input key, handling dynamic styling, icon selection, and aria labels for the shortcut input UI.
+// ---
+
 import './icons.html.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_style.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js';

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Demo Mode App UI resources build configuration
+summary: Defines the GN build for the ChromeOS Demo Mode App WebUI, listing its static, TypeScript, and Mojo files with their dependencies.

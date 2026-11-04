@@ -8,6 +8,12 @@
  * implementation for testing.
  */
 
+// ---docerion
+// type: source
+// title: SeaPen interface provider
+// summary: Singleton accessor for the SeaPen mojom provider interface used by the Personalization SWA, with a hook for injecting test implementations.
+// ---
+
 import 'chrome://resources/mojo/mojo/public/js/bindings.js';
 import 'chrome://resources/mojo/url/mojom/url.mojom-webui.js';
 

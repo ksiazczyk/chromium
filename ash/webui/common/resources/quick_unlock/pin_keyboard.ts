@@ -22,6 +22,12 @@
  *    </pin-keyboard>
  */
 
+// ---docerion
+// type: source
+// title: PIN keyboard element implementation
+// summary: TypeScript implementation of the pin-keyboard Polymer element handling PIN entry, pin-change and submit events, and auto backspace.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cros_color_overrides.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_icon_button/cr_icon_button.js';

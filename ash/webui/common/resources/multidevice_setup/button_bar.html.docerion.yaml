@@ -1,0 +1,4 @@
+# Docerion header of button_bar.html.
+type: source
+title: Button bar template for MultiDevice setup
+summary: Polymer HTML template laying out backward, cancel, and forward navigation buttons with a scroll shadow for the setup flow.

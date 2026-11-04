@@ -1,0 +1,4 @@
+# Docerion header of network_config_toggle.html.
+type: source
+title: network-config-toggle element template
+summary: HTML template for the network-config-toggle element, laying out a label, sub-label, toggle, and policy indicator for managed properties.

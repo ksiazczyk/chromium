@@ -1,0 +1,4 @@
+# Docerion header of network_select.html.
+type: source
+title: Network select element template
+summary: HTML template for the network select element, containing a network list with an optional scan progress indicator.

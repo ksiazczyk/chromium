@@ -8,6 +8,12 @@
  * NetworkListItem.
  */
 
+// ---docerion
+// type: source
+// title: Network list typedefs
+// summary: JavaScript typedefs and custom item enum for NetworkList, shared by the network list item element.
+// ---
+
 import {OncMojo} from './onc_mojo.js';
 
 export const NetworkList = {};

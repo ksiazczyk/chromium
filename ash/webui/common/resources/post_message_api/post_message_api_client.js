@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PostMessage API client
+// summary: Client class that sends function calls to a PostMessageApiServer over the postMessage API, intended to be subclassed with API-specific methods.
+// ---
+
 import {RequestHandler} from './post_message_api_request_handler.js';
 
 /**

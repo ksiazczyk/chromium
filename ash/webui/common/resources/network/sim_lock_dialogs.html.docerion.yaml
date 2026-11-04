@@ -1,0 +1,4 @@
+# Docerion header of sim_lock_dialogs.html.
+type: source
+title: SIM lock dialogs template
+summary: HTML template defining the enter PIN, change PIN, and unlock SIM dialogs for cellular network settings.

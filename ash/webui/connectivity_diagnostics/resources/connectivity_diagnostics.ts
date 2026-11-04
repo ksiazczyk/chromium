@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connectivity Diagnostics Polymer element
+// summary: Defines the connectivity-diagnostics custom element that runs all network routines on load and handles close, rerun, and feedback report actions.
+// ---
+
 import 'chrome://resources/ash/common/network_health/network_diagnostics.js';
 import 'chrome://resources/ash/common/network_health/network_health_summary.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_style.css.js';

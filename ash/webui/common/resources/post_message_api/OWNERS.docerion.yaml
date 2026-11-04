@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Directory owners
+summary: Points to the OWNERS file of ash/child_accounts as the owner list for this directory.

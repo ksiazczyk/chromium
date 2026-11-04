@@ -1,3 +1,9 @@
+---
+type: readme
+title: ChromeOS Personalization App Common Files
+summary: Documents that this directory holds generic shared utilities such as the wallpaper grid item, used by both the personalization app and vc_background_ui.
+---
+
 # ChromeOS Personalization App Common Files
 
 This directory contains files that are shared between

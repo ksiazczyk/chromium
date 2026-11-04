@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Demo Mode app delegate interface
+// summary: Abstract delegate interface that supplies //chrome/browser functionality such as app launching and splash screen removal to the Demo Mode app code in //ash/webui.
+// ---
+
 #ifndef ASH_WEBUI_DEMO_MODE_APP_UI_DEMO_MODE_APP_DELEGATE_H_
 #define ASH_WEBUI_DEMO_MODE_APP_UI_DEMO_MODE_APP_DELEGATE_H_
 

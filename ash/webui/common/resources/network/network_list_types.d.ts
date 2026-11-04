@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network list type definitions
+// summary: TypeScript namespace declaring the NetworkList custom item types, enums, and the union network list item type shared with the list item element.
+// ---
+
 import type {OncMojo} from './onc_mojo.js';
 
 export namespace NetworkList {

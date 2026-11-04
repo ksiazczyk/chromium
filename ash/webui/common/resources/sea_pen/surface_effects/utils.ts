@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color parsing and vector utilities
+// summary: Provides the Vec4 type and parseCssColor, which converts rgb, rgba, and hex CSS color strings into normalized RGBA arrays with caching.
+// ---
+
 export type Vec4 = [number, number, number, number];
 
 const rgbRe =

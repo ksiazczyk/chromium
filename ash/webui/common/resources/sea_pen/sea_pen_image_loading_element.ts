@@ -7,6 +7,12 @@
  * a thumbnail is clicked and the high-resolution image is still loading.
  */
 
+// ---docerion
+// type: source
+// title: SeaPen image loading element
+// summary: Polymer component that shows a loading spinner and message while a SeaPen thumbnail's high-resolution image is loading.
+// ---
+
 import 'chrome://resources/ash/common/personalization/common.css.js';
 import 'chrome://resources/polymer/v3_0/paper-spinner/paper-spinner-lite.js';
 

@@ -7,6 +7,12 @@
  * Pen introduction dialog for Wallpaper app.
  */
 
+// ---docerion
+// type: source
+// title: SeaPen introduction SVG element
+// summary: Polymer component that renders the illustration shown in the SeaPen introduction dialog, choosing artwork based on whether the Personalization app is running.
+// ---
+
 import {PolymerElement} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 
 import {getTemplate} from './sea_pen_introduction_svg_element.html.js';

@@ -7,6 +7,12 @@
  * UI element which will show a dialog to create, view or edit APNs.
  */
 
+// ---docerion
+// type: source
+// title: APN detail dialog element
+// summary: Polymer element implementing the dialog to create, view, or edit cellular APNs, including input validation and authentication and IP type options.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_button/cr_button.js';
 import '//resources/ash/common/cr_elements/cr_checkbox/cr_checkbox.js';
 import '//resources/ash/common/cr_elements/icons.html.js';

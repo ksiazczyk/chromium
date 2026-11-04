@@ -7,6 +7,12 @@
  * wallpapers.
  */
 
+// ---docerion
+// type: source
+// title: SeaPen recent wallpapers element
+// summary: Polymer component that displays recently used SeaPen wallpapers with selection, deletion and info dialog actions.
+// ---
+
 import 'chrome://resources/ash/common/personalization/common.css.js';
 import 'chrome://resources/ash/common/personalization/wallpaper.css.js';
 import './sea_pen.css.js';

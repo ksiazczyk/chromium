@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PostMessage API server
+// summary: Server class that initializes and maintains a postMessage channel with embedded client content, retrying initialization with exponential backoff.
+// ---
+
 import {RequestHandler} from './post_message_api_request_handler.js';
 
 /**

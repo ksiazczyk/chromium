@@ -7,6 +7,12 @@
  * template placeholder.
  */
 
+// ---docerion
+// type: source
+// title: SeaPen options element
+// summary: Polymer element that displays selectable option chips for SeaPen template placeholders, with keyboard navigation and an expand button.
+// ---
+
 import 'chrome://resources/ash/common/personalization/common.css.js';
 import 'chrome://resources/ash/common/personalization/cros_button_style.css.js';
 

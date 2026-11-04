@@ -1,0 +1,4 @@
+# Docerion header of network_siminfo.html.
+type: source
+title: SIM info element template
+summary: HTML template for the cellular SIM info element, covering SIM locked and unlocked states with PIN lock controls and dialogs.

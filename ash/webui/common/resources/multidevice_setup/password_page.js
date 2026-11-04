@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password page element
+// summary: Polymer element for the password page that validates the entered password via the quickUnlockPrivate API and produces an authentication token.
+// ---
+
 import './multidevice_setup_shared.css.js';
 import './ui_page.js';
 import '//resources/ash/common/cr_elements/cr_input/cr_input.js';

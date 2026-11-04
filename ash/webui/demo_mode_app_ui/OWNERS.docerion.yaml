@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the Demo Mode App UI directory
+summary: Lists the code owners responsible for reviewing changes to the Demo Mode App UI directory, with a backup owner and internal component reference.

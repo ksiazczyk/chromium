@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiDevice setup main element
+// summary: Main Polymer element orchestrating the multi-device setup flow, managing the setup pages, navigation button labels, host device selection and the Mojo service connection.
+// ---
+
 import './button_bar.js';
 import './fake_mojo_service.js';
 import './multidevice_setup_shared.css.js';

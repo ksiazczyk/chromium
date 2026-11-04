@@ -1,0 +1,4 @@
+# Docerion header of network_nameservers.html.
+type: source
+title: Network nameservers element template
+summary: HTML template for selecting automatic, Google, or custom DNS nameservers, with policy indicators and editable custom server inputs.

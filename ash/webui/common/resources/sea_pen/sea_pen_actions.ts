@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SeaPen state actions
+// summary: Defines action names, types, and creators that update SeaPen state such as searches, thumbnails, recent images, dialogs, and query history.
+// ---
+
 import type {FullscreenPreviewState} from 'chrome://resources/ash/common/personalization/wallpaper_state.js';
 import {assert} from 'chrome://resources/js/assert.js';
 import type {Action} from 'chrome://resources/js/store.js';

@@ -9,6 +9,12 @@
  * string, url:port.
  */
 
+// ---docerion
+// type: source
+// title: Network proxy input element
+// summary: Polymer element for displaying and editing a single network proxy value, firing a proxy-input-change event with combined url:port.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_input/cr_input.js';
 import './network_shared.css.js';
 

@@ -1,0 +1,4 @@
+# Docerion header of sea_pen_router_element.html.
+type: source
+title: SeaPen router element template
+summary: HTML template for the SeaPen router layout, arranging the top query area and bottom image grid containers.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Connectivity Diagnostics WebUI build definition
+summary: GN build rule that assembles the Connectivity Diagnostics WebUI, listing static files, the web component, TypeScript dependencies, and grit output settings.

@@ -7,6 +7,12 @@
  * the template placeholder.
  */
 
+// ---docerion
+// type: source
+// title: SeaPen suggestions element
+// summary: Polymer element that displays shufflable suggestions for filling template placeholders and logs suggestion and shuffle click metrics.
+// ---
+
 import 'chrome://resources/ash/common/personalization/personalization_shared_icons.html.js';
 import 'chrome://resources/ash/common/personalization/common.css.js';
 import 'chrome://resources/ash/common/personalization/cros_button_style.css.js';

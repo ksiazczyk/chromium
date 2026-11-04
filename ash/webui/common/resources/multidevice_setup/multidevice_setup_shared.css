@@ -13,6 +13,12 @@
  * #include=iron-flex cr-shared-style md-select
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shared styles for the setup pages
+summary: Shared CSS providing common color and layout styles imported by the multi-device setup pages.
+*/
+
 a {
   color: var(--cros-sys-primary);
 }

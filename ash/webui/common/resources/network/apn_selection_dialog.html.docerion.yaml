@@ -1,0 +1,4 @@
+# Docerion header of apn_selection_dialog.html.
+type: source
+title: APN selection dialog template
+summary: HTML template for the dialog that lets users pick an APN from the carrier database list, with cancel and use-APN actions.

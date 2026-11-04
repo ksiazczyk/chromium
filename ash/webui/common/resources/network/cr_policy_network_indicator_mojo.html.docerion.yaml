@@ -1,0 +1,4 @@
+# Docerion header of cr_policy_network_indicator_mojo.html.
+type: source
+title: Template for cr-policy-network-indicator-mojo
+summary: HTML template rendering a tooltip icon that indicates policy control of an associated network property.

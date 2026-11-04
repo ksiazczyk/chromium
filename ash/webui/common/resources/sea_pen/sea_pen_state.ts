@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SeaPen UI state types
+// summary: Defines the SeaPen UI state interfaces, including loading and thumbnail data, and provides an emptyState factory for initializing the store.
+// ---
+
 import type {SeaPenImageId} from './constants.js';
 import type {MantaStatusCode, RecentSeaPenThumbnailData, SeaPenQuery, SeaPenThumbnail, TextQueryHistoryEntry} from './sea_pen.mojom-webui.js';
 

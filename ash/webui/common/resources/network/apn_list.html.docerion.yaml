@@ -1,0 +1,4 @@
+# Docerion header of apn_list.html.
+type: source
+title: APN list template
+summary: HTML template rendering the cellular APN list with description, error and zero-state messages, and the detail and selection dialogs.

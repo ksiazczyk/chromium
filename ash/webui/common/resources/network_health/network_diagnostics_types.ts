@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared types for network diagnostics components
+// summary: Defines the Routine and RoutineResponse interfaces plus RoutineGroup and Icons enums shared by the network diagnostics components.
+// ---
+
 import type {RoutineResult, RoutineType} from '//resources/mojo/chromeos/services/network_health/public/mojom/network_diagnostics.mojom-webui.js';
 
 /**

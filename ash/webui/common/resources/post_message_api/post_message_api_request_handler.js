@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PostMessage API request handler
+// summary: Handles incoming postMessage requests from trusted origins, dispatching registered API methods and returning results to the client window.
+// ---
+
 // Handler for requests that come to the window containing the contents.
 export class RequestHandler {
   constructor(clientElement, messageOriginURLFilter, targetURL) {

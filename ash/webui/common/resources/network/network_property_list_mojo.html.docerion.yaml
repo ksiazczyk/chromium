@@ -1,0 +1,4 @@
+# Docerion header of network_property_list_mojo.html.
+type: source
+title: Network property list template
+summary: HTML template that renders network properties as a list with read-only values, inline-editable inputs, and policy indicators.

@@ -1,0 +1,4 @@
+# Docerion header of network_list.html.
+type: source
+title: Network list element template
+summary: HTML template for the network-list element, styling the container and rendering network and custom items in a scrollable iron-list.

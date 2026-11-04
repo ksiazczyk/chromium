@@ -1,0 +1,4 @@
+# Docerion header of network_health_container.html.
+type: source
+title: Network health container template
+summary: HTML template for the collapsible network health container, with a clickable header, label and expand arrow icon.

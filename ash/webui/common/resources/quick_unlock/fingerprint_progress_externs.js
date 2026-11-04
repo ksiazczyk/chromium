@@ -7,6 +7,12 @@
  * @externs
  */
 
+// ---docerion
+// type: source
+// title: Fingerprint progress externs declarations
+// summary: Closure compiler externs declaring the FingerprintProgressElement API for code that still uses JavaScript instead of TypeScript.
+// ---
+
 /**
  * @constructor
  * @extends {HTMLElement}

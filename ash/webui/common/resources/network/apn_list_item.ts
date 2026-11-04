@@ -6,6 +6,12 @@
  * @fileoverview Polymer element for displaying a cellular APN in the APN list.
  */
 
+// ---docerion
+// type: source
+// title: APN list item element
+// summary: Polymer element representing one APN entry in the list, handling its action menu actions and network configuration service calls.
+// ---
+
 import './network_shared.css.js';
 import '//resources/ash/common/cr_elements/cr_action_menu/cr_action_menu.js';
 

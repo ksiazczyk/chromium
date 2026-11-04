@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Demo mode app untrusted WebUI declarations
+// summary: Declares the untrusted WebUI controller and its configuration class for the demo mode app, including the page handler factory binding and component resource sourcing.
+// ---
+
 #ifndef ASH_WEBUI_DEMO_MODE_APP_UI_DEMO_MODE_APP_UNTRUSTED_UI_H_
 #define ASH_WEBUI_DEMO_MODE_APP_UI_DEMO_MODE_APP_UNTRUSTED_UI_H_
 

@@ -7,6 +7,12 @@
  * values.
  */
 
+// ---docerion
+// type: source
+// title: Network proxy settings element
+// summary: Polymer element for displaying and editing network proxy configuration, including direct, PAC, WPAD, and manual proxy modes with exclusions.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_button/cr_button.js';
 import '//resources/ash/common/cr_elements/cr_input/cr_input.js';
 import '//resources/ash/common/cr_elements/cr_toggle/cr_toggle.js';

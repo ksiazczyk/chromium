@@ -1,3 +1,9 @@
+---
+type: readme
+title: ChromeOS SeaPen Common Files
+summary: Explains that this directory holds files shared between the personalization app and the video conference background UI to render the SeaPen UI.
+---
+
 # ChromeOS SeaPen Common Files
 
 This directory contains files that are shared between

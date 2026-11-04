@@ -8,6 +8,12 @@
  * Export them as functions so they reload the values when overridden in test.
  */
 
+// ---docerion
+// type: source
+// title: SeaPen feature flag getters
+// summary: Provides functions that read SeaPen-related boolean feature flags from loadTimeData so values reload when overridden in tests.
+// ---
+
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';
 
 export function isSeaPenEnabled() {

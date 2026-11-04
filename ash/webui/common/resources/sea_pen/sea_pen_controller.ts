@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sea Pen controller
+// summary: Controller functions for the Sea Pen wallpaper UI that select recent images, fetch thumbnails for queries, and dispatch corresponding store actions.
+// ---
+
 import {FullscreenPreviewState} from 'chrome://resources/ash/common/personalization/wallpaper_state.js';
 
 import type {SeaPenImageId} from './constants.js';

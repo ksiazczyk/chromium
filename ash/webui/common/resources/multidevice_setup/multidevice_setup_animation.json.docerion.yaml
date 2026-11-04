@@ -1,0 +1,4 @@
+# Docerion header of multidevice_setup_animation.json.
+type: asset
+title: Lottie animation for the setup flow
+summary: Bodymovin/Lottie JSON animation (2_Sync_v3) rendered as an illustration during the multi-device setup UI.

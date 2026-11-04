@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for multidevice_setup
+summary: Delegates review ownership to the shared ChromeOS cross-device multidevice OWNERS file.

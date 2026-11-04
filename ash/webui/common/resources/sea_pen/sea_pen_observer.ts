@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SeaPen observer
+// summary: Implements a Mojo observer that forwards SeaPen selected image and text query history changes into the app store.
+// ---
+
 import type {SeaPenImageId} from './constants.js';
 import type {SeaPenObserverInterface, SeaPenProviderInterface, TextQueryHistoryEntry} from './sea_pen.mojom-webui.js';
 import {SeaPenObserverReceiver} from './sea_pen.mojom-webui.js';

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Demo Mode App UI build configuration
+summary: GN build file defining the demo_mode_app_ui static library and its unit test source set with their sources and dependencies.

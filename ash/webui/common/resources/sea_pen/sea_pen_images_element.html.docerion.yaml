@@ -1,0 +1,4 @@
+# Docerion header of sea_pen_images_element.html.
+type: source
+title: SeaPen images element template
+summary: HTML template for the SeaPen images element, styling and laying out the generated wallpaper thumbnail grid, query history, and feedback controls.

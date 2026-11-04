@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for multidevice_setup
+summary: Declares the Buganizer component and team email address used for triage of this directory.

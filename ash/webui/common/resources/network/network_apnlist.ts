@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network APN list element
+// summary: Polymer element for selecting and editing cellular APN settings, including custom APN entries and attach APN handling.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_button/cr_button.js';
 import '//resources/ash/common/cr_elements/md_select.css.js';
 import '//resources/ash/common/cr_elements/policy/cr_tooltip_icon.js';

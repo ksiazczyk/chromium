@@ -1,0 +1,4 @@
+# Docerion header of network_health_summary.html.
+type: source
+title: Network health summary template
+summary: HTML template listing each network with attributes such as state, portal state, signal strength, IP and MAC addresses and a settings link.

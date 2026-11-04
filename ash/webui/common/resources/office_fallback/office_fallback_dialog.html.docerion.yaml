@@ -1,0 +1,4 @@
+# Docerion header of office_fallback_dialog.html.
+type: source
+title: Template and styles for the office fallback dialog
+summary: HTML template defining the dialog layout, Cros design tokens and buttons for opening in the basic editor, cancelling, retrying and confirming.

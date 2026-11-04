@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Connectivity Diagnostics UI implementation
+// summary: Implements the connectivity diagnostics WebUI controller, sets up the WebUI data source, and handles feedback report messages.
+// ---
+
 #include "ash/webui/connectivity_diagnostics/connectivity_diagnostics_ui.h"
 
 #include <utility>

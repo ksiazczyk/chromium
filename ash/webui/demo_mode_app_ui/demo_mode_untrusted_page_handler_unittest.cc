@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Demo Mode untrusted page handler unit tests
+// summary: Unit tests verifying fullscreen toggling, including window container changes between the always-on-top wallpaper and active desk containers and splash screen removal.
+// ---
+
 #include "ash/webui/demo_mode_app_ui/demo_mode_untrusted_page_handler.h"
 
 #include "ash/test/ash_test_base.h"

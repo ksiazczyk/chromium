@@ -1,0 +1,4 @@
+# Docerion header of setup_pin_keyboard.html.
+type: source
+title: Setup PIN keyboard element template
+summary: HTML template for the setup-pin-keyboard element, documenting its usage attributes and styling the PIN entry, complexity requirement and problem messages.

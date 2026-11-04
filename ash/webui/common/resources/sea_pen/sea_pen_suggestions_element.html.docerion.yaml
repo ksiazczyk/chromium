@@ -1,0 +1,4 @@
+# Docerion header of sea_pen_suggestions_element.html.
+type: source
+title: SeaPen suggestions element template
+summary: HTML template for the SeaPen suggestions element, rendering a shuffle button and a selectable list of suggestion chips with keyboard navigation.

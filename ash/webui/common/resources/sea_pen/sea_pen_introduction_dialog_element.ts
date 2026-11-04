@@ -6,6 +6,12 @@
  * @fileoverview Displays an introduction dialog about the Sea Pen feature.
  */
 
+// ---docerion
+// type: source
+// title: SeaPen introduction dialog element
+// summary: Polymer component that displays an introduction dialog for the SeaPen feature and dispatches close events for template and freeform variants.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_auto_img/cr_auto_img.js';
 import './sea_pen_introduction_svg_element.js';
 

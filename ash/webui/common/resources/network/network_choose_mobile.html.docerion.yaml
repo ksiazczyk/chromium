@@ -1,0 +1,4 @@
+# Docerion header of network_choose_mobile.html.
+type: source
+title: Choose mobile network element template
+summary: HTML template for the mobile network chooser with a cellular scan button and a dropdown of found networks.

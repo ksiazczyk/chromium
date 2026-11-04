@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SeaPen utility functions
+// summary: Shared helpers that validate URLs, image IDs and file paths, and build template chip options and tokens for the SeaPen UI.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import type {FilePath} from 'chrome://resources/mojo/mojo/public/mojom/base/file_path.mojom-webui.js';
 import type {Url} from 'chrome://resources/mojo/url/mojom/url.mojom-webui.js';

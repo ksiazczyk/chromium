@@ -1,0 +1,4 @@
+# Docerion header of main.html.
+type: source
+title: Entry HTML page for the office fallback dialog
+summary: Loads ChromeOS theme styles and the office-fallback dialog module, hosting the office-fallback element as the WebUI page body.

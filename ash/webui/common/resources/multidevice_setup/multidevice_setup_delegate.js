@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiDevice setup delegate interface
+// summary: Interface for setting the host device, letting OOBE and non-OOBE flows supply different behavior for authentication and post-setup navigation.
+// ---
+
 /**
  * Interface which provides the ability to set the host device and perform
  * related logic.

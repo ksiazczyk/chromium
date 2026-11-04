@@ -1,0 +1,4 @@
+# Docerion header of network_proxy_input.html.
+type: source
+title: Network proxy input element template
+summary: HTML template with styles and layout for the network proxy input element, showing host and port cr-input fields.

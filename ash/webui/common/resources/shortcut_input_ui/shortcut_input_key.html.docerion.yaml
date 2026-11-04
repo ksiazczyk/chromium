@@ -1,0 +1,4 @@
+# Docerion header of shortcut_input_key.html.
+type: source
+title: Shortcut input key element template
+summary: HTML template for the shortcut-input-key element, defining styling and layout for a single key shown as an icon or text.

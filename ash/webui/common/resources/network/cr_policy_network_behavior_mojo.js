@@ -8,6 +8,12 @@
  * optional properties (which may be null|undefined).
  */
 
+// ---docerion
+// type: source
+// title: Policy-controlled network property behavior
+// summary: Polymer behavior with helpers to determine whether network properties are policy-enforced, recommended, extension-controlled, or editable via Mojo types.
+// ---
+
 import {OncSource, PolicySource} from '//resources/mojo/chromeos/services/network_config/public/mojom/network_types.mojom-webui.js';
 
 import {CrPolicyIndicatorType} from '../cr_policy_indicator_behavior.js';

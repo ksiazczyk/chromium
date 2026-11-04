@@ -6,6 +6,12 @@
  * @fileoverview Behavior for network config elements.
  */
 
+// ---docerion
+// type: source
+// title: Network config element behavior
+// summary: Shared Polymer behavior adding disabled, readonly, policy, and prefilled-value handling to network config input elements.
+// ---
+
 import {OncMojo} from './onc_mojo.js';
 
 /** @polymerBehavior */

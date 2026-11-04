@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Wallpaper page styles for the personalization WebUI
+summary: Styles the wallpaper page container and its collections headings for the personalization WebUI.
+*/
+
 main {
   height: 100%;
   width: 100%;

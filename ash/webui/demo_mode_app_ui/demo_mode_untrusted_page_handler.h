@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Demo Mode untrusted page handler declarations
+// summary: Declares the Mojo page handler class for the Demo Mode app, handling fullscreen toggling and app launching through the app delegate.
+// ---
+
 #ifndef ASH_WEBUI_DEMO_MODE_APP_UI_DEMO_MODE_UNTRUSTED_PAGE_HANDLER_H_
 #define ASH_WEBUI_DEMO_MODE_APP_UI_DEMO_MODE_UNTRUSTED_PAGE_HANDLER_H_
 

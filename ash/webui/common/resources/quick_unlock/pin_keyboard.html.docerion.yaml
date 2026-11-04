@@ -1,0 +1,4 @@
+# Docerion header of pin_keyboard.html.
+type: source
+title: PIN keyboard element template
+summary: HTML template for the pin-keyboard element, styling digit buttons, backspace, show-PIN control and the PIN input.

@@ -7,6 +7,12 @@
  * samples.
  */
 
+// ---docerion
+// type: source
+// title: SeaPen sample prompts element
+// summary: Polymer element that displays a list of freeform prompt samples and dispatches a sample-selected event when a sample is clicked.
+// ---
+
 import 'chrome://resources/ash/common/personalization/common.css.js';
 import 'chrome://resources/ash/common/personalization/cros_button_style.css.js';
 import 'chrome://resources/ash/common/personalization/personalization_shared_icons.html.js';

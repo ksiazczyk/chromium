@@ -1,0 +1,4 @@
+# Docerion header of connectivity_diagnostics.html.
+type: source
+title: Connectivity Diagnostics Polymer element template
+summary: HTML template for the connectivity-diagnostics element, laying out the app title, network health summary, diagnostic routines, and close, rerun, and feedback buttons.

@@ -7,6 +7,12 @@
  * SeaPen wallpapers.
  */
 
+// ---docerion
+// type: source
+// title: SeaPen input query element
+// summary: Polymer component that lets users enter a text query to search for and generate SeaPen wallpapers, including suggestions and loading states.
+// ---
+
 import 'chrome://resources/ash/common/personalization/cros_button_style.css.js';
 import 'chrome://resources/ash/common/personalization/personalization_shared_icons.html.js';
 import 'chrome://resources/ash/common/personalization/wallpaper.css.js';

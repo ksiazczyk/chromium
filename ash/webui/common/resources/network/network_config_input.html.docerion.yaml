@@ -1,0 +1,4 @@
+# Docerion header of network_config_input.html.
+type: source
+title: Network config input template
+summary: HTML template for the network config input, pairing a cr-input field with a managed network policy indicator.

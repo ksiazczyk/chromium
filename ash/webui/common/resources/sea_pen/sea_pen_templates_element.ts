@@ -6,6 +6,12 @@
  * @fileoverview A polymer component that displays the SeaPen templates.
  */
 
+// ---docerion
+// type: source
+// title: SeaPen templates element
+// summary: Polymer component that displays the SeaPen template grid, logging template selection and routing to the chosen template.
+// ---
+
 import 'chrome://resources/ash/common/personalization/common.css.js';
 import 'chrome://resources/ash/common/personalization/wallpaper_grid_item_element.js';
 import 'chrome://resources/ash/common/personalization/wallpaper.css.js';

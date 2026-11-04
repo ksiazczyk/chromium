@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Demo Mode App UI Mojom OWNERS
+summary: Requires review by the IPC security owners for any changes to the Mojom files in this directory.

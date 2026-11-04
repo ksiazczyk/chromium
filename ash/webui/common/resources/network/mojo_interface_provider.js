@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo interface provider for network config
+// summary: Singleton that supplies the CrosNetworkConfig Mojo remote interface to web UI code, with hooks for test injection.
+// ---
+
 import {CrosNetworkConfig} from '//resources/mojo/chromeos/services/network_config/public/mojom/cros_network_config.mojom-webui.js';
 
 /**

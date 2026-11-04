@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: ChromeOS button styles for the personalization WebUI
+summary: Applies ChromeOS-themed colors and interaction states to cr-button and cr-icon-button elements in the personalization WebUI.
+*/
+
 cr-button {
   border-color: var(--cros-button-stroke-color-secondary);
   border-radius: 16px;

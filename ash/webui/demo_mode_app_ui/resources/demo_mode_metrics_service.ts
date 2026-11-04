@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Demo Mode Highlights metrics enums and service
+// summary: Defines page, details page, and button enums plus error and UMA action mappings used to record Demo Mode Highlights metrics.
+// ---
+
 /**
  * The page/pillar name for the pages in the Highlights app.
  */

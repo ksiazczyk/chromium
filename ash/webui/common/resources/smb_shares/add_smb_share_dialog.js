@@ -9,6 +9,12 @@
  * destroyed when finished, and re-created when shown again.
  */
 
+// ---docerion
+// type: source
+// title: Add SMB share dialog component
+// summary: Polymer component for adding an SMB share, handling URL validation, share discovery, authentication options, and mount errors.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_button/cr_button.js';
 import '//resources/ash/common/cr_elements/cr_checkbox/cr_checkbox.js';
 import '//resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';

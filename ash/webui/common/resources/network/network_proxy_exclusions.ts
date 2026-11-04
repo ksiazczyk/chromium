@@ -7,6 +7,12 @@
  * Includes UI for adding, changing, and removing entries.
  */
 
+// ---docerion
+// type: source
+// title: Proxy exclusions element
+// summary: Polymer element for displaying the list of proxy exclusion domains and removing entries, notifying changes via a proxy-exclusions-change event.
+// ---
+
 import '//resources/ash/common/cr_elements/cr_icon_button/cr_icon_button.js';
 import '//resources/ash/common/cr_elements/cr_hidden_style.css.js';
 import '//resources/polymer/v3_0/iron-flex-layout/iron-flex-layout-classes.js';
