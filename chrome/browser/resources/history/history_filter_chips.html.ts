@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+// ---docerion
+// type: source
+// title: History filter chips HTML template
+// summary: Lit HTML template for the history filter chips, rendering actor and device filter selects or chips plus a clear-all button.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {HistoryFilterChipsElement} from './history_filter_chips.js';

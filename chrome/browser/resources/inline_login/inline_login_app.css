@@ -8,6 +8,12 @@
  * #include=cr-spinner-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the inline login app
+summary: Lit style sheet defining the layout of the app element, the sign-in frame and the spinner styling.
+*/
+
 :host {
   --dialog-top-border-size: 35px;
   display: flex;

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file delegating to Gemini Enterprise owners
+summary: Delegates code ownership for the geic directory to the Gemini Enterprise OWNERS file in chrome/browser/glic.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser proxy for the selection overlay Mojo interfaces
+// summary: Singleton browser proxy that exposes the selection overlay page handler remote and callback router to the WebUI code.
+// ---
+
 import {                               //
   SelectionOverlayPageCallbackRouter,  //
   SelectionOverlayPageHandlerFactory,  //

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic API client implementation
+// summary: Implements the Glic browser host client, bridging Mojo web client interfaces for tabs, region capture, pin candidates, panel state and settings.
+// ---
+
 import {assertNotReached} from '//resources/js/assert.js';
 import type {BitmapN32} from '//resources/mojo/skia/public/mojom/bitmap.mojom-webui.js';
 

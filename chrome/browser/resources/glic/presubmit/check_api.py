@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Glic API presubmit check script
+# summary: Checks the Glic API for common mistakes and backwards compatibility issues and is run from PRESUBMIT.py.
+# ---
+
 '''
 Checks the Glic API for common mistakes and backwards compatibility
 issues. Used in PRESUBMIT.py.

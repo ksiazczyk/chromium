@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Glic experimental opt-in WebUI build definition
+summary: Defines the GN build target that compiles the Glic experimental opt-in WebUI, listing its static, TypeScript, and Mojo dependencies.

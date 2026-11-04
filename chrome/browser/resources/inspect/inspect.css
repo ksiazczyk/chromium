@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Styles for the Chrome inspect page
+summary: Defines the layout and styling of the DevTools inspect page, covering navigation tabs, device and browser headers, port indicators, and target lists.
+*/
+
 * {
   box-sizing: border-box;
 }

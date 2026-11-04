@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-device sign-in promo template
+// summary: Lit HTML template for the cross-device sign-in promo card with close button, illustration, and action button.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {HistoryCrossDeviceSigninPromoElement} from './history_cross_device_signin_promo.js';

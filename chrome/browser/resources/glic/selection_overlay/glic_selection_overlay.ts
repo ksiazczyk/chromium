@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic selection overlay element
+// summary: Lit element that coordinates selections across features, handling pointer gestures, animations, suggested actions and overlay dismissal.
+// ---
+
 import '/lens/region_selection.js';
 import '/lens/post_selection_renderer.js';
 import '/lens/overlay_border_glow.js';

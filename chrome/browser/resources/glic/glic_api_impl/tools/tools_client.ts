@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic tools client implementation
+// summary: Implements the GlicToolsHost to expose built-in Chrome tool definitions and execute tools such as open_url, follow_link, and perform_search through the AI overlay tools remote.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 
 import {kBuiltInToolDefinitions} from '../../generated_tool_definitions.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BMP header generation utilities
+// summary: Builds BMP file and BITMAPV5 headers for RGBA image data so Glic requests can carry screenshots in bitmap form.
+// ---
+
 import {ImageColorType} from '../request_types.js';
 import type {RgbaImage} from '../request_types.js';
 

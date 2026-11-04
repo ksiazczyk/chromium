@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicBrowserHostGeic client for Gemini Enterprise
+// summary: TypeScript implementation of GeicBrowserHost that opens and closes sign-in and auth tabs via the Gemini Enterprise Mojo handler.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 
 import {enumFromClient, enumToClient} from '../../enum_conversions.js';

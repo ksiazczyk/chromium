@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Tests for the Glic API check script
+# summary: Runs edit-based test cases against check_api.py to verify that API compatibility errors are detected or allowed as expected.
+# ---
+
 import json
 import os
 import re

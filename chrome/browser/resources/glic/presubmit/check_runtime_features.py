@@ -1,6 +1,13 @@
 # Copyright 2025 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Runtime feature gating check for Glic mojo methods
+# summary: Presubmit check ensuring every RuntimeFeature-gated mojo method used by Glic has a matching MOJO_RUNTIME_FEATURE_GATED comment in client files.
+# ---
+
 '''
 Checks that each RuntimeFeature gated mojo method used for glic has a
 corresponding '// MOJO_RUNTIME_FEATURE_GATED' comment where that method

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Slim WebView browser proxy
+// summary: Provides a singleton browser proxy connecting the slim WebView UI to its Mojo page handler and callback router.
+// ---
+
 import {PageCallbackRouter, PageHandlerFactory, PageHandlerRemote} from './slim_web_view.mojom-webui.js';
 import type {PageHandlerInterface} from './slim_web_view.mojom-webui.js';
 

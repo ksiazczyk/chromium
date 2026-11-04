@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the inspect WebUI
+summary: Build configuration that assembles the inspect page's CSS, HTML and JavaScript into a WebUI resources target, with a note to migrate the script to TypeScript.

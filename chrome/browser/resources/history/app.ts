@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History app element
+// summary: Main Lit element of the Chrome history page, coordinating queries, navigation, sync promos, synced devices, and embeddings features.
+// ---
+
 import 'chrome://resources/cr_components/history_clusters/clusters.js';
 import 'chrome://resources/cr_components/history_embeddings/filter_chips.js';
 import 'chrome://resources/cr_components/history_embeddings/history_embeddings.js';

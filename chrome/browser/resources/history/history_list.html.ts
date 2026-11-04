@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History list HTML template
+// summary: Lit HTML template rendering the infinite history list, delete confirmation dialog, and per-entry action menu.
+// ---
+
 import type {CrInfiniteListElement} from '//resources/cr_elements/cr_infinite_list/cr_infinite_list.js';
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 import type {HistoryEntry} from 'chrome://resources/cr_components/history/history.mojom-webui.js';

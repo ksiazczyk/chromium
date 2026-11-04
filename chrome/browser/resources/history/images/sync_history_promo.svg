@@ -1,3 +1,9 @@
+<!--docerion
+type: asset
+title: Sync history promo illustration
+summary: Light-theme SVG illustration used in the Chrome history page to promote syncing history across devices.
+-->
+
 <svg width="300" height="162" viewBox="0 0 300 162" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect x="220.693" y="96.8115" width="63" height="46.5" rx="23.25" transform="rotate(13.447 220.693 96.8115)" fill="#D2E3FC"/>
 <rect x="42" y="115.945" width="42" height="31.5" rx="15.75" transform="rotate(-12.5657 42 115.945)" fill="#D2E3FC"/>

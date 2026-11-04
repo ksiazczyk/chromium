@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Slim WebView element
+// summary: Implements the slim WebView element, defining guest events such as exit, load, new window, zoom change, and permission requests.
+// ---
+
 import {assert, assertInstanceof, assertNotReached} from '//resources/js/assert.js';
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 import type {PropertyValues} from '//resources/lit/v3_0/lit.rollup.js';

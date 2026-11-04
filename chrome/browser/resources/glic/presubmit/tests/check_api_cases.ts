@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic presubmit API check test cases
+// summary: Test fixture for the Glic presubmit API check that re-exports generated interfaces and enums and annotates module augmentation edits as expected errors or allowed changes.
+// ---
+
 /// BEGIN_GENERATED - DO NOT MODIFY BELOW
 import * as generated from './check_api_cases_imported.js';
 export import InterfaceA = generated.InterfaceA;

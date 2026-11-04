@@ -1,3 +1,13 @@
+---
+type: readme
+title: Glic web client API implementation
+summary: Describes the layout of the glic_api_impl directory, covering the client, host, transport, actor, zero state suggestions and experimental triggering modules of the Glic web client API.
+relations:
+  - documents /chrome/browser/resources/glic/glic_api_impl/request_types.ts
+  - documents /chrome/browser/resources/glic/glic_api_impl/actor/actor_client.ts
+  - documents /chrome/browser/resources/glic/glic_api_impl/zero_state_suggestions/zero_state_suggestions_client.ts
+---
+
 ## Glic web client API implementation
 
 This directory contains the implementation of ../glic_api.

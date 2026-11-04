@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic internals app Lit template
+// summary: Lit HTML template rendering the internals page's tabs, action bar, Glic status banner, enablement cards, and diagnostics sections.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import {InvocationSource} from '../glic_enums.mojom-webui.js';

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Presubmit checks for Glic API changes
+# summary: Runs API compatibility and TypeScript import checks during presubmit when files under the glic resources directory change.
+# ---
+
 import os
 import json
 

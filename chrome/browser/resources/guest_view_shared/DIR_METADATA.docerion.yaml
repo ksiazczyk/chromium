@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Guest view shared directory metadata
+summary: Points the directory metadata to the common guest view COMMON_METADATA mixins.

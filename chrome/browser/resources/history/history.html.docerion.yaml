@@ -1,0 +1,4 @@
+# Docerion header of history.html.
+type: source
+title: History WebUI HTML shell
+summary: HTML entry page for the Chrome history WebUI that sets the base path, dark-mode and loading styles, shows an app shim while loading, and loads the history app module.

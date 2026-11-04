@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic experimental opt-in page controller
+// summary: TypeScript controller that loads the opt-in webview, sets dialog dimensions, and handles errors, retries, and visibility transitions.
+// ---
+
 import '/strings.m.js';
 import 'chrome://resources/cr_elements/cr_icon/cr_iconset.js';
 import 'chrome://resources/cr_elements/icons.html.js';

@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit shared-style cr-scrollable-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: History app element styles
+summary: Styles for the main history app element, covering layout, tabs, scroll shadows, and the history embeddings disclaimer.
+*/
+
 :host {
   color: var(--cr-primary-text-color);
   display: flex;

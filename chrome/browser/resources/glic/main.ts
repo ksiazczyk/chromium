@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic app main entry point
+// summary: Entry point that creates the app router on DOMContentLoaded and wires up close, retry, and reload button listeners.
+// ---
+
 import '/strings.m.js';
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/cr_elements/cr_icon/cr_iconset.js';

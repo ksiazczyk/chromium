@@ -5,6 +5,12 @@
 // Note: this code is made to conform to glic_api's Observable, but can also be
 // used independently.
 
+// ---docerion
+// type: source
+// title: Observable value implementation
+// summary: Implements observable values with subscriber management and error and completion handling, conforming to glic_api's Observable interface.
+// ---
+
 function assertNotReachedCase(_param: never, message?: string): never {
   throw new Error('Assertion failed' + (message ? `: ${message}` : ''));
 }

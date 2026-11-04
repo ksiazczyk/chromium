@@ -1,0 +1,4 @@
+# Docerion header of generate.py.
+type: script
+title: Glic API TypeScript code generator entry point
+summary: Entry point that runs the Mojom parser and TypeScript generator to produce glic_api_generated.ts and update glic_api.ts, honoring special Mojom comment annotations.

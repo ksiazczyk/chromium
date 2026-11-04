@@ -1,0 +1,4 @@
+# Docerion header of glic_overlay.html.
+type: source
+title: Glic overlay page markup
+summary: HTML page for the Gemini in Chrome overlay defining local panels for offline, loading, error, unavailable, and related states.

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Indigo component extension manifest
+summary: Manifest for the Indigo component extension, declaring its name, version, permissions, host access and content security policy.

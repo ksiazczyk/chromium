@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Slim WebView iframe styles
+summary: Styles the slim WebView iframe to fill its container without borders, margins, or padding.
+*/
+
 iframe {
   width: 100%;
   height: 100%;

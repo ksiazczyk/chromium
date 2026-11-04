@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Guest view shared WebUI build configuration
+summary: Defines the WebUI build for shared guest view resources, compiling the slim WebView TypeScript and CSS with Mojo bindings and Lit dependencies.

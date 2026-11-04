@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Behavior of the Chrome inspect page
+// summary: Implements the inspect page logic, including tab selection, discovery settings, populating local and remote debugging targets, and browser communication via chrome.send.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 function $(id) {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Indigo text overlay Lit template
+// summary: Lit HTML template for the Indigo text overlay that renders the entry icon, three localized step messages and a two-line disclaimer.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {IndigoTextOverlayElement} from './text_overlay.js';

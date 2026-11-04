@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic browser host for experimental triggering
+// summary: Implements the browser-side experimental triggering host for Glic, bridging Mojo and client APIs to manage screenshot uploads, confirmation responses, and update subscribers with timeout and teardown handling.
+// ---
+
 import {enumFromClient} from '../../enum_conversions.js';
 import {ExperimentalTriggeringClientReceiver, SubscriberObservationType as SubscriberObservationTypeMojo} from '../../glic.mojom-webui.js';
 import type {                                            //

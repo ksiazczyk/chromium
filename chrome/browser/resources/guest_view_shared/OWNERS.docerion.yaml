@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Guest view shared owners
+summary: Delegates code ownership reviews to the slim web view component OWNERS file.

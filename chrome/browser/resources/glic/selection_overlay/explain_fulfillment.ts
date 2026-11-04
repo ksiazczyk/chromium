@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Explain fulfillment card element
+// summary: Custom element that shows the explanation card for the Explain suggestion, with a close button, sharing disclaimer and an Ask Gemini action.
+// ---
+
 import '//resources/cr_elements/cr_button/cr_button.js';
 import '//resources/cr_elements/cr_icon_button/cr_icon_button.js';
 

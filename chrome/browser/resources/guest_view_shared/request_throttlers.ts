@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Slim WebView request throttler parameters
+// summary: Defines parameter classes that serialize request header and origin check settings into Mojo values for the slim WebView guest.
+// ---
+
 import type {Value} from '//resources/mojo/mojo/public/mojom/base/values.mojom-webui.js';
 
 export interface Header {

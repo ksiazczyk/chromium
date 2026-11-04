@@ -1,0 +1,4 @@
+# Docerion header of tsconfig.json.
+type: config
+title: TypeScript configuration for generate_impl
+summary: TypeScript compiler configuration extending the Chromium base tsconfig, targeting ESNext with NodeNext modules and node and trusted-types types.

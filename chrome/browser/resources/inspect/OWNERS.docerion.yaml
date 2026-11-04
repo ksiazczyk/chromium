@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the inspect directory
+summary: Lists the email addresses of the maintainers responsible for reviewing changes to the inspect WebUI directory.

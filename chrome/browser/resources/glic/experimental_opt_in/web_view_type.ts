@@ -5,6 +5,12 @@
 // This library allows you to obtain a chrome.webviewTag.WebView element when
 // extensions are enabled, or a SlimWebviewElement when they are not.
 
+// ---docerion
+// type: source
+// title: WebView type helper for the opt-in page
+// summary: Defines the WebViewType union and an isFullWebView helper to distinguish the full WebView element from SlimWebViewElement when extensions are disabled.
+// ---
+
 // <if expr="not enable_extensions_core">
 import '/shared/guest_view/slim_webview.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser proxy for the Glic WebUI
+// summary: Sets up mojo page handler and callback router connections between the Glic WebUI and the browser, with optional debug logging.
+// ---
+
 import '/strings.m.js';
 
 import {loadTimeData} from '//resources/js/load_time_data.js';

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for inline login
+summary: Lists the owners responsible for reviewing changes to the inline login resources.

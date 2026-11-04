@@ -10,6 +10,12 @@
  * #include=cr-hidden-style-lit cr-icons-lit cr-nav-menu-item-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: History side bar styles
+summary: Styles the history sidebar element, including its navigation menu, separators, managed footnote, and Google account footer.
+*/
+
 :host {
   display: flex;
   flex-direction: column;

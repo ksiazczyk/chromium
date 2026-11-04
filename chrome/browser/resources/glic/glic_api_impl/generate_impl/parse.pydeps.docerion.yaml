@@ -1,0 +1,4 @@
+# Docerion header of parse.pydeps.
+type: config
+title: Python dependencies for parse.py
+summary: Generated list of Python module dependencies for parse.py, used by build tooling to bundle the script.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-device sign-in promo browser proxy
+// summary: Singleton browser proxy giving the promo element access to the cross-device sign-in promo Mojo handler.
+// ---
+
 import {HistoryCrossDeviceSigninPromoHandler} from 'chrome://resources/cr_components/history/history_cross_device_signin_promo.mojom-webui.js';
 import type {HistoryCrossDeviceSigninPromoHandlerRemote} from 'chrome://resources/cr_components/history/history_cross_device_signin_promo.mojom-webui.js';
 

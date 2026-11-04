@@ -1,3 +1,12 @@
+---
+type: readme
+title: Glic web client API
+summary: Describes the API consumed by the Glic web client and the procedure for safely removing unused API properties while reserving removed identifiers.
+relations:
+  - references /chrome/browser/resources/glic/glic_api/glic_api.ts
+  - references /chrome/browser/resources/glic/glic_api_impl/request_types.ts
+---
+
 # Glic web client API
 
 This directory contains the API that is consumed by the web client loaded in the

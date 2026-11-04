@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TypeScript type model classes and interfaces
+// summary: Defines classes and interfaces modeling TypeScript types and Mojom-derived enums, fields, and interfaces for the code generator.
+// ---
+
 import type {MojomType} from './mojom_types.js';
 
 // Types representing typescript types.

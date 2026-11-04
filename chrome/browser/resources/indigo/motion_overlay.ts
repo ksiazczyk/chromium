@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Indigo motion overlay element
+// summary: Lit element that drives the Indigo entry and exit swipe animations, including loading circles, dimension calculations and triggering the text overlay sequence.
+// ---
+
 import './text_overlay.js';
 
 import type {PropertyValues} from 'chrome://resources/lit/v3_0/lit.rollup.js';

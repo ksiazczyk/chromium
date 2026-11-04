@@ -10,6 +10,12 @@
  * #include=cr-hidden-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Cross-device sign-in promo styles
+summary: Styles for the cross-device sign-in promo card, covering layout, illustration, and dark mode variants.
+*/
+
 :host {
   display: block;
   box-sizing: border-box;

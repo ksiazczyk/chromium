@@ -6,6 +6,12 @@
  * #type=style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Animation styles for the motion overlay
+summary: Defines the swipe, blur and loading keyframe animations and custom properties used by the Indigo motion overlay element.
+*/
+
 :host {
   --indigo-swipe-ellipse-color: white;
   --indigo-swipe-color-red: rgb(229, 98, 98);

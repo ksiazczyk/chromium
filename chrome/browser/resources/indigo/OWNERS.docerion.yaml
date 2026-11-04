@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS pointer for the Indigo resources
+summary: Delegates code review ownership to the OWNERS file in chrome/browser/indigo.

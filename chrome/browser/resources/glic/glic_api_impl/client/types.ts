@@ -4,6 +4,12 @@
 
 // Defines some types shared across files in host/.
 
+// ---docerion
+// type: source
+// title: Shared Glic client types
+// summary: Defines the PanelOpenState enum shared across Glic host files.
+// ---
+
 export enum PanelOpenState {
   OPEN,
   CLOSED,

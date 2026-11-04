@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Selection overlay app element
+// summary: Lit custom element that displays the viewport screenshot received from the browser and dismisses the overlay via the close button.
+// ---
+
 import '/strings.m.js';
 import './glic_selection_overlay.js';
 import '//resources/cr_elements/cr_button/cr_button.js';

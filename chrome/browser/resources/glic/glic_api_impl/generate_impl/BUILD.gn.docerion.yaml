@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the Glic API generator
+summary: Defines build actions that parse Glic Mojom files to JSON, type-check the generator sources, and generate enum conversion code.

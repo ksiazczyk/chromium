@@ -1,3 +1,11 @@
+---
+type: readme
+title: Help app README
+summary: Explains that the directory holds the manifest for the internally developed offline help app and that it is not the Showoff app.
+relations:
+  - documents /chrome/browser/resources/help_app/manifest.json
+---
+
 # Help app
 
 This directory contains the manifest for the offline help app which is developed

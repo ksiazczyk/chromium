@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Indigo Internals app Lit element
+// summary: Implements the indigo-internals-app Lit element that fetches eligibility and Glic prompt data over Mojo, listens for status changes, and renders the page.
+// ---
+
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';

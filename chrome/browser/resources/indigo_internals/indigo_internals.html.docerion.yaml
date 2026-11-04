@@ -1,0 +1,4 @@
+# Docerion header of indigo_internals.html.
+type: source
+title: Indigo Internals entry HTML page
+summary: Entry HTML page that loads the app module and hosts the indigo-internals-app element.

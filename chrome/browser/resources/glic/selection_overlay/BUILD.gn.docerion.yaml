@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Glic selection overlay WebUI
+summary: GN build configuration that packages the overlay's static files, TypeScript, CSS and generated Mojo bindings as an untrusted WebUI target.

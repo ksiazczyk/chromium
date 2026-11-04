@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History WebUI export entry module
+// summary: TypeScript entry module that re-exports the history app elements, browser proxy factories, constants, and shared WebUI components so tests and consumers use a single import point.
+// ---
+
 import './app.js';
 
 export {browserProxyFactory as foreignSessionBrowserProxyFactory} from 'chrome://resources/cr_components/history/foreign_sessions.mojom-webui.js';

@@ -10,6 +10,12 @@
 // * Optional types in Mojo use null, but optional types in the public API use
 //   undefined.
 
+// ---docerion
+// type: source
+// title: Mojom to message type conversion utilities
+// summary: Utility functions that convert Mojo mojom types into the public Glic API message types, mapping window and tab IDs to opaque strings and null optionals to undefined.
+// ---
+
 import type {BigBuffer} from '//resources/mojo/mojo/public/mojom/base/big_buffer.mojom-webui.js';
 import type {ProtoWrapper} from '//resources/mojo/mojo/public/mojom/base/proto_wrapper.mojom-webui.js';
 import type {Time, TimeDelta} from '//resources/mojo/mojo/public/mojom/base/time.mojom-webui.js';

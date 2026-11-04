@@ -6,6 +6,12 @@
  * Utilities for writing ts code.
  */
 
+// ---docerion
+// type: source
+// title: Code writer for emitting TypeScript
+// summary: Provides a CodeWriter class that writes indented TypeScript enums and interfaces, plus enum key conversion helpers.
+// ---
+
 import {type Interface, type TsEnum, type TsField, type TsInterface, withoutIgnored} from './ts_types.js';
 
 const OPEN_BRACE = /[{\[(]/;

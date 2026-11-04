@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic browser host annotation client
+// summary: Implements the GlicBrowserHost annotation methods, converting client scroll-to selectors into Mojo annotation handler calls and surfacing errors back to the API.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 
 import {enumToClient} from '../../enum_conversions.js';
