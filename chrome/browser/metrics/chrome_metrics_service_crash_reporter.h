@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome metrics service crash reporter
+// summary: Declares a class that registers and updates the serialized system profile with the crash reporter for inclusion in minidumps.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_CHROME_METRICS_SERVICE_CRASH_REPORTER_H_
 #define CHROME_BROWSER_METRICS_CHROME_METRICS_SERVICE_CRASH_REPORTER_H_
 

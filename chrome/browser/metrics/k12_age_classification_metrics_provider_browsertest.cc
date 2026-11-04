@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: K12 age classification metrics provider browser test
+// summary: Parameterized browser test verifying the K12 age classification histogram for under 18, equal or over 18, and unspecified policy segments.
+// ---
+
 #include "chrome/browser/metrics/k12_age_classification_metrics_provider.h"
 
 #include <optional>

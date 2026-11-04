@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CriticalUserJourney unit tests
+// summary: Unit tests verifying CriticalUserJourney construction via its builder, branching logic with AddAnyOf, and custom completion callback invocation.
+// ---
+
 #include "chrome/browser/metrics/critical_user_journeys/critical_user_journey.h"
 
 #include <memory>

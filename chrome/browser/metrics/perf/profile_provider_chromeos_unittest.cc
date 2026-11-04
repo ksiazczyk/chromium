@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile provider unit tests
+// summary: Unit tests for ProfileProvider trigger handling and profile collection using test metric collectors and example perf data.
+// ---
+
 #include "chrome/browser/metrics/perf/profile_provider_chromeos.h"
 
 #include <stdint.h>

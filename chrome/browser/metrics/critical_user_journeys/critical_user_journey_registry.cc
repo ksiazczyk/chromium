@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Concrete journey definitions in the registry
+// summary: Registers the concrete browser journeys such as viewing downloaded files, pinning extensions, and clearing browsing history, with their steps and HaTS survey triggers.
+// ---
+
 #include "chrome/browser/metrics/critical_user_journeys/critical_user_journey_registry.h"
 
 #include <utility>

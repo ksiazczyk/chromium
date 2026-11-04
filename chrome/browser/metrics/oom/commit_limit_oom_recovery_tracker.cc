@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commit limit OOM recovery tracker implementation
+// summary: Implements a per-tab tracker that records reload outcomes and visibility histograms for tabs terminated by system commit-limit failures.
+// ---
+
 #include "chrome/browser/metrics/oom/commit_limit_oom_recovery_tracker.h"
 
 #include "base/functional/bind.h"

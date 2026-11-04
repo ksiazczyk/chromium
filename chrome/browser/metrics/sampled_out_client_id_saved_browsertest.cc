@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sampled-out client ID saved browser test
+// summary: Browser test verifying that the metrics client ID is preserved when a client is sampled out of metrics reporting.
+// ---
+
 #include "base/run_loop.h"
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/browser_process.h"

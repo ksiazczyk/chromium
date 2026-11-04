@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop session metrics provider implementation
+// summary: Provides current session data to UMA by logging Session.IsActive histograms and reporting activity to the browser process outside ChromeOS.
+// ---
+
 #include "chrome/browser/metrics/desktop_session_duration/desktop_session_metrics_provider.h"
 
 #include "base/metrics/histogram_functions.h"

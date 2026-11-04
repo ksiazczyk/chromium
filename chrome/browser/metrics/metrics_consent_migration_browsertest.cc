@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Metrics consent migration browser tests
+// summary: Browser tests verifying migration of metrics consent settings when the restructured consent settings feature is enabled on startup.
+// ---
+
 #include <memory>
 
 #include "base/path_service.h"

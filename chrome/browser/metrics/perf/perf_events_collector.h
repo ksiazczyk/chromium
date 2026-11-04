@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PerfCollector class header
+// summary: Declares PerfCollector, a MetricCollector subclass that collects Linux perf events profile data through the debug daemon.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_PERF_PERF_EVENTS_COLLECTOR_H_
 #define CHROME_BROWSER_METRICS_PERF_PERF_EVENTS_COLLECTOR_H_
 

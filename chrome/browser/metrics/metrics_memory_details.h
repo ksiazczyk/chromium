@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics memory details class declaration
+// summary: Declares MetricsMemoryDetails, which asynchronously fetches memory details and logs histograms about process memory use.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_METRICS_MEMORY_DETAILS_H_
 #define CHROME_BROWSER_METRICS_METRICS_MEMORY_DETAILS_H_
 

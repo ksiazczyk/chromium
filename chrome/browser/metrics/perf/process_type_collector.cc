@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process type collector implementation
+// summary: Collects Chrome process and thread types by running ps and parsing command lines, reporting UMA collection status.
+// ---
+
 #include "chrome/browser/metrics/perf/process_type_collector.h"
 
 #include "base/metrics/histogram_macros.h"

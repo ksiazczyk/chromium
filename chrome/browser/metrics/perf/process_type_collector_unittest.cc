@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Process type collector unit tests
+// summary: Unit tests that parse example ps output into Chrome process and thread type maps and check histogram reporting.
+// ---
+
 #include "chrome/browser/metrics/perf/process_type_collector.h"
 
 #include <stdint.h>

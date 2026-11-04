@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeMetricsServiceClient unit tests
+// summary: Unit tests for ChromeMetricsServiceClient covering provider setup with test history and sync services plus platform-specific behavior.
+// ---
+
 #include "chrome/browser/metrics/chrome_metrics_service_client.h"
 
 #include <string>

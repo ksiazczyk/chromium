@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome browser main extra parts metrics implementation
+// summary: Implements startup-stage hooks that record UMA metrics for displays, power, platform details and other browser and system state.
+// ---
+
 #include "chrome/browser/metrics/chrome_browser_main_extra_parts_metrics.h"
 
 #include <algorithm>

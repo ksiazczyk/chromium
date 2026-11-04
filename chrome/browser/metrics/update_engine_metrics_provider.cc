@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update Engine Metrics Provider Implementation
+// summary: Implements a ChromeOS metrics provider that logs the consumer auto update toggle state as a histogram for eligible users.
+// ---
+
 #include "chrome/browser/metrics/update_engine_metrics_provider.h"
 
 #include "ash/constants/ash_pref_names.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricProvider implementation
+// summary: Implements MetricProvider, which runs collectors on a dedicated sequence, caches sampled profiles and redacts comm MD5 prefixes before upload.
+// ---
+
 #include "chrome/browser/metrics/perf/metric_provider.h"
 
 #include "ash/constants/ash_features.h"

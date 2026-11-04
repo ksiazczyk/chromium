@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac Google Update metrics provider
+// summary: Fills Google Update details into the UMA system profile and logs the browser's hashed cohort ID on macOS.
+// ---
+
 #include "chrome/browser/metrics/google_update_metrics_provider_mac.h"
 
 #include <optional>

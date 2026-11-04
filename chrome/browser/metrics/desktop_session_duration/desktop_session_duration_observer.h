@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop session duration observer class declaration
+// summary: Declares an observer that listens for user input events on web contents and notifies the DesktopSessionDurationTracker.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_DESKTOP_SESSION_DURATION_DESKTOP_SESSION_DURATION_OBSERVER_H_
 #define CHROME_BROWSER_METRICS_DESKTOP_SESSION_DURATION_DESKTOP_SESSION_DURATION_OBSERVER_H_
 

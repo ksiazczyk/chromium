@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrosHealthd metrics provider class declaration
+// summary: Declares CrosHealthdMetricsProvider, a metrics provider that collects ChromeOS storage device telemetry via cros_healthd for system profile metrics.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_CROS_HEALTHD_METRICS_PROVIDER_H_
 #define CHROME_BROWSER_METRICS_CROS_HEALTHD_METRICS_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windowed incognito observer header
+// summary: Declares WindowedIncognitoObserver and WindowedIncognitoMonitor, which report incognito window status and new launches from any sequence.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_PERF_WINDOWED_INCOGNITO_OBSERVER_H_
 #define CHROME_BROWSER_METRICS_PERF_WINDOWED_INCOGNITO_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the background metrics upload task
+// summary: Parameterized browser tests that verify background upload of metrics logs for each metric service type, using a test scheduler factory, staged logs and histogram checks.
+// ---
+
 #include "chrome/browser/metrics/android/background_upload_task.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows Google Update metrics provider header
+// summary: Declares GoogleUpdateMetricsProviderWin, which asynchronously collects Google Update metrics for the UMA system profile on Windows.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_GOOGLE_UPDATE_METRICS_PROVIDER_WIN_H_
 #define CHROME_BROWSER_METRICS_GOOGLE_UPDATE_METRICS_PROVIDER_WIN_H_
 

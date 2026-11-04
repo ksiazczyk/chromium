@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome feature list creator header
+// summary: Declares the ChromeFeatureListCreator singleton that sets up the feature list and hands over metrics and policy services to the browser.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_CHROME_FEATURE_LIST_CREATOR_H_
 #define CHROME_BROWSER_METRICS_CHROME_FEATURE_LIST_CREATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop incognito observer implementation
+// summary: Implements IncognitoObserver on desktop by observing the global browser collection for created and closed browser windows.
+// ---
+
 #include "base/functional/callback.h"
 #include "base/scoped_observation.h"
 #include "chrome/browser/metrics/incognito_observer.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeMetricsServiceClient implementation
+// summary: Implements the Chrome-specific metrics service client, registering the many browser metrics providers and wiring services into metrics, UKM and DWA reporting.
+// ---
+
 #include "chrome/browser/metrics/chrome_metrics_service_client.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop session duration tracker class declaration
+// summary: Declares the DesktopSessionDurationTracker singleton and its observer interface for tracking desktop session length from visibility, audio and user input.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_DESKTOP_SESSION_DURATION_DESKTOP_SESSION_DURATION_TRACKER_H_
 #define CHROME_BROWSER_METRICS_DESKTOP_SESSION_DURATION_DESKTOP_SESSION_DURATION_TRACKER_H_
 

@@ -1,3 +1,13 @@
+---
+type: readme
+title: Critical User Journeys (CUJ) Framework
+summary: Documents the CUJ framework architecture, automated histogram logging, best practices, troubleshooting, step-by-step implementation guide, examples, and HaTS integration.
+relations:
+  - references /chrome/test/interaction/README.md
+  - references /ui/base/interaction/README.md
+  - documents /chrome/browser/metrics/critical_user_journeys/critical_user_journey.cc
+---
+
 # Critical User Journeys (CUJ) Framework
 
 ## Introduction

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CriticalUserJourneyService unit tests
+// summary: Unit tests for CriticalUserJourneyService covering journey registration, trigger subscriptions, and HaTS survey logging using a mock HaTS service.
+// ---
+
 #include "chrome/browser/metrics/critical_user_journeys/critical_user_journey_service.h"
 
 #include <memory>

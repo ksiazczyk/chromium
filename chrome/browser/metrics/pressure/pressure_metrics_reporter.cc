@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PressureMetricsReporter implementation
+// summary: Samples CPU, IO and memory pressure from /proc/pressure files on timers and reports them as System.Pressure UMA histograms and trace counters.
+// ---
+
 #include "chrome/browser/metrics/pressure/pressure_metrics_reporter.h"
 
 #include <vector>

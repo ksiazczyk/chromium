@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the CUJ directory
+summary: Restricts includes in this directory to allowed interaction sequence, element identifier, and keyed service headers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab footprint aggregator unit tests
+// summary: Unit tests verifying that the tab footprint aggregator emits correct Memory_TabFootprint UKM metrics for main frames, sub frames, and tabs.
+// ---
+
 #include "chrome/browser/metrics/tab_footprint_aggregator.h"
 
 #include <string_view>

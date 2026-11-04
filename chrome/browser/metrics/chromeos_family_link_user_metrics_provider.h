@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS Family Link user metrics provider
+// summary: Declares a ChromeOS metrics provider that classifies the primary user by consent age for UMA dashboard filtering.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_CHROMEOS_FAMILY_LINK_USER_METRICS_PROVIDER_H_
 #define CHROME_BROWSER_METRICS_CHROMEOS_FAMILY_LINK_USER_METRICS_PROVIDER_H_
 

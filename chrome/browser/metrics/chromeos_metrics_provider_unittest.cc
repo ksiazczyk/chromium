@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: ChromeOS histogram metrics provider unit tests
+// summary: Unit tests verifying that ChromeOSHistogramMetricsProvider only provides segmentation histograms for valid feature management command line switches.
+// ---
+
 #include "chrome/browser/metrics/chromeos_metrics_provider.h"
 
 #include "base/test/metrics/histogram_tester.h"

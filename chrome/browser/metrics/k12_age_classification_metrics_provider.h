@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: K12 age classification metrics provider header
+// summary: Declares the K12 age classification metrics provider, its persisted histogram enum, and the ChromeOS.K12UserAgeClassification.LogSegment histogram name.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_K12_AGE_CLASSIFICATION_METRICS_PROVIDER_H_
 #define CHROME_BROWSER_METRICS_K12_AGE_CLASSIFICATION_METRICS_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions metrics provider implementation
+// summary: Implements the metrics provider that reports installed extension states and hashed extension IDs in UMA system profile metrics.
+// ---
+
 #include "chrome/browser/metrics/extensions_metrics_provider.h"
 
 #include <stddef.h>

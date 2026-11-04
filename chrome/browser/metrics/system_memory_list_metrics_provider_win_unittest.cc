@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows system memory list metrics provider unit test
+// summary: Unit test verifying exhausted and low interval histograms for the Windows system memory list metrics provider using mocked queries.
+// ---
+
 #include "chrome/browser/metrics/system_memory_list_metrics_provider_win.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop session duration tracker unit tests
+// summary: Unit tests verifying session start and end behavior of the DesktopSessionDurationTracker across visibility changes, user events and audio playback.
+// ---
+
 #include "chrome/browser/metrics/desktop_session_duration/desktop_session_duration_tracker.h"
 
 #include "base/test/metrics/histogram_tester.h"

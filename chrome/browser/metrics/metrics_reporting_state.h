@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics reporting state declarations
+// summary: Declares functions for changing the metrics reporting state, updating metrics prefs on opt-in or opt-out, and applying metrics reporting policy.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_METRICS_REPORTING_STATE_H_
 #define CHROME_BROWSER_METRICS_METRICS_REPORTING_STATE_H_
 

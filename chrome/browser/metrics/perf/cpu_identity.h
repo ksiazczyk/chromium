@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CPUIdentity struct and microarchitecture helpers
+// summary: Declares the CPUIdentity struct plus functions to get CPU identity, derive the microarchitecture, and simplify CPU model names.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_PERF_CPU_IDENTITY_H_
 #define CHROME_BROWSER_METRICS_PERF_CPU_IDENTITY_H_
 

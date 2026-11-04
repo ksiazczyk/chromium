@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeMetricsServiceClient Ash unit tests
+// summary: ChromeOS Ash unit tests for ChromeMetricsServiceClient, covering UKM log generation and related behavior with faked system profile dependencies.
+// ---
+
 #include <memory>
 
 #include "base/memory/raw_ptr.h"

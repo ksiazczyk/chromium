@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power metrics reporter implementation
+// summary: Implements PowerMetricsReporter, which reports battery discharge, CPU usage and related power metrics as histograms and UKM over long and short intervals.
+// ---
+
 #include "chrome/browser/metrics/power/power_metrics_reporter.h"
 
 #include <optional>

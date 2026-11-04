@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS per-user metrics state manager browser tests
+// summary: Browser tests verifying per-user metrics consent and state handling on ChromeOS across login, guest, and policy-driven user sessions.
+// ---
+
 #include "chrome/browser/metrics/per_user_state_manager_chromeos.h"
 
 #include "ash/constants/ash_features.h"

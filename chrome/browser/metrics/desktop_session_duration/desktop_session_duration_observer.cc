@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop session duration observer implementation
+// summary: Observes web contents input events and forwards them to the DesktopSessionDurationTracker to mark user activity.
+// ---
+
 #include "chrome/browser/metrics/desktop_session_duration/desktop_session_duration_observer.h"
 
 #include "base/memory/ptr_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RandomSelector unit tests
+// summary: Unit tests verifying that RandomSelector selects weighted values in proportion to the configured odds, using a deterministic fake RNG.
+// ---
+
 #include "chrome/browser/metrics/perf/random_selector.h"
 
 #include <stddef.h>

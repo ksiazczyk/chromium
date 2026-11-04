@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeVisibilityObserver interactive UI tests
+// summary: Interactive browser test exercising ChromeVisibilityObserver visibility change behavior during browser activation and shutdown.
+// ---
+
 #include "chrome/browser/metrics/desktop_session_duration/chrome_visibility_observer.h"
 
 #include "base/run_loop.h"

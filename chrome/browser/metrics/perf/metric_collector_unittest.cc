@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MetricCollector unit tests
+// summary: Unit tests for MetricCollector covering collection scheduling, cached data size updates and handling of serialized perf protobuf data.
+// ---
+
 #include "chrome/browser/metrics/perf/metric_collector.h"
 
 #include <stdint.h>

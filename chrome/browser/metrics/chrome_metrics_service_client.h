@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeMetricsServiceClient class declaration
+// summary: Declares the Chrome MetricsServiceClient implementation with observers for profiles, render processes, user activity and UKM consent state.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_CHROME_METRICS_SERVICE_CLIENT_H_
 #define CHROME_BROWSER_METRICS_CHROME_METRICS_SERVICE_CLIENT_H_
 

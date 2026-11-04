@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MetricProvider unit tests
+// summary: Unit tests for MetricProvider covering profile caching, App Sync state checks and trigger event forwarding using test sync services.
+// ---
+
 #include "chrome/browser/metrics/perf/metric_provider.h"
 
 #include <stdint.h>

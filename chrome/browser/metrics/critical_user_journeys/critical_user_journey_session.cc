@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CriticalUserJourneySession implementation
+// summary: Implements the journey session lifecycle by building and running a ui::InteractionSequence from the journey definition and logging step and result metrics.
+// ---
+
 #include "chrome/browser/metrics/critical_user_journeys/critical_user_journey_session.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Metrics reporting state browser tests
+// summary: Browser tests verifying metrics and crash reporting state changes, including policy handling and Windows registry behavior for consent.
+// ---
+
 #include "chrome/browser/metrics/metrics_reporting_state.h"
 
 #include <memory>

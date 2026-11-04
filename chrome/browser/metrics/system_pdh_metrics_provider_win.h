@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows system PDH metrics provider declaration
+// summary: Declares SystemPdhMetricsProvider, a metrics provider that queries PDH performance counters to record per-process CPU usage and IO metrics on Windows.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_SYSTEM_PDH_METRICS_PROVIDER_WIN_H_
 #define CHROME_BROWSER_METRICS_SYSTEM_PDH_METRICS_PROVIDER_WIN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Random selector header
+// summary: Declares RandomSelector for selecting strings with given odds, including the WeightAndValue struct and a usage example.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_PERF_RANDOM_SELECTOR_H_
 #define CHROME_BROWSER_METRICS_PERF_RANDOM_SELECTOR_H_
 

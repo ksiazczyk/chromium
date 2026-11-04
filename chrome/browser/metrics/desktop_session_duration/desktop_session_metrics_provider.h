@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop session metrics provider declaration
+// summary: Declares the factory function that creates the desktop session metrics provider for UMA reporting.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_DESKTOP_SESSION_DURATION_DESKTOP_SESSION_METRICS_PROVIDER_H_
 #define CHROME_BROWSER_METRICS_DESKTOP_SESSION_DURATION_DESKTOP_SESSION_METRICS_PROVIDER_H_
 

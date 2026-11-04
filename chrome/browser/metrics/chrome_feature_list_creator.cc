@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome feature list creator implementation
+// summary: Builds the FeatureList, local state prefs, metrics services manager, policy connector and field trials before the full browser starts.
+// ---
+
 #include "chrome/browser/metrics/chrome_feature_list_creator.h"
 
 #include <memory>

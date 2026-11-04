@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility state provider header
+// summary: Declares a metrics provider that adds accessibility flag state to the system profile report.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_ACCESSIBILITY_STATE_PROVIDER_H_
 #define CHROME_BROWSER_METRICS_ACCESSIBILITY_STATE_PROVIDER_H_
 

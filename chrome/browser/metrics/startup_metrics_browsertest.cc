@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Startup metrics browser test
+// summary: Browser test verifying that startup histograms such as message loop start and first paint are recorded during browser startup.
+// ---
+
 #include <vector>
 
 #include "base/metrics/histogram_base.h"

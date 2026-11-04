@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UKM Browser Test Suite
+// summary: Extensive browser tests covering UKM source ID assignment and recording behavior, including interactions with metrics consent, sync, and demographics.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TPM Metrics Provider for Windows Class Declaration
+// summary: Declares TPMMetricsProvider, a metrics provider that adds TPM information to the UMA system profile proto on Windows.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_TPM_METRICS_PROVIDER_WIN_H_
 #define CHROME_BROWSER_METRICS_TPM_METRICS_PROVIDER_WIN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CachedMetricsProfile declaration
+// summary: Declares CachedMetricsProfile, which caches a user profile so metrics are reported consistently across calls.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_CACHED_METRICS_PROFILE_H_
 #define CHROME_BROWSER_METRICS_CACHED_METRICS_PROFILE_H_
 

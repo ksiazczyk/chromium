@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shutdown watcher helper implementation
+// summary: Implements a shutdown watchdog that arms channel-scaled timeouts and reports shutdown hangs through the metrics hang reporting.
+// ---
+
 #include "chrome/browser/metrics/shutdown_watcher_helper.h"
 
 #include "base/time/time.h"

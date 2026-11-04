@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile provider test main
+// summary: Standalone test main that sets up the browser environment and runs profile provider collection tests with test collectors.
+// ---
+
 #include <tuple>
 
 #include "base/command_line.h"

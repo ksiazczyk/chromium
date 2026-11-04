@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PUMA private metrics browser test
+// summary: Browser test that verifies the private metrics PUMA service records test histograms in regular and incognito browsers on desktop and Android.
+// ---
+
 #include <string>
 
 #include "base/test/metrics/histogram_tester.h"

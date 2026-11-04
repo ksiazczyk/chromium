@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Collection parameter structs for metric collectors
+// summary: Declares TriggerParams and CollectionParams structs describing sampling factors, delays, and profile durations for collection triggers.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_PERF_COLLECTION_PARAMS_H_
 #define CHROME_BROWSER_METRICS_PERF_COLLECTION_PARAMS_H_
 

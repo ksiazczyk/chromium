@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CriticalUserJourneyService implementation
+// summary: Implements the profile-keyed service that registers journey triggers with the element tracker, starts sessions, and preempts existing sessions for the same journey.
+// ---
+
 #include "chrome/browser/metrics/critical_user_journeys/critical_user_journey_service.h"
 
 #include <algorithm>

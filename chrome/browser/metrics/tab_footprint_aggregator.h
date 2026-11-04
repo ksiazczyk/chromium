@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab footprint aggregator declaration
+// summary: Declares TabFootprintAggregator, which tracks processes hosting page frames and produces Memory_TabFootprint UKM records of tab memory footprints.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_TAB_FOOTPRINT_AGGREGATOR_H_
 #define CHROME_BROWSER_METRICS_TAB_FOOTPRINT_AGGREGATOR_H_
 

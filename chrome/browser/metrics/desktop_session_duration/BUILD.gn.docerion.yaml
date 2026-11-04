@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for desktop session duration metrics
+summary: Defines the desktop_session_duration source set plus browser test and interactive UI test targets for the metrics code.

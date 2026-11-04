@@ -1,0 +1,4 @@
+# Docerion header of power_metrics_provider_mac.mm.
+type: source
+title: Mac power metrics provider implementation
+summary: Implements the macOS power metrics provider, periodically sampling SMC power readings and thermal state into UMA histograms.

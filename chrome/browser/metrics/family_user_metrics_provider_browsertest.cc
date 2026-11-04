@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Family user metrics provider browser test
+// summary: Parameterized browser test verifying that FamilyUserMetricsProvider reports the correct family user log segment for different ChromeOS login and policy setups.
+// ---
+
 #include "chrome/browser/metrics/family_user_metrics_provider.h"
 
 #include <optional>

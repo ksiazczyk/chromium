@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windowed incognito observer implementation
+// summary: Implements WindowedIncognitoMonitor and WindowedIncognitoObserver, which track active and newly opened incognito browser windows for metrics use.
+// ---
+
 #include "chrome/browser/metrics/perf/windowed_incognito_observer.h"
 
 #include <tuple>

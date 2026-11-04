@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process metrics recorder utilities
+// summary: Records CPU usage, idle wakeup and package idle exit histograms for process metrics, including platform-specific handling such as constant-rate TSC checks on Windows.
+// ---
+
 #include "chrome/browser/metrics/power/process_metrics_recorder_util.h"
 
 #include <cmath>

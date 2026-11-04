@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mac Google Update metrics provider unit tests
+// summary: Unit tests verifying that the macOS provider sets updater versions and cohort hashes in the system profile proto.
+// ---
+
 #include "chrome/browser/metrics/google_update_metrics_provider_mac.h"
 
 #include "base/functional/callback_helpers.h"

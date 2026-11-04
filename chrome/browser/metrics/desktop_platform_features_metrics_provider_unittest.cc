@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop platform features metrics provider unit tests
+// summary: Unit tests verifying that DesktopPlatformFeaturesMetricsProvider logs the overlay scrollbars enabled histogram based on OS settings.
+// ---
+
 #include "chrome/browser/metrics/desktop_platform_features_metrics_provider.h"
 
 #include "base/test/metrics/histogram_tester.h"

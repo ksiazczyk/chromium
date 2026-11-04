@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeMetricsServiceAccessor unit tests
+// summary: Unit tests checking that the metrics and crash reporting enabled state follows the metrics reporting preference and branding configuration.
+// ---
+
 #include "chrome/browser/metrics/chrome_metrics_service_accessor.h"
 
 #include "base/test/scoped_feature_list.h"

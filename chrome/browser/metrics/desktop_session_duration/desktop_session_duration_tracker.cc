@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop session duration tracker implementation
+// summary: Implements the singleton tracker that starts and ends desktop sessions based on browser visibility, audio playback and user interaction, recording session length histograms.
+// ---
+
 #include "chrome/browser/metrics/desktop_session_duration/desktop_session_duration_tracker.h"
 
 #include "base/command_line.h"

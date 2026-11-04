@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeAndroidMetricsProvider declaration
+// summary: Declares ChromeAndroidMetricsProvider, which provides Chrome-for-Android-specific stability and system profile metrics.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_CHROME_ANDROID_METRICS_PROVIDER_H_
 #define CHROME_BROWSER_METRICS_CHROME_ANDROID_METRICS_PROVIDER_H_
 

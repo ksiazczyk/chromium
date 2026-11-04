@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CriticalUserJourneySession header
+// summary: Declares CriticalUserJourneySession, which manages one active journey instance via InteractionSequence and defines the JourneyResult enum used for logging.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_CRITICAL_USER_JOURNEYS_CRITICAL_USER_JOURNEY_SESSION_H_
 #define CHROME_BROWSER_METRICS_CRITICAL_USER_JOURNEYS_CRITICAL_USER_JOURNEY_SESSION_H_
 

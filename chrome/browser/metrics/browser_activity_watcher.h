@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserActivityWatcher declaration
+// summary: Declares BrowserActivityWatcher, an observer that invokes a callback on browser creation, closure, and tab strip changes.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_BROWSER_ACTIVITY_WATCHER_H_
 #define CHROME_BROWSER_METRICS_BROWSER_ACTIVITY_WATCHER_H_
 

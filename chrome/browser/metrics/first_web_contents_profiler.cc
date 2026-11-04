@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: First web contents startup profiler
+// summary: Implements startup performance profiling of the first visible web contents, recording paint timing and finish-reason metrics for UMA.
+// ---
+
 #include "chrome/browser/metrics/first_web_contents_profiler.h"
 
 #include <memory>

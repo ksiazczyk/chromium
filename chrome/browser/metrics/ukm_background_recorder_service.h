@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UKM Background Recorder Service Declaration
+// summary: Declares UkmBackgroundRecorderService and its factory, which generate UKM source IDs for background features based on the profile's history.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_UKM_BACKGROUND_RECORDER_SERVICE_H_
 #define CHROME_BROWSER_METRICS_UKM_BACKGROUND_RECORDER_SERVICE_H_
 

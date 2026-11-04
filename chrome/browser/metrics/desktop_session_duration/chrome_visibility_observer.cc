@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeVisibilityObserver implementation
+// summary: Implements browser visibility event handling that notifies DesktopSessionDurationTracker, merging short gaps via a configurable timeout.
+// ---
+
 #include "chrome/browser/metrics/desktop_session_duration/chrome_visibility_observer.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Registry declarations and journey step enums
+// summary: Declares the journey registry and the per-journey step enums used as metric IDs, linked to histogram enum XML via LINT markers.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_CRITICAL_USER_JOURNEYS_CRITICAL_USER_JOURNEY_REGISTRY_H_
 #define CHROME_BROWSER_METRICS_CRITICAL_USER_JOURNEYS_CRITICAL_USER_JOURNEY_REGISTRY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS metrics provider implementation
+// summary: Implements ChromeOS-specific metrics logging including TPM type, user type, crash counts, enrollment status and ARC stability metrics.
+// ---
+
 #include "chrome/browser/metrics/chromeos_metrics_provider.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Registry unit test for maximum journey length
+// summary: Verifies that every registered journey stays within the maximum step count supported by the step duration histograms.
+// ---
+
 #include "chrome/browser/metrics/critical_user_journeys/critical_user_journey_registry.h"
 
 #include "chrome/browser/metrics/critical_user_journeys/critical_user_journey.h"

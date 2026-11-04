@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FamilyLink user metrics provider implementation
+// summary: Emits histograms that categorize loaded profiles by FamilyLink supervision type for Chrome user population segmentation.
+// ---
+
 #include "chrome/browser/metrics/family_link_user_metrics_provider.h"
 
 #include <vector>

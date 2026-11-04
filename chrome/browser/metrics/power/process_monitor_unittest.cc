@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Process monitor unit tests
+// summary: Unit tests for ProcessMonitor using fake metrics delegates and mock observers to verify process type mapping and metric sampling behavior.
+// ---
+
 #include "chrome/browser/metrics/power/process_monitor.h"
 
 #include <memory>

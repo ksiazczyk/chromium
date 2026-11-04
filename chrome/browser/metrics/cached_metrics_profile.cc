@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CachedMetricsProfile implementation
+// summary: Implements CachedMetricsProfile, which selects and caches a valid user profile for consistent metrics gathering.
+// ---
+
 #include "chrome/browser/metrics/cached_metrics_profile.h"
 
 #include "chrome/browser/browser_process.h"

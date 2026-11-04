@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Metrics provider process observer unit tests
+// summary: Unit tests verifying that the process observer notifies its delegate when browser, child and renderer processes start and stop.
+// ---
+
 #include "chrome/browser/metrics/metrics_provider_process_observer.h"
 
 #include <string_view>

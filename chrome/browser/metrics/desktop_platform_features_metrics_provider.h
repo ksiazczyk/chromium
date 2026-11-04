@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop platform features metrics provider class declaration
+// summary: Declares DesktopPlatformFeaturesMetricsProvider, which supplies platform-specific metrics for desktop browsers in current session data.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_DESKTOP_PLATFORM_FEATURES_METRICS_PROVIDER_H_
 #define CHROME_BROWSER_METRICS_DESKTOP_PLATFORM_FEATURES_METRICS_PROVIDER_H_
 

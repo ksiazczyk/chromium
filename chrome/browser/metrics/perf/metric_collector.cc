@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MetricCollector base class for perf profile collection
+// summary: Implements the base collector that runs collections on triggers, reports ChromeOS.CWP.Collect outcome histograms, and removes unknown protobuf fields.
+// ---
+
 #include "chrome/browser/metrics/perf/metric_collector.h"
 
 #include <utility>

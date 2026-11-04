@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac power metrics provider declaration
+// summary: Declares the macOS metrics provider that records power and thermal metrics while recording is enabled.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_POWER_POWER_METRICS_PROVIDER_MAC_H_
 #define CHROME_BROWSER_METRICS_POWER_POWER_METRICS_PROVIDER_MAC_H_
 

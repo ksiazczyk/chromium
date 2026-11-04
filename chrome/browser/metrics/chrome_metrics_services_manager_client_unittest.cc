@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome metrics services manager client unit tests
+// summary: Unit tests for the Chrome metrics services manager client covering reporting consent, field trial sampling and startup visibility.
+// ---
+
 #include "chrome/browser/metrics/chrome_metrics_services_manager_client.h"
 
 #include "base/base_switches.h"

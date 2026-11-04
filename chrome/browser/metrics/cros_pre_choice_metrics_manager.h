@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrOS pre-choice metrics manager class declaration
+// summary: Declares CrOSPreChoiceMetricsManager, which manages metrics enabling during ChromeOS OOBE before the primary user has made a metrics collection choice.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_CROS_PRE_CHOICE_METRICS_MANAGER_H_
 #define CHROME_BROWSER_METRICS_CROS_PRE_CHOICE_METRICS_MANAGER_H_
 

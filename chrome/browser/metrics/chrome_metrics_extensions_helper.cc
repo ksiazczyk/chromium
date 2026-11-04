@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome metrics extensions helper implementation
+// summary: Reports whether a render process hosts an extension so metrics can classify processes correctly.
+// ---
+
 #include "chrome/browser/metrics/chrome_metrics_extensions_helper.h"
 
 #include "content/public/browser/render_process_host.h"

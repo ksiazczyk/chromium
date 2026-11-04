@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS system profile provider class declaration
+// summary: Declares ChromeOSSystemProfileProvider, a metrics provider that asynchronously gathers ChromeOS hardware and session details for metrics system profiles.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_CHROMEOS_SYSTEM_PROFILE_PROVIDER_H_
 #define CHROME_BROWSER_METRICS_CHROMEOS_SYSTEM_PROFILE_PROVIDER_H_
 

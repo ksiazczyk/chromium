@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the perf metrics directory
+summary: Lists gmx@chromium.org as the code owner and notes two Google-only contributors without committer status.

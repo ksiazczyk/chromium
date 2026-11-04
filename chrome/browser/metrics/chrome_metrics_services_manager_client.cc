@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome metrics services manager client implementation
+// summary: Implements the Chrome-specific metrics services manager client, including metrics reporting features, client sampling and service wiring.
+// ---
+
 #include "chrome/browser/metrics/chrome_metrics_services_manager_client.h"
 
 #include <map>

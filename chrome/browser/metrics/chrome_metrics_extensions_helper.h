@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeMetricsExtensionsHelper class header
+// summary: Declares ChromeMetricsExtensionsHelper, a metrics::ExtensionsHelper subclass that reports whether a render process hosts extensions for Chrome metrics.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_CHROME_METRICS_EXTENSIONS_HELPER_H_
 #define CHROME_BROWSER_METRICS_CHROME_METRICS_EXTENSIONS_HELPER_H_
 

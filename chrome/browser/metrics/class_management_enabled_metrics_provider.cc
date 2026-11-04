@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Class management enabled metrics provider implementation
+// summary: Emits the ChromeOS.ClassManagementEnabled histogram based on the user's class management policy, skipping demo, kiosk and managed guest sessions.
+// ---
+
 #include "chrome/browser/metrics/class_management_enabled_metrics_provider.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DWA browser tests
+// summary: Browser tests for the DWA metrics service, covering consent handling and record encryption across desktop and Android platforms.
+// ---
+
 #include <memory>
 
 #include "base/test/scoped_feature_list.h"

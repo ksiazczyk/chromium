@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserActivityWatcher implementation
+// summary: Implements BrowserActivityWatcher, which fires a callback when browsers are created, closed, or their tab strips change.
+// ---
+
 #include "chrome/browser/metrics/browser_activity_watcher.h"
 
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

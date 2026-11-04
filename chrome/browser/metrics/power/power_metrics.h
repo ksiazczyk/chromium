@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power metrics helpers declaration
+// summary: Declares the BatteryDischargeMode enum, the BatteryDischarge struct and functions to compute and report battery discharge metrics.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_POWER_POWER_METRICS_H_
 #define CHROME_BROWSER_METRICS_POWER_POWER_METRICS_H_
 

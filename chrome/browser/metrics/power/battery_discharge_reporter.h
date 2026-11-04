@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BatteryDischargeReporter class declaration
+// summary: Declares the BatteryDischargeReporter observer that tracks battery state samples and reports discharge rate histograms per usage scenario.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_POWER_BATTERY_DISCHARGE_REPORTER_H_
 #define CHROME_BROWSER_METRICS_POWER_BATTERY_DISCHARGE_REPORTER_H_
 

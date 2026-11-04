@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for ChromeOS-Wide-Profiling
+summary: Assigns the directory to the Tools>ChromeOS-Wide-Profiling monorail component, the CWP team email, and ChromeOS.

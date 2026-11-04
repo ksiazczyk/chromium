@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PressureMetricsReporter class declaration
+// summary: Declares the reporter that periodically collects pressure stall information and reports it through UMA and tracing counters.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_PRESSURE_PRESSURE_METRICS_REPORTER_H_
 #define CHROME_BROWSER_METRICS_PRESSURE_PRESSURE_METRICS_REPORTER_H_
 

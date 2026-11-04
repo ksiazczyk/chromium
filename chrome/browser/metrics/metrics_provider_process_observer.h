@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics provider process observer class declaration
+// summary: Declares an observer of process creation and destruction that notifies a delegate to start or stop listening to process performance metrics.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_METRICS_PROVIDER_PROCESS_OBSERVER_H_
 #define CHROME_BROWSER_METRICS_METRICS_PROVIDER_PROCESS_OBSERVER_H_
 

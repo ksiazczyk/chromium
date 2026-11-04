@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PerfOutputCall class header
+// summary: Declares PerfOutputCall, which manages the asynchronous DBus call to obtain perf output and reads quipper data over a pipe.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_PERF_PERF_OUTPUT_H_
 #define CHROME_BROWSER_METRICS_PERF_PERF_OUTPUT_H_
 

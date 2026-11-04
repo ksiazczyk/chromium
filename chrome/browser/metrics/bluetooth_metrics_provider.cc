@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothMetricsProvider implementation
+// summary: Implements BluetoothMetricsProvider, emitting a histogram that reports whether the Floss or BlueZ stack is active.
+// ---
+
 #include "chrome/browser/metrics/bluetooth_metrics_provider.h"
 
 #include "base/functional/bind.h"

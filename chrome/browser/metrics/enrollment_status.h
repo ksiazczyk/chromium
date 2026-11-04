@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enrollment status enum
+// summary: Defines the EnrollmentStatus enum describing Chrome OS device enrollment states for UMA histogram reporting.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_ENROLLMENT_STATUS_H_
 #define CHROME_BROWSER_METRICS_ENROLLMENT_STATUS_H_
 

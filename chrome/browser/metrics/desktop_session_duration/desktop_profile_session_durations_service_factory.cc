@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DesktopProfileSessionDurationsServiceFactory implementation
+// summary: Implements the profile-keyed service factory that creates DesktopProfileSessionDurationsService, excluding guest and system profiles.
+// ---
+
 #include "chrome/browser/metrics/desktop_session_duration/desktop_profile_session_durations_service_factory.h"
 
 #include "chrome/browser/metrics/desktop_session_duration/desktop_profile_session_durations_service.h"

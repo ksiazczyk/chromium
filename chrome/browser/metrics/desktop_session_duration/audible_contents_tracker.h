@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudibleContentsTracker header
+// summary: Declares AudibleContentsTracker, a browser collection and tab strip observer that reports audio start and end events.
+// ---
+
 #ifndef CHROME_BROWSER_METRICS_DESKTOP_SESSION_DURATION_AUDIBLE_CONTENTS_TRACKER_H_
 #define CHROME_BROWSER_METRICS_DESKTOP_SESSION_DURATION_AUDIBLE_CONTENTS_TRACKER_H_
 

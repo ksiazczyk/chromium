@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS metrics provider browser tests
+// summary: Browser tests verifying ChromeOS metrics provider behavior for primary user type, guest mode and enrolled devices.
+// ---
+
 #include "chrome/browser/metrics/chromeos_metrics_provider.h"
 
 #include "base/test/metrics/histogram_tester.h"

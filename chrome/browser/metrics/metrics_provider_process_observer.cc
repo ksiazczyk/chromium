@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics provider process observer implementation
+// summary: Implements an observer of browser, renderer, GPU and utility process lifecycles that notifies a delegate to monitor process performance metrics.
+// ---
+
 #include "chrome/browser/metrics/metrics_provider_process_observer.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User demographics metrics browser tests
+// summary: Browser tests checking that synced user birth year and gender are added to UMA log data when demographic metrics reporting is enabled.
+// ---
+
 #include <memory>
 #include <string>
 #include <vector>
