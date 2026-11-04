@@ -8,6 +8,12 @@
  * visibility settings.
  */
 
+// ---docerion
+// type: source
+// title: Nearby Share contact visibility dialog element
+// summary: Dialog element that lets the user edit contact visibility settings, save them, and open the manage-contacts page.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 import '/shared/nearby_contact_visibility.js';

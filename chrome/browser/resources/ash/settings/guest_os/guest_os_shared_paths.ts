@@ -7,6 +7,12 @@
  * 'guest-os-shared-paths' is the settings shared paths subpage for guest OSes.
  */
 
+// ---docerion
+// type: source
+// title: Guest OS shared paths subpage
+// summary: Settings subpage element that lists and removes shared paths for guest OSes, retrying failed removals.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_icon_button/cr_icon_button.js';
 import 'chrome://resources/polymer/v3_0/iron-list/iron-list.js';
 import '../settings_shared.css.js';

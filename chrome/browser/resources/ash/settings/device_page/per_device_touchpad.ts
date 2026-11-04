@@ -8,6 +8,12 @@
  * system settings.
  */
 
+// ---docerion
+// type: source
+// title: Per-device touchpad element
+// summary: Defines the settings-per-device-touchpad element that renders touchpad subsections and announces touchpad device state changes.
+// ---
+
 import '../settings_shared.css.js';
 import 'chrome://resources/ash/common/cr_elements/localized_link/localized_link.js';
 import 'chrome://resources/ash/common/cr_elements/cr_radio_button/cr_radio_button.js';

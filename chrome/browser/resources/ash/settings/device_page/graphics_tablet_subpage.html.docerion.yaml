@@ -1,0 +1,4 @@
+# Docerion header of graphics_tablet_subpage.html.
+type: source
+title: Graphics tablet subpage template
+summary: HTML template listing connected graphics tablets with per-device headers and rows for customizing tablet and pen buttons.

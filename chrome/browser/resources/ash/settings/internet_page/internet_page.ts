@@ -8,6 +8,12 @@
  * settings.
  */
 
+// ---docerion
+// type: source
+// title: Internet page element
+// summary: Polymer element implementing the Chrome OS internet settings page, including cellular setup, eSIM dialogs, hotspot config and VPN handling.
+// ---
+
 import 'chrome://resources/ash/common/cellular_setup/cellular_setup_icons.html.js';
 import 'chrome://resources/ash/common/network/sim_lock_dialogs.js';
 import 'chrome://resources/ash/common/cr_elements/cr_expand_button/cr_expand_button.js';

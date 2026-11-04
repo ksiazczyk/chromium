@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share receive manager module
+// summary: Module exposing singleton access to the Nearby Share receive manager and observer registration, with hooks for test overrides.
+// ---
+
 import type {ReceiveManagerInterface, ReceiveObserverInterface, ReceiveObserverRemote} from '/shared/nearby_share.mojom-webui.js';
 import {ReceiveManager, ReceiveObserverReceiver} from '/shared/nearby_share.mojom-webui.js';
 

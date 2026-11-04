@@ -1,0 +1,4 @@
+# Docerion header of audio.html.
+type: source
+title: Audio settings template
+summary: HTML template for the settings-audio element covering output device, volume, input gain, and device sound controls.

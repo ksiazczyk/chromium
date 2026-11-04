@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display settings mojo interface provider
+// summary: Exposes a singleton accessor for the display settings mojo provider, with a hook to substitute fake implementations for testing.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 import type {DisplaySettingsProviderInterface} from '../mojom-webui/display_settings_provider.mojom-webui.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Customize button row element
+// summary: Implements the customize-button-row element for renaming, reordering, and remapping customizable mouse or pen buttons.
+// ---
+
 import 'chrome://resources/polymer/v3_0/iron-icon/iron-icon.js';
 import 'chrome://resources/ash/common/cr_elements/md_select.css.js';
 import './customize_button_select.js';

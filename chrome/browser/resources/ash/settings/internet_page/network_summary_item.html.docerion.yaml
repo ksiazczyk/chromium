@@ -1,0 +1,4 @@
+# Docerion header of network_summary_item.html.
+type: source
+title: Network summary item template
+summary: HTML template for a network type row showing the network icon, title, state text, policy indicator, and device enable toggle.

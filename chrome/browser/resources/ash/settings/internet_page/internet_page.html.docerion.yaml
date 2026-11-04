@@ -1,0 +1,4 @@
+# Docerion header of internet_page.html.
+type: source
+title: Internet page template
+summary: HTML template for the internet settings page, showing the network summary and add-connection rows for WiFi, VPN and third-party providers.

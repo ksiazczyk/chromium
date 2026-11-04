@@ -1,0 +1,4 @@
+# Docerion header of customize_button_select.html.
+type: source
+title: Customize button select template
+summary: Polymer template for the customize-button-select dropdown that lets users pick a remapping action or key combination for a button.

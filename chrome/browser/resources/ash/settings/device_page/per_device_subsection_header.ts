@@ -9,6 +9,12 @@
  * name, and optional battery status information.
  */
 
+// ---docerion
+// type: source
+// title: Per-device subsection header element
+// summary: Defines the per-device-subsection-header element that displays a device's image, name, and battery information in the input device settings.
+// ---
+
 import './input_device_settings_shared.css.js';
 import '../os_settings_icons.html.js';
 import '../settings_shared.css.js';

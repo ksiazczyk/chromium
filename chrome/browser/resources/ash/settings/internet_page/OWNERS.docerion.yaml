@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Directory owners file
+summary: Delegates review ownership for this directory to the shared network WebUI OWNERS file.

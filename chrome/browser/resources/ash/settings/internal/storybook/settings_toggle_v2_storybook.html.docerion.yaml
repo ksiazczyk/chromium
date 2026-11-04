@@ -1,0 +1,4 @@
+# Docerion header of settings_toggle_v2_storybook.html.
+type: source
+title: Settings toggle v2 storybook demo markup
+summary: HTML template for the settings-toggle-v2 storybook demo showing basic, managed, inverted, and no-set-pref toggle variants with a confirmation dialog.

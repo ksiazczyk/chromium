@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Guest OS settings OWNERS
+summary: Delegates code ownership of the guest OS settings folder to the shared guest OS OWNERS file.

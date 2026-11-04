@@ -1,0 +1,4 @@
+# Docerion header of internet_config.html.
+type: source
+title: Internet config dialog template
+summary: HTML template for the internet-config dialog that wraps network-config with cancel, save, and connect buttons.

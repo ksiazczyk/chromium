@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internet known networks subpage
+// summary: Polymer element for the settings subpage that lists known networks for a type, currently WiFi, with Passpoint subscription support.
+// ---
+
 /**
  * @fileoverview
  * 'settings-internet-known-networks' is the settings subpage listing the

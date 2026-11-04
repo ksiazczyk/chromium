@@ -1,0 +1,4 @@
+# Docerion header of multidevice_wifi_sync_item.html.
+type: source
+title: Wi-Fi sync feature item template
+summary: Polymer template for the Wi-Fi Sync feature item, replacing the standard toggle with a disabled one when Chrome Sync is not enabled.

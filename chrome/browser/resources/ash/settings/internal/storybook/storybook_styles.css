@@ -8,6 +8,12 @@
  * #include=cros-color-overrides
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Storybook shared styles
+summary: Shared CSS for the storybook demo pages, styling headings, code blocks, and settings rows with ChromeOS color tokens.
+*/
+
 h2 {
   font: var(--cros-title-1-font);
 }

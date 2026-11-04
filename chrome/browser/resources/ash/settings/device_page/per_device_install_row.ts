@@ -8,6 +8,12 @@
  * information and initiating the app installation flow.
  */
 
+// ---docerion
+// type: source
+// title: Per-device install row element
+// summary: Polymer element that shows companion app information and opens the app's install link when the button is clicked.
+// ---
+
 import './input_device_settings_shared.css.js';
 import '../settings_shared.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_auto_img/cr_auto_img.js';

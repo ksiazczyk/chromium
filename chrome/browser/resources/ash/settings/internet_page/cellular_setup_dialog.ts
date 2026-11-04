@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cellular setup dialog element
+// summary: Dialog element embedding the shared cellular-setup flow with OS Settings styling and a settings-specific delegate.
+// ---
+
 /**
  * @fileoverview 'os-settings-cellular-setup-dialog' embeds the <cellular-setup>
  * that is shared with OOBE in a dialog with OS Settings stylizations.

@@ -7,6 +7,12 @@
  * Passpoint subscription events.
  */
 
+// ---docerion
+// type: source
+// title: Passpoint listener mixin
+// summary: Mixin that lets Polymer elements register with the Passpoint service and receive subscription added and removed events.
+// ---
+
 import {MojoConnectivityProvider} from 'chrome://resources/ash/common/connectivity/mojo_connectivity_provider.js';
 import type {PasspointSubscription} from 'chrome://resources/ash/common/connectivity/passpoint.mojom-webui.js';
 import {PasspointEventsListenerReceiver} from 'chrome://resources/ash/common/connectivity/passpoint.mojom-webui.js';

@@ -1,0 +1,4 @@
+# Docerion header of hotspot_config_dialog.html.
+type: source
+title: Hotspot configuration dialog template
+summary: HTML template for the hotspot configuration dialog with SSID, password, security type, BSSID randomization, and compatibility toggles.

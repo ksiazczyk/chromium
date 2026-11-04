@@ -8,6 +8,12 @@
  * reject the request
  */
 
+// ---docerion
+// type: source
+// title: Nearby Share confirm page element
+// summary: Polymer element for the Nearby Share confirm page that displays incoming share details and maps transfer statuses to error messages.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_lottie/cr_lottie.js';
 import 'chrome://resources/cros_components/lottie_renderer/lottie-renderer.js';
 import '/shared/nearby_page_template.js';

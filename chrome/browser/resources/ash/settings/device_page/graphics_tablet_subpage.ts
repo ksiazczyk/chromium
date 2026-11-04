@@ -8,6 +8,12 @@
  * tablet settings for each device in system settings.
  */
 
+// ---docerion
+// type: source
+// title: Graphics tablet settings subpage element
+// summary: Implements the settings-graphics-tablet-subpage element for configuring graphics tablet and pen button settings per device in ChromeOS system settings.
+// ---
+
 import '../settings_shared.css.js';
 import './input_device_settings_shared.css.js';
 import './per_device_app_installed_row.js';

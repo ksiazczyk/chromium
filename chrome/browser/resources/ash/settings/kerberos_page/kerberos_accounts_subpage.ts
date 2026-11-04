@@ -8,6 +8,12 @@
  * controls to list, add and delete Kerberos Accounts.
  */
 
+// ---docerion
+// type: source
+// title: Kerberos accounts subpage element
+// summary: TypeScript implementation of the settings-kerberos-accounts-subpage element that lists, adds and deletes Kerberos accounts and handles reauthentication and toasts.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_action_menu/cr_action_menu.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_icon_button/cr_icon_button.js';

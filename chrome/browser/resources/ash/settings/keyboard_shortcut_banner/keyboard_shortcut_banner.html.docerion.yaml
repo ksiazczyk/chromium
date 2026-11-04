@@ -1,0 +1,4 @@
+# Docerion header of keyboard_shortcut_banner.html.
+type: source
+title: Keyboard shortcut banner element template
+summary: HTML template with styles and markup for the keyboard-shortcut-banner element, including shortcut pods, reminder messages and a dismiss button.

@@ -1,0 +1,4 @@
+# Docerion header of per_device_pointing_stick.html.
+type: source
+title: Per-device pointing stick list template
+summary: Polymer template that repeats a pointing stick subsection for each connected pointing stick device.

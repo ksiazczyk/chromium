@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mobile device info dialog element
+// summary: Polymer element that displays the cellular EID and renders its QR code on a canvas, alongside IMEI and serial number details.
+// ---
+
 /**
  * @fileoverview Polymer element for displaying cellular EID and QR code
  */

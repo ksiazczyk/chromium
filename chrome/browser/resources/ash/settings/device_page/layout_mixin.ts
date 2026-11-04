@@ -7,6 +7,12 @@
  *     edge snapping and collisions.
  */
 
+// ---docerion
+// type: source
+// title: Display layout mixin for snapping and collisions
+// summary: Mixin providing display layout behavior such as edge snapping, collision handling and bounds updates while dragging displays.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import type {PolymerElement} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 import {dedupingMixin} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';

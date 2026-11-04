@@ -1,0 +1,4 @@
+# Docerion header of network_device_info_dialog.html.
+type: source
+title: Mobile device info dialog template
+summary: HTML template for the mobile device info dialog showing the cellular EID with a QR code, IMEI, and serial number.

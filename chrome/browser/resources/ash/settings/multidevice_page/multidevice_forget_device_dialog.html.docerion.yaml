@@ -1,0 +1,4 @@
+# Docerion header of multidevice_forget_device_dialog.html.
+type: source
+title: Forget device dialog template
+summary: HTML template for the dialog that asks the user to confirm forgetting a connected Android phone.

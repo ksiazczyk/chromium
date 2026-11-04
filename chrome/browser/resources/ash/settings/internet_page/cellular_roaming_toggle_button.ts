@@ -9,6 +9,12 @@
  * the transition to a more granular approach to roaming configuration.
  */
 
+// ---docerion
+// type: source
+// title: Cellular roaming toggle button element
+// summary: Encapsulates cellular roaming configuration logic, applying per-network roaming changes and recording setting metrics.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_toggle/cr_toggle.js';
 import 'chrome://resources/ash/common/cr_elements/policy/cr_policy_indicator.js';
 import 'chrome://resources/polymer/v3_0/iron-flex-layout/iron-flex-layout-classes.js';

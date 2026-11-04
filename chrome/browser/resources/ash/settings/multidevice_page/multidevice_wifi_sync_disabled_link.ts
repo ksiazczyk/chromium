@@ -12,6 +12,12 @@
  * and the other to a Learn More page for Wifi Sync.
  */
 
+// ---docerion
+// type: source
+// title: Wi-Fi sync disabled link element
+// summary: Defines the settings-multidevice-wifi-sync-disabled-link element, which builds an accessible localized string with links to Chrome Sync settings and a Wi-Fi Sync learn-more page.
+// ---
+
 import '../settings_shared.css.js';
 
 import {sanitizeInnerHtml} from 'chrome://resources/js/parse_html_subset.js';

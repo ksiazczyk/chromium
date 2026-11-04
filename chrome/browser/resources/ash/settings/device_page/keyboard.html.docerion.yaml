@@ -1,0 +1,4 @@
+# Docerion header of keyboard.html.
+type: source
+title: Keyboard settings subpage template
+summary: HTML template for the keyboard settings subpage, with dropdowns for remapping modifier keys and controls for function keys and held-key behavior.

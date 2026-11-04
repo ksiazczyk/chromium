@@ -1,0 +1,4 @@
+# Docerion header of guest_os_shared_usb_devices_add_dialog.html.
+type: source
+title: Guest OS shared USB devices add dialog template
+summary: HTML template for the dialog that adds a USB device to share with a guest OS, with device selection, container picker, and a reassign confirmation dialog.

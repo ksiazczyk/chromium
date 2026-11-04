@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Customize mouse buttons subpage element
+// summary: Implements the settings-customize-mouse-buttons-subpage element for configuring per-mouse button remappings and the primary button swap preference.
+// ---
+
 /**
  * @fileoverview
  * 'settings-customize-mouse-buttons-subpage' displays the customized buttons

@@ -1,0 +1,4 @@
+# Docerion header of per_device_app_installed_row.html.
+type: source
+title: Per-device app installed row template
+summary: HTML template showing a link row with the app icon that opens an installed companion app.

@@ -8,6 +8,12 @@
  * for display night light preferences' adjustments.
  */
 
+// ---docerion
+// type: source
+// title: Night Light settings element logic
+// summary: Implements the settings-display-night-light element managing Night Light schedule types, color temperature and geolocation-related UI.
+// ---
+
 import 'chrome://resources/polymer/v3_0/iron-flex-layout/iron-flex-layout-classes.js';
 import '../settings_scheduler_slider/settings_scheduler_slider.js';
 import '../settings_shared.css.js';

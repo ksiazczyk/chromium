@@ -1,0 +1,4 @@
+# Docerion header of multidevice_smartlock_item.html.
+type: source
+title: Multidevice Smart Lock item template
+summary: HTML template that conditionally renders a Smart Lock feature item inside the multidevice settings.

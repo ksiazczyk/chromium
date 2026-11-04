@@ -1,0 +1,4 @@
+# Docerion header of storage_external_entry.html.
+type: source
+title: External storage entry template
+summary: HTML template for a single external storage entry rendered as a toggle button controlling its visibility preference.

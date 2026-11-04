@@ -1,0 +1,4 @@
+# Docerion header of fkey_row.html.
+type: source
+title: Fkey row template
+summary: HTML template for the fkey-row element, pairing a key label with a dropdown menu bound to a preference.

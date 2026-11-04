@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Nearby Share page directory metadata
+summary: Directory metadata that mixes in the common metadata from chrome/browser/nearby_sharing for the Nearby Share settings page.

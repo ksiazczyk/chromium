@@ -8,6 +8,12 @@
  * allow users to customize the remapped key.
  */
 
+// ---docerion
+// type: source
+// title: Keyboard remap modifier key row element
+// summary: Polymer element rendering a key with icon label and dropdown menu so users can customize modifier key remapping.
+// ---
+
 import 'chrome://resources/polymer/v3_0/iron-icon/iron-icon.js';
 import '../settings_shared.css.js';
 import '../controls/settings_dropdown_menu.js';

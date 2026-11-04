@@ -1,0 +1,4 @@
+# Docerion header of multidevice_combined_setup_item.html.
+type: source
+title: Combined setup item template
+summary: Polymer template for the combined Phone Hub setup item showing a setup button for multiple features.

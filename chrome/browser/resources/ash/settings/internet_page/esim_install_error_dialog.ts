@@ -7,6 +7,12 @@
  * profile, such as requiring a confirmation code.
  */
 
+// ---docerion
+// type: source
+// title: eSIM install error dialog element
+// summary: Polymer element that handles eSIM profile installation errors, prompting for a confirmation code and retrying the profile install.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 import 'chrome://resources/ash/common/cr_elements/cr_input/cr_input.js';
 import 'chrome://resources/polymer/v3_0/iron-flex-layout/iron-flex-layout-classes.js';

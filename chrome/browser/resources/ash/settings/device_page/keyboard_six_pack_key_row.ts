@@ -9,6 +9,12 @@
  * six pack key action.
  */
 
+// ---docerion
+// type: source
+// title: Keyboard six pack key row element
+// summary: Polymer element displaying a six pack key with a dropdown to choose the modifier shortcut that triggers its action.
+// ---
+
 import './input_device_settings_shared.css.js';
 import '../settings_shared.css.js';
 import '../controls/settings_dropdown_menu.js';

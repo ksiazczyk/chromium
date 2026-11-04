@@ -7,6 +7,12 @@
  * states
  */
 
+// ---docerion
+// type: source
+// title: Cellular networks list element
+// summary: Polymer element summarizing cellular network states, eSIM profiles, and cellular setup entry points in OS Settings.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_action_menu/cr_action_menu.js';
 import 'chrome://resources/ash/common/cr_elements/cr_icon_button/cr_icon_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_icons.css.js';

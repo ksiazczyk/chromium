@@ -7,6 +7,12 @@
  * Settings subpage for managing APNs.
  */
 
+// ---docerion
+// type: source
+// title: APN subpage element
+// summary: Polymer settings subpage for managing cellular APNs, handling network state, custom APN limits, and route navigation.
+// ---
+
 import './internet_shared.css.js';
 import 'chrome://resources/ash/common/network/apn_list.js';
 

@@ -1,0 +1,4 @@
+# Docerion header of multidevice_tether_item.html.
+type: source
+title: Instant tethering feature item template
+summary: Polymer template for the Instant Tethering feature item, showing a network icon and tethering summary within the multidevice subpage.

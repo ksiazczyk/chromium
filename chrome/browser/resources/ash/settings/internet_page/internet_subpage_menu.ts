@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internet subpage menu element
+// summary: Polymer element providing technology-specific actions, such as showing cellular device info, for a network type in the subpage.
+// ---
+
 /**
  * @fileoverview 'settings-internet-subpage-menu' is a menu that provides
  * additional technology specific actions for a network type in the network

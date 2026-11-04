@@ -7,6 +7,12 @@
  * 'settings-power' is the settings subpage for power settings.
  */
 
+// ---docerion
+// type: source
+// title: Power settings subpage element
+// summary: Polymer element implementing the power settings subpage, handling power sources, battery status, adaptive charging, battery saver, and idle preferences.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/policy/cr_policy_indicator.js';
 import 'chrome://resources/ash/common/cr_elements/md_select.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_style.css.js';

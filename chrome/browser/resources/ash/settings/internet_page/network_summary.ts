@@ -7,6 +7,12 @@
  * by type: Ethernet, WiFi, Cellular, and VPN.
  */
 
+// ---docerion
+// type: source
+// title: Network summary element
+// summary: Polymer element displaying a summary of network states by type such as Ethernet, WiFi, Cellular, and VPN, plus hotspot info for the internet settings page.
+// ---
+
 import './hotspot_summary_item.js';
 import './network_summary_item.js';
 

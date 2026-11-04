@@ -1,0 +1,4 @@
+# Docerion header of network_always_on_vpn.html.
+type: source
+title: Always-on VPN controls template
+summary: HTML template with the always-on VPN enable toggle, VPN service selector and lockdown mode toggle.

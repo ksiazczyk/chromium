@@ -10,6 +10,12 @@
  * in an auth token.
  */
 
+// ---docerion
+// type: source
+// title: Multidevice Smart Lock item element
+// summary: Defines the settings-multidevice-smartlock-item element, a wrapper that displays and toggles the Smart Lock feature row outside the multidevice page using an auth token.
+// ---
+
 import './multidevice_feature_item.js';
 
 import {WebUiListenerMixin} from 'chrome://resources/ash/common/cr_elements/web_ui_listener_mixin.js';

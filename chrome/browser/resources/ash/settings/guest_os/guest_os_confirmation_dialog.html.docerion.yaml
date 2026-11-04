@@ -1,0 +1,4 @@
+# Docerion header of guest_os_confirmation_dialog.html.
+type: source
+title: Guest OS confirmation dialog template
+summary: HTML template for the guest OS confirmation dialog with customizable accept and cancel buttons.

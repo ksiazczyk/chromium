@@ -8,6 +8,12 @@
  * information for an installed app.
  */
 
+// ---docerion
+// type: source
+// title: Per-device app installed row element
+// summary: Polymer element that displays information for an installed companion app and launches it when clicked.
+// ---
+
 import './input_device_settings_shared.css.js';
 import '../settings_shared.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_auto_img/cr_auto_img.js';

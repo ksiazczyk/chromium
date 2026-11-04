@@ -6,6 +6,12 @@
  * @fileoverview Polymer element to set hotspot configuration
  */
 
+// ---docerion
+// type: source
+// title: Hotspot configuration dialog element
+// summary: Polymer element that lets users edit hotspot settings such as SSID, password, and security mode, validating input before saving the config.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 import './internet_shared.css.js';

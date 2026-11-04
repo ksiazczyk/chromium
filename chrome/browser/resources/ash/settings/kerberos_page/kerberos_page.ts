@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kerberos settings page element
+// summary: TypeScript implementation of the settings-kerberos-page element that hosts Kerberos ticket settings and navigates to the accounts subpage.
+// ---
+
 /**
  * @fileoverview
  * 'settings-kerberos-page' is the settings page containing Kerberos Tickets

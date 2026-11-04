@@ -19,6 +19,12 @@
  *  - showConfirmPage()
  */
 
+// ---docerion
+// type: source
+// title: Nearby Share receive dialog element
+// summary: Dialog element that manages Nearby Share receiving, switching between high visibility, confirm, onboarding, and visibility pages and observing transfer status.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 import 'chrome://resources/ash/common/cr_elements/cr_view_manager/cr_view_manager.js';

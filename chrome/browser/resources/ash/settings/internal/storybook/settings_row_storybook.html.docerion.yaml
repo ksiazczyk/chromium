@@ -1,0 +1,4 @@
+# Docerion header of settings_row_storybook.html.
+type: source
+title: Settings row storybook demo
+summary: Storybook demo template for the settings-row element, showing label, sublabel, icon, learn-more link, slotted control, and combined variants.

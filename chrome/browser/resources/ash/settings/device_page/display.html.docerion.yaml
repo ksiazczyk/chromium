@@ -1,0 +1,4 @@
+# Docerion header of display.html.
+type: source
+title: Display settings HTML template
+summary: Polymer template for the display settings subpage covering arrangement, mirroring, per-display tabs, brightness and performance mode controls.

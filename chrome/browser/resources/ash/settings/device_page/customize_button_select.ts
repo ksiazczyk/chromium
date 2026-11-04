@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Customize button select element
+// summary: Implements the customize-button-select element that shows a dropdown of remapping actions and key combinations for a configurable button.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/md_select.css.js';
 import 'chrome://resources/polymer/v3_0/iron-dropdown/iron-dropdown.js';
 import 'chrome://resources/polymer/v3_0/iron-list/iron-list.js';

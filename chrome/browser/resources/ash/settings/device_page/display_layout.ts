@@ -8,6 +8,12 @@
  * more displays and allows them to be arranged.
  */
 
+// ---docerion
+// type: source
+// title: Display layout element logic
+// summary: Implements the display-layout element that presents a visual, draggable arrangement of displays and handles selection and mirroring visualization.
+// ---
+
 import '../settings_shared.css.js';
 
 import {getInstance as getAnnouncerInstance} from 'chrome://resources/ash/common/cr_elements/cr_a11y_announcer/cr_a11y_announcer.js';

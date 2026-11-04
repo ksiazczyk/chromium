@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiDevice browser proxy
+// summary: Browser proxy interface and implementation that forwards multidevice settings actions and data requests to the browser.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 
 import type {MultiDeviceFeature, MultiDevicePageContentData, PhoneHubPermissionsSetupAction, PhoneHubPermissionsSetupFeatureCombination, PhoneHubPermissionsSetupFlowScreens} from './multidevice_constants.js';

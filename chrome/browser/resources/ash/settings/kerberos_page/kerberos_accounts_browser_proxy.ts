@@ -8,6 +8,12 @@
  * only.
  */
 
+// ---docerion
+// type: source
+// title: Kerberos accounts browser proxy
+// summary: TypeScript browser proxy that lets the Kerberos Accounts settings UI list, add, remove, validate and activate Kerberos accounts via the browser.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 
 /**

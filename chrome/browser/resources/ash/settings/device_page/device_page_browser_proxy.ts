@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device page browser proxy
+// summary: Defines the browser proxy interface and types for power, storage, display and note-taking app interactions between the device page WebUI and C++.
+// ---
+
 import {addWebUiListener, sendWithPromise} from 'chrome://resources/js/cr.js';
 
 

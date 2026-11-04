@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage external entry element
+// summary: Polymer element showing an external storage device with a toggle that saves or removes its UUID in the arc.visible_external_storages preference.
+// ---
+
 /**
  * @fileoverview
  * 'storage-external-entry' is the polymer element for showing a certain

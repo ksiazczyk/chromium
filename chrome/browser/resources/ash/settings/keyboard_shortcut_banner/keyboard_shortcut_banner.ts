@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardShortcutBanner custom element
+// summary: Defines the keyboard-shortcut-banner Polymer element that displays keyboard shortcut reminders, supports customized shortcut labels and announces dismissal.
+// ---
+
 /**
  * @fileoverview 'keyboard-shortcut-banner' is an element to display reminders
  * for keyboard shortcuts.

@@ -8,6 +8,12 @@
  * adjustments.
  */
 
+// ---docerion
+// type: source
+// title: Display overscan dialog element
+// summary: Implements the settings-display-overscan-dialog Polymer element for adjusting and committing display overscan calibration via arrow keys and dialog buttons.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 import 'chrome://resources/ash/common/cr_elements/icons.html.js';

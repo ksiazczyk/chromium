@@ -1,0 +1,4 @@
+# Docerion header of internet_known_networks_subpage.html.
+type: source
+title: Known networks subpage template
+summary: HTML template for the known networks subpage listing preferred, all, and Passpoint networks with per-network action menus.

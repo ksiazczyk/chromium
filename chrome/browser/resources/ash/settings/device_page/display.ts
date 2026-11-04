@@ -7,6 +7,12 @@
  * 'settings-display' is the settings subpage for display settings.
  */
 
+// ---docerion
+// type: source
+// title: Display settings element logic
+// summary: Implements the settings-display element handling display configuration such as resolution, orientation, mirroring and brightness via Mojo and the system display API.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_checkbox/cr_checkbox.js';
 import 'chrome://resources/ash/common/cr_elements/cr_link_row/cr_link_row.js';
 import 'chrome://resources/ash/common/cr_elements/cr_slider/cr_slider.js';

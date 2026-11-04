@@ -1,0 +1,4 @@
+# Docerion header of multidevice_radio_button.html.
+type: source
+title: Multidevice radio button template
+summary: HTML template for the multidevice-radio-button element, styling the disc, label and policy indicator, including disabled and policy-controlled states.

@@ -1,0 +1,4 @@
+# Docerion header of nearby_share_data_usage_dialog.html.
+type: source
+title: Nearby Share data usage dialog template
+summary: HTML template for the dialog that selects the Nearby Share data usage option among mobile data, Wi-Fi only, and offline.

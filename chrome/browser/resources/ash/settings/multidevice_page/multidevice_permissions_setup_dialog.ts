@@ -9,6 +9,12 @@
  * phone notifications and apps to be mirrored on their Chromebook.
  */
 
+// ---docerion
+// type: source
+// title: Permissions setup dialog element
+// summary: Implements the Phone Hub notification and apps access setup flow dialog, coordinating screen lock setup and per-feature permission steps.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/localized_link/localized_link.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';

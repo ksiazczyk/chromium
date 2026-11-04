@@ -8,6 +8,12 @@
  * for a network.
  */
 
+// ---docerion
+// type: source
+// title: Internet detail subpage element
+// summary: Polymer element implementing the settings subpage with details for a network, including IP config, nameservers, APN, SIM info, and proxy sections.
+// ---
+
 import 'chrome://resources/ash/common/network/cr_policy_network_indicator_mojo.js';
 import 'chrome://resources/ash/common/network/network_apnlist.js';
 import 'chrome://resources/ash/common/network/network_choose_mobile.js';

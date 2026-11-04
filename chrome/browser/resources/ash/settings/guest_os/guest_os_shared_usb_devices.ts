@@ -8,6 +8,12 @@
  * guest OSes.
  */
 
+// ---docerion
+// type: source
+// title: Guest OS shared USB devices settings subpage
+// summary: Settings subpage element for sharing USB devices with guest OS VMs, including device toggles, container selection, and reassignment and notification dialogs.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_toggle/cr_toggle.js';
 import './guest_os_shared_usb_devices_add_dialog.js';
 import './guest_os_confirmation_dialog.js';

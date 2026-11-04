@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Nearby Share page owners
+summary: Owners file that delegates code review ownership to chrome/browser/nearby_sharing/OWNERS.

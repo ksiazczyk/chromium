@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pointers settings element
+// summary: Defines the settings-pointers element, the subpage combining mouse, pointing stick, and touchpad settings with deep link support.
+// ---
+
 /**
  * @fileoverview
  * 'settings-pointers' is the settings subpage with mouse and touchpad settings.

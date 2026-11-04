@@ -7,6 +7,12 @@
  * subscription.
  */
 
+// ---docerion
+// type: source
+// title: Passpoint subscription subpage element
+// summary: Polymer element for the Passpoint subscription details subpage, fetching subscription, certificate, app, and network data over Mojo and handling the forget flow.
+// ---
+
 import '../settings_shared.css.js';
 
 import {MojoConnectivityProvider} from 'chrome://resources/ash/common/connectivity/mojo_connectivity_provider.js';

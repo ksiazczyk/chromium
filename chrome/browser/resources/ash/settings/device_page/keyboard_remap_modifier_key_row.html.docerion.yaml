@@ -1,0 +1,4 @@
+# Docerion header of keyboard_remap_modifier_key_row.html.
+type: source
+title: Modifier key remapping row template
+summary: HTML template for a settings row that shows a modifier key label or icon alongside a dropdown menu for remapping the key.

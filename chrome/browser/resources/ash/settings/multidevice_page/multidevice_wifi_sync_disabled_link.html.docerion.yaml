@@ -1,0 +1,4 @@
+# Docerion header of multidevice_wifi_sync_disabled_link.html.
+type: source
+title: Wi-Fi sync disabled link template
+summary: Polymer template rendering the container for the aria-labelled Wi-Fi sync disabled message content.

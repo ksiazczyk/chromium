@@ -1,0 +1,4 @@
+# Docerion header of device_page.html.
+type: source
+title: Device page HTML template
+summary: Polymer template for the ChromeOS settings device page, with rows for mouse, touchpad, keyboard, stylus, tablet, display and audio subpages.

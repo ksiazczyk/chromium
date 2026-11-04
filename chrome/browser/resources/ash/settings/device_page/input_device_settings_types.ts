@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input device settings type definitions
+// summary: Defines type aliases and enums for the input device settings API, covering keyboards, mice, touchpads, styluses, graphics tablets, keys, and policies.
+// ---
+
 import * as AcceleratorActionTypes from '../mojom-webui/accelerator_actions.mojom-webui.js';
 import * as AcceleratorKeysTypes from '../mojom-webui/accelerator_keys.mojom-webui.js';
 import * as ExtendedFkeysModifierTypes from '../mojom-webui/extended_fkeys_modifier.mojom-webui.js';

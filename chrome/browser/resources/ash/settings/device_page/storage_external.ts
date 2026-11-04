@@ -8,6 +8,12 @@
  * settings.
  */
 
+// ---docerion
+// type: source
+// title: External storage settings element
+// summary: Polymer element for the external storage settings section, fetching and displaying connected external storages.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/localized_link/localized_link.js';
 import './storage_external_entry.js';
 import '../settings_shared.css.js';

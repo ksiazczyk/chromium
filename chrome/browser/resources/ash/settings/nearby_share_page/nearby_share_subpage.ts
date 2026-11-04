@@ -8,6 +8,12 @@
  * Nearby Share feature.
  */
 
+// ---docerion
+// type: source
+// title: Nearby Share settings subpage element
+// summary: Settings subpage element for managing Nearby Share, handling preferences, dialogs, onboarding, high visibility mode, and deep links.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_shared_style.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_link_row/cr_link_row.js';
 import 'chrome://resources/polymer/v3_0/iron-flex-layout/iron-flex-layout-classes.js';

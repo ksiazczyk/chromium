@@ -1,0 +1,4 @@
+# Docerion header of nearby_share_device_name_dialog.html.
+type: source
+title: Nearby Share device name dialog template
+summary: HTML template for the dialog that edits the Nearby Share device name, disabling the done button when the input is invalid.

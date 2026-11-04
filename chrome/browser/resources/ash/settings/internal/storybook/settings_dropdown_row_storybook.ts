@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings dropdown row storybook element
+// summary: Defines the settings-dropdown-row-storybook Polymer element that supplies demo options, values, and a managed pref for the dropdown row storybook page.
+// ---
+
 import '../../controls/v2/settings_dropdown_row.js';
 import 'chrome://resources/ash/common/cr_elements/cr_checkbox/cr_checkbox.js';
 

@@ -13,6 +13,12 @@
  * and the other to a Learn More page for Phone Hub.
  */
 
+// ---docerion
+// type: source
+// title: Task continuation disabled link element
+// summary: Defines the settings-multidevice-task-continuation-disabled-link element showing an accessible Task Continuation summary with Chrome Sync and Learn More links when sync is off.
+// ---
+
 import '../settings_shared.css.js';
 
 import {I18nMixin} from 'chrome://resources/ash/common/cr_elements/i18n_mixin.js';

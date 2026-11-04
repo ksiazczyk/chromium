@@ -1,0 +1,4 @@
+# Docerion header of key_combination_input_dialog.html.
+type: source
+title: Key combination input dialog template
+summary: HTML template for the dialog that lets users capture a keyboard key combination as a button remapping action, with edit, cancel, and save buttons.

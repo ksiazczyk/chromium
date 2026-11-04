@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multidevice radio button element
+// summary: Defines the multidevice-radio-button custom element, a Polymer radio button with paper ripple effects, ARIA attributes and policy indicator click handling.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_radio_button/cr_radio_button_style.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js';
 import 'chrome://resources/ash/common/cr_elements/policy/cr_policy_indicator.js';

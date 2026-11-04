@@ -8,6 +8,12 @@
  * per-device-pointing-stick subsection settings in system settings.
  */
 
+// ---docerion
+// type: source
+// title: Per-device pointing stick subsection element
+// summary: Defines the settings-per-device-pointing-stick-subsection element that manages pointing stick preferences such as primary button, acceleration, and sensitivity.
+// ---
+
 import '../settings_shared.css.js';
 import 'chrome://resources/ash/common/cr_elements/localized_link/localized_link.js';
 import 'chrome://resources/ash/common/cr_elements/cr_radio_button/cr_radio_button.js';

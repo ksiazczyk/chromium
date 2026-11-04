@@ -1,0 +1,4 @@
+# Docerion header of esim_install_error_dialog.html.
+type: source
+title: eSIM install error dialog template
+summary: HTML template for the dialog shown when eSIM profile installation fails, including confirmation code entry, spinner, and action buttons.

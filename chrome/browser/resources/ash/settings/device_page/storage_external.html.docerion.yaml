@@ -1,0 +1,4 @@
+# Docerion header of storage_external.html.
+type: source
+title: External storage list template
+summary: HTML template listing plugged-in external storage devices with a note about Android apps on external drives.

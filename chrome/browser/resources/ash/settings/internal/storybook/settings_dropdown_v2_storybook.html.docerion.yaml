@@ -1,0 +1,4 @@
+# Docerion header of settings_dropdown_v2_storybook.html.
+type: source
+title: Settings dropdown v2 storybook demo
+summary: Storybook demo template for the settings-dropdown-v2 element, showing basic and managed-via-pref variants with a disable toggle.

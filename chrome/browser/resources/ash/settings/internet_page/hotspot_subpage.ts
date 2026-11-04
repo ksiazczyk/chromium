@@ -7,6 +7,12 @@
  * Settings subpage for managing and configuring Hotspot.
  */
 
+// ---docerion
+// type: source
+// title: Hotspot settings subpage
+// summary: Polymer element implementing the ChromeOS settings subpage for managing and configuring the Hotspot, including its on/off toggle and auto-disable state.
+// ---
+
 import '../settings_shared.css.js';
 import '../controls/settings_toggle_button.js';
 

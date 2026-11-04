@@ -7,6 +7,12 @@
  * Cellular, or virtual networks.
  */
 
+// ---docerion
+// type: source
+// title: Internet subpage element
+// summary: Polymer element displaying and controlling WiFi, cellular or virtual networks, including always-on VPN and device state toggles.
+// ---
+
 import 'chrome://resources/ash/common/network/network_list.js';
 import 'chrome://resources/ash/common/cr_elements/localized_link/localized_link.js';
 import 'chrome://resources/ash/common/cr_elements/cr_icon_button/cr_icon_button.js';

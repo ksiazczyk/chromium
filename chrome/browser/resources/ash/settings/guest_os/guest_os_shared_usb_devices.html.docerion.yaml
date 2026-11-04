@@ -1,0 +1,4 @@
+# Docerion header of guest_os_shared_usb_devices.html.
+type: source
+title: Guest OS shared USB devices template
+summary: HTML template for the shared USB devices page with notification toggles and per-container device lists.

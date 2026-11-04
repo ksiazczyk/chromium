@@ -1,0 +1,4 @@
+# Docerion header of multidevice_feature_toggle.html.
+type: source
+title: Feature toggle template
+summary: Polymer template with a cr-toggle for enabling or disabling a multidevice feature.

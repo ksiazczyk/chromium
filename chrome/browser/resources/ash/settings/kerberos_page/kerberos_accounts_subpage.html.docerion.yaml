@@ -1,0 +1,4 @@
+# Docerion header of kerberos_accounts_subpage.html.
+type: source
+title: Kerberos accounts subpage template
+summary: Polymer HTML template for the Kerberos Accounts settings subpage, showing the account list with sign-in state, policy indicators and add or remove actions.

@@ -7,6 +7,12 @@
  * 'settings-stylus' is the settings subpage with stylus-specific settings.
  */
 
+// ---docerion
+// type: source
+// title: Stylus settings subpage element
+// summary: Polymer element implementing the stylus settings subpage, handling stylus tools preferences and note-taking app choices via the device page browser proxy.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_link_row/cr_link_row.js';
 import 'chrome://resources/ash/common/cr_elements/cr_toggle/cr_toggle.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js';

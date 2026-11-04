@@ -8,6 +8,12 @@
  * settings.
  */
 
+// ---docerion
+// type: source
+// title: Per-device mouse element
+// summary: Defines the settings-per-device-mouse element that lists connected mice and announces device state changes.
+// ---
+
 import '../settings_shared.css.js';
 import 'chrome://resources/ash/common/cr_elements/localized_link/localized_link.js';
 import 'chrome://resources/ash/common/cr_elements/cr_radio_button/cr_radio_button.js';

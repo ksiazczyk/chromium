@@ -1,0 +1,4 @@
+# Docerion header of multidevice_task_continuation_disabled_link.html.
+type: source
+title: Task continuation disabled link template
+summary: HTML template for the task continuation disabled link element, rendering aria-labelled content for the disabled state.

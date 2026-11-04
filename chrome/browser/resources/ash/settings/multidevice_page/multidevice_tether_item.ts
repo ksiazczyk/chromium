@@ -11,6 +11,12 @@
  * serves a role comparable to the internet_page's network-summary element.
  */
 
+// ---docerion
+// type: source
+// title: Instant tethering feature item element
+// summary: Defines the settings-multidevice-tether-item element, which loads and updates tethering network data from the networkConfig mojo API for the multidevice subpage.
+// ---
+
 import 'chrome://resources/ash/common/network/network_icon.js';
 import '../settings_shared.css.js';
 import '../settings_vars.css.js';

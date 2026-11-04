@@ -1,0 +1,4 @@
+# Docerion header of apn_subpage.html.
+type: source
+title: APN subpage template
+summary: HTML template that renders the APN list with managed cellular properties and error state for the APN settings subpage.

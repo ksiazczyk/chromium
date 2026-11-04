@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device page element logic
+// summary: Implements the settings-device-page element that manages device and peripheral settings, including input device observers and subpage routing.
+// ---
+
 /**
  * @fileoverview 'settings-device-page' is the settings page for device and
  * peripheral settings.
