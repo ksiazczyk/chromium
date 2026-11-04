@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadHomeToolbar
+// summary: Custom selectable list toolbar for the Android download home that inflates the download menu, tracks UI display style changes, and updates share and delete accessibility actions during selection.
+// ---
+
 package org.chromium.chrome.browser.download.home.toolbar;
 
 import android.content.Context;

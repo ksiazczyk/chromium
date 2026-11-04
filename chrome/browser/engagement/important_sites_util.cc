@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Important sites utility implementation
+// summary: Implements computation of important registrable domains from engagement, bookmarks, notifications, and installed apps, including ignore suppression logic.
+// ---
+
 #include "chrome/browser/engagement/important_sites_util.h"
 
 #include <algorithm>

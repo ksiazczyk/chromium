@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Download UI resource IDs
+summary: Declares view IDs used by the Android download home, such as the circular progress view and its recycler view.
+-->
+
 <resources>
     <item name="circular_progress_view_action" type="id" />
     <item name="circular_progress_view_progress" type="id" />

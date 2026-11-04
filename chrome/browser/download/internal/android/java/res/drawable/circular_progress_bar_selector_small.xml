@@ -4,6 +4,13 @@ Copyright 2025 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Small circular progress bar state selector drawable
+summary: Defines hover, focus and pressed state visuals for the small circular download progress bar background.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:state_hovered="true">
         <shape android:shape="oval">

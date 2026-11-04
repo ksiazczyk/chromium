@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SetupListCompletableUnitTest
+// summary: Unit tests verifying how SetupListCompletable resolves completion state and card icons for setup list modules, including animation handling.
+// ---
+
 package org.chromium.chrome.browser.setup_list;
 
 import static org.junit.Assert.assertEquals;

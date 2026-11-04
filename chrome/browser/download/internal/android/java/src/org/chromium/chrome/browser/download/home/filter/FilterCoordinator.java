@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Coordinator for the downloads home filter UI
+// summary: Coordinates the tab and chip filter selection UI for downloads home and notifies observers when the selected filter changes.
+// ---
+
 package org.chromium.chrome.browser.download.home.filter;
 
 import android.content.Context;

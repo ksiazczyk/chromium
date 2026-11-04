@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflineItemSource
+// summary: Supplies offline items from an OfflineContentProvider to the download home UI and notifies filter observers of additions, updates and removals.
+// ---
+
 package org.chromium.chrome.browser.download.home;
 
 import org.chromium.base.ObserverList;

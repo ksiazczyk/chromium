@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StorageSummaryProvider computing download storage usage
+// summary: Observes offline item filter changes and asynchronously queries the primary download directory to compute and report total and available storage for the download home summary.
+// ---
+
 package org.chromium.chrome.browser.download.home.storage;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

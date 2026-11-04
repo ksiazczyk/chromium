@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History-aware site engagement service implementation
+// summary: Implements a site engagement service that proportionally decays or clears engagement scores when history entries are deleted or expired.
+// ---
+
 #include "chrome/browser/engagement/history_aware_site_engagement_service.h"
 
 #include "base/time/clock.h"

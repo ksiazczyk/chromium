@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Animated download done icon drawable
+summary: Animated vector drawable that fades the circle of the 24dp download-done icon in and out to animate the completed download state.
+-->
+
 <animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:aapt="http://schemas.android.com/aapt"
     android:drawable="@drawable/ic_download_done_24dp">

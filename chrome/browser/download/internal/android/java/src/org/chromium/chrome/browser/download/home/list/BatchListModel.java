@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BatchListModel
+// summary: Helper ListModel subclass that batches RecyclerView list updates before notifying observers in the downloads home list.
+// ---
+
 package org.chromium.chrome.browser.download.home.list;
 
 import androidx.recyclerview.widget.BatchingListUpdateCallback;

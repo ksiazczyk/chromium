@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ListItemViewHolder
+// summary: Abstract base ViewHolder for the download manager list that acts as a factory, creating the appropriate concrete ViewHolder for each supported view type.
+// ---
+
 package org.chromium.chrome.browser.download.home.list.holder;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

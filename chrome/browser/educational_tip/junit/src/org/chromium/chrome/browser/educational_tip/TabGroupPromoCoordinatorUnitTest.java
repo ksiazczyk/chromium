@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabGroupPromoCoordinatorUnitTest
+// summary: Robolectric unit test verifying that clicking the tab group promo card opens the tab group IPH dialog and runs the module clicked callback.
+// ---
+
 package org.chromium.chrome.browser.educational_tip;
 
 import static org.mockito.Mockito.verify;

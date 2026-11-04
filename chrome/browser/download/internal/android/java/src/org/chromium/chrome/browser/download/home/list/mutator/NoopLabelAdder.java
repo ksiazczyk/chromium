@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: No-op label adder for download home list
+// summary: Implements the LabelAdder interface as a no-op that passes the download list through to the next consumer without adding any labels.
+// ---
+
 package org.chromium.chrome.browser.download.home.list.mutator;
 
 import org.chromium.build.annotations.NullMarked;

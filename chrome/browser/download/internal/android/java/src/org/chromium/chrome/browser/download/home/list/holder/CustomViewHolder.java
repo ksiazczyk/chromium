@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomViewHolder for arbitrary custom views
+// summary: RecyclerView ViewHolder that hosts a caller-supplied custom View in a FrameLayout, attaching and detaching it as items bind.
+// ---
+
 package org.chromium.chrome.browser.download.home.list.holder;
 
 import android.view.View;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenameUtils JNI implementation
+// summary: C++ JNI binding that returns the file extension of a given file name for Android download rename flows.
+// ---
+
 #include "base/android/jni_string.h"
 #include "base/files/file_path.h"
 

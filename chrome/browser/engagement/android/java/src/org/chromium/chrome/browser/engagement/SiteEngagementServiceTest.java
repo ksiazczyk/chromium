@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site Engagement Service Java binding tests
+// summary: JUnit instrumented tests verifying that the Site Engagement Service Java binding sets, retrieves and resets engagement scores for URLs on Android.
+// ---
+
 package org.chromium.chrome.browser.engagement;
 
 import androidx.test.filters.SmallTest;

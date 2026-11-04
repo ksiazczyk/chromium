@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SelectionView UI widget for download list selection feedback
+// summary: Android FrameLayout widget that visually reflects selected, in-selection-mode, and unselected states for download home list items, including an animated check drawable.
+// ---
+
 package org.chromium.chrome.browser.download.home.view;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

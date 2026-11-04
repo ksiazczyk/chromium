@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Educational tip setup list bottom sheet properties
+// summary: Defines the writable property keys for the bottom sheet's title, description, list items and click handling used by the property model.
+// ---
+
 package org.chromium.chrome.browser.educational_tip.two_cell.see_more_bottomsheet;
 
 import org.chromium.build.annotations.NullMarked;

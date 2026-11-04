@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-profile download notifier implementation
+// summary: Implements MultiProfileDownloadNotifier, which observes download items across multiple profiles and their off-the-record profiles.
+// ---
+
 #include "chrome/browser/download/notification/multi_profile_download_notifier.h"
 
 #include <algorithm>

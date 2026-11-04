@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DateOrderedListViewAdapter
+// summary: RecyclerView adapter that glues the decorated list item model to the matching view holders and view binders.
+// ---
+
 package org.chromium.chrome.browser.download.home.list;
 
 import androidx.recyclerview.widget.RecyclerView;

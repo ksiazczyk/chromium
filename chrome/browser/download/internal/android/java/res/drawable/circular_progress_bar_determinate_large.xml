@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Large determinate circular progress bar drawable
+summary: Ring-shaped drawable that renders the progress arc of the large determinate download progress bar.
+-->
+
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
     <item android:id="@android:id/progress">
         <rotate

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Group card label adder for download list
+// summary: Groups offline items sharing a date and domain into cards, adding card header, footer, and divider items to the list.
+// ---
+
 package org.chromium.chrome.browser.download.home.list.mutator;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

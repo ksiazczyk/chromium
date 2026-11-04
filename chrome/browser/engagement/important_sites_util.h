@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Important sites utility header
+// summary: Declares ImportantSitesUtil helpers for listing important sites, registering prefs, and recording excluded or ignored sites for the Clear Browsing dialog.
+// ---
+
 #ifndef CHROME_BROWSER_ENGAGEMENT_IMPORTANT_SITES_UTIL_H_
 #define CHROME_BROWSER_ENGAGEMENT_IMPORTANT_SITES_UTIL_H_
 

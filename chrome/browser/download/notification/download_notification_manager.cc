@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download notification manager implementation
+// summary: Implements DownloadNotificationManager, which observes the offline content aggregator and creates download item notifications for a profile.
+// ---
+
 #include "chrome/browser/download/notification/download_notification_manager.h"
 
 #include "chrome/browser/content_index/content_index_provider_impl.h"

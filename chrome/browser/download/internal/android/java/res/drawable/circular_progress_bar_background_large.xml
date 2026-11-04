@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Large circular progress bar background drawable
+summary: Layer-list drawable that draws the white oval background behind the large download progress bar and overlays the large selector drawable.
+-->
+
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
     <item
         android:left="@dimen/download_manager_progress_bar_background_margin"

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Download manager image item layout
+summary: Square aspect-ratio layout for an image download thumbnail with an overlaid selection toggle.
+-->
+
 <org.chromium.chrome.browser.download.home.list.view.AspectRatioFrameLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Important sites util browser tests
+// summary: Android browser tests verifying important site calculation with notification permissions, including default search engine origins and incognito behavior.
+// ---
+
 #include "chrome/browser/engagement/important_sites_util.h"
 
 #include "chrome/browser/android/search_permissions/search_permissions_service.h"

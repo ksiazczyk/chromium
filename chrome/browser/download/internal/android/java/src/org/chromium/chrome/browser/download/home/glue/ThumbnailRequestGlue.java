@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThumbnailRequestGlue
+// summary: Glue class that connects downloads and OfflineContentProvider thumbnail visuals to the ThumbnailProvider, downscaling bitmaps to fit icon views.
+// ---
+
 package org.chromium.chrome.browser.download.home.glue;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

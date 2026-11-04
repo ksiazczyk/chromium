@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EmptyCoordinator
+// summary: Coordinates the download home empty state by observing filtered offline items and filter changes, then updating the model with loading, empty, or hidden state.
+// ---
+
 package org.chromium.chrome.browser.download.home.empty;
 
 import android.content.Context;

@@ -4,6 +4,13 @@ Copyright 2022 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Download interstitial animated vector icon
+summary: Animated vector drawable showing a download arrow icon used for the download interstitial.
+-->
+
 <animated-vector
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:aapt="http://schemas.android.com/aapt">

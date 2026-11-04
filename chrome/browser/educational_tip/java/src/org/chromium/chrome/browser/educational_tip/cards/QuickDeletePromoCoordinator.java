@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick delete promo card coordinator
+// summary: Coordinator for the quick delete educational tip card that opens and highlights the quick delete menu item when clicked.
+// ---
+
 package org.chromium.chrome.browser.educational_tip.cards;
 
 import androidx.annotation.DrawableRes;

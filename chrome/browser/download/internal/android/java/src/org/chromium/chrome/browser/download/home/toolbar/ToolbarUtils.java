@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolbarUtils
+// summary: Utility methods for the download home toolbar, mainly setting up the feature engagement tracker and showing the in-product help text bubble for the download settings menu item.
+// ---
+
 package org.chromium.chrome.browser.download.home.toolbar;
 
 import android.view.View;

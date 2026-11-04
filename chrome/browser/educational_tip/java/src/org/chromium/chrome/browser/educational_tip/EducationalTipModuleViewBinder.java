@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Educational tip module view binder
+// summary: Binds educational tip module property model changes, such as title, description, button and images, to the corresponding view updates.
+// ---
+
 package org.chromium.chrome.browser.educational_tip;
 
 import android.view.View;

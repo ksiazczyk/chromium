@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EmptyView
+// summary: Android view that renders the empty state visuals of the download home list, including illustration, text, and loading UI.
+// ---
+
 package org.chromium.chrome.browser.download.home.empty;
 
 import android.content.Context;

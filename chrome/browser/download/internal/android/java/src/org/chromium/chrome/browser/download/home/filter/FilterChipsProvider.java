@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filter chips provider for download filtering
+// summary: Builds a chip selector model list of download filter types and notifies a delegate when a filter chip is selected.
+// ---
+
 package org.chromium.chrome.browser.download.home.filter;
 
 import static org.chromium.build.NullUtil.assertNonNull;

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for download internal directory
+summary: Metadata file that sets the owning team email for the chrome/browser/download/internal directory to chrome-downloads@google.com.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multi-profile download notifier browser tests
+// summary: Browser tests for MultiProfileDownloadNotifier using mock notifier clients, download managers, and download items across profiles.
+// ---
+
 #include "chrome/browser/download/notification/multi_profile_download_notifier.h"
 
 #include <memory>

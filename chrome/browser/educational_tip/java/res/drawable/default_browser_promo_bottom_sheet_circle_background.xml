@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Default browser promo circle background drawable
+summary: Oval shape providing a circular tinted background for icons in the default browser promo bottom sheet.
+-->
+
 <shape
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:shape="oval"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Important sites util unit tests
+// summary: Unit tests for ImportantSitesUtil covering important domain results, content settings, bookmarks, and metrics, currently disabled on Android.
+// ---
+
 #include "chrome/browser/engagement/important_sites_util.h"
 
 #include <memory>

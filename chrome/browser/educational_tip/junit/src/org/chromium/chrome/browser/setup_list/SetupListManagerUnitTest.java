@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SetupListManagerUnitTest
+// summary: Unit tests covering SetupListManager eligibility and module completion behavior, mocking profile, sign-in, sync, and safe browsing state.
+// ---
+
 package org.chromium.chrome.browser.setup_list;
 
 import static org.junit.Assert.assertEquals;

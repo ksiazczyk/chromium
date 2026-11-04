@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Date-ordered list mutator for download home
+// summary: Converts collections of offline items into the download home list model, translating collection changes into list updates.
+// ---
+
 package org.chromium.chrome.browser.download.home.list.mutator;
 
 import org.chromium.build.annotations.NullMarked;

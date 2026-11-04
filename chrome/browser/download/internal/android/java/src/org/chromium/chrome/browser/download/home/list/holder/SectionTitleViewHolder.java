@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SectionTitleViewHolder
+// summary: Android view holder that renders section headers in the download home list, showing date-based or just-now titles for section header list items.
+// ---
+
 package org.chromium.chrome.browser.download.home.list.holder;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchBarCoordinator for the download home search toolbar
+// summary: Coordinates the download home search bar on Android, wiring the query edit text, clear button, and text-change callbacks that report the current search query.
+// ---
+
 package org.chromium.chrome.browser.download.home.search;
 
 import android.content.Context;

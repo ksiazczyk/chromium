@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StorageCoordinator for the download home storage summary view
+// summary: Android coordinator that inflates the download storage summary view and binds storage info text to it via a PropertyModel change processor.
+// ---
+
 package org.chromium.chrome.browser.download.home.storage;
 
 import android.content.Context;

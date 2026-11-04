@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Educational tip dimension resources
+summary: Defines dimension values for educational tip module layouts, the two-cell layout, default browser promo bottom sheet, and setup list promo components.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools"
     tools:ignore="UnusedResources">
   <!-- Educational tip module dimens -->

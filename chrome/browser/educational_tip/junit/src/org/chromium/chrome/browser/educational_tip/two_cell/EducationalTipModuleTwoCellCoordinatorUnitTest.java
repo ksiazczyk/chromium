@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EducationalTipModuleTwoCellCoordinatorUnitTest
+// summary: Robolectric unit tests for EducationalTipModuleTwoCellCoordinator, verifying module display and property model setup with ranked setup list module types.
+// ---
+
 package org.chromium.chrome.browser.educational_tip.two_cell;
 
 import static org.junit.Assert.assertEquals;

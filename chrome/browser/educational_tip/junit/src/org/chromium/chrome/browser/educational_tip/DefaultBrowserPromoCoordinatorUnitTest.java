@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default browser promo coordinator unit tests
+// summary: Robolectric unit tests verifying the default browser promo card's click behavior, bottom sheet display, Role Manager fallback, and histogram logging.
+// ---
+
 package org.chromium.chrome.browser.educational_tip;
 
 import static org.mockito.ArgumentMatchers.any;

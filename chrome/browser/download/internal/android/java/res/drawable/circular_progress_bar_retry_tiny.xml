@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Tiny retry progress bar drawable
+summary: Layer-list drawable combining a refresh icon with a white ring for the tiny download progress control.
+-->
+
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
     <item android:drawable="@drawable/ic_refresh_24dp" />
     <item>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EducationalTipModuleCoordinator
+// summary: Coordinator implementing ModuleProvider that delegates educational tip module show, hide, and update calls to the mediator.
+// ---
+
 package org.chromium.chrome.browser.educational_tip;
 
 import android.content.Context;

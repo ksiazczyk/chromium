@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Compact image download item layout
+summary: Android grid layout for compact list-view image download items with a square thumbnail, title, caption, and menu button.
+-->
+
 <!--
 Compact list-view layout for image OfflineItems on the Downloads page.
 Mirrors download_manager_generic_item, but the thumbnail is square (no

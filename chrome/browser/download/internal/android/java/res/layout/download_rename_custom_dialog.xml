@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Rename dialog custom view layout
+summary: Layout for the download rename dialog containing a file name input field and a hidden error message text view.
+-->
+
 <org.chromium.chrome.browser.download.home.rename.RenameDialogCustomView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

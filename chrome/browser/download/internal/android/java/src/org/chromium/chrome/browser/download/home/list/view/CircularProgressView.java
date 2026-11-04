@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CircularProgressView with indeterminate and determinate progress states
+// summary: Android image button that renders circular download progress with indeterminate, determinate, running, paused, retry and scanning states.
+// ---
+
 package org.chromium.chrome.browser.download.home.list.view;
 
 import android.content.Context;

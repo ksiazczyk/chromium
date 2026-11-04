@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Date section header adder for download list
+// summary: Inserts date and Just Now section headers into the download home list and must run before other labels are added.
+// ---
+
 package org.chromium.chrome.browser.download.home.list.mutator;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CardDividerBottomViewHolder for group card bottom dividers
+// summary: RecyclerView ViewHolder that displays a divider at the bottom of a group card in the downloads home list.
+// ---
+
 package org.chromium.chrome.browser.download.home.list.holder;
 
 import android.view.LayoutInflater;

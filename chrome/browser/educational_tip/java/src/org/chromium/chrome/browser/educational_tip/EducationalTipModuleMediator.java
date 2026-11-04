@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EducationalTipModuleMediator
+// summary: Mediator that manages the educational tip card provider, updates the property model, and handles module removal and updates.
+// ---
+
 package org.chromium.chrome.browser.educational_tip;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

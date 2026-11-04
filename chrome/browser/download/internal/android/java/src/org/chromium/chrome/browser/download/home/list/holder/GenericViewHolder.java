@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GenericViewHolder for generic offline items
+// summary: RecyclerView ViewHolder that displays a generic OfflineItem with title, caption, tinted fallback icon and circular thumbnail handling.
+// ---
+
 package org.chromium.chrome.browser.download.home.list.holder;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

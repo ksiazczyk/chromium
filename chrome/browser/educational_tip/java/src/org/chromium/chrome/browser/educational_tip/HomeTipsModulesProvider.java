@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Home tips modules provider
+// summary: Registers educational tip and Setup List module builders with the module registry on the home surface, depending on Setup List state and layout choice.
+// ---
+
 package org.chromium.chrome.browser.educational_tip;
 
 import androidx.annotation.VisibleForTesting;

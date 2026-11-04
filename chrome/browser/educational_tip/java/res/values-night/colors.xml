@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Educational tip night mode color resources
+summary: Defines dark-theme color values for educational tip card logos, setup list celebratory promo gradients, and the NTP theme promo in Chrome for Android.
+-->
+
 <resources>
   <color name="educational_tip_card_logo_color_1">@color/material_primary_20</color>
   <color name="educational_tip_card_logo_color_2">@color/material_primary_30</color>

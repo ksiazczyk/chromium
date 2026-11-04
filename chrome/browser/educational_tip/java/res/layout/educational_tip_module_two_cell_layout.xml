@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Educational tip two-cell module layout
+summary: Android layout XML for the two-cell EducationalTipModuleTwoCellView card, showing a title, see-more link and two icon-with-text items separated by a divider.
+-->
+
 <org.chromium.chrome.browser.educational_tip.two_cell.EducationalTipModuleTwoCellView
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OffTheRecordOfflineItemFilterTest
+// summary: Unit tests covering passthrough and filtering behavior of the off-the-record download item filter, including non-primary OTR profiles.
+// ---
+
 package org.chromium.chrome.browser.download.home.filter;
 
 import static org.mockito.ArgumentMatchers.any;

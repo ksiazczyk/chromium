@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EducationalTipModuleTwoCellViewUnitTest
+// summary: Robolectric unit tests for EducationalTipModuleTwoCellView, verifying title, item, and see-more setters plus click listener behavior on the two-cell layout.
+// ---
+
 package org.chromium.chrome.browser.educational_tip.two_cell;
 
 import static org.mockito.Mockito.verify;

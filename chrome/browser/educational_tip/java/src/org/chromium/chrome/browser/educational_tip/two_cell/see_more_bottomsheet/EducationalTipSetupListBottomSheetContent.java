@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Educational tip setup list bottom sheet content
+// summary: Implements BottomSheetContent for the educational tip see-more bottom sheet, supplying the content view, sheet type, low priority and accessibility strings.
+// ---
+
 package org.chromium.chrome.browser.educational_tip.two_cell.see_more_bottomsheet;
 
 import android.content.Context;

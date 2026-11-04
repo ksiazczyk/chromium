@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Educational tip setup list bottom sheet item
+// summary: Data holder pairing an educational tip card provider with its setup list completion state for display in the bottom sheet.
+// ---
+
 package org.chromium.chrome.browser.educational_tip.two_cell.see_more_bottomsheet;
 
 import org.chromium.build.annotations.NullMarked;

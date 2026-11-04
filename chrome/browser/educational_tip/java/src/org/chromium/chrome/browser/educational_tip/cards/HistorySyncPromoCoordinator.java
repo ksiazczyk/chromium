@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History sync promo card coordinator
+// summary: Coordinator for the history sync educational tip card on the NTP magic stack, managing sign-in and sync flows and removing the module when done.
+// ---
+
 package org.chromium.chrome.browser.educational_tip.cards;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

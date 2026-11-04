@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageViewHolder
+// summary: RecyclerView ViewHolder that displays an image OfflineItem in the download manager list, inflating the image item layout and setting the thumbnail's content description.
+// ---
+
 package org.chromium.chrome.browser.download.home.list.holder;
 
 import android.view.LayoutInflater;

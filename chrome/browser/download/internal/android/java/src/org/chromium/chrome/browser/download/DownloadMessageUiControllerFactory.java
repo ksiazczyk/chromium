@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadMessageUiControllerFactory
+// summary: Factory class that builds DownloadMessageUiController instances by creating a DownloadMessageUiControllerImpl for the given delegate.
+// ---
+
 package org.chromium.chrome.browser.download;
 
 import org.chromium.build.annotations.NullMarked;

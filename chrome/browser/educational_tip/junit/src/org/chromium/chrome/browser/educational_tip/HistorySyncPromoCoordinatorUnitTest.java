@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: History sync promo coordinator unit tests
+// summary: Robolectric unit tests for the history sync promo coordinator, covering signin coordinator creation, sync state, and setup list behavior.
+// ---
+
 package org.chromium.chrome.browser.educational_tip;
 
 import static org.junit.Assert.assertEquals;

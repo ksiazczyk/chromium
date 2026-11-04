@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EducationalTipModuleUtils
+// summary: Utility helpers listing supported module types, creating bottom sheet observers, and toggling feature state for tests.
+// ---
+
 package org.chromium.chrome.browser.educational_tip;
 
 import org.chromium.base.ResettersForTesting;

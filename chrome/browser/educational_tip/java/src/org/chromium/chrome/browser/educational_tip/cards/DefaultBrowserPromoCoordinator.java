@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser promo card coordinator
+// summary: Coordinator for the default browser educational tip card that shows a promo bottom sheet and directs users to the default app settings.
+// ---
+
 package org.chromium.chrome.browser.educational_tip.cards;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

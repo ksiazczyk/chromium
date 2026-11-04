@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address bar placement promo card coordinator
+// summary: Coordinator for the address bar placement educational tip card that supplies card content and opens the address bar settings when clicked.
+// ---
+
 package org.chromium.chrome.browser.educational_tip.cards;
 
 import androidx.annotation.DrawableRes;

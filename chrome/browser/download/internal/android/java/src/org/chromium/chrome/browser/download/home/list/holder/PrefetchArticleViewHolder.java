@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrefetchArticleViewHolder
+// summary: RecyclerView ViewHolder that displays a prefetch article with its title, caption, and timestamp bound from the OfflineItem.
+// ---
+
 package org.chromium.chrome.browser.download.home.list.holder;
 
 import android.view.LayoutInflater;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EducationalTipSetupListBottomSheetCoordinatorUnitTest
+// summary: Robolectric unit tests for the educational tip setup list bottom sheet coordinator, verifying its property model and bottom sheet display behavior.
+// ---
+
 package org.chromium.chrome.browser.educational_tip.two_cell.see_more_bottomsheet;
 
 import static org.mockito.ArgumentMatchers.eq;

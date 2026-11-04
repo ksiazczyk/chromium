@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StableIds
+// summary: Defines stable RecyclerView item IDs for the storage, filters, Just Now, pagination and search headers in the download home list.
+// ---
+
 package org.chromium.chrome.browser.download.home;
 
 import org.chromium.build.annotations.NullMarked;

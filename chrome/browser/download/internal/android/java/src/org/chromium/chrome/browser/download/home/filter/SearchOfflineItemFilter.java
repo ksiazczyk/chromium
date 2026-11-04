@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchOfflineItemFilter
+// summary: Filter that prunes download items whose title or URL does not match the current search query.
+// ---
+
 package org.chromium.chrome.browser.download.home.filter;
 
 import android.text.TextUtils;

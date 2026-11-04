@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick delete promo coordinator unit tests
+// summary: Robolectric unit test verifying that clicking the quick delete promo card opens and highlights the quick delete menu item and runs the module callback.
+// ---
+
 package org.chromium.chrome.browser.educational_tip;
 
 import static org.mockito.Mockito.verify;

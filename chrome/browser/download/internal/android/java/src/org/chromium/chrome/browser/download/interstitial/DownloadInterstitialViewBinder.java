@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download interstitial view binder
+// summary: View binder that maps download interstitial property model changes to updates on the DownloadInterstitialView, such as titles, buttons and state.
+// ---
+
 package org.chromium.chrome.browser.download.interstitial;
 
 import org.chromium.build.annotations.NullMarked;

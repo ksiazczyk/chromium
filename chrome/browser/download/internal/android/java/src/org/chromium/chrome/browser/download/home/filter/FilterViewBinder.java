@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View binder linking filter properties to the filter view
+// summary: Binds FilterProperties model changes to the corresponding FilterView updates for the download home filter UI.
+// ---
+
 package org.chromium.chrome.browser.download.home.filter;
 
 import org.chromium.build.annotations.NullMarked;

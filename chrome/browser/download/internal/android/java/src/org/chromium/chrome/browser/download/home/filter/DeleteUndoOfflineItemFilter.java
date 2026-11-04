@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delete undo filter for pending download deletions
+// summary: Hides download items that are pending deletion and can be undone, making them disappear for all downstream consumers.
+// ---
+
 package org.chromium.chrome.browser.download.home.filter;
 
 import org.chromium.build.annotations.NullMarked;

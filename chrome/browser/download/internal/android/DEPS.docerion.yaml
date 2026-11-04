@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Android download internal DEPS include rules
+summary: Lists the directories that code in this Android download folder is allowed to include from.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Utilities for representing list items in the download list
+// summary: Defines the list item view types, filter type display ordering, and helpers for converting and analyzing download list items.
+// ---
+
 package org.chromium.chrome.browser.download.home.list;
 
 import androidx.annotation.IntDef;

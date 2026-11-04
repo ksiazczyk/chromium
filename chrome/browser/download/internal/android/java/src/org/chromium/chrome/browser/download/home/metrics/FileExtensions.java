@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FileExtensions helper for categorizing download file types
+// summary: Helper class that maps file paths to an enumerated set of file extensions (APK, PDF, ZIP, etc.) used for UMA logging of downloaded content in the download home.
+// ---
+
 package org.chromium.chrome.browser.download.home.metrics;
 
 import android.text.TextUtils;

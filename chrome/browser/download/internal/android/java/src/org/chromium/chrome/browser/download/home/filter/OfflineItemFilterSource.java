@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflineItemFilterSource
+// summary: Interface for a filtered source of OfflineItems supporting item queries, availability checks, and observer registration.
+// ---
+
 package org.chromium.chrome.browser.download.home.filter;
 
 import org.chromium.build.annotations.NullMarked;

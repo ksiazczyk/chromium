@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Download UI custom view attributes
+summary: Declares styleable attributes for the circular progress view and aspect ratio layout used by the Android download UI.
+-->
+
 <resources>
     <declare-styleable name="CircularProgressView">
         <attr name="indeterminateProgress" format="reference" />

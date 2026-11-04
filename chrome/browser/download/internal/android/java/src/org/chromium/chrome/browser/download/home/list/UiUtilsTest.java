@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for UiUtils
+// summary: Robolectric unit tests verifying which offline items can be shared based on state, legacy type and automotive devices.
+// ---
+
 package org.chromium.chrome.browser.download.home.list;
 
 import static org.junit.Assert.assertFalse;

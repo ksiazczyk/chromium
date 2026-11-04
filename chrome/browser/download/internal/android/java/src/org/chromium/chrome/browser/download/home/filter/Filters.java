@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download home filter types and conversion helpers
+// summary: Defines the download filter type constants and converts between offline items, filter types, and URLs for downloads home.
+// ---
+
 package org.chromium.chrome.browser.download.home.filter;
 
 import android.text.TextUtils;

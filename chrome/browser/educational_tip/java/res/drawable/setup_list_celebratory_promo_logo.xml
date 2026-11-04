@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Setup list celebratory promo logo
+summary: Vector drawable celebratory logo with the Google logo and gradient decorations for the setup list completion promo.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:aapt="http://schemas.android.com/aapt"
     android:width="@dimen/setup_list_celebratory_promo_logo_width"

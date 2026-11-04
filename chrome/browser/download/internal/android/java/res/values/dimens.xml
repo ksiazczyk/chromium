@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Download manager dimension values
+summary: Defines dimension values for the Android download manager and interstitial UI, covering margins, paddings and progress bar sizes.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Download manager dimensions -->
     <dimen name="download_manager_ideal_image_width">150dp</dimen>

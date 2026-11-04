@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OfflineItemFilterTest
+// summary: Unit tests for the abstract OfflineItemFilter covering passthrough, item availability, and filtering with observer notifications.
+// ---
+
 package org.chromium.chrome.browser.download.home.filter;
 
 import static org.mockito.Mockito.never;

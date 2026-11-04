@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Download manager in-progress video item layout
+summary: Card layout for a video download in progress with a rounded thumbnail, large circular progress, title, caption and cancel button.
+-->
+
 <org.chromium.components.browser_ui.widget.MaterialCardViewNoShadow
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

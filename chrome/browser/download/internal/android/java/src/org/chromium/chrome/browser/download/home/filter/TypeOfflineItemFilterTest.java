@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TypeOfflineItemFilterTest
+// summary: Robolectric unit tests verifying that TypeOfflineItemFilter adds and removes items correctly as different filter types are selected and notifies observers accordingly.
+// ---
+
 package org.chromium.chrome.browser.download.home.filter;
 
 import static org.mockito.Mockito.times;

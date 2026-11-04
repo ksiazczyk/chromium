@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: List consumer interface for mutation chain
+// summary: Defines the interface for consumers that process the download home list and pass it to the next consumer in the chain.
+// ---
+
 package org.chromium.chrome.browser.download.home.list.mutator;
 
 import org.chromium.build.annotations.NullMarked;

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Enhanced Safe Browsing promo logo
+summary: Vector drawable logo illustrating the Enhanced Safe Browsing tip card in the educational tip module.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="58dp"
     android:height="58dp"

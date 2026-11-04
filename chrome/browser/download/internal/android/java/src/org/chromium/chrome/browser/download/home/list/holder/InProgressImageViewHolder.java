@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InProgressImageViewHolder
+// summary: RecyclerView ViewHolder that displays an in-progress image OfflineItem with an animated placeholder drawable and a constrained caption.
+// ---
+
 package org.chromium.chrome.browser.download.home.list.holder;
 
 import android.view.LayoutInflater;

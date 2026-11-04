@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Educational tip setup list bottom sheet list container view
+// summary: Linear layout container that renders the educational tip items in the bottom sheet, applying completed styling and rounded backgrounds to first and last items.
+// ---
+
 package org.chromium.chrome.browser.educational_tip.two_cell.see_more_bottomsheet;
 
 import android.content.Context;
