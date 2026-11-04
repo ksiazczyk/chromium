@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Feature showcase stepper styles
+summary: Styles the stepper's steps, dots and checkmark animation, including icon sizing offsets and forced-colors high-contrast adjustments.
+*/
+
 /* The animation's final checkmark is smaller and thinner than 'cr:check' and
  * sits slightly above its artboard centre, these are arbitrary values to
  * minimize visual "jump" on the swap on completion. */

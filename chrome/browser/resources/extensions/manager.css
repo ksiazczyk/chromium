@@ -12,6 +12,12 @@
  * #include=cr-hidden-style-lit cr-scrollable-lit shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Extensions manager page styles
+summary: Layout styles for the extensions management page, covering the sidebar, view manager, and responsive widths for the item list.
+*/
+
 :host {
   color: var(--cr-primary-text-color);
   display: flex;

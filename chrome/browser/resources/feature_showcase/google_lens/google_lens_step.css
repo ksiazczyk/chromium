@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Google Lens step styles
+summary: Lit stylesheet for the Google Lens feature showcase step, sizing the step element and switching the illustration image between light and dark color schemes.
+*/
+
 :host {
   height: 100%;
 }

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions item list element
+// summary: Lit element that displays filtered extensions and apps in sections, manages the search filter, pinned-by-default toggle, and safety check review and MV2 deprecation panels.
+// ---
+
 import 'chrome://resources/cr_components/managed_footnote/managed_footnote.js';
 import 'chrome://resources/cr_elements/cr_toggle/cr_toggle.js';
 import './item.js';

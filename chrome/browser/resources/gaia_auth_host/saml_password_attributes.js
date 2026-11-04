@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SAML password attribute extraction from auth responses
+// summary: Reads password modified and expiration timestamps plus the password change URL from the attribute elements of a SAML authorization response XML.
+// ---
+
 import {SafeXMLUtils} from './safe_xml_utils.js';
 import {decodeTimestamp} from './saml_timestamps.js';
 

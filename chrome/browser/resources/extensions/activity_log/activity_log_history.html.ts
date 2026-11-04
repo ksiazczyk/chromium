@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Activity log history HTML template
+// summary: Lit HTML template for the history subpage with search, clear, expand/collapse, and export actions plus the grouped activity table.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ActivityLogHistoryElement} from './activity_log_history.js';

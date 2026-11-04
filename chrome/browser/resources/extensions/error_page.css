@@ -10,6 +10,12 @@
  * #include=cr-icons-lit cr-shared-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Extension error page styles
+summary: Styles for the extension error page, covering the heading, error list, stack trace container and code section layout.
+*/
+
 :host {
   display: block;
   height: 100%;

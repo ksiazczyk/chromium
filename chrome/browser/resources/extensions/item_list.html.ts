@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Item list Lit template
+// summary: Lit HTML template for the item list, rendering review and MV2 deprecation panels, empty state messages, and the extensions and apps sections with their item cards.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {asyncMap} from './async_map_directive.js';

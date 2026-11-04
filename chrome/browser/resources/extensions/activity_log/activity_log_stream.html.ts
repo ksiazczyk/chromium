@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Activity log stream HTML template
+// summary: Lit HTML template for the activity log stream element, providing the search field, start/stop and clear buttons, empty-state messages, table headings and the infinite list of activity items.
+// ---
+
 import type {CrInfiniteListElement} from '//resources/cr_elements/cr_infinite_list/cr_infinite_list.js';
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 

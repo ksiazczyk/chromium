@@ -1,0 +1,4 @@
+# Docerion header of autofill_metadata_info.html.
+type: source
+title: Autofill metadata WebUI page
+summary: HTML host page for the feedback autofill metadata view, loading the autofill_metadata_app.js module and rendering the autofill-metadata-app element.

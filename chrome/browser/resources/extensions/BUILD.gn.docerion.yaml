@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the extensions WebUI
+summary: Defines the WebUI build target listing the TypeScript, CSS, and HTML sources that make up the Chrome extensions page.

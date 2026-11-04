@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Report unsafe site dialog WebUI element
+// summary: 'Lit element implementing the report unsafe site dialog: loads triggering page info, toggles screenshot inclusion, and sends the report via the Mojo handler.'
+// ---
+
 import '//resources/cr_elements/cr_button/cr_button.js';
 import '//resources/cr_elements/cr_checkbox/cr_checkbox.js';
 import '//resources/cr_elements/cr_icon/cr_icon.js';

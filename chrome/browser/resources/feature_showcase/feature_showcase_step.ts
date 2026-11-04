@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature showcase step custom element
+// summary: Defines the feature-showcase-step Lit element that renders a single showcase step using the step's CSS and HTML templates.
+// ---
+
 import './feature_showcase_stepper.js';
 
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';

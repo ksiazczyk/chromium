@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit template for the zero state promo app
+// summary: Exports the Lit HTML template that renders the promo header, plain link and chip UI variants with their click handlers.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ZeroStatePromoAppElement} from './zero_state_promo_app.js';

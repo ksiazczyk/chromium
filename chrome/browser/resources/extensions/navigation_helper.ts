@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation helper for the extensions page
+// summary: Manages in-page navigation for the extensions WebUI, mapping URLs and query parameters to pages such as details, shortcuts, site permissions and the activity log.
+// ---
+
 import {assert, assertNotReachedCase} from 'chrome://resources/js/assert.js';
 
 

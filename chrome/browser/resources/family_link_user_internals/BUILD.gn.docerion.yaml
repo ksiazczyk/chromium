@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Family Link User Internals WebUI build rules
+summary: Defines the WebUI build for the Family Link User Internals page, listing static files, TypeScript sources, dependencies, and the trusted context type.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser step HTML template
+// summary: Lit HTML template for the default browser showcase step, rendering title, description, illustration, and set-as-default and skip buttons with platform-specific markup.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {FeatureShowcaseDefaultBrowserStepElement} from './default_browser_step.js';

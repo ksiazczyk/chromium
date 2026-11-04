@@ -9,6 +9,12 @@
  * #include=cr-shared-style-lit md-select-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Edit permissions dialog styles
+summary: Styles for the site permissions edit dialog, including the radio group, scrollable site access list, and per-extension rows.
+*/
+
 :host {
   --radio-group-height: 132px;
   --dialog-height: 360px;

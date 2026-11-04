@@ -8,6 +8,12 @@
  * #include=shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Activity log stream styles
+summary: Styles the activity log stream subpage, defining column widths and layout for the search field, table headings, and infinite list.
+*/
+
 :host {
   --activity-log-call-and-time-width: 575px;
   --activity-type-width: 85px;

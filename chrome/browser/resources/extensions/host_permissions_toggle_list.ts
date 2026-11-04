@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host permissions toggle list element
+// summary: Lit element that manages an extension's host access permissions, including toggling all-hosts access and individual hosts.
+// ---
+
 import 'chrome://resources/cr_elements/icons.html.js';
 import 'chrome://resources/cr_elements/cr_icon/cr_icon.js';
 import './restricted_sites_dialog.js';

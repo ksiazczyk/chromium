@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension drag-and-drop install handler
+// summary: Handles drag-and-drop of extension files and directories onto the extensions page to trigger installation or unpacked loading.
+// ---
+
 import type {DragWrapperDelegate} from 'chrome://resources/js/drag_wrapper.js';
 
 import {Service} from './service.js';

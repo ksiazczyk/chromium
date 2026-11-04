@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Family Link User Internals page logic
+// summary: Implements the WebUI frontend, rendering basic info, user settings, and URL filtering results received via chrome.send and WebUI listeners.
+// ---
+
 import {html, render} from '//resources/lit/v3_0/lit.rollup.js';
 import {addWebUiListener, sendWithPromise} from 'chrome://resources/js/cr.js';
 import {getRequiredElement} from 'chrome://resources/js/util.js';

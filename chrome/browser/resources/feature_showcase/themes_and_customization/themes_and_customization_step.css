@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Themes and customization step styles
+summary: Styles the themes and customization showcase step, laying out the illustration, picker container, and theme color picker with responsive breakpoints and theming variables.
+*/
+
 #illustration {
   align-items: center;
   background-color: var(

@@ -7,6 +7,12 @@
  * password_change_authenticator.js is used from TypeScript files.
  */
 
+// ---docerion
+// type: source
+// title: TypeScript definitions for PasswordChangeAuthenticator
+// summary: Minimal TypeScript definitions for password_change_authenticator.js, describing load params and password change event data.
+// ---
+
 export interface PasswordChangeEventData {
   old_passwords: string[];
   new_passwords: string[];

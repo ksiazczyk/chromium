@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Feature showcase app styles
+summary: Lit CSS for the feature showcase app element, positioning lottie animations, handling responsive sizes and mirroring for RTL languages.
+*/
+
 :host {
   --child-max-height: 500px;
   --child-max-width: 500px;

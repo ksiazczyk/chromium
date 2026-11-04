@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Feed Internals WebUI build rules
+summary: Defines the GN build target that packages the feed_internals WebUI resources and its Mojo TypeScript bindings for Android.

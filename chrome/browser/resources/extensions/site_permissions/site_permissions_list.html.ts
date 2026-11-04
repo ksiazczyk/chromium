@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: site_permissions_list.html.ts
+// summary: Lit HTML template for the site permissions list, rendering site rows, an action menu, and edit dialogs.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ExtensionsSitePermissionsListElement} from './site_permissions_list.js';

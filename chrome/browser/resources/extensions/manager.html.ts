@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions manager page template
+// summary: Lit HTML template composing the toolbar, sidebar, item list, detail view, activity log, and site permissions views of the extensions page.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ExtensionsManagerElement} from './manager.js';

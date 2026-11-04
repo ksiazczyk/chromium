@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for feature showcase
+summary: Delegates ownership review to the OWNERS file of the feature showcase under chrome/browser/ui/views/profiles.

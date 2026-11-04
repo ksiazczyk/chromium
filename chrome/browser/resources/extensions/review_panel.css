@@ -9,6 +9,12 @@
  * #include=cr-shared-style-lit shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Review panel styles
+summary: CSS styles for the extensions safety review panel, covering the header, extension rows, completion message, and dark mode colors.
+*/
+
 .panel-header {
   /* label in panel-header's cr-expand-button adds its own vertical padding.
      Thus, we need to subtract it from the panel-header padding */

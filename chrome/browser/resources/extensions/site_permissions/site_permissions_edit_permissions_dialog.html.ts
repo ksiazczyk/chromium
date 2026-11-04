@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Edit permissions dialog HTML template
+// summary: Lit HTML template for the edit permissions dialog with site set radio options and per-extension host access selects.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SitePermissionsEditPermissionsDialogElement} from './site_permissions_edit_permissions_dialog.js';

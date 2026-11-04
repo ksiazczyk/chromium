@@ -12,6 +12,12 @@
  * #include=action-link-lit md-select-lit cr-shared-style-lit shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Runtime host permissions styles
+summary: CSS styles for the runtime host permissions section, including host access selects, site lists, and enhanced site controls.
+*/
+
 cr-icon {
   --iron-icon-height: var(--cr-icon-size);
   --iron-icon-width: var(--cr-icon-size);

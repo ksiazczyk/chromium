@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MV2 deprecation panel template
+// summary: Lit HTML template for the MV2 deprecation panel showing affected extensions with remove, options, and find-alternative actions.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ExtensionsMv2DeprecationPanelElement} from './mv2_deprecation_panel.js';

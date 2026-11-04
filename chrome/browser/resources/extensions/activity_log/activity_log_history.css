@@ -8,6 +8,12 @@
  * #include=shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Activity log history styles
+summary: Styles the activity log history subpage, defining column widths and layout for the search field, table headings, and activity list.
+*/
+
 :host {
   --activity-log-call-and-count-width: 514px;
   --activity-type-width: 85px;

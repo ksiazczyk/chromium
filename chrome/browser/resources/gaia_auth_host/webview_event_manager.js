@@ -8,6 +8,12 @@
  * on EventTargets and WebRequests, and unregister all listeners later.
  */
 
+// ---docerion
+// type: source
+// title: Event listener manager for auth webviews
+// summary: Registers and tracks event and webRequest listeners on webviews and removes all of them later during cleanup.
+// ---
+
 /**
  * Creates a new WebviewEventManager.
  */

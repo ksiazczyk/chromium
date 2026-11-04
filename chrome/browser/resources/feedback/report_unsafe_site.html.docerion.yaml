@@ -1,0 +1,4 @@
+# Docerion header of report_unsafe_site.html.
+type: source
+title: Report unsafe site page
+summary: HTML shell for the report unsafe site dialog that loads the report-unsafe-site-app WebUI element and its module script.

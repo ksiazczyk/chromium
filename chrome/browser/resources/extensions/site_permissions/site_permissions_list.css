@@ -11,6 +11,12 @@
  * #include=cr-shared-style-lit shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: site_permissions_list.css
+summary: Styles for the site permissions list element, covering the header, empty state, site rows, and separators.
+*/
+
 #site-list-header-container {
   align-items: center;
   display: flex;

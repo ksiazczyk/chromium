@@ -3,6 +3,12 @@
 // found in the LICENSE file.
 
 
+// ---docerion
+// type: source
+// title: Feedback browser proxy interface and implementation
+// summary: Defines the FeedbackBrowserProxy interface and implementation that wrap chrome.feedbackPrivate calls, dialog actions and getUserMedia for the feedback UI.
+// ---
+
 // Type definitions for deprecated navigator.getUserMedia() API.
 export interface GetUserMediaParams {
   video: {

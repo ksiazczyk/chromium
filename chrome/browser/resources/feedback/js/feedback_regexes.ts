@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Regular expressions for feedback keyword matching
+// summary: Exports case-insensitive regular expressions used to categorize feedback text by topic such as Bluetooth, Wi-Fi, cellular, display, USB and Thunderbolt.
+// ---
+
 /**
  * Regular expression to check for all variants of blu[e]toot[h] with or without
  * space between the words; for BT when used as an individual word, or as two

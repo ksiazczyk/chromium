@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Activity log stream item element
+// summary: Lit element representing one extension activity entry, defining the StreamItem data structure and rendering formatted time, parsed arguments and expandable details.
+// ---
+
 import 'chrome://resources/cr_elements/cr_expand_button/cr_expand_button.js';
 
 import {CrLitElement} from 'chrome://resources/lit/v3_0/lit.rollup.js';

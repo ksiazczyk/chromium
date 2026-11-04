@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Activity log stream item HTML template
+// summary: Lit HTML template for a single activity log stream item, showing an expandable row with activity type, name and time, plus page URL, argument list and web request details.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ActivityLogStreamItemElement} from './activity_log_stream_item.js';

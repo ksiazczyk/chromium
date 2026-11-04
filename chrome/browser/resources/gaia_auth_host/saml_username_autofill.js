@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Username autofill helper for IdP login pages
+// summary: Appends the user's email to a supported HTTPS identity provider login URL so the username field can be autofilled during SAML login.
+// ---
+
 /**
  * Try to autofill email on login page for supported identity providers
  * @param {string} urlAsString Url of IdP login page

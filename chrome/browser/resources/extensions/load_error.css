@@ -9,6 +9,12 @@
  * #include=cr-shared-style-lit cr-spinner-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Load error dialog styles
+summary: Styles for the dialog shown when an unpacked extension fails to load, laying out the file and error description rows.
+*/
+
 .description-row {
   display: flex;
 }

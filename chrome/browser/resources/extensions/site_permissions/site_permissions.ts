@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions site permissions page element
+// summary: Defines the extensions-site-permissions custom element that shows permitted and restricted site lists and navigates to the all-sites page.
+// ---
+
 import 'chrome://resources/cr_elements/cr_link_row/cr_link_row.js';
 import '/strings.m.js';
 import './site_permissions_list.js';

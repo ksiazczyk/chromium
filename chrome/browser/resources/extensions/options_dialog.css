@@ -6,6 +6,12 @@
  * #type=style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Options dialog styles
+summary: CSS styles for the extension options dialog, covering the icon layout and dynamic sizing and opacity of the cr-dialog.
+*/
+
 #icon {
   height: 32px;
   margin-inline-end: 10px;

@@ -8,6 +8,12 @@
  * #include=cr-shared-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Pack dialog alert styles
+summary: CSS styles for the pack dialog alert, wrapping the response message text with pre-wrap and word breaking.
+*/
+
 .body {
   white-space: pre-wrap;
   word-break: break-word;

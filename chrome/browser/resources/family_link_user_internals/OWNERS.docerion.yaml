@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Family Link User Internals OWNERS reference
+summary: Delegates code ownership of this directory to the supervised user OWNERS file.

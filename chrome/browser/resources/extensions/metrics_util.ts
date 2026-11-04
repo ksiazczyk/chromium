@@ -7,6 +7,12 @@
  * histograms in the extensions management page.
  */
 
+// ---docerion
+// type: source
+// title: Metrics constants for the extensions page
+// summary: Shared user action enums and histogram name constants for logging metrics in the extensions management page.
+// ---
+
 export enum UserAction {
   ALL_TOGGLED_ON = 'Extensions.Settings.HostList.AllHostsToggledOn',
   ALL_TOGGLED_OFF = 'Extensions.Settings.HostList.AllHostsToggledOff',

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: site_permissions_site_group.ts
+// summary: Lit element that groups extension site permissions by eTLD+1 and supports expanding and editing individual sites.
+// ---
+
 import 'chrome://resources/cr_elements/cr_expand_button/cr_expand_button.js';
 import 'chrome://resources/cr_elements/cr_icon_button/cr_icon_button.js';
 import '/strings.m.js';

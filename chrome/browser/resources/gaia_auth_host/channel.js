@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message channel to the background script
+// summary: Message-port channel that registers callbacks and sends requests and replies between the page and a background script.
+// ---
+
 const INTERNAL_REQUEST_MESSAGE = 'internal-request-message';
 
 const INTERNAL_REPLY_MESSAGE = 'internal-reply-message';

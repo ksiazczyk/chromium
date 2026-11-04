@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill metadata app HTML template
+// summary: Lit HTML template for the autofill metadata page showing a title and a key-value pair viewer.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {AutofillMetadataAppElement} from './autofill_metadata_app.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: site_permissions_site_group.html.ts
+// summary: Lit HTML template for the site permissions site group, showing grouped sites with favicons and an edit permissions dialog.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SitePermissionsSiteGroupElement} from './site_permissions_site_group.js';

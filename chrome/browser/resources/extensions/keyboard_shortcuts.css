@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit md-select-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Keyboard shortcuts styles
+summary: Stylesheet for the extension keyboard shortcuts page, laying out shortcut cards, command rows, shortcut inputs, and scope selectors.
+*/
+
 :host {
   height: 100%;
 }

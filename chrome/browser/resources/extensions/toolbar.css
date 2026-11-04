@@ -9,6 +9,12 @@
  * #include=cr-hidden-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Extensions toolbar styles
+summary: Styles the extensions page toolbar, including the developer mode drawer, button strip, search toolbar, and product logo with dark mode support.
+*/
+
 :host {
   --border-bottom-height: 1px;
   --button-row-height: calc(2 * var(--padding-top-bottom) +

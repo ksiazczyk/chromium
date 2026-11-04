@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for the extensions zero state promo WebUI
+summary: GN build file that compiles the zero state promo WebUI, wiring up its HTML, TypeScript, CSS, icons and Mojo dependencies.

@@ -8,6 +8,12 @@
  * #include=shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Item list styles
+summary: Stylesheet for the extensions item list, defining the card grid layout, section headers, pinned toggle, empty list messages, and panel spacing.
+*/
+
 .items-container,
 #content-wrapper {
   --extensions-card-width: 400px;

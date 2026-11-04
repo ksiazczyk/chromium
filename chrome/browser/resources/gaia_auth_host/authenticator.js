@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Authenticator UI component for Chrome sign-in
+// summary: UI component that hosts identity provider pages in a webview and drives the Chrome authentication flow with SAML support.
+// ---
+
 // clang-format off
 // <if expr="not is_chromeos">
 import {assert} from 'chrome://resources/js/assert.js';

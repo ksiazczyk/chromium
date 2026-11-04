@@ -8,6 +8,12 @@
  * #include=cr-shared-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Toggle row styles
+summary: Styles the layout of the extensions toggle row element and its label and toggle components.
+*/
+
 :host {
   align-items: center;
   display: flex;

@@ -8,6 +8,12 @@
  * to Authenticator.
  */
 
+// ---docerion
+// type: source
+// title: PostMessage channel for injected scripts
+// summary: HTML5 postMessage-based channel that lets injected scripts communicate back to the Authenticator across allowed origins.
+// ---
+
 import {Channel} from './channel.js';
 
 /**

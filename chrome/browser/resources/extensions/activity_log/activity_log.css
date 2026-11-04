@@ -11,6 +11,12 @@
  * #include=cr-shared-style-lit shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Activity log page styles
+summary: Styles the extensions activity log page, covering the header, close button, tabs, and layout for the history and stream subviews.
+*/
+
 #clear-activities-button {
   margin-inline-start: 8px;
 }

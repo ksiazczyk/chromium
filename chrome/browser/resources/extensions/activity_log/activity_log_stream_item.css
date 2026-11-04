@@ -11,6 +11,12 @@
  * #include=cr-icons-lit shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Activity log stream item styles
+summary: CSS styles for the activity log stream item element, laying out the activity type, name and time row plus the expanded data sections for page URL, arguments and web request info.
+*/
+
 :host {
   border-top: var(--cr-separator-line);
   display: block;

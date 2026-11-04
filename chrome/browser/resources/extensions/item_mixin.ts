@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Item mixin for extension items
+// summary: Mixin providing shared behavior for extension item elements, such as app versus extension labeling, accessibility descriptions, and reload handling with toast feedback.
+// ---
+
 import type {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 import {getToastManager} from 'chrome://resources/cr_elements/cr_toast/cr_toast_manager.js';
 import {assert, assertNotReached, assertNotReachedCase} from 'chrome://resources/js/assert.js';

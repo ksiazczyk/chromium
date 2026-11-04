@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature showcase app HTML template
+// summary: Lit HTML template rendering the view manager with conditional showcase steps, each hosting a stepper for the active step index.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {FeatureShowcaseAppElement} from './app.js';

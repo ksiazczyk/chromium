@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feedback app element
+// summary: Lit element implementing the feedback-app custom element that gathers feedback details, screenshots and attachments and sends the report.
+// ---
+
 import '/strings.m.js';
 import './feedback_shared_styles.css.js';
 // <if expr="is_chromeos">

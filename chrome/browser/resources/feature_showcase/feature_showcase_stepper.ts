@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature showcase stepper custom element
+// summary: Lit element that tracks active and completed steps, plays checkmark animations with a forced-colors and a11y static fallback, and exposes waitForAnimationComplete.
+// ---
+
 import '//resources/cr_elements/cr_icon/cr_icon.js';
 import '//resources/cr_components/cr_lottie/cr_lottie.js';
 import '//resources/cr_elements/icons.html.js';

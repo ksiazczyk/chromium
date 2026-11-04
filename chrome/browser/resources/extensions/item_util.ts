@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension item utilities
+// summary: Enums and helper functions for extension items, covering enablement checks, source type classification, enable control kinds, and safety check warning reasons.
+// ---
+
 import '/strings.m.js';
 
 import {assertNotReached, assertNotReachedCase} from 'chrome://resources/js/assert.js';

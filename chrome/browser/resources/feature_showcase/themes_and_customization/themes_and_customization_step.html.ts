@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Themes and customization step HTML template
+// summary: Lit HTML template for the themes and customization step, showing a color scheme mode and theme color picker with apply and skip buttons.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {FeatureShowcaseThemesAndCustomizationStepElement} from './themes_and_customization_step.js';

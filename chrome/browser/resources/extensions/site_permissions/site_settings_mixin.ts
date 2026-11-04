@@ -8,6 +8,12 @@
  * multiple pages.
  */
 
+// ---docerion
+// type: source
+// title: site_settings_mixin.ts
+// summary: Mixin and delegate interfaces for fetching and updating user permitted and restricted site lists across extension pages.
+// ---
+
 import type {CrLitElement, PropertyValues} from '//resources/lit/v3_0/lit.rollup.js';
 import type {ChromeEvent} from '/tools/typescript/definitions/chrome_event.js';
 

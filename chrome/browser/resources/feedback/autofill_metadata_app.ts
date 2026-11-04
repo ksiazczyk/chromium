@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill metadata app element
+// summary: Lit element that parses autofill metadata JSON from dialog arguments and displays it as key-value entries.
+// ---
+
 import '/shared/key_value_pair_viewer/key_value_pair_viewer.js';
 // <if expr="is_chromeos">
 import './js/jelly_colors.js';

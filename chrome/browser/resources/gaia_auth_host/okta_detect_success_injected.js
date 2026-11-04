@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Injected Okta password change success detector
+// summary: Script injected into Okta pages that intercepts Ajax responses to detect successful password changes and notify the parent page.
+// ---
+
 /**
  * Intercept Ajax responses, detect responses to the password-change endpoint
  * that don't contain any errors.

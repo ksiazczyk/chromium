@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Shared Chromium directory metadata
+summary: Declares the monorail component, team email, and Buganizer component used for the extensions resources.

@@ -1,0 +1,4 @@
+# Docerion header of feedback.html.
+type: source
+title: Feedback WebUI entry page
+summary: Entry HTML page for the feedback WebUI that loads the app module and hosts the feedback-app element.
