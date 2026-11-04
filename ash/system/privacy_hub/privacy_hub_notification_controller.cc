@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy Hub notification controller implementation
+// summary: Implements showing, updating, and removing software and hardware switch notifications for camera, microphone, and geolocation, including hourly and daily geolocation throttling.
+// ---
+
 #include "ash/system/privacy_hub/privacy_hub_notification_controller.h"
 
 #include "ash/constants/ash_features.h"

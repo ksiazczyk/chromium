@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Peripheral battery listener class header
+// summary: Declares the PeripheralBatteryListener class and BatteryInfo struct that unify peripheral battery observations across power manager, Bluetooth and input device events.
+// ---
+
 #ifndef ASH_SYSTEM_POWER_PERIPHERAL_BATTERY_LISTENER_H_
 #define ASH_SYSTEM_POWER_PERIPHERAL_BATTERY_LISTENER_H_
 

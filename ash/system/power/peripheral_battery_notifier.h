@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Peripheral battery notifier class header
+// summary: Declares PeripheralBatteryNotifier, an observer of PeripheralBatteryListener that shows low battery notifications and tracks notification state per battery key.
+// ---
+
 #ifndef ASH_SYSTEM_POWER_PERIPHERAL_BATTERY_NOTIFIER_H_
 #define ASH_SYSTEM_POWER_PERIPHERAL_BATTERY_NOTIFIER_H_
 

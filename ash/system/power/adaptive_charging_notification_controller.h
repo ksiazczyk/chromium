@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Adaptive charging notification controller class declaration
+// summary: Declares the controller that displays adaptive charging notifications with an optional estimated time to full charge.
+// ---
+
 #ifndef ASH_SYSTEM_POWER_ADAPTIVE_CHARGING_NOTIFICATION_CONTROLLER_H_
 #define ASH_SYSTEM_POWER_ADAPTIVE_CHARGING_NOTIFICATION_CONTROLLER_H_
 

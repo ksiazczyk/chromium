@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CalendarViewController unit tests
+// summary: Unit tests for CalendarViewController covering month navigation helpers, month name output, year-boundary corner cases, and DST-affected date calculations.
+// ---
+
 #include "ash/system/time/calendar_view_controller.h"
 
 #include <memory>

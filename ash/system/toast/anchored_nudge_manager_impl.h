@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Anchored nudge manager class declaration
+// summary: Declares AnchoredNudgeManagerImpl, the manager for anchored nudge requests with duration constants, nudge registry tracking, and test accessor methods.
+// ---
+
 #ifndef ASH_SYSTEM_TOAST_ANCHORED_NUDGE_MANAGER_IMPL_H_
 #define ASH_SYSTEM_TOAST_ANCHORED_NUDGE_MANAGER_IMPL_H_
 

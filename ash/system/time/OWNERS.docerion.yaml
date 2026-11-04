@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for ash/system/time
+summary: Lists the code owner responsible for reviewing changes to files in the time directory.

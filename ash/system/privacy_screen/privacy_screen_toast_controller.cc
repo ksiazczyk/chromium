@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy screen toast controller implementation
+// summary: Implements the controller that shows and auto-closes a system tray toast bubble when the privacy screen is toggled, handling mouse hover, autoclose timing, and accessibility announcements.
+// ---
+
 #include "ash/system/privacy_screen/privacy_screen_toast_controller.h"
 
 #include <algorithm>

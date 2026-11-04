@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Event date formatter util unit tests
+// summary: Unit tests for the event date formatting helpers covering 12- and 24-hour clocks, interval formatting, and all-day and multi-day event labels.
+// ---
+
 #include "ash/system/time/event_date_formatter_util.h"
 #include <string>
 

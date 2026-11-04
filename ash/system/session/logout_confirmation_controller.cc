@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LogoutConfirmationController implementation
+// summary: Implements the controller that shows a logout confirmation dialog, signs out when the countdown expires, and prompts to end public sessions when the last window closes.
+// ---
+
 #include "ash/system/session/logout_confirmation_controller.h"
 
 #include <memory>

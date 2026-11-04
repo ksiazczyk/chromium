@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Calendar test utilities header
+// summary: Declares calendar test helpers including timezone lists, fetch waiters and functions to build mock calendars and events.
+// ---
+
 #ifndef ASH_SYSTEM_TIME_CALENDAR_UNITTEST_UTILS_H_
 #define ASH_SYSTEM_TIME_CALENDAR_UNITTEST_UTILS_H_
 

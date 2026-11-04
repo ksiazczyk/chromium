@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemToastView implementation
+// summary: Implements SystemToastView, laying out toast text with an optional leading icon and text or icon button, including blur, shadow, margins and styling constants.
+// ---
+
 #include "ash/system/toast/system_toast_view.h"
 
 #include <string>

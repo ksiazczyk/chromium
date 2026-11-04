@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Low battery notification implementation
+// summary: Implements the MessageCenter low battery notification, selecting icons, warning levels and localized titles and messages for low, critical and battery saver states.
+// ---
+
 #include "ash/system/power/battery_notification.h"
 
 #include "ash/constants/ash_features.h"

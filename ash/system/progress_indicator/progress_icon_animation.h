@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Progress icon animation class declaration
+// summary: Declares the ProgressIconAnimation class, an animation driving a progress indicator's inner icon properties such as translation, stroke width and opacity.
+// ---
+
 #ifndef ASH_SYSTEM_PROGRESS_INDICATOR_PROGRESS_ICON_ANIMATION_H_
 #define ASH_SYSTEM_PROGRESS_INDICATOR_PROGRESS_ICON_ANIMATION_H_
 

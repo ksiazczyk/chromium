@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RotationLockFeaturePodController class declaration
+// summary: Declares the controller class for the Quick Settings rotation lock tile, including tile creation, visibility calculation, and rotation lock change observation.
+// ---
+
 #ifndef ASH_SYSTEM_ROTATION_ROTATION_LOCK_FEATURE_POD_CONTROLLER_H_
 #define ASH_SYSTEM_ROTATION_ROTATION_LOCK_FEATURE_POD_CONTROLLER_H_
 

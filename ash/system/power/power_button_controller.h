@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power button controller class header
+// summary: Declares PowerButtonController, which handles power and lock button events, menu display, screen off on tap for tablet devices and screenshot capture in tablet mode.
+// ---
+
 #ifndef ASH_SYSTEM_POWER_POWER_BUTTON_CONTROLLER_H_
 #define ASH_SYSTEM_POWER_POWER_BUTTON_CONTROLLER_H_
 

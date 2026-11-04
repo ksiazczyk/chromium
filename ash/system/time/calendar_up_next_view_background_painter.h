@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CalendarUpNextView background painter declaration
+// summary: Declares the views::Background subclass that paints the up next view's rounded background and exposes the static path builder used for it.
+// ---
+
 #ifndef ASH_SYSTEM_TIME_CALENDAR_UP_NEXT_VIEW_BACKGROUND_PAINTER_H_
 #define ASH_SYSTEM_TIME_CALENDAR_UP_NEXT_VIEW_BACKGROUND_PAINTER_H_
 

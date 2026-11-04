@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dual-role power notification implementation
+// summary: Implements a MessageCenter notification that reflects connected dual-role USB power sources and sinks and updates when they change.
+// ---
+
 #include "ash/system/power/dual_role_notification.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Schedule utils implementation for scheduled features
+// summary: Implements schedule building and position lookup that determine the current and next schedule checkpoint for custom and sunset-to-sunrise schedules.
+// ---
+
 #include "ash/system/scheduled_feature/schedule_utils.h"
 
 #include <sstream>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CalendarView class declaration
+// summary: Declares CalendarView together with its month and calendar header views, wiring model and controller observers for the system tray calendar.
+// ---
+
 #ifndef ASH_SYSTEM_TIME_CALENDAR_VIEW_H_
 #define ASH_SYSTEM_TIME_CALENDAR_VIEW_H_
 

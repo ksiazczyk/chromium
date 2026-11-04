@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LogoutConfirmationController unit tests
+// summary: Unit tests covering logout confirmation countdown expiry, replacement by an earlier countdown, and observer notifications using a mock time task runner.
+// ---
+
 #include "ash/system/session/logout_confirmation_controller.h"
 
 #include "ash/constants/ash_pref_names.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Peripheral battery notifier implementation
+// summary: Implements PeripheralBatteryNotifier, posting and updating low battery notifications for stylus and other peripheral devices with throttling between notifications.
+// ---
+
 #include "ash/system/power/peripheral_battery_notifier.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BatterySaverController class declaration
+// summary: Declares the singleton controller that watches power status and the battery saver pref to enable or disable battery saver mode.
+// ---
+
 #ifndef ASH_SYSTEM_POWER_BATTERY_SAVER_CONTROLLER_H_
 #define ASH_SYSTEM_POWER_BATTERY_SAVER_CONTROLLER_H_
 

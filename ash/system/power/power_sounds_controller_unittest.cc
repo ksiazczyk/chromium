@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PowerSoundsController unit tests
+// summary: Unit tests for PowerSoundsController verifying charging and low-battery sounds across battery levels, charger types, lid states, and battery saver settings.
+// ---
+
 #include "ash/system/power/power_sounds_controller.h"
 
 #include <memory>

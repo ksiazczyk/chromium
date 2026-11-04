@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DateHelper class header
+// summary: Declares the DateHelper singleton that caches ICU calendar and formatter objects, provides interval formatting, UTC time differences, and local midnight calculation.
+// ---
+
 #ifndef ASH_SYSTEM_TIME_DATE_HELPER_H_
 #define ASH_SYSTEM_TIME_DATE_HELPER_H_
 

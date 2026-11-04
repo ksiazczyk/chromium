@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToastManagerImpl class declaration
+// summary: Declares ToastManagerImpl, which manages toast requests, per-root-window overlays, session and shell observation, hover pausing and scoped toast pauses.
+// ---
+
 #ifndef ASH_SYSTEM_TOAST_TOAST_MANAGER_IMPL_H_
 #define ASH_SYSTEM_TOAST_TOAST_MANAGER_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power button menu curtain view implementation
+// summary: Implements the dialog shown in the power button menu popup when the security curtain is present, including enterprise icon, title, description, blur, and shadow.
+// ---
+
 #include "ash/system/power/power_button_menu_curtain_view.h"
 
 #include <memory>

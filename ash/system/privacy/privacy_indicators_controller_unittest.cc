@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Privacy indicators controller unit tests
+// summary: Unit tests covering privacy indicator notifications, tray item visibility, and metrics for the controller across session states.
+// ---
+
 #include "ash/system/privacy/privacy_indicators_controller.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power event observer implementation
+// summary: Implements an observer of power management events that suspends and resumes displays and coordinates compositing and screen locking around device suspend.
+// ---
+
 #include "ash/system/power/power_event_observer.h"
 
 #include <map>

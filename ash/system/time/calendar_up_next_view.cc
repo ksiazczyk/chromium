@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CalendarUpNextView implementation
+// summary: Implements the up next view that lists upcoming calendar events with header buttons and a scrolling animation.
+// ---
+
 #include "ash/system/time/calendar_up_next_view.h"
 
 #include <algorithm>

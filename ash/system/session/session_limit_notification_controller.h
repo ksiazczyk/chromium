@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionLimitNotificationController class declaration
+// summary: Declares the controller that observes the session length limit model and manages the session timeout notification in the message center.
+// ---
+
 #ifndef ASH_SYSTEM_SESSION_SESSION_LIMIT_NOTIFICATION_CONTROLLER_H_
 #define ASH_SYSTEM_SESSION_SESSION_LIMIT_NOTIFICATION_CONTROLLER_H_
 

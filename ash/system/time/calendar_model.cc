@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CalendarModel implementation
+// summary: Implements the Ash calendar model that fetches, caches, filters and sorts Google Calendar events per month and reports metrics.
+// ---
+
 #include "ash/system/time/calendar_model.h"
 
 #include <stdlib.h>

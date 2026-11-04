@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CalendarUpNextView pixel tests
+// summary: Pixel tests verifying the visual rendering of the calendar up next view with mock events, scrolling and header buttons.
+// ---
+
 #include "ash/shell.h"
 #include "ash/system/model/system_tray_model.h"
 #include "ash/system/time/calendar_unittest_utils.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CalendarUpNextView background painter implementation
+// summary: Implements the custom background for the up next view, painting a rounded rectangle with a centered nub circle and side curves onto the canvas.
+// ---
+
 #include "ash/system/time/calendar_up_next_view_background_painter.h"
 
 #include "cc/paint/paint_flags.h"

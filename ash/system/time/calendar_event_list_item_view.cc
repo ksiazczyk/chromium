@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Calendar event list item view implementation
+// summary: Implements the UI view for a single calendar event item, including color dot rendering and Calendar API color ID to hex color mapping.
+// ---
+
 #include "ash/system/time/calendar_event_list_item_view.h"
 
 #include <string>

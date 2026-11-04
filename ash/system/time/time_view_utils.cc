@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Time view utilities implementation
+// summary: Implements GetTimeRemainingToNextMinute, which computes the delay until the next minute so clock update timers fire efficiently without extra wakeups.
+// ---
+
 #include "ash/system/time/time_view_utils.h"
 
 #include "base/time/time.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shutdown confirmation dialog implementation
+// summary: Implements a modal system dialog that asks the user to confirm shutdown, showing a localized message with OK and Cancel buttons wired to callbacks.
+// ---
+
 #include "ash/system/session/shutdown_confirmation_dialog.h"
 
 #include <memory>

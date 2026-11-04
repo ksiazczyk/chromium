@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy Hub controller class declaration
+// summary: Declares the PrivacyHubController class that coordinates camera, microphone, geolocation, and speak-on-mute privacy switch controllers, preference registration, and camera LED fallback handling.
+// ---
+
 #ifndef ASH_SYSTEM_PRIVACY_HUB_PRIVACY_HUB_CONTROLLER_H_
 #define ASH_SYSTEM_PRIVACY_HUB_PRIVACY_HUB_CONTROLLER_H_
 

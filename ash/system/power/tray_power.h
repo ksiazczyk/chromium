@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PowerTrayView class declaration
+// summary: Declares the tray item view that displays the battery icon and observes PowerStatus changes including battery saver activation.
+// ---
+
 #ifndef ASH_SYSTEM_POWER_TRAY_POWER_H_
 #define ASH_SYSTEM_POWER_TRAY_POWER_H_
 

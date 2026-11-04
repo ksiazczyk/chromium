@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TimeView implementation
+// summary: Implements TimeView and VerticalDateView, which display the current time or date in the system tray in horizontal and vertical shelf layouts.
+// ---
+
 #include "ash/system/time/time_view.h"
 
 #include <memory>

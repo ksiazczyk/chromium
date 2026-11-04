@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Peripheral battery notifier unit tests
+// summary: Unit tests for PeripheralBatteryNotifier covering low battery notification thresholds, notification intervals, percentage updates and notification cancellation.
+// ---
+
 #include "ash/system/power/peripheral_battery_notifier.h"
 
 #include <memory>

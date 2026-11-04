@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalTimeConverter implementation
+// summary: Implements the default LocalTimeConverter that delegates local time explode and combine operations to base::Time.
+// ---
+
 #include "ash/system/time/local_time_converter.h"
 
 #include "base/no_destructor.h"

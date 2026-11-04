@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Camera privacy switch controller unit tests
+// summary: Unit tests covering camera mute toggling, forced camera access disabling, notifications, and metrics for the camera privacy switch controller.
+// ---
+
 #include "ash/system/privacy_hub/camera_privacy_switch_controller.h"
 
 #include <algorithm>

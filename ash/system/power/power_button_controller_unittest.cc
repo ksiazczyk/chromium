@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Power button controller unit tests
+// summary: Unit tests for the power button controller covering tablet and laptop mode presses, power menu behavior, screen locking, and backlight brightness handling.
+// ---
+
 #include "ash/system/power/power_button_controller.h"
 
 #include "ash/accessibility/test_accessibility_controller_client.h"

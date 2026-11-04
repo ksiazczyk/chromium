@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Schedule utils unit tests
+// summary: Unit tests verifying checkpoint detection and schedule position calculations for custom and sunset-to-sunrise schedules using a deterministic test clock.
+// ---
+
 #include "ash/system/scheduled_feature/schedule_utils.h"
 
 #include <string_view>

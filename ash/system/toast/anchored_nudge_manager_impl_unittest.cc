@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Anchored nudge manager unit tests
+// summary: Unit tests for AnchoredNudgeManagerImpl covering nudge display, cancellation, durations, pausing, metrics histograms, RTL behavior, and session state.
+// ---
+
 #include "ash/system/toast/anchored_nudge_manager_impl.h"
 
 #include <string_view>

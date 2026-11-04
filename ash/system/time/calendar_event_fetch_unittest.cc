@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Calendar event fetch unit tests
+// summary: Tests CalendarEventFetch using a stub CalendarClient that simulates responses, delays, errors, and cancellations.
+// ---
+
 #include "ash/system/time/calendar_event_fetch.h"
 
 #include <memory>

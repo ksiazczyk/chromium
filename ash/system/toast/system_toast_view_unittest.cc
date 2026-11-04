@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SystemToastView unit tests
+// summary: Unit tests verifying that SystemToastView creates the expected label, image view and text or icon button elements for each toast configuration.
+// ---
+
 #include "ash/system/toast/system_toast_view.h"
 
 #include <string>

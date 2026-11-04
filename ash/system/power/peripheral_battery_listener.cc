@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Peripheral battery listener implementation
+// summary: Implements PeripheralBatteryListener, which collects battery status for styluses, chargers and Bluetooth peripherals from power manager, Bluetooth and input device sources.
+// ---
+
 #include "ash/system/power/peripheral_battery_listener.h"
 
 #include <optional>

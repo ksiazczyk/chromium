@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power button display controller header
+// summary: Declares PowerButtonDisplayController, which performs display tasks such as forcing backlights off and disabling the touchscreen on behalf of power button controllers.
+// ---
+
 #ifndef ASH_SYSTEM_POWER_POWER_BUTTON_DISPLAY_CONTROLLER_H_
 #define ASH_SYSTEM_POWER_POWER_BUTTON_DISPLAY_CONTROLLER_H_
 

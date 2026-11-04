@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nudge view constants
+// summary: Defines label width and bubble border inset constants shared by the system nudge views in the toast directory.
+// ---
+
 #ifndef ASH_SYSTEM_TOAST_NUDGE_CONSTANTS_H_
 #define ASH_SYSTEM_TOAST_NUDGE_CONSTANTS_H_
 

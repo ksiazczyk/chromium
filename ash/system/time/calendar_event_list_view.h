@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Calendar event list view class declaration
+// summary: Declares CalendarEventListView, a scrollable list of event item views that observes CalendarModel and CalendarViewController for updates.
+// ---
+
 #ifndef ASH_SYSTEM_TIME_CALENDAR_EVENT_LIST_VIEW_H_
 #define ASH_SYSTEM_TIME_CALENDAR_EVENT_LIST_VIEW_H_
 

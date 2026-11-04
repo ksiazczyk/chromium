@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Geolocation activity unit tests
+// summary: Unit tests for the geolocation privacy switch controller covering active app tracking, access level changes, notifications, and related metrics.
+// ---
+
 #include <utility>
 #include <vector>
 

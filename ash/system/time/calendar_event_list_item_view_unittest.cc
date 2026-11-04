@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Calendar event list item view unit tests
+// summary: Unit tests verifying the summary and time labels, event dot, join button and accessibility behavior of the calendar event list item view.
+// ---
+
 #include "ash/system/time/calendar_event_list_item_view.h"
 
 #include "ash/system/time/calendar_unittest_utils.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session limit notification controller unit tests
+// summary: Unit tests verifying that the session limit notification appears, updates its title, spoken feedback behavior, and disappears as the session length limit changes.
+// ---
+
 #include "ash/system/session/session_limit_notification_controller.h"
 
 #include "ash/session/session_controller_impl.h"

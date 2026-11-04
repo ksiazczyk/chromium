@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PowerNotificationController class header
+// summary: Declares the Ash controller that manages power and battery notifications, including low-power, battery saver, and critical battery notification states and thresholds.
+// ---
+
 #ifndef ASH_SYSTEM_POWER_POWER_NOTIFICATION_CONTROLLER_H_
 #define ASH_SYSTEM_POWER_POWER_NOTIFICATION_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CalendarView implementation
+// summary: Implements the main Ash calendar bubble view, including its header, month grid, up next and event list views, navigation, and animations.
+// ---
+
 #include "ash/system/time/calendar_view.h"
 
 #include <memory>

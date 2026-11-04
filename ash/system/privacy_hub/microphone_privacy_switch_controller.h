@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Microphone privacy switch controller declarations
+// summary: Declares the MicrophonePrivacySwitchController class that syncs the microphone allowed preference with system input mute and manages mute notifications.
+// ---
+
 #ifndef ASH_SYSTEM_PRIVACY_HUB_MICROPHONE_PRIVACY_SWITCH_CONTROLLER_H_
 #define ASH_SYSTEM_PRIVACY_HUB_MICROPHONE_PRIVACY_SWITCH_CONTROLLER_H_
 

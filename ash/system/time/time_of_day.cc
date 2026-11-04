@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TimeOfDay implementation
+// summary: Implements TimeOfDay, converting a minutes-since-midnight offset into a base::Time for today and formatting it for display.
+// ---
+
 #include "ash/system/time/time_of_day.h"
 
 #include "ash/system/time/local_time_converter.h"

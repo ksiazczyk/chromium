@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Microphone privacy switch controller implementation
+// summary: Implements the microphone privacy switch controller that keeps the user microphone allowed preference in sync with the system input mute state and updates notifications.
+// ---
+
 #include "ash/system/privacy_hub/microphone_privacy_switch_controller.h"
 
 #include <memory>

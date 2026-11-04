@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TimeOfDay unit tests
+// summary: Unit tests for TimeOfDay covering equality, offset formatting, FromTime conversion, clock injection, and failed local time conversion.
+// ---
+
 #include "ash/system/time/time_of_day.h"
 
 #include "ash/test/failing_local_time_converter.h"

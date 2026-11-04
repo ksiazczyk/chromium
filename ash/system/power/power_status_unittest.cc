@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PowerStatus unit tests
+// summary: Unit tests verifying PowerStatus initialization, status update notifications, and battery image info generation for different charging states.
+// ---
+
 #include "ash/system/power/power_status.h"
 
 #include <memory>

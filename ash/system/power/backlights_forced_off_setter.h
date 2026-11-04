@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Backlights forced off setter class declaration
+// summary: Declares the manager for multiple forced-off backlight requests, screen backlight state and its observers.
+// ---
+
 #ifndef ASH_SYSTEM_POWER_BACKLIGHTS_FORCED_OFF_SETTER_H_
 #define ASH_SYSTEM_POWER_BACKLIGHTS_FORCED_OFF_SETTER_H_
 

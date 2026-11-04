@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Battery saver controller unit tests
+// summary: Unit tests covering battery saver activation thresholds, charging detection, toasts, notifications and metrics using fake power manager data.
+// ---
+
 #include "ash/system/power/battery_saver_controller.h"
 
 #include <memory>

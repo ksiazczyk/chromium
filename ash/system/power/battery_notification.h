@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BatteryNotification class declaration
+// summary: Declares the class that shows, hides and updates the MessageCenter low battery notification.
+// ---
+
 #ifndef ASH_SYSTEM_POWER_BATTERY_NOTIFICATION_H_
 #define ASH_SYSTEM_POWER_BATTERY_NOTIFICATION_H_
 

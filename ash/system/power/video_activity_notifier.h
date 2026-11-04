@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoActivityNotifier class declaration
+// summary: Declares a VideoDetector and session observer that notifies powerd about video activity when video plays and the screen is unlocked.
+// ---
+
 #ifndef ASH_SYSTEM_POWER_VIDEO_ACTIVITY_NOTIFIER_H_
 #define ASH_SYSTEM_POWER_VIDEO_ACTIVITY_NOTIFIER_H_
 

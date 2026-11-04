@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Peripheral battery listener unit tests
+// summary: AshTestBase-based unit tests covering battery add, remove and level updates from Bluetooth, polled and event sources, including stylus reporting eligibility histograms.
+// ---
+
 #include "ash/system/power/peripheral_battery_listener.h"
 
 #include <memory>

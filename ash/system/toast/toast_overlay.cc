@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToastOverlay implementation
+// summary: Implements the ToastOverlay class that creates and positions toast widgets in the Ash system UI, adjusting bounds for the work area, shelf, hotseat, keyboard, and display changes.
+// ---
+
 #include "ash/system/toast/toast_overlay.h"
 
 #include "ash/keyboard/ui/keyboard_ui_controller.h"

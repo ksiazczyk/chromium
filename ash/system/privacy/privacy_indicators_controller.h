@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy indicators controller header
+// summary: Declares the privacy indicators controller and its notification delegate, which manage tray indicator dots and notifications for camera and microphone access.
+// ---
+
 #ifndef ASH_SYSTEM_PRIVACY_PRIVACY_INDICATORS_CONTROLLER_H_
 #define ASH_SYSTEM_PRIVACY_PRIVACY_INDICATORS_CONTROLLER_H_
 

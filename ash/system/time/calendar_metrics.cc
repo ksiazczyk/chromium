@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Calendar metrics implementation
+// summary: Implements histogram recording for calendar user actions, show sources, scroll and keyboard navigation, fetch durations, errors and timeouts.
+// ---
+
 #include "ash/system/time/calendar_metrics.h"
 
 #include "ash/public/cpp/metrics_util.h"

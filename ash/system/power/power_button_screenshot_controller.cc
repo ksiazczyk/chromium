@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power button screenshot chord controller implementation
+// summary: Implements the controller that intercepts power button and volume key presses in tablet mode to trigger the screenshot chord and consume the keys.
+// ---
+
 #include "ash/system/power/power_button_screenshot_controller.h"
 
 #include "ash/accelerators/accelerator_controller_impl.h"

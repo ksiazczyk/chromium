@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy indicators controller implementation
+// summary: Implements the Ash controller that updates camera and microphone privacy indicators, creating, updating, and removing the associated system notifications.
+// ---
+
 #include "ash/system/privacy/privacy_indicators_controller.h"
 
 #include <string>

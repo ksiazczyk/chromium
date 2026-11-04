@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RotationLockFeaturePodController implementation
+// summary: Implements the Quick Settings feature tile controller that toggles rotation lock and auto-rotate, updating tile visibility and state in tablet mode.
+// ---
+
 #include "ash/system/rotation/rotation_lock_feature_pod_controller.h"
 
 #include <memory>

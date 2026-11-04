@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Adaptive charging notification controller implementation
+// summary: Shows and closes adaptive charging system notifications and handles the charge-now button click.
+// ---
+
 #include "ash/system/power/adaptive_charging_notification_controller.h"
 
 #include <optional>

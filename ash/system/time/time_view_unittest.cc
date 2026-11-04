@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TimeView unit tests
+// summary: Unit tests for the Ash system tray TimeView, covering horizontal and vertical clock layouts, date labels, text updates, and accessibility behavior.
+// ---
+
 #include "ash/system/time/time_view.h"
 
 #include <memory>

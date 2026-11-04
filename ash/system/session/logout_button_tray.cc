@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LogoutButtonTray implementation
+// summary: Implements the shelf status area logout button that shows or hides based on user prefs and starts sign-out or a confirmation countdown when pressed.
+// ---
+
 #include "ash/system/session/logout_button_tray.h"
 
 #include <memory>

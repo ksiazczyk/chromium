@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Progress indicator painting implementation
+// summary: Implements the ProgressIndicator layer painting, including path segment helpers and drawing of the inner icon, inner ring and outer ring track.
+// ---
+
 #include "ash/system/progress_indicator/progress_indicator.h"
 
 #include "ash/constants/ash_features.h"

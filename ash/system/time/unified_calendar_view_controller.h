@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unified calendar view controller header
+// summary: Declares UnifiedCalendarViewController, the DetailedViewController that manages the CalendarView shown in the unified system tray.
+// ---
+
 #ifndef ASH_SYSTEM_TIME_UNIFIED_CALENDAR_VIEW_CONTROLLER_H_
 #define ASH_SYSTEM_TIME_UNIFIED_CALENDAR_VIEW_CONTROLLER_H_
 

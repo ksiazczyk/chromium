@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DualRoleNotification class declaration
+// summary: Declares the class that creates or updates the MessageCenter notification for connected dual-role power devices.
+// ---
+
 #ifndef ASH_SYSTEM_POWER_DUAL_ROLE_NOTIFICATION_H_
 #define ASH_SYSTEM_POWER_DUAL_ROLE_NOTIFICATION_H_
 

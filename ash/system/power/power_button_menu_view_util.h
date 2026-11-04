@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power button menu view constants and animation helper
+// summary: Declares constants for menu animation duration, transform distance, corner radius, border type, and colors, plus a shared layer animation helper.
+// ---
+
 #ifndef ASH_SYSTEM_POWER_POWER_BUTTON_MENU_VIEW_UTIL_H_
 #define ASH_SYSTEM_POWER_POWER_BUTTON_MENU_VIEW_UTIL_H_
 

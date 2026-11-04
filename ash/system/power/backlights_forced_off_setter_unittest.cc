@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Backlights forced off setter unit tests
+// summary: Tests forced-off request handling, observer notifications and touchscreen disabling behavior with a fake power manager client.
+// ---
+
 #include "ash/system/power/backlights_forced_off_setter.h"
 
 #include <memory>

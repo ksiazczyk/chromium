@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System nudge pause manager implementation
+// summary: Implements SystemNudgePauseManagerImpl, which creates scoped nudge pauses, counts active pauses, and notifies observers to close system nudges when paused.
+// ---
+
 #include "ash/system/toast/system_nudge_pause_manager_impl.h"
 
 #include <memory>

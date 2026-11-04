@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TimeTrayItemView unit tests
+// summary: Unit tests verifying that TimeTrayItemView switches the time view between horizontal and vertical layouts as shelf alignment changes.
+// ---
+
 #include "ash/system/time/time_tray_item_view.h"
 
 #include "ash/constants/ash_features.h"

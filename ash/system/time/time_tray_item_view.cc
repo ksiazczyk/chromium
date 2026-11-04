@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TimeTrayItemView implementation
+// summary: Implements the shelf tray item that hosts a TimeView and adjusts clock layout and colors for shelf alignment and locale changes.
+// ---
+
 #include "ash/system/time/time_tray_item_view.h"
 
 #include <memory>

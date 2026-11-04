@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power event observer header
+// summary: Declares PowerEventObserver, which tracks suspend state, updates display and compositing behavior, and locks the screen on suspend or lid close.
+// ---
+
 #ifndef ASH_SYSTEM_POWER_POWER_EVENT_OBSERVER_H_
 #define ASH_SYSTEM_POWER_POWER_EVENT_OBSERVER_H_
 

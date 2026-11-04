@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Privacy Hub directory metadata
+summary: Directory metadata assigning the Privacy Hub code to ChromeOS privacy buganizer components and the cros-privacy-features-dev team mailing list.

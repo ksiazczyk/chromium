@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TimeView class declaration
+// summary: Declares TimeView, the tray view showing the current date or time with layout, color, font, and AM/PM controls, plus the VerticalDateView helper.
+// ---
+
 #ifndef ASH_SYSTEM_TIME_TIME_VIEW_H_
 #define ASH_SYSTEM_TIME_TIME_VIEW_H_
 

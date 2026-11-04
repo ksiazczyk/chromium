@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen switch check controller implementation
+// summary: Implements a controller that shows a confirmation dialog asking whether to stop screen share or cast before switching away from the active user session.
+// ---
+
 #include "ash/system/privacy/screen_switch_check_controller.h"
 
 #include "ash/session/session_controller_impl.h"

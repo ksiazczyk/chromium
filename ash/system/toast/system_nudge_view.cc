@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System nudge view implementation
+// summary: Implements the SystemNudgeView UI for anchored nudges, with labels, leading images, pill buttons, close buttons, shadows, and pointy corner styling relative to the anchor.
+// ---
+
 #include "ash/system/toast/system_nudge_view.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemToastView class declaration
+// summary: Declares the Ash SystemToastView class, a flex layout view that shows toast text with an optional leading icon and a text or icon button.
+// ---
+
 #ifndef ASH_SYSTEM_TOAST_SYSTEM_TOAST_VIEW_H_
 #define ASH_SYSTEM_TOAST_SYSTEM_TOAST_VIEW_H_
 

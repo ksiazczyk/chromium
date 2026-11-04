@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Backlights forced off setter implementation
+// summary: Coalesces backlight forced-off requests into powerd D-Bus calls, tracks screen backlight state and disables the touchscreen when the screen turns off.
+// ---
+
 #include "ash/system/power/backlights_forced_off_setter.h"
 
 #include "ash/constants/ash_switches.h"

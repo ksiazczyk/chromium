@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Anchored nudge class declaration
+// summary: Declares the AnchoredNudge class that creates and manages the widget and contents view for an anchored nudge, observing shelf, shell, display, and widget changes.
+// ---
+
 #ifndef ASH_SYSTEM_TOAST_ANCHORED_NUDGE_H_
 #define ASH_SYSTEM_TOAST_ANCHORED_NUDGE_H_
 

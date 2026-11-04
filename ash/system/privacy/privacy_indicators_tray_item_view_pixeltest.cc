@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Privacy indicators tray item view pixel tests
+// summary: Pixel tests verifying the rendered appearance of the privacy indicators tray item in dark and light modes and with system blur enabled or disabled.
+// ---
+
 #include <memory>
 #include <tuple>
 

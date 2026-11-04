@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DateHelper unit tests
+// summary: Unit tests verifying DateHelper week titles and interval formatting across many locales, including Chinese, Arabic, Korean, and English.
+// ---
+
 #include "ash/system/time/date_helper.h"
 
 #include <string_view>

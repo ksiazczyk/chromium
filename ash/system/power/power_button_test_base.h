@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Power button test base header
+// summary: Declares PowerButtonTestBase, a base test fixture and utility set for testing power button related functions in ash.
+// ---
+
 #ifndef ASH_SYSTEM_POWER_POWER_BUTTON_TEST_BASE_H_
 #define ASH_SYSTEM_POWER_POWER_BUTTON_TEST_BASE_H_
 

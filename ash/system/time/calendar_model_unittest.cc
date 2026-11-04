@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CalendarModel unit tests
+// summary: Unit tests covering CalendarModel event fetching, caching, pruning, session handling and metrics behavior.
+// ---
+
 #include "ash/system/time/calendar_model.h"
 
 #include <algorithm>

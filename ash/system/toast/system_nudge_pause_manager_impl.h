@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System nudge pause manager class declaration
+// summary: Declares SystemNudgePauseManagerImpl, which tracks observers and a pause counter so scoped pauses can suspend system nudge display.
+// ---
+
 #ifndef ASH_SYSTEM_TOAST_SYSTEM_NUDGE_PAUSE_MANAGER_IMPL_H_
 #define ASH_SYSTEM_TOAST_SYSTEM_NUDGE_PAUSE_MANAGER_IMPL_H_
 

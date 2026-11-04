@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event date formatter utilities implementation
+// summary: Implements helpers that compute elapsed and total day counts for calendar events and format their start and end times for display.
+// ---
+
 #include "ash/system/time/event_date_formatter_util.h"
 
 #include "ash/shell.h"

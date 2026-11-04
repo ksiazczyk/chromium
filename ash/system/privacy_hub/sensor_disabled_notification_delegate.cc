@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sensor disabled notification delegate implementation
+// summary: Implements the sensor disabled notification delegate base and a scoped test helper that swaps in a fake delegate for the privacy hub notification controller.
+// ---
+
 #include "ash/system/privacy_hub/sensor_disabled_notification_delegate.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SystemToastView pixel tests
+// summary: Pixel tests verifying SystemToastView appearance for text-only, leading icon, text button and icon button variants, parameterized with and without system blur.
+// ---
+
 #include <string>
 
 #include "ash/constants/ash_features.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoActivityNotifier implementation
+// summary: Implements notifications to the power manager about video activity, sent on state or lock changes and periodically while video is playing.
+// ---
+
 #include "ash/system/power/video_activity_notifier.h"
 
 #include "ash/session/session_controller_impl.h"

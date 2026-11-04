@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power button menu curtain view header
+// summary: Declares PowerButtonMenuCurtainView, the view displayed inside the power menu popup when the power button is pressed while the security curtain is present.
+// ---
+
 #ifndef ASH_SYSTEM_POWER_POWER_BUTTON_MENU_CURTAIN_VIEW_H_
 #define ASH_SYSTEM_POWER_POWER_BUTTON_MENU_CURTAIN_VIEW_H_
 

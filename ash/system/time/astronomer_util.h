@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sunrise and sunset utility interface
+// summary: Declares the SunRiseSetError enum, SunRiseSetTime struct, and GetSunriseSunset function for computing sunrise and sunset times.
+// ---
+
 #ifndef ASH_SYSTEM_TIME_ASTRONOMER_UTIL_H_
 #define ASH_SYSTEM_TIME_ASTRONOMER_UTIL_H_
 

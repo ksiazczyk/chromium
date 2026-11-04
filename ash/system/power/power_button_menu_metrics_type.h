@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power button menu metrics enums
+// summary: Defines enums of power button menu actions and press types used for histograms, along with functions to record the corresponding metrics.
+// ---
+
 #ifndef ASH_SYSTEM_POWER_POWER_BUTTON_MENU_METRICS_TYPE_H_
 #define ASH_SYSTEM_POWER_POWER_BUTTON_MENU_METRICS_TYPE_H_
 

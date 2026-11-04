@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PowerNotificationController unit tests
+// summary: Unit tests for PowerNotificationController that verify notification state updates, USB charger notifications, and battery saver behavior using a mock message center.
+// ---
+
 #include "ash/system/power/power_notification_controller.h"
 
 #include <map>

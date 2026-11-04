@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Progress indicator animation registry class declaration
+// summary: Declares ProgressIndicatorAnimationRegistry, which owns and shares keyed progress icon and ring animations across UI components.
+// ---
+
 #ifndef ASH_SYSTEM_PROGRESS_INDICATOR_PROGRESS_INDICATOR_ANIMATION_REGISTRY_H_
 #define ASH_SYSTEM_PROGRESS_INDICATOR_PROGRESS_INDICATOR_ANIMATION_REGISTRY_H_
 

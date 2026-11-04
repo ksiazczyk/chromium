@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen security controller header
+// summary: Declares the screen security controller that manages screen access and screen share notifications and stops all sharing sessions.
+// ---
+
 #ifndef ASH_SYSTEM_PRIVACY_SCREEN_SECURITY_CONTROLLER_H_
 #define ASH_SYSTEM_PRIVACY_SCREEN_SECURITY_CONTROLLER_H_
 

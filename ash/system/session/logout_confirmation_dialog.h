@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LogoutConfirmationDialog class declaration
+// summary: Declares the dialog view that asks the user to confirm or deny logout and shows a countdown until automatic logout occurs.
+// ---
+
 #ifndef ASH_SYSTEM_SESSION_LOGOUT_CONFIRMATION_DIALOG_H_
 #define ASH_SYSTEM_SESSION_LOGOUT_CONFIRMATION_DIALOG_H_
 

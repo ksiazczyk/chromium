@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalTimeConverter class declaration
+// summary: Declares LocalTimeConverter, a virtual wrapper around base::Time local time operations so tests can simulate conversion failures.
+// ---
+
 #ifndef ASH_SYSTEM_TIME_LOCAL_TIME_CONVERTER_H_
 #define ASH_SYSTEM_TIME_LOCAL_TIME_CONVERTER_H_
 

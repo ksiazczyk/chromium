@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy Hub metrics implementation
+// summary: Implements histogram logging for sensor toggles from notifications, Privacy Hub opens, and learn-more page visits, with special handling for the three-state geolocation access level.
+// ---
+
 #include "ash/system/privacy_hub/privacy_hub_metrics.h"
 
 #include "ash/system/privacy_hub/privacy_hub_controller.h"

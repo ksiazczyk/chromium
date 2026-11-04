@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera privacy switch controller declarations
+// summary: Declares the CameraPrivacySwitchController class and its switch API abstraction that bridge the Privacy Hub UI with the camera software privacy switch backend.
+// ---
+
 #ifndef ASH_SYSTEM_PRIVACY_HUB_CAMERA_PRIVACY_SWITCH_CONTROLLER_H_
 #define ASH_SYSTEM_PRIVACY_HUB_CAMERA_PRIVACY_SWITCH_CONTROLLER_H_
 

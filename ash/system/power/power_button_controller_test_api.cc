@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power button controller test API implementation
+// summary: Implements a test helper that exposes PowerButtonController internals, letting tests check timers, menu state and items, and swap the tick clock.
+// ---
+
 #include "ash/system/power/power_button_controller_test_api.h"
 
 #include "ash/system/power/power_button_display_controller.h"

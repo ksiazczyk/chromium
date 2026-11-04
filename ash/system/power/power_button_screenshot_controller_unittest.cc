@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Power button screenshot controller unit tests
+// summary: Unit tests verifying screenshot capture behavior triggered by power button and volume key combinations in tablet mode, including capture mode metrics.
+// ---
+
 #include "ash/system/power/power_button_screenshot_controller.h"
 
 #include <memory>

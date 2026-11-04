@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Privacy screen feature pod controller unit tests
+// summary: Unit tests for the privacy screen feature pod controller, using fake display snapshots to verify tile visibility and toggling for displays with and without privacy screen support.
+// ---
+
 #include "ash/system/privacy_screen/privacy_screen_feature_pod_controller.h"
 
 #include <memory>
