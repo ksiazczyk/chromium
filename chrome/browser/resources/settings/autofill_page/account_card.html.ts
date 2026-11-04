@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account card Lit template
+// summary: Lit HTML template rendering the account card with sign-in promo and profile rows, with platform-specific variants for ChromeOS.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 // <if expr="not is_chromeos">

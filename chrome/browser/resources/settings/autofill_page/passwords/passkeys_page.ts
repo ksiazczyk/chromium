@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passkeys settings page element
+// summary: Settings subpage element that lists, filters, and manages locally stored passkeys, including delete confirmation and macOS-only passkey editing.
+// ---
+
 /**
  * @fileoverview A settings page that allows the user to see and manage the
     passkeys on their computer.

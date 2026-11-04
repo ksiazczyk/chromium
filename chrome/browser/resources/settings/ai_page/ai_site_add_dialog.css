@@ -8,6 +8,12 @@
  * #include=settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: AI site add dialog styles
+summary: Lit styles for the add-site dialog, importing shared settings styles and removing the dialog body borders.
+*/
+
 #dialog {
   --cr-dialog-body-border-top: none;
   --cr-dialog-body-border-bottom: none;

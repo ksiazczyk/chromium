@@ -7,6 +7,12 @@
  * allows adding and editing entity instances for Autofill AI.
  */
 
+// ---docerion
+// type: source
+// title: Autofill AI add or edit dialog element
+// summary: Implements the settings-autofill-ai-add-or-edit-dialog element for adding and editing Autofill AI entity instances.
+// ---
+
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/cr_elements/cr_dialog/cr_dialog.js';
 import 'chrome://resources/cr_elements/cr_input/cr_input.js';

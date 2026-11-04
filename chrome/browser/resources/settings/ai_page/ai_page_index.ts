@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI page index element
+// summary: Lit element serving as the settings index page for AI features, routing between views based on feature flags and load-time data.
+// ---
+
 /**
  * @fileoverview
  * 'settings-ai-page-index' is the settings page containing settings for ai

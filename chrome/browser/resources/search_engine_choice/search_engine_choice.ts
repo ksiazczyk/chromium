@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchEngineChoice interface
+// summary: TypeScript interface describing a search engine choice entry, kept in sync with the backend's GetChoiceListJSON.
+// ---
+
 // Keep in sync with GetChoiceListJSON in the backend.
 // LINT.IfChange
 export interface SearchEngineChoice {

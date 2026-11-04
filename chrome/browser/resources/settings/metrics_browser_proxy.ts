@@ -4,6 +4,12 @@
 
 /** @fileoverview Handles metrics for the settings pages. */
 
+// ---docerion
+// type: source
+// title: Settings metrics enums and proxy
+// summary: Defines enums for privacy interactions, Safety Hub states, entry points, and modules, kept in sync with histogram metadata for settings metrics.
+// ---
+
 /**
  * Contains all possible recorded interactions across privacy settings pages.
  *

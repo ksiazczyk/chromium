@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the reset_password WebUI
+summary: GN build configuration that assembles the reset_password WebUI target from its HTML, TypeScript sources, Mojo bindings and WebUI resource dependencies.

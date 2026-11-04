@@ -1,0 +1,4 @@
+# Docerion header of icons.html.ts.
+type: source
+title: Settings icon set definitions
+summary: Defines the settings20 cr-iconset with inline SVG icons used throughout the settings UI, selected based on a rounded-icons flag.

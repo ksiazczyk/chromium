@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill manager browser proxy
+// summary: Interface and implementation proxying the chrome.autofillPrivate API for account info, addresses and personal data change listeners in settings.
+// ---
+
 export type PersonalDataChangedListener =
     (addresses: chrome.autofillPrivate.AddressEntry[],
      creditCards: chrome.autofillPrivate.CreditCardEntry[],

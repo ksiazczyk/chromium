@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Sandbox internals owners file
+summary: Delegates code ownership of this directory to the OWNERS file of the sandbox directory.

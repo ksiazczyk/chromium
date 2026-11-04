@@ -1,0 +1,4 @@
+# Docerion header of segmentation_survey.html.
+type: source
+title: Segmentation survey host page
+summary: Minimal HTML page that hosts the segmentation survey script and its client container element.

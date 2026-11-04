@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML template for the home URL input element
+// summary: Lit HTML template for the home-url-input element, rendering a cr-input bound to the homepage preference with validation, a policy indicator and keyboard event handling.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {HomeUrlInputElement} from './home_url_input.js';

@@ -12,6 +12,12 @@
  * #include=cr-icons-lit cr-shared-style-lit settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Other Google data dialog styles
+summary: Styles for the settings-other-google-data-dialog, covering the title layout, back button, and stacked link rows.
+*/
+
 #subpageDescription {
   padding-bottom: 16px;
 }

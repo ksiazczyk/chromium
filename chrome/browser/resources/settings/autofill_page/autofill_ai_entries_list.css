@@ -11,6 +11,12 @@
  * #include=cr-shared-style-lit settings-shared-lit cr-icons-lit autofill-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Autofill AI entries list styles
+summary: Styles the Autofill AI entity entries list, including list items, entity type icons and dropdown menu items.
+*/
+
 .dropdown-item {
   display: flex;
   align-items: center;

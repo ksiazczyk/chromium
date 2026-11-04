@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit settings-shared-lit settings-columned-section-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: AI suggestions page styles
+summary: Lit styles for the AI suggestions settings subpage, importing shared styles and spacing the separator and toggle.
+*/
+
 .separator {
   margin: 0 4px;
 }

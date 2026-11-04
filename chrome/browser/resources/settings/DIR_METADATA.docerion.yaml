@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Settings UI directory metadata
+summary: Points the directory metadata to the shared COMMON_METADATA file so issue routing applies to the whole directory.

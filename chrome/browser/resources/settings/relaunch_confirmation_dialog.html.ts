@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Relaunch confirmation dialog template
+// summary: Lit HTML template for the relaunch confirmation dialog, rendering title, description, and cancel and restart buttons.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {RelaunchConfirmationDialogElement} from './relaunch_confirmation_dialog.js';

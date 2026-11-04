@@ -1,3 +1,9 @@
+<!--docerion
+type: asset
+title: refresh_bg_bottom_dark
+summary: Dark-mode blurred background graphic for the bottom edge of the search engine refresh screen.
+-->
+
 <svg width="350" height="146" viewBox="0 0 350 146" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M246.297 350H103.704V327.315H55.0931V298.148H25.9264V246.296H0.000488281V103.704H25.9264V51.8518H55.0931V22.6858H103.704V0H246.297V22.6858H294.908V51.8518H324.075V103.704H350V246.296H324.075V298.148H294.908V327.315H246.297V350Z" fill="#3D7D3E"/>
 <mask id="mask0_6367_90927" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="351" height="350">

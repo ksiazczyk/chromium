@@ -4,6 +4,12 @@
 
 /** @fileoverview Definitions for chrome.getAndroidSandboxStatus */
 
+// ---docerion
+// type: source
+// title: Android sandbox status type declarations
+// summary: TypeScript declarations for chrome.getAndroidSandboxStatus and the AndroidSandboxStatus type used by the Android sandbox WebUI page.
+// ---
+
 declare namespace chrome {
   interface AndroidSandboxStatus {
     androidBuildId: string;

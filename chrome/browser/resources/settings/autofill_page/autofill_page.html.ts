@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML template for the autofill settings page
+// summary: Lit HTML template rendering the autofill settings page with category reference cards, Gemini suggestions entry and related services links.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsAutofillPageElement} from './autofill_page.js';

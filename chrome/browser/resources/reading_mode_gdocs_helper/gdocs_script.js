@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Script enabling annotated Canvas for Docs accessibility
+// summary: Sets window._docs_annotate_canvas_by_ext to the extension ID, triggering Google Docs' annotated Canvas so an accessibility tree can be built for the document.
+// ---
+
 function triggerDocsCanvasAnnotationMode() {
   if (!chrome.runtime || !chrome.runtime.id) {
     // Manifest v3: Not running in extension's runtime.

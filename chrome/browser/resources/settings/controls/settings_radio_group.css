@@ -6,6 +6,12 @@
  * #type=style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: settings-radio-group styles
+summary: Lit styles for the radio group, including horizontal layout and settings-refresh card styling for slotted radio buttons.
+*/
+
 cr-radio-group {
   width: 100%;
 }

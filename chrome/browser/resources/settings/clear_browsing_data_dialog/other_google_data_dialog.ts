@@ -8,6 +8,12 @@
  * for managing other Google data like passwords and activity.
  */
 
+// ---docerion
+// type: source
+// title: Other Google data dialog element
+// summary: Lit element for the settings-other-google-data-dialog subpage that links to managing other Google data like passwords and activity within the Clear Browsing Data dialog.
+// ---
+
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/cr_elements/cr_dialog/cr_dialog.js';
 import 'chrome://resources/cr_elements/cr_icon_button/cr_icon_button.js';

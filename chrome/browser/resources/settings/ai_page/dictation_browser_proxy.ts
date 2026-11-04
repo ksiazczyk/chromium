@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictation browser proxy
+// summary: Browser proxy interface and default implementation for getting and setting the dictation keyboard shortcut.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 
 /**

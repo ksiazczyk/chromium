@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility browser proxy for settings
+// summary: Browser proxy interface and implementation for accessibility settings actions such as opening trackpad gestures settings, recording metrics, and querying screen reader state.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 
 export interface AccessibilityBrowserProxy {

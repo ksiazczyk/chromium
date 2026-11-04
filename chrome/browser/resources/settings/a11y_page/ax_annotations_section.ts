@@ -9,6 +9,12 @@
  * (chrome://settings/accessibility) on Windows, macOS, and Linux.
  */
 
+// ---docerion
+// type: source
+// title: AX annotations section element
+// summary: Defines the settings-ax-annotations-section element managing the main node annotations toggle and reflecting ScreenAI library download and install state.
+// ---
+
 import '../controls/settings_toggle_button.js';
 
 import type {AxAnnotationsBrowserProxy} from '/shared/settings/a11y_page/ax_annotations_browser_proxy.js';

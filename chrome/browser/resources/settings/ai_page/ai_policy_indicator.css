@@ -8,6 +8,12 @@
  * #include=settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: AI policy indicator styles
+summary: Lit CSS styles for the AI policy indicator row and its policy pref indicator spacing.
+*/
+
 .cr-row {
   --cr-section-min-height: 0;
   padding-top: 2px;

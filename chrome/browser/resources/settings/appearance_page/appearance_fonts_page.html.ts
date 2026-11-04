@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Appearance fonts page template
+// summary: Lit HTML template for the fonts settings subpage with sliders and dropdown menus for standard, serif, sans-serif and fixed-width fonts.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsAppearanceFontsPageElement} from './appearance_fonts_page.js';

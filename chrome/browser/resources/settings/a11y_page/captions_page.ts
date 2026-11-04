@@ -7,6 +7,12 @@
  * settings on chrome://settings/captions.
  */
 
+// ---docerion
+// type: source
+// title: Captions settings page component
+// summary: Lit-based settings-captions-page element that renders the captions settings subpage, with a live caption toggle and dropdown options for caption background color, opacity, text color, font, size, opacity and shadow.
+// ---
+
 import '../controls/settings_dropdown_menu.js';
 import '../controls/settings_slider.js';
 import '../settings_page/settings_subpage.js';

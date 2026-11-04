@@ -7,6 +7,12 @@
  * options for Autofill AI.
  */
 
+// ---docerion
+// type: source
+// title: Autofill AI entries list element
+// summary: Lit element for the settings Autofill AI entries list, letting users view, add, edit and delete AI entity entries with sync and policy awareness.
+// ---
+
 import 'chrome://resources/cr_elements/cr_action_menu/cr_action_menu.js';
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/cr_elements/cr_icon/cr_icon.js';

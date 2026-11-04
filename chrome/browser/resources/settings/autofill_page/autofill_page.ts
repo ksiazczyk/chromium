@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill settings page element
+// summary: Entry point element of the settings autofill page where users see and manage their saved info, organized into data categories and chips.
+// ---
+
 /**
  * @fileoverview
  * 'settings-autofill-page' is the entry point for users to see

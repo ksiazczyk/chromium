@@ -8,6 +8,12 @@
  * #include=settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Inline cue menu page styles
+summary: Lit CSS styles for the inline cue menu settings subpage, including the feature preview box, highlight pill, cursor, and exceptions list.
+*/
+
 .preview-container {
   background-color: var(--cr-card-background-color);
   border-radius: 12px;

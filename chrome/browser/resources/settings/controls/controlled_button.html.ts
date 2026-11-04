@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Controlled button HTML template
+// summary: Lit HTML template for the controlled button that renders a cr-button with its label plus an optional policy pref indicator.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ControlledButtonElement} from './controlled_button.js';

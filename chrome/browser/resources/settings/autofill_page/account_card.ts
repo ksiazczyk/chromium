@@ -8,6 +8,13 @@
  * It's a slimmed down copy of
  * chrome/browser/resources/settings/people_page/people_page.ts
  */
+
+// ---docerion
+// type: source
+// title: Account card element
+// summary: Defines the settings-account-card element that shows the user's account name and picture with optional controls.
+// ---
+
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/cr_elements/cr_icon_button/cr_icon_button.js';
 import 'chrome://resources/cr_elements/cr_link_row/cr_link_row.js';

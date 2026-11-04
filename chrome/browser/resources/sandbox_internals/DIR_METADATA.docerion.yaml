@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Sandbox internals directory metadata
+summary: Maps the directory to the Internals>Sandbox monorail component, the security-dev team email and a Buganizer component for issue routing.

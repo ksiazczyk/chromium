@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML template for the autofill page index
+// summary: Lit HTML template hosting the autofill subpages such as contact info, identity docs, passkeys, payments, travel and shopping in a view manager.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsAutofillPageIndexElement} from './autofill_page_index.js';

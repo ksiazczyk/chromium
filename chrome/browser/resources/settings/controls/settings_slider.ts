@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings slider element
+// summary: Lit element wrapping cr-slider that maps a linear UI range to real preference values, interpolating to the nearest tick and handling policy-based disabling.
+// ---
+
 /**
  * @fileoverview
  * settings-slider wraps a cr-slider. It maps the slider's values from a

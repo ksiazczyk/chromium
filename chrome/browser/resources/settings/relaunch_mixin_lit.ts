@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Relaunch mixin for restart and relaunch handling
+// summary: Lit mixin that routes restart and relaunch calls through the lifetime browser proxy and shows a confirmation dialog on non-ChromeOS desktop platforms.
+// ---
+
 import type {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 import type {LifetimeBrowserProxy} from '/shared/settings/lifetime_browser_proxy.js';
 import {LifetimeBrowserProxyImpl} from '/shared/settings/lifetime_browser_proxy.js';

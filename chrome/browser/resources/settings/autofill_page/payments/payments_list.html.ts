@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments list HTML template
+// summary: Lit HTML template rendering the saved payment methods table with credit card, IBAN, and pay over time issuer entries plus a no-payment-methods label.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsPaymentsListElement} from './payments_list.js';

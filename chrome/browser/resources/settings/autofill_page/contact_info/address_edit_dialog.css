@@ -12,6 +12,12 @@
  * #include=cr-shared-style-lit settings-shared-lit md-select-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Address edit dialog styles
+summary: Styles for the settings address edit dialog, covering address row layout, selects, validation error coloring and dark mode support.
+*/
+
 :host {
   white-space: nowrap;
 }

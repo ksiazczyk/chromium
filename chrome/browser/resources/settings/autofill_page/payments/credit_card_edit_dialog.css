@@ -12,6 +12,12 @@
  * #include=cr-shared-style-lit settings-shared-lit md-select-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Credit card edit dialog styles
+summary: Lit CSS styles for the credit card edit dialog, defining input widths, spacing, and expired-card error styling including dark mode colors.
+*/
+
 cr-input {
   /* Larger cr-input margin (by reserving space for error display). */
   --cr-input-error-display: block;

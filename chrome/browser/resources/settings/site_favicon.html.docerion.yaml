@@ -1,0 +1,4 @@
+# Docerion header of site_favicon.html.
+type: source
+title: Site favicon template
+summary: HTML template for the site-favicon element that renders the favicon as a background image.

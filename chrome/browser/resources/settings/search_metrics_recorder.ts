@@ -20,6 +20,12 @@
  * does on that subpage is not attributed to the search.
  */
 
+// ---docerion
+// type: source
+// title: Settings search metrics recorder
+// summary: Records UMA metrics about Settings search sessions by turning element events and URL query changes into session-level metrics.
+// ---
+
 import {EventTracker} from 'chrome://resources/js/event_tracker.js';
 
 import type {MetricsBrowserProxy} from './metrics_browser_proxy.js';

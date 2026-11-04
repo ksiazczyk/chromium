@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit settings-shared-lit settings-columned-section-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Offer writing help page styles
+summary: Lit CSS styles for the offer writing help (AI compose) settings subpage, laying out the disabled sites list and toggle rows.
+*/
+
 .cr-row {
   border-top: none;
 }

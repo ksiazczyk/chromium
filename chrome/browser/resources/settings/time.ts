@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows epoch time conversion utility
+// summary: Converts JavaScript dates to a string of microseconds since the Windows FILETIME epoch used in prefs.
+// ---
+
 const WINDOWS_EPOCH = Date.UTC(1601, 0, 1, 0, 0, 0, 0);
 const UNIX_EPOCH = Date.UTC(1970, 0, 1, 0, 0, 0, 0);
 

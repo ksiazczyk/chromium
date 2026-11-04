@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments page Lit HTML template
+// summary: Lit HTML template for the settings payments page, rendering toggles for credit card autofill, re-authentication, CVC storage, card benefits, and pay-over-time settings.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsPaymentsPageElement} from './payments_page.js';

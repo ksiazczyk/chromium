@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Walletable pass detection toggle settings element
+// summary: Lit custom element for Chrome settings that shows a walletable pass detection opt-in toggle, syncing its state via EntityDataManagerProxy and reverting the toggle for ineligible users.
+// ---
+
 import 'chrome://resources/cr_elements/cr_icon/cr_icon.js';
 import 'chrome://resources/cr_elements/icons.html.js';
 import '../controls/settings_toggle_button.js';

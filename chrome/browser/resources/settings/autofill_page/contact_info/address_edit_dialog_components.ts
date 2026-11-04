@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address edit dialog UI components
+// summary: Defines the AddressComponentUi class that backs address form fields with values, labels, required flags and soft validation for existing addresses.
+// ---
+
 function isValueEmpty(value: string|undefined): boolean {
   return value === undefined || value === '';
 }

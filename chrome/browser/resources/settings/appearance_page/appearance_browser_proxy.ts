@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Appearance browser proxy
+// summary: Browser proxy interface and implementation for the appearance settings page, handling zoom, theme info, toolbar actions, metrics and startup page validation.
+// ---
+
 // clang-format off
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 

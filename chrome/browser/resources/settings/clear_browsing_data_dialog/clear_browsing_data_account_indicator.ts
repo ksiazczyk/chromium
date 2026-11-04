@@ -7,6 +7,12 @@
  * indicator that informs users of the primary signed-in account.
  */
 
+// ---docerion
+// type: source
+// title: Clear browsing data account indicator element
+// summary: Lit element that informs users of the primary signed-in account shown in the clear browsing data dialog.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 import type {StoredAccount, SyncBrowserProxy, SyncStatus} from '/shared/settings/people_page/sync_browser_proxy.js';
 import {SyncBrowserProxyImpl} from '/shared/settings/people_page/sync_browser_proxy.js';

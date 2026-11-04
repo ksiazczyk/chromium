@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments manager proxy
+// summary: Interface and implementation proxying the chrome.autofillPrivate API for credit card, IBAN, and pay over time issuer management in the settings page.
+// ---
+
 import type {PersonalDataChangedListener} from '../autofill_manager_proxy.js';
 
 /**

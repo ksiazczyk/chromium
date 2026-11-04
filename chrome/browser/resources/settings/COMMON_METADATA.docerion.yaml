@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common metadata for Settings UI issue tracking
+summary: Declares the Monorail component and Buganizer component ID used for issue tracking in the Settings UI directory.

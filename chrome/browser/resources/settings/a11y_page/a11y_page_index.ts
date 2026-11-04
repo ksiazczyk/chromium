@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility page index element
+// summary: Defines the settings-a11y-page-index element that switches between the accessibility and captions views based on the current settings route.
+// ---
+
 import 'chrome://resources/cr_elements/cr_view_manager/cr_view_manager.js';
 import './a11y_page.js';
 // <if expr="is_linux">

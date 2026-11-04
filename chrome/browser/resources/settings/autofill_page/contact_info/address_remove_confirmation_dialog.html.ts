@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address remove confirmation dialog HTML template
+// summary: Lit HTML template for the address remove confirmation dialog, showing a title, description and cancel or remove buttons.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsAddressRemoveConfirmationDialogElement} from './address_remove_confirmation_dialog.js';

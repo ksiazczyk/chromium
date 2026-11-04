@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IBAN edit dialog HTML template
+// summary: Lit HTML template for the IBAN edit dialog, rendering IBAN value and nickname inputs with validation, character count, and save and cancel buttons.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsIbanEditDialogElement} from './iban_edit_dialog.js';

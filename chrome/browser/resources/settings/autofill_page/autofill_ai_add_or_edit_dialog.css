@@ -12,6 +12,12 @@
  * #include=cr-shared-style-lit settings-shared-lit md-select-lit cr-spinner-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Autofill AI add or edit dialog styles
+summary: Styles the Autofill AI add-or-edit dialog, including form field labels, selects, validation errors, footer and spinner.
+*/
+
 :host {
   white-space: nowrap;
 }

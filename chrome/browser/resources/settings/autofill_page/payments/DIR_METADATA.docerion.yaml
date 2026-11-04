@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Payments settings DIR_METADATA
+summary: Metadata for the payments settings directory, specifying the monorail component, team email, and Buganizer components for issue tracking and ownership.

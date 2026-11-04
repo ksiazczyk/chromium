@@ -1,3 +1,12 @@
+---
+type: readme
+title: Chromium Settings UI plugin architecture
+summary: Explains the plugin architecture of the Chromium Settings UI, covering plugin definitions, view switching, lazy rendering and search integration.
+relations:
+  - references /chrome/browser/resources/settings/images/docs/figure1_settings_architecture_overview.png
+  - references /chrome/browser/resources/settings/images/docs/figure2_settings_sidenav_plugin_mapping.png
+---
+
 # Chromium Settings UI "Plugin" architecture
 
 [TOC]

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clear browsing data dialog HTML template
+// summary: Lit HTML template for the clear browsing data dialog with time picker, data type checkboxes, and delete and cancel actions.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsClearBrowsingDataDialogElement} from './clear_browsing_data_dialog.js';

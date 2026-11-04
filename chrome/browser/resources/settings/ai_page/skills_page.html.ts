@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skills page HTML template
+// summary: Lit HTML template for the Skills settings subpage with an enable toggle, benefit and consideration bullet lists, and a skills gallery link.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsSkillsPageElement} from './skills_page.js';

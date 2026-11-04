@@ -1,0 +1,4 @@
+# Docerion header of settings_checkbox.html.
+type: source
+title: settings-checkbox HTML template
+summary: Template for the settings-checkbox element with label, sub-label, sanitized sub-label HTML and a policy-controlled pref indicator.

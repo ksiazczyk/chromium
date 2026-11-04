@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Category reference card element
+// summary: Lit element that shows a card of chips for a saved info data category and fires data-chip-click and data-category-click events.
+// ---
+
 /**
  * @fileoverview 'category-reference-card' is a card that shows a list of
  * chips related to a certain category.

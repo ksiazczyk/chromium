@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata
+summary: Metadata file linking this directory to the common search engine choice metadata via mixins.

@@ -7,6 +7,12 @@
  * the browser.
  */
 
+// ---docerion
+// type: source
+// title: About page browser proxy
+// summary: Defines the AboutPageBrowserProxy interface, update status enum and implementation used by the About page to communicate with the browser.
+// ---
+
 /**
  * Enumeration of all possible update statuses. The string literals must match
  * the ones defined at |AboutHandler::UpdateStatusToString|.

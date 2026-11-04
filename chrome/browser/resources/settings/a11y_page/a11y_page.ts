@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility settings page element
+// summary: Defines the settings-a11y-page element that renders the accessibility settings section, handling toggles, screen reader state, and toast alert level preferences.
+// ---
+
 /**
  * @fileoverview
  * 'settings-a11y-page' is the small section of advanced settings with

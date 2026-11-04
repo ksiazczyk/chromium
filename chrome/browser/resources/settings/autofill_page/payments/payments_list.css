@@ -10,6 +10,12 @@
  * #include=settings-shared-lit autofill-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Payments list styles
+summary: Styles for the payments list, including the expiration column and separator lines between consecutive non-empty payment method lists.
+*/
+
 .expiration-column {
   align-items: center;
   display: flex;

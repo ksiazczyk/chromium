@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandbox status page logic for Windows
+// summary: Renders Windows sandbox diagnostics, decoding process creation mitigation policy bits and sandbox policy, process and feature information for the page.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 import {getRequiredElement} from 'chrome://resources/js/util.js';

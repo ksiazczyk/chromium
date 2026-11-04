@@ -7,6 +7,12 @@
  * row to be shown on the settings page.
  */
 
+// ---docerion
+// type: source
+// title: Pay over time issuer list entry element
+// summary: Lit element for the settings-pay-over-time-issuer-list-entry row showing a pay over time issuer with themed logos and a link to the manage payment methods page.
+// ---
+
 import 'chrome://resources/cr_elements/cr_icon_button/cr_icon_button.js';
 import '../../i18n_setup.js';
 

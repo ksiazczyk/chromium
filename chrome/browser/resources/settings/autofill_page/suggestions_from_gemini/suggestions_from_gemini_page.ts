@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suggestions from Gemini settings page element
+// summary: Lit element implementing the settings-suggestions-from-gemini-page subpage, mirroring autofill preferences, handling shortcut and toggle changes, and reporting metrics via the browser proxy.
+// ---
+
 import 'chrome://resources/cr_components/cr_shortcut_input/cr_shortcut_input.js';
 import 'chrome://resources/cr_elements/cr_icon/cr_icon.js';
 import 'chrome://resources/cr_elements/cr_link_row/cr_link_row.js';

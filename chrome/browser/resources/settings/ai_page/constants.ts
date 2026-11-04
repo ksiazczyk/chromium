@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI page constants
+// summary: Defines feature opt-in states, enterprise policy values, feature and enterprise pref names, and metrics action strings for the AI settings page.
+// ---
+
 // These values must stay in sync with
 // optimization_guide::prefs::FeatureOptInState in
 // components/optimization_guide/core/optimization_guide_prefs.h.

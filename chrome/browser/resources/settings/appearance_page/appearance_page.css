@@ -11,6 +11,12 @@
  * #include=cr-shared-style-lit settings-shared-lit md-select-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Appearance page styles
+summary: Lit CSS styles for the appearance settings page, covering theme, toolbar and home button rows and indented toggles.
+*/
+
 /* Lines up with cr-input. */
 #custom-input {
   /* (cr-input line-height + cr-input top/bottom padding) / 2 -

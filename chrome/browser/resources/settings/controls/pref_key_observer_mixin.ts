@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pref key observer mixin
+// summary: Polymer mixin that observes a prefKey, mirrors the matching preference object onto the element, and forbids reassigning the key after initial assignment.
+// ---
+
 import {PrefServiceObserverMixin} from '/shared/settings/prefs2/pref_service_observer_mixin.js';
 import type {PrefServiceObserverMixinInterface} from '/shared/settings/prefs2/pref_service_observer_mixin.js';
 import {assert} from 'chrome://resources/js/assert.js';

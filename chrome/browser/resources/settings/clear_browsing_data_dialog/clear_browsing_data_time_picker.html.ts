@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clear browsing data time picker HTML template
+// summary: Lit HTML template for the settings-clear-browsing-data-time-picker, rendering time period chips and a 'More' dropdown menu.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsClearBrowsingDataTimePickerElement} from './clear_browsing_data_time_picker.js';

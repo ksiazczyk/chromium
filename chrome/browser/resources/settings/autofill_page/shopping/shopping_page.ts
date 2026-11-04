@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shopping page element
+// summary: Lit element for the settings-shopping-page subpage that manages shopping autofill, letting users view or hide saved orders and shipments and opt out of the feature.
+// ---
+
 /**
  * @fileoverview 'settings-shopping-page', is a subpage of the "Your saved info"
  * section. It manages the user's autofill data for shopping. Users can view and

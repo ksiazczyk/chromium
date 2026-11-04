@@ -7,6 +7,12 @@
  * settings pages for Lit components.
  */
 
+// ---docerion
+// type: source
+// title: Tooltip mixin for Lit settings elements
+// summary: Lit mixin providing shared tooltip show and hide behavior for Lit-based settings components.
+// ---
+
 import type {CrTooltipElement} from 'chrome://resources/cr_elements/cr_tooltip/cr_tooltip.js';
 import {dedupingMixin} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 

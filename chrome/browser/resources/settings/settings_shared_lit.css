@@ -11,6 +11,12 @@
  * #include=cr-shared-style-lit search-highlight-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shared Lit styles for Settings UI
+summary: Shared CSS styles for Material Design settings pages, including overrides for the Settings Refresh 2026 experiment.
+*/
+
 /* Style overrides for Settings Refresh 2026 experiment */
 :host-context([settings-refresh-2026]) {
   --cr-active-background-color: var(--color-settings-row-background-active);

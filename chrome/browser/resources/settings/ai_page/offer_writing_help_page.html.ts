@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offer writing help page HTML template
+// summary: Lit HTML template for the AI compose settings subpage with policy indicator, description columns, nudge toggle, and disabled sites list.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsOfferWritingHelpPageElement} from './offer_writing_help_page.js';

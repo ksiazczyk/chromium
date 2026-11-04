@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for saved tab groups unsupported resources
+summary: Delegates code ownership to the owners list defined in components/saved_tab_groups.

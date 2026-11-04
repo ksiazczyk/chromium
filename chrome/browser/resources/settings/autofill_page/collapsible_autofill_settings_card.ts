@@ -8,6 +8,12 @@
  * settings. It can be expanded or collapsed by the user.
  */
 
+// ---docerion
+// type: source
+// title: Collapsible autofill settings card element
+// summary: Lit element providing an expandable card for Enhanced Autofill opt-in, reauthentication and walletable pass detection settings with enterprise policy handling.
+// ---
+
 import 'chrome://resources/cr_elements/cr_collapse/cr_collapse.js';
 import 'chrome://resources/cr_elements/cr_expand_button/cr_expand_button.js';
 import 'chrome://resources/cr_elements/cr_icon/cr_icon.js';

@@ -6,6 +6,12 @@
  * #type=style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Screen reader only CSS utility
+summary: Provides CSS classes that visually hide elements while keeping them focusable for screen readers and allow substituting accessibility messages.
+*/
+
 /* Use this class to hide an element visually, it'll still be focusable by
  * the screen reader. Note that the size of the a11y focus highlighter will be
  * defined by the content of the hidden element. If you need to change the a11y

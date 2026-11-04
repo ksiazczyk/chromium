@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lazy loading of Settings modules
+// summary: Loads the lazy-load module once and resolves a promise when the deferred Settings custom elements are defined.
+// ---
+
 import {getTrustedScriptURL} from 'chrome://resources/js/static_types.js';
 
 let lazyLoadPromise: Promise<void>|null = null;

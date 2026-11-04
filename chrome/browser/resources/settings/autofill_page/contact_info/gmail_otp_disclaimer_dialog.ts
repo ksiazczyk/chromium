@@ -8,6 +8,12 @@
  * be enabled.
  */
 
+// ---docerion
+// type: source
+// title: Gmail OTP disclaimer dialog element
+// summary: Defines the settings-gmail-otp-disclaimer-dialog custom element shown when enabling Gmail OTP filling requires Gmail smart features.
+// ---
+
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/cr_elements/cr_dialog/cr_dialog.js';
 

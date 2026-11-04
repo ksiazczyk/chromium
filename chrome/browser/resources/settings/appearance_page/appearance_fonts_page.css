@@ -9,6 +9,12 @@
  * #include=cr-shared-style-lit settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Appearance fonts page styles
+summary: Lit CSS styles for the fonts settings subpage, laying out font size sliders and font preview elements.
+*/
+
 #minimumSize {
   align-items: flex-end;
   display: flex;

@@ -7,6 +7,12 @@
  * credit cards for use in autofill and payments APIs.
  */
 
+// ---docerion
+// type: source
+// title: Settings payments page element
+// summary: Implements the settings-payments-page element that manages saved credit cards and IBANs for autofill, including edit, remove, and virtual card actions.
+// ---
+
 import 'chrome://resources/cr_elements/cr_icon/cr_icon.js';
 import 'chrome://resources/cr_elements/cr_action_menu/cr_action_menu.js';
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';

@@ -8,6 +8,12 @@
  * #include=settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Appearance page index styles
+summary: Lit CSS styles for the appearance page index, hiding views inside the view manager for search results.
+*/
+
 cr-view-manager [hidden-by-search],
 cr-view-manager[show-all] [slot=view][data-parent-view-id] {
   display: none;

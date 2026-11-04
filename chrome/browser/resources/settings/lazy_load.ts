@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lazy-loaded settings subpage imports
+// summary: Imports the settings subpage and dialog elements so they can be lazily loaded, covering site settings, privacy, autofill, AI, and other pages.
+// ---
+
 // Subpages
 import './ai_page/ai_mode_search_page.js';
 import './ai_page/ai_suggestions_page.js';

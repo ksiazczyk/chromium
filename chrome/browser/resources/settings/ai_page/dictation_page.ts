@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictation settings page element
+// summary: Lit element for the Talk to type (Dictation) settings subpage that displays and updates the dictation hotkey via the browser proxy.
+// ---
+
 import 'chrome://resources/cr_components/cr_shortcut_input/cr_shortcut_input.js';
 import '../settings_page/settings_subpage.js';
 

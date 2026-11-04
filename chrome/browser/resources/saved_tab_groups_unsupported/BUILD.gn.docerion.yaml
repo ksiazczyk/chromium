@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Grit build rules for saved tab groups unsupported resources
+summary: Defines grit and generate_grd targets that package unsupported.html into saved_tab_groups_unsupported resources for the Chrome build.

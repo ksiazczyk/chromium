@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Appearance fonts page element
+// summary: Lit element for the customize fonts settings subpage, mirroring font size and font family preferences into sliders and dropdown menus.
+// ---
+
 import '../controls/settings_slider.js';
 import '../settings_page/settings_subpage.js';
 import '../controls/settings_dropdown_menu.js';

@@ -7,6 +7,12 @@
  * the settings page.
  */
 
+// ---docerion
+// type: source
+// title: Credit card list entry element
+// summary: Settings element for a credit card row in the payments list, handling action menus, remote edit links, card descriptions, and benefits metrics.
+// ---
+
 import 'chrome://resources/cr_elements/cr_icon_button/cr_icon_button.js';
 
 import {I18nMixinLit} from '//resources/cr_elements/i18n_mixin_lit.js';

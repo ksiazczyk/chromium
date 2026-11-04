@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History search settings page element
+// summary: Lit element implementing the history search settings subpage with opt-in toggle, enterprise policy mirroring, and interaction metrics.
+// ---
+
 import 'chrome://resources/cr_elements/cr_icon/cr_icon.js';
 import 'chrome://resources/cr_elements/cr_link_row/cr_link_row.js';
 import '/shared/settings/controls/cr_policy_pref_indicator.js';

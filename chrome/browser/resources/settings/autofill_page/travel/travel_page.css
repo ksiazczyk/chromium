@@ -9,6 +9,12 @@
  * #include=settings-shared-lit autofill-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Travel page styles
+summary: Lit CSS for the settings travel page, importing shared settings and autofill style wrappers and hiding card overflow.
+*/
+
 .card {
   overflow: hidden;
 }

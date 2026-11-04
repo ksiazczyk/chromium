@@ -7,6 +7,12 @@
  * page.
  */
 
+// ---docerion
+// type: source
+// title: IBAN list entry element
+// summary: Lit element for the settings-iban-list-entry row that displays a saved IBAN, builds its accessibility description, and fires menu or remote edit events.
+// ---
+
 import 'chrome://resources/cr_elements/cr_icon_button/cr_icon_button.js';
 import '../../i18n_setup.js';
 

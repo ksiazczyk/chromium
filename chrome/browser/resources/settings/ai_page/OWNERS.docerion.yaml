@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the AI settings page
+summary: Lists code owners for the AI settings directory and per-file owner rules for AI Mode Search, dictation, and related pages.

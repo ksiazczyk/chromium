@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Travel page HTML template
+// summary: Lit HTML template for the settings travel page with an opt-in toggle, Gemini suggestions link row, extension indicator, and autofill AI entries list.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsTravelPageElement} from './travel_page.js';

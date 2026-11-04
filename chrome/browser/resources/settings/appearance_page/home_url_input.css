@@ -6,6 +6,12 @@
  * #type=style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the home URL input element
+summary: Lit style sheet for the home-url-input settings element, sizing the cr-input field and adjusting its row layout.
+*/
+
 :host {
   cursor: auto;
   display: block;

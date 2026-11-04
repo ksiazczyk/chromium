@@ -9,6 +9,12 @@
  * #include=cr-shared-style-lit settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the AI logging info bullet
+summary: Lit CSS laying out the logging info bullet list items and icons, with adjustments for the settings-refresh-2026 style.
+*/
+
 cr-icon {
   flex-shrink: 0;
 }

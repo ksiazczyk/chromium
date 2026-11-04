@@ -11,6 +11,12 @@
  * #include=settings-shared-lit passwords-shared
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Passkey edit dialog styles
+summary: Lit CSS styles for the passkey edit dialog, defining icon button sizing, input spacing, and footnote layout in the settings passwords UI.
+*/
+
 cr-icon-button {
   --cr-icon-button-icon-size: 16px;
   margin-inline-start: 2px;

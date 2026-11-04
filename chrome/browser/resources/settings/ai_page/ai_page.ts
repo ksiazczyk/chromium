@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI settings page element
+// summary: Lit element implementing the AI settings page with feature visibility flags, preference observation, metrics, and navigation to AI subpages.
+// ---
+
 import 'chrome://resources/cr_elements/cr_link_row/cr_link_row.js';
 import '../controls/settings_toggle_button.js';
 import '../icons.html.js';

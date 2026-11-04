@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address remove confirmation dialog element
+// summary: Lit element implementing the settings-address-remove-confirmation-dialog that confirms removal of saved addresses with account-specific notices.
+// ---
+
 /**
  * @fileoverview 'address-remove-confirmation-dialog' is the dialog that allows
  * removing a saved address.

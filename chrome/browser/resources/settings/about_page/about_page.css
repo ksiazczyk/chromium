@@ -9,6 +9,12 @@
  * #include=cr-shared-style-lit settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: About page styles
+summary: CSS for the settings About page, styling the product logo, info sections, update status icons, throbber and buttons.
+*/
+
 :host {
   --about-page-image-space: 10px;
 }

@@ -9,6 +9,12 @@
  * #include=settings-shared-lit cr-radio-button-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Collapse radio button styles
+summary: Styles the settings collapse radio button, covering disabled opacity, collapse margins, the expand button border wrapper, and separator sizing.
+*/
+
 :host {
   display: block;
 }

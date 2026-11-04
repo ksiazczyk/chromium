@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Segmentation Internals WebUI logic
+// summary: TypeScript for the internals page that renders client and segment info and provides controls to execute models, overwrite prediction results, and set selected segments.
+// ---
+
 import {getTrustedHTML} from 'chrome://resources/js/static_types.js';
 import {getRequiredElement} from 'chrome://resources/js/util.js';
 

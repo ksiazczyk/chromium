@@ -1,0 +1,4 @@
+# Docerion header of settings.html.
+type: source
+title: Settings WebUI entry page
+summary: HTML shell for the settings page that sets text direction, language and theming, then loads the settings module and root UI element.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility page index Lit template
+// summary: Lit HTML template for the accessibility page index, hosting the a11y page and, on Linux, the captions page within a view manager.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsA11yPageIndexElement} from './a11y_page_index.js';

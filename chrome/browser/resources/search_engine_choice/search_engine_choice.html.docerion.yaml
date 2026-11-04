@@ -1,0 +1,4 @@
+# Docerion header of search_engine_choice.html.
+type: source
+title: Search engine choice WebUI entry page
+summary: HTML entry page for the search engine choice WebUI that renders the app element and loads app.js, with dark mode body styling.

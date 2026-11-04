@@ -1,0 +1,4 @@
+# Docerion header of segmentation_internals.html.
+type: source
+title: Segmentation Internals WebUI page
+summary: HTML shell for the segmentation internals debug page that shows service status and client segment information and loads the page script.

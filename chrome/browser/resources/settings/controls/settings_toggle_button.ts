@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings toggle button element
+// summary: Polymer element implementing settings-toggle-button, a toggle that controls a supplied preference with ARIA handling and optional custom click logic.
+// ---
+
 /**
  * @fileoverview
  * `settings-toggle-button` is a toggle that controls a supplied preference.

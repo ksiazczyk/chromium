@@ -7,6 +7,12 @@
  * cards etc.) to be shown in the settings page.
  */
 
+// ---docerion
+// type: source
+// title: Payments list element
+// summary: Lit element for the settings-payments-list that displays saved credit cards, IBANs, and pay over time issuers and manages focus when entries are removed.
+// ---
+
 import './credit_card_list_entry.js';
 import './iban_list_entry.js';
 import './pay_over_time_issuer_list_entry.js';

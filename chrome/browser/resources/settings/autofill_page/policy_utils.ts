@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill policy utilities
+// summary: Helpers that evaluate enterprise autofill policies such as types_blocked and compute effective, enforced preference states for autofill data categories.
+// ---
+
 import {ModelExecutionEnterprisePolicyValue} from '../ai_page/constants.js';
 import {loadTimeData} from '../i18n_setup.js';
 

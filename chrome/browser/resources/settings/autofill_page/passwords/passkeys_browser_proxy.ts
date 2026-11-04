@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Passkeys browser proxy
+// summary: Browser proxy interface and implementation for checking, enumerating, deleting, and editing locally stored passkeys via Chrome handler messages.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 
 export interface Passkey {

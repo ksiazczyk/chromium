@@ -9,6 +9,12 @@
  * #include=settings-shared-lit settings-columned-section-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: History search page styles
+summary: Lit CSS styles for the history search settings subpage, defining separators and policy indicator spacing.
+*/
+
 .separator {
   margin: 0 4px;
 }

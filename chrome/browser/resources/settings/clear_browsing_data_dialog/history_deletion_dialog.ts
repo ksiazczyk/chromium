@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History deletion dialog element
+// summary: Lit element for the settings-history-deletion-dialog that informs users about other forms of browsing history in their account after deletion.
+// ---
+
 /**
  * @fileoverview 'settings-history-deletion-dialog' is a dialog that is
  * optionally shown inside settings-clear-browsing-data-dialog after deleting

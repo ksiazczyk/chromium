@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI add or edit dialog template
+// summary: Lit HTML template for the dialog that adds and edits Autofill AI entity instances, with country and date selects and wallet branding.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsAutofillAiAddOrEditDialogElement} from './autofill_ai_add_or_edit_dialog.js';

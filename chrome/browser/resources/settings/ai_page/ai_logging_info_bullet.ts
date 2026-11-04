@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI logging info bullet element
+// summary: Defines the settings-ai-logging-info-bullet element that informs about AI logging practices and adapts to enterprise policy state.
+// ---
+
 /**
  * @fileoverview
  * 'settings-ai-logging-info-bullet' is a bullet point that informs about

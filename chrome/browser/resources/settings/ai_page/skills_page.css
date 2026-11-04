@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit settings-shared-lit settings-columned-section-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Skills page styles
+summary: Lit CSS styles for the Skills settings subpage, importing shared styles and styling the columned section description header.
+*/
+
 .settings-columned-section h2.description-header {
   font-weight: 500;
 }

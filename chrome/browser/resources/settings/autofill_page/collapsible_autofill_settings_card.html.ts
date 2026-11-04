@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Collapsible autofill settings card HTML template
+// summary: Lit HTML template for the collapsible autofill settings card with the Enhanced Autofill opt-in toggle, extension indicators and walletable pass detection toggle.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {CollapsibleAutofillSettingsCardElement} from './collapsible_autofill_settings_card.js';

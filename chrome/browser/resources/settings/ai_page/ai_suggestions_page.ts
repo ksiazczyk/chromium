@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI suggestions page element
+// summary: Settings subpage element managing the AI suggestions opt-in toggle with enterprise policy handling and interaction metrics.
+// ---
+
 import 'chrome://resources/cr_elements/cr_icon/cr_icon.js';
 import './ai_policy_indicator.js';
 import '../settings_page/settings_subpage.js';
