@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signin promo tab helper unit tests
+// summary: Unit tests for SigninPromoTabHelper sign-in callbacks, covering successful sign-in, the 50-minute timeout, and mismatched access points.
+// ---
+
 #include "chrome/browser/ui/signin/promos/signin_promo_tab_helper.h"
 
 #include "base/functional/callback.h"

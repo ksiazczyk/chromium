@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in promo tab helper declarations
+// summary: Declares a WebContents user data helper that waits for a successful sign-in and executes a callback, used to move autofill data to account storage.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SIGNIN_PROMOS_SIGNIN_PROMO_TAB_HELPER_H_
 #define CHROME_BROWSER_UI_SIGNIN_PROMOS_SIGNIN_PROMO_TAB_HELPER_H_
 

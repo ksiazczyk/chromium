@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Minimal SideUiContainer test implementation
+// summary: Minimal SideUiContainer implementation for tests that records sizing inputs, callback counts, and can simulate common container mistakes.
+// ---
+
 package org.chromium.chrome.browser.ui.side_ui;
 
 import android.content.res.Resources;

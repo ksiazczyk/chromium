@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SigninViewController header
+// summary: Declares SigninViewController, the desktop class responsible for showing and hiding all sign-in related UIs including modal dialogs and DICE flows.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SIGNIN_SIGNIN_VIEW_CONTROLLER_H_
 #define CHROME_BROWSER_UI_SIGNIN_SIGNIN_VIEW_CONTROLLER_H_
 

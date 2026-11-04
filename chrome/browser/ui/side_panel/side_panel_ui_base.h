@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SidePanelUIBase base class header
+// summary: Declares SidePanelUIBase, the base class for side panel UIs, defining the UniqueKey tuple and PanelData state used to manage side panel entries.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SIDE_PANEL_SIDE_PANEL_UI_BASE_H_
 #define CHROME_BROWSER_UI_SIDE_PANEL_SIDE_PANEL_UI_BASE_H_
 

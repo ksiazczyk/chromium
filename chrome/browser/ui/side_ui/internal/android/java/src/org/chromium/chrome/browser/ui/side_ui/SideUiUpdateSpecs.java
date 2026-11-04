@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SideUiUpdateSpecs
+// summary: Value object bundling current, new, and diffed side UI specs with top margin diffs and the triggering update request.
+// ---
+
 package org.chromium.chrome.browser.ui.side_ui;
 
 import com.google.errorprone.annotations.DoNotMock;

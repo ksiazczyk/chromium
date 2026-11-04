@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dice migration service factory header
+// summary: Declares the DiceMigrationServiceFactory singleton providing per-profile access to the Dice migration service.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SIGNIN_DICE_MIGRATION_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_UI_SIGNIN_DICE_MIGRATION_SERVICE_FACTORY_H_
 

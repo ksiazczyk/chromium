@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SidePanelUtil implementation
+// summary: Implements SidePanelUtil helpers that create or fetch a SidePanelContentProxy for a view and resolve the title text of a side panel entry.
+// ---
+
 #include "chrome/browser/ui/side_panel/side_panel_util.h"
 
 #include <memory>

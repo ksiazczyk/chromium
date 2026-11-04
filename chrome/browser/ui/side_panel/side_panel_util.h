@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SidePanelUtil header
+// summary: Declares SidePanelUtil static helpers for obtaining a side panel content proxy and the title text of a side panel entry.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SIDE_PANEL_SIDE_PANEL_UTIL_H_
 #define CHROME_BROWSER_UI_SIDE_PANEL_SIDE_PANEL_UTIL_H_
 

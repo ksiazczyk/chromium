@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bubble sign-in promo delegate class declarations
+// summary: Declares the bubble sign-in promo delegate interface and subclasses that trigger sign-in and handle syncable data types or post-sign-in callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SIGNIN_PROMOS_BUBBLE_SIGNIN_PROMO_DELEGATE_H_
 #define CHROME_BROWSER_UI_SIGNIN_PROMOS_BUBBLE_SIGNIN_PROMO_DELEGATE_H_
 

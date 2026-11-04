@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window-scoped side panel registry bridge implementation
+// summary: Implements the JNI bridge that creates and owns a window-scoped SidePanelRegistry on behalf of the Java WindowScopedSidePanelRegistryBridge class.
+// ---
+
 #include "chrome/browser/ui/side_panel/internal/android/window_scoped_side_panel_registry_bridge.h"
 
 #include <jni.h>

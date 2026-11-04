@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab-scoped side panel dev feature implementation
+// summary: Implements the tab-scoped side panel dev feature, toggling a panel that shows the tab title, a dev link, filler text and an input field via JNI.
+// ---
+
 package org.chromium.chrome.browser.ui.side_panel.dev;
 
 import android.annotation.SuppressLint;

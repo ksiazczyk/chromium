@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side panel dev feature factory
+// summary: Factory that creates a side panel dev feature, choosing the window-scoped or tab-scoped implementation based on enabled feature flags.
+// ---
+
 package org.chromium.chrome.browser.ui.side_panel.dev;
 
 import org.chromium.build.annotations.NullMarked;

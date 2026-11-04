@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bubble sign-in promo sign-in button view implementation
+// summary: Implements the sign-in button for bubble sign-in promos, showing either a plain button or a personalized account card with a delayed callback to prevent double clicks.
+// ---
+
 #include "chrome/browser/ui/signin/promos/bubble_signin_promo_signin_button_view.h"
 
 #include <memory>

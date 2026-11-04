@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test browser controls visibility delegate for side UI tests
+// summary: Test implementation of BrowserStateBrowserControlsVisibilityDelegate that counts persistent controls show and release token calls.
+// ---
+
 package org.chromium.chrome.browser.ui.side_ui;
 
 import org.chromium.base.supplier.ObservableSuppliers;

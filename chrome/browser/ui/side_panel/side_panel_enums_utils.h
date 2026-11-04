@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side panel enum string conversion utilities
+// summary: Provides inline ToString helpers that convert side panel enums such as open triggers, content states, and hide reasons to their string names.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SIDE_PANEL_SIDE_PANEL_ENUMS_UTILS_H_
 #define CHROME_BROWSER_UI_SIDE_PANEL_SIDE_PANEL_ENUMS_UTILS_H_
 

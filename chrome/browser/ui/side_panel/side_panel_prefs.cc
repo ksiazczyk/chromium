@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side panel preferences implementation
+// summary: Registers side panel profile preferences for alignment and width and computes which side panels have configurable alignments in Settings.
+// ---
+
 #include "chrome/browser/ui/side_panel/side_panel_prefs.h"
 
 #include "base/feature_list.h"

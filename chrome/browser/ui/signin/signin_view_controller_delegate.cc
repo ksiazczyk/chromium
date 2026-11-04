@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SigninViewControllerDelegate base implementation
+// summary: Implements the observer list plumbing of the base SigninViewControllerDelegate used by the platform-specific sign-in dialog managers.
+// ---
+
 #include "chrome/browser/ui/signin/signin_view_controller_delegate.h"
 
 #include "base/observer_list.h"

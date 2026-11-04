@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockSidePanelUI gmock header
+// summary: Declares a gmock mock of the SidePanelUI interface so tests can stub showing, closing and querying side panel entries.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SIDE_PANEL_MOCK_SIDE_PANEL_UI_H_
 #define CHROME_BROWSER_UI_SIDE_PANEL_MOCK_SIDE_PANEL_UI_H_
 

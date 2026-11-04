@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bubble sign-in promo view implementation
+// summary: Implements the personalized sign-in promo bubble view, choosing titles and subtitles per promo type and signed-in state and recording dismissal metrics.
+// ---
+
 #include "chrome/browser/ui/signin/promos/bubble_signin_promo_view.h"
 
 #include <memory>

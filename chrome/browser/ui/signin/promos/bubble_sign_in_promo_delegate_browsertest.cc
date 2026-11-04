@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bubble sign-in promo delegate browser tests
+// summary: Browser tests verifying that the bubble sign-in promo delegate opens the sign-in page in a new tab or reuses a blank tab when the sign-in link is clicked.
+// ---
+
 #include <memory>
 
 #include "base/command_line.h"

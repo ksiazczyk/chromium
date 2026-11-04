@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dice migration service implementation
+// summary: Implements the per-profile service that force-migrates implicitly signed-in users to explicit browser sign-in and shows a migration toast.
+// ---
+
 #include "chrome/browser/ui/signin/dice_migration_service.h"
 
 #include "base/check_is_test.h"

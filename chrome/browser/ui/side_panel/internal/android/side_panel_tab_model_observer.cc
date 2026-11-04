@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab model observer for side panel coordinator
+// summary: Relays TabModel events such as tab selection, closure, and reparenting to the Android side panel coordinator.
+// ---
+
 #include "chrome/browser/ui/side_panel/internal/android/side_panel_tab_model_observer.h"
 
 #include "base/check.h"

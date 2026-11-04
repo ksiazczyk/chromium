@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dice migration service header
+// summary: Declares the DiceMigrationService keyed service that tracks and performs migration to the explicit browser sign-in state.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SIGNIN_DICE_MIGRATION_SERVICE_H_
 #define CHROME_BROWSER_UI_SIGNIN_DICE_MIGRATION_SERVICE_H_
 

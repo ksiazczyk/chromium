@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SidePanelContentProxy implementation
+// summary: Implements availability tracking for side panel content, running a callback when the content becomes ready to show.
+// ---
+
 #include "chrome/browser/ui/side_panel/side_panel_content_proxy.h"
 
 #include "ui/base/class_property.h"

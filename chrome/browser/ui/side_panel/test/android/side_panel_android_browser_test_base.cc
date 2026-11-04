@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Side panel Android browser test base implementation
+// summary: Implements the browser test base that enables the Android side panel feature and skips tests on unsupported form factors.
+// ---
+
 #include "chrome/browser/ui/side_panel/test/android/side_panel_android_browser_test_base.h"
 
 #include "base/android/device_info.h"

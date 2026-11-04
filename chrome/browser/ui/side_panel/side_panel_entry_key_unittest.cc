@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Side panel entry key unit tests
+// summary: Unit tests verifying SidePanelEntryKey string output for regular and extension entries and the action ID mapping for entry IDs.
+// ---
+
 #include "chrome/browser/ui/side_panel/side_panel_entry_key.h"
 
 #include <string>

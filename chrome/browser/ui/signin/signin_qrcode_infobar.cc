@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SigninQRCodeInfoBar views implementation
+// summary: Implements the Views infobar that displays a dynamic sign-in QR code, updating it from SigninQRCodeModel observations and removing itself when the code is reset.
+// ---
+
 #include "chrome/browser/ui/signin/signin_qrcode_infobar.h"
 
 #include <memory>

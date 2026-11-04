@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiceWebSigninInterceptorDelegate class declaration
+// summary: Declares the Dice sign-in interceptor delegate that shows interception bubbles and OIDC dialogs, first-run experiences, and error UI, and records interception result metrics.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SIGNIN_DICE_WEB_SIGNIN_INTERCEPTOR_DELEGATE_H_
 #define CHROME_BROWSER_UI_SIGNIN_DICE_WEB_SIGNIN_INTERCEPTOR_DELEGATE_H_
 

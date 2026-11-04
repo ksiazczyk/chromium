@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side panel metrics implementation
+// summary: Implements SidePanelMetrics, recording histograms and user actions for side panel opens, closes, durations, resize widths, and entry visibility.
+// ---
+
 #include "chrome/browser/ui/side_panel/side_panel_metrics.h"
 
 #include <string_view>

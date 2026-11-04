@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Side UI internal build targets
+summary: Defines GN targets for the side UI internal module, including Android resources, the Java library with its dependencies, and Robolectric unit tests.

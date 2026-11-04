@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Side panel coordinator Android browser test support
+// summary: Java helper for side_panel_coordinator_android_browsertest.cc that creates a green test view to display inside the side panel.
+// ---
+
 package org.chromium.chrome.browser.ui.side_panel.test;
 
 import android.annotation.SuppressLint;

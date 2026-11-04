@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window-scoped side panel registry bridge unit tests
+// summary: Unit tests verifying Java-driven creation, destruction, and pointer clearing of the native bridge and that the side panel registry is retrievable from the browser window.
+// ---
+
 #include "chrome/browser/ui/side_panel/internal/android/window_scoped_side_panel_registry_bridge.h"
 
 #include <jni.h>

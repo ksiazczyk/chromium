@@ -1,6 +1,13 @@
 // // Copyright 2024 The Chromium Authors
 // // Use of this source code is governed by a BSD-style license that can be
 // // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Signin promo tab helper browser tests
+// summary: In-process browser tests verifying that SigninPromoTabHelper runs password and address move callbacks after sign-in or reauthentication from a tab.
+// ---
+
 #include "chrome/browser/ui/signin/promos/signin_promo_tab_helper.h"
 
 #include "base/test/mock_callback.h"

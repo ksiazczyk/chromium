@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android side panel registry browser test
+// summary: Verifies that window-scoped and tab-scoped side panel registries exist and are distinct on Android.
+// ---
+
 #include "chrome/browser/ui/side_panel/side_panel_registry.h"
 
 #include "chrome/browser/ui/side_panel/test/android/side_panel_android_browser_test_base.h"

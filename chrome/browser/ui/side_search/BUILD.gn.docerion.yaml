@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Side Search build configuration
+summary: Defines the side_search source_set build target, listing the preference sources and their dependencies for toolkit_views builds.

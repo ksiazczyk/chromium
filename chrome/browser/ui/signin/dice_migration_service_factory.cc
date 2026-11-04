@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dice migration service factory implementation
+// summary: Implements the profile-keyed factory that creates DiceMigrationService at browser context creation to trigger the migration flow.
+// ---
+
 #include "chrome/browser/ui/signin/dice_migration_service_factory.h"
 
 #include "chrome/browser/profiles/profile.h"

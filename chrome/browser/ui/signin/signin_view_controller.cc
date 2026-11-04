@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SigninViewController implementation
+// summary: Implements the controller that shows and hides sign-in UIs such as modal sign-in, DICE full-tab pages, sync confirmation, error dialogs and QR code infobars.
+// ---
+
 #include "chrome/browser/ui/signin/signin_view_controller.h"
 
 #include <memory>

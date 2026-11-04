@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidSidePanelEnabledFn C++ implementation
+// summary: Implements IsEnabled() by calling the Java AndroidSidePanelEnabledFn through JNI to check whether the Android side panel is enabled.
+// ---
+
 #include "chrome/browser/ui/side_panel/android/android_side_panel_enabled_fn.h"
 
 #include "base/android/jni_android.h"

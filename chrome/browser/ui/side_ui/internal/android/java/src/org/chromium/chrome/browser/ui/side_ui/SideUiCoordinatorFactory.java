@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SideUiCoordinatorFactory
+// summary: Factory that creates a SideUiCoordinatorImpl when the Android side panel or vertical tabs feature is enabled.
+// ---
+
 package org.chromium.chrome.browser.ui.side_ui;
 
 import android.app.Activity;

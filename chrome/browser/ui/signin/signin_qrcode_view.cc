@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SigninQRCodeView implementation
+// summary: Implements the banner view that displays the passkey QR code alongside the product logo, title and description, replacing a loading spinner once the code arrives.
+// ---
+
 #include "chrome/browser/ui/signin/signin_qrcode_view.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SigninQRCodeInfoBarDelegate class declaration
+// summary: Declares the infobar delegate for the sign-in QR code infobar, tying its lifetime to DiceTabHelper sign-in page state and the owning profile.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SIGNIN_SIGNIN_QRCODE_INFOBAR_DELEGATE_H_
 #define CHROME_BROWSER_UI_SIGNIN_SIGNIN_QRCODE_INFOBAR_DELEGATE_H_
 

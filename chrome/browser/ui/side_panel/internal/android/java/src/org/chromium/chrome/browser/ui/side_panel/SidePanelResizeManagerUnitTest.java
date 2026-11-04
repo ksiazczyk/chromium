@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SidePanelResizeManager unit tests
+// summary: Robolectric unit tests for the side panel resize manager's width handling and clamping.
+// ---
+
 package org.chromium.chrome.browser.ui.side_panel;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidSidePanelEnabledFn feature enablement checks
+// summary: Sole authority deciding whether the Android side panel is enabled, exposing feature flag checks and tab- versus window-scoped dev feature queries.
+// ---
+
 package org.chromium.chrome.browser.ui.side_panel;
 
 import org.jni_zero.CalledByNative;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window-scoped developer side panel implementation
+// summary: Implements the window-scoped developer side panel on Android, registering a toolbar side panel entry with JNI bindings for toggle and destroy.
+// ---
+
 #include "chrome/browser/ui/side_panel/internal/android/dev/side_panel_window_scoped_dev_feature.h"
 
 #include <memory>

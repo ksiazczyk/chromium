@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Deferred side panel entry tracker declaration
+// summary: Declares SidePanelDeferredEntryTracker, which stores tab-scoped and window-scoped side panel entries deferred until space allows showing them.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SIDE_PANEL_INTERNAL_ANDROID_SIDE_PANEL_DEFERRED_ENTRY_TRACKER_H_
 #define CHROME_BROWSER_UI_SIDE_PANEL_INTERNAL_ANDROID_SIDE_PANEL_DEFERRED_ENTRY_TRACKER_H_
 

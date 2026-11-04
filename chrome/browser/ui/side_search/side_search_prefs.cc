@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side Search prefs implementation
+// summary: Registers the side_search.enabled boolean profile preference, which is mapped to an enterprise policy value.
+// ---
+
 #include "chrome/browser/ui/side_search/side_search_prefs.h"
 
 #include "components/pref_registry/pref_registry_syncable.h"

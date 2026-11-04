@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window-scoped developer side panel header
+// summary: Declares the native SidePanelWindowScopedDevFeature class that backs the Java window-scoped developer side panel feature.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SIDE_PANEL_INTERNAL_ANDROID_DEV_SIDE_PANEL_WINDOW_SCOPED_DEV_FEATURE_H_
 #define CHROME_BROWSER_UI_SIDE_PANEL_INTERNAL_ANDROID_DEV_SIDE_PANEL_WINDOW_SCOPED_DEV_FEATURE_H_
 

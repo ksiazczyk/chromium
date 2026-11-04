@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SidePanelUIBase implementation
+// summary: Implements SidePanelUIBase, the shared logic for resolving side panel registries, tracking the current entry key and notifying shown callbacks.
+// ---
+
 #include "chrome/browser/ui/side_panel/side_panel_ui_base.h"
 
 #include "base/functional/callback_forward.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SidePanelContainerCoordinatorImpl
+// summary: Implements the side panel container coordinator, handling the container view, content replacement and widths.
+// ---
+
 package org.chromium.chrome.browser.ui.side_panel;
 
 import static org.chromium.build.NullUtil.assertNonNull;

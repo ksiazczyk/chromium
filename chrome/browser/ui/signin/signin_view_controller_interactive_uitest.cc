@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sign-in view controller interactive UI tests
+// summary: Interactive browser tests for Chrome's sign-in view controller, covering sync confirmation dialogs, email confirmation, and sign-in interception flows.
+// ---
+
 #include "chrome/browser/ui/signin/signin_view_controller.h"
 
 #include <optional>

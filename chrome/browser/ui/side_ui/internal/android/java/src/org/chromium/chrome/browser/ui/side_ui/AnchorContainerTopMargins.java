@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnchorContainerTopMargins
+// summary: Holds the top margin for each anchor container side and computes diffs so only changed UI parts are updated.
+// ---
+
 package org.chromium.chrome.browser.ui.side_ui;
 
 import android.util.ArrayMap;

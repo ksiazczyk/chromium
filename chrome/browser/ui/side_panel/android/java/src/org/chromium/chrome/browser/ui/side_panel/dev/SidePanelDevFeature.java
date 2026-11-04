@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SidePanelDevFeature interface for development side panel testing
+// summary: Defines a Java interface for a development side panel feature that can toggle test content into the side panel container without integrating a production feature.
+// ---
+
 package org.chromium.chrome.browser.ui.side_panel.dev;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side panel entry key implementation
+// summary: Implements SidePanelEntryKey, enforcing extension ID usage for extension entries and providing equality, ordering and string conversion.
+// ---
+
 #include "chrome/browser/ui/side_panel/side_panel_entry_key.h"
 
 #include <sstream>

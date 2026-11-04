@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for account preview promo subtitles
+// summary: Unit tests verifying the formatted account preview promo subtitles and titles for each sync data type and UI surface.
+// ---
+
 #include "chrome/browser/ui/signin/account_preview_utils.h"
 
 #include <algorithm>

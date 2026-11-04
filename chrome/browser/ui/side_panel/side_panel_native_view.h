@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side panel native view type alias
+// summary: Defines a platform-dependent SidePanelNativeView alias that maps to an Android native view or a views::View unique pointer.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SIDE_PANEL_SIDE_PANEL_NATIVE_VIEW_H_
 #define CHROME_BROWSER_UI_SIDE_PANEL_SIDE_PANEL_NATIVE_VIEW_H_
 

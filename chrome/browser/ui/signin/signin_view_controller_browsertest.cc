@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SigninViewController browser tests
+// summary: Browser tests covering sign-in UI flows managed by SigninViewController, including signout confirmation, sync opt-in and QR code infobar behavior.
+// ---
+
 #include "chrome/browser/ui/signin/signin_view_controller.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Side panel metrics unit tests
+// summary: Unit tests verifying that Read Anything shown-duration metrics are recorded correctly, including the one-day maximum cap for long sessions.
+// ---
+
 #include "chrome/browser/ui/side_panel/side_panel_metrics.h"
 
 #include "base/test/metrics/histogram_tester.h"

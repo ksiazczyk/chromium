@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side panel metrics class
+// summary: Declares the SidePanelMetrics class with static methods for recording side panel usage histograms such as open triggers, durations, and resize widths.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SIDE_PANEL_SIDE_PANEL_METRICS_H_
 #define CHROME_BROWSER_UI_SIDE_PANEL_SIDE_PANEL_METRICS_H_
 

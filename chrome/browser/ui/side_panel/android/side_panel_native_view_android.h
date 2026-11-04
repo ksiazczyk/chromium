@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SidePanelNativeViewAndroid header
+// summary: Declares a ui::PropertyHandler subclass that wraps a Java view reference for the Android side panel.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SIDE_PANEL_ANDROID_SIDE_PANEL_NATIVE_VIEW_ANDROID_H_
 #define CHROME_BROWSER_UI_SIDE_PANEL_ANDROID_SIDE_PANEL_NATIVE_VIEW_ANDROID_H_
 

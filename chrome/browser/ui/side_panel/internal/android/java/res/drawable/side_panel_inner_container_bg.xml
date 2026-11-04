@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Side panel inner container background drawable
+summary: Android shape drawable that renders the side panel inner container as a rounded rectangle using a theme color and corner radius.
+-->
+
 <shape
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:shape="rectangle">

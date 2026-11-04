@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in promo tab helper implementation
+// summary: Implements a per-tab helper that observes the identity manager and runs a post-sign-in callback, such as moving autofill data to account storage, within a time limit.
+// ---
+
 #include "chrome/browser/ui/signin/promos/signin_promo_tab_helper.h"
 
 #include "base/check_op.h"

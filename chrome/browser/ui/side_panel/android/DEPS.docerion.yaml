@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Android side panel include rules
+summary: DEPS file that forbids dependencies on the internal Android side panel directory from code outside it.

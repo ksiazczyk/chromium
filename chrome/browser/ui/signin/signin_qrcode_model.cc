@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SigninQRCodeModel implementation
+// summary: Implements the tab-scoped model that caches the WebAuthn QR code string during Chrome sign-in and notifies observers when the code is set, reset or destroyed.
+// ---
+
 #include "chrome/browser/ui/signin/signin_qrcode_model.h"
 
 #include <optional>

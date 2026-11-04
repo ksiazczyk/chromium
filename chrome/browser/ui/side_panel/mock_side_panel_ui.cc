@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockSidePanelUI implementation
+// summary: Implements the MockSidePanelUI test double that registers itself as unowned user data for side panel tests.
+// ---
+
 #include "chrome/browser/ui/side_panel/mock_side_panel_ui.h"
 
 MockSidePanelUI::MockSidePanelUI(ui::UnownedUserDataHost& host)

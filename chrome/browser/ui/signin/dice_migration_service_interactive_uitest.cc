@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dice migration service interactive UI test
+// summary: Interactive UI test covering the Dice migration toast, including triggering its timer, dismissing it and clicking its action button.
+// ---
+
 #include "chrome/browser/ui/signin/dice_migration_service.h"
 
 #include "base/test/metrics/histogram_tester.h"

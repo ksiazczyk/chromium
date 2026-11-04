@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Side UI resize handle dimension resources
+summary: Defines dimensions for the Side UI resize handle, including its 8dp width and the size, height, and corner radius of the centered drag bar.
+-->
+
 <resources>
     <!-- Default width of the strip that can be dragged to resize a Side UI container. Containers
          can override it through SideUiContainer#getResizeHandleWidthPx(). -->

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Android side panel internals build targets
+summary: Defines the C++, Java, and resource build targets that make up the Android side panel implementation.

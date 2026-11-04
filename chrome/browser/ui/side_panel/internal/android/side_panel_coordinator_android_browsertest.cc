@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android side panel coordinator browser tests
+// summary: Browser tests covering the Android side panel coordinator across tab selection, closure, reparenting, and auto close or restore behavior.
+// ---
+
 #include "chrome/browser/ui/side_panel/internal/android/side_panel_coordinator_android.h"
 
 #include <memory>

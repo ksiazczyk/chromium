@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SidePanelUI abstract side panel API
+// summary: Declares the abstract SidePanelUI interface for showing, closing, toggling and querying the browser side panel, including shown-state callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SIDE_PANEL_SIDE_PANEL_UI_H_
 #define CHROME_BROWSER_UI_SIDE_PANEL_SIDE_PANEL_UI_H_
 

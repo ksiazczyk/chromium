@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side panel entry key
+// summary: Declares SidePanelEntryKey, a value type combining a SidePanelEntryId with an optional extension ID to identify side panel entries.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SIDE_PANEL_SIDE_PANEL_ENTRY_KEY_H_
 #define CHROME_BROWSER_UI_SIDE_PANEL_SIDE_PANEL_ENTRY_KEY_H_
 

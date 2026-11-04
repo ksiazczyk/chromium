@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab-scoped developer side panel header
+// summary: Declares the SidePanelTabScopedDevFeature class that registers a tab-scoped developer side panel entry.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SIDE_PANEL_INTERNAL_ANDROID_DEV_SIDE_PANEL_TAB_SCOPED_DEV_FEATURE_H_
 #define CHROME_BROWSER_UI_SIDE_PANEL_INTERNAL_ANDROID_DEV_SIDE_PANEL_TAB_SCOPED_DEV_FEATURE_H_
 

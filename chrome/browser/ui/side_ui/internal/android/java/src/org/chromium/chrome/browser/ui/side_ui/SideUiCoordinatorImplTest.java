@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SideUiCoordinatorImplTest
+// summary: Robolectric unit tests covering the behavior of SideUiCoordinatorImpl across window sizes and update reasons.
+// ---
+
 package org.chromium.chrome.browser.ui.side_ui;
 
 import static org.junit.Assert.assertEquals;
