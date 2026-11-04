@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metric name hashing header
+// summary: Declares functions that hash metric names with MD5 and field trial names with SHA1 for metrics identification.
+// ---
+
 #ifndef BASE_METRICS_METRICS_HASHES_H_
 #define BASE_METRICS_METRICS_HASHES_H_
 

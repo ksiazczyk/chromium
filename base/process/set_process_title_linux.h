@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux process title setting header
+// summary: Declares setproctitle and setproctitle_init, which set the process title shown in ps and similar tools on Linux.
+// ---
+
 #ifndef BASE_PROCESS_SET_PROCESS_TITLE_LINUX_H_
 #define BASE_PROCESS_SET_PROCESS_TITLE_LINUX_H_
 

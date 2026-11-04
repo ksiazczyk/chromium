@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Linux process title setting
+// summary: Unit tests verifying setproctitle output via /proc/self/cmdline, including simple, empty, long titles and a ChromeOS module cache case.
+// ---
+
 #include "base/process/set_process_title_linux.h"
 
 #include <string.h>

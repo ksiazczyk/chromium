@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PersistentSampleMap unit tests
+// summary: Unit tests for PersistentSampleMap covering accumulation, add and subtract operations, persistence across allocators, and sample iteration.
+// ---
+
 #include "base/metrics/persistent_sample_map.h"
 
 #include <memory>

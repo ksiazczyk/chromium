@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power monitor core implementation
+// summary: Implements the PowerMonitor singleton, managing power, suspend, and thermal state observers and propagating battery, suspend, resume, and thermal changes from the source.
+// ---
+
 #include "base/power_monitor/power_monitor.h"
 
 #include <utility>

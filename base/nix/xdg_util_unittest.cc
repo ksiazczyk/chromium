@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for XDG utilities
+// summary: Unit tests for XDG directory lookups, desktop environment detection, session types, and activation token injection.
+// ---
+
 #include "base/nix/xdg_util.h"
 
 #include "base/base_paths.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persistent memory allocator implementation
+// summary: Implements a general-purpose, thread-secure allocator for blocks of persistent or shared memory, including segment metadata, block allocation, iteration, and corruption handling.
+// ---
+
 #include "base/metrics/persistent_memory_allocator.h"
 
 #include <assert.h>

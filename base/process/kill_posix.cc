@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX process kill implementation
+// summary: Implements termination status via waitpid on POSIX, plus helpers to wait for, clean up, and asynchronously reap child processes.
+// ---
+
 #include "base/process/kill.h"
 
 #include <errno.h>

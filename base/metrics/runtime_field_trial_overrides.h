@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RuntimeFieldTrialOverrides header
+// summary: Declares RuntimeFieldTrialInfo and the RuntimeFieldTrialOverrides singleton managing runtime field trial overrides with observer notifications.
+// ---
+
 #ifndef BASE_METRICS_RUNTIME_FIELD_TRIAL_OVERRIDES_H_
 #define BASE_METRICS_RUNTIME_FIELD_TRIAL_OVERRIDES_H_
 

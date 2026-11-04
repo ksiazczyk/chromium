@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FieldTrialListIncludingLowAnonymity class declaration
+// summary: Declares a gated wrapper around FieldTrialList that grants explicitly friended callers access to field trials with low anonymity.
+// ---
+
 #ifndef BASE_METRICS_FIELD_TRIAL_LIST_INCLUDING_LOW_ANONYMITY_H_
 #define BASE_METRICS_FIELD_TRIAL_LIST_INCLUDING_LOW_ANONYMITY_H_
 

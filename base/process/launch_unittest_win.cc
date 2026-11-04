@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows tests for GetAppOutputWithExitCodeAndTimeout (launch_unittest_win.cc)
+// summary: Verifies Windows GetAppOutputWithExitCodeAndTimeout behavior for output capture, stderr inclusion, timeouts, and launch failures.
+// ---
+
 #include <io.h>
 #include <stdio.h>
 #include <windows.h>

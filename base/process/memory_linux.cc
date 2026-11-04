@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux memory management for base processes
+// summary: Implements out-of-memory termination, unchecked allocation, and OOM score adjustment for Linux processes.
+// ---
+
 #include "base/process/memory.h"
 
 #include <stddef.h>

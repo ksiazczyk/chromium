@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FieldTrial implementation
+// summary: Implements the FieldTrial class that manages A/B experiment state, group assignment, command-line overrides, and shared-memory serialization of trials.
+// ---
+
 #include "base/metrics/field_trial.h"
 
 #include <algorithm>

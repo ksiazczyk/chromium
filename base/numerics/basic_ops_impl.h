@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal numeric operation primitives
+// summary: Defines internal concepts and endian helpers for packed integers, IEEE binary floats, and enums used by the numerics library.
+// ---
+
 #ifndef BASE_NUMERICS_BASIC_OPS_IMPL_H_
 #define BASE_NUMERICS_BASIC_OPS_IMPL_H_
 

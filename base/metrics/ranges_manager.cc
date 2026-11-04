@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RangesManager implementation
+// summary: Implements RangesManager and ThreadSafeRangesManager, which register and own canonical BucketRanges instances so equivalent ranges are not duplicated.
+// ---
+
 #include "base/metrics/ranges_manager.h"
 
 namespace base {

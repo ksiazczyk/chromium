@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process priority to string conversion
+// summary: Converts Process priority enum values to human-readable strings and provides stream output for them.
+// ---
+
 #include "base/process/process.h"
 
 #include <ostream>

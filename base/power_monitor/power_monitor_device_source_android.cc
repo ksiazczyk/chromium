@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android power monitor device source implementation
+// summary: Implements the Android power monitor source over JNI, mapping Android thermal statuses and forwarding battery power, thermal, and energy readings from Java.
+// ---
+
 #include "base/power_monitor/power_monitor_device_source.h"
 
 #include "base/android/scoped_java_ref.h"

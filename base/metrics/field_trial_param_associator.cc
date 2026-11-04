@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FieldTrialParamAssociator implementation
+// summary: Implements the FieldTrialParamAssociator singleton that stores and retrieves field trial parameters thread-safely, with shared memory fallback.
+// ---
+
 #include "base/metrics/field_trial_param_associator.h"
 
 #include <utility>

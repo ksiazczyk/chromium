@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Field trial parameter declarations
+// summary: Declares the FeatureParam template, the FieldTrialParams map type, and helper functions for reading typed field trial parameter values by feature.
+// ---
+
 #ifndef BASE_METRICS_FIELD_TRIAL_PARAMS_H_
 #define BASE_METRICS_FIELD_TRIAL_PARAMS_H_
 

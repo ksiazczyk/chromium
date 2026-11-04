@@ -1,0 +1,4 @@
+# Docerion header of memory_unittest_mac.mm.
+type: test
+title: Mac allocator helpers for memory unit tests
+summary: Allocates memory through Core Foundation system default, malloc, and malloc zone allocators for Mac memory tests.

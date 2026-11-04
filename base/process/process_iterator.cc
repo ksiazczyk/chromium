@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process iterator shared implementation
+// summary: Implements process iteration, snapshotting, filtering, and named-process lookup shared across platforms, with Android name truncation handling.
+// ---
+
 #include "base/process/process_iterator.h"
 
 #include "build/build_config.h"

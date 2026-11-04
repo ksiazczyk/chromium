@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenBSD process metrics implementation
+// summary: Implements ProcessMetrics on OpenBSD, computing per-process CPU usage and the system commit charge via sysctl.
+// ---
+
 #include "base/process/process_metrics.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local histogram macros
+// summary: Defines LOCAL_HISTOGRAM_* macros for recording enumeration, count, timing, and memory metrics locally without UMA reporting.
+// ---
+
 #ifndef BASE_METRICS_HISTOGRAM_MACROS_LOCAL_H_
 #define BASE_METRICS_HISTOGRAM_MACROS_LOCAL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for base::Process
+// summary: Unit tests covering Process creation, move semantics, duplication, creation time, priority and exit waiting, using multiprocess child helpers.
+// ---
+
 #include "base/process/process.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of power_monitor_device_source_ios.mm.
+type: source
+title: iOS power monitor device source
+summary: iOS implementation of PowerMonitorDeviceSource that reads battery power status via UIDevice and observes app foreground and background notifications for suspend and resume events.

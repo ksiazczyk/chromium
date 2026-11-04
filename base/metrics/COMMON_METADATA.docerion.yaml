@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common metadata for metrics bug tracking
+summary: Defines the Monorail and Buganizer components used for issues in the base/metrics directory.

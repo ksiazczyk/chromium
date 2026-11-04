@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac thermal state observer
+// summary: Declares the macOS observer that listens for thermal state change notifications and IOKit CPU speed limit updates, routing them to PowerMonitorSource.
+// ---
+
 #ifndef BASE_POWER_MONITOR_THERMAL_STATE_OBSERVER_MAC_H_
 #define BASE_POWER_MONITOR_THERMAL_STATE_OBSERVER_MAC_H_
 

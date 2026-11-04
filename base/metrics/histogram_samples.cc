@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Histogram samples implementation
+// summary: Implements HistogramSamples, including atomic single-sample load, extract, and accumulate logic plus pickle-based iteration over sample counts.
+// ---
+
 #include "base/metrics/histogram_samples.h"
 
 #include <limits>

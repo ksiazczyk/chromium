@@ -16,6 +16,12 @@
 //! histogram::record_bool("My.Boolean", true);
 //! ```
 
+// ---docerion
+// type: source
+// title: Rust API for UMA histogram recording
+// summary: Rust bindings via cxx that record boolean, linear, sparse, count, memory, and time samples into Chromium UMA histograms.
+// ---
+
 #[cxx::bridge(namespace = "base::rust")]
 mod ffi {
     unsafe extern "C++" {

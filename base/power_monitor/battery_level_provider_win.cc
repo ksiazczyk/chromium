@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows battery level provider
+// summary: Implements BatteryLevelProvider on Windows by enumerating battery devices with SetupAPI and querying capacity, voltage and discharge granularity through battery IOCTLs.
+// ---
+
 #include "base/power_monitor/battery_level_provider.h"
 
 #include "base/compiler_specific.h"

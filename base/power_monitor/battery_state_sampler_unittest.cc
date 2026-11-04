@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Battery state sampler unit tests
+// summary: Unit tests for the BatteryStateSampler covering observer notifications, sampling behavior and test instance installation using fake providers and event sources.
+// ---
+
 #include "base/power_monitor/battery_state_sampler.h"
 
 #include <queue>

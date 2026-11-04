@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARM assembly fast saturation for safe conversions
+// summary: Internal header providing ARM ssat/usat assembly instructions to saturate integer values to a destination type for the safe conversions library.
+// ---
+
 #ifndef BASE_NUMERICS_SAFE_CONVERSIONS_ARM_IMPL_H_
 #define BASE_NUMERICS_SAFE_CONVERSIONS_ARM_IMPL_H_
 

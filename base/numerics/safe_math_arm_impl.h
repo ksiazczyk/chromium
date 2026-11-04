@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARM assembler-optimized checked and clamped math operations
+// summary: Internal header implementing overflow-checked multiplication and clamped add, subtract, and multiply operations using ARM assembler instructions.
+// ---
+
 #ifndef BASE_NUMERICS_SAFE_MATH_ARM_IMPL_H_
 #define BASE_NUMERICS_SAFE_MATH_ARM_IMPL_H_
 

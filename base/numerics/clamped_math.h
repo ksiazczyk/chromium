@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClampedNumeric saturating arithmetic header
+// summary: Defines the ClampedNumeric class, which saturates results to type limits on overflow and provides arithmetic operators, Min, Max, Abs, and UnsignedAbs.
+// ---
+
 #ifndef BASE_NUMERICS_CLAMPED_MATH_H_
 #define BASE_NUMERICS_CLAMPED_MATH_H_
 

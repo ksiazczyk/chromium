@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Single sample metrics factory implementation
+// summary: Implements the single sample metrics factory and the default metric that reports one sample to a histogram at destruction.
+// ---
+
 #include "base/metrics/single_sample_metrics.h"
 
 #include "base/memory/ptr_util.h"

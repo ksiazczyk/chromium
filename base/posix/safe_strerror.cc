@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thread-safe strerror wrappers
+// summary: Implements safe_strerror_r and safe_strerror, wrapping GNU and POSIX strerror_r variants to give dependable, thread-safe error message formatting.
+// ---
+
 #include "base/posix/safe_strerror.h"
 
 #include <errno.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FieldTrialEntry implementation
+// summary: Implements FieldTrialEntry helpers that read trial state and parameters from a persistent memory allocator shared with child processes.
+// ---
+
 #include "base/metrics/field_trial_entry.h"
 
 #include "base/containers/span.h"

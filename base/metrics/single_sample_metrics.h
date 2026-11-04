@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Single sample metrics factory and metric declarations
+// summary: Declares SingleSampleMetric and its factory for metrics that report a single sample to a histogram when destroyed.
+// ---
+
 #ifndef BASE_METRICS_SINGLE_SAMPLE_METRICS_H_
 #define BASE_METRICS_SINGLE_SAMPLE_METRICS_H_
 

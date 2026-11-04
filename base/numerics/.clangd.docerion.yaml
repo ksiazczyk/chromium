@@ -1,0 +1,4 @@
+# Docerion header of .clangd.
+type: config
+title: Clangd configuration
+summary: Configures clangd diagnostics to strictly flag unused and missing includes in this directory.

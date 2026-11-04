@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SampleMap unit tests
+// summary: Tests SampleMap accumulation, add and subtract operations, and iterator behavior including empty bucket skipping.
+// ---
+
 #include "base/metrics/sample_map.h"
 
 #include <memory>

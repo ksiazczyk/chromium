@@ -1,0 +1,4 @@
+# Docerion header of process_info_mac.mm.
+type: source
+title: macOS process info implementation
+summary: Implements macOS TCC responsibility checks, including detection of Bluetooth usage metadata in the responsible app's Info.plist.

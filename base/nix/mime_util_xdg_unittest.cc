@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for XDG MIME type utilities
+// summary: Unit tests covering mime.cache parsing, invalid input handling, and thread safety of MIME type lookups.
+// ---
+
 #include "base/nix/mime_util_xdg.h"
 
 #include <atomic>

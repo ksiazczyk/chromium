@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Histogram snapshot manager header
+// summary: Declares HistogramSnapshotManager, which gathers histogram deltas for recording while checking for memory corruption, with an abstract RecordDelta for subclasses.
+// ---
+
 #ifndef BASE_METRICS_HISTOGRAM_SNAPSHOT_MANAGER_H_
 #define BASE_METRICS_HISTOGRAM_SNAPSHOT_MANAGER_H_
 

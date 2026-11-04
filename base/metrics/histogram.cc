@@ -7,6 +7,12 @@
 // vector of numbers corresponding to each of the aggregating buckets).
 // See header file for details and examples.
 
+// ---docerion
+// type: source
+// title: Histogram implementation
+// summary: Implements the exponential Histogram class, including construction validation, deserialization from pickles, and bucket sample counting.
+// ---
+
 #include "base/metrics/histogram.h"
 
 #include <inttypes.h>

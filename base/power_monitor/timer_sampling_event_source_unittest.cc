@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TimerSamplingEventSource unit tests
+// summary: Unit tests verifying that TimerSamplingEventSource invokes its callback at the configured interval, using mock time to fast-forward the task environment.
+// ---
+
 #include "base/power_monitor/timer_sampling_event_source.h"
 
 #include "base/test/bind.h"

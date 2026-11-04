@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Statistics recorder starvation tests
+// summary: Multithreaded stress test running concurrent reader and writer threads to detect starvation in StatisticsRecorder histogram lookups and registrations.
+// ---
+
 #include <atomic>
 
 #include "base/compiler_specific.h"

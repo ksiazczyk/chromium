@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Histogram samples unit tests
+// summary: Unit tests covering atomic single-sample load, extract, disable, accumulate, overflow behavior, and ASCII bucket graph output.
+// ---
+
 #include "base/metrics/histogram_samples.h"
 
 #include <limits>

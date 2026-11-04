@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS process handle implementation
+// summary: Implements GetParentProcessId and GetProcessExecutablePath for macOS and iOS using sysctl and proc_pidpath.
+// ---
+
 #include "base/process/process_handle.h"
 
 #include <stddef.h>

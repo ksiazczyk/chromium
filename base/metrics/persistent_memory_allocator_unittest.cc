@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Persistent memory allocator unit tests
+// summary: Unit tests for PersistentMemoryAllocator covering allocation, iteration, memory state, tracking histograms, and file-backed persistent memory behavior.
+// ---
+
 #include "base/metrics/persistent_memory_allocator.h"
 
 #include <memory>

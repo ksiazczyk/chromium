@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SampleMap implementation for sparse histogram samples
+// summary: Implements SampleMap, a HistogramSamples implementation that stores sparse histogram sample counts in a local map.
+// ---
+
 #include "base/metrics/sample_map.h"
 
 #include <stdint.h>

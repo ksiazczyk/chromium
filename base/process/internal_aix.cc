@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AIX /proc process stats helpers
+// summary: Implements reading and parsing AIX /proc psinfo files to extract process statistics fields.
+// ---
+
 #include "base/process/internal_aix.h"
 
 #include <errno.h>

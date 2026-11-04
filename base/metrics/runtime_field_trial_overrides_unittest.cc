@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Runtime field trial overrides unit tests
+// summary: Unit tests for applying, replacing, and observing runtime field trial overrides managed by RuntimeFieldTrialOverrides.
+// ---
+
 #include "base/metrics/runtime_field_trial_overrides.h"
 
 #include <algorithm>

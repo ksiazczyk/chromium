@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subprocess launch shared implementation
+// summary: Defines LaunchOptions constructors and LaunchOptionsForTest, which relaxes new-privilege restrictions for test child processes on Linux and ChromeOS.
+// ---
+
 #include "base/process/launch.h"
 
 #include "build/build_config.h"

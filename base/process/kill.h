@@ -5,6 +5,12 @@
 // This file contains routines to kill processes and get the exit code and
 // termination status.
 
+// ---docerion
+// type: source
+// title: Process kill API header
+// summary: Declares routines to kill processes and interpret termination status, including the TerminationStatus enum and Windows-specific exit code constants.
+// ---
+
 #ifndef BASE_PROCESS_KILL_H_
 #define BASE_PROCESS_KILL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sparse histogram implementation
+// summary: Implements SparseHistogram creation via FactoryGet, persistent allocation, duplicate registration, and mismatched-type handling for sparse-value metrics.
+// ---
+
 #include "base/metrics/sparse_histogram.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Battery state sampler interface
+// summary: Declares the BatteryStateSampler class, its observer interface and APIs for sampling battery state, managing observers and installing instances for testing.
+// ---
+
 #ifndef BASE_POWER_MONITOR_BATTERY_STATE_SAMPLER_H_
 #define BASE_POWER_MONITOR_BATTERY_STATE_SAMPLER_H_
 

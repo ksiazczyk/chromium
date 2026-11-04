@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power monitor device source shared implementation
+// summary: Implements PowerMonitorDeviceSource construction and destruction, dispatching to platform-specific initialization on Apple and Windows platforms.
+// ---
+
 #include "base/power_monitor/power_monitor_device_source.h"
 
 #include "build/build_config.h"

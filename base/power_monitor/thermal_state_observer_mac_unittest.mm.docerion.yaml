@@ -1,0 +1,4 @@
+# Docerion header of thermal_state_observer_mac_unittest.mm.
+type: test
+title: Mac thermal state observer unit tests
+summary: Unit tests verifying that macOS thermal state and CPU speed limit notifications produce the expected observer callbacks.

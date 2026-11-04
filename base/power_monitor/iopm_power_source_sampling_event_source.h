@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac IOPM power source sampling event source declaration
+// summary: Declares a SamplingEventSource subclass that generates sampling events when the macOS IOPMPowerSource service dispatches state change notifications.
+// ---
+
 #ifndef BASE_POWER_MONITOR_IOPM_POWER_SOURCE_SAMPLING_EVENT_SOURCE_H_
 #define BASE_POWER_MONITOR_IOPM_POWER_SOURCE_SAMPLING_EVENT_SOURCE_H_
 

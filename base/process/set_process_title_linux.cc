@@ -37,6 +37,12 @@
 // this position within the glibc project, leaving applications caught in the
 // middle. (Also, only a very few applications need or want this anyway.)
 
+// ---docerion
+// type: source
+// title: BSD-style setproctitle for Linux
+// summary: Implements BSD-style setproctitle() on Linux by moving environment variables aside and rewriting the argv memory area to change the visible process title.
+// ---
+
 #include "base/process/set_process_title_linux.h"
 
 #include <stdarg.h>

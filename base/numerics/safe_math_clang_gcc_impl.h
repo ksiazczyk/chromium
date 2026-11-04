@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clang and GCC builtin fast paths for safe math
+// summary: Internal header using compiler overflow builtins for checked and clamped arithmetic, dispatching to ARM assembler implementations when available.
+// ---
+
 #ifndef BASE_NUMERICS_SAFE_MATH_CLANG_GCC_IMPL_H_
 #define BASE_NUMERICS_SAFE_MATH_CLANG_GCC_IMPL_H_
 

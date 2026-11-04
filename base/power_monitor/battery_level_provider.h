@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Battery level provider interface
+// summary: Defines the BatteryLevelProvider interface for querying battery state, including the BatteryState struct, battery level units and the platform-specific Create factory.
+// ---
+
 #ifndef BASE_POWER_MONITOR_BATTERY_LEVEL_PROVIDER_H_
 #define BASE_POWER_MONITOR_BATTERY_LEVEL_PROVIDER_H_
 

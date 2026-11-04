@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Power monitor device source unit tests
+// summary: Unit tests verifying PowerMonitorDeviceSource thermal state reporting across Mac, Android, and other platforms.
+// ---
+
 #include "base/power_monitor/power_monitor_device_source.h"
 
 #if BUILDFLAG(IS_ANDROID)

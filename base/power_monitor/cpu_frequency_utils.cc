@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CPU frequency estimation utilities
+// summary: Estimates CPU frequency and throughput on x86 processors and gathers per-CPU frequency information, with Windows support via power information APIs.
+// ---
+
 #include "base/power_monitor/cpu_frequency_utils.h"
 
 #include "base/strings/stringprintf.h"

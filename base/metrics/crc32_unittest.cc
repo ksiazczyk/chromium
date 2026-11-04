@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CRC-32 unit tests
+// summary: Unit tests verifying Crc32 results for empty and nonempty data with various seed values.
+// ---
+
 #include "base/metrics/crc32.h"
 
 #include <stdint.h>

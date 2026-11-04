@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persistent histogram allocator header
+// summary: Declares classes for allocating and managing histograms in persistent memory, including a data manager for sparse histogram sample records and an iterator over stored histograms.
+// ---
+
 #ifndef BASE_METRICS_PERSISTENT_HISTOGRAM_ALLOCATOR_H_
 #define BASE_METRICS_PERSISTENT_HISTOGRAM_ALLOCATOR_H_
 

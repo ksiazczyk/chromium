@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sysctl string value helper declarations
+// summary: Declares base::StringSysctl and base::StringSysctlByName for reading sysctl values as strings, with the by-name variant excluded on OpenBSD.
+// ---
+
 #ifndef BASE_POSIX_SYSCTL_H_
 #define BASE_POSIX_SYSCTL_H_
 

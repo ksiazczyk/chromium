@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer for XDG MIME cache parsing
+// summary: LibFuzzer entry point that writes fuzzed data as a mime.cache file and runs the MIME type parser against it.
+// ---
+
 #include "base/nix/mime_util_xdg.h"
 
 #include <stdlib.h>

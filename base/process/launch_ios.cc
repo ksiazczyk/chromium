@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS stub for process launching (launch_ios.cc)
+// summary: Provides no-op iOS stubs for LaunchProcess and GetAppOutput, since spawning processes is unsupported on iOS.
+// ---
+
 #include "base/process/launch.h"
 
 namespace base {

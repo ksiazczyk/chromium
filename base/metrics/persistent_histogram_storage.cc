@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persistent histogram storage implementation
+// summary: Implements PersistentHistogramStorage, which allocates a fixed-size memory segment for histograms and writes them to a storage directory when the object is destructed.
+// ---
+
 #include "base/metrics/persistent_histogram_storage.h"
 
 #include <cinttypes>

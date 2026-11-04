@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File descriptor shuffle unit tests
+// summary: Unit tests that use an InjectionTracer delegate to verify the actions performed by PerformInjectiveMultimap for empty, simple, and cyclic descriptor mappings.
+// ---
+
 #include "base/posix/file_descriptor_shuffle.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XDG MIME type utility header
+// summary: Declares the API for parsing mime.cache files and for getting a file's MIME type from its name on Linux.
+// ---
+
 #ifndef BASE_NIX_MIME_UTIL_XDG_H_
 #define BASE_NIX_MIME_UTIL_XDG_H_
 

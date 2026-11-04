@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Histogram macro unit tests
+// summary: Unit tests verifying UMA histogram macro behavior, including scoped timers, enumeration variants, and process-priority splitting.
+// ---
+
 #include "base/metrics/histogram_macros.h"
 
 #include "base/test/metrics/histogram_tester.h"

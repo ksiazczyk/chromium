@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rust histogram shim declarations
+// summary: Declares the base::rust record_* functions and time helper that let Rust code record UMA histogram samples.
+// ---
+
 #ifndef BASE_METRICS_HISTOGRAM_RUST_SHIM_H_
 #define BASE_METRICS_HISTOGRAM_RUST_SHIM_H_
 

@@ -5,6 +5,12 @@
 // This file contains routines for gathering resource statistics for processes
 // running on the system.
 
+// ---docerion
+// type: source
+// title: Process metrics API header
+// summary: Declares the ProcessMetrics class and related structs for gathering CPU, memory, and IO resource statistics for processes on each platform.
+// ---
+
 #ifndef BASE_PROCESS_PROCESS_METRICS_H_
 #define BASE_PROCESS_PROCESS_METRICS_H_
 

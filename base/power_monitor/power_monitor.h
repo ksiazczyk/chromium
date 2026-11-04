@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power monitor class declaration
+// summary: Declares the thread-safe PowerMonitor singleton for observing battery, suspend, and thermal state changes, including atomic observer-add-and-read variants to avoid races.
+// ---
+
 #ifndef BASE_POWER_MONITOR_POWER_MONITOR_H_
 #define BASE_POWER_MONITOR_POWER_MONITOR_H_
 

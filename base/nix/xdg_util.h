@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XDG utility header
+// summary: Declares XDG helpers, desktop environment and session type enums, and activation token constants for Linux desktops.
+// ---
+
 #ifndef BASE_NIX_XDG_UTIL_H_
 #define BASE_NIX_XDG_UTIL_H_
 

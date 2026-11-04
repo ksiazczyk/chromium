@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Field trial parameter implementation
+// summary: Implements typed accessors for field trial parameters, including FeatureParam getters, value unescaping, and logging of invalid server-provided values.
+// ---
+
 #include "base/metrics/field_trial_params.h"
 
 #include <optional>

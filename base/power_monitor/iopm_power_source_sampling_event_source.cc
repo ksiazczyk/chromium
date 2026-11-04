@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac IOPM power source sampling event source implementation
+// summary: Implements a macOS sampling event source that registers for IOPMPowerSource service notifications and invokes the sampling callback when power state changes.
+// ---
+
 #include "base/power_monitor/iopm_power_source_sampling_event_source.h"
 
 #include <IOKit/IOMessage.h>

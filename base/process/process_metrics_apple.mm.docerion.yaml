@@ -1,0 +1,4 @@
+# Docerion header of process_metrics_apple.mm.
+type: source
+title: Apple process metrics implementation
+summary: Implements ProcessMetrics for Mac and iOS using Mach task APIs to collect CPU usage, memory, power, and system memory information.

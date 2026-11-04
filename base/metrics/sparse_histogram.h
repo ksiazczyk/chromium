@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sparse histogram class declaration
+// summary: Declares the SparseHistogram class API for adding, snapshotting, and delta-tracking sparse histogram samples, including persistent storage support.
+// ---
+
 #ifndef BASE_METRICS_SPARSE_HISTOGRAM_H_
 #define BASE_METRICS_SPARSE_HISTOGRAM_H_
 

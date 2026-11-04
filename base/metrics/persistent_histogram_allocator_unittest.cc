@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Persistent histogram allocator unit tests
+// summary: Unit tests covering creation, iteration, merging, and file-based persistence of histograms in persistent memory using a temporary statistics recorder and global allocator.
+// ---
+
 #include "base/metrics/persistent_histogram_allocator.h"
 
 #include "base/compiler_specific.h"

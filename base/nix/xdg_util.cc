@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XDG utility implementation
+// summary: Implements XDG directory lookups, desktop environment and session type detection, and Flatpak or Snap sandbox detection.
+// ---
+
 #include "base/nix/xdg_util.h"
 
 #include <unistd.h>

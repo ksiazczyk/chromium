@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX process metrics implementation
+// summary: Provides shared POSIX helpers for file descriptor limits and malloc usage reporting across Unix-like platforms.
+// ---
+
 #include "base/process/process_metrics.h"
 
 #include <limits.h>

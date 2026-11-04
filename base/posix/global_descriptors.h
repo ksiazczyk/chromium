@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlobalDescriptors key-to-fd mapping header
+// summary: Declares the deprecated GlobalDescriptors singleton that maps keys to file descriptors for the zygote model, recommending FileDescriptorStore instead.
+// ---
+
 #ifndef BASE_POSIX_GLOBAL_DESCRIPTORS_H_
 #define BASE_POSIX_GLOBAL_DESCRIPTORS_H_
 

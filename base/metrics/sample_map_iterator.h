@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Templated iterator for SampleMap sample counts
+// summary: Defines a templated SampleCountIterator over sample count maps with optional value extraction and atomic access for shared memory counts.
+// ---
+
 #ifndef BASE_METRICS_SAMPLE_MAP_ITERATOR_H_
 #define BASE_METRICS_SAMPLE_MAP_ITERATOR_H_
 

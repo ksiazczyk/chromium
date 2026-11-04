@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SampleVector implementation for histogram bucket counts
+// summary: Implements SampleVectorBase, which stores histogram samples as per-bucket counts with iterators and a single-sample optimization.
+// ---
+
 #include "base/metrics/sample_vector.h"
 
 #include <ostream>

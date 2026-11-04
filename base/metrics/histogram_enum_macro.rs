@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UmaEnum derive macro for Rust enums
+// summary: Rust procedural macro deriving UmaEnum, implementing the histogram trait with a check that enum discriminants stay between 0 and 1000.
+// ---
+
 use proc_macro::TokenStream;
 use quote::quote;
 use syn::{parse_macro_input, DeriveInput};

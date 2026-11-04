@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UMA histogram macros
+// summary: Defines UMA_HISTOGRAM_* macros for efficiently recording enumeration and other histogram data, with guidance on enum boundaries and runtime-constant names.
+// ---
+
 #ifndef BASE_METRICS_HISTOGRAM_MACROS_H_
 #define BASE_METRICS_HISTOGRAM_MACROS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia process iterator stub
+// summary: Stub ProcessIterator implementation for Fuchsia whose methods are unimplemented and return no processes.
+// ---
+
 #include "base/process/process_iterator.h"
 
 #include "base/notreached.h"

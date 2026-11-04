@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Persistent histogram allocator fuzzer
+// summary: libFuzzer harness that feeds fuzzed data into a PersistentMemoryAllocator in various access modes and iterates and merges the resulting histograms to find robustness issues.
+// ---
+
 #include "base/metrics/persistent_histogram_allocator.h"
 
 #include <fuzzer/FuzzedDataProvider.h>

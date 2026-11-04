@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rust histogram shim implementation
+// summary: Implements C++ functions in base::rust that record UMA histograms of various kinds on behalf of Rust code via the CXX bridge.
+// ---
+
 #include "base/metrics/histogram_rust_shim.h"
 
 #include <stddef.h>

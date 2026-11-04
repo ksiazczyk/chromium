@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persistent histogram allocator implementation
+// summary: Implements PersistentHistogramAllocator and GlobalHistogramAllocator, which create, iterate, and merge histograms stored in persistent memory segments shared across processes.
+// ---
+
 #include "base/metrics/persistent_histogram_allocator.h"
 
 #include <atomic>

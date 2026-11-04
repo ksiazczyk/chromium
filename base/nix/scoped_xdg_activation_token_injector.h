@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped XDG activation token injector header
+// summary: Declares a scoped helper that injects the XDG activation token into a command line for handoff to another process.
+// ---
+
 #ifndef BASE_NIX_SCOPED_XDG_ACTIVATION_TOKEN_INJECTOR_H_
 #define BASE_NIX_SCOPED_XDG_ACTIVATION_TOKEN_INJECTOR_H_
 

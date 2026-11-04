@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Field trial unit tests
+// summary: Unit tests for FieldTrial and FieldTrialList covering group assignment, observers, activation, shared memory state, and runtime overrides.
+// ---
+
 #include "base/metrics/field_trial.h"
 
 #include <stddef.h>

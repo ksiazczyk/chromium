@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Histogram shared memory unit tests
+// summary: Tests creation of histogram shared memory regions, the command-line passing feature flag, and initialization from launch parameters in multiprocess tests.
+// ---
+
 #include "base/metrics/histogram_shared_memory.h"
 
 #include "base/base_switches.h"

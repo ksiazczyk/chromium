@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Histogram delta serialization unit tests
+// summary: Tests serializing and deserializing histogram deltas, including IPC flag handling and renaming or dropping histograms via a mapper callback.
+// ---
+
 #include "base/metrics/histogram_delta_serialization.h"
 
 #include <vector>

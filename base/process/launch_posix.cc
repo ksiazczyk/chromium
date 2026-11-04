@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX process launch implementation (launch_posix.cc)
+// summary: Implements LaunchProcess and GetAppOutput on POSIX platforms with fork/exec, signal mask and handler handling, and per-OS tweaks.
+// ---
+
 #include "base/process/launch.h"
 
 #include <dirent.h>

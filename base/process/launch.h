@@ -4,6 +4,12 @@
 
 // This file contains functions for launching subprocesses.
 
+// ---docerion
+// type: source
+// title: Subprocess launch API header
+// summary: Declares LaunchProcess and LaunchOptions for spawning subprocesses, with platform-specific options for Windows, Fuchsia, POSIX, and Apple platforms.
+// ---
+
 #ifndef BASE_PROCESS_LAUNCH_H_
 #define BASE_PROCESS_LAUNCH_H_
 

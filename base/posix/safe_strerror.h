@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe strerror API header
+// summary: Declares safe_strerror_r and safe_strerror as portable, thread-safe alternatives to strerror and strerror_r that never fail and leave errno unchanged.
+// ---
+
 #ifndef BASE_POSIX_SAFE_STRERROR_H_
 #define BASE_POSIX_SAFE_STRERROR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows CPU speed limit observer implementation
+// summary: Windows implementation that polls processor power information once per second to estimate CPU idleness, throttling level, and speed limit, emitting trace events and updates.
+// ---
+
 #include "base/power_monitor/speed_limit_observer_win.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XDG MIME type utility implementation
+// summary: Implements parsing of freedesktop mime.cache files and MIME type lookup by file name for Linux.
+// ---
+
 #include "base/nix/mime_util_xdg.h"
 
 #include <algorithm>

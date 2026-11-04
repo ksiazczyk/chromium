@@ -1,0 +1,4 @@
+# Docerion header of power_monitor_device_source_mac.mm.
+type: source
+title: Mac power monitor device source
+summary: macOS implementation of PowerMonitorDeviceSource using IOKit system power notifications, a battery level provider, and a thermal state observer.

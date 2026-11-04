@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single sample metrics unit tests
+// summary: Unit tests for SingleSampleMetricsFactory and SingleSampleMetric, covering factory get/set, last-sample recording, and distinct metric instances.
+// ---
+
 #include "base/metrics/single_sample_metrics.h"
 
 #include "base/metrics/dummy_histogram.h"

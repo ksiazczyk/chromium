@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User action recording implementation
+// summary: Implements recording of user actions, emitting trace events, and dispatching action callbacks on the configured single-thread task runner.
+// ---
+
 #include "base/metrics/user_metrics.h"
 
 #include <stddef.h>

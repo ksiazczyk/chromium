@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Power monitor unit tests
+// summary: Unit tests covering PowerMonitor and PowerMonitorSource event notification, duplicate suppression, and observer callbacks for power, thermal, and speed limit changes.
+// ---
+
 #include "base/power_monitor/power_monitor.h"
 
 #include <array>

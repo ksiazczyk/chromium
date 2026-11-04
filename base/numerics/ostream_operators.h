@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ostream operators for numeric wrappers
+// summary: Overloads operator<< for StrictNumeric and ClampedNumeric so these numeric wrapper types can be logged directly to output streams.
+// ---
+
 #ifndef BASE_NUMERICS_OSTREAM_OPERATORS_H_
 #define BASE_NUMERICS_OSTREAM_OPERATORS_H_
 

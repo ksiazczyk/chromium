@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecordHistogramChecker interface
+// summary: Declares the RecordHistogramChecker interface used to decide whether a histogram, identified by its 32-bit name hash, should be recorded.
+// ---
+
 #ifndef BASE_METRICS_RECORD_HISTOGRAM_CHECKER_H_
 #define BASE_METRICS_RECORD_HISTOGRAM_CHECKER_H_
 

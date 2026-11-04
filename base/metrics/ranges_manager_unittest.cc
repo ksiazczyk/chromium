@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RangesManager unit tests
+// summary: Unit tests for RangesManager verifying canonical BucketRanges registration, deduplication of equivalent ranges, and release of ranges on destruction.
+// ---
+
 #include "base/metrics/ranges_manager.h"
 
 #include <vector>

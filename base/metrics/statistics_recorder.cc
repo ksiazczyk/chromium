@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Statistics recorder implementation
+// summary: Implements the global StatisticsRecorder that registers histograms and providers, manages sample observers, callbacks, and histogram lookups.
+// ---
+
 #include "base/metrics/statistics_recorder.h"
 
 #include <algorithm>

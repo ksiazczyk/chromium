@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Metrics hashes unit tests
+// summary: Unit tests verifying that HashMetricName, HashMetricNameAs32Bits, HashFieldTrialName, and ParseMetricHashTo32Bits produce the expected hash values for known metric and field trial names.
+// ---
+
 #include "base/metrics/metrics_hashes.h"
 
 #include <stddef.h>

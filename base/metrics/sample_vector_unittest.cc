@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SampleVector unit tests
+// summary: Tests SampleVector accumulation, add and subtract operations, bucket index handling, and counts storage behavior.
+// ---
+
 #include "base/metrics/sample_vector.h"
 
 #include <limits.h>

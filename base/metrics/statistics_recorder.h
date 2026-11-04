@@ -7,6 +7,12 @@
 // Histograms/BucketRanges to register, and supports a global API for accessing
 // (i.e., dumping, or graphing) the data.
 
+// ---docerion
+// type: source
+// title: Statistics recorder class declaration
+// summary: Declares the thread-safe, in-memory global recorder of histograms and bucket ranges, with observer, waiter, and provider-merge interfaces.
+// ---
+
 #ifndef BASE_METRICS_STATISTICS_RECORDER_H_
 #define BASE_METRICS_STATISTICS_RECORDER_H_
 

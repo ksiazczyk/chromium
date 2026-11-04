@@ -14,6 +14,12 @@
 // TODO(kaiwang): Currently we keep all negative values in 0~1 bucket. Consider
 // changing 0 to INT_MIN.
 
+// ---docerion
+// type: source
+// title: BucketRanges class declaration
+// summary: Declares the BucketRanges class that stores bucket boundary ranges shared by histograms, with checksum and persistent memory reference support.
+// ---
+
 #ifndef BASE_METRICS_BUCKET_RANGES_H_
 #define BASE_METRICS_BUCKET_RANGES_H_
 

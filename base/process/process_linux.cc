@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux process control implementation
+// summary: Implements the Process class on Linux and ChromeOS, including cgroup-based foreground and background priority handling and creation time lookup.
+// ---
+
 #include "base/process/process.h"
 
 #include <errno.h>

@@ -1,0 +1,4 @@
+# Docerion header of battery_level_provider_mac.mm.
+type: source
+title: macOS battery level provider
+summary: Implements BatteryLevelProvider on macOS by reading battery capacity, voltage and external power status from the IOKit IORegistry's IOPMPowerSource service.

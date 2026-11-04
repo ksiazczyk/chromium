@@ -61,6 +61,12 @@
 // and relatively fast, set of counters.  To avoid races at shutdown, the static
 // pointer is NOT deleted, and we leak the histograms at process termination.
 
+// ---docerion
+// type: source
+// title: Histogram class declaration
+// summary: Declares the Histogram class with exponential bucket layout, factory functions, and documentation on bucket ranges and thread-safe usage.
+// ---
+
 #ifndef BASE_METRICS_HISTOGRAM_H_
 #define BASE_METRICS_HISTOGRAM_H_
 

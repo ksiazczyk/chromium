@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RuntimeFieldTrialOverrides implementation
+// summary: Implements the RuntimeFieldTrialOverrides singleton that applies, replaces, and queries runtime field trial overrides for runtime-mutable features.
+// ---
+
 #include "base/metrics/runtime_field_trial_overrides.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Persistent histogram storage unit tests
+// summary: Unit tests verifying that histograms recorded during a PersistentHistogramStorage lifetime are written to files in the storage directory when the instance is destroyed.
+// ---
+
 #include "base/metrics/persistent_histogram_storage.h"
 
 #include <memory>

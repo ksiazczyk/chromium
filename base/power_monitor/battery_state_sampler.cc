@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Battery state sampler implementation
+// summary: Implements the BatteryStateSampler singleton that periodically samples battery state through a sampling event source and notifies registered observers.
+// ---
+
 #include "base/power_monitor/battery_state_sampler.h"
 
 #include "base/power_monitor/power_monitor_buildflags.h"

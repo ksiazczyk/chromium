@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows implementation of base::Process
+// summary: Implements the base::Process class on Windows with OpenProcess access rights, an EcoQoS feature for background processes, termination and measured handle duplication.
+// ---
+
 #include "base/process/process.h"
 
 #include <windows.h>

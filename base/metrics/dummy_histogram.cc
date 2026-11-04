@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DummyHistogram implementation
+// summary: Implements the DummyHistogram singleton and its empty sample classes so histograms that should not be recorded silently discard all data.
+// ---
+
 #include "base/metrics/dummy_histogram.h"
 
 #include <memory>

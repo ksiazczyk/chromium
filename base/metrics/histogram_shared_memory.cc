@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Histogram shared memory passing
+// summary: Implements creating and passing a histogram shared memory region between parent and child processes encoded in a command-line switch value.
+// ---
+
 #include "base/metrics/histogram_shared_memory.h"
 
 #include <string_view>

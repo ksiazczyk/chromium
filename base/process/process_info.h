@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process info API header
+// summary: Declares Windows integrity level, elevation, and App Container queries plus macOS TCC self-responsibility helpers.
+// ---
+
 #ifndef BASE_PROCESS_PROCESS_INFO_H_
 #define BASE_PROCESS_PROCESS_INFO_H_
 

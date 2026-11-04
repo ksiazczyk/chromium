@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux process iterator implementation
+// summary: Implements ProcessIterator for Linux by walking /proc, parsing process stats and cmdline files, and skipping zombie processes.
+// ---
+
 #include "base/process/process_iterator.h"
 
 #include <stddef.h>

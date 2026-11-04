@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Battery level provider shared implementation
+// summary: Implements the shared BatteryLevelProvider logic that aggregates battery details into a BatteryState and provides a null factory for platforms without a native implementation.
+// ---
+
 #include "base/power_monitor/battery_level_provider.h"
 
 #include <algorithm>

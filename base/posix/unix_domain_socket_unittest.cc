@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Unix domain socket messaging
+// summary: Unit tests covering SendRecvMsg behavior on reply FD closure, SIGPIPE avoidance, and receiving sender PIDs over Unix domain socket pairs.
+// ---
+
 #include "base/posix/unix_domain_socket.h"
 
 #include <stddef.h>

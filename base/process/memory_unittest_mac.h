@@ -5,6 +5,12 @@
 // This file contains helpers for the process_util_unittest to allow it to fully
 // test the Mac code.
 
+// ---docerion
+// type: test
+// title: Helpers for Mac process memory unit tests
+// summary: Declares helper functions that allocate memory via Core Foundation allocators for Mac process memory tests.
+// ---
+
 #ifndef BASE_PROCESS_MEMORY_UNITTEST_MAC_H_
 #define BASE_PROCESS_MEMORY_UNITTEST_MAC_H_
 

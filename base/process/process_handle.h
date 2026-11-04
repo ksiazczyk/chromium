@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process handle and ID type definitions
+// summary: Defines platform-specific ProcessHandle and ProcessId types plus helpers for current, unique, parent, and executable-path process identification.
+// ---
+
 #ifndef BASE_PROCESS_PROCESS_HANDLE_H_
 #define BASE_PROCESS_PROCESS_HANDLE_H_
 

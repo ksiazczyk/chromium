@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS child process reaping implementation
+// summary: Implements WaitForChildToDie on macOS using kqueue to await child exit within a timeout, then kill and reap to prevent zombie processes.
+// ---
+
 #include "base/process/kill.h"
 
 #include <errno.h>

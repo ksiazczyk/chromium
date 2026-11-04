@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persistent memory allocator header
+// summary: Declares PersistentMemoryAllocator, an allocator for persistent or shared memory blocks with typed object storage, iteration, and versioned metadata for cross-process use.
+// ---
+
 #ifndef BASE_METRICS_PERSISTENT_MEMORY_ALLOCATOR_H_
 #define BASE_METRICS_PERSISTENT_MEMORY_ALLOCATOR_H_
 

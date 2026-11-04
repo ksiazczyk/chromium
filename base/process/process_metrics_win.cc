@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows process metrics implementation
+// summary: Implements ProcessMetrics on Windows using Win32 and NT native APIs for CPU usage, memory info, and system performance data.
+// ---
+
 #include "base/process/process_metrics.h"
 
 #include <windows.h>  // Must be in front of other Windows header files.

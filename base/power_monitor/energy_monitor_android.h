@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android energy monitor interface
+// summary: Declares JNI-based functions to read remaining battery capacity and per-subsystem energy consumption readings on Android devices, with Java-to-native conversion support.
+// ---
+
 #ifndef BASE_POWER_MONITOR_ENERGY_MONITOR_ANDROID_H_
 #define BASE_POWER_MONITOR_ENERGY_MONITOR_ANDROID_H_
 

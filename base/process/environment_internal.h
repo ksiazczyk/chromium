@@ -5,6 +5,12 @@
 // This file contains internal routines that are called by other files in
 // base/process/.
 
+// ---docerion
+// type: source
+// title: Environment block internals declarations
+// summary: Declares internal routines for getting and altering environment blocks, with separate POSIX and Windows variants.
+// ---
+
 #ifndef BASE_PROCESS_ENVIRONMENT_INTERNAL_H_
 #define BASE_PROCESS_ENVIRONMENT_INTERNAL_H_
 

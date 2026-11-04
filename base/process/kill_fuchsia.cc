@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia process termination status implementation
+// summary: Implements GetTerminationStatus on Fuchsia by mapping Zircon process info flags and return codes to TerminationStatus values.
+// ---
+
 #include "base/process/kill.h"
 
 #include <zircon/syscalls.h>

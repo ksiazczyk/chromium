@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Histogram snapshot manager unit tests
+// summary: Tests delta preparation, flag-based filtering, and recording of histogram samples using a test delta recorder subclass.
+// ---
+
 #include "base/metrics/histogram_snapshot_manager.h"
 
 #include <memory>

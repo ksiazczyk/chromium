@@ -1,0 +1,4 @@
+# Docerion header of METRICS_OWNERS.
+type: config
+title: Fallback owners for metrics infrastructure
+summary: Lists fallback owners for approving changes to metrics infrastructure and for reviewing metrics declaration files.
