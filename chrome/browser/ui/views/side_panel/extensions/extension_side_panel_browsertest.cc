@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension side panel browser tests
+// summary: Browser tests covering extension side panel behavior, including entries, toolbars, and the side panel extension API.
+// ---
+
 #include "base/feature_list.h"
 #include "base/files/file_util.h"
 #include "base/files/scoped_temp_dir.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab sharing UI views browser tests
+// summary: Browser tests covering tab sharing infobar behavior, capture borders, and related UI interactions across browsers and tabs.
+// ---
+
 #include "chrome/browser/ui/views/tab_sharing/tab_sharing_ui_views.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History clusters side panel coordinator implementation
+// summary: Implements the per-browser coordinator that registers the Journeys side panel entry, creates its WebUI view, and reacts to preference changes.
+// ---
+
 #include "chrome/browser/ui/views/side_panel/history_clusters/history_clusters_side_panel_coordinator.h"
 
 #include "base/check_deref.h"

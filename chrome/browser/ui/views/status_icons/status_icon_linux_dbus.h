@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StatusIconLinuxDbus header
+// summary: Declares a Linux status icon class that implements the freedesktop StatusNotifierItem D-Bus specification, including menu and activation handling.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_STATUS_ICONS_STATUS_ICON_LINUX_DBUS_H_
 #define CHROME_BROWSER_UI_VIEWS_STATUS_ICONS_STATUS_ICON_LINUX_DBUS_H_
 

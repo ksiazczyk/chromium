@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: COMMON_METADATA
+summary: Defines the monorail component UI>Browser>TabSearch and the public Buganizer component ID used for issues in this directory.

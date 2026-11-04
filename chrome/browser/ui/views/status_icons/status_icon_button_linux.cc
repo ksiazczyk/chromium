@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux status icon button implementation
+// summary: Implements a widget-backed status icon button for Linux, including image scaling, tooltips, and context menu handling.
+// ---
+
 #include "chrome/browser/ui/views/status_icons/status_icon_button_linux.h"
 
 #include <limits>

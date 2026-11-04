@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RelatedAppRowView class header
+// summary: Declares RelatedAppRowView, a view showing an installed web app's icon, name and a link to its site settings as a row in the page-specific site data dialog, observing app uninstallation.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SITE_DATA_RELATED_APP_ROW_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_SITE_DATA_RELATED_APP_ROW_VIEW_H_
 

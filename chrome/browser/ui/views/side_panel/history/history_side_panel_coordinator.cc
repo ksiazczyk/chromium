@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History side panel coordinator implementation
+// summary: Implements the coordinator that registers the history side panel entry, builds its WebUI view with an initial query, and watches history clusters preferences.
+// ---
+
 #include "chrome/browser/ui/views/side_panel/history/history_side_panel_coordinator.h"
 
 #include "base/functional/callback.h"

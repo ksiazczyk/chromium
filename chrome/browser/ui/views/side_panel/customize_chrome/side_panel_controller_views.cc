@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Customize Chrome side panel controller implementation
+// summary: Implements the desktop side panel controller that creates the Customize Chrome WebUI view and updates it with the attached tab's state.
+// ---
+
 #include "chrome/browser/ui/views/side_panel/customize_chrome/side_panel_controller_views.h"
 
 #include "base/functional/callback.h"

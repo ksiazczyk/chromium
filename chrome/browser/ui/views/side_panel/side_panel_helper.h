@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side panel helper declaration
+// summary: Declares SidePanelHelper, a static utility for looking up the action item associated with a side panel entry key.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SIDE_PANEL_SIDE_PANEL_HELPER_H_
 #define CHROME_BROWSER_UI_VIEWS_SIDE_PANEL_SIDE_PANEL_HELPER_H_
 

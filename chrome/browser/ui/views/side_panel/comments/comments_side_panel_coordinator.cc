@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Comments side panel coordinator implementation
+// summary: Implements CommentsSidePanelCoordinator, registering the comments side panel entry and updating toolbar action visibility and panel title in response to tab strip and tab group changes.
+// ---
+
 #include "chrome/browser/ui/views/side_panel/comments/comments_side_panel_coordinator.h"
 
 #include "base/functional/callback.h"

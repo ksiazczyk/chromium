@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows status tray unit tests
+// summary: Unit tests for StatusTrayWin using a fake Shell to verify status icon creation, Shell requests and icon visibility handling.
+// ---
+
 #include "chrome/browser/ui/views/status_icons/status_tray_win.h"
 
 #include <commctrl.h>

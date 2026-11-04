@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Site data views build targets (BUILD.gn)
+summary: GN build file defining the site_data source_set plus unit, browser, and interactive UI test targets and their dependencies.

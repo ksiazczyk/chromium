@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shortcut integration interaction test internals
+// summary: Implements internal machinery for shortcut integration tests, including tracking created shortcut files on disk and detecting their contents across platforms.
+// ---
+
 #include "chrome/browser/ui/views/shortcuts/shortcut_integration_interaction_test_internal.h"
 
 #include <map>

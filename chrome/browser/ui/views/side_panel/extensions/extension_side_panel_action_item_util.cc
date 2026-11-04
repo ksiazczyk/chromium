@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension side panel action item utility implementation
+// summary: Implements reference-counted acquire and release of extension side panel action items in a browser window's action tree.
+// ---
+
 #include "chrome/browser/ui/views/side_panel/extensions/extension_side_panel_action_item_util.h"
 
 #include <optional>

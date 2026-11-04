@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parent permission dialog view class declaration
+// summary: Declares ParentPermissionDialogView, the dialog prompting parents for permission via Google account credentials, with observer and testing hooks.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SUPERVISED_USER_PARENT_PERMISSION_DIALOG_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_SUPERVISED_USER_PARENT_PERMISSION_DIALOG_VIEW_H_
 

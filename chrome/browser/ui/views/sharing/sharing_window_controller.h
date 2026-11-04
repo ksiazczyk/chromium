@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharing window controller header
+// summary: Declares SharingWindowController, which manages sharing functionality for a browser window and shows the sharing dialog for a WebContents.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SHARING_SHARING_WINDOW_CONTROLLER_H_
 #define CHROME_BROWSER_UI_VIEWS_SHARING_SHARING_WINDOW_CONTROLLER_H_
 

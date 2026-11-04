@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab sharing views UI implementation
+// summary: Implements TabSharingUIViews, which creates and updates tab sharing infobars, capture borders, and UMA logging across browser windows.
+// ---
+
 #include "chrome/browser/ui/views/tab_sharing/tab_sharing_ui_views.h"
 
 #include <algorithm>

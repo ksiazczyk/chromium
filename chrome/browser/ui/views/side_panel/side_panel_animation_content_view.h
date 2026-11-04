@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side panel animation content view header
+// summary: Declares SidePanelAnimationContentView, a view container that hosts side panel content during side panel transition animations.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SIDE_PANEL_SIDE_PANEL_ANIMATION_CONTENT_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_SIDE_PANEL_SIDE_PANEL_ANIMATION_CONTENT_VIEW_H_
 

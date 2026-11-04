@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page specific site data dialog implementation
+// summary: Implements the bubble dialog that lists first-party and third-party site data for the current page, including deletion and related app sections.
+// ---
+
 #include "chrome/browser/ui/views/site_data/page_specific_site_data_dialog.h"
 
 #include <memory>

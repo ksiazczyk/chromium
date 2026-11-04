@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page specific site data dialog unit tests
+// summary: Unit tests verifying how the dialog lists, orders, partitions, and deletes site data using fake browsing data models and content settings.
+// ---
+
 #include "chrome/browser/ui/views/site_data/page_specific_site_data_dialog.h"
 
 #include "base/feature_list.h"

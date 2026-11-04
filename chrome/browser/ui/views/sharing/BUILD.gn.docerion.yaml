@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for sharing views
+summary: Defines GN source sets for the sharing dialog view and window controller plus their unit test and browser test targets and dependencies.

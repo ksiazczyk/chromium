@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SiteDataRowView implementation
+// summary: Implements the site data dialog row view showing a site's favicon, hostname and cookie state, with menu actions to allow, block, clear on exit or delete the site's data.
+// ---
+
 #include "chrome/browser/ui/views/site_data/site_data_row_view.h"
 
 #include "chrome/app/vector_icons/vector_icons.h"

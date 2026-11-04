@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side panel WebUI view browser tests
+// summary: Browser tests verifying side panel WebUI view behavior for global and tab-scoped entries across tabs and windows.
+// ---
+
 #include "chrome/browser/ui/views/side_panel/side_panel_web_ui_view.h"
 
 #include <memory>

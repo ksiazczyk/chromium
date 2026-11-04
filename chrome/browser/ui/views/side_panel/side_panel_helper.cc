@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side panel helper implementation
+// summary: Implements SidePanelHelper::GetActionItem, which resolves the action item for a side panel entry key in the browser's action manager.
+// ---
+
 #include "chrome/browser/ui/views/side_panel/side_panel_helper.h"
 
 #include "chrome/browser/ui/browser_actions.h"

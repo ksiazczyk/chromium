@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Side panel BUILD.gn build file
+summary: Defines the side_panel source set for the Chromium build, listing its source files and public and private dependencies.

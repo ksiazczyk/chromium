@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA
+summary: Directory metadata that includes the shared COMMON_METADATA mixin to inherit bug tracking settings for tab_search.

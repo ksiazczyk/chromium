@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharing hub bubble utility class declaration
+// summary: Declares TitleWithBackButtonView and its view builder for sharing hub dialogs such as QR code and send tab to self.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SHARING_HUB_SHARING_HUB_BUBBLE_UTIL_H_
 #define CHROME_BROWSER_UI_VIEWS_SHARING_HUB_SHARING_HUB_BUBBLE_UTIL_H_
 

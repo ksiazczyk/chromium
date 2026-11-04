@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab capture contents border helper implementation
+// summary: Implements tracking of capture sessions per tab to decide whether the blue capture border is shown and where it is located.
+// ---
+
 #include "chrome/browser/ui/views/tab_sharing/tab_capture_contents_border_helper.h"
 
 #include "base/callback_list.h"

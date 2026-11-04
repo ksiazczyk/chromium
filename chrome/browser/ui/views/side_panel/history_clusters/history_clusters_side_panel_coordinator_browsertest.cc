@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History clusters side panel coordinator browser tests
+// summary: Browser tests verifying that the Journeys side panel respects the HistoryClustersVisible policy and is disabled in incognito and isolated mode.
+// ---
+
 #include "chrome/browser/ui/views/side_panel/history_clusters/history_clusters_side_panel_coordinator.h"
 
 #include "base/values.h"

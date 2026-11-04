@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Customize Chrome side panel controller header
+// summary: Declares the desktop SidePanelControllerViews class managing the Customize Chrome side panel view, theme editing, and section scrolling.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SIDE_PANEL_CUSTOMIZE_CHROME_SIDE_PANEL_CONTROLLER_VIEWS_H_
 #define CHROME_BROWSER_UI_VIEWS_SIDE_PANEL_CUSTOMIZE_CHROME_SIDE_PANEL_CONTROLLER_VIEWS_H_
 

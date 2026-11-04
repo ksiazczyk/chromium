@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side panel header controller implementation
+// summary: Implements the controller that builds and updates the side panel header, handling pin, open in new tab, more info menu and close actions.
+// ---
+
 #include "chrome/browser/ui/views/side_panel/side_panel_header_controller.h"
 
 #include <memory>

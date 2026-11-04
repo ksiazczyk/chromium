@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Inline login UI browser test
+// summary: Browser tests for the inline sign-in WebUI covering sign-in flows, profile handling, and GAIA interactions with an embedded test server.
+// ---
+
 #include "chrome/browser/ui/webui/signin/inline_login_ui.h"
 
 #include <algorithm>

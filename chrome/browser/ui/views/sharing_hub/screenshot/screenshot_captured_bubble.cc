@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screenshot captured bubble implementation
+// summary: Implements the dialog shown after a screenshot is captured, displaying the image and handling download and sharing actions.
+// ---
+
 #include "chrome/browser/ui/views/sharing_hub/screenshot/screenshot_captured_bubble.h"
 
 #include <memory>

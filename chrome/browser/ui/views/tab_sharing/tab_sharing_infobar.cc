@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab sharing infobar implementation
+// summary: Implements the infobar shown while a tab is shared, with a status message view and stop, share-this-tab and captured-surface-control buttons.
+// ---
+
 #include "chrome/browser/ui/views/tab_sharing/tab_sharing_infobar.h"
 
 #include <algorithm>

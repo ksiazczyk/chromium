@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS status icon class declaration
+// summary: Declares StatusIconChromeOS, which manages tray icons across displays and observes display additions and removals.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_STATUS_ICONS_STATUS_ICON_CHROMEOS_H_
 #define CHROME_BROWSER_UI_VIEWS_STATUS_ICONS_STATUS_ICON_CHROMEOS_H_
 

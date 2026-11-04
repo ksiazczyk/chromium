@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmarks side panel coordinator implementation
+// summary: Implements the bookmarks side panel coordinator, registering the bookmarks SidePanelEntry in the global registry and creating the WebUI-backed side panel view for browser windows.
+// ---
+
 #include "chrome/browser/ui/views/side_panel/bookmarks/bookmarks_side_panel_coordinator.h"
 
 #include "base/functional/callback.h"

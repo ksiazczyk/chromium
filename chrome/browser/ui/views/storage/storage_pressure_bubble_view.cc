@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage pressure bubble view implementation
+// summary: Implements the Chrome bubble dialog that reports storage pressure for a site origin and opens the all-sites content settings page when accepted.
+// ---
+
 #include "chrome/browser/ui/views/storage/storage_pressure_bubble_view.h"
 
 #include "base/feature_list.h"

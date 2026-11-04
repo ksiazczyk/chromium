@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharing hub bubble action button class declaration
+// summary: Declares SharingHubBubbleActionButton, a views::Button representing one action in the sharing hub bubble.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SHARING_HUB_SHARING_HUB_BUBBLE_ACTION_BUTTON_H_
 #define CHROME_BROWSER_UI_VIEWS_SHARING_HUB_SHARING_HUB_BUBBLE_ACTION_BUTTON_H_
 

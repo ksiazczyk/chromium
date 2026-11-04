@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeWebContentsViewDelegateViews implementation
+// summary: Implements the Aura web contents view delegate with focus management, context menu building, sad tab handling, and bookmark drag-and-drop support.
+// ---
+
 #include "chrome/browser/ui/views/tab_contents/chrome_web_contents_view_delegate_views.h"
 
 #include <memory>

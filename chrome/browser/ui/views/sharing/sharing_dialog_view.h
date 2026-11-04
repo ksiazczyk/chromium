@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharing dialog view header
+// summary: Declares SharingDialogView, a location bar bubble dialog for choosing devices and apps to share with.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SHARING_SHARING_DIALOG_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_SHARING_SHARING_DIALOG_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Status tray state changer interactive UI test for Windows
+// summary: Interactive UI tests for StatusTrayStateChangerWin, exercising the Explorer COM interfaces that promote status tray icons to the Windows taskbar.
+// ---
+
 #include <wrl/client.h>
 #include <wrl/implements.h>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenshotCapturedBubble class declaration
+// summary: Declares the ScreenshotCapturedBubble dialog class that displays a captured screenshot and offers options to share or download it.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SHARING_HUB_SCREENSHOT_SCREENSHOT_CAPTURED_BUBBLE_H_
 #define CHROME_BROWSER_UI_VIEWS_SHARING_HUB_SCREENSHOT_SCREENSHOT_CAPTURED_BUBBLE_H_
 

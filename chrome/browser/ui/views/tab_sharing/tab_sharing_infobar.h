@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab sharing infobar header
+// summary: Declares TabSharingInfoBar, the InfoBarView shown when a tab is shared, describing which site is shared with which and offering navigation and stop actions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TAB_SHARING_TAB_SHARING_INFOBAR_H_
 #define CHROME_BROWSER_UI_VIEWS_TAB_SHARING_TAB_SHARING_INFOBAR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Create desktop shortcut dialog delegate implementation
+// summary: Implements the dialog delegate that records user metrics, tracks the title field, and closes the dialog on navigation, visibility changes, or picture-in-picture occlusion.
+// ---
+
 #include "chrome/browser/ui/views/shortcuts/create_desktop_shortcut_delegate.h"
 
 #include <string>

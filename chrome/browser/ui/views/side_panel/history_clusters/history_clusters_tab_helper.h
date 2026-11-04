@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History clusters tab helper header
+// summary: Declares HistoryClustersTabHelper, a WebContents user data helper with a delegate interface for opening the Journeys side panel.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SIDE_PANEL_HISTORY_CLUSTERS_HISTORY_CLUSTERS_TAB_HELPER_H_
 #define CHROME_BROWSER_UI_VIEWS_SIDE_PANEL_HISTORY_CLUSTERS_HISTORY_CLUSTERS_TAB_HELPER_H_
 

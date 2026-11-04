@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab sharing status message view unit tests
+// summary: Unit tests verifying that TabSharingStatusMessageView renders plain text and tab name buttons with prefixes and postfixes as expected.
+// ---
+
 #include "chrome/browser/ui/views/tab_sharing/tab_sharing_status_message_view.h"
 
 #include "chrome/browser/ui/views/chrome_layout_provider.h"

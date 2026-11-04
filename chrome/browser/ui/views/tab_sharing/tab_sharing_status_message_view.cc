@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab sharing status message view implementation
+// summary: Implements the infobar status message view that shows capturing and captured endpoints as labels or quick-navigation buttons with UMA logging.
+// ---
+
 #include "chrome/browser/ui/views/tab_sharing/tab_sharing_status_message_view.h"
 
 #include "chrome/browser/ui/color/chrome_color_id.h"

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Status icons owners
+summary: Assigns per-file review ownership of the Linux status icon sources to a specific maintainer.

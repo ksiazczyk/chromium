@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the tab_contents views source set
+summary: GN build file defining the tab_contents source set with Aura and Mac web contents view delegates plus unit and browser test targets.

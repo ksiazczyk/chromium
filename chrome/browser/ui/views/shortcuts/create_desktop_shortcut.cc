@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Create desktop shortcut dialog implementation
+// summary: Implements the Create Shortcut dialog shown from Save & Share, building the dialog model with a profile-aware title and callbacks that report the user's action and entered title.
+// ---
+
 #include "chrome/browser/ui/views/shortcuts/create_desktop_shortcut.h"
 
 #include <optional>

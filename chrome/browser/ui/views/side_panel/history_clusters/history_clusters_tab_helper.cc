@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History clusters tab helper implementation
+// summary: Implements the WebContentsUserData tab helper that forwards ShowJourneysSidePanel calls to its delegate.
+// ---
+
 #include "chrome/browser/ui/views/side_panel/history_clusters/history_clusters_tab_helper.h"
 
 #include "chrome/browser/ui/views/side_panel/history_clusters/history_clusters_side_panel_controller_utils.h"

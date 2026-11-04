@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StatusIconWin header
+// summary: Declares the Windows status icon class with its icon ID, message window, click and balloon handlers, and a Shell_NotifyIcon hook for testing.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_STATUS_ICONS_STATUS_ICON_WIN_H_
 #define CHROME_BROWSER_UI_VIEWS_STATUS_ICONS_STATUS_ICON_WIN_H_
 

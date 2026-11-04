@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sharing browser test base class
+// summary: Declares the SharingBrowserTest base class and FakeSharingMessageBridge used by sharing feature browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SHARING_SHARING_BROWSERTEST_H_
 #define CHROME_BROWSER_UI_VIEWS_SHARING_SHARING_BROWSERTEST_H_
 

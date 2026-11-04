@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Customize Chrome utilities implementation
+// summary: Implements helpers that check wallpaper search availability for a profile and disable extensions that override the new tab page.
+// ---
+
 #include "chrome/browser/ui/views/side_panel/customize_chrome/customize_chrome_utils.h"
 
 #include "base/feature_list.h"

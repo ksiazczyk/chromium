@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension enable flow parent permission browser tests
+// summary: End-to-end browser tests exercising the supervised user extension enable flow orchestrated through the parent permission dialog.
+// ---
+
 #include <memory>
 #include <string>
 #include <utility>

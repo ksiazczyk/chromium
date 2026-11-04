@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Create desktop shortcut public API header
+// summary: Declares the callback type, a testing entry point for showing the shortcut dialog, and the function that starts the shortcut creation flow for web contents.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SHORTCUTS_CREATE_DESKTOP_SHORTCUT_H_
 #define CHROME_BROWSER_UI_VIEWS_SHORTCUTS_CREATE_DESKTOP_SHORTCUT_H_
 

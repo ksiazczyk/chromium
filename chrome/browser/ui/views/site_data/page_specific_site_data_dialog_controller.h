@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site data dialog controller header
+// summary: Declares the dialog controller as WebContents user data, plus helpers for showing the collected cookies info bar and recording user actions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SITE_DATA_PAGE_SPECIFIC_SITE_DATA_DIALOG_CONTROLLER_H_
 #define CHROME_BROWSER_UI_VIEWS_SITE_DATA_PAGE_SPECIFIC_SITE_DATA_DIALOG_CONTROLLER_H_
 

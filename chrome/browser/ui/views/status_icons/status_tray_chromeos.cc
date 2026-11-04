@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StatusTrayChromeOS implementation
+// summary: Creates ChromeOS status icons, assigning reserved or sequential icon IDs based on the Chrome custom icon catalog, and provides the StatusTray factory.
+// ---
+
 #include "chrome/browser/ui/views/status_icons/status_tray_chromeos.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for the sharing views folder
+summary: Delegates code ownership to the OWNERS file of the chrome/browser/sharing directory.

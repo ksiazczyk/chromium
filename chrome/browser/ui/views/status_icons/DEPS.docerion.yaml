@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Status icons include rules
+summary: Chromium DEPS file restricting allowed includes for DBus files and ChromeOS Ash headers in this directory.

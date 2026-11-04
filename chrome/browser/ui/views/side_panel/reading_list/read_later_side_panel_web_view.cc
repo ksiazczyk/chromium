@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Read Later side panel web view implementation
+// summary: Implements ReadLaterSidePanelWebView, a WebUI-backed side panel view for the Read Later panel that updates the Reading List UI's active URL when the active browser tab changes.
+// ---
+
 #include "chrome/browser/ui/views/side_panel/reading_list/read_later_side_panel_web_view.h"
 
 #include <memory>

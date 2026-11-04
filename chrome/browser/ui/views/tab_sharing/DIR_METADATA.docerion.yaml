@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Tab sharing UI directory metadata
+summary: Maps the directory to the UI>Browser>MediaCapture component, the media-capture-dev team and a Buganizer component.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharing Hub bubble view implementation
+// summary: Implements the Sharing Hub bubble dialog, building a preview and a scrollable list of share and save action buttons for the current page.
+// ---
+
 #include "chrome/browser/ui/views/sharing_hub/sharing_hub_bubble_view_impl.h"
 
 #include "chrome/browser/share/share_metrics.h"

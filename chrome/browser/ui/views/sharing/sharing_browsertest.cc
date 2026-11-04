@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sharing browser test implementation
+// summary: Implements the SharingBrowserTest base class, including a fake sharing message bridge and two-client sync device setup for sharing tests.
+// ---
+
 #include "chrome/browser/ui/views/sharing/sharing_browsertest.h"
 
 #include <map>

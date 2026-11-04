@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side panel WebUI view
+// summary: Declares SidePanelWebUIView and its templated variant, a WebView hosting WebUI side panel entries with keyboard and context menu handling.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SIDE_PANEL_SIDE_PANEL_WEB_UI_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_SIDE_PANEL_SIDE_PANEL_WEB_UI_VIEW_H_
 
