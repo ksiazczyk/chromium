@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardAccessoryView
+// summary: Custom LinearLayout representing the accessory bar above the keyboard, showing autofill suggestions and manual filling entry points with animations.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.bar_component;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

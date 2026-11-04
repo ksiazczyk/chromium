@@ -1,0 +1,4 @@
+# Docerion header of IDS_ADDRESS_ACCESSORY_SHEET_CONTENT_DESCRIPTION.png.sha1.
+type: data
+title: SHA1 hash for address accessory sheet content description image
+summary: Stores the SHA1 checksum of the PNG screenshot referenced by the IDS_ADDRESS_ACCESSORY_SHEET_CONTENT_DESCRIPTION message in the keyboard accessory strings.

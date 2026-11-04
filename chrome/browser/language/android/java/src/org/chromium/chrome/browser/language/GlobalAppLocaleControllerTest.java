@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Global app locale controller tests
+// summary: Instrumentation tests for GlobalAppLocaleController verifying startup histograms and the override versus system language status logic.
+// ---
+
 package org.chromium.chrome.browser.language;
 
 import androidx.test.filters.SmallTest;

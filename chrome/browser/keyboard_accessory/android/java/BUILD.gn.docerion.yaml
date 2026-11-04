@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Keyboard accessory Android Java build definition
+summary: GN build file defining the keyboard accessory Java library targets, including JNI generation, enum srcjars, sources, and dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Keyboard accessory Android internal build configuration
+summary: Defines GN build targets for the keyboard accessory internals, including JNI generation and the Android library sources for the bar, sheet, and all-passwords bottom sheet components.

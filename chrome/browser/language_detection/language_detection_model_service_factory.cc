@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language detection model service factory implementation
+// summary: Implements the profile-keyed factory that builds the language detection model service when TFLite language detection is enabled and the optimization guide state is available.
+// ---
+
 #include "chrome/browser/language_detection/language_detection_model_service_factory.h"
 
 #include "base/memory/scoped_refptr.h"

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Address sheet tab info layout
+summary: Defines the address info tab layout with input chips for name, address lines, state, city, zip, country, phone, and email fields.
+-->
+
 <org.chromium.chrome.browser.keyboard_accessory.sheet_tabs.AddressAccessoryInfoView
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:gravity="center_vertical|start"

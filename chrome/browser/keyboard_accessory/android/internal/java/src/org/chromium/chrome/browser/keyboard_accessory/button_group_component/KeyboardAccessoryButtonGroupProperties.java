@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard accessory button group properties
+// summary: Defines the property keys describing the model for the keyboard accessory tab layout, including tabs, active tab, selection callbacks and AtMemory state.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.button_group_component;
 
 import org.chromium.build.annotations.NullMarked;

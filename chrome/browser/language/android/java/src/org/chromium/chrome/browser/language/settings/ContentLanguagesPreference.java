@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContentLanguagesPreference
+// summary: Preference that displays the current accept-language list with per-language menu options such as offering to translate.
+// ---
+
 package org.chromium.chrome.browser.language.settings;
 
 import static org.chromium.components.browser_ui.widget.ListItemBuilder.buildSimpleMenuItem;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address accessory controller implementation
+// summary: Implements the address accessory controller, translating saved autofill profiles into selectable address sheet suggestions and filling actions.
+// ---
+
 #include "chrome/browser/keyboard_accessory/android/address_accessory_controller_impl.h"
 
 #include <algorithm>

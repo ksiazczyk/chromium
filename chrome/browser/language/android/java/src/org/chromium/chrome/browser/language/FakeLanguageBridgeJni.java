@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake language bridge JNI
+// summary: Fake implementation of the LanguageBridge native methods that provides configurable ULP language lists for tests.
+// ---
+
 package org.chromium.chrome.browser.language;
 
 import org.chromium.chrome.browser.profiles.Profile;

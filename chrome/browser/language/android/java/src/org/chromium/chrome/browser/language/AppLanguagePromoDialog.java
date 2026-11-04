@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App language promo dialog
+// summary: Implements a modal dialog shown at browser startup that prompts the user to change Chrome's UI language, including the language list adapter and related metrics.
+// ---
+
 package org.chromium.chrome.browser.language;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

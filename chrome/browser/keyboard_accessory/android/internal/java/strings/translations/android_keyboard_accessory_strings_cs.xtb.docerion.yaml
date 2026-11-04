@@ -1,0 +1,4 @@
+# Docerion header of android_keyboard_accessory_strings_cs.xtb.
+type: data
+title: Android keyboard accessory strings in Czech
+summary: Czech translation bundle with localized keyboard accessory UI strings for autofill suggestions, passkeys, passwords, addresses and payment methods.

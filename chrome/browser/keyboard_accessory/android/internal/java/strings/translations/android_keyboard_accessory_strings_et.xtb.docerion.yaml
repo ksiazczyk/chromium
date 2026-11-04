@@ -1,0 +1,4 @@
+# Docerion header of android_keyboard_accessory_strings_et.xtb.
+type: data
+title: Android keyboard accessory strings in Estonian
+summary: Estonian translation bundle with localized keyboard accessory UI strings for autofill suggestions, passkeys, passwords, addresses and payment methods.

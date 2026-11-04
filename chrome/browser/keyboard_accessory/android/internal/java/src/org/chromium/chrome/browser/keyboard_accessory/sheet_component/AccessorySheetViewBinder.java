@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessorySheetViewBinder
+// summary: Binder that translates accessory sheet property model changes into corresponding updates on the AccessorySheetView, such as visibility, size and active tab.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.sheet_component;
 
 import static org.chromium.chrome.browser.keyboard_accessory.sheet_component.AccessorySheetProperties.ACTIVE_TAB_INDEX;

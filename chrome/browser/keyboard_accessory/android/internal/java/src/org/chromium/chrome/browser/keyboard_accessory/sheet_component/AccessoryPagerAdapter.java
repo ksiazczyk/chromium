@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessoryPagerAdapter
+// summary: PagerAdapter that renders an observable list of keyboard accessory tabs into a ViewPager, inflating each tab's layout and reacting to list changes.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.sheet_component;
 
 import android.view.LayoutInflater;

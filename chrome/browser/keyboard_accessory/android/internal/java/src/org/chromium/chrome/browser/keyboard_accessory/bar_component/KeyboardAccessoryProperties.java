@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardAccessoryProperties
+// summary: Defines the property model of the keyboard accessory bar, holding visual state such as visibility, bar items, style and action callbacks.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.bar_component;
 
 import android.view.View;

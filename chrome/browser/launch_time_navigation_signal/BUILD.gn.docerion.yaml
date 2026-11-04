@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build config for launch_time_navigation_signal browser tests
+summary: Defines the browser_tests source_set that compiles the launch time navigation signal browser test together with its Chromium test and component dependencies.

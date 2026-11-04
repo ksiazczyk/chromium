@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LanguageItem
+// summary: Model class representing a language with its BCP-47 code, display and native names, and translate and UI support flags.
+// ---
+
 package org.chromium.chrome.browser.language.settings;
 
 import android.text.TextUtils;

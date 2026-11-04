@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SelectLanguageFragmentTest
+// summary: Unit tests ensuring every language picker offers a distinct list type and that translate lists open their own picker fragments.
+// ---
+
 package org.chromium.chrome.browser.language.settings;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardAccessoryIphUtils
+// summary: Stateless helper functions that set up and trigger in-product help (IPH) for the keyboard accessory bar, including filling events and help bubbles.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.bar_component;
 
 import android.content.Context;

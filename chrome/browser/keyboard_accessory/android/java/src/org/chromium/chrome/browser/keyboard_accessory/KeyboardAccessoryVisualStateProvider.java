@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard accessory visual state provider interface
+// summary: Observable interface that notifies observers when the keyboard accessory view becomes visible or hidden and reports its background color.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory;
 
 import androidx.annotation.ColorInt;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessory sheet enums
+// summary: Defines enums for accessory tab types, suggestion types, actions and toggles used for metrics, with generated Java IntDefs.
+// ---
+
 #ifndef CHROME_BROWSER_KEYBOARD_ACCESSORY_ANDROID_ACCESSORY_SHEET_ENUMS_H_
 #define CHROME_BROWSER_KEYBOARD_ACCESSORY_ANDROID_ACCESSORY_SHEET_ENUMS_H_
 

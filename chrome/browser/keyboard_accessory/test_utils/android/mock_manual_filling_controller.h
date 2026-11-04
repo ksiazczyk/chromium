@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock manual filling controller header
+// summary: GMock mock of ManualFillingController stubbing focus changes, accessory sheet tabs and action handling for tests.
+// ---
+
 #ifndef CHROME_BROWSER_KEYBOARD_ACCESSORY_TEST_UTILS_ANDROID_MOCK_MANUAL_FILLING_CONTROLLER_H_
 #define CHROME_BROWSER_KEYBOARD_ACCESSORY_TEST_UTILS_ANDROID_MOCK_MANUAL_FILLING_CONTROLLER_H_
 

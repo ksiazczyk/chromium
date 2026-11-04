@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password accessory controller implementation unit tests
+// summary: Unit tests for the password accessory controller implementation covering suggestion refresh, generation requests, and credential manager UI behavior.
+// ---
+
 #include "chrome/browser/keyboard_accessory/android/password_accessory_controller_impl.h"
 
 #include <memory>

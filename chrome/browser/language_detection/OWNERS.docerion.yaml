@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Language detection OWNERS file
+summary: Delegates code ownership for this directory to the OWNERS file of components/language_detection.

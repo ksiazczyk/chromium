@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessorySheetView
+// summary: Custom LinearLayout that displays the accessory sheet with its ViewPager, shadows, keyboard toggle and title, including touch filtering and max width handling.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.sheet_component;
 
 import static org.chromium.ui.base.LocalizationUtils.isLayoutRtl;

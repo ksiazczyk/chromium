@@ -1,0 +1,4 @@
+# Docerion header of android_keyboard_accessory_strings_bg.xtb.
+type: data
+title: Android keyboard accessory strings (Bulgarian)
+summary: Bulgarian translation bundle with localized Android keyboard accessory UI strings for autofill, passkeys, passwords, addresses, and payment suggestions in Chrome.

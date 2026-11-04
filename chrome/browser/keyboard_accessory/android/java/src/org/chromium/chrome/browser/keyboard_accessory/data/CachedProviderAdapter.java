@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CachedProviderAdapter
+// summary: Caches data from a Provider and defers notifying observers until a callback decides the new cached data is available.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.data;
 
 import org.chromium.base.Callback;

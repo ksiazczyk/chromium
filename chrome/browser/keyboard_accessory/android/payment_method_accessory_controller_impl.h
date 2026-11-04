@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment method accessory controller implementation header
+// summary: Declares the PaymentMethodAccessoryControllerImpl class, which observes payments data changes and provides payment sheet data to the accessory.
+// ---
+
 #ifndef CHROME_BROWSER_KEYBOARD_ACCESSORY_ANDROID_PAYMENT_METHOD_ACCESSORY_CONTROLLER_IMPL_H_
 #define CHROME_BROWSER_KEYBOARD_ACCESSORY_ANDROID_PAYMENT_METHOD_ACCESSORY_CONTROLLER_IMPL_H_
 

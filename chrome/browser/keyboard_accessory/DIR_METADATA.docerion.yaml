@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Keyboard Accessory DIR_METADATA
+summary: Declares the issue tracker component, team email, and Buganizer component used for the keyboard accessory directory.

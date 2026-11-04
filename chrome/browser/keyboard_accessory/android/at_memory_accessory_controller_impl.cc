@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtMemory accessory controller implementation
+// summary: Implements the AtMemory accessory controller, handling option selection by triggering AtMemory suggestions through the autofill driver and reporting availability.
+// ---
+
 #include "chrome/browser/keyboard_accessory/android/at_memory_accessory_controller_impl.h"
 
 #include <utility>

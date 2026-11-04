@@ -1,3 +1,9 @@
+---
+type: readme
+title: Keyboard Accessory and Accessory Fallback Sheets
+summary: Explains the purpose of the keyboard accessory sheets, the folder's code structure, and contribution rules such as the chrome_java dependency restriction.
+---
+
 # Keyboard Accessory and Accessory Fallback Sheets
 This folder contains the keyboard accessory and its sheets. These surfaces
 allow users to manually fill forms with their stored data if automatic systems

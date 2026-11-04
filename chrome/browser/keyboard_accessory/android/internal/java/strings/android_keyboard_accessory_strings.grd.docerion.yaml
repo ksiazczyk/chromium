@@ -1,0 +1,4 @@
+# Docerion header of android_keyboard_accessory_strings.grd.
+type: data
+title: Android keyboard accessory string resources
+summary: Grit resource file defining localized UI strings for the keyboard accessory in Chrome for Android, with per-language output files for Android builds.

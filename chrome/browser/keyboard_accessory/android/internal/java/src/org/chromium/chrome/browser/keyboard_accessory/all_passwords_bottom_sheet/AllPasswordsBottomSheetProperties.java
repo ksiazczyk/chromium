@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AllPasswordsBottomSheetProperties
+// summary: Property keys, item types and model factories describing the visible state of the all passwords bottom sheet and its credential list items.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.all_passwords_bottom_sheet;
 
 import androidx.annotation.IntDef;

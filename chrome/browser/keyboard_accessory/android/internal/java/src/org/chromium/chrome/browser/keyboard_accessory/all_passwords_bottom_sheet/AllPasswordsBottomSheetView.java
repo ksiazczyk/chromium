@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AllPasswordsBottomSheetView
+// summary: View component that renders the bottom sheet listing credentials from any origin, handling search, warnings and dismissal via the bottom sheet controller.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.all_passwords_bottom_sheet;
 
 import android.content.Context;

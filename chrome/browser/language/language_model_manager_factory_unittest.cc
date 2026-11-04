@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LanguageModelManagerFactory unit tests
+// summary: Unit tests verifying that Incognito shares the language model manager with the regular profile and that ULP models follow feature flags.
+// ---
+
 #include "chrome/browser/language/language_model_manager_factory.h"
 
 #include "base/test/scoped_feature_list.h"

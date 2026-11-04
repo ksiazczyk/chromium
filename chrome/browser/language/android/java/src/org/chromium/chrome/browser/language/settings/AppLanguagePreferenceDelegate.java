@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppLanguagePreferenceDelegate
+// summary: Helper managing the app language preference UI, including starting the language split download, showing a completion Snackbar and updating the summary text.
+// ---
+
 package org.chromium.chrome.browser.language.settings;
 
 import android.app.Activity;

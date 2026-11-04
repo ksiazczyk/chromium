@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translation observer interface
+// summary: Java-side interface mirroring ContentTranslateDriver::TranslationObserver, notified by native code of page translation changes.
+// ---
+
 package org.chromium.chrome.browser.translate;
 
 import org.jni_zero.CalledByNative;

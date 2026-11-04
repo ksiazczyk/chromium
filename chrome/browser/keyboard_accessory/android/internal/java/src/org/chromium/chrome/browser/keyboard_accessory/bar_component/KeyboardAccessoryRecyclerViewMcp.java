@@ -1,6 +1,13 @@
 // Copyright 2019 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: KeyboardAccessoryRecyclerViewMcp
+// summary: Specialized RecyclerView model-change processor that adds a view recycler callback for cleaning up view holders before recycling.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.bar_component;
 
 import org.chromium.build.annotations.NullMarked;

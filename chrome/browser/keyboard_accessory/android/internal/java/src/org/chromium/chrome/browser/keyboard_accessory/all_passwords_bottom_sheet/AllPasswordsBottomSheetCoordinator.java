@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AllPasswordsBottomSheetCoordinator
+// summary: Coordinator that wires model, mediator and view to show a bottom sheet letting the user pick a credential to fill into the focused form.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.all_passwords_bottom_sheet;
 
 import android.content.Context;

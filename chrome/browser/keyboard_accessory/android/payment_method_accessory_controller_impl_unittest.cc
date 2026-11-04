@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment method accessory controller implementation unit tests
+// summary: Unit tests for the payment method accessory controller implementation covering credit card, virtual card, and loyalty card suggestion handling.
+// ---
+
 #include "chrome/browser/keyboard_accessory/android/payment_method_accessory_controller_impl.h"
 
 #include "base/strings/string_number_conversions.h"

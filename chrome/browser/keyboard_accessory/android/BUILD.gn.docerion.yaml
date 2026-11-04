@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Keyboard accessory Android build configuration
+summary: GN build file defining the android, impl and unit_tests source sets plus Java enum generation for the keyboard accessory code.

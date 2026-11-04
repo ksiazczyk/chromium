@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard accessory metrics recorder
+// summary: Stateless helper class that records UMA histograms for keyboard accessory actions, toggles, sheet triggers and suggestion selections.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.utils;
 
 import org.chromium.base.metrics.RecordHistogram;

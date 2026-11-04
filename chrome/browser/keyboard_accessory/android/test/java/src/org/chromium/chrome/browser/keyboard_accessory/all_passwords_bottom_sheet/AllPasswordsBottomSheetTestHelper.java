@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: All passwords bottom sheet test helper
+// summary: Test helper that simplifies interactions with the all passwords bottom sheet, providing sample credentials and utilities such as a test BottomSheetController.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.all_passwords_bottom_sheet;
 
 import android.app.Activity;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manual filling controller implementation header
+// summary: Declares ManualFillingControllerImpl, a WebContentsUserData implementing the manual filling controller with support for injecting test views and controllers.
+// ---
+
 #ifndef CHROME_BROWSER_KEYBOARD_ACCESSORY_ANDROID_MANUAL_FILLING_CONTROLLER_IMPL_H_
 #define CHROME_BROWSER_KEYBOARD_ACCESSORY_ANDROID_MANUAL_FILLING_CONTROLLER_IMPL_H_
 

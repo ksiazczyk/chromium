@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language bridge
+// summary: Bridge class that lets native code access ULP language data for a profile and checks whether a language matches the top ULP language.
+// ---
+
 package org.chromium.chrome.browser.language;
 
 import android.text.TextUtils;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payment method accessory controller implementation
+// summary: Implements the payment method accessory controller, building credit card, IBAN, and loyalty card suggestions for the keyboard accessory sheet.
+// ---
+
 #include "chrome/browser/keyboard_accessory/android/payment_method_accessory_controller_impl.h"
 
 #include <algorithm>

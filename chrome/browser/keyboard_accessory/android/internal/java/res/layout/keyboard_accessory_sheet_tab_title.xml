@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Keyboard accessory sheet tab title layout
+summary: Android layout for the title text view displayed at the top of a keyboard accessory sheet tab.
+-->
+
 <org.chromium.ui.widget.TextViewWithLeading
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

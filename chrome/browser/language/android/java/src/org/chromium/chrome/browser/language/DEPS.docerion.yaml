@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS
+summary: Chromium dependency rules allowing this directory to include code from components/language/android.

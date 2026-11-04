@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Languages preference layout
+summary: Android layout for the languages preference, holding a widget frame and a clickable add-language button.
+-->
+
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/accept_language_list_container"
     style="@style/PreferenceLayout"

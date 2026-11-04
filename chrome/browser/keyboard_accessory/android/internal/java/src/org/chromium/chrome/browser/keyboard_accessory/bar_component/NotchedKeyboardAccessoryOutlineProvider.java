@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotchedKeyboardAccessoryOutlineProvider
+// summary: ViewOutlineProvider that builds a rounded keyboard accessory outline with an optional triangular notch at the top or bottom, used for clipping the accessory bar view.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.bar_component;
 
 import android.content.res.Resources;

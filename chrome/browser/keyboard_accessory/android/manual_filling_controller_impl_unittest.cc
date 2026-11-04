@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Manual filling controller unit tests
+// summary: Unit tests for the manual filling controller covering keyboard accessory visibility, fallback sheets, filling sources, and accessory actions using mock controllers and views.
+// ---
+
 #include "chrome/browser/keyboard_accessory/android/manual_filling_controller_impl.h"
 
 #include <memory>

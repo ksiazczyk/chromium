@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AllPasswordsBottomSheetControllerTest
+// summary: Robolectric controller tests verifying the default model and the credential list behavior of the all passwords bottom sheet mediator.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.all_passwords_bottom_sheet;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

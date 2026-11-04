@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App language promo dialog tests
+// summary: Robolectric tests for the app language promo dialog, covering the top languages helper and dialog behavior with fake language and translate bridges.
+// ---
+
 package org.chromium.chrome.browser.language;
 
 import org.junit.After;

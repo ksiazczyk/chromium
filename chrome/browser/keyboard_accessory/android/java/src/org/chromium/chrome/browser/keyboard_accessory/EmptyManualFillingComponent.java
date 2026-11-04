@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Empty no-op implementation of ManualFillingComponent
+// summary: Provides empty stub implementations of all ManualFillingComponent methods, intended as a base class for mock and fake implementations in testing.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory;
 
 import android.graphics.RectF;

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Keyboard accessory bar layout
+summary: Defines the keyboard accessory bar view with a toolbar shadow and scrolling plus fixed recycler views for bar items.
+-->
+
 <org.chromium.chrome.browser.keyboard_accessory.bar_component.KeyboardAccessoryView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"

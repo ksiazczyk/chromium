@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Global app locale controller
+// summary: Singleton controller that applies the app language override to application and activity locales early at startup and records override language metrics.
+// ---
+
 package org.chromium.chrome.browser.language;
 
 import android.content.Context;

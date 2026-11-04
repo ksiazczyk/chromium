@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock address accessory controller header
+// summary: GMock mock of AddressAccessoryController stubbing sheet data, filling triggers and toggle actions for tests.
+// ---
+
 #ifndef CHROME_BROWSER_KEYBOARD_ACCESSORY_TEST_UTILS_ANDROID_MOCK_ADDRESS_ACCESSORY_CONTROLLER_H_
 #define CHROME_BROWSER_KEYBOARD_ACCESSORY_TEST_UTILS_ANDROID_MOCK_ADDRESS_ACCESSORY_CONTROLLER_H_
 

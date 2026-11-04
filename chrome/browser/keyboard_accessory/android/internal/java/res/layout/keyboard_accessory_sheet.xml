@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Keyboard accessory sheet layout
+summary: Defines the accessory sheet container with header, shadows, and a non-swipe view pager hosting the sheet tabs.
+-->
+
 <org.chromium.chrome.browser.keyboard_accessory.sheet_component.AccessorySheetView
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/keyboard_accessory_sheet_container"

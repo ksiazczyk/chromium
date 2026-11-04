@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LanguageSettings
+// summary: Main settings fragment for Chrome's language preferences, covering app language, content languages and translation options.
+// ---
+
 package org.chromium.chrome.browser.language.settings;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

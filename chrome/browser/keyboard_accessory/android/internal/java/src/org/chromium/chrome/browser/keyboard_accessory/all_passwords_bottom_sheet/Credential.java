@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential data model for the all passwords bottom sheet
+// summary: Holds the username, password, origin URL and Android app details used to represent a selectable credential in the all passwords bottom sheet.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.all_passwords_bottom_sheet;
 
 import org.jni_zero.CalledByNative;

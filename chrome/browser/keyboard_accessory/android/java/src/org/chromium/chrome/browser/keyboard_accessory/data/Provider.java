@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Provider
+// summary: Generic observable provider that holds a set of observers and notifies them with new data items for the keyboard accessory.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.data;
 
 import org.chromium.build.annotations.NullMarked;

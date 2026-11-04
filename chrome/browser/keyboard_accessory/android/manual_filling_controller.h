@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manual filling controller interface
+// summary: Interface for the controller coordinating the keyboard accessory and accessory sheet, forwarding requests between type-specific controllers and the view and managing visibility.
+// ---
+
 #ifndef CHROME_BROWSER_KEYBOARD_ACCESSORY_ANDROID_MANUAL_FILLING_CONTROLLER_H_
 #define CHROME_BROWSER_KEYBOARD_ACCESSORY_ANDROID_MANUAL_FILLING_CONTROLLER_H_
 

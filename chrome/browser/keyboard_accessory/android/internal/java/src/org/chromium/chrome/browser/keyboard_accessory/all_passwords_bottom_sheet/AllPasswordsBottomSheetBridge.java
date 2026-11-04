@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AllPasswordsBottomSheetBridge
+// summary: JNI bridge that creates the all passwords bottom sheet coordinator and forwards native calls like showing credentials, selection and dismissal back to native code.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.all_passwords_bottom_sheet;
 
 import android.content.Context;

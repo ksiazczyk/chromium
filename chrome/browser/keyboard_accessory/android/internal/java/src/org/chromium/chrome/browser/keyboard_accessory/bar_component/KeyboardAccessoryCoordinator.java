@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyboardAccessoryCoordinator
+// summary: Creates and owns the elements of the keyboard accessory bar component and forwards events such as showing the accessory or adding tabs to the mediator.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.bar_component;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

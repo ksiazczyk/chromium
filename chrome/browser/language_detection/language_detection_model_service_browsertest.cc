@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Language detection model service browser tests
+// summary: Browser tests for the language detection model service, covering model fetching via an embedded test server, histogram metrics, and profile-based service behavior.
+// ---
+
 #include "components/language_detection/core/browser/language_detection_model_service.h"
 
 #include <memory>

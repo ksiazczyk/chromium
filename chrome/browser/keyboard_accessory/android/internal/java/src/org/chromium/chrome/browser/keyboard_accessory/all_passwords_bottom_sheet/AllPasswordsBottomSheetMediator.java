@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AllPasswordsBottomSheetMediator
+// summary: Mediator holding the bottom sheet logic, including sorting, filtering and listing credentials and reacting to clicks, search queries and dismissal.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.all_passwords_bottom_sheet;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password accessory controller interface
+// summary: Declares the interface for the password-specific keyboard accessory controller that connects the manual filling controller with the password manager client.
+// ---
+
 #ifndef CHROME_BROWSER_KEYBOARD_ACCESSORY_ANDROID_PASSWORD_ACCESSORY_CONTROLLER_H_
 #define CHROME_BROWSER_KEYBOARD_ACCESSORY_ANDROID_PASSWORD_ACCESSORY_CONTROLLER_H_
 

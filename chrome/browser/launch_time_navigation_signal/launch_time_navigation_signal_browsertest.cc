@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for launch time navigation signal
+// summary: Parametrized Chromium browser tests verifying navigation signals at browser launch, covering startup restore preferences, command-line URLs, restart scenarios, and histogram reporting.
+// ---
+
 #include "base/command_line.h"
 #include "base/test/metrics/histogram_tester.h"
 #include "chrome/browser/profiles/profile.h"
