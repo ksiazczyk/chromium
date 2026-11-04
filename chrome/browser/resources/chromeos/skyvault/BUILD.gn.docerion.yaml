@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: SkyVault local files WebUI build configuration
+summary: GN build rules for the SkyVault local files WebUI, wiring HTML, TypeScript, Mojo and icon sources into the WebUI build.

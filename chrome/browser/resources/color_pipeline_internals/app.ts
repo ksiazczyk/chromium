@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color pipeline internals app element
+// summary: Lit element powering the debug page with color search filtering, section navigation and RGBA plus CSS and C++ name details shown on hover.
+// ---
+
 import '/strings.m.js';
 import 'chrome://resources/cr_elements/cr_menu_selector/cr_menu_selector.js';
 import 'chrome://resources/cr_elements/cr_toolbar/cr_toolbar.js';

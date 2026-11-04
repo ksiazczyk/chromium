@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS pointer for System Internals
+summary: Points to the OWNERS file of the ash sys_internals WebUI to reuse its reviewer list.

@@ -3,6 +3,12 @@
 // found in the LICENSE file.
 
 
+// ---docerion
+// type: source
+// title: Line Chart Constants
+// summary: Exports constants for the line chart such as margins, scale limits, spacing, zoom and scroll rates, time steps, sample rate, colors, and the unit label alignment enum.
+// ---
+
 /**
  * The left, right and top margin of the line chart, in pixels.
  * @const {number}

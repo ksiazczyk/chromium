@@ -12,6 +12,12 @@
  * when the user changes the time or timezone.
  */
 
+// ---docerion
+// type: source
+// title: Set time dialog element
+// summary: Polymer element implementing the set time dialog, populating date, time and timezone controls from system time and notifying Chrome of user changes.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cros_color_overrides.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';

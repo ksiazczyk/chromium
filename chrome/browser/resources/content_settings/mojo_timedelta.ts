@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MojoTimedelta custom element
+// summary: Custom element that renders its duration attribute value as microseconds.
+// ---
+
 import {CustomElement} from 'chrome://resources/js/custom_element.js';
 
 import sheet from './mojo_shared.css' with {type : 'css'};

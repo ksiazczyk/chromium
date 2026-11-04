@@ -1,0 +1,4 @@
+# Docerion header of components.html.
+type: source
+title: Components page HTML shell
+summary: HTML entry page for the components WebUI that sets the localized title, loads the stylesheet, and hosts the component placeholder.

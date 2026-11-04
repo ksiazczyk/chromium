@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System Internals type definitions
+// summary: Closure typedefs describing CPU, memory, Zram, GPU and NPU info values and chart data series structures.
+// ---
+
 import {DataSeries} from './line_chart/data_series.js';
 
 /**

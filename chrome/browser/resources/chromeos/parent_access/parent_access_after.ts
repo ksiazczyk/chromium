@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parent Access after screen element
+// summary: Polymer element for the after screen that renders flow-specific content and reports approved or declined results.
+// ---
+
 import './flows/local_web_approvals_after.js';
 import './parent_access_template.js';
 import 'chrome://resources/ash/common/cr_elements/cros_color_overrides.css.js';

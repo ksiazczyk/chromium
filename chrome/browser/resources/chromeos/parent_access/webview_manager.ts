@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Webview manager
+// summary: Class that standardizes webview configuration for embedded web apps by injecting bearer token headers and restricting navigation to allowed URLs.
+// ---
+
 type ShouldSendTokenToUrlFunction = (token: string) => boolean;
 type AllowedRequestFunction = (request: string) => boolean;
 type OnBeforeSendHeadersListener = (obj: any) =>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the remote maintenance curtain WebUI
+summary: GN build rules that assemble the remote maintenance curtain WebUI from main.html, curtain_screen.ts and icons.html, with a ChromeOS assertion and TypeScript dependencies.

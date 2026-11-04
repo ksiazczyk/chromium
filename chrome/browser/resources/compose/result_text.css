@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Compose result text CSS styles
+summary: Styles the compose result text element, including a fade-in animation for words streamed into the partial result view.
+*/
+
 .result-text {
   white-space: pre-wrap;
   word-wrap: break-word;

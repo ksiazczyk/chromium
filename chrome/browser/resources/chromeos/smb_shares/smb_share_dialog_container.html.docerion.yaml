@@ -1,0 +1,4 @@
+# Docerion header of smb_share_dialog_container.html.
+type: source
+title: SMB share dialog container page
+summary: Standalone WebUI page that loads theme styles and hosts the smb-share-dialog element.

@@ -1,0 +1,4 @@
+# Docerion header of select_custom.html.
+type: source
+title: Select custom component template
+summary: HTML template for the select-custom element, pairing a label, dropdown and hidden custom text input.

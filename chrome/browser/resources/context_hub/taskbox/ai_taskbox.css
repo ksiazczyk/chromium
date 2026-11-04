@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: AI Taskbox element styles
+summary: Stylesheet for the ai-taskbox element, laying out headers, tabs, todo columns, category sections and placeholder or error cards.
+*/
+
 :host {
   display: block;
   width: 100%;

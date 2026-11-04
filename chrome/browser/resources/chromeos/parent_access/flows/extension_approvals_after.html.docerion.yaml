@@ -1,0 +1,4 @@
+# Docerion header of extension_approvals_after.html.
+type: source
+title: Extension approvals after screen HTML template
+summary: HTML template for the post-approval screen that wraps the shared extension approvals template with a localized title and caps its content height for scrolling.

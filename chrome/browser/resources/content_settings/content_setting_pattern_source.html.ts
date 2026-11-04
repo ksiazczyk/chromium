@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit template for a content setting pattern source
+// summary: Lit template and data interface for rendering a content setting's patterns, value, incognito flag and timestamps.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 import type {Time, TimeDelta} from 'chrome://resources/mojo/mojo/public/mojom/base/time.mojom-webui.js';
 

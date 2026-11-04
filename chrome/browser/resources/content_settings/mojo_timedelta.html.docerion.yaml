@@ -1,0 +1,4 @@
+# Docerion header of mojo_timedelta.html.
+type: source
+title: mojo-timedelta element template
+summary: HTML template for the mojo-timedelta element, containing the span that shows the duration.

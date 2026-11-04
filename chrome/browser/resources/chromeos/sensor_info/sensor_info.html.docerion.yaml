@@ -1,0 +1,4 @@
+# Docerion header of sensor_info.html.
+type: source
+title: Entry HTML page for the sensor info WebUI
+summary: Loads the stylesheet and the app module and hosts the sensor-info-app element as the WebUI entry page.

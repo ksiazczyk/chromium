@@ -1,0 +1,4 @@
+# Docerion header of extension_approvals_disabled.html.
+type: source
+title: Extension approvals disabled screen HTML template
+summary: HTML template showing the localized title and subtitle displayed when extension approvals are disabled.

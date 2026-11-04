@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Styles for the components page
+summary: Defines the layout and styling of the components page, covering headers, section tables, component rows, and action buttons.
+*/
+
 body {
   margin: 10px;
   min-width: 47em;

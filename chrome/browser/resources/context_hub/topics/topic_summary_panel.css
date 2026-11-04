@@ -10,6 +10,12 @@
  * #include=cr-hidden-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Topic summary panel styles
+summary: Styles for the topic summary panel, covering the long description, open related tabs button, collection carousels and fishfood query rating controls.
+*/
+
 :host {
   display: block;
 }

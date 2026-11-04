@@ -12,6 +12,12 @@
  * the main confirm dialog is shown.
  */
 
+// ---docerion
+// type: source
+// title: Confirm password change dialog element
+// summary: Polymer element implementing the confirm dialog with old and new password inputs, validation errors and a spinner shown while the password changes.
+// ---
+
 import '/strings.m.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_input/cr_input.js';

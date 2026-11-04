@@ -1,3 +1,13 @@
+---
+type: readme
+title: Line Chart README
+summary: Documents the LineChart canvas library, covering its overview, usage with DataSeries and SubChart setup, an example, and the sample rate rendering behavior.
+relations:
+  - documents /chrome/browser/resources/chromeos/sys_internals/line_chart/line_chart.js
+  - documents /chrome/browser/resources/chromeos/sys_internals/line_chart/data_series.js
+  - documents /chrome/browser/resources/chromeos/sys_internals/line_chart/sub_chart.js
+---
+
 # Line Chart
 
 ## Overview

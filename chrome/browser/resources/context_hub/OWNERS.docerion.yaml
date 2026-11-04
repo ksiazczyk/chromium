@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Context Hub owners reference
+summary: Redirects ownership and review requirements to the OWNERS file of the browser-side context_hub WebUI implementation.

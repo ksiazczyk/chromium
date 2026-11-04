@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ComposeTextareaAnimator for textarea transitions
+// summary: Extends Animator with transitions that animate the Compose textarea between editable, editing, result, and readonly states, adjusting size, padding, and background.
+// ---
+
 import {Animator, STANDARD_EASING} from './animator.js';
 
 export class ComposeTextareaAnimator extends Animator {

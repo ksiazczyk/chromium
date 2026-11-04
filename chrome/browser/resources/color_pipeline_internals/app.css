@@ -13,6 +13,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the color pipeline internals page
+summary: Lit CSS that lays out the toolbar, navigation sidebar, color entry grid and responsive behavior of the debug page.
+*/
+
 :host {
   display: flex;
   flex-direction: column;

@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Power WebUI stylesheet
+summary: Styles the power diagnostics page, defining the main table layout, section rows, title cells, plot cells, and show and reload buttons.
+*/
+
 #main-table {
   border-collapse: collapse;
   border-width: 0;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification metadata type definition
+// summary: Declares the Notification typedef describing the metadata fields collected by the notification tester form.
+// ---
+
 /**
  * Will eventually match Notification from
  * ui/message_center/public/cpp/notification.h.

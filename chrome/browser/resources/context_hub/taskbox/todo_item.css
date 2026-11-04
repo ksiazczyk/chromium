@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Todo item element styles
+summary: Stylesheet for the todo-item card, covering actions, split buttons, thumbs feedback, expanded details and responsive container queries.
+*/
+
 :host {
   display: block;
   background-color: var(--cr-card-background-color);

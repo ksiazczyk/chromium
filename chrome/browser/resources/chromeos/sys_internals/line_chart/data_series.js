@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataSeries Class
+// summary: Collects time-ordered data points for the line chart and provides cached sampled values, max values, visibility, and menu text color controls.
+// ---
+
 import {SAMPLE_RATE} from './constants.js';
 
 /**

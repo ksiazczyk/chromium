@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnitLabel Class
+// summary: Scalable label that picks a suitable unit from a unit set based on the max value and generates text labels and scale for the chart's y axis.
+// ---
+
 import {MAX_VERTICAL_LABEL_NUM, MIN_LABEL_VERTICAL_SPACING} from './constants.js';
 
 /**

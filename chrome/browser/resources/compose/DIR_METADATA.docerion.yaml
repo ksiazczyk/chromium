@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Compose directory metadata
+summary: Points this directory's metadata at the shared mixins in components/compose/COMMON_METADATA.

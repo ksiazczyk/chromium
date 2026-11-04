@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Curtain screen custom element
+// summary: TypeScript Polymer element implementing the curtain screen, handling dialog sizing, orientation updates and theme color change listening.
+// ---
+
 import '//resources/polymer/v3_0/iron-icon/iron-icon.js';
 import '//resources/polymer/v3_0/iron-media-query/iron-media-query.js';
 import '/components/common_styles/oobe_dialog_host_styles.css.js';

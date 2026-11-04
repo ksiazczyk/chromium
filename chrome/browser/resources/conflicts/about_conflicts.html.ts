@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit template for the loaded modules table
+// summary: Lit HTML template that renders the module count and a table of loaded modules with signer, version, code ID, process types and location.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {ModuleListData} from './about_conflicts.js';

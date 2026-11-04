@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory banks table HTML template
+// summary: Lit HTML template rendering memory bank entries in a paginated table with title, collection, tags, note, URL, and date columns.
+// ---
+
 import {getFaviconForPageURL} from '//resources/js/icon.js';
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 

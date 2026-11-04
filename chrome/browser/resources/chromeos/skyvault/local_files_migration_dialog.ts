@@ -8,6 +8,12 @@
  * workflow.
  */
 
+// ---docerion
+// type: source
+// title: Local files migration dialog element
+// summary: Custom element implementing the SkyVault migration dialog UI, showing upload or delete notices and handling actions via the browser proxy.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js';
 import 'chrome://resources/polymer/v3_0/iron-icon/iron-icon.js';
 import './skyvault_icons.html.js';

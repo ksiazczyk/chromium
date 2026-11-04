@@ -1,0 +1,4 @@
+# Docerion header of context_hub.html.
+type: source
+title: Context Hub main page
+summary: Top-level HTML page for the Context Hub WebUI that loads theme styles and mounts the context-hub-app element.

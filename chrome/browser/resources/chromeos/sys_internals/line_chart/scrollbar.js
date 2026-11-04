@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scrollbar Class
+// summary: Dummy horizontal scrollbar that shows the visible position of the line chart and reports scroll events so only the visible part is drawn.
+// ---
+
 import {createElementWithClassName} from 'chrome://resources/ash/common/util.js';
 
 /**

@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Topics list view styles
+summary: Styles for the topics list view, laying out the header, fishfood note, empty state and cards list container.
+*/
+
 :host {
   box-sizing: border-box;
   display: flex;

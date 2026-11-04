@@ -1,0 +1,4 @@
+# Docerion header of memory_banks_palette.html.
+type: source
+title: Memory Banks palette page
+summary: Standalone HTML page that hosts the memory-banks-palette element in a fixed 440 by 520 pixel layout for the palette surface.

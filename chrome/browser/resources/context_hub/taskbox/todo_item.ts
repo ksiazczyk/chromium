@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Todo item element
+// summary: Defines the todo-item Lit element with default, tab and history variants, like and dislike feedback submission, and actions such as opening or closing tabs.
+// ---
+
 import '//resources/cr_elements/cr_action_menu/cr_action_menu.js';
 import '//resources/cr_elements/cr_button/cr_button.js';
 import '//resources/cr_elements/cr_expand_button/cr_expand_button.js';

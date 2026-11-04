@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo timestamp custom element
+// summary: Custom element that converts a mojo timestamp (microseconds since the Windows FILETIME epoch) into a JavaScript date and renders it as UTC text.
+// ---
+
 import {CustomElement} from 'chrome://resources/js/custom_element.js';
 
 import sheet from './mojo_shared.css' with {type : 'css'};

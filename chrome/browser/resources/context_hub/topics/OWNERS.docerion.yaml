@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the topics directory
+summary: Delegates review ownership of the topics directory to the history journeys OWNERS file.

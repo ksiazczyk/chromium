@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for the conflicts resources
+summary: Delegates code ownership reviews to the OWNERS file of chrome/browser/win/conflicts.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the password change directory
+summary: Lists the owners, via an inherited owners file and an individual address, who must review changes here.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Supervision WebUI GN build definition
+summary: GN build file that generates the supervision resource bundles and compiles the supervised user WebUI components with Polymer dependencies.

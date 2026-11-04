@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the password change WebUI
+summary: Defines the webui build target with static files, web components, TypeScript sources, path mappings and dependencies for the password change UI.

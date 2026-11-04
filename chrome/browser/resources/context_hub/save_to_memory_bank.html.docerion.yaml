@@ -1,0 +1,4 @@
+# Docerion header of save_to_memory_bank.html.
+type: source
+title: Save to memory bank page
+summary: Standalone HTML page that hosts the save-to-memory-bank element in a 320 pixel wide layout for the Add to Memory dialog.

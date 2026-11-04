@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the password change folder
+summary: Declares Buganizer components, team email and OS metadata used for triage and ownership of this directory.

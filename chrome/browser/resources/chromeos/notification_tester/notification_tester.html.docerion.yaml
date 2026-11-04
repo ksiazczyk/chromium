@@ -1,0 +1,4 @@
+# Docerion header of notification_tester.html.
+type: source
+title: Notification tester web component template
+summary: HTML template for the notification tester component, laying out form sections for general settings, rich notification data, buttons and generation settings.

@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Stylesheet for the sensor info WebUI
+summary: Minimal CSS for the sensor info page that removes the default body margin.
+*/
+
 body {
   margin: 0;
 }

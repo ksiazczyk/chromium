@@ -7,6 +7,12 @@
 // Keep this file free of custom element definitions, so that importing it does
 // not register elements a page doesn't use.
 
+// ---docerion
+// type: source
+// title: Shared topics data model and helpers
+// summary: Shared data model and helpers for the topics UI, adapting Mojo Topic data and providing feature flags, feedback helpers and defect category options.
+// ---
+
 import {loadTimeData} from '//resources/js/load_time_data.js';
 import type {Time} from '//resources/mojo/mojo/public/mojom/base/time.mojom-webui.js';
 

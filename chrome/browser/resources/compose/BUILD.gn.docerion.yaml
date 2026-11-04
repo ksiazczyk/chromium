@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Compose WebUI BUILD.gn build file
+summary: GN build rules that compile the Compose WebUI's TypeScript, CSS, icons and Mojo bindings into the compose grd target.

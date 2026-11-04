@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page router singleton
+// summary: Singleton router that reads the current page from the URL query string, updates browser history, and notifies registered observers of route changes.
+// ---
+
 export interface RouteObserver {
   onRouteChanged(pageName: string|null): void;
 }

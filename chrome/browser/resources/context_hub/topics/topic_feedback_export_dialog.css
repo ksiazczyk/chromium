@@ -12,6 +12,12 @@
 
 /* Temporary Fishfood Feedback. */
 
+/*docerion
+type: source
+title: Topic feedback export dialog styles
+summary: Styles for the fishfood feedback export dialog, including the rating status indicator, coverage topic list and scrollable domain list.
+*/
+
 cr-dialog {
   --cr-dialog-body-padding-horizontal: 20px;
   --cr-dialog-button-container-padding-horizontal: 20px;

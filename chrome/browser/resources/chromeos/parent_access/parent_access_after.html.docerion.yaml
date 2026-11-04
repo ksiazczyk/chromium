@@ -1,0 +1,4 @@
+# Docerion header of parent_access_after.html.
+type: source
+title: Parent Access after screen template
+summary: Template for the post-verification screen with approve and deny buttons, including Jelly flag variants.

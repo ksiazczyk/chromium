@@ -10,6 +10,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Compose app dialog styles
+summary: Lit CSS for the Compose dialog covering first-run and MSBB dialogs, layout, close button, scrollbars and theming variables.
+*/
+
 :host {
   --compose-loading-body-and-footer-height: 136px;
   --gap-between-sections_: 16px;

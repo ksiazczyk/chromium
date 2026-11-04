@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build configuration for the sensor info WebUI
+summary: Defines the build_webui target for the sensor_info WebUI, listing static files, the app web component, TypeScript dependencies, and trusted context type.

@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Smart search card styles
+summary: Lit styles for individual smart search result cards, including the selected state, favicon, title link, snippet and action button.
+*/
+
 :host {
   position: relative;
   background: var(--cr-card-background-color);

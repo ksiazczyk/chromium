@@ -4,6 +4,12 @@
 
 /** @fileoverview A helper object used by the "Set Time" dialog. */
 
+// ---docerion
+// type: source
+// title: Set time browser proxy
+// summary: Browser proxy interface and implementation that send page ready, time, timezone and dialog events from the WebUI to C++ via chrome.send.
+// ---
+
 export interface SetTimeBrowserProxy {
   /** Notifies C++ code that it's safe to call JS functions. */
   sendPageReady(): void;

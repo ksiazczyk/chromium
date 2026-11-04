@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password change app entry point
+// summary: TypeScript entry point that initializes the password change app and exposes the $ element lookup helper for tests.
+// ---
+
 import '/strings.m.js';
 import './password_change.js';
 

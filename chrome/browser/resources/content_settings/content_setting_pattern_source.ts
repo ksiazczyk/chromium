@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content setting pattern source element
+// summary: Custom element that renders a single content setting entry, converting patterns and enum values for display alongside its metadata.
+// ---
+
 import './value_display.js';
 import './mojo_timestamp.js';
 import './mojo_timedelta.js';

@@ -1,0 +1,4 @@
+# Docerion header of parent_access_error.html.
+type: source
+title: Parent access error screen template
+summary: HTML template that embeds the supervised user error element inside the parent access template for the error screen.

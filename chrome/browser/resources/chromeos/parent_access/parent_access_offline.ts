@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parent access offline screen element
+// summary: Defines the parent-access-offline Polymer element that displays the supervised user offline view.
+// ---
+
 import './parent_access_template.js';
 import '/supervision/supervised_user_offline.js';
 

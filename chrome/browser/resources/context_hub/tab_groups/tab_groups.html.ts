@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab groups WebUI HTML template
+// summary: Lit HTML template for the tab groups element, rendering the landing card, loading skeleton, and suggested group cards with rename and tab list views.
+// ---
+
 import {getFaviconForPageURL} from '//resources/js/icon.js';
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 

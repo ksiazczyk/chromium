@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Set time dialog OWNERS file
+summary: Delegates ownership of the set time dialog directory to the CrOS Settings team via an OWNERS reference.

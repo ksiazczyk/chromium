@@ -1,0 +1,4 @@
+# Docerion header of set_time_dialog.html.
+type: source
+title: Set time dialog component template
+summary: Polymer template for the set time dialog with date and time inputs, an optional timezone select and a Done button.

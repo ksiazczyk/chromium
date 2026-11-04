@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Memory banks view styles
+summary: Styles for the memory banks view, including filter chips, search suggestions, badges, and dark mode theming.
+*/
+
 :host {
   display: flex;
   flex-direction: column;

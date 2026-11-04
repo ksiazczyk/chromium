@@ -1,0 +1,4 @@
+# Docerion header of local_files_migration_dialog.html.
+type: source
+title: Local files migration dialog template
+summary: HTML template defining the layout and styling of the local files migration dialog, including title, messages and action buttons.

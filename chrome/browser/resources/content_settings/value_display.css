@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Value display styles
+summary: Stylesheet that colors the type label and boolean, null, and logical values shown by the value display element.
+*/
+
 #type {
   color: dimgray;
   font-size: 0.6rem;

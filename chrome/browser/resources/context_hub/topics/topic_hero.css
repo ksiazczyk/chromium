@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Topic hero banner styles
+summary: Styles for the decorative topic hero banner, defining its height, background color, pattern fill and gradient fade into the page.
+*/
+
 /* Positioned by the parent, which must be position: relative. The banner
  * sits behind the page content and scrolls away with it. The background color
  * is set per topic by the element. */

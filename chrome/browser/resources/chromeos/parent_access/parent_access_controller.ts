@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parent access PostMessage API controller
+// summary: Implements the Chrome side of the ParentAccess PostMessage API, exposing promises for initialization errors and for the parent verification result returned by the web widget.
+// ---
+
 import {PostMessageApiServer} from 'chrome://resources/ash/common/post_message_api/post_message_api_server.js';
 import {PromiseResolver} from 'chrome://resources/ash/common/promise_resolver.js';
 

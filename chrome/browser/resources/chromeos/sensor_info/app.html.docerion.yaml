@@ -1,0 +1,4 @@
+# Docerion header of app.html.
+type: source
+title: HTML template for the sensor info app element
+summary: Polymer template for the sensor-info-app element showing a Sensor Info heading and a div bound to the message_ property.

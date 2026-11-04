@@ -10,6 +10,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Save to memory bank dialog styles
+summary: Lit stylesheet for the save-to-memory-bank dialog, styling the page preview card, favicon header, form sections, selects and inputs.
+*/
+
 :host {
   box-sizing: border-box;
   color: var(--color-sys-on-surface);

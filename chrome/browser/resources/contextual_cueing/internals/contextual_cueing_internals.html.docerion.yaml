@@ -1,0 +1,4 @@
+# Docerion header of contextual_cueing_internals.html.
+type: source
+title: Contextual Cueing Internals entry page
+summary: HTML shell that hosts the contextual-cueing-internals-app element and loads the app module script.

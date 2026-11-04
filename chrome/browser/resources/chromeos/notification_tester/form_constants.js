@@ -8,6 +8,12 @@
  * @externs
  */
 
+// ---docerion
+// type: source
+// title: Notification tester form constants and select options
+// summary: Exports enums mirroring message center constants and option lists used to populate the notification tester form select elements.
+// ---
+
 /*
   Matches SystemNotificationWarningLevel in
   ui/message_center/public/cpp/notification.h

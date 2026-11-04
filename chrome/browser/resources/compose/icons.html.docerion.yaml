@@ -1,0 +1,4 @@
+# Docerion header of icons.html.
+type: asset
+title: Compose iconset
+summary: Defines the compose cr-iconset with SVG icons for compose, edit, undo, redo and other Compose UI actions.

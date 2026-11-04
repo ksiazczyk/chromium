@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Conflicts page controller for module data
+// summary: TypeScript controller that requests the module list from the C++ ConflictsHandler, renders it and filters rows by the process type in the URL hash.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 import {getRequiredElement} from 'chrome://resources/js/util.js';
 import {render} from 'chrome://resources/lit/v3_0/lit.rollup.js';

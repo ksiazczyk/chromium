@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local files migration browser proxy
+// summary: Browser proxy singleton that binds the Mojo page handler and callback router for the local files migration dialog.
+// ---
+
 import {PageCallbackRouter, PageHandlerFactory, PageHandlerRemote} from './local_files_migration.mojom-webui.js';
 
 export abstract class LocalFilesBrowserProxy {

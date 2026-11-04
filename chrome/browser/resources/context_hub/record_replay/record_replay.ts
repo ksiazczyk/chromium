@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Record and Replay WebUI element
+// summary: Defines the record-replay CrLitElement custom element that renders the Record and Replay skeleton UI and registers it in the HTMLElementTagNameMap.
+// ---
+
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {getHtml} from './record_replay.html.js';
