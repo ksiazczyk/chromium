@@ -1,0 +1,7 @@
+# Docerion header of quick_insert_resources.grd.
+type: config
+title: Quick Insert grit resource definition
+summary: Grit XML that packages the two Quick Insert Lottie illustrations into a header and pak output.
+relations:
+  - references /ash/quick_insert/resources/quick_insert_feature_tour_illustration.json
+  - references /ash/quick_insert/resources/quick_insert_no_results_illustration.json

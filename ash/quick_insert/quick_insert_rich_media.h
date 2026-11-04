@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert rich media types
+// summary: Declares text, image, link, and local file media structs combined into a QuickInsertRichMedia variant for insertable or copyable content.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/containers/span.h
+//   - depends_on /base/files/file_path.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_QUICK_INSERT_RICH_MEDIA_H_
 #define ASH_QUICK_INSERT_QUICK_INSERT_RICH_MEDIA_H_
 

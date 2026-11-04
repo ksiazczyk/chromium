@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert clipboard insertion implementation
+// summary: Inserts clipboard data into the active window by replacing clipboard contents and dispatching a synthetic Ctrl+V key event or a web paste.
+// relations:
+//   - implements /ash/quick_insert/quick_insert_clipboard_insertion.h
+//   - depends_on /ash/clipboard/clipboard_history_util.h
+//   - depends_on /ash/public/cpp/clipboard_history_controller.h
+// ---
+
 #include "ash/quick_insert/quick_insert_clipboard_insertion.h"
 
 #include <memory>

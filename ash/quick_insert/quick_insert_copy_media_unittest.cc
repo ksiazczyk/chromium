@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert copy media unit tests
+// summary: Verifies copying text, images, links, and files to the clipboard, including HTML escaping of alt text and links and toast behavior.
+// relations:
+//   - tests /ash/quick_insert/quick_insert_copy_media.h
+//   - depends_on /ash/public/cpp/system/toast_manager.h
+//   - depends_on /ash/quick_insert/quick_insert_rich_media.h
+// ---
+
 #include "ash/quick_insert/quick_insert_copy_media.h"
 
 #include "ash/public/cpp/system/toast_manager.h"

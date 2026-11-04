@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert contents view header
+// summary: Declares the main Quick Insert contents view, which manages pages and switches the active visible page.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/base/metadata/metadata_header_macros.h
+//   - depends_on /ui/views/view.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_CONTENTS_VIEW_H_
 #define ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_CONTENTS_VIEW_H_
 

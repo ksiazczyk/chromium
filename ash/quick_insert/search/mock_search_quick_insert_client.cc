@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock search Quick Insert client implementation
+// summary: Implements the mock Quick Insert client for search tests, capturing the CrosSearch callback by default and failing the test on unexpected calls.
+// relations:
+//   - implements /ash/quick_insert/search/mock_search_quick_insert_client.h
+//   - depends_on /testing/gmock/include/gmock/gmock.h
+//   - depends_on /testing/gtest/include/gtest/gtest.h
+// ---
+
 #include "ash/quick_insert/search/mock_search_quick_insert_client.h"
 
 #include "testing/gmock/include/gmock/gmock.h"

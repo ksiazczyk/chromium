@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert badge view implementation
+// summary: Implements a badge view that shows a label followed by an icon on a rounded background with fixed height.
+// relations:
+//   - depends_on /ash/quick_insert/views/quick_insert_badge_view.h
+//   - implements /ash/quick_insert/views/quick_insert_badge_view.h
+//   - depends_on /ash/style/typography.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_badge_view.h"
 
 #include <memory>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickInsertImageItemView class header
+// summary: Declares the QuickInsertImageItemView class, a Quick Insert item that displays a single image with an accessible name and a select-item callback.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/quick_insert/model/quick_insert_action_type.h
+//   - depends_on /ash/quick_insert/views/quick_insert_item_view.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_IMAGE_ITEM_VIEW_H_
 #define ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_IMAGE_ITEM_VIEW_H_
 

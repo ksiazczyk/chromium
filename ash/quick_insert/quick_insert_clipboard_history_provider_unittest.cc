@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert clipboard history provider unit tests
+// summary: Unit tests verifying that the clipboard history provider returns text, image, and file results with correct query matching and recency handling.
+// relations:
+//   - tests /ash/quick_insert/quick_insert_clipboard_history_provider.h
+//   - depends_on /ash/clipboard/clipboard_history_item.h
+//   - depends_on /ash/clipboard/test_support/clipboard_history_item_builder.h
+// ---
+
 #include "ash/quick_insert/quick_insert_clipboard_history_provider.h"
 
 #include <optional>

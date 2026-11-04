@@ -1,3 +1,9 @@
+---
+type: readme
+title: Quick Insert Views
+summary: Documents the Quick Insert UI view hierarchy, from the widget and main view down to the search field.
+---
+
 # Quick Insert Views
 
 ## Hierarchy

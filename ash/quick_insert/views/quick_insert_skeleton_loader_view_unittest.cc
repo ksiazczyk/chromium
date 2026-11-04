@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert skeleton loader view unit tests
+// summary: Unit tests for the skeleton loader view covering initial opacity, delayed animation start, and stopping unstarted and running animations.
+// relations:
+//   - tests /ash/quick_insert/views/quick_insert_skeleton_loader_view.h
+//   - depends_on /ash/quick_insert/views/quick_insert_skeleton_loader_view.h
+//   - depends_on /base/test/task_environment.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_skeleton_loader_view.h"
 
 #include "base/test/task_environment.h"

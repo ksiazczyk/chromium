@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert Category Icons Implementation
+// summary: Maps Quick Insert categories to vector icons, choosing branding-dependent icons for some categories and returning them as image models.
+// relations:
+//   - implements /ash/quick_insert/views/quick_insert_icons.h
+//   - depends_on /ash/quick_insert/quick_insert_category.h
+//   - depends_on /ui/base/models/image_model.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_icons.h"
 
 #include "ash/quick_insert/quick_insert_category.h"

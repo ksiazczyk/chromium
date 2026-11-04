@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert performance metrics implementation
+// summary: Implements per-session performance recording for Quick Insert, logging input ready, search, and presentation latency histograms for the search field and results.
+// relations:
+//   - depends_on /ash/quick_insert/metrics/quick_insert_performance_metrics.h
+//   - depends_on /base/metrics/histogram_functions.h
+//   - depends_on /ui/compositor/presentation_time_recorder.h
+// ---
+
 #include "ash/quick_insert/metrics/quick_insert_performance_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert clipboard history provider interface
+// summary: Declares a provider that fetches clipboard history items matching an optional query for Quick Insert search results.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/quick_insert/quick_insert_search_result.h
+//   - depends_on /base/functional/callback_forward.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_QUICK_INSERT_CLIPBOARD_HISTORY_PROVIDER_H_
 #define ASH_QUICK_INSERT_QUICK_INSERT_CLIPBOARD_HISTORY_PROVIDER_H_
 

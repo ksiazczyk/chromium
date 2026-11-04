@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert preview metadata implementation
+// summary: Builds localized justification strings describing when a suggested file was last modified or accessed for file preview descriptions.
+// relations:
+//   - implements /ash/quick_insert/views/quick_insert_preview_metadata.h
+//   - depends_on /base/i18n/icubridge/date_time_formatter.h
+//   - depends_on /base/i18n/icubridge/icu_bridge.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_preview_metadata.h"
 
 #include "ash/strings/grit/ash_strings.h"

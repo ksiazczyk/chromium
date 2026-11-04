@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert submenu controller implementation
+// summary: Implements the controller that creates, shows, and closes the anchored Quick Insert submenu widget and observes the anchor view for visibility and deletion.
+// relations:
+//   - depends_on /ash/quick_insert/views/quick_insert_submenu_controller.h
+//   - depends_on /ash/quick_insert/views/quick_insert_list_item_view.h
+//   - depends_on /ash/quick_insert/views/quick_insert_submenu_view.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_submenu_controller.h"
 
 #include <memory>

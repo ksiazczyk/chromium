@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert client interface
+// summary: Declares the interface that lets QuickInsertController communicate with the browser for searches, editor and Lobster access, recent files, thumbnails, and paste targets.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/app_list/app_list_types.h
+//   - depends_on /ash/quick_insert/quick_insert_category.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_QUICK_INSERT_CLIENT_H_
 #define ASH_QUICK_INSERT_QUICK_INSERT_CLIENT_H_
 

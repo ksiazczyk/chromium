@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert search source enum
+// summary: Defines the QuickInsertSearchSource enum listing the picker search providers such as omnibox, date, action, files, math, clipboard, editor, Lobster and GIFs.
+// ---
+
 #ifndef ASH_QUICK_INSERT_SEARCH_QUICK_INSERT_SEARCH_SOURCE_H_
 #define ASH_QUICK_INSERT_SEARCH_QUICK_INSERT_SEARCH_SOURCE_H_
 

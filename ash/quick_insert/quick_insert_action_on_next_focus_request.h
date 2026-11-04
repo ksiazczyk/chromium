@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert action on next focus request header
+// summary: Declares a request that runs a callback the next time an input field gains focus, with a timeout fallback if no focus change occurs.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/functional/callback_forward.h
+//   - depends_on /base/scoped_observation.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_QUICK_INSERT_ACTION_ON_NEXT_FOCUS_REQUEST_H_
 #define ASH_QUICK_INSERT_QUICK_INSERT_ACTION_ON_NEXT_FOCUS_REQUEST_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert rich media implementation
+// summary: Implements constructors for the rich media types used for insertion and copying, covering text, PNG image, link, and local file media.
+// relations:
+//   - depends_on /ash/quick_insert/quick_insert_rich_media.h
+//   - depends_on /base/base64.h
+//   - depends_on /base/containers/span.h
+// ---
+
 #include "ash/quick_insert/quick_insert_rich_media.h"
 
 #include <memory>

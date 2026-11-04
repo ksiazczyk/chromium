@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert math search unit tests
+// summary: Unit tests for QuickInsertMathSearch covering non-math queries, arithmetic evaluation such as 1 + 1, and the non-empty example results returned.
+// relations:
+//   - tests /ash/quick_insert/search/quick_insert_math_search.h
+//   - depends_on /testing/gmock/include/gmock/gmock.h
+//   - depends_on /testing/gtest/include/gtest/gtest.h
+// ---
+
 #include "ash/quick_insert/search/quick_insert_math_search.h"
 
 #include "testing/gmock/include/gmock/gmock.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert asset fetcher implementation
+// summary: Implements the Quick Insert asset fetcher, downloading and decoding GIF media from Tenor over HTTPS and delegating file thumbnail requests.
+// relations:
+//   - implements /ash/quick_insert/quick_insert_asset_fetcher_impl.h
+//   - depends_on /ash/public/cpp/image_util.h
+//   - implements /ash/quick_insert/quick_insert_asset_fetcher.h
+// ---
+
 #include "ash/quick_insert/quick_insert_asset_fetcher_impl.h"
 
 #include <memory>

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert zero state view unit tests
+// summary: Unit tests for QuickInsertZeroStateView covering suggested results, category sections, clipboard items and caps lock display behavior.
+// relations:
+//   - tests /ash/quick_insert/views/quick_insert_zero_state_view.h
+//   - implements /ash/quick_insert/views/quick_insert_zero_state_view_delegate.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_zero_state_view.h"
 
 #include <memory>

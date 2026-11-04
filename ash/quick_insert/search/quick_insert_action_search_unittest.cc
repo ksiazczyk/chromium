@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert action search unit tests
+// summary: Parameterized unit tests verifying that action search matches categories, Caps Lock states and case transform actions as expected.
+// relations:
+//   - tests /ash/quick_insert/search/quick_insert_action_search.cc
+//   - depends_on /ash/quick_insert/search/quick_insert_action_search.h
+//   - depends_on /ash/quick_insert/quick_insert_category.h
+// ---
+
 #include "ash/quick_insert/search/quick_insert_action_search.h"
 
 #include <string>

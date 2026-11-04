@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert section list view implementation
+// summary: Implements a vertical list of Quick Insert sections with directional item navigation between sections and methods to add or clear sections.
+// relations:
+//   - implements /ash/quick_insert/views/quick_insert_section_list_view.h
+//   - depends_on /ash/quick_insert/quick_insert_asset_fetcher.h
+//   - depends_on /ash/quick_insert/views/quick_insert_item_view.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_section_list_view.h"
 
 #include <algorithm>

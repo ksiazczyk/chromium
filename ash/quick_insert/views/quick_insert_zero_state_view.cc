@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert zero state view implementation
+// summary: Implements QuickInsertZeroStateView, building suggested result sections, clipboard items, editor submenus and caps lock UI for the zero state.
+// relations:
+//   - depends_on /ash/quick_insert/views/quick_insert_zero_state_view.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/quick_insert/metrics/quick_insert_session_metrics.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_zero_state_view.h"
 
 #include <cstddef>

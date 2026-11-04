@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert session metrics class declaration
+// summary: Declares QuickInsertSessionMetrics, which records per-session outcome, category, result, and search query metrics plus structured CrOS events for Quick Insert.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/quick_insert/quick_insert_category.h
+//   - depends_on /ash/quick_insert/quick_insert_search_result.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_METRICS_QUICK_INSERT_SESSION_METRICS_H_
 #define ASH_QUICK_INSERT_METRICS_QUICK_INSERT_SESSION_METRICS_H_
 

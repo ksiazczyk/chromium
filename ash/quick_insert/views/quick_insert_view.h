@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert main view header
+// summary: Declares QuickInsertView, the widget delegate view hosting the Quick Insert UI with zero state, search results, emoji bar and pseudo focus handling.
+// relations:
+//   - depends_on /ash/quick_insert/quick_insert_controller.h
+//   - implements /ash/quick_insert/views/quick_insert_emoji_bar_view_delegate.h
+//   - implements /ash/quick_insert/views/quick_insert_preview_bubble_controller.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_VIEW_H_
 #define ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_VIEW_H_
 

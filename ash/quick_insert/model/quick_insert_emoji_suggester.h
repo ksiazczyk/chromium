@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert emoji suggester class declaration
+// summary: Declares the QuickInsertEmojiSuggester class that returns suggested emoji results based on the emoji history model.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/quick_insert/quick_insert_search_result.h
+//   - depends_on /base/functional/callback.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_MODEL_QUICK_INSERT_EMOJI_SUGGESTER_H_
 #define ASH_QUICK_INSERT_MODEL_QUICK_INSERT_EMOJI_SUGGESTER_H_
 

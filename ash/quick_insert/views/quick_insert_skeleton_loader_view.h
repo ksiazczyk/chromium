@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert skeleton loader view header
+// summary: Declares the skeleton loader view that shows a loading animation after a delay and returns to a blank state when the animation is stopped.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/time/time.h
+//   - depends_on /base/timer/timer.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_SKELETON_LOADER_VIEW_H_
 #define ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_SKELETON_LOADER_VIEW_H_
 

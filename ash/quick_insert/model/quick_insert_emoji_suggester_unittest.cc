@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert emoji suggester unit tests
+// summary: Unit tests verifying default, recent, deduplicated, and mixed emoji, emoticon, and symbol suggestions from the emoji suggester.
+// relations:
+//   - tests /ash/quick_insert/model/quick_insert_emoji_suggester.h
+//   - depends_on /ash/constants/ash_pref_names.h
+//   - depends_on /ash/quick_insert/model/quick_insert_emoji_history_model.h
+// ---
+
 #include "ash/quick_insert/model/quick_insert_emoji_suggester.h"
 
 #include <string>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert preview bubble implementation
+// summary: Implements the preview bubble view that shows a rounded thumbnail image and optional label anchored to a Quick Insert item.
+// relations:
+//   - depends_on /ash/quick_insert/views/quick_insert_preview_bubble.h
+//   - depends_on /ash/ash_element_identifiers.h
+//   - depends_on /ash/bubble/bubble_constants.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_preview_bubble.h"
 
 #include <memory>

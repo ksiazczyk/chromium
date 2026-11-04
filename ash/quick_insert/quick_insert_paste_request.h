@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert paste request class declaration
+// summary: Declares QuickInsertPasteRequest, a focus change observer that pastes a given clipboard item in the next focused widget.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/scoped_observation.h
+//   - depends_on /base/unguessable_token.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_QUICK_INSERT_PASTE_REQUEST_H_
 #define ASH_QUICK_INSERT_QUICK_INSERT_PASTE_REQUEST_H_
 

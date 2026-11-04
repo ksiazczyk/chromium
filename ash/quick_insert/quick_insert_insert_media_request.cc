@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert insert media request implementation
+// summary: Implements a request that inserts media into the next focused input field, observing input method changes and cancelling on timeout.
+// relations:
+//   - implements /ash/quick_insert/quick_insert_insert_media_request.h
+//   - depends_on /ash/quick_insert/quick_insert_insert_media.h
+//   - depends_on /ash/quick_insert/quick_insert_rich_media.h
+// ---
+
 #include "ash/quick_insert/quick_insert_insert_media_request.h"
 
 #include <optional>

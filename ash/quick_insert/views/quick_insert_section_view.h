@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert section view header
+// summary: Declares the Quick Insert section view class, which shows a titled section of items and creates items from search results with list, grid, or row styles.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/quick_insert/quick_insert_search_result.h
+//   - depends_on /ui/base/metadata/metadata_header_macros.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_SECTION_VIEW_H_
 #define ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_SECTION_VIEW_H_
 

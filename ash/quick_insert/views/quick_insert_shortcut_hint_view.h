@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert shortcut hint view header
+// summary: Declares the shortcut hint view that renders a keyboard shortcut hint for a caps lock result and exposes its accessible text.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/quick_insert/quick_insert_search_result.h
+//   - depends_on /ui/base/metadata/metadata_header_macros.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_SHORTCUT_HINT_VIEW_H_
 #define ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_SHORTCUT_HINT_VIEW_H_
 

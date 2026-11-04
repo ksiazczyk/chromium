@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert preview bubble controller
+// summary: Declares the controller that shows, closes and updates the Quick Insert preview bubble after a delay, with observer and testing support.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/holding_space/holding_space_image.h
+//   - depends_on /base/callback_list.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_PREVIEW_BUBBLE_CONTROLLER_H_
 #define ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_PREVIEW_BUBBLE_CONTROLLER_H_
 

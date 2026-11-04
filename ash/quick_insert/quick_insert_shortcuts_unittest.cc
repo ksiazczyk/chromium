@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert shortcuts unit tests
+// summary: Unit tests verifying that the Caps Lock shortcut for Quick Insert is resolved from the keyboard's top row layout and device type.
+// relations:
+//   - tests /ash/quick_insert/quick_insert_shortcuts.h
+//   - depends_on /ash/quick_insert/quick_insert_search_result.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/quick_insert/quick_insert_shortcuts.h"
 
 #include "ash/quick_insert/quick_insert_search_result.h"

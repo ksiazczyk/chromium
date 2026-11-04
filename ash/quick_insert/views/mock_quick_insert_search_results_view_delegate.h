@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock Quick Insert search results view delegate
+// summary: Declares a gmock mock of the Quick Insert search results view delegate with stubbed methods for search result selection and focus.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/quick_insert/views/quick_insert_search_results_view_delegate.h
+//   - implements /ash/quick_insert/views/quick_insert_search_results_view_delegate.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_VIEWS_MOCK_QUICK_INSERT_SEARCH_RESULTS_VIEW_DELEGATE_H_
 #define ASH_QUICK_INSERT_VIEWS_MOCK_QUICK_INSERT_SEARCH_RESULTS_VIEW_DELEGATE_H_
 

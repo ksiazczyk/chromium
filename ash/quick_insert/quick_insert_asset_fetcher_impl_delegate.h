@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert asset fetcher delegate interface
+// summary: Declares the delegate interface supplying a URL loader factory and file thumbnail fetching to the asset fetcher implementation.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/files/file.h
+//   - depends_on /base/memory/scoped_refptr.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_QUICK_INSERT_ASSET_FETCHER_IMPL_DELEGATE_H_
 #define ASH_QUICK_INSERT_QUICK_INSERT_ASSET_FETCHER_IMPL_DELEGATE_H_
 

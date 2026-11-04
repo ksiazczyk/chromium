@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert search controller class declaration
+// summary: Declares the QuickInsertSearchController that starts and stops picker searches, coordinating the aggregator, search request, emoji search and GIF search.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/quick_insert/quick_insert_category.h
+//   - depends_on /ash/quick_insert/search/quick_insert_search_aggregator.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_SEARCH_QUICK_INSERT_SEARCH_CONTROLLER_H_
 #define ASH_QUICK_INSERT_SEARCH_QUICK_INSERT_SEARCH_CONTROLLER_H_
 

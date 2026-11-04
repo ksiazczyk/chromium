@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert case transformation unit tests
+// summary: Unit tests verifying case transformations for English, mixed scripts, and Dutch title casing under different locales.
+// relations:
+//   - tests /ash/quick_insert/quick_insert_transform_case.h
+//   - depends_on /base/i18n/language_tag.h
+//   - depends_on /base/i18n/rtl.h
+// ---
+
 #include "ash/quick_insert/quick_insert_transform_case.h"
 
 #include "base/i18n/language_tag.h"

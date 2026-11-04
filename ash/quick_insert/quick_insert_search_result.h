@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert search result types
+// summary: Declares the result types for Quick Insert search, including text results with sources, emoji and symbol results, GIF results, and search request results.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/quick_insert/quick_insert_category.h
+//   - depends_on /base/files/file_path.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_QUICK_INSERT_SEARCH_RESULT_H_
 #define ASH_QUICK_INSERT_QUICK_INSERT_SEARCH_RESULT_H_
 

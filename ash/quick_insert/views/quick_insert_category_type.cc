@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert category type mapping
+// summary: Maps Quick Insert categories to grouped category types such as editor write, editor rewrite, general, and more.
+// relations:
+//   - depends_on /ash/quick_insert/views/quick_insert_category_type.h
+//   - depends_on /ash/quick_insert/quick_insert_category.h
+//   - depends_on /base/notreached.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_category_type.h"
 
 #include "ash/quick_insert/quick_insert_category.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert date search unit tests
+// summary: Parameterized unit tests checking date query resolution at different times of day, covering relative dates, weekdays and suggestions.
+// relations:
+//   - tests /ash/quick_insert/search/quick_insert_date_search.h
+//   - depends_on /base/check.h
+//   - depends_on /base/strings/strcat.h
+// ---
+
 #include "ash/quick_insert/search/quick_insert_date_search.h"
 
 #include <vector>

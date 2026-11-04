@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert section list view unit tests
+// summary: Unit tests for the Quick Insert section list view, covering adding sections at positions, clearing the list, and retrieving the top item.
+// relations:
+//   - tests /ash/quick_insert/views/quick_insert_section_list_view.h
+//   - depends_on /ash/quick_insert/mock_quick_insert_asset_fetcher.h
+//   - depends_on /ash/quick_insert/views/quick_insert_gif_view.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_section_list_view.h"
 
 #include <memory>

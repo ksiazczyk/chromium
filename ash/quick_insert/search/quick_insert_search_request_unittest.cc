@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert search request unit tests
+// summary: Unit tests covering search request dispatch to providers, GIF debouncing, result handling, deduplication and query-time metrics.
+// relations:
+//   - tests /ash/quick_insert/search/quick_insert_search_request.h
+//   - depends_on /ash/public/cpp/app_list/app_list_types.h
+//   - depends_on /ash/quick_insert/quick_insert_category.h
+// ---
+
 #include "ash/quick_insert/search/quick_insert_search_request.h"
 
 #include <array>

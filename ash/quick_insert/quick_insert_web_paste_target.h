@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert web paste target
+// summary: Declares the QuickInsertWebPasteTarget struct, which wraps a WebContents URL and a callback for pasting clipboard contents into web content.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/functional/callback.h
+//   - depends_on /url/gurl.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_QUICK_INSERT_WEB_PASTE_TARGET_H_
 #define ASH_QUICK_INSERT_QUICK_INSERT_WEB_PASTE_TARGET_H_
 

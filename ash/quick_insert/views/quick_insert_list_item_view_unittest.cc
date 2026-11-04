@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert list item view unit tests
+// summary: Unit tests verifying primary text and image setting, image scaling, leading icons, shortcut hints and badge behavior of the list item view.
+// relations:
+//   - tests /ash/quick_insert/views/quick_insert_list_item_view.h
+//   - depends_on /ash/quick_insert/model/quick_insert_action_type.h
+//   - depends_on /ash/quick_insert/views/quick_insert_badge_view.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_list_item_view.h"
 
 #include <string>

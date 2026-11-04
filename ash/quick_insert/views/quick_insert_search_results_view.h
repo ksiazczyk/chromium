@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert search results view class declaration
+// summary: Declares the search results page view for Quick Insert, including local file result styles, section navigation helpers, result appending and loading animation control.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/quick_insert/model/quick_insert_search_results_section.h
+//   - depends_on /ash/quick_insert/quick_insert_search_result.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_SEARCH_RESULTS_VIEW_H_
 #define ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_SEARCH_RESULTS_VIEW_H_
 

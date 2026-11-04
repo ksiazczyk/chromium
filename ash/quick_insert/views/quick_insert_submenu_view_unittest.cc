@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert submenu view unit tests
+// summary: Unit tests verifying item traversal accessors such as top, bottom, above, and below items, and pseudo-focus action callbacks on the submenu view.
+// relations:
+//   - depends_on /ash/quick_insert/views/quick_insert_submenu_view.h
+//   - depends_on /ash/quick_insert/views/quick_insert_item_view.h
+//   - depends_on /ash/quick_insert/views/quick_insert_list_item_view.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_submenu_view.h"
 
 #include <memory>

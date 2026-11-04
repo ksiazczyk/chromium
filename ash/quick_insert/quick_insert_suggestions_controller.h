@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert suggestions controller class declaration
+// summary: Declares the controller that supplies Quick Insert search results for the current mode and for specific categories.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/quick_insert/model/quick_insert_link_suggester.h
+//   - depends_on /ash/quick_insert/quick_insert_clipboard_history_provider.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_QUICK_INSERT_SUGGESTIONS_CONTROLLER_H_
 #define ASH_QUICK_INSERT_QUICK_INSERT_SUGGESTIONS_CONTROLLER_H_
 

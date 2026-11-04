@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert Feature Tour Header
+// summary: Declares the Quick Insert feature tour controller that shows a first-use dialog, registers profile prefs, and defers callbacks until window deactivation.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/quick_insert/views/quick_insert_feature_tour_dialog_view.h
+//   - depends_on /base/functional/callback_forward.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_FEATURE_TOUR_H_
 #define ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_FEATURE_TOUR_H_
 

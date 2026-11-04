@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert preview bubble controller unit tests
+// summary: Unit tests verifying that the preview bubble shows after a delay, is canceled by CloseBubble and closes when the anchor widget is destroyed.
+// relations:
+//   - tests /ash/quick_insert/views/quick_insert_preview_bubble_controller.h
+//   - depends_on /ash/public/cpp/holding_space/holding_space_image.h
+//   - depends_on /ash/quick_insert/views/quick_insert_preview_bubble.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_preview_bubble_controller.h"
 
 #include <memory>

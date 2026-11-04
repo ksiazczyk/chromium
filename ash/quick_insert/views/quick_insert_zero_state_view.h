@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert zero state view header
+// summary: Declares QuickInsertZeroStateView, the page view showing zero-state suggestions grouped into category sections with item navigation support.
+// relations:
+//   - references /ash/quick_insert/views/quick_insert_page_view.h
+//   - depends_on /ash/quick_insert/views/quick_insert_zero_state_view_delegate.h
+//   - references /ash/quick_insert/quick_insert_category.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_ZERO_STATE_VIEW_H_
 #define ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_ZERO_STATE_VIEW_H_
 

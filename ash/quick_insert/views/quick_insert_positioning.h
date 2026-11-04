@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert positioning header
+// summary: Declares the QuickInsertPositionType enum and the function returning anchor bounds for positioning Quick Insert near the caret or cursor.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/gfx/geometry/rect.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_POSITIONING_H_
 #define ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_POSITIONING_H_
 

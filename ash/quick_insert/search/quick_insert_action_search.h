@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert action search header
+// summary: Declares the QuickInsertActionSearch function returning action results such as categories, Caps Lock and case transforms for a query.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/quick_insert/quick_insert_search_result.h
+//   - depends_on /base/containers/span.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_SEARCH_QUICK_INSERT_ACTION_SEARCH_H_
 #define ASH_QUICK_INSERT_SEARCH_QUICK_INSERT_ACTION_SEARCH_H_
 

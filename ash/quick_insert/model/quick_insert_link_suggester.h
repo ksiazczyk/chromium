@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert link suggester class declaration
+// summary: Declares the QuickInsertLinkSuggester class that suggests links from recent browsing history with favicon images.
+// relations:
+//   - depends_on /ash/quick_insert/quick_insert_search_result.h
+//   - depends_on /base/functional/callback_forward.h
+//   - depends_on /base/memory/weak_ptr.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_MODEL_QUICK_INSERT_LINK_SUGGESTER_H_
 #define ASH_QUICK_INSERT_MODEL_QUICK_INSERT_LINK_SUGGESTER_H_
 

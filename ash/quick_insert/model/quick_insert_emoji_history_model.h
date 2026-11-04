@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert emoji history model class declaration
+// summary: Declares the QuickInsertEmojiHistoryModel class that manages recent emoji history items persisted in preferences.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/raw_ref.h
+//   - depends_on /base/time/default_clock.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_MODEL_QUICK_INSERT_EMOJI_HISTORY_MODEL_H_
 #define ASH_QUICK_INSERT_MODEL_QUICK_INSERT_EMOJI_HISTORY_MODEL_H_
 

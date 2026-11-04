@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert suggestions controller unit tests
+// summary: Unit tests covering the suggestion results returned by the suggestions controller, including new window, editor rewrite, and clipboard history cases.
+// relations:
+//   - tests /ash/quick_insert/quick_insert_suggestions_controller.h
+//   - depends_on /ash/clipboard/clipboard_history_item.h
+//   - depends_on /ash/clipboard/test_support/clipboard_history_item_builder.h
+// ---
+
 #include "ash/quick_insert/quick_insert_suggestions_controller.h"
 
 #include "ash/clipboard/clipboard_history_item.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert widget header
+// summary: Declares QuickInsertWidget, a views::Widget subclass that creates the Quick Insert bubble near an anchor or centered and closes on native blur.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/quick_insert/views/quick_insert_bubble_event_filter.h
+//   - depends_on /base/time/time.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_WIDGET_H_
 #define ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_WIDGET_H_
 

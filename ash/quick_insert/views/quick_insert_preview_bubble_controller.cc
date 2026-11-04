@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert preview bubble controller implementation
+// summary: Manages the preview bubble lifecycle, showing it after a delay, updating its image, and notifying observers of visibility changes.
+// relations:
+//   - depends_on /ash/quick_insert/views/quick_insert_preview_bubble_controller.h
+//   - depends_on /ash/public/cpp/holding_space/holding_space_image.h
+//   - depends_on /ash/quick_insert/views/quick_insert_preview_bubble.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_preview_bubble_controller.h"
 
 #include <optional>

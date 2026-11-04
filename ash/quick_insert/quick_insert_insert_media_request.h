@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert insert media request header
+// summary: Declares QuickInsertInsertMediaRequest, an input method observer that inserts rich media into the next focused input field with a timeout.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/quick_insert/quick_insert_insert_media.h
+//   - depends_on /ash/quick_insert/quick_insert_rich_media.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_QUICK_INSERT_INSERT_MEDIA_REQUEST_H_
 #define ASH_QUICK_INSERT_QUICK_INSERT_INSERT_MEDIA_REQUEST_H_
 

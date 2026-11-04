@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert section view unit tests
+// summary: Unit tests for the Quick Insert section view covering accessibility roles, title labels and links, and item creation from search results.
+// relations:
+//   - tests /ash/quick_insert/views/quick_insert_section_view.h
+//   - depends_on /ash/quick_insert/mock_quick_insert_asset_fetcher.h
+//   - depends_on /ash/quick_insert/views/quick_insert_gif_view.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_section_view.h"
 
 #include <memory>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert media to clipboard conversion
+// summary: Converts Quick Insert rich media such as text, images, links, and files into clipboard data, building escaped HTML markup and showing a copy toast.
+// relations:
+//   - implements /ash/quick_insert/quick_insert_copy_media.h
+//   - depends_on /ash/constants/notifier_catalogs.h
+//   - depends_on /ash/public/cpp/system/toast_data.h
+// ---
+
 #include "ash/quick_insert/quick_insert_copy_media.h"
 
 #include <iterator>

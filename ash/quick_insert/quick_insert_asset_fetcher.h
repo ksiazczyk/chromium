@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert asset fetcher interface
+// summary: Interface for asynchronously fetching Quick Insert assets such as GIFs, GIF preview images, and file thumbnails via callbacks.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/files/file.h
+//   - depends_on /base/functional/callback_forward.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_QUICK_INSERT_ASSET_FETCHER_H_
 #define ASH_QUICK_INSERT_QUICK_INSERT_ASSET_FETCHER_H_
 

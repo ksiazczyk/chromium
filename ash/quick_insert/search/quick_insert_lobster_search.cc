@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert lobster search implementation
+// summary: Implements QuickInsertLobsterSearch, which currently returns a lobster image result for any non-empty query while the actual matching logic is still pending.
+// relations:
+//   - implements /ash/quick_insert/search/quick_insert_lobster_search.h
+//   - depends_on /ash/quick_insert/quick_insert_search_result.h
+//   - depends_on /ash/quick_insert/search/quick_insert_editor_search.h
+// ---
+
 #include <optional>
 #include <string>
 #include <string_view>

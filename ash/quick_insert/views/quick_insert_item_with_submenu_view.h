@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickInsertItemWithSubmenuView class header
+// summary: Declares the QuickInsertItemWithSubmenuView class, a Quick Insert item that stores submenu entries and shows them via a submenu controller.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/quick_insert/quick_insert_search_result.h
+//   - depends_on /ash/quick_insert/views/quick_insert_item_view.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_ITEM_WITH_SUBMENU_VIEW_H_
 #define ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_ITEM_WITH_SUBMENU_VIEW_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert controller unit tests
+// summary: Unit tests for the Ash Quick Insert controller, covering clipboard history, session metrics, prefs, focus handling, and UI behavior of the quick insert feature.
+// relations:
+//   - tests /ash/quick_insert/quick_insert_controller.h
+//   - depends_on /ash/accessibility/accessibility_controller.h
+//   - depends_on /ash/clipboard/clipboard_history_controller_impl.h
+// ---
+
 #include "ash/quick_insert/quick_insert_controller.h"
 
 #include <memory>

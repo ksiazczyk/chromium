@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickInsertImageItemView implementation
+// summary: Implements the QuickInsertImageItemView, an image-only picker item with action-specific accessible names and image sizing that preserves the aspect ratio.
+// relations:
+//   - implements /ash/quick_insert/views/quick_insert_image_item_view.h
+//   - depends_on /ash/ash_element_identifiers.h
+//   - depends_on /ash/quick_insert/views/quick_insert_item_view.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_image_item_view.h"
 
 #include <memory>

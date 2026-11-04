@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert category strings helper
+// summary: Provides localized labels and search field placeholder text for Quick Insert categories, with branding-dependent editor strings.
+// relations:
+//   - depends_on /ash/quick_insert/views/quick_insert_strings.h
+//   - depends_on /ash/quick_insert/model/quick_insert_search_results_section.h
+//   - depends_on /ash/quick_insert/quick_insert_category.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_strings.h"
 
 #include <string>

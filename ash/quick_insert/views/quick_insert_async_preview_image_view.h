@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert async preview image view
+// summary: Declares an image view that fetches a file's thumbnail preview asynchronously and updates itself when the preview is available.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/holding_space/holding_space_image.h
+//   - depends_on /base/callback_list.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_ASYNC_PREVIEW_IMAGE_VIEW_H_
 #define ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_ASYNC_PREVIEW_IMAGE_VIEW_H_
 

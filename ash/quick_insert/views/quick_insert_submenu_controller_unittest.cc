@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert submenu controller unit tests
+// summary: Unit tests verifying submenu widget creation, anchor alignment in LTR and RTL, widget parenting, and closing behavior of the submenu controller.
+// relations:
+//   - depends_on /ash/quick_insert/views/quick_insert_submenu_controller.h
+//   - depends_on /ash/quick_insert/quick_insert_test_util.h
+//   - depends_on /ash/quick_insert/views/quick_insert_item_view.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_submenu_controller.h"
 
 #include <memory>

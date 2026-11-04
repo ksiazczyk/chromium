@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert search controller implementation
+// summary: Implements QuickInsertSearchController, dispatching queries to search sources such as emoji, symbols, and math using IME-derived language codes and preference data.
+// relations:
+//   - implements /ash/quick_insert/search/quick_insert_search_controller.h
+//   - depends_on /ash/constants/ash_pref_names.h
+//   - depends_on /ash/quick_insert/model/quick_insert_search_results_section.h
+// ---
+
 #include "ash/quick_insert/search/quick_insert_search_controller.h"
 
 #include <algorithm>

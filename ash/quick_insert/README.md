@@ -1,3 +1,9 @@
+---
+type: readme
+title: Quick Insert
+summary: Describes the Quick Insert feature for quickly inserting emojis, GIFs, links and images, and outlines its key components such as model, views, metrics, controller and client.
+---
+
 # Quick Insert
 
 Quick Insert is a feature in Ash that allows users to quickly insert

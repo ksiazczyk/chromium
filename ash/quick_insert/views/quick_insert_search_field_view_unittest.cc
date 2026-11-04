@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert search field view unit tests
+// summary: Unit tests for the Quick Insert search field view covering accessibility roles, button tooltips, search triggering on text changes and focus behavior.
+// relations:
+//   - tests /ash/quick_insert/views/quick_insert_search_field_view.h
+//   - depends_on /ash/quick_insert/metrics/quick_insert_performance_metrics.h
+//   - depends_on /ash/quick_insert/views/quick_insert_key_event_handler.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_search_field_view.h"
 
 #include <memory>

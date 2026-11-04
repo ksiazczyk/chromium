@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert Focus Indicator Header
+// summary: Declares PaintQuickInsertFocusIndicator, which paints a focus indicator that looks like a vertical bar with half-rounded edges onto a canvas.
+// ---
+
 #ifndef ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_FOCUS_INDICATOR_H_
 #define ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_FOCUS_INDICATOR_H_
 

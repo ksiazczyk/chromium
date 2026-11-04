@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert clipboard history provider implementation
+// summary: Fetches clipboard history items from the ClipboardHistoryController and filters them by query, recency, and display format for Quick Insert results.
+// relations:
+//   - implements /ash/quick_insert/quick_insert_clipboard_history_provider.h
+//   - depends_on /ash/clipboard/clipboard_history_item.h
+//   - depends_on /ash/public/cpp/clipboard_history_controller.h
+// ---
+
 #include "ash/quick_insert/quick_insert_clipboard_history_provider.h"
 
 #include <string>

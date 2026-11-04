@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert insert media unit tests
+// summary: Tests media insertion into input fields, checking support detection, successful insertion of text, images, and links, and failure for unsupported fields.
+// relations:
+//   - tests /ash/quick_insert/quick_insert_insert_media.h
+//   - depends_on /ash/quick_insert/quick_insert_rich_media.h
+//   - depends_on /ash/quick_insert/quick_insert_web_paste_target.h
+// ---
+
 #include "ash/quick_insert/quick_insert_insert_media.h"
 
 #include <optional>

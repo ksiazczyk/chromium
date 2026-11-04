@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert search result implementation
+// summary: Implements the search result model classes for text, emoji, symbol, emoticon, GIF, and search request results shown in the Quick Insert UI.
+// relations:
+//   - depends_on /ash/quick_insert/quick_insert_search_result.h
+//   - depends_on /ui/base/models/image_model.h
+//   - depends_on /ui/gfx/geometry/size.h
+// ---
+
 #include "ash/quick_insert/quick_insert_search_result.h"
 
 #include <cstddef>

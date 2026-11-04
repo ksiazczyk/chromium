@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Quick Insert asset fetcher header
+// summary: Declares a mock QuickInsertAssetFetcher that overrides GIF and file thumbnail fetching for test purposes.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - implements /ash/quick_insert/quick_insert_asset_fetcher.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_MOCK_QUICK_INSERT_ASSET_FETCHER_H_
 #define ASH_QUICK_INSERT_MOCK_QUICK_INSERT_ASSET_FETCHER_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert submenu controller header
+// summary: Declares the QuickInsertSubmenuController class that manages showing and closing the submenu widget anchored to a view.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /base/scoped_observation.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_SUBMENU_CONTROLLER_H_
 #define ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_SUBMENU_CONTROLLER_H_
 

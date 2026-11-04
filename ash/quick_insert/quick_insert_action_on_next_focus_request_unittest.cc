@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Insert action on next focus request unit tests
+// summary: Unit tests covering action-on-next-focus behavior, including single execution across multiple focus changes, timeout handling, and no action after timeout.
+// relations:
+//   - tests /ash/quick_insert/quick_insert_action_on_next_focus_request.h
+//   - depends_on /base/functional/callback.h
+//   - depends_on /base/functional/callback_helpers.h
+// ---
+
 #include "ash/quick_insert/quick_insert_action_on_next_focus_request.h"
 
 #include "base/functional/callback.h"

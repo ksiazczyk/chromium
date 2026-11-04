@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert preview bubble header
+// summary: Declares QuickInsertPreviewBubbleView, a bubble dialog that displays a preview image and text for a Quick Insert item.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/base/models/image_model.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_PREVIEW_BUBBLE_H_
 #define ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_PREVIEW_BUBBLE_H_
 

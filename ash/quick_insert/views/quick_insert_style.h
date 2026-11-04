@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert style constants
+// summary: Defines shared style constants for Quick Insert views, including view width, border radius, background color, shadow type, and the layout type enum.
+// relations:
+//   - depends_on /ash/style/system_shadow.h
+//   - depends_on /ui/color/color_id.h
+// ---
+
 #ifndef ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_STYLE_H_
 #define ASH_QUICK_INSERT_VIEWS_QUICK_INSERT_STYLE_H_
 

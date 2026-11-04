@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert widget implementation
+// summary: Implements QuickInsertWidget, building the Quick Insert bubble widget and choosing the layout from anchor bounds and position type.
+// relations:
+//   - depends_on /ash/quick_insert/views/quick_insert_widget.h
+//   - depends_on /ash/bubble/bubble_event_filter.h
+//   - depends_on /ash/public/cpp/shell_window_ids.h
+// ---
+
 #include "ash/quick_insert/views/quick_insert_widget.h"
 
 #include "ash/bubble/bubble_event_filter.h"
