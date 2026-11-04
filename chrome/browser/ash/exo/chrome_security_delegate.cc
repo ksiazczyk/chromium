@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome security delegate implementation
+// summary: Implements ChromeSecurityDelegate, enforcing exo security policies and sharing files with guest VMs while translating paths between host and VM file URLs.
+// ---
+
 #include "chrome/browser/ash/exo/chrome_security_delegate.h"
 
 #include <memory>

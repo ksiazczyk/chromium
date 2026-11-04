@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Ash extensions
+summary: Specifies allowed include rules for the Ash extensions directory, with extra test-only includes, as part of an effort to reduce //chrome dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ScopedExtendedUpdatesController
+// summary: Verifies that ScopedExtendedUpdatesController replaces the global controller with a mock and restores the original instance afterwards.
+// ---
+
 #include "chrome/browser/ash/extended_updates/test/scoped_extended_updates_controller.h"
 
 #include "chrome/browser/ash/extended_updates/extended_updates_controller.h"

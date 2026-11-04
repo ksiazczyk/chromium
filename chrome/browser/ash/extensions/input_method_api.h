@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input method private extension API declarations
+// summary: Declares extension functions for the inputMethodPrivate API such as getting, setting and switching input methods.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_INPUT_METHOD_API_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_INPUT_METHOD_API_H_
 

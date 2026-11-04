@@ -5,6 +5,12 @@
 // This file provides API functions to fetch external thumbnails for filesystem
 // providers that support it.
 
+// ---docerion
+// type: source
+// title: Image loader private thumbnail API declarations
+// summary: Declares the imageLoaderPrivate extension function classes for fetching Drive, PDF and ARC DocumentsProvider thumbnails.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_FILE_MANAGER_IMAGE_LOADER_PRIVATE_API_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_FILE_MANAGER_IMAGE_LOADER_PRIVATE_API_H_
 

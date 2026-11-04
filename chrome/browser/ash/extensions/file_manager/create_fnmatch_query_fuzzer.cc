@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fnmatch query creation fuzzer
+// summary: LibFuzzer harness that feeds arbitrary input strings to CreateFnmatchQuery to test its robustness.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

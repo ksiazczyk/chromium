@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for ChromeOS speech recognition extensions
+summary: Defines the static library and browser test source sets, with their dependencies, for the ChromeOS speech recognition private extension code.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the login screen UI handler
+// summary: Unit tests the UiHandler show, close and window lifecycle behavior using a fake window factory and test profiles.
+// ---
+
 #include "chrome/browser/ash/extensions/login_screen_ui/ui_handler.h"
 
 #include <memory>

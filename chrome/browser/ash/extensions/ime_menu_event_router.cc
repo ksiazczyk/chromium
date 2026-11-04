@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IME menu event router for extension events
+// summary: Broadcasts IME menu activation, list and item change events to listening extensions.
+// ---
+
 #include "chrome/browser/ash/extensions/ime_menu_event_router.h"
 
 #include <memory>

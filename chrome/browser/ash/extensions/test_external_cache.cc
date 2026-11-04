@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestExternalCache in-memory extension cache implementation
+// summary: Implements an in-memory ExternalCache fake that tracks cached extension CRXs and simulates download success or failure for tests.
+// ---
+
 #include "chrome/browser/ash/extensions/test_external_cache.h"
 
 #include <utility>

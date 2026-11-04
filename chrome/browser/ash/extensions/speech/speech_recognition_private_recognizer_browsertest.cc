@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SpeechRecognitionPrivateRecognizer browser tests
+// summary: Browser tests for the recognizer covering start, stop, locale, and interim result behavior using fake speech recognition services.
+// ---
+
 #include "chrome/browser/ash/extensions/speech/speech_recognition_private_recognizer.h"
 
 #include "base/strings/utf_string_conversions.h"

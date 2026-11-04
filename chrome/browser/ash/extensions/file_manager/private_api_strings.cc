@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Strings function for file manager private API
+// summary: Implements chrome.fileManagerPrivate.getStrings, returning localized Files app strings and feature strings for the current locale.
+// ---
+
 #include "chrome/browser/ash/extensions/file_manager/private_api_strings.h"
 
 #include <memory>

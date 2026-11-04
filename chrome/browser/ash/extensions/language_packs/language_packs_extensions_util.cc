@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language pack extension status conversion utilities
+// summary: Converts language pack manager PackResult states and errors into input method private extension status values.
+// ---
+
 #include "chrome/browser/ash/extensions/language_packs/language_packs_extensions_util.h"
 
 #include "base/logging.h"

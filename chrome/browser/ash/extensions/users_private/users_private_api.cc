@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of chrome.usersPrivate extension functions
+// summary: Implements the chrome.usersPrivate extension functions for listing, adding, and removing allowed users and checking ownership and login status.
+// ---
+
 #include "chrome/browser/ash/extensions/users_private/users_private_api.h"
 
 #include <stddef.h>

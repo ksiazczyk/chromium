@@ -4,6 +4,12 @@
 //
 // This file contains base classes for fileManagerPrivate API.
 
+// ---docerion
+// type: source
+// title: Logged extension function base class declaration
+// summary: Declares LoggedExtensionFunction, the base class fileManagerPrivate API functions inherit for completion logging and slow-call warnings.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_FILE_MANAGER_LOGGED_EXTENSION_FUNCTION_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_FILE_MANAGER_LOGGED_EXTENSION_FUNCTION_H_
 

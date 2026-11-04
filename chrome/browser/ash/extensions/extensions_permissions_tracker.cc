@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions permissions tracker implementation
+// summary: Implements tracking of force-installed extensions in managed guest sessions, including the allowlist of extensions exempt from permission warnings on the login screen.
+// ---
+
 #include "chrome/browser/ash/extensions/extensions_permissions_tracker.h"
 
 #include "ash/constants/ash_pref_names.h"

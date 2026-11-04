@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login screen UI extension API header
+// summary: Declares the LoginScreenUiShowFunction and LoginScreenUiCloseFunction extension functions for the chrome.loginScreenUi API.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_LOGIN_SCREEN_UI_LOGIN_SCREEN_UI_API_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_LOGIN_SCREEN_UI_LOGIN_SCREEN_UI_API_H_
 

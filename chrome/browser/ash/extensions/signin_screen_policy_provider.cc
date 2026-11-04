@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in screen extension policy provider implementation
+// summary: Implements a management policy provider that denies loading extensions on the ChromeOS sign-in screen except allowed ones, with a testing bypass hook.
+// ---
+
 #include "chrome/browser/ash/extensions/signin_screen_policy_provider.h"
 
 #include <stddef.h>

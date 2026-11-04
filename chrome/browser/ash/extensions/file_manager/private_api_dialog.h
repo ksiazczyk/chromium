@@ -5,6 +5,12 @@
 // This file provides API functions for the file manager to act as the file
 // dialog for opening and saving files.
 
+// ---docerion
+// type: source
+// title: File manager private dialog API declarations
+// summary: Declares fileManagerPrivate extension functions that let the Files app act as the open and save file dialog, including Android picker app selection.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_FILE_MANAGER_PRIVATE_API_DIALOG_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_FILE_MANAGER_PRIVATE_API_DIALOG_H_
 

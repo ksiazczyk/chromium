@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default app order interface
+// summary: Declares the ExternalLoader class and helper functions that provide the default app launcher order and the OEM apps folder name.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_DEFAULT_APP_ORDER_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_DEFAULT_APP_ORDER_H_
 

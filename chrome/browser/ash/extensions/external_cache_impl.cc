@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External cache implementation
+// summary: Implements the external extension cache with download handling, observation of CRX install failures across profiles, and cache file management.
+// ---
+
 #include "chrome/browser/ash/extensions/external_cache_impl.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File manager private API utility implementation
+// summary: Implements utility functions for the fileManagerPrivate API, including selected file info, local path resolution and DriveFS entry properties.
+// ---
+
 #include "chrome/browser/ash/extensions/file_manager/private_api_util.h"
 
 #include <stddef.h>

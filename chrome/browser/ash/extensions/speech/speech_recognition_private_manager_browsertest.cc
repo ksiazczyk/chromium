@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SpeechRecognitionPrivateManager browser tests
+// summary: Browser tests for the speech recognition manager covering key creation, recognizer lookup, and start, stop, result, and error event handling.
+// ---
+
 #include "chrome/browser/ash/extensions/speech/speech_recognition_private_manager.h"
 
 #include "base/memory/raw_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install limiter class declaration for ChromeOS extensions
+// summary: Declares InstallLimiter, a keyed service that queues big app installs after small ones and runs them one by one.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_INSTALL_LIMITER_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_INSTALL_LIMITER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictionary event router implementation
+// summary: Broadcasts input method private extension events when the custom spellcheck dictionary is loaded or changed.
+// ---
+
 #include "chrome/browser/ash/extensions/dictionary_event_router.h"
 
 #include <memory>

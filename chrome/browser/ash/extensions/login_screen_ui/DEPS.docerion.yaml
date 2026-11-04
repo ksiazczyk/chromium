@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for login screen UI
+summary: Sets include dependency rules for the directory, blocking //chrome dependencies except for the directory itself and tests.

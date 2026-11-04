@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the autotest_private extension
+summary: Defines the autotest_private static library and browser_tests source set with their sources and ChromeOS dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedAppWindow RAII test utility header
+// summary: Declares ScopedAppWindow, a test utility that destroys extensions::AppWindow instances in RAII style.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_SCOPED_APP_WINDOW_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_SCOPED_APP_WINDOW_H_
 

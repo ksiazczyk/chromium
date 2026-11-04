@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Holding space private API functions
+// summary: Implements fileManagerPrivate functions to toggle pinned files in the holding space and read its state.
+// ---
+
 #include "chrome/browser/ash/extensions/file_manager/private_api_holding_space.h"
 
 #include <memory>

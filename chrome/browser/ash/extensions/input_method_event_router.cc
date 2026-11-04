@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input method change event router
+// summary: Forwards input method change events from the input method manager to listening extensions.
+// ---
+
 #include "chrome/browser/ash/extensions/input_method_event_router.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for users_private
+summary: Sets include rules that block //chrome dependencies and allow specific ChromeOS paths needed by this directory.

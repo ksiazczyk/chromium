@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media parser utility for file manager private API
+// summary: Converts mojo media metadata into the fileManagerPrivate MediaMetadata value, adjusting MIME prefixes and optional fields for the Files app.
+// ---
+
 #include "chrome/browser/ash/extensions/file_manager/private_api_media_parser_util.h"
 
 #include <memory>

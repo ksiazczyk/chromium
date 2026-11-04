@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File system private API functions for Files app
+// summary: Implements file system related fileManagerPrivate extension functions including file watches, permissions, and I/O task operations.
+// ---
+
 #include "chrome/browser/ash/extensions/file_manager/private_api_file_system.h"
 
 #include <sys/statvfs.h>

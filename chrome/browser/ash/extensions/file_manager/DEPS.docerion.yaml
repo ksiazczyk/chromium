@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules
+summary: Defines the include dependencies allowed for the file_manager extension directory, with per-file exceptions.

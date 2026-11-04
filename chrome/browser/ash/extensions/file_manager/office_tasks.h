@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfficeTasks class declaration
+// summary: Declares OfficeTasks, which keeps track of open and upload tasks to ODFS and Google Drive for office files.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_FILE_MANAGER_OFFICE_TASKS_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_FILE_MANAGER_OFFICE_TASKS_H_
 

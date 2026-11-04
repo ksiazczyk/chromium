@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in screen extension policy provider header
+// summary: Declares SigninScreenPolicyProvider, a management policy provider guarding which extensions may load on the sign-in screen.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_SIGNIN_SCREEN_POLICY_PROVIDER_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_SIGNIN_SCREEN_POLICY_PROVIDER_H_
 

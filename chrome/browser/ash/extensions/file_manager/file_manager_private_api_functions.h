@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File Manager private API functions aggregator
+// summary: Header included by generated extension API code that aggregates all file_manager_private API function implementation headers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_FILE_MANAGER_FILE_MANAGER_PRIVATE_API_FUNCTIONS_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_FILE_MANAGER_FILE_MANAGER_PRIVATE_API_FUNCTIONS_H_
 

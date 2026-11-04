@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login screen UI window handler header
+// summary: Declares the UiHandler class that handles chrome.loginScreenUi API calls and manages one active login screen window per extension.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_LOGIN_SCREEN_UI_UI_HANDLER_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_LOGIN_SCREEN_UI_UI_HANDLER_H_
 

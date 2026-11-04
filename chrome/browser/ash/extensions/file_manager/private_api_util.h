@@ -4,6 +4,12 @@
 //
 // This file provides utility functions for fileManagerPrivate API.
 
+// ---docerion
+// type: source
+// title: File manager private API utility declarations
+// summary: Declares utility helpers for the fileManagerPrivate API such as volume metadata conversion, local path lookup and DriveFS entry properties.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_FILE_MANAGER_PRIVATE_API_UTIL_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_FILE_MANAGER_PRIVATE_API_UTIL_H_
 

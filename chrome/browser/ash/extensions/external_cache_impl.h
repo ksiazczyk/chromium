@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External cache implementation header
+// summary: Declares ExternalCacheImpl, which manages a cache of external extensions with update checks and extension downloader delegate behavior.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_EXTERNAL_CACHE_IMPL_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_EXTERNAL_CACHE_IMPL_H_
 

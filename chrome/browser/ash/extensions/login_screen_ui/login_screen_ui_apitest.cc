@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the login screen UI extension API
+// summary: Runs in-process browser tests covering opening, closing and user-closable login screen UI windows via the extension API.
+// ---
+
 #include <memory>
 #include <string>
 

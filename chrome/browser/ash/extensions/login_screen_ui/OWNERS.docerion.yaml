@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for login screen UI
+summary: Points to the shared owners file of the login screen extensions directory for code review approval.

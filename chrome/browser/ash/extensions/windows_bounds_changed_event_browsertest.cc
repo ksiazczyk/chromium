@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows onBoundsChanged browser tests
+// summary: Browser tests verifying chrome.windows.onBoundsChanged fires only once for interactive drags that move or resize a browser window.
+// ---
+
 #include "chrome/browser/extensions/extension_apitest.h"
 #include "chrome/browser/ui/browser_window.h"
 #include "content/public/test/browser_test.h"

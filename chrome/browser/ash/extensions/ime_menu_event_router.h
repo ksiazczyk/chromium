@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IME menu event router class declaration
+// summary: Declares the observer class that forwards IME menu changes to the extension event router.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_IME_MENU_EVENT_ROUTER_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_IME_MENU_EVENT_ROUTER_H_
 

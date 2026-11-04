@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped test helper for the extended updates controller
+// summary: Declares a scoped test helper that swaps the global ExtendedUpdatesController instance and restores the original controller when destroyed.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENDED_UPDATES_TEST_SCOPED_EXTENDED_UPDATES_CONTROLLER_H_
 #define CHROME_BROWSER_ASH_EXTENDED_UPDATES_TEST_SCOPED_EXTENDED_UPDATES_CONTROLLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for extended updates
+summary: Restricts //chrome dependencies for this ChromeOS directory and lists allowed includes, with extra rules granted only to the unit test files.

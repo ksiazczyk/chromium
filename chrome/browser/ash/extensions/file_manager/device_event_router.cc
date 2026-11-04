@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device event router implementation
+// summary: Implements device event handling for the Files app, tracking device states and dispatching events for disks, mounts, formats and renames.
+// ---
+
 #include "chrome/browser/ash/extensions/file_manager/device_event_router.h"
 
 #include "base/functional/bind.h"

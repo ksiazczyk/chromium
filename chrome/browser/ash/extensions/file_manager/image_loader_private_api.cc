@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image loader private thumbnail API implementation
+// summary: Implements imageLoaderPrivate extension functions that fetch and encode Drive, PDF and ARC DocumentsProvider thumbnails as base64 PNG data URLs.
+// ---
+
 
 #include "chrome/browser/ash/extensions/file_manager/image_loader_private_api.h"
 

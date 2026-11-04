@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the users_private extension library
+summary: Defines the static library and browser test targets with their sources and dependencies for the users_private extension code.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External cache delegate interface
+// summary: Declares the ExternalCacheDelegate interface for notifications about cached extension updates, downloads, file deletions, and rollback support.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_EXTERNAL_CACHE_DELEGATE_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_EXTERNAL_CACHE_DELEGATE_H_
 

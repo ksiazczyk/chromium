@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped Drive notification suppression declarations
+// summary: Declares a scoped helper class that suppresses Drive notifications for a relative Drive path until destroyed.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_FILE_MANAGER_SCOPED_SUPPRESS_DRIVE_NOTIFICATIONS_FOR_PATH_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_FILE_MANAGER_SCOPED_SUPPRESS_DRIVE_NOTIFICATIONS_FOR_PATH_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for extended updates tests
+summary: Sets include rules for the test directory, blocking //chrome dependencies except extended updates and allowing profile includes only for the unit test.

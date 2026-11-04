@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media player event router declaration
+// summary: Declares MediaPlayerEventRouter, which notifies extensions of media player shortcut key events.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_MEDIA_PLAYER_EVENT_ROUTER_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_MEDIA_PLAYER_EVENT_ROUTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language pack event router implementation
+// summary: Observes language pack state changes and broadcasts input method private extension events for handwriting packs.
+// ---
+
 #include "chrome/browser/ash/extensions/language_packs/language_pack_event_router.h"
 
 #include <memory>

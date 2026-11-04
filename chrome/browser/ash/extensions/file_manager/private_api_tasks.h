@@ -4,6 +4,12 @@
 //
 // This file provides task related API functions.
 
+// ---docerion
+// type: source
+// title: File manager private task API declarations
+// summary: Declares extension functions for executing, listing and setting default file tasks via the fileManagerPrivateInternal API.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_FILE_MANAGER_PRIVATE_API_TASKS_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_FILE_MANAGER_PRIVATE_API_TASKS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: ChromeOS extension API registration build file
+summary: GN build configuration that registers ChromeOS extension API function implementations, mapping schema sources to native headers and declaring dependencies for the Ash browser.

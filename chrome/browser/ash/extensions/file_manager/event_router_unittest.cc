@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Event router unit tests
+// summary: Unit tests for the File Manager event router, including Crostini event population and event dispatch behavior with fake profile and volume manager setup.
+// ---
+
 #include "chrome/browser/ash/extensions/file_manager/event_router.h"
 
 #include <memory>

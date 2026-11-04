@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mount-related file manager private API functions
+// summary: Implements chrome.fileManagerPrivate mount functions that mount removable devices and archives, cancel or remove mounts, and report volume metadata.
+// ---
+
 #include "chrome/browser/ash/extensions/file_manager/private_api_mount.h"
 
 #include <memory>

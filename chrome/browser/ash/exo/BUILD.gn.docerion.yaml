@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the ash exo library and unit tests
+summary: Defines the exo static library and a testonly unit_tests source set with their sources and dependencies for ChromeOS Ash.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: External cache implementation unit tests
+// summary: Unit tests for ExternalCacheImpl covering cache directories, extension files, update lists, and delegate callbacks.
+// ---
+
 #include "chrome/browser/ash/extensions/external_cache_impl.h"
 
 #include <map>

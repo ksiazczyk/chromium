@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language pack event router header
+// summary: Declares the LanguagePackEventRouter class that forwards language pack status changes to extension listeners.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_LANGUAGE_PACKS_LANGUAGE_PACK_EVENT_ROUTER_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_LANGUAGE_PACKS_LANGUAGE_PACK_EVENT_ROUTER_H_
 

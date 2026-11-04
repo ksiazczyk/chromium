@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device local account management policy provider header
+// summary: Declares the management policy provider that restricts extension installation in device-local accounts to whitelisted extensions.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_DEVICE_LOCAL_ACCOUNT_MANAGEMENT_POLICY_PROVIDER_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_DEVICE_LOCAL_ACCOUNT_MANAGEMENT_POLICY_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictionary event router header
+// summary: Declares the event router that observes custom spellcheck dictionary changes and dispatches events to listening extensions.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_DICTIONARY_EVENT_ROUTER_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_DICTIONARY_EVENT_ROUTER_H_
 

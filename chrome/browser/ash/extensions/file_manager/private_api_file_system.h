@@ -4,6 +4,12 @@
 //
 // This file provides file system related API functions.
 
+// ---docerion
+// type: source
+// title: File system private API function declarations
+// summary: Declares file system related fileManagerPrivate extension functions such as external file scheme, access grants, and file watches.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_FILE_MANAGER_PRIVATE_API_FILE_SYSTEM_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_FILE_MANAGER_PRIVATE_API_FILE_SYSTEM_H_
 

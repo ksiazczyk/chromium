@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Language packs static library build definition
+summary: Defines the language_packs static library GN target with its source files and ChromeOS dependencies.

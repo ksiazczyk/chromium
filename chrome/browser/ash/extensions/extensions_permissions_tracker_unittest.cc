@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extensions permissions tracker unit tests
+// summary: Unit tests for the extensions permissions tracker, covering force-listed extensions and safe versus unsafe permission sets.
+// ---
+
 #include "chrome/browser/ash/extensions/extensions_permissions_tracker.h"
 
 #include <iterator>

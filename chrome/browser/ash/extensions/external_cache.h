@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External cache interface
+// summary: Declares the ExternalCache interface for managing a cache of external extensions, including lookup, shutdown, list updates, and removal operations.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_EXTERNAL_CACHE_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_EXTERNAL_CACHE_H_
 

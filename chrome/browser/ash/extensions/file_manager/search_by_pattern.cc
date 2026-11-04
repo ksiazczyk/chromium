@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pattern based file search implementation
+// summary: Implements case-insensitive fnmatch query creation and file search by name pattern with exclusions, timestamps and result limits.
+// ---
+
 #include "chrome/browser/ash/extensions/file_manager/search_by_pattern.h"
 
 #include "base/files/file_enumerator.h"

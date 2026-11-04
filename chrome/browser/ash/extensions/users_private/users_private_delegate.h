@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UsersPrivateDelegate header providing prefs access for user management
+// summary: Declares the UsersPrivateDelegate keyed service that provides PrefsUtil access for managing users.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_USERS_PRIVATE_USERS_PRIVATE_DELEGATE_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_USERS_PRIVATE_USERS_PRIVATE_DELEGATE_H_
 

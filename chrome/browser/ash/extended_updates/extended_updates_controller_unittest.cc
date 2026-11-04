@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ExtendedUpdatesController
+// summary: Tests opt-in eligibility and opt-in behavior across user types, ARC app states, and EOL date scenarios using fake settings and a test clock.
+// ---
+
 #include "chrome/browser/ash/extended_updates/extended_updates_controller.h"
 
 #include <memory>

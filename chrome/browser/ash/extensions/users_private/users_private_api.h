@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations of chrome.usersPrivate extension functions
+// summary: Declares the ExtensionFunction classes behind the chrome.usersPrivate API methods such as getUsers, addUser, and removeUser.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_USERS_PRIVATE_USERS_PRIVATE_API_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_USERS_PRIVATE_USERS_PRIVATE_API_H_
 

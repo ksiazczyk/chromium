@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media player event router implementation
+// summary: Broadcasts media player events such as next track, previous track, and play state toggles to extensions.
+// ---
+
 #include "chrome/browser/ash/extensions/media_player_event_router.h"
 
 #include <utility>

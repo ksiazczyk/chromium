@@ -4,6 +4,12 @@
 //
 // This file provides Drive specific API functions.
 
+// ---docerion
+// type: source
+// title: Drive private API function declarations
+// summary: Declares Drive-related fileManagerPrivate extension functions for entry properties, pinning, search, and connection state.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_FILE_MANAGER_PRIVATE_API_DRIVE_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_FILE_MANAGER_PRIVATE_API_DRIVE_H_
 

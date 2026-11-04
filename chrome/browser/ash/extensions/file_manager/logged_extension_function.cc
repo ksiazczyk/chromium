@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Logged extension function implementation
+// summary: Implements logging of file manager extension function completion and warnings for slow operations through the drive event logger.
+// ---
+
 #include "chrome/browser/ash/extensions/file_manager/logged_extension_function.h"
 
 #include <inttypes.h>

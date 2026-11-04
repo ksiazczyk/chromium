@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS extensions browser API provider implementation
+// summary: Registers ChromeOS-generated extension functions in the extension function registry for the Ash browser API provider.
+// ---
+
 #include "chrome/browser/ash/extensions/chromeos_extensions_browser_api_provider.h"
 
 #include "chrome/browser/ash/extensions/api/generated_api_registration.h"

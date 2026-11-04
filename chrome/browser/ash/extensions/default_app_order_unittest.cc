@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default app order unit tests
+// summary: Unit tests verifying the built-in default app order and that external order files, including localized OEM folder names, override it.
+// ---
+
 #include "chrome/browser/ash/extensions/default_app_order.h"
 
 #include <stddef.h>

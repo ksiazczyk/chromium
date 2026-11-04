@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device event router unit tests
+// summary: Unit tests verifying device event dispatching for device add, remove and hard-unplug scenarios.
+// ---
+
 #include "chrome/browser/ash/extensions/file_manager/device_event_router.h"
 
 #include <memory>

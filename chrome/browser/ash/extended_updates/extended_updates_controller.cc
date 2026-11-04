@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extended Updates controller implementation
+// summary: Implements the singleton controller that checks extended updates opt-in eligibility, opts devices in via owner settings, and triggers notifications.
+// ---
+
 #include "chrome/browser/ash/extended_updates/extended_updates_controller.h"
 
 #include <memory>

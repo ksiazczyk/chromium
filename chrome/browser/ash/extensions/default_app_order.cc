@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default app order implementation
+// summary: Implements the ChromeOS default app launcher order, reading an external ordinal JSON file and falling back to the built-in default app list.
+// ---
+
 #include "chrome/browser/ash/extensions/default_app_order.h"
 
 #include <array>

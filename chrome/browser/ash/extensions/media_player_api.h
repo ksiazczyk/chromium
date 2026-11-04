@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media player API declaration
+// summary: Declares MediaPlayerAPI, a keyed API service exposing the media player event router to extensions.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_MEDIA_PLAYER_API_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_MEDIA_PLAYER_API_H_
 

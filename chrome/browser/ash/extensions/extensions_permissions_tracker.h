@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions permissions tracker header
+// summary: Declares the ExtensionsPermissionsTracker class that decides whether force-installed extension permissions trigger the full managed guest session warning on the login screen.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_EXTENSIONS_PERMISSIONS_TRACKER_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_EXTENSIONS_PERMISSIONS_TRACKER_H_
 

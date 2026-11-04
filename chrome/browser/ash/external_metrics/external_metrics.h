@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalMetrics class header
+// summary: Declares the ExternalMetrics singleton that reads externally reported ChromeOS metrics from uma-events files and logs them through the normal UMA mechanism.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTERNAL_METRICS_EXTERNAL_METRICS_H_
 #define CHROME_BROWSER_ASH_EXTERNAL_METRICS_EXTERNAL_METRICS_H_
 

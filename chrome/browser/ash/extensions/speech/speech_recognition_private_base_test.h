@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared test base class for speech recognition tests
+// summary: Declares a parameterized base test class shared by the speech recognition API, manager and recognizer tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_SPEECH_SPEECH_RECOGNITION_PRIVATE_BASE_TEST_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_SPEECH_SPEECH_RECOGNITION_PRIVATE_BASE_TEST_H_
 

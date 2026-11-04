@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extended Updates notification implementation
+// summary: Shows the extended updates notification in the message center, handles setup and learn-more button clicks, and persists user dismissal.
+// ---
+
 #include "chrome/browser/ash/extended_updates/extended_updates_notification.h"
 
 #include <optional>

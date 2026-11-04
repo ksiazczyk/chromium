@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpeechRecognitionPrivateRecognizer implementation
+// summary: Implements the SpeechRecognizer wrapper that starts and stops recognition, handles results and state changes, and picks on-device or network recognition.
+// ---
+
 #include "chrome/browser/ash/extensions/speech/speech_recognition_private_recognizer.h"
 
 #include "ash/public/cpp/projector/speech_recognition_availability.h"

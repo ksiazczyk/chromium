@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for chrome/browser/ash/exo
+summary: Restricts dependencies on //chrome for ChromeOS code and lists the allowed chrome/browser/ash includes, with extra rules for test files.

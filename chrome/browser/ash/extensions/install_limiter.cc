@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install limiter implementation for deferred extension installs
+// summary: Implements InstallLimiter, which defers large CRX app installs until smaller ones finish to improve the first-time login experience.
+// ---
+
 #include "chrome/browser/ash/extensions/install_limiter.h"
 
 #include <optional>

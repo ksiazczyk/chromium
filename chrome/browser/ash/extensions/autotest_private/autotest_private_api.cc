@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autotest private extension API implementation
+// summary: Implements the autotestPrivate extension API functions that expose ChromeOS browser state and actions for autotest automation.
+// ---
+
 #include "chrome/browser/ash/extensions/autotest_private/autotest_private_api.h"
 
 #include <algorithm>

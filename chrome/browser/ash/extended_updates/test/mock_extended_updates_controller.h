@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gmock mock of the extended updates controller
+// summary: Declares a gmock mock of ExtendedUpdatesController with mocked methods for opt-in eligibility, opt-in state, EOL info, and ownership checks.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENDED_UPDATES_TEST_MOCK_EXTENDED_UPDATES_CONTROLLER_H_
 #define CHROME_BROWSER_ASH_EXTENDED_UPDATES_TEST_MOCK_EXTENDED_UPDATES_CONTROLLER_H_
 

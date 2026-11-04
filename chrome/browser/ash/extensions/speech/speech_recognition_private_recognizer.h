@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpeechRecognitionPrivateRecognizer header
+// summary: Declares the recognizer wrapper that delegates speech recognition events and decides between on-device and network speech recognition.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_SPEECH_SPEECH_RECOGNITION_PRIVATE_RECOGNIZER_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_SPEECH_SPEECH_RECOGNITION_PRIVATE_RECOGNIZER_H_
 
