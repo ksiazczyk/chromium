@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI personal context access manager factory implementation
+// summary: Implements the profile-keyed factory for the Autofill AI personal context access manager, wiring personal context, device sync and entity suppression services under the ambient autofill feature.
+// ---
+
 #include "chrome/browser/autofill/autofill_ai_personal_context_access_manager_factory.h"
 
 #include "base/feature_list.h"

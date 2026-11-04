@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for the TPM firmware update library
+summary: Defines the static library and unit test targets for the TPM firmware update code, listing their sources and build dependencies.

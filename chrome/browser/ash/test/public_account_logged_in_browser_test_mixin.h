@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Public account logged-in browser test mixin header
+// summary: Declares a browser test mixin that registers a public account user and enters a public session for ChromeOS in-process browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_TEST_PUBLIC_ACCOUNT_LOGGED_IN_BROWSER_TEST_MIXIN_H_
 #define CHROME_BROWSER_ASH_TEST_PUBLIC_ACCOUNT_LOGGED_IN_BROWSER_TEST_MIXIN_H_
 

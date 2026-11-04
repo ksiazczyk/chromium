@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Provider state service factory
+// summary: Profile-keyed factory that instantiates ProviderStateService for browser profiles to hold omnibox provider state.
+// ---
+
 #include "chrome/browser/autocomplete/provider_state_service_factory.h"
 
 #include <memory>

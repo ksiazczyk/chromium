@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GeneratedFindAndFillWithGeminiPref unit tests
+// summary: Unit tests covering the generated preference's read and write behavior without policy and its enforced-disabled behavior under enterprise policy.
+// ---
+
 #include "chrome/browser/autofill/generated_find_and_fill_with_gemini_pref.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill UI test utilities implementation
+// summary: Implements helpers that add test profiles and credit cards, wait for personal data changes, and trigger the autofill popup in browser tests.
+// ---
+
 #include "chrome/browser/autofill/autofill_uitest_util.h"
 
 #include "base/memory/raw_ptr.h"

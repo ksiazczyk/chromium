@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GLIC user session test helper implementation
+// summary: Implements a helper that sets up a fake user session with session manager, user manager, and network config fakes so GLIC features can be exercised in unit tests.
+// ---
+
 #include "chrome/browser/ash/test/glic_user_session_test_helper.h"
 
 #include <memory>

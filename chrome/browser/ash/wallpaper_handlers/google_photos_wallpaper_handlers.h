@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Photos wallpaper fetcher declarations
+// summary: Declares the templated GooglePhotosFetcher base class and concrete fetchers for albums, shared albums, and photos.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_WALLPAPER_HANDLERS_GOOGLE_PHOTOS_WALLPAPER_HANDLERS_H_
 #define CHROME_BROWSER_ASH_WALLPAPER_HANDLERS_GOOGLE_PHOTOS_WALLPAPER_HANDLERS_H_
 

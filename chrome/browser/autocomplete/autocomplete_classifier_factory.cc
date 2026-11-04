@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autocomplete classifier factory implementation
+// summary: Implements the per-profile keyed service factory that builds the AutocompleteClassifier with its controller and scheme classifier.
+// ---
+
 #include "chrome/browser/autocomplete/autocomplete_classifier_factory.h"
 
 #include <memory>

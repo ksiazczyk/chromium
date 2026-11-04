@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorOneTimeTokenFillingServiceImpl declaration
+// summary: Declares the ActorOneTimeTokenFillingServiceImpl class, owned by the actor ExecutionEngine, which observes navigations and interacts with the Gmail OTP backend.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOFILL_ACTOR_ONE_TIME_TOKENS_ACTOR_ONE_TIME_TOKEN_FILLING_SERVICE_IMPL_H_
 #define CHROME_BROWSER_AUTOFILL_ACTOR_ONE_TIME_TOKENS_ACTOR_ONE_TIME_TOKEN_FILLING_SERVICE_IMPL_H_
 

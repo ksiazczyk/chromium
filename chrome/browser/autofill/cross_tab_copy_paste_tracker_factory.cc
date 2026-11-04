@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-tab copy-paste tracker service factory
+// summary: Implements the profile-keyed service factory that provides the cross-tab copy-paste tracker used by autofill metrics.
+// ---
+
 #include "chrome/browser/autofill/cross_tab_copy_paste_tracker_factory.h"
 
 #include "components/autofill/core/browser/metrics/cross_tab_copy_paste_tracker.h"

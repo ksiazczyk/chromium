@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: MlLogRouter per-profile factory header
+// summary: Declares a profile-keyed service factory that provides one MlLogRouter instance per browser context.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOFILL_ML_LOG_ROUTER_FACTORY_H_
 #define CHROME_BROWSER_AUTOFILL_ML_LOG_ROUTER_FACTORY_H_
 

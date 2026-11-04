@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoConferenceManagerAsh class declaration
+// summary: Declares the central ash video conference manager hub that connects VC clients to system UI and acts as the source of truth for parameters like blur, relighting, and device usage.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_VIDEO_CONFERENCE_VIDEO_CONFERENCE_MANAGER_ASH_H_
 #define CHROME_BROWSER_ASH_VIDEO_CONFERENCE_VIDEO_CONFERENCE_MANAGER_ASH_H_
 

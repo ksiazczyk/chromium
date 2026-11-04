@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill interactive UI tests
+// summary: Interactive browser tests covering autofill UI flows such as suggestions, form filling, previews, votes and translate interactions in Chrome.
+// ---
+
 #include <optional>
 #include <string>
 #include <string_view>

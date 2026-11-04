@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Provider state service factory unit tests
+// summary: Tests that ProviderStateServiceFactory returns a valid service for regular profiles and none for incognito, guest, system, or signin profiles.
+// ---
+
 #include "chrome/browser/autocomplete/provider_state_service_factory.h"
 
 #include "chrome/browser/profiles/profile_testing_helper.h"

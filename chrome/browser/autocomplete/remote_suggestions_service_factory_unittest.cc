@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remote suggestions service factory unit tests
+// summary: Unit tests verifying that RemoteSuggestionsServiceFactory creates service instances for regular, incognito, and guest profiles but not for system profiles.
+// ---
+
 #include "chrome/browser/autocomplete/remote_suggestions_service_factory.h"
 
 #include "chrome/browser/profiles/profile_testing_helper.h"

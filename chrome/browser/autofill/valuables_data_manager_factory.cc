@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ValuablesDataManagerFactory implementation
+// summary: Implements the profile-keyed factory that builds ValuablesDataManager from autofill web data storage, profile preferences and the autofill image fetcher.
+// ---
+
 #include "chrome/browser/autofill/valuables_data_manager_factory.h"
 
 #include "base/no_destructor.h"

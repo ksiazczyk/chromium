@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unscoped extension provider delegate implementation
+// summary: Implements the delegate that relays omnibox input and suggestion events between the unscoped extension provider and extension omnibox APIs, building autocomplete matches for extension suggestions.
+// ---
+
 #include "chrome/browser/autocomplete/unscoped_extension_provider_delegate_impl.h"
 
 #include <cstddef>

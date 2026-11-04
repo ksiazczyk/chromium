@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DriveFS wallpaper delegate implementation
+// summary: Implements the DriveFS wallpaper delegate that saves, downloads, and watches wallpaper files synced through Google Drive.
+// ---
+
 #include "chrome/browser/ash/wallpaper/wallpaper_drivefs_delegate_impl.h"
 
 #include <map>

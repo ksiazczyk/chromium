@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the Ash feature video conference client
+// summary: Declares VideoConferenceAshFeatureClient, which covers media capture from features outside the browser and AppService, such as VMs and screen capture.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_VIDEO_CONFERENCE_VIDEO_CONFERENCE_ASH_FEATURE_CLIENT_H_
 #define CHROME_BROWSER_ASH_VIDEO_CONFERENCE_VIDEO_CONFERENCE_ASH_FEATURE_CLIENT_H_
 

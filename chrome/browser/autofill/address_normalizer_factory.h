@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address normalizer factory header
+// summary: Declares the AddressNormalizerFactory singleton that owns a single AddressNormalizerImpl instance for address field normalization.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOFILL_ADDRESS_NORMALIZER_FACTORY_H_
 #define CHROME_BROWSER_AUTOFILL_ADDRESS_NORMALIZER_FACTORY_H_
 

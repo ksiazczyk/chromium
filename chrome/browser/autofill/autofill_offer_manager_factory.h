@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill offer manager factory header
+// summary: Declares the AutofillOfferManagerFactory singleton that associates AutofillOfferManager keyed services with browser profiles.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOFILL_AUTOFILL_OFFER_MANAGER_FACTORY_H_
 #define CHROME_BROWSER_AUTOFILL_AUTOFILL_OFFER_MANAGER_FACTORY_H_
 

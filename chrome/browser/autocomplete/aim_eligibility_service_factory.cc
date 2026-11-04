@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AIM eligibility service factory implementation
+// summary: Creates per-profile ChromeAimEligibilityService instances with configuration derived from user agent metadata and contextual tasks features.
+// ---
+
 #include "chrome/browser/autocomplete/aim_eligibility_service_factory.h"
 
 #include <memory>

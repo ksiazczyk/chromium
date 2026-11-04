@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for device restriction schedule controller
+// summary: Browser tests covering the device restriction schedule controller, including policy updates, notification capture, and the device disabled OOBE screen.
+// ---
+
 #include "chromeos/ash/components/policy/restriction_schedule/device_restriction_schedule_controller.h"
 
 #include <utility>

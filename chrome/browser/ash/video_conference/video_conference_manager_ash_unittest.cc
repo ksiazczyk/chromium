@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VideoConferenceManagerAsh unit tests
+// summary: Unit tests checking that the manager correctly aggregates media apps and camera, microphone, and screen capture statuses from registered video conference clients.
+// ---
+
 #include "chrome/browser/ash/video_conference/video_conference_manager_ash.h"
 
 #include <memory>

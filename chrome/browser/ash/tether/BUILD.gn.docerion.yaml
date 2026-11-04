@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the Ash tether service
+summary: Defines the tether static library sources and dependencies plus the unit_tests source_set for the Ash tether directory.

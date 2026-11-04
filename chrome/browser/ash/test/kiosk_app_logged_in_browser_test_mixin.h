@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk app logged-in browser test mixin header
+// summary: Declares a browser test mixin that registers a kiosk app user and enters a kiosk app session for in-process browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_TEST_KIOSK_APP_LOGGED_IN_BROWSER_TEST_MIXIN_H_
 #define CHROME_BROWSER_ASH_TEST_KIOSK_APP_LOGGED_IN_BROWSER_TEST_MIXIN_H_
 

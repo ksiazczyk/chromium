@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AIM eligibility refresh navigation throttle class declaration
+// summary: Declares a navigation throttle class that refreshes AIM eligibility on primary main frame navigations to AIM URLs.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOCOMPLETE_AIM_ELIGIBILITY_REFRESH_NAVIGATION_THROTTLE_H_
 #define CHROME_BROWSER_AUTOCOMPLETE_AIM_ELIGIBILITY_REFRESH_NAVIGATION_THROTTLE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill optimization guide decider factory implementation
+// summary: Implements the profile-keyed factory that creates AutofillOptimizationGuideDecider instances backed by the Optimization Guide keyed service.
+// ---
+
 #include "chrome/browser/autofill/autofill_optimization_guide_decider_factory.h"
 
 #include "base/no_destructor.h"

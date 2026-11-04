@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autocomplete history manager factory implementation
+// summary: Implements the profile-keyed factory that creates AutocompleteHistoryManager instances backed by the autofill web data service and profile preferences.
+// ---
+
 #include "chrome/browser/autofill/autocomplete_history_manager_factory.h"
 
 #include "base/no_destructor.h"

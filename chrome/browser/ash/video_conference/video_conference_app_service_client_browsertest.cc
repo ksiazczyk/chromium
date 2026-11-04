@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the App Service video conference client
+// summary: In-process browser tests verifying app media capture tracking, permission handling, and UKM reporting in VideoConferenceAppServiceClient.
+// ---
+
 #include "chrome/browser/ash/video_conference/video_conference_app_service_client.h"
 
 #include <algorithm>

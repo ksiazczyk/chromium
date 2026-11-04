@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Form structure heuristics browser tests
+// summary: Data-driven browser tests that run autofill form structure heuristics on HTML test files served via an embedded test server.
+// ---
+
 #include "components/autofill/core/browser/form_structure.h"
 
 #include <algorithm>

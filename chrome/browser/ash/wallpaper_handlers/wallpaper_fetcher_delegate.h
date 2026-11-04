@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper fetcher delegate interface
+// summary: Defines the abstract wallpaper fetcher delegate interface for creating wallpaper fetchers, along with the production implementation declaration.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_WALLPAPER_HANDLERS_WALLPAPER_FETCHER_DELEGATE_H_
 #define CHROME_BROWSER_ASH_WALLPAPER_HANDLERS_WALLPAPER_FETCHER_DELEGATE_H_
 

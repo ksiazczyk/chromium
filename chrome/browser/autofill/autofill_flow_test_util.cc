@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill flow test utilities
+// summary: Implements helpers for browser tests to focus fields, show the autofill popup, select suggestions and accept them within autofill flows.
+// ---
+
 #include "chrome/browser/autofill/autofill_flow_test_util.h"
 
 #include <optional>

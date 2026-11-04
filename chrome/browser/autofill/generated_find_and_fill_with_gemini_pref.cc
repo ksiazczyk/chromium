@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GeneratedFindAndFillWithGeminiPref implementation
+// summary: Implements the synthetic Find and Fill with Gemini settings preference, combining enterprise policy enforcement with a backing user preference.
+// ---
+
 #include "chrome/browser/autofill/generated_find_and_fill_with_gemini_pref.h"
 
 #include <utility>

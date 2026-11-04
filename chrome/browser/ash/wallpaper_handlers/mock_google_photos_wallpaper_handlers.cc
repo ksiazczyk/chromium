@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Google Photos wallpaper fetchers
+// summary: Implements gmock mock fetchers that return fake Google Photos photos and albums for use in tests.
+// ---
+
 #include "chrome/browser/ash/wallpaper_handlers/mock_google_photos_wallpaper_handlers.h"
 
 #include <optional>

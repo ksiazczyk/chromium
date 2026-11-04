@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Captured sites test recipe replayer implementation
+// summary: Implements the TestRecipeReplayer that replays recorded recipes to navigate pages and autofill forms on captured sites during tests.
+// ---
+
 #include "chrome/browser/autofill/captured_sites_test_utils.h"
 
 #include <memory>

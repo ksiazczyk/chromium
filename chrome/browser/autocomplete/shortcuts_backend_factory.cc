@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shortcuts backend factory implementation
+// summary: Implements the profile-keyed service factory that builds and owns ShortcutsBackend instances, including testing variants and extension manager wiring.
+// ---
+
 #include "chrome/browser/autocomplete/shortcuts_backend_factory.h"
 
 #include <memory>

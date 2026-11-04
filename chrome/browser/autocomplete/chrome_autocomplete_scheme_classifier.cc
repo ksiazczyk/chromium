@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome autocomplete scheme classifier implementation
+// summary: Implements Chrome-specific omnibox scheme classification, deciding whether a scheme is treated as a URL or a query, including Android and ChromeOS handling.
+// ---
+
 #include "chrome/browser/autocomplete/chrome_autocomplete_scheme_classifier.h"
 
 #include "base/notreached.h"

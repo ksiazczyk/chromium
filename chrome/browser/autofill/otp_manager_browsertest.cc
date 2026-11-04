@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for OTP form filling
+// summary: Browser tests exercising OTP suggestion filling with a fake crowdsourcing manager that classifies every field as a one-time code.
+// ---
+
 #include <vector>
 
 #include "base/base64.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill browser test
+// summary: Large in-process browser test suite covering core Chrome autofill behavior, including form filling, personal data and credit card management, and accessibility interactions.
+// ---
+
 #include <stddef.h>
 
 #include <memory>

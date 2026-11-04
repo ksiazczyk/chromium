@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock AutofillAgent binding helper
+// summary: Implements MockAutofillAgent, overriding the AutofillAgent mojo binder on a render frame host so tests can stub renderer autofill calls.
+// ---
+
 #include "chrome/browser/autofill/mock_autofill_agent.h"
 
 #include "content/public/browser/render_frame_host.h"

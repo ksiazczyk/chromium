@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shortcuts provider extension unit tests
+// summary: Unit tests checking that ShortcutsProvider matches and returns extension URL shortcuts, gated on the extensions-core build flag.
+// ---
+
 #include <set>
 #include <string>
 #include <vector>

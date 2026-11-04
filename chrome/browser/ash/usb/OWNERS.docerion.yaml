@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS delegating to guest_os owners
+summary: Delegates directory ownership to the guest_os OWNERS file.

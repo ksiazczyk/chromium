@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TetherService implementation for Instant Tethering
+// summary: Implements the per-profile TetherService that starts and stops the Instant Tethering component based on feature state, Bluetooth, suspend and network conditions.
+// ---
+
 #include "chrome/browser/ash/tether/tether_service.h"
 
 #include "ash/constants/ash_features.h"

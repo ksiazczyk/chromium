@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper fetcher delegate implementation
+// summary: Implements the production wallpaper fetcher delegate that creates backdrop and Google Photos fetchers and fetches Google Photos access tokens.
+// ---
+
 #include "chrome/browser/ash/wallpaper_handlers/wallpaper_fetcher_delegate.h"
 
 #include <memory>

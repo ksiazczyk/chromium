@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for autofill actor one-time token filling
+summary: GN build file defining the actor static library for one-time token filling in autofill, its metrics and context sources, plus a testonly unit_tests target.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI personal context access manager factory header
+// summary: Declares AutofillAiPersonalContextAccessManagerFactory, the profile-keyed service factory for managing Autofill AI access to personal context data.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOFILL_AUTOFILL_AI_PERSONAL_CONTEXT_ACCESS_MANAGER_FACTORY_H_
 #define CHROME_BROWSER_AUTOFILL_AUTOFILL_AI_PERSONAL_CONTEXT_ACCESS_MANAGER_FACTORY_H_
 

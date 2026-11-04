@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Backdrop wallpaper service fetcher implementations
+// summary: Implements fetchers that download wallpaper collection, image and surprise-me info from the Backdrop service, with URL selection and filtering labels.
+// ---
+
 #include "chrome/browser/ash/wallpaper_handlers/wallpaper_handlers.h"
 
 #include <memory>

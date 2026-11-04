@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zero suggest cache service factory header
+// summary: Declares the ZeroSuggestCacheServiceFactory keyed service factory and its GetForProfile accessor for obtaining per-profile zero suggest cache services.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOCOMPLETE_ZERO_SUGGEST_CACHE_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_AUTOCOMPLETE_ZERO_SUGGEST_CACHE_SERVICE_FACTORY_H_
 

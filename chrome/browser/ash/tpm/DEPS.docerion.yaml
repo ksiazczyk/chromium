@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the TPM directory
+summary: 'Restricts and grants #include dependencies for the TPM firmware update directory, including a special rule for the notification source.'

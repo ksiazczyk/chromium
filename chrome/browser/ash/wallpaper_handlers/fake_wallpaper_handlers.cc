@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake backdrop wallpaper fetcher implementations
+// summary: Implements fake backdrop collection, image, and Surprise Me fetchers that return canned data to avoid network requests in tests.
+// ---
+
 #include "chrome/browser/ash/wallpaper_handlers/fake_wallpaper_handlers.h"
 
 #include <utility>

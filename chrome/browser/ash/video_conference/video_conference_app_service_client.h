@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the App Service video conference client
+// summary: Declares VideoConferenceAppServiceClient, an AppService-based client that notifies VideoConferenceManagerAsh of app launch, close, and media capture activity.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_VIDEO_CONFERENCE_VIDEO_CONFERENCE_APP_SERVICE_CLIENT_H_
 #define CHROME_BROWSER_ASH_VIDEO_CONFERENCE_VIDEO_CONFERENCE_APP_SERVICE_CLIENT_H_
 

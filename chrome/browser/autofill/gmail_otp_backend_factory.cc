@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GmailOtpBackendFactory implementation
+// summary: Implements the profile-keyed service factory that builds the Gmail OTP backend for regular profiles using the identity manager and autofill log router.
+// ---
+
 #include "chrome/browser/autofill/gmail_otp_backend_factory.h"
 
 #include "chrome/browser/profiles/profile.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video conference integration browser tests
+// summary: Integration browser tests for the ash video conference feature, exercising the tray UI, nudges, camera and audio effects, content settings, and background image flows.
+// ---
+
 #include <string_view>
 
 #include "ash/capture_mode/capture_mode_test_util.h"

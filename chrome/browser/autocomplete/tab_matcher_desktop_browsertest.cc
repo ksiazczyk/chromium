@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop tab matcher browser tests
+// summary: Browser tests verifying TabMatcherDesktop behavior such as excluding the active tab, restricting results to the current profile, and canonical search URL matching.
+// ---
+
 #include "chrome/browser/autocomplete/tab_matcher_desktop.h"
 
 #include <array>

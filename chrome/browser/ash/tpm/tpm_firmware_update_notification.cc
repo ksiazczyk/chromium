@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TPM firmware update notification implementation
+// summary: Shows a system notification when a TPM firmware cleanup update is pending and opens the ChromeOS settings about page when clicked.
+// ---
+
 #include "chrome/browser/ash/tpm/tpm_firmware_update_notification.h"
 
 #include <string>

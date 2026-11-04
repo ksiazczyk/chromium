@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI model cache factory header
+// summary: Declares AutofillAiModelCacheFactory, the profile-keyed service factory that provides per-profile Autofill AI model cache instances.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOFILL_AUTOFILL_AI_MODEL_CACHE_FACTORY_H_
 #define CHROME_BROWSER_AUTOFILL_AUTOFILL_AI_MODEL_CACHE_FACTORY_H_
 

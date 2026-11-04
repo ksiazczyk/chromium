@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gmock mock of the AutofillAgent mojo interface
+// summary: Declares MockAutofillAgent, a gmock stand-in for mojom::AutofillAgent used to fake form extraction, suggestions, and field actions in tests.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOFILL_MOCK_AUTOFILL_AGENT_H_
 #define CHROME_BROWSER_AUTOFILL_MOCK_AUTOFILL_AGENT_H_
 

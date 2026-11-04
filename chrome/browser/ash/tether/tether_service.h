@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TetherService class declaration
+// summary: Declares TetherService, a KeyedService providing access to the Instant Tethering component and tracking its enabled state across login, suspend and Bluetooth events.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_TETHER_TETHER_SERVICE_H_
 #define CHROME_BROWSER_ASH_TETHER_TETHER_SERVICE_H_
 

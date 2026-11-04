@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill metrics browser tests
+// summary: Browser tests verifying that autofill logs UKM metrics with the correct source URL for cross-site embedded address and credit card forms.
+// ---
+
 #include <map>
 #include <memory>
 #include <utility>

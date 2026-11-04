@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorLoginContext implementation
+// summary: Implements constructors and assignment operators for the ActorLoginContext struct that tracks navigation state of an actor login attempt.
+// ---
+
 #include "chrome/browser/autofill/actor/one_time_tokens/actor_login_context.h"
 
 #include <utility>

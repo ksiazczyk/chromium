@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TPM firmware update header
+// summary: Declares the update mode enum, settings key constants, and functions for decoding settings and checking available TPM firmware update modes.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_TPM_TPM_FIRMWARE_UPDATE_H_
 #define CHROME_BROWSER_ASH_TPM_TPM_FIRMWARE_UPDATE_H_
 

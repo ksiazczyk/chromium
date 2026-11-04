@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the OTP filling Safe Browsing checker
+// summary: Unit tests covering safe, unsafe, and timed-out Safe Browsing URL checks performed by OtpFillingSafeBrowsingCheckerClient.
+// ---
+
 #include "chrome/browser/autofill/otp_filling_safe_browsing_checker_client.h"
 
 #include <memory>

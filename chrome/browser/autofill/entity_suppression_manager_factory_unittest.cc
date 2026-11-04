@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EntitySuppressionManagerFactory unit tests
+// summary: Unit tests verifying the factory returns nullptr when the feature flag is disabled or for incognito profiles, and creates the service for regular profiles.
+// ---
+
 #include "chrome/browser/autofill/entity_suppression_manager_factory.h"
 
 #include "base/test/scoped_feature_list.h"

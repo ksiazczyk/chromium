@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill entity data manager factory
+// summary: Profile-keyed service factory that builds the autofill EntityDataManager with web data, history, sync, strike database and country dependencies.
+// ---
+
 #include "chrome/browser/autofill/autofill_entity_data_manager_factory.h"
 
 #include "base/no_destructor.h"

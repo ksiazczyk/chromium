@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-tab copy-paste tracker factory declarations
+// summary: Declares the profile-keyed service factory that exposes the cross-tab copy-paste tracker for each browser context.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOFILL_CROSS_TAB_COPY_PASTE_TRACKER_FACTORY_H_
 #define CHROME_BROWSER_AUTOFILL_CROSS_TAB_COPY_PASTE_TRACKER_FACTORY_H_
 

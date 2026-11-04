@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GLIC user session test helper header
+// summary: Declares a ProfileManagerObserver test helper that sets up a ChromeOS user session environment so GLIC profile eligibility checks pass in unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_TEST_GLIC_USER_SESSION_TEST_HELPER_H_
 #define CHROME_BROWSER_ASH_TEST_GLIC_USER_SESSION_TEST_HELPER_H_
 

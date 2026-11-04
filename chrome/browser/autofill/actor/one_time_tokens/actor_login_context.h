@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorLoginContext struct declaration
+// summary: Declares the ActorLoginContext struct that encapsulates navigation state observed when an actor login attempt begins, used to track OTP filling flows.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOFILL_ACTOR_ONE_TIME_TOKENS_ACTOR_LOGIN_CONTEXT_H_
 #define CHROME_BROWSER_AUTOFILL_ACTOR_ONE_TIME_TOKENS_ACTOR_LOGIN_CONTEXT_H_
 

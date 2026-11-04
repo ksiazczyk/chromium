@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TetherService unit tests
+// summary: Unit tests for the ChromeOS Ash TetherService, exercising tether network behavior with fake device sync, multidevice setup, secure channel, and shill clients.
+// ---
+
 #include "chrome/browser/ash/tether/tether_service.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Google Photos wallpaper handlers
+// summary: Unit tests verifying parsing and error handling of Google Photos API responses by the wallpaper fetchers.
+// ---
+
 #include "chrome/browser/ash/wallpaper_handlers/google_photos_wallpaper_handlers.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Regular logged-in browser test mixin implementation
+// summary: Implements a browser test mixin that sets up a regular user logged-in session, registering the persisted user and skipping policy checks for browser tests.
+// ---
+
 #include "chrome/browser/ash/test/regular_logged_in_browser_test_mixin.h"
 
 #include "ash/constants/ash_switches.h"

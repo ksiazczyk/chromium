@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Autofill DEPS include rules
+summary: Defines which headers the autofill directory may include, with special include rules for test files such as PersonalDataManagerTest.

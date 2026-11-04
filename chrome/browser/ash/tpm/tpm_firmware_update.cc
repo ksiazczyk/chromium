@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TPM firmware update implementation
+// summary: Implements TPM firmware update mode decoding, policy settings handling, and availability checking via the /run/tpm_firmware_update file on ChromeOS.
+// ---
+
 #include "chrome/browser/ash/tpm/tpm_firmware_update.h"
 
 #include <memory>

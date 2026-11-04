@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill annotations provider browser test
+// summary: In-process browser tests for the AutofillAnnotationsProvider, exercising annotated page content extraction and autofill form detection on served test pages.
+// ---
+
 #include "base/compiler_specific.h"
 #include "base/test/run_until.h"
 #include "base/test/scoped_feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Photos wallpaper fetcher implementations
+// summary: Implements fetchers that query Google Photos APIs for albums, photos, and enabled state using OAuth access tokens.
+// ---
+
 #include "chrome/browser/ash/wallpaper_handlers/google_photos_wallpaper_handlers.h"
 
 #include <memory>

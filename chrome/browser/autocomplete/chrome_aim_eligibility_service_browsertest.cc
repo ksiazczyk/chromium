@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome AIM eligibility service browser tests
+// summary: Browser tests for the AIM eligibility service, simulating eligibility responses, session handling and network failures.
+// ---
+
 #include "chrome/browser/autocomplete/chrome_aim_eligibility_service.h"
 
 #include <algorithm>

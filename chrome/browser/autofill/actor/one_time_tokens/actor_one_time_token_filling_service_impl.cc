@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActorOneTimeTokenFillingServiceImpl implementation
+// summary: Implements the actor one-time token filling service, covering login context tracking, OTP retrieval via the Gmail OTP backend, form validation, and OTP filling.
+// ---
+
 #include "chrome/browser/autofill/actor/one_time_tokens/actor_one_time_token_filling_service_impl.h"
 
 #include <algorithm>

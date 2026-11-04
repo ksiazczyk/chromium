@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for the Chrome autocomplete browser sources
+summary: Defines the autocomplete and impl source sets with their sources and dependencies for building Chrome's browser-side autocomplete code.

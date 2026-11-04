@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ValidationRulesStorageFactory implementation
+// summary: Implements the factory that creates address validation rule storage backed by a shared JSON pref store under the user data directory.
+// ---
+
 #include "chrome/browser/autofill/validation_rules_storage_factory.h"
 
 #include "base/files/file_path.h"

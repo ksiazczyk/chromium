@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill flow test utilities declaration
+// summary: Declares AutofillFlow, ShowMethod and flow parameters for driving the autofill suggestion flow in UI tests.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOFILL_AUTOFILL_FLOW_TEST_UTIL_H_
 #define CHROME_BROWSER_AUTOFILL_AUTOFILL_FLOW_TEST_UTIL_H_
 

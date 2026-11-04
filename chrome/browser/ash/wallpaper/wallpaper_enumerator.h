@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local wallpaper file enumerator header
+// summary: Declares EnumerateLocalWallpaperFiles, which searches user files for images usable as custom wallpapers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_WALLPAPER_WALLPAPER_ENUMERATOR_H_
 #define CHROME_BROWSER_ASH_WALLPAPER_WALLPAPER_ENUMERATOR_H_
 

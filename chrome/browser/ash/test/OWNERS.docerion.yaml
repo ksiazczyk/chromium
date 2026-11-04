@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the Ash test directory
+summary: Delegates review ownership of device_restriction_schedule_controller_browsertest.cc to the restriction schedule policy OWNERS file.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CrosUsbDetector unit tests
+// summary: Unit tests covering USB device detection, notification behavior, and device sharing with guest OSes using fake DBus and USB clients.
+// ---
+
 #include "chrome/browser/ash/usb/cros_usb_detector.h"
 
 #include <algorithm>

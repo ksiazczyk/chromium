@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GmailOtpBackendFactory header
+// summary: Declares the GmailOtpBackendFactory profile-keyed service factory and its accessors.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOFILL_GMAIL_OTP_BACKEND_FACTORY_H_
 #define CHROME_BROWSER_AUTOFILL_GMAIL_OTP_BACKEND_FACTORY_H_
 

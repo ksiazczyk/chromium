@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome AIM eligibility service implementation
+// summary: Implements the Chrome-side AimEligibilityService supplying the application locale and variations service from the browser process.
+// ---
+
 #include "chrome/browser/autocomplete/chrome_aim_eligibility_service.h"
 
 #include <string>

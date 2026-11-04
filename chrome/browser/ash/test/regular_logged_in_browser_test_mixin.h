@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Regular logged-in browser test mixin header
+// summary: Declares a browser test mixin that sets up a regular user logged-in situation, similar to a browser restart for crash recovery testing.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_TEST_REGULAR_LOGGED_IN_BROWSER_TEST_MIXIN_H_
 #define CHROME_BROWSER_ASH_TEST_REGULAR_LOGGED_IN_BROWSER_TEST_MIXIN_H_
 

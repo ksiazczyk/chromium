@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OnDeviceTailModelServiceFactory header
+// summary: Declares the profile-keyed factory providing per-profile OnDeviceTailModelService instances with a dependency on the Optimization Guide state.
+// ---
+
 #ifndef CHROME_BROWSER_AUTOCOMPLETE_ON_DEVICE_TAIL_MODEL_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_AUTOCOMPLETE_ON_DEVICE_TAIL_MODEL_SERVICE_FACTORY_H_
 
