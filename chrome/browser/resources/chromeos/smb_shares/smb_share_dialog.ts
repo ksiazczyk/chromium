@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMB share dialog element
+// summary: TypeScript web component that hosts the add SMB share dialog and closes the dialog window when it is dismissed.
+// ---
+
 import 'chrome://resources/ash/common/smb_shares/add_smb_share_dialog.js';
 import '/strings.m.js';
 

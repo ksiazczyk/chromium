@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ComposeAppAnimator for dialog state transitions
+// summary: Extends Animator with transition animations between Compose dialog states, including first-run experience, input, loading, and result screens.
+// ---
+
 import {isMac} from '//resources/js/platform.js';
 
 import {Animator, EMPHASIZED_DECELERATE, STANDARD_EASING} from './animator.js';

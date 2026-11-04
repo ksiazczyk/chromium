@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for SMB shares
+summary: Points this directory's metadata to the shared file manager COMMON_METADATA mixins.

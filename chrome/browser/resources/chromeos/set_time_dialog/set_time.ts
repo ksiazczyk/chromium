@@ -7,6 +7,12 @@
  * Main entry point for the set time dialog
  */
 
+// ---docerion
+// type: source
+// title: Set time dialog page entry point
+// summary: Entry point script that imports the dialog component and starts the color change updater when the page loads.
+// ---
+
 import '/strings.m.js';
 import './set_time_dialog.js';
 

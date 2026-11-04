@@ -3,6 +3,12 @@
  * found in the LICENSE file.
  */
 
+/*docerion
+type: source
+title: Global page styles
+summary: Stylesheet defining header, heading, and flex column layout styles for the content settings page shell.
+*/
+
 :root {
   --header-text-color: rgb(92, 97, 102);
   --tabs-border-color: #c8c8c8;

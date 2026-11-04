@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme color data for the debug page
+// summary: Defines the ThemeData and ThemeSection interfaces and the ALL_SECTIONS list of color system CSS variables displayed on the debug page.
+// ---
+
 // Information about a particular theme color to be displayed.
 export interface ThemeData {
   // The CSS variable name of the color to be demo'd.

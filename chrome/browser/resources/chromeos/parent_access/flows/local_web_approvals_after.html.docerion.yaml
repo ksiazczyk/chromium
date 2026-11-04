@@ -1,0 +1,4 @@
+# Docerion header of local_web_approvals_after.html.
+type: source
+title: Local web approvals after screen template
+summary: HTML template for the post-approval screen of the ChromeOS parent access local web approvals flow, showing a subtitle with the child's name plus the approved site's favicon and URL.

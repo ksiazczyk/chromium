@@ -1,0 +1,4 @@
+# Docerion header of slow.html.
+type: source
+title: Slow tracing warning page
+summary: HTML page that shows a slow-performance warning with hidden enable and disable tracing buttons, using i18n placeholders for text.

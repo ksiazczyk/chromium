@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parent Access app element
+// summary: Root Polymer app that switches between before, authentication, after, disabled, error and offline screens.
+// ---
+
 // strings.m.js is generated when we enable it via UseStringsJs() in webUI
 // controller. When loading it, it will populate data such as localized strings
 // into |loadTimeData|.

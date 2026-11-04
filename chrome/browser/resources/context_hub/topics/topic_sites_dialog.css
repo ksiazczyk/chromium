@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Topic sites dialog styles
+summary: Styles for the topic sites dialog, laying out the site list rows and styling rejected sites with a red tint and strikethrough text.
+*/
+
 cr-dialog {
   --cr-dialog-body-padding-horizontal: 16px;
   --cr-dialog-button-container-padding-horizontal: 16px;

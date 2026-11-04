@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart search card template
+// summary: Lit HTML template for a smart search result card showing a selection checkbox, favicon, title link, snippet and open-in-new button.
+// ---
+
 import {getFaviconForPageURL} from '//resources/js/icon.js';
 import {html, nothing} from '//resources/lit/v3_0/lit.rollup.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI Taskbox element
+// summary: Defines the ai-taskbox Lit element that filters, sorts and displays generated workspace, Chrome history and tab-based todos with refresh and feedback controls.
+// ---
+
 import './todo_item.js';
 import '//resources/cr_elements/cr_action_menu/cr_action_menu.js';
 import '//resources/cr_elements/cr_button/cr_button.js';

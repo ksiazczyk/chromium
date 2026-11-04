@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Topic visits panel Lit HTML template
+// summary: Lit HTML template for the fishfood topic visits panel, listing visits with favicons and Doesn't belong reject toggles under an experiment-only banner.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {TopicVisitsPanelElement} from './topic_visits_panel.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Menu Class
+// summary: Menu created by LineChart that lists data series as buttons and lets users toggle their visibility, notifying the chart via a callback.
+// ---
+
 import {createElementWithClassName} from 'chrome://resources/ash/common/util.js';
 
 import {MENU_TEXT_COLOR_DARK, MENU_TEXT_COLOR_LIGHT} from './constants.js';

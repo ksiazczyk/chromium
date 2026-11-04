@@ -7,6 +7,12 @@
  * @externs
  */
 
+// ---docerion
+// type: source
+// title: Externs for system info API objects
+// summary: Declares extern typedefs describing the CPU, memory, zram, GPU and NPU results returned by the getSysInfo handler.
+// ---
+
 /**
  * |getSysInfo| cpu result.
  * @typedef {{

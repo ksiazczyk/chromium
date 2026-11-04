@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Smart search view styles
+summary: Lit styles for the smart search view, covering the search bar, action bar, results grid, loading spinner and zero state layouts.
+*/
+
 :host {
   display: flex;
   flex-direction: column;

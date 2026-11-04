@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power WebUI plotting logic
+// summary: TypeScript logic that fetches power supply, CPU idle, and CPU frequency samples and draws line graphs and legends on HTML canvas elements.
+// ---
+
 import '/strings.m.js';
 
 import {sendWithPromise} from 'chrome://resources/ash/common/cr.m.js';

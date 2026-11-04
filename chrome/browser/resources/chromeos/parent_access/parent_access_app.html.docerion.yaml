@@ -1,0 +1,4 @@
+# Docerion header of parent_access_app.html.
+type: source
+title: Parent Access app template
+summary: Template that registers all flow screens in a cr-view-manager for the Parent Access app.

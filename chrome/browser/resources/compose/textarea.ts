@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compose textarea element with validation and transitions
+// summary: Lit element implementing the compose textarea with word and character limit validation, readonly mode, and animated transitions.
+// ---
+
 import './icons.html.js';
 import '/strings.m.js';
 import '//resources/cr_elements/cr_icon_button/cr_icon_button.js';

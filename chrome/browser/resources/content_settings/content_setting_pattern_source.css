@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Styles for content setting pattern source rows
+summary: Stylesheet for pattern source rows, laying out pattern and metadata columns with ellipsized text.
+*/
+
 div.content-setting {
   padding: 10px;
   display: flex;

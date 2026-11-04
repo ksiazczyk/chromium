@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System Internals page logic
+// summary: Initializes the page, drawer and line chart data series and periodically fetches system info for the CPU, memory and zram views.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/ash/common/cr.m.js';
 import {PromiseResolver} from 'chrome://resources/ash/common/promise_resolver.js';
 import {$} from 'chrome://resources/ash/common/util.js';

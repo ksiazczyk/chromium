@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Supervision directory metadata
+summary: Points the supervision directory to the shared supervised user ChromeOS metadata mixins.

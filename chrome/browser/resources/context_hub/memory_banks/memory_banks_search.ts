@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory banks search logic
+// summary: Search module parsing qualifier-based queries, matching memory bank entries, and generating autocomplete suggestions.
+// ---
+
 import {assertNotReachedCase} from '//resources/js/assert.js';
 
 import {EntryType} from '../context_hub.mojom-webui.js';

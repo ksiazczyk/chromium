@@ -3,6 +3,12 @@
   * found in the LICENSE file.
 **/
 
+/*docerion
+type: source
+title: System Internals page styles
+summary: Styles the scrollbar, navigation bar, drawer menu and info page panels of the System Internals interface.
+*/
+
 @import url(chrome://sys-internals/line_chart/line_chart.css);
 
 /* Scorllbar Style */

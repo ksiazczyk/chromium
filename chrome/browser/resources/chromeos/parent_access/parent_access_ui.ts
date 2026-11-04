@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parent access UI element
+// summary: Polymer element that configures the parent access webview, restricts requests to allowed HTTPS hosts, and controls OAuth token distribution.
+// ---
+
 import './parent_access_template.js';
 import 'chrome://resources/ash/common/cr_elements/cros_color_overrides.css.js';
 import 'chrome://resources/polymer/v3_0/paper-spinner/paper-spinner-lite.js';

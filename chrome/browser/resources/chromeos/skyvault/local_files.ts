@@ -7,6 +7,12 @@
  * Main entry point for the local files migration dialog
  */
 
+// ---docerion
+// type: source
+// title: Local files migration dialog entry point
+// summary: Main entry point that starts the color change updater and loads the migration dialog for the local files WebUI.
+// ---
+
 import '/strings.m.js';
 import './local_files_migration_dialog.js';
 

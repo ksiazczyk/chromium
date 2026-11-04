@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI Taskbox HTML template
+// summary: Lit HTML template for the ai-taskbox element, rendering the reading list view and the dashboard view with workspace, history and tab todo columns.
+// ---
+
 import {html, repeat} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {AiTaskboxElement} from './ai_taskbox.js';

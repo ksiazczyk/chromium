@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for SMB shares
+summary: Delegates code ownership review to the file manager OWNERS file.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Topic sites dialog element
+// summary: Lit element for the modal topic sites dialog that lists a topic's sites, opens them in new tabs, and flags visits as not belonging via fishfood feedback.
+// ---
+
 import '//resources/cr_elements/cr_button/cr_button.js';
 import '//resources/cr_elements/cr_dialog/cr_dialog.js';
 import '//resources/cr_elements/cr_icon_button/cr_icon_button.js';

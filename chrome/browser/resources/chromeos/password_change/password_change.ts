@@ -7,6 +7,12 @@
  * with cryptohome password.
  */
 
+// ---docerion
+// type: source
+// title: Password change WebUI element
+// summary: Polymer element that hosts the password change authenticator in a webview and sends captured old and new passwords to the browser via chrome.send.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 import 'chrome://resources/ash/common/cr_elements/cr_icon_button/cr_icon_button.js';
 import 'chrome://resources/ash/common/cr_elements/icons.html.js';

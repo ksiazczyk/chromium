@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base Animator class for Compose animations
+// summary: Defines a generic Animator class with easing constants and reusable animation helpers such as fade, slide, scale, and style maintenance for Compose UI elements.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 
 export const STANDARD_EASING = 'cubic-bezier(0.2, 0.0, 0, 1.0)';

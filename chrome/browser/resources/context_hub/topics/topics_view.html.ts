@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Topics view HTML template
+// summary: Lit HTML template for the topics view, rendering the header, loading, error and empty states, the topic card list, and the fishfood feedback export dialog.
+// ---
+
 import {html, repeat} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {TopicsViewElement} from './topics_view.js';

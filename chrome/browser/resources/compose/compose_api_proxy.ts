@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compose Mojo API proxy
+// summary: Interface and implementation proxying Compose WebUI actions such as compose, rewrite, undo, redo and feedback to browser Mojo handlers.
+// ---
+
 import type {CloseReason, ComposeState, InputMode, OpenMetadata, StyleModifier, UserFeedback} from './compose.mojom-webui.js';
 import {ComposeClientUntrustedPageHandlerRemote, ComposeSessionUntrustedPageHandlerFactory, ComposeSessionUntrustedPageHandlerRemote, ComposeUntrustedDialogCallbackRouter} from './compose.mojom-webui.js';
 

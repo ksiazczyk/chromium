@@ -1,0 +1,4 @@
+# Docerion header of mojo_timestamp.html.
+type: source
+title: mojo-timestamp element template
+summary: HTML template for the mojo-timestamp element, containing the span that shows the time.

@@ -9,6 +9,12 @@
  * It is implemented not using the notification system, but as a system dialog.
  */
 
+// ---docerion
+// type: source
+// title: Urgent password expiry notification dialog logic
+// summary: TypeScript element implementing the centered system dialog that warns of imminent password expiry with countdown-based title updates.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 import 'chrome://resources/ash/common/cr_elements/icons.html.js';

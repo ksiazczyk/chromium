@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the Contextual Cueing Internals page
+summary: Lit CSS styles defining the page layout, card and cue item styling, URL link appearance, and empty state for the internals UI.
+*/
+
 :host {
   display: block;
   margin: 0 auto;

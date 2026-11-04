@@ -1,0 +1,4 @@
+# Docerion header of compose.html.
+type: source
+title: Compose WebUI entry page
+summary: HTML entry point that loads app.js and renders the compose-app element for the Compose dialog.

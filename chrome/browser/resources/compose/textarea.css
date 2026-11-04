@@ -8,6 +8,12 @@
  * #import=//resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Compose textarea CSS styles
+summary: Styles the compose textarea element, covering editable input, readonly display, error states, and edit button layout.
+*/
+
 :host {
   --compose-textarea-input-height: calc(
       4lh + (2 * var(--compose-textarea-input-padding)));

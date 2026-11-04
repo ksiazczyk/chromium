@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Compose directory owners
+summary: Delegates code ownership and review for this directory to components/compose/OWNERS.

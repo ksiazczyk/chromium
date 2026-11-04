@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the power WebUI
+summary: GN build configuration that assembles the ChromeOS power WebUI from static CSS and HTML files plus TypeScript sources in a trusted WebUI context.

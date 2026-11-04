@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Notification tester OWNERS file
+summary: Sets newcomer@chromium.org as the code owner for the notification tester directory.

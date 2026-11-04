@@ -1,0 +1,4 @@
+# Docerion header of fingerprint_tablet.json.
+type: asset
+title: Fingerprint tablet animation
+summary: Lottie animation showing the fingerprint sensor location on a tablet for ChromeOS quick unlock.

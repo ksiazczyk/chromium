@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ParentAccessScreen interface
+// summary: Defines the interface that generic parent access screens implement to render content depending on the flow type.
+// ---
+
 /**
  * An interface to be implemented by the generic Parent Access screens that
  * render different content depending on flow type.

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Context Hub directory metadata
+summary: Declares the Buganizer component ID and team email address responsible for the Context Hub directory.

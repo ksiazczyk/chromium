@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory banks view HTML template
+// summary: Lit HTML template rendering the memory banks view with search, upload, selection actions, and card or table layouts.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {MemoryBanksElement} from './memory_banks.js';

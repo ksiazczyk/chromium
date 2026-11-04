@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Memory Bank Chat styles
+summary: Lit CSS styles for the memory bank chat view, covering message bubbles, reference links, loading spinner, attached context chips and the mention menu.
+*/
+
 :host {
   display: flex;
   flex: 1;

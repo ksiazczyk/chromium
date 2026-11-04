@@ -1,0 +1,4 @@
+# Docerion header of extension_approvals_before.html.
+type: source
+title: Extension approvals before screen HTML template
+summary: HTML template for the pre-approval screen that wraps the shared extension approvals template with localized title and subtitle text.

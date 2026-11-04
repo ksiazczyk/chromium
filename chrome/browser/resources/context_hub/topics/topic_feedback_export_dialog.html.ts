@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Topic feedback export dialog HTML template
+// summary: Lit HTML template for the feedback export dialog, showing the browsing history window, rating coverage and site redaction controls.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {EXPORT_WINDOW_DAYS} from './topic_feedback_export_dialog.js';

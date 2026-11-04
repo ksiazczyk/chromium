@@ -1,0 +1,4 @@
+# Docerion header of local_files.html.
+type: source
+title: Local files migration dialog page
+summary: HTML shell page that hosts the local-files-migration-dialog element and loads the local_files module script.

@@ -1,0 +1,4 @@
+# Docerion header of cr_frame_list.html.
+type: source
+title: cr-frame-list element template
+summary: HTML template for the cr-frame-list element, defining the tablist and tab panel slots.

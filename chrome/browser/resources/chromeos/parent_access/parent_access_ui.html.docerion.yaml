@@ -1,0 +1,4 @@
+# Docerion header of parent_access_ui.html.
+type: source
+title: Parent access UI HTML template
+summary: HTML template for the parent access UI that lays out the embedded webview dialog with a loading spinner and accessibility labels.

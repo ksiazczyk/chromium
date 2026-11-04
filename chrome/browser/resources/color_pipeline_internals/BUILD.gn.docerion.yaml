@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for the color pipeline internals WebUI
+summary: Defines the build_webui target bundling the TypeScript, CSS and HTML sources of the color pipeline internals page together with its WebUI dependencies.

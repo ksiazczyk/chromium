@@ -10,6 +10,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Memory banks edit dialog styles
+summary: Styles for the memory bank edit dialog, covering form sections, selects, inputs, tag chips, and suggestion dropdowns.
+*/
+
 :host {
   display: block;
 }

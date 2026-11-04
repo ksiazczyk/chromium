@@ -3,6 +3,12 @@
   * found in the LICENSE file.
 **/
 
+/*docerion
+type: source
+title: Line Chart Styles
+summary: Defines the CSS layout for the line chart root, canvas area, horizontal scrollbar, and the data series menu with its handle and buttons.
+*/
+
 [hidden] {
   display: none !important;
 }

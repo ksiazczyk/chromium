@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Topic visits panel styles
+summary: Styles for the fishfood topic visits panel, including the banner, visit rows with favicons and the red tint styling for rejected visits.
+*/
+
 :host {
   display: block;
 }

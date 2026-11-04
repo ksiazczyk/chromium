@@ -1,0 +1,4 @@
+# Docerion header of parent_access_template.html.
+type: source
+title: Parent access shared template layout
+summary: HTML template providing the shared parent access layout with a title bar, close button and a main content slot used by all screens.

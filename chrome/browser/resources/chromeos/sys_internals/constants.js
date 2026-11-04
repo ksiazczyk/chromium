@@ -6,6 +6,12 @@
  * @fileoverview Constants use by chrome://sys-internals.
  */
 
+// ---docerion
+// type: source
+// title: System Internals shared constants
+// summary: Defines shared constants such as the update period, unit lists, chart color sets and page hash values.
+// ---
+
 /**
  * The page update period, in milliseconds.
  * @type {number}

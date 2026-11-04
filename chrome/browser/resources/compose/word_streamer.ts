@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Word streamer for rate-limited text streaming
+// summary: Utility class that chunks text into words and streams them at a limited rate to animate progressive display of compose results.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 
 // Accepts text updates, chunks the text up, and provides the caller with

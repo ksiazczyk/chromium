@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension approvals after screen element
+// summary: Polymer element for the post-approval screen that loads the child display name from parent access params and dispatches a show-error event when params are missing.
+// ---
+
 import './extension_approvals_template.js';
 
 import {I18nMixin} from 'chrome://resources/ash/common/cr_elements/i18n_mixin.js';

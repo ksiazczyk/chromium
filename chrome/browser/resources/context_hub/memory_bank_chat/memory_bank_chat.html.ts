@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory Bank Chat HTML template
+// summary: Lit HTML template for the memory bank chat view, rendering message bubbles with references, a loading indicator, attached context chips and the mention menu.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {ChatRole} from '../context_hub.mojom-webui.js';

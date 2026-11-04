@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Topic card styles
+summary: Lit CSS for the topic-card element, styling its badge, title, description, action pill button and fishfood feedback row.
+*/
+
 :host {
   align-items: center;
   background-color: var(--cr-card-background-color, #fff);

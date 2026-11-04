@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: source
+title: System Internals main page markup
+summary: HTML page providing the navigation drawer and info panels for CPU, memory, Zram, GPU and NPU statistics.

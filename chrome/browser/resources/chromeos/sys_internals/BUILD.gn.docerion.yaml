@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: System Internals WebUI build definition
+summary: GN build rules that list the static assets and TypeScript sources compiled for the System Internals WebUI.

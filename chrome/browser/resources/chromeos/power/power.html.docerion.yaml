@@ -1,0 +1,4 @@
+# Docerion header of power.html.
+type: source
+title: Power WebUI page layout
+summary: HTML page for the ChromeOS power WebUI with sections for battery charge, CPU idle, and CPU frequency plots, each with show and reload buttons.

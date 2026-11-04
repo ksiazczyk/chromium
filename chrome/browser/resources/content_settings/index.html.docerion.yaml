@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: source
+title: Content Settings page entry point
+summary: Entry page of the Content Settings WebUI that renders the app element and loads the app module.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Context Hub WebUI build configuration
+summary: GN build definition for the Context Hub WebUI, listing its TypeScript, CSS and static HTML sources plus Lit, cr_elements and Mojo build dependencies.

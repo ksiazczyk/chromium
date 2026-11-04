@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: SMB shares WebUI build configuration
+summary: GN build file that builds the SMB shares WebUI dialogs, listing static files, web components and TypeScript dependencies.

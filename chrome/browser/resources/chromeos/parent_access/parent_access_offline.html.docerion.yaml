@@ -1,0 +1,4 @@
+# Docerion header of parent_access_offline.html.
+type: source
+title: Parent access offline screen template
+summary: HTML template that embeds the supervised user offline element inside the parent access template for the offline screen.

@@ -10,6 +10,12 @@
  * #include=cr-hidden-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Topic collection carousel styles
+summary: Lit CSS for the collection carousel, covering the header, scrolling cards, favicon tints, scroll buttons and fishfood rating controls.
+*/
+
 :host {
   --topic-carousel-gap: 8px;
   /* Three cards fill the width, the rest scroll into view. */

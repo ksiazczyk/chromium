@@ -1,0 +1,4 @@
+# Docerion header of extension_approvals_template.html.
+type: source
+title: Extension approvals shared screen template
+summary: Shared HTML template displaying the screen title and subtitle, the extension icon and name, and a scrollable list of extension permissions.

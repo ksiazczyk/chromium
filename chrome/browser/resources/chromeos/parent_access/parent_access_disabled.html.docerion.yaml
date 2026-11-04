@@ -1,0 +1,4 @@
+# Docerion header of parent_access_disabled.html.
+type: source
+title: Parent access disabled screen template
+summary: HTML template and styles for the parent access disabled screen, with an OK button and separate Jelly-enabled button variants.

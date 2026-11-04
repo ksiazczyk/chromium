@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Topic feedback controls styles
+summary: Styles for the topic feedback controls, covering the thumbs rating row, defect reasons button, defects popover and comment error states.
+*/
+
 :host {
   display: flex;
   flex-direction: column;

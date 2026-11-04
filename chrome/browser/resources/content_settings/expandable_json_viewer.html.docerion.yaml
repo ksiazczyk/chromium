@@ -1,0 +1,4 @@
+# Docerion header of expandable_json_viewer.html.
+type: source
+title: Expandable JSON viewer template
+summary: HTML template for the expandable JSON viewer, with a clickable header, toggle icons and a collapsible content area.

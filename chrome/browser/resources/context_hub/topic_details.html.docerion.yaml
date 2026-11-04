@@ -1,0 +1,4 @@
+# Docerion header of topic_details.html.
+type: source
+title: Topic Details HTML shell page
+summary: HTML host page for the Topic Details WebUI that styles the page and loads the topic-details custom element via its module script.

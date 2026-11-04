@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Components page controller logic
+// summary: TypeScript controller for the components WebUI that fetches component data from the C++ handler, renders the list, and handles update and uninstall actions.
+// ---
+
 import '/strings.m.js';
 
 import {assert} from 'chrome://resources/js/assert.js';

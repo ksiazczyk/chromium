@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Components WebUI GN build target
+summary: Defines the GN build rules that compile the components WebUI TypeScript sources and package its static HTML and CSS assets.

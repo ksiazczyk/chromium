@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrFrameList custom element
+// summary: Custom element implementing a tabbed frame list with selection handling, keyboard navigation and accessibility updates.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import {CustomElement} from 'chrome://resources/js/custom_element.js';
 import {FocusOutlineManager} from 'chrome://resources/js/focus_outline_manager.js';

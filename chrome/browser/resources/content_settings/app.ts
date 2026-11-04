@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Main app element for the content settings page
+// summary: Custom element that builds tabs for every content settings type, handles routing and loads page data on demand via Mojo.
+// ---
+
 import './content_setting_pattern_source.js';
 import './cr_frame_list.js';
 

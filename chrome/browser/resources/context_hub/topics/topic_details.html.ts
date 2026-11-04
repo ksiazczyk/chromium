@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Topic details page HTML template
+// summary: Lit HTML template laying out the details page with hero, sticky header, tabs, summary and visits panels and the sites dialog.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {TopicDetailsElement} from './topic_details.js';

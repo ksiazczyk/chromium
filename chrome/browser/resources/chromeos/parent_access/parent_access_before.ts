@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parent Access before screen element
+// summary: Polymer element for the before screen that renders flow-specific content and starts the authentication flow.
+// ---
+
 import './parent_access_template.js';
 import 'chrome://resources/ash/common/cr_elements/cros_color_overrides.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';

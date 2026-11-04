@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for content settings
+summary: Owners file that delegates review ownership to the shared content_settings OWNERS file.

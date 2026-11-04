@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Topic hero HTML template
+// summary: Lit HTML template for the topic hero banner, drawing an SVG pattern of the topic's badge shape and emoji with a gradient overlay.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {TopicHeroElement} from './topic_hero.js';

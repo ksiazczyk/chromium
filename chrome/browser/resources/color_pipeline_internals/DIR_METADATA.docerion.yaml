@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the color pipeline internals folder
+summary: Points the directory metadata to the shared mixins defined in //ui/color/COMMON_METADATA.

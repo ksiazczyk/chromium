@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LineChart Class
+// summary: Main canvas line chart class that attaches to a root div, handles mouse, touch, and resize events, and coordinates sub charts, menu, and scrollbar rendering.
+// ---
+
 import {createElementWithClassName} from 'chrome://resources/ash/common/util.js';
 
 import {BACKGROUND_COLOR, CHART_MARGIN, DEFAULT_SCALE, DRAG_RATE, GRID_COLOR, MAX_SCALE, MIN_LABEL_VERTICAL_SPACING, MIN_SCALE, MIN_TIME_LABEL_HORIZONTAL_SPACING, MOUSE_WHEEL_SCROLL_RATE, MOUSE_WHEEL_UNITS, SAMPLE_RATE, TEXT_COLOR, TIME_STEP_UNITS, TOUCH_ZOOM_UNITS, ZOOM_RATE} from './constants.js';

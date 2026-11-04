@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the conflicts WebUI
+summary: GN build file that compiles the Windows-only conflicts WebUI, listing static files, TypeScript sources and Lit and WebUI dependencies.

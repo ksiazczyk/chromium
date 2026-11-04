@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Supervision owners
+summary: Delegates code ownership of the supervision directory to the supervised user component owners.

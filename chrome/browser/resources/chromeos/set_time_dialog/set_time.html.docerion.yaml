@@ -1,0 +1,4 @@
+# Docerion header of set_time.html.
+type: source
+title: Set time dialog host page
+summary: HTML host page for the ChromeOS set time WebUI that loads the required stylesheets and the set-time-dialog element.

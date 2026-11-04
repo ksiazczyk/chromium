@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compose result text element with streaming display
+// summary: Lit element that displays compose output, streaming words via WordStreamer and reporting output completeness.
+// ---
+
 import './icons.html.js';
 import '/strings.m.js';
 import '//resources/cr_elements/cr_icon_button/cr_icon_button.js';

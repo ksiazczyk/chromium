@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Set time dialog WebUI build configuration
+summary: GN build file that defines the WebUI build for the set time dialog, listing static, web component and TypeScript files with their dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Contextual Cueing Internals WebUI
+summary: GN build definition that assembles the Contextual Cueing Internals WebUI from its HTML, TypeScript, and CSS sources with Mojo bindings and Lit dependencies.

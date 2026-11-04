@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory banks utilities
+// summary: Utilities converting Mojo timestamps to dates and formatting memory bank entries as Markdown for export.
+// ---
+
 import {assertNotReachedCase} from '//resources/js/assert.js';
 
 import {EntryType} from '../context_hub.mojom-webui.js';

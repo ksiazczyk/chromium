@@ -1,0 +1,4 @@
+# Docerion header of value_display.html.
+type: source
+title: Value display template
+summary: HTML template providing spans for the type, value, and logical value rendered inside the value display element.

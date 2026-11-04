@@ -9,6 +9,12 @@
  * #include=cr-nav-menu-item-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Context Hub app styles
+summary: Lit CSS for the Context Hub app shell, laying out the sidebar, logo section and scrollable content area.
+*/
+
 :host {
   color: var(--cr-primary-text-color);
   display: flex;

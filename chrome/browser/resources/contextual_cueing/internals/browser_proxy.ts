@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser proxy for the Contextual Cueing Internals page
+// summary: Singleton browser proxy exposing the Mojo PageHandler that the UI uses to request shown contextual cues from the browser.
+// ---
+
 import type {PageHandlerInterface} from './contextual_cueing_internals.mojom-webui.js';
 import {PageHandler} from './contextual_cueing_internals.mojom-webui.js';
 

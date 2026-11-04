@@ -1,0 +1,4 @@
+# Docerion header of extension_permission.html.
+type: source
+title: Extension permission row HTML template
+summary: HTML template for a single permission entry that renders the permission text plus buttons to show and hide its details.

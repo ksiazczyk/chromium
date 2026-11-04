@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the remote maintenance curtain directory
+summary: Delegates code ownership of this directory to the owners file of ash/curtain.

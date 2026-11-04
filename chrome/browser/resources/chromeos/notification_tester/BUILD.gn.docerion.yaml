@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Notification tester GN build configuration
+summary: Defines GN targets that generate GRD/GRDP resources, package the .pak, and run Closure type checks for the notification tester WebUI.

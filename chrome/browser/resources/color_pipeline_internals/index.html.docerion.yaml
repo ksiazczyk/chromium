@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: source
+title: Theme Colors Debug Page entry point
+summary: HTML entry page that loads the app module and hosts the color-pipeline-internals-app element.

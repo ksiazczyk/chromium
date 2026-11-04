@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parent access UI handler accessor
+// summary: Provides singleton access to the parent access Mojom UI handler and cached params, including helpers to set and reset handlers for testing.
+// ---
+
 import type {ParentAccessParams, ParentAccessUiHandlerInterface} from './parent_access_ui.mojom-webui.js';
 import {ParentAccessUiHandler} from './parent_access_ui.mojom-webui.js';
 

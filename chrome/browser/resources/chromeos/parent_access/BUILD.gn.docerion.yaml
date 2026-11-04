@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Parent Access WebUI build configuration
+summary: GN build rules that compile the Parent Access WebUI components, TypeScript sources and Mojo bindings.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Value display custom element
+// summary: Custom element that renders a mojo Value as typed text or expandable JSON, with color coding and an optional logical formatter such as timestamps.
+// ---
+
 import './mojo_timestamp.js';
 import './expandable_json_viewer.js';
 

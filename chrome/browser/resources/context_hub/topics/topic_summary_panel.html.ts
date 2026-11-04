@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Topic summary panel Lit HTML template
+// summary: Lit HTML template for the topic summary panel with the topic description, open related tabs button, collection carousels and query rating controls.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {TopicSummaryPanelElement} from './topic_summary_panel.js';

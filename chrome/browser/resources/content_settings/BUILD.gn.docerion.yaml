@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the content settings WebUI
+summary: GN build configuration that assembles the content settings WebUI, listing static files, web components, TypeScript sources and Mojo bindings dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of fingerprint_default.json.
+type: asset
+title: Fingerprint default animation
+summary: Lottie animation of the default fingerprint sensor location used by the ChromeOS quick unlock UI.

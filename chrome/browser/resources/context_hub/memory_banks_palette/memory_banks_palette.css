@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Memory banks palette styles
+summary: Lit CSS styles for the memory banks palette, defining the header, filter chips, results list, and item card layout.
+*/
+
 :host {
   box-sizing: border-box;
   color: var(--color-sys-on-surface, #1f1f1f);

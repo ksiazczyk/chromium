@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Tab groups WebUI styles
+summary: CSS styles for the tab groups suggestion UI, covering cards, loading skeletons, suggested group lists, tab rows, and prompt actions.
+*/
+
 :host {
   display: block;
   width: 100%;

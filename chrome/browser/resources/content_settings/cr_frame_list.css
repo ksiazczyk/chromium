@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Styles for the cr-frame-list tab sidebar
+summary: Stylesheet for the cr-frame-list element styling the sidebar tab list and selected tab panels.
+*/
+
 :host {
   display: flex;
   width: 100%;

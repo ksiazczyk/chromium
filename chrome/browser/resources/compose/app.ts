@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compose app element logic
+// summary: Main ComposeAppElement handling dialog state, input modes, submission, editing, undo/redo, feedback and error recovery.
+// ---
+
 import './icons.html.js';
 import '/strings.m.js';
 import './textarea.js';

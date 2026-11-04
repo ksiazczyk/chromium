@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory banks edit dialog HTML template
+// summary: Lit HTML template for the edit memory dialog with collection selection, tag chips, note editing, and image preview.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {EntryType} from '../context_hub.mojom-webui.js';

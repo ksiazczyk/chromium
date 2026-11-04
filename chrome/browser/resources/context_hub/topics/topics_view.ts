@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Topics view element
+// summary: Lit element for the topics view that fetches topics and fishfood feedback via the browser Mojo proxy and manages loading, error, and feedback refresh states.
+// ---
+
 import '//resources/cr_elements/cr_button/cr_button.js';
 import './topic_card.js';
 import './topic_feedback_export_dialog.js';

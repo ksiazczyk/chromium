@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExpandableJsonViewer custom element
+// summary: Custom element that expands or collapses to show JSON content when its header is clicked.
+// ---
+
 import {CustomElement} from 'chrome://resources/js/custom_element.js';
 
 import sheet from './expandable_json_viewer.css' with {type : 'css'};

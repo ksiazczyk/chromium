@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save to memory bank dialog HTML template
+// summary: Lit HTML template for the Add to Memory dialog, rendering the page preview card plus the collection and tag form sections.
+// ---
+
 import {getFaviconForPageURL} from '//resources/js/icon.js';
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 

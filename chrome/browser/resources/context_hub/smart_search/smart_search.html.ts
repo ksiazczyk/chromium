@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart search view template
+// summary: Lit HTML template for the smart search element, rendering the search bar, selection action bar, result cards and empty or loading states.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SmartSearchElement} from './smart_search.js';

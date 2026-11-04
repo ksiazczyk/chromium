@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SubChart Class
+// summary: Groups data series sharing one unit label, computes layout and query ranges, and draws the lines and unit labels for its part of the chart.
+// ---
+
 import {GRID_COLOR, MIN_LABEL_HORIZONTAL_SPACING, SAMPLE_RATE, TEXT_COLOR, UnitLabelAlign, Y_AXIS_TICK_LENGTH} from './constants.js';
 import {DataSeries} from './data_series.js';
 import {UnitLabel} from './unit_label.js';
