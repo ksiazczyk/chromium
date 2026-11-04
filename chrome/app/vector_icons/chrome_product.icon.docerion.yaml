@@ -1,0 +1,4 @@
+# Docerion header of chrome_product.icon.
+type: asset
+title: Chrome product icon
+summary: Defines the vector path data for the Chrome product logo icon on a 16dp canvas.

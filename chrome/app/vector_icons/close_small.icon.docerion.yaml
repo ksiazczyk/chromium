@@ -1,0 +1,4 @@
+# Docerion header of close_small.icon.
+type: asset
+title: close_small vector icon
+summary: Vector icon definition drawing a smaller close (X) symbol on a 24dp canvas for Chromium UI.

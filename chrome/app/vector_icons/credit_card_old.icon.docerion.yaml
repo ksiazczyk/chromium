@@ -1,0 +1,4 @@
+# Docerion header of credit_card_old.icon.
+type: asset
+title: Credit card icon (legacy)
+summary: Legacy vector path definitions for the credit card icon, drawn at 32 px and 16 px canvas sizes for Chromium UI.

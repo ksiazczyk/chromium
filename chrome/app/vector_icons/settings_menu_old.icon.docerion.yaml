@@ -1,0 +1,4 @@
+# Docerion header of settings_menu_old.icon.
+type: asset
+title: Settings menu vector icon (old)
+summary: Defines the legacy settings gear vector icon for menus, drawn with path commands on a 16dp canvas.

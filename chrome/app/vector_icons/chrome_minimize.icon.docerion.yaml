@@ -1,0 +1,4 @@
+# Docerion header of chrome_minimize.icon.
+type: asset
+title: Chrome minimize icon
+summary: Defines the vector path data for the Chrome window minimize icon on a 24dp canvas.

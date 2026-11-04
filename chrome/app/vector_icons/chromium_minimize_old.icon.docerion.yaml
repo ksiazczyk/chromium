@@ -1,0 +1,4 @@
+# Docerion header of chromium_minimize_old.icon.
+type: asset
+title: Chromium minimize icon, legacy variant
+summary: Defines the vector path data for a legacy Chromium minimize icon noted as slightly different from the public minimize icon.

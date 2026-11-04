@@ -1,0 +1,4 @@
+# Docerion header of add_old.icon.
+type: source
+title: Add old vector icon
+summary: Defines the vector path data for the legacy add (plus) icon in 20dp and 16dp canvas sizes.

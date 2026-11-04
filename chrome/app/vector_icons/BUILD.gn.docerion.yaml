@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Vector icons BUILD.gn
+summary: GN build file that aggregates the directory's .icon sources into the chrome_vector_icons target.

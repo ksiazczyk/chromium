@@ -1,0 +1,4 @@
+# Docerion header of generic_stop_old.icon.
+type: asset
+title: generic_stop_old vector icon
+summary: Vector icon definition of a generic stop symbol, named to avoid clashing with the kStopIcon constant in macOS headers.

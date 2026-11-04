@@ -1,0 +1,4 @@
+# Docerion header of help_custom.icon.
+type: asset
+title: Help custom icon
+summary: Vector icon definition drawing a custom help glyph with a question mark as path commands for the Chromium UI.

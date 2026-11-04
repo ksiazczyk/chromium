@@ -1,0 +1,4 @@
+# Docerion header of resize_window.icon.
+type: asset
+title: Resize window vector icon
+summary: Defines the current 24dp resize window vector icon as path data for Chromium's UI.

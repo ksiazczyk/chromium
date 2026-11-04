@@ -1,0 +1,4 @@
+# Docerion header of default_touch_favicon_mask_custom.icon.
+type: asset
+title: Default touch favicon mask (custom)
+summary: Custom mask vector defining a circle used to shape the default touch favicon icon.

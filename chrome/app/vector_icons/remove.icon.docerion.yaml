@@ -1,0 +1,4 @@
+# Docerion header of remove.icon.
+type: asset
+title: Remove vector icon
+summary: Defines the current 16dp remove (minus) vector icon as path data for Chromium's UI.

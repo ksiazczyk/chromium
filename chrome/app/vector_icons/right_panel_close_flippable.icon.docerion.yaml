@@ -1,0 +1,4 @@
+# Docerion header of right_panel_close_flippable.icon.
+type: asset
+title: Right panel close vector icon (flippable)
+summary: Defines the 20dp right panel close vector icon that flips horizontally in RTL layouts.

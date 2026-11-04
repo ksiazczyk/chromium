@@ -1,0 +1,4 @@
+# Docerion header of library_add.icon.
+type: asset
+title: Library add vector icon
+summary: Defines path data for the library add vector icon drawn on a 20 dp canvas for Chromium UI.

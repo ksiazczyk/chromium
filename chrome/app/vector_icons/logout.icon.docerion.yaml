@@ -1,0 +1,4 @@
+# Docerion header of logout.icon.
+type: asset
+title: Logout vector icon
+summary: Defines path data for the logout vector icon drawn on a 24 dp canvas for Chromium UI.

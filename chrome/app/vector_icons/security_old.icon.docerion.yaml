@@ -1,0 +1,4 @@
+# Docerion header of security_old.icon.
+type: asset
+title: Security vector icon (old)
+summary: Defines the legacy security shield vector icon, drawn with path commands on a 48dp canvas.

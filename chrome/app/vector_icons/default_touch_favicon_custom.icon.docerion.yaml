@@ -1,0 +1,4 @@
+# Docerion header of default_touch_favicon_custom.icon.
+type: asset
+title: Default touch favicon icon (custom)
+summary: Custom vector path definitions for the default favicon placeholder shown for touch, drawn on a 16 px canvas.

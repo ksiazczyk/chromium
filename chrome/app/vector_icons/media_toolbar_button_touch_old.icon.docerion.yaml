@@ -1,0 +1,4 @@
+# Docerion header of media_toolbar_button_touch_old.icon.
+type: asset
+title: Media toolbar button touch icon, legacy style
+summary: Defines path data for the legacy touch-style media toolbar button icon on a 24 dp canvas.

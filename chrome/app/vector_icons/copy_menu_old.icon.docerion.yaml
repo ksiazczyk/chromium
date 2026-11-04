@@ -1,0 +1,4 @@
+# Docerion header of copy_menu_old.icon.
+type: asset
+title: Copy menu vector icon (old)
+summary: Legacy vector icon definition drawing the copy menu glyph on a 16 dp canvas using path commands.

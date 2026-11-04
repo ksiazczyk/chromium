@@ -1,0 +1,4 @@
+# Docerion header of logout_old.icon.
+type: asset
+title: Logout icon, legacy style
+summary: Defines path data for the legacy logout icon drawn on a 960 unit canvas in the older Material style.

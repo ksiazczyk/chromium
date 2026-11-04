@@ -1,0 +1,4 @@
+# Docerion header of incognito_old.icon.
+type: asset
+title: Legacy incognito icon definition
+summary: Defines legacy incognito icon path data at 25, 24 and 20dp canvas sizes for older Chrome UI.

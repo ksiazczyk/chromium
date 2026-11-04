@@ -1,0 +1,4 @@
+# Docerion header of add.icon.
+type: source
+title: Add vector icon
+summary: Defines the vector path data for the plus-shaped add icon on a 16dp canvas.

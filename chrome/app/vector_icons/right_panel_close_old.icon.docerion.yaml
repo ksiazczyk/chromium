@@ -1,0 +1,4 @@
+# Docerion header of right_panel_close_old.icon.
+type: asset
+title: Right panel close old icon
+summary: Vector icon definition of the old-style close icon for the right panel, drawn as path data on a 20dp canvas that flips in RTL layouts.

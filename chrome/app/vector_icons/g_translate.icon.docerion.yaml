@@ -1,0 +1,4 @@
+# Docerion header of g_translate.icon.
+type: asset
+title: g_translate vector icon
+summary: Vector icon definition of a translate glyph, drawn with path commands on a 16 dp canvas.

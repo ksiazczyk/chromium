@@ -1,0 +1,4 @@
+# Docerion header of key_old.icon.
+type: source
+title: Key icon (old style)
+summary: Defines the old-style key vector icon with 32 dp and 16 dp canvas variants.

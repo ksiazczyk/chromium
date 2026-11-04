@@ -1,0 +1,4 @@
+# Docerion header of speaker.icon.
+type: asset
+title: Speaker icon
+summary: Vector icon definition for a speaker device, built from path commands on a 24dp canvas for Chromium UI.

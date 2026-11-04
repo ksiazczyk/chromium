@@ -1,0 +1,4 @@
+# Docerion header of my_location_old.icon.
+type: source
+title: My location legacy vector icon
+summary: Legacy my-location icon path data drawn in a 48-unit coordinate space without canvas dimensions.
