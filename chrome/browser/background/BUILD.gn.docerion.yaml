@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for background contents
+summary: Defines GN source sets and dependencies for the background contents code, including implementation, test support, browser tests and unit tests.

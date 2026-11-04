@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the Android back press directory
+summary: Lists the code owners of the back press directory and assigns CloseListenerManager.java owners to the close watcher OWNERS file.

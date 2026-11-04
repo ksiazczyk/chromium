@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestAppBannerManagerDesktop class declaration
+// summary: Declares the test replacement for AppBannerManagerDesktop with helpers to await installability checks, await app install, and set banner flow callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_BANNERS_TEST_APP_BANNER_MANAGER_DESKTOP_H_
 #define CHROME_BROWSER_BANNERS_TEST_APP_BANNER_MANAGER_DESKTOP_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auxiliary search module view
+// summary: Custom LinearLayout that displays the module's title, content text, and two buttons with setters for text resources and click listeners.
+// ---
+
 package org.chromium.chrome.browser.auxiliary_search.module;
 
 import android.content.Context;

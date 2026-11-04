@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the background directory
+summary: Lists the reviewer owning this directory and notes an open question about the ownership and future of background mode.

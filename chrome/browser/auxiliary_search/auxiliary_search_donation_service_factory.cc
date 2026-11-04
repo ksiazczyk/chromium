@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Donation service profile factory implementation
+// summary: Builds the profile-keyed donation service only when the history donation feature and platform support are enabled.
+// ---
+
 #include "chrome/browser/auxiliary_search/auxiliary_search_donation_service_factory.h"
 
 #include <memory>

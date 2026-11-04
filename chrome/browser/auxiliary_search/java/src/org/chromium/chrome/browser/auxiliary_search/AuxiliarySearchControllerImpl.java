@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auxiliary search controller implementation
+// summary: Controller implementation handling communication between Chrome and the auxiliary search donor, including favicon donation and tab deletion on resume.
+// ---
+
 package org.chromium.chrome.browser.auxiliary_search;
 
 import android.content.Context;

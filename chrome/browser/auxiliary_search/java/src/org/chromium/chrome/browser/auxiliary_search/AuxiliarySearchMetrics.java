@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuxiliarySearchMetrics
+// summary: Collects UMA metrics for auxiliary search, defining request status and click enums plus histograms for donation and deletion times and request outcomes.
+// ---
+
 package org.chromium.chrome.browser.auxiliary_search;
 
 import android.content.Intent;

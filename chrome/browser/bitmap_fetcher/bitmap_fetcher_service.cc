@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BitmapFetcherService implementation
+// summary: Implements the keyed service that fetches and caches omnibox answer images, with in-flight request limits, an LRU cache, and a network traffic annotation.
+// ---
+
 #include "chrome/browser/bitmap_fetcher/bitmap_fetcher_service.h"
 
 #include <stddef.h>

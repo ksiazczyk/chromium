@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BackPressManagerTest
+// summary: Robolectric tests for BackPressManager verifying handler priority, dispatch, and histogram recording for executed handlers.
+// ---
+
 package org.chromium.chrome.browser.back_press;
 
 import androidx.activity.BackEventCompat;

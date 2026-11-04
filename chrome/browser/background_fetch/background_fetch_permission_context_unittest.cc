@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background Fetch permission context unit tests
+// summary: Unit tests verifying Background Fetch permission outcomes for top-level frames and worker contexts under different Automatic Downloads content settings.
+// ---
+
 #include "chrome/browser/background_fetch/background_fetch_permission_context.h"
 
 #include <string>

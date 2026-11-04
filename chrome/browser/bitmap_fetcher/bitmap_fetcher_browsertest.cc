@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BitmapFetcher browser tests
+// summary: Browser tests exercising BitmapFetcher fetch and decode behavior against an embedded test server, covering success, failure, and delegate callbacks.
+// ---
+
 #include "chrome/browser/bitmap_fetcher/bitmap_fetcher.h"
 
 #include "base/compiler_specific.h"

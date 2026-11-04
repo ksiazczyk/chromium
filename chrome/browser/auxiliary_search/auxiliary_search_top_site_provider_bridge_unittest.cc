@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Auxiliary search top site provider bridge unit tests
+// summary: Unit tests verifying observer registration and removal for the top site provider bridge using a mocked MostVisitedSites.
+// ---
+
 #include "chrome/browser/auxiliary_search/auxiliary_search_top_site_provider_bridge.h"
 
 #include <memory>

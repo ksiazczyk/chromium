@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App banner manager tests
+// summary: Instrumented JUnit tests for Chrome's app banner manager, verifying banner triggering, PWA install bottom sheet interactions, and related metrics on Android.
+// ---
+
 package org.chromium.chrome.browser.banners;
 
 import static androidx.test.espresso.action.ViewActions.click;

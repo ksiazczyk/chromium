@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BackgroundContentsTestWaiter implementation
+// summary: Implements the test helper that blocks until a BackgroundContents opens for a given application ID and then waits for its load to stop.
+// ---
+
 #include "chrome/browser/background/background_contents_test_waiter.h"
 
 #include "chrome/browser/background/background_contents_service_factory.h"

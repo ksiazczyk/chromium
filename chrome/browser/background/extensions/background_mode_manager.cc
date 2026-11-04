@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background mode manager implementation
+// summary: Implements Chrome's background mode manager, handling status tray icons, keep-alive behavior, and startup and shutdown while background apps run.
+// ---
+
 #include "chrome/browser/background/extensions/background_mode_manager.h"
 
 #include <stddef.h>

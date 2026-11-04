@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for banners Android
+summary: Delegates code ownership for this directory to the owners of chrome/android/webapk.

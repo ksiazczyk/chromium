@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AuxiliarySearchDonorTest
+// summary: Instrumentation tests for AuxiliarySearchDonor that verify donating tabs and favicons to AppSearch, including schema setup and deletion behavior.
+// ---
+
 package org.chromium.chrome.browser.auxiliary_search;
 
 import static org.junit.Assert.assertEquals;

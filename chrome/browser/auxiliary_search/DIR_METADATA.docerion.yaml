@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Auxiliary search issue tracking metadata
+summary: Maps the directory to the Omnibox UI monorail component and a Buganizer component for issue routing.

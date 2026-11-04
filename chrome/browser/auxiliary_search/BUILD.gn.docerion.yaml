@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Auxiliary search GN build targets
+summary: Defines GN source sets, unit and browser test targets, and a Java library with their dependencies for the auxiliary search module.

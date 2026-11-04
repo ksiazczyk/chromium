@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuxiliarySearchProvider
+// summary: Provides non-sensitive tab data for the auxiliary search, including metadata versioning, persistence of the donation file and background task scheduling.
+// ---
+
 package org.chromium.chrome.browser.auxiliary_search;
 
 import android.content.Context;

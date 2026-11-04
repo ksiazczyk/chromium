@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MinimizeAppAndCloseTabBackPressHandler
+// summary: Final, always-enabled back press handler that minimizes the app and closes the tab when no other handler intercepts the gesture.
+// ---
+
 package org.chromium.chrome.browser.back_press;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

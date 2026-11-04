@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothNotificationManager
+// summary: Creates and updates the Web Bluetooth notification shown when a website is connected to or scanning for Bluetooth devices on Android.
+// ---
+
 package org.chromium.chrome.browser.bluetooth;
 
 import android.content.Context;

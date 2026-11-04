@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App banner manager browser test base header
+// summary: Declares the common PlatformBrowserTest base class for AppBannerManager browser tests, with helpers to build banner test URLs.
+// ---
+
 #ifndef CHROME_BROWSER_BANNERS_APP_BANNER_MANAGER_BROWSERTEST_BASE_H_
 #define CHROME_BROWSER_BANNERS_APP_BANNER_MANAGER_BROWSERTEST_BASE_H_
 

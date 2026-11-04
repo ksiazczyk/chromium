@@ -1,6 +1,13 @@
 // Copyright 2014 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: BitmapFetcherServiceFactory implementation
+// summary: Implements the ProfileKeyedServiceFactory that creates and provides per-profile BitmapFetcherService instances for browser contexts.
+// ---
+
 #include "chrome/browser/bitmap_fetcher/bitmap_fetcher_service_factory.h"
 
 #include "chrome/browser/bitmap_fetcher/bitmap_fetcher_service.h"

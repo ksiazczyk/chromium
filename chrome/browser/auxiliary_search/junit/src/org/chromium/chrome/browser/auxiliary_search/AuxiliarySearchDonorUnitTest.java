@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AuxiliarySearchDonorUnitTest
+// summary: Unit tests for AuxiliarySearchDonor, covering AppSearch session creation, data donation and TTL handling for tabs and history.
+// ---
+
 package org.chromium.chrome.browser.auxiliary_search;
 
 import static org.junit.Assert.assertEquals;

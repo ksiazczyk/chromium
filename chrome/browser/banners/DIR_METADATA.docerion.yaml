@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata pointing to shared banners metadata
+summary: Points to the shared COMMON_METADATA file so its issue tracking metadata applies to this directory.

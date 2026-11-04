@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AuxiliarySearchTopSiteProviderBridge unit tests
+// summary: JUnit tests verifying the top site provider bridge's observer setup, destruction, native calls, and most-visited-site callbacks.
+// ---
+
 package org.chromium.chrome.browser.auxiliary_search;
 
 import static org.junit.Assert.assertEquals;

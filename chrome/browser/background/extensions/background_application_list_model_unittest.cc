@@ -4,6 +4,12 @@
 
 // TODO(rickcam): Bug 73183: Add unit tests for image loading
 
+// ---docerion
+// type: test
+// title: Background application list model unit tests
+// summary: Unit tests for BackgroundApplicationListModel covering background app detection, list contents, and extension lifecycle events.
+// ---
+
 #include "chrome/browser/background/extensions/background_application_list_model.h"
 
 #include <stddef.h>

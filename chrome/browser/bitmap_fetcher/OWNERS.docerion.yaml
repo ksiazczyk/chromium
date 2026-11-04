@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for bitmap_fetcher
+summary: Lists manukh@chromium.org as the owner for code review in this directory.

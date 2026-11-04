@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundContents navigation throttle implementation
+// summary: Implements a navigation throttle that blocks main-frame navigations and redirects in BackgroundContents to URLs outside the parent hosted app's web extent.
+// ---
+
 #include "chrome/browser/background/background_contents_navigation_throttle.h"
 
 #include <memory>

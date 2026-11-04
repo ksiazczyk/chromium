@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundContents class declaration
+// summary: Declares BackgroundContents, a deferred-start render host that maintains a background WebContents without visible display, together with its delegate interface.
+// ---
+
 #ifndef CHROME_BROWSER_BACKGROUND_BACKGROUND_CONTENTS_H_
 #define CHROME_BROWSER_BACKGROUND_BACKGROUND_CONTENTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac background mode notification stub
+// summary: macOS-specific implementation that intentionally does not display a notification when background mode is entered.
+// ---
+
 #include "chrome/browser/background/extensions/background_mode_manager.h"
 
 void BackgroundModeManager::DisplayClientInstalledNotification(

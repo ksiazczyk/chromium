@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic status icon unit tests
+// summary: Unit tests for the glic status icon covering tooltips, context menu labels, and toggle behavior using mock status icons, trays, and background delegates.
+// ---
+
 #include "chrome/browser/background/glic/glic_status_icon.h"
 
 #include <memory>

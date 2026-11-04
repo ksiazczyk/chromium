@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background task donating tab favicons for auxiliary search
+// summary: Background task that donates tab favicons and metadata for auxiliary search, recording donation results and scheduling delay metrics.
+// ---
+
 package org.chromium.chrome.browser.auxiliary_search;
 
 import android.content.Context;

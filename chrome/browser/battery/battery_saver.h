@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Battery saver check header
+// summary: Declares functions to query whether Android Battery Saver is enabled and to override that value for testing.
+// ---
+
 #ifndef CHROME_BROWSER_BATTERY_BATTERY_SAVER_H_
 #define CHROME_BROWSER_BATTERY_BATTERY_SAVER_H_
 

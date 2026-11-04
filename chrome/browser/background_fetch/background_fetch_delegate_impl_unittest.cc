@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background fetch delegate unit tests
+// summary: Unit tests for the delegate verifying UKM event recording and history service integration using a testing profile.
+// ---
+
 #include "chrome/browser/background_fetch/background_fetch_delegate_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BackgroundContentsService unit tests
+// summary: Unit tests for BackgroundContentsService that exercise background contents navigation, closing, and preference tracking using mock contents and testing profiles.
+// ---
+
 #include "chrome/browser/background/background_contents_service.h"
 
 #include <memory>

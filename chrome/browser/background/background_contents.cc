@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundContents implementation
+// summary: Implements the BackgroundContents class that hosts an invisible WebContents for extension apps, covering renderer creation, task manager tagging and navigation handling.
+// ---
+
 #include "chrome/browser/background/background_contents.h"
 
 #include <utility>

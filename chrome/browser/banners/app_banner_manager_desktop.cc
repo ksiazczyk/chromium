@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop app banner manager implementation
+// summary: Implements the per-tab desktop web app banner manager, covering installable checks, native app checks, ambient badge, and install prompts.
+// ---
+
 #include "chrome/browser/banners/app_banner_manager_desktop.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BackgroundContentsService browser tests
+// summary: In-process browser tests verifying crash notification balloons for apps and extensions, including icon handling for extensions without icons.
+// ---
+
 #include "chrome/browser/background/background_contents_service.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the omnibox_everywhere background source set
+summary: GN build definition that creates the omnibox_everywhere source set and lists its public header, sources, and platform-conditional dependencies.

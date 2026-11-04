@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic background mode manager implementation
+// summary: Implements the browser-process manager that keeps Chrome alive in glic background mode, registers global hotkeys and updates the status icon based on launcher preferences.
+// ---
+
 #include "chrome/browser/background/glic/glic_background_mode_manager.h"
 
 #include <memory>

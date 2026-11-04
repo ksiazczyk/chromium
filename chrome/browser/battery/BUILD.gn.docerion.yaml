@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the battery source sets and tests
+summary: Defines the battery source set plus unit test and browser test targets with their dependencies for the Chrome battery directory.

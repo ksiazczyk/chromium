@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuxiliarySearchHooks
+// summary: Interface exposing internal AuxiliarySearch implementation parts, such as schema visibility, browsing data visibility, device support and the supported reader package.
+// ---
+
 package org.chromium.chrome.browser.auxiliary_search;
 
 import androidx.appsearch.app.PackageIdentifier;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxEverywhere background mode manager implementation
+// summary: Implements the manager that observes Omnibox Everywhere prefs, holds keep-alives, shows a status icon with a context menu, and handles Windows launch-on-startup.
+// ---
+
 #include "chrome/browser/background/omnibox_everywhere/omnibox_everywhere_background_mode_manager.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of os_icon_provider_mac_unittest.mm.
+type: test
+title: macOS glic status icon provider unit tests
+summary: Unit tests for the macOS glic icon provider verifying preference clearing and non-null icon creation with the icon variant feature enabled and disabled.

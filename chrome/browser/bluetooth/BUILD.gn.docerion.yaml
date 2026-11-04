@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for Chrome Bluetooth browser code
+summary: Defines source sets for the Chrome Bluetooth permission code, including implementation, test support, browser tests, and unit tests.

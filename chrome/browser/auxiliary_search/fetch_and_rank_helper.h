@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fetch and rank helper declaration
+// summary: Declares FetchAndRankHelper, a ref-counted helper managing the history data fetch and rank flow and Java callback creation.
+// ---
+
 #ifndef CHROME_BROWSER_AUXILIARY_SEARCH_FETCH_AND_RANK_HELPER_H_
 #define CHROME_BROWSER_AUXILIARY_SEARCH_FETCH_AND_RANK_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothBridge JNI native implementation
+// summary: Implements the native side of the BluetoothBridge JNI interface, reporting whether a WebContents is connected to or scanning for Bluetooth devices.
+// ---
+
 #include "content/public/browser/web_contents.h"
 
 // Must come after all headers that specialize FromJniType() / ToJniType().

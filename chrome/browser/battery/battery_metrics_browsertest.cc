@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for battery metrics recording
+// summary: In-process browser tests that use a mock BatteryMonitor to verify battery drop histograms are recorded correctly.
+// ---
+
 #include <utility>
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic status icon base class declaration
+// summary: Declares the GlicStatusIcon class that creates the glic status tray icon and context menu and notifies the background delegate when the UI should be shown.
+// ---
+
 #ifndef CHROME_BROWSER_BACKGROUND_GLIC_GLIC_STATUS_ICON_H_
 #define CHROME_BROWSER_BACKGROUND_GLIC_GLIC_STATUS_ICON_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS pointing to the omnibox_everywhere UI directory
+summary: Delegates code ownership to the OWNERS file of chrome/browser/ui/omnibox/omnibox_everywhere.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for app banner sources and tests
+summary: Defines GN source sets for the banners module, including platform-specific banner manager sources, test support, and browser test targets.

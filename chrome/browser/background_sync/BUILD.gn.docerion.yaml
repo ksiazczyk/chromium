@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Background Sync GN build targets
+summary: Defines GN source sets for the Chrome background sync code, its implementation, unit tests, and non-Android browser tests.

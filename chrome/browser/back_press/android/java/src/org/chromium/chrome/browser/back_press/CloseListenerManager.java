@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CloseListenerManager
+// summary: Back press handler that lets an active web-exposed CloseWatcher in the focused frame intercept the back gesture.
+// ---
+
 package org.chromium.chrome.browser.back_press;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

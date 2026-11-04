@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: BluetoothNotificationManagerTest
+// summary: Robolectric JUnit tests verifying BluetoothNotificationManager notification behaviour and its delegate, including service stopping and bringing tabs to the front.
+// ---
+
 package org.chromium.chrome.browser.bluetooth;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BatterySaverOSSetting
+// summary: Java wrapper exposing the Android OS battery saver status, reporting whether power save mode is enabled to native code via JNI.
+// ---
+
 package org.chromium.chrome.browser.battery;
 
 import android.content.Context;

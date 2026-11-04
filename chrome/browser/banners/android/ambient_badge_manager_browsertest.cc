@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ambient badge manager browser test
+// summary: Android browser test using test doubles to verify ambient badge state transitions and app banner install behavior with a mock segmentation platform service.
+// ---
+
 #include <string>
 
 #include "base/auto_reset.h"

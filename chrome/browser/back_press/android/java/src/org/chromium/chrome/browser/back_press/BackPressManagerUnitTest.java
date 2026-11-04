@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BackPressManagerUnitTest
+// summary: Unit tests for BackPressManager covering callback enabling, predictive back events, Escape key handling, and system back behavior.
+// ---
+
 package org.chromium.chrome.browser.back_press;
 
 import android.os.Build;

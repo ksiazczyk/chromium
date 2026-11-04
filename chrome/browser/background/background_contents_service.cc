@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundContentsService implementation
+// summary: Implements the per-profile service that tracks background URLs, loads background contents at startup, shows crash notifications and keeps the browser process alive.
+// ---
+
 #include "chrome/browser/background/background_contents_service.h"
 
 #include <utility>

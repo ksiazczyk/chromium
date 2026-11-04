@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for glic background mode
+summary: Defines GN source sets for the glic launcher, background mode manager, status icons and their unit, browser and interactive UI tests with platform-conditional sources and dependencies.

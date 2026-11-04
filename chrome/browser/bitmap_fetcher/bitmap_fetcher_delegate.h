@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BitmapFetcherDelegate interface
+// summary: Declares the delegate interface whose OnFetchComplete method receives the fetched URL and the decoded bitmap, or null when download or decoding fails.
+// ---
+
 #ifndef CHROME_BROWSER_BITMAP_FETCHER_BITMAP_FETCHER_DELEGATE_H_
 #define CHROME_BROWSER_BITMAP_FETCHER_BITMAP_FETCHER_DELEGATE_H_
 

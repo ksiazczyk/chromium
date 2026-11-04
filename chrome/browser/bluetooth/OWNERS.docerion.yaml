@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the Chrome Bluetooth folder
+summary: Delegates ownership to the content Bluetooth owners and assigns permissions owners to chooser context files.

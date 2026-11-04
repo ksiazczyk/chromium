@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BitmapFetcher class declaration
+// summary: Declares the BitmapFetcher class that asynchronously fetches an image from a URL and returns the decoded bitmap to a provided delegate.
+// ---
+
 #ifndef CHROME_BROWSER_BITMAP_FETCHER_BITMAP_FETCHER_H_
 #define CHROME_BROWSER_BITMAP_FETCHER_BITMAP_FETCHER_H_
 

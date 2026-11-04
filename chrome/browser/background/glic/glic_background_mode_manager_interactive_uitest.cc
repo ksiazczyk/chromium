@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive UI tests for glic background mode
+// summary: Interactive browser tests exercising glic background mode behavior such as global hotkeys, startup launch modes and status icon interactions.
+// ---
+
 #include "chrome/browser/background/glic/glic_background_mode_manager.h"
 
 #include <memory>

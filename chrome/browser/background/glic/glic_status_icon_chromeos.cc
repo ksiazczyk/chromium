@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS glic status icon implementation
+// summary: Implements the ChromeOS-specific glic status icon, repainting the vector icon in light or dark colors when the native theme changes.
+// ---
+
 #include "chrome/browser/background/glic/glic_status_icon_chromeos.h"
 
 #include "base/feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for glic background mode manager
+// summary: Browser tests verifying that glic keep-alive state follows the launcher preference and transfers when the launch profile changes.
+// ---
+
 #include "chrome/browser/background/glic/glic_background_mode_manager.h"
 
 #include "base/test/run_until.h"

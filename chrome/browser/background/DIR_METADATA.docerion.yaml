@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for bug tracking
+summary: Maps the background directory to the Platform>Apps>BackgroundPage monorail component and a Buganizer component ID.

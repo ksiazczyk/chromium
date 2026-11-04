@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background fetch delegate implementation
+// summary: Implements the Chrome background fetch delegate, connecting fetch jobs to the download service and the offline items UI.
+// ---
+
 #include "chrome/browser/background_fetch/background_fetch_delegate_impl.h"
 
 #include <utility>

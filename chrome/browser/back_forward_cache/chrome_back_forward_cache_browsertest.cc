@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Back-forward cache browser tests
+// summary: In-process browser tests covering back-forward cache eviction and restoration behavior, including permissions, content settings, metrics, and embedded or object PDF frames.
+// ---
+
 #include <array>
 #include <string_view>
 #include <utility>

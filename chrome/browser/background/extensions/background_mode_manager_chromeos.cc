@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS background mode notification stub
+// summary: ChromeOS-specific implementation that omits the client installed notification because extensions run continuously on ChromeOS.
+// ---
+
 #include "chrome/browser/background/extensions/background_mode_manager.h"
 
 void BackgroundModeManager::DisplayClientInstalledNotification(

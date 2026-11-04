@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS badge delegate declaration
+// summary: Declares the macOS-specific BadgeManagerDelegate that updates app badges via the app shim manager.
+// ---
+
 #ifndef CHROME_BROWSER_BADGING_BADGE_MANAGER_DELEGATE_MAC_H_
 #define CHROME_BROWSER_BADGING_BADGE_MANAGER_DELEGATE_MAC_H_
 

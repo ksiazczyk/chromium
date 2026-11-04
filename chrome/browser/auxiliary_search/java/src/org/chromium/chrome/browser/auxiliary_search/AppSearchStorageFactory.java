@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppSearch storage factory for auxiliary search
+// summary: Factory that creates AppSearch sessions for auxiliary search on supported Android versions and can be overridden in tests.
+// ---
+
 package org.chromium.chrome.browser.auxiliary_search;
 
 import android.os.Build;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows badge delegate implementation
+// summary: Draws Windows taskbar badge decorations with localized content and accessibility alt text for app browser windows.
+// ---
+
 #include "chrome/browser/badging/badge_manager_delegate_win.h"
 
 #include "base/i18n/number_formatting.h"

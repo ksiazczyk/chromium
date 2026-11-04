@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ambient badge manager tests
+// summary: Instrumented JUnit tests for Chrome's ambient badge app banner flow, covering badge display, message dismissal, and install behavior on Android.
+// ---
+
 package org.chromium.chrome.browser.banners;
 
 import android.app.Activity;

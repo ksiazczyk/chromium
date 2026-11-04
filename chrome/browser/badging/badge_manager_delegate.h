@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Badge manager delegate interface
+// summary: Defines the BadgeManagerDelegate interface that updates the UI in response to app badge changes.
+// ---
+
 #ifndef CHROME_BROWSER_BADGING_BADGE_MANAGER_DELEGATE_H_
 #define CHROME_BROWSER_BADGING_BADGE_MANAGER_DELEGATE_H_
 

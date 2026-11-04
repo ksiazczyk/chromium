@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background mode manager unit tests
+// summary: Unit tests for BackgroundModeManager covering background mode state transitions, status tray icon behavior, and platform-specific settings.
+// ---
+
 #include "chrome/browser/background/extensions/background_mode_manager.h"
 
 #include <stddef.h>

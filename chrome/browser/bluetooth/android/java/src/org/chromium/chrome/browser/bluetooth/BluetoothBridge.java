@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothBridge
+// summary: Java JNI access point for querying whether a WebContents is connected to or scanning for Bluetooth devices.
+// ---
+
 package org.chromium.chrome.browser.bluetooth;
 
 import org.jni_zero.NativeMethods;

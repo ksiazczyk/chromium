@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background application list model implementation
+// summary: Implements the model that tracks background applications for a profile, including icon loading and updates as extensions change.
+// ---
+
 #include "chrome/browser/background/extensions/background_application_list_model.h"
 
 #include <algorithm>

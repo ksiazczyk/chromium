@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background Sync controller factory implementation
+// summary: Implements the profile-keyed factory that creates BackgroundSyncControllerImpl instances with a BackgroundSyncDelegateImpl for each profile.
+// ---
+
 #include "chrome/browser/background_sync/background_sync_controller_factory.h"
 
 #include "chrome/browser/background_sync/background_sync_delegate_impl.h"

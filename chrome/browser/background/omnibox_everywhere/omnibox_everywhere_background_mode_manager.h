@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxEverywhere background mode manager class declaration
+// summary: Declares OmniboxEverywhereBackgroundModeManager, which manages background mode, keep-alives, and the status icon based on pref state.
+// ---
+
 #ifndef CHROME_BROWSER_BACKGROUND_OMNIBOX_EVERYWHERE_OMNIBOX_EVERYWHERE_BACKGROUND_MODE_MANAGER_H_
 #define CHROME_BROWSER_BACKGROUND_OMNIBOX_EVERYWHERE_OMNIBOX_EVERYWHERE_BACKGROUND_MODE_MANAGER_H_
 

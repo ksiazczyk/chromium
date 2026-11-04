@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auxiliary search controller interface
+// summary: Interface for the auxiliary search controller defining data and host type annotations plus lifecycle and donation hooks.
+// ---
+
 package org.chromium.chrome.browser.auxiliary_search;
 
 import android.graphics.Bitmap;

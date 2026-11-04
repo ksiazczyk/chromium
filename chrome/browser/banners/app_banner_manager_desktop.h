@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop app banner manager class declaration
+// summary: Declares AppBannerManagerDesktop, the per-tab delegate that manages web app install banners on desktop platforms.
+// ---
+
 #ifndef CHROME_BROWSER_BANNERS_APP_BANNER_MANAGER_DESKTOP_H_
 #define CHROME_BROWSER_BANNERS_APP_BANNER_MANAGER_DESKTOP_H_
 

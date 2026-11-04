@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth delegate client header
+// summary: Declares the embedder client supplying chooser context and UI dialogs to the Bluetooth delegate implementation.
+// ---
+
 #ifndef CHROME_BROWSER_BLUETOOTH_CHROME_BLUETOOTH_DELEGATE_IMPL_CLIENT_H_
 #define CHROME_BROWSER_BLUETOOTH_CHROME_BLUETOOTH_DELEGATE_IMPL_CLIENT_H_
 

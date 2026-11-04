@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Background Sync metrics browser test
+// summary: Browser test verifying that UKM events are recorded for one-shot and periodic Background Sync registration and completion.
+// ---
+
 #include "components/background_sync/background_sync_metrics.h"
 
 #include <memory>

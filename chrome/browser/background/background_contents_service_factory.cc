@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundContentsServiceFactory implementation
+// summary: Implements the profile-keyed factory that creates a BackgroundContentsService per profile and registers the registered background contents dictionary pref.
+// ---
+
 #include "chrome/browser/background/background_contents_service_factory.h"
 
 #include "base/command_line.h"

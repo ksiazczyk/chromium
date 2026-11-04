@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AuxiliarySearchBackgroundTaskUnitTest
+// summary: Robolectric unit tests for the auxiliary search background donation task, covering task parameters, favicon fetching and donate result handling.
+// ---
+
 package org.chromium.chrome.browser.auxiliary_search;
 
 import static org.junit.Assert.assertEquals;

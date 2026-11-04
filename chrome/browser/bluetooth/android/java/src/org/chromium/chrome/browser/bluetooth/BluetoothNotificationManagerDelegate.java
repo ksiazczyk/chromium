@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BluetoothNotificationManagerDelegate
+// summary: Delegate interface for BluetoothNotificationManager providing intents to bring tabs to the foreground and stop the service.
+// ---
+
 package org.chromium.chrome.browser.bluetooth;
 
 import android.content.Intent;

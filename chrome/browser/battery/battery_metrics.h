@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BatteryMetrics class header
+// summary: Declares the BatteryMetrics class that records battery usage metrics on all platforms via the Mojo BatteryMonitor.
+// ---
+
 #ifndef CHROME_BROWSER_BATTERY_BATTERY_METRICS_H_
 #define CHROME_BROWSER_BATTERY_BATTERY_METRICS_H_
 

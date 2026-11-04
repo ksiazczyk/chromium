@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auxiliary search donation service implementation
+// summary: Implements the keyed service that fetches recent local browsing history via visited URL ranking and donates it to AppSearch.
+// ---
+
 #include "chrome/browser/auxiliary_search/auxiliary_search_donation_service.h"
 
 #include <jni.h>

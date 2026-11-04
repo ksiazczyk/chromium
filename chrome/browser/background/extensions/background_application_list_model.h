@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background application list model header
+// summary: Declares BackgroundApplicationListModel, which maintains the list of background applications for a profile and notifies observers of changes.
+// ---
+
 #ifndef CHROME_BROWSER_BACKGROUND_EXTENSIONS_BACKGROUND_APPLICATION_LIST_MODEL_H_
 #define CHROME_BROWSER_BACKGROUND_EXTENSIONS_BACKGROUND_APPLICATION_LIST_MODEL_H_
 
