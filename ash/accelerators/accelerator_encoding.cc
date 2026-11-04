@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accelerator shortcut encoding implementation
+// summary: Implements GetEncodedShortcut, which packs a key code and modifier flags into a 32-bit integer for metric recording.
+// relations:
+//   - depends_on /ash/accelerators/accelerator_encoding.h
+//   - depends_on /base/check.h
+//   - depends_on /ui/events/event_constants.h
+// ---
+
 #include "ash/accelerators/accelerator_encoding.h"
 
 #include "base/check.h"

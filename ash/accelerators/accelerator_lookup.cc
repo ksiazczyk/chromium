@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AcceleratorLookup implementation
+// summary: Implements lookup of accelerator details for actions, building display text from modifier keys and providing available accelerators including aliases.
+// relations:
+//   - implements /ash/accelerators/accelerator_lookup.h
+//   - depends_on /ash/public/cpp/accelerators_util.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/accelerators/accelerator_lookup.h"
 
 #include <algorithm>

@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definitions for the Ash component
+summary: Defines the GN build targets for Ash, including the ash component with its many source files plus export, test and resource targets.
+relations:
+  - depends_on /ash/ambient/resources/resources.gni
+  - depends_on /build/config/chrome_build.gni
+  - depends_on /build/config/ui.gni

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AcceleratorHistoryImpl unit tests
+// summary: Unit tests verifying accelerator history behavior for press-and-hold sequences and that release events without matching presses clear the pressed-key set.
+// relations:
+//   - tests /ash/accelerators/accelerator_history_impl.h
+//   - depends_on /ash/accelerators/accelerator_history_impl.h
+//   - depends_on /testing/gtest/include/gtest/gtest.h
+// ---
+
 #include "ash/accelerators/accelerator_history_impl.h"
 #include "testing/gtest/include/gtest/gtest.h"
 #include "ui/base/accelerators/accelerator.h"

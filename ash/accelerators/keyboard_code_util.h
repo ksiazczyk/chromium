@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard code utility declarations
+// summary: Declares helpers that return display strings and vector icons for keyboard codes, including search or launcher icon selection.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/events/keycodes/keyboard_codes_posix.h
+// ---
+
 #ifndef ASH_ACCELERATORS_KEYBOARD_CODE_UTIL_H_
 #define ASH_ACCELERATORS_KEYBOARD_CODE_UTIL_H_
 

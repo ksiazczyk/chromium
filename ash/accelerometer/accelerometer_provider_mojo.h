@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccelerometerProviderMojo class declaration
+// summary: Declares AccelerometerProviderMojo with its MojoState finite state machine, sensor client role, and new-device observation interfaces.
+// relations:
+//   - depends_on /ash/accelerometer/accel_gyro_samples_observer.h
+//   - depends_on /ash/accelerometer/accelerometer_reader.h
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_ACCELEROMETER_ACCELEROMETER_PROVIDER_MOJO_H_
 #define ASH_ACCELEROMETER_ACCELEROMETER_PROVIDER_MOJO_H_
 

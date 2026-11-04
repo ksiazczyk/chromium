@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AcceleratorNotifications declarations
+// summary: Declares functions and identifiers for showing or removing accelerator-related notifications, including deprecated shortcut warnings and accessibility toggles.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/accelerator_actions.h
+//   - depends_on /ui/base/accelerators/accelerator.h
+// ---
+
 #ifndef ASH_ACCELERATORS_ACCELERATOR_NOTIFICATIONS_H_
 #define ASH_ACCELERATORS_ACCELERATOR_NOTIFICATIONS_H_
 

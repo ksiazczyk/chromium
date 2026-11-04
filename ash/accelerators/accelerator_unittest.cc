@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accelerator sample regression tests
+// summary: Tests a sample of accelerators from each category, such as volume keys and overview, to catch regressions in Ash accelerator handling.
+// relations:
+//   - depends_on /ash/accelerators/accelerator_controller_impl.h
+//   - depends_on /ash/app_list/test/app_list_test_helper.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ui/base/accelerators/accelerator.h"
 
 #include <memory>

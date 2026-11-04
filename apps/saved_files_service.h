@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SavedFilesService class header
+// summary: Declares the SavedFilesService keyed service that tracks files apps have retained access to while running and when suspended, with registration, queueing, and clearing operations.
+// relations:
+//   - depends_on /base/files/file_path.h
+//   - depends_on /base/gtest_prod_util.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef APPS_SAVED_FILES_SERVICE_H_
 #define APPS_SAVED_FILES_SERVICE_H_
 

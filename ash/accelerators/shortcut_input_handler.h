@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShortcutInputHandler class declaration
+// summary: Declares a singleton event handler that forwards pressed and released key events, including pre-rewritten ones, to observers for shortcut input features.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/events/prerewritten_event_forwarder.h
+//   - depends_on /base/observer_list.h
+// ---
+
 #ifndef ASH_ACCELERATORS_SHORTCUT_INPUT_HANDLER_H_
 #define ASH_ACCELERATORS_SHORTCUT_INPUT_HANDLER_H_
 

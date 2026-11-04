@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Suspend state machine implementation
+// summary: Implements key event handling that cancels or triggers a suspend DBUS call once the suspend accelerator keys are released and no other keys are held.
+// relations:
+//   - depends_on /ash/accelerators/suspend_state_machine.h
+//   - implements /ash/accelerators/suspend_state_machine.h
+//   - depends_on /ash/accelerators/accelerator_commands.h
+// ---
+
 #include "ash/accelerators/suspend_state_machine.h"
 
 #include "ash/accelerators/accelerator_commands.h"

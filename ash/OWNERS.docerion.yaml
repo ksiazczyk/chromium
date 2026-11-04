@@ -1,0 +1,8 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the ash directory
+summary: Lists the code owners for Ash and sets per-file owner rules for build files, element identifiers, strings and translation artifacts.
+relations:
+  - references /ash/ash_strings.grd
+  - references /ash/BUILD.gn
+  - references /tools/translation/TRANSLATION_OWNERS

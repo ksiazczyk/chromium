@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MagnifierKeyScroller unit tests
+// summary: Verifies that click-and-hold with Shift and arrow keys scrolls the fullscreen magnifier and that events pass through normally when the magnifier is off.
+// relations:
+//   - tests /ash/accelerators/magnifier_key_scroller.h
+//   - depends_on /ash/accessibility/magnifier/fullscreen_magnifier_controller.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/accelerators/magnifier_key_scroller.h"
 
 #include <memory>

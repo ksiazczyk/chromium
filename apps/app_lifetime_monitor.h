@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppLifetimeMonitor class declaration
+// summary: Declares a keyed service that observes app windows and extension hosts and notifies observers of app lifetime events.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /base/observer_list.h
+//   - depends_on /base/scoped_observation.h
+// ---
+
 #ifndef APPS_APP_LIFETIME_MONITOR_H_
 #define APPS_APP_LIFETIME_MONITOR_H_
 

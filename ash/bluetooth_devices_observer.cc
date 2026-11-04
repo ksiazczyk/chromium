@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth devices observer implementation
+// summary: Implements an observer that notifies on Bluetooth adapter or device changes and matches connected Bluetooth devices to input devices by vendor and product ID.
+// relations:
+//   - implements /ash/bluetooth_devices_observer.h
+//   - depends_on /base/functional/bind.h
+//   - depends_on /device/bluetooth/bluetooth_adapter_factory.h
+// ---
+
 #include "ash/bluetooth_devices_observer.h"
 
 #include "base/functional/bind.h"

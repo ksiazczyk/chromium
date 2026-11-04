@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window tree host lookup by display ID
+// summary: Implements GetWindowTreeHostForDisplay, returning the aura WindowTreeHost for a display ID via the matching root window controller.
+// relations:
+//   - depends_on /ash/public/cpp/window_tree_host_lookup.h
+//   - depends_on /ash/root_window_controller.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/public/cpp/window_tree_host_lookup.h"
 
 #include "ash/root_window_controller.h"

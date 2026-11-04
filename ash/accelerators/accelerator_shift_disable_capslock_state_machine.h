@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shift disable Caps Lock state machine header
+// summary: Declares the event-handler state machine with its ShiftDisableState states that track when the Shift-release shortcut can disable Caps Lock.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/events/event_handler.h
+//   - depends_on /ui/ozone/public/input_controller.h
+// ---
+
 #ifndef ASH_ACCELERATORS_ACCELERATOR_SHIFT_DISABLE_CAPSLOCK_STATE_MACHINE_H_
 #define ASH_ACCELERATORS_ACCELERATOR_SHIFT_DISABLE_CAPSLOCK_STATE_MACHINE_H_
 

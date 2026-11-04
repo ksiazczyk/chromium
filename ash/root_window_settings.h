@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RootWindowSettings struct
+// summary: Declares a struct holding the display ID and RootWindowController pointer for a root window, with helper functions to initialize and access it.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_ROOT_WINDOW_SETTINGS_H_
 #define ASH_ROOT_WINDOW_SETTINGS_H_
 

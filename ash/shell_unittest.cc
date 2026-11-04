@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shell unit tests
+// summary: Unit tests for the ash shell covering container structure, shelf, overview, menus, dialogs, and window behavior.
+// relations:
+//   - tests /ash/shell.h
+//   - depends_on /ash/accelerators/accelerator_tracker.h
+//   - depends_on /ash/accessibility/chromevox/key_accessibility_enabler.h
+// ---
+
 #include "ash/shell.h"
 
 #include <algorithm>

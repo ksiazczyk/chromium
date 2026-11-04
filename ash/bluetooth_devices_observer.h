@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth devices observer header
+// summary: Declares the BluetoothDevicesObserver class, which supplements input device observation with Bluetooth adapter and device change notifications.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/functional/callback.h
+//   - depends_on /base/memory/weak_ptr.h
+// ---
+
 #ifndef ASH_BLUETOOTH_DEVICES_OBSERVER_H_
 #define ASH_BLUETOOTH_DEVICES_OBSERVER_H_
 

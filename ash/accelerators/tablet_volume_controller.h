@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tablet volume controller header
+// summary: Declares TabletVolumeController, which manages side volume button location data and tablet mode volume adjustment metrics.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/files/file_path.h
+//   - depends_on /base/timer/timer.h
+// ---
+
 #ifndef ASH_ACCELERATORS_TABLET_VOLUME_CONTROLLER_H_
 #define ASH_ACCELERATORS_TABLET_VOLUME_CONTROLLER_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AcceleratorTracker header
+// summary: Declares the AcceleratorTracker shell event handler and the table of tracked key combinations that record user action metrics for Mac-style screenshot shortcuts without consuming events.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/containers/flat_map.h
+//   - depends_on /base/containers/span.h
+// ---
+
 #ifndef ASH_ACCELERATORS_ACCELERATOR_TRACKER_H_
 #define ASH_ACCELERATORS_ACCELERATOR_TRACKER_H_
 

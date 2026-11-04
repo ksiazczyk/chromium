@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App window frame view implementation
+// summary: Implements AppWindowFrameView, drawing title bars and close, maximize, restore, and minimize buttons for app windows, plus hit testing, layout, and painting.
+// relations:
+//   - implements /apps/ui/views/app_window_frame_view.h
+//   - depends_on /apps/ui/views/app_window_frame_view.h
+//   - depends_on /build/build_config.h
+// ---
+
 #include "apps/ui/views/app_window_frame_view.h"
 
 #include <memory>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen bounds utility functions
+// summary: Implements helpers that compute display, work area, and fullscreen bounds for windows in parent or screen coordinates, including shelf-aware cases.
+// relations:
+//   - implements /ash/screen_util.h
+//   - depends_on /ash/display/display_configuration_controller.h
+//   - depends_on /ash/display/mirror_window_controller.h
+// ---
+
 #include "ash/screen_util.h"
 
 #include "ash/display/display_configuration_controller.h"

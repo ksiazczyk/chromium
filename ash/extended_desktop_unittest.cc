@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extended desktop unit tests
+// summary: Unit tests covering multi-display behavior such as display layouts, event locations across root windows, and moving windows between displays.
+// relations:
+//   - depends_on /ash/public/cpp/shell_window_ids.h
+//   - depends_on /ash/root_window_controller.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/public/cpp/shell_window_ids.h"
 #include "ash/root_window_controller.h"
 #include "ash/shell.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shift disable Caps Lock state machine tests
+// summary: Parameterized unit tests that feed key and mouse event sequences to the state machine and verify the resulting Shift disable Caps Lock states.
+// relations:
+//   - tests /ash/accelerators/accelerator_shift_disable_capslock_state_machine.h
+//   - depends_on /ash/test/ash_test_base.h
+//   - depends_on /testing/gmock/include/gmock/gmock.h
+// ---
+
 #include "ash/accelerators/accelerator_shift_disable_capslock_state_machine.h"
 
 #include <variant>

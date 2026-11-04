@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apps command-line switch declarations
+// summary: Declares the apps command-line switch constants, which are documented alongside their values in the corresponding .cc file.
+// ---
+
 #ifndef APPS_SWITCHES_H_
 #define APPS_SWITCHES_H_
 

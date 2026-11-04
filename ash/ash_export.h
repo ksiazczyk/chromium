@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ASH_EXPORT symbol visibility macro
+// summary: Defines the ASH_EXPORT macro that controls symbol export from the Ash component in component builds.
+// ---
+
 #ifndef ASH_ASH_EXPORT_H_
 #define ASH_ASH_EXPORT_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Debug-only accelerator command implementations
+// summary: Implements debug and developer accelerator commands such as printing UI hierarchies, showing toasts, and toggling debug UI features for ChromeOS Ash.
+// relations:
+//   - implements /ash/accelerators/debug_commands.h
+//   - depends_on /ash/accelerators/accelerator_commands.h
+//   - depends_on /ash/capture_mode/capture_mode_controller.h
+// ---
+
 #include "ash/accelerators/debug_commands.h"
 
 #include <string>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SavedFilesService unit tests
+// summary: Unit tests for SavedFilesService covering file entry registration, enqueueing order, sequence numbers, LRU eviction, and sequence number compaction.
+// relations:
+//   - tests /apps/saved_files_service.h
+//   - depends_on /base/files/file_path.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #include <algorithm>
 
 #include "apps/saved_files_service.h"

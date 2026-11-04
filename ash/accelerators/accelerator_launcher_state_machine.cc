@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AcceleratorLauncherStateMachine implementation
+// summary: Implements the event-driven state machine that decides when the launcher can be opened via Search or Shift+Search release, reacting to key and mouse events.
+// relations:
+//   - implements /ash/accelerators/accelerator_launcher_state_machine.h
+//   - depends_on /ash/accelerators/accelerator_launcher_state_machine.h
+//   - depends_on /base/containers/fixed_flat_set.h
+// ---
+
 #include "ash/accelerators/accelerator_launcher_state_machine.h"
 
 #include "base/containers/fixed_flat_set.h"

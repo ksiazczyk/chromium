@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AcceleratorCapslockStateMachine unit tests
+// summary: Parameterized tests verifying caps lock state transitions for sequences of key presses, key releases, and mouse events.
+// relations:
+//   - tests /ash/accelerators/accelerator_capslock_state_machine.h
+//   - depends_on /ash/accelerators/accelerator_capslock_state_machine.h
+//   - depends_on /ash/test/ash_test_base.h
+// ---
+
 #include "ash/accelerators/accelerator_capslock_state_machine.h"
 
 #include <variant>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AcceleratorLauncherStateMachine class header
+// summary: Declares the launcher state machine that tracks when the launcher can be opened via Search release or Shift+Search release shortcuts.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/events/event_handler.h
+// ---
+
 #ifndef ASH_ACCELERATORS_ACCELERATOR_LAUNCHER_STATE_MACHINE_H_
 #define ASH_ACCELERATORS_ACCELERATOR_LAUNCHER_STATE_MACHINE_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpokenFeedbackToggler implementation
+// summary: Toggles ChromeOS spoken feedback when F6 is held down, implemented as a KeyHoldDetector delegate.
+// relations:
+//   - depends_on /ash/accelerators/spoken_feedback_toggler.h
+//   - implements /ash/accelerators/spoken_feedback_toggler.h
+//   - depends_on /ash/accelerators/key_hold_detector.h
+// ---
+
 #include "ash/accelerators/spoken_feedback_toggler.h"
 
 #include <utility>

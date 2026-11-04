@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccelerometerProviderMojo implementation
+// summary: Implements the Mojo-based accelerometer provider that connects to the IIO sensor service, tracks device availability, and dispatches samples to observers.
+// relations:
+//   - depends_on /ash/accelerometer/accelerometer_provider_mojo.h
+//   - depends_on /ash/accelerometer/accelerometer_constants.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/accelerometer/accelerometer_provider_mojo.h"
 
 #include <algorithm>

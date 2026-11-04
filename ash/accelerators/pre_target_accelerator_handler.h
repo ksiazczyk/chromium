@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PreTargetAcceleratorHandler class declaration
+// summary: Declares the AcceleratorDelegate that decides whether accelerators, system keys, and search-based shortcuts are processed before reaching the target window.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - implements /ui/wm/core/accelerator_delegate.h
+// ---
+
 #ifndef ASH_ACCELERATORS_PRE_TARGET_ACCELERATOR_HANDLER_H_
 #define ASH_ACCELERATORS_PRE_TARGET_ACCELERATOR_HANDLER_H_
 

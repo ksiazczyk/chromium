@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accelerator shortcut encoding declarations
+// summary: Declares GetEncodedShortcut, which encodes a keyboard shortcut as an integer with the key code in the low 16 bits and modifiers in the high 16 bits.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/events/keycodes/keyboard_codes.h
+// ---
+
 #ifndef ASH_ACCELERATORS_ACCELERATOR_ENCODING_H_
 #define ASH_ACCELERATORS_ACCELERATOR_ENCODING_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shutdown controller class declaration
+// summary: Declares ShutdownControllerImpl, which handles shutdown requests, notifies observers, and caches the reboot-on-shutdown device policy.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - implements /ash/public/cpp/shutdown_controller.h
+//   - depends_on /base/observer_list.h
+// ---
+
 #ifndef ASH_SHUTDOWN_CONTROLLER_IMPL_H_
 #define ASH_SHUTDOWN_CONTROLLER_IMPL_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpokenFeedbackToggler class declaration
+// summary: Declares a KeyHoldDetector delegate that toggles spoken feedback when F6 is held, with an enable flag and a scoped test helper.
+// relations:
+//   - depends_on /ash/accelerators/key_hold_detector.h
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/events/event_handler.h
+// ---
+
 #ifndef ASH_ACCELERATORS_SPOKEN_FEEDBACK_TOGGLER_H_
 #define ASH_ACCELERATORS_SPOKEN_FEEDBACK_TOGGLER_H_
 

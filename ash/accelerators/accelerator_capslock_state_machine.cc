@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AcceleratorCapslockStateMachine implementation
+// summary: Implements the key event state machine that decides when caps lock can be toggled via the Search and Alt shortcut.
+// relations:
+//   - depends_on /ash/accelerators/accelerator_capslock_state_machine.h
+//   - depends_on /base/containers/fixed_flat_set.h
+//   - depends_on /ui/base/accelerators/accelerator.h
+// ---
+
 #include "ash/accelerators/accelerator_capslock_state_machine.h"
 
 #include "base/containers/fixed_flat_set.h"

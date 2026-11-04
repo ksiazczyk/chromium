@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform app launcher API
+// summary: Declares functions for launching platform apps with command line, paths, file handlers, URLs, and restart support.
+// relations:
+//   - depends_on /extensions/common/constants.h
+// ---
+
 #ifndef APPS_LAUNCHER_H_
 #define APPS_LAUNCHER_H_
 

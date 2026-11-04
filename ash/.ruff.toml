@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Ruff lint and format settings for ash
+# summary: Configures Ruff formatting and linting for the ash directory, setting line length, indentation, quote style and unfixable lint rules.
+# ---
+
 line-length = 80
 indent-width = 2
 

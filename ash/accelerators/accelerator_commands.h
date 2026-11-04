@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accelerator commands declarations for Ash keyboard shortcuts
+// summary: Declares commands bound to keyboard shortcuts in Ash, including Can* availability checks, action functions, and UMA histogram constants for window snapping and accessibility shortcuts.
+// relations:
+//   - depends_on /ash/app_list/app_list_metrics.h
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/focus/focus_cycler.h
+// ---
+
 #ifndef ASH_ACCELERATORS_ACCELERATOR_COMMANDS_H_
 #define ASH_ACCELERATORS_ACCELERATOR_COMMANDS_H_
 

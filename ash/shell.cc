@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash Shell implementation
+// summary: Implements the Shell class that creates and owns the Chrome OS Ash shell's controllers, services, and subsystems such as accessibility, display, clipboard, and capture mode.
+// relations:
+//   - implements /ash/shell.h
+//   - depends_on /ash/accelerators/accelerator_controller_impl.h
+//   - depends_on /ash/accelerators/accelerator_lookup.h
+// ---
+
 #include "ash/shell.h"
 
 #include <algorithm>

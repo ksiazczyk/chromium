@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AcceleratorPrefs class header
+// summary: Declares the AcceleratorPrefs class that manages shortcut preference settings and notifies the accelerator controller and configuration provider about shortcut policy changes.
+// relations:
+//   - depends_on /ash/accelerators/accelerator_prefs_delegate.h
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/session/session_observer.h
+// ---
+
 #ifndef ASH_ACCELERATORS_ACCELERATOR_PREFS_H_
 #define ASH_ACCELERATORS_ACCELERATOR_PREFS_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AshAcceleratorConfiguration class declaration
+// summary: Declares the AshAcceleratorConfiguration class that lets users view, add, remove, replace and restore Ash accelerators, with observer notifications and pref registration.
+// relations:
+//   - depends_on /ash/accelerators/accelerator_table.h
+//   - depends_on /ash/ash_export.h
+//   - implements /ash/public/cpp/accelerator_configuration.h
+// ---
+
 #ifndef ASH_ACCELERATORS_ASH_ACCELERATOR_CONFIGURATION_H_
 #define ASH_ACCELERATORS_ASH_ACCELERATOR_CONFIGURATION_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the apps directory
+summary: Sets a temporary owner for code review approval in the apps directory.

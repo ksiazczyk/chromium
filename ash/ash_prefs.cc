@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash preferences registration
+// summary: Registers and wires up Chrome OS Ash preferences across the many shell controllers, including accessibility, capture mode, input devices, and system features.
+// relations:
+//   - depends_on /ash/public/cpp/ash_prefs.h
+//   - depends_on /ash/accelerators/accelerator_prefs.h
+//   - depends_on /ash/accelerators/ash_accelerator_configuration.h
+// ---
+
 #include "ash/public/cpp/ash_prefs.h"
 
 #include <utility>

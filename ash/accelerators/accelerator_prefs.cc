@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AcceleratorPrefs implementation
+// summary: Implements AcceleratorPrefs, which registers shortcut customization prefs, watches the shortcut customization policy, and notifies observers when the policy changes.
+// relations:
+//   - depends_on /ash/accelerators/accelerator_prefs.h
+//   - depends_on /ash/constants/ash_pref_names.h
+//   - depends_on /ash/session/session_controller_impl.h
+// ---
+
 #include "ash/accelerators/accelerator_prefs.h"
 
 #include "ash/constants/ash_pref_names.h"

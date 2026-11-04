@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App restore service browser tests
+// summary: Browser tests verifying that running and active apps are recorded in extension preferences and restored on startup.
+// relations:
+//   - depends_on /apps/app_restore_service.h
+//   - depends_on /apps/app_restore_service_factory.h
+//   - depends_on /apps/saved_files_service.h
+// ---
+
 #include "apps/app_restore_service.h"
 
 #include "apps/app_restore_service_factory.h"

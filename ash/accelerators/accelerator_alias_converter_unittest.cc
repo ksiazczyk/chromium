@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AcceleratorAliasConverter unit tests
+// summary: Tests alias conversion across keyboard layouts, connection types, and device types using fake keyboards and a fake udev loader.
+// relations:
+//   - tests /ash/accelerators/accelerator_alias_converter.h
+//   - depends_on /ash/accelerators/accelerator_alias_converter.h
+//   - depends_on /ash/constants/ash_features.h
+// ---
+
 #include "ash/accelerators/accelerator_alias_converter.h"
 
 #include <optional>

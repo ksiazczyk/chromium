@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Exit warning handler implementation
+// summary: Implements the sign-out warning popup shown when the user presses the exit shortcut, requiring a second press within a timeout before actually exiting.
+// relations:
+//   - implements /ash/accelerators/exit_warning_handler.h
+//   - depends_on /ash/accelerators/accelerator_lookup.h
+//   - depends_on /ash/public/cpp/accelerator_actions.h
+// ---
+
 #include "ash/accelerators/exit_warning_handler.h"
 
 #include <memory>

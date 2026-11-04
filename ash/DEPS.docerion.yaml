@@ -1,0 +1,6 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules and dependency restrictions for Ash
+summary: Specifies which directories Ash code may include from, blocking content and chromeos paths except for explicitly allowlisted components.
+relations:
+  - references /chromeos/README.md

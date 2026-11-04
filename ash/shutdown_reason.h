@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shutdown reason enum
+// summary: Defines the ShutdownReason enum listing shutdown triggers like the power button, login and tray buttons, ARC power button, and debug accelerator.
+// ---
+
 #ifndef ASH_SHUTDOWN_REASON_H_
 #define ASH_SHUTDOWN_REASON_H_
 

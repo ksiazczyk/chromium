@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Root window controller unit tests
+// summary: Unit tests for RootWindowController covering containers, layout managers, modal widgets, focus handling, and related window behavior.
+// relations:
+//   - tests /ash/root_window_controller.h
+//   - depends_on /ash/keyboard/ui/keyboard_ui.h
+//   - depends_on /ash/keyboard/ui/keyboard_ui_controller.h
+// ---
+
 #include "ash/root_window_controller.h"
 
 #include <memory>

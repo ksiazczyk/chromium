@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab key handler for shelf focus
+// summary: Implements ShellTabHandler, which on Tab with no active window moves focus to the shelf's home button or status area widget in clamshell mode.
+// relations:
+//   - implements /ash/shell_tab_handler.h
+//   - depends_on /ash/capture_mode/capture_mode_util.h
+//   - depends_on /ash/focus/focus_cycler.h
+// ---
+
 #include "ash/shell_tab_handler.h"
 
 #include "ash/capture_mode/capture_mode_util.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AcceleratorTracker implementation
+// summary: Implements AcceleratorTracker, which records user actions for tracked key events and may trigger capture mode education for screen-capture shortcuts.
+// relations:
+//   - implements /ash/accelerators/accelerator_tracker.h
+//   - depends_on /ash/capture_mode/capture_mode_controller.h
+//   - depends_on /base/containers/span.h
+// ---
+
 #include "ash/accelerators/accelerator_tracker.h"
 
 #include <string>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AcceleratorLookup class header
+// summary: Declares the AcceleratorLookup class used to look up accelerators for an action, including available and aliased accelerator details.
+// relations:
+//   - depends_on /ash/accelerators/accelerator_alias_converter.h
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/accelerator_configuration.h
+// ---
+
 #ifndef ASH_ACCELERATORS_ACCELERATOR_LOOKUP_H_
 #define ASH_ACCELERATORS_ACCELERATOR_LOOKUP_H_
 

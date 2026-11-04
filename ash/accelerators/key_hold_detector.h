@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyHoldDetector class declaration
+// summary: Declares the KeyHoldDetector event handler and its Delegate interface for implementing actions when a user presses and holds a key.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/events/event_handler.h
+// ---
+
 #ifndef ASH_ACCELERATORS_KEY_HOLD_DETECTOR_H_
 #define ASH_ACCELERATORS_KEY_HOLD_DETECTOR_H_
 

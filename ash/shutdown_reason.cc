@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shutdown reason string conversion
+// summary: Maps ShutdownReason enum values to human-readable strings such as power button and tray shut down button for logging and metrics.
+// relations:
+//   - implements /ash/shutdown_reason.h
+//   - depends_on /base/notreached.h
+// ---
+
 #include "ash/shutdown_reason.h"
 
 #include <ostream>

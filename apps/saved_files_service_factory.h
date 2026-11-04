@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SavedFilesServiceFactory class header
+// summary: Declares the BrowserContextKeyedServiceFactory for SavedFilesService, including static accessors to get the service for a browser context.
+// relations:
+//   - depends_on /base/no_destructor.h
+//   - depends_on /components/keyed_service/content/browser_context_keyed_service_factory.h
+// ---
+
 #ifndef APPS_SAVED_FILES_SERVICE_FACTORY_H_
 #define APPS_SAVED_FILES_SERVICE_FACTORY_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accelerator commands unit tests
+// summary: Unit tests for accelerator commands covering window minimize, maximize, unpin, and primary display cycling behavior.
+// relations:
+//   - tests /ash/accelerators/accelerator_commands.h
+//   - depends_on /ash/accelerators/accelerator_commands.h
+//   - depends_on /ash/test/ash_test_base.h
+// ---
+
 #include "ash/accelerators/accelerator_commands.h"
 
 #include <memory>

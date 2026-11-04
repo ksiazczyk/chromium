@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TopRowKeyUsageRecorder implementation
+// summary: Implements an event handler that logs histogram metrics when top-row action keys are physically pressed on the internal Chrome OS keyboard.
+// relations:
+//   - depends_on /ash/accelerators/top_row_key_usage_recorder.h
+//   - depends_on /ash/shell.h
+//   - depends_on /base/metrics/histogram_functions.h
+// ---
+
 #include "ash/accelerators/top_row_key_usage_recorder.h"
 
 #include "ash/shell.h"

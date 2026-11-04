@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShellInitParams struct for shell startup arguments
+// summary: Declares the ShellInitParams struct holding startup inputs such as the shell delegate, context factory, local state prefs, DBus bus, and display and keyboard factories.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/quick_pair/keyed_service/quick_pair_mediator.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_SHELL_INIT_PARAMS_H_
 #define ASH_SHELL_INIT_PARAMS_H_
 

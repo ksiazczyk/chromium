@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginStatus enum
+// summary: Defines the LoginStatus enum describing session states such as not logged in, locked, user, guest, public, child, and kiosk.
+// ---
+
 #ifndef ASH_LOGIN_STATUS_H_
 #define ASH_LOGIN_STATUS_H_
 

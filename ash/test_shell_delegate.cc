@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test shell delegate implementation
+// summary: Provides a ShellDelegate that supplies fake and test delegates for capture mode, clipboard, nearby share, tasks, and other ash services.
+// relations:
+//   - depends_on /ash/test_shell_delegate.h
+//   - depends_on /ash/accelerators/test_accelerator_prefs_delegate.h
+//   - depends_on /ash/accessibility/default_accessibility_delegate.h
+// ---
+
 #include "ash/test_shell_delegate.h"
 
 #include <memory>

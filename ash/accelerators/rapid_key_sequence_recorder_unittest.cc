@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RapidKeySequenceRecorder unit tests
+// summary: Unit tests verifying double-tap shift metric recording for left and right shift keys using mock time and histogram testing.
+// relations:
+//   - tests /ash/accelerators/rapid_key_sequence_recorder.h
+//   - depends_on /ash/public/cpp/accelerators_util.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/accelerators/rapid_key_sequence_recorder.h"
 
 #include "ash/public/cpp/accelerators_util.h"

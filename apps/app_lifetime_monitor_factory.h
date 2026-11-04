@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppLifetimeMonitorFactory class declaration
+// summary: Declares the singleton factory that owns AppLifetimeMonitor instances and associates them with browser contexts.
+// relations:
+//   - depends_on /base/no_destructor.h
+//   - depends_on /components/keyed_service/content/browser_context_keyed_service_factory.h
+// ---
+
 #ifndef APPS_APP_LIFETIME_MONITOR_FACTORY_H_
 #define APPS_APP_LIFETIME_MONITOR_FACTORY_H_
 

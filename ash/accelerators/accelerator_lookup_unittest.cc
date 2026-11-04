@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AcceleratorLookup unit tests
+// summary: Unit tests for AcceleratorLookup that use fake keyboard and udev devices to verify accelerator lookup and key display behavior.
+// relations:
+//   - tests /ash/accelerators/accelerator_lookup.h
+//   - depends_on /ash/accelerators/ash_accelerator_configuration.h
+//   - depends_on /ash/keyboard/keyboard_controller_impl.h
+// ---
+
 #include "ash/accelerators/accelerator_lookup.h"
 
 #include <memory>

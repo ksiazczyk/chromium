@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Root window settings implementation
+// summary: Implements functions to initialize and retrieve the per-root-window RootWindowSettings stored as an aura window property.
+// relations:
+//   - implements /ash/root_window_settings.h
+//   - depends_on /ui/aura/window.h
+//   - depends_on /ui/aura/window_event_dispatcher.h
+// ---
+
 #include "ash/root_window_settings.h"
 
 #include "ui/aura/window.h"

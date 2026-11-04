@@ -1,0 +1,4 @@
+# Docerion header of DEPRECATION_OWNERS.
+type: config
+title: Deprecation owners for platform apps
+summary: Lists the owners responsible for deprecating Chrome platform apps.

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apps command-line switch definitions
+// summary: Defines the load-and-launch-app command-line switch used to load an app from a specified directory and launch it.
+// relations:
+//   - depends_on /apps/switches.h
+// ---
+
 #include "apps/switches.h"
 
 namespace apps {

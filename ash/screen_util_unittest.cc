@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for screen_util bounds helpers
+// summary: AshTestBase-based tests verifying maximized, display, and work area bounds, rect conversion between screen and parent, and shelf display bounds in unified desktop mode.
+// relations:
+//   - tests /ash/screen_util.h
+//   - depends_on /ash/accessibility/magnifier/docked_magnifier_controller.h
+//   - depends_on /ash/public/cpp/shelf_config.h
+// ---
+
 #include "ash/screen_util.h"
 
 #include <memory>

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Debug commands header
+// summary: Declares debug-only command functions and helpers that report whether debug or developer accelerators are enabled and dispatch debug accelerator actions.
+// relations:
+//   - depends_on /ash/accelerators/accelerator_table.h
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_ACCELERATORS_DEBUG_COMMANDS_H_
 #define ASH_ACCELERATORS_DEBUG_COMMANDS_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform app launcher implementation
+// summary: Implements launching of platform apps with command lines, file paths, file handlers, URLs, and actions via onLaunched events.
+// relations:
+//   - depends_on /apps/launcher.h
+//   - depends_on /base/command_line.h
+//   - depends_on /base/files/file_path.h
+// ---
+
 #include "apps/launcher.h"
 
 #include <memory>

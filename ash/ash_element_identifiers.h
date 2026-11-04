@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations of exported Ash UI element identifiers
+// summary: Declares the exported element identifiers for Ash UI elements, with comments describing what each identifier refers to.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/base/interaction/element_identifier.h
+// ---
+
 #ifndef ASH_ASH_ELEMENT_IDENTIFIERS_H_
 #define ASH_ASH_ELEMENT_IDENTIFIERS_H_
 

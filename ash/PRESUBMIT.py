@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Presubmit checks for ash
+# summary: Runs patch formatting and Ruff checks on changes to the ash directory during presubmit verification.
+# ---
+
 """Presubmit script for ash."""
 
 PRESUBMIT_VERSION = '2.0.0'
