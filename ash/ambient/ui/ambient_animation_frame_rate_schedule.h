@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient animation frame rate schedule header
+// summary: Declares the cyclic frame rate schedule for ambient Skottie animations, mapping normalized timestamp sections to throttled frame intervals and providing builders from animation markers.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/time/time.h
+//   - depends_on /cc/paint/skottie_marker.h
+// ---
+
 #ifndef ASH_AMBIENT_UI_AMBIENT_ANIMATION_FRAME_RATE_SCHEDULE_H_
 #define ASH_AMBIENT_UI_AMBIENT_ANIMATION_FRAME_RATE_SCHEDULE_H_
 

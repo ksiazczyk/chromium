@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AmbientWeatherModel implementation
+// summary: Stores the weather condition icon and temperature, converts Fahrenheit to Celsius, and notifies observers when weather info is updated.
+// relations:
+//   - implements /ash/ambient/model/ambient_weather_model.h
+//   - depends_on /ash/ambient/model/ambient_weather_model_observer.h
+//   - depends_on /ui/gfx/image/image_skia.h
+// ---
+
 #include "ash/ambient/model/ambient_weather_model.h"
 
 #include "ash/ambient/model/ambient_weather_model_observer.h"

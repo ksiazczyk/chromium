@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AmbientAnimationShieldController unit tests
+// summary: Unit tests verifying that the shield controller adds and removes the dark-mode shield view as dark mode is toggled on and off.
+// relations:
+//   - tests /ash/ambient/ui/ambient_animation_shield_controller.h
+//   - tests /ash/ambient/ui/ambient_animation_shield_controller.cc
+//   - depends_on /ash/ambient/test/ambient_ash_test_base.h
+// ---
+
 #include "ash/ambient/ui/ambient_animation_shield_controller.h"
 
 #include "ash/ambient/test/ambient_ash_test_base.h"

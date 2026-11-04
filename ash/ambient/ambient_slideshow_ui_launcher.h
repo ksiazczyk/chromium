@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient slideshow UI launcher header
+// summary: Declares AmbientSlideshowUiLauncher, which launches the kSlideshow ambient theme and observes the backend model and session state.
+// relations:
+//   - implements /ash/ambient/ambient_ui_launcher.h
+// ---
+
 #ifndef ASH_AMBIENT_AMBIENT_SLIDESHOW_UI_LAUNCHER_H_
 #define ASH_AMBIENT_AMBIENT_SLIDESHOW_UI_LAUNCHER_H_
 

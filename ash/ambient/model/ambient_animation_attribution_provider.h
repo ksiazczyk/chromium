@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AmbientAnimationAttributionProvider class declaration
+// summary: Declares the observer-based provider that assigns photo credit text to attribution placeholders in ambient mode Lottie animations.
+// relations:
+//   - depends_on /ash/ambient/model/ambient_animation_photo_provider.h
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_AMBIENT_MODEL_AMBIENT_ANIMATION_ATTRIBUTION_PROVIDER_H_
 #define ASH_AMBIENT_MODEL_AMBIENT_ANIMATION_ATTRIBUTION_PROVIDER_H_
 

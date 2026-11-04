@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AmbientAnimationPhotoProvider class declaration
+// summary: Declares the frame data provider supplying static and dynamic image assets to ambient mode animations, with observer notifications on refresh.
+// relations:
+//   - implements /cc/paint/skottie_frame_data_provider.h
+//   - depends_on /ash/ambient/model/ambient_backend_model.h
+//   - depends_on /ash/ambient/util/ambient_util.h
+// ---
+
 #ifndef ASH_AMBIENT_MODEL_AMBIENT_ANIMATION_PHOTO_PROVIDER_H_
 #define ASH_AMBIENT_MODEL_AMBIENT_ANIMATION_PHOTO_PROVIDER_H_
 

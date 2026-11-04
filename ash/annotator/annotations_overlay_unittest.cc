@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Annotations overlay unit tests
+// summary: Unit tests verifying creation, window stacking, toggling and bounds behavior of the annotations overlay on root windows, app windows and regions.
+// relations:
+//   - tests /ash/annotator/annotations_overlay_controller.h
+//   - depends_on /ash/annotator/annotator_controller.h
+//   - depends_on /ash/annotator/annotator_test_util.h
+// ---
+
 #include <memory>
 #include <optional>
 

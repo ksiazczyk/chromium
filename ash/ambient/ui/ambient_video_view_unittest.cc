@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ambient video view unit test
+// summary: Unit test verifying that AmbientVideoView navigates its web view to the correct file URL with the expected video file query parameter and wake locks disabled.
+// relations:
+//   - tests /ash/ambient/ui/ambient_video_view.h
+//   - depends_on /ash/ambient/ambient_controller.h
+//   - depends_on /ash/ambient/test/ambient_ash_test_base.h
+// ---
+
 #include "ash/ambient/ui/ambient_video_view.h"
 
 #include "ash/ambient/ambient_controller.h"

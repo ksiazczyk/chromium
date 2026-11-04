@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed screensaver image downloader implementation
+// summary: Implements downloading and caching of policy-provided screensaver images, using SHA1-based cache file names, retries, and a 25-URL limit.
+// relations:
+//   - depends_on /ash/ambient/managed/screensaver_image_downloader.h
+//   - depends_on /ash/ambient/metrics/managed_screensaver_metrics.h
+//   - depends_on /base/containers/flat_set.h
+// ---
+
 #include "ash/ambient/managed/screensaver_image_downloader.h"
 
 #include <algorithm>

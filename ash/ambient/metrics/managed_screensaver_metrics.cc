@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed screensaver metrics implementation
+// summary: Implements metrics for enterprise-managed screensavers, recording enabled state, image counts, download results, and engagement and startup times under the Enterprise.ManagedScreensaver histograms.
+// relations:
+//   - implements /ash/ambient/metrics/managed_screensaver_metrics.h
+//   - depends_on /ash/ambient/managed/screensaver_image_downloader.h
+//   - depends_on /base/metrics/histogram_functions.h
+// ---
+
 #include "ash/ambient/metrics/managed_screensaver_metrics.h"
 
 #include <string_view>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AmbientTopicQueue animation delegate implementation
+// summary: Implements the animation delegate for AmbientTopicQueue, summarizing image asset sizes from Lottie animation metadata to choose topic photo sizes to request.
+// relations:
+//   - depends_on /ash/ambient/model/ambient_topic_queue_animation_delegate.h
+//   - depends_on /ash/ambient/util/ambient_util.h
+//   - depends_on /base/logging.h
+// ---
+
 #include "ash/ambient/model/ambient_topic_queue_animation_delegate.h"
 
 #include <algorithm>

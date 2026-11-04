@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AmbientAnimationView implementation
+// summary: Implements the ambient mode animation view that plays Lottie animations with jitter, throughput tracking, glanceable time and weather info, and dark-mode shielding.
+// relations:
+//   - implements /ash/ambient/ui/ambient_animation_view.h
+//   - depends_on /ash/ambient/ambient_ui_settings.h
+//   - depends_on /ash/ambient/ambient_view_delegate_impl.h
+// ---
+
 #include "ash/ambient/ui/ambient_animation_view.h"
 
 #include <algorithm>

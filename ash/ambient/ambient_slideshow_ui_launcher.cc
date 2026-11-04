@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient slideshow UI launcher implementation
+// summary: Implements the launcher for the slideshow ambient theme, initializing the photo controller, weather refresher, and photo view.
+// relations:
+//   - implements /ash/ambient/ambient_slideshow_ui_launcher.h
+// ---
+
 #include "ash/ambient/ambient_slideshow_ui_launcher.h"
 
 #include <memory>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test tasks delegate implementation
+// summary: Implements a test TasksDelegate that forwards task operations to fake TasksClient instances registered per account.
+// relations:
+//   - depends_on /ash/api/tasks/test_tasks_delegate.h
+//   - depends_on /ash/api/tasks/tasks_client.h
+//   - depends_on /base/logging.h
+// ---
+
 #include "ash/api/tasks/test_tasks_delegate.h"
 
 #include "ash/api/tasks/tasks_client.h"

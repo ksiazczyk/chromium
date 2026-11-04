@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the screensaver image downloader
+// summary: Tests download, caching, and queue behavior of ScreensaverImageDownloader using a test URL loader factory and temporary directories.
+// relations:
+//   - tests /ash/ambient/managed/screensaver_image_downloader.h
+//   - depends_on /ash/ambient/managed/screensaver_image_downloader.h
+//   - depends_on /ash/ambient/metrics/managed_screensaver_metrics.h
+// ---
+
 #include "ash/ambient/managed/screensaver_image_downloader.h"
 
 #include <algorithm>

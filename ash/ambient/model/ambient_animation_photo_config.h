@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AmbientAnimationPhotoConfig factory declaration
+// summary: Declares the factory that creates an AmbientPhotoConfig tailored to the Lottie animation rendering UI in ambient mode.
+// relations:
+//   - depends_on /ash/ambient/model/ambient_photo_config.h
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_AMBIENT_MODEL_AMBIENT_ANIMATION_PHOTO_CONFIG_H_
 #define ASH_AMBIENT_MODEL_AMBIENT_ANIMATION_PHOTO_CONFIG_H_
 

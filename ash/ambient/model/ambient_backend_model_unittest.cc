@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AmbientBackendModel unit tests
+// summary: Unit tests for AmbientBackendModel covering image addition, duplicate hash detection, observer notifications, and photo refresh intervals using mock observers and test images.
+// relations:
+//   - tests /ash/ambient/model/ambient_backend_model.h
+//   - depends_on /ash/ambient/model/ambient_slideshow_photo_config.h
+//   - depends_on /ash/test/ash_test_base.h
+// ---
+
 #include "ash/ambient/model/ambient_backend_model.h"
 
 #include <memory>

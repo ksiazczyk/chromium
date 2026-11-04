@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media string view implementation
+// summary: Implements the view showing ongoing media track and artist with a music note icon, including scrolling animation and lock screen visibility rules.
+// relations:
+//   - implements /ash/ambient/ui/media_string_view.h
+//   - depends_on /ash/ambient/ambient_constants.h
+//   - depends_on /ash/ambient/ui/ambient_view_ids.h
+// ---
+
 #include "ash/ambient/ui/media_string_view.h"
 
 #include <memory>

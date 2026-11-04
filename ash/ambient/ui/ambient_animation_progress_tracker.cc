@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient animation progress tracker implementation
+// summary: Implements registration and observation of lottie animations, condensing their playback progress into one global progress value and validating shared session parameters.
+// relations:
+//   - implements /ash/ambient/ui/ambient_animation_progress_tracker.h
+//   - depends_on /base/check.h
+//   - depends_on /base/logging.h
+// ---
+
 #include "ash/ambient/ui/ambient_animation_progress_tracker.h"
 
 #include <optional>

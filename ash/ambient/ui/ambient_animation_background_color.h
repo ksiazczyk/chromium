@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient animation background color header
+// summary: Declares GetAnimationBackgroundColor, which returns the background color of an ambient-mode Skottie animation.
+// relations:
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_AMBIENT_UI_AMBIENT_ANIMATION_BACKGROUND_COLOR_H_
 #define ASH_AMBIENT_UI_AMBIENT_ANIMATION_BACKGROUND_COLOR_H_
 

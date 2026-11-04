@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AmbientAnimationAttributionProvider implementation
+// summary: Implements the provider that fills photo attribution text placeholders in ambient mode Lottie animations by matching attribution text nodes to dynamic image assets.
+// relations:
+//   - implements /ash/ambient/model/ambient_animation_attribution_provider.h
+//   - depends_on /ash/ambient/model/ambient_backend_model.h
+//   - depends_on /ash/utility/lottie_util.h
+// ---
+
 #include "ash/ambient/model/ambient_animation_attribution_provider.h"
 
 #include <optional>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AmbientBackendModelObserver header
+// summary: Declares the AmbientBackendModelObserver interface that receives notifications when images are added, become ready, or fail to load in the ambient backend model.
+// relations:
+//   - depends_on /ash/ambient/model/ambient_backend_model.h
+//   - depends_on /ash/public/cpp/ash_public_export.h
+//   - depends_on /base/observer_list_types.h
+// ---
+
 #ifndef ASH_AMBIENT_MODEL_AMBIENT_BACKEND_MODEL_OBSERVER_H_
 #define ASH_AMBIENT_MODEL_AMBIENT_BACKEND_MODEL_OBSERVER_H_
 

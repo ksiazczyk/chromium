@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AmbientBackendModel implementation
+// summary: Implements the model that buffers decoded photos with details, tracks image readiness with a timeout, and notifies observers as topics arrive.
+// relations:
+//   - implements /ash/ambient/model/ambient_backend_model.h
+//   - depends_on /ash/ambient/metrics/ambient_metrics.h
+//   - depends_on /ash/ambient/model/ambient_backend_model_observer.h
+// ---
+
 #include "ash/ambient/model/ambient_backend_model.h"
 
 #include <algorithm>

@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for ambient Lottie resources
+summary: Defines GN targets that generate a grd file and package the ambient mode Lottie animations and images into a grit resource pak.
+relations:
+  - depends_on /ash/ambient/resources/resources.gni
+  - depends_on /build/cipd/cipd.gni
+  - depends_on /tools/grit/grit_rule.gni

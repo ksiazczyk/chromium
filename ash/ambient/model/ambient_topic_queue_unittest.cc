@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the ambient topic queue
+// summary: Covers topic fetching, refilling, popping and wait results of the ambient topic queue using a fake backend controller and test delegate.
+// relations:
+//   - tests /ash/ambient/model/ambient_topic_queue.h
+//   - depends_on /ash/ambient/test/ambient_ash_test_base.h
+//   - depends_on /ash/ambient/test/ambient_topic_queue_test_delegate.h
+// ---
+
 #include "ash/ambient/model/ambient_topic_queue.h"
 
 #include <memory>

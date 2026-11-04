@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient DLC background installer implementation
+// summary: Installs the ambient video DLC in the background once network connectivity is online, running the D-Bus install on the main thread.
+// relations:
+//   - depends_on /ash/ambient/resources/ambient_dlc_background_installer.h
+//   - depends_on /ash/ambient/util/time_of_day_utils.h
+//   - depends_on /ash/constants/ash_features.h
+// ---
+
 #include "ash/ambient/resources/ambient_dlc_background_installer.h"
 
 #include "ash/ambient/util/time_of_day_utils.h"

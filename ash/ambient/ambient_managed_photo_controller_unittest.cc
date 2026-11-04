@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Managed photo controller unit tests
+// summary: Unit tests for the managed photo controller covering image loading from disk, error states, image updates, and managed screensaver metrics.
+// relations:
+//   - tests /ash/ambient/ambient_managed_photo_controller.h
+//   - depends_on /ash/ambient/test/ambient_ash_test_base.h
+// ---
+
 #include "ash/ambient/ambient_managed_photo_controller.h"
 
 #include <memory>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AmbientAnimationPhotoConfig unit tests
+// summary: Unit tests checking topic set sizing, exclusion of static assets, and fatal handling of invalid animation asset ids.
+// relations:
+//   - tests /ash/ambient/model/ambient_animation_photo_config.h
+//   - depends_on /ash/ambient/test/ambient_test_util.h
+//   - depends_on /cc/paint/skottie_resource_metadata.h
+// ---
+
 #include "ash/ambient/model/ambient_animation_photo_config.h"
 
 #include <optional>

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AmbientPhotoConfig implementation
+// summary: Implements the AmbientPhotoConfig constructors and the stream output operator for its Marker enum.
+// relations:
+//   - implements /ash/ambient/model/ambient_photo_config.h
+// ---
+
 #include "ash/ambient/model/ambient_photo_config.h"
 
 namespace ash {

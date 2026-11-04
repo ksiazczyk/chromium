@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test tasks delegate class declaration
+// summary: Declares a test TasksDelegate that maps account IDs to fake TasksClient instances for exercising the Ash tasks API in tests.
+// relations:
+//   - implements /ash/api/tasks/tasks_delegate.h
+//   - depends_on /ash/api/tasks/tasks_delegate.h
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_API_TASKS_TEST_TASKS_DELEGATE_H_
 #define ASH_API_TASKS_TEST_TASKS_DELEGATE_H_
 

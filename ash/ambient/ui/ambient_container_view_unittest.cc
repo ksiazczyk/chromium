@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AmbientContainerView unit tests
+// summary: Unit test verifying that the ambient container view window is sized fullscreen to match the root window bounds.
+// relations:
+//   - tests /ash/ambient/ui/ambient_container_view.h
+//   - depends_on /ash/ambient/ambient_controller.h
+//   - depends_on /ash/ambient/test/ambient_ash_test_base.h
+// ---
+
 #include "ash/ambient/ui/ambient_container_view.h"
 
 #include "ash/ambient/ambient_controller.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Time of Day screen saver utility implementations
+// summary: Installs the Time of Day DLC and resolves the HTML path for ambient videos, and picks the default video based on the device customization ID.
+// relations:
+//   - implements /ash/ambient/util/time_of_day_utils.h
+//   - depends_on /ash/ambient/ambient_constants.h
+//   - depends_on /ash/ambient/metrics/ambient_metrics.h
+// ---
+
 #include "ash/ambient/util/time_of_day_utils.h"
 
 #include <string>

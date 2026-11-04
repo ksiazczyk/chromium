@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ambient mode utilities
+// summary: Unit tests verifying parsing and comparison ordering of dynamic Lottie asset IDs used by ambient mode.
+// relations:
+//   - tests /ash/ambient/util/ambient_util.h
+//   - depends_on /testing/gmock/include/gmock/gmock.h
+//   - depends_on /testing/gtest/include/gtest/gtest.h
+// ---
+
 #include "ash/ambient/util/ambient_util.h"
 
 #include <string>

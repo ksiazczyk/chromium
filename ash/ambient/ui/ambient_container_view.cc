@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AmbientContainerView implementation
+// summary: Implements the container view that hosts the main ambient mode rendering view and applies common settings such as background and fill layout.
+// relations:
+//   - implements /ash/ambient/ui/ambient_container_view.h
+//   - depends_on /ash/ambient/ambient_ui_settings.h
+//   - depends_on /ash/ambient/metrics/ambient_metrics.h
+// ---
+
 #include "ash/ambient/ui/ambient_container_view.h"
 
 #include <memory>

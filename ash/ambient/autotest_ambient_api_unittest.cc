@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autotest ambient API unit tests
+// summary: Unit tests for the autotest ambient API covering photo transition animation waits and video playback start detection.
+// relations:
+//   - tests /ash/public/cpp/autotest_ambient_api.h
+//   - depends_on /ash/ambient/test/ambient_ash_test_base.h
+//   - depends_on /ash/public/cpp/ambient/ambient_prefs.h
+// ---
+
 #include "ash/public/cpp/autotest_ambient_api.h"
 
 #include <optional>

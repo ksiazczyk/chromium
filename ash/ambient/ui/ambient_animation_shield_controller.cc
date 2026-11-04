@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AmbientAnimationShieldController implementation
+// summary: Implements the controller that adds or removes a dark-mode shield view from the ambient animation UI whenever the color mode changes.
+// relations:
+//   - implements /ash/ambient/ui/ambient_animation_shield_controller.h
+//   - depends_on /base/check.h
+//   - depends_on /base/logging.h
+// ---
+
 #include "ash/ambient/ui/ambient_animation_shield_controller.h"
 
 #include "base/check.h"

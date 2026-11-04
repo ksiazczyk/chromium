@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test ambient client
+// summary: Declares a test implementation of AmbientClient that fakes tokens, image downloads and URL loading to support ambient mode unit tests.
+// relations:
+//   - implements /ash/public/cpp/ambient/ambient_client.h
+//   - depends_on /ash/public/cpp/ash_public_export.h
+//   - depends_on /base/functional/callback.h
+// ---
+
 #ifndef ASH_AMBIENT_TEST_TEST_AMBIENT_CLIENT_H_
 #define ASH_AMBIENT_TEST_TEST_AMBIENT_CLIENT_H_
 

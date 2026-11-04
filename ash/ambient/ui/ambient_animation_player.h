@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient animation player header
+// summary: Declares AmbientAnimationPlayer, which loops an AnimatedImageView's lottie animation and restarts each cycle at an optional designer-set marker timestamp.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /base/time/time.h
+// ---
+
 #ifndef ASH_AMBIENT_UI_AMBIENT_ANIMATION_PLAYER_H_
 #define ASH_AMBIENT_UI_AMBIENT_ANIMATION_PLAYER_H_
 

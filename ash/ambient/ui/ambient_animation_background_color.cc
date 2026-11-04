@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient animation background color lookup
+// summary: Reads the background_solid color node from a Skottie ambient animation, falling back to white when the node is missing.
+// relations:
+//   - depends_on /ash/ambient/ui/ambient_animation_background_color.h
+//   - implements /ash/ambient/ui/ambient_animation_background_color.h
+//   - depends_on /base/logging.h
+// ---
+
 #include "ash/ambient/ui/ambient_animation_background_color.h"
 
 #include <string_view>

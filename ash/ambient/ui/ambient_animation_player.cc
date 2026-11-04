@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient animation player implementation
+// summary: Implements looping playback of ambient lottie animations, honoring an embedded cycle restart marker and starting from the shared progress tracker's global progress for synchronization.
+// relations:
+//   - implements /ash/ambient/ui/ambient_animation_player.h
+//   - depends_on /ash/ambient/ui/ambient_animation_progress_tracker.h
+//   - depends_on /ash/public/cpp/ambient/ambient_ui_model.h
+// ---
+
 #include "ash/ambient/ui/ambient_animation_player.h"
 
 #include <optional>

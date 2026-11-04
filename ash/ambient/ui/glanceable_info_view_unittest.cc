@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glanceable info view unit tests
+// summary: Tests that weather info is shown in the glanceable info view and hidden when geolocation access is disabled.
+// relations:
+//   - tests /ash/ambient/ui/glanceable_info_view.h
+//   - depends_on /ash/ambient/ambient_controller.h
+//   - depends_on /ash/ambient/model/ambient_weather_model.h
+// ---
+
 #include "ash/ambient/ui/glanceable_info_view.h"
 
 #include "ash/ambient/ambient_controller.h"

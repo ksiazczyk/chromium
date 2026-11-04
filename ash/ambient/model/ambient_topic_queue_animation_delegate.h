@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Animation delegate for the ambient topic queue
+// summary: Declares AmbientTopicQueueAnimationDelegate, which supplies topic sizes for the Lottie animation UI based on Skottie resource metadata.
+// relations:
+//   - depends_on /ash/ambient/model/ambient_topic_queue.h
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/gfx/geometry/size.h
+// ---
+
 #ifndef ASH_AMBIENT_MODEL_AMBIENT_TOPIC_QUEUE_ANIMATION_DELEGATE_H_
 #define ASH_AMBIENT_MODEL_AMBIENT_TOPIC_QUEUE_ANIMATION_DELEGATE_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient photo controller implementation
+// summary: Implements the photo controller that fetches, downloads, saves, loads, and decodes ambient topics, with backup photo handling and retry backoff.
+// relations:
+//   - implements /ash/ambient/ambient_photo_controller.h
+//   - depends_on /ash/ambient/ambient_backup_photo_downloader.h
+//   - depends_on /ash/ambient/ambient_constants.h
+// ---
+
 #include "ash/ambient/ambient_photo_controller.h"
 
 #include <algorithm>

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Annotator test utility header
+// summary: Declares window verification helpers and the AnnotatorIntegrationHelper class used to set up the annotator feature across test fixtures.
+// relations:
+//   - depends_on /ash/capture_mode/capture_mode_types.h
+//   - depends_on /ash/webui/annotator/test/mock_annotator_client.h
+// ---
+
 #ifndef ASH_ANNOTATOR_ANNOTATOR_TEST_UTIL_H_
 #define ASH_ANNOTATOR_ANNOTATOR_TEST_UTIL_H_
 

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ambient topic queue test delegate implementation
+// summary: Implements the AmbientTopicQueue test delegate, returning configurable topic sizes with a default 500x500 size.
+// relations:
+//   - depends_on /ash/ambient/test/ambient_topic_queue_test_delegate.h
+//   - depends_on /base/check.h
+// ---
+
 #include "ash/ambient/test/ambient_topic_queue_test_delegate.h"
 
 #include <utility>

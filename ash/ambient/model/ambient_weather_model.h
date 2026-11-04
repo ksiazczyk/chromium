@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AmbientWeatherModel header
+// summary: Declares the model that caches current weather information such as condition icon, temperature and Celsius preference, with observer support.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/observer_list.h
+//   - depends_on /ui/gfx/image/image_skia.h
+// ---
+
 #ifndef ASH_AMBIENT_MODEL_AMBIENT_WEATHER_MODEL_H_
 #define ASH_AMBIENT_MODEL_AMBIENT_WEATHER_MODEL_H_
 

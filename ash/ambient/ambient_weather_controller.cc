@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AmbientWeatherController implementation
+// summary: Implements the ambient weather controller, which uses geolocation and preferences to fetch weather data and icons into the weather model.
+// relations:
+//   - implements /ash/ambient/ambient_weather_controller.h
+//   - depends_on /ash/ambient/ambient_constants.h
+//   - depends_on /ash/ambient/ambient_controller.h
+// ---
+
 #include "ash/ambient/ambient_weather_controller.h"
 
 #include <memory>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient mode utility declarations
+// summary: Declares shared ambient mode helpers for colors, fonts, text shadows, topic type filtering, and parsing and ordering of dynamic Lottie asset IDs.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/login/ui/lock_screen.h
+//   - depends_on /ash/public/cpp/ambient/ambient_backend_controller.h
+// ---
+
 #ifndef ASH_AMBIENT_UTIL_AMBIENT_UTIL_H_
 #define ASH_AMBIENT_UTIL_AMBIENT_UTIL_H_
 

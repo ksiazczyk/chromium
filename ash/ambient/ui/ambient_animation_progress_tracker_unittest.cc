@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ambient animation progress tracker unit tests
+// summary: Unit tests covering animation registration, global progress reporting, and immutable parameter validation for single and multiple lottie animations.
+// relations:
+//   - tests /ash/ambient/ui/ambient_animation_progress_tracker.h
+//   - depends_on /base/memory/scoped_refptr.h
+//   - depends_on /base/time/time.h
+// ---
+
 #include "ash/ambient/ui/ambient_animation_progress_tracker.h"
 
 #include "base/memory/scoped_refptr.h"

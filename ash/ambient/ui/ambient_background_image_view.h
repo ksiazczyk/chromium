@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AmbientBackgroundImageView header
+// summary: Declares AmbientBackgroundImageView, a custom view showing ambient mode photos with details, paired images, and peripheral UI visibility control.
+// relations:
+//   - depends_on /ash/ambient/ui/ambient_slideshow_peripheral_ui.h
+//   - depends_on /ash/ambient/ui/ambient_view_delegate.h
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_AMBIENT_UI_AMBIENT_BACKGROUND_IMAGE_VIEW_H_
 #define ASH_AMBIENT_UI_AMBIENT_BACKGROUND_IMAGE_VIEW_H_
 

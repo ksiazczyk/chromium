@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient backend controller class declaration
+// summary: Declares AmbientBackendControllerImpl, the Backdrop client implementation of AmbientBackendController with methods for fetching screen updates, settings, albums, and weather.
+// relations:
+//   - implements /ash/public/cpp/ambient/ambient_backend_controller.h
+//   - depends_on /ash/public/cpp/ambient/ambient_client.h
+//   - depends_on /ash/public/cpp/ambient/common/ambient_settings.h
+// ---
+
 #ifndef ASH_AMBIENT_BACKDROP_AMBIENT_BACKEND_CONTROLLER_IMPL_H_
 #define ASH_AMBIENT_BACKDROP_AMBIENT_BACKEND_CONTROLLER_IMPL_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media string view header
+// summary: Declares MediaStringView, a container for displaying ongoing media information with theme-dependent colors and scrolling animation.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /base/scoped_observation.h
+//   - depends_on /mojo/public/cpp/bindings/receiver.h
+// ---
+
 #ifndef ASH_AMBIENT_UI_MEDIA_STRING_VIEW_H_
 #define ASH_AMBIENT_UI_MEDIA_STRING_VIEW_H_
 

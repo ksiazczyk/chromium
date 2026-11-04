@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient mode photo view class declaration
+// summary: Declares PhotoView and PhotoViewConfig, the view that displays photos in ambient mode with transition animations and a photo refresh timer.
+// relations:
+//   - depends_on /ash/ambient/model/ambient_backend_model.h
+//   - depends_on /ash/ambient/model/ambient_backend_model_observer.h
+//   - depends_on /ash/ambient/ui/ambient_background_image_view.h
+// ---
+
 #ifndef ASH_AMBIENT_UI_PHOTO_VIEW_H_
 #define ASH_AMBIENT_UI_PHOTO_VIEW_H_
 

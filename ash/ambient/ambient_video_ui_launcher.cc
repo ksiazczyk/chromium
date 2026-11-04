@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AmbientVideoUiLauncher implementation
+// summary: Implements the launcher for the video ambient theme, resolving the selected video and creating the ambient video view.
+// relations:
+//   - implements /ash/ambient/ambient_video_ui_launcher.h
+//   - depends_on /ash/ambient/ambient_controller.h
+//   - depends_on /ash/ambient/ambient_photo_controller.h
+// ---
+
 #include "ash/ambient/ambient_video_ui_launcher.h"
 
 #include <string_view>

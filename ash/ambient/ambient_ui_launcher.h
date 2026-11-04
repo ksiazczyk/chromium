@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AmbientUiLauncher abstract base class
+// summary: Declares the abstract launcher interface for starting ambient UI sessions, covering initialization, view creation, finalization, and readiness state.
+// ---
+
 #ifndef ASH_AMBIENT_AMBIENT_UI_LAUNCHER_H_
 #define ASH_AMBIENT_AMBIENT_UI_LAUNCHER_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient backup photo downloader implementation
+// summary: Implements downloading a backup photo to a temporary file, then resizing, encoding and saving it to the photo cache.
+// relations:
+//   - implements /ash/ambient/ambient_backup_photo_downloader.h
+//   - depends_on /ash/ambient/ambient_photo_cache.h
+//   - depends_on /ash/public/cpp/image_util.h
+// ---
+
 #include "ash/ambient/ambient_backup_photo_downloader.h"
 
 #include <utility>

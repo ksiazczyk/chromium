@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AmbientVideoUiLauncher class declaration
+// summary: Declares AmbientVideoUiLauncher, which launches the video ambient theme using the video chosen in preference storage.
+// relations:
+//   - depends_on /ash/ambient/ambient_photo_controller.h
+//   - implements /ash/ambient/ambient_ui_launcher.h
+//   - depends_on /ash/ambient/ambient_weather_controller.h
+// ---
+
 #ifndef ASH_AMBIENT_AMBIENT_VIDEO_UI_LAUNCHER_H_
 #define ASH_AMBIENT_AMBIENT_VIDEO_UI_LAUNCHER_H_
 

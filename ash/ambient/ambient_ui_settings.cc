@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AmbientUiSettings implementation
+// summary: Implements reading, writing, and validating ambient UI settings such as theme and video from preference storage.
+// relations:
+//   - implements /ash/ambient/ambient_ui_settings.h
+//   - depends_on /ash/ambient/util/ambient_util.h
+//   - depends_on /ash/ambient/util/time_of_day_utils.h
+// ---
+
 #include "ash/ambient/ambient_ui_settings.h"
 
 #include <utility>

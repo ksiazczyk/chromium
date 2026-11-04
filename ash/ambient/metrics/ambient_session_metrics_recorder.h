@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient session metrics recorder and delegate interface
+// summary: Declares AmbientSessionMetricsRecorder and its Delegate interface, which record init status, startup time, and engagement time over an ambient session's lifetime.
+// relations:
+//   - depends_on /ash/ambient/ambient_ui_settings.h
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/time/time.h
+// ---
+
 #ifndef ASH_AMBIENT_METRICS_AMBIENT_SESSION_METRICS_RECORDER_H_
 #define ASH_AMBIENT_METRICS_AMBIENT_SESSION_METRICS_RECORDER_H_
 

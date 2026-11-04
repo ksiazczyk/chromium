@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ambient Ash test helper class
+// summary: Declares AmbientAshTestHelper, which simulates access token issuance, provides a wake lock provider, and overrides the screensaver policy path in tests.
+// relations:
+//   - depends_on /ash/ambient/test/test_ambient_client.h
+//   - depends_on /ash/constants/ash_paths.h
+//   - depends_on /base/test/scoped_path_override.h
+// ---
+
 #ifndef ASH_AMBIENT_TEST_AMBIENT_ASH_TEST_HELPER_H_
 #define ASH_AMBIENT_TEST_AMBIENT_ASH_TEST_HELPER_H_
 

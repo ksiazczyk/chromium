@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Annotation source watcher implementation
+// summary: Implements the watcher that observes capture mode and Projector sessions and notifies the annotator controller to show, update or disable the annotation tray.
+// relations:
+//   - implements /ash/annotator/annotation_source_watcher.h
+//   - depends_on /ash/annotator/annotator_controller.h
+//   - depends_on /ash/projector/projector_controller_impl.h
+// ---
+
 #include "ash/annotator/annotation_source_watcher.h"
 
 #include "ash/annotator/annotator_controller.h"

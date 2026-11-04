@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient video view header
+// summary: Declares the AmbientVideoView class, which plays a video on loop via a file URL in an AshWebView and reuses the slideshow peripheral UI spec.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/constants/ambient_video.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_AMBIENT_UI_AMBIENT_VIDEO_VIEW_H_
 #define ASH_AMBIENT_UI_AMBIENT_VIDEO_VIEW_H_
 

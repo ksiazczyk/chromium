@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ash/ambient/backdrop
+summary: Defines specific include rules that allow ambient_backend_controller_impl.cc to include the user manager header in the ash ambient backdrop directory.

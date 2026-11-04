@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AmbientBackendModel header
+// summary: Declares the AmbientBackendModel class and PhotoWithDetails struct that store photo images and metadata fetched from the backdrop server for rendering the Ambient Mode photo frame.
+// relations:
+//   - configured_by /ash/ambient/model/ambient_photo_config.h
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/ambient/ambient_backend_controller.h
+// ---
+
 #ifndef ASH_AMBIENT_MODEL_AMBIENT_BACKEND_MODEL_H_
 #define ASH_AMBIENT_MODEL_AMBIENT_BACKEND_MODEL_H_
 

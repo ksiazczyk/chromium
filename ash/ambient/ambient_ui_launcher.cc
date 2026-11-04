@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AmbientUiLauncher implementation
+// summary: Implements ready-state tracking, observer notification, and metrics delegate creation for the ambient UI launcher base class.
+// relations:
+//   - implements /ash/ambient/ambient_ui_launcher.h
+// ---
+
 #include "ash/ambient/ambient_ui_launcher.h"
 #include "ash/ambient/ambient_ui_settings.h"
 #include "ash/ambient/metrics/ambient_consumer_session_metrics_delegate.h"

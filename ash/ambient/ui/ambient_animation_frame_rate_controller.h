@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient animation frame rate controller header
+// summary: Declares AmbientAnimationFrameRateController, which lowers BeginFrame rates of ambient animations to save battery and restores defaults on teardown.
+// relations:
+//   - depends_on /ash/ambient/ui/ambient_animation_frame_rate_schedule.h
+//   - depends_on /ui/aura/window.h
+//   - depends_on /ui/aura/window_observer.h
+// ---
+
 #ifndef ASH_AMBIENT_UI_AMBIENT_ANIMATION_FRAME_RATE_CONTROLLER_H_
 #define ASH_AMBIENT_UI_AMBIENT_ANIMATION_FRAME_RATE_CONTROLLER_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ambient mode test utilities implementation
+// summary: Implements helpers that generate Lottie customizable and dynamic asset ids and build an AmbientPhotoConfig with a given number of assets for tests.
+// relations:
+//   - implements /ash/ambient/test/ambient_test_util.h
+//   - depends_on /ash/ambient/model/ambient_animation_photo_config.h
+//   - depends_on /ash/utility/lottie_util.h
+// ---
+
 #include "ash/ambient/test/ambient_test_util.h"
 
 #include <optional>

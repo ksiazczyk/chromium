@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient weather controller header
+// summary: Declares the AmbientWeatherController class that fetches weather info and condition icons from the backdrop server and owns the cached weather model.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/session/session_observer.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_AMBIENT_AMBIENT_WEATHER_CONTROLLER_H_
 #define ASH_AMBIENT_AMBIENT_WEATHER_CONTROLLER_H_
 

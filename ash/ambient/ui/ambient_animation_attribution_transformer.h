@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient animation attribution transformer header
+// summary: Declares AmbientAnimationAttributionTransformer, which adjusts Lottie attribution text box coordinates to meet UX positioning requirements.
+// relations:
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_AMBIENT_UI_AMBIENT_ANIMATION_ATTRIBUTION_TRANSFORMER_H_
 #define ASH_AMBIENT_UI_AMBIENT_ANIMATION_ATTRIBUTION_TRANSFORMER_H_
 

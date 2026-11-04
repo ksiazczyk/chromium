@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient info view header
+// summary: Declares the AmbientInfoView class, a views::View that shows glanceable info and image detail labels and applies text transforms for the ambient mode UI.
+// relations:
+//   - depends_on /ash/ambient/ui/ambient_view_delegate.h
+//   - depends_on /ash/ambient/ui/glanceable_info_view.h
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_AMBIENT_UI_AMBIENT_INFO_VIEW_H_
 #define ASH_AMBIENT_UI_AMBIENT_INFO_VIEW_H_
 

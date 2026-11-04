@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient animation UI launcher implementation
+// summary: Implements launching the animated ambient screensaver themes using Skottie-rendered Lottie animations.
+// relations:
+//   - depends_on /ash/ambient/ambient_animation_ui_launcher.h
+//   - depends_on /ash/ambient/ambient_controller.h
+//   - depends_on /ash/ambient/ambient_photo_controller.h
+// ---
+
 #include "ash/ambient/ambient_animation_ui_launcher.h"
 
 #include <memory>

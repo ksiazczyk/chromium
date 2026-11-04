@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient access token controller implementation
+// summary: Implements fetching and refreshing the ambient mode access token with retry backoff and callback handling.
+// relations:
+//   - depends_on /ash/ambient/ambient_access_token_controller.h
+//   - depends_on /ash/login/ui/lock_screen.h
+//   - depends_on /ash/public/cpp/ambient/ambient_client.h
+// ---
+
 #include "ash/ambient/ambient_access_token_controller.h"
 
 #include "ash/login/ui/lock_screen.h"

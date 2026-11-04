@@ -1,0 +1,6 @@
+# Docerion header of resources.gni.
+type: config
+title: Build flag for ash ambient animation resources
+summary: GN arguments file declaring include_ash_ambient_animation_resources, which controls whether Lottie animated screensaver resources are included in ChromeOS branded builds.
+relations:
+  - depends_on /build/config/chrome_build.gni

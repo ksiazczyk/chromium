@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Annotator controller implementation
+// summary: Implements the controller that manages annotator UI state, tray visibility, tool selection, marker color metrics and annotations overlay creation.
+// relations:
+//   - implements /ash/annotator/annotator_controller.h
+//   - depends_on /ash/annotator/annotation_source_watcher.h
+//   - depends_on /ash/annotator/annotation_tray.h
+// ---
+
 #include "ash/annotator/annotator_controller.h"
 
 #include "ash/annotator/annotation_source_watcher.h"

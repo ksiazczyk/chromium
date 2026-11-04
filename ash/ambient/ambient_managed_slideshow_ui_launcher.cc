@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed slideshow UI launcher implementation
+// summary: Implements the UI launcher for policy-managed screensaver slideshows, wiring the managed photo controller to policy images and computing ready state.
+// relations:
+//   - implements /ash/ambient/ambient_managed_slideshow_ui_launcher.h
+//   - depends_on /ash/ambient/ambient_managed_photo_controller.h
+//   - depends_on /ash/ambient/ambient_view_delegate_impl.h
+// ---
+
 #include "ash/ambient/ambient_managed_slideshow_ui_launcher.h"
 
 #include <vector>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task and task list type implementations
+// summary: Implements the constructors and destructors for the TaskList and Task data structures.
+// relations:
+//   - depends_on /ash/api/tasks/tasks_types.h
+//   - depends_on /base/time/time.h
+//   - depends_on /url/gurl.h
+// ---
+
 #include "ash/api/tasks/tasks_types.h"
 
 #include <optional>

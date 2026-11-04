@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Slideshow delegate for the ambient topic queue
+// summary: Declares AmbientTopicQueueSlideshowDelegate, which provides full-screen display sizes for the image slideshow UI.
+// relations:
+//   - depends_on /ash/ambient/model/ambient_topic_queue.h
+//   - depends_on /ash/ash_export.h
+//   - implements /ash/ambient/model/ambient_topic_queue.h
+// ---
+
 #ifndef ASH_AMBIENT_MODEL_AMBIENT_TOPIC_QUEUE_SLIDESHOW_DELEGATE_H_
 #define ASH_AMBIENT_MODEL_AMBIENT_TOPIC_QUEUE_SLIDESHOW_DELEGATE_H_
 

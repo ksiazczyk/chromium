@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Annotator controller header
+// summary: Declares the AnnotatorController class that coordinates the annotator UI, including tray registration, tool handling, observers and overlay creation.
+// relations:
+//   - depends_on /ash/annotator/annotator_metrics.h
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/annotator/annotator_controller_base.h
+// ---
+
 #ifndef ASH_ANNOTATOR_ANNOTATOR_CONTROLLER_H_
 #define ASH_ANNOTATOR_ANNOTATOR_CONTROLLER_H_
 

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ambient Ash test base class header
+// summary: Declares AmbientAshTestBase, the base test fixture providing setup, ambient screen show/hide, lock, and suspend simulation for ambient mode tests.
+// relations:
+//   - depends_on /ash/test/ash_test_base.h
+//   - depends_on /ash/ambient/ambient_controller.h
+// ---
+
 #ifndef ASH_AMBIENT_TEST_AMBIENT_ASH_TEST_BASE_H_
 #define ASH_AMBIENT_TEST_AMBIENT_ASH_TEST_BASE_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake tasks client implementation
+// summary: Implements a fake TasksClient that simulates Google Tasks API behavior, including pausing, errors, and pending callbacks, for testing.
+// relations:
+//   - implements /ash/api/tasks/fake_tasks_client.h
+//   - depends_on /ash/api/tasks/tasks_client.h
+//   - depends_on /ash/api/tasks/tasks_types.h
+// ---
+
 #include "ash/api/tasks/fake_tasks_client.h"
 
 #include <algorithm>

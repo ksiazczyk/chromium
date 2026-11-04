@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the ambient topic queue animation delegate
+// summary: Tests GetTopicSizes for the animation delegate across portrait, landscape and square asset combinations, including aspect ratio averaging.
+// relations:
+//   - tests /ash/ambient/model/ambient_topic_queue_animation_delegate.h
+//   - depends_on /ash/ambient/test/ambient_test_util.h
+//   - depends_on /base/check.h
+// ---
+
 #include "ash/ambient/model/ambient_topic_queue_animation_delegate.h"
 
 #include <optional>

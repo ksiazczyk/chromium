@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient animation frame rate controller implementation
+// summary: Throttles the viz BeginFrame rate for windows playing ambient Lottie animations based on schedule sections to reduce power consumption.
+// relations:
+//   - implements /ash/ambient/ui/ambient_animation_frame_rate_controller.h
+//   - depends_on /ash/frame_throttler/frame_throttling_controller.h
+//   - depends_on /ash/ambient/ui/ambient_animation_frame_rate_schedule.h
+// ---
+
 #include "ash/ambient/ui/ambient_animation_frame_rate_controller.h"
 
 #include "ash/frame_throttler/frame_throttling_controller.h"

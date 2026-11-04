@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient mode photo view implementation
+// summary: Implements the view that displays ambient mode photos, animating transitions between current and next background images and reporting smoothness metrics.
+// relations:
+//   - implements /ash/ambient/ui/photo_view.h
+//   - depends_on /ash/ambient/ambient_constants.h
+//   - depends_on /ash/ambient/ambient_view_delegate_impl.h
+// ---
+
 #include "ash/ambient/ui/photo_view.h"
 
 #include <algorithm>

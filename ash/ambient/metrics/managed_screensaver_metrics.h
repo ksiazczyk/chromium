@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed screensaver metrics API
+// summary: Declares managed screensaver metrics functions and histogram name constants, plus a delegate that records startup and engagement time for managed screensaver sessions.
+// relations:
+//   - implements /ash/ambient/metrics/ambient_session_metrics_recorder.h
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_AMBIENT_METRICS_MANAGED_SCREENSAVER_METRICS_H_
 #define ASH_AMBIENT_METRICS_MANAGED_SCREENSAVER_METRICS_H_
 

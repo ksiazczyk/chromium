@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test ambient client implementation
+// summary: Implements a test AmbientClient with a fake URL loader factory, fake image downloads, wake lock binding and simulated access token issuance.
+// relations:
+//   - implements /ash/ambient/test/test_ambient_client.h
+//   - depends_on /ash/session/session_controller_impl.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/ambient/test/test_ambient_client.h"
 
 #include <utility>

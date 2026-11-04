@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient shield view implementation
+// summary: Implements AmbientShieldView, which paints a dark or light mode gray gradient shield background over ambient mode content using a custom views::Background.
+// relations:
+//   - implements /ash/ambient/ui/ambient_shield_view.h
+//   - depends_on /ash/ambient/ui/ambient_view_ids.h
+//   - depends_on /ash/style/dark_light_mode_controller_impl.h
+// ---
+
 #include "ash/ambient/ui/ambient_shield_view.h"
 
 #include <array>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient view delegate interface
+// summary: Declares the AmbientViewDelegate and its observer interface, which expose the ambient backend and weather models to ambient UI views.
+// relations:
+//   - depends_on /ash/ambient/model/ambient_photo_config.h
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/observer_list_types.h
+// ---
+
 #ifndef ASH_AMBIENT_UI_AMBIENT_VIEW_DELEGATE_H_
 #define ASH_AMBIENT_UI_AMBIENT_VIEW_DELEGATE_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glanceable info view implementation
+// summary: Implements the view that displays a glanceable clock and weather information, reacting to weather model updates and theme changes.
+// relations:
+//   - implements /ash/ambient/ui/glanceable_info_view.h
+//   - depends_on /ash/ambient/model/ambient_backend_model.h
+//   - depends_on /ash/ambient/ui/ambient_view_delegate.h
+// ---
+
 #include "ash/ambient/ui/glanceable_info_view.h"
 
 #include <memory>

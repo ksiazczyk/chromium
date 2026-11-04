@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Annotator marker color metrics header
+// summary: Defines the AnnotatorMarkerColor enum for UMA logging and declares the function that records marker colors chosen by the user.
+// ---
+
 #ifndef ASH_ANNOTATOR_ANNOTATOR_METRICS_H_
 #define ASH_ANNOTATOR_ANNOTATOR_METRICS_H_
 

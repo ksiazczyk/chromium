@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake ambient animation static resources implementation
+// summary: Implements a fake AmbientAnimationStaticResources that stores a Skottie animation, static image assets, and UI settings for tests.
+// relations:
+//   - depends_on /ash/ambient/test/fake_ambient_animation_static_resources.h
+//   - depends_on /base/check.h
+//   - depends_on /base/notreached.h
+// ---
+
 #include "ash/ambient/test/fake_ambient_animation_static_resources.h"
 
 #include <string_view>

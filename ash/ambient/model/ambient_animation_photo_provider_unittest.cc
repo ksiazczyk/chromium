@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AmbientAnimationPhotoProvider unit tests
+// summary: Unit tests covering static and dynamic asset loading, topic rotation across animation cycles, and observer notifications.
+// relations:
+//   - tests /ash/ambient/model/ambient_animation_photo_provider.h
+//   - depends_on /ash/ambient/ambient_ui_settings.h
+//   - depends_on /ash/ambient/model/ambient_animation_photo_config.h
+// ---
+
 #include "ash/ambient/model/ambient_animation_photo_provider.h"
 
 #include <optional>

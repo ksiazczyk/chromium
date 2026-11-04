@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient video view implementation
+// summary: Implements AmbientVideoView, which loops an ambient video by loading an HTML page with a video element in an AshWebView and records session metrics.
+// relations:
+//   - implements /ash/ambient/ui/ambient_video_view.h
+//   - depends_on /ash/ambient/ambient_ui_settings.h
+//   - depends_on /ash/ambient/metrics/ambient_metrics.h
+// ---
+
 #include "ash/ambient/ui/ambient_video_view.h"
 
 #include <string_view>

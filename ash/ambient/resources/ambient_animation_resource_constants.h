@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient animation asset ID constants
+// summary: Defines string constants for the static image assets of the Feel the Breeze and Float on By Lottie animation themes.
+// ---
+
 #ifndef ASH_AMBIENT_RESOURCES_AMBIENT_ANIMATION_RESOURCE_CONSTANTS_H_
 #define ASH_AMBIENT_RESOURCES_AMBIENT_ANIMATION_RESOURCE_CONSTANTS_H_
 
