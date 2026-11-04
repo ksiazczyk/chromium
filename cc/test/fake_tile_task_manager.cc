@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake tile task manager implementation
+// summary: Implements FakeTileTaskManagerImpl, which immediately cancels scheduled tile tasks and completes them on demand during tests.
+// ---
+
 #include "cc/test/fake_tile_task_manager.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake tile manager client implementation
+// summary: Implements FakeTileManagerClient with stubbed tile queue builders and default tile format, color params, and raster settings for tile manager tests.
+// ---
+
 #include "cc/test/fake_tile_manager_client.h"
 
 #include "cc/tiles/tiles_with_resource_iterator.h"

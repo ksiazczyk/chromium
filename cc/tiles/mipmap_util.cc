@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MipMapUtil implementation
+// summary: Implements MipMapUtil helpers that compute mip levels, mip sizes and scale adjustments for scaling images down to a target size.
+// ---
+
 #include "cc/tiles/mipmap_util.h"
 
 #include <algorithm>

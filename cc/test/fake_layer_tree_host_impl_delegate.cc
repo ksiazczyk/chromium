@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeLayerTreeHostImplDelegate implementation
+// summary: Implements the fake layer tree host impl delegate, recording activation, draw, frame sink loss, and invalidation callbacks for tests.
+// ---
+
 #include "cc/test/fake_layer_tree_host_impl_delegate.h"
 
 #include "cc/trees/mutator_host.h"

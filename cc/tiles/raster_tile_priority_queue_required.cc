@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RasterTilePriorityQueueRequired implementation
+// summary: Implements the raster priority queue limited to tiles required for draw or required for activation.
+// ---
+
 #include "cc/tiles/raster_tile_priority_queue_required.h"
 
 #include <utility>

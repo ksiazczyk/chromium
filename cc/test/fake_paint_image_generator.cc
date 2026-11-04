@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakePaintImageGenerator implementation
+// summary: Implements a fake PaintImageGenerator supporting RGB and YUV decoding with forced failure, RGB fallback, and frame decode counting.
+// ---
+
 #include "cc/test/fake_paint_image_generator.h"
 
 #include <array>

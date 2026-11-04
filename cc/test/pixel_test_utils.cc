@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pixel test utilities implementation
+// summary: Implements PNG file reading and writing, bitmap comparison, and HTML diff page generation for cc pixel tests.
+// ---
+
 #include "cc/test/pixel_test_utils.h"
 
 #include <string>

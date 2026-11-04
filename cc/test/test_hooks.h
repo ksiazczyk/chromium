@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestHooks class declaration
+// summary: Declares the TestHooks interface that test stubs override to observe compositor thread events such as commits, activation, drawing and animation.
+// ---
+
 #ifndef CC_TEST_TEST_HOOKS_H_
 #define CC_TEST_TEST_HOOKS_H_
 

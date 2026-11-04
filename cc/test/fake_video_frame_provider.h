@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake video frame provider test double header
+// summary: Declares FakeVideoFrameProvider, a VideoFrameProvider fake that always provides the same video frame and exposes its client and frame counters.
+// ---
+
 #ifndef CC_TEST_FAKE_VIDEO_FRAME_PROVIDER_H_
 #define CC_TEST_FAKE_VIDEO_FRAME_PROVIDER_H_
 

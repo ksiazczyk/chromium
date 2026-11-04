@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestOptionsProvider implementation for paint op serialization tests
+// summary: Implements TestOptionsProvider, a test helper supplying paint op serialize and deserialize options, paint caches, strike server and client, and image decoding for cc paint tests.
+// ---
+
 #include "cc/test/test_options_provider.h"
 
 #include <limits>

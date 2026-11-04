@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lottie test data helpers implementation
+// summary: Builds customized Lottie animation JSON for tests by renaming color nodes, assets and text nodes in predefined Skottie animations.
+// ---
+
 #include "cc/test/lottie_test_data.h"
 
 #include "base/check.h"

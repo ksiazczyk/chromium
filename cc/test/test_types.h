@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header with raster test config types and parameter naming
+// summary: Declares the TestRasterType enum, RasterTestConfig struct, and a helper that joins parameterized test tuple values into labels.
+// ---
+
 #ifndef CC_TEST_TEST_TYPES_H_
 #define CC_TEST_TEST_TYPES_H_
 

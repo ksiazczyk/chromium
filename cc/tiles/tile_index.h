@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tile index struct for tiling grids
+// summary: Defines a TileIndex struct that identifies a tile by zero-based column and row within a tiling, with comparison operators and a hash specialization for container use.
+// ---
+
 #ifndef CC_TILES_TILE_INDEX_H_
 #define CC_TILES_TILE_INDEX_H_
 

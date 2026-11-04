@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Solid color content layer client test helper
+// summary: Declares a ContentLayerClient test double that paints a solid color of a given size with an optional border.
+// ---
+
 #ifndef CC_TEST_SOLID_COLOR_CONTENT_LAYER_CLIENT_H_
 #define CC_TEST_SOLID_COLOR_CONTENT_LAYER_CLIENT_H_
 

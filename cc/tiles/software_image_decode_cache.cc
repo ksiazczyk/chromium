@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SoftwareImageDecodeCache implementation
+// summary: Implements the software image decode cache that decodes, caches, and evicts images for software rasterization under memory limits.
+// ---
+
 #include "cc/tiles/software_image_decode_cache.h"
 
 #include <inttypes.h>

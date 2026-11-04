@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Software image decode cache utilities implementation
+// summary: Implements SoftwareImageDecodeCacheUtils helpers, including cache key computation, subrect caching thresholds, and discardable memory allocation for decoded images.
+// ---
+
 #include "cc/tiles/software_image_decode_cache_utils.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake layer tree frame sink implementation
+// summary: Implements a fake LayerTreeFrameSink that records submitted compositor frames, returns resources, and creates fake layer contexts for compositor tests.
+// ---
+
 #include "cc/test/fake_layer_tree_frame_sink.h"
 
 #include <vector>

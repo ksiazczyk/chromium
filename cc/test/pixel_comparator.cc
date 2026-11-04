@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pixel comparator implementations for bitmap tests
+// summary: Implements exact, Manhattan distance, and fuzzy pixel comparators that compare rendered bitmaps against expected results.
+// ---
+
 #include "cc/test/pixel_comparator.h"
 
 #include <stdint.h>

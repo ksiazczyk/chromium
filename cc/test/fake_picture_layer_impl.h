@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakePictureLayerImpl test double header
+// summary: Declares FakePictureLayerImpl, a test PictureLayerImpl exposing tilings, tile counts, invalidation, and fixed tile size controls for cc unit tests.
+// ---
+
 #ifndef CC_TEST_FAKE_PICTURE_LAYER_IMPL_H_
 #define CC_TEST_FAKE_PICTURE_LAYER_IMPL_H_
 

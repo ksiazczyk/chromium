@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tile implementation
+// summary: Implements the Tile class, covering construction from tiling info, tracing output, GPU memory usage reporting, and release through the tile manager.
+// ---
+
 #include "cc/tiles/tile.h"
 
 #include <algorithm>

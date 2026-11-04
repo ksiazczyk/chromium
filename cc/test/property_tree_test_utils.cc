@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Property tree test utilities implementation
+// summary: Implements helpers that create and manage transform, clip, effect, and scroll property nodes for cc layer tests.
+// ---
+
 #include "cc/test/property_tree_test_utils.h"
 
 #include <memory>

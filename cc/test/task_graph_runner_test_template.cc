@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Task graph runner test base implementation
+// summary: Implements TaskGraphRunnerTestBase helpers to schedule, run, and verify fake tasks and dependencies in task graph runner tests.
+// ---
+
 
 #include "cc/test/task_graph_runner_test_template.h"
 

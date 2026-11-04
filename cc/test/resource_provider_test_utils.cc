@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Resource provider test utilities implementation
+// summary: Implements SendResourceAndGetChildToParentMap, which transfers resources from a child resource provider to a display resource provider and returns the child-to-parent mapping for tests.
+// ---
+
 #include "cc/test/resource_provider_test_utils.h"
 
 #include <unordered_map>

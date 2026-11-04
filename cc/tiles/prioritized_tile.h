@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrioritizedTile class declaration
+// summary: Declares PrioritizedTile, a tile plus its priority, source tiling, and flags for image-only processing and checkered image decoding.
+// ---
+
 #ifndef CC_TILES_PRIORITIZED_TILE_H_
 #define CC_TILES_PRIORITIZED_TILE_H_
 

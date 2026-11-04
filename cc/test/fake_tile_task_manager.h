@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake tile task manager test double header
+// summary: Declares FakeTileTaskManagerImpl, a TileTaskManager test double that cancels all scheduled work instead of running it.
+// ---
+
 #ifndef CC_TEST_FAKE_TILE_TASK_MANAGER_H_
 #define CC_TEST_FAKE_TILE_TASK_MANAGER_H_
 

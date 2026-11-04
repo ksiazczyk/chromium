@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeProxy test double implementation
+// summary: Implements FakeProxy, a mostly no-op Proxy stub that reports started state and returns defaults for commit, deferral, and animation queries in cc tests.
+// ---
+
 #include "cc/test/fake_proxy.h"
 
 #include <memory>

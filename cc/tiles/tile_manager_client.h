@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tile manager client interface
+// summary: Declares the TileManagerClient interface with callbacks for tile readiness and state changes plus methods for building raster and eviction queues and querying raster parameters.
+// ---
+
 #ifndef CC_TILES_TILE_MANAGER_CLIENT_H_
 #define CC_TILES_TILE_MANAGER_CLIENT_H_
 

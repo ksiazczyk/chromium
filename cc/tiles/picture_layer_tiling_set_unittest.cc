@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PictureLayerTilingSet unit tests
+// summary: Unit tests for PictureLayerTilingSet covering tiling ranges, skewport and soon border computation, and updates to new raster sources.
+// ---
+
 #include "cc/tiles/picture_layer_tiling_set.h"
 
 #include <map>

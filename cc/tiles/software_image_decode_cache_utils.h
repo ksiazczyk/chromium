@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Software image decode cache utilities declaration
+// summary: Declares SoftwareImageDecodeCacheUtils with the CacheKey class that uniquely identifies decoded images by frame key, processing type, source rect, and target color parameters.
+// ---
+
 #ifndef CC_TILES_SOFTWARE_IMAGE_DECODE_CACHE_UTILS_H_
 #define CC_TILES_SOFTWARE_IMAGE_DECODE_CACHE_UTILS_H_
 

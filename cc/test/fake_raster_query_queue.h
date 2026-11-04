@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake raster query queue test stub
+// summary: Declares FakeRasterQueryQueue, a no-op implementation of RasterQueryQueue used in compositor tests.
+// ---
+
 #ifndef CC_TEST_FAKE_RASTER_QUERY_QUEUE_H_
 #define CC_TEST_FAKE_RASTER_QUERY_QUEUE_H_
 

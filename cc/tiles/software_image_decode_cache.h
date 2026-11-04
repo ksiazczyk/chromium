@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Software image decode cache class declaration
+// summary: Declares the SoftwareImageDecodeCache class, an ImageDecodeCache implementation for software raster that manages decoded image entries, memory budgeting, and LRU caching.
+// ---
+
 #ifndef CC_TILES_SOFTWARE_IMAGE_DECODE_CACHE_H_
 #define CC_TILES_SOFTWARE_IMAGE_DECODE_CACHE_H_
 

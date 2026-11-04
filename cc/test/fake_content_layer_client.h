@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeContentLayerClient class declaration
+// summary: Declares a fake ContentLayerClient with helpers to queue drawn rects, images, and Skottie data for constructing test display lists.
+// ---
+
 #ifndef CC_TEST_FAKE_CONTENT_LAYER_CLIENT_H_
 #define CC_TEST_FAKE_CONTENT_LAYER_CLIENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Layer tree test base class declaration
+// summary: Declares the LayerTreeTest base class and posting helpers for writing layer tree compositor tests with overridable commit and draw stages.
+// ---
+
 #ifndef CC_TEST_LAYER_TREE_TEST_H_
 #define CC_TEST_LAYER_TREE_TEST_H_
 

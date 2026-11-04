@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake scrollbar layer test helper
+// summary: Defines fake painted and nine-patch thumb scrollbar layers that count update and push-properties calls in tests.
+// ---
+
 #ifndef CC_TEST_FAKE_SCROLLBAR_LAYER_H_
 #define CC_TEST_FAKE_SCROLLBAR_LAYER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stub image decode cache declaration
+// summary: Declares StubDecodeCache, a no-op ImageDecodeCache implementation used as a test double in compositor tests.
+// ---
+
 #ifndef CC_TEST_STUB_DECODE_CACHE_H_
 #define CC_TEST_STUB_DECODE_CACHE_H_
 

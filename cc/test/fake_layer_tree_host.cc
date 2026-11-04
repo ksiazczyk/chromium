@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake layer tree host implementation
+// summary: Implements FakeLayerTreeHost, a test LayerTreeHost that creates fake host impls and supports commits to active or pending trees.
+// ---
+
 #include "cc/test/fake_layer_tree_host.h"
 
 #include <memory>

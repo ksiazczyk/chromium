@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeImplTaskRunnerProvider
+// summary: Declares a fake TaskRunnerProvider that marks the current thread as the impl thread for single-threaded compositor tests.
+// ---
+
 #ifndef CC_TEST_FAKE_IMPL_TASK_RUNNER_PROVIDER_H_
 #define CC_TEST_FAKE_IMPL_TASK_RUNNER_PROVIDER_H_
 

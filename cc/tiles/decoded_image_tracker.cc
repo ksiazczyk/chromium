@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Decoded image tracker implementation
+// summary: Implements DecodedImageTracker, which queues image decodes and keeps decoded images locked for a number of commits or until a timeout expires.
+// ---
+
 #include "cc/tiles/decoded_image_tracker.h"
 
 #include <algorithm>

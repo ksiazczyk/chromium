@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped helper disabling browser controls scroll snap animation in tests
+// summary: Declares a scoped test helper that disables the browser controls scroll snap animation feature so tests can control browser controls position by scrolling.
+// ---
+
 #ifndef CC_TEST_SCOPED_BROWSER_CONTROLS_LINEAR_ANIMATION_H_
 #define CC_TEST_SCOPED_BROWSER_CONTROLS_LINEAR_ANIMATION_H_
 

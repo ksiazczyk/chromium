@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GPU image decode cache performance tests
+// summary: Performance tests measuring GpuImageDecodeCache decode throughput with color conversion and mipmaps using a test raster context provider.
+// ---
+
 #include "cc/tiles/gpu_image_decode_cache.h"
 
 #include <memory>

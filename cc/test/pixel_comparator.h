@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pixel comparator interfaces for cc pixel tests
+// summary: Declares the PixelComparator interface plus exact, Manhattan distance, and fuzzy comparator classes used to compare test bitmaps.
+// ---
+
 #ifndef CC_TEST_PIXEL_COMPARATOR_H_
 #define CC_TEST_PIXEL_COMPARATOR_H_
 

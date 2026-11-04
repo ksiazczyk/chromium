@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Layer test common helper declarations
+// summary: Declares shared layer test helpers such as settings factories, draw property update utilities, quad verification functions, and macros for parameterized commit-mode test suites.
+// ---
+
 #ifndef CC_TEST_LAYER_TEST_COMMON_H_
 #define CC_TEST_LAYER_TEST_COMMON_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Software image decode cache performance test
+// summary: Performance test measuring how quickly software image decode cache keys are generated from draw images across filter qualities, subrects, and scales.
+// ---
+
 #include <vector>
 
 #include "base/timer/lap_timer.h"

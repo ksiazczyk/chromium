@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake layer tree host test helper
+// summary: Declares FakeLayerTreeHost with Create factory methods for building test layer tree hosts with configurable settings and compositor modes.
+// ---
+
 #ifndef CC_TEST_FAKE_LAYER_TREE_HOST_H_
 #define CC_TEST_FAKE_LAYER_TREE_HOST_H_
 

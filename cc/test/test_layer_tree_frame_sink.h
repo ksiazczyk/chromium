@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestLayerTreeFrameSink class declaration
+// summary: Declares TestLayerTreeFrameSink and its client interface, a LayerTreeFrameSink that owns and forwards frames to a Display during tests.
+// ---
+
 #ifndef CC_TEST_TEST_LAYER_TREE_FRAME_SINK_H_
 #define CC_TEST_TEST_LAYER_TREE_FRAME_SINK_H_
 

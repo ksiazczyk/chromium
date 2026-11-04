@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake layer tree frame sink client implementation
+// summary: Implements a fake LayerTreeFrameSinkClient that counts frame acknowledgements and records the begin frame source, memory policy, and hit test data.
+// ---
+
 #include "cc/test/fake_layer_tree_frame_sink_client.h"
 
 #include "cc/trees/layer_tree_frame_sink.h"

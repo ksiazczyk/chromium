@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageController class declaration
+// summary: Declares the controller that converts images to tile decode tasks, queues image decodes on worker threads, and reports decode results via callbacks.
+// ---
+
 #ifndef CC_TILES_IMAGE_CONTROLLER_H_
 #define CC_TILES_IMAGE_CONTROLLER_H_
 

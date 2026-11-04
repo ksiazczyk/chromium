@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stub single-thread layer tree host delegate implementation
+// summary: Implements the StubLayerTreeHostSingleThreadDelegate destructor for the test double.
+// ---
+
 #include "cc/test/stub_layer_tree_host_single_thread_delegate.h"
 
 namespace cc {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake recording source test helper
+// summary: Provides FakeRecordingSource, which lets tests add rects, images, and text draws and rerecord display lists via a fake content layer client.
+// ---
+
 #ifndef CC_TEST_FAKE_RECORDING_SOURCE_H_
 #define CC_TEST_FAKE_RECORDING_SOURCE_H_
 

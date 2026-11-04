@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TilingSetRasterQueueRequired class header
+// summary: Declares TilingSetRasterQueueRequired, a queue that returns only tiles required for activation or draw from a picture layer tiling set.
+// ---
+
 #ifndef CC_TILES_TILING_SET_RASTER_QUEUE_REQUIRED_H_
 #define CC_TILES_TILING_SET_RASTER_QUEUE_REQUIRED_H_
 

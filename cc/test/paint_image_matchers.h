@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gmock matchers for PaintImage comparisons
+// summary: Gmock matchers and PrintTo helpers that compare PaintImage and Skottie frame data in cc unit tests.
+// ---
+
 #ifndef CC_TEST_PAINT_IMAGE_MATCHERS_H_
 #define CC_TEST_PAINT_IMAGE_MATCHERS_H_
 

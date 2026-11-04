@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Checker image tracker implementation
+// summary: Implements CheckerImageTracker, which decides which images may be decoded asynchronously during raster and tracks images to invalidate on the sync tree.
+// ---
+
 #include "cc/tiles/checker_image_tracker.h"
 
 #include <algorithm>

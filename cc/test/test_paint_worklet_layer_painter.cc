@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestPaintWorkletLayerPainter implementation
+// summary: Implements TestPaintWorkletLayerPainter, a fake painter that stores worklet dispatch done callbacks so tests can complete them manually.
+// ---
+
 #include "cc/test/test_paint_worklet_layer_painter.h"
 
 #include "cc/test/skia_common.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cc test suite implementation
+// summary: Implements CCTestSuite, initializing the task environment, GL surface, path provider and discardable memory allocator for cc unit tests.
+// ---
+
 #include "cc/test/cc_test_suite.h"
 
 #include "base/command_line.h"

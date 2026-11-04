@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake tile manager client test double header
+// summary: Declares FakeTileManagerClient, a TileManagerClient stub with no-op notifications and configurable color space for use in tile manager tests.
+// ---
+
 #ifndef CC_TEST_FAKE_TILE_MANAGER_CLIENT_H_
 #define CC_TEST_FAKE_TILE_MANAGER_CLIENT_H_
 

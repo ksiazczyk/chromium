@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tile priority tracing and string helpers
+// summary: Implements string conversion, traced-value serialization, and protozero enum mapping helpers for tile resolution, priority bins, memory limit policies, and tree priority values.
+// ---
+
 #include "cc/tiles/tile_priority.h"
 
 #include "base/numerics/safe_conversions.h"

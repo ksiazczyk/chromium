@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for the test tile task runner
+// summary: Declares the TestTileTaskRunner class with static methods to schedule, run, cancel, and complete a single tile task in tests.
+// ---
+
 #ifndef CC_TEST_TEST_TILE_TASK_RUNNER_H_
 #define CC_TEST_TEST_TILE_TASK_RUNNER_H_
 

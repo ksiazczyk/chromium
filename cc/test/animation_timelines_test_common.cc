@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Animation timelines test support implementation
+// summary: Implements TestLayer and TestHostDelegate, which track mutated properties and host animation timelines for cc animation timeline tests.
+// ---
+
 #include "cc/test/animation_timelines_test_common.h"
 
 #include <utility>

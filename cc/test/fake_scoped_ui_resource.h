@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake scoped UI resource test helper
+// summary: Declares FakeScopedUIResource, a ScopedUIResource fake that tracks resource create and lost counts in tests.
+// ---
+
 #ifndef CC_TEST_FAKE_SCOPED_UI_RESOURCE_H_
 #define CC_TEST_FAKE_SCOPED_UI_RESOURCE_H_
 

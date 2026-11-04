@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Animation timelines test support declarations
+// summary: Declares TestLayer and TestHostDelegate classes used to verify animation timeline property mutations in cc tests.
+// ---
+
 #ifndef CC_TEST_ANIMATION_TIMELINES_TEST_COMMON_H_
 #define CC_TEST_ANIMATION_TIMELINES_TEST_COMMON_H_
 

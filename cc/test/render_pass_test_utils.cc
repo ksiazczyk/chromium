@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Render pass test utilities implementation
+// summary: Implements helpers to add render passes and various draw quads to render pass lists in cc tests.
+// ---
+
 #include "cc/test/render_pass_test_utils.h"
 
 #include <stdint.h>

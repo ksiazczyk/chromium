@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GpuImageDecodeCache class declaration
+// summary: Declares the cache handling image decode and upload for Skia's GPU raster path, with persistent and in-use caches, ref counting, and raster-scale caching.
+// ---
+
 #ifndef CC_TILES_GPU_IMAGE_DECODE_CACHE_H_
 #define CC_TILES_GPU_IMAGE_DECODE_CACHE_H_
 

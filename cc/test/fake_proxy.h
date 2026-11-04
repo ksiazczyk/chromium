@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeProxy test double header
+// summary: Declares FakeProxy, a stub Proxy implementation for exercising layer tree host code without a real compositor in cc tests.
+// ---
+
 #ifndef CC_TEST_FAKE_PROXY_H_
 #define CC_TEST_FAKE_PROXY_H_
 

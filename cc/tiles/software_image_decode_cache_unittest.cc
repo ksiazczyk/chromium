@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Software image decode cache unit tests
+// summary: Unit tests covering SoftwareImageDecodeCache behavior, including decode tasks, cache usage, color conversion, and gainmap image handling.
+// ---
+
 #include "cc/tiles/software_image_decode_cache.h"
 
 #include <memory>

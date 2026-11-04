@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CreateFakeFrameInfo helper declaration
+// summary: Declares CreateFakeFrameInfo, a helper returning a FrameInfo with the desired final state for tests.
+// ---
+
 #ifndef CC_TEST_FAKE_FRAME_INFO_H_
 #define CC_TEST_FAKE_FRAME_INFO_H_
 

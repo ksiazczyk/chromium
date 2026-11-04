@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Perf test runner entry point for cc
+// summary: Main entry point that initializes the cc test suite and runs performance tests serially to avoid distorting measurements with parallel-run randomness.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/test/launcher/unit_test_launcher.h"
 #include "base/test/test_suite.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tiles with resource iterator implementation
+// summary: Implements TilesWithResourceIterator, which walks picture layers, tilings, and tiles to yield each tile that has a resource exactly once.
+// ---
+
 #include "cc/tiles/tiles_with_resource_iterator.h"
 
 #include "base/memory/raw_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tile priority types and enums
+// summary: Defines tile priority types including resolution, priority bins, memory limit policies, tree priority, and the global state that impacts tile prioritization.
+// ---
+
 #ifndef CC_TILES_TILE_PRIORITY_H_
 #define CC_TILES_TILE_PRIORITY_H_
 

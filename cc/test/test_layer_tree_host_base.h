@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestLayerTreeHostBase test fixture declaration
+// summary: Declares the TestLayerTreeHostBase test fixture with helpers for creating trees, layers and frame sinks in compositor tests.
+// ---
+
 #ifndef CC_TEST_TEST_LAYER_TREE_HOST_BASE_H_
 #define CC_TEST_TEST_LAYER_TREE_HOST_BASE_H_
 

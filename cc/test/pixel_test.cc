@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PixelTest base class implementation
+// summary: Implements the PixelTest fixture that runs render passes through software, GL, Vulkan, or Dawn backends and compares output against references.
+// ---
+
 #include "cc/test/pixel_test.h"
 
 #include <memory>

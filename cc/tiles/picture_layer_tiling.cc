@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PictureLayerTiling implementation
+// summary: Implements PictureLayerTiling, managing tile creation, invalidation, raster source updates and tile priority for a picture layer at a given scale.
+// ---
+
 #include "cc/tiles/picture_layer_tiling.h"
 
 #include <stddef.h>

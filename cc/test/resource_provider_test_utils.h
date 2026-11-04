@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Resource provider test utilities header
+// summary: Declares SendResourceAndGetChildToParentMap, a test helper that transfers resources to the parent and returns the child-to-parent resource ID map.
+// ---
+
 #ifndef CC_TEST_RESOURCE_PROVIDER_TEST_UTILS_H_
 #define CC_TEST_RESOURCE_PROVIDER_TEST_UTILS_H_
 

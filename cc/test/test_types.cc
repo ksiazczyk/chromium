@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: gtest PrintTo helpers and raster test config support
+// summary: Implements gtest PrintTo helpers for raster test configs, regions, and main-thread scrolling and hit-test reasons.
+// ---
+
 #include "cc/test/test_types.h"
 
 #include "cc/base/region.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Layer tree pixel test implementation
+// summary: Implements the LayerTreePixelTest base class, setting up frame sinks, output surfaces, copy requests, and readback comparison for compositor pixel tests.
+// ---
+
 #include "cc/test/layer_tree_pixel_test.h"
 
 #include <stddef.h>

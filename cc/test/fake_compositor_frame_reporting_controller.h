@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeCompositorFrameReportingController class declaration
+// summary: Declares a test fake of CompositorFrameReportingController that automatically generates preceding pipeline stages missing during partial-pipeline testing.
+// ---
+
 #ifndef CC_TEST_FAKE_COMPOSITOR_FRAME_REPORTING_CONTROLLER_H_
 #define CC_TEST_FAKE_COMPOSITOR_FRAME_REPORTING_CONTROLLER_H_
 

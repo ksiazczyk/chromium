@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Render pass test utilities header
+// summary: Declares helpers for constructing render passes and quads such as solid color and render pass quads in cc tests.
+// ---
+
 #ifndef CC_TEST_RENDER_PASS_TEST_UTILS_H_
 #define CC_TEST_RENDER_PASS_TEST_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake layer tree frame sink test helper
+// summary: Declares FakeLayerTreeFrameSink with a builder and factory methods for creating fake frame sinks in compositor unit tests.
+// ---
+
 #ifndef CC_TEST_FAKE_LAYER_TREE_FRAME_SINK_H_
 #define CC_TEST_FAKE_LAYER_TREE_FRAME_SINK_H_
 

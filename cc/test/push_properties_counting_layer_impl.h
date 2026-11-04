@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Push properties counting layer impl header
+// summary: Declares the LayerImpl test subclass that counts property pushes to the active tree.
+// ---
+
 #ifndef CC_TEST_PUSH_PROPERTIES_COUNTING_LAYER_IMPL_H_
 #define CC_TEST_PUSH_PROPERTIES_COUNTING_LAYER_IMPL_H_
 

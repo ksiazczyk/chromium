@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tile task manager interface
+// summary: Declares the TileTaskManager interface and its TileTaskManagerImpl wrapper around TaskGraphRunner for scheduling, collecting, and shutting down tile tasks.
+// ---
+
 #ifndef CC_TILES_TILE_TASK_MANAGER_H_
 #define CC_TILES_TILE_TASK_MANAGER_H_
 

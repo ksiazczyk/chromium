@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PixelTest fixture declaration for renderer tests
+// summary: Declares the PixelTest base fixture with RunPixelTest variants and graphics backend setup for cc renderer pixel tests.
+// ---
+
 #ifndef CC_TEST_PIXEL_TEST_H_
 #define CC_TEST_PIXEL_TEST_H_
 

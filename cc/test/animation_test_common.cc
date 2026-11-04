@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Animation test helper implementations
+// summary: Implements fake animation curves and helper functions that add opacity, transform, filter and custom-property animations to targets in cc animation tests.
+// ---
+
 #include "cc/test/animation_test_common.h"
 
 #include <algorithm>

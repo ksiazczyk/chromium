@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Layer tree test framework implementation
+// summary: Implements the LayerTreeTest base class that runs a layer tree host with a live main loop and hooks for driving, tracking and ending compositor tests.
+// ---
+
 #include "cc/test/layer_tree_test.h"
 
 #include <memory>

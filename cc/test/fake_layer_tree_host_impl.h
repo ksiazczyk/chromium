@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeLayerTreeHostImpl for compositor tests
+// summary: Declares a fake LayerTreeHostImpl that lets tests drive prepare-to-draw, pending trees, and tile state changes with controllable behavior.
+// ---
+
 #ifndef CC_TEST_FAKE_LAYER_TREE_HOST_IMPL_H_
 #define CC_TEST_FAKE_LAYER_TREE_HOST_IMPL_H_
 

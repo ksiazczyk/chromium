@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pixel test utilities header
+// summary: Declares helpers to write and read PNG files and to compare bitmaps against reference images in cc pixel tests.
+// ---
+
 #ifndef CC_TEST_PIXEL_TEST_UTILS_H_
 #define CC_TEST_PIXEL_TEST_UTILS_H_
 

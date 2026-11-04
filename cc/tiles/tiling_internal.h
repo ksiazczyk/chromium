@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tiling concepts for coverage iterators
+// summary: Defines the TileLike and Tiling C++ concepts that types must satisfy to be used by the tiling coverage iterators.
+// ---
+
 #ifndef CC_TILES_TILING_INTERNAL_H_
 #define CC_TILES_TILING_INTERNAL_H_
 

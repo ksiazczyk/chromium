@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PictureLayerTiling class and client interface header
+// summary: Declares PictureLayerTiling and its client interface for creating tiles, computing tile sizes and handling invalidation and tile priorities.
+// ---
+
 #ifndef CC_TILES_PICTURE_LAYER_TILING_H_
 #define CC_TILES_PICTURE_LAYER_TILING_H_
 

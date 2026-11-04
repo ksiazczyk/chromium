@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Decoded image tracker header
+// summary: Declares DecodedImageTracker, the main interface for requesting image decodes and locking them across commits or until a timer expires.
+// ---
+
 #ifndef CC_TILES_DECODED_IMAGE_TRACKER_H_
 #define CC_TILES_DECODED_IMAGE_TRACKER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the event metrics test creator
+// summary: Unit tests verifying that the event metrics builders produce correctly configured EventMetrics and scroll metrics objects.
+// ---
+
 #include "cc/test/event_metrics_test_creator.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eviction tile priority queue implementation
+// summary: Implements EvictionTilePriorityQueue, which orders tiles for eviction by priority bin, resolution, occlusion and distance to visible across tiling sets.
+// ---
+
 #include "cc/tiles/eviction_tile_priority_queue.h"
 
 #include "base/memory/raw_ptr.h"

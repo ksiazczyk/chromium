@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Image controller unit tests
+// summary: Tests ImageController decode queueing, ref counting, task completion, and cache limits using stub caches and test task runners.
+// ---
+
 #include "cc/tiles/image_controller.h"
 
 #include <memory>

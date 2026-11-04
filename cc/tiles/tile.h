@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tile class declaration
+// summary: Declares the Tile class holding tiling position, raster transform, draw info, and readiness flags used by the compositor's tile manager.
+// ---
+
 #ifndef CC_TILES_TILE_H_
 #define CC_TILES_TILE_H_
 

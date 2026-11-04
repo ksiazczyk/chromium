@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeCompositorFrameReportingController implementation
+// summary: Implements a fake frame reporting controller that fills in missing compositor pipeline stages so DCHECKs hold when tests exercise only part of the pipeline.
+// ---
+
 #include "cc/test/fake_compositor_frame_reporting_controller.h"
 
 #include <utility>

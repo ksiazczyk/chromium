@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TilingSetRasterQueueAll class header
+// summary: Declares TilingSetRasterQueueAll, a queue that iterates over all tiles needing rasterization from high-resolution tilings, with iterators for visible, pending visible, skewport, soon border, and eventually regions.
+// ---
+
 #ifndef CC_TILES_TILING_SET_RASTER_QUEUE_ALL_H_
 #define CC_TILES_TILING_SET_RASTER_QUEUE_ALL_H_
 

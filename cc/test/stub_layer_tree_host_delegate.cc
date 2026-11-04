@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stub layer tree host delegate implementation
+// summary: Implements StubLayerTreeHostDelegate, returning null begin main frame metrics for tests.
+// ---
+
 #include "cc/test/stub_layer_tree_host_delegate.h"
 
 #include "cc/metrics/begin_main_frame_metrics.h"

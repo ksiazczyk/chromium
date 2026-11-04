@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakePictureLayerTilingClient test double header
+// summary: Declares FakePictureLayerTilingClient, a configurable PictureLayerTilingClient stub used by cc picture layer tiling tests.
+// ---
+
 #ifndef CC_TEST_FAKE_PICTURE_LAYER_TILING_CLIENT_H_
 #define CC_TEST_FAKE_PICTURE_LAYER_TILING_CLIENT_H_
 

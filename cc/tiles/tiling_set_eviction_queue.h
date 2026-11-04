@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tiling set eviction queue declaration
+// summary: Declares TilingSetEvictionQueue, which returns tiles from all tilings in the order they should be evicted, organized by region phases and tiling scale order.
+// ---
+
 #ifndef CC_TILES_TILING_SET_EVICTION_QUEUE_H_
 #define CC_TILES_TILING_SET_EVICTION_QUEUE_H_
 

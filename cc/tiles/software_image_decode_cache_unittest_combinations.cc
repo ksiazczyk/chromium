@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Software image decode cache combination tests
+// summary: Unit tests exercising SoftwareImageDecodeCache across color types and at-raster scenarios to verify cache entry generation and existence.
+// ---
+
 #include "cc/tiles/software_image_decode_cache.h"
 
 #include "base/strings/stringprintf.h"

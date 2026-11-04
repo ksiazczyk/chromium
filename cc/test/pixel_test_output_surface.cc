@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Software output surface for pixel tests
+// summary: Implements a software viz OutputSurface that acknowledges swap buffers and supports readback for cc pixel tests.
+// ---
+
 #include "cc/test/pixel_test_output_surface.h"
 
 #include <utility>

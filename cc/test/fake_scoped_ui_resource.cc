@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake scoped UI resource implementation
+// summary: Implements FakeScopedUIResource with counters for resource creation and loss to support UI resource tests.
+// ---
+
 #include "cc/test/fake_scoped_ui_resource.h"
 
 #include "base/memory/ptr_util.h"
