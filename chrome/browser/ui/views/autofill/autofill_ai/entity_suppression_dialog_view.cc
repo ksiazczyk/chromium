@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Entity suppression dialog implementation
+// summary: Implements a tab-modal dialog that asks the user to confirm that an Autofill AI entity will no longer be suggested, invoking a callback based on the user's choice.
+// ---
+
 #include "chrome/browser/ui/views/autofill/autofill_ai/entity_suppression_dialog_view.h"
 
 #include <memory>

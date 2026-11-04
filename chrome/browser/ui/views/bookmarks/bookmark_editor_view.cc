@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark editor view implementation
+// summary: Implements the dialog for editing a bookmark's URL, title, and parent folder, applying edits to the bookmark model on save.
+// ---
+
 #include "chrome/browser/ui/views/bookmarks/bookmark_editor_view.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark bar menu delegate implementation
+// summary: Implements BookmarkBarMenuDelegate for standalone bookmark bar menus, including overflow start-index updates and close-on-remove behavior.
+// ---
+
 #include "chrome/browser/ui/views/bookmarks/bookmark_bar_menu_delegate.h"
 
 #include "base/check_op.h"

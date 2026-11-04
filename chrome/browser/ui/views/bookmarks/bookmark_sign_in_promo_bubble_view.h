@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkSigninPromoBubbleView header
+// summary: Declares BookmarkSigninPromoBubbleView, a location bar bubble delegate view that displays a sign-in promo from the bookmark bubble.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_BOOKMARKS_BOOKMARK_SIGN_IN_PROMO_BUBBLE_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_BOOKMARKS_BOOKMARK_SIGN_IN_PROMO_BUBBLE_VIEW_H_
 

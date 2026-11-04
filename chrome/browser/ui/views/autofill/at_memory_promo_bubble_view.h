@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: At memory promo bubble view class declaration
+// summary: Declares AtMemoryPromoBubbleView, a location bar bubble implementing custom help bubble UI for the autofill at-memory promo.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_AUTOFILL_AT_MEMORY_PROMO_BUBBLE_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_AUTOFILL_AT_MEMORY_PROMO_BUBBLE_VIEW_H_
 

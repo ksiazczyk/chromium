@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BNPL terms of service desktop view interactive UI test
+// summary: Interactive UI test for the desktop BNPL terms of service dialog, checking that it shows, handles accept and cancel, and logs metrics.
+// ---
+
 #include "chrome/browser/ui/views/autofill/payments/bnpl_tos_view_desktop.h"
 
 #include "base/json/json_reader.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Popup BNPL footnote view implementation
+// summary: Implements the buy-now-pay-later footnote view with styled text and a settings link shown in the autofill popup.
+// ---
+
 #include "chrome/browser/ui/views/autofill/popup/popup_bnpl_footnote_view.h"
 
 #include <memory>

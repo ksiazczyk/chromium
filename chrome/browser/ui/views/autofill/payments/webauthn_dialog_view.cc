@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn dialog view implementation
+// summary: Implements the WebAuthn dialog view for autofill payments, building the authenticator sheet, reacting to dialog state changes, and handling accept and cancel actions.
+// ---
+
 #include "chrome/browser/ui/views/autofill/payments/webauthn_dialog_view.h"
 
 #include "chrome/browser/ui/autofill/payments/webauthn_dialog_controller.h"

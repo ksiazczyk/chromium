@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark bubble view interactive UI tests
+// summary: Interactive browser tests exercising the bookmark bubble flow, such as creating a new bookmark and in-product help promo behavior.
+// ---
+
 #include "chrome/browser/ui/views/bookmarks/bookmark_bubble_view.h"
 
 #include "base/memory/weak_ptr.h"

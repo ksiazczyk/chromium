@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PopupSeparatorView unit tests
+// summary: Unit tests for PopupSeparatorView verifying its never-focus behavior and splitter accessibility role.
+// ---
+
 #include "chrome/browser/ui/views/autofill/popup/popup_separator_view.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark drag and drop views
+// summary: Implements bookmark drag-and-drop support for views, including rendering the drag chip image with icon, title, and count bubble.
+// ---
+
 #include <utility>
 
 #include "base/functional/bind.h"

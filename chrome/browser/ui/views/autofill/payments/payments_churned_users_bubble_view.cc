@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments churned users bubble view implementation
+// summary: Implements the location bar bubble that re-engages churned payments users, with accept and cancel actions, a loading state and treatment-specific imagery.
+// ---
+
 #include "chrome/browser/ui/views/autofill/payments/payments_churned_users_bubble_view.h"
 
 #include <string>

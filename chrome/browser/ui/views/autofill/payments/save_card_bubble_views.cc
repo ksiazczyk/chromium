@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SaveCardBubbleViews implementation
+// summary: Implements the base bubble view for credit card save flows, handling buttons, wallet branding, bubble closing, and controller notifications.
+// ---
+
 #include "chrome/browser/ui/views/autofill/payments/save_card_bubble_views.h"
 
 #include <memory>

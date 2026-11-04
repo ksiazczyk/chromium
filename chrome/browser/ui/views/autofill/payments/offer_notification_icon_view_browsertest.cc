@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Offer notification icon view browser test
+// summary: Browser UI test that verifies the offers and rewards page action icon appears with the correct tooltip for a GPay promo code offer.
+// ---
+
 #include <optional>
 
 #include "chrome/browser/ui/actions/chrome_action_id.h"

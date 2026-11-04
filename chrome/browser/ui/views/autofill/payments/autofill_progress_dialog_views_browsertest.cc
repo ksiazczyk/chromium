@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill progress dialog browser tests
+// summary: Parameterized browser tests that show the autofill progress dialog for various progress UI types and verify metrics and tab-close handling.
+// ---
+
 #include "base/run_loop.h"
 #include "base/strings/strcat.h"
 #include "base/test/metrics/histogram_tester.h"

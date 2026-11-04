@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark context menu implementation
+// summary: Implements the context menu for selected bookmarks, running the menu model with observer support and kiosk-mode handling.
+// ---
+
 #include "chrome/browser/ui/views/bookmarks/bookmark_context_menu.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory bug tracker metadata
+summary: Maps the directory to the Chromium issue tracker component UI>Browser>TopChrome>TabStrip>TabGroups.

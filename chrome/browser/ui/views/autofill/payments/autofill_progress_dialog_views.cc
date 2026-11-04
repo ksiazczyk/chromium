@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill progress dialog views implementation
+// summary: Implements the desktop autofill progress dialog, including the widget-owning wrapper and the throbber view shown during payments processing.
+// ---
+
 #include "chrome/browser/ui/views/autofill/payments/autofill_progress_dialog_views.h"
 
 #include "base/functional/bind.h"

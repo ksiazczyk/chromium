@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AddressEditorView implementation
+// summary: Implements the address editor dialog view with country selection, input fields and form validation.
+// ---
+
 #include "chrome/browser/ui/views/autofill/address_editor_view.h"
 
 #include <stddef.h>

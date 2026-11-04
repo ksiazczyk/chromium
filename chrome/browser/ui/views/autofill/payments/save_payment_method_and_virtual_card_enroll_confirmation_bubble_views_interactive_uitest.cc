@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Save payment method and virtual card enroll confirmation bubble UI test
+// summary: Interactive UI tests for the save payment method and virtual card enrollment confirmation bubble, covering wallet branding feature variations and accessibility behavior.
+// ---
+
 #include "chrome/browser/ui/views/autofill/payments/save_payment_method_and_virtual_card_enroll_confirmation_bubble_views.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Popup row view implementation
+// summary: Implements the selectable popup row with mouse, keyboard, accessibility, and child-suggestion expansion handling.
+// ---
+
 #include "chrome/browser/ui/views/autofill/popup/popup_row_view.h"
 
 #include <memory>

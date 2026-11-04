@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockSelectionDelegate implementation
+// summary: Implements the Googlemock selection delegate used to fake cell selection in autofill popup tests.
+// ---
+
 #include "chrome/browser/ui/views/autofill/popup/mock_selection_delegate.h"
 
 namespace autofill {

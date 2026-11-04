@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Popup centered text view implementation
+// summary: Implements a non-interactive view that displays a centered message with a fixed 48px height in the autofill popup.
+// ---
+
 #include "chrome/browser/ui/views/autofill/popup/popup_centered_text_view.h"
 
 #include "ui/base/metadata/metadata_impl_macros.h"

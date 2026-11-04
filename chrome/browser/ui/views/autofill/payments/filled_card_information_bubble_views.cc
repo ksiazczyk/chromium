@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Filled card information bubble views implementation
+// summary: Implements the desktop location bar bubble that displays information about the credit card filled into a form, including copyable card details.
+// ---
+
 #include "chrome/browser/ui/views/autofill/payments/filled_card_information_bubble_views.h"
 
 #include "base/functional/bind.h"

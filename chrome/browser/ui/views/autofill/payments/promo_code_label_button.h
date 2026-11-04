@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Promo code label button header
+// summary: Declares the label button used to show a merchant promo code in an emphasized format with a copy button icon.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_AUTOFILL_PAYMENTS_PROMO_CODE_LABEL_BUTTON_H_
 #define CHROME_BROWSER_UI_VIEWS_AUTOFILL_PAYMENTS_PROMO_CODE_LABEL_BUTTON_H_
 

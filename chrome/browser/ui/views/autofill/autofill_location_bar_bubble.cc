@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill location bar bubble implementation
+// summary: Implements AutofillLocationBarBubble, providing the IsMouseHovered override for Autofill bubbles anchored to the location bar.
+// ---
+
 #include "chrome/browser/ui/views/autofill/autofill_location_bar_bubble.h"
 
 #include "ui/base/metadata/metadata_impl_macros.h"

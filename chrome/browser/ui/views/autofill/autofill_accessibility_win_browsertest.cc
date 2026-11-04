@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows accessibility browser test for autofill
+// summary: Browser test verifying autofill dropdown accessibility on Windows using UI Automation events, accessibility trees and keyboard interaction.
+// ---
+
 #include <optional>
 
 #include "base/win/scoped_variant.h"

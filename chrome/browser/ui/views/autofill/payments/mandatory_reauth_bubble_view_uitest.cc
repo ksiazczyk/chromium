@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mandatory reauth bubble view UI test
+// summary: UI tests for the mandatory reauth opt-in and confirmation bubbles, checking bubble display, reshowing, and page action icon visibility.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/test/metrics/histogram_tester.h"
 #include "base/test/mock_callback.h"

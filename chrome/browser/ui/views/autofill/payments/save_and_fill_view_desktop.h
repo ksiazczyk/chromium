@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SaveAndFillViewDesktop class header
+// summary: Declares the desktop implementation of the Save and Fill dialog view container, which owns the dialog widget and handles legal message link clicks.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_AUTOFILL_PAYMENTS_SAVE_AND_FILL_VIEW_DESKTOP_H_
 #define CHROME_BROWSER_UI_VIEWS_AUTOFILL_PAYMENTS_SAVE_AND_FILL_VIEW_DESKTOP_H_
 

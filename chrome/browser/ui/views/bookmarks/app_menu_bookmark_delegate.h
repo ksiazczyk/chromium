@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App menu bookmark delegate header
+// summary: Declares AppMenuBookmarkDelegate, which embeds the bookmarks submenu into the app menu with titles and permanent folders.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_BOOKMARKS_APP_MENU_BOOKMARK_DELEGATE_H_
 #define CHROME_BROWSER_UI_VIEWS_BOOKMARKS_APP_MENU_BOOKMARK_DELEGATE_H_
 

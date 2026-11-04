@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SaveCardManageCardsBubbleViews implementation
+// summary: Implements the Manage cards bubble shown after a card is saved, adding a button that links to the Autofill settings page.
+// ---
+
 #include "chrome/browser/ui/views/autofill/payments/save_card_manage_cards_bubble_views.h"
 
 #include <memory>

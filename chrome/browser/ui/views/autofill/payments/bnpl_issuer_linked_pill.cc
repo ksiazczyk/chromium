@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BNPL linked issuer pill implementation
+// summary: Implements BnplLinkedIssuerPill, a label view that renders the linked BNPL issuer pill with styling for the issuer selection dialog and Pay Later tab.
+// ---
+
 #include "chrome/browser/ui/views/autofill/payments/bnpl_issuer_linked_pill.h"
 
 #include "chrome/browser/ui/color/chrome_color_id.h"

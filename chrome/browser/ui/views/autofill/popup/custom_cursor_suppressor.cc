@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom cursor suppressor implementation
+// summary: Implements suppression of oversized custom cursors across active tabs, browser windows and extension hosts while the autofill popup is showing.
+// ---
+
 #include "chrome/browser/ui/views/autofill/popup/custom_cursor_suppressor.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: At memory promo bubble view implementation
+// summary: Implements the at-memory promo bubble anchored to the addresses toolbar button, with learn more and got it buttons for autofill user education.
+// ---
+
 #include "chrome/browser/ui/views/autofill/at_memory_promo_bubble_view.h"
 
 #include "base/functional/bind.h"

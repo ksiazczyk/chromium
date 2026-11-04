@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gmail OTP opt-in bubble view header
+// summary: Declares the GmailOtpOptInBubbleView class, an AutofillLocationBarBubble subclass with element identifiers for its turn on, no thanks and close buttons.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_AUTOFILL_ONE_TIME_TOKENS_GMAIL_OTP_OPT_IN_BUBBLE_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_AUTOFILL_ONE_TIME_TOKENS_GMAIL_OTP_OPT_IN_BUBBLE_VIEW_H_
 

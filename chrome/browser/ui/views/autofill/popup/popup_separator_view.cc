@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PopupSeparatorView implementation
+// summary: Implements PopupSeparatorView, a non-focusable separator drawn between datalist and Autofill suggestion sections of the dropdown.
+// ---
+
 #include "chrome/browser/ui/views/autofill/popup/popup_separator_view.h"
 
 #include "ui/accessibility/ax_enums.mojom.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive UI tests for saved tab group views
+// summary: Interactive browser tests covering the saved tab group bar, buttons, menus and related tab strip interactions.
+// ---
+
 #include <memory>
 #include <optional>
 

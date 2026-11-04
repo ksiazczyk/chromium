@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save address profile bubble view implementation
+// summary: Implements SaveAddressProfileView, the bubble shown when a form is submitted with an unsaved address profile, including the envelope-style address layout.
+// ---
+
 #include "chrome/browser/ui/views/autofill/save_address_profile_view.h"
 
 #include <memory>

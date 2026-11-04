@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update address profile bubble view header
+// summary: Declares UpdateAddressProfileView, the bubble shown when a submitted form's address differs slightly from a previously saved address profile.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_AUTOFILL_UPDATE_ADDRESS_PROFILE_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_AUTOFILL_UPDATE_ADDRESS_PROFILE_VIEW_H_
 

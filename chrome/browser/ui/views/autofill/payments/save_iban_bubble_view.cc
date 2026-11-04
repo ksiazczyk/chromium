@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SaveIbanBubbleView implementation
+// summary: Implements the bubble for saving an IBAN, including nickname input with length limit, wallet branding, legal messages, and upload loading states.
+// ---
+
 #include "chrome/browser/ui/views/autofill/payments/save_iban_bubble_view.h"
 
 #include "base/strings/string_number_conversions.h"

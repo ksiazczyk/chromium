@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark bar view unit tests
+// summary: Unit tests for BookmarkBarView covering button creation, visibility, drag data, and accessibility using a testing profile.
+// ---
+
 #include "chrome/browser/ui/views/bookmarks/bookmark_bar_view.h"
 
 #include <memory>

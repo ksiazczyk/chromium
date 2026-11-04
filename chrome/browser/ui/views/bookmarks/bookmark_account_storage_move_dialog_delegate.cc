@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark account storage move dialog delegate implementation
+// summary: Implements the dialog delegate that closes the move dialog when its source or destination nodes are removed.
+// ---
+
 #include "chrome/browser/ui/views/bookmarks/bookmark_account_storage_move_dialog_delegate.h"
 
 #include "chrome/browser/bookmarks/bookmark_merged_surface_service_factory.h"

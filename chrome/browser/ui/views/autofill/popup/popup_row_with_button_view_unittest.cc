@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PopupRowWithButtonView unit tests
+// summary: Unit tests for PopupRowWithButtonView covering button visibility, focus handling, keyboard events, and accessibility behavior.
+// ---
+
 #include "chrome/browser/ui/views/autofill/popup/popup_row_with_button_view.h"
 
 #include <memory>

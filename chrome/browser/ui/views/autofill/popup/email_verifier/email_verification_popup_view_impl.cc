@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Email verification popup view implementation
+// summary: Implements the Views UI of the email verification popup, laying out the headline, favicon icon, confirm and cancel buttons, and the loading state with a spinner.
+// ---
+
 #include "chrome/browser/ui/views/autofill/popup/email_verifier/email_verification_popup_view_impl.h"
 
 #include <memory>

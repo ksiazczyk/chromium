@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark account storage move dialog implementation
+// summary: Implements dialogs that offer to move bookmarks between local and signed-in account storage, recording UMA metrics.
+// ---
+
 #include "chrome/browser/ui/views/bookmarks/bookmark_account_storage_move_dialog.h"
 
 #include <memory>

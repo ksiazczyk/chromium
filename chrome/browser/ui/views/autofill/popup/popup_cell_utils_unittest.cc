@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Popup cell utilities unit tests
+// summary: Tests icon image models, expandable menu icons and VoiceOver strings for autofill popup suggestion cells.
+// ---
+
 #include "chrome/browser/ui/views/autofill/popup/popup_cell_utils.h"
 
 #include <array>

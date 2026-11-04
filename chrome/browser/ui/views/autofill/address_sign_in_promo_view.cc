@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AddressSignInPromoView implementation
+// summary: Implements the sign-in promo bubble shown after a user accepts the address save or update bubble while signed out.
+// ---
+
 #include "chrome/browser/ui/views/autofill/address_sign_in_promo_view.h"
 
 #include "chrome/browser/signin/signin_promo_util.h"

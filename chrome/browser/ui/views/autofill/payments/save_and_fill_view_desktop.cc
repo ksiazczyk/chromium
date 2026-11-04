@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save and Fill desktop view
+// summary: Creates and shows the Save and Fill dialog via the tab dialog manager and opens clicked legal message links in a new foreground tab.
+// ---
+
 #include "chrome/browser/ui/views/autofill/payments/save_and_fill_view_desktop.h"
 
 #include "base/memory/weak_ptr.h"

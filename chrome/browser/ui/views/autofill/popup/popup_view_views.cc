@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill popup views implementation
+// summary: Implements the Views-based UI for autofill and password suggestion popups, including rows, sub-popups, search bar, and tabbed panes.
+// ---
+
 #include "chrome/browser/ui/views/autofill/popup/popup_view_views.h"
 
 #include <algorithm>

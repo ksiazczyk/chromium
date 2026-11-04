@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BookmarkPageActionController unit tests
+// summary: Unit tests for BookmarkPageActionController verifying star icon updates, visibility handling, and page action execution metrics.
+// ---
+
 #include "chrome/browser/ui/views/bookmarks/bookmark_page_action_controller.h"
 
 #include <string_view>

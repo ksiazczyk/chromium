@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark test utilities implementation
+// summary: Implements SignInAndEnableAccountBookmarkNodes, a test helper that signs in a test account and creates account bookmark permanent folders for a profile.
+// ---
+
 #include "chrome/browser/ui/views/bookmarks/bookmark_test_utils.h"
 
 #include "chrome/browser/bookmarks/bookmark_model_factory.h"

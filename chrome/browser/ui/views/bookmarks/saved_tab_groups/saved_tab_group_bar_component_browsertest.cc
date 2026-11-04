@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Saved tab group bar component browser tests
+// summary: Component browser tests exercising the saved tab group bar and buttons, including accessibility names, tooltips, and context menus.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

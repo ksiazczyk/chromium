@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BNPL issuer selection view implementation
+// summary: Implements BnplIssuerView, which populates and updates the list of available BNPL issuers as selectable buttons in the issuer selection dialog.
+// ---
+
 #include "chrome/browser/ui/views/autofill/payments/bnpl_issuer_view.h"
 
 #include <memory>

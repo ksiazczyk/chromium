@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI bubble utilities implementation
+// summary: Implements helpers that build titles, wallet icons, margins and attribute name/value rows for Autofill AI bubbles.
+// ---
+
 #include "chrome/browser/ui/views/autofill/autofill_ai/autofill_ai_bubble_utils.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill popup view utilities implementation
+// summary: Implements helpers for positioning autofill popups, choosing bubble arrow sides, and checking bounds against visible content areas and open prompts.
+// ---
+
 #include "chrome/browser/ui/views/autofill/popup/popup_view_utils.h"
 
 #include <algorithm>

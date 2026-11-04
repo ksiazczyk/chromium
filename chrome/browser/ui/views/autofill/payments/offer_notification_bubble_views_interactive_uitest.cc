@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Offer notification bubble views interactive UI tests
+// summary: Parameterized interactive UI tests exercising the offer notification bubble for GPay promo code and Wallet direct offers, including promo code copying.
+// ---
+
 #include <string_view>
 #include <vector>
 

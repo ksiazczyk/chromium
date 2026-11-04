@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkPageActionController implementation
+// summary: Implements the per-tab controller that manages the bookmark star page action, updating its visibility and recording how the action was triggered.
+// ---
+
 #include "chrome/browser/ui/views/bookmarks/bookmark_page_action_controller.h"
 
 #include "base/functional/bind.h"

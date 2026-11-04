@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SaveCardOfferBubbleViews implementation
+// summary: Implements the Save credit card offer bubble with cardholder name and expiration inputs, legal messages, and upload loading states.
+// ---
+
 #include "chrome/browser/ui/views/autofill/payments/save_card_offer_bubble_views.h"
 
 #include <memory>

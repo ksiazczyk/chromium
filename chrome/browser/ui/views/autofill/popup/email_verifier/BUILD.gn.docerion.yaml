@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the email verifier views
+summary: GN build file defining the email_verifier source set with its public headers and dependencies, plus the testonly unit_tests target for the popup view.

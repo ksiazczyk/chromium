@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Popup row content view unit tests
+// summary: Unit tests verifying that PopupRowContentView applies the selected dropdown background color via UpdateStyle.
+// ---
+
 #include "chrome/browser/ui/views/autofill/popup/popup_row_content_view.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for autofill payments views
+summary: GN build file defining source sets, public headers and dependencies for the desktop autofill payments views.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Save card bubble browser tests
+// summary: Browser tests covering the save card bubble UI, including sync, metrics, page actions, and behaviors for local and upload card saves.
+// ---
+
 #include "chrome/browser/ui/views/autofill/payments/save_card_bubble_views.h"
 
 #include <memory>

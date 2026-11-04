@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manage saved IBAN bubble view implementation
+// summary: Implements the bubble shown after submitting a form with a saved IBAN, letting users view the IBAN value and nickname.
+// ---
+
 #include "chrome/browser/ui/views/autofill/payments/manage_saved_iban_bubble_view.h"
 
 #include "chrome/browser/ui/dialogs/browser_dialogs.h"

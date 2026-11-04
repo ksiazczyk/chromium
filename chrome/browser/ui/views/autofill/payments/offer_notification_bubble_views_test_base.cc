@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Offer notification bubble views test base
+// summary: Shared test base providing setup, offer data helpers, and an HTTPS test server for offer notification bubble tests.
+// ---
+
 #include "chrome/browser/ui/views/autofill/payments/offer_notification_bubble_views_test_base.h"
 
 #include <string_view>

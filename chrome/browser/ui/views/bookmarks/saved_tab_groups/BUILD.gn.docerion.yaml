@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Saved tab groups views build file
+summary: Defines GN source sets for the saved tab group views, their implementation, and the browser and interactive UI test targets.

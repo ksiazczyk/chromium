@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkSigninPromoBubbleView implementation
+// summary: Implements the location bar bubble view that shows a sign-in promo anchored near the bookmark bubble for a bookmark node.
+// ---
+
 #include "chrome/browser/ui/views/bookmarks/bookmark_sign_in_promo_bubble_view.h"
 
 #include "chrome/browser/signin/signin_promo_util.h"

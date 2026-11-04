@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App menu bookmark delegate implementation
+// summary: Implements the bookmark submenu for the app menu, including title headers and permanent folder entries.
+// ---
+
 #include "chrome/browser/ui/views/bookmarks/app_menu_bookmark_delegate.h"
 
 #include <cstddef>

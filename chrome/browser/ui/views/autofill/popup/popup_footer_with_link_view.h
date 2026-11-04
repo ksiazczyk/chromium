@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Popup footer with link view header
+// summary: Declares a footer view with an embedded settings link and factories for AI disclosure and shortcut settings promo footers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_AUTOFILL_POPUP_POPUP_FOOTER_WITH_LINK_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_AUTOFILL_POPUP_POPUP_FOOTER_WITH_LINK_VIEW_H_
 

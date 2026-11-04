@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PopupLoadingView implementation
+// summary: Implements a loading view that centers a throbber within a size calculated from the expected number of suggestions.
+// ---
+
 #include "chrome/browser/ui/views/autofill/popup/popup_loading_view.h"
 
 #include "chrome/browser/ui/views/autofill/popup/popup_row_content_view.h"

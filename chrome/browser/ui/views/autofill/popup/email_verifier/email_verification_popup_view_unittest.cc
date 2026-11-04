@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Email verification popup view unit tests
+// summary: Unit tests verifying that no button receives initial focus to prevent UI keyjacking and that ShowLoadingState transitions the confirm button into its loading state.
+// ---
+
 #include "chrome/browser/ui/autofill/email_verifier/email_verification_popup_view.h"
 
 #include <memory>

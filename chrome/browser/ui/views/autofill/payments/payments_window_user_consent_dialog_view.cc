@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Payments window user consent dialog view implementation
+// summary: Implements the tab-modal desktop dialog for payments window user consent, mapping dialog close reasons to metrics results and logging when it is shown.
+// ---
+
 #include "chrome/browser/ui/views/autofill/payments/payments_window_user_consent_dialog_view.h"
 
 #include "base/notreached.h"

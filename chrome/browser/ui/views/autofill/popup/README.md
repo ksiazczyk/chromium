@@ -1,3 +1,13 @@
+---
+type: readme
+title: Popups
+summary: Describes the popup class hierarchy for autofill, autocomplete and password popups and explains how to add new popup content.
+relations:
+  - documents /chrome/browser/ui/views/autofill/popup/popup_base_view.h
+  - documents /chrome/browser/ui/views/autofill/popup/popup_view_views.h
+  - documents /chrome/browser/ui/views/autofill/popup/popup_row_view.h
+---
+
 # Popups
 
 The popup classes in this directory are used to display the following types of

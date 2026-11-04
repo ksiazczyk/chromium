@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark bar drag and drop interactive tests
+// summary: Interactive browser tests for dragging and dropping bookmarks on the bookmark bar, including folder menu behavior across platforms.
+// ---
+
 #include "chrome/browser/ui/views/bookmarks/bookmark_bar_view.h"
 
 #include <string>

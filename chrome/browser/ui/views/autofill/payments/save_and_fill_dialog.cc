@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save and Fill dialog implementation
+// summary: Implements the Save and Fill dialog that collects card number, CVC, expiration date and name with validation, legal message links and a pending throbber state.
+// ---
+
 #include "chrome/browser/ui/views/autofill/payments/save_and_fill_dialog.h"
 
 #include "chrome/browser/ui/views/autofill/payments/payments_view_util.h"

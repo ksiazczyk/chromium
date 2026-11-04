@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PopupSeparatorView class header
+// summary: Declares PopupSeparatorView, a view that draws a separator between dropdown sections such as datalist and Autofill suggestions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_AUTOFILL_POPUP_POPUP_SEPARATOR_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_AUTOFILL_POPUP_POPUP_SEPARATOR_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill payments dialog view IDs
+// summary: Defines an enumeration of view IDs that uniquely identify views within credit-card-related autofill bubbles and dialogs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_AUTOFILL_PAYMENTS_DIALOG_VIEW_IDS_H_
 #define CHROME_BROWSER_UI_VIEWS_AUTOFILL_PAYMENTS_DIALOG_VIEW_IDS_H_
 

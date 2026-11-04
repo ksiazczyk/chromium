@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI local save notification view implementation
+// summary: Implements the bubble informing users that their Autofill AI data was saved locally after an upload request failed.
+// ---
+
 #include "chrome/browser/ui/views/autofill/autofill_ai/autofill_ai_local_save_notification_view.h"
 
 #include "chrome/browser/ui/autofill/autofill_ai/autofill_ai_import_data_controller.h"

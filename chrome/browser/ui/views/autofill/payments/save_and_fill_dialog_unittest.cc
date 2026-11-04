@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Save and Fill dialog unit test
+// summary: Unit test that verifies the initial state and input validation behavior of the Save and Fill dialog fields.
+// ---
+
 #include "chrome/browser/ui/views/autofill/payments/save_and_fill_dialog.h"
 
 #include <memory>

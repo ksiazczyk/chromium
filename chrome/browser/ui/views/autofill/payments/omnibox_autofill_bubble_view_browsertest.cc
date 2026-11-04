@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Omnibox autofill bubble view browser test
+// summary: In-process browser tests that show and verify the omnibox autofill bubble and its suggestion rows when the omnibox autofill feature is enabled.
+// ---
+
 #include "chrome/browser/ui/views/autofill/payments/omnibox_autofill_bubble_view.h"
 
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password favicon loader implementation
+// summary: Implements loading and caching of website favicons for password suggestions via the large icon service and image fetcher.
+// ---
+
 #include "chrome/browser/ui/views/autofill/popup/password_favicon_loader.h"
 
 #include "base/functional/bind.h"

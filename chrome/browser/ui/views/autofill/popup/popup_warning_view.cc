@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Popup warning view implementation
+// summary: Implements a red high-severity warning label view shown inside autofill popups, with accessible static text role.
+// ---
+
 #include "chrome/browser/ui/views/autofill/popup/popup_warning_view.h"
 
 #include <memory>

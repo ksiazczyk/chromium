@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Credit card access manager browser test
+// summary: Browser test verifying that the unmasked credit card cache is reset when navigating away from a page.
+// ---
+
 #include "components/autofill/core/browser/payments/credit_card_access_manager.h"
 
 #include "chrome/browser/autofill/autofill_uitest_util.h"

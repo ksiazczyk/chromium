@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared tab group interactive UI tests
+// summary: Interactive UI tests for shared tab groups covering data sharing, collaboration messaging, bookmark bar interactions and recall and manage desktop metrics.
+// ---
+
 #include "base/test/metrics/histogram_tester.h"
 #include "chrome/browser/collaboration/messaging/messaging_backend_service_factory.h"
 #include "chrome/browser/data_sharing/data_sharing_service_factory.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill AI import data bubble view header
+// summary: Declares the bubble view class that prompts users to save or update Autofill AI entities, including a loading state.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_AUTOFILL_AUTOFILL_AI_AUTOFILL_AI_IMPORT_DATA_BUBBLE_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_AUTOFILL_AUTOFILL_AI_AUTOFILL_AI_IMPORT_DATA_BUBBLE_VIEW_H_
 

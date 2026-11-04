@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update address profile bubble view implementation
+// summary: Implements UpdateAddressProfileView, the bubble that presents old and new values when an existing address profile is updated.
+// ---
+
 #include "chrome/browser/ui/views/autofill/update_address_profile_view.h"
 
 #include <algorithm>

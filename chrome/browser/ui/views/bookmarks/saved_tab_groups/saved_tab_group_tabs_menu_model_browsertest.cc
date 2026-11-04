@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Saved tab group tabs menu model browser tests
+// summary: Browser tests for the saved tab group tabs menu model, verifying menu item presence, enablement and metrics such as open group, close group and pin actions.
+// ---
+
 #include "chrome/browser/ui/views/bookmarks/saved_tab_groups/saved_tab_group_tabs_menu_model.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delete address profile dialog view implementation
+// summary: Implements ShowDeleteAddressProfileDialogView, which builds and shows a tab-modal dialog confirming deletion of a saved address profile.
+// ---
+
 #include "chrome/browser/ui/autofill/delete_address_profile_dialog_view.h"
 
 #include "base/memory/weak_ptr.h"

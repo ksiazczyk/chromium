@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkMenuController implementation
+// summary: Implements BookmarkMenuController, which runs a menu of bookmarks for a folder from the bookmark bar and forwards menu behavior to BookmarkBarMenuDelegate.
+// ---
+
 #include "chrome/browser/ui/views/bookmarks/bookmark_menu_controller_views.h"
 
 #include <memory>

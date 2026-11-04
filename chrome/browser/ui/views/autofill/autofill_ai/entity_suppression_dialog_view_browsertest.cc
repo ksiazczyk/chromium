@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Entity suppression dialog browser tests
+// summary: Browser tests verifying the entity suppression dialog's UI and that its callback runs with true on accept and false on cancel or close.
+// ---
+
 #include "chrome/browser/ui/views/autofill/autofill_ai/entity_suppression_dialog_view.h"
 
 #include <string>

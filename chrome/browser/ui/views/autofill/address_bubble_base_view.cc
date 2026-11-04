@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AddressBubbleBaseView implementation
+// summary: Implements the AddressBubbleBaseView metadata registration for the shared address bubble view.
+// ---
+
 #include "chrome/browser/ui/views/autofill/address_bubble_base_view.h"
 
 #include "ui/base/metadata/metadata_impl_macros.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PopupBaseView browser tests
+// summary: In-process browser tests for the popup base view covering showing, hiding and accessibility behavior.
+// ---
+
 #include "chrome/browser/ui/views/autofill/popup/popup_base_view.h"
 
 #include <utility>

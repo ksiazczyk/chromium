@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BNPL footnote view for the autofill popup
+// summary: Declares the view that renders the Buy Now, Pay Later privacy and legal footnote with a settings link in the autofill popup.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_AUTOFILL_POPUP_POPUP_BNPL_FOOTNOTE_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_AUTOFILL_POPUP_POPUP_BNPL_FOOTNOTE_VIEW_H_
 

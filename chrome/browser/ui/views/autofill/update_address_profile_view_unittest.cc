@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the update address profile bubble view
+// summary: Unit tests for UpdateAddressProfileView using a mocked update address bubble controller and test profiles to verify bubble behavior.
+// ---
+
 #include "chrome/browser/ui/views/autofill/update_address_profile_view.h"
 
 #include <utility>

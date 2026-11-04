@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark bubble view implementation
+// summary: Implements the bubble dialog for bookmarked pages, letting users edit the bookmark name and folder, unstar, and handling commerce and promo features.
+// ---
+
 #include "chrome/browser/ui/views/bookmarks/bookmark_bubble_view.h"
 
 #include <vector>

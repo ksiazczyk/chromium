@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Email verification popup view class declaration
+// summary: Declares EmailVerificationPopupViewImpl, the Views implementation of EmailVerificationPopupView, with show, hide, loading state, favicon handling, and test accessors.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_AUTOFILL_POPUP_EMAIL_VERIFIER_EMAIL_VERIFICATION_POPUP_VIEW_IMPL_H_
 #define CHROME_BROWSER_UI_VIEWS_AUTOFILL_POPUP_EMAIL_VERIFIER_EMAIL_VERIFICATION_POPUP_VIEW_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill field promo view implementation
+// summary: Implements the field promo view that positions a promo below a form element in the web contents and handles picture-in-picture overlap.
+// ---
+
 #include "chrome/browser/ui/views/autofill/autofill_field_promo_view_impl.h"
 
 #include "base/check_deref.h"

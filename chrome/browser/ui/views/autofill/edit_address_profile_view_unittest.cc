@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Edit address profile view unit tests
+// summary: Unit tests for EditAddressProfileView that use a mock dialog controller to exercise the edit address profile dialog behavior.
+// ---
+
 #include "chrome/browser/ui/views/autofill/edit_address_profile_view.h"
 
 #include <memory>
