@@ -1,0 +1,4 @@
+# Docerion header of IDS_WEBAUTHN_HIDE_PIN.png.sha1.
+type: data
+title: SHA-1 hash for IDS_WEBAUTHN_HIDE_PIN.png
+summary: Stores the SHA-1 hash of the PNG image for the WebAuthn hide PIN label string in the generated resources.
