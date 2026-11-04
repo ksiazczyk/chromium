@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Implementation of the ChromeSitePerProcessTest base class
+// summary: Implements the shared browser test fixture that enables site-per-process, sets up the embedded test server, and configures host resolution.
+// ---
+
 #include "chrome_site_per_process_test.h"
 
 #include "base/check.h"

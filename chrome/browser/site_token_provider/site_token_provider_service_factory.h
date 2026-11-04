@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site token provider service factory
+// summary: Declares the profile-keyed service factory singleton that creates and owns SiteTokenProviderService instances per profile.
+// ---
+
 #ifndef CHROME_BROWSER_SITE_TOKEN_PROVIDER_SITE_TOKEN_PROVIDER_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_SITE_TOKEN_PROVIDER_SITE_TOKEN_PROVIDER_SERVICE_FACTORY_H_
 

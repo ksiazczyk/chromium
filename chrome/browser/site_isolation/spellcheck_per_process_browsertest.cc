@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spellcheck per process browser tests
+// summary: Browser tests checking that spellcheck Mojo SpellCheckHost messages work correctly with out-of-process iframes and per-process spellcheck hosts.
+// ---
+
 #include <utility>
 #include <vector>
 

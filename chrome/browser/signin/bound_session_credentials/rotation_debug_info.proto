@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: data
+// title: Rotation debug info protobuf messages
+// summary: Protobuf message describing failed cookie rotation attempts, including transient failure types, failure counters, and session termination reasons, attached to rotation requests.
+// ---
+
 syntax = "proto2";
 
 // Required in Chrome.

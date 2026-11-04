@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BoundSessionRefreshCookieFetcherImpl
+// summary: Unit tests covering cookie rotation requests, challenge header parsing, binding key assertions and refresh result reporting.
+// ---
+
 #include "chrome/browser/signin/bound_session_credentials/bound_session_refresh_cookie_fetcher_impl.h"
 
 #include <memory>

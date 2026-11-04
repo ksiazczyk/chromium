@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site token URL loader factory implementation
+// summary: Implements the URLLoaderFactory for the chrome-experimental-site-token-provider scheme that validates requests and serves domain-bound tokens.
+// ---
+
 #include "chrome/browser/site_token_provider/site_token_url_loader_factory.h"
 
 #include <memory>

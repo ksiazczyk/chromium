@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart card reader tracker implementation header
+// summary: Declares SmartCardReaderTrackerImpl and its internal state machine classes, reader cache, and pending request queue.
+// ---
+
 #ifndef CHROME_BROWSER_SMART_CARD_SMART_CARD_READER_TRACKER_IMPL_H_
 #define CHROME_BROWSER_SMART_CARD_SMART_CARD_READER_TRACKER_IMPL_H_
 

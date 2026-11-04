@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skills update observer unit tests
+// summary: Unit tests for SkillsUpdateObserver using a mock Optimization Guide service and tab interface to verify contextual skill handling across navigations.
+// ---
+
 #include "chrome/browser/skills/skills_update_observer.h"
 
 #include "base/test/scoped_feature_list.h"

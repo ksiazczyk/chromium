@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site token header client interface
+// summary: Declares SiteTokenHeaderClient, a TrustedHeaderClient that injects secure site tokens and supports chaining with other header clients.
+// ---
+
 #ifndef CHROME_BROWSER_SITE_TOKEN_PROVIDER_SITE_TOKEN_HEADER_CLIENT_H_
 #define CHROME_BROWSER_SITE_TOKEN_PROVIDER_SITE_TOKEN_HEADER_CLIENT_H_
 

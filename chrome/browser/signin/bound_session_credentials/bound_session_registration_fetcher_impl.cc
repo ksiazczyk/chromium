@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bound session registration fetcher implementation
+// summary: Implements the network request to the DBSC registration endpoint, generating registration tokens and parsing registration responses.
+// ---
+
 #include "chrome/browser/signin/bound_session_credentials/bound_session_registration_fetcher_impl.h"
 
 #include <optional>

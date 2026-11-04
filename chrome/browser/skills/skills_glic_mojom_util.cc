@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skills Glic Mojom conversion utilities
+// summary: Converts skill data between sync protobuf and Glic Mojom types and builds skill preview structs for the UI.
+// ---
+
 #include "chrome/browser/skills/skills_glic_mojom_util.h"
 
 #include <optional>

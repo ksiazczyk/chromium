@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: COMMON_METADATA for single_tab
+summary: 'Declares the bug tracking components for the single_tab directory: monorail component UI>Browser>Mobile>Start and public buganizer component 1457473.'

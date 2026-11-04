@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Single tab thumbnail background drawable
+summary: Android shape drawable that draws the single tab thumbnail placeholder background with a divider-colored stroke and rounded corners.
+-->
+
 <shape xmlns:android="http://schemas.android.com/apk/res/android">
   <solid android:color="@color/thumbnail_placeholder_on_primary_bg"/>
   <stroke

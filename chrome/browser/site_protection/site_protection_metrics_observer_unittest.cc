@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site protection metrics observer unit tests
+// summary: Unit tests for SiteProtectionMetricsObserver, using mock Safe Browsing, history, and UKM test infrastructure to verify familiarity heuristic metrics.
+// ---
+
 #include "chrome/browser/site_protection/site_protection_metrics_observer.h"
 
 #include "base/base_switches.h"

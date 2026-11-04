@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in e2e test utility header
+// summary: Declares the SignInFunctions class, sync choice enum, and identity, sync, and reconcilor accessor helpers for sign-in end-to-end tests.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_E2E_TESTS_SIGNIN_UTIL_H_
 #define CHROME_BROWSER_SIGNIN_E2E_TESTS_SIGNIN_UTIL_H_
 

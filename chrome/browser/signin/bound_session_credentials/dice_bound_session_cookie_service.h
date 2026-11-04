@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dice bound session cookie service header
+// summary: Declares DiceBoundSessionCookieService, a keyed service that expires bound cookies when sessions terminate and triggers cookie jar updates for Dice profiles.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_BOUND_SESSION_CREDENTIALS_DICE_BOUND_SESSION_COOKIE_SERVICE_H_
 #define CHROME_BROWSER_SIGNIN_BOUND_SESSION_CREDENTIALS_DICE_BOUND_SESSION_COOKIE_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart card reader tracker factory header
+// summary: Declares SmartCardReaderTrackerFactory, the profile-keyed service factory providing SmartCardReaderTracker instances.
+// ---
+
 #ifndef CHROME_BROWSER_SMART_CARD_SMART_CARD_READER_TRACKER_FACTORY_H_
 #define CHROME_BROWSER_SMART_CARD_SMART_CARD_READER_TRACKER_FACTORY_H_
 

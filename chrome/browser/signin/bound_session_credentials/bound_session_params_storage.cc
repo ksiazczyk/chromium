@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bound session parameters storage implementation
+// summary: Implements prefs-backed storage for bound session parameters with read and write error handling and metrics.
+// ---
+
 #include "chrome/browser/signin/bound_session_credentials/bound_session_params_storage.h"
 
 #include <optional>

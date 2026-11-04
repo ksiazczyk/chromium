@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skills interactive UI test base implementation
+// summary: Implements shared steps for Skills interactive UI tests, such as waiting for dialog elements, seeding skills, and checking toasts.
+// ---
+
 #include "chrome/browser/skills/skills_interactive_uitest_base.h"
 
 #include <inttypes.h>

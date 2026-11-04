@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unexportable key obsolete profile garbage collector class declaration
+// summary: Declares a ProfileManagerObserver that garbage-collects unexportable keys belonging to permanently deleted profiles.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_BOUND_SESSION_CREDENTIALS_UNEXPORTABLE_KEY_OBSOLETE_PROFILE_GARBAGE_COLLECTOR_H_
 #define CHROME_BROWSER_SIGNIN_BOUND_SESSION_CREDENTIALS_UNEXPORTABLE_KEY_OBSOLETE_PROFILE_GARBAGE_COLLECTOR_H_
 

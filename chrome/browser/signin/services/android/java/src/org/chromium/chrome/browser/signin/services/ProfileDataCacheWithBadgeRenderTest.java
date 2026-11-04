@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProfileDataCache badge render tests
+// summary: Render tests verifying ProfileDataCache avatars drawn with badges across account data source configurations.
+// ---
+
 package org.chromium.chrome.browser.signin.services;
 
 import android.app.Activity;

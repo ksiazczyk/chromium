@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site token URL loader factory
+// summary: Declares the URLLoaderFactory that intercepts renderer subresource requests and returns domain-bound site tokens with appropriate headers.
+// ---
+
 #ifndef CHROME_BROWSER_SITE_TOKEN_PROVIDER_SITE_TOKEN_URL_LOADER_FACTORY_H_
 #define CHROME_BROWSER_SITE_TOKEN_PROVIDER_SITE_TOKEN_URL_LOADER_FACTORY_H_
 

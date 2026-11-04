@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for site protection
+summary: Points to the shared safe browsing directory metadata mixins for this folder.

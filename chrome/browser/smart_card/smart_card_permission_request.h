@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart card permission request header
+// summary: Declares SmartCardPermissionRequest, a permissions::PermissionRequest subclass that carries the reader name and reports the permission decision via callback.
+// ---
+
 #ifndef CHROME_BROWSER_SMART_CARD_SMART_CARD_PERMISSION_REQUEST_H_
 #define CHROME_BROWSER_SMART_CARD_SMART_CARD_PERMISSION_REQUEST_H_
 

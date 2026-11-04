@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build configuration for sign-in e2e tests
+summary: Defines the test_support static library and the browser_tests target for Chrome sign-in end-to-end tests, including their sources and dependencies.

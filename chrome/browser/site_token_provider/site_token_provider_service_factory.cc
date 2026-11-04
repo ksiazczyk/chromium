@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site token provider service factory
+// summary: Profile-keyed service factory that builds SiteTokenProviderService for regular profiles, skipping incognito, guest, and feature-disabled cases.
+// ---
+
 #include "chrome/browser/site_token_provider/site_token_provider_service_factory.h"
 
 #include "chrome/browser/profiles/profile.h"

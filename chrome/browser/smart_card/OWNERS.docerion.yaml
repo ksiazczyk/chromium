@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Smart card directory owners
+summary: Delegates ownership review to the Blink smart card module OWNERS file.

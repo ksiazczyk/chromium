@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site isolation preferences observer implementation
+// summary: Applies the IsolateOrigins pref and enterprise policy by listening for pref changes and registering future isolated origins with ChildProcessSecurityPolicy.
+// ---
+
 #include "chrome/browser/site_isolation/prefs_observer.h"
 
 #include <string>

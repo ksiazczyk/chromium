@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site protection metrics observer header
+// summary: Declares SiteProtectionMetricsObserver, which logs metrics on site familiarity heuristics used to decide when Chromium should enable extra protections.
+// ---
+
 #ifndef CHROME_BROWSER_SITE_PROTECTION_SITE_PROTECTION_METRICS_OBSERVER_H_
 #define CHROME_BROWSER_SITE_PROTECTION_SITE_PROTECTION_METRICS_OBSERVER_H_
 

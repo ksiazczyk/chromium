@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Single tab view binder
+// summary: Binds single tab property model changes to the view, handling click listeners, favicon, thumbnail, visibility, title, URL, and lateral margins.
+// ---
+
 package org.chromium.chrome.browser.single_tab;
 
 import static org.chromium.chrome.browser.single_tab.SingleTabViewProperties.CLICK_LISTENER;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site familiarity process selection deferring condition header
+// summary: Declares the condition that defers process selection while site familiarity is being computed.
+// ---
+
 #ifndef CHROME_BROWSER_SITE_PROTECTION_SITE_FAMILIARITY_PROCESS_SELECTION_DEFERRING_CONDITION_H_
 #define CHROME_BROWSER_SITE_PROTECTION_SITE_FAMILIARITY_PROCESS_SELECTION_DEFERRING_CONDITION_H_
 

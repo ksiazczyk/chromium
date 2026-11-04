@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bound session cookie refresh service factory implementation
+// summary: Implements the profile-keyed factory that builds the bound session cookie refresh service, gated by feature flags, policies and account consistency mode.
+// ---
+
 #include "chrome/browser/signin/bound_session_credentials/bound_session_cookie_refresh_service_factory.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Skills directory owners
+summary: Delegates code review ownership for the directory to the owners list of components/skills.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skills API functional browser tests
+// summary: Functional browser tests for the skills JavaScript API, covering getSkill lookups, error cases and V2 update-skill dialog behavior.
+// ---
+
 #include "base/test/gmock_expected_support.h"
 #include "base/test/metrics/histogram_tester.h"
 #include "base/test/scoped_feature_list.h"

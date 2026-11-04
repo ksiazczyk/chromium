@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Chrome site isolation policy
+// summary: Unit tests verifying Chrome's site isolation policy behavior, including memory thresholds and origin-keyed process settings.
+// ---
+
 #include "base/base_switches.h"
 #include "base/byte_size.h"
 #include "base/command_line.h"

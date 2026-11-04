@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise skills provider browser tests
+// summary: Browser tests verifying enterprise published skills loading over HTTPS, including client certificate handling and YAML frontmatter validation.
+// ---
+
 #include "components/skills/internal/enterprise_skills_provider.h"
 
 #include "base/memory/scoped_refptr.h"

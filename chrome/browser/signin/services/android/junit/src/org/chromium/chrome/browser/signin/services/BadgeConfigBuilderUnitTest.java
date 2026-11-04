@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BadgeConfigBuilderUnitTest
+// summary: Unit tests for BadgeConfig and its Builder, verifying default child account badge sizing, toolbar identity disc configuration, and custom badge dimension values.
+// ---
+
 package org.chromium.chrome.browser.signin.services;
 
 import org.junit.Assert;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'SigninManagerImplTest: integration tests for SigninManagerImpl'
+// summary: Integration tests for SigninManagerImpl that initialize the native service and exercise sign-in, sign-out, and preference-related behavior.
+// ---
+
 package org.chromium.chrome.browser.signin.services;
 
 import static org.junit.Assert.assertEquals;

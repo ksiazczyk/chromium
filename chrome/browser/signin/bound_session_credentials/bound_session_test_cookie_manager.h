@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bound session test cookie manager header
+// summary: Declares BoundSessionTestCookieManager, a test double of the network cookie manager used to simulate cookies and listeners in bound session tests.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_BOUND_SESSION_CREDENTIALS_BOUND_SESSION_TEST_COOKIE_MANAGER_H_
 #define CHROME_BROWSER_SIGNIN_BOUND_SESSION_CREDENTIALS_BOUND_SESSION_TEST_COOKIE_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skills dialog launcher header
+// summary: Declares SkillsDialogLauncher, a self-deleting helper that launches the skills dialog after a tab's initial navigation completes.
+// ---
+
 #ifndef CHROME_BROWSER_SKILLS_SKILLS_DIALOG_LAUNCHER_H_
 #define CHROME_BROWSER_SKILLS_SKILLS_DIALOG_LAUNCHER_H_
 

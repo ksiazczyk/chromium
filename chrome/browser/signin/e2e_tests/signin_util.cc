@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in e2e test utility implementation
+// summary: Implements the SignInFunctions helper class and accessors that drive sign-in and sign-out flows in Chromium browser end-to-end tests.
+// ---
+
 #include "chrome/browser/signin/e2e_tests/signin_util.h"
 
 #include "base/strings/stringprintf.h"

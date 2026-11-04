@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bound session refresh cookie debug report fetcher implementation
+// summary: Implements a stripped-down cookie refresh fetcher that sends a rotation request with a serialized debug info header and ignores the response.
+// ---
+
 #include "chrome/browser/signin/bound_session_credentials/bound_session_refresh_cookie_debug_report_fetcher.h"
 
 #include <optional>

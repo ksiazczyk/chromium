@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS smart card delegate implementation
+// summary: Implements the content smart card delegate with permission checks, reconnection timing based on window focus, and per-frame emulation factory support.
+// ---
+
 #include "chrome/browser/smart_card/chromeos_smart_card_delegate.h"
 
 #include "base/check.h"

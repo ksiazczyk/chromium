@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart card permission request implementation
+// summary: Implements the browser permission request for smart card reader access, including prompt texts, allow/block labels, and duplicate detection by reader name.
+// ---
+
 #include "chrome/browser/smart_card/smart_card_permission_request.h"
 
 #include <variant>

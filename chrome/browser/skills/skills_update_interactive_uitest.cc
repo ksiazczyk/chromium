@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skills update interactive UI tests
+// summary: Interactive browser tests covering the manage and browse skills UI entry points and updating or cancelling edits to user-created skills via the skills dialog.
+// ---
+
 #include "chrome/browser/skills/skills_interactive_uitest_base.h"
 #include "chrome/browser/ui/tabs/tab_strip_model.h"
 #include "chrome/browser/ui/webui/skills/skills_dialog_view.h"

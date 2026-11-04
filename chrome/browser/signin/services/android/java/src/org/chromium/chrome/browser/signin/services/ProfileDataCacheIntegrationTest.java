@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProfileDataCache integration tests
+// summary: Integration tests verifying real-world ProfileDataCache behavior with real IdentityManager implementations and varying account lists.
+// ---
+
 package org.chromium.chrome.browser.signin.services;
 
 import static org.hamcrest.Matchers.hasItem;

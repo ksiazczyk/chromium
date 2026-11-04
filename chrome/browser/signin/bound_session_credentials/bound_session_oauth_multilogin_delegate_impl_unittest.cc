@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bound session OAuth multilogin delegate unit tests
+// summary: Unit tests for the OAuth multilogin delegate covering session registration, wrapped key handling and histogram metrics.
+// ---
+
 #include "chrome/browser/signin/bound_session_credentials/bound_session_oauth_multilogin_delegate_impl.h"
 
 #include "base/strings/strcat.h"

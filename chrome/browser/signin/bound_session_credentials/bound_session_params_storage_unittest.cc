@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bound session parameters storage unit tests
+// summary: Unit tests for bound session parameter storage in regular and off-the-record profiles, including cleanup of invalid entries.
+// ---
+
 #include "chrome/browser/signin/bound_session_credentials/bound_session_params_storage.h"
 
 #include <optional>

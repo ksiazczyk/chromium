@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Android sign-in services
+summary: GN build file defining the Android sign-in services Java library, its JNI header generation, resources, and dependencies.

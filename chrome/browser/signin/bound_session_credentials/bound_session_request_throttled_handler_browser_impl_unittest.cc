@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Throttled request handler tests
+// summary: Unit tests for the browser-side throttled request handler covering resume behavior with a live refresh service and cancellation when the service is destroyed.
+// ---
+
 #include "chrome/browser/signin/bound_session_credentials/bound_session_request_throttled_handler_browser_impl.h"
 
 #include <memory>

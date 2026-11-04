@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skills UI tab controller header
+// summary: Declares SkillsUiTabController, which manages the skills dialog for a tab, including skill invocation, dialog lifecycle, and testing hooks.
+// ---
+
 #ifndef CHROME_BROWSER_SKILLS_SKILLS_UI_TAB_CONTROLLER_H_
 #define CHROME_BROWSER_SKILLS_SKILLS_UI_TAB_CONTROLLER_H_
 

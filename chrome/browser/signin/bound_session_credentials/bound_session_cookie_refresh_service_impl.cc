@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bound session cookie refresh service implementation
+// summary: Implements the service that maintains bound sessions, handles session termination headers, cookie rotation and request throttling parameters.
+// ---
+
 #include "chrome/browser/signin/bound_session_credentials/bound_session_cookie_refresh_service_impl.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bound session registration fetcher parameter parsing
+// summary: Implements parsing of the Sec-Session-Google-Registration-List response header into registration fetcher parameters with endpoint, algorithms, and challenge.
+// ---
+
 #include "chrome/browser/signin/bound_session_credentials/bound_session_registration_fetcher_param.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session binding helper unit tests
+// summary: Unit tests for SessionBindingHelper covering binding key loading and generation of binding key assertions using a fake unexportable key provider.
+// ---
+
 #include "chrome/browser/signin/bound_session_credentials/session_binding_helper.h"
 
 #include <string>

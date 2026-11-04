@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skills UI tab controller unit tests
+// summary: Unit tests for SkillsUiTabController using mock tab, profile, and Glic service objects to exercise dialog behavior and metrics.
+// ---
+
 #include "chrome/browser/skills/skills_ui_tab_controller.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session binding helper
+// summary: Declares SessionBindingHelper, which loads an in-memory session binding key and asynchronously generates binding key assertions, with an error enum used for metrics.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_BOUND_SESSION_CREDENTIALS_SESSION_BINDING_HELPER_H_
 #define CHROME_BROWSER_SIGNIN_BOUND_SESSION_CREDENTIALS_SESSION_BINDING_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bound session parameters protobuf definition
+// summary: Defines the BoundSessionParams protobuf messages describing device bound sessions, their credentials and session origins.
+// ---
+
 syntax = "proto2";
 
 package bound_session_credentials;

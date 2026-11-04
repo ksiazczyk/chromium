@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake bound session cookie refresh service
+// summary: Test fake of BoundSessionCookieRefreshService that records blocked requests and simulates request unblocking and session termination for tests.
+// ---
+
 #include "chrome/browser/signin/bound_session_credentials/fake_bound_session_cookie_refresh_service.h"
 
 #include "chrome/browser/signin/bound_session_credentials/bound_session_cookie_refresh_service.h"

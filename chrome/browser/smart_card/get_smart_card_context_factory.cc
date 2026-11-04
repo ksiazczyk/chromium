@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart card context factory selection for ChromeOS and Linux
+// summary: Returns the smart card context factory from the ChromeOS provider extension on devices, or from a fake service on Linux builds to enable manual testing of permission prompts.
+// ---
+
 #include "chrome/browser/smart_card/get_smart_card_context_factory.h"
 
 #include "build/chromeos_buildflags.h"

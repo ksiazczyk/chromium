@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BoundSessionDebugInfo implementation
+// summary: Implements the BoundSessionDebugInfo class, which builds debug details such as session ID, domain, path, bound cookie names, expiration time and the refresh URL from a bound session cookie controller.
+// ---
+
 #include "chrome/browser/signin/bound_session_credentials/bound_session_debug_info.h"
 
 #include <numeric>

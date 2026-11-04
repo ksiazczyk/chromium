@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site familiarity process selection deferring condition implementation
+// summary: Defers navigation process selection until the site familiarity verdict is computed.
+// ---
+
 #include "chrome/browser/site_protection/site_familiarity_process_selection_deferring_condition.h"
 
 #include "base/functional/callback.h"

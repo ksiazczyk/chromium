@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Skills feature build configuration
+summary: GN build file defining the skills source sets, their sources and dependencies, plus the browser test target for the Chrome skills feature.

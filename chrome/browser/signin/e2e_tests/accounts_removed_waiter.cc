@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accounts removed waiter implementation
+// summary: Implements a helper that waits until all accounts with refresh tokens have been removed from the IdentityManager.
+// ---
+
 #include "accounts_removed_waiter.h"
 
 namespace signin::test {

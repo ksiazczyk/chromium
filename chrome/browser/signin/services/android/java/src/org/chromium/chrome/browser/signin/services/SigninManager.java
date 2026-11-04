@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'SigninManager: Android sign-in and sign-out interface'
+// summary: Interface for the Android wrapper of the native SigninManager, defining sign-in and sign-out flows, callbacks, and observer registration for UI-thread use.
+// ---
+
 package org.chromium.chrome.browser.signin.services;
 
 import androidx.annotation.MainThread;

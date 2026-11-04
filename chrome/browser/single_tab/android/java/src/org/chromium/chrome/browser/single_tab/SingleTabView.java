@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Single tab view
+// summary: Custom LinearLayout that renders a single tab card with favicon, thumbnail, title, URL, and an optional see more link.
+// ---
+
 package org.chromium.chrome.browser.single_tab;
 
 import android.content.Context;

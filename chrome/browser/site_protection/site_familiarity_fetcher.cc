@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site familiarity fetcher implementation
+// summary: Computes whether a URL is familiar using history, site engagement and the safe browsing high confidence allowlist.
+// ---
+
 #include "chrome/browser/site_protection/site_familiarity_fetcher.h"
 
 #include "base/functional/callback.h"

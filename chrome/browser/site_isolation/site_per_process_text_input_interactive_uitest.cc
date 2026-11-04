@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site per process text input interactive UI tests
+// summary: Interactive tests verifying TextInputState tracking and IME behavior for out-of-process iframes, compared against the non-OOPIF baseline.
+// ---
+
 #include <memory>
 #include <ranges>
 #include <vector>

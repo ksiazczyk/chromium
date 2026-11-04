@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skills dialog launcher implementation
+// summary: Implements the WebContentsUserData helper that waits for a tab's navigation to finish before triggering the skills dialog.
+// ---
+
 #include "chrome/browser/skills/skills_dialog_launcher.h"
 
 #include "chrome/browser/glic/public/glic_invoke_options.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayableProfileData holder
+// summary: Immutable holder for displayable account profile data such as email, avatar image, full and given names and AI tier ring state.
+// ---
+
 package org.chromium.chrome.browser.signin.services;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skills metrics provider implementation
+// summary: Records the number of skills for each regular profile into UMA when session metrics are provided.
+// ---
+
 #include "chrome/browser/skills/skills_metrics_provider.h"
 
 #include "chrome/browser/profiles/profile.h"

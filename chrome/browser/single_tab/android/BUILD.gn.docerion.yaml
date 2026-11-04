@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the Android single tab module
+summary: Defines GN targets for the Chrome Android single tab feature, including its Java library, Android resources, and Robolectric unit tests with their dependencies.

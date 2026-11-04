@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accounts removed waiter class declaration
+// summary: Declares a test helper class that waits until all accounts have been removed from the IdentityManager.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_E2E_TESTS_ACCOUNTS_REMOVED_WAITER_H_
 #define CHROME_BROWSER_SIGNIN_E2E_TESTS_ACCOUNTS_REMOVED_WAITER_H_
 

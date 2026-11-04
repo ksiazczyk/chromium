@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skills UI tab controller interface implementation
+// summary: Implements the SkillsUiTabControllerInterface base, attaching unowned user data to a tab and resolving the controller from a TabInterface.
+// ---
+
 #include "chrome/browser/skills/skills_ui_tab_controller_interface.h"
 
 #include "base/logging.h"

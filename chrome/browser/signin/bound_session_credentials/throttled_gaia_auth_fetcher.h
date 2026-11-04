@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Throttled Gaia auth fetcher
+// summary: Declares ThrottledGaiaAuthFetcher, a GaiaAuthFetcher subclass that applies bound session request throttling to specific Gaia authentication requests such as ListAccounts.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_BOUND_SESSION_CREDENTIALS_THROTTLED_GAIA_AUTH_FETCHER_H_
 #define CHROME_BROWSER_SIGNIN_BOUND_SESSION_CREDENTIALS_THROTTLED_GAIA_AUTH_FETCHER_H_
 

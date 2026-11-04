@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser-side throttled request handler implementation
+// summary: Implements handling of requests blocked on bound session cookies, delegating to the cookie refresh service or cancelling requests during service shutdown.
+// ---
+
 #include "chrome/browser/signin/bound_session_credentials/bound_session_request_throttled_handler_browser_impl.h"
 
 #include "base/memory/weak_ptr.h"

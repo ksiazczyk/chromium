@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileDataUtils helpers
+// summary: Static utility methods for reading cached DisplayableProfileData from promises, including preferred or first account selection.
+// ---
+
 package org.chromium.chrome.browser.signin.services;
 
 import org.chromium.base.Promise;

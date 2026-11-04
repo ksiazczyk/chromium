@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart card permission context implementation
+// summary: Implements reader permission handling, including ephemeral one-time grants revoked on window close, background timeout, system suspend, reader or card removal, and settings changes.
+// ---
+
 #include "chrome/browser/smart_card/smart_card_permission_context.h"
 
 #include <algorithm>

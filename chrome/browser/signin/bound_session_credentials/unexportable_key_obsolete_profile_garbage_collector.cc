@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unexportable key obsolete profile garbage collector implementation
+// summary: Deletes unexportable signing keys left behind by permanently deleted browser profiles and records garbage collection metrics.
+// ---
+
 #include "chrome/browser/signin/bound_session_credentials/unexportable_key_obsolete_profile_garbage_collector.h"
 
 #include <memory>

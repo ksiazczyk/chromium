@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skills invocation interactive UI tests
+// summary: Interactive UI tests verifying invocation of first-party and user-created skills from the Glic window, auto-submit, and save toasts.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "chrome/browser/glic/public/glic_invoke_options.h"
 #include "chrome/browser/glic/public/glic_passkeys.h"

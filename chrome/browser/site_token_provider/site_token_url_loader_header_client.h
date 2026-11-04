@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site token URL loader header client
+// summary: Declares a TrustedURLLoaderHeaderClient that wraps the browser header client to attach site token handling to loader creation.
+// ---
+
 #ifndef CHROME_BROWSER_SITE_TOKEN_PROVIDER_SITE_TOKEN_URL_LOADER_HEADER_CLIENT_H_
 #define CHROME_BROWSER_SITE_TOKEN_PROVIDER_SITE_TOKEN_URL_LOADER_HEADER_CLIENT_H_
 

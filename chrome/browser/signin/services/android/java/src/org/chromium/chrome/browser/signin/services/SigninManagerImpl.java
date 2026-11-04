@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'SigninManagerImpl: SigninManager implementation'
+// summary: Implements the SigninManager interface, driving sign-in and sign-out flows through JNI to the native SigninManager and tracking pending operations and account state.
+// ---
+
 package org.chromium.chrome.browser.signin.services;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

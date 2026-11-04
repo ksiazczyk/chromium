@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site details browser tests
+// summary: Browser tests verifying site isolation metrics such as out-of-process iframe counts and renderer process histograms under different isolation modes.
+// ---
+
 #include "chrome/browser/site_isolation/site_details.h"
 
 #include <stddef.h>

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Single tab module layout
+summary: Android layout XML defining the single tab module card on the home surface, with a title row, see-more link, and a tab thumbnail view.
+-->
+
 <org.chromium.chrome.browser.single_tab.SingleTabView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

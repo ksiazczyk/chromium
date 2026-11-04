@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dice bound session cookie service unit tests
+// summary: Unit tests verifying cookie deletion and /ListAccounts triggering on bound session termination, using fake services, a test cookie manager and identity test environment.
+// ---
+
 #include "chrome/browser/signin/bound_session_credentials/dice_bound_session_cookie_service.h"
 
 #include <memory>

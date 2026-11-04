@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BoundSessionCookieObserver
+// summary: Unit tests verifying expiration date updates and cookie change handling in the bound session cookie observer.
+// ---
+
 #include "chrome/browser/signin/bound_session_credentials/bound_session_cookie_observer.h"
 
 #include <cstddef>

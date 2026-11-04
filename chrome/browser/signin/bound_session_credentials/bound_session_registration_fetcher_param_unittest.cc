@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bound session registration fetcher parameter tests
+// summary: Unit tests for parsing registration parameters from response headers, covering valid lists, relative and full URLs, and invalid or missing fields.
+// ---
+
 #include "chrome/browser/signin/bound_session_credentials/bound_session_registration_fetcher_param.h"
 
 #include <vector>

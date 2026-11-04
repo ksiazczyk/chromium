@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'UnifiedConsentServiceBridge: anonymized data collection bridge'
+// summary: JNI bridge to the UnifiedConsentService for querying, setting, and checking policy control of URL-keyed anonymized data collection per profile.
+// ---
+
 package org.chromium.chrome.browser.signin.services;
 
 import androidx.annotation.VisibleForTesting;

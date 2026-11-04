@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake smart card device service class declaration
+// summary: Declares a KeyedService that fakes the SmartCardContextFactory and SmartCardContext mojo interfaces with simulated reader state.
+// ---
+
 #ifndef CHROME_BROWSER_SMART_CARD_FAKE_SMART_CARD_DEVICE_SERVICE_H_
 #define CHROME_BROWSER_SMART_CARD_FAKE_SMART_CARD_DEVICE_SERVICE_H_
 

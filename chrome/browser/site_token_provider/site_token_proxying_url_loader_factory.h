@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site token proxying URL loader factory
+// summary: Declares a self-deleting URLLoaderFactory proxy that forces TrustedHeaderClient use for requests to allowlisted domains.
+// ---
+
 #ifndef CHROME_BROWSER_SITE_TOKEN_PROVIDER_SITE_TOKEN_PROXYING_URL_LOADER_FACTORY_H_
 #define CHROME_BROWSER_SITE_TOKEN_PROVIDER_SITE_TOKEN_PROXYING_URL_LOADER_FACTORY_H_
 

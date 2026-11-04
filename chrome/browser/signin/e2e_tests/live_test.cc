@@ -1,6 +1,13 @@
 // Copyright 2019 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Live test base class implementation
+// summary: Implements the LiveTest fixture, skipping tests unless the run-live-tests flag is passed and loading the Google-internal test account configuration.
+// ---
+
 #include "chrome/browser/signin/e2e_tests/live_test.h"
 
 #include "base/command_line.h"

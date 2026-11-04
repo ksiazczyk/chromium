@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart card one-time permission expiry reason enum
+// summary: Defines the persisted enum of reasons why an ephemeral smart card permission expires and declares the corresponding histogram recording function.
+// ---
+
 #ifndef CHROME_BROWSER_SMART_CARD_SMART_CARD_HISTOGRAMS_H_
 #define CHROME_BROWSER_SMART_CARD_SMART_CARD_HISTOGRAMS_H_
 

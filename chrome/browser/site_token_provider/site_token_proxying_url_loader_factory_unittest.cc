@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site token proxying URL loader factory unit tests
+// summary: Tests that requests are proxied and header-client options are set only for allowlisted hosts when the site token feature is enabled.
+// ---
+
 #include "chrome/browser/site_token_provider/site_token_proxying_url_loader_factory.h"
 
 #include <memory>

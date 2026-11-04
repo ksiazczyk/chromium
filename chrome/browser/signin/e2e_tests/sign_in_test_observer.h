@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in test observer class declaration
+// summary: Declares a test observer for sign-in events that lets tests wait for a specific state of signed-in accounts and the primary account.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_E2E_TESTS_SIGN_IN_TEST_OBSERVER_H_
 #define CHROME_BROWSER_SIGNIN_E2E_TESTS_SIGN_IN_TEST_OBSERVER_H_
 

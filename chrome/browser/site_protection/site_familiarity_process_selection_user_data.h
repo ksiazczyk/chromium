@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site familiarity process selection user data
+// summary: Declares SiteFamiliarityProcessSelectionUserData, which stores whether a site is familiar based on browsing history and the Safe Browsing high-confidence allowlist.
+// ---
+
 #ifndef CHROME_BROWSER_SITE_PROTECTION_SITE_FAMILIARITY_PROCESS_SELECTION_USER_DATA_H_
 #define CHROME_BROWSER_SITE_PROTECTION_SITE_FAMILIARITY_PROCESS_SELECTION_USER_DATA_H_
 

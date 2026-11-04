@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Throttled Gaia auth fetcher unit tests
+// summary: Unit tests for ThrottledGaiaAuthFetcher verifying that blocked Gaia requests are resumed or cancelled through the bound session throttled request handler.
+// ---
+
 #include "chrome/browser/signin/bound_session_credentials/throttled_gaia_auth_fetcher.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Obsolete profile garbage collector unit tests for Mac
+// summary: Unit tests verifying that unexportable keys of obsolete profiles are garbage-collected, using mock key services and macOS-specific config.
+// ---
+
 #include "chrome/browser/signin/bound_session_credentials/unexportable_key_obsolete_profile_garbage_collector.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Single tab switcher mediator for the new tab page
+// summary: Mediates the single tab switcher on the new tab page, updating view properties such as favicon, thumbnail, title, and URL, and recording click metrics.
+// ---
+
 package org.chromium.chrome.browser.single_tab;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

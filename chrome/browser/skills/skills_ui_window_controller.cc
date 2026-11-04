@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skills UI window controller implementation
+// summary: Implements the window-level skills UI controller that closes dialogs, reloads skills pages, shows toasts, and reacts to sign-in and preference changes.
+// ---
+
 #include "chrome/browser/skills/skills_ui_window_controller.h"
 
 #include "base/functional/bind.h"

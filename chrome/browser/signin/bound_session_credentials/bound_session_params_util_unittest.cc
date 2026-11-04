@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bound session parameters utilities unit tests
+// summary: Unit tests for bound session parameter validation, scope resolution, endpoint paths and registration payload conversion.
+// ---
+
 #include "chrome/browser/signin/bound_session_credentials/bound_session_params_util.h"
 
 #include "base/test/protobuf_matchers.h"

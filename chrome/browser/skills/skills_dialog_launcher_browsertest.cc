@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skills dialog launcher browser tests
+// summary: Browser tests for dialog launching on loaded tabs, while navigation is in flight and when the tab is destroyed mid-load.
+// ---
+
 #include "chrome/browser/skills/skills_dialog_launcher.h"
 
 #include "base/test/bind.h"

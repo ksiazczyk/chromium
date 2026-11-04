@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site familiarity utils implementation
+// summary: Implements helpers that compute the default JavaScript optimizer setting and familiarity thresholds for blocking V8 optimizations on unfamiliar sites.
+// ---
+
 #include "chrome/browser/site_protection/site_familiarity_utils.h"
 
 #include "base/metrics/field_trial_params.h"

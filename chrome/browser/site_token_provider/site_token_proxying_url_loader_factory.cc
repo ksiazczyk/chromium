@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site token proxying URL loader factory implementation
+// summary: Implements a URLLoaderFactory proxy that intercepts requests to allowlisted domains and enables the trusted header client for them.
+// ---
+
 #include "chrome/browser/site_token_provider/site_token_proxying_url_loader_factory.h"
 
 #include <utility>

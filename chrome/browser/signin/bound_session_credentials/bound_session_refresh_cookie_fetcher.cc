@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bound session refresh cookie fetcher base implementation
+// summary: Defines the network traffic annotation for Gaia cookie rotation requests and helpers for classifying refresh results as persistent or transient.
+// ---
+
 #include "chrome/browser/signin/bound_session_credentials/bound_session_refresh_cookie_fetcher.h"
 
 #include "net/traffic_annotation/network_traffic_annotation.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sign-in test observer implementation
+// summary: Implements an observer that waits until signed-in accounts reach an expected state across IdentityManager, cookies and the account reconcilor.
+// ---
+
 #include "sign_in_test_observer.h"
 
 #include "components/signin/public/base/consent_level.h"

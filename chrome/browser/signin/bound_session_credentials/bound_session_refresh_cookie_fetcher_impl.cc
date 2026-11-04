@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bound session refresh cookie fetcher implementation
+// summary: Implements the network request to the Gaia cookie rotation endpoint, including challenge handling, cookie observation and metrics reporting.
+// ---
+
 #include "chrome/browser/signin/bound_session_credentials/bound_session_refresh_cookie_fetcher_impl.h"
 
 #include <memory>

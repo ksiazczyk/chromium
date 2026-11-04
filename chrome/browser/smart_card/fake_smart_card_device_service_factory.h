@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake smart card device service factory declaration
+// summary: Declares a profile-keyed service factory that provides a FakeSmartCardDeviceService instance per profile for emulating the smart card service.
+// ---
+
 #ifndef CHROME_BROWSER_SMART_CARD_FAKE_SMART_CARD_DEVICE_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_SMART_CARD_FAKE_SMART_CARD_DEVICE_SERVICE_FACTORY_H_
 

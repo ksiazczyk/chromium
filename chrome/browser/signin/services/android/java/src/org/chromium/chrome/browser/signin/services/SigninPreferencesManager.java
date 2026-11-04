@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'SigninPreferencesManager: sign-in shared preferences store'
+// summary: Singleton that stores sign-in promo state in SharedPreferences, including last shown version, last shown time with random offset, and suppression periods.
+// ---
+
 package org.chromium.chrome.browser.signin.services;
 
 import androidx.annotation.StringDef;

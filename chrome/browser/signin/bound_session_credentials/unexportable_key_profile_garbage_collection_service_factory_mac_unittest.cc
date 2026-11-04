@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile garbage collection service factory unit tests for Mac
+// summary: Unit tests for garbage collection of unexportable keys belonging to obsolete off-the-record profiles, using mock services.
+// ---
+
 #include "chrome/browser/signin/bound_session_credentials/unexportable_key_profile_garbage_collection_service_factory.h"
 
 #include <memory>

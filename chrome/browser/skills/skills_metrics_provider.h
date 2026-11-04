@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skills metrics provider
+// summary: Declares a metrics provider that reports each profile's skill count on UMA upload.
+// ---
+
 #ifndef CHROME_BROWSER_SKILLS_SKILLS_METRICS_PROVIDER_H_
 #define CHROME_BROWSER_SKILLS_SKILLS_METRICS_PROVIDER_H_
 

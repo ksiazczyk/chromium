@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Origin Agent Cluster browser tests
+// summary: Browser tests verifying renderer process counts and memory overhead histograms for Origin Agent Cluster site isolation, including subresource filtering interactions.
+// ---
+
 #include <memory>
 #include <vector>
 

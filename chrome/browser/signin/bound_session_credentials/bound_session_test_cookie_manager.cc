@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bound session test cookie manager implementation
+// summary: Implements a test cookie manager that creates canonical cookies, records deletion filters and callbacks, and dispatches cookie changes for bound session tests.
+// ---
+
 #include "chrome/browser/signin/bound_session_credentials/bound_session_test_cookie_manager.h"
 
 #include "net/cookies/cookie_access_result.h"

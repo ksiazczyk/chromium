@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'SubscriptionTierBrandingDelegate: subscription branding interface'
+// summary: Interface for providing proprietary branding details for subscription tiers, such as a shader for the AI tier ring, implemented downstream via ServiceLoaderUtil.
+// ---
+
 package org.chromium.chrome.browser.signin.services;
 
 import android.graphics.RectF;

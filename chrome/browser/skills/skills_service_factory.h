@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skills service factory header
+// summary: Declares SkillsServiceFactory, a profile-keyed service factory that provides the per-profile SkillsService instance and enablement checks.
+// ---
+
 #ifndef CHROME_BROWSER_SKILLS_SKILLS_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_SKILLS_SKILLS_SERVICE_FACTORY_H_
 

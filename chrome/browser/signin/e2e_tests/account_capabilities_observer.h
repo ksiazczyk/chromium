@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account capabilities observer class declaration
+// summary: Declares a test observer class that blocks until all capabilities of a specified account become known in the IdentityManager.
+// ---
+
 #ifndef CHROME_BROWSER_SIGNIN_E2E_TESTS_ACCOUNT_CAPABILITIES_OBSERVER_H_
 #define CHROME_BROWSER_SIGNIN_E2E_TESTS_ACCOUNT_CAPABILITIES_OBSERVER_H_
 

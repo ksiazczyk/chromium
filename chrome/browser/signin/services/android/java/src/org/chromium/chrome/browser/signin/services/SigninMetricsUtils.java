@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'SigninMetricsUtils: sign-in metrics helpers'
+// summary: Utility methods for recording sign-in metrics histograms such as promo actions, sign-in started and offered, add-account state, and history sync opt-in.
+// ---
+
 package org.chromium.chrome.browser.signin.services;
 
 import androidx.annotation.IntDef;

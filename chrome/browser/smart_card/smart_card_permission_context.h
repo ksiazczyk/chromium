@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart card permission context class declaration
+// summary: Declares the per-profile object permission context that manages smart card reader permissions, ephemeral grants, observer notifications, and policy allowlisting.
+// ---
+
 #ifndef CHROME_BROWSER_SMART_CARD_SMART_CARD_PERMISSION_CONTEXT_H_
 #define CHROME_BROWSER_SMART_CARD_SMART_CARD_PERMISSION_CONTEXT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skills UI tab controller browser tests
+// summary: In-process browser tests verifying that the tab-scoped skills dialog opens, closes, and records the expected metrics.
+// ---
+
 #include "chrome/browser/skills/skills_ui_tab_controller.h"
 
 #include "base/test/bind.h"

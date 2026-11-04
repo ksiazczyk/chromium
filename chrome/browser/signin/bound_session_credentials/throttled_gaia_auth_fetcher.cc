@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Throttled Gaia auth fetcher implementation
+// summary: Implements ThrottledGaiaAuthFetcher, which blocks ListAccounts and multilogin Gaia requests covered by a bound session with missing cookies until cookie refresh completes.
+// ---
+
 #include "chrome/browser/signin/bound_session_credentials/throttled_gaia_auth_fetcher.h"
 
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bound session OAuth multilogin delegate implementation
+// summary: Implements the OAuth multilogin delegate that stops cookie rotation and registers device bound sessions around cookie updates.
+// ---
+
 #include "chrome/browser/signin/bound_session_credentials/bound_session_oauth_multilogin_delegate_impl.h"
 
 #include "base/check_deref.h"

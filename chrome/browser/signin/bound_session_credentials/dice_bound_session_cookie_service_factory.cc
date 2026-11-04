@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dice bound session cookie service factory
+// summary: Creates the DiceBoundSessionCookieService keyed service per profile, but only when the profile's account consistency method is Dice.
+// ---
+
 #include "chrome/browser/signin/bound_session_credentials/dice_bound_session_cookie_service_factory.h"
 
 #include <memory>
