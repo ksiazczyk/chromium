@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Facilitated payments driver binder implementation
+// summary: Binds the renderer's FacilitatedPaymentsDriver mojo receiver to the browser-side driver, only for active main frames that belong to a tab with a client.
+// ---
+
 #include "chrome/browser/facilitated_payments/facilitated_payments_driver_binder.h"
 
 #include <utility>

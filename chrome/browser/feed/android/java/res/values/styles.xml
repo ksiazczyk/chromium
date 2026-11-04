@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Feed text appearance styles
+summary: Defines text appearance styles for the feed, including an inverse clickable button style and a header title style.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <style name="TextAppearance.ClickableButtonInverse" parent="TextAppearance.Button.Text.Filled">
         <item name="android:textColor">@macro/default_text_color_accent1</item>

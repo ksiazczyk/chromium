@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FeedSliceViewTrackerTest
+// summary: Robolectric unit tests verifying the visibility thresholds, callbacks and reliability reporting behavior of FeedSliceViewTracker.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import static org.junit.Assert.assertEquals;

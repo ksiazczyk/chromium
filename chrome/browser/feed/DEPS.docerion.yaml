@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Feed directory include rules
+summary: Grants test files in the feed directory permission to include mojo core embedder headers.

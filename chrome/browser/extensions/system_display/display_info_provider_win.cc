@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows display info provider implementation
+// summary: Implements the Windows display info provider, using Win32 monitor enumeration to fill in display unit names and DPI values, and provides the provider factory function.
+// ---
+
 #include "chrome/browser/extensions/system_display/display_info_provider_win.h"
 
 #include <windows.h>

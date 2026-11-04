@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed service factory implementation
+// summary: Implements the per-profile FeedService factory, wiring delegates and Android or desktop platform behavior for the feed service.
+// ---
+
 #include "chrome/browser/feed/feed_service_factory.h"
 
 #include <memory>

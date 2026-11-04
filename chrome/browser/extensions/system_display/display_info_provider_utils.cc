@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display info provider utility functions
+// summary: Implements shared helpers for the system.display API, including display id lookup, layout position and insets conversion, rotation validation, and display property input validation.
+// ---
+
 #include "chrome/browser/extensions/system_display/display_info_provider_utils.h"
 
 #include "ash/display/cros_display_config.h"

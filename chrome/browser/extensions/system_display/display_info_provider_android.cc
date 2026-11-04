@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android DisplayInfoProvider implementation
+// summary: Fills display unit names and DPI values for Android, with scale-factor and 96 DPI fallbacks when values are missing.
+// ---
+
 #include "chrome/browser/extensions/system_display/display_info_provider_android.h"
 
 #include <memory>

@@ -1,6 +1,13 @@
 // Copyright 2021 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Feed logging parameters
+// summary: LoggingParameters implementation holding client instance ID, account name, logging flags and root event ID needed for feed logging, with proto conversion.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import com.google.protobuf.ByteString;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedReliabilityLoggingBridge
+// summary: JNI bridge that exposes feed reliability logging methods, such as cache read and network request timing events, to native code.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import org.jni_zero.CalledByNative;

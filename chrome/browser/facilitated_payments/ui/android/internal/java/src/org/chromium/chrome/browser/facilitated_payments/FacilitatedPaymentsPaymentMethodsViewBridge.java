@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Facilitated payments payment methods view bridge
+// summary: JNI bridge providing the entry point for the native facilitated payments client to trigger the payment methods bottom sheet.
+// ---
+
 package org.chromium.chrome.browser.facilitated_payments;
 
 import android.content.Context;

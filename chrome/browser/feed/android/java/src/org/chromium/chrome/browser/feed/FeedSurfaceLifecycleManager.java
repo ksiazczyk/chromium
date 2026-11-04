@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedSurfaceLifecycleManager
+// summary: Manages the lifecycle of a feed surface associated with an Activity, showing, hiding and destroying it as the activity state changes.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import android.app.Activity;

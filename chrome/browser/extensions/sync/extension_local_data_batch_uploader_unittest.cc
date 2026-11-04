@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension local data batch uploader unit tests
+// summary: Unit tests for the extension local data batch uploader covering local data descriptions and migration triggers in transport-mode extension sync.
+// ---
+
 #include "chrome/browser/extensions/sync/extension_local_data_batch_uploader.h"
 
 #include "base/test/scoped_feature_list.h"

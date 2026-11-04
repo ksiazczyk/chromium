@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed surface scope dependency provider implementation
+// summary: Implements the JNI entry point that fetches network resources on behalf of the feed surface scope dependency provider.
+// ---
+
 #include <string>
 #include <vector>
 

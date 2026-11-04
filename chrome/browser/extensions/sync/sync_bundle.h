@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncBundle header
+// summary: Declares SyncBundle, which manages the set of synced extensions and pending sync install data and pushes sync changes to the server.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_SYNC_SYNC_BUNDLE_H_
 #define CHROME_BROWSER_EXTENSIONS_SYNC_SYNC_BUNDLE_H_
 

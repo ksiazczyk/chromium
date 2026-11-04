@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed surface renderer bridge implementation
+// summary: Implements the JNI bridge that renders feed stream updates to Android surfaces, managing surface creation, data store entries and stream updates.
+// ---
+
 #include "chrome/browser/feed/android/feed_surface_renderer_bridge.h"
 
 #include <string>

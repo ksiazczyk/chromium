@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FeedLoggingParameters unit tests
+// summary: Robolectric tests verifying FeedLoggingParameters fields and round-trip conversion to and from the feed UI proto LoggingParameters message.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import static org.junit.Assert.assertArrayEquals;

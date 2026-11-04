@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the extension updater
+// summary: Large unit test suite for ExtensionUpdater covering update checks, CRX installation, and downloader behavior with fake test delegates.
+// ---
+
 #include "chrome/browser/extensions/updater/extension_updater.h"
 
 #include <stddef.h>

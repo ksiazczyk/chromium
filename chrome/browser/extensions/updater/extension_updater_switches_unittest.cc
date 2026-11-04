@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for extension updater switches
+// summary: Verifies that GetChannelForExtensionUpdates returns the current channel or the value forced via the extension-force-channel switch.
+// ---
+
 #include "chrome/browser/extensions/updater/extension_updater_switches.h"
 
 #include "base/command_line.h"

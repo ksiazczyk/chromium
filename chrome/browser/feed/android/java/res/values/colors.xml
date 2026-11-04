@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Feed color resources
+summary: Defines the feed placeholder color and a footer chip background color macro for the Android feed UI.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <color name="feed_placeholder_color">@color/black_alpha_5</color>
 

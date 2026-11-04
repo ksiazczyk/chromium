@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the favicon directory
+summary: Lists the owners who must review changes to the favicon directory, including a temporary owner for refactoring changes.

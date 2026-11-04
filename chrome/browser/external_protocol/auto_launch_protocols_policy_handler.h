@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto-launch protocols policy handler class declaration
+// summary: Declares the policy handler class that validates and applies the AutoLaunchProtocolsFromOrigins policy settings.
+// ---
+
 #ifndef CHROME_BROWSER_EXTERNAL_PROTOCOL_AUTO_LAUNCH_PROTOCOLS_POLICY_HANDLER_H_
 #define CHROME_BROWSER_EXTERNAL_PROTOCOL_AUTO_LAUNCH_PROTOCOLS_POLICY_HANDLER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the system_display folder
+summary: Delegates review ownership to the ash display and settings resources owner files for CrOS display settings.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension update client command line config policy unit tests
+// summary: Unit tests for the extension updater command-line config policy, checking default settings and the test request switch behavior.
+// ---
+
 #include "chrome/browser/extensions/updater/extension_update_client_command_line_config_policy.h"
 
 #include "base/command_line.h"

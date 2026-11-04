@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FCM service factory header
+// summary: Declares FcmServiceFactory, a ProfileKeyedServiceFactory that exposes GetForProfile and GetInstance for obtaining per-profile FcmService instances.
+// ---
+
 #ifndef CHROME_BROWSER_FCM_FCM_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_FCM_FCM_SERVICE_FACTORY_H_
 

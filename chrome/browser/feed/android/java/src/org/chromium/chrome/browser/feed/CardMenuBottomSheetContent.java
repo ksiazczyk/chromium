@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Card menu bottom sheet content
+// summary: BottomSheetContent implementation that supplies the feed card menu view, priority and accessibility strings to the bottom sheet manager.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import android.content.Context;

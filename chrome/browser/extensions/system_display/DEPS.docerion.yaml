@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for system_display
+summary: Grants specific files in the directory access to ash display, shell, and test headers.

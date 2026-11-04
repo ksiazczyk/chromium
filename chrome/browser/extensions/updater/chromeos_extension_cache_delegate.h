@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS extension cache delegate declaration
+// summary: Declares the ChromeOS-specific extension cache delegate providing a predefined cache path and a policy-configurable maximum cache size.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_UPDATER_CHROMEOS_EXTENSION_CACHE_DELEGATE_H_
 #define CHROME_BROWSER_EXTENSIONS_UPDATER_CHROMEOS_EXTENSION_CACHE_DELEGATE_H_
 

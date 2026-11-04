@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Blue Bubble IPH cooldown configuration provider
+// summary: Implements a configuration provider that enforces lifetime caps and cooldown floors on Android Blue Bubble IPH features when the cooldown group flag is enabled.
+// ---
+
 #include "chrome/browser/feature_engagement/android_blue_bubble_configuration_provider.h"
 
 #include <algorithm>

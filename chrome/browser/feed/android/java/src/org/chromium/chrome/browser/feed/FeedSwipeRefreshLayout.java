@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedSwipeRefreshLayout
+// summary: Modified SwipeRefreshLayout for the feed that supports layout, measuring and touch handling of its direct child, with pull-to-refresh and user education support.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import android.annotation.SuppressLint;

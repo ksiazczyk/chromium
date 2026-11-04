@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension updater implementation
+// summary: Implements the ExtensionUpdater service that schedules and performs automatic update checks and installs for installed extensions.
+// ---
+
 #include "chrome/browser/extensions/updater/extension_updater.h"
 
 #include <stdint.h>

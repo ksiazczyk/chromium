@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedServiceBridge
+// summary: JNI bridge for feed service calls, covering startup, load-more config values, image prefetching, sign-in state, and user action reporting.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import android.content.Context;

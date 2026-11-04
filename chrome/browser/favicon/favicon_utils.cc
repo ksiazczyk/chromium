@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon utility functions implementation
+// summary: Implements helpers for creating content favicon drivers, generating monogram fallback favicons, default favicons for color schemes and favicon theming.
+// ---
+
 #include "chrome/browser/favicon/favicon_utils.h"
 
 #include "base/hash/sha1.h"

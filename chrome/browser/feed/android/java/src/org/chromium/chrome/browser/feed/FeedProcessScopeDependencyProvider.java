@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedProcessScopeDependencyProvider
+// summary: Provides process-scope dependencies for feed surfaces, including the image fetch client, experiment IDs, launch CUI metadata, and a feed-specific context.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import android.content.Context;

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the favicon browser code
+summary: Defines source sets for the favicon headers, implementations, unit tests and browser tests together with their build dependencies.

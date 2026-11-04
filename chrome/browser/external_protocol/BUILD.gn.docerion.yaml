@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for the external protocol module
+summary: Defines GN source sets for the external protocol headers, implementation, and unit and browser tests, with platform-conditional sources and dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedScrollState
+// summary: Stores a feed surface's scroll position, last position, offset, and content state, with JSON serialization for saving and restoring.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import org.json.JSONException;

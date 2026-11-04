@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension sync data implementation
+// summary: Implements conversion between ExtensionSyncData and sync protobuf specifics, recording UMA metrics for invalid sync data.
+// ---
+
 #include "chrome/browser/extensions/sync/extension_sync_data.h"
 
 #include "base/containers/flat_set.h"

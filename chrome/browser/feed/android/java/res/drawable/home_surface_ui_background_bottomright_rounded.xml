@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Home surface UI background with rounded bottom-right corner
+summary: Android shape drawable that fills the feed home surface background and rounds only its bottom-right corner.
+-->
+
 <shape xmlns:android="http://schemas.android.com/apk/res/android"
     android:shape="rectangle">
   <solid android:color="@color/home_surface_ui_background_color"/>

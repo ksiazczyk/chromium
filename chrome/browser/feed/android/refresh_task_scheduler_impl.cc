@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Refresh task scheduler implementation
+// summary: Schedules, runs and cancels background feed refresh tasks through the Android background task scheduler.
+// ---
+
 #include "chrome/browser/feed/android/refresh_task_scheduler_impl.h"
 
 #include <utility>

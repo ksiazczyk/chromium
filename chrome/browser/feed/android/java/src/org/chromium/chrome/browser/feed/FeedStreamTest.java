@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FeedStreamTest
+// summary: Robolectric unit tests for FeedStream covering rendering, load-more triggers, sharing, snackbars and feature-flagged behavior.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

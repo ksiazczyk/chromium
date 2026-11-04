@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension sync data header
+// summary: Declares ExtensionSyncData, a class encapsulating the synced properties of an app or extension with conversions to and from sync data and changes.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_SYNC_EXTENSION_SYNC_DATA_H_
 #define CHROME_BROWSER_EXTENSIONS_SYNC_EXTENSION_SYNC_DATA_H_
 

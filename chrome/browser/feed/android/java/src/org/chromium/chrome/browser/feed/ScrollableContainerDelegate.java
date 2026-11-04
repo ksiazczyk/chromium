@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollableContainerDelegate
+// summary: Delegate interface exposing scroll listeners, scroll offsets, and view positions for the container holding the new tab page views.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import android.view.View;

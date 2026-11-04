@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FacilitatedPaymentsPaymentMethodsControllerBridge
+// summary: JNI wrapper that forwards UI events like instrument selection and prompt actions to the native C++ facilitated payments controller.
+// ---
+
 package org.chromium.chrome.browser.facilitated_payments;
 
 import org.jni_zero.CalledByNative;

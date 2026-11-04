@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed refresh task scheduler implementation header
+// summary: Declares RefreshTaskSchedulerImpl, which schedules, cancels and completes feed refresh background tasks through Android's BackgroundTaskScheduler for the feed service.
+// ---
+
 #ifndef CHROME_BROWSER_FEED_ANDROID_REFRESH_TASK_SCHEDULER_IMPL_H_
 #define CHROME_BROWSER_FEED_ANDROID_REFRESH_TASK_SCHEDULER_IMPL_H_
 

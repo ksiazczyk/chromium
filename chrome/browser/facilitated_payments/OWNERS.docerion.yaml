@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Facilitated payments code owners
+summary: Delegates ownership review for this directory to the OWNERS file of components/facilitated_payments.

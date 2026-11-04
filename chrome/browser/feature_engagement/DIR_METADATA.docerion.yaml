@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for feature_engagement
+summary: Points the feature engagement directory at the shared component metadata mixins in components/feature_engagement.

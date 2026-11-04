@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Facilitated payments Android UI dimension resources
+summary: Defines Android dimension values (margins, sizes, paddings) for the facilitated payments and e-wallet/Pix account linking UI screens.
+-->
+
 <resources>
     <!-- go/keep-sorted start -->
     <dimen name="ewallet_account_linking_prompt_accept_button_margin_top">20dp</dimen>

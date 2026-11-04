@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Facilitated payments bottom sheet bridge implementation
+// summary: Implements the native-to-Java bridge that triggers the facilitated payments bottom sheet, including bank account, eWallet, progress, error, and account linking screens.
+// ---
+
 #include "chrome/browser/facilitated_payments/ui/android/facilitated_payments_bottom_sheet_bridge.h"
 
 #include <vector>

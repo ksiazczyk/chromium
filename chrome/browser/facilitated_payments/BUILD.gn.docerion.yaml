@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Facilitated payments build targets
+summary: Defines the facilitated_payments static library and its unit test target, listing sources and dependencies, with Android-only payment UI and payment link handling.

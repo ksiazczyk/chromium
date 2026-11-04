@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Facilitated payments Android UI build configuration
+summary: GN build file defining JNI generation and the Android library targets for the facilitated payments UI, including payment method screens, view binders, and account linking prompts.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed process scope dependency provider JNI implementation
+// summary: Native JNI side of FeedProcessScopeDependencyProvider, supplying view actions, session ID, experiment IDs and launch CUI metadata to Java.
+// ---
+
 #include "base/android/jni_android.h"
 #include "base/android/jni_array.h"
 #include "base/android/jni_string.h"

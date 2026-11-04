@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac display info provider header
+// summary: Declares DisplayInfoProviderMac, the macOS subclass of the display info provider base that overrides UpdateDisplayUnitInfoForPlatform.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_SYSTEM_DISPLAY_DISPLAY_INFO_PROVIDER_MAC_H_
 #define CHROME_BROWSER_EXTENSIONS_SYSTEM_DISPLAY_DISPLAY_INFO_PROVIDER_MAC_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalExtensionCache header
+// summary: Declares a cache that keeps the latest version of extensions as CRX files in a local directory with size and age limits, used from the UI thread.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_UPDATER_LOCAL_EXTENSION_CACHE_H_
 #define CHROME_BROWSER_EXTENSIONS_UPDATER_LOCAL_EXTENSION_CACHE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Ownership file that delegates reviewer approval to the shared feature_engagement component OWNERS file.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed list content manager
+// summary: ListContentManager implementation that manages a list of feed contents backed either by native views or by external surface-controlled views.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import android.content.Context;

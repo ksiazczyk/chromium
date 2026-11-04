@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension local data batch uploader implementation
+// summary: Implements batch uploading of local extensions to the user's account, building syncer local data descriptions with loaded extension icons.
+// ---
+
 #include "chrome/browser/extensions/sync/extension_local_data_batch_uploader.h"
 
 #include "base/barrier_callback.h"

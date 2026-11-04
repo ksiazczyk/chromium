@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Feed dimension resources
+summary: Defines dimension values for feed and NTP content, cards, headers, gutters, containment margins, and NTP customization button spacing.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- No content dimensions. -->
     <dimen name="no_content_padding">16dp</dimen>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI translation implementation
+// summary: Converts Java byte arrays of feed logging parameters into native LoggingParameters values parsed from the feed UI proto.
+// ---
+
 #include "chrome/browser/feed/android/jni_translation.h"
 
 #include "base/android/jni_array.h"

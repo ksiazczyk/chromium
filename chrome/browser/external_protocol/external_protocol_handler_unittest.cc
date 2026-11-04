@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: External protocol handler unit tests
+// summary: Unit tests for the external protocol handler that use fake delegates and shell workers to verify block, prompt, and launch decisions across platforms.
+// ---
+
 #include "chrome/browser/external_protocol/external_protocol_handler.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Facilitated payments payment methods properties
+// summary: Defines the property keys and enums describing the visible state, item types, and screens of the facilitated payments bottom sheet.
+// ---
+
 package org.chromium.chrome.browser.facilitated_payments;
 
 import android.graphics.Bitmap;

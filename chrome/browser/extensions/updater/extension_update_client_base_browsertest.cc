@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension update client browser test base implementation
+// summary: Implements the base browser test class for extension updater tests using UpdateClient, with HTTPS test servers and network interceptors.
+// ---
+
 #include "chrome/browser/extensions/updater/extension_update_client_base_browsertest.h"
 
 #include <memory>

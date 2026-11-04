@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Large icon service factory header
+// summary: Declares LargeIconServiceFactory, a singleton ProfileKeyedServiceFactory associating LargeIconService instances with browser contexts and exposing the icon size requested from servers.
+// ---
+
 #ifndef CHROME_BROWSER_FAVICON_LARGE_ICON_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_FAVICON_LARGE_ICON_SERVICE_FACTORY_H_
 

@@ -1,6 +1,13 @@
 // Copyright 2021 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: SurfaceCoordinator interface
+// summary: Defines an interface for referencing FeedSurfaceCoordinator, with observer registration, surface lifecycle callbacks, feed tab selection IDs, and instance state restore methods.
+// ---
+
 package org.chromium.chrome.browser.feed.componentinterfaces;
 
 import androidx.annotation.IntDef;

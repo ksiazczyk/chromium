@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RefreshIphScrollListener
+// summary: Scroll listener that triggers the swipe-refresh in-product help when the feed is expanded, scrolled to the top, and the last fetch is at least five minutes old.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import androidx.annotation.VisibleForTesting;

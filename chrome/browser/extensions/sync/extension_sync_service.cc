@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension sync service implementation
+// summary: Implements the ExtensionSyncService that syncs extensions and apps, processing sync changes and preparing extension sync data for install and merge operations.
+// ---
+
 #include "chrome/browser/extensions/sync/extension_sync_service.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Account extension tracker unit tests
+// summary: Unit tests verifying that extensions receive the correct AccountExtensionType depending on sign-in, sync state, and install timing.
+// ---
+
 #include "chrome/browser/extensions/sync/account_extension_tracker.h"
 
 #include "base/test/metrics/histogram_tester.h"

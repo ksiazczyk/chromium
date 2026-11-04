@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account extension tracker implementation
+// summary: Implements the per-profile AccountExtensionTracker keyed service that assigns each extension an AccountExtensionType describing whether it belongs to the signed-in user's account data.
+// ---
+
 #include "chrome/browser/extensions/sync/account_extension_tracker.h"
 
 #include "base/functional/bind.h"

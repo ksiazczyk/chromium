@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: FCM browser build target
+summary: Defines the fcm source_set containing the FCM service factory sources and lists its public and private build dependencies.

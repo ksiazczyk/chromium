@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedSliceViewTracker
+// summary: Tracks the position and visibility of feed slice views and notifies observers when slices become mostly visible, enter the viewport, or feed content is visible.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

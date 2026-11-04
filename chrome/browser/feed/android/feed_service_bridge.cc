@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed service bridge implementation
+// summary: Implements the JNI bridge between Java and the native feed service, exposing feed enablement, user actions, display metrics, sign-in state and image prefetching.
+// ---
+
 #include "chrome/browser/feed/android/feed_service_bridge.h"
 
 #include <vector>

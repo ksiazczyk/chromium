@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the external protocol directory
+summary: Lists meacer@chromium.org as the required code owner for changes in this directory.

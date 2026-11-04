@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android Blue Bubble configuration provider unit tests
+// summary: Unit tests verifying that the provider tightens loose trigger limits, adds missing cooldowns, and preserves already compliant configurations.
+// ---
+
 #include "chrome/browser/feature_engagement/android_blue_bubble_configuration_provider.h"
 
 #include "base/test/scoped_feature_list.h"

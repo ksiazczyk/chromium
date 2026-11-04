@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollListener
+// summary: Interface for receiving scroll events, scroll states, and header offset changes from the new tab page's scrollable container.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import androidx.annotation.IntDef;

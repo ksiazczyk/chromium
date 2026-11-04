@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Bank account item layout for facilitated payments
+summary: Android layout for a bank account list item showing an icon, bank name, payment rail, account type, number and additional info.
+-->
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:background="@drawable/card_with_corners_background"

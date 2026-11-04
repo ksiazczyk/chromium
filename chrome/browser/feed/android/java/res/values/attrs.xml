@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Feed section header view custom attributes
+summary: Defines custom styleable attributes for the feed SectionHeaderView, including a padding animation flag and a badge radius used by its badge drawable.
+-->
+
 <resources>
     <declare-styleable name="SectionHeaderView">
        <attr name="animatePaddingWhenDisabled" format="boolean"/>

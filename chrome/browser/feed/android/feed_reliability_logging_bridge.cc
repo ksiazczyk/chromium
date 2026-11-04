@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed reliability logging bridge implementation
+// summary: Native JNI bridge for feed reliability logging that maps net errors and HTTP status codes to canonical status codes for the server.
+// ---
+
 #include "chrome/browser/feed/android/feed_reliability_logging_bridge.h"
 
 #include "base/android/jni_android.h"

@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: FeedStreamViewResizerTest
+// summary: Robolectric unit tests checking the computed feed padding across screen sizes, orientations, display styles and multi-window modes.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import static org.junit.Assert.assertEquals;

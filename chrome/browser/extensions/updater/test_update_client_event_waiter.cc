@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test helper waiting for update client events
+// summary: Implements an UpdateClient observer that blocks until a component reaches an updated, up-to-date, or error state during tests.
+// ---
+
 #include "chrome/browser/extensions/updater/test_update_client_event_waiter.h"
 
 #include <string>

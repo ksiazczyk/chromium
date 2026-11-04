@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedResourceFetcher
+// summary: Implements xsurface's ResourceFetcher by forwarding feed resource requests to native code and wrapping the network responses for callbacks.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import org.jni_zero.CalledByNative;

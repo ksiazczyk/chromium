@@ -4,6 +4,13 @@ Copyright 2020 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Feed placeholder layout
+summary: Android layout for the feed placeholder view, holding a header container and a container for placeholder cards.
+-->
+
 <org.chromium.chrome.browser.feed.FeedPlaceholderLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Facilitated payments bottom sheet bridge header
+// summary: Declares the bridge class that provides native entry points for showing the facilitated payments bottom sheet UI on Android.
+// ---
+
 #ifndef CHROME_BROWSER_FACILITATED_PAYMENTS_UI_ANDROID_FACILITATED_PAYMENTS_BOTTOM_SHEET_BRIDGE_H_
 #define CHROME_BROWSER_FACILITATED_PAYMENTS_UI_ANDROID_FACILITATED_PAYMENTS_BOTTOM_SHEET_BRIDGE_H_
 

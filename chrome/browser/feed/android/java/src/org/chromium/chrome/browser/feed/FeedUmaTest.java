@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FeedUmaTest
+// summary: Robolectric unit tests for FeedUma verifying histogram logging and native action reporting for feed bottom sheet clicks and article list visibility.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import static org.mockito.Mockito.verify;

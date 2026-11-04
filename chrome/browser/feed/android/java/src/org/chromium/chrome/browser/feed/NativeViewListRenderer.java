@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeViewListRenderer
+// summary: HybridListRenderer implementation backed by a RecyclerView that renders list content consisting entirely of native Android views.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import static org.chromium.build.NullUtil.assertNonNull;

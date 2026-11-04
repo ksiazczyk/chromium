@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Favicon utils unit tests
+// summary: Unit tests verifying favicon theming rules for navigation entries and that the default favicon model selects the correct light or dark icon for the active color scheme.
+// ---
+
 #include "chrome/browser/favicon/favicon_utils.h"
 
 #include "base/functional/bind.h"

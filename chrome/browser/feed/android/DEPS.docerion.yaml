@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Feed Android include rules
+summary: DEPS file restricting which directories the feed Android code may include, with special rules for tests and a Java dependency provider.

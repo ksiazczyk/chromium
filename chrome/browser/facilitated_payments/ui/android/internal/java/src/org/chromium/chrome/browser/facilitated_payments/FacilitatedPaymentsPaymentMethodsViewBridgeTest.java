@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Facilitated payments payment methods view bridge tests
+// summary: Unit tests for the payment methods view bridge, covering bottom sheet creation and FOP selector requests.
+// ---
+
 package org.chromium.chrome.browser.facilitated_payments;
 
 import static org.hamcrest.MatcherAssert.assertThat;

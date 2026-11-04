@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for LocalExtensionCache
+// summary: Tests cache initialization, extension storage and lookup with hashes, and cleanup behavior using temporary cache directories.
+// ---
+
 #include "chrome/browser/extensions/updater/local_extension_cache.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NativeViewListRendererTest
+// summary: Robolectric unit tests verifying that NativeViewListRenderer binds feed content to RecyclerView views and view holders correctly.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

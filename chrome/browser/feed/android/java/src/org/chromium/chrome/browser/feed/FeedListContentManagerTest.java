@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FeedListContentManager unit tests
+// summary: Robolectric unit tests for FeedListContentManager covering adding, removing, changing and moving contents, key lookup and observer notifications.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

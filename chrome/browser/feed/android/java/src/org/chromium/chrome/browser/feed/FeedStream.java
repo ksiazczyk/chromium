@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedStream
+// summary: Implements the Feed Stream interface by rendering a vertical stream of feed cards for Feed v2, handling surface actions, sharing, snackbars and accessibility.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

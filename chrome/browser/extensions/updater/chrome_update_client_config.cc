@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome update client config implementation
+// summary: Implements the update_client Configurator for extension updates, including an activity data service, network and downloader factories, and ping day calculation.
+// ---
+
 #include "chrome/browser/extensions/updater/chrome_update_client_config.h"
 
 #include <algorithm>
