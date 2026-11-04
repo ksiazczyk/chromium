@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake user provider for personalization app tests
+// summary: Declares a fake UserProvider subclass with stubbed user image and selection methods for personalization app tests.
+// ---
+
 #ifndef ASH_WEBUI_PERSONALIZATION_APP_TEST_FAKE_PERSONALIZATION_APP_USER_PROVIDER_H_
 #define ASH_WEBUI_PERSONALIZATION_APP_TEST_FAKE_PERSONALIZATION_APP_USER_PROVIDER_H_
 

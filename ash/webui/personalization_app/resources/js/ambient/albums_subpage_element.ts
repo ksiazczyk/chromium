@@ -7,6 +7,12 @@
  * Google Photos or categories in Art gallery.
  */
 
+// ---docerion
+// type: source
+// title: Albums subpage element
+// summary: Implements the ambient albums subpage for selecting personal Google Photos albums or art gallery categories.
+// ---
+
 import 'chrome://resources/ash/common/personalization/common.css.js';
 import 'chrome://resources/ash/common/cr_elements/localized_link/localized_link.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_style.css.js';

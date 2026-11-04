@@ -1,0 +1,4 @@
+# Docerion header of ambient_theme_item_element.html.
+type: source
+title: Ambient theme item element template
+summary: HTML template for a selectable ambient theme grid item showing a preview image, checkmark icon, and description text.

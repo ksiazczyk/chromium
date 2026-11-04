@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProjectorAppClient singleton implementation
+// summary: Implements the ProjectorAppClient singleton accessor with instance lifetime checks.
+// ---
+
 #include "ash/webui/projector_app/projector_app_client.h"
 
 #include "base/check_op.h"

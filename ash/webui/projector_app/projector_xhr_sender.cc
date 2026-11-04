@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Projector XHR sender implementation
+// summary: Implements ProjectorXhrSender, which sends XHR requests from the ChromeOS Projector app to allowlisted Google services, authorizing them with an API key, OAuth token, or cookies.
+// ---
+
 #include "ash/webui/projector_app/projector_xhr_sender.h"
 
 #include <optional>

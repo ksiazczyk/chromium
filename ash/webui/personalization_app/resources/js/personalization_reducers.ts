@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personalization app reducers
+// summary: Defines Redux-style reducers for the personalization app, combining ambient, theme, user, wallpaper and other sub-reducers and handling error state changes.
+// ---
+
 /**
  * @fileoverview  Defines reducers for personalization app.  Reducers must be a
  * pure function that returns a new state object if anything has changed.

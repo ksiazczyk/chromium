@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Untrusted Projector WebUI controller header
+// summary: Declares the untrusted Projector WebUI controller and its delegate, which create and bind the page handler for the Projector app.
+// ---
+
 #ifndef ASH_WEBUI_PROJECTOR_APP_UNTRUSTED_PROJECTOR_UI_H_
 #define ASH_WEBUI_PROJECTOR_APP_UNTRUSTED_PROJECTOR_UI_H_
 

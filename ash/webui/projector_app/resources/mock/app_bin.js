@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock ProjectorApp Polymer element
+// summary: Mock projector-app Polymer element implementing AppApi stubs for testing and displaying a notice that branded Chrome is required for the official Projector app.
+// ---
+
 import {PolymerElement} from '//resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 
 /*

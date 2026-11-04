@@ -8,6 +8,12 @@
  * zone customization section.
  */
 
+// ---docerion
+// type: source
+// title: Color icon element
+// summary: Defines the ColorIconElement custom element that renders wallpaper or preset color swatches, computing icon styles and brightness-based contrast.
+// ---
+
 import type {SkColor} from 'chrome://resources/mojo/skia/public/mojom/skcolor.mojom-webui.js';
 
 import {WithPersonalizationStore} from '../personalization_store.js';

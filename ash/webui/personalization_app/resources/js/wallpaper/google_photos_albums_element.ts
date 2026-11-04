@@ -6,6 +6,12 @@
  * @fileoverview Polymer element that displays Google Photos albums.
  */
 
+// ---docerion
+// type: source
+// title: Google Photos albums element
+// summary: Polymer element that fetches and displays owned and shared Google Photos albums in a grid with loading placeholders, pagination and error handling.
+// ---
+
 import 'chrome://resources/ash/common/personalization/common.css.js';
 import 'chrome://resources/ash/common/personalization/wallpaper.css.js';
 import 'chrome://resources/polymer/v3_0/iron-list/iron-list.js';

@@ -1,0 +1,4 @@
+# Docerion header of print_management.html.
+type: source
+title: Print Management main template
+summary: Main app template with the page title, clear-all-history button, policy indicator, manage printers action and the ongoing and completed job lists.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the search tag registry
+// summary: Registers search concepts and their localized message strings in the local search service index and updates them in response to preference and enterprise policy changes.
+// ---
+
 #include "ash/webui/personalization_app/search/search_tag_registry.h"
 
 #include <iterator>

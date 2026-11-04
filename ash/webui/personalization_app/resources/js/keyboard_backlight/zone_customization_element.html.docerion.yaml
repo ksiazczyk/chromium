@@ -1,0 +1,4 @@
+# Docerion header of zone_customization_element.html.
+type: source
+title: Zone customization dialog template
+summary: HTML template for the keyboard backlight zone customization dialog, providing zone tab styling, a color selector, and a dismiss button.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for the personalization app mojom directory
+summary: Lists directory owners and routes mojom and mojom traits files to the IPC security owners for review.

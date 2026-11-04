@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme reducers for the personalization app
+// summary: Defines reducer functions that update theme state such as dark mode, color scheme, static color, geolocation permissions, and sunrise and sunset times in response to theme actions.
+// ---
+
 import type {Actions} from '../personalization_actions.js';
 import type {ReducerFunction} from '../personalization_reducers.js';
 import type {PersonalizationState} from '../personalization_state.js';

@@ -1,0 +1,4 @@
+# Docerion header of gen_tsconfig.py.
+type: script
+title: Generate a local tsconfig.json for TypeScript GN targets
+summary: Helper script that runs a TypeScript GN build target and derives a local tsconfig.json so TypeScript language servers can parse the source files.

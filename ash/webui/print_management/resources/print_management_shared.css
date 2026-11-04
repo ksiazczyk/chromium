@@ -10,6 +10,12 @@
  * #include=cr-shared-style cros-color-overrides
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Print management shared styles
+summary: Shared CSS styles for print management components covering layout, status icon colors and dark mode support.
+*/
+
 :host {
   /* Margin on hover for responsive layout adjusts based on padded-left minus
      16px to align left. */

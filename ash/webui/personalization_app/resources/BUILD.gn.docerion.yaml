@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the personalization app resources
+summary: GN build file that lists the static, web component, and TypeScript files compiled into the ChromeOS personalization WebUI.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Implementation of the mock XHR sender for Projector tests
+// summary: Implements MockXhrSender, a ProjectorXhrSender test double whose Send method runs a quit closure with the request URL, method, and body so tests can verify sent requests.
+// ---
+
 #include "ash/webui/projector_app/test/mock_xhr_sender.h"
 
 #include "services/network/public/mojom/url_response_head.mojom.h"

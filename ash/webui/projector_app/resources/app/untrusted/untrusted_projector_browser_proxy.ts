@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser proxy for the untrusted Projector app
+// summary: Browser proxy that communicates with the trusted Projector WebUI over Mojo to fetch user prefs, pending screencasts, SODA state, and send XHR requests.
+// ---
+
 import type {XhrResponseResult} from './app_api.js';
 import {Account, JsNetErrorCode, NewScreencastPrecondition, PendingScreencast, PrefsThatProjectorCanAskFor, RequestType, VideoInfo, XhrResponseCode} from './mojom/projector_types.mojom-webui.js';
 import {UntrustedProjectorPageCallbackRouter, UntrustedProjectorPageHandlerFactory, UntrustedProjectorPageHandlerRemote} from './mojom/untrusted_projector.mojom-webui.js';

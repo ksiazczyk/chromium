@@ -1,0 +1,4 @@
+# Docerion header of topic_source_list_element.html.
+type: source
+title: Topic source list element template
+summary: HTML template for the topic source list element, rendering topic sources as a radio group under an ambient mode topic source title.

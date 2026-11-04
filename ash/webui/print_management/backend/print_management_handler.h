@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print management handler class declaration
+// summary: Declares the Mojo PrintManagementHandler that binds the print management interface and forwards printer settings launches to a delegate.
+// ---
+
 #ifndef ASH_WEBUI_PRINT_MANAGEMENT_BACKEND_PRINT_MANAGEMENT_HANDLER_H_
 #define ASH_WEBUI_PRINT_MANAGEMENT_BACKEND_PRINT_MANAGEMENT_HANDLER_H_
 

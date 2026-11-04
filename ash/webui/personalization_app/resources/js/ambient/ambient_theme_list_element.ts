@@ -6,6 +6,12 @@
  * @fileoverview The element for displaying a list of ambient themes.
  */
 
+// ---docerion
+// type: source
+// title: Ambient theme list element
+// summary: Polymer custom element that shows the list of available ambient themes, adding the video theme when the time-of-day screensaver flag is enabled.
+// ---
+
 import 'chrome://resources/ash/common/personalization/common.css.js';
 import './ambient_theme_item_element.js';
 

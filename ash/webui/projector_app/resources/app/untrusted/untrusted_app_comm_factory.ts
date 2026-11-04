@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client delegate wiring for the untrusted Projector app
+// summary: Implements the ClientDelegate for the untrusted Projector app, forwarding account, preference, XHR, and screencast requests to the browser proxy and managing video file loading.
+// ---
+
 import {COLOR_PROVIDER_CHANGED, ColorChangeUpdater} from '//resources/cr_components/color_change_listener/colors_css_updater.js';
 import {PromiseResolver} from '//resources/js/promise_resolver.js';
 

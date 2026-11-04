@@ -1,0 +1,4 @@
+# Docerion header of google_photos_zero_state_element.html.
+type: source
+title: Google Photos zero state element template
+summary: HTML template that shows a no-Google-Photos illustration and a localized link message when there is no content to display.

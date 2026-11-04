@@ -7,6 +7,12 @@
  * in the ambient preview element.
  */
 
+// ---docerion
+// type: source
+// title: Info SVG element
+// summary: Polymer component that displays the info SVG icon graphic.
+// ---
+
 import {PolymerElement} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 
 import {getTemplate} from './info_svg_element.html.js';

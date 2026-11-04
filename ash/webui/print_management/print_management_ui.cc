@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print management WebUI controller implementation
+// summary: Implements the ChromeOS print management WebUI controller, registering resource paths, localized strings and Mojo interface bindings.
+// ---
+
 #include "ash/webui/print_management/print_management_ui.h"
 
 #include <memory>

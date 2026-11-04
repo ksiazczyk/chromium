@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper observer
+// summary: Implements the WallpaperObserver mojom interface to listen for wallpaper, attribution, and preview changes and dispatch corresponding actions to the personalization store.
+// ---
+
 import {FullscreenPreviewState} from 'chrome://resources/ash/common/personalization/wallpaper_state.js';
 
 import type {CurrentAttribution, CurrentWallpaper, WallpaperObserverInterface, WallpaperProviderInterface} from '../../personalization_app.mojom-webui.js';

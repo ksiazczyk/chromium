@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Photos wallpaper source metrics logger
+// summary: Records a UMA histogram identifying the section of the wallpaper app from which a Google Photos wallpaper was selected.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 
 /**

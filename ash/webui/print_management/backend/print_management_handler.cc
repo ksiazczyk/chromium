@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print management handler implementation
+// summary: Implements the Mojo print management handler, launching printer settings via the delegate and recording launch and request duration metrics.
+// ---
+
 #include "ash/webui/print_management/backend/print_management_handler.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of personalization_app.mojom.
+type: source
+title: Mojom definitions for the ChromeOS personalization app
+summary: Defines Mojo enums, structs, and interfaces covering wallpaper, Google Photos, user info, and ambient mode settings for the personalization WebUI.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient mode state reducers
+// summary: Reducer functions that update ambient mode state such as albums, previews, theme, duration, temperature unit, and topic source.
+// ---
+
 import type {Actions} from '../personalization_actions.js';
 import type {ReducerFunction} from '../personalization_reducers.js';
 import type {PersonalizationState} from '../personalization_state.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personalization app URL constants declarations
+// summary: Declares the host, URL, and subpage path constants used by the ChromeOS personalization app.
+// ---
+
 #ifndef ASH_WEBUI_PERSONALIZATION_APP_PERSONALIZATION_APP_URL_CONSTANTS_H_
 #define ASH_WEBUI_PERSONALIZATION_APP_PERSONALIZATION_APP_URL_CONSTANTS_H_
 

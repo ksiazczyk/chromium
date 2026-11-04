@@ -6,6 +6,12 @@
  * @fileoverview The element for displaying an ambient theme.
  */
 
+// ---docerion
+// type: source
+// title: Ambient theme item element
+// summary: Polymer custom element that renders a single selectable ambient theme option with localized description and preview image, and sets the chosen theme on selection.
+// ---
+
 import 'chrome://resources/ash/common/personalization/common.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_auto_img/cr_auto_img.js';
 import 'chrome://resources/ash/common/cr_elements/cr_shared_vars.css.js';

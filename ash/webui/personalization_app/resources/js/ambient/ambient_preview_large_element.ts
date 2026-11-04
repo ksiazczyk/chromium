@@ -9,6 +9,12 @@
  * the personalization app main page.
  */
 
+// ---docerion
+// type: source
+// title: Large ambient preview element
+// summary: Polymer element that renders a large ambient preview card with album cover, thumbnail collage, and album information on the main page.
+// ---
+
 import 'chrome://resources/ash/common/personalization/common.css.js';
 import 'chrome://resources/ash/common/personalization/cros_button_style.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_auto_img/cr_auto_img.js';

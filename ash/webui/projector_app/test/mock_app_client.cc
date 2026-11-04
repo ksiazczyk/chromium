@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Implementation of the mock Projector app client for tests
+// summary: Implements MockAppClient, a test double for ProjectorAppClient that sets up a signed-in test account, provides a test URL loader factory, and grants or fails OAuth tokens on demand.
+// ---
+
 #include "ash/webui/projector_app/test/mock_app_client.h"
 
 #include "components/signin/public/base/consent_level.h"

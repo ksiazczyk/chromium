@@ -7,6 +7,12 @@
  * allow the user to take a selfie.
  */
 
+// ---docerion
+// type: source
+// title: Avatar camera element
+// summary: Polymer component providing a camera interface that captures a selfie photo or video frames from the webcam and saves the result as the user avatar image.
+// ---
+
 import 'chrome://resources/ash/common/personalization/cros_button_style.css.js';
 import 'chrome://resources/ash/common/personalization/personalization_shared_icons.html.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';

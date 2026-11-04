@@ -1,0 +1,4 @@
+# Docerion header of local_images_element.html.
+type: source
+title: Local images element template
+summary: HTML template that lays out a scrollable iron-list grid of selectable wallpaper grid items for local images.

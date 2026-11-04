@@ -8,6 +8,12 @@
  * zone color.
  */
 
+// ---docerion
+// type: source
+// title: Zone customization dialog element
+// summary: Polymer element implementing the dialog for customizing RGB keyboard backlight zone colors, connecting zone tabs and color selection to the personalization store.
+// ---
+
 import 'chrome://resources/polymer/v3_0/iron-a11y-keys/iron-a11y-keys.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 import './color_icon_element.js';

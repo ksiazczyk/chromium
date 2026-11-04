@@ -1,0 +1,4 @@
+# Docerion header of projector_app.gni.
+type: config
+title: Projector app build arguments
+summary: Declares the enable_cros_projector_app build argument and asserts the media app dependency required for ink support.

@@ -1,0 +1,4 @@
+# Docerion header of zero_state_element.html.
+type: source
+title: Ambient zero state element template
+summary: HTML template for the ambient zero state element, showing an image and message displayed when ambient mode is not configured.

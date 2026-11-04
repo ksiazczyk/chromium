@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard backlight reducers
+// summary: Redux-style reducers that update keyboard backlight state values such as the current backlight state, nudge visibility, and wallpaper color in the personalization app.
+// ---
+
 import type {SkColor} from 'chrome://resources/mojo/skia/public/mojom/skcolor.mojom-webui.js';
 
 import type {CurrentBacklightState} from '../../personalization_app.mojom-webui.js';

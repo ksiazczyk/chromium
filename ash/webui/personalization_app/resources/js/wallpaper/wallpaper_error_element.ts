@@ -9,6 +9,12 @@
  * that may have multiple sizes, not large rectangular svgs.
  */
 
+// ---docerion
+// type: source
+// title: Wallpaper error element
+// summary: Polymer element that displays an error illustration when wallpaper collections fail to load.
+// ---
+
 import 'chrome://resources/ash/common/personalization/personalization_shared_icons.html.js';
 
 import {I18nMixin} from 'chrome://resources/ash/common/cr_elements/i18n_mixin.js';

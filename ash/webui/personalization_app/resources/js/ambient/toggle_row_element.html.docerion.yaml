@@ -1,0 +1,4 @@
+# Docerion header of toggle_row_element.html.
+type: source
+title: Toggle row element template
+summary: HTML template for the ambient mode toggle row, pairing a description with a switch that enables or disables ambient mode.

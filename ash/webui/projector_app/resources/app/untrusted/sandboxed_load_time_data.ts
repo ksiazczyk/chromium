@@ -18,6 +18,12 @@
  * ui/webui/resources/js/load_time_data.ts
  */
 
+// ---docerion
+// type: source
+// title: Sandboxed load time data for untrusted origins
+// summary: Minimal loadTimeData implementation for sandboxed untrusted origins that offers a compatible API without the validation of the full version.
+// ---
+
 interface LoadTimeDataRaw {
   [key: string]: any;
 }

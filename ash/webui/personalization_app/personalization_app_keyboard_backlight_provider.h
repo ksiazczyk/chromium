@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard backlight provider interface
+// summary: Declares the abstract KeyboardBacklightProvider interface for binding the keyboard backlight Mojo interface in the Personalization app.
+// ---
+
 #ifndef ASH_WEBUI_PERSONALIZATION_APP_PERSONALIZATION_APP_KEYBOARD_BACKLIGHT_PROVIDER_H_
 #define ASH_WEBUI_PERSONALIZATION_APP_PERSONALIZATION_APP_KEYBOARD_BACKLIGHT_PROVIDER_H_
 

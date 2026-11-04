@@ -1,0 +1,4 @@
+# Docerion header of untrusted_projector.mojom.
+type: source
+title: Untrusted Projector Mojo interface definitions
+summary: Defines Mojo interfaces between the Projector SWA's untrusted JavaScript and the browser process, covering screencast preconditions, SODA installation, user prefs, XHR proxying, accounts, and video retrieval.

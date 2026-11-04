@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personalization metrics logger
+// summary: Logs personalization metrics such as Google Photos previews load time and system location permission changes through chrome.metricsPrivate.
+// ---
+
 import {GeolocationAccessLevel} from './geolocation_dialog.js';
 
 const enum HistogramName {

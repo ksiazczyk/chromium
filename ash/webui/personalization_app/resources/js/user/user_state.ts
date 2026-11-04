@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User state definition
+// summary: Defines the UserState interface and an emptyState factory holding avatar, image, info, and camera fields for the store.
+// ---
+
 import type {Url} from 'chrome://resources/mojo/url/mojom/url.mojom-webui.js';
 
 import type {DefaultUserImage, UserImage, UserInfo} from '../../personalization_app.mojom-webui.js';

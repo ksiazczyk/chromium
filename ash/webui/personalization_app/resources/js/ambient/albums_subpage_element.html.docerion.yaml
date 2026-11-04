@@ -1,0 +1,4 @@
+# Docerion header of albums_subpage_element.html.
+type: source
+title: Albums subpage element HTML template
+summary: HTML template for the albums subpage showing loading placeholders, page description and the album list.

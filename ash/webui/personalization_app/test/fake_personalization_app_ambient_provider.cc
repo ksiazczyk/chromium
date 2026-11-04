@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake ambient provider implementation for personalization app tests
+// summary: Implements a fake AmbientProvider that binds the mojom receiver and returns canned ambient and geolocation responses for browser tests.
+// ---
+
 #include "ash/webui/personalization_app/test/fake_personalization_app_ambient_provider.h"
 
 #include "ash/constants/ash_features.h"

@@ -1,0 +1,4 @@
+# Docerion header of search.mojom.
+type: source
+title: Mojo interface definitions for personalization app search
+summary: Defines the SearchConceptId enum, SearchResult struct, SearchResultsObserver interface, and SearchHandler interface used for launcher search in the personalization app.

@@ -1,0 +1,4 @@
+# Docerion header of google_photos_photos_element.html.
+type: source
+title: Google Photos photos element HTML template
+summary: HTML template for the Google Photos photos element, rendering rows of photo grid items with date and location captions.

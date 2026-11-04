@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the personalization search handler
+// summary: Implements query handling through the local search service, sorts and ranks results, and notifies observers when the registry changes.
+// ---
+
 #include "ash/webui/personalization_app/search/search_handler.h"
 
 #include <algorithm>

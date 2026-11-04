@@ -1,0 +1,4 @@
+# Docerion header of personalization_main_element.html.
+type: source
+title: Personalization main element template
+summary: HTML template laying out the personalization hub grid with user preview, time-of-day banner, wallpaper and ambient previews, and keyboard backlight.

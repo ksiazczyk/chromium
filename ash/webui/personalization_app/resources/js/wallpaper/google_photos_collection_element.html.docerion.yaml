@@ -1,0 +1,4 @@
+# Docerion header of google_photos_collection_element.html.
+type: source
+title: Google Photos collection element HTML template
+summary: HTML template for the Google Photos collection element, providing a tab strip that switches between photos, albums and zero-state views.

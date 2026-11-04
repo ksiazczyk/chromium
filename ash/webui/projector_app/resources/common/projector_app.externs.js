@@ -9,6 +9,12 @@
  * TODO(b/195329580): Convert this file to ES6.
  */
 
+// ---docerion
+// type: source
+// title: Projector app externs for type checking
+// summary: Closure externs declaring types such as the annotator API, account, OAuth token, and screencast structures used to typecheck uncompiled JavaScript in the Projector app.
+// ---
+
 /** @const */
 const projectorApp = {};
 

@@ -1,0 +1,4 @@
+# Docerion header of avatar_camera_element.html.
+type: source
+title: Avatar camera element HTML template
+summary: HTML template for the avatar-camera dialog that shows the mirrored webcam feed, capture overlay, SVG mask, and photo/video capture buttons in the personalization app.

@@ -1,0 +1,4 @@
+# Docerion header of info_svg_element.html.
+type: source
+title: Info SVG element template
+summary: HTML template that renders a small inline SVG info icon with a white circular information glyph.

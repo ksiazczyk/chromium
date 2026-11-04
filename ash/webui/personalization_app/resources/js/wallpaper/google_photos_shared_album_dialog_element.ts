@@ -7,6 +7,12 @@
  * selected for daily refresh is shared with other Google Photos accounts.
  */
 
+// ---docerion
+// type: source
+// title: Google Photos shared album dialog element
+// summary: Polymer element that shows a dialog when a Google Photos album chosen for daily refresh is shared, dispatching an accept event on confirmation.
+// ---
+
 import 'chrome://resources/ash/common/personalization/cros_button_style.css.js';
 
 import type {CrDialogElement} from 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';

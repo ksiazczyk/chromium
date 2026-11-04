@@ -9,6 +9,12 @@
  * wallpaper collection id to avoid refetching data unnecessarily.
  */
 
+// ---docerion
+// type: source
+// title: Wallpaper images element
+// summary: Polymer element that fetches and displays wallpaper images of a collection as grid tiles, caching images by collection id and handling time-of-day wallpapers.
+// ---
+
 import 'chrome://resources/ash/common/personalization/wallpaper.css.js';
 import 'chrome://resources/polymer/v3_0/iron-media-query/iron-media-query.js';
 

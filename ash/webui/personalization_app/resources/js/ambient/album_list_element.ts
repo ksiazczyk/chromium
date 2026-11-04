@@ -6,6 +6,12 @@
  * @fileoverview The element for displaying a list of albums.
  */
 
+// ---docerion
+// type: source
+// title: Album list element
+// summary: Defines the album-list custom element that displays ambient mode albums and dispatches album selection events.
+// ---
+
 import 'chrome://resources/ash/common/personalization/common.css.js';
 import 'chrome://resources/polymer/v3_0/iron-list/iron-list.js';
 

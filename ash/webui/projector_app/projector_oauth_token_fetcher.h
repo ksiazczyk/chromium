@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Projector OAuth token fetcher for the Projector SWA
+// summary: Declares ProjectorOAuthTokenFetcher, which lists available accounts and provides cached, appropriately scoped OAuth tokens from IdentityManager for the Projector SWA.
+// ---
+
 #ifndef ASH_WEBUI_PROJECTOR_APP_PROJECTOR_OAUTH_TOKEN_FETCHER_H_
 #define ASH_WEBUI_PROJECTOR_APP_PROJECTOR_OAUTH_TOKEN_FETCHER_H_
 

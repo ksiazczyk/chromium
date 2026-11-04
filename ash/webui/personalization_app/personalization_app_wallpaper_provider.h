@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper provider interface for the personalization app
+// summary: Declares the mojom WallpaperProvider interface that serves the current wallpaper as JPEG bytes and reports Google Photos eligibility to the personalization app.
+// ---
+
 #ifndef ASH_WEBUI_PERSONALIZATION_APP_PERSONALIZATION_APP_WALLPAPER_PROVIDER_H_
 #define ASH_WEBUI_PERSONALIZATION_APP_PERSONALIZATION_APP_WALLPAPER_PROVIDER_H_
 

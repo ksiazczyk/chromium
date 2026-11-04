@@ -1,0 +1,4 @@
+# Docerion header of ambient_zero_state_svg_element.html.
+type: source
+title: Ambient zero state SVG element template
+summary: HTML template defining the wavy SVG shape used as the zero-state message container in the ambient preview.

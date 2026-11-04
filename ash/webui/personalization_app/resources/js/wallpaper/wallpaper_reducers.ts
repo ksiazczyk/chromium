@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper reducers
+// summary: Reducer functions that update wallpaper state for collections, images, loading progress, Google Photos, and SeaPen actions in the personalization store.
+// ---
+
 import {FullscreenPreviewState} from 'chrome://resources/ash/common/personalization/wallpaper_state.js';
 import type {SeaPenActions} from 'chrome://resources/ash/common/sea_pen/sea_pen_actions.js';
 import {SeaPenActionName} from 'chrome://resources/ash/common/sea_pen/sea_pen_actions.js';

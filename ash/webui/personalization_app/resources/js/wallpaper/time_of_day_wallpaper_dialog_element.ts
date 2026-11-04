@@ -7,6 +7,12 @@
  * light mode or not before setting the time of day wallpaper.
  */
 
+// ---docerion
+// type: source
+// title: Time of day wallpaper dialog element
+// summary: Dialog element that asks whether to enable auto dark or light mode before setting the time of day wallpaper.
+// ---
+
 import 'chrome://resources/ash/common/personalization/common.css.js';
 import 'chrome://resources/ash/common/personalization/cros_button_style.css.js';
 

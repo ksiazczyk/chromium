@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App API interfaces for the untrusted Projector app
+// summary: Declares the ClientDelegate and AppApi interfaces the Projector app uses to request Chrome services such as XHRs, user prefs, screencasts, and SODA installation.
+// ---
+
 import type {Account, JsNetErrorCode, NewScreencastPrecondition, PendingScreencast} from './mojom/projector_types.mojom-webui.js';
 
 /**

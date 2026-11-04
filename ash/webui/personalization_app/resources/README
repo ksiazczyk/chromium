@@ -1,3 +1,9 @@
+---
+type: readme
+title: README for time-of-day resources hosted in CIPD
+summary: Explains that time-of-day resources are hosted in CIPD for internal checkouts and how to rebuild, upload, and update the DEPS version.
+---
+
 The time-of-day resources cannot be made public until after the feature has been
 launched. Thus, they are currently hosted in CIPD and downloaded to this
 directory only if an internal chrome-branded checkout is being used. To update

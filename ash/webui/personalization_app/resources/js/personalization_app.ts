@@ -8,6 +8,12 @@
  * page.
  */
 
+// ---docerion
+// type: source
+// title: Personalization app entry point
+// summary: Main entry point of the Personalization SWA that imports the required modules and Polymer elements to bootstrap the page and re-exports them for tests.
+// ---
+
 import '/strings.m.js';
 import './ambient/album_list_element.js';
 import './ambient/albums_subpage_element.js';

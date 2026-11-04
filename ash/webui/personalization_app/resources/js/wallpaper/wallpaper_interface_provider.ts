@@ -8,6 +8,12 @@
  * implementation for testing.
  */
 
+// ---docerion
+// type: source
+// title: Wallpaper interface provider
+// summary: Singleton getter for the WallpaperProvider mojom interface used by the Personalization SWA, with a helper to mock the implementation for testing.
+// ---
+
 import 'chrome://resources/mojo/mojo/public/js/bindings.js';
 import 'chrome://resources/mojo/url/mojom/url.mojom-webui.js';
 

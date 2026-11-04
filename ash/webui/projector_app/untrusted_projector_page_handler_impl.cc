@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Untrusted Projector page handler implementation
+// summary: Implements the page handler for the untrusted Projector web UI, exposing pending screencasts, preferences, and SODA install progress to the app.
+// ---
+
 #include "ash/webui/projector_app/untrusted_projector_page_handler_impl.h"
 
 #include <memory>

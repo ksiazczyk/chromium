@@ -1,0 +1,4 @@
+# Docerion header of album_list_element.html.
+type: source
+title: Album list element HTML template
+summary: HTML template for the album-list element that renders ambient mode albums as a selectable grid using iron-list.

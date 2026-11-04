@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ProjectorXhrSender
+// summary: Unit tests for ProjectorXhrSender covering Drive, translation, and DVS requests, API key usage, credentials, redirects, network errors, and token cache invalidation on unauthorized responses.
+// ---
+
 #include "ash/webui/projector_app/projector_xhr_sender.h"
 
 #include "ash/constants/ash_features.h"

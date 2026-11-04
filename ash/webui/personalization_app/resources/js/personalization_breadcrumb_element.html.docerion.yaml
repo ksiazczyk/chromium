@@ -1,0 +1,4 @@
+# Docerion header of personalization_breadcrumb_element.html.
+type: source
+title: Breadcrumb element template
+summary: HTML template for the breadcrumb navigation bar showing the current view stack with a home button, breadcrumb links, and a SeaPen template dropdown.

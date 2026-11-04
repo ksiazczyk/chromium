@@ -1,0 +1,4 @@
+# Docerion header of google_photos_shared_album_dialog_element.html.
+type: source
+title: Google Photos shared album dialog element template
+summary: HTML template for a dialog informing the user that a Google Photos album selected for daily refresh is shared with other accounts, with close and accept buttons.

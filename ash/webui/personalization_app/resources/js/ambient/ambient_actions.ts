@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient mode store actions
+// summary: Defines the Redux-style actions and action creators used to change ambient mode state in the personalization store.
+// ---
+
 import type {Action} from 'chrome://resources/js/store.js';
 import type {Url} from 'chrome://resources/mojo/url/mojom/url.mojom-webui.js';
 

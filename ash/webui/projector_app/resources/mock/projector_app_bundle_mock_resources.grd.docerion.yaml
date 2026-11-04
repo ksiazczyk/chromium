@@ -1,0 +1,4 @@
+# Docerion header of projector_app_bundle_mock_resources.grd.
+type: config
+title: Mock Projector app GRIT resource bundle
+summary: GRIT XML definition that packages app_bin.js into the ChromeOS Projector app bundle mock resources, generating header, map, and pak outputs.

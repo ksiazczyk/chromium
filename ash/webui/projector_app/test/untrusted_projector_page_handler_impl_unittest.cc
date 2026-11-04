@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for UntrustedProjectorPageHandlerImpl
+// summary: Unit tests for UntrustedProjectorPageHandlerImpl verifying screencast preconditions, SODA install events, prefs, and XHR request handling through mocked Mojo page interfaces.
+// ---
+
 #include "ash/webui/projector_app/untrusted_projector_page_handler_impl.h"
 
 #include "ash/constants/ash_pref_names.h"

@@ -6,6 +6,12 @@
  * @fileoverview This component displays toast notifications to the user.
  */
 
+// ---docerion
+// type: source
+// title: Personalization toast element
+// summary: Polymer element that displays error toast notifications from the store, auto-dismissing them after ten seconds or when the user clicks dismiss.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 
 import {dismissErrorAction} from './personalization_actions.js';

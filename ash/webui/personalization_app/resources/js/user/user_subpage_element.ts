@@ -7,6 +7,12 @@
  * current user and allows changing device avatar image.
  */
 
+// ---docerion
+// type: source
+// title: User subpage element
+// summary: Custom element that shows the user subpage, watches enterprise-managed state, and reloads at root when the image is managed.
+// ---
+
 import {PersonalizationRouterElement} from '../personalization_router_element.js';
 import {WithPersonalizationStore} from '../personalization_store.js';
 

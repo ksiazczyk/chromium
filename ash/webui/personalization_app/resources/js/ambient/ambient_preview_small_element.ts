@@ -8,6 +8,12 @@
  * Currently used on the ambient settings page.
  */
 
+// ---docerion
+// type: source
+// title: Small ambient preview element
+// summary: Polymer element that shows a small ambient preview with cover image, album text, and a screensaver preview button on the ambient settings page.
+// ---
+
 import 'chrome://resources/ash/common/personalization/common.css.js';
 import 'chrome://resources/ash/common/personalization/cros_button_style.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_auto_img/cr_auto_img.js';

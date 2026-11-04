@@ -1,0 +1,4 @@
+# Docerion header of wallpaper_selected_element.html.
+type: source
+title: Wallpaper selected element HTML template
+summary: HTML template and styles for the currently set wallpaper view, showing the image, title, attribution, layout options, and description dialog.

@@ -1,0 +1,4 @@
+# Docerion header of google_photos_albums_element.html.
+type: source
+title: Google Photos albums element HTML template
+summary: HTML template for the Google Photos albums element, laying out a scrollable grid of album items with accessibility attributes.

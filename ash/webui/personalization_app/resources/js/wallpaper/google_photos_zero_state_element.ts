@@ -6,6 +6,12 @@
  * @fileoverview Polymer element that displays the Google Photos zero state.
  */
 
+// ---docerion
+// type: source
+// title: Google Photos zero state element
+// summary: Polymer element that displays the Google Photos zero state message and illustration, varying by active tab and dark mode.
+// ---
+
 import 'chrome://resources/ash/common/personalization/common.css.js';
 import 'chrome://resources/ash/common/personalization/wallpaper.css.js';
 import 'chrome://resources/ash/common/cr_elements/localized_link/localized_link.js';

@@ -7,6 +7,12 @@
  * the personalization hub.
  */
 
+// ---docerion
+// type: source
+// title: Personalization main element
+// summary: Polymer element that displays the main content of the personalization hub, wiring the time-of-day banner and RGB keyboard visibility from store state.
+// ---
+
 import './ambient/ambient_preview_large_element.js';
 
 import {getShouldShowTimeOfDayBanner} from './ambient/ambient_controller.js';

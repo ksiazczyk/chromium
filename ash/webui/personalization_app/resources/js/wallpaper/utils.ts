@@ -4,6 +4,12 @@
 
 /** @fileoverview Wallpaper related utility functions in personalization app */
 
+// ---docerion
+// type: source
+// title: Wallpaper utility functions
+// summary: Utility functions for the wallpaper UI, covering image type checks, selection key matching, layout enums, and loading placeholders.
+// ---
+
 import {isNonEmptyArray, isNonEmptyFilePath} from 'chrome://resources/ash/common/sea_pen/sea_pen_utils.js';
 import {assert} from 'chrome://resources/js/assert.js';
 import {loadTimeData} from 'chrome://resources/js/load_time_data.js';

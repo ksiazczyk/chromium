@@ -6,6 +6,12 @@
  * #type=style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Print management font styles
+summary: Defines typography custom properties such as font families, sizes and weights for the print management UI, including variants for the jelly-enabled theme.
+*/
+
 :host {
   --print-management-title-font-family: 'Google Sans', Roboto, sans-serif;
   --print-management-default-font-family: Roboto, sans-serif;

@@ -7,6 +7,12 @@
  * for the currently selected album id.
  */
 
+// ---docerion
+// type: source
+// title: Google Photos photos by album id element
+// summary: Polymer element that fetches and displays Google Photos photos for the currently selected album id, with placeholders, selection tracking and metrics.
+// ---
+
 import 'chrome://resources/ash/common/personalization/common.css.js';
 import 'chrome://resources/ash/common/personalization/wallpaper.css.js';
 import 'chrome://resources/polymer/v3_0/iron-list/iron-list.js';

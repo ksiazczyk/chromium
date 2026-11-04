@@ -7,6 +7,12 @@
  * collection.
  */
 
+// ---docerion
+// type: source
+// title: Google Photos collection element
+// summary: Polymer element that fetches and displays the Google Photos collection, managing tabs for photos, albums and photos by album id based on enablement state.
+// ---
+
 import 'chrome://resources/ash/common/personalization/common.css.js';
 import 'chrome://resources/ash/common/personalization/wallpaper.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';

@@ -1,0 +1,4 @@
+# Docerion header of personalization_toast_element.html.
+type: source
+title: Personalization toast element template
+summary: HTML template for the toast element, styling an inverted container that shows an error message next to a dismiss button when an error is present.

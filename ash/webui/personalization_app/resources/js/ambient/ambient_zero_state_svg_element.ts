@@ -7,6 +7,12 @@
  * in the ambient preview element.
  */
 
+// ---docerion
+// type: source
+// title: Ambient zero state SVG element
+// summary: Polymer custom element that displays the wavy message container SVG in the ambient preview element.
+// ---
+
 import {PolymerElement} from 'chrome://resources/polymer/v3_0/polymer/polymer_bundled.min.js';
 
 import {getTemplate} from './ambient_zero_state_svg_element.html.js';

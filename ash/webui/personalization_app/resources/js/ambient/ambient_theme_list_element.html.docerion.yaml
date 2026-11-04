@@ -1,0 +1,4 @@
+# Docerion header of ambient_theme_list_element.html.
+type: source
+title: Ambient theme list element template
+summary: HTML template for the ambient theme list, laying out ambient theme items in a grid that acts as a radio group.

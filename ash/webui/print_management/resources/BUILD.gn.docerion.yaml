@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Print Management WebUI build rules
+summary: GN build target that lists the TypeScript, Polymer, CSS, icon and static files making up the ash print management WebUI and its mojo dependencies.

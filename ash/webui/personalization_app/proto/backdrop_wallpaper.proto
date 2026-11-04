@@ -5,6 +5,12 @@
 // Protocol buffer messages to get wallpaper info from the Backdrop service,
 // including the wallpaper collection names, image url and descriptions etc.
 
+// ---docerion
+// type: source
+// title: Backdrop wallpaper protobuf message definitions
+// summary: Defines proto2 messages for fetching wallpaper collections and images from the Backdrop service, including image metadata, attribution, and request/response messages.
+// ---
+
 syntax = "proto2";
 
 package backdrop;

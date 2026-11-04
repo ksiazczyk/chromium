@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme provider interface
+// summary: Declares the abstract ThemeProvider interface for binding the theme Mojo interface in the Personalization app.
+// ---
+
 #ifndef ASH_WEBUI_PERSONALIZATION_APP_PERSONALIZATION_APP_THEME_PROVIDER_H_
 #define ASH_WEBUI_PERSONALIZATION_APP_PERSONALIZATION_APP_THEME_PROVIDER_H_
 

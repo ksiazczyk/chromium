@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake keyboard backlight provider implementation for tests
+// summary: Implements a fake KeyboardBacklightProvider that binds the mojom receiver for use in personalization app tests.
+// ---
+
 #include "ash/webui/personalization_app/test/fake_personalization_app_keyboard_backlight_provider.h"
 #include "ash/webui/personalization_app/mojom/personalization_app.mojom.h"
 

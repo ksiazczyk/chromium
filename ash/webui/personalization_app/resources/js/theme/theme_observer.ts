@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme observer
+// summary: Observes color mode and theme changes from the C++ backend via mojom and dispatches corresponding updates to the personalization store.
+// ---
+
 import type {String16} from '//resources/mojo/mojo/public/mojom/base/string16.mojom-webui.js';
 import type {SkColor} from 'chrome://resources/mojo/skia/public/mojom/skcolor.mojom-webui.js';
 

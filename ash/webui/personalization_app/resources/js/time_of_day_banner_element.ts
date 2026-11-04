@@ -7,6 +7,12 @@
  * user.
  */
 
+// ---docerion
+// type: source
+// title: Time of Day banner element
+// summary: Defines the TimeOfDayBannerElement custom element that shows the Time of Day promo banner and dismisses it via the ambient controller.
+// ---
+
 import 'chrome://resources/ash/common/personalization/common.css.js';
 import 'chrome://resources/ash/common/personalization/cros_button_style.css.js';
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';

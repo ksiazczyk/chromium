@@ -1,0 +1,4 @@
+# Docerion header of google_photos_photos_by_album_id_element.html.
+type: source
+title: Google Photos photos by album id element HTML template
+summary: HTML template for the photos-by-album-id element, laying out a scrollable grid of photo items for the selected album.

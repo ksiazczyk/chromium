@@ -1,0 +1,4 @@
+# Docerion header of topic_source_item_element.html.
+type: source
+title: Topic source item element template
+summary: HTML template for the topic source item element, showing a selectable topic source row with a disc, label text, and chevron icon.

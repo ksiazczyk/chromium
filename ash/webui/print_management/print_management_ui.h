@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print management WebUI controller header
+// summary: Declares the print management WebUI controller and its config class, including Mojo bindings for the printing metadata provider.
+// ---
+
 #ifndef ASH_WEBUI_PRINT_MANAGEMENT_PRINT_MANAGEMENT_UI_H_
 #define ASH_WEBUI_PRINT_MANAGEMENT_PRINT_MANAGEMENT_UI_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File launch handler for video files
+// summary: Installs a launchQueue consumer that validates WebM video file handles from the file handling API and passes them to the app via a callback.
+// ---
+
 interface LaunchParams {
   files: FileSystemHandle[];
 }

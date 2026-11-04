@@ -8,6 +8,12 @@
  * fetching mojom data and mocking out the implementation for testing.
  */
 
+// ---docerion
+// type: source
+// title: Keyboard backlight interface provider
+// summary: Singleton getter for the KeyboardBacklightProvider mojom interface, with a hook for injecting test implementations.
+// ---
+
 import type {KeyboardBacklightProviderInterface} from '../../personalization_app.mojom-webui.js';
 import {KeyboardBacklightProvider} from '../../personalization_app.mojom-webui.js';
 

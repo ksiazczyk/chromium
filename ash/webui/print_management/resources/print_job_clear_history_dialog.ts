@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clear print history dialog element
+// summary: Polymer element that displays the clear-history confirmation, calls deleteAllPrintJobs via the mojo provider and reports when history is cleared.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/ash/common/cr_elements/cr_dialog/cr_dialog.js';
 import './print_management_shared.css.js';

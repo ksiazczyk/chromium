@@ -6,6 +6,12 @@
  * @fileoverview Utility functions to be used for avatars.
  */
 
+// ---docerion
+// type: source
+// title: Avatar utility functions
+// summary: Provides the avatar placeholder URL and a helper that builds sanitized chrome image URLs for avatar sources.
+// ---
+
 /** The placeholder url for an avatar, rendered if the avatar url is invalid. */
 export const AVATAR_PLACEHOLDER_URL: string =
     'chrome://theme/IDR_PROFILE_AVATAR_PLACEHOLDER_LARGE';

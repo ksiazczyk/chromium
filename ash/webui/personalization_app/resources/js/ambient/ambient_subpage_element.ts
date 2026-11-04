@@ -7,6 +7,12 @@
  * the ambient mode settings.
  */
 
+// ---docerion
+// type: source
+// title: Ambient subpage element
+// summary: Polymer component that displays the main ambient mode settings content, including toggle, albums, themes, duration, and weather controls.
+// ---
+
 import 'chrome://resources/ash/common/personalization/common.css.js';
 import './albums_subpage_element.js';
 import './ambient_preview_small_element.js';

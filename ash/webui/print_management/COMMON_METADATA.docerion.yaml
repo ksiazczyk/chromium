@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common metadata with Buganizer component
+summary: Declares the ChromeOS team path and Buganizer component ID 1131981 for the print management directory.

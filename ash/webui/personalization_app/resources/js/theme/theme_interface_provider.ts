@@ -8,6 +8,12 @@
  * mojom data and mocking out the implementation for testing.
  */
 
+// ---docerion
+// type: source
+// title: Theme interface provider
+// summary: Singleton getter for the ThemeProvider mojom interface used by the personalization app, with a setter for mocking the implementation in tests.
+// ---
+
 import 'chrome://resources/mojo/mojo/public/js/bindings.js';
 import 'chrome://resources/mojo/url/mojom/url.mojom-webui.js';
 

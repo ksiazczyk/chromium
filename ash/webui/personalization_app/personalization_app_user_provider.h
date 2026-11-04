@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User provider interface for the personalization app
+// summary: Declares the mojom UserProvider interface that exposes the avatar customization selectors pref, gating options that send data to Google.
+// ---
+
 #ifndef ASH_WEBUI_PERSONALIZATION_APP_PERSONALIZATION_APP_USER_PROVIDER_H_
 #define ASH_WEBUI_PERSONALIZATION_APP_PERSONALIZATION_APP_USER_PROVIDER_H_
 
