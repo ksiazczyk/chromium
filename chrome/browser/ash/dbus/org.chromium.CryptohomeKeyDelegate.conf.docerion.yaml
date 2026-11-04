@@ -1,0 +1,4 @@
+# Docerion header of org.chromium.CryptohomeKeyDelegate.conf.
+type: config
+title: D-Bus security policy for CryptohomeKeyDelegate
+summary: D-Bus bus configuration allowing Chrome to own CryptohomeKeyDelegate, Tast tests a testing variant, and cryptohomed to call the service.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini export/import factory declaration
+// summary: Declares CrostiniExportImportFactory, a singleton ProfileKeyedServiceFactory that creates and retrieves the per-profile CrostiniExportImport service.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CROSTINI_CROSTINI_EXPORT_IMPORT_FACTORY_H_
 #define CHROME_BROWSER_ASH_CROSTINI_CROSTINI_EXPORT_IMPORT_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Customized wallpaper utility functions
+// summary: Utility functions that decode, resize and save customized default wallpapers in small and large variants and apply them via the wallpaper controller.
+// ---
+
 #include "chrome/browser/ash/customization/customization_wallpaper_util.h"
 
 #include "ash/constants/ash_pref_names.h"

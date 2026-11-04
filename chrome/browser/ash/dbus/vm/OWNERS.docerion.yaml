@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the VM D-Bus services
+summary: Delegates ownership to the guest OS owners and requires security owners for changes to the org.chromium D-Bus configuration files.

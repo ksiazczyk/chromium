@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrostiniManagerFactory implementation
+// summary: Implements the profile-keyed factory that builds CrostiniManager instances using browser process services for each browser context.
+// ---
+
 #include "chrome/browser/ash/crostini/crostini_manager_factory.h"
 
 #include "base/no_destructor.h"

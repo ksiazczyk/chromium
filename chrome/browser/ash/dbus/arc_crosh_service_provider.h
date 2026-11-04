@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC crosh D-Bus service provider header
+// summary: Declares ArcCroshServiceProvider, which exports a D-Bus method for accessing ARC resources and translates requests to Mojo messages toward ARC.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_DBUS_ARC_CROSH_SERVICE_PROVIDER_H_
 #define CHROME_BROWSER_ASH_DBUS_ARC_CROSH_SERVICE_PROVIDER_H_
 

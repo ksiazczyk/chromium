@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the DriveFS fileapi library
+summary: Defines the fileapi static library listing the DriveFS source files and its public and private build dependencies.

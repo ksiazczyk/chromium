@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crostini shared devices unit tests
+// summary: Unit tests for CrostiniSharedDevices covering sharing and unsharing VM devices such as microphones using fake D-Bus clients.
+// ---
+
 #include "chrome/browser/ash/crostini/crostini_shared_devices.h"
 
 #include "base/run_loop.h"

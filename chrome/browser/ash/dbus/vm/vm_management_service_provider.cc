@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VM management service provider implementation
+// summary: Implements the VM management D-Bus service with methods to get and set the Crostini VM type for a user profile.
+// ---
+
 #include "chrome/browser/ash/dbus/vm/vm_management_service_provider.h"
 
 #include "base/functional/bind.h"

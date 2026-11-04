@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini export/import service interface
+// summary: Declares the CrostiniExportImport keyed service, export/import result enums for UMA, and observers for container and disk image operations.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CROSTINI_CROSTINI_EXPORT_IMPORT_H_
 #define CHROME_BROWSER_ASH_CROSTINI_CROSTINI_EXPORT_IMPORT_H_
 

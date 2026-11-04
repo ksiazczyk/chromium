@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the diagnostics browser delegate
+// summary: Implements GetActiveUserProfileDir, returning the active session's profile directory or an empty path when no user is logged in or the profile is not yet loaded.
+// ---
+
 #include "chrome/browser/ash/diagnostics/diagnostics_browser_delegate_impl.h"
 
 #include "base/files/file_path.h"

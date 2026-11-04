@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive file system utilities interface
+// summary: Declares Drive utility functions for mount point checks, cache paths, profile availability, bulk pinning support, and connection status reporting.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_DRIVE_FILE_SYSTEM_UTIL_H_
 #define CHROME_BROWSER_ASH_DRIVE_FILE_SYSTEM_UTIL_H_
 

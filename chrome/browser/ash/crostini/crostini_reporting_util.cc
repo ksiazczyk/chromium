@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini usage reporting utilities
+// summary: Implements helpers that write Termina version and last-launch metrics to profile prefs when Crostini usage reporting is enabled.
+// ---
+
 #include "chrome/browser/ash/crostini/crostini_reporting_util.h"
 
 #include <algorithm>

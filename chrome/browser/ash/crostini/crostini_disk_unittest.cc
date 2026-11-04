@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Crostini disk handling
+// summary: Unit tests for Crostini disk info and resizing that use fake D-Bus clients, a test user manager, and a testing profile to exercise the disk callbacks.
+// ---
+
 #include "chrome/browser/ash/crostini/crostini_disk.h"
 
 #include <memory>

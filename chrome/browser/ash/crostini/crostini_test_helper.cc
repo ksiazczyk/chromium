@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini test helper implementation
+// summary: Implements a helper class that lets tests enable Crostini and add, update, or remove apps in the guest OS registry.
+// ---
+
 #include "chrome/browser/ash/crostini/crostini_test_helper.h"
 
 #include "ash/constants/ash_features.h"

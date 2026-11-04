@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC tracing D-Bus service provider header
+// summary: Declares ArcTracingServiceProvider, which exports D-Bus methods for starting ARC traces and retrieving status messages.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_DBUS_ARC_TRACING_SERVICE_PROVIDER_H_
 #define CHROME_BROWSER_ASH_DBUS_ARC_TRACING_SERVICE_PROVIDER_H_
 

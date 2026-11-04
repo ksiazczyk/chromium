@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini shared devices factory implementation
+// summary: Implements the profile-keyed service factory that creates and provides the CrostiniSharedDevices service per browser profile.
+// ---
+
 #include "chrome/browser/ash/crostini/crostini_shared_devices_factory.h"
 
 #include "chrome/browser/ash/crostini/crostini_shared_devices.h"

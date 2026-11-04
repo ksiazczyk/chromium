@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crostini reporting util unit tests
+// summary: Unit tests verifying that Crostini usage reporting metrics are written to profile prefs only when reporting is enabled and that missing Termina versions are handled.
+// ---
+
 #include "chrome/browser/ash/crostini/crostini_reporting_util.h"
 
 #include <stdint.h>

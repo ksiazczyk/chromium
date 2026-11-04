@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini test helper class declaration
+// summary: Declares CrostiniTestHelper, a test utility for managing fake Crostini apps, app IDs, and Crostini preferences.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CROSTINI_CROSTINI_TEST_HELPER_H_
 #define CHROME_BROWSER_ASH_CROSTINI_CROSTINI_TEST_HELPER_H_
 

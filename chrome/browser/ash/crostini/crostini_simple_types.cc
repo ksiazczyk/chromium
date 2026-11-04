@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini simple types implementation
+// summary: Implements CrostiniResultString mapping CrostiniResult enum values to names and defines ContainerInfo and other simple value types.
+// ---
+
 #include "chrome/browser/ash/crostini/crostini_simple_types.h"
 
 namespace crostini {

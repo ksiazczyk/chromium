@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the device_sync static library
+summary: Defines the device_sync static library build target, listing its source files and dependencies on base, cryptauth, GCM, signin, and device_sync service components.

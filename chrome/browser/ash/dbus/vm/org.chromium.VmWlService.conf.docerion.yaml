@@ -1,0 +1,4 @@
+# Docerion header of org.chromium.VmWlService.conf.
+type: config
+title: D-Bus policy for org.chromium.VmWlService
+summary: Allows chronos to own the service and crosvm to listen on and close Wayland sockets.

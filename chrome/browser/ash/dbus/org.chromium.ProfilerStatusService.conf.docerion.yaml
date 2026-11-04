@@ -1,0 +1,4 @@
+# Docerion header of org.chromium.ProfilerStatusService.conf.
+type: config
+title: D-Bus policy configuration for ProfilerStatusService
+summary: Defines D-Bus permissions letting the chronos user own the ProfilerStatusService and root-run Tast tests send messages to it on Chromium OS.

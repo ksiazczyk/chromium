@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Termina installer (termina_installer_unittest.cc)
+// summary: Tests TerminaInstaller DLC installation, uninstallation, and error handling with fake DLC and component manager services.
+// ---
+
 #include "chrome/browser/ash/crostini/termina_installer.h"
 
 #include <memory>

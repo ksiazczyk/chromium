@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VM applications service provider header
+// summary: Declares the D-Bus service provider that exposes application list updates, terminal launching, MIME type updates and file selection to Crostini containers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_DBUS_VM_VM_APPLICATIONS_SERVICE_PROVIDER_H_
 #define CHROME_BROWSER_ASH_DBUS_VM_VM_APPLICATIONS_SERVICE_PROVIDER_H_
 

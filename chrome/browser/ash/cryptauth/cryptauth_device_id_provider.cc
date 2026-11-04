@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuth device ID provider implementation
+// summary: Provides the CryptAuth device ID by generating and persisting a random UUID in local state preferences when none exists.
+// ---
+
 #include "chrome/browser/ash/cryptauth/cryptauth_device_id_provider.h"
 
 #include "ash/constants/ash_pref_names.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Customization document class declarations
+// summary: Declares the base CustomizationDocument class and the startup and services customization document singletons used for OEM configuration on ChromeOS.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CUSTOMIZATION_CUSTOMIZATION_DOCUMENT_H_
 #define CHROME_BROWSER_ASH_CUSTOMIZATION_CUSTOMIZATION_DOCUMENT_H_
 

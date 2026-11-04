@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the system routine controller delegate implementation
+// summary: Declares SystemRoutineControllerDelegateImpl, the production delegate that forwards routine calls to NetworkHealthManager and its NetworkDiagnostics instance.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_DIAGNOSTICS_SYSTEM_ROUTINE_CONTROLLER_DELEGATE_IMPL_H_
 #define CHROME_BROWSER_ASH_DIAGNOSTICS_SYSTEM_ROUTINE_CONTROLLER_DELEGATE_IMPL_H_
 

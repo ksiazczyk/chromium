@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DriveFS file system backend delegate header
+// summary: Declares DriveFsFileSystemBackendDelegate, which supplies DriveFS-specific components to the ash file system backend.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_DRIVE_FILEAPI_DRIVEFS_FILE_SYSTEM_BACKEND_DELEGATE_H_
 #define CHROME_BROWSER_ASH_DRIVE_FILEAPI_DRIVEFS_FILE_SYSTEM_BACKEND_DELEGATE_H_
 

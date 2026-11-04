@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC tracing service provider unit tests
+// summary: Unit tests for the ARC tracing D-Bus service provider, exercising trace start and status methods with test tracing handlers and a temporary output directory.
+// ---
+
 #include "chrome/browser/ash/dbus/arc_tracing_service_provider.h"
 
 #include <memory>

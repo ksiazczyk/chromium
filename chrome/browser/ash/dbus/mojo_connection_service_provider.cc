@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo connection service provider implementation
+// summary: Implements the D-Bus method that bootstraps a Mojo connection for rollback network config and returns a Mojo pipe endpoint as a file descriptor.
+// ---
+
 #include "chrome/browser/ash/dbus/mojo_connection_service_provider.h"
 
 #include <memory>

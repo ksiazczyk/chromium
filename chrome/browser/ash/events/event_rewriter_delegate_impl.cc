@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event rewriter delegate implementation
+// summary: Implements the ChromeOS delegate for ui::EventRewriterAsh, handling modifier key remapping, top-row function keys, right-click and six-pack rewrites, and related notifications.
+// ---
+
 #include "chrome/browser/ash/events/event_rewriter_delegate_impl.h"
 
 #include <optional>

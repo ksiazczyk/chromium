@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crostini SSHFS unit tests
+// summary: Unit tests for CrostiniSshfs mount and unmount behavior using mock disk mount manager, fake D-Bus clients, and histogram checks.
+// ---
+
 #include "chrome/browser/ash/crostini/crostini_sshfs.h"
 
 #include <memory>

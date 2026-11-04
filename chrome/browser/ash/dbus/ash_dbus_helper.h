@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash D-Bus initialization helper header
+// summary: Declares functions that initialize and shut down D-Bus services for Ash, plus a test observer for D-Bus initialization and shutdown events.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_DBUS_ASH_DBUS_HELPER_H_
 #define CHROME_BROWSER_ASH_DBUS_ASH_DBUS_HELPER_H_
 

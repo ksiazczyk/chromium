@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini throttle service header
+// summary: Declares the CrostiniThrottle service that adjusts Crostini VM CPU restriction based on its observers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CROSTINI_THROTTLE_CROSTINI_THROTTLE_H_
 #define CHROME_BROWSER_ASH_CROSTINI_THROTTLE_CROSTINI_THROTTLE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini utility functions implementation
+// summary: Implements Crostini helper utilities such as app launch handling, spinner control, and related metrics recording.
+// ---
+
 #include "chrome/browser/ash/crostini/crostini_util.h"
 
 #include <utility>

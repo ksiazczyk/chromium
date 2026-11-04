@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File system utility unit tests
+// summary: Unit tests for Drive mount point detection, cache root path computation, and connection status handling using logged-in test profiles.
+// ---
+
 #include "chrome/browser/ash/drive/file_system_util.h"
 
 #include <memory>

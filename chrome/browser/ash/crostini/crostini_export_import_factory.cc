@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Factory for the Crostini export/import service
+// summary: Implements the profile-keyed service factory that creates and provides CrostiniExportImport instances per profile, with dependencies on guest OS services.
+// ---
+
 #include "chrome/browser/ash/crostini/crostini_export_import_factory.h"
 
 #include "chrome/browser/ash/crostini/crostini_export_import.h"

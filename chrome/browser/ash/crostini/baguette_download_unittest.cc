@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Baguette download unit tests
+// summary: Unit test verifying the SHA-256 file hashing used for Baguette image downloads across block-sized buffers.
+// ---
+
 #include "chrome/browser/ash/crostini/baguette_download.h"
 
 #include <array>

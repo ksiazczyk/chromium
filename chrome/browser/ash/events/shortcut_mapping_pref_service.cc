@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shortcut mapping pref service implementation
+// summary: Implements the shortcut mapping delegate that reports whether the device is enterprise managed and whether the i18n shortcuts pref is enabled.
+// ---
+
 #include "chrome/browser/ash/events/shortcut_mapping_pref_service.h"
 
 #include "ash/constants/ash_pref_names.h"

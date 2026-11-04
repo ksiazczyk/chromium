@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini low disk notification implementation
+// summary: Shows throttled system notifications when the Crostini VM reports low disk space, with severity levels and policy-based suppression on managed devices.
+// ---
+
 #include "chrome/browser/ash/crostini/crostini_low_disk_notification.h"
 
 #include <stdint.h>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the early_prefs directory
+summary: Sets Chromium dependency rules for the directory, blocking //chrome includes while allowing its own files and profile dependencies.

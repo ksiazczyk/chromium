@@ -1,0 +1,4 @@
+# Docerion header of org.chromium.ArcCroshServiceProvider.conf.
+type: config
+title: D-Bus security policy for the ArcCrosh service
+summary: D-Bus bus configuration letting the chronos user own org.chromium.ArcCrosh and root send requests to the service.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quirks browser test
+// summary: Browser test verifying QuirksManager downloads and caches ICC display profile files using a fake URL loader factory.
+// ---
+
 #include "base/compiler_specific.h"
 #include "base/files/file_util.h"
 #include "base/functional/bind.h"

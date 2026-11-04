@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printers D-Bus service provider header
+// summary: Declares the PrintersServiceProvider class, which observes the CUPS printers manager and emits a D-Bus signal so clients can request printer details separately.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_DBUS_PRINTERS_SERVICE_PROVIDER_H_
 #define CHROME_BROWSER_ASH_DBUS_PRINTERS_SERVICE_PROVIDER_H_
 

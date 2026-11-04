@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the early_prefs library
+summary: Defines the early_prefs static library, listing its sources and its public and private build dependencies.

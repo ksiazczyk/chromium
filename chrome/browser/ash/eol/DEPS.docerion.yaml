@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the eol directory
+summary: Restricts ChromeOS dependencies on //chrome while whitelisting the specific includes needed by the eol notification code and its tests.

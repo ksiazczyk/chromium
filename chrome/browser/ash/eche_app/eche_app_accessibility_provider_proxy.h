@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eche app accessibility provider proxy header
+// summary: Declares the EcheAppAccessibilityProviderProxy class bridging ChromeOS accessibility managers to the Eche app UI provider.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_ECHE_APP_ECHE_APP_ACCESSIBILITY_PROVIDER_PROXY_H_
 #define CHROME_BROWSER_ASH_ECHE_APP_ECHE_APP_ACCESSIBILITY_PROVIDER_PROXY_H_
 

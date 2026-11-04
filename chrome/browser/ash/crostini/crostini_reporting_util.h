@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini usage reporting utility declarations
+// summary: Declares functions for storing Crostini reporting metrics, computing privacy-preserving three-day time windows, and retrieving the cros-termina component version.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CROSTINI_CROSTINI_REPORTING_UTIL_H_
 #define CHROME_BROWSER_ASH_CROSTINI_CROSTINI_REPORTING_UTIL_H_
 

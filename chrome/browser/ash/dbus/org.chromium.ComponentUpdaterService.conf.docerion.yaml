@@ -1,0 +1,4 @@
+# Docerion header of org.chromium.ComponentUpdaterService.conf.
+type: config
+title: D-Bus security policy for the ComponentUpdaterService
+summary: D-Bus bus configuration letting chronos own the ComponentUpdaterService and root and modem users send requests to it.

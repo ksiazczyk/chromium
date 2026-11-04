@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini disk info API and constants
+// summary: Declares CrostiniDiskInfo, disk size constants, and the callback chain for getting disk info and building slider ticks for the resize UI.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CROSTINI_CROSTINI_DISK_H_
 #define CHROME_BROWSER_ASH_CROSTINI_CROSTINI_DISK_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DriveFS native message host for Ash implementation
+// summary: Implements creation of the DriveFS native messaging host for Ash, wiring extension connections to the DriveFS Mojo interface and reporting unavailability errors.
+// ---
+
 #include "chrome/browser/ash/drive/drivefs_native_message_host_ash.h"
 
 #include "base/functional/bind.h"

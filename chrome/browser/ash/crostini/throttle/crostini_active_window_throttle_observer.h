@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini active window throttle observer header
+// summary: Declares the observer class that sets the throttle state to active when the focused window is a Crostini window.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CROSTINI_THROTTLE_CROSTINI_ACTIVE_WINDOW_THROTTLE_OBSERVER_H_
 #define CHROME_BROWSER_ASH_CROSTINI_THROTTLE_CROSTINI_ACTIVE_WINDOW_THROTTLE_OBSERVER_H_
 

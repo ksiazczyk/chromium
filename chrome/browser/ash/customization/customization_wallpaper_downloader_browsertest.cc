@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wallpaper downloader browser tests
+// summary: Browser tests that serve wallpaper images from an embedded test server and verify downloaded wallpaper colors and retry behavior.
+// ---
+
 #include "chrome/browser/ash/customization/customization_wallpaper_downloader.h"
 
 #include <stddef.h>

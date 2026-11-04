@@ -2,6 +2,13 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 //
+
+// ---docerion
+// type: test
+// title: Encrypted reporting service provider unit tests
+// summary: Unit tests for EncryptedReportingServiceProvider using a fake upload client, mocked callbacks, and a scoped management service override.
+// ---
+
 #include "chrome/browser/ash/dbus/encrypted_reporting_service_provider.h"
 
 #include <memory>

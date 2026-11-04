@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen lock D-Bus service provider header
+// summary: Declares ScreenLockServiceProvider, which exports the D-Bus method used by the session manager to request showing the Chrome lock screen.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_DBUS_SCREEN_LOCK_SERVICE_PROVIDER_H_
 #define CHROME_BROWSER_ASH_DBUS_SCREEN_LOCK_SERVICE_PROVIDER_H_
 

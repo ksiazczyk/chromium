@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Event rewriter unit tests
+// summary: Large unit test suite for the ChromeOS event rewriter and its delegate, exercising modifier key rewriting, shortcut preferences, and rewrite notifications.
+// ---
+
 #include "ui/events/event_rewriter.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test base implementation for Drive integration service
+// summary: Implements the browser test base that creates fake DriveFS-backed integration services and adds test Drive files for profiles.
+// ---
+
 #include "chrome/browser/ash/drive/drive_integration_service_browser_test_base.h"
 
 #include "base/files/file_util.h"

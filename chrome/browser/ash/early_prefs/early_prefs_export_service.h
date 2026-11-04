@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header of the early prefs export service
+// summary: Declares the KeyedService that monitors user prefs and forwards updates to the early prefs writer.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EARLY_PREFS_EARLY_PREFS_EXPORT_SERVICE_H_
 #define CHROME_BROWSER_ASH_EARLY_PREFS_EARLY_PREFS_EXPORT_SERVICE_H_
 

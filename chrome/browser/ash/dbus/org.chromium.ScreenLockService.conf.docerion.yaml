@@ -1,0 +1,4 @@
+# Docerion header of org.chromium.ScreenLockService.conf.
+type: config
+title: D-Bus policy configuration for ScreenLockService
+summary: Defines D-Bus permissions allowing chronos to own the ScreenLockService and session_manager or root to request that Chrome show the lock screen.

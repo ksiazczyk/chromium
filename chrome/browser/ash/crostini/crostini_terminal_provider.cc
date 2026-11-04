@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini terminal provider implementation
+// summary: Implements the Crostini terminal provider that reports recovery needs, prepares working directories, and shows startup status in the terminal.
+// ---
+
 #include "chrome/browser/ash/crostini/crostini_terminal_provider.h"
 
 #include "ash/strings/grit/ash_strings.h"

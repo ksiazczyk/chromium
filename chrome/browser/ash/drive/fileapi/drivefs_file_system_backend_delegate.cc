@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DriveFS file system backend delegate implementation
+// summary: Implements the ash FileSystemBackend delegate for DriveFS, providing the async file util and stub stream and watcher methods.
+// ---
+
 #include "chrome/browser/ash/drive/fileapi/drivefs_file_system_backend_delegate.h"
 
 #include "base/notimplemented.h"

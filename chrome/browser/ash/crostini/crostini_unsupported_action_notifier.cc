@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini unsupported action notifier implementation
+// summary: Implements a notifier that shows toasts and metrics when users attempt unsupported actions such as virtual keyboard use in Crostini apps.
+// ---
+
 #include "chrome/browser/ash/crostini/crostini_unsupported_action_notifier.h"
 
 #include <utility>

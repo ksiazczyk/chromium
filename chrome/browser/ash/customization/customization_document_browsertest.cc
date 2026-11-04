@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Customization document browser tests
+// summary: In-process browser tests verifying language switching and VPD-based locale configuration handled by the startup customization document.
+// ---
+
 #include "chrome/browser/ash/customization/customization_document.h"
 
 #include <stddef.h>

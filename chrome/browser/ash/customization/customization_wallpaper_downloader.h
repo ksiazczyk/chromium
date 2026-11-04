@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper downloader class declaration
+// summary: Declares CustomizationWallpaperDownloader, which fetches an OEM wallpaper URL to a local file and reports completion through a callback.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CUSTOMIZATION_CUSTOMIZATION_WALLPAPER_DOWNLOADER_H_
 #define CHROME_BROWSER_ASH_CUSTOMIZATION_CUSTOMIZATION_WALLPAPER_DOWNLOADER_H_
 

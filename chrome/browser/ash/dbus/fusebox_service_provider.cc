@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FuseBox D-Bus service provider implementation
+// summary: Implements the org.chromium.FuseBoxService D-Bus interface, exporting file operation methods and storage attach/detach signals for the FuseBox server.
+// ---
+
 #include "chrome/browser/ash/dbus/fusebox_service_provider.h"
 
 #include <sys/stat.h>

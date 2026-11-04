@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini preference name constants
+// summary: Defines the string constants for Crostini profile preferences, including policy flags, container create options, shared USB devices, and usage reporting keys.
+// ---
+
 #include "chrome/browser/ash/crostini/crostini_pref_names.h"
 
 #include <memory>

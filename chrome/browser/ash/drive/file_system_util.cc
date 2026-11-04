@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive file system utilities implementation
+// summary: Implements Drive helpers that detect mount point paths, compute cache root paths, evaluate profile availability, and determine the Drive connection status.
+// ---
+
 #include "chrome/browser/ash/drive/file_system_util.h"
 
 #include <stddef.h>

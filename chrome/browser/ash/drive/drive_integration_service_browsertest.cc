@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for Drive integration service
+// summary: Contains in-process browser tests verifying service creation at login, cache clearing and remounting, and Drive disable policy behavior.
+// ---
+
 #include "chrome/browser/ash/drive/drive_integration_service.h"
 
 #include <memory>

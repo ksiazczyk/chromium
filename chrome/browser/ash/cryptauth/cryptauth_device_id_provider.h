@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CryptAuth device ID provider header
+// summary: Declares functions to register local state preferences and to retrieve or generate the CryptAuth device ID stored in local state.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CRYPTAUTH_CRYPTAUTH_DEVICE_ID_PROVIDER_H_
 #define CHROME_BROWSER_ASH_CRYPTAUTH_CRYPTAUTH_DEVICE_ID_PROVIDER_H_
 

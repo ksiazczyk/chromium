@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini throttle factory header
+// summary: Declares the singleton factory returning the CrostiniThrottle service for a given browser context.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CROSTINI_THROTTLE_CROSTINI_THROTTLE_FACTORY_H_
 #define CHROME_BROWSER_ASH_CROSTINI_THROTTLE_CROSTINI_THROTTLE_FACTORY_H_
 

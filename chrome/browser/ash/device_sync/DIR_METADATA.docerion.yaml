@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for device_sync
+summary: Declares the Buganizer component ID and the chromeos-cross-device-eng team email address responsible for this directory.

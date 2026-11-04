@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notifications for Crostini export/import progress
+// summary: Implements the notification controller that shows and updates progress notifications for Crostini container export and import operations.
+// ---
+
 #include "chrome/browser/ash/crostini/crostini_export_import_notification_controller.h"
 
 #include "ash/constants/notifier_catalogs.h"

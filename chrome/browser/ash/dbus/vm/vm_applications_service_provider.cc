@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the VM applications D-Bus service provider
+// summary: Implements the ChromeOS D-Bus service provider that handles VM application requests, including file sharing with guest VMs via a select file dialog.
+// ---
+
 #include "chrome/browser/ash/dbus/vm/vm_applications_service_provider.h"
 
 #include <memory>

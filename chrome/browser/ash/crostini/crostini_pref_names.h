@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini preference name declarations
+// summary: Declares the Crostini preference name constants, the adb sideloading allowance mode enum, and the profile preference registration function.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CROSTINI_CROSTINI_PREF_NAMES_H_
 #define CHROME_BROWSER_ASH_CROSTINI_CROSTINI_PREF_NAMES_H_
 

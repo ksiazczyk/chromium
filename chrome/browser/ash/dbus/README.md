@@ -1,3 +1,9 @@
+---
+type: readme
+title: Ash DBus service providers overview
+summary: Explains that the directory hosts D-Bus service implementations owned by Chrome and links to the ChromeOS D-Bus usage documentation.
+---
+
 This directory contains implementations of D-Bus services that are owned by
 Chrome (because they depend on functionality located within `//chrome`).
 

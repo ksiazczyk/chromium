@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crostini features unit tests
+// summary: Unit tests verifying Crostini feature permission checks, including export import UI, root access, and policy-based allow rules.
+// ---
+
 #include "chrome/browser/ash/crostini/crostini_features.h"
 
 #include "ash/constants/ash_features.h"

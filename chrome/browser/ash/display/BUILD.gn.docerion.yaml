@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Ash display browser tests
+summary: GN build file defining the browser_tests source set for Ash display tests, listing its sources and dependencies.

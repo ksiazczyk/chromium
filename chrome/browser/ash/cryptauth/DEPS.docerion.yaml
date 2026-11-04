@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the cryptauth directory
+summary: Sets include rules that block //chrome dependencies while allowing this directory's own headers and a small list of existing //chrome dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the proxy resolution D-Bus service provider
+// summary: Unit tests that use a mock NetworkContext to verify the D-Bus proxy lookup results, error handling, and network anonymization key behavior of the provider.
+// ---
+
 #include "chrome/browser/ash/dbus/proxy_resolution_service_provider.h"
 
 #include <memory>

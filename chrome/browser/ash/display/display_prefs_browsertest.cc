@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Display prefs browser test
+// summary: Browser test verifying that display preferences such as power state and rotation persist across sessions in local state.
+// ---
+
 #include "ash/constants/ash_pref_names.h"
 #include "ash/constants/ash_switches.h"
 #include "ash/shell.h"

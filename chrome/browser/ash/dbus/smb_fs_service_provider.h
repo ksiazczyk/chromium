@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMB file system D-Bus service provider header
+// summary: Declares SmbFsServiceProvider, which exposes the D-Bus method SmbFs instances use to bootstrap their Mojo IPC connection via a passed file descriptor.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_DBUS_SMB_FS_SERVICE_PROVIDER_H_
 #define CHROME_BROWSER_ASH_DBUS_SMB_FS_SERVICE_PROVIDER_H_
 

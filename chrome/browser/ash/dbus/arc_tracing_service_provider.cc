@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC tracing D-Bus service provider implementation
+// summary: Implements D-Bus methods to start ARC overview traces, record status messages in a circular buffer, and report trace results.
+// ---
+
 #include "chrome/browser/ash/dbus/arc_tracing_service_provider.h"
 
 #include "base/containers/span.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crostini browser tests for app launching
+// summary: Browser tests that register and launch Crostini applications, including launching after enterprise policy changes during a session to allow Crostini.
+// ---
+
 #include "base/test/test_future.h"
 #include "chrome/browser/ash/crostini/crostini_browser_test_util.h"
 #include "chrome/browser/ash/crostini/crostini_util.h"

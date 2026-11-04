@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Crostini directory metadata
+summary: Points the directory to the shared guest_os COMMON_METADATA mixins.

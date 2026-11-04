@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini export import status tracker header
+// summary: Defines the CrostiniExportImportStatusTracker interface that communicates export and import operation status to UI elements such as notifications.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CROSTINI_CROSTINI_EXPORT_IMPORT_STATUS_TRACKER_H_
 #define CHROME_BROWSER_ASH_CROSTINI_CROSTINI_EXPORT_IMPORT_STATUS_TRACKER_H_
 

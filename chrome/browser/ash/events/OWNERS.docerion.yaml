@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the events directory
+summary: OWNERS file listing the directory owner and a per-file owner for event rewriter sources.

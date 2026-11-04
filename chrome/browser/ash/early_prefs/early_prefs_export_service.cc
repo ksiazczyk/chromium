@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the early prefs export service
+// summary: Tracks selected flags and auth-related prefs and policies, writing changes through EarlyPrefsWriter so they are available early in login.
+// ---
+
 #include "chrome/browser/ash/early_prefs/early_prefs_export_service.h"
 
 #include "ash/constants/ash_features.h"

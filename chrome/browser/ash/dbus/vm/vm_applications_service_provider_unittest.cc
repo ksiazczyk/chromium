@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VM applications service provider unit tests
+// summary: Unit tests for the VM applications D-Bus service provider covering select file dialog type parsing and DLP component determination for registered VMs.
+// ---
+
 #include "chrome/browser/ash/dbus/vm/vm_applications_service_provider.h"
 
 #include <memory>

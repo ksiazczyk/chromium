@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive file stream service provider header
+// summary: Declares the DriveFileStreamServiceProvider class exposing D-Bus methods used by the DriveFS service to establish IPC with the browser.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_DBUS_DRIVE_FILE_STREAM_SERVICE_PROVIDER_H_
 #define CHROME_BROWSER_ASH_DBUS_DRIVE_FILE_STREAM_SERVICE_PROVIDER_H_
 

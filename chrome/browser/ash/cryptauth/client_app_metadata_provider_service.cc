@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client app metadata provider service implementation
+// summary: Implements the keyed service that lazily computes CryptAuth client app metadata, including supported Better Together features, software version code, and hardware details.
+// ---
+
 #include "chrome/browser/ash/cryptauth/client_app_metadata_provider_service.h"
 
 #include <string>

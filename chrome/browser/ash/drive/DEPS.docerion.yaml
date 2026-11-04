@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the drive directory
+summary: Sets include dependency rules for the drive directory, restricting //chrome dependencies and allowing specific includes per file.

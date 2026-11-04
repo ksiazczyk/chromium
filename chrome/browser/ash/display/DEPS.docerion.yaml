@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for display browser tests
+summary: Restricts allowed header includes for browser test files in this directory, with extra rules for the GPU crash test.

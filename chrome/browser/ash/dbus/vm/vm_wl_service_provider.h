@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VM Wayland D-Bus service provider header
+// summary: Declares the VmWlServiceProvider class, which exports the ListenOnSocket and CloseSocket D-Bus methods for the VM Wayland service interface.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_DBUS_VM_VM_WL_SERVICE_PROVIDER_H_
 #define CHROME_BROWSER_ASH_DBUS_VM_VM_WL_SERVICE_PROVIDER_H_
 

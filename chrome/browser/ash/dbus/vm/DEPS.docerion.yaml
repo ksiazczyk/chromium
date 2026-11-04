@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the VM D-Bus services
+summary: Blocks //chrome dependencies for ChromeOS code and allowlists the specific includes needed by the VM service providers and tests.

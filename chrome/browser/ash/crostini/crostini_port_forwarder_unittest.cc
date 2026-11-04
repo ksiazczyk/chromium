@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crostini port forwarder unit tests
+// summary: Unit tests for CrostiniPortForwarder covering port forwarding rules, protocol handling, and observer notifications using fake D-Bus clients and a testing profile.
+// ---
+
 #include "chrome/browser/ash/crostini/crostini_port_forwarder.h"
 
 #include "base/test/test_future.h"

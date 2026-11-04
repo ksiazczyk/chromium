@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Crostini GN build configuration
+summary: Defines the Crostini static library, mojom target, and its source and dependency lists for the ChromeOS build.

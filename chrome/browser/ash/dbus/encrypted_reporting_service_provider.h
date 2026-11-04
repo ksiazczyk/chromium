@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Encrypted reporting service provider header
+// summary: Declares the EncryptedReportingServiceProvider class linking the Missive daemon to Ash Chrome's encrypted reporting upload client.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_DBUS_ENCRYPTED_REPORTING_SERVICE_PROVIDER_H_
 #define CHROME_BROWSER_ASH_DBUS_ENCRYPTED_REPORTING_SERVICE_PROVIDER_H_
 

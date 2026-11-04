@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VM security key forwarding service provider implementation
+// summary: Implements the D-Bus service that forwards security key messages from VMs to the browser extension and returns the response.
+// ---
+
 #include "chrome/browser/ash/dbus/vm/vm_sk_forwarding_service_provider.h"
 
 #include <string>

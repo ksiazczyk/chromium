@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the DriveFS fileapi directory
+summary: Blocks dependencies on //chrome for ChromeOS code while allowing specific drive and fileapi includes within //chrome.

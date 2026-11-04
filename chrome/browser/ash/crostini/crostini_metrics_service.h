@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini metrics service header
+// summary: Declares CrostiniMetricsService, a keyed service and activation observer that tracks Crostini usage metrics for a profile.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CROSTINI_CROSTINI_METRICS_SERVICE_H_
 #define CHROME_BROWSER_ASH_CROSTINI_CROSTINI_METRICS_SERVICE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of org.chromium.VirtualFileRequestService.conf.
+type: config
+title: D-Bus policy configuration for VirtualFileRequestService
+summary: Defines D-Bus permissions letting the chronos user own the VirtualFileRequestService and the virtual-file-provider user communicate with it.

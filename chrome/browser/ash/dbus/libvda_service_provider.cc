@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: libvda D-Bus service provider implementation
+// summary: Implements the D-Bus method libvda calls to obtain a Mojo pipe to the VideoAcceleratorFactory for ARC video acceleration.
+// ---
+
 #include "chrome/browser/ash/dbus/libvda_service_provider.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper downloader implementation
+// summary: Implements downloading the OEM default wallpaper with increasing retry delays and temporary-file handling during ChromeOS OOBE.
+// ---
+
 #include "chrome/browser/ash/customization/customization_wallpaper_downloader.h"
 
 #include <math.h>

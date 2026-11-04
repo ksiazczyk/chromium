@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini installer factory header
+// summary: Declares the CrostiniInstallerFactory keyed service factory that provides per-profile installer instances.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CROSTINI_CROSTINI_INSTALLER_FACTORY_H_
 #define CHROME_BROWSER_ASH_CROSTINI_CROSTINI_INSTALLER_FACTORY_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of org.chromium.KioskAppService.conf.
+type: config
+title: KioskAppService D-Bus policy
+summary: D-Bus bus configuration letting chronos own KioskAppService and root (update_engine) query the auto-launched kiosk app platform version.

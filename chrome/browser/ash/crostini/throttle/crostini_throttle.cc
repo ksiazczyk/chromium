@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini throttle service implementation
+// summary: Implements the keyed service that applies or lifts CPU restrictions on the Crostini VM when throttling changes.
+// ---
+
 #include "chrome/browser/ash/crostini/throttle/crostini_throttle.h"
 
 #include "base/memory/raw_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome features D-Bus service provider header
+// summary: Declares the service provider that exports D-Bus methods for querying Chrome feature enablement, such as IsCrostiniEnabled and IsFeatureEnabled.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_DBUS_CHROME_FEATURES_SERVICE_PROVIDER_H_
 #define CHROME_BROWSER_ASH_DBUS_CHROME_FEATURES_SERVICE_PROVIDER_H_
 

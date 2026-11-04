@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for ash DBus service providers
+summary: 'Restricts and allows #include dependencies for the directory, with special rules for test files and an effort to avoid new //chrome dependencies.'

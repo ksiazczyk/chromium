@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DriveFS test support helper declarations
+// summary: Declares FakeDriveFsHelper and SetUpUserDataDirectoryForDriveFsTest helpers used by tests that exercise a fake DriveFS instance.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_DRIVE_DRIVEFS_TEST_SUPPORT_H_
 #define CHROME_BROWSER_ASH_DRIVE_DRIVEFS_TEST_SUPPORT_H_
 

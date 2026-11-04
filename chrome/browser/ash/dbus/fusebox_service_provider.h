@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FuseBox D-Bus service provider header
+// summary: Declares FuseBoxServiceProvider, which exposes the FuseBox file system server over the org.chromium.FuseBoxService D-Bus interface.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_DBUS_FUSEBOX_SERVICE_PROVIDER_H_
 #define CHROME_BROWSER_ASH_DBUS_FUSEBOX_SERVICE_PROVIDER_H_
 

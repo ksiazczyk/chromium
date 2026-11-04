@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crostini low disk notification unit tests
+// summary: Unit tests verifying notification severity levels, throttling intervals, and that signals from non-Termina VMs are ignored.
+// ---
+
 #include "chrome/browser/ash/crostini/crostini_low_disk_notification.h"
 
 #include <stdint.h>

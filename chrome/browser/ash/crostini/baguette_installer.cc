@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Baguette installer implementation
+// summary: Installs the containerless Baguette Crostini VM by installing a tools DLC, downloading the image, and opening it for concierge.
+// ---
+
 #include "chrome/browser/ash/crostini/baguette_installer.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: End-of-life notification implementation
+// summary: Implements EolNotification, which fetches the device end-of-life date from update engine and shows first, second, or final update warnings to non-enterprise users.
+// ---
+
 #include "chrome/browser/ash/eol/eol_notification.h"
 
 #include "ash/constants/ash_features.h"

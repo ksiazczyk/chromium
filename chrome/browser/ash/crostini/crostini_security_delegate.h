@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini security delegate class
+// summary: Declares CrostiniSecurityDelegate, a guest OS security delegate that governs pointer locking for Crostini VM windows.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CROSTINI_CROSTINI_SECURITY_DELEGATE_H_
 #define CHROME_BROWSER_ASH_CROSTINI_CROSTINI_SECURITY_DELEGATE_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of org.chromium.MojoConnectionService.conf.
+type: config
+title: MojoConnectionService D-Bus policy
+summary: D-Bus bus configuration letting chronos own MojoConnectionService and oobe_config_save bootstrap the rollback network config service.

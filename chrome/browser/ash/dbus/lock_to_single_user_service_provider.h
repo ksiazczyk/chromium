@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock to single user D-Bus service provider header
+// summary: Declares LockToSingleUserServiceProvider, which exports the VmStarting D-Bus method enforcing the DeviceRebootOnUserSignout policy.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_DBUS_LOCK_TO_SINGLE_USER_SERVICE_PROVIDER_H_
 #define CHROME_BROWSER_ASH_DBUS_LOCK_TO_SINGLE_USER_SERVICE_PROVIDER_H_
 

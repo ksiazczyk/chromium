@@ -1,0 +1,4 @@
+# Docerion header of org.chromium.FjordOobeService.conf.
+type: config
+title: FjordOobeService D-Bus policy
+summary: D-Bus bus configuration letting chronos own FjordOobeService, with root and stargate allowed to call its interface.

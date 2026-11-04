@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome features service provider unit tests
+// summary: Unit tests for the Chrome features D-Bus service provider, checking feature enablement queries, unknown features and invalid prefix handling.
+// ---
+
 #include "chrome/browser/ash/dbus/chrome_features_service_provider.h"
 
 #include "base/feature_list.h"

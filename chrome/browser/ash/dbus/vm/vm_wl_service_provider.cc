@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VM Wayland D-Bus service provider implementation
+// summary: Implements the VmWlServiceProvider D-Bus methods ListenOnSocket and CloseSocket, parsing protobuf requests and forwarding them to the guest OS Wayland server.
+// ---
+
 #include "chrome/browser/ash/dbus/vm/vm_wl_service_provider.h"
 
 #include "base/files/scoped_file.h"

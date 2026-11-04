@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for the fake CrostiniFeatures test double (fake_crostini_features.h)
+// summary: Declares FakeCrostiniFeatures, a scoped test fake for overriding Crostini feature availability in unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CROSTINI_FAKE_CROSTINI_FEATURES_H_
 #define CHROME_BROWSER_ASH_CROSTINI_FAKE_CROSTINI_FEATURES_H_
 

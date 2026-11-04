@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for eche_app
+summary: Sets include rules allowing eche_app to depend on selected //chrome/browser/ash directories, with extra rules for test files.

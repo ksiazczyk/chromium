@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Customization document implementation
+// summary: Implements OEM startup and services customization documents that parse manifests to configure locale, timezone, EULA, wallpaper and default apps during ChromeOS OOBE.
+// ---
+
 #include "chrome/browser/ash/customization/customization_document.h"
 
 #include <algorithm>

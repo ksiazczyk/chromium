@@ -1,0 +1,4 @@
+# Docerion header of crostini_types.mojom.
+type: source
+title: Crostini Mojom type definitions
+summary: Defines Mojom enums for installer states and errors plus a disk slider tick struct shared across Crostini components.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the ChromeOS EOL notification library
+summary: GN build file defining the eol static library and its unit test and browser test source sets with their dependencies.

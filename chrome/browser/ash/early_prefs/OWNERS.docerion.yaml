@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners delegation to the early_prefs component
+summary: Delegates directory ownership review to the OWNERS file of chromeos/ash/components/early_prefs.

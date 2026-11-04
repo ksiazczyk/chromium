@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the eche_app library and tests
+summary: Defines the eche_app static library plus browser test and unit test source sets with their GN dependencies.

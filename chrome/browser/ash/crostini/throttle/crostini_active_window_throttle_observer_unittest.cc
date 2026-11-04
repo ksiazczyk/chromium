@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Crostini active window throttle observer
+// summary: Verifies the observer becomes active for Crostini and terminal windows and inactive for other or null windows.
+// ---
+
 #include "chrome/browser/ash/crostini/throttle/crostini_active_window_throttle_observer.h"
 
 #include "ash/public/cpp/window_properties.h"

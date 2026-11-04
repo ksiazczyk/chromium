@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive integration service class declaration
+// summary: Declares DriveIntegrationService, a keyed service exposing the Drive file system and related objects to the file manager, with mount status enums and observers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_DRIVE_DRIVE_INTEGRATION_SERVICE_H_
 #define CHROME_BROWSER_ASH_DRIVE_DRIVE_INTEGRATION_SERVICE_H_
 
