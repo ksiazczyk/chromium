@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CueTarget base implementation
+// summary: Implements CueTarget defaults, Glic and ContextualSearch action data structs, and name helpers for cue target types and intrusiveness levels.
+// ---
+
 #include "chrome/browser/contextual_cueing/cue_target.h"
 
 #include <utility>

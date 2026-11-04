@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Topics feedback exporter API
+// summary: Declares export data structures, schema version, export window bounds, time formatting, and functions to build the export preview and bundle.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXT_HUB_TOPICS_TOPICS_FEEDBACK_EXPORTER_H_
 #define CHROME_BROWSER_CONTEXT_HUB_TOPICS_TOPICS_FEEDBACK_EXPORTER_H_
 

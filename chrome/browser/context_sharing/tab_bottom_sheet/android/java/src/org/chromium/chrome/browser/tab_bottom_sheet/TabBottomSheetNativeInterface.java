@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabBottomSheetNativeInterface
+// summary: JNI bridge that lets native code show, close and observe the tab bottom sheet through the TabBottomSheetManager.
+// ---
+
 package org.chromium.chrome.browser.tab_bottom_sheet;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

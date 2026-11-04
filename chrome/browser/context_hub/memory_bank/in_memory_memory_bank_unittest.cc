@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InMemoryMemoryBank unit tests
+// summary: Tests saving, updating annotations, deleting and querying entries in the in-memory memory bank, including not-found and text-selection cases.
+// ---
+
 #include "chrome/browser/context_hub/memory_bank/in_memory_memory_bank.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryBankEntry implementation
+// summary: Implements MemoryBankEntry constructors, copy and move operations and destructor for entries holding type, URL, tab title, selected text and image URL.
+// ---
+
 #include "chrome/browser/context_hub/memory_bank/memory_bank_entry.h"
 
 #include <optional>

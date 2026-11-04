@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Memory bank build targets
+summary: Defines GN source sets for the memory bank interface, implementations, test support and unit tests together with their dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupEntry and TabData struct definitions
+// summary: Defines the TabData and TabGroupEntry structs representing tab and tab group data in Context Hub, including IDs, labels, tab lists, and timestamps.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXT_HUB_TAB_GROUP_STORE_TAB_GROUP_ENTRY_H_
 #define CHROME_BROWSER_CONTEXT_HUB_TAB_GROUP_STORE_TAB_GROUP_ENTRY_H_
 

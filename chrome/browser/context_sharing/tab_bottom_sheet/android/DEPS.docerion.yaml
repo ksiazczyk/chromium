@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for tab bottom sheet Android (DEPS)
+summary: Declares allowed include dependencies for the directory and special rules for instrumentation tests.

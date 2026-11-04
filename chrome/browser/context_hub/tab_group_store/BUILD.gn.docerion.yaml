@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for tab_group_store
+summary: GN build configuration defining source sets for the tab group store interface, its in-memory implementation, and unit tests with their dependencies.

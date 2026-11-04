@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners delegation for contextual search
+summary: Delegates code ownership reviews to the owners file of the components/contextual_search directory.

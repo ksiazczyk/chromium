@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabBottomSheetProperties
+// summary: Defines the property keys and default property model for the tab bottom sheet's co-browse views and state alphas.
+// ---
+
 package org.chromium.chrome.browser.tab_bottom_sheet;
 
 

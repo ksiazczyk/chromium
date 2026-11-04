@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabBottomSheetBridge implementation
+// summary: Implements the JNI bridge for showing, closing, suppressing, and observing the Android tab bottom sheet.
+// ---
+
 #include "chrome/browser/context_sharing/tab_bottom_sheet/android/tab_bottom_sheet_bridge.h"
 
 #include "base/android/jni_android.h"

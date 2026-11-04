@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabBottomSheetSkeletonViewUnitTest
+// summary: Robolectric unit tests for skeleton view inflation, tinting, parent clipping restoration and animation behavior.
+// ---
+
 package org.chromium.chrome.browser.tab_bottom_sheet;
 
 import static org.junit.Assert.assertEquals;

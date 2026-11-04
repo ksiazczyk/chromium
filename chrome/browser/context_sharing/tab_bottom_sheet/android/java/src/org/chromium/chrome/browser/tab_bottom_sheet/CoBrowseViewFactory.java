@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CoBrowseViewFactory
+// summary: Factory for creating co-browse content views, wiring profile, tab, snackbar, context menu and bookmark dependencies for the tab bottom sheet.
+// ---
+
 package org.chromium.chrome.browser.tab_bottom_sheet;
 
 import android.app.Activity;

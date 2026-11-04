@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabBottomSheetSuppressionController
+// summary: Monitors suppression triggers such as tab switcher, incognito, omnibox focus and read aloud to hide the bottom sheet.
+// ---
+
 package org.chromium.chrome.browser.tab_bottom_sheet;
 
 import org.chromium.base.Callback;

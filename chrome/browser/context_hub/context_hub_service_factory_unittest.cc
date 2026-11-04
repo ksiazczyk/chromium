@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Context Hub service factory unit tests
+// summary: Tests that the factory creates the Context Hub service only when the kContextHub feature flag is enabled and its dependencies are available.
+// ---
+
 #include "chrome/browser/context_hub/context_hub_service_factory.h"
 
 #include "base/files/file_util.h"

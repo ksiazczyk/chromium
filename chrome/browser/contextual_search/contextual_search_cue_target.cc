@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual search cue target implementation
+// summary: Implements ContextualSearchCueTarget, registering it with the contextual cueing controller and handling eligibility checks, cue actions, and query contextualization for tabs.
+// ---
+
 #include "chrome/browser/contextual_search/contextual_search_cue_target.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context Hub service implementation
+// summary: Implements the profile-keyed Context Hub service that coordinates auto todos, memory bank, tab group store, and optimization guide model execution.
+// ---
+
 #include "chrome/browser/context_hub/context_hub_service.h"
 
 #include <algorithm>

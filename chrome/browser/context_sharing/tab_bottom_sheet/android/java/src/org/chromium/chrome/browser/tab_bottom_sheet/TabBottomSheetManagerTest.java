@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabBottomSheetManagerTest
+// summary: Instrumentation tests for TabBottomSheetManager verifying bottom sheet show, close and suppression behavior in Chrome activities.
+// ---
+
 package org.chromium.chrome.browser.tab_bottom_sheet;
 
 import static org.hamcrest.CoreMatchers.is;

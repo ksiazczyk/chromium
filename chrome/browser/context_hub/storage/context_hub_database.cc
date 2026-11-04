@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextHubDatabase implementation
+// summary: 'Implements ContextHubDatabase: opens the SQLite database in WAL mode, performs schema migrations, and delegates memory bank entry operations to MemoryBankTable.'
+// ---
+
 #include "chrome/browser/context_hub/storage/context_hub_database.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-memory tab group store implementation
+// summary: Implements the in-memory TabGroupStore backed by an LRU cache, covering group CRUD, tab ID deduplication, and enforcement of single-group membership for tabs.
+// ---
+
 #include "chrome/browser/context_hub/tab_group_store/in_memory_tab_group_store.h"
 
 #include <algorithm>

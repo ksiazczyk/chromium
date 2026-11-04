@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InMemoryTabGroupStore class declaration
+// summary: Declares InMemoryTabGroupStore, an in-memory TabGroupStore implementation backed by base::LRUCache with pruning helpers and a configurable group capacity.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXT_HUB_TAB_GROUP_STORE_IN_MEMORY_TAB_GROUP_STORE_H_
 #define CHROME_BROWSER_CONTEXT_HUB_TAB_GROUP_STORE_IN_MEMORY_TAB_GROUP_STORE_H_
 

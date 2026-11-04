@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryBankTable implementation
+// summary: Implements the memory_bank_entries SQLite table, including schema migrations and CRUD operations for memory bank entries with JSON-serialized tags.
+// ---
+
 #include "chrome/browser/context_hub/storage/memory_bank_table.h"
 
 #include <cstdint>

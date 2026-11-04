@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual cueing preferences implementation
+// summary: Implements per-target UCB stat pref names, HaTS dismiss survey prefs, and profile pref registration for contextual cueing.
+// ---
+
 #include "chrome/browser/contextual_cueing/prefs.h"
 
 #include "base/notreached.h"

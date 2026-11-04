@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Tab Bottom Sheet dimension values
+summary: Defines Android dimension resources for the Chromium Tab Bottom Sheet UI, covering peek view, drag handle, resizing view, and skeleton loading layout sizes.
+-->
+
 <resources>
     <!-- Tab Bottom Sheet -->
     <dimen name="tab_bottom_sheet_resizing_view_icon_size">32dp</dimen>

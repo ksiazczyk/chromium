@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab context fetcher class declaration
+// summary: Declares TabContextFetcher, a WebContentsObserver that asynchronously loads a tab and extracts annotated page content, returning tab data and page context via a callback.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXT_HUB_TAB_CONTEXT_FETCHER_H_
 #define CHROME_BROWSER_CONTEXT_HUB_TAB_CONTEXT_FETCHER_H_
 

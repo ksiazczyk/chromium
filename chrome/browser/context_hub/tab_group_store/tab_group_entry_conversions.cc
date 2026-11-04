@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupEntry and SavedTabGroup conversions
+// summary: Implements conversions between Context Hub TabGroupEntry objects and native Chrome SavedTabGroup objects, including tab mapping and UUID handling.
+// ---
+
 #include "chrome/browser/context_hub/tab_group_store/tab_group_entry_conversions.h"
 
 #include "base/containers/span.h"

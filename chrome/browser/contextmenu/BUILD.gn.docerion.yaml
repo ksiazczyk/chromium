@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for Android context menu Java library
+summary: Defines the GN build targets for the Android context menu Java library and generates JNI headers from ContextMenuNativeDelegateImpl.

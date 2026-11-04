@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual cueing web contents observer
+// summary: Watches navigations to report page loads and trigger cue evaluation, hiding, and cross-tab updates.
+// ---
+
 #include "chrome/browser/contextual_cueing/contextual_cueing_web_contents_observer.h"
 
 #include "chrome/browser/contextual_cueing/contextual_cueing_controller.h"

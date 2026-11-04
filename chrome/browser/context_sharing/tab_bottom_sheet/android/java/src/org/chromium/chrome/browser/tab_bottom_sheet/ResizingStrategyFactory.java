@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResizingStrategyFactory
+// summary: Factory that creates ResizingStrategy instances for WebView resizing, choosing between default and drag-direction strategies based on a feature flag parameter.
+// ---
+
 package org.chromium.chrome.browser.tab_bottom_sheet;
 
 import org.chromium.base.ResettersForTesting;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CoBrowseViews
+// summary: Holds the co-browse view hierarchy, including the web UI container, peek container, handle bar and placeholder setup, for the tab bottom sheet.
+// ---
+
 package org.chromium.chrome.browser.tab_bottom_sheet;
 
 import static org.chromium.build.NullUtil.assertNonNull;

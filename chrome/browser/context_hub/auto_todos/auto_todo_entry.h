@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutoTodoEntry data structures header
+// summary: Defines the AutoTodoEntry struct plus first-party and third-party payload variants, source references, statuses, and generation metadata for stored AutoTodos.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXT_HUB_AUTO_TODOS_AUTO_TODO_ENTRY_H_
 #define CHROME_BROWSER_CONTEXT_HUB_AUTO_TODOS_AUTO_TODO_ENTRY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryBankEntry struct and MemoryBankType enum
+// summary: Defines the MemoryBankEntry struct with id, type, timestamp, URL, tab title, selected text, image URL, tags, note and collection fields, plus the MemoryBankType enum.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXT_HUB_MEMORY_BANK_MEMORY_BANK_ENTRY_H_
 #define CHROME_BROWSER_CONTEXT_HUB_MEMORY_BANK_MEMORY_BANK_ENTRY_H_
 

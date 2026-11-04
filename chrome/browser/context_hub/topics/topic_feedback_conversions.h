@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Topic feedback conversion API
+// summary: Declares serialization and lenient deserialization of topic feedback between mojom structs and per-topic pref dictionaries.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXT_HUB_TOPICS_TOPIC_FEEDBACK_CONVERSIONS_H_
 #define CHROME_BROWSER_CONTEXT_HUB_TOPICS_TOPIC_FEEDBACK_CONVERSIONS_H_
 

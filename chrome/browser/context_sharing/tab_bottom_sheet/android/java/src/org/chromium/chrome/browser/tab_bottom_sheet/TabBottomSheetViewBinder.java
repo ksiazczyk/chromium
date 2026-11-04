@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabBottomSheetViewBinder
+// summary: ViewBinder that applies peek and expanded state alpha properties from the model to the Tab Bottom Sheet view, toggling visibility while keeping views in the layout hierarchy.
+// ---
+
 package org.chromium.chrome.browser.tab_bottom_sheet;
 
 import static org.chromium.chrome.browser.tab_bottom_sheet.TabBottomSheetProperties.EXPANDED_STATE_ALPHA;

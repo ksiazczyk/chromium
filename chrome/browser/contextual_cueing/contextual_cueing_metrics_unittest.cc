@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual cueing metrics unit tests
+// summary: Unit tests verifying construction of contextual cue log events for empty, null, and populated tab collections.
+// ---
+
 #include "chrome/browser/contextual_cueing/contextual_cueing_metrics.h"
 
 #include <optional>

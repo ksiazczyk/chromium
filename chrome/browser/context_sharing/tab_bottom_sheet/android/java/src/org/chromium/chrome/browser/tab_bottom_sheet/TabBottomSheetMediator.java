@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabBottomSheetMediator
+// summary: Mediator for the tab bottom sheet that handles gesture state, WebView resizing modes and cross-fade alphas between peek and expanded views.
+// ---
+
 package org.chromium.chrome.browser.tab_bottom_sheet;
 
 import android.content.Context;

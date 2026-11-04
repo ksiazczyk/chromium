@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupStore abstract interface
+// summary: Defines the abstract TabGroupStore interface with callback-based operations for retrieving, adding, updating, and deleting tab groups and pruning tabs.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXT_HUB_TAB_GROUP_STORE_TAB_GROUP_STORE_H_
 #define CHROME_BROWSER_CONTEXT_HUB_TAB_GROUP_STORE_TAB_GROUP_STORE_H_
 

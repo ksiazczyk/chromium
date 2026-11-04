@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Contextual cueing directory metadata
+summary: Declares the owning team email and Buganizer component ID for the contextual cueing directory.

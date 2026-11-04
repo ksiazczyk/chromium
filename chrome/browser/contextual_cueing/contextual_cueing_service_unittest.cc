@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual cueing service unit tests
+// summary: Unit tests covering per-origin and per-user cue caps, time and page-load gaps, and dismissal backoff.
+// ---
+
 #include "chrome/browser/contextual_cueing/contextual_cueing_service.h"
 
 #include "base/test/scoped_feature_list.h"

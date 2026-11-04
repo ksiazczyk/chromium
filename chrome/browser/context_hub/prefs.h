@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context Hub preference name constants
+// summary: Declares the Context Hub preference name constants and the profile preference registration function used by the service.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXT_HUB_PREFS_H_
 #define CHROME_BROWSER_CONTEXT_HUB_PREFS_H_
 

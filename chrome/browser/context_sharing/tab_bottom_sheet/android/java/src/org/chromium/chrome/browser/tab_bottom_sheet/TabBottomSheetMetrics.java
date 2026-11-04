@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabBottomSheetMetrics
+// summary: Helper that records UMA histograms for tab bottom sheet states, state transitions and state change reasons per client type.
+// ---
+
 package org.chromium.chrome.browser.tab_bottom_sheet;
 
 import androidx.annotation.IntDef;

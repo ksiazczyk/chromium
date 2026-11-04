@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabBottomSheetUtilsUnitTest
+// summary: Robolectric unit tests verifying TabBottomSheetUtils feature flag gating, resizing placeholder type selection, and default and full height ratio behavior.
+// ---
+
 package org.chromium.chrome.browser.tab_bottom_sheet;
 
 import static org.junit.Assert.assertEquals;

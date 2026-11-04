@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabBottomSheetTestFeature class header
+// summary: Declares a test helper that drives the tab bottom sheet bridge, tracks open, close and suppressed state, and exposes callbacks and reset support for tests.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXT_SHARING_TAB_BOTTOM_SHEET_ANDROID_TAB_BOTTOM_SHEET_TEST_FEATURE_H_
 #define CHROME_BROWSER_CONTEXT_SHARING_TAB_BOTTOM_SHEET_ANDROID_TAB_BOTTOM_SHEET_TEST_FEATURE_H_
 

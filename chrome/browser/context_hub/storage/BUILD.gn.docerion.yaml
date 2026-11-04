@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: ContextHub storage BUILD.gn
+summary: Defines the storage source_set and testonly unit_tests target for the ContextHub storage component, listing sources and dependencies.

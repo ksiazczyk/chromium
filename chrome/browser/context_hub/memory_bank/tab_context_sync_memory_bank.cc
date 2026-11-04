@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabContextSyncMemoryBank implementation
+// summary: Implements TabContextSyncMemoryBank, which saves entries via TabContextSyncService, caches them in an LRU cache and persists the sync container ID in preferences.
+// ---
+
 #include "chrome/browser/context_hub/memory_bank/tab_context_sync_memory_bank.h"
 
 #include <limits>

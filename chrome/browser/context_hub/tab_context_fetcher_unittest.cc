@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab context fetcher unit tests
+// summary: Unit tests for TabContextFetcher using a mocked page content extraction service, covering loaded tabs, navigation waits, timeouts and destroyed tabs.
+// ---
+
 #include "chrome/browser/context_hub/tab_context_fetcher.h"
 
 #include <memory>

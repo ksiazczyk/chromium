@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoOpMemoryBank implementation
+// summary: Implements NoOpMemoryBank, whose save, update, query and delete operations run callbacks with empty results or failure when the feature is disabled.
+// ---
+
 #include "chrome/browser/context_hub/memory_bank/noop_memory_bank.h"
 
 #include <utility>

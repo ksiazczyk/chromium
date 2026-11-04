@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutoTodosStore abstract interface
+// summary: Declares the abstract AutoTodosStore base class with an observer interface and virtual methods for adding, deleting, clearing, and listing todo entries.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXT_HUB_AUTO_TODOS_AUTO_TODOS_STORE_H_
 #define CHROME_BROWSER_CONTEXT_HUB_AUTO_TODOS_AUTO_TODOS_STORE_H_
 

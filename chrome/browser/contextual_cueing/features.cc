@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual cueing feature flags and parameters
+// summary: Defines ContextualCueingV2 feature flags and parameters such as cue caps, backoff times, classifier thresholds, and UCB scorer hyperparameters.
+// ---
+
 #include "chrome/browser/contextual_cueing/features.h"
 
 namespace contextual_cueing {

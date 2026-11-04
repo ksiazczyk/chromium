@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for topics feedback URL minimization
+// summary: Unit tests verifying that MinimizeUrlForTopicsFeedback keeps plain web URLs, drops non-web schemes and invalid URLs, strips credentials and fragments, and redacts secret query parameter values.
+// ---
+
 #include "chrome/browser/context_hub/topics/topics_feedback_url_util.h"
 
 #include <optional>

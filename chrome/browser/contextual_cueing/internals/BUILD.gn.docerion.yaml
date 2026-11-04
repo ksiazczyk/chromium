@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Contextual cueing internals build configuration
+summary: GN build file defining the Mojo bindings target and the internals source set with its browser and WebUI dependencies.

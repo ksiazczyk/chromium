@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context Hub feature flag declarations
+// summary: Declares the Context Hub feature flags and parameter overrides that control AutoTodos, Memory Banks, storage backends, smart search and Topics feedback behavior.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXT_HUB_FEATURES_H_
 #define CHROME_BROWSER_CONTEXT_HUB_FEATURES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual search cue target class declaration
+// summary: Declares ContextualSearchCueTarget, a contextual_cueing::CueTarget subclass that evaluates page eligibility and handles cue actions for contextual search in a tab.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXTUAL_SEARCH_CONTEXTUAL_SEARCH_CUE_TARGET_H_
 #define CHROME_BROWSER_CONTEXTUAL_SEARCH_CONTEXTUAL_SEARCH_CUE_TARGET_H_
 

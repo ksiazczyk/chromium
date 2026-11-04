@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS
+summary: Chromium dependency configuration defining include rules that restrict which directories this contextmenu Java package may depend on.

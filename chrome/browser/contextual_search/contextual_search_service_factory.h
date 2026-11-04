@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual search service factory declaration
+// summary: Declares ContextualSearchServiceFactory, the ProfileKeyedServiceFactory providing per-profile access to the contextual search service.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXTUAL_SEARCH_CONTEXTUAL_SEARCH_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_CONTEXTUAL_SEARCH_CONTEXTUAL_SEARCH_SERVICE_FACTORY_H_
 

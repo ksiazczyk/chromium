@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for Mojo files
+summary: Routes review of .mojom files in this directory to the IPC security owners with no parent approval.

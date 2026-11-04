@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual search service factory implementation
+// summary: Implements the profile-keyed factory that builds ContextualSearchService instances with identity, template URL, and Lens identity delegation dependencies.
+// ---
+
 #include "chrome/browser/contextual_search/contextual_search_service_factory.h"
 
 #include <optional>

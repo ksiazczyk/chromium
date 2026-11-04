@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InMemoryAutoTodosStore class header
+// summary: Declares the InMemoryAutoTodosStore class, an AutoTodosStore implementation backed by base::LRUCache with observer list and TTL support.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXT_HUB_AUTO_TODOS_IN_MEMORY_AUTO_TODOS_STORE_H_
 #define CHROME_BROWSER_CONTEXT_HUB_AUTO_TODOS_IN_MEMORY_AUTO_TODOS_STORE_H_
 

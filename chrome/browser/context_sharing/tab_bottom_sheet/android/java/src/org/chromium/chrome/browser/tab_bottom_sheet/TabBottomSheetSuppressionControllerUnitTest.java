@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabBottomSheetSuppressionControllerUnitTest
+// summary: Robolectric unit tests with Mockito verifying suppression trigger handling and delegate callbacks for the bottom sheet.
+// ---
+
 package org.chromium.chrome.browser.tab_bottom_sheet;
 
 import static org.junit.Assert.assertFalse;

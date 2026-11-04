@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextMenuNativeDelegateImpl
+// summary: Java implementation of the context menu native delegate that retrieves images for sharing or display and starts downloads through JNI calls into native code.
+// ---
+
 package org.chromium.chrome.browser.contextmenu;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

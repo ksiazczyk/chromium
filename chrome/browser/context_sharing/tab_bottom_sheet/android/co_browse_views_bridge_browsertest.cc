@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CoBrowseViewsBridge browser tests
+// summary: Browser tests verifying co-browse view creation on tab insertion across windows, requiring Android S or later.
+// ---
+
 #include "chrome/browser/context_sharing/tab_bottom_sheet/android/co_browse_views_bridge.h"
 
 #include "base/android/android_info.h"

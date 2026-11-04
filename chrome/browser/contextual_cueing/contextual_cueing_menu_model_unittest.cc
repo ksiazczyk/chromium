@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual cueing menu model unit tests
+// summary: Unit tests verifying the menu item structure with and without the edit prompt entry.
+// ---
+
 #include "chrome/browser/contextual_cueing/contextual_cueing_menu_model.h"
 
 #include "base/test/task_environment.h"

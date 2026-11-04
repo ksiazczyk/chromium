@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InMemoryAutoTodosStore unit tests
+// summary: Unit tests covering add, bulk add, delete by ID and tab ID, clear, expiry, ID generation, and observer notification behavior of the in-memory store.
+// ---
+
 #include "chrome/browser/context_hub/auto_todos/in_memory_auto_todos_store.h"
 
 #include <vector>

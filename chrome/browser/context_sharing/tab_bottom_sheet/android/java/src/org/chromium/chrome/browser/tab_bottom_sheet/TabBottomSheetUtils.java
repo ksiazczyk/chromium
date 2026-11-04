@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabBottomSheetUtils
+// summary: Utility class for Tab Bottom Sheet components providing feature flag checks, height ratio lookups, and shared UnownedUserData keys for the manager and co-browse factory.
+// ---
+
 package org.chromium.chrome.browser.tab_bottom_sheet;
 
 import android.app.Activity;

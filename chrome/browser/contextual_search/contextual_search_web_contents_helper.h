@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual search web contents helper declaration
+// summary: Declares ContextualSearchWebContentsHelper, which scopes a contextual search session handle to a WebContents so sessions can transfer between WebUIs such as Omnibox and Co-Browsing.
+// ---
+
 #ifndef CHROME_BROWSER_CONTEXTUAL_SEARCH_CONTEXTUAL_SEARCH_WEB_CONTENTS_HELPER_H_
 #define CHROME_BROWSER_CONTEXTUAL_SEARCH_CONTEXTUAL_SEARCH_WEB_CONTENTS_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DragDirectionResizingStrategy
+// summary: Resizing strategy that shows the placeholder based on drag direction, holding it during downward drags and only between half and full height for upward drags.
+// ---
+
 package org.chromium.chrome.browser.tab_bottom_sheet;
 
 import org.chromium.build.annotations.NullMarked;

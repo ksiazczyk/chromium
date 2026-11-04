@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tab bottom sheet Android build targets (BUILD.gn)
+summary: Defines native, JNI, Java, and Android resource build targets for the tab bottom sheet feature.
