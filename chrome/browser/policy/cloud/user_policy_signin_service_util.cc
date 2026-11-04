@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User policy sign-in service utilities
+// summary: Implements helpers for the user policy sign-in services, including profile attribute updates on sign-out, affiliated DM token lookup, and profile ID retrieval.
+// ---
+
 #include "chrome/browser/policy/cloud/user_policy_signin_service_util.h"
 
 #include "chrome/browser/browser_process.h"

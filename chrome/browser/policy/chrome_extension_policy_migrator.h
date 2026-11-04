@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome extension policy migrator header
+// summary: Declares a PolicyMigrator helper that migrates deprecated extension policies to new Chrome policies across policy domains.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_CHROME_EXTENSION_POLICY_MIGRATOR_H_
 #define CHROME_BROWSER_POLICY_CHROME_EXTENSION_POLICY_MIGRATOR_H_
 

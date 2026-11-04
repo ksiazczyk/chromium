@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browsing history policy handler implementation
+// summary: Implements the AllowDeletingBrowserHistory policy by disabling the delete browsing history and delete download history prefs when the policy is set to false.
+// ---
+
 #include "chrome/browser/policy/browsing_history_policy_handler.h"
 
 #include "base/values.h"

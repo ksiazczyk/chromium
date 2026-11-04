@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android client data delegate header
+// summary: Declares ClientDataDelegateAndroid, which sets Android-specific fields in request protos for DMServer.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_CLIENT_DATA_DELEGATE_ANDROID_H_
 #define CHROME_BROWSER_POLICY_CLIENT_DATA_DELEGATE_ANDROID_H_
 

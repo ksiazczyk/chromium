@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CBCM invalidations initializer header
+// summary: Declares CBCMInvalidationsInitializer and its delegate interface for starting the services required for policy invalidations over FCM.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_CBCM_INVALIDATIONS_INITIALIZER_H_
 #define CHROME_BROWSER_POLICY_CBCM_INVALIDATIONS_INITIALIZER_H_
 

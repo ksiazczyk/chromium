@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device login screen geolocation access level policy handler implementation
+// summary: Implements the policy handler that maps the DeviceLoginScreenGeolocationAccessLevel policy to the device geolocation preference, treating out-of-range values as disallowed.
+// ---
+
 #include "chrome/browser/policy/device_login_screen_geolocation_access_level_policy_handler.h"
 
 #include "ash/constants/ash_pref_names.h"

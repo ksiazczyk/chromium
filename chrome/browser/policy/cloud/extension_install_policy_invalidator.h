@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionInstallPolicyInvalidator class declaration
+// summary: Declares ExtensionInstallPolicyInvalidator, the PolicyInvalidator handling invalidations for extension install policies.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_CLOUD_EXTENSION_INSTALL_POLICY_INVALIDATOR_H_
 #define CHROME_BROWSER_POLICY_CLOUD_EXTENSION_INSTALL_POLICY_INVALIDATOR_H_
 

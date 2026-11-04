@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF iframe navigation throttle unit test
+// summary: Unit tests checking that the PDF iframe navigation throttle is only created for subframes and intercepts PDF responses.
+// ---
+
 #include "chrome/browser/plugins/pdf_iframe_navigation_throttle.h"
 
 #include "base/files/file_path.h"

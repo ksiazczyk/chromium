@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake user policy sign-in service implementation
+// summary: Implements FakeUserPolicySigninService, a test double that immediately reports policy registration and fetch results for managed or unmanaged accounts.
+// ---
+
 #include "chrome/browser/policy/cloud/user_policy_signin_service_test_util.h"
 
 #include "chrome/browser/profiles/profile.h"

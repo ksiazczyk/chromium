@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Developer tools availability list policy handler header
+// summary: Declares the shared handler class for the developer tools availability allowlist and blocklist policies.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_DEVELOPER_TOOLS_AVAILABILITY_LIST_POLICY_HANDLER_H_
 #define CHROME_BROWSER_POLICY_DEVELOPER_TOOLS_AVAILABILITY_LIST_POLICY_HANDLER_H_
 

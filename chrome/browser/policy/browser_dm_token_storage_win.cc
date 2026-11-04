@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows browser DM token storage delegate implementation
+// summary: Implements Windows DM token storage using the registry, machine GUID client IDs, and updater app commands for branded builds.
+// ---
+
 #include "chrome/browser/policy/browser_dm_token_storage_win.h"
 
 #include <objbase.h>

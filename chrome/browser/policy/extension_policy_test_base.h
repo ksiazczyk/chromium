@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension policy test base
+// summary: Declares a test base class for extension policy browser tests, including unpacked extension loading and a Windows start menu path override.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_EXTENSION_POLICY_TEST_BASE_H_
 #define CHROME_BROWSER_POLICY_EXTENSION_POLICY_TEST_BASE_H_
 

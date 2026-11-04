@@ -1,0 +1,4 @@
+# Docerion header of chrome_browser_cloud_management_browsertest_mac_util.mm.
+type: test
+title: Mac helper posting App Controller notifications
+summary: Posts Cocoa notifications simulating user actions like hiding Chrome while the enterprise startup dialog is shown in tests.

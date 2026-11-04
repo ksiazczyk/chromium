@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension developer mode policy handler
+// summary: Declares a policy handler that applies the ExtensionDeveloperMode policy to control the managed value of the extensions UI developer mode preference.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_EXTENSION_DEVELOPER_MODE_POLICY_HANDLER_H_
 #define CHROME_BROWSER_POLICY_EXTENSION_DEVELOPER_MODE_POLICY_HANDLER_H_
 

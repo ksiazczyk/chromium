@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Battery charging optimization policy handler declaration
+// summary: Declares a policy handler for the DevicePowerBatteryChargingOptimization enum policy, which accepts values from 1 to 3.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_POWER_BATTERY_CHARGING_OPTIMIZATION_POLICY_HANDLER_H_
 #define CHROME_BROWSER_POLICY_POWER_BATTERY_CHARGING_OPTIMIZATION_POLICY_HANDLER_H_
 

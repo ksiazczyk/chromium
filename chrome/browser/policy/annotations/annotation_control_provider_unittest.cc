@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnnotationControlProvider unit tests
+// summary: Verifies the provider returns a non-empty control map containing the expected network annotation hash codes.
+// ---
+
 #include "chrome/browser/policy/annotations/annotation_control_provider.h"
 
 #include "base/containers/flat_map.h"

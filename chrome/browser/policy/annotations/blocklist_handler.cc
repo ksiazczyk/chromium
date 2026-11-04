@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkAnnotationBlocklistHandler implementation
+// summary: Applies policy settings to build the network annotation blocklist pref from blocked annotations and registers it, gated by a feature flag.
+// ---
+
 #include "chrome/browser/policy/annotations/blocklist_handler.h"
 
 #include <string>

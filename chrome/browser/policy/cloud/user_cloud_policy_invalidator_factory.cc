@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserCloudPolicyInvalidatorFactory implementation
+// summary: Implements the profile-keyed factory that creates UserCloudPolicyInvalidator instances to enable user policy invalidations.
+// ---
+
 #include "chrome/browser/policy/cloud/user_cloud_policy_invalidator_factory.h"
 
 #include "build/build_config.h"

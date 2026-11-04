@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device management service browser tests
+// summary: Browser tests exercising device management service requests such as registration, policy fetch, and unregistration against a test server.
+// ---
+
 #include "components/policy/core/common/cloud/device_management_service.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome extension policy migrator
+// summary: Implements copying of deprecated extension policies into the Chrome policy domain when the corresponding Chrome policies are unset.
+// ---
+
 #include "chrome/browser/policy/chrome_extension_policy_migrator.h"
 
 #include <algorithm>

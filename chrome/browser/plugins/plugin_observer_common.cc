@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared PDF URL opening helper implementation
+// summary: Implements CanOpenPdfUrl, which checks that a frame may request a PDF URL and computes a sanitized referrer for opening it.
+// ---
+
 #include "chrome/browser/plugins/plugin_observer_common.h"
 
 #include "content/public/browser/child_process_security_policy.h"

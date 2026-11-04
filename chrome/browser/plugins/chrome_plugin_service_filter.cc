@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome plugin service filter implementation
+// summary: Implements per-profile and per-process plugin authorization, using plugin prefs and content settings to decide plugin availability and load permission.
+// ---
+
 #include "chrome/browser/plugins/chrome_plugin_service_filter.h"
 
 #include <utility>

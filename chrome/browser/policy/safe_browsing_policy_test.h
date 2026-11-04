@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe Browsing policy test helper header
+// summary: Declares the SafeBrowsingPolicyTest helper class for testing Safe Browsing policy interstitials.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_SAFE_BROWSING_POLICY_TEST_H_
 #define CHROME_BROWSER_POLICY_SAFE_BROWSING_POLICY_TEST_H_
 

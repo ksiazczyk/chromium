@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for policy UI metadata helpers
+// summary: Declares functions for building Chrome metadata parameters and creating the promotion eligibility checker used by policy UI code.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_POLICY_UI_UTILS_H_
 #define CHROME_BROWSER_POLICY_POLICY_UI_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Printing restrictions policy handler unit tests
+// summary: Unit tests verifying validation and preference application of the printing paper size default and related printing restriction policies.
+// ---
+
 #include "chrome/browser/policy/printing_restrictions_policy_handler.h"
 
 #include "base/json/json_reader.h"

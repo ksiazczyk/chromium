@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Developer tools policy checker factory unit tests
+// summary: Unit tests verifying checker creation for regular, incognito, and guest browser contexts through the factory.
+// ---
+
 #include "chrome/browser/policy/developer_tools_policy_checker_factory.h"
 
 #include "base/values.h"

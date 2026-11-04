@@ -5,6 +5,12 @@
 // Warning: this file will not be compiled for ChromeOS because the test
 // PolicyMakeDefaultBrowserTest is not valid for this platform.
 
+// ---docerion
+// type: test
+// title: Browser test for default browser policy at startup
+// summary: Browser test verifying that startup exits with a policy-disallowed result when making Chrome the default browser is forbidden by policy.
+// ---
+
 #include "base/command_line.h"
 #include "chrome/common/chrome_result_codes.h"
 #include "chrome/common/chrome_switches.h"

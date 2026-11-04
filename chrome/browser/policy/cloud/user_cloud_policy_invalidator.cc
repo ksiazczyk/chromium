@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserCloudPolicyInvalidator implementation
+// summary: Implements a KeyedService that attaches user cloud policy and extension install policy invalidators to a profile's invalidation provider after profile initialization.
+// ---
+
 #include "chrome/browser/policy/cloud/user_cloud_policy_invalidator.h"
 
 #include <memory>

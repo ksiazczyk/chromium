@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL blocking policy test utilities
+// summary: Test helpers that verify blocked URLs render the administrator-blocked error pages in browser tests.
+// ---
+
 #include "chrome/browser/policy/url_blocking_policy_test_utils.h"
 
 #include <string>

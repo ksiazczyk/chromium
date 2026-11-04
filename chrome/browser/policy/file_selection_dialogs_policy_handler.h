@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File selection dialogs policy handler header
+// summary: Declares the configuration policy handler that maps the AllowFileSelectionDialogs policy onto browser preferences.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_FILE_SELECTION_DIALOGS_POLICY_HANDLER_H_
 #define CHROME_BROWSER_POLICY_FILE_SELECTION_DIALOGS_POLICY_HANDLER_H_
 

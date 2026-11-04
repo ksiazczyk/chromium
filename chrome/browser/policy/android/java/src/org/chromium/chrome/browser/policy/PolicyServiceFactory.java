@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PolicyServiceFactory
+// summary: Returns the global and per-profile PolicyService instances via JNI and supports overriding them for testing.
+// ---
+
 package org.chromium.chrome.browser.policy;
 
 import org.jni_zero.JNINamespace;

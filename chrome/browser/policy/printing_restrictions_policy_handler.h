@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printing restrictions policy handler declarations
+// summary: Declares templated and platform-specific policy handlers for printing restrictions covering color, duplex, PIN, background graphics and paper size.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_PRINTING_RESTRICTIONS_POLICY_HANDLER_H_
 #define CHROME_BROWSER_POLICY_PRINTING_RESTRICTIONS_POLICY_HANDLER_H_
 

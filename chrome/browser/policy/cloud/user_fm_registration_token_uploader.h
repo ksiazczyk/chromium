@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User Firebase registration token uploader header
+// summary: Declares UserFmRegistrationTokenUploader, a KeyedService and ProfileObserver that manages Firebase registration token uploaders for a profile.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_CLOUD_USER_FM_REGISTRATION_TOKEN_UPLOADER_H_
 #define CHROME_BROWSER_POLICY_CLOUD_USER_FM_REGISTRATION_TOKEN_UPLOADER_H_
 

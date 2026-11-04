@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local sync policy handler unit tests
+// summary: Unit tests covering default behavior, invalid policy types, and path variable expansion for the RoamingProfileLocation policy.
+// ---
+
 #include <memory>
 #include <string>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnnotationControl class header
+// summary: Declares AnnotationControl, a set of required policy values that explicitly disable a network annotation when all policies match.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_ANNOTATIONS_ANNOTATION_CONTROL_H_
 #define CHROME_BROWSER_POLICY_ANNOTATIONS_ANNOTATION_CONTROL_H_
 

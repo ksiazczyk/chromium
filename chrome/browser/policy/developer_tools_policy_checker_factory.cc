@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Developer tools policy checker factory implementation
+// summary: Implements the profile-keyed service factory that creates DeveloperToolsPolicyChecker instances and registers DevTools availability preferences.
+// ---
+
 #include "chrome/browser/policy/developer_tools_policy_checker_factory.h"
 
 #include "chrome/browser/policy/developer_tools_policy_checker.h"

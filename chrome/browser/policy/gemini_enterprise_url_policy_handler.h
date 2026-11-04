@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini Enterprise URL policy handler header
+// summary: Declares a policy handler that validates the GeminiEnterpriseUrl policy and maps it to the Gemini Enterprise web application URL preference.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_GEMINI_ENTERPRISE_URL_POLICY_HANDLER_H_
 #define CHROME_BROWSER_POLICY_GEMINI_ENTERPRISE_URL_POLICY_HANDLER_H_
 

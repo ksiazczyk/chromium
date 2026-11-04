@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud management shared preferences header
+// summary: Declares functions to save, delete, and read the device management token from Android shared preferences.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_ANDROID_CLOUD_MANAGEMENT_SHARED_PREFERENCES_H_
 #define CHROME_BROWSER_POLICY_ANDROID_CLOUD_MANAGEMENT_SHARED_PREFERENCES_H_
 

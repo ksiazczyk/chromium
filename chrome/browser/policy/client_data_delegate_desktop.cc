@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop client data delegate
+// summary: Fills desktop OS platform, version, and browser device identifier fields into RegisterBrowserRequest protos for the device management server.
+// ---
+
 #include "chrome/browser/policy/client_data_delegate_desktop.h"
 
 #include <utility>

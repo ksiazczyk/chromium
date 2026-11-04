@@ -1,0 +1,4 @@
+# Docerion header of browser_dm_token_storage_mac.mm.
+type: source
+title: Mac browser DM token storage delegate implementation
+summary: Implements macOS DM token storage with SHA-1 hashed token filenames and enrollment token lookup from policy or file.

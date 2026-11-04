@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserCloudPolicyInvalidator declaration
+// summary: Declares UserCloudPolicyInvalidator, a profile-scoped KeyedService that provides invalidations for user cloud policy.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_CLOUD_USER_CLOUD_POLICY_INVALIDATOR_H_
 #define CHROME_BROWSER_POLICY_CLOUD_USER_CLOUD_POLICY_INVALIDATOR_H_
 

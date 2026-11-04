@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CBCM invalidations initializer unit tests
+// summary: Unit tests for CBCMInvalidationsInitializer covering service account token fetching, storage, and invalidation startup using mock clients and test URL loaders.
+// ---
+
 #include "chrome/browser/policy/cbcm_invalidations_initializer.h"
 
 #include "base/functional/bind.h"

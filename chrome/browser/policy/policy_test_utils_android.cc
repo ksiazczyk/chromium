@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android navigation helper for policy tests
+// summary: Provides the Android implementation of PolicyTest::NavigateToUrl used by policy browser tests.
+// ---
+
 #include <utility>
 
 #include "chrome/browser/policy/policy_test_utils.h"

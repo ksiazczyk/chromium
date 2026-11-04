@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop client data delegate unit tests
+// summary: Unit tests verifying that the desktop delegate fills the browser device identifier, including machine name and serial number, in registration requests.
+// ---
+
 #include "chrome/browser/policy/client_data_delegate_desktop.h"
 
 #include <memory>

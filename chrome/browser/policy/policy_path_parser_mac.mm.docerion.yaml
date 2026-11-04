@@ -1,0 +1,4 @@
+# Docerion header of policy_path_parser_mac.mm.
+type: source
+title: Mac policy path variable expansion
+summary: macOS implementation that expands path variables such as ${users} and ${documents} and reads the UserDataDir policy directly from preferences.

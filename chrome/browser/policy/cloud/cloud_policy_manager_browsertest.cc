@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cloud policy manager browser tests
+// summary: Browser tests for user cloud policy sign-in, registration, and policy fetch flows through the device management service.
+// ---
+
 #include <memory>
 
 #include "base/byte_size.h"

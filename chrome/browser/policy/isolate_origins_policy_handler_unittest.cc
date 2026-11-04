@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolate origins policy handler unit tests
+// summary: Unit tests for the IsolateOrigins policy handler covering desktop, Android, and shortlist behavior on high- and low-memory devices.
+// ---
+
 #include "chrome/browser/policy/isolate_origins_policy_handler.h"
 
 #include <memory>

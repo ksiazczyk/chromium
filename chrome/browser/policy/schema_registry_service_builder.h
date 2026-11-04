@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Schema registry service builder declarations
+// summary: Declares factory functions that create a SchemaRegistryService for a browser context or from an existing registry.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_SCHEMA_REGISTRY_SERVICE_BUILDER_H_
 #define CHROME_BROWSER_POLICY_SCHEMA_REGISTRY_SERVICE_BUILDER_H_
 

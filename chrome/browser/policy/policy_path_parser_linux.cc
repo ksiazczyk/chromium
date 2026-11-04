@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux policy path variable expansion
+// summary: Linux implementation that expands the ${user_name} and ${machine_name} variables in policy path strings.
+// ---
+
 #include <pwd.h>
 #include <stddef.h>
 #include <string.h>

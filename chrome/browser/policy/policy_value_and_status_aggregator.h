@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy value and status aggregator class declaration
+// summary: Declares PolicyValueAndStatusAggregator, which collects and merges policy status and values from providers and notifies observers of changes.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_POLICY_VALUE_AND_STATUS_AGGREGATOR_H_
 #define CHROME_BROWSER_POLICY_POLICY_VALUE_AND_STATUS_AGGREGATOR_H_
 

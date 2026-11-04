@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUSB allow devices for URLs policy handler
+// summary: Implements validation of the WebUsbAllowDevicesForUrls policy, checking vendor and product IDs and requesting and embedding URLs before applying preferences.
+// ---
+
 #include "chrome/browser/policy/webusb_allow_devices_for_urls_policy_handler.h"
 
 #include <memory>

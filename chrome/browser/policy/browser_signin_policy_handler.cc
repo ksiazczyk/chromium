@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserSignin policy handler implementation
+// summary: Applies the BrowserSignin policy to sign-in preferences, skipping enforcement during GCPW signin and handling Android prefs.
+// ---
+
 #include "chrome/browser/policy/browser_signin_policy_handler.h"
 
 #include <memory>

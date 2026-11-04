@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default geolocation policy handler implementation
+// summary: Maps the DefaultGeolocationSetting policy to geolocation preferences, blocking ARC or system location access and flagging conflicts with GoogleLocationServicesEnabled.
+// ---
+
 #include "chrome/browser/policy/default_geolocation_policy_handler.h"
 
 #include "ash/constants/ash_features.h"

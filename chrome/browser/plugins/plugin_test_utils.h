@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PluginTestUtils test helper header
+// summary: Declares PluginTestUtils static helpers for running test scripts on plugin elements and blocking until a plugin placeholder is ready.
+// ---
+
 #ifndef CHROME_BROWSER_PLUGINS_PLUGIN_TEST_UTILS_H_
 #define CHROME_BROWSER_PLUGINS_PLUGIN_TEST_UTILS_H_
 

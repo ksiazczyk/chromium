@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileTokenPolicyWebSigninServiceFactory implementation
+// summary: Implements the KeyedService factory that builds a ProfileTokenPolicyWebSigninService for each browser profile.
+// ---
+
 #include "chrome/browser/policy/cloud/profile_token_policy_web_signin_service_factory.h"
 
 #include "base/memory/ref_counted.h"

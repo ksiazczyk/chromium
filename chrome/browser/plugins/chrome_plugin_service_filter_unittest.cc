@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ChromePluginServiceFilter
+// summary: Verifies plugin availability and authorization behavior, including revocation of authorizations after a render process exits.
+// ---
+
 #include "chrome/browser/plugins/chrome_plugin_service_filter.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DM token utilities implementation
+// summary: Implements platform-specific retrieval of the DM token for browser, kiosk and managed guest sessions, plus a testing override for the token storage.
+// ---
+
 #include "chrome/browser/policy/dm_token_utils.h"
 
 #include "base/no_destructor.h"

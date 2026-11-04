@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Site isolation policy browser tests
+// summary: Browser tests checking site isolation and isolated-origin behavior under various policy and feature settings.
+// ---
+
 #include "content/public/browser/site_isolation_policy.h"
 
 #include "base/byte_size.h"

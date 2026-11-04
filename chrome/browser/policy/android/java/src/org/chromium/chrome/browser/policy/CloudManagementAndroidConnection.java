@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CloudManagementAndroidConnection
+// summary: Provides access to cloud management functions implemented downstream and supplies the client ID used for DM token generation.
+// ---
+
 package org.chromium.chrome.browser.policy;
 
 import android.text.TextUtils;

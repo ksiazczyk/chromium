@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Plugin response interceptor URL loader throttle
+// summary: Throttle that intercepts URL loader responses for plugin-handled MIME types, wiring up extension mime handler streams and clearing CSP headers except frame-ancestors.
+// ---
+
 #include "chrome/browser/plugins/plugin_response_interceptor_url_loader_throttle.h"
 
 #include <tuple>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SerialAllowUsbDevicesForUrls policy handler tests
+// summary: Unit tests verifying that the SerialAllowUsbDevicesForUrls policy is validated and applied to managed preferences.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "base/test/values_test_util.h"
 #include "chrome/common/pref_names.h"

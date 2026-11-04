@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Restricted managed guest session policy provider browser tests
+// summary: Ash browser tests verifying that the expected restricted managed guest session policy overrides are applied to the policy service.
+// ---
+
 #include "ash/constants/ash_switches.h"
 #include "base/values.h"
 #include "chrome/browser/ash/login/test/session_manager_state_waiter.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PluginTestUtils test helper implementation
+// summary: Implements PluginTestUtils helpers that run JavaScript against plugin OBJECT or EMBED elements and wait until a plugin placeholder signals readiness during browser tests.
+// ---
+
 #include "chrome/browser/plugins/plugin_test_utils.h"
 
 #include <string_view>

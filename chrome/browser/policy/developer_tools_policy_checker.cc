@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Developer tools policy checker implementation
+// summary: Implements a keyed service that checks whether URLs are allowed or blocked for DevTools based on policy allowlist and blocklist preferences.
+// ---
+
 #include "chrome/browser/policy/developer_tools_policy_checker.h"
 
 #include "build/build_config.h"

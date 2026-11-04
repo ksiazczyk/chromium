@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome browser cloud management register watcher
+// summary: Implements a watcher that blocks Chrome startup until cloud management enrollment finishes, showing a loading or error dialog and recording enrollment metrics.
+// ---
+
 #include "chrome/browser/policy/chrome_browser_cloud_management_register_watcher.h"
 
 #include <utility>

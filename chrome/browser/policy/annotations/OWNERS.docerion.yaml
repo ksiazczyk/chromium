@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the policy annotations directory
+summary: Lists crmullins@chromium.org as the code owner for the policy annotations directory.

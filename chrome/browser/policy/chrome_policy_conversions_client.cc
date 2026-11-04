@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome policy conversions client implementation
+// summary: Implements the Profile-based PolicyConversionsClient for //chrome, exposing policy service, schema registry, handler list, and ChromeOS identity fields.
+// ---
+
 #include "chrome/browser/policy/chrome_policy_conversions_client.h"
 
 #include <set>

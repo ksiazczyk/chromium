@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User policy sign-in service utilities unit tests
+// summary: Unit tests for the sign-in service utilities, verifying DM token retrieval for affiliated and non-affiliated users.
+// ---
+
 #include "chrome/browser/policy/cloud/user_policy_signin_service_util.h"
 
 #include <memory>

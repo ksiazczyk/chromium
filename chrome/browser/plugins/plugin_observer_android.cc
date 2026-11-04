@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PluginObserverAndroid implementation
+// summary: Implements the Android plugin observer that binds the PluginHost mojo receiver per tab and opens PDF URLs in the current tab with a user gesture.
+// ---
+
 #include "chrome/browser/plugins/plugin_observer_android.h"
 
 #include <utility>

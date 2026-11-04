@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile policy connector implementation
+// summary: Implements per-profile policy management, including managed state reporting, local test policy infobars and ChromeOS proxied policy handling.
+// ---
+
 #include "chrome/browser/policy/profile_policy_connector.h"
 
 #include <algorithm>

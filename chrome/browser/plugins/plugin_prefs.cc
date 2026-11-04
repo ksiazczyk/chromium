@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PluginPrefs implementation
+// summary: Implements per-profile plugin preferences, deciding whether plugins are enabled and reacting to the AlwaysOpenPdfExternally policy by purging plugin list caches.
+// ---
+
 #include "chrome/browser/plugins/plugin_prefs.h"
 
 #include <stddef.h>

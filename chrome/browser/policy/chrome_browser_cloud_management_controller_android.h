@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CBCM controller Android header
+// summary: Declares the Android delegate for ChromeBrowserCloudManagementController, including policy manager, reporting, and certificate provisioning hooks.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_CHROME_BROWSER_CLOUD_MANAGEMENT_CONTROLLER_ANDROID_H_
 #define CHROME_BROWSER_POLICY_CHROME_BROWSER_CLOUD_MANAGEMENT_CONTROLLER_ANDROID_H_
 

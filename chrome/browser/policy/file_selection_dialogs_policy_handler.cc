@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File selection dialogs policy handler
+// summary: Applies the AllowFileSelectionDialogs policy to preferences and disables the prompt-for-download setting when file selection dialogs are disallowed.
+// ---
+
 #include "chrome/browser/policy/file_selection_dialogs_policy_handler.h"
 
 #include "base/values.h"

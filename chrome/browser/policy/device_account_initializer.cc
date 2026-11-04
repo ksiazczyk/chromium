@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device account initializer implementation
+// summary: Fetches robot OAuth tokens for the device account via the cloud policy client and Gaia OAuth client, reporting results to a delegate.
+// ---
+
 #include "chrome/browser/policy/device_account_initializer.h"
 
 #include <utility>

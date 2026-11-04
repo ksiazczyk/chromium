@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User cloud policy invalidator unit tests
+// summary: Unit test verifying that shutting down UserCloudPolicyInvalidator before profile initialization completes does not crash.
+// ---
+
 #include "chrome/browser/policy/cloud/user_cloud_policy_invalidator.h"
 
 #include "base/memory/scoped_refptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Developer tools availability list policy handler implementation
+// summary: Validates and applies the DeveloperToolsAvailabilityAllowlist and Blocklist URL list policies, warning on invalid host patterns and exceeding filter limits.
+// ---
+
 #include "chrome/browser/policy/developer_tools_availability_list_policy_handler.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionInstallPolicyInvalidator implementation
+// summary: Implements the invalidator for extension install policies, including scope-based metric name lookups.
+// ---
+
 #include "chrome/browser/policy/cloud/extension_install_policy_invalidator.h"
 
 #include <memory>

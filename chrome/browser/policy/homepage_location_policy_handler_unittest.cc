@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Homepage location policy handler unit tests
+// summary: Unit tests verifying URL scheme validation and homepage preference application for the HomepageLocation policy handler.
+// ---
+
 #include "chrome/browser/policy/homepage_location_policy_handler.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy UI metadata and promotion helpers
+// summary: Builds platform-specific JSON generation parameters for the policy UI and creates the enterprise promotion eligibility checker for a profile.
+// ---
+
 #include "chrome/browser/policy/policy_ui_utils.h"
 
 #include <optional>

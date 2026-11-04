@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Restricted managed guest session policy provider unit tests
+// summary: Unit tests verifying that the restricted managed guest session provider builds the expected restricted policy bundle.
+// ---
+
 #include <memory>
 
 #include "base/values.h"

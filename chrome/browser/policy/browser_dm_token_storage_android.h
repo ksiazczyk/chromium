@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android browser DM token storage header
+// summary: Declares the Android BrowserDMTokenStorage delegate that supplies client, enrollment, and DM token values.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_BROWSER_DM_TOKEN_STORAGE_ANDROID_H_
 #define CHROME_BROWSER_POLICY_BROWSER_DM_TOKEN_STORAGE_ANDROID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemFeaturesDisableList policy handler declarations
+// summary: Declares the SystemFeature and disable mode enums plus the policy handler for SystemFeaturesDisableList on ChromeOS.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_SYSTEM_FEATURES_DISABLE_LIST_POLICY_HANDLER_H_
 #define CHROME_BROWSER_POLICY_SYSTEM_FEATURES_DISABLE_LIST_POLICY_HANDLER_H_
 

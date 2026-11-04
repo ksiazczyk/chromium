@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Plugin info host implementation
+// summary: Implements the PluginInfoHost Mojo interface, deciding which plugins are enabled and authorized for a frame using content settings and plugin metadata.
+// ---
+
 #include "chrome/browser/plugins/plugin_info_host_impl.h"
 
 #include <stddef.h>

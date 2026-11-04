@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User Firebase registration token uploader factory
+// summary: Implements the profile-keyed service factory that builds a UserFmRegistrationTokenUploader for each profile with a cloud policy manager.
+// ---
+
 #include "chrome/browser/policy/cloud/user_fm_registration_token_uploader_factory.h"
 
 #include "build/build_config.h"

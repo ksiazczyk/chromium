@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Plugin info host browser test
+// summary: Browser tests for PluginInfoHostImpl covering plugin info lookups, including bidirectional text handling of the PDF viewer plugin name.
+// ---
+
 #include "chrome/browser/plugins/plugin_info_host_impl.h"
 
 #include <stddef.h>

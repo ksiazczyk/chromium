@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnnotationControlProvider implementation
+// summary: Maps network annotation hash codes to AnnotationControl objects that specify which disabled policies block each annotation.
+// ---
+
 #include "chrome/browser/policy/annotations/annotation_control_provider.h"
 
 #include "base/containers/flat_map.h"

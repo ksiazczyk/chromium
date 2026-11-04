@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe Search policy test helper
+// summary: Implements helpers that apply Safe Search and YouTube restriction policies and verify the resulting search URL rewriting in tests.
+// ---
+
 #include "chrome/browser/policy/safe_search_policy_test.h"
 
 #include "chrome/browser/ui/browser_window.h"

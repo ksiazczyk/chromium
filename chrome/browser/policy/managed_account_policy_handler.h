@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed account restrictions policy handler header
+// summary: Declares a schema-validating policy handler that maps ManagedAccountsSigninRestriction to a pref and sets its machine or account scope.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_MANAGED_ACCOUNT_POLICY_HANDLER_H_
 #define CHROME_BROWSER_POLICY_MANAGED_ACCOUNT_POLICY_HANDLER_H_
 

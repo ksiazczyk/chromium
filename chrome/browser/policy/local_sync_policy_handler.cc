@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local sync policy handler
+// summary: Maps the RoamingProfileLocation policy to the local sync backend directory preference, expanding path variables.
+// ---
+
 #include "chrome/browser/policy/local_sync_policy_handler.h"
 
 #include <memory>

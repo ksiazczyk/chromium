@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud policy invalidator implementation
+// summary: Implements CloudPolicyInvalidator, mapping policy invalidation scopes to invalidator type names and refresh or invalidation metrics.
+// ---
+
 #include "chrome/browser/policy/cloud/cloud_policy_invalidator.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Plugin observer implementation
+// summary: Implements PluginObserver, binding the PluginHost Mojo interface to open or download PDFs when the PDF viewer is unavailable.
+// ---
+
 #include "chrome/browser/plugins/plugin_observer.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive file sync available policy handler implementation
+// summary: Implements the handler that validates the DriveFileSyncAvailable policy values and maps them to Drive FS bulk pinning visibility and enablement preferences.
+// ---
+
 #include "chrome/browser/policy/drive_file_sync_available_policy_handler.h"
 
 #include <algorithm>

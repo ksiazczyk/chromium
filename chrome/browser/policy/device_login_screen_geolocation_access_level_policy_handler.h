@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device login screen geolocation access level policy handler header
+// summary: Declares a type-checking policy handler for the device login screen geolocation access level policy with its allowed value range.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_DEVICE_LOGIN_SCREEN_GEOLOCATION_ACCESS_LEVEL_POLICY_HANDLER_H_
 #define CHROME_BROWSER_POLICY_DEVICE_LOGIN_SCREEN_GEOLOCATION_ACCESS_LEVEL_POLICY_HANDLER_H_
 

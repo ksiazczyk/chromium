@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension policy browser tests
+// summary: Browser tests verifying how extension-related policies affect installation, sync, content verification and extension behavior in Chrome.
+// ---
+
 #include <memory>
 
 #include "base/check_deref.h"

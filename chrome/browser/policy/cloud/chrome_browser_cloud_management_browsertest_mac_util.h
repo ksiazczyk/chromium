@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mac notification helper for CBCM browser tests
+// summary: Declares a helper that posts App Controller notifications while the enterprise startup dialog is displayed during enrollment tests.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_CLOUD_CHROME_BROWSER_CLOUD_MANAGEMENT_BROWSERTEST_MAC_UTIL_H_
 #define CHROME_BROWSER_POLICY_CLOUD_CHROME_BROWSER_CLOUD_MANAGEMENT_BROWSERTEST_MAC_UTIL_H_
 

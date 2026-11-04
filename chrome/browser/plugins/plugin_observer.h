@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Plugin observer header
+// summary: Declares PluginObserver, a per-tab WebContentsObserver and PluginHost Mojo implementation for plugin-related actions.
+// ---
+
 #ifndef CHROME_BROWSER_PLUGINS_PLUGIN_OBSERVER_H_
 #define CHROME_BROWSER_PLUGINS_PLUGIN_OBSERVER_H_
 

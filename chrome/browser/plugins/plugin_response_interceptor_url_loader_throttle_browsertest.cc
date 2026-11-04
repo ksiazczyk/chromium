@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Plugin response interceptor URL loader throttle browser test
+// summary: Browser test verifying that navigating to a PDF marked as an attachment triggers a download instead of launching a PDF plugin process.
+// ---
+
 #include "base/files/file_path.h"
 #include "base/functional/bind.h"
 #include "base/memory/raw_ptr.h"

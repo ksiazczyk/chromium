@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PluginPrefsFactory implementation
+// summary: Implements the profile-keyed service factory that builds PluginPrefs per profile and registers the syncable AlwaysOpenPdfExternally preference.
+// ---
+
 #include "chrome/browser/plugins/plugin_prefs_factory.h"
 
 #include "base/files/file_path.h"

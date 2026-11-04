@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the Chrome browser policy directory
+summary: Delegates code ownership to the shared owners list defined in components/policy.

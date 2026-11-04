@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PluginObserverAndroid class declaration
+// summary: Declares the simplified PluginObserver variant used on Android, which serves the PluginHost mojo interface and opens PDFs even though plugins are disabled there.
+// ---
+
 #ifndef CHROME_BROWSER_PLUGINS_PLUGIN_OBSERVER_ANDROID_H_
 #define CHROME_BROWSER_PLUGINS_PLUGIN_OBSERVER_ANDROID_H_
 

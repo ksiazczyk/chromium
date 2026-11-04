@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PluginPrefs class declaration
+// summary: Declares the refcounted keyed service that stores plugin enabled state per profile and exposes IsPluginEnabled for the PDF viewer plugin.
+// ---
+
 #ifndef CHROME_BROWSER_PLUGINS_PLUGIN_PREFS_H_
 #define CHROME_BROWSER_PLUGINS_PLUGIN_PREFS_H_
 

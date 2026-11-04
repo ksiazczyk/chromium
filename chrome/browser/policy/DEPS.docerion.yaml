@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the Chrome browser policy directory
+summary: DEPS file specifying allowed include dependencies for policy browser tests such as media stream, screenshot, and legacy cookie scope tests.

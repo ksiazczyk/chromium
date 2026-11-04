@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Plugin metadata header
+// summary: Declares PluginMetadata, which stores a plugin's identifier, display name, and security status such as requiring authorization.
+// ---
+
 #ifndef CHROME_BROWSER_PLUGINS_PLUGIN_METADATA_H_
 #define CHROME_BROWSER_PLUGINS_PLUGIN_METADATA_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Plugins part of ChromeContentBrowserClient header
+// summary: Declares the ChromeContentBrowserClientPluginsPart class that exposes plugin interfaces to renderers as part of the content browser client.
+// ---
+
 #ifndef CHROME_BROWSER_PLUGINS_CHROME_CONTENT_BROWSER_CLIENT_PLUGINS_PART_H_
 #define CHROME_BROWSER_PLUGINS_CHROME_CONTENT_BROWSER_CLIENT_PLUGINS_PART_H_
 

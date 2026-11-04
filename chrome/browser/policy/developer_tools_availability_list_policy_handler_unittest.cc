@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Developer tools availability list policy handler unit tests
+// summary: Unit tests covering type errors, empty lists, filter limits and invalid entries for the developer tools availability list policies.
+// ---
+
 #include "chrome/browser/policy/developer_tools_availability_list_policy_handler.h"
 
 #include <memory>

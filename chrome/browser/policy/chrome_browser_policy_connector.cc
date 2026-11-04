@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome browser policy connector
+// summary: Implements the Chrome browser policy connector that sets up platform and cloud policy providers, including the CBCM controller, across desktop and Android.
+// ---
+
 #include "chrome/browser/policy/chrome_browser_policy_connector.h"
 
 #include <memory>

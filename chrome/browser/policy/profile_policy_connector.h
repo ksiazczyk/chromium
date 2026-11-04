@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile policy connector class declaration
+// summary: Declares ProfilePolicyConnector, which creates and manages per-profile policy components and exposes the profile's PolicyService.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_PROFILE_POLICY_CONNECTOR_H_
 #define CHROME_BROWSER_POLICY_PROFILE_POLICY_CONNECTOR_H_
 

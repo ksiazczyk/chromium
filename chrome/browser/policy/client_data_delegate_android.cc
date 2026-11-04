@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android client data delegate
+// summary: Fills Android-specific OS platform, version, and hardware info into RegisterBrowserRequest protos for the device management server.
+// ---
+
 #include "chrome/browser/policy/client_data_delegate_android.h"
 
 #include <utility>

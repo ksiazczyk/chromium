@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PolicyInvalidator implementation
+// summary: Implements PolicyInvalidator, which listens for policy invalidations and triggers cloud policy refreshes while recording refresh and invalidation metrics.
+// ---
+
 #include "chrome/browser/policy/cloud/policy_invalidator.h"
 
 #include <algorithm>

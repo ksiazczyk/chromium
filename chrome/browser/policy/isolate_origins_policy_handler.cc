@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolate origins policy handler implementation
+// summary: Implements handling of the IsolateOrigins policies, choosing desktop, Android, or low-memory shortlist variants when applying site isolation preferences.
+// ---
+
 #include "chrome/browser/policy/isolate_origins_policy_handler.h"
 
 #include <algorithm>
