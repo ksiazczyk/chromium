@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginDataDispatcher implementation
+// summary: Implements the observer notification methods that forward user, auth factor, fingerprint, Smart Lock, and public session changes to registered observers.
+// relations:
+//   - implements /ash/login/ui/login_data_dispatcher.h
+// ---
+
 #include "ash/login/ui/login_data_dispatcher.h"
 
 class AccountId;

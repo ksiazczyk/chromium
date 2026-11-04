@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginButton implementation
+// summary: Implements a lock screen image button with ink drop ripple and highlight effects and a focus ring.
+// relations:
+//   - implements /ash/login/ui/login_button.h
+//   - depends_on /ash/login/ui/views_utils.h
+//   - depends_on /base/functional/bind.h
+// ---
+
 #include "ash/login/ui/login_button.h"
 
 #include <utility>

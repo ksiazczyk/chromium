@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login detachable base model interface
+// summary: Declares the LoginDetachableBaseModel interface used by the login UI to query detachable base pairing status and compare or set the last base used by a user.
+// relations:
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_LOGIN_UI_LOGIN_DETACHABLE_BASE_MODEL_H_
 #define ASH_LOGIN_UI_LOGIN_DETACHABLE_BASE_MODEL_H_
 

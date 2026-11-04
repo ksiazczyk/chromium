@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Access code input views implementation
+// summary: Implements the FlexCodeInput view and shared helpers for entering flexible or fixed-length access codes such as PINs on the login screen.
+// relations:
+//   - implements /ash/login/ui/access_code_input.h
+//   - depends_on /ash/style/system_textfield.h
+//   - depends_on /base/notimplemented.h
+// ---
+
 #include "ash/login/ui/access_code_input.h"
 
 #include <string>

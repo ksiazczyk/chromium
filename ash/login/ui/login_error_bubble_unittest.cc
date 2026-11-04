@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login error bubble unit tests
+// summary: Tests that persistent error bubbles stay visible on clicks, gestures, and key presses, and that accessible properties report the alert dialog role.
+// relations:
+//   - tests /ash/login/ui/login_error_bubble.h
+//   - depends_on /ash/login/ui/login_test_base.h
+//   - depends_on /base/memory/weak_ptr.h
+// ---
+
 #include "ash/login/ui/login_error_bubble.h"
 
 #include "ash/login/ui/login_test_base.h"

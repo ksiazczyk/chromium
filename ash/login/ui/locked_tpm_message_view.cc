@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TPM locked message view implementation
+// summary: Implements the message view shown when the TPM is locked, displaying an alert icon, description, and a warning with the remaining unlock time.
+// relations:
+//   - implements /ash/login/ui/locked_tpm_message_view.h
+// ---
+
 #include "ash/login/ui/locked_tpm_message_view.h"
 
 #include <memory>

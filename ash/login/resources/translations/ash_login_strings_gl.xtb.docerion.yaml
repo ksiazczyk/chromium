@@ -1,0 +1,4 @@
+# Docerion header of ash_login_strings_gl.xtb.
+type: data
+title: Galician login screen translation bundle
+summary: Galician translation bundle with ChromeOS Ash login UI strings covering sign-in, device setup, network activation, PIN unlock, and enrollment messages.

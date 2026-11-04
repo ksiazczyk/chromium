@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login UI layout constants
+// summary: Defines constants for the login UI such as wallpaper background corner radius, user switch animation duration, and minimum big user view height.
+// ---
+
 #ifndef ASH_LOGIN_UI_LOGIN_CONSTANTS_H_
 #define ASH_LOGIN_UI_LOGIN_CONSTANTS_H_
 

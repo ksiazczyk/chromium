@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaControllerImpl implementation
+// summary: Implements the Ash media controller, handling media key actions via the media session service or a media client, lock screen media controls, and capture state notifications.
+// relations:
+//   - implements /ash/media/media_controller_impl.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/constants/ash_pref_names.h
+// ---
+
 #include "ash/media/media_controller_impl.h"
 
 #include "ash/constants/ash_features.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Public account monitoring info dialog implementation
+// summary: Implements the system-modal dialog that lists bulleted monitoring information items shown after the learn more button on the public account session view.
+// relations:
+//   - implements /ash/login/ui/public_account_monitoring_info_dialog.h
+//   - depends_on /ash/login/ui/login_expanded_public_account_view.h
+//   - depends_on /ui/base/l10n/l10n_util.h
+// ---
+
 #include "ash/login/ui/public_account_monitoring_info_dialog.h"
 
 #include "ash/login/ui/login_expanded_public_account_view.h"

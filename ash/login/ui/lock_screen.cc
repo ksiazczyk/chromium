@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock screen implementation
+// summary: Implements the Ash lock screen widget for login and lock states, creating the contents view, recording screen type metrics, and managing a separate clipboard for security.
+// relations:
+//   - implements /ash/login/ui/lock_screen.h
+//   - depends_on /ash/constants/ash_switches.h
+//   - depends_on /ash/login/ui/lock_contents_view.h
+// ---
+
 #include "ash/login/ui/lock_screen.h"
 
 #include <algorithm>

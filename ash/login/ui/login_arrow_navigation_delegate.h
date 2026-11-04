@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login arrow navigation delegate
+// summary: Declares delegate classes that handle arrow key navigation events for the login screen.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/events/event.h
+//   - depends_on /ui/events/keycodes/keyboard_codes_posix.h
+// ---
+
 #ifndef ASH_LOGIN_UI_LOGIN_ARROW_NAVIGATION_DELEGATE_H_
 #define ASH_LOGIN_UI_LOGIN_ARROW_NAVIGATION_DELEGATE_H_
 

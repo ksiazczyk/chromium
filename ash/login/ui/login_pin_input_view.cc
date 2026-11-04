@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login PIN input view implementation
+// summary: Implements the obscured fixed-length PIN input field used for PIN auto submit, including focus, accessibility and submit handling.
+// relations:
+//   - implements /ash/login/ui/login_pin_input_view.h
+//   - depends_on /ash/login/ui/access_code_input.h
+// ---
+
 #include "ash/login/ui/login_pin_input_view.h"
 
 #include <optional>

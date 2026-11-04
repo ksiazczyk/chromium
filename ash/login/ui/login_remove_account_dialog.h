@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginRemoveAccountDialog header
+// summary: Declares the LoginRemoveAccountDialog class, a bubble view for confirming user removal with focus traversal support and a test API.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/login/ui/login_base_bubble_view.h
+//   - depends_on /ash/login/ui/login_button.h
+// ---
+
 #ifndef ASH_LOGIN_UI_LOGIN_REMOVE_ACCOUNT_DIALOG_H_
 #define ASH_LOGIN_UI_LOGIN_REMOVE_ACCOUNT_DIALOG_H_
 

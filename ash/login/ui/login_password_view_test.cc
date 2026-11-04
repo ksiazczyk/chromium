@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login password view unit tests
+// summary: Unit tests verifying submit button state, password display toggling, read-only handling and clearing behavior of the login password view.
+// relations:
+//   - tests /ash/login/ui/login_password_view.h
+//   - depends_on /ash/login/ui/login_arrow_navigation_delegate.h
+//   - depends_on /ash/login/ui/login_test_base.h
+// ---
+
 #include "ash/login/ui/login_password_view.h"
 
 #include <memory>

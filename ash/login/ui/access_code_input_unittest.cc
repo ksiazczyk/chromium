@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for fixed-length access code input
+// summary: Unit tests covering digit entry, input callbacks, and accessibility properties of FixedLengthCodeInput on the Ash login screen.
+// relations:
+//   - tests /ash/login/ui/access_code_input.cc
+//   - depends_on /ash/login/ui/access_code_input.h
+//   - depends_on /ash/test/ash_test_base.h
+// ---
+
 #include "ash/login/ui/access_code_input.h"
 
 #include <memory>

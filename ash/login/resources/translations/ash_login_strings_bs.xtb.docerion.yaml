@@ -1,0 +1,4 @@
+# Docerion header of ash_login_strings_bs.xtb.
+type: data
+title: Bosnian login strings translation bundle
+summary: XML translation bundle with Bosnian localized strings for the ChromeOS ash login and setup UI.

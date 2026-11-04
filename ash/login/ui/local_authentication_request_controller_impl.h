@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local authentication request controller declarations
+// summary: Declares controllers that finalize re-authentication with a local password or PIN, including the PIN flow state machine.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/auth/views/active_session_auth_view.h
+//   - depends_on /ash/auth/views/auth_common.h
+// ---
+
 #ifndef ASH_LOGIN_UI_LOCAL_AUTHENTICATION_REQUEST_CONTROLLER_IMPL_H_
 #define ASH_LOGIN_UI_LOCAL_AUTHENTICATION_REQUEST_CONTROLLER_IMPL_H_
 

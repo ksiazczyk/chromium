@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login PIN keyboard view unit tests
+// summary: Unit tests verifying PIN keypad button events, button sizes and spacing for both keyboard styles, and backspace auto-submit behavior.
+// relations:
+//   - tests /ash/login/ui/login_pin_view.h
+//   - depends_on /ash/login/ui/login_test_base.h
+//   - depends_on /base/functional/bind.h
+// ---
+
 #include "ash/login/ui/login_pin_view.h"
 
 #include <algorithm>

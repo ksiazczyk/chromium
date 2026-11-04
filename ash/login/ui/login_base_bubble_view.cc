@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login base bubble view implementation
+// summary: Implements the base bubble view for login screen bubbles, including event handling that dismisses the bubble on outside input.
+// relations:
+//   - implements /ash/login/ui/login_base_bubble_view.h
+//   - depends_on /ash/login/ui/views_utils.h
+//   - depends_on /ash/public/cpp/shell_window_ids.h
+// ---
+
 #include "ash/login/ui/login_base_bubble_view.h"
 
 #include <memory>

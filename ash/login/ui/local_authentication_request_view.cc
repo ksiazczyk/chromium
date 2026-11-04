@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local authentication request view implementation
+// summary: Implements the dialog view that collects a local password to authorize actions, including layout, state updates, and a test API.
+// relations:
+//   - implements /ash/login/ui/local_authentication_request_view.h
+// ---
+
 #include "ash/login/ui/local_authentication_request_view.h"
 
 #include <string>

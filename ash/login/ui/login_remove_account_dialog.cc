@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginRemoveAccountDialog implementation
+// summary: Implements the bubble dialog shown from the login screen user pod menu for removing an account, including trapped focus, accessible labels, and a two-step remove button.
+// relations:
+//   - implements /ash/login/ui/login_remove_account_dialog.h
+//   - depends_on /ash/login/ui/non_accessible_view.h
+//   - depends_on /ash/login/ui/views_utils.h
+// ---
+
 #include "ash/login/ui/login_remove_account_dialog.h"
 #include "ash/login/ui/non_accessible_view.h"
 #include "ash/login/ui/views_utils.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fingerprint auth factor model unit tests
+// summary: Unit tests verifying fingerprint auth factor states, labels, availability overrides, and auth result handling via a fake model factory.
+// relations:
+//   - tests /ash/login/ui/fingerprint_auth_factor_model.h
+//   - depends_on /ash/login/ui/auth_factor_model.h
+//   - depends_on /ash/login/ui/auth_icon_view.h
+// ---
+
 #include "ash/login/ui/fingerprint_auth_factor_model.h"
 #include "ash/login/ui/auth_factor_model.h"
 #include "ash/login/ui/auth_icon_view.h"

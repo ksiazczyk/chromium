@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Animated rounded image view declaration
+// summary: Declares AnimatedRoundedImageView, a view that displays rounded images or animations with playback modes such as single run and repeat.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/login/ui/animation_frame.h
+//   - depends_on /base/timer/timer.h
+// ---
+
 #ifndef ASH_LOGIN_UI_ANIMATED_ROUNDED_IMAGE_VIEW_H_
 #define ASH_LOGIN_UI_ANIMATED_ROUNDED_IMAGE_VIEW_H_
 

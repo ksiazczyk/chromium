@@ -1,0 +1,4 @@
+# Docerion header of ash_login_strings_th.xtb.
+type: data
+title: Thai translation bundle for ash login strings
+summary: Thai translations for the ChromeOS ash login and sign-in UI, stored as an XML translation bundle keyed by numeric message IDs.

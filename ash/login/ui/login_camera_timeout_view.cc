@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginCameraTimeoutView implementation
+// summary: Implements the view shown on camera usage timeout after the SAML dialog is dismissed, with title, subtitle, and an arrow button back to sign-in.
+// relations:
+//   - implements /ash/login/ui/login_camera_timeout_view.h
+//   - depends_on /ash/login/ui/arrow_button_view.h
+//   - depends_on /ash/login/ui/views_utils.h
+// ---
+
 #include "ash/login/ui/login_camera_timeout_view.h"
 
 #include <utility>

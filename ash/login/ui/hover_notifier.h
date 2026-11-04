@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hover notifier header
+// summary: Declares HoverNotifier, an event handler that runs a callback when a view gains or loses mouse hover.
+// relations:
+//   - depends_on /base/functional/callback.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/events/event_handler.h
+// ---
+
 #ifndef ASH_LOGIN_UI_HOVER_NOTIFIER_H_
 #define ASH_LOGIN_UI_HOVER_NOTIFIER_H_
 

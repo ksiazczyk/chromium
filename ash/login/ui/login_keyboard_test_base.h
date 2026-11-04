@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login keyboard test base fixture
+// summary: Base test fixture for exercising the views-based login and lock screens with a virtual keyboard, providing show, hide and bounds helpers.
+// relations:
+//   - depends_on /ash/login/ui/login_test_base.h
+// ---
+
 #ifndef ASH_LOGIN_UI_LOGIN_KEYBOARD_TEST_BASE_H_
 #define ASH_LOGIN_UI_LOGIN_KEYBOARD_TEST_BASE_H_
 

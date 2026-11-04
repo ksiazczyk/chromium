@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManagementDisclosureDialog implementation
+// summary: Implements the management disclosure dialog and managed warning view that present enterprise management disclosures with a scrollable pane.
+// relations:
+//   - implements /ash/login/ui/management_disclosure_dialog.h
+//   - depends_on /ash/shell.h
+//   - depends_on /ash/system/model/system_tray_model.h
+// ---
+
 #include "ash/login/ui/management_disclosure_dialog.h"
 
 #include <memory>

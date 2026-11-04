@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginPublicAccountUserView implementation
+// summary: Implements the large user view for public accounts on the Chrome OS login screen, combining a user view with a hover-revealed arrow button that opens the public session dialog.
+// relations:
+//   - implements /ash/login/ui/login_public_account_user_view.h
+//   - depends_on /ash/login/ui/arrow_button_view.h
+//   - depends_on /ash/login/ui/login_display_style.h
+// ---
+
 #include "ash/login/ui/login_public_account_user_view.h"
 
 #include <memory>

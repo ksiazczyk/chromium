@@ -1,0 +1,4 @@
+# Docerion header of ash_login_strings_lt.xtb.
+type: data
+title: Lithuanian ash login strings translation bundle
+summary: Lithuanian translations of ChromeOS login, setup and device enrollment UI messages, stored as an XML translation bundle with message IDs and placeholders.

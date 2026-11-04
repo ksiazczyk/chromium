@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk app default message implementation
+// summary: Implements the shelf bubble view that shows the default kiosk app setup message with an error icon and localized title.
+// relations:
+//   - depends_on /ash/login/ui/kiosk_app_default_message.h
+//   - depends_on /ash/public/cpp/shell_window_ids.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/login/ui/kiosk_app_default_message.h"
 
 #include "ash/public/cpp/shell_window_ids.h"

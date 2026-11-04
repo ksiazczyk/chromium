@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NonAccessibleView class declaration
+// summary: Declares a views::View subclass that is excluded from the accessibility hierarchy, useful for placeholder or layout-only views.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/base/metadata/metadata_header_macros.h
+//   - depends_on /ui/views/view.h
+// ---
+
 #ifndef ASH_LOGIN_UI_NON_ACCESSIBLE_VIEW_H_
 #define ASH_LOGIN_UI_NON_ACCESSIBLE_VIEW_H_
 

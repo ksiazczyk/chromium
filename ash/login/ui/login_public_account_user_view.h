@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginPublicAccountUserView header
+// summary: Declares the LoginPublicAccountUserView class, which wraps a user view and arrow button for public account users, with callbacks, auth enablement, and a test API.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/login/ui/login_user_view.h
+//   - depends_on /ash/login/ui/non_accessible_view.h
+// ---
+
 #ifndef ASH_LOGIN_UI_LOGIN_PUBLIC_ACCOUNT_USER_VIEW_H_
 #define ASH_LOGIN_UI_LOGIN_PUBLIC_ACCOUNT_USER_VIEW_H_
 

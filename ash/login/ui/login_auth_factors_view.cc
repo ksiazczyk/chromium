@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login auth factors view implementation
+// summary: Implements the view that displays authentication factors with icons, labels and prioritized states on the lock and login screens.
+// relations:
+//   - implements /ash/login/ui/login_auth_factors_view.h
+//   - depends_on /ash/login/ui/animated_auth_factors_label_wrapper.h
+//   - depends_on /ash/login/ui/arrow_button_view.h
+// ---
+
 #include "ash/login/ui/login_auth_factors_view.h"
 
 #include <algorithm>

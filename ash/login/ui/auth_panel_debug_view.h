@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthPanelDebugView class declaration
+// summary: Declares AuthPanelDebugView, a debug login view for local authentication requests that implements the AuthAttemptConsumer callbacks.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/functional/callback_helpers.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_LOGIN_UI_AUTH_PANEL_DEBUG_VIEW_H_
 #define ASH_LOGIN_UI_AUTH_PANEL_DEBUG_VIEW_H_
 

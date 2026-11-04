@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LoginUserView unit tests
+// summary: Unit tests verifying that LoginUserView keeps a constant width across usernames and handles tap and dropdown interactions.
+// relations:
+//   - tests /ash/login/ui/login_user_view.h
+//   - depends_on /ash/login/ui/login_display_style.h
+//   - depends_on /ash/login/ui/login_test_base.h
+// ---
+
 #include "ash/login/ui/login_user_view.h"
 #include "ash/login/ui/login_display_style.h"
 #include "ash/login/ui/login_test_base.h"

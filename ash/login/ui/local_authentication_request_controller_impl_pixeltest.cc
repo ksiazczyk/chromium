@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local authentication request controller pixel test
+// summary: Pixel test verifying the rendered appearance of the local authentication request dialog with and without system blur.
+// relations:
+//   - depends_on /ash/constants/ash_features.h
+//   - tests /ash/login/ui/local_authentication_request_controller_impl.h
+//   - depends_on /ash/login/ui/local_authentication_request_view.h
+// ---
+
 #include <memory>
 #include <string>
 #include <utility>

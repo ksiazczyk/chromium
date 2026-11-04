@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login test utilities header
+// summary: Declares test utility functions for login screen tests, including user factories, TestApi constructors, focus checks, and tab traversal helpers.
+// relations:
+//   - depends_on /ash/login/ui/lock_contents_view_test_api.h
+//   - depends_on /ash/login/ui/login_auth_user_view.h
+//   - depends_on /ash/login/ui/login_password_view.h
+// ---
+
 #ifndef ASH_LOGIN_UI_LOGIN_TEST_UTILS_H_
 #define ASH_LOGIN_UI_LOGIN_TEST_UTILS_H_
 

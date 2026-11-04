@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock screen media controls view implementation
+// summary: Implements media controls shown on the lock screen, reusing the media session detailed view with a dismiss button, power suspend handling, and usage histograms.
+// relations:
+//   - implements /ash/login/ui/lock_screen_media_view.h
+//   - depends_on /ash/shell.h
+//   - depends_on /ash/system/media/media_color_theme.h
+// ---
+
 #include "ash/login/ui/lock_screen_media_view.h"
 
 #include "ash/media/media_controller_impl.h"

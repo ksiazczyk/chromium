@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginButton class declaration
+// summary: Declares an ImageButton subclass that adds ripple effects for touch targets in the lock screen.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/weak_ptr.h
+//   - depends_on /ui/base/metadata/metadata_header_macros.h
+// ---
+
 #ifndef ASH_LOGIN_UI_LOGIN_BUTTON_H_
 #define ASH_LOGIN_UI_LOGIN_BUTTON_H_
 

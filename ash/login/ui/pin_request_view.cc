@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PIN request view implementation
+// summary: Implements the modal dialog view for entering a PIN to authorize actions, including title, description, access code input, PIN keyboard, and submit controls.
+// relations:
+//   - implements /ash/login/ui/pin_request_view.h
+//   - depends_on /ash/login/ui/arrow_button_view.h
+//   - depends_on /ash/login/ui/login_pin_view.h
+// ---
+
 #include "ash/login/ui/pin_request_view.h"
 
 #include "ash/login/ui/arrow_button_view.h"

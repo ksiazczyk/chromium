@@ -1,6 +1,17 @@
 // Copyright 2019 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: BottomStatusIndicator implementation
+// summary: Implements BottomStatusIndicator, a label button on the login screen that can show a colored vector icon and reports accessibility as static text.
+// relations:
+//   - implements /ash/login/ui/bottom_status_indicator.h
+//   - depends_on /ui/accessibility/ax_node_data.h
+//   - depends_on /ui/base/metadata/metadata_impl_macros.h
+// ---
+
 #include "ash/login/ui/bottom_status_indicator.h"
 
 #include "ui/accessibility/ax_node_data.h"

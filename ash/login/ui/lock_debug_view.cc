@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock screen debug view implementation
+// summary: Implements a debug UI for the lock screen with buttons to add users, toggle auth, cycle auth errors, and simulate kiosk and detachable base states.
+// relations:
+//   - implements /ash/login/ui/lock_debug_view.h
+//   - depends_on /ash/auth/views/auth_input_row_view.h
+//   - depends_on /ash/constants/ash_pref_names.h
+// ---
+
 #include "ash/login/ui/lock_debug_view.h"
 
 #include <algorithm>

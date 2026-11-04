@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login animation image parser implementation
+// summary: Decodes animation image data in a sandboxed process and converts the decoded frames into animation frames for the login UI.
+// relations:
+//   - implements /ash/login/ui/image_parser.h
+//   - depends_on /ash/shell.h
+//   - depends_on /ash/shell_delegate.h
+// ---
+
 #include "ash/login/ui/image_parser.h"
 
 #include <utility>

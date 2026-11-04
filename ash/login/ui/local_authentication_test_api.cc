@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local authentication test API implementation
+// summary: Implements test API classes that simulate password and PIN submission, dialog closing, and state inspection for local authentication request controllers.
+// relations:
+//   - implements /ash/login/ui/local_authentication_test_api.h
+//   - depends_on /ash/auth/views/active_session_auth_view.h
+//   - depends_on /ash/auth/views/auth_common.h
+// ---
+
 #include "ash/login/ui/local_authentication_test_api.h"
 
 #include <memory>

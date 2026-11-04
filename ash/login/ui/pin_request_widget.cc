@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pin request widget implementation
+// summary: Implements the modal widget that displays the PIN request view on the Chrome OS login and lock screens, managing its singleton lifecycle, dimmer, and keyboard behavior.
+// relations:
+//   - implements /ash/login/ui/pin_request_widget.h
+//   - depends_on /ash/keyboard/keyboard_controller_impl.h
+//   - depends_on /ash/public/cpp/shell_window_ids.h
+// ---
+
 #include "ash/login/ui/pin_request_widget.h"
 
 #include <utility>

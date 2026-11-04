@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login auth factors view
+// summary: Declares the view that displays a collection of auth factors on the lock and login screens, with a test API for internal details.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/login/ui/auth_factor_model.h
+//   - depends_on /base/functional/callback.h
+// ---
+
 #ifndef ASH_LOGIN_UI_LOGIN_AUTH_FACTORS_VIEW_H_
 #define ASH_LOGIN_UI_LOGIN_AUTH_FACTORS_VIEW_H_
 

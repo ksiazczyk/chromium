@@ -1,0 +1,4 @@
+# Docerion header of ash_login_strings_hu.xtb.
+type: data
+title: Hungarian login screen translation bundle
+summary: Hungarian translation bundle with ChromeOS Ash login UI strings covering sign-in, device setup, network activation, PIN unlock, and enrollment messages.

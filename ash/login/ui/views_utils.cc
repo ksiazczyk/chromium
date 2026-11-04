@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login views utilities implementation
+// summary: Implements helper functions for login and lock screen views, including view wrapping, orientation checks, focus queries, bubble labels, and bubble positioning.
+// relations:
+//   - implements /ash/login/ui/views_utils.h
+//   - depends_on /ash/login/ui/non_accessible_view.h
+//   - depends_on /ash/public/cpp/shelf_config.h
+// ---
+
 #include "ash/login/ui/views_utils.h"
 
 #include <algorithm>

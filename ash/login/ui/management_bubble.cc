@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManagementBubble implementation
+// summary: Implements the management bubble, a fixed-width LoginTooltipView variant positioned above its anchor view.
+// relations:
+//   - implements /ash/login/ui/management_bubble.h
+//   - depends_on /ash/login/ui/lock_contents_view_constants.h
+//   - depends_on /ash/login/ui/login_tooltip_view.h
+// ---
+
 #include "ash/login/ui/management_bubble.h"
 
 #include "ash/login/ui/lock_contents_view_constants.h"

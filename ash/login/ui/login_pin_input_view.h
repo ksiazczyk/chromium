@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login PIN input view
+// summary: Declares the LoginPinInputView for PIN auto submit, with length updates, submit and change callbacks, empty-PIN return handling and a test API.
+// relations:
+//   - depends_on /ui/compositor/layer_animation_observer.h
+//   - depends_on /ui/views/view.h
+// ---
+
 #ifndef ASH_LOGIN_UI_LOGIN_PIN_INPUT_VIEW_H_
 #define ASH_LOGIN_UI_LOGIN_PIN_INPUT_VIEW_H_
 

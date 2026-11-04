@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LoginRemoveAccountDialog unit tests
+// summary: Unit tests verifying that removing a user requires two activations and that the dialog exposes the correct accessible role and name properties.
+// relations:
+//   - tests /ash/login/ui/login_remove_account_dialog.h
+//   - depends_on /ash/login/ui/login_button.h
+//   - depends_on /ash/login/ui/login_test_base.h
+// ---
+
 #include "ash/login/ui/login_remove_account_dialog.h"
 
 #include <memory>

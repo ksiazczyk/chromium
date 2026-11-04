@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginTooltipView class declaration
+// summary: Declares the LoginTooltipView class, a login bubble view that displays an info icon and a settable message label.
+// relations:
+//   - depends_on /ash/login/ui/login_base_bubble_view.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/accessibility/ax_node_data.h
+// ---
+
 #ifndef ASH_LOGIN_UI_LOGIN_TOOLTIP_VIEW_H_
 #define ASH_LOGIN_UI_LOGIN_TOOLTIP_VIEW_H_
 

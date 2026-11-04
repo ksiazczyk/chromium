@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login password view implementation
+// summary: Implements the login screen password view with a textfield, display-password toggle, submit button and related layout and accessibility behavior.
+// relations:
+//   - implements /ash/login/ui/login_password_view.h
+// ---
+
 #include "ash/login/ui/login_password_view.h"
 
 #include "ash/accessibility/accessibility_controller.h"

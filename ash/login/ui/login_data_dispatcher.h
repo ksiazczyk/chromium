@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginDataDispatcher class declaration
+// summary: Declares the observer-based interface that dispatches lock and login screen data events between the UI views and the embedder.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/detachable_base/detachable_base_pairing_status.h
+//   - depends_on /ash/public/cpp/login_screen_model.h
+// ---
+
 #ifndef ASH_LOGIN_UI_LOGIN_DATA_DISPATCHER_H_
 #define ASH_LOGIN_UI_LOGIN_DATA_DISPATCHER_H_
 

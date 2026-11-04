@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Horizontal image sequence animation decoder header
+// summary: Declares a decoder that turns a horizontally laid out animation strip into animation frames for AnimatedRoundedImageView.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/login/ui/animated_rounded_image_view.h
+//   - implements /ash/login/ui/animated_rounded_image_view.h
+// ---
+
 #ifndef ASH_LOGIN_UI_HORIZONTAL_IMAGE_SEQUENCE_ANIMATION_DECODER_H_
 #define ASH_LOGIN_UI_HORIZONTAL_IMAGE_SEQUENCE_ANIMATION_DECODER_H_
 

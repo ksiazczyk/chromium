@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Expanded public account view interface
+// summary: Declares LoginExpandedPublicAccountView and its TestApi for the public account session view that lets users pick language and keyboard options.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/login/ui/non_accessible_view.h
+//   - depends_on /ash/login/ui/public_account_menu_view.h
+// ---
+
 #ifndef ASH_LOGIN_UI_LOGIN_EXPANDED_PUBLIC_ACCOUNT_VIEW_H_
 #define ASH_LOGIN_UI_LOGIN_EXPANDED_PUBLIC_ACCOUNT_VIEW_H_
 

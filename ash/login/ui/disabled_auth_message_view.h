@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisabledAuthMessageView class declaration
+// summary: Declares DisabledAuthMessageView, which renders the message shown to users when auth is disabled, plus a TestApi for accessing its content.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/accessibility/ax_node_data.h
+// ---
+
 #ifndef ASH_LOGIN_UI_DISABLED_AUTH_MESSAGE_VIEW_H_
 #define ASH_LOGIN_UI_DISABLED_AUTH_MESSAGE_VIEW_H_
 

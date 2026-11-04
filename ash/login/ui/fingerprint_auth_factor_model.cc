@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fingerprint auth factor model implementation
+// summary: Implements the fingerprint auth factor for the lock screen, mapping fingerprint states to auth factor states, labels, and icon updates.
+// relations:
+//   - depends_on /ash/login/ui/fingerprint_auth_factor_model.h
+//   - depends_on /ash/login/ui/auth_icon_view.h
+//   - depends_on /base/time/time.h
+// ---
+
 #include "ash/login/ui/fingerprint_auth_factor_model.h"
 
 #include "ash/login/resources/grit/login_resources.h"

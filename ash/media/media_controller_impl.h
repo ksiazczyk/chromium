@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaControllerImpl class header
+// summary: Declares the MediaControllerImpl class and MediaCaptureObserver interface for media key handling, media session observation, and capture state notifications in ash.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - implements /ash/public/cpp/media_controller.h
+//   - depends_on /base/gtest_prod_util.h
+// ---
+
 #ifndef ASH_MEDIA_MEDIA_CONTROLLER_IMPL_H_
 #define ASH_MEDIA_MEDIA_CONTROLLER_IMPL_H_
 

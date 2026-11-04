@@ -1,0 +1,4 @@
+# Docerion header of ash_login_strings_af.xtb.
+type: data
+title: Afrikaans login strings translation bundle
+summary: XML translation bundle with Afrikaans localized strings for the ChromeOS ash login and setup UI.

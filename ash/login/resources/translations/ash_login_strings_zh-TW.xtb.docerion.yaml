@@ -1,0 +1,4 @@
+# Docerion header of ash_login_strings_zh-TW.xtb.
+type: data
+title: Traditional Chinese (Taiwan) translation bundle for ash login strings
+summary: Taiwan Traditional Chinese translations for the ChromeOS ash login and sign-in UI, stored as an XML translation bundle keyed by message IDs.

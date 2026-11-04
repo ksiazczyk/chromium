@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lock contents view unit tests
+// summary: Unit tests covering lock screen view behavior, including password attempts, detachable base pairing, public accounts, kiosk mode, and accessibility.
+// relations:
+//   - tests /ash/login/ui/lock_contents_view.h
+//   - depends_on /ash/child_accounts/parent_access_controller_impl.h
+//   - depends_on /ash/constants/ash_pref_names.h
+// ---
+
 #include "ash/login/ui/lock_contents_view.h"
 
 #include <memory>

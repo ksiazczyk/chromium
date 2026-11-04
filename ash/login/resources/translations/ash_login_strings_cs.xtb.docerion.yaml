@@ -1,0 +1,4 @@
+# Docerion header of ash_login_strings_cs.xtb.
+type: data
+title: Czech translation bundle for ash login strings
+summary: XML translation bundle with Czech translations of ChromeOS ash login and setup UI strings, covering sign-in, PIN, debugging, and onboarding messages.

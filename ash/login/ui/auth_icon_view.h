@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthIconView class declaration
+// summary: Declares AuthIconView, an icon view with progress bar and animation support used to show auth factors like fingerprint and Smart Lock in the login UI.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/login/ui/animated_rounded_image_view.h
+//   - depends_on /base/functional/callback.h
+// ---
+
 #ifndef ASH_LOGIN_UI_AUTH_ICON_VIEW_H_
 #define ASH_LOGIN_UI_AUTH_ICON_VIEW_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pin request widget class declaration
+// summary: Declares the modal PinRequestWidget class that shows the PIN request view, including a TestApi and methods to update state, toggle input, and close the widget.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/login/ui/pin_request_view.h
+//   - depends_on /base/functional/callback.h
+// ---
+
 #ifndef ASH_LOGIN_UI_PIN_REQUEST_WIDGET_H_
 #define ASH_LOGIN_UI_PIN_REQUEST_WIDGET_H_
 

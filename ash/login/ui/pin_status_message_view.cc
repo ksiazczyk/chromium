@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PIN status message view implementation
+// summary: Implements the view that shows a periodically refreshed countdown message while a user's PIN is soft-locked and runs an unlock callback once the PIN becomes available.
+// relations:
+//   - implements /ash/login/ui/pin_status_message_view.h
+//   - depends_on /ash/style/ash_color_id.h
+//   - depends_on /base/i18n/time_formatting.h
+// ---
+
 #include "ash/login/ui/pin_status_message_view.h"
 
 #include <memory>

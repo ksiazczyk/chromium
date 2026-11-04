@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login error bubble implementation
+// summary: Implements the error bubble shown on the login and lock screens, with an alert icon and customizable content such as a wrong-password message.
+// relations:
+//   - implements /ash/login/ui/login_error_bubble.h
+//   - depends_on /ash/login/ui/non_accessible_view.h
+//   - depends_on /ash/login/ui/views_utils.h
+// ---
+
 #include "ash/login/ui/login_error_bubble.h"
 
 #include "ash/login/ui/non_accessible_view.h"

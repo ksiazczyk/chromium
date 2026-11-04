@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginUserView implementation
+// summary: Implements the login user view showing a user's avatar, name, and dropdown in large, small, and extra-small layouts with opacity and flip animations.
+// relations:
+//   - depends_on /ash/login/ui/login_user_view.h
+//   - depends_on /ash/ash_element_identifiers.h
+//   - depends_on /ash/login/ui/animated_rounded_image_view.h
+// ---
+
 #include "ash/login/ui/login_user_view.h"
 
 #include <memory>

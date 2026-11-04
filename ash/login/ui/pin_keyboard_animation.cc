@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PIN keyboard animation implementation
+// summary: Implements a layer animation element that scales and fades a layer between zero and full opacity for the PIN keyboard show and hide transitions.
+// relations:
+//   - implements /ash/login/ui/pin_keyboard_animation.h
+//   - depends_on /ui/compositor/layer_animation_delegate.h
+//   - depends_on /ui/gfx/animation/tween.h
+// ---
+
 #include "ash/login/ui/pin_keyboard_animation.h"
 
 #include <memory>

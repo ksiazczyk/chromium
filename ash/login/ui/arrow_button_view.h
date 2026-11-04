@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArrowButtonView class declaration
+// summary: Declares ArrowButtonView, a round login button with an arrow icon that supports loading and transform animations for public account user views.
+// relations:
+//   - depends_on /ash/login/ui/login_button.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/base/metadata/metadata_header_macros.h
+// ---
+
 #ifndef ASH_LOGIN_UI_ARROW_BUTTON_VIEW_H_
 #define ASH_LOGIN_UI_ARROW_BUTTON_VIEW_H_
 

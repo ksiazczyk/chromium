@@ -1,0 +1,4 @@
+# Docerion header of ash_login_strings_es-419.xtb.
+type: data
+title: Latin American Spanish translation bundle for ash login strings
+summary: XML translation bundle with Latin American Spanish translations of ChromeOS ash login and setup UI strings, covering sign-in, PIN, debugging, and onboarding messages.

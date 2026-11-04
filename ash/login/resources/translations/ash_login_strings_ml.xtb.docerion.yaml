@@ -1,0 +1,4 @@
+# Docerion header of ash_login_strings_ml.xtb.
+type: data
+title: Malayalam ash login strings translation bundle
+summary: Malayalam translations of ChromeOS login, setup and device enrollment UI messages, stored as an XML translation bundle with message IDs and placeholders.

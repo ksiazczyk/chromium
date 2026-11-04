@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login keyboard test base
+// summary: Test base class that enables the virtual keyboard and provides helpers to show, hide, and query keyboard bounds during login and lock screen tests.
+// relations:
+//   - implements /ash/login/ui/login_keyboard_test_base.h
+//   - depends_on /ash/keyboard/ui/keyboard_ui_controller.h
+//   - depends_on /ash/keyboard/ui/test/keyboard_test_util.h
+// ---
+
 #include "ash/login/ui/login_keyboard_test_base.h"
 
 #include "ash/keyboard/keyboard_controller_impl.h"

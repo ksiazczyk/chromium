@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArrowButtonView implementation
+// summary: Implements the round arrow button used on the login screen, including its loading arc animation and attention-grabbing transform animation.
+// relations:
+//   - implements /ash/login/ui/arrow_button_view.h
+//   - depends_on /ash/style/ash_color_id.h
+//   - depends_on /base/time/time.h
+// ---
+
 #include "ash/login/ui/arrow_button_view.h"
 
 #include <utility>

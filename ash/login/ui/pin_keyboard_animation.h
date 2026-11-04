@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PIN keyboard animation class declaration
+// summary: Declares a layer animation element that animates a layer by scaling it on the y-axis with a configurable tween type and duration.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/time/time.h
+//   - depends_on /ui/compositor/layer_animation_element.h
+// ---
+
 #ifndef ASH_LOGIN_UI_PIN_KEYBOARD_ANIMATION_H_
 #define ASH_LOGIN_UI_PIN_KEYBOARD_ANIMATION_H_
 

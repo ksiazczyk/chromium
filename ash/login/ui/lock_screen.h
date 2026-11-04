@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock screen class declaration
+// summary: Declares the LockScreen class that creates and displays the lock or login screen widget, with a TestApi for tests and session state observation.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/session/session_observer.h
+//   - depends_on /base/functional/callback.h
+// ---
+
 #ifndef ASH_LOGIN_UI_LOCK_SCREEN_H_
 #define ASH_LOGIN_UI_LOCK_SCREEN_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User state implementation
+// summary: Implements the UserState constructor, initializing per-user login state such as fingerprint, Smart Lock, online sign-in, and PIN settings from LoginUserInfo.
+// relations:
+//   - implements /ash/login/ui/user_state.h
+//   - depends_on /ash/session/session_controller_impl.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/login/ui/user_state.h"
 #include "ash/session/session_controller_impl.h"
 #include "ash/shell.h"

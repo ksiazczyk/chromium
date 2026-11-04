@@ -1,0 +1,4 @@
+# Docerion header of ash_login_strings_si.xtb.
+type: data
+title: Ash login strings translation bundle (Sinhala)
+summary: Sinhala XTB translation bundle with localized Chrome OS login and sign-in UI strings covering setup, PIN, network, and device enrollment messages.

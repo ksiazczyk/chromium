@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk app default message header
+// summary: Declares KioskAppDefaultMessage, the self-owned shelf bubble view for the kiosk app setup message.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/login/ui/login_base_bubble_view.h
+//   - depends_on /ash/shelf/shelf_background_animator.h
+// ---
+
 #ifndef ASH_LOGIN_UI_KIOSK_APP_DEFAULT_MESSAGE_H_
 #define ASH_LOGIN_UI_KIOSK_APP_DEFAULT_MESSAGE_H_
 

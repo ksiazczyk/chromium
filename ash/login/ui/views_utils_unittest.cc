@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login views utilities unit tests
+// summary: Unit tests verifying bubble position calculations for the before-after and after-before positioning strategies under various space constraints.
+// relations:
+//   - tests /ash/login/ui/views_utils.h
+//   - depends_on /testing/gtest/include/gtest/gtest.h
+// ---
+
 #include "ash/login/ui/views_utils.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lock screen sanity unit tests
+// summary: Sanity tests for the lock screen covering initial password focus, password submission through the mojo client, and clearing after failed authentication.
+// relations:
+//   - depends_on /ash/login/mock_login_screen_client.h
+//   - depends_on /ash/login/ui/fake_login_detachable_base_model.h
+//   - depends_on /ash/login/ui/login_test_base.h
+// ---
+
 #include <memory>
 
 #include "ash/login/login_screen_controller.h"

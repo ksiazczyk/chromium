@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthIconView implementation
+// summary: Implements the animated auth factor icon view with progress spinner, error shake, nudge animations, and Lottie animation support.
+// relations:
+//   - implements /ash/login/ui/auth_icon_view.h
+//   - depends_on /ash/login/ui/auth_icon_view.h
+//   - depends_on /ash/login/ui/horizontal_image_sequence_animation_decoder.h
+// ---
+
 #include "ash/login/ui/auth_icon_view.h"
 
 #include "ash/login/ui/horizontal_image_sequence_animation_decoder.h"

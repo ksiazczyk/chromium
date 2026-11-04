@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NonAccessibleView implementation
+// summary: Implements a view that is marked invisible to the accessibility hierarchy and reports a configurable object name.
+// relations:
+//   - implements /ash/login/ui/non_accessible_view.h
+//   - depends_on /ui/accessibility/ax_node_data.h
+//   - depends_on /ui/base/metadata/metadata_impl_macros.h
+// ---
+
 #include "ash/login/ui/non_accessible_view.h"
 
 #include "ui/accessibility/ax_enums.mojom.h"

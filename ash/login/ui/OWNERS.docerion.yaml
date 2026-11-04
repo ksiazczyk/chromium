@@ -1,0 +1,7 @@
+# Docerion header of OWNERS.
+type: config
+title: Per-file owners for the ash login UI directory
+summary: Defines per-file code owner rules for the login UI directory, delegating lock screen, auth factor, and media files to specific owners.
+relations:
+  - references /ash/login/LOGIN_LOCK_OWNERS
+  - references /components/global_media_controls/OWNERS

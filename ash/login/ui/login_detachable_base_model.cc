@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login detachable base model implementation
+// summary: Implements LoginDetachableBaseModel, which wraps DetachableBaseHandler to expose detachable base pairing status and last-used-base tracking to the login UI.
+// relations:
+//   - implements /ash/login/ui/login_detachable_base_model.h
+//   - depends_on /ash/detachable_base/detachable_base_handler.h
+//   - depends_on /ash/detachable_base/detachable_base_observer.h
+// ---
+
 #include "ash/login/ui/login_detachable_base_model.h"
 
 #include "ash/detachable_base/detachable_base_handler.h"

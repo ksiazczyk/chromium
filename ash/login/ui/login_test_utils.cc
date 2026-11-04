@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login test utilities implementation
+// summary: Implements test helpers that create regular, child, and public account users, build TestApi instances, and support focus and tab traversal checks.
+// relations:
+//   - depends_on /ash/login/ui/login_test_utils.h
+//   - implements /ash/login/ui/login_test_utils.h
+//   - depends_on /ash/login/ui/login_big_user_view.h
+// ---
+
 #include "ash/login/ui/login_test_utils.h"
 
 #include <algorithm>

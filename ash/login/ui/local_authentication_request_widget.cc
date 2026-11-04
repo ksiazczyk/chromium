@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local authentication request widget implementation
+// summary: Implements the modal singleton widget that hosts the local authentication request view and reports the auth result on close.
+// relations:
+//   - implements /ash/login/ui/local_authentication_request_widget.h
+// ---
+
 #include "ash/login/ui/local_authentication_request_widget.h"
 
 #include <memory>

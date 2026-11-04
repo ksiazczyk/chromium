@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login display style enum
+// summary: Defines the LoginDisplayStyle enum with large, small, and extra small variants that let child login views adjust layout while keeping the same view structure.
+// ---
+
 #ifndef ASH_LOGIN_UI_LOGIN_DISPLAY_STYLE_H_
 #define ASH_LOGIN_UI_LOGIN_DISPLAY_STYLE_H_
 

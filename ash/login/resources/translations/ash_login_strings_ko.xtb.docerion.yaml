@@ -1,0 +1,4 @@
+# Docerion header of ash_login_strings_ko.xtb.
+type: data
+title: Korean ash login strings translation bundle
+summary: Korean translations of ChromeOS login, setup and device enrollment UI messages, stored as an XML translation bundle with message IDs and placeholders.

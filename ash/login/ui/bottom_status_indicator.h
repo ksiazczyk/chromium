@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BottomStatusIndicator class declaration
+// summary: Declares BottomStatusIndicator, a views::LabelButton subclass for login screen status indicators with an optional icon and weak pointer support.
+// relations:
+//   - depends_on /base/memory/weak_ptr.h
+//   - depends_on /ui/base/metadata/metadata_header_macros.h
+//   - depends_on /ui/views/controls/button/label_button.h
+// ---
+
 #ifndef ASH_LOGIN_UI_BOTTOM_STATUS_INDICATOR_H_
 #define ASH_LOGIN_UI_BOTTOM_STATUS_INDICATOR_H_
 

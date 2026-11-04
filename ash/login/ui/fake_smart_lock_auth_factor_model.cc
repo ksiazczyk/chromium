@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake smart lock auth factor model implementation
+// summary: Implements FakeSmartLockAuthFactorModel and a factory that records the last created model, providing a test stand-in for smart lock auth.
+// relations:
+//   - implements /ash/login/ui/fake_smart_lock_auth_factor_model.h
+//   - depends_on /ash/login/ui/smart_lock_auth_factor_model.h
+// ---
+
 #include "ash/login/ui/fake_smart_lock_auth_factor_model.h"
 
 namespace ash {

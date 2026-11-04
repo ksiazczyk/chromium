@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User switch flip animation header
+// summary: Declares the UserSwitchFlipAnimation class, a LayerAnimationElement that rotates a layer around the y-axis over a configurable duration and tween type.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/functional/callback.h
+//   - depends_on /base/time/time.h
+// ---
+
 #ifndef ASH_LOGIN_UI_USER_SWITCH_FLIP_ANIMATION_H_
 #define ASH_LOGIN_UI_USER_SWITCH_FLIP_ANIMATION_H_
 

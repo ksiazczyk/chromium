@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ManagementDisclosureDialog pixel tests
+// summary: Pixel test verifying the management disclosure dialog's buttons, labels, and rendered appearance on the lock screen.
+// relations:
+//   - depends_on /ash/login/ui/fake_login_detachable_base_model.h
+//   - depends_on /ash/login/ui/lock_contents_view.h
+//   - depends_on /ash/login/ui/lock_contents_view_test_api.h
+// ---
+
 #include "ash/login/ui/fake_login_detachable_base_model.h"
 #include "ash/login/ui/lock_contents_view.h"
 #include "ash/login/ui/lock_contents_view_test_api.h"

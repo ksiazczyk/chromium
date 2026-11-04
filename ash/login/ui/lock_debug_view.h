@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock screen debug view header
+// summary: Declares LockDebugView, a debug row of buttons for exercising lock screen scenarios such as auth failures, kiosk apps, and detachable base states.
+// relations:
+//   - depends_on /ash/login/ui/lock_screen.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/views/controls/button/button.h
+// ---
+
 #ifndef ASH_LOGIN_UI_LOCK_DEBUG_VIEW_H_
 #define ASH_LOGIN_UI_LOCK_DEBUG_VIEW_H_
 

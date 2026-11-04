@@ -1,0 +1,4 @@
+# Docerion header of ash_login_strings_am.xtb.
+type: data
+title: Amharic login strings translation bundle
+summary: XML translation bundle with Amharic localized strings for the ChromeOS ash login and setup UI.
