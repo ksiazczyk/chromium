@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ModuleList
+// summary: Unit tests that load and unload a DLL to verify ModuleList snapshot handling, reference release, and stale snapshot race behavior.
+// ---
+
 #include "chrome/browser/install_verification/win/module_list.h"
 
 #include <Windows.h>

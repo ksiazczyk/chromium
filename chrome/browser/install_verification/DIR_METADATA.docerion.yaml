@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Install verification directory metadata
+summary: Sets the Monorail and Buganizer components used for issues filed against this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InfoBarResponder implementation
+// summary: Implements automatic acceptance, denial, or dismissal of the first confirm infobar shown, posting the response asynchronously like a real user interaction.
+// ---
+
 #include "chrome/browser/infobars/test_support/infobar_responder.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Indigo service implementation
+// summary: Implements the profile-scoped Indigo service, computing local and remote eligibility, enterprise management checks, and loading prompts from disk.
+// ---
+
 #include "chrome/browser/indigo/indigo_service.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Indigo interactive UI tests
+// summary: Parameterized interactive UI tests exercising Indigo entry points in both legacy page action mode and contextual cues mode, including image replacement invocation on a test page.
+// ---
+
 #include <string_view>
 #include <vector>
 

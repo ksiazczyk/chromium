@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InfoBarObserver test helper header
+// summary: Declares InfoBarObserver, a test-only class that observes an InfoBarManager and waits for a specified infobar event via a RunLoop.
+// ---
+
 #ifndef CHROME_BROWSER_INFOBARS_TEST_SUPPORT_INFOBAR_OBSERVER_H_
 #define CHROME_BROWSER_INFOBARS_TEST_SUPPORT_INFOBAR_OBSERVER_H_
 

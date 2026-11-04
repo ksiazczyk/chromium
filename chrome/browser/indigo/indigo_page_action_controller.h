@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Indigo page action controller header
+// summary: Declares the IndigoPageActionController class that manages the Indigo page action, its entry points, tracked bounds, reset behavior, and onboarding disposition.
+// ---
+
 #ifndef CHROME_BROWSER_INDIGO_INDIGO_PAGE_ACTION_CONTROLLER_H_
 #define CHROME_BROWSER_INDIGO_INDIGO_PAGE_ACTION_CONTROLLER_H_
 

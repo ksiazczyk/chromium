@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InfoBarSpec builder implementation
+// summary: Implements the InfoBarSpec builder setters that configure an infobar's message, link, icon, scope, priority, and behavior options.
+// ---
+
 #include "chrome/browser/infobars/infobar_spec.h"
 
 #include <string>

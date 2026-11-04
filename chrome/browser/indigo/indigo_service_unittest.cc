@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IndigoService unit tests
+// summary: Unit tests for IndigoService covering feature flags, profile prefs, enterprise management checks, component installer setup, and mocked remote eligibility fetching.
+// ---
+
 #include "chrome/browser/indigo/indigo_service.h"
 
 #include "base/command_line.h"

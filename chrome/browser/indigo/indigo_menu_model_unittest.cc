@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Indigo menu model unit tests
+// summary: Unit tests verifying the Indigo anchored message menu structure, labels, icons, and dismiss and settings command handling via a mocked controller.
+// ---
+
 #include "chrome/browser/indigo/indigo_menu_model.h"
 
 #include <memory>

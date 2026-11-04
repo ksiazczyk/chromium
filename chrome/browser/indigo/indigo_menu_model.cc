@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Indigo menu model implementation
+// summary: Implements the SimpleMenuModel for the Indigo anchored message, providing dismiss and open settings commands that delegate to the page action controller.
+// ---
+
 #include "chrome/browser/indigo/indigo_menu_model.h"
 
 #include "base/check.h"

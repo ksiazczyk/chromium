@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise interstitial event utilities implementation
+// summary: Implements helpers that trigger enterprise Safe Browsing extension and reporting events, including referrer chain attribution, when interstitials are shown or proceeded.
+// ---
+
 #include "chrome/browser/interstitials/enterprise_util.h"
 
 #include "chrome/browser/profiles/profile.h"

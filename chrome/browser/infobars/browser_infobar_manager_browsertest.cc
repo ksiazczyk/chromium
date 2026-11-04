@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserInfoBarManager browser tests
+// summary: In-process browser tests for BrowserInfoBarManager covering registration, tab-scoped and global show/hide, and related behavior.
+// ---
+
 #include "chrome/browser/infobars/browser_infobar_manager.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InfoBarSpec class
+// summary: Defines InfoBarSpec with scope and result enums, callbacks, and a builder that describes an infobar's appearance and behavior.
+// ---
+
 #ifndef CHROME_BROWSER_INFOBARS_INFOBAR_SPEC_H_
 #define CHROME_BROWSER_INFOBARS_INFOBAR_SPEC_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake API test server implementation
+// summary: Implements FakeApi, an embedded test server that mocks the Indigo generate and delete endpoints for tests.
+// ---
+
 #include "chrome/browser/indigo/fake_api.h"
 
 #include "base/base64.h"

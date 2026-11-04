@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Indigo extension utilities implementation
+// summary: Supplies the Indigo extension manifest, localized strings, and combined resource paths used by the image replacement content.
+// ---
+
 #include "chrome/browser/indigo/indigo_extension_utils.h"
 
 #include <iterator>

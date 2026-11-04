@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Indigo agent host unit tests
+// summary: Unit tests for IndigoAgentHost covering automatic script injection, invocation, reset and error reporting with a mock agent.
+// ---
+
 #include "chrome/browser/indigo/indigo_agent_host.h"
 
 #include "base/command_line.h"

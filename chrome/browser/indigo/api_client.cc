@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: API client implementation
+// summary: Implements the Indigo API client that sends generate, status and delete requests and records API status and latency metrics.
+// ---
+
 #include "chrome/browser/indigo/api_client.h"
 
 #include <optional>

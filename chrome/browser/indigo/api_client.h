@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: API client interface
+// summary: Declares the ApiClient class and result structs for generate, status and delete requests against the Indigo backend.
+// ---
+
 #ifndef CHROME_BROWSER_INDIGO_API_CLIENT_H_
 #define CHROME_BROWSER_INDIGO_API_CLIENT_H_
 

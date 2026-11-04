@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the Indigo onboarding dialog
+summary: Defines the onboarding source set and a non-Android browser test target for the Indigo onboarding dialog, listing their sources and dependencies.

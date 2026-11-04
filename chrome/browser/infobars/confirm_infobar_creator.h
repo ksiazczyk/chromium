@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Confirm infobar creator header
+// summary: Declares CreateConfirmInfoBar helpers for building confirm infobars, marked as deprecated for new desktop callers in favor of BrowserInfoBarManager and InfoBarSpec.
+// ---
+
 #ifndef CHROME_BROWSER_INFOBARS_CONFIRM_INFOBAR_CREATOR_H_
 #define CHROME_BROWSER_INFOBARS_CONFIRM_INFOBAR_CREATOR_H_
 

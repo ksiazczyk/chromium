@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Indigo cue target unit tests
+// summary: Unit tests for IndigoCueTarget verifying cue target properties, eligibility checks, and metrics using mock page action and skills services.
+// ---
+
 #include "chrome/browser/indigo/indigo_cue_target.h"
 
 #include <memory>

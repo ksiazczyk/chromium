@@ -1,0 +1,4 @@
+# Docerion header of indigo_strings.grd.
+type: config
+title: Indigo feature strings
+summary: Defines the strings for the Indigo feature and lists grit outputs that produce localized pak files for many locales.

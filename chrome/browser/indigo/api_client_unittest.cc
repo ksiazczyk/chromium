@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: API client unit tests
+// summary: Unit tests for the API client covering generate, status and delete requests, sign-in scenarios and metrics.
+// ---
+
 #include "chrome/browser/indigo/api_client.h"
 
 #include "base/base64.h"

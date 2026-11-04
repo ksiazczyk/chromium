@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Indigo preference constants and policy enum
+// summary: Defines the Indigo profile preference keys and the policy enum values for allowed, allowed without model improvement, and disallowed states.
+// ---
+
 #ifndef CHROME_BROWSER_INDIGO_INDIGO_PREFS_H_
 #define CHROME_BROWSER_INDIGO_INDIGO_PREFS_H_
 

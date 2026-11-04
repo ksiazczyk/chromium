@@ -1,3 +1,13 @@
+---
+type: guide
+title: Desktop InfoBar Guidelines
+summary: Guidelines for creating and migrating desktop infobars with the centralized InfoBarSpec and BrowserInfoBarManager framework, covering registration, metrics, and verification.
+relations:
+  - documents /chrome/browser/infobars/browser_infobar_manager.h
+  - documents /chrome/browser/infobars/infobar_spec.h
+  - references /chrome/browser/ui/infobars/browser_infobar_registry.cc
+---
+
 # Desktop InfoBar Guidelines
 
 These instructions apply to Desktop Chrome InfoBars implemented through

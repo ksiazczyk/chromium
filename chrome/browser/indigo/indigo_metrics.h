@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Indigo metrics header
+// summary: Declares persisted enums for Indigo transformation results, trigger sources, and entry points, plus histogram and user action name constants.
+// ---
+
 #ifndef CHROME_BROWSER_INDIGO_INDIGO_METRICS_H_
 #define CHROME_BROWSER_INDIGO_INDIGO_METRICS_H_
 

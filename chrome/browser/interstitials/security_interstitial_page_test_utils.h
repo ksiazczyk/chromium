@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Security interstitial page test utilities header
+// summary: Declares test helpers for identifying interstitial types such as SSL, captive portal, and HTTPS-First Mode, and for simulating user proceed actions.
+// ---
+
 #ifndef CHROME_BROWSER_INTERSTITIALS_SECURITY_INTERSTITIAL_PAGE_TEST_UTILS_H_
 #define CHROME_BROWSER_INTERSTITIALS_SECURITY_INTERSTITIAL_PAGE_TEST_UTILS_H_
 

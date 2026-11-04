@@ -1,3 +1,13 @@
+---
+type: readme
+title: Desktop InfoBars (BrowserInfoBarManager)
+summary: Documents the centralized desktop infobar framework architecture and the steps to create or migrate a desktop infobar.
+relations:
+  - documents /chrome/browser/infobars/browser_infobar_manager.h
+  - documents /chrome/browser/infobars/infobar_spec.h
+  - documents /chrome/browser/ui/infobars/browser_infobar_registry.cc
+---
+
 # Desktop InfoBars (`BrowserInfoBarManager`)
 
 This directory contains the centralized Desktop InfoBar framework and utilities

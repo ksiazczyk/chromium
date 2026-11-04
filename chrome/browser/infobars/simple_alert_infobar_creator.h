@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Simple alert infobar creator header
+// summary: Declares CreateSimpleAlertInfoBar for adding simple alert infobars, marked as deprecated for new desktop callers in favor of InfoBarSpec.
+// ---
+
 #ifndef CHROME_BROWSER_INFOBARS_SIMPLE_ALERT_INFOBAR_CREATOR_H_
 #define CHROME_BROWSER_INFOBARS_SIMPLE_ALERT_INFOBAR_CREATOR_H_
 

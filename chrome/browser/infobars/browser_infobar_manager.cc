@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserInfoBarManager implementation
+// summary: Implements BrowserInfoBarManager and the delegate adapter that shows registered InfoBarSpec infobars and reports their UMA results.
+// ---
+
 #include "chrome/browser/infobars/browser_infobar_manager.h"
 
 #include <algorithm>

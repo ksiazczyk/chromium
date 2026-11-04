@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Indigo agent host implementation
+// summary: Implements the browser-side page-scoped host that injects, invokes and resets the Indigo agent script in the renderer.
+// ---
+
 #include "chrome/browser/indigo/indigo_agent_host.h"
 
 #include <utility>

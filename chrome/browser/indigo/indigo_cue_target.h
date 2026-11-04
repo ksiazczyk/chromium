@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Indigo cue target class declaration
+// summary: Declares IndigoCueTarget, a contextual cueing CueTarget providing eligibility, icons, and cue action data for the Indigo feature.
+// ---
+
 #ifndef CHROME_BROWSER_INDIGO_INDIGO_CUE_TARGET_H_
 #define CHROME_BROWSER_INDIGO_INDIGO_CUE_TARGET_H_
 

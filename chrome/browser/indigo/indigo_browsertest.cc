@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Indigo browser tests
+// summary: Interactive browser tests for the Indigo feature covering image replacement, contextual cueing, metrics, toasts, and onboarding flows.
+// ---
+
 #include <string>
 #include <vector>
 

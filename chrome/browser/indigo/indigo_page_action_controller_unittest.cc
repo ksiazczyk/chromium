@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Indigo page action controller unit tests
+// summary: Unit tests for the Indigo page action controller covering eligibility, onboarding, entry points, and image replacement using mock services and test fakes.
+// ---
+
 #include "chrome/browser/indigo/indigo_page_action_controller.h"
 
 #include <memory>

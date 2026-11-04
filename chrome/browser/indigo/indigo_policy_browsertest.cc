@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Indigo policy browser tests
+// summary: Browser tests verifying that Indigo local eligibility and model improvement settings respond correctly to the TryOnYou and GenAI default settings policies.
+// ---
+
 #include <optional>
 
 #include "base/command_line.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Indigo agent host interface
+// summary: Declares IndigoAgentHost, the page-scoped browser-side host for the renderer Indigo agent with image replacement handling.
+// ---
+
 #ifndef CHROME_BROWSER_INDIGO_INDIGO_AGENT_HOST_H_
 #define CHROME_BROWSER_INDIGO_INDIGO_AGENT_HOST_H_
 

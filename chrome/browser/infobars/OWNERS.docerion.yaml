@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for the infobars directory
+summary: Delegates code ownership and review for this directory to components/infobars/OWNERS.

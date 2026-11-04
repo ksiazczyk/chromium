@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Indigo cue target implementation
+// summary: Implements the Indigo contextual cueing target that registers with the cueing controller, checks eligibility, and generates contextual cues.
+// ---
+
 #include "chrome/browser/indigo/indigo_cue_target.h"
 
 #include <utility>

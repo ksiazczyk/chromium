@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Security interstitial page test utilities implementation
+// summary: Implements helpers that detect which security interstitial a tab displays and simulate proceeding through HTTPS-First Mode interstitials.
+// ---
+
 #include "chrome/browser/interstitials/security_interstitial_page_test_utils.h"
 
 #include "base/strings/stringprintf.h"

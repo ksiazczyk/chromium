@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Indigo onboarding dialog class declaration
+// summary: Declares the IndigoOnboardingDialog class that shows a WebView-based tab-modal onboarding dialog and exposes the Mojo host interface for acknowledging the Chrome disclaimer.
+// ---
+
 #ifndef CHROME_BROWSER_INDIGO_ONBOARDING_INDIGO_ONBOARDING_DIALOG_H_
 #define CHROME_BROWSER_INDIGO_ONBOARDING_INDIGO_ONBOARDING_DIALOG_H_
 

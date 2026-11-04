@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Infobar feature flags implementation
+// summary: Defines the kCentralizedInfoBarFramework feature and per-infobar migration field trial parameters for centralizing desktop infobars.
+// ---
+
 #include "chrome/browser/infobars/infobar_features.h"
 
 #include "base/metrics/field_trial_params.h"

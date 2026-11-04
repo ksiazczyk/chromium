@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile invalidation provider factory browser tests
+// summary: ChromeOS in-process browser tests verifying that no invalidation provider is constructed for the login-screen profile and guest sessions.
+// ---
+
 #include "chrome/browser/invalidation/profile_invalidation_provider_factory.h"
 
 #include <stdint.h>

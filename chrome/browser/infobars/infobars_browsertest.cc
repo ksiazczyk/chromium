@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Infobars browser tests
+// summary: Browser tests exercising desktop infobar behavior across many infobar delegates and the centralized framework migration flags.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

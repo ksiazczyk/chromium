@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Indigo image replacement manager browser tests
+// summary: In-process browser tests for the Indigo image replacement manager, covering image replacement flows, toasts, context menus, clipboard, downloads, and accessibility behavior.
+// ---
+
 #include "chrome/browser/indigo/indigo_image_replacement_manager.h"
 
 #include "base/base64.h"

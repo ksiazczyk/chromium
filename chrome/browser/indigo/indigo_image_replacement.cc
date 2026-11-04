@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Indigo image replacement implementation
+// summary: Implements a single image replacement, tracking its frame, original image bytes, and delivering the generated replacement image URL.
+// ---
+
 #include "chrome/browser/indigo/indigo_image_replacement.h"
 
 #include "chrome/browser/indigo/indigo_image_replacement_manager.h"

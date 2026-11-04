@@ -1,0 +1,4 @@
+# Docerion header of browser_resources.grd.
+type: config
+title: Indigo browser resources grit definition
+summary: Grit XML definition that packages the Indigo text layer entry icon into browser resource headers, map files, and a pak output.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise interstitial utilities unit tests
+// summary: Unit tests for the enterprise interstitial event helpers, using mocked navigation observers and extension event routers.
+// ---
+
 #include "chrome/browser/interstitials/enterprise_util.h"
 
 #include <string>

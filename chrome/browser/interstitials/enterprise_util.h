@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise interstitial event utilities interface
+// summary: Declares functions that trigger safeBrowsingPrivate extension events for security interstitials shown, proceeded, and URL filtering.
+// ---
+
 #ifndef CHROME_BROWSER_INTERSTITIALS_ENTERPRISE_UTIL_H_
 #define CHROME_BROWSER_INTERSTITIALS_ENTERPRISE_UTIL_H_
 

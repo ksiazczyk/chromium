@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Indigo onboarding dialog implementation
+// summary: Implements the tab-modal onboarding dialog that embeds a WebView pointing to an external onboarding URL, handling closing, file selection, keyboard events and URL opening.
+// ---
+
 #include "chrome/browser/indigo/onboarding/indigo_onboarding_dialog.h"
 
 #include <memory>
