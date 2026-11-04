@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Platform policy management service browser test
+// summary: Browser test verifying that setting a policy marks the platform as managed with the expected management authority trustworthiness.
+// ---
+
 #include "base/values.h"
 #include "build/build_config.h"
 #include "chrome/browser/enterprise/browser_management/management_service_factory.h"

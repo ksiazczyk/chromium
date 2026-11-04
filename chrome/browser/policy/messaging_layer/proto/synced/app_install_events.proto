@@ -4,6 +4,12 @@
 
 // Events related to adding and removing users from Chrome.
 
+// ---docerion
+// type: source
+// title: Android app install event protos
+// summary: Defines a protobuf message for reporting ARC++ Android app installation events with package, device and storage details.
+// ---
+
 syntax = "proto3";
 
 option optimize_for = LITE_RUNTIME;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS user cloud policy status provider implementation
+// summary: Extends the user cloud policy status provider with ChromeOS affiliation and account manager details.
+// ---
+
 #include "chrome/browser/policy/status_provider/user_cloud_policy_status_provider_chromeos.h"
 
 #include "base/values.h"

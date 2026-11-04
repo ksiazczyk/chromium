@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Configuration file controller implementation
+// summary: Implements ConfigurationFileController, which verifies signatures of server-provided reporting configuration files and updates blocked destinations in missive.
+// ---
+
 #include "chrome/browser/policy/messaging_layer/upload/configuration_file_controller.h"
 
 #include <algorithm>

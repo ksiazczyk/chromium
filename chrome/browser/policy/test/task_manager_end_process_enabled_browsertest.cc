@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Task manager end process policy browser test
+// summary: Browser test verifying that the TaskManagerEndProcessEnabled policy controls whether ending tasks in the task manager is allowed.
+// ---
+
 #include "base/values.h"
 #include "chrome/browser/policy/policy_test_utils.h"
 #include "chrome/browser/task_manager/task_manager_interface.h"

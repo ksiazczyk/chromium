@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fullscreen allowed policy browser tests
+// summary: Browser tests verifying that the FullscreenAllowed policy blocks fullscreen mode in the browser window and in extension app windows.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "base/values.h"
 #include "build/build_config.h"

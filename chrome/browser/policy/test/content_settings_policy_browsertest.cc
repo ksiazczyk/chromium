@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content settings policy browser tests
+// summary: Browser tests verifying that content settings policies such as DefaultCookiesSetting and JavaScript settings are enforced across cookies, downloads, permissions, and USB.
+// ---
+
 #include <string>
 #include <string_view>
 

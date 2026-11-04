@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserDMTokenRetriever class declaration
+// summary: Declares UserDMTokenRetriever, a DMTokenRetriever that autonomously fetches user DM tokens for attaching to report queue configuration.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_MESSAGING_LAYER_UTIL_USER_DM_TOKEN_RETRIEVER_H_
 #define CHROME_BROWSER_POLICY_MESSAGING_LAYER_UTIL_USER_DM_TOKEN_RETRIEVER_H_
 

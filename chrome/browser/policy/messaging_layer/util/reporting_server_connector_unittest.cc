@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ReportingServerConnector unit tests
+// summary: Unit tests verifying that ReportingServerConnector uploads encrypted reports with correct DM token headers and triggers callbacks as expected.
+// ---
+
 #include "chrome/browser/policy/messaging_layer/util/reporting_server_connector.h"
 
 #include <cstddef>

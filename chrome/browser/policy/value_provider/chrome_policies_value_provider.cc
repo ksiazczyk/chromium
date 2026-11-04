@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome policies value provider implementation
+// summary: Implements the provider that supplies Chrome policy names and values, including precedence policies on non-ChromeOS, to the policy UI and refreshes them on updates.
+// ---
+
 #include "chrome/browser/policy/value_provider/chrome_policies_value_provider.h"
 
 #include <algorithm>

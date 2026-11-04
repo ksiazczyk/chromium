@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension install policies value provider implementation
+// summary: Implements conversion of extension install policies, including actions, reasons and risk levels, into the dictionary format expected by the policy UI.
+// ---
+
 #include "chrome/browser/policy/value_provider/extension_install_policies_value_provider.h"
 
 #include <algorithm>

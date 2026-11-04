@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power bookmark service factory implementation
+// summary: Implements PowerBookmarkServiceFactory, building one PowerBookmarkService per browser context with a dependency on the bookmark model.
+// ---
+
 #include "chrome/browser/power_bookmarks/power_bookmark_service_factory.h"
 
 #include "base/files/file_path.h"

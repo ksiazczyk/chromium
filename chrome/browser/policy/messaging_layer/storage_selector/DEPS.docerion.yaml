@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for storage selector
+summary: Grants the storage selector directory permission to include headers from chromeos/dbus/missive.

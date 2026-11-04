@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download directory policy browser tests
+// summary: Browser tests verifying that the DownloadDirectory policy forces downloads into a specified location, including ChromeOS Drive directories.
+// ---
+
 #include "base/files/file_enumerator.h"
 #include "base/files/file_path.h"
 #include "base/files/file_util.h"

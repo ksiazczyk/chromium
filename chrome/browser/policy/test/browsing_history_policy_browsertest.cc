@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browsing history policy browser tests
+// summary: Browser tests verifying that the SavingBrowserHistoryDisabled policy and history deletion policies control saving and clearing of browsing history.
+// ---
+
 #include "base/run_loop.h"
 #include "base/test/bind.h"
 #include "base/test/gtest_util.h"

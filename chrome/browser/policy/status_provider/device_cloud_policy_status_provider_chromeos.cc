@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS device cloud policy status provider implementation
+// summary: Implements the ChromeOS device policy status provider, adding enterprise domain, description key and off-hours status to the status from the policy core.
+// ---
+
 #include "chrome/browser/policy/status_provider/device_cloud_policy_status_provider_chromeos.h"
 
 #include <string>

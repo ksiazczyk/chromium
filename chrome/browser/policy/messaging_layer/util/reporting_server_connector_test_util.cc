@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ReportingServerConnector test environment implementation
+// summary: Implements the TestEnvironment that fakes the cloud policy core, store and device management service for testing ReportingServerConnector.
+// ---
+
 #include "chrome/browser/policy/messaging_layer/util/reporting_server_connector_test_util.h"
 
 #include <cstddef>

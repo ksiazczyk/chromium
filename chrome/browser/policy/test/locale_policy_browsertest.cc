@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Locale policy browser test
+// summary: Browser test verifying that the ApplicationLocaleValue policy overrides the browser locale and localizes UI strings such as the new tab title.
+// ---
+
 #include <string>
 
 #include "base/threading/thread_restrictions.h"

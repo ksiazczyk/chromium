@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash user network configuration updater header
+// summary: Declares UserNetworkConfigurationUpdaterAsh, adding user-specific ONC handling such as string expansion and Web trust of certificates.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_NETWORKING_USER_NETWORK_CONFIGURATION_UPDATER_ASH_H_
 #define CHROME_BROWSER_POLICY_NETWORKING_USER_NETWORK_CONFIGURATION_UPDATER_ASH_H_
 

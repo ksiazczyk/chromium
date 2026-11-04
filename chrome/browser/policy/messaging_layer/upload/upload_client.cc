@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UploadClient implementation
+// summary: Implements UploadClient, which enqueues encrypted record uploads and starts ServerUploader with a RecordHandlerImpl.
+// ---
+
 #include "chrome/browser/policy/messaging_layer/upload/upload_client.h"
 
 #include "base/memory/ptr_util.h"

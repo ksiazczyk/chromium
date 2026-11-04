@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EncryptedReportingUploadProvider header
+// summary: Declares EncryptedReportingUploadProvider, an adapter for UploadClient that uploads reporting messages to the backend service.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_MESSAGING_LAYER_UPLOAD_UPLOAD_PROVIDER_H_
 #define CHROME_BROWSER_POLICY_MESSAGING_LAYER_UPLOAD_UPLOAD_PROVIDER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Delegates code ownership of the messaging_layer directory to the owners defined in the reporting component's OWNERS file.

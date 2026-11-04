@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for policy networking
+summary: Grants policy_cert_service.cc an additional include dependency on the ChromeOS NSS temp certificates cache header.

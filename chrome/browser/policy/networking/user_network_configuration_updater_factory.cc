@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserNetworkConfigurationUpdaterFactory implementation
+// summary: Implements the keyed service factory that builds the updater for the primary user's profile, including guest sessions with empty policy.
+// ---
+
 #include "chrome/browser/policy/networking/user_network_configuration_updater_factory.h"
 
 #include "base/check.h"

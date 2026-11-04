@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Force Google SafeSearch policy browser tests
+// summary: Browser tests verifying how ForceSafeSearch, ForceGoogleSafeSearch, and YouTube restrict policies combine to set managed SafeSearch preferences.
+// ---
+
 #include <optional>
 #include <set>
 

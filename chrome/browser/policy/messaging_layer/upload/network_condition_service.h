@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network condition service header
+// summary: Declares NetworkConditionService, which tracks the current upload rate from the browser network quality tracker for upload decisions.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_MESSAGING_LAYER_UPLOAD_NETWORK_CONDITION_SERVICE_H_
 #define CHROME_BROWSER_POLICY_MESSAGING_LAYER_UPLOAD_NETWORK_CONDITION_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC text log collection policy test
+// summary: Browser tests verifying the WebRtcTextLogCollectionAllowed policy controls RTC text log collection and upload behavior.
+// ---
+
 #include <string>
 
 #include "base/run_loop.h"

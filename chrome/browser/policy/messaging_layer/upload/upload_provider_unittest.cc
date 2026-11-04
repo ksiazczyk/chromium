@@ -2,6 +2,13 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 //
+
+// ---docerion
+// type: test
+// title: EncryptedReportingUploadProvider unit tests
+// summary: Unit tests for EncryptedReportingUploadProvider using fake upload and mock cloud policy clients to verify upload request handling.
+// ---
+
 #include "chrome/browser/policy/messaging_layer/upload/upload_provider.h"
 
 #include <list>

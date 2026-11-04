@@ -5,6 +5,12 @@
 // Events to initiate and track uploading file to GCS using LogUploadTracker.
 // The file is expected to be a zipped set of logs prepared by Support Tool.
 
+// ---docerion
+// type: source
+// title: Log upload event protos
+// summary: Defines protobuf messages to initiate and track uploading zipped support logs to GCS, triggered by remote commands or device events.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

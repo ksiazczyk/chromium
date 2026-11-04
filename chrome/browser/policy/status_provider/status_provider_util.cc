@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Status provider utility functions implementation
+// summary: Implements shared helpers for policy status providers, such as extracting the domain from a username and getting affiliation, profile ID and off-hours status.
+// ---
+
 #include "chrome/browser/policy/status_provider/status_provider_util.h"
 
 #include "base/values.h"

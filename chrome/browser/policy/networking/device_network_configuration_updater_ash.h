@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device network configuration updater for Ash header
+// summary: Declares the DeviceNetworkConfigurationUpdaterAsh class that applies ONC device policy and reacts to CrosSettings changes such as data roaming.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_NETWORKING_DEVICE_NETWORK_CONFIGURATION_UPDATER_ASH_H_
 #define CHROME_BROWSER_POLICY_NETWORKING_DEVICE_NETWORK_CONFIGURATION_UPDATER_ASH_H_
 

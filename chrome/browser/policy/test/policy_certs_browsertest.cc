@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy certificate browser tests
+// summary: ChromeOS browser tests verifying that certificates pushed via ONC policy, including root and intermediate authorities, become web-trusted.
+// ---
+
 #include <memory>
 #include <string>
 

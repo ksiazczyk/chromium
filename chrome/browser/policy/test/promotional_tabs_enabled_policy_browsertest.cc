@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Promotional tabs enabled policy browser tests
+// summary: Parameterized browser tests verifying PromotionalTabsEnabled and PromotionsEnabled policies control promotional tabs and startup behavior.
+// ---
+
 #include <vector>
 
 #include "base/base_switches.h"

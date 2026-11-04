@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DM token retriever provider implementation
+// summary: Implements DMTokenRetrieverProvider, returning a user DM token retriever for user events and an empty retriever otherwise, with a test callback hook.
+// ---
+
 #include "chrome/browser/policy/messaging_layer/util/dm_token_retriever_provider.h"
 
 #include <memory>

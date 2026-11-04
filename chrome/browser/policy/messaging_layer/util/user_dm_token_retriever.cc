@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User DM token retriever implementation
+// summary: Retrieves the user DM token for the active profile on the UI thread and returns it through a callback for report queue configuration.
+// ---
+
 #include "chrome/browser/policy/messaging_layer/util/user_dm_token_retriever.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Report queue manual test context implementation
+// summary: Implements a task runner context that builds a report queue and periodically enqueues incrementing messages for manual testing.
+// ---
+
 #include "chrome/browser/policy/messaging_layer/util/report_queue_manual_test_context.h"
 
 #include "base/functional/bind.h"

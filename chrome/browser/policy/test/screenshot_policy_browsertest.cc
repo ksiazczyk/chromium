@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Screenshot policy browser test
+// summary: ChromeOS browser test verifying that the DisableScreenshots policy prevents taking screenshots that would be saved to the downloads directory.
+// ---
+
 #include <string>
 
 #include "ash/public/cpp/capture_mode/capture_mode_api.h"

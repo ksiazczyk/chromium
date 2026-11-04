@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Event upload size controller unit tests
+// summary: Unit tests for EventUploadSizeController verifying record accounting and maximum upload size behavior.
+// ---
+
 #include "chrome/browser/policy/messaging_layer/upload/event_upload_size_controller.h"
 
 #include <algorithm>

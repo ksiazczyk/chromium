@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows implementation of the updater status provider
+// summary: Queries the Active Directory domain and provides the Windows updater app ID for the status provider.
+// ---
+
 #include "chrome/browser/policy/status_provider/updater_status_and_value_provider.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy certificate service implementation
+// summary: Pushes policy-provided certificates to the profile's network context service and makes them available as NSS temp certificates for client cert selection.
+// ---
+
 #include "chrome/browser/policy/networking/policy_cert_service.h"
 
 #include "base/files/file_path.h"

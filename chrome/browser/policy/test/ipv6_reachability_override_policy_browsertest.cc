@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IPv6 reachability override policy browser test
+// summary: Browser test verifying that the IPv6ReachabilityOverrideEnabled policy allows IPv6-only requests to succeed even after a simulated IPv6 probe failure.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "chrome/browser/policy/policy_test_utils.h"
 #include "chrome/browser/profiles/profile.h"

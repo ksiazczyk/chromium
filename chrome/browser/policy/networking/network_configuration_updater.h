@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network configuration updater class declaration
+// summary: Declares the base NetworkConfigurationUpdater class that tracks ONC device and user policy, manages policy certificates, and defines subclass hooks.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_NETWORKING_NETWORK_CONFIGURATION_UPDATER_H_
 #define CHROME_BROWSER_POLICY_NETWORKING_NETWORK_CONFIGURATION_UPDATER_H_
 

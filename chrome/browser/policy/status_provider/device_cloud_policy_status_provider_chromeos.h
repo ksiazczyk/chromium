@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS device cloud policy status provider declaration
+// summary: Declares DeviceCloudPolicyStatusProviderChromeOS, a cloud policy status provider for device policy on ChromeOS.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_STATUS_PROVIDER_DEVICE_CLOUD_POLICY_STATUS_PROVIDER_CHROMEOS_H_
 #define CHROME_BROWSER_POLICY_STATUS_PROVIDER_DEVICE_CLOUD_POLICY_STATUS_PROVIDER_CHROMEOS_H_
 

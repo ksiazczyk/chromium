@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy statistics collector browser tests
+// summary: Browser test verifying that policy usage histograms such as Enterprise.Policies are collected at browser startup for preset policies.
+// ---
+
 #include "base/metrics/histogram_base.h"
 #include "base/metrics/histogram_samples.h"
 #include "base/metrics/statistics_recorder.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History clusters visibility policy browser test
+// summary: Browser test verifying that the HistoryClustersVisible policy can hide or show history clusters and that clearing the policy restores user prefs.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/history_clusters/history_clusters_service_factory.h"
 #include "chrome/browser/policy/policy_test_utils.h"

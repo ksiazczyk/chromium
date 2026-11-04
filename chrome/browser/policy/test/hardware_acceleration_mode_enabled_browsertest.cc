@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hardware acceleration mode policy browser test
+// summary: Browser test verifying that setting the HardwareAccelerationModeEnabled policy to false disables GPU hardware acceleration in the browser.
+// ---
+
 #include "base/values.h"
 #include "chrome/browser/policy/policy_test_utils.h"
 #include "components/policy/core/common/policy_map.h"

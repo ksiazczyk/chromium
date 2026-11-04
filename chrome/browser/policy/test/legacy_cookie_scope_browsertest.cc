@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Legacy cookie scope policy browser test
+// summary: Parameterized browser test verifying that the LegacyCookieScopeEnabled policy deletes aliasing port- and scheme-bound cookies across domains when enabled.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "base/values.h"
 #include "chrome/browser/policy/policy_test_utils.h"

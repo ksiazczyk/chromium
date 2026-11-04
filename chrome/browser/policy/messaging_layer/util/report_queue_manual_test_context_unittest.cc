@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Report queue manual test context unit tests
+// summary: Unit tests using a mock report queue to verify that the manual test context uploads device and user event messages as configured.
+// ---
+
 #include "chrome/browser/policy/messaging_layer/util/report_queue_manual_test_context.h"
 
 #include "base/functional/bind.h"

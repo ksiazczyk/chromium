@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserNetworkConfigurationUpdater class declaration
+// summary: Declares the updater handling server and authority certificates from user ONC policy while ignoring client certificates and network configs.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_NETWORKING_USER_NETWORK_CONFIGURATION_UPDATER_H_
 #define CHROME_BROWSER_POLICY_NETWORKING_USER_NETWORK_CONFIGURATION_UPDATER_H_
 

@@ -4,6 +4,12 @@
 
 // Test support library for response payloads.
 
+// ---docerion
+// type: test
+// title: Response payload test builder declaration
+// summary: Declares ResponseBuilder and the MakeUploadEncryptedReportAction helper for building mocked reporting server responses in tests.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_MESSAGING_LAYER_UTIL_TEST_RESPONSE_PAYLOAD_H_
 #define CHROME_BROWSER_POLICY_MESSAGING_LAYER_UTIL_TEST_RESPONSE_PAYLOAD_H_
 

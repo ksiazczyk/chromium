@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Upload response parser implementation
+// summary: Implements parsing of encrypted reporting upload responses into sequence information, encryption settings, configuration file, and gap record protos.
+// ---
+
 #include "chrome/browser/policy/messaging_layer/util/upload_response_parser.h"
 
 #include <cstddef>

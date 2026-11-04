@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Updater status and value provider header
+// summary: Declares UpdaterStatusAndValueProvider, which asynchronously loads Google Updater policy status and values.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_STATUS_PROVIDER_UPDATER_STATUS_AND_VALUE_PROVIDER_H_
 #define CHROME_BROWSER_POLICY_STATUS_PROVIDER_UPDATER_STATUS_AND_VALUE_PROVIDER_H_
 

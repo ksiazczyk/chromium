@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Ash network configuration updaters
+// summary: Tests the Ash device and user network configuration updaters using mock policy providers, fake handlers, and sample ONC network and certificate data.
+// ---
+
 #include <stddef.h>
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UploadResponseParser class declaration
+// summary: Declares UploadResponseParser, which converts server upload response payloads into sequence information, encryption settings, and configuration file protos.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_MESSAGING_LAYER_UTIL_UPLOAD_RESPONSE_PARSER_H_
 #define CHROME_BROWSER_POLICY_MESSAGING_LAYER_UTIL_UPLOAD_RESPONSE_PARSER_H_
 

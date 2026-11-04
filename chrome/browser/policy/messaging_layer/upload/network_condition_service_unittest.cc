@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network condition service unit tests
+// summary: Tests NetworkConditionService initialization, upload rate updates from throughput estimates, and observer destruction on the UI thread.
+// ---
+
 #include "chrome/browser/policy/messaging_layer/upload/network_condition_service.h"
 
 #include <limits>

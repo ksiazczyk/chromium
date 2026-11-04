@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for file upload delegate
+// summary: Unit tests for FileUploadDelegate covering OAuth2 tokens, upload headers and resumable upload flows against an embedded test server.
+// ---
+
 #include "chrome/browser/policy/messaging_layer/upload/file_upload_impl.h"
 
 #include <cstddef>

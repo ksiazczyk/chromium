@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Happy Eyeballs v3 enabled policy browser test
+// summary: Parameterized browser tests checking that the HappyEyeballsV3Enabled policy is respected by the network service and refreshes dynamically, with successful page loads.
+// ---
+
 #include "base/test/bind.h"
 #include "base/test/metrics/histogram_tester.h"
 #include "chrome/browser/policy/policy_test_utils.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File upload job implementation
+// summary: Implements the FileUploadJob manager and delegate dispatch that run restartable chunked uploads of files.
+// ---
+
 #include "chrome/browser/policy/messaging_layer/upload/file_upload_job.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill AI policy browser tests
+// summary: Parameterized browser tests verifying that the AutofillPredictionSettings policy controls Autofill AI behavior and its settings pages.
+// ---
+
 #include <string>
 #include <unordered_map>
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReportingServerConnector implementation
+// summary: Implements the singleton connector that uploads encrypted reports to the reporting server through the cloud policy client and tracks its connection state.
+// ---
+
 #include "chrome/browser/policy/messaging_layer/util/reporting_server_connector.h"
 
 #include <memory>

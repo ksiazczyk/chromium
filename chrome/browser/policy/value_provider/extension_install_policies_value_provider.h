@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension install policies value provider class declaration
+// summary: Declares ExtensionInstallPoliciesValueProvider, which returns names and values of extension install policies and observes the extension install policy service.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_VALUE_PROVIDER_EXTENSION_INSTALL_POLICIES_VALUE_PROVIDER_H_
 #define CHROME_BROWSER_POLICY_VALUE_PROVIDER_EXTENSION_INSTALL_POLICIES_VALUE_PROVIDER_H_
 

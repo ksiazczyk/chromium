@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Proxy policies browser tests
+// summary: Browser test verifying that individual proxy policy values merge into the expected proxy prefs for local state and profile.
+// ---
+
 #include "base/values.h"
 #include "build/build_config.h"
 #include "chrome/browser/browser_process.h"

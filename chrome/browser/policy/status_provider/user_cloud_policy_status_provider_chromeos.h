@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS user cloud policy status provider header
+// summary: Declares the ChromeOS-specific user cloud policy status provider class.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_STATUS_PROVIDER_USER_CLOUD_POLICY_STATUS_PROVIDER_CHROMEOS_H_
 #define CHROME_BROWSER_POLICY_STATUS_PROVIDER_USER_CLOUD_POLICY_STATUS_PROVIDER_CHROMEOS_H_
 

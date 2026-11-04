@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for policy browser tests
+summary: Per-file owner mappings that route review ownership of individual policy browser test files to the relevant teams and reviewers.

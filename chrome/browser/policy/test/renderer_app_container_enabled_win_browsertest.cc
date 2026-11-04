@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Renderer App Container enabled policy browser test for Windows
+// summary: Windows browser test checking that the RendererAppContainerEnabled policy controls whether renderer processes run in an App Container sandbox.
+// ---
+
 #include "base/feature_list.h"
 #include "base/functional/callback.h"
 #include "base/numerics/safe_conversions.h"

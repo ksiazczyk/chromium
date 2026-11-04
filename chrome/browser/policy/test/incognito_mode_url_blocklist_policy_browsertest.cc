@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Incognito mode URL blocklist policy browser test
+// summary: Browser tests verifying that IncognitoModeUrlBlocklist blocks URLs only in incognito windows and that the allowlist acts as an exception to the blocklist.
+// ---
+
 #include <string>
 
 #include "base/strings/utf_string_conversions.h"

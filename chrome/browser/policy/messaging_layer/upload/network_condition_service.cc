@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network condition service implementation
+// summary: Estimates the upload rate from network quality tracker throughput observations for use by the reporting upload logic.
+// ---
+
 #include "chrome/browser/policy/messaging_layer/upload/network_condition_service.h"
 
 #include <cstddef>

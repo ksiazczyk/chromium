@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StorageSelector class header
+// summary: Declares the StorageSelector static class that selects the underlying storage for the encrypted reporting pipeline based on the build platform.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_MESSAGING_LAYER_STORAGE_SELECTOR_STORAGE_SELECTOR_H_
 #define CHROME_BROWSER_POLICY_MESSAGING_LAYER_STORAGE_SELECTOR_STORAGE_SELECTOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Restrict core sharing policy browser test
+// summary: Windows browser test verifying that the RestrictCoreSharingOnRenderer policy applies the side channel isolation mitigation to renderer processes.
+// ---
+
 #include <windows.h>
 
 #include "base/values.h"

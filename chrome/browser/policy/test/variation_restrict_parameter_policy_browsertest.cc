@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Variations restrict parameter policy test
+// summary: Browser test verifying the VariationsRestrictParameter policy appends the restrict parameter to the variations server URL.
+// ---
+
 #include <string>
 
 #include "base/strings/string_util.h"

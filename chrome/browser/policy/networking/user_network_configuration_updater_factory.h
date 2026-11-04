@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserNetworkConfigurationUpdaterFactory header
+// summary: Declares the profile-keyed service factory creating UserNetworkConfigurationUpdater for the per-user OpenNetworkConfiguration policy.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_NETWORKING_USER_NETWORK_CONFIGURATION_UPDATER_FACTORY_H_
 #define CHROME_BROWSER_POLICY_NETWORKING_USER_NETWORK_CONFIGURATION_UPDATER_FACTORY_H_
 

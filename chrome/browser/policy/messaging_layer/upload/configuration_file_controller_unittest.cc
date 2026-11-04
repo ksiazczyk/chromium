@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Configuration file controller unit tests
+// summary: Unit tests covering configuration file handling, signature verification, and blocked destination updates in ConfigurationFileController.
+// ---
+
 #include "chrome/browser/policy/messaging_layer/upload/configuration_file_controller.h"
 #include <cstdint>
 

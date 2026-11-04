@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session length limit policy browser test
+// summary: Browser test verifying that the SessionLengthLimit policy terminates the ChromeOS session when the elapsed time exceeds the configured limit.
+// ---
+
 #include "ash/constants/ash_pref_names.h"
 #include "base/run_loop.h"
 #include "base/time/time.h"

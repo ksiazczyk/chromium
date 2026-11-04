@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File upload job test utilities
+// summary: Implements FileUploadJob::TestEnvironment, which resets the manager singleton for tests and clears in-progress uploads on teardown.
+// ---
+
 #include "chrome/browser/policy/messaging_layer/upload/file_upload_job_test_util.h"
 
 #include "base/memory/ptr_util.h"

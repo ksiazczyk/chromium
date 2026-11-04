@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Encrypted reporting client implementation
+// summary: Implements EncryptedReportingClient, which uploads Encrypted Reporting Pipeline records to the device management service with backoff and UMA reporting.
+// ---
+
 #include "chrome/browser/policy/messaging_layer/upload/encrypted_reporting_client.h"
 
 #include <algorithm>

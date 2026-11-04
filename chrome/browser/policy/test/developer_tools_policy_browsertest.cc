@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Developer tools policy browser tests
+// summary: Browser tests verifying that the DeveloperToolsAvailability policy controls DevTools access and extension developer mode controls.
+// ---
+
 #include "base/files/file_path.h"
 #include "base/strings/stringprintf.h"
 #include "base/strings/to_string.h"

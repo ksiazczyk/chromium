@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ServerUploader unit tests
+// summary: Parameterized unit tests for ServerUploader covering successful uploads, failure responses, encryption key requests and force confirm handling.
+// ---
+
 #include "chrome/browser/policy/messaging_layer/upload/server_uploader.h"
 
 #include <memory>

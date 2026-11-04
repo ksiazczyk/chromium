@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media stream policy browser test
+// summary: Browser test verifying audio and video capture allow and blocklist policies for media stream permission requests.
+// ---
+
 #include <array>
 #include <memory>
 

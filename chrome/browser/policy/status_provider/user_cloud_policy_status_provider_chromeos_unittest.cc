@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the ChromeOS user cloud policy status provider
+// summary: Tests GetStatusMojo output for managed and unmanaged user policy on ChromeOS.
+// ---
+
 #include "chrome/browser/policy/status_provider/user_cloud_policy_status_provider_chromeos.h"
 
 #include <memory>

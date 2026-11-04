@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User cloud policy status provider implementation
+// summary: Builds user cloud policy status output including enrollment tokens, affiliation, and Flex org warnings.
+// ---
+
 #include "chrome/browser/policy/status_provider/user_cloud_policy_status_provider.h"
 
 #include "base/values.h"

@@ -4,6 +4,12 @@
 
 // Events related to logging into and out of Chrome.
 
+// ---docerion
+// type: source
+// title: Login and logout event protos
+// summary: Defines protobuf messages for reporting Chrome login and logout events, including failure reasons and session types.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

@@ -4,6 +4,12 @@
 
 // Forked from: //chrome/browser/policy/test/jit_policy_browsertest.cc
 
+// ---docerion
+// type: test
+// title: V8 optimizer policy browser tests
+// summary: Parameterized browser tests verifying per-site and default JavaScript optimizer policies enable or disable V8 optimizations for navigated sites.
+// ---
+
 #include <vector>
 
 #include "base/memory/scoped_refptr.h"

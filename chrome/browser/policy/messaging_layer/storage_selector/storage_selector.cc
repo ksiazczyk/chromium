@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StorageSelector local storage implementation
+// summary: Implements StorageSelector for non-ChromeOS builds, creating a local storage module with encryption, compression and upload callbacks.
+// ---
+
 #include "chrome/browser/policy/messaging_layer/storage_selector/storage_selector.h"
 
 #include <string_view>

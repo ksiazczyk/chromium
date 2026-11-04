@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Record upload request builder unit tests
+// summary: Parameterized tests for UploadEncryptedReportingRequestBuilder covering record generation, corrupted records, and encryption settings.
+// ---
+
 #include "chrome/browser/policy/messaging_layer/upload/record_upload_request_builder.h"
 
 #include <cstdint>

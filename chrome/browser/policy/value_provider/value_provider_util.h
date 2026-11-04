@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Value provider util header
+// summary: Declares GetPolicyService, a helper that returns the policy::PolicyService for a given profile.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_VALUE_PROVIDER_VALUE_PROVIDER_UTIL_H_
 #define CHROME_BROWSER_POLICY_VALUE_PROVIDER_VALUE_PROVIDER_UTIL_H_
 

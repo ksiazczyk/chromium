@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Automatic fullscreen policy browser tests
+// summary: Browser tests verifying that the AutomaticFullscreenAllowedForUrls and BlockedForUrls policies control fullscreen requests made without user activation.
+// ---
+
 #include "base/values.h"
 #include "chrome/browser/content_settings/host_content_settings_map_factory.h"
 #include "chrome/browser/policy/policy_test_utils.h"

@@ -4,6 +4,12 @@
 
 // Events related to adding and removing users from Chrome.
 
+// ---docerion
+// type: source
+// title: Chrome Remote Desktop event protos
+// summary: Defines protobuf messages for reporting Chrome Remote Desktop host and client session events, including connection types and kiosk flag.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

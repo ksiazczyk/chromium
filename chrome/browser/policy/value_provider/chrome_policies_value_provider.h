@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome policies value provider class declaration
+// summary: Declares ChromePoliciesValueProvider, which returns Chrome policy names and values plus precedence policies and observes policy service and schema registry changes.
+// ---
+
 #ifndef CHROME_BROWSER_POLICY_VALUE_PROVIDER_CHROME_POLICIES_VALUE_PROVIDER_H_
 #define CHROME_BROWSER_POLICY_VALUE_PROVIDER_CHROME_POLICIES_VALUE_PROVIDER_H_
 

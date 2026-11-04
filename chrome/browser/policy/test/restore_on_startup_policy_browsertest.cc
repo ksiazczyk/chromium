@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Restore on startup policy browser test
+// summary: Parameterized browser test verifying that RestoreOnStartup and RestoreOnStartupURLs policies set startup pages to a URL list, the NTP, or the last session.
+// ---
+
 #include <algorithm>
 #include <array>
 #include <vector>

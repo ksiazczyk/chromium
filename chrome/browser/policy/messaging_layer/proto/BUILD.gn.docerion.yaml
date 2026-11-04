@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for messaging layer event proto libraries
+summary: Defines GN proto_library and fuzzable_proto_library targets for ChromeOS reporting event protos such as CRD events, log uploads, app installs, login events, and user session activity.

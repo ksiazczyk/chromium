@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Record upload request builder implementation
+// summary: Implements UploadEncryptedReportingRequestBuilder, assembling JSON upload payloads with encrypted records, request IDs, and feature-controlled settings.
+// ---
+
 #include "chrome/browser/policy/messaging_layer/upload/record_upload_request_builder.h"
 
 #include <optional>

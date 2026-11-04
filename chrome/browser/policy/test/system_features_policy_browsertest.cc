@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System features disable list policy browser test
+// summary: Browser test verifying that the SystemFeaturesDisableList policy hides ChromeOS system features, apps and web UIs such as Canvas and the Web Store.
+// ---
+
 #include "ash/constants/ash_features.h"
 #include "ash/constants/web_app_id_constants.h"
 #include "ash/constants/webui_url_constants.h"
