@@ -1,3 +1,11 @@
+---
+type: reference
+title: Profile management overview
+summary: Explains the profile management flows and the main callbacks of the first run experience with a sequence diagram.
+relations:
+  - references /chrome/browser/ui/views/profiles/first_run_flow_sequence_diagram.png
+---
+
 # On Profile Management
 
 Profile Management refers to the various flows around profile creation and

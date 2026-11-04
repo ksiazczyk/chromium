@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tailored Security desktop dialog manager declaration
+// summary: Declares the manager that shows enabled or disabled Tailored Security dialogs per browser and defines the related histogram names.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SAFE_BROWSING_TAILORED_SECURITY_DESKTOP_DIALOG_MANAGER_H_
 #define CHROME_BROWSER_UI_VIEWS_SAFE_BROWSING_TAILORED_SECURITY_DESKTOP_DIALOG_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile picker post sign-in adapter header
+// summary: Declares the adapter that drives the signed-in steps of the profile picker flow, including sync confirmation and history sync opt-in screens.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PROFILES_PROFILE_PICKER_POST_SIGN_IN_ADAPTER_H_
 #define CHROME_BROWSER_UI_VIEWS_PROFILES_PROFILE_PICKER_POST_SIGN_IN_ADAPTER_H_
 

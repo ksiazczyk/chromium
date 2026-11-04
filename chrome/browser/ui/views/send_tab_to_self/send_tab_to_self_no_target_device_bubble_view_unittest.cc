@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SendTabToSelfNoTargetDeviceBubbleView unit tests
+// summary: Unit tests for the no-target-device bubble using a stub controller and a sign-in identity test environment.
+// ---
+
 #include "chrome/browser/ui/views/send_tab_to_self/send_tab_to_self_no_target_device_bubble_view.h"
 
 #include <memory>

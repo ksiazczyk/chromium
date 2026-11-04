@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Relaunch recommended timer implementation
+// summary: Implements a wall clock timer that refreshes the relaunch recommended notification title at day boundaries.
+// ---
+
 #include "chrome/browser/ui/views/relaunch_notification/relaunch_recommended_timer.h"
 
 #include <utility>

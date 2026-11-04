@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Save recording bubble view browser tests
+// summary: Browser tests using a fake controller to verify the save bubble UI, the prefilled name, and save button enabling based on text field content.
+// ---
+
 #include "chrome/browser/ui/views/record_replay/save_recording_bubble_view.h"
 
 #include "base/memory/raw_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile picker flow controller implementation
+// summary: Implements the profile picker flow controller that drives signin, reauth, profile picking and post-signin steps for the profile picker UI.
+// ---
+
 #include "chrome/browser/ui/views/profiles/profile_picker_flow_controller.h"
 
 #include <string>

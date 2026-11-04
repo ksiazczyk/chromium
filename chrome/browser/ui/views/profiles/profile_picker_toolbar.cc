@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile picker toolbar implementation
+// summary: Implements the toolbar for the first run and profile creation flows, with back, start browsing, and effects control buttons.
+// ---
+
 #include "chrome/browser/ui/views/profiles/profile_picker_toolbar.h"
 
 #include <memory>

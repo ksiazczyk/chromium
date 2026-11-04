@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync confirmation UI pixel browser test
+// summary: Browser and pixel tests for the sync confirmation dialog, covering managed accounts, minor mode restrictions, first run versions and window versus promo styles.
+// ---
+
 #include "chrome/browser/ui/webui/signin/sync_confirmation_ui.h"
 
 #include <utility>

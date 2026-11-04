@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password reuse modal warning dialog implementation
+// summary: Implements the modal warning dialog for detected password reuse, with themed illustration and per-account-type button actions.
+// ---
+
 #include "chrome/browser/ui/views/safe_browsing/password_reuse_modal_warning_dialog.h"
 
 #include "base/functional/callback_helpers.h"

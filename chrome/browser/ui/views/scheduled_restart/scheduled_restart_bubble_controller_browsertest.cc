@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scheduled restart bubble controller browser tests
+// summary: In-process browser tests verifying the bubble triggers on new tab creation and via the app menu command, with the nudge time recorded in local state.
+// ---
+
 #include "chrome/browser/ui/views/scheduled_restart/scheduled_restart_bubble_controller.h"
 
 #include "base/functional/callback_helpers.h"

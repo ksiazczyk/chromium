@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for search_ai_mode sign-in promo
+summary: Defines GN source sets for the Search AI Mode sign-in promo views, their implementation, and browser tests.

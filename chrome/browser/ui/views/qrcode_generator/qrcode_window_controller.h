@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QR code window controller class declaration
+// summary: Declares QRCodeWindowController, which manages the QR code generator bubble per browser window using unowned user data.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_QRCODE_GENERATOR_QRCODE_WINDOW_CONTROLLER_H_
 #define CHROME_BROWSER_UI_VIEWS_QRCODE_GENERATOR_QRCODE_WINDOW_CONTROLLER_H_
 

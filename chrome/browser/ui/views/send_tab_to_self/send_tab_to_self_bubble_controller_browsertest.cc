@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Send tab to self bubble controller browser tests
+// summary: Parameterized browser tests covering entry point display reasons, toasts, and metrics for the send tab to self bubble controller.
+// ---
+
 #include "chrome/browser/ui/views/send_tab_to_self/send_tab_to_self_bubble_controller.h"
 
 #include "base/notreached.h"

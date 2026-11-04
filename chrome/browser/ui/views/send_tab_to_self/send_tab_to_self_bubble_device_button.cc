@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send tab to self device button implementation
+// summary: Implements the hover button that lists a target device and triggers selection in the device picker bubble.
+// ---
+
 #include "chrome/browser/ui/views/send_tab_to_self/send_tab_to_self_bubble_device_button.h"
 
 #include <memory>

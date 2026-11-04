@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderViewContextMenuViews implementation
+// summary: Implements the Views-based Aura context menu for web contents, including submenu observation, command execution, accelerators, and menu display.
+// ---
+
 #include "chrome/browser/ui/views/renderer_context_menu/render_view_context_menu_views.h"
 
 #include <utility>

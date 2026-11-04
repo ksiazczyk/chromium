@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Avatar toolbar button implementation
+// summary: Implements the profile avatar toolbar button, handling its appearance, animations, accessibility and menu activation behavior.
+// ---
+
 #include "chrome/browser/ui/views/profiles/avatar_toolbar_button.h"
 
 #include "base/check.h"

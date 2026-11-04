@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Relaunch required dialog view implementation
+// summary: Implements the browser modal relaunch required dialog with a countdown title and Advanced Protection styling.
+// ---
+
 #include "chrome/browser/ui/views/relaunch_notification/relaunch_required_dialog_view.h"
 
 #include <utility>

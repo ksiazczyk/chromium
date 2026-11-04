@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search AI Mode sign-in promo view pixel tests
+// summary: Runs pixel browser tests for the AI Mode sign-in promo views in regular, dark theme, and right-to-left variants.
+// ---
+
 #include <string>
 
 #include "base/test/scoped_feature_list.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Session restore infobar build targets
+summary: Defines GN source_set targets for the session restore infobar code, unit tests, and interactive UI tests with their dependencies.

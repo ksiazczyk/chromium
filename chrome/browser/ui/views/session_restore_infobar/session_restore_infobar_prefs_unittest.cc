@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session restore infobar prefs unit tests
+// summary: Unit tests covering the shown-count increment and maximum-times-shown behavior of the session restore infobar preferences helpers.
+// ---
+
 #include "chrome/browser/ui/views/session_restore_infobar/session_restore_infobar_prefs.h"
 
 #include "chrome/common/pref_names.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for profiles UI views
+summary: GN build configuration defining the source sets and dependencies for the profile UI views in this directory.

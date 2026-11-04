@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile management step controller implementation
+// summary: Implements concrete step controllers for the profile picker app, sign-in, SAML, post-sign-in, search engine choice, and device signals disclaimer steps.
+// ---
+
 #include "chrome/browser/ui/views/profiles/profile_management_step_controller.h"
 
 #include "base/check_deref.h"

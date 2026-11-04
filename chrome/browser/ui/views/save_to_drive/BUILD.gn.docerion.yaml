@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Save to Drive account chooser build targets
+summary: Defines GN source sets for the Save to Drive account chooser views, their dependencies, test support and test targets.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QR code generator bubble implementation
+// summary: Implements the location bar bubble that displays a QR code for sharing a page or image, handling URL updates, error display, copy to clipboard, and PNG download.
+// ---
+
 #include "chrome/browser/ui/views/qrcode_generator/qrcode_generator_bubble.h"
 
 #include "base/containers/span.h"

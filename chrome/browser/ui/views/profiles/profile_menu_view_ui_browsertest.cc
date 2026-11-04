@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile menu UI and pixel browser tests
+// summary: UI and pixel browser tests parameterized over profile types, signin states, management status and local data to verify profile menu rendering.
+// ---
+
 #include <array>
 #include <memory>
 

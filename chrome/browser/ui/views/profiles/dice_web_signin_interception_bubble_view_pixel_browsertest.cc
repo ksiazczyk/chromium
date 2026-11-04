@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dice web signin interception bubble pixel tests
+// summary: Parameterized pixel tests capturing the interception bubble across themes, managed account states, name formats, RTL layout, and profile colors.
+// ---
+
 #include <array>
 #include <string>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RenderViewContextMenuViews browser tests
+// summary: In-process browser tests checking writing-direction menu item visibility and state for editable and non-editable plugin context menus via a test subclass.
+// ---
+
 #include "chrome/browser/ui/views/renderer_context_menu/render_view_context_menu_views.h"
 
 #include "chrome/app/chrome_command_ids.h"

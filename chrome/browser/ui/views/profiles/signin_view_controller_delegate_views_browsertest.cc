@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Signin view controller delegate browser tests
+// summary: Browser tests verifying sign-in dialog creation, immediate closing before display and web contents cleanup for the Views sign-in delegate.
+// ---
+
 #include "chrome/browser/ui/views/profiles/signin_view_controller_delegate_views.h"
 
 #include <memory>

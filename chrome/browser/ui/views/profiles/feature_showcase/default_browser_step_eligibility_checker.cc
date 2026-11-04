@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser step eligibility checker implementation
+// summary: Implements eligibility checks for the default browser showcase step, including Windows policy and default-state handling.
+// ---
+
 #include "chrome/browser/ui/views/profiles/feature_showcase/default_browser_step_eligibility_checker.h"
 
 #include "base/functional/bind.h"

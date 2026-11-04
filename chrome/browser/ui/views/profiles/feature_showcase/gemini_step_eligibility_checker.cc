@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini step eligibility checker implementation
+// summary: Determines Gemini showcase eligibility from sign-in state, account capabilities and variations country data, resolving asynchronously via observers.
+// ---
+
 #include "chrome/browser/ui/views/profiles/feature_showcase/gemini_step_eligibility_checker.h"
 
 #include <utility>

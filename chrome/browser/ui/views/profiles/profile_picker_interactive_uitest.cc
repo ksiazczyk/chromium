@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile picker interactive UI tests
+// summary: Interactive UI tests for the profile picker view, exercising sign-in buttons, navigation state, and widget bounds changes.
+// ---
+
 #include "base/check.h"
 #include "base/run_loop.h"
 #include "base/test/metrics/histogram_tester.h"

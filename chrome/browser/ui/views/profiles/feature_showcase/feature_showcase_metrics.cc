@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature Showcase metrics recording
+// summary: Records per-step user action histograms and maps step identifiers to their enum values.
+// ---
+
 #include "chrome/browser/ui/views/profiles/feature_showcase/feature_showcase_metrics.h"
 
 #include <string_view>

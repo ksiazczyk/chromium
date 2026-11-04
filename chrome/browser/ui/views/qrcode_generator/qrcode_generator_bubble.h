@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QR code generator bubble class declaration
+// summary: Declares QRCodeGeneratorBubble, the views dialog that shows a shareable QR code, with testing hooks and helpers for suggested filenames and error display.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_QRCODE_GENERATOR_QRCODE_GENERATOR_BUBBLE_H_
 #define CHROME_BROWSER_UI_VIEWS_QRCODE_GENERATOR_QRCODE_GENERATOR_BUBBLE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile picker view implementation
+// summary: Implements ProfilePickerView, the widget hosting the desktop profile picker WebUI, including flow controllers, native toolbar, keep-alive and signin error handling.
+// ---
+
 #include "chrome/browser/ui/views/profiles/profile_picker_view.h"
 
 #include <algorithm>

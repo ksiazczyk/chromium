@@ -1,6 +1,13 @@
 // Copyright 2026 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Send tab to self controller interactive UI tests
+// summary: Interactive browser tests exercising device selection and bubble interactions in the send tab to self UI.
+// ---
+
 #include "chrome/browser/ui/views/send_tab_to_self/send_tab_to_self_bubble_controller.h"
 
 #include "base/timer/timer.h"

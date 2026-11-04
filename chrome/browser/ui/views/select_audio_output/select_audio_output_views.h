@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SelectAudioOutputPickerViews class declaration
+// summary: Declares the views-based audio output picker that displays the selection dialog for a browser window.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SELECT_AUDIO_OUTPUT_SELECT_AUDIO_OUTPUT_VIEWS_H_
 #define CHROME_BROWSER_UI_VIEWS_SELECT_AUDIO_OUTPUT_SELECT_AUDIO_OUTPUT_VIEWS_H_
 

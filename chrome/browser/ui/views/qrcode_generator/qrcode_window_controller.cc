@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QR code window controller implementation
+// summary: Implements QRCodeWindowController, which creates and shows the QR code generator bubble anchored to the toolbar for a browser window.
+// ---
+
 #include "chrome/browser/ui/views/qrcode_generator/qrcode_window_controller.h"
 
 #include <utility>

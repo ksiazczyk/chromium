@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search AI Mode sign-in promo bubble view declarations
+// summary: Declares the base and concrete sign-in promo bubble view classes for Search AI Mode and Composebox Drive.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SEARCH_AI_MODE_SIGNIN_PROMO_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_SEARCH_AI_MODE_SIGNIN_PROMO_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock account chooser view delegate declaration
+// summary: Declares a gmock mock of the account chooser view delegate for use in tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SAVE_TO_DRIVE_MOCK_ACCOUNT_CHOOSER_VIEW_DELEGATE_H_
 #define CHROME_BROWSER_UI_VIEWS_SAVE_TO_DRIVE_MOCK_ACCOUNT_CHOOSER_VIEW_DELEGATE_H_
 

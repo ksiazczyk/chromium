@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile picker Omnibox Everywhere flow controller header
+// summary: Declares the flow controller class that runs the Omnibox Everywhere version of the profile picker and reports the picked profile.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PROFILES_PROFILE_PICKER_OMNIBOX_EVERYWHERE_FLOW_CONTROLLER_H_
 #define CHROME_BROWSER_UI_VIEWS_PROFILES_PROFILE_PICKER_OMNIBOX_EVERYWHERE_FLOW_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile management flow controller implementation
+// summary: Implements ProfileManagementFlowControllerImpl, providing shared logic for registering and switching between identity-related sign-in and post-sign-in steps.
+// ---
+
 #include "chrome/browser/ui/views/profiles/profile_management_flow_controller_impl.h"
 
 #include <memory>

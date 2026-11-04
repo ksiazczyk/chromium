@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session restore infobar delegate implementation
+// summary: Implements the confirm infobar delegate for the session restore prompt, including metrics recording and pref change tracking.
+// ---
+
 #include "chrome/browser/ui/views/session_restore_infobar/session_restore_infobar_delegate.h"
 
 #include <memory>

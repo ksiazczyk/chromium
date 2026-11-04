@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tailored security unconsented modal dialog header
+// summary: Declares a tab modal dialog shown when the user's tailored security bit changes and the user is not consented to sync, as part of Chrome's Safe Browsing views UI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SAFE_BROWSING_TAILORED_SECURITY_UNCONSENTED_MODAL_H_
 #define CHROME_BROWSER_UI_VIEWS_SAFE_BROWSING_TAILORED_SECURITY_UNCONSENTED_MODAL_H_
 

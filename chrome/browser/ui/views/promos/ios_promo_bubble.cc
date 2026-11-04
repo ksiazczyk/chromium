@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS promo bubble implementation
+// summary: Implements the desktop-to-iOS promo bubble views, including QR code generation, per-promo-type configuration, and bubble content creation.
+// ---
+
 #include "chrome/browser/ui/views/promos/ios_promo_bubble.h"
 
 #include <memory>

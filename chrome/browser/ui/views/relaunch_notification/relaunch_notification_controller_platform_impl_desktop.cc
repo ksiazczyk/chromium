@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop platform implementation of relaunch notifications
+// summary: Implements relaunch notifications on desktop by showing the recommended bubble or required dialog in the last active tabbed browser window.
+// ---
+
 #include "chrome/browser/ui/views/relaunch_notification/relaunch_notification_controller_platform_impl_desktop.h"
 
 #include "base/check.h"

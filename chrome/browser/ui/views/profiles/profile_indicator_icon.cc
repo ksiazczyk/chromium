@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile indicator icon implementation
+// summary: Implements a view that draws a resized profile avatar icon for teleported windows in the ChromeOS title bar.
+// ---
+
 #include "chrome/browser/ui/views/profiles/profile_indicator_icon.h"
 
 #include "chrome/browser/profiles/profile_avatar_icon_util.h"

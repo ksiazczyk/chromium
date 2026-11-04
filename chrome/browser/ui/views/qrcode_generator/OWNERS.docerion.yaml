@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the QR code generator views
+summary: Delegates ownership to the send_tab_to_self OWNERS file because the feature will be unified into a sharing hub in a future release.

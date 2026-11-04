@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save to Drive account chooser utility constants and account row builder
+// summary: Defines UI size constants for the account chooser dialog and a helper that builds a single account row view.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SAVE_TO_DRIVE_ACCOUNT_CHOOSER_UTIL_H_
 #define CHROME_BROWSER_UI_VIEWS_SAVE_TO_DRIVE_ACCOUNT_CHOOSER_UTIL_H_
 

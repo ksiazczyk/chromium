@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device signals disclaimer test utilities implementation
+// summary: Implements helpers that wait for and click buttons and links in the managed user profile notice WebUI, with selector sets for legacy and refreshed UI.
+// ---
+
 #include "chrome/browser/ui/views/profiles/device_signals_disclaimer_test_utils.h"
 
 #include <string>

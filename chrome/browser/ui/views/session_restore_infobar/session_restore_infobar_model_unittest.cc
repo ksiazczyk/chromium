@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session restore infobar model unit tests
+// summary: Unit tests verifying the model's message value mapping, default preference detection, and behavior with a testing profile.
+// ---
+
 #include "chrome/browser/ui/views/session_restore_infobar/session_restore_infobar_model.h"
 
 #include <memory>

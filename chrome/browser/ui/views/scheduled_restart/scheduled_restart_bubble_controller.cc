@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scheduled restart bubble controller implementation
+// summary: Implements the controller that decides when to show the scheduled restart reminder bubble on new tab page creation and from the app menu.
+// ---
+
 #include "chrome/browser/ui/views/scheduled_restart/scheduled_restart_bubble_controller.h"
 
 #include <utility>

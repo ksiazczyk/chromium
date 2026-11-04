@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profiles pixel test utilities
+// summary: Provides shared helpers for profile pixel tests, such as filling account info, signing in test accounts and waiting for cr-lottie animations.
+// ---
+
 #include "chrome/browser/ui/views/profiles/profiles_pixel_test_utils.h"
 
 #include <memory>

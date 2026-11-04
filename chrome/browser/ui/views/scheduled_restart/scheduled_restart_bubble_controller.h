@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scheduled restart bubble controller header
+// summary: Declares the controller class managing presentation of the scheduled restart reminder bubble, including nudge eligibility and app menu invocation.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SCHEDULED_RESTART_SCHEDULED_RESTART_BUBBLE_CONTROLLER_H_
 #define CHROME_BROWSER_UI_VIEWS_SCHEDULED_RESTART_SCHEDULED_RESTART_BUBBLE_CONTROLLER_H_
 

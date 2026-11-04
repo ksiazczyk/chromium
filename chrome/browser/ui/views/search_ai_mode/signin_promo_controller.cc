@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search AI Mode sign-in promo controller implementation
+// summary: Implements controllers that check eligibility for and present the Search AI Mode and Composebox Drive sign-in promo bubbles.
+// ---
+
 #include "chrome/browser/ui/views/search_ai_mode/signin_promo_controller.h"
 
 #include <memory>

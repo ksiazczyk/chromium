@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile menu view header
+// summary: Declares ProfileMenuView, the bubble view displayed when the user clicks the avatar button to switch profiles and access account actions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PROFILES_PROFILE_MENU_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_PROFILES_PROFILE_MENU_VIEW_H_
 

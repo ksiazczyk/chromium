@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile picker UI browser tests
+// summary: Browser and pixel tests for the profile picker WebUI, covering first run, multiple profiles, supervised users, enterprise badging, signin errors and refreshed UI variants.
+// ---
+
 #include "chrome/browser/ui/webui/signin/profile_picker_ui.h"
 
 #include <array>

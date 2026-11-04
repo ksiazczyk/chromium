@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile indicator icon header
+// summary: Declares a view that shows a profile avatar for teleported windows in CrOS, resizing icons to fit the frame.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PROFILES_PROFILE_INDICATOR_ICON_H_
 #define CHROME_BROWSER_UI_VIEWS_PROFILES_PROFILE_INDICATOR_ICON_H_
 

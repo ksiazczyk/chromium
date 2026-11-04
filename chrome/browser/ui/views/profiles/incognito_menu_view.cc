@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incognito menu view implementation
+// summary: Implements the incognito profile menu bubble, showing the incognito title and a button that closes all incognito browser windows.
+// ---
+
 #include "chrome/browser/ui/views/profiles/incognito_menu_view.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account chooser controller implementation
+// summary: Implements the controller that shows the account chooser or add-account dialog flow when saving to Drive.
+// ---
+
 #include "chrome/browser/ui/views/save_to_drive/account_chooser_controller.h"
 
 #include "chrome/browser/signin/signin_promo.h"

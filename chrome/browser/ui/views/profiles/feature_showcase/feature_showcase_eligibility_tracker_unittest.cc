@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Feature Showcase eligibility tracker unit tests
+// summary: Tests tracker behavior for filtering, priority ordering, conflicts, timeouts, and step caps using mock checkers.
+// ---
+
 #include "chrome/browser/ui/views/profiles/feature_showcase/feature_showcase_eligibility_tracker.h"
 
 #include <memory>

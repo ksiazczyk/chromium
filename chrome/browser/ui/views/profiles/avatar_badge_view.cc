@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Avatar badge view implementation
+// summary: Implements the custom-painted profile avatar badge view, drawing its pill background, wave pattern, inner shadow and text label.
+// ---
+
 #include "chrome/browser/ui/views/profiles/avatar_badge_view.h"
 
 #include <algorithm>

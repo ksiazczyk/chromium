@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: iOS promo bubble interactive UI tests
+// summary: Parameterized interactive browser tests covering the desktop-to-iOS promo bubbles across promo and bubble types with feature flags enabled.
+// ---
+
 #include "chrome/browser/ui/views/promos/ios_promo_bubble.h"
 
 #include <tuple>

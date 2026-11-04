@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Managed user profile notice UI browser tests
+// summary: Runs pixel and UI browser tests for the managed user profile notice screen across old, refreshed and revamped versions.
+// ---
+
 #include <optional>
 
 #include "base/functional/callback_helpers.h"

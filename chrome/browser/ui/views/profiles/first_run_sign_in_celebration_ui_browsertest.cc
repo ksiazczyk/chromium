@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: First run sign-in celebration UI pixel tests
+// summary: Pixel browser tests for the first-run sign-in celebration screen, verifying rendering in light, dark, and right-to-left themes.
+// ---
+
 #include "base/check.h"
 #include "base/check_deref.h"
 #include "base/functional/callback_helpers.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile picker Glic flow controller header
+// summary: Declares ProfilePickerGlicFlowController, a flow controller running the Glic version of the profile picker and reporting the picked profile via callback.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PROFILES_PROFILE_PICKER_GLIC_FLOW_CONTROLLER_H_
 #define CHROME_BROWSER_UI_VIEWS_PROFILES_PROFILE_PICKER_GLIC_FLOW_CONTROLLER_H_
 

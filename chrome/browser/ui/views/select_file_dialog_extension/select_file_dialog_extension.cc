@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SelectFileDialogExtension implementation
+// summary: Implements the ChromeOS select file dialog that shows the Files app as a picker, resolving parent window and profile and reporting selection results.
+// ---
+
 #include "chrome/browser/ui/views/select_file_dialog_extension/select_file_dialog_extension.h"
 
 #include <memory>

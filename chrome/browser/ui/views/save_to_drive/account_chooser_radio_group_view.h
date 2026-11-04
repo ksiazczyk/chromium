@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account chooser radio group view header
+// summary: Declares the multi-account radio group view, its radio button row class and the radio button delegate interface.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SAVE_TO_DRIVE_ACCOUNT_CHOOSER_RADIO_GROUP_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_SAVE_TO_DRIVE_ACCOUNT_CHOOSER_RADIO_GROUP_VIEW_H_
 

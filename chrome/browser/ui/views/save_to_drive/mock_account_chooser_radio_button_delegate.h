@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock account chooser radio button delegate declaration
+// summary: Declares a gmock mock of the account chooser radio button delegate for tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SAVE_TO_DRIVE_MOCK_ACCOUNT_CHOOSER_RADIO_BUTTON_DELEGATE_H_
 #define CHROME_BROWSER_UI_VIEWS_SAVE_TO_DRIVE_MOCK_ACCOUNT_CHOOSER_RADIO_BUTTON_DELEGATE_H_
 

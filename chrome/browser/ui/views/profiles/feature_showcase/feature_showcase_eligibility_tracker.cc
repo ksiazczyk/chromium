@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature Showcase eligibility tracker implementation
+// summary: Runs step checkers with a timeout, resolves conflicting steps, and caps the number of eligible showcase steps.
+// ---
+
 #include "chrome/browser/ui/views/profiles/feature_showcase/feature_showcase_eligibility_tracker.h"
 
 #include "base/containers/flat_map.h"

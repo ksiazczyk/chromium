@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Relaunch required timer internal helpers declaration
+// summary: Declares ComputeDeadlineDelta and ComputeNextRefreshDelta helpers used to format and schedule relaunch notification title updates.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_RELAUNCH_NOTIFICATION_RELAUNCH_REQUIRED_TIMER_INTERNAL_H_
 #define CHROME_BROWSER_UI_VIEWS_RELAUNCH_NOTIFICATION_RELAUNCH_REQUIRED_TIMER_INTERNAL_H_
 

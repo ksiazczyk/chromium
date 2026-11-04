@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile menu coordinator implementation
+// summary: Implements the coordinator that manages the lifetime and showing of the profile menu bubble, including avatar promo and batch upload promo handling.
+// ---
+
 #include "chrome/browser/ui/views/profiles/profile_menu_coordinator.h"
 
 #include "base/check_deref.h"

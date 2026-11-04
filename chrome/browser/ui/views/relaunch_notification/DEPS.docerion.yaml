@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Ash dependencies
+summary: Grants specific controller and unit test files permission to include Ash shell and Ash test helper headers used by the Chrome OS implementation.

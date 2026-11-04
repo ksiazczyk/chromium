@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile picker interactive UI test helper implementation
+// summary: Implements keyboard accelerator helpers used by profile picker interactive UI tests, mapping commands to platform-specific key presses.
+// ---
+
 #include "chrome/browser/ui/views/profiles/profile_picker_interactive_uitest_base.h"
 
 #include "base/notreached.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password manager feature showcase eligibility checker unit tests
+// summary: Unit tests covering password manager showcase eligibility when the feature is enabled, the toolbar action is pinned, and sync is initializing or signed out.
+// ---
+
 #include "chrome/browser/ui/views/profiles/feature_showcase/password_manager_feature_showcase_eligibility_checker.h"
 
 #include "base/test/test_future.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the QR code generator views
+summary: Defines the qrcode_generator source set and its unit test target, listing public headers, sources, and Chromium dependencies for the views-based QR code UI.

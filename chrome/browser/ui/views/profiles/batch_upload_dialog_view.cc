@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Batch upload dialog view implementation
+// summary: Implements the modal dialog hosting the batch upload web UI, handling selection callbacks and recording sync data type availability and selection metrics.
+// ---
+
 #include "chrome/browser/ui/views/profiles/batch_upload_dialog_view.h"
 
 #include "base/memory/ptr_util.h"

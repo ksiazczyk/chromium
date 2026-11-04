@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Send tab to self promo bubble view unit tests
+// summary: Unit tests for the send-tab-to-self sign-in promo bubble view, using a stub bubble controller and identity test environment to verify promo behavior.
+// ---
+
 #include "chrome/browser/ui/views/send_tab_to_self/send_tab_to_self_promo_bubble_view.h"
 
 #include <memory>

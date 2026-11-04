@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Send tab to self views build targets
+summary: Defines the GN source_set for the send tab to self bubble views plus a testonly target for its browser tests.

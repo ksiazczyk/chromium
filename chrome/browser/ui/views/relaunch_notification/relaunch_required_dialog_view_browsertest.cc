@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Relaunch required dialog view browser test
+// summary: Browser tests that show and verify the relaunch required dialog, including the Advanced Protection variant with a three-day relaunch deadline.
+// ---
+
 #include "chrome/browser/ui/views/relaunch_notification/relaunch_required_dialog_view.h"
 
 #include "base/functional/callback_helpers.h"

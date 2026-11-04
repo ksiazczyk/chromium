@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SendTabToSelfNoTargetDeviceBubbleView implementation
+// summary: Implements the bubble shown when a signed-in user has no other active devices, including the account avatar and email row.
+// ---
+
 #include "chrome/browser/ui/views/send_tab_to_self/send_tab_to_self_no_target_device_bubble_view.h"
 
 #include <memory>

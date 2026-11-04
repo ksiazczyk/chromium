@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session restore infobar manager implementation
+// summary: Implements the singleton manager that shows session restore infobars across windows and tabs and records UMA metrics.
+// ---
+
 #include "chrome/browser/ui/views/session_restore_infobar/session_restore_infobar_manager.h"
 
 #include <memory>

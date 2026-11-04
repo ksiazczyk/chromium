@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Themes and customization step eligibility checker unit tests
+// summary: Unit tests verifying the themes and customization step is eligible without a policy theme and ineligible when one is enforced.
+// ---
+
 #include "chrome/browser/ui/views/profiles/feature_showcase/themes_and_customization_step_eligibility_checker.h"
 
 #include "base/test/test_future.h"

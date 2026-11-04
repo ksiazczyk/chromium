@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile picker sign-in UI browser tests
+// summary: Parameterized browser and pixel tests for the profile picker sign-in UI across entry points, themes, and first-run features.
+// ---
+
 #include "base/command_line.h"
 #include "base/functional/callback_helpers.h"
 #include "base/strings/strcat.h"

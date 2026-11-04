@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile picker test helper implementation
+// summary: Implements helper methods for browser tests to access the profile picker view, widget, web contents, and sign-in URLs.
+// ---
+
 #include "chrome/browser/ui/views/profiles/profile_picker_test_base.h"
 
 #include "base/feature_list.h"

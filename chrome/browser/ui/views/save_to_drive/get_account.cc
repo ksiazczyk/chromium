@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save to Drive account chooser entry point
+// summary: Implements AccountChooser::GetAccount, launching the account chooser controller to pick an account for an upload.
+// ---
+
 #include "chrome/browser/ui/save_to_drive/get_account.h"
 
 #include "chrome/browser/profiles/profile.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tailored Security desktop dialog manager implementation
+// summary: Implements showing enabled and disabled Tailored Security dialogs with outcome histograms, user metrics, and settings navigation.
+// ---
+
 #include "chrome/browser/ui/views/safe_browsing/tailored_security_desktop_dialog_manager.h"
 
 #include <memory>

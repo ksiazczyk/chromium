@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile menu view implementation
+// summary: Implements the profile menu bubble shown from the avatar button, listing profiles and offering sign-in, sync, settings, and profile management actions.
+// ---
+
 #include "chrome/browser/ui/views/profiles/profile_menu_view.h"
 
 #include <algorithm>

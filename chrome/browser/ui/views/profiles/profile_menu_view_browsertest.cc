@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile menu browser tests
+// summary: Browser tests covering profile menu behavior across signin, sync, enterprise management and batch upload scenarios, including histogram verification.
+// ---
+
 #include "chrome/browser/ui/views/profiles/profile_menu_view.h"
 
 #include <stddef.h>

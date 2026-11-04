@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dice web signin interception bubble view implementation
+// summary: Implements the native bubble hosting the WebUI page shown during Dice web signin interception, including identity pill text, metrics, and dialog handling.
+// ---
+
 #include "chrome/browser/ui/views/profiles/dice_web_signin_interception_bubble_view.h"
 
 #include <memory>

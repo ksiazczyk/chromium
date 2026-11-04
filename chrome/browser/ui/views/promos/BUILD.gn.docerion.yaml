@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for iOS promo bubbles
+summary: GN build file defining source sets for the iOS promo constants, bubble implementation, and interactive UI tests, with their dependencies.

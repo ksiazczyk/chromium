@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session restore infobar interactive UI tests
+// summary: Interactive browser tests exercising the session restore infobar under different feature flag and parameter configurations.
+// ---
+
 #include <memory>
 
 #include "base/test/bind.h"

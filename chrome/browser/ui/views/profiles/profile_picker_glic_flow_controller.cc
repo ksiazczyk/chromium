@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile picker Glic flow controller implementation
+// summary: Implements the Glic variant of the profile picker flow, loading the picked profile and returning it once its refresh tokens are available.
+// ---
+
 #include "chrome/browser/ui/views/profiles/profile_picker_glic_flow_controller.h"
 
 #include "base/functional/bind.h"

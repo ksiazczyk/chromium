@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Badged profile photo view implementation
+// summary: Implements the badged profile photo view for the profile chooser card, clipping the photo and drawing supervisor, child, and sync state badge icons.
+// ---
+
 #include "chrome/browser/ui/views/profiles/badged_profile_photo.h"
 
 #include "chrome/app/vector_icons/vector_icons.h"

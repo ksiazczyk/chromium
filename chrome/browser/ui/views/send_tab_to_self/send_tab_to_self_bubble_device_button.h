@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SendTabToSelfBubbleDeviceButton header
+// summary: Declares a hover button that represents a target device in the send-tab-to-self device picker bubble, with selection state and styling.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_SEND_TAB_TO_SELF_SEND_TAB_TO_SELF_BUBBLE_DEVICE_BUTTON_H_
 #define CHROME_BROWSER_UI_VIEWS_SEND_TAB_TO_SELF_SEND_TAB_TO_SELF_BUBBLE_DEVICE_BUTTON_H_
 

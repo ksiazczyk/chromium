@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Send tab to self directory metadata
+summary: Points the directory to the shared component metadata in components/send_tab_to_self.

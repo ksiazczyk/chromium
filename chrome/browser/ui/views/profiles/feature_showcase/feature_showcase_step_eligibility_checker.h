@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature Showcase step eligibility checker interface
+// summary: Declares the abstract base class that evaluates whether a showcase step should be shown, provides a step identifier for the WebUI and handles timeout behavior.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_PROFILES_FEATURE_SHOWCASE_FEATURE_SHOWCASE_STEP_ELIGIBILITY_CHECKER_H_
 #define CHROME_BROWSER_UI_VIEWS_PROFILES_FEATURE_SHOWCASE_FEATURE_SHOWCASE_STEP_ELIGIBILITY_CHECKER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scheduled restart HaTS browser test
+// summary: Browser tests verifying that the scheduled restart HaTS survey is launched with the right trigger, delay and metadata, using a mock HaTS service and the restart bubble UI.
+// ---
+
 #include "chrome/browser/ui/views/scheduled_restart/scheduled_restart_hats.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save recording bubble view implementation
+// summary: Implements the bubble for saving a recording, with a name textfield prefilled from the site domain and date plus Save and Cancel handling.
+// ---
+
 #include "chrome/browser/ui/views/record_replay/save_recording_bubble_view.h"
 
 #include "base/i18n/icubridge/date_time_formatter.h"

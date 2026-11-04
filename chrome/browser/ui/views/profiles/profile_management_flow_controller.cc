@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile management flow controller implementation
+// summary: Implements step switching and histogram tracking for profile management flows such as signin, first run and reauth.
+// ---
+
 #include "chrome/browser/ui/views/profiles/profile_management_flow_controller.h"
 
 #include "base/check_is_test.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Safe Browsing views build targets
+summary: Defines the safe_browsing source_set and testonly browser_tests target, listing public headers, sources, and dependencies.

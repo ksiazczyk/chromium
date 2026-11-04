@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SendTabToSelfDevicePickerBubbleView unit tests
+// summary: Unit tests for the device picker bubble using a mock controller, covering device buttons, selection state and accessibility attributes.
+// ---
+
 #include "chrome/browser/ui/views/send_tab_to_self/send_tab_to_self_device_picker_bubble_view.h"
 
 #include <memory>

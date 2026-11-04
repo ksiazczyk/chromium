@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Account chooser test utilities
+// summary: Provides helpers to create test accounts and verify that account chooser rows show the expected avatar, name and email.
+// ---
+
 #include "chrome/browser/ui/views/save_to_drive/account_chooser_test_util.h"
 
 #include "base/strings/strcat.h"

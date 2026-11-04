@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send tab to self bubble entry point
+// summary: Provides a thin ShowBubble wrapper that delegates to the per-tab SendTabToSelfBubbleController.
+// ---
+
 #include "chrome/browser/ui/send_tab_to_self/send_tab_to_self_bubble.h"
 
 #include "chrome/browser/ui/views/send_tab_to_self/send_tab_to_self_bubble_controller.h"

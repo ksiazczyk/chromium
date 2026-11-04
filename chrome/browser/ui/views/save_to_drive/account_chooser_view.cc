@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save to Drive account chooser dialog view implementation
+// summary: Implements the account chooser dialog view with header, scrollable account list, and footer buttons for Save to Drive.
+// ---
+
 #include "chrome/browser/ui/views/save_to_drive/account_chooser_view.h"
 
 #include "base/strings/strcat.h"

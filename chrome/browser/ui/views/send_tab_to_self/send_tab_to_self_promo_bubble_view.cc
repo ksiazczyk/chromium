@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SendTabToSelfSignInPromoBubbleView implementation
+// summary: Implements the sign-in promo bubble that resumes the send-tab-to-self flow after sign-in or reauthentication, with an illustration header.
+// ---
+
 #include "chrome/browser/ui/views/send_tab_to_self/send_tab_to_self_promo_bubble_view.h"
 
 #include <memory>
