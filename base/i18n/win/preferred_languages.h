@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preferred languages header for Windows
+// summary: Declares base::i18n functions that return the user-preferred and thread-preferred UI language lists as LanguageTag vectors on Windows.
+// ---
+
 #ifndef BASE_I18N_WIN_PREFERRED_LANGUAGES_H_
 #define BASE_I18N_WIN_PREFERRED_LANGUAGES_H_
 

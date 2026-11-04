@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JSONReader unit tests
+// summary: Unit tests for base::JSONReader covering parsing of whitespace, comments, booleans, strings, lists, and error handling for invalid JSON input.
+// ---
+
 #include "base/json/json_reader.h"
 
 #include <stddef.h>

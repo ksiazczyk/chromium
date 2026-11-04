@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login framework SPI wrappers implementation
+// summary: Dynamically loads the private login.framework and wraps its screen lock and login window switching functions.
+// ---
+
 #include "base/mac/login_util.h"
 
 #include <dlfcn.h>

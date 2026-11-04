@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CRBProtocolObservers class interface
+// summary: Declares an Objective-C container that forwards method invocations to registered observers conforming to a given protocol.
+// ---
+
 #ifndef BASE_IOS_CRB_PROTOCOL_OBSERVERS_H_
 #define BASE_IOS_CRB_PROTOCOL_OBSERVERS_H_
 

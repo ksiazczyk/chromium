@@ -34,6 +34,12 @@
 // is resolved from libsyscall. By linking with this version of close prior to
 // the libsyscall version, close's implementation is overridden.
 
+// ---docerion
+// type: source
+// title: EINTR-safe close override for macOS
+// summary: Overrides close() with the close$NOCANCEL variant so a failed close cannot leave the file descriptor in an ambiguous state.
+// ---
+
 #include <sys/cdefs.h>
 #include <unistd.h>
 

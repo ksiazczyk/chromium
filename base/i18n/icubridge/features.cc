@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ICU4X normalizer feature flag definition
+// summary: Defines the kUseIcu4xNormalizer base feature that switches Unicode normalization to the ICU4X backend, disabled by default.
+// ---
+
 #include "base/i18n/icubridge/features.h"
 
 namespace base::i18n {

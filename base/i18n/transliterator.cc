@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transliterator implementation
+// summary: Implements transliterators using either Rust ICU4X or ICU C++ depending on build flags, creating them from an ID or from rules.
+// ---
+
 #include "base/i18n/transliterator.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Legacy language tag helper
+// summary: Inline helper that returns the language subtag of a locale string by parsing it as a LanguageTag, returning an empty string on failure.
+// ---
+
 #ifndef BASE_I18N_LEGACY_LANGUAGE_TAG_HELPERS_H_
 #define BASE_I18N_LEGACY_LANGUAGE_TAG_HELPERS_H_
 

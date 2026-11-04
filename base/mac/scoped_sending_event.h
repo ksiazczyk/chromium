@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedSendingEvent and CrAppControl protocol
+// summary: Declares the CrAppControlProtocol and ScopedSendingEvent, which defer script-initiated tab closes during nested event loops by tracking event handling state.
+// ---
+
 #ifndef BASE_MAC_SCOPED_SENDING_EVENT_H_
 #define BASE_MAC_SCOPED_SENDING_EVENT_H_
 

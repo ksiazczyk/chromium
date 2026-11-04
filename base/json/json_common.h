@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JSON parser depth guard helpers
+// summary: Defines the maximum JSON nesting depth constant and a StackMarker helper that tracks and limits recursion depth during parsing.
+// ---
+
 #ifndef BASE_JSON_JSON_COMMON_H_
 #define BASE_JSON_JSON_COMMON_H_
 

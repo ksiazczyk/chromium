@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BASE_I18N_EXPORT macro definition
+// summary: Defines the BASE_I18N_EXPORT macro for dllexport, dllimport, or default visibility depending on component build and platform.
+// ---
+
 #ifndef BASE_I18N_BASE_I18N_EXPORT_H_
 #define BASE_I18N_BASE_I18N_EXPORT_H_
 

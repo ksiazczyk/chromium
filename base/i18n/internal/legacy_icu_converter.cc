@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Legacy ICU to BCP47 conversion implementation
+// summary: Implements conversion between legacy ICU locale identifiers and BCP47 tags using fixed mappings of Unicode extension keys and values per Unicode TR35.
+// ---
+
 #include "base/i18n/internal/legacy_icu_converter.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for base/i18n
+summary: Defines GN targets for the i18n module, including the language_tag component, timezone and test_support source sets, and Windows-specific win_i18n.

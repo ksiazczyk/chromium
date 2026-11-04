@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for Android locale helpers
+// summary: Unit tests that verify GetAndroidDefaultLocale and country code behavior, including fallbacks for empty, invalid, or ill-formed Java locales via a scoped default locale helper.
+// ---
+
 #include "base/i18n/android_locale.h"
 
 #include <string>

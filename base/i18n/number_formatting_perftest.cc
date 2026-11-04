@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Number formatting performance tests
+// summary: Benchmarks number, double and percent formatting, including a concurrent scenario contending on ICU formatter resources.
+// ---
+
 #include "base/i18n/number_formatting.h"
 
 #include <stdint.h>

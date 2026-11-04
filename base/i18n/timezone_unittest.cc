@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Time zone unit tests
+// summary: Unit tests for the TimeZone wrapper covering default, GMT, unknown, and host zones, copy and move behavior, display names, and offsets.
+// ---
+
 #include "base/i18n/timezone.h"
 
 #include <memory>

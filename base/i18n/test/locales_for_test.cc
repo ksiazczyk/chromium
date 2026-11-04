@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Locales list for i18n tests
+// summary: Implements GetLocalesForTest, which converts a hard-coded list of locale strings into LanguageTag objects for use in tests.
+// ---
+
 #include "base/i18n/test/locales_for_test.h"
 
 #include <vector>

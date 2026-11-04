@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Value conversion helpers header
+// summary: Declares helper functions for converting between base::Value and int64_t, TimeDelta, Time, FilePath, and UnguessableToken, accepting nullptr to return nullopt.
+// ---
+
 #ifndef BASE_JSON_VALUES_UTIL_H_
 #define BASE_JSON_VALUES_UTIL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of mac_util.mm.
+type: source
+title: 'mac_util.mm: macOS utility implementations'
+summary: Implements the macOS utility functions from mac_util.h, including login item handling via LSSharedFileList and OS version detection.

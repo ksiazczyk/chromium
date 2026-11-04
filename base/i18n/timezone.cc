@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Time zone wrapper implementation
+// summary: Implements the base::i18n::TimeZone value wrapper around icu::TimeZone, covering IDs, regions, display names, offsets, and daylight saving queries.
+// ---
+
 #include "base/i18n/timezone.h"
 
 #include <memory>

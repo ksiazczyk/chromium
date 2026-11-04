@@ -1,0 +1,4 @@
+# Docerion header of launch_application.mm.
+type: source
+title: Application launching implementation
+summary: Launches applications via NSWorkspace with options for activation, new instances, and hidden background launches, logging results to histograms.

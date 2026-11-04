@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ICU file utilities header
+// summary: Declares helpers to check and fix illegal filename characters, compare filenames by locale, and normalize filename encoding on Chrome OS.
+// ---
+
 #ifndef BASE_I18N_FILE_UTIL_ICU_H_
 #define BASE_I18N_FILE_UTIL_ICU_H_
 

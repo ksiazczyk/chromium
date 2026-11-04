@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS code signature validation API
+// summary: Declares functions to verify process code signatures against requirements and to create requirement and code objects.
+// ---
+
 #ifndef BASE_MAC_CODE_SIGNATURE_H_
 #define BASE_MAC_CODE_SIGNATURE_H_
 

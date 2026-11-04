@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Legacy ICU locale code converter API
+// summary: Header declaring functions that convert legacy ICU locale codes to BCP47 language tags and translate BCP47 Unicode extension keywords back to legacy form.
+// ---
+
 #ifndef BASE_I18N_INTERNAL_LEGACY_ICU_CONVERTER_H_
 #define BASE_I18N_INTERNAL_LEGACY_ICU_CONVERTER_H_
 

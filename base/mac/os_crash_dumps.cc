@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'os_crash_dumps.cc: disable Apple Crash Reporter'
+// summary: Installs signal handlers that exit immediately on fatal signals so the Apple Crash Reporter does not delay process termination on macOS.
+// ---
+
 #include "base/mac/os_crash_dumps.h"
 
 #include <signal.h>

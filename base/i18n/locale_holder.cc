@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Locale holder implementations
+// summary: Implements ThreadSafeLocaleHolder and SequenceCheckedLocaleHolder for storing and updating a LanguageTag locale under a lock or sequence check.
+// ---
+
 #include "base/i18n/locale_holder.h"
 
 #include "base/i18n/language_tag.h"

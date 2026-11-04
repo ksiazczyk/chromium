@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Supported ICU locales unit tests
+// summary: Unit tests verifying that the supported ICU locale set is non-empty, contains common locales such as en and fr, and excludes defined language tags with platform-specific exceptions.
+// ---
+
 #include "base/i18n/icubridge/supported_locales.h"
 
 #include <optional>

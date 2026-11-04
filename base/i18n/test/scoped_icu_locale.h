@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for the scoped default ICU locale helper
+// summary: Declares ScopedDefaultIcuLocale, a test helper that temporarily overrides the global default ICU locale and restores it afterwards.
+// ---
+
 #ifndef BASE_I18N_TEST_SCOPED_ICU_LOCALE_H_
 #define BASE_I18N_TEST_SCOPED_ICU_LOCALE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rust API for emitting log messages through base logging
+// summary: Defines print_rust_log and a typed LogSeverity, bridging Rust formatted arguments to the C++ LogMessage via FFI.
+// ---
+
 chromium::import! {
     "//base/logging:log_severity_bindgen" as log_severity_bindgen;
 }

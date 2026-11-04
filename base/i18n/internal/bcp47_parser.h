@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compile-time BCP47 language tag parser
+// summary: Header implementing a constexpr parser that splits BCP47 tags into language, script, region, variants, extensions, and private-use subtags for internal base/i18n use.
+// ---
+
 // This is a compile-time parser for the BCP47 standard [RFC 5646]:
 // https://www.rfc-editor.org/info/rfc5646/
 //

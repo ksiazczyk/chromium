@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Normalizer implementations for ICU4X and ICU4C
+// summary: Implements Unicode normalization backends using ICU4X and ICU4C, including Android-specific crash diagnostics for normalization failures.
+// ---
+
 #include "base/i18n/icubridge/normalizer.h"
 
 #include <memory>

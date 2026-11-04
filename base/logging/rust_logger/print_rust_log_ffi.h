@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: C++ header for the Rust logging FFI
+// summary: Declares print_rust_log and LogMessageRustWrapper used to route Rust log output into base logging.
+// ---
+
 #ifndef BASE_LOGGING_RUST_LOGGER_PRINT_RUST_LOG_FFI_H_
 #define BASE_LOGGING_RUST_LOGGER_PRINT_RUST_LOG_FFI_H_
 

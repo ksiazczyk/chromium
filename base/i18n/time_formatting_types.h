@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Time formatting enum types
+// summary: Defines enums for hour clock type, AM/PM inclusion, and duration format widths shared by the time formatting API.
+// ---
+
 #ifndef BASE_I18N_TIME_FORMATTING_TYPES_H_
 #define BASE_I18N_TIME_FORMATTING_TYPES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JSONWriter implementation
+// summary: Implements JSONWriter, serializing base::Value trees to JSON strings with options for pretty printing, omitting binary values, and double type preservation.
+// ---
+
 #include "base/json/json_writer.h"
 
 #include <stdint.h>

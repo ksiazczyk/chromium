@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Case conversion unit tests
+// summary: Unit tests for case conversion, including non-ASCII text, Turkish locale-specific I handling, and case folding behavior.
+// ---
+
 #include "base/i18n/case_conversion.h"
 
 #include "base/i18n/language_tag.h"

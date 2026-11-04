@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for base/i18n internal
+summary: GN build file defining the internal i18n component, code-generation actions for BCP47 subtag lists, the canonical language tags target, and the unit test target.

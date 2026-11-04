@@ -26,6 +26,12 @@
 // This code uses type uint8_t throughout to represent bytes, to avoid
 // signed/unsigned char confusion.
 
+// ---docerion
+// type: source
+// title: UTF-8 validator table generator
+// summary: Build-time generator tool that computes a UTF-8 validation state machine and emits it as a checked-in C++ table file.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 #include <stdio.h>

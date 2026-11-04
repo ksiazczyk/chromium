@@ -4,6 +4,12 @@
 
 // This file defines utility functions for escaping strings suitable for JSON.
 
+// ---docerion
+// type: source
+// title: JSON string escaping utilities header
+// summary: Declares base::EscapeJSONString, GetQuotedJSONString, and EscapeBytesAsInvalidJSONString for producing JSON-escaped strings from UTF-8, UTF-16, and raw byte inputs.
+// ---
+
 #ifndef BASE_JSON_STRING_ESCAPE_H_
 #define BASE_JSON_STRING_ESCAPE_H_
 

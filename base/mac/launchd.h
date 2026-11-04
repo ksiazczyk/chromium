@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: launchd job messaging interface
+// summary: Declares helpers that message launchd and return process IDs for jobs, with separate handling for unloaded jobs.
+// ---
+
 #ifndef BASE_MAC_LAUNCHD_H_
 #define BASE_MAC_LAUNCHD_H_
 

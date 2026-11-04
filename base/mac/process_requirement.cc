@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'process_requirement.cc: code signing requirement validation'
+// summary: Implements validation of peer process code signatures against requirements covering identifiers, team IDs, and certificate types.
+// ---
+
 #include "base/mac/process_requirement.h"
 
 #include <Kernel/kern/cs_blobs.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ICU file utilities
+// summary: Unit tests verifying illegal character replacement in filenames across Linux, Mac and Windows, including 8.3 short-name and CVE-2014-9390 cases.
+// ---
+
 #include "base/i18n/file_util_icu.h"
 
 #include <stddef.h>

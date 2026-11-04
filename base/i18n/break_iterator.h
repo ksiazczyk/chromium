@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BreakIterator class declaration
+// summary: Declares BreakIterator, which iterates words, line breaks, newlines, and sentence boundaries in UTF-16 strings using ICU text segmentation.
+// ---
+
 #ifndef BASE_I18N_BREAK_ITERATOR_H_
 #define BASE_I18N_BREAK_ITERATOR_H_
 

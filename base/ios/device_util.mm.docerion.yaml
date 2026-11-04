@@ -1,0 +1,4 @@
+# Docerion header of device_util.mm.
+type: source
+title: iOS device utility implementation
+summary: Implements device utilities using sysctl, network interfaces and UIKit, including client ID generation and migration in user preferences.

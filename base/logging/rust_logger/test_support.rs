@@ -5,6 +5,12 @@
 //! Helpers that tests authored in C++ can use for initiating `log::info!`,
 //! `panic!`, etc.  ! on the Rust side.
 
+// ---docerion
+// type: test
+// title: Rust logging helpers for C++ tests
+// summary: Exposes FFI functions that let C++ tests trigger Rust log macros, panics, and log-enabled checks.
+// ---
+
 #[cxx::bridge(namespace = "base::test")]
 mod ffi {
     extern "Rust" {

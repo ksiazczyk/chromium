@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UTF-8 and UTF-16 character iterators
+// summary: Declares UTF8CharIterator and UTF16CharIterator classes that iterate over characters in UTF-8 and UTF-16 strings, including surrogate-pair aware bound helpers.
+// ---
+
 #ifndef BASE_I18N_CHAR_ITERATOR_H_
 #define BASE_I18N_CHAR_ITERATOR_H_
 

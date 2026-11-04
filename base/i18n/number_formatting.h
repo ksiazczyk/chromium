@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Number formatting API header
+// summary: Declares base functions for formatting numbers, doubles and percentages according to the user's locale.
+// ---
+
 #ifndef BASE_I18N_NUMBER_FORMATTING_H_
 #define BASE_I18N_NUMBER_FORMATTING_H_
 

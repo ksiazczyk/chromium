@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BCP47 extensions unit tests
+// summary: Unit tests for the BCP47 extension classes, covering generic extensions, private-use subtags, and Unicode extension attributes and keywords.
+// ---
+
 #include "base/i18n/bcp47_extensions.h"
 
 #include <string_view>

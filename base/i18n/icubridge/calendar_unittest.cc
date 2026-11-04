@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for calendar week information
+// summary: Verifies GetWeekInformation returns locale-correct first weekday and weekend days for en-US, en-GB, and ar-SA using scoped ICU locale overrides.
+// ---
+
 #include "base/i18n/icubridge/calendar.h"
 
 #include "base/i18n/icu_util.h"

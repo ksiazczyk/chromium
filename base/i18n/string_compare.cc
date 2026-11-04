@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: String comparison with ICU collator
+// summary: Implements CompareString16WithCollator, which compares two UTF-16 strings using a caller-supplied ICU collator instance.
+// ---
+
 #include "base/i18n/string_compare.h"
 
 #include <string_view>

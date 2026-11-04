@@ -1,0 +1,4 @@
+# Docerion header of create_string_rc.py.
+type: script
+title: Embedded i18n string resource generator
+summary: Generates .h and .rc files with localized strings extracted from .grd files and their .xtb translations, supporting brand- and mode-specific string sets for embedding in builds.

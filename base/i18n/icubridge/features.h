@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ICU4X normalizer feature flag declaration
+// summary: Declares the kUseIcu4xNormalizer feature used to enable the ICU4X-based normalizer in the icubridge.
+// ---
+
 #ifndef BASE_I18N_ICUBRIDGE_FEATURES_H_
 #define BASE_I18N_ICUBRIDGE_FEATURES_H_
 

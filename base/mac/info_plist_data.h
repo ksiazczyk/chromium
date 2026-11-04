@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Outer bundle Info.plist data
+// summary: Declares a function returning the outer bundle's cached Info.plist data, intended for dynamic-only code signature validation.
+// ---
+
 #ifndef BASE_MAC_INFO_PLIST_DATA_H_
 #define BASE_MAC_INFO_PLIST_DATA_H_
 

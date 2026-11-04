@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for base/mac
+summary: Defines the launch_application_test_helper executable target with its macOS frameworks and build configuration.

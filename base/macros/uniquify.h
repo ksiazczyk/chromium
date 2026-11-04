@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BASE_UNIQUIFY macro for unique token names
+// summary: Header defining the BASE_UNIQUIFY macro, which appends the current line number to a name to create unique identifiers for temporaries inside other macros.
+// ---
+
 #ifndef BASE_MACROS_UNIQUIFY_H_
 #define BASE_MACROS_UNIQUIFY_H_
 

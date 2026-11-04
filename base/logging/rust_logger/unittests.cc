@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Rust logging integration
+// summary: GTest suite verifying that Rust log macros map to the expected Chromium severities and honor dynamic log level changes.
+// ---
+
 #include <string>
 
 #include "base/logging.h"

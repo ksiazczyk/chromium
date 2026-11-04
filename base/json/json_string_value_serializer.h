@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JSON string value serializer declarations
+// summary: Declares JSONStringValueSerializer and JSONStringValueDeserializer, adapters that convert base::Value to and from JSON strings for code using the ValueSerializer interfaces.
+// ---
+
 #ifndef BASE_JSON_JSON_STRING_VALUE_SERIALIZER_H_
 #define BASE_JSON_JSON_STRING_VALUE_SERIALIZER_H_
 

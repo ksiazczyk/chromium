@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS system utility declarations
+// summary: Declares helpers for iOS version checks, forced RTL detection, embedded ICU file paths, multi-scene support and app pre-warming.
+// ---
+
 #ifndef BASE_IOS_IOS_UTIL_H_
 #define BASE_IOS_IOS_UTIL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of pasteboard_changed_observation.mm.
+type: source
+title: 'pasteboard_changed_observation.mm: pasteboard notification implementation'
+summary: Implements pasteboard change notifications by swizzling the private _CFPasteboardCache change count setter, since macOS offers no notification API.

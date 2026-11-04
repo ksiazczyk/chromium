@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the TimeDelta Swift shim
+// summary: Declares the base::swift TimeDelta wrapper class used to expose base::TimeDelta functionality to Swift.
+// ---
+
 #ifndef BASE_IOS_SWIFT_SHIMS_TIME_H_
 #define BASE_IOS_SWIFT_SHIMS_TIME_H_
 

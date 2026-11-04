@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ICU utility header
+// summary: Declares functions for initializing ICU, pre-reading ICU data, loading data via file descriptor, and resetting global state for testing.
+// ---
+
 #ifndef BASE_I18N_ICU_UTIL_H_
 #define BASE_I18N_ICU_UTIL_H_
 

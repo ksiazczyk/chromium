@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'os_crash_dumps.h: disable Apple Crash Reporter API'
+// summary: Declares DisableOSCrashDumps, which disables the Apple Crash Reporter to avoid long crash handling delays on macOS.
+// ---
+
 #ifndef BASE_MAC_OS_CRASH_DUMPS_H_
 #define BASE_MAC_OS_CRASH_DUMPS_H_
 

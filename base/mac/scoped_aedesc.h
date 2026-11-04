@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedAEDesc smart pointer for AppleEvent descriptors
+// summary: Declares ScopedAEDesc, a template class that creates a null AppleEvent descriptor on construction and disposes of it on destruction.
+// ---
+
 #ifndef BASE_MAC_SCOPED_AEDESC_H_
 #define BASE_MAC_SCOPED_AEDESC_H_
 

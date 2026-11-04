@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS authorization utility declarations
+// summary: Declares helpers to create AuthorizationRefs, request rights with a prompt, and run privileged tools while tracking their PIDs.
+// ---
+
 #ifndef BASE_MAC_AUTHORIZATION_UTIL_H_
 #define BASE_MAC_AUTHORIZATION_UTIL_H_
 

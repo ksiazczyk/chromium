@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedIOPluginInterface smart pointer for IOKit plug-in interfaces
+// summary: Defines ScopedIOPluginInterface, a scoped type ref for IOCFPlugInInterface and related types that manages AddRef and Release calls.
+// ---
+
 #ifndef BASE_MAC_SCOPED_IOPLUGININTERFACE_H_
 #define BASE_MAC_SCOPED_IOPLUGININTERFACE_H_
 

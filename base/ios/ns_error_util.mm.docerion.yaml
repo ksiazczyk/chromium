@@ -1,0 +1,4 @@
+# Docerion header of ns_error_util.mm.
+type: source
+title: NSError underlying error chain utilities implementation
+summary: Implements traversal of NSError underlying error chains to retrieve the final error and to append a new underlying error.

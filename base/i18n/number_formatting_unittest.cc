@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Number formatting unit tests
+// summary: Unit tests verifying locale-aware number, double and percent formatting across locales such as English and German.
+// ---
+
 #include "base/i18n/number_formatting.h"
 
 #include <stddef.h>

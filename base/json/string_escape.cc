@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JSON string escaping implementation
+// summary: Implements functions that escape strings for JSON output, replacing invalid UTF-8 with U+FFFD and escaping control characters, quotes, and characters like <, U+2028, and U+2029.
+// ---
+
 #include "base/json/string_escape.h"
 
 #include <stddef.h>

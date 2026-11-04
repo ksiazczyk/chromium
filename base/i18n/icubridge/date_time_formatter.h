@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Date and time formatter options and interface
+// summary: Declares DateTimeFormatterOptions with length, format identifier, year style, time precision, and timezone style enums, plus the formatter interface and builder.
+// ---
+
 #ifndef BASE_I18N_ICUBRIDGE_DATE_TIME_FORMATTER_H_
 #define BASE_I18N_ICUBRIDGE_DATE_TIME_FORMATTER_H_
 

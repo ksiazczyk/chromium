@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IcuBridge singleton implementation
+// summary: Implements the IcuBridge singleton providing cached per-locale date-time formatters, a calendar, and a normalizer selectable between ICU4X and ICU4C.
+// ---
+
 #include "base/i18n/icubridge/icu_bridge.h"
 
 #include <memory>

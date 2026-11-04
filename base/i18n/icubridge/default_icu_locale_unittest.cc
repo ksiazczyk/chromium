@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for default ICU locale handling
+// summary: Tests getting and setting the default ICU locale, synchronization with the ICU library default, and thread safety under concurrent reader and writer tasks.
+// ---
+
 #include "base/i18n/icubridge/default_icu_locale.h"
 
 #include <utility>

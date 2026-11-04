@@ -1,0 +1,4 @@
+# Docerion header of create_string_rc.pydeps.
+type: config
+title: Python dependency list for create_string_rc
+summary: Generated list of Python module dependencies for create_string_rc.py, produced by build/print_python_deps.py and used by the build system.

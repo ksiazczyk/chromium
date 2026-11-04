@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IcuBridge::Calendar interface for localized week information
+// summary: Declares the IcuBridge::Calendar class with the Weekday enum and WeekInformation struct used to query first weekday and weekend days for the default locale.
+// ---
+
 #ifndef BASE_I18N_ICUBRIDGE_CALENDAR_H_
 #define BASE_I18N_ICUBRIDGE_CALENDAR_H_
 

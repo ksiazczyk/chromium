@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JSON file value serializer declarations
+// summary: Declares JSONFileValueSerializer and JSONFileValueDeserializer for converting base::Value to and from JSON files, including the JsonFileError enum.
+// ---
+
 #ifndef BASE_JSON_JSON_FILE_VALUE_SERIALIZER_H_
 #define BASE_JSON_JSON_FILE_VALUE_SERIALIZER_H_
 

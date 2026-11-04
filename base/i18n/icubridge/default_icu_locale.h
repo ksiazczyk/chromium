@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default ICU locale API with pass-key setter
+// summary: Declares GetDefaultIcuLocale and SetDefaultIcuLocale plus the DefaultIcuLocaleSetterKey pass-key that restricts which classes may change the default locale.
+// ---
+
 #ifndef BASE_I18N_ICUBRIDGE_DEFAULT_ICU_LOCALE_H_
 #define BASE_I18N_ICUBRIDGE_DEFAULT_ICU_LOCALE_H_
 

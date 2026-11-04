@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language tag converter header
+// summary: Declares LanguageTagConverter and GetLanguageTagFromString for parsing, validating, and normalizing BCP 47 language tags into LanguageTag objects.
+// ---
+
 #ifndef BASE_I18N_TAG_CONVERTERS_H_
 #define BASE_I18N_TAG_CONVERTERS_H_
 

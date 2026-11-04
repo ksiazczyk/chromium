@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chinese helpers unit tests
+// summary: Unit tests for IsChinese, IsSimplifiedChinese, and IsTraditionalChinese across regional and script subtags of Chinese and non-Chinese language tags.
+// ---
+
 #include "base/i18n/chinese_helpers.h"
 
 #include <string_view>

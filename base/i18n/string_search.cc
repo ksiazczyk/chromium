@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ICU-based string search implementation
+// summary: Implements fixed-pattern string search over ICU usearch with case and accent sensitivity options, falling back to plain substring search when ICU setup fails.
+// ---
+
 #include "base/i18n/string_search.h"
 
 #include <stdint.h>

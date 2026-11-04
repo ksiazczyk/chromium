@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ICU-based date and time formatting implementation
+// summary: Implements IcuBridge::DateTimeFormatter, building ICU date, time, measurement, and timezone formatters from DateTimeFormatterOptions for a given locale.
+// ---
+
 #include "base/i18n/icubridge/date_time_formatter.h"
 
 #include <stdint.h>

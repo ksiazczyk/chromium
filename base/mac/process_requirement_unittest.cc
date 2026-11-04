@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Process requirement unit tests
+// summary: Unit tests for base::mac::ProcessRequirement that mock the csops system call provider and verify code signing requirement strings for team IDs and validation categories.
+// ---
+
 #include "base/mac/process_requirement.h"
 
 #include <Kernel/kern/cs_blobs.h>

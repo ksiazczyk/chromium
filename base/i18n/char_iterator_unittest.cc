@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Char iterator unit tests
+// summary: Unit tests for UTF8CharIterator and UTF16CharIterator covering empty strings, multi-byte characters, surrogate pairs, and rewind behavior.
+// ---
+
 #include "base/i18n/char_iterator.h"
 
 #include "base/strings/utf_string_conversions.h"

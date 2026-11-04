@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedIOObject smart pointer for IOKit objects
+// summary: Defines ScopedIOObject, a scoped type ref for io_object_t and subclasses that retains and releases IOKit objects automatically.
+// ---
+
 #ifndef BASE_MAC_SCOPED_IOOBJECT_H_
 #define BASE_MAC_SCOPED_IOOBJECT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'process_requirement.h: process code signing requirement API'
+// summary: Declares the ProcessRequirement class and its builder for constraining which processes may connect, based on code signing identity.
+// ---
+
 #ifndef BASE_MAC_PROCESS_REQUIREMENT_H_
 #define BASE_MAC_PROCESS_REQUIREMENT_H_
 

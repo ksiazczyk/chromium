@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default ICU locale get and set implementation
+// summary: Implements thread-safe retrieval and pass-key-guarded setting of the global default ICU locale, initializing to en-US and falling back to it on failure.
+// ---
+
 #include "base/i18n/icubridge/default_icu_locale.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: utf8_validator_tables.h
+// summary: Header declaring the UTF-8 validator state table array and the index of the INVALID state used for UTF-8 validation.
+// ---
+
 #ifndef BASE_I18N_UTF8_VALIDATOR_TABLES_H_
 #define BASE_I18N_UTF8_VALIDATOR_TABLES_H_
 

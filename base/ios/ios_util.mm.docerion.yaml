@@ -1,0 +1,4 @@
+# Docerion header of ios_util.mm.
+type: source
+title: iOS utility functions implementation
+summary: Implements iOS version checks, forced RTL detection, embedded ICU path override, and multiple scene and prewarm helpers in the base::ios namespace.

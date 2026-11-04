@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supported ICU locales accessor
+// summary: Declares GetSupportedIcuLocales, returning a thread-safe cached set of LanguageTag locales supported by the loaded ICU library.
+// ---
+
 #ifndef BASE_I18N_ICUBRIDGE_SUPPORTED_LOCALES_H_
 #define BASE_I18N_ICUBRIDGE_SUPPORTED_LOCALES_H_
 

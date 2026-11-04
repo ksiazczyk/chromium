@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Canonical encoding name lookup
+// summary: Implements GetCanonicalEncodingNameByAliasName, which maps encoding alias names to canonical names via a list of known encodings and ICU standards.
+// ---
+
 #include "base/i18n/character_encoding.h"
 
 #include "third_party/icu/source/common/unicode/ucnv.h"

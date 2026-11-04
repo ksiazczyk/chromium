@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ICU utility unit tests
+// summary: Unit test verifying that ICU initialization succeeds on Android and iOS builds that load ICU data from a file.
+// ---
+
 #include "base/i18n/icu_util.h"
 
 #include "base/test/icu_test_util.h"

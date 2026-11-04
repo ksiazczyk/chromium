@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped default ICU locale test helper
+// summary: Implements ScopedDefaultIcuLocale, a RAII helper that sets the default ICU locale for a test and restores the original on destruction.
+// ---
+
 #include "base/i18n/test/scoped_icu_locale.h"
 
 #include "base/i18n/icubridge/default_icu_locale.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedIONotificationPortRef for IOKit notification ports
+// summary: Defines ScopedGeneric traits that destroy IONotificationPortRef objects with IONotificationPortDestroy when they go out of scope.
+// ---
+
 #ifndef BASE_MAC_SCOPED_IONOTIFICATIONPORTREF_H_
 #define BASE_MAC_SCOPED_IONOTIFICATIONPORTREF_H_
 

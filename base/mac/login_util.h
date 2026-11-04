@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login framework SPI wrappers interface
+// summary: Declares optional-returning functions for checking screen lock status and switching to the login window via private SPI.
+// ---
+
 #ifndef BASE_MAC_LOGIN_UTIL_H_
 #define BASE_MAC_LOGIN_UTIL_H_
 

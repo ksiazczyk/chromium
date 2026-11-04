@@ -8,6 +8,12 @@
 //
 // The implementation detects errors on the first possible byte.
 
+// ---docerion
+// type: source
+// title: Streaming UTF-8 validator header
+// summary: Declares a streaming UTF-8 validator class that validates byte streams per RFC 3629 with three validity states.
+// ---
+
 #ifndef BASE_I18N_STREAMING_UTF8_VALIDATOR_H_
 #define BASE_I18N_STREAMING_UTF8_VALIDATOR_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BASE_IS_EMPTY variadic emptiness macro
+// summary: Header defining the BASE_IS_EMPTY macro, which expands to 1 when called with no arguments and 0 when given any arguments.
+// ---
+
 #ifndef BASE_MACROS_IS_EMPTY_H_
 #define BASE_MACROS_IS_EMPTY_H_
 

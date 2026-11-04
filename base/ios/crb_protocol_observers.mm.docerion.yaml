@@ -1,0 +1,4 @@
+# Docerion header of crb_protocol_observers.mm.
+type: source
+title: CRBProtocolObservers implementation
+summary: Implements the observer container, including safe iteration that tolerates observers being added or removed during notification dispatch.

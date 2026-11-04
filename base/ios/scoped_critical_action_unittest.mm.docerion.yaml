@@ -1,0 +1,4 @@
+# Docerion header of scoped_critical_action_unittest.mm.
+type: test
+title: Unit tests for ScopedCriticalAction
+summary: Unit tests verifying background task start, end, reuse for the same name, and shutdown skipping behavior of ScopedCriticalAction.

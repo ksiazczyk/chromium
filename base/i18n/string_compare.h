@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: String comparison header
+// summary: Declares CompareString16WithCollator for comparing UTF-16 strings with a specified ICU collator in the base::i18n namespace.
+// ---
+
 #ifndef BASE_I18N_STRING_COMPARE_H_
 #define BASE_I18N_STRING_COMPARE_H_
 

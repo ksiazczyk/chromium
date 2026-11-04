@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Encoding detection API
+// summary: Declares DetectEncoding, which detects the character encoding of text, stores the encoding name, and returns true on success.
+// ---
+
 #ifndef BASE_I18N_ENCODING_DETECTION_H_
 #define BASE_I18N_ENCODING_DETECTION_H_
 

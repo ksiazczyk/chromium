@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'mac_util.h: macOS utility functions'
+// summary: Declares macOS helpers for sRGB color space access, login item management, quarantine attributes, OS version and CPU type queries, and file tags.
+// ---
+
 #ifndef BASE_MAC_MAC_UTIL_H_
 #define BASE_MAC_MAC_UTIL_H_
 

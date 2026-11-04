@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language tag implementation
+// summary: Implements the LanguageTag class, including conversion to legacy ICU locale format and handling of BCP47 extension subtags.
+// ---
+
 #include "base/i18n/language_tag.h"
 
 #include <algorithm>

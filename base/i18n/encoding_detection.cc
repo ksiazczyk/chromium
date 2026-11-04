@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Text encoding detection
+// summary: Implements DetectEncoding using the CompactEncDet library to detect the character encoding of text and return its MIME encoding name.
+// ---
+
 #include "base/i18n/encoding_detection.h"
 
 #include "build/build_config.h"

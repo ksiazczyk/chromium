@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JSON reader fuzzer
+// summary: libFuzzer harness that parses JSON input with variable options and checks the value survives a serialize and deserialize round trip unchanged.
+// ---
+
 #include "base/json/json_reader.h"
 
 #include <optional>

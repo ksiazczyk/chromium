@@ -1,0 +1,4 @@
+# Docerion header of device_util_unittest.mm.
+type: test
+title: Device utility unit tests
+summary: Exercises device_util APIs such as single-core detection, MAC address lookup, device identifiers and salted string hashing.

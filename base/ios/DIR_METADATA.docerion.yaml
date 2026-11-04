@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Chromium issue tracker metadata for base/ios
+summary: Maps the base/ios directory to the Internals component on Monorail and Buganizer and lists the team email for issue routing.

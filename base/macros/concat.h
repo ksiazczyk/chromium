@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BASE_CONCAT macro for token concatenation
+// summary: Header defining the BASE_CONCAT macro, which expands to the concatenation of its arguments after expanding any macros among them, using an internal indirection macro.
+// ---
+
 #ifndef BASE_MACROS_CONCAT_H_
 #define BASE_MACROS_CONCAT_H_
 

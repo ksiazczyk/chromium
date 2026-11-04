@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ImmutableString
+// summary: Tests construction, joining of string parts, small-buffer versus heap storage, copy and move semantics, and compile-time string handling.
+// ---
+
 #include "base/i18n/internal/immutable_string.h"
 
 #include <string_view>

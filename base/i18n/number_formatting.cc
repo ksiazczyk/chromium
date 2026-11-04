@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Number formatting implementation
+// summary: Implements locale-aware formatting of integers, doubles and percentages using thread-local cached ICU number formatters.
+// ---
+
 #include "base/i18n/number_formatting.h"
 
 #include <stddef.h>

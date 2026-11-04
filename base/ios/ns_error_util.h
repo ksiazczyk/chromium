@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NSError underlying error chain utilities header
+// summary: Declares helpers that find the final underlying error in an NSError chain and append an underlying error to an existing error.
+// ---
+
 #ifndef BASE_IOS_NS_ERROR_UTIL_H_
 #define BASE_IOS_NS_ERROR_UTIL_H_
 

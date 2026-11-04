@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ICU utility implementation
+// summary: Implements ICU initialization for the process, including loading the ICU data file, platform-specific data handling, and Fuchsia time zone data support.
+// ---
+
 #include "base/i18n/icu_util.h"
 
 #include "base/i18n/icubridge/default_icu_locale.h"

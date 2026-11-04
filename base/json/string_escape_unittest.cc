@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for JSON string escaping
+// summary: GTest cases verifying EscapeJSONString and GetQuotedJSONString output for control characters, invalid UTF-8, angle brackets, line separators, and Unicode noncharacters.
+// ---
+
 #include "base/json/string_escape.h"
 
 #include <stddef.h>

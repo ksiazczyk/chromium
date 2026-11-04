@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IcuBridge class interface
+// summary: Declares the IcuBridge container giving process-wide, thread-safe access to internationalization components such as date-time formatters, calendar, and normalizer.
+// ---
+
 #ifndef BASE_I18N_ICUBRIDGE_ICU_BRIDGE_H_
 #define BASE_I18N_ICUBRIDGE_ICU_BRIDGE_H_
 

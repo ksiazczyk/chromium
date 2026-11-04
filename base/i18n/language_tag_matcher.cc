@@ -18,6 +18,12 @@
 // used, but specific pairs (e.g., "es-419" -> "es-MX") can have lower weights
 // to express a stronger preference for that specific mapping.
 
+// ---docerion
+// type: source
+// title: Language tag matcher implementation
+// summary: Implements locale matching that finds the best supported locale for a preferred tag using ICU4X fallback rules and precomputed distances.
+// ---
+
 #include "base/i18n/language_tag_matcher.h"
 
 #include <algorithm>

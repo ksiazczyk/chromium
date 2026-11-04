@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Known BCP47 subtag checks
+// summary: Header providing constexpr functions that check whether language, script, region, and variant subtags are known, using fixed flat sets filled from generated include files.
+// ---
+
 #ifndef BASE_I18N_INTERNAL_BCP47_KNOWN_SUBTAGS_H_
 #define BASE_I18N_INTERNAL_BCP47_KNOWN_SUBTAGS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Message formatter unit tests
+// summary: Unit tests for MessageFormatter covering plural formatting with named and numbered arguments, plural offsets, and date and time formatting.
+// ---
+
 #include "base/i18n/message_formatter.h"
 
 #include <memory>

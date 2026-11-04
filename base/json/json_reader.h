@@ -33,6 +33,12 @@
 //   UTF-8 encoding of U+00FF LATIN SMALL LETTER Y WITH DIAERESIS. Converting
 //   from UTF-8 to UTF-16, e.g. via UTF8ToWide, will recover a 16-bit 0x00FF.
 
+// ---docerion
+// type: source
+// title: JSON reader API and parser options
+// summary: Declares the JSONReader class and JSONParserOptions flags for parsing JSON into base::Value, documenting RFC 8259 behavior and allowed Chromium extensions.
+// ---
+
 #ifndef BASE_JSON_JSON_READER_H_
 #define BASE_JSON_JSON_READER_H_
 
