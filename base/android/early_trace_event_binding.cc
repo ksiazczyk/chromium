@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Early trace event JNI bindings
+// summary: Records early Java begin and end trace events, including toplevel and async events, into Perfetto and manages the background startup tracing flag.
+// ---
+
 #include "base/android/early_trace_event_binding.h"
 
 #include <stdint.h>

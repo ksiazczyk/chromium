@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android device information implementation
+// summary: C++ implementation that stores and exposes Android device, build, and hardware details received from Java through JNI.
+// ---
+
 #include "base/android/android_info.h"
 
 #include <cstring>

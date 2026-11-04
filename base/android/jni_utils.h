@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI class loader utilities
+// summary: Declares GetSplitClassLoader and GetClassLoader for obtaining Java ClassLoader instances capable of loading split and Chromium classes.
+// ---
+
 #ifndef BASE_ANDROID_JNI_UTILS_H_
 #define BASE_ANDROID_JNI_UTILS_H_
 

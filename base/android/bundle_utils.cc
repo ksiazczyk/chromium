@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bundle utilities implementation
+// summary: Implements BundleUtils for resolving Android app bundle library paths and dlopen of partitioned native feature libraries.
+// ---
+
 #include "base/android/bundle_utils.h"
 
 #include <android/dlext.h>

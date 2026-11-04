@@ -6,6 +6,12 @@
 // that the methods defined in the generated headers only end up in one object
 // file. This is similar to //base/android/callback_android.*.
 
+// ---docerion
+// type: source
+// title: IntStringCallback JNI implementation
+// summary: Implements the JNI bridge for IntStringCallback, invoking a Java callback with an integer and string argument.
+// ---
+
 #include "base/android/int_string_callback.h"
 
 #include <jni.h>

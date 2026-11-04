@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pre-freeze background memory trimmer API
+// summary: Declares PreFreezeBackgroundMemoryTrimmer, which runs delayed background tasks before an app freeze on Android U and supports registering memory metrics.
+// ---
+
 #ifndef BASE_ANDROID_PRE_FREEZE_BACKGROUND_MEMORY_TRIMMER_H_
 #define BASE_ANDROID_PRE_FREEZE_BACKGROUND_MEMORY_TRIMMER_H_
 

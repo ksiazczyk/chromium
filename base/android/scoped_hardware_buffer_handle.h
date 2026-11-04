@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedHardwareBufferHandle class declaration
+// summary: Declares a move-only RAII owner of an AHardwareBuffer reference with adopt, clone, describe and file-descriptor serialization support.
+// ---
+
 #ifndef BASE_ANDROID_SCOPED_HARDWARE_BUFFER_HANDLE_H_
 #define BASE_ANDROID_SCOPED_HARDWARE_BUFFER_HANDLE_H_
 

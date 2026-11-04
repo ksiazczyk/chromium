@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TokenAndroid conversion helpers declaration
+// summary: Declares TokenAndroid for converting base::Token to and from Java tokens, including JNI type conversions.
+// ---
+
 #ifndef BASE_ANDROID_TOKEN_ANDROID_H_
 #define BASE_ANDROID_TOKEN_ANDROID_H_
 

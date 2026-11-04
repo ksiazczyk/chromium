@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SysUtils header with low-memory and background checks
+// summary: Declares functions returning the low-RAM device threshold and checking whether the process is in the background.
+// ---
+
 #ifndef BASE_ANDROID_SYS_UTILS_H_
 #define BASE_ANDROID_SYS_UTILS_H_
 

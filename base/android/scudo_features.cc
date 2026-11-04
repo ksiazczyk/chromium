@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scudo purge feature flags
+// summary: Defines the kPeriodicScudoPurge feature and its parameters controlling initial delay, periodic interval, background purge delay, and enablement.
+// ---
+
 #include "base/android/scudo_features.h"
 
 #include "base/feature_list.h"

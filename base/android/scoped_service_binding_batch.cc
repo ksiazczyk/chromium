@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedServiceBindingBatch implementation
+// summary: Implements a RAII C++ wrapper around the Java ScopedServiceBindingBatch class that starts and closes batched service binding requests via JNI.
+// ---
+
 #include "base/android/scoped_service_binding_batch.h"
 
 #include "base/android/jni_android.h"

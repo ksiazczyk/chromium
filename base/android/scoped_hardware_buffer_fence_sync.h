@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedHardwareBufferFenceSync class declaration
+// summary: Declares a scoped AHardwareBuffer handle with fence file descriptors, including a virtual read-fence callback for signaling when the buffer can be reused.
+// ---
+
 #ifndef BASE_ANDROID_SCOPED_HARDWARE_BUFFER_FENCE_SYNC_H_
 #define BASE_ANDROID_SCOPED_HARDWARE_BUFFER_FENCE_SYNC_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedHardwareBufferFenceSync implementation
+// summary: Implements the scoped AHardwareBuffer wrapper that carries fence file descriptors and provides accessors for the buffer and its fences.
+// ---
+
 #include "base/android/scoped_hardware_buffer_fence_sync.h"
 
 #include <android/hardware_buffer.h>

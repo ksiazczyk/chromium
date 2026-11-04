@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RadioUtils header with radio state enums
+// summary: Declares RadioUtils and enums for connection type, cell signal level, and data activity, whose values are persisted for UMA logging.
+// ---
+
 #ifndef BASE_ANDROID_RADIO_UTILS_H_
 #define BASE_ANDROID_RADIO_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI Android core helpers implementation
+// summary: Implements core JNI helpers for base on Android, including class lookup hooks, raw pointer wrapping, and Java exception handling.
+// ---
+
 #include "base/android/jni_android.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedInputEvent class declaration
+// summary: Declares a move-only RAII wrapper for AInputEvent with trace export support, usable only on Android S and above.
+// ---
+
 #ifndef BASE_ANDROID_SCOPED_INPUT_EVENT_H_
 #define BASE_ANDROID_SCOPED_INPUT_EVENT_H_
 

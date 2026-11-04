@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android meminfo memory dump provider implementation
+// summary: Implements a trace event memory dump provider that reports Android process memory metrics such as private dirty and PSS, flagging stale data older than five minutes.
+// ---
+
 #include "base/android/meminfo_dump_provider.h"
 
 #include <jni.h>

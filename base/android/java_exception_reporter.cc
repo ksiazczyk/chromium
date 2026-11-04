@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Java exception reporter implementation
+// summary: Implements the Java exception reporter that installs an uncaught exception handler, filters exceptions, and dumps crash reports.
+// ---
+
 #include "base/android/java_exception_reporter.h"
 
 #include "base/android/jni_android.h"

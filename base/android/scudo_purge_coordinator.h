@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScudoPurgeCoordinator header
+// summary: Declares the coordinator that schedules Scudo mallopt-based memory purges on Android, with a feature-driven configuration and testing hooks.
+// ---
+
 #ifndef BASE_ANDROID_SCUDO_PURGE_COORDINATOR_H_
 #define BASE_ANDROID_SCUDO_PURGE_COORDINATOR_H_
 

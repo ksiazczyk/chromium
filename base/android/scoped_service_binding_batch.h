@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedServiceBindingBatch header
+// summary: Declares a stack-allocated RAII wrapper that batches service binding requests on the process launcher thread, supporting nested batch updates.
+// ---
+
 #ifndef BASE_ANDROID_SCOPED_SERVICE_BINDING_BATCH_H_
 #define BASE_ANDROID_SCOPED_SERVICE_BINDING_BATCH_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common directory metadata for //base/android
+summary: Declares ANDROID as the operating system for the //base/android directory metadata, shared with other metadata files via mixins.

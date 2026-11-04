@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JavaHandlerThread unit tests
+// summary: Unit tests for JavaHandlerThread covering task observers and abort behavior when uncaught Java exceptions occur.
+// ---
+
 #include "base/android/java_handler_thread.h"
 
 #include "base/synchronization/waitable_event.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureMap class declaration
+// summary: Declares a FeatureMap that maps base Feature names to Feature pointers so Java callers can query feature flags by name.
+// ---
+
 #ifndef BASE_ANDROID_FEATURE_MAP_H_
 #define BASE_ANDROID_FEATURE_MAP_H_
 

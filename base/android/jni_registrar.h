@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI native method registration API
+// summary: Declares RegisterNativeMethods for registering JNI bindings from an array of registration methods, returning whether registration succeeded.
+// ---
+
 #ifndef BASE_ANDROID_JNI_REGISTRAR_H_
 #define BASE_ANDROID_JNI_REGISTRAR_H_
 

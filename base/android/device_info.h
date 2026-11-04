@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android device info header
+// summary: Declares accessors for device form factor and capability flags like TV, automotive, foldable, desktop, XR and tablet, plus test setters.
+// ---
+
 #ifndef BASE_ANDROID_DEVICE_INFO_H_
 #define BASE_ANDROID_DEVICE_INFO_H_
 

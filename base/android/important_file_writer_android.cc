@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Atomic file writer JNI binding
+// summary: Implements a JNI method that writes Java byte array data atomically to a file using base ImportantFileWriter.
+// ---
+
 #include "base/files/important_file_writer.h"
 
 #include <string>

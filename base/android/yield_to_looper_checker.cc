@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: YieldToLooperChecker implementation
+// summary: Implements a singleton that tells the UI message pump when to yield to the Android looper during embedder startup.
+// ---
+
 #include "base/android/yield_to_looper_checker.h"
 
 namespace base::android {

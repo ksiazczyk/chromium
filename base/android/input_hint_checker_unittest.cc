@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InputHintChecker unit test
+// summary: Tests real View initialization of InputHintChecker on Android V and later, verifying HasInputImpl runs without JNI exceptions.
+// ---
+
 #include "base/android/input_hint_checker.h"
 
 #include <jni.h>

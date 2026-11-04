@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Application status listener implementation
+// summary: Implements the native listener that receives Android application state changes over JNI, records user metrics, and notifies thread-safe observers.
+// ---
+
 #include "base/android/application_status_listener.h"
 
 #include <jni.h>

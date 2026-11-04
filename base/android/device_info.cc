@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android device info implementation
+// summary: Caches and exposes device properties such as TV, automotive, foldable, desktop, XR and GMS version through JNI and AIDL.
+// ---
+
 #include "base/android/device_info.h"
 
 #include <string>

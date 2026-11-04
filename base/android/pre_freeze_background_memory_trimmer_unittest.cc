@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the pre-freeze background memory trimmer
+// summary: Tests delayed background task posting, metric registration and measurement, and delegate thaw behavior of the pre-freeze memory trimmer.
+// ---
+
 #include "base/android/pre_freeze_background_memory_trimmer.h"
 
 #include <sys/fcntl.h>

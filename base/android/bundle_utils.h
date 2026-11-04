@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android app bundle utilities header
+// summary: Declares BundleUtils helpers for checking installed splits, resolving library paths, and loading partitioned native libraries.
+// ---
+
 #ifndef BASE_ANDROID_BUNDLE_UTILS_H_
 #define BASE_ANDROID_BUNDLE_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unit tests for JNI string conversions
+// summary: Unit tests verifying round-trip conversion between Java strings and UTF-8 or UTF-16 for short, long, and empty strings.
+// ---
+
 #include "base/android/jni_string.h"
 
 #include "base/android/jni_android.h"

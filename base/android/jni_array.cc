@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: C++ to Java array conversion functions
+// summary: Implements conversions between native containers and Java arrays, including byte, boolean, int, long, float, double, object, string, and nested string arrays.
+// ---
+
 #include "base/android/jni_array.h"
 
 #include <cstdint>

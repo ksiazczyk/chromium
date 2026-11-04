@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content URI utilities implementation
+// summary: Implements opening, closing, listing and deleting Android content URIs via JNI, including open flag translation and file info queries.
+// ---
+
 #include "base/android/content_uri_utils.h"
 
 #include <sys/stat.h>

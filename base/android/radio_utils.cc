@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RadioUtils JNI implementation
+// summary: Implements RadioUtils, querying connection type, cell signal level, and data activity from Java via JNI, with an override for tests.
+// ---
+
 #include "base/android/radio_utils.h"
 
 #include <optional>

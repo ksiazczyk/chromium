@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: APK info retrieval implementation
+// summary: Implements accessors for APK and host package details such as package name, version, installer, and debug or system app flags, filled in from Java via JNI.
+// ---
+
 #include "base/android/apk_info.h"
 
 #include <string>

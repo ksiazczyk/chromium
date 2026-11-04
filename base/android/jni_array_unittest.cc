@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for JNI array conversions
+// summary: Unit tests verifying round-trip conversions between native containers and Java arrays of bytes, booleans, integers, objects, and strings.
+// ---
+
 #include "base/android/jni_array.h"
 
 #include <stddef.h>

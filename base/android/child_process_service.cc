@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child process service JNI implementation
+// summary: Implements JNI entry points for child process services, including file descriptor registration, process exit, and stack dumping.
+// ---
+
 #include "base/android/child_process_service.h"
 
 #include <optional>

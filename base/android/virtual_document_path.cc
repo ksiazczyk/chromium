@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VirtualDocumentPath implementation for Android SAF paths
+// summary: Implements parsing and operations on /SAF/ virtual document paths, resolving them to content URIs and performing file I/O via JNI.
+// ---
+
 #include "base/android/virtual_document_path.h"
 
 #include <optional>

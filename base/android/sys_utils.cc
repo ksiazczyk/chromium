@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SysUtils JNI implementation for system utilities
+// summary: Implements JNI helpers for page fault tracing, low-memory device thresholds and background process detection.
+// ---
+
 #include "base/android/sys_utils.h"
 
 #include <jni.h>

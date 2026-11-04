@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI on-load initialization declaration
+// summary: Declares OnJNIOnLoadInit, which reports whether JNI on-load initialization succeeded.
+// ---
+
 #ifndef BASE_ANDROID_BASE_JNI_INIT_H_
 #define BASE_ANDROID_BASE_JNI_INIT_H_
 

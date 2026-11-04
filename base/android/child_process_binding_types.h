@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child process binding state enum
+// summary: Defines the ChildBindingState enum describing the binding strength levels of child process connections.
+// ---
+
 #ifndef BASE_ANDROID_CHILD_PROCESS_BINDING_TYPES_H_
 #define BASE_ANDROID_CHILD_PROCESS_BINDING_TYPES_H_
 

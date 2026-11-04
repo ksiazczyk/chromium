@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Java and C++ string conversion API
+// summary: Declares helpers for converting Java strings to and from UTF-8 and UTF-16, plus jni_zero template adapters for std::string and std::u16string types.
+// ---
+
 #ifndef BASE_ANDROID_JNI_STRING_H_
 #define BASE_ANDROID_JNI_STRING_H_
 

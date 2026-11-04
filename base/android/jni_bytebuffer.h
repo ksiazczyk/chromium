@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for Java ByteBuffer span helpers
+// summary: Declares functions that map a Java ByteBuffer to a const or mutable base::span, crashing on invalid buffers or returning nullopt in the Maybe variants.
+// ---
+
 #ifndef BASE_ANDROID_JNI_BYTEBUFFER_H_
 #define BASE_ANDROID_JNI_BYTEBUFFER_H_
 

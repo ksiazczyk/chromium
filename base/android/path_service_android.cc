@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Path service Android JNI override
+// summary: Implements a JNI hook that lets Java override native PathService paths.
+// ---
+
 #include "base/path_service.h"
 
 #include "base/android/jni_string.h"

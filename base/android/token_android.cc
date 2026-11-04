@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Token JNI bridge between C++ and Java
+// summary: Converts base::Token values to and from their Java counterparts and creates random tokens via JNI.
+// ---
+
 #include "base/android/token_android.h"
 
 #include "base/token_jni/TokenBase_jni.h"

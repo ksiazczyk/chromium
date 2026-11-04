@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Application status listener interface
+// summary: Declares the ApplicationState enum and the ApplicationStatusListener class for observing Android application state changes.
+// ---
+
 #ifndef BASE_ANDROID_APPLICATION_STATUS_LISTENER_H_
 #define BASE_ANDROID_APPLICATION_STATUS_LISTENER_H_
 

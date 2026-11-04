@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Early trace event binding header
+// summary: Declares functions to get and set the background startup tracing flag shared with Java.
+// ---
+
 #ifndef BASE_ANDROID_EARLY_TRACE_EVENT_BINDING_H_
 #define BASE_ANDROID_EARLY_TRACE_EVENT_BINDING_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaRuntime JNI wrapper header
+// summary: Declares JavaRuntime, a JNI wrapper for java.lang.Runtime that reports Java heap memory usage of the current process.
+// ---
+
 #ifndef BASE_ANDROID_JAVA_RUNTIME_H_
 #define BASE_ANDROID_JAVA_RUNTIME_H_
 

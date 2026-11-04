@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android device information API header
+// summary: Declares SDK version enums and accessor functions for Android device, build, and hardware information.
+// ---
+
 #ifndef BASE_ANDROID_ANDROID_INFO_H_
 #define BASE_ANDROID_ANDROID_INFO_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content URI utilities unit tests
+// summary: Unit tests covering content URI MIME type, file info, open flag translation and directory listing behavior.
+// ---
+
 #include "base/android/content_uri_utils.h"
 
 #include <vector>

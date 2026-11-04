@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureMap JNI implementation
+// summary: Implements JNI methods that look up features exposed to Java and query their enabled state and field trial parameters.
+// ---
+
 #include "base/android/feature_map.h"
 
 #include <stddef.h>

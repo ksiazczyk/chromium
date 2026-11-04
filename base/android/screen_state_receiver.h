@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenStateReceiver header
+// summary: Declares the ScreenStateReceiver API and observer interface with OnScreenOn and OnScreenOff callbacks for device sleep and wake events.
+// ---
+
 #ifndef BASE_ANDROID_SCREEN_STATE_RECEIVER_H_
 #define BASE_ANDROID_SCREEN_STATE_RECEIVER_H_
 

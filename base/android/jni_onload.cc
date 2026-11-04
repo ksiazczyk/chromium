@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: JNI_OnLoad entry point for library loading
+// summary: Defines JNI_OnLoad, which initializes the global JVM and sets the native initialization hook when a shared library is loaded.
+// ---
+
 #include "base/android/jni_android.h"
 #include "base/android/library_loader/library_loader_hooks.h"
 

@@ -1,6 +1,13 @@
 // Copyright 2013 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Command line JNI implementation
+// summary: Implements JNI bindings to read, modify, and initialize the current process command line from Java.
+// ---
+
 #include "base/android/command_line_android.h"
 
 #include "base/android/jni_string.h"

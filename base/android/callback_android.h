@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI callback helper declarations
+// summary: Declares functions to invoke Java callbacks with various argument types and to convert C++ callbacks into JNI callbacks.
+// ---
+
 #ifndef BASE_ANDROID_CALLBACK_ANDROID_H_
 #define BASE_ANDROID_CALLBACK_ANDROID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input hint checker class declaration
+// summary: Declares the InputHintChecker singleton that tracks a root View and reports likely pending input events on Android V and later.
+// ---
+
 #ifndef BASE_ANDROID_INPUT_HINT_CHECKER_H_
 #define BASE_ANDROID_INPUT_HINT_CHECKER_H_
 

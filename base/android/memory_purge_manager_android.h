@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory purge manager Android header
+// summary: Declares MemoryPurgeManagerAndroid with JNI entry points for delayed purge tasks.
+// ---
+
 #ifndef BASE_ANDROID_MEMORY_PURGE_MANAGER_ANDROID_H_
 #define BASE_ANDROID_MEMORY_PURGE_MANAGER_ANDROID_H_
 

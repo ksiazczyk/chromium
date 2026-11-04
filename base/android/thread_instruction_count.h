@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadInstructionCount and delta declarations
+// summary: Declares ThreadInstructionCount and ThreadInstructionDelta for sampling retired instruction counts per thread.
+// ---
+
 #ifndef BASE_ANDROID_THREAD_INSTRUCTION_COUNT_H_
 #define BASE_ANDROID_THREAD_INSTRUCTION_COUNT_H_
 

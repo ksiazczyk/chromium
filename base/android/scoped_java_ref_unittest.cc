@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped Java reference unit tests
+// summary: Tests conversions, copy and move semantics, and local and global reference counting of scoped Java references by hooking JNI functions.
+// ---
+
 #include "base/android/scoped_java_ref.h"
 
 #include <iterator>

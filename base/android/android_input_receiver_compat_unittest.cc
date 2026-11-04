@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android input receiver compatibility unit test
+// summary: Verifies that the input receiver compatibility functions resolve on Android V and are unavailable on older versions.
+// ---
+
 #include "base/android/android_input_receiver_compat.h"
 
 #include "base/android/android_info.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background thread pool field trial implementation
+// summary: Implements reading the background thread pool field trial configuration from the command line and mapping it to trial and group names.
+// ---
+
 #include "base/android/background_thread_pool_field_trial.h"
 
 #include <optional>

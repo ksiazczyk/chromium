@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped Java reference type aliases
+// summary: Re-exports jni_zero JavaRef, ScopedJavaLocalRef, ScopedJavaGlobalRef and ScopedJavaLocalFrame types in the base::android namespace.
+// ---
+
 #ifndef BASE_ANDROID_SCOPED_JAVA_REF_H_
 #define BASE_ANDROID_SCOPED_JAVA_REF_H_
 

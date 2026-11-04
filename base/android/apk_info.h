@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: APK info accessor declarations
+// summary: Declares the apk_info namespace accessors for package, host app, installer, target SDK, and signing certificate information.
+// ---
+
 #ifndef BASE_ANDROID_APK_INFO_H_
 #define BASE_ANDROID_APK_INFO_H_
 
