@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Popular URLs page load test
+// summary: Instrumentation test that opens popular URLs listed in a file on external storage one by one, verifies page loads, and saves progress so runs can resume after interruption.
+// ---
+
 package org.chromium.chrome.browser;
 
 import android.os.Environment;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab strip context menu instrumentation tests
+// summary: Instrumentation tests for the tab strip empty space long-press context menu, covering the Bookmark all tabs item on tablet and desktop form factors.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip;
 
 import static androidx.test.espresso.Espresso.onView;

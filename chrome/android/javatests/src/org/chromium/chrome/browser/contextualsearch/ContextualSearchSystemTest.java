@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual Search system interaction tests
+// summary: Instrumentation tests covering system and application interactions with Contextual Search, such as app menu suppression and panel dismissal on tab crash.
+// ---
+
 package org.chromium.chrome.browser.contextualsearch;
 
 import android.view.KeyEvent;

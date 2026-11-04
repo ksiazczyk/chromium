@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContentView focus tests
+// summary: Instrumentation test suite for ContentView focus behavior and its interaction with tab switching and tab swiping.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.chromium.ui.test.util.ViewUtils.createMotionEvent;

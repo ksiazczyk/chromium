@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebappLauncherActivity
+// summary: Activity that launches web apps, handling WebAPK relaunches, secure webapp launches, and intent parameter extraction, kept separate from ChromeLauncherActivity for Recents exclusion.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

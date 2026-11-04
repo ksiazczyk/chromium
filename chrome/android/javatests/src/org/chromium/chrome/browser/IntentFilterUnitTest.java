@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Intent filter unit tests
+// summary: Unit tests for intent filter resolution of various URIs and MIME types in the Android manifest.
+// ---
+
 package org.chromium.chrome.browser;
 
 import android.content.ComponentName;

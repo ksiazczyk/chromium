@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser controls PT test for TopControlsStacker
+// summary: Android instrumented test verifying browser controls scrolling behavior, including top controls scroll and scrolling disabled on large tablets.
+// ---
+
 package org.chromium.chrome.browser.browser_controls;
 
 import androidx.test.filters.LargeTest;

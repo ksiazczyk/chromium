@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OmahaServiceStartDelayer integration test
+// summary: Instrumentation test verifying that the Omaha service start delayer is initialized when Chrome is launched, using a test runnable callback.
+// ---
+
 package org.chromium.chrome.browser;
 
 import androidx.test.filters.SmallTest;

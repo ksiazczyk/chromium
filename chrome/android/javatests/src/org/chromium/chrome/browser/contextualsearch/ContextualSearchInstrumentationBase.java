@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual Search instrumentation test base class
+// summary: Base class providing shared setup, gesture simulation helpers, and panel assertions for the Contextual Search instrumentation test suites.
+// ---
+
 package org.chromium.chrome.browser.contextualsearch;
 
 import static org.junit.Assert.assertNotNull;

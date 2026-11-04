@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual Search fake server for tests
+// summary: Fake Contextual Search server that simulates resolve, non-resolve, and slow searches while tracking loaded URLs for use by instrumentation tests.
+// ---
+
 package org.chromium.chrome.browser.contextualsearch;
 
 import androidx.annotation.Nullable;

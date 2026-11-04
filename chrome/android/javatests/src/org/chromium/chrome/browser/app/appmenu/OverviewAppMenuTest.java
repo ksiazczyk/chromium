@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab switcher app menu tests
+// summary: Tests the Tab Switcher app menu, verifying expected menu items in regular and incognito modes along with related metrics.
+// ---
+
 package org.chromium.chrome.browser.app.appmenu;
 
 import static org.mockito.ArgumentMatchers.anyString;

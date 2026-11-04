@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Autofill tests directory metadata
+summary: DIR_METADATA entry that applies the shared autofill COMMON_METADATA mixins to this test directory.

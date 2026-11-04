@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for OverlayPanelEventFilter
+// summary: JUnit4 tests for the OverlayPanelEventFilter, covering touch event handling such as taps, scrolls and motion on panel content.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlay_panel;
 
 import android.app.Activity;

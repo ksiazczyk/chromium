@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill and passwords fragment instrumentation tests
+// summary: Instrumentation tests for the AutofillAndPasswordsFragment settings page, covering preferences, referrers, feature flags, and user actions.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import static androidx.test.espresso.Espresso.onView;

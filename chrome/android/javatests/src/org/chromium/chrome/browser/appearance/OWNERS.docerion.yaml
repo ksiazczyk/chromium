@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the appearance test directory
+summary: Lists the code owners responsible for reviewing changes in the appearance test directory, with per-file reviewers assigned for a settings fragment test.

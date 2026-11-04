@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TrustedWebActivityPreferencesUiTest
+// summary: Android UI test checking how Trusted Web Activity permissions appear and behave under Settings > Site Settings, including the 'Managed by' section.
+// ---
+
 package org.chromium.chrome.browser.browserservices.permissiondelegation;
 
 import static androidx.test.espresso.Espresso.onView;

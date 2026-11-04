@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PerformancePTTest
+// summary: Performance test asserting that no compositor frames are requested while scrolling browser controls, with IPH prompts disabled via a mocked tracker.
+// ---
+
 package org.chromium.chrome.browser.compositor;
 
 import static org.junit.Assert.assertTrue;

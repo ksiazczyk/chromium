@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata with issue tracker components
+summary: Maps this directory to the UI>Browser>Mobile Monorail component and a public Buganizer component ID for issue routing.

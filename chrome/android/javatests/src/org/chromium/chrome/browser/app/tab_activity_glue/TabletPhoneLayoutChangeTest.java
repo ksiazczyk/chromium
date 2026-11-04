@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabletPhoneLayoutChangeTest
+// summary: Instrumentation test verifying that ChromeTabbedActivity is recreated when the device form factor changes between tablet and phone layouts.
+// ---
+
 package org.chromium.chrome.browser.app.tab_activity_glue;
 
 import android.content.res.Configuration;

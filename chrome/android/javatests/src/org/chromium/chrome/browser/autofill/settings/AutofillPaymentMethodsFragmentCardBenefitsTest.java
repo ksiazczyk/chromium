@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill payment methods card benefits tests
+// summary: Instrumentation tests for the card benefits preference in AutofillPaymentMethodsFragment, checking its visibility and navigation to the card benefits fragment.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import static com.google.common.truth.Truth.assertThat;

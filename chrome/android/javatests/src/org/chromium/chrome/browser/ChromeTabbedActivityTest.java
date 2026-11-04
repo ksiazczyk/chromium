@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeTabbedActivity tests
+// summary: Large instrumentation test suite for ChromeTabbedActivity covering activity behavior such as intents, tab models, multi-window, and night mode.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.junit.Assert.assertNotNull;

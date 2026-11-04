@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppInstallMenuHandler
+// summary: Handles WebAPK and PWA install actions from the app menu, covering Universal Install, Add to Homescreen, and opening installed WebAPKs.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import android.app.Activity;

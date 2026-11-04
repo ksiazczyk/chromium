@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Context menu public transit tests
+// summary: Public transit tests for opening links in new tabs and new tab groups from the context menu on phones.
+// ---
+
 package org.chromium.chrome.browser.contextmenu;
 
 import static org.chromium.base.test.transit.TransitAsserts.assertFinalDestination;

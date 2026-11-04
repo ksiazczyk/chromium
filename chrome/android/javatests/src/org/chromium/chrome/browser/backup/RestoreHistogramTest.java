@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Restore histogram instrumentation test
+// summary: Android instrumentation test verifying that ChromeBackupAgentImpl records the Android restore result histogram correctly across restore statuses.
+// ---
+
 package org.chromium.chrome.browser.backup;
 
 import androidx.test.filters.SmallTest;

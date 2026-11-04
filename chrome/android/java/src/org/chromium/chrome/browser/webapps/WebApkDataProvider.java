@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApkDataProvider
+// summary: Provides detailed WebAPK information to native code, including name and icon data used for custom offline pages of WebAPKs and TWAs.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TwaValidatorTest
+// summary: Instrumentation tests for TwaValidator, checking whether apps count as Trusted Web Activities via service declarations, delegation, and domain verification.
+// ---
+
 package org.chromium.chrome.browser.browserservices;
 
 import static org.junit.Assert.assertFalse;

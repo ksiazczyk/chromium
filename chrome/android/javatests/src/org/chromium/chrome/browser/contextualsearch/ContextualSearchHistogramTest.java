@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual Search histogram instrumentation tests
+// summary: Instrumentation tests verifying Contextual Search UMA histograms for related searches, suggestion clicks, CTR, and carousel interactions.
+// ---
+
 package org.chromium.chrome.browser.contextualsearch;
 
 import androidx.test.filters.SmallTest;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Virtual keyboard resize tests
+// summary: Instrumentation test class verifying how the virtual keyboard resizes web pages in Chrome on Android across different virtual keyboard modes.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static com.google.common.truth.Truth.assertThat;

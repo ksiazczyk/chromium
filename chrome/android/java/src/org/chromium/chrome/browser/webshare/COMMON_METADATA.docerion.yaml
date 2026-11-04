@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: WebShare common metadata
+summary: Sets the Blink>WebShare monorail component and Buganizer component ID shared by files in the webshare directory.

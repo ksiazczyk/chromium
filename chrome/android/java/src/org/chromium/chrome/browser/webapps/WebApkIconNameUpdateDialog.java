@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApkIconNameUpdateDialog
+// summary: Modal dialog warning the user that a WebAPK update will change its icon, name, or short name, and reporting the user's decision through a callback.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import android.content.Context;

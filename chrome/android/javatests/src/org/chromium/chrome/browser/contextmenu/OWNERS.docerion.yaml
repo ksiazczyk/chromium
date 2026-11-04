@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for context menu tests
+summary: Defines code owners for the test directory by referencing the OWNERS file of the context menu source directory.

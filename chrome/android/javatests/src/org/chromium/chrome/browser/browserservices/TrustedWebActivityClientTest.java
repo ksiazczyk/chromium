@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trusted Web Activity client tests
+// summary: Tests TrustedWebActivityClient behavior such as notifications through a test TrustedWebActivityService and MessengerService in the support APK.
+// ---
+
 package org.chromium.chrome.browser.browserservices;
 
 import android.content.ComponentName;

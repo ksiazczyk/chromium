@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom Tabs test utilities JNI bridge
+// summary: Native JNI implementation for Custom Tabs test utilities that checks whether a variation ID is present in the variations provider's list.
+// ---
+
 #include <algorithm>
 
 #include "components/variations/variations_ids_provider.h"

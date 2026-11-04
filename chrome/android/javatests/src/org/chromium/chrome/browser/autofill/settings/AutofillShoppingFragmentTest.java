@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill shopping fragment tests
+// summary: Instrumentation tests for shopping-related autofill settings, covering autofill AI entities, preferences, and reauthentication behavior.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import static androidx.test.espresso.Espresso.onView;

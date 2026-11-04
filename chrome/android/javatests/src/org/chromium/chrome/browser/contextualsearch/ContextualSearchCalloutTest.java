@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual Search callout instrumentation tests
+// summary: Instrumentation tests for the touch-to-search callout feature, checking callout opacity during peek-to-expand transitions and with a visible custom image.
+// ---
+
 package org.chromium.chrome.browser.contextualsearch;
 
 import androidx.test.filters.SmallTest;

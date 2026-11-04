@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the crash test directory
+summary: Chromium OWNERS file that delegates review ownership to the shared OWNERS list in components/crash/android.

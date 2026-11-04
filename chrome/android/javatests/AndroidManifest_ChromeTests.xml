@@ -3,6 +3,13 @@
      Use of this source code is governed by a BSD-style license that can be
      found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Extra manifest entries for Chrome test APKs
+summary: Declares additional activities, intent filters, and services used by ChromePublicTest.apk but not shared with other chrome_public_test_apk_tmpl tests.
+-->
+
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
           package="org.chromium.chrome.tests">
     <!-- Contatins entries used by ChromePublicTest.apk, but not by other tests

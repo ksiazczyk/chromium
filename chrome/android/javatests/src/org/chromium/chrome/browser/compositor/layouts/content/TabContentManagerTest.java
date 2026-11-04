@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabContentManagerTest
+// summary: Android instrumentation tests for Chrome's TabContentManager, covering live layer drawing and JPEG thumbnail refetching with render test comparisons.
+// ---
+
 package org.chromium.chrome.browser.compositor.layouts.content;
 
 import android.graphics.Bitmap;

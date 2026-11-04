@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tabbed mode app menu popup tests
+// summary: Tests the tabbed mode app menu popup, including menu item structure, actions, and render tests for badges on sync errors.
+// ---
+
 package org.chromium.chrome.browser.app.appmenu;
 
 import static org.junit.Assert.assertEquals;

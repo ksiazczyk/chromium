@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for accessibility tests
+summary: Owners file that delegates review ownership to the OWNERS file of the accessibility source directory.

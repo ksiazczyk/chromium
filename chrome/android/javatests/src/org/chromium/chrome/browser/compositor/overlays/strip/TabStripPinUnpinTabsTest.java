@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab strip pin and unpin tabs instrumentation tests
+// summary: Instrumentation tests for pinning and unpinning tabs on the LFF tab strip, checking menu labels and pinned tab widths.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip;
 
 import static androidx.test.espresso.Espresso.onView;

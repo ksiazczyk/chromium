@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAPK tab reparenting token handler
+// summary: Singleton that attaches secure random tokens to launch intents so tabs reparented into a WebAPK can be validated when bounced back through Chrome's launcher activity.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import android.content.Intent;

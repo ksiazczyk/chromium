@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApkActivityLifecycleUmaTracker
+// summary: Records UMA user metrics for WebAPK activities, covering cold starts, splash screen metrics, and shell APK version reporting across activity lifecycle events.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

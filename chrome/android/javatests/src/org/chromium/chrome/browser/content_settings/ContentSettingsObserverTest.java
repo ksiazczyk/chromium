@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ContentSettingsObserverTest
+// summary: Android browser tests verifying that ContentSettingsObserver notifies on content setting changes, such as blocking JavaScript for a URL.
+// ---
+
 package org.chromium.chrome.browser.content_settings;
 
 import android.text.TextUtils;

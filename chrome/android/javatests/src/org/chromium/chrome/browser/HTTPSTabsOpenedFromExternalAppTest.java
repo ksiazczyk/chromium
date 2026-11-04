@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HTTPS tabs opened from external app tests
+// summary: Tests referrer policy behavior for tabs opened from an external app that navigate to HTTPS URLs, using an embedded HTTPS test server.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.chromium.chrome.browser.TabsOpenedFromExternalAppTest.HTTP_REFERRER;

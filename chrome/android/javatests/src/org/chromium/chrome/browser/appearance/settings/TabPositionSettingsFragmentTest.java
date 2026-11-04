@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabPositionSettingsFragmentTest
+// summary: JUnit instrumented tests for the tab position settings fragment, covering vertical tabs eligibility, expand-on-hover toggling, window width behavior and settings search indexing under the Android vertical tabs feature.
+// ---
+
 package org.chromium.chrome.browser.appearance.settings;
 
 import static org.junit.Assert.assertEquals;

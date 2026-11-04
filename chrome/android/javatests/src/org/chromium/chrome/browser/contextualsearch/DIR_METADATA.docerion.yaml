@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Contextual Search test directory metadata
+summary: Metadata for the Contextual Search test directory, declaring the monorail component, team email, and Buganizer component.

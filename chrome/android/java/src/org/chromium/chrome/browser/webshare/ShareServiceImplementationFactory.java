@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShareService implementation factory
+// summary: Factory that creates ShareService instances, wiring the Web Share API to Chrome's share delegate with permission and user-activation checks on Android.
+// ---
+
 package org.chromium.chrome.browser.webshare;
 
 import org.chromium.build.annotations.NullMarked;

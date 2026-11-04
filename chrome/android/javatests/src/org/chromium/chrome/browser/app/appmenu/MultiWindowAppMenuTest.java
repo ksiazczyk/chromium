@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multi-window app menu tests
+// summary: Public Transit tests for app menu operations in multi-window, such as opening a new window from a web page or incognito NTP.
+// ---
+
 package org.chromium.chrome.browser.app.appmenu;
 
 import static org.junit.Assert.assertEquals;

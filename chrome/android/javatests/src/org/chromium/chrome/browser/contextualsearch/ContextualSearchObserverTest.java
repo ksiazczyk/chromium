@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual Search observer instrumentation tests
+// summary: Instrumentation tests verifying that ContextualSearchObserver receives show and hide notifications during panel trigger and dismissal interactions.
+// ---
+
 package org.chromium.chrome.browser.contextualsearch;
 
 import androidx.test.filters.SmallTest;

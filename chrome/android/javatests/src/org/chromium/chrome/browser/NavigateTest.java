@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL bar navigation tests
+// summary: Tests navigating from the URL bar, covering omnibox behavior, page loads and back press handling.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static androidx.test.espresso.Espresso.onView;

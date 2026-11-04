@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for Features enable and disable annotations
+// summary: Verifies that the EnableFeatures and DisableFeatures annotations correctly add to and preserve existing command-line feature flags.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.hamcrest.MatcherAssert.assertThat;

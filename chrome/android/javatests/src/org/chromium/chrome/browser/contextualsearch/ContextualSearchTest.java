@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual Search panel and manager gesture tests
+// summary: Instrumentation tests that mock touch and selection events to verify Contextual Search panel and manager behavior, such as closing the panel after taps.
+// ---
+
 package org.chromium.chrome.browser.contextualsearch;
 
 import androidx.test.filters.SmallTest;

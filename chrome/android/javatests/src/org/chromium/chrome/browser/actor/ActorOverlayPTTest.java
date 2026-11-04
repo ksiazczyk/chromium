@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Actor overlay integration test
+// summary: Integration test for the Actor overlay covering initial inflation, visibility, and click and back-press snackbar behavior.
+// ---
+
 package org.chromium.chrome.browser.actor;
 
 import static androidx.test.espresso.Espresso.onView;

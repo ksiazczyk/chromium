@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApkActivityCoordinator
+// summary: Coordinator for the WebAPK activity component that increments launch counts, triggers WebAPK updates, and registers installed webapp clients and permissions on startup.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import android.os.Build;

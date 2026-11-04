@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark edit desktop dialog tests
+// summary: Instrumentation tests for BookmarkEditActivity when the Android desktop bookmark dialog feature is enabled.
+// ---
+
 package org.chromium.chrome.browser.app.bookmarks;
 
 import android.view.View;

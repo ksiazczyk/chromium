@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill card benefits fragment instrumentation tests
+// summary: Instrumentation tests for AutofillCardBenefitsFragment, verifying card benefit toggles, terms and learn-more links, and preference behavior.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import static androidx.test.espresso.Espresso.onView;

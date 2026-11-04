@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAPK offline network error dialog
+// summary: Shows an alert dialog notifying the user of network errors while loading a WebAPK's start URL, with an OK action that finishes the activity.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import android.app.Activity;

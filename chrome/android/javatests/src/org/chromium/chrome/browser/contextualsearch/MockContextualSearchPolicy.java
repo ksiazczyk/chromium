@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock Contextual Search policy for tests
+// summary: Mock ContextualSearchPolicy subclass without business logic, used to stub policy decisions in Contextual Search tests.
+// ---
+
 package org.chromium.chrome.browser.contextualsearch;
 
 import org.chromium.chrome.browser.profiles.Profile;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NonCardPaymentMethodsManagementFragmentTest
+// summary: Instrumentation tests for the NonCardPaymentMethodsManagementFragment in Chrome's autofill settings, covering e-wallet and non-card payment method preferences.
+// ---
+
 package org.chromium.chrome.browser.autofill.settings;
 
 import static com.google.common.truth.Truth.assertThat;

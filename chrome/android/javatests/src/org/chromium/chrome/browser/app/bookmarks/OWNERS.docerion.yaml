@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Bookmarks tests OWNERS
+summary: Delegates review ownership to the OWNERS file of the corresponding bookmarks source directory.

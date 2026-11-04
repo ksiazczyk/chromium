@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CipherFactoryTest
+// summary: Functional JUnit tests for CipherFactory verifying cipher encryption and decryption and restoring keys from Bundle and PersistableBundle state.
+// ---
+
 package org.chromium.chrome.browser.crypto;
 
 import static org.junit.Assert.assertArrayEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab strip render tests
+// summary: Render tests for the tab strip, focusing on shared tab group avatar rendering scenarios such as member changes and RTL layout.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip;
 
 import static org.mockito.ArgumentMatchers.any;

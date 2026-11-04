@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keyboard shortcuts unit tests
+// summary: Unit tests for keyboard shortcut handling such as tab selection, closing tabs and opening the home page.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.junit.Assert.assertEquals;

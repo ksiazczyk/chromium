@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SwipeRefreshHandler test
+// summary: Instrumentation test for SwipeRefreshHandler, covering pull-to-refresh activation, accessibility announcements and refresh behavior on tab content views.
+// ---
+
 package org.chromium.chrome.browser;
 
 import static org.junit.Assert.assertEquals;

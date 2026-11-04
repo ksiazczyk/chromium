@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeActionModeHandler tests
+// summary: Instrumentation test checking that ChromeActionModeHandler sets up a supported action mode for new tabs.
+// ---
+
 package org.chromium.chrome.browser;
 
 import androidx.test.filters.SmallTest;

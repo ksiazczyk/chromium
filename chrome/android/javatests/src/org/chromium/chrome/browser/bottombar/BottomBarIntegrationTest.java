@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bottom Bar extra button integration tests
+// summary: Integration tests verifying that the Android bottom bar extra button shows a Glic/Gemini button when enabled and hides it when disabled.
+// ---
+
 package org.chromium.chrome.browser.bottombar;
 
 import static org.hamcrest.Matchers.anyOf;

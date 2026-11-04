@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SmartClipProvider test
+// summary: Instrumentation test for the SmartClipProvider, checking that title, URL, text, HTML and rect data are returned for content on a test page.
+// ---
+
 package org.chromium.chrome.browser;
 
 import android.content.pm.ApplicationInfo;

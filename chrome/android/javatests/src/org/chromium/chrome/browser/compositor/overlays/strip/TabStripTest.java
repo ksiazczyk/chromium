@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab strip test suite
+// summary: Large instrumentation test suite verifying that the tab strip properly represents the TabModel backend.
+// ---
+
 package org.chromium.chrome.browser.compositor.overlays.strip;
 
 import static org.chromium.chrome.test.util.ChromeTabUtils.getIndexOnUiThread;

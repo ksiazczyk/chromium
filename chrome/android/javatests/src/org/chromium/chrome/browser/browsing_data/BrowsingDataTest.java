@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowsingDataTest
+// summary: Integration tests for browsing data deletion, checking cookies, site data and stored passwords after clearing via BrowsingDataBridge.
+// ---
+
 package org.chromium.chrome.browser.browsing_data;
 
 import static org.chromium.base.test.util.Matchers.is;

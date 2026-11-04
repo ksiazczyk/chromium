@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Launcher shortcut tests
+// summary: Parameterized tests for Android NMR1 launcher shortcuts opening regular or incognito tabs.
+// ---
+
 package org.chromium.chrome.browser;
 
 import android.app.Activity;

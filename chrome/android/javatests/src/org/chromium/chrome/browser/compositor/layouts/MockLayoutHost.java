@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock layout host for layout tests
+// summary: Stripped-down mock implementing LayoutManagerHost and LayoutRenderHost with fixed portrait and landscape sizes, used to support compositor layout tests.
+// ---
+
 package org.chromium.chrome.browser.compositor.layouts;
 
 import android.content.Context;

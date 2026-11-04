@@ -1,3 +1,13 @@
+---
+type: readme
+title: Android Webapps & WebAPKs directory overview
+summary: Explains the lifecycle and wiring of Chrome's Android WebAPK code, including activity structure and the manifest update pipeline.
+relations:
+  - references /components/webapps/docs/android_architecture.md
+  - references /components/webapps/docs/android_registration_and_permissions.md
+  - references /components/webapps/docs/android_testing_guide.md
+---
+
 # Android Webapps & WebAPKs (`chrome/android/java/.../webapps`)
 
 This directory contains the primary Java implementations for Web Applications

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Partner bookmark tests
+// summary: Instrumentation tests for the bookmark manager that include partner bookmarks, using mocked shopping services.
+// ---
+
 package org.chromium.chrome.browser.app.bookmarks;
 
 import static org.junit.Assert.assertEquals;

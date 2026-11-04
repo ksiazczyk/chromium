@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BookmarkBarSettingsFragmentTest
+// summary: JUnit instrumented tests for the bookmark bar settings fragment, verifying visibility state handling, pref change observers and feature engagement tracking under the bookmarks bar NTP feature.
+// ---
+
 package org.chromium.chrome.browser.appearance.settings;
 
 import static org.mockito.Mockito.anyInt;

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA
+summary: Directory metadata applying the shared browsing_data COMMON_METADATA mixin to this test directory.

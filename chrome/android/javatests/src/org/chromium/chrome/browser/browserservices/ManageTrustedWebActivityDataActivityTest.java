@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Manage Trusted Web Activity data activity tests
+// summary: Instrumentation tests verifying that site settings launch for WebAPKs via the ManageTrustedWebActivityDataActivity intent.
+// ---
+
 package org.chromium.chrome.browser.browserservices;
 
 import android.app.Activity;

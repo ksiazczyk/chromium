@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Archived tabs tests
+// summary: Instrumentation tests exercising ArchivedTabModelOrchestrator and tab archive settings in tabbed mode.
+// ---
+
 package org.chromium.chrome.browser.app.tabmodel;
 
 import static com.google.common.truth.Truth.assertThat;

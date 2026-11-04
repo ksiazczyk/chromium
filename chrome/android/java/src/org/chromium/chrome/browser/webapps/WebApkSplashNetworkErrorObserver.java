@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAPK splash screen network error observer
+// summary: TabObserver that shows an offline dialog over the WebAPK splash screen on network errors and triggers reloads when connectivity is restored.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import android.app.Activity;

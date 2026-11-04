@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Edge-to-edge instrumentation tests for Chrome Android
+// summary: Instrumentation tests verifying Chrome Android edge-to-edge behavior, including viewport-fit pages, render tests, snackbars and bottom controls.
+// ---
+
 package org.chromium.chrome.browser.app.edge_to_edge;
 
 import static org.hamcrest.Matchers.is;

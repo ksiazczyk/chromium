@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeItemPickerActivity instrumentation tests
+// summary: Instrumentation tests that launch ChromeItemPickerActivity with incognito and window ID extras and verify its theme color and TabListEditorLayout behavior.
+// ---
+
 package org.chromium.chrome.browser.chrome_item_picker;
 
 import static org.junit.Assert.assertEquals;

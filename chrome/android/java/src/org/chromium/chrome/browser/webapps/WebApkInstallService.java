@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApkInstallService
+// summary: Java counterpart of webapk_install_service.h that shows notifications when a WebAPK install completes and may launch the newly installed app.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import android.app.PendingIntent;

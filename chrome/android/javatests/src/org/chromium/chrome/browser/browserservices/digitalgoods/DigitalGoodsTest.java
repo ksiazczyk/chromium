@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Digital Goods flow instrumented tests
+// summary: Instrumented Chrome Android tests that verify the Digital Goods API plumbing from JavaScript test pages through the Trusted Web Activity client to DigitalGoodsFactoryImpl.
+// ---
+
 package org.chromium.chrome.browser.browserservices.digitalgoods;
 
 import static org.junit.Assert.assertEquals;

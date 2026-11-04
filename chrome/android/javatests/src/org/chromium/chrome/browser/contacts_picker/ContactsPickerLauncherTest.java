@@ -1,6 +1,13 @@
 // Copyright 2021 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Contacts Picker launcher test
+// summary: Android instrumentation test suite that launches Chrome's Contacts Picker via Espresso and verifies its dialog behavior and user actions.
+// ---
+
 package org.chromium.chrome.browser.contacts_picker;
 
 import static androidx.test.espresso.Espresso.onView;

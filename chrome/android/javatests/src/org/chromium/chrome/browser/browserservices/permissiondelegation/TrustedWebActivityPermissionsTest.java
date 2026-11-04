@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TrustedWebActivityPermissionsTest
+// summary: Parameterized Android test verifying that cached permissions for Trusted Web Activities affect the actual permission state, such as notifications.
+// ---
+
 package org.chromium.chrome.browser.browserservices.permissiondelegation;
 
 import static org.junit.Assert.assertEquals;

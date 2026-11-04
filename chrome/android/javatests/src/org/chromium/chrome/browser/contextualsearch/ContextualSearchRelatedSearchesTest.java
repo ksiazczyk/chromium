@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual Search Related Searches instrumentation tests
+// summary: Instrumentation tests that verify the Related Searches feature of Contextual Search, including chip selection in the Bar and SERP offset behavior.
+// ---
+
 package org.chromium.chrome.browser.contextualsearch;
 
 import androidx.test.filters.SmallTest;

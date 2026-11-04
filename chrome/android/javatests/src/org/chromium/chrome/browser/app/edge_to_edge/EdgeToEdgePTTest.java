@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Edge-to-edge public transit tests
+// summary: Tests edge-to-edge behavior such as viewport-fit cover pages and bottom chin visibility using the public transit test framework.
+// ---
+
 package org.chromium.chrome.browser.app.edge_to_edge;
 
 import static org.junit.Assert.assertEquals;

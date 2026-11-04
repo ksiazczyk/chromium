@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the compositor javatests directory
+summary: Points to the COMMON_METADATA mixin of the compositor source directory for this test folder's metadata.

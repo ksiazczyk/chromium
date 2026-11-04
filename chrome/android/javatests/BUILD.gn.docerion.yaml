@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for Chrome Android instrumentation tests
+summary: Defines test-only GN targets for Chrome Android tests, including the chrome_test_java_helper library of shared test rules and utilities.

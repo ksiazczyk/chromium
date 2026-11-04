@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tablet bookmark manager tests
+// summary: Espresso tests for the bookmark manager UI on tablet form factors with the desktop bookmark features disabled.
+// ---
+
 package org.chromium.chrome.browser.app.bookmarks;
 
 import static androidx.test.espresso.Espresso.onView;

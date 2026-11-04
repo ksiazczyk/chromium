@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AnchoredDialogTest
+// summary: Instrumentation tests verifying the AnchoredDialogCoordinator's show, hide, and bottom sheet observer behavior on tablet or desktop form factors.
+// ---
+
 package org.chromium.chrome.browser.autofill.anchored_dialog;
 
 import static org.junit.Assert.assertEquals;

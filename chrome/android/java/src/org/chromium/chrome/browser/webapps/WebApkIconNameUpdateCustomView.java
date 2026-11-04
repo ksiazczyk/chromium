@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApkIconNameUpdateCustomView
+// summary: Custom LinearLayout view for the WebAPK icon and name update dialog that displays the old and new icons, names, and short names side by side.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import android.content.Context;

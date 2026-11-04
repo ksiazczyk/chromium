@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebappActivityCoordinator
+// summary: Coordinator shared between webapp and WebAPK activity components that initializes webapp storage, records launch metrics, and cleans up directories on start.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import android.app.Activity;

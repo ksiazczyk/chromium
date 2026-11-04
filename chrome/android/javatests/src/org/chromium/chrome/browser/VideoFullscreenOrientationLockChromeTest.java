@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VideoFullscreenOrientationLockChromeTest
+// summary: Instrumented tests checking that fullscreen video locks the screen orientation to landscape in Chrome.
+// ---
+
 package org.chromium.chrome.browser;
 
 import android.content.Intent;

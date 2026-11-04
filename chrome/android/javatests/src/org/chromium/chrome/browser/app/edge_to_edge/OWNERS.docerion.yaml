@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Edge-to-edge OWNERS
+summary: Points code ownership for this test directory to the shared edge-to-edge OWNERS file.

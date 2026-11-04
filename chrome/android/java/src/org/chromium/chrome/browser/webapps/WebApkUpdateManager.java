@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAPK update manager
+// summary: Schedules and manages WebAPK Web Manifest update checks, sending update requests to the WebAPK server and recording update-related metrics.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

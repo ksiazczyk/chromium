@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebappActivity
+// summary: Activity that displays a web app in a nearly UI-less Chrome, building the appropriate intent data provider for plain webapps and WebAPKs.
+// ---
+
 package org.chromium.chrome.browser.webapps;
 
 import static org.chromium.components.webapk.lib.common.WebApkConstants.WEBAPK_PACKAGE_PREFIX;

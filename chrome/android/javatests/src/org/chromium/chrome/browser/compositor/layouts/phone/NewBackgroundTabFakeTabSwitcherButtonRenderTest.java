@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: New Background Tab Fake Tab Switcher Button Render Test
+// summary: Android render test that verifies the visual appearance and animations of the fake tab switcher button shown for new background tabs, comparing rendered views against golden images.
+// ---
+
 package org.chromium.chrome.browser.compositor.layouts.phone;
 
 import static org.chromium.base.ThreadUtils.runOnUiThreadBlocking;
