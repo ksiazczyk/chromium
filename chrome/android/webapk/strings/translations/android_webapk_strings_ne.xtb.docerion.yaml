@@ -1,0 +1,4 @@
+# Docerion header of android_webapk_strings_ne.xtb.
+type: data
+title: Nepali Android WebAPK strings (ne)
+summary: XML translation bundle with Nepali localized strings for the Android WebAPK UI, covering install, close, unsupported browser, and site settings messages.

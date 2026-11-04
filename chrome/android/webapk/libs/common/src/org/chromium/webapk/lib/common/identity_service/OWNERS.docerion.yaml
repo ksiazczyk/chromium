@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Sets per-file review ownership rules, delegating reviews of AIDL files in this directory to the IPC security owners.

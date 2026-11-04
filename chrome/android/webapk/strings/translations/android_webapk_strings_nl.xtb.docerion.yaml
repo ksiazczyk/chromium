@@ -1,0 +1,4 @@
+# Docerion header of android_webapk_strings_nl.xtb.
+type: data
+title: Dutch Android WebAPK strings (nl)
+summary: XML translation bundle with Dutch localized strings for the Android WebAPK UI, covering install, close, unsupported browser, and site settings messages.

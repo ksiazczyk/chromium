@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApkServiceImplWrapper adding fallback functionality to the runtime library
+// summary: Wraps WebApkServiceImpl to handle notification posting and permission checks when the host browser's runtime library is outdated, verifying caller UID.
+// ---
+
 package org.chromium.webapk.shell_apk;
 
 import android.app.Notification;

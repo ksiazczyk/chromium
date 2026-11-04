@@ -1,1 +1,7 @@
+---
+type: readme
+title: WebAPK client library README
+summary: Brief README explaining that this library is linked into the Chrome APK and provides functionality to communicate with WebAPKs.
+---
+
 Library linked into Chrome APK which provides functionality to communicate with WebAPKs.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebApkServiceImplTest
+// summary: Instrumentation tests verifying that the WebAPK service enforces caller permissions and that notification calls create high-importance channels.
+// ---
+
 package org.chromium.webapk.lib.runtime_library;
 
 import android.app.Notification;

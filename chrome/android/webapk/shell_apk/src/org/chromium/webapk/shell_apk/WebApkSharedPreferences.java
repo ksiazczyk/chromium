@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApkSharedPreferences constants and utilities for WebAPK preferences
+// summary: Defines shared preference keys for host browser, dex version and splash dimensions, with helpers to read, clear and flush WebAPK preferences.
+// ---
+
 package org.chromium.webapk.shell_apk;
 
 import android.annotation.SuppressLint;

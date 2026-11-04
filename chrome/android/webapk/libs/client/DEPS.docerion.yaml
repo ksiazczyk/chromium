@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: WebAPK client include rules
+summary: DEPS file listing the include rules that specify which Chromium paths the client directory may depend on.

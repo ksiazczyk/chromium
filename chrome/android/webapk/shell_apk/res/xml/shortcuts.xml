@@ -1,3 +1,9 @@
+<!--docerion
+type: source
+title: WebAPK shell app shortcuts XML template
+summary: Mustache template that generates the Android shortcuts resource for WebAPK shell APKs, defining up to four app shortcuts with templated icons, labels, and launch intents.
+-->
+
 <shortcuts xmlns:android='http://schemas.android.com/apk/res/android'>
 
   {{#shortcut_1}}

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: WebAPK shell APK dimension resources
+summary: Defines text sizes and dialog and list padding dimensions following Material specs for the WebAPK shell APK UI.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Common text sizes -->
     <dimen name="headline_size_medium">20sp</dimen>

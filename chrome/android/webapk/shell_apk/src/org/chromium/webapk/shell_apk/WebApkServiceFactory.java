@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApkServiceFactory shell service loading the WebAPK service implementation
+// summary: Android service that loads WebApkServiceImpl from the host browser's dex via reflection and binds it for WebAPK notification delegation.
+// ---
+
 package org.chromium.webapk.shell_apk;
 
 import android.app.Service;

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: WebAPK shell APK v31 dimension resources
+summary: Defines the 240dp icon size for the splash screen shown when the WebAPK browser is killed by Android out-of-memory on Android 12 and later.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- The size of the icon that is displayed on the splash screen shown when the browser has
          been killed because Android is Out Of Memory. This is the only time we create the splash

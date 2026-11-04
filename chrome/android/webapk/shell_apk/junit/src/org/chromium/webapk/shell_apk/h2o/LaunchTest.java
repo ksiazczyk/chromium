@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'LaunchTest: WebAPK launch Robolectric tests'
+// summary: Robolectric tests verifying WebAPK launch flows, including deep links, host browser launching, and site settings shortcuts.
+// ---
+
 package org.chromium.webapk.shell_apk.h2o;
 
 import static org.junit.Assert.assertFalse;

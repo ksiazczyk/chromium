@@ -1,0 +1,4 @@
+# Docerion header of proguard.flags.
+type: config
+title: ProGuard keep rules for WebAPK shell APK classes
+summary: Keeps shell APK activity and provider classes referenced by old-style or new-style manifests from being stripped, since the server shares one classes.dex.

@@ -1,0 +1,4 @@
+# Docerion header of android_webapk_strings_pt-PT.xtb.
+type: data
+title: European Portuguese Android WebAPK strings (pt-PT)
+summary: XML translation bundle with European Portuguese localized strings for the Android WebAPK UI, covering install, close, unsupported browser, and site settings messages.

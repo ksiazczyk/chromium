@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApkServiceImpl
+// summary: Implements the WebAPK-side binder service offered to Chrome, handling notification channels, permission checks, task removal and caller UID verification.
+// ---
+
 package org.chromium.webapk.lib.runtime_library;
 
 import android.annotation.SuppressLint;

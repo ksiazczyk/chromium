@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: WebAPK runtime library build targets
+summary: GN build file defining the AIDL, Java library, dex asset and test targets that build the WebAPK runtime library.

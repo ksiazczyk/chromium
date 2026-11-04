@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for current_version
+summary: Grants ownership of current_version.gni to all users via a per-file rule, so anyone can approve changes to the WebAPK version file.

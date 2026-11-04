@@ -1,0 +1,4 @@
+# Docerion header of common.aidl.
+type: source
+title: Common AIDL declaration for IWebApkApi
+summary: Declares the org.chromium.webapk.lib.runtime_library.IWebApkApi interface for use in AIDL builds.

@@ -1,0 +1,4 @@
+# Docerion header of unbound_manifest_config.json.
+type: config
+title: Unbound WebAPK manifest config
+summary: Manifest configuration for an unbound WebAPK of doom-fire.com, specifying scope, colors and icons without binding to a runtime host.

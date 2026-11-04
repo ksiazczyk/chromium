@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'H2OOpaqueMainActivity: opaque entry activity launching SplashActivity'
+// summary: Activity that handles MAIN intents for new-style WebAPKs, launching SplashActivity and bringing existing tasks to the front without transitions.
+// ---
+
 package org.chromium.webapk.shell_apk.h2o;
 
 import android.app.Activity;

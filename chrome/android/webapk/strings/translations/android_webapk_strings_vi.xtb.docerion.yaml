@@ -1,0 +1,4 @@
+# Docerion header of android_webapk_strings_vi.xtb.
+type: data
+title: Vietnamese WebAPK strings translation bundle
+summary: Vietnamese translations of Android WebAPK UI strings, covering site settings, browser support messages, and install and close prompts.

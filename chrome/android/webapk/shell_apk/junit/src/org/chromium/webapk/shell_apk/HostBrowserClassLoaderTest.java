@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HostBrowserClassLoaderTest
+// summary: Robolectric unit tests for HostBrowserClassLoader covering runtime dex version upgrades, cached dex handling, and reuse of the class loader between calls.
+// ---
+
 package org.chromium.webapk.shell_apk;
 
 import android.content.Context;

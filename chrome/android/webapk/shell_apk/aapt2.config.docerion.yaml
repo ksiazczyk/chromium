@@ -1,0 +1,4 @@
+# Docerion header of aapt2.config.
+type: config
+title: AAPT2 no-collapse resource configuration
+summary: Lists WebAPK resources such as app and splash icons and shortcut XML that AAPT2 must not collapse when building the shell APK.

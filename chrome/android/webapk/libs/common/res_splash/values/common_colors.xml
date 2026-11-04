@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Common colors for WebAPK splash screens
+summary: Defines shared color resources such as the default web app background and splash title colors used by WebAPK splash screens in Chromium for Android.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <color name="webapp_default_bg">#F8F9FA</color>
     <color name="webapp_grey_900">#202124</color>

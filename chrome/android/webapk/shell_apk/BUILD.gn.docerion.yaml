@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the WebAPK shell APK
+summary: Defines GN targets for building the WebAPK shell APK, including manifest generation passes for upload and Java library templates for the shell code.

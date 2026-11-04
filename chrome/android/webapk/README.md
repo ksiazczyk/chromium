@@ -1,3 +1,11 @@
+---
+type: readme
+title: WebAPKs overview
+summary: Explains what WebAPKs are, the layout of the shell APK and shared libraries, and how to install and build WebAPKs locally.
+relations:
+  - references /chrome/android/webapk/shell_apk/manifest/bound_manifest_config.json
+---
+
 WebAPKs
 --
 A WebAPK is an APK which is installed by "Add to Home screen" in the Chrome app menu

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DexLoader
+// summary: Creates a ClassLoader for a .dex file extracted from the host browser's APK, caching and optimizing it locally and cleaning up cached dex files.
+// ---
+
 package org.chromium.webapk.shell_apk;
 
 import android.content.Context;

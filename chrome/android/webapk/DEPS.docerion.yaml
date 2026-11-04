@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: WebAPK dependency include rules
+summary: Defines include rules that keep the WebAPK code independent of Chrome by blocking base, chrome, content, and testing dependencies.

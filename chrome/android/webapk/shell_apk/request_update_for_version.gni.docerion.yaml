@@ -1,0 +1,4 @@
+# Docerion header of request_update_for_version.gni.
+type: config
+title: ShellAPK version triggering WebAPK updates
+summary: Sets request_update_for_shell_apk_version, the ShellAPK version below which Chrome requests a WebAPK update after a new shell APK is uploaded.

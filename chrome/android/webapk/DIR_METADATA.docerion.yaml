@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: WebAPK issue tracking metadata
+summary: Maps the directory to the Mobile>WebAPKs monorail component and the webapk team email for issue and bug routing.

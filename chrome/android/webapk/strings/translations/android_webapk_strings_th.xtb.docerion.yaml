@@ -1,0 +1,4 @@
+# Docerion header of android_webapk_strings_th.xtb.
+type: data
+title: Thai WebAPK strings translation bundle
+summary: Thai translations of Android WebAPK UI strings, covering site settings, browser support messages, and install and close prompts.

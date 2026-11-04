@@ -1,0 +1,4 @@
+# Docerion header of runtime_library_version.gni.
+type: config
+title: WebAPK runtime library version
+summary: Defines the runtime_library_version GN variable, which must be incremented whenever the WebAPK runtime library is updated so the WebAPK re-extracts it from the Chrome APK.

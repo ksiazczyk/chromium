@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostBrowserUtils
+// summary: Utility methods for resolving the host browser's package and component names and checking support for WebAPK notification delegation.
+// ---
+
 package org.chromium.webapk.shell_apk;
 
 import android.content.ComponentName;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TransparentLauncherActivity for launching the host browser
+// summary: UI-less activity that selects and launches the host browser for a WebAPK, granting URI permissions when sharing.
+// ---
+
 package org.chromium.webapk.shell_apk;
 
 import android.app.Activity;

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: WebAPK directory owners
+summary: Lists the Chromium developers responsible for reviewing changes to the WebAPK directory.

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: WebAPK splash screen layout without icon
+summary: Android layout for the icon-less WebAPK splash screen that shows only the app name, positioned above a centered spacer view to achieve the required upward shift.
+-->
+
 <!-- Unlike with the other two splash screen layouts, this one shows no image and the BOTTOM of
      the TextView is shifted upward, not its center.  This is implemented by centering a Space
      View in the center of the screen that is twice the height of the required spacing and then

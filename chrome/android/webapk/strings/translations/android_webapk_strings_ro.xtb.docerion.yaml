@@ -1,0 +1,4 @@
+# Docerion header of android_webapk_strings_ro.xtb.
+type: data
+title: Romanian Android WebAPK strings (ro)
+summary: XML translation bundle with Romanian localized strings for the Android WebAPK UI, covering install, close, unsupported browser, and site settings messages.

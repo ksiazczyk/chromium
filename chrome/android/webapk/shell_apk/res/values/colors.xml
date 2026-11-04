@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: WebAPK shell APK color resources
+summary: Defines color resources such as black alpha shades and a white adaptive launcher background used by the WebAPK shell APK.
+-->
+
 <resources>
     <!-- Common colors-->
     <color name="webapk_black_alpha_38">#61000000</color>

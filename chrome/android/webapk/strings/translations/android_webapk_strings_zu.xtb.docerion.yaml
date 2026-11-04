@@ -1,0 +1,4 @@
+# Docerion header of android_webapk_strings_zu.xtb.
+type: data
+title: Android WebAPK strings translation bundle for Zulu
+summary: Zulu translations of Android WebAPK UI strings, including install and close button labels and browser requirement messages, stored in Chromium's translation bundle format.

@@ -1,0 +1,4 @@
+# Docerion header of android_webapk_strings_ja.xtb.
+type: data
+title: Japanese WebAPK strings translation bundle
+summary: Japanese translations of Android WebAPK UI strings, covering install, close, site settings, and browser selection messages.

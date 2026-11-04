@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for WebAPK shell APK dependencies
+summary: DEPS allowlist permitting the shell APK to include code from chrome/android/webapk/libs/common and components/webapk/android/libs/common.

@@ -1,0 +1,4 @@
+# Docerion header of android_webapk_strings_zh-TW.xtb.
+type: data
+title: Traditional Chinese WebAPK strings translation bundle
+summary: Traditional Chinese (Taiwan) translations of Android WebAPK UI strings, covering site settings, browser support messages, and install and close prompts.

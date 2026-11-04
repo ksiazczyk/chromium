@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApkConstants
+// summary: Defines WebAPK-related constants, including intent extras, notification channel IDs, the OpaqueMainActivity class name, and shortcut source values shared with Chrome.
+// ---
+
 package org.chromium.webapk.lib.common;
 import org.chromium.build.annotations.NullMarked;
 

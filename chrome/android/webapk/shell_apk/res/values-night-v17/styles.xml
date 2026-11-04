@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Night-mode splash theme styles for WebAPK shell APK
+summary: Defines the Android SplashTheme style with a dark window background color used by the WebAPK shell APK in night mode on API 17+ devices.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
   <style name="SplashTheme" parent="@android:style/Theme.Holo">
     <item name="android:windowActionBar">false</item>

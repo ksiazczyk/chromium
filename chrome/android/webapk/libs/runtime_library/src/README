@@ -1,3 +1,9 @@
+---
+type: readme
+title: WebAPK Runtime Library README
+summary: Describes the WebAPK runtime library's role in implementing the WebAPK service and launching Chrome in WebAPK mode, and explains when to increment the version number.
+---
+
 The runtime library contains:
 1) Implementation of the WebAPK service. The service implements functionality
 which Chrome delegates to the WebAPK such as displaying notifications.

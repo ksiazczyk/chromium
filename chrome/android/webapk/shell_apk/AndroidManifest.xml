@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: WebAPK shell APK Android manifest template
+summary: Mustache template that generates the Android manifest in two passes, one for the manifest uploaded to the WebAPK minting server and one for locally built test APKs.
+-->
+
 <!-- AndroidManifest.xml is generated in two mustache generation passes.
      Pass #1 with square bracket delimiter to generate AndroidManifest.xml to
              be uploaded to the WebAPK Minting Server. Fields which cannot be

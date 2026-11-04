@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationPermissionRequestActivity
+// summary: Transparent activity that requests the notification permission on Android T and later and reports the result back through a Messenger.
+// ---
+
 package org.chromium.webapk.shell_apk;
 
 import android.Manifest;

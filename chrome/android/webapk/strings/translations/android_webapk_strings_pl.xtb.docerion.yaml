@@ -1,0 +1,4 @@
+# Docerion header of android_webapk_strings_pl.xtb.
+type: data
+title: Polish Android WebAPK strings (pl)
+summary: XML translation bundle with Polish localized strings for the Android WebAPK UI, covering install, close, unsupported browser, and site settings messages.

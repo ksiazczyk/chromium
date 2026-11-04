@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Android manifest for test APK with WebAPK service
+summary: Declares the exported TestWebApkServiceImplWrapper service used by the test-only apk_with_webapk_service Android package.
+-->
+
 <!-- package name must be unique. -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="org.chromium.webapk.lib.runtime_library.test.apk_with_webapk_service">

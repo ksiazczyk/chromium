@@ -5,5 +5,11 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Splash icon drawable for WebAPK shell APK
+summary: Android bitmap drawable that reuses the xxhdpi app icon mipmap as the splash screen icon for the WebAPK shell APK.
+-->
+
 <bitmap xmlns:android="http://schemas.android.com/apk/res/android"
     android:src="@mipmap/app_icon_xxhdpi"/>

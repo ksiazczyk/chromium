@@ -1,0 +1,4 @@
+# Docerion header of current_version.gni.
+type: config
+title: WebAPK shell APK current version
+summary: GN file defining current_shell_apk_version, which Chromium compares against the version compiled into installed WebAPKs to decide when they should be updated.

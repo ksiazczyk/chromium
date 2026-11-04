@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'SplashActivity: WebAPK splash screen display'
+// summary: Activity that shows the WebAPK splash screen, captures and encodes it in the background, and coordinates launching the selected host browser.
+// ---
+
 package org.chromium.webapk.shell_apk.h2o;
 
 import android.app.Activity;

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: WebAPK shell APK v31 style resources
+summary: Defines the splash screen and permission request themes for the WebAPK shell APK on Android 12 and later, disabling the OS default splash screen.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
   <style name="SplashTheme" parent="@android:style/Theme.Holo.Light">
     <item name="android:windowActionBar">false</item>

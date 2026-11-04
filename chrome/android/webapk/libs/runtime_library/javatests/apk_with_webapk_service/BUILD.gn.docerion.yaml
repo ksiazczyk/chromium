@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the apk_with_webapk_service test APK
+summary: Defines a test-only Android APK that wraps a WebApkServiceImpl-based test service and depends on the runtime library test targets.

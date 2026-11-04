@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for WebAPK common library
+summary: GN build file defining the common Java library, splash screen library and resources, and identity service AIDL targets for the WebAPK common code.

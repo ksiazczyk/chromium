@@ -1,0 +1,4 @@
+# Docerion header of common.aidl.
+type: source
+title: common.aidl
+summary: Declares the IIdentityServiceApi AIDL interface for the WebAPK identity service.

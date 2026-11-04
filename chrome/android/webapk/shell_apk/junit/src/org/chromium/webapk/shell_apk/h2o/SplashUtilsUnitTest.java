@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'SplashUtilsUnitTest: SplashUtils night mode test'
+// summary: Robolectric unit test verifying SplashUtils sets the correct dark splash screen background color in night mode.
+// ---
+
 package org.chromium.webapk.shell_apk.h2o;
 
 import static org.robolectric.Robolectric.setupActivity;

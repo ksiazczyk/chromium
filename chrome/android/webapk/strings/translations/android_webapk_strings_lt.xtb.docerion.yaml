@@ -1,0 +1,4 @@
+# Docerion header of android_webapk_strings_lt.xtb.
+type: data
+title: Lithuanian WebAPK string translations
+summary: Lithuanian translation bundle with localized Android WebAPK UI strings such as install, close, and site settings prompts.

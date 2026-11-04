@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdentityService
+// summary: Bound Android service that lets browsers query WebAPK information such as the runtime host browser package name via an IIdentityService binder.
+// ---
+
 package org.chromium.webapk.shell_apk;
 
 import android.app.Service;

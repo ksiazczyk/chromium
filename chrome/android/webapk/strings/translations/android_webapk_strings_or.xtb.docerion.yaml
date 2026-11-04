@@ -1,0 +1,4 @@
+# Docerion header of android_webapk_strings_or.xtb.
+type: data
+title: Odia Android WebAPK strings (or)
+summary: XML translation bundle with Odia localized strings for the Android WebAPK UI, covering install, close, unsupported browser, and site settings messages.

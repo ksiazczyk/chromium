@@ -5,5 +5,11 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: WebAPK launcher icon bitmap for hdpi
+summary: Android bitmap resource that points the WebAPK shell launcher icon to the hdpi app icon mipmap.
+-->
+
 <bitmap xmlns:android="http://schemas.android.com/apk/res/android"
     android:src="@mipmap/app_icon_hdpi"/>

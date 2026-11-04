@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApkServiceConnectionManager
+// summary: Manages global service connections between the Chrome application and WebAPK services, dispatching connection callbacks and tracking pending tasks.
+// ---
+
 package org.chromium.webapk.lib.client;
 
 import android.annotation.SuppressLint;

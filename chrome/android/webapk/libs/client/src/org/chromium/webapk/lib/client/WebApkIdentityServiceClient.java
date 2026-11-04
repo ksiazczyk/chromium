@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApkIdentityServiceClient
+// summary: Client API for browsers to connect to a WebAPK's Identity service and asynchronously check whether that browser backs the WebAPK as its runtime host.
+// ---
+
 package org.chromium.webapk.lib.client;
 
 import android.content.Context;

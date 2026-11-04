@@ -1,0 +1,4 @@
+# Docerion header of android_webapk_strings_lo.xtb.
+type: data
+title: Lao WebAPK string translations
+summary: Lao translation bundle with localized Android WebAPK UI strings such as install, close, and site settings prompts.

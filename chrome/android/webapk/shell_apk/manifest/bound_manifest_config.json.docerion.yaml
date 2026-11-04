@@ -1,0 +1,4 @@
+# Docerion header of bound_manifest_config.json.
+type: config
+title: Bound WebAPK manifest config
+summary: Manifest configuration for a bound WebAPK of doom-fire.com, defining scope, start URL, colors, icons, runtime host and share template for the shell APK.

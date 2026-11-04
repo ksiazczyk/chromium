@@ -1,0 +1,4 @@
+# Docerion header of generate_manifest_for_upload_outputs.gni.
+type: config
+title: Output paths for generated upload manifests
+summary: Declares the generated output paths for the ChromeOS and regular AndroidManifest.xml files that are produced for upload to the WebAPK minting server.

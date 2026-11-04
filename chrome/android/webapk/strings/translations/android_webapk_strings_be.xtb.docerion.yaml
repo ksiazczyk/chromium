@@ -1,0 +1,4 @@
+# Docerion header of android_webapk_strings_be.xtb.
+type: data
+title: Belarusian WebAPK strings translation bundle
+summary: Belarusian XTB translation bundle providing localized Android WebAPK UI strings, including install and close buttons, site settings and unsupported browser messages.

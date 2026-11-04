@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LaunchHostBrowserSelector
+// summary: Selects the host browser to launch from metadata or a user dialog, and opens the Play Store to install a browser when none is available.
+// ---
+
 package org.chromium.webapk.shell_apk;
 
 import android.app.Activity;

@@ -1,0 +1,4 @@
+# Docerion header of android_webapk_strings_iw.xtb.
+type: data
+title: Hebrew WebAPK strings translation bundle
+summary: Hebrew translations of Android WebAPK UI strings, covering install, close, site settings, and browser selection messages.

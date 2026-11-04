@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: WebAPK client library build targets
+summary: GN build file defining the client_java Android library and the webapk_client_junit_tests Robolectric test binary with their sources and dependencies.

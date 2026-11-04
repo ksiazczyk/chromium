@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for webapk client JUnit tests
+summary: Defines include_rules for the webapk client JUnit test directory, allowing imports from the client, test, and testing paths.

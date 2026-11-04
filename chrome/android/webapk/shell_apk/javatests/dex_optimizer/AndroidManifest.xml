@@ -4,6 +4,13 @@ Copyright 2016 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Android manifest for the dex optimizer test APK
+summary: Android manifest declaring the DexOptimizer test APK package org.chromium.webapk.shell_apk.test.dex_optimizer used by WebAPK shell tests.
+-->
+
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="org.chromium.webapk.shell_apk.test.dex_optimizer"
     android:versionName="1.0" >

@@ -1,0 +1,4 @@
+# Docerion header of mustache_pass.gni.
+type: config
+title: GN template for Mustache manifest generation passes
+summary: GN template that runs mustache_pass.py to render manifest templates with optional config, delta config, and extra variable inputs.
