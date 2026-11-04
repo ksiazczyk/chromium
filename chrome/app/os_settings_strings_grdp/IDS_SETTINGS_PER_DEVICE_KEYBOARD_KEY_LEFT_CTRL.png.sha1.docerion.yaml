@@ -1,0 +1,4 @@
+# Docerion header of IDS_SETTINGS_PER_DEVICE_KEYBOARD_KEY_LEFT_CTRL.png.sha1.
+type: asset
+title: SHA-1 checksum for left Ctrl key image
+summary: Stores the SHA-1 hash of the PNG image for the per-device keyboard left Ctrl key string in ChromeOS settings.

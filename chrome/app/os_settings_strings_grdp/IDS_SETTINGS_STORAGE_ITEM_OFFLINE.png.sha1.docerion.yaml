@@ -1,0 +1,4 @@
+# Docerion header of IDS_SETTINGS_STORAGE_ITEM_OFFLINE.png.sha1.
+type: asset
+title: SHA1 checksum for offline storage item image
+summary: Holds the SHA1 hash of the PNG image referenced by the IDS_SETTINGS_STORAGE_ITEM_OFFLINE settings string.
