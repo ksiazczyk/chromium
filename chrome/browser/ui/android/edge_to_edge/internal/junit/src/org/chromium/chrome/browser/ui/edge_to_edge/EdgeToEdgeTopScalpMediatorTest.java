@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EdgeToEdgeTopScalpMediatorTest
+// summary: Robolectric tests for the top scalp mediator covering visibility, height, scroll behavior and theme color when the top inset feature is enabled or disabled.
+// ---
+
 package org.chromium.chrome.browser.ui.edge_to_edge;
 
 import static org.junit.Assert.assertEquals;

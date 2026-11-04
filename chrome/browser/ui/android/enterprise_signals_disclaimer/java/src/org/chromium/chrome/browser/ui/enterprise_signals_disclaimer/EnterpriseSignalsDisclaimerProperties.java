@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Disclaimer property keys
+// summary: Defines the writable property keys, such as title, description, buttons, and footer, used by the disclaimer's PropertyModel.
+// ---
+
 package org.chromium.chrome.browser.ui.enterprise_signals_disclaimer;
 
 import android.graphics.drawable.Drawable;

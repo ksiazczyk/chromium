@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the Android exclusive access source sets
+summary: Defines source sets for the Android exclusive access implementation and its unit tests, listing sources and build dependencies.

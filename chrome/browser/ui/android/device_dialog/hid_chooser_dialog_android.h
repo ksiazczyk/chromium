@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android HID chooser dialog header
+// summary: Declares HidChooserDialogAndroid, the ChooserController view that lets the user select a HID device on Android.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_DEVICE_DIALOG_HID_CHOOSER_DIALOG_ANDROID_H_
 #define CHROME_BROWSER_UI_ANDROID_DEVICE_DIALOG_HID_CHOOSER_DIALOG_ANDROID_H_
 

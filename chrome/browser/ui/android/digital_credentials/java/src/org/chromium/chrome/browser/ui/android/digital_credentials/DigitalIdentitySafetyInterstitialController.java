@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Digital identity safety interstitial controller
+// summary: Controller that builds and shows the modal dialog asking users whether to share their digital identity with a website, with high-risk and low-risk text variants.
+// ---
+
 package org.chromium.chrome.browser.ui.android.digital_credentials;
 
 import android.content.Context;

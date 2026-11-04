@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EdgeToEdgeOSWrapper
+// summary: Interface wrapping Android view padding calls so edge-to-edge OS API usage can be easily instrumented.
+// ---
+
 package org.chromium.chrome.browser.ui.edge_to_edge;
 
 import android.view.View;

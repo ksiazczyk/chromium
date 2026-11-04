@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Bluetooth chooser Android delegate implementation
+// summary: Implements ChromeBluetoothChooserAndroidDelegate, creating the Java delegate via JNI and returning the page security level.
+// ---
+
 #include "chrome/browser/ui/android/device_dialog/chrome_bluetooth_chooser_android_delegate.h"
 
 #include "base/android/jni_android.h"

@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: EdgeToEdgeBottomChinProperties
+// summary: Defines the property keys describing the bottom chin's offset, height, colors, visibility and scroll constraints.
+// ---
+
 package org.chromium.chrome.browser.ui.edge_to_edge;
 
 import org.chromium.build.annotations.NullMarked;

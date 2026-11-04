@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android serial chooser dialog implementation
+// summary: Implements the Android serial port chooser dialog, bridging the chooser controller to the Java SerialChooserDialog via JNI.
+// ---
+
 #include "chrome/browser/ui/android/device_dialog/serial_chooser_dialog_android.h"
 
 #include <jni.h>

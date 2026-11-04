@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android exclusive access bubble implementation
+// summary: Implements the Android exclusive access bubble, including a JNI bridge, origin formatting with front elision, and fullscreen exit instructions.
+// ---
+
 #include "exclusive_access_bubble_android.h"
 
 #include "base/android/device_info.h"

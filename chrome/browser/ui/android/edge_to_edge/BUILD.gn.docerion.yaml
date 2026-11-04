@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Edge-to-edge Android UI build targets
+summary: Defines the Java android_library, JNI header generation, and android_library_factory targets for Chrome's edge-to-edge UI feature and their dependencies.

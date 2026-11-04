@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MissingDeviceLockCoordinator
+// summary: Coordinator that creates and manages the missing device lock modal dialog, including back-press blocking and event histograms.
+// ---
+
 package org.chromium.chrome.browser.ui.device_lock;
 
 import static org.chromium.components.browser_ui.device_lock.DeviceLockBridge.DEVICE_LOCK_PAGE_HAS_BEEN_PASSED;

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the ephemeral tab directory
+summary: Restricts includes for this directory, allowing only the bottomsheet, favicon and thin_webview component directories.

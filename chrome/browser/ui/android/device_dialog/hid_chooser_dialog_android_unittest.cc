@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android HID chooser dialog unit tests
+// summary: Unit tests verifying that the Android HID chooser dialog is created with the main frame's origin using a mocked Java dialog callback.
+// ---
+
 #include "chrome/browser/ui/android/device_dialog/hid_chooser_dialog_android.h"
 
 #include <memory>

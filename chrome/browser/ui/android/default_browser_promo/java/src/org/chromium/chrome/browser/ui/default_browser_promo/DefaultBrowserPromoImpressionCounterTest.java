@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default browser promo impression counter tests
+// summary: Robolectric unit tests verifying promo count limits, session and time interval thresholds, and recording behavior of the impression counter.
+// ---
+
 package org.chromium.chrome.browser.ui.default_browser_promo;
 
 import static org.mockito.Mockito.doReturn;

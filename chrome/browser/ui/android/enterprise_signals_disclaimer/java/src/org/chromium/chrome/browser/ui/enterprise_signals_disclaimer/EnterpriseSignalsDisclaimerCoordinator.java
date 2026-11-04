@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise signals disclaimer coordinator
+// summary: Coordinates rendering of the disclaimer content and notifies the embedder via a delegate when it is shown and how the user interacts.
+// ---
+
 package org.chromium.chrome.browser.ui.enterprise_signals_disclaimer;
 
 import android.content.Context;

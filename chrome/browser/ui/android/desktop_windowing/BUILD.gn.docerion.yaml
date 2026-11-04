@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for desktop windowing app header
+summary: Defines the Android library and Robolectric test targets, sources and dependencies for the desktop windowing app header code.

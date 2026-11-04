@@ -4,6 +4,13 @@ Copyright 2023 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Device lock illustration night mode colors
+summary: Defines dark-theme color values for the device lock UI illustrations in Chromium's Android interface.
+-->
+
 <resources>
     <color name="device_lock_illustration_blue">@color/baseline_primary_80</color>
     <color name="device_lock_illustration_green">@color/google_green_300</color>

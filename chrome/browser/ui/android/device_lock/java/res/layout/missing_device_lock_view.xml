@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Missing device lock view layout
+summary: Android layout XML for the MissingDeviceLockView, showing an illustration, title, description, a checkbox for removing local data and a button bar.
+-->
+
 <org.chromium.chrome.browser.ui.device_lock.MissingDeviceLockView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceLockViewBinder
+// summary: Stateless view binder that maps device lock property model changes to view updates and records dialog-shown metrics.
+// ---
+
 package org.chromium.chrome.browser.ui.device_lock;
 
 import android.view.View;

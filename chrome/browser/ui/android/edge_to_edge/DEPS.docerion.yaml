@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Edge-to-edge directory include rules
+summary: Sets DEPS include rules that block the internal subdirectory and allow specific dependencies such as base, flags, display cutout, and ui/edge_to_edge.

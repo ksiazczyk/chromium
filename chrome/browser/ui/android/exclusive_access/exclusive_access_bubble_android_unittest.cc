@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android exclusive access bubble unit tests
+// summary: Tests bubble behavior such as update early-outs, the was-shown flag, and origin string formatting using a mock bridge.
+// ---
+
 #include "chrome/browser/ui/android/exclusive_access/exclusive_access_bubble_android.h"
 
 #include <memory>

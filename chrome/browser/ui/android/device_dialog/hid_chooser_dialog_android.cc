@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android HID chooser dialog implementation
+// summary: Implements the Android HID device chooser dialog, creating the Java dialog via JNI and forwarding selections and cancellations to the controller.
+// ---
+
 #include "chrome/browser/ui/android/device_dialog/hid_chooser_dialog_android.h"
 
 #include <algorithm>

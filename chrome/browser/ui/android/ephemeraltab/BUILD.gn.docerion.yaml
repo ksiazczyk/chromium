@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Ephemeral tab Android UI build targets
+summary: Defines the android_library and android_resources GN targets, source files and dependencies for the Chrome Android ephemeral tab feature.

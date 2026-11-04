@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TransitiveTopInsetProvider
+// summary: A TopInsetProvider implementation that queues observers added before the underlying provider is available and registers them automatically once the provider is set.
+// ---
+
 package org.chromium.chrome.browser.ui.edge_to_edge;
 
 import org.chromium.base.Callback;

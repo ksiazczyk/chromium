@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ModalDialogDisclaimerHost
+// summary: Robolectric unit tests verifying that the modal dialog disclaimer host shows, dismisses and destroys dialogs and invokes the dismissal callback with the right cause.
+// ---
+
 package org.chromium.chrome.browser.ui.enterprise_signals_disclaimer;
 
 import static org.mockito.ArgumentMatchers.any;

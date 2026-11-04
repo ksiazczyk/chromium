@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DefaultBrowserStateProviderTest
+// summary: Robolectric unit tests for DefaultBrowserStateProvider, covering current default browser state detection and checks for installed Chrome pre-stable channel packages.
+// ---
+
 package org.chromium.chrome.browser.ui.default_browser_promo;
 
 import android.content.pm.ActivityInfo;

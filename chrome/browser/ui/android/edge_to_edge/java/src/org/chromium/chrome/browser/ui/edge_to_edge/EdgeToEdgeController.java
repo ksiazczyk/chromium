@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Edge-to-edge controller interface
+// summary: Interface controlling drawing under Android system bars, exposing bottom and top insets and edge-to-edge state queries.
+// ---
+
 package org.chromium.chrome.browser.ui.edge_to_edge;
 
 import org.chromium.base.lifetime.Destroyable;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceLockMediator
+// summary: Mediator that decides which device lock UI design is shown, handles account reauthentication, and records dialog metrics.
+// ---
+
 package org.chromium.chrome.browser.ui.device_lock;
 
 import static org.chromium.chrome.browser.ui.device_lock.DeviceLockProperties.ALL_KEYS;

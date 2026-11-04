@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Enterprise signals disclaimer buttons, horizontal layout
+summary: Android layout resource that arranges the disclaimer's cancel and accept buttons in a horizontal row aligned to the end.
+-->
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"

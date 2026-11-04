@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: EdgeToEdgeBottomChinCoordinator
+// summary: Coordinates the edge-to-edge bottom chin component that imitates the OS navigation bar as a scrollable compositor layer.
+// ---
+
 package org.chromium.chrome.browser.ui.edge_to_edge;
 
 import android.graphics.Color;

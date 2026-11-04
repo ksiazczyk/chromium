@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Desktop site directory dependency rules
+summary: Allows the desktop site directory to include code from components/browser_ui/site_settings/android.

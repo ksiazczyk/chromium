@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Desktop site Android build targets
+summary: Defines the Android Java library and Robolectric unit test targets for the desktop site UI module, listing their source files and dependencies.

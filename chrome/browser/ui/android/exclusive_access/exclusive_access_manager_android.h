@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android exclusive access manager header
+// summary: Declares the ExclusiveAccessManagerAndroid wrapper that synchronizes pointer lock, keyboard lock, and fullscreen features via the native manager.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_EXCLUSIVE_ACCESS_EXCLUSIVE_ACCESS_MANAGER_ANDROID_H_
 #define CHROME_BROWSER_UI_ANDROID_EXCLUSIVE_ACCESS_EXCLUSIVE_ACCESS_MANAGER_ANDROID_H_
 

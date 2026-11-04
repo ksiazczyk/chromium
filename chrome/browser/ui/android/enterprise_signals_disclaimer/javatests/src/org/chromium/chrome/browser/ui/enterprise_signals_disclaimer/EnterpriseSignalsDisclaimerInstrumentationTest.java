@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise signals disclaimer instrumentation tests
+// summary: Instrumentation tests for the enterprise signals disclaimer UI, covering bottom sheet and modal dialog presentation, dismissal causes, and related histogram metrics.
+// ---
+
 package org.chromium.chrome.browser.ui.enterprise_signals_disclaimer;
 
 import static androidx.test.espresso.Espresso.onView;

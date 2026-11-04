@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Missing device lock view
+// summary: Android view shown when the device lock has been removed, warning that private Chrome data will be deleted if the user continues and offering to create a new device lock instead.
+// ---
+
 package org.chromium.chrome.browser.ui.device_lock;
 
 import android.content.Context;

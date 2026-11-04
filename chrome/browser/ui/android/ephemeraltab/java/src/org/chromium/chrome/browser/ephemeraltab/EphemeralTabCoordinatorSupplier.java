@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EphemeralTabCoordinatorSupplier
+// summary: Manages the UnownedUserData-backed supplier that exposes the EphemeralTabCoordinator for a given WindowAndroid, with a testing override.
+// ---
+
 package org.chromium.chrome.browser.ephemeraltab;
 
 import org.chromium.base.ResettersForTesting;

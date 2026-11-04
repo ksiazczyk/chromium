@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EdgeToEdge top scalp view binder tests
+// summary: Robolectric tests verifying that top scalp property model changes for y-offset, height, color, offset tag and visibility are bound to the scene layer.
+// ---
+
 package org.chromium.chrome.browser.ui.edge_to_edge;
 
 import static org.mockito.ArgumentMatchers.eq;

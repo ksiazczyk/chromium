@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android exclusive access context header
+// summary: Declares the ExclusiveAccessContextAndroid delegate that manages fullscreen state, bubble display, and user input for exclusive access on Android.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_EXCLUSIVE_ACCESS_EXCLUSIVE_ACCESS_CONTEXT_ANDROID_H_
 #define CHROME_BROWSER_UI_ANDROID_EXCLUSIVE_ACCESS_EXCLUSIVE_ACCESS_CONTEXT_ANDROID_H_
 

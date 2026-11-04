@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Disclaimer native bridge
+// summary: JNI bridge exposing native methods to check, set, and remove per-account acknowledgment of the enterprise signals disclaimer.
+// ---
+
 package org.chromium.chrome.browser.ui.enterprise_signals_disclaimer;
 
 import org.jni_zero.JniType;

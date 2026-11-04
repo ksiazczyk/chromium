@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for MetricsHelper
+// summary: Robolectric unit tests verifying that disclaimer metrics such as shown requests, results, implicit dismissals and time to user action are recorded correctly.
+// ---
+
 package org.chromium.chrome.browser.ui.enterprise_signals_disclaimer;
 
 import org.junit.Before;

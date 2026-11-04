@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EdgeToEdgeFieldTrialUnitTest
+// summary: Robolectric tests for the edge-to-edge field trial, checking bottom chin overrides by manufacturer and minimum Android version.
+// ---
+
 package org.chromium.chrome.browser.ui.edge_to_edge;
 
 import static org.junit.Assert.assertFalse;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EdgeToEdgeTopScalpCoordinator
+// summary: Coordinates the edge-to-edge top scalp component that manages the status bar inset area in top browser controls.
+// ---
+
 package org.chromium.chrome.browser.ui.edge_to_edge;
 
 import android.graphics.Color;

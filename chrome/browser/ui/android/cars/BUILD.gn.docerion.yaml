@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for cars UI Android library
+summary: Defines the android_library target for driving restrictions Java sources and a robolectric_library target for their unit tests.

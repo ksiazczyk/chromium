@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: MissingDeviceLockLauncher
+// summary: Launcher that checks whether private data is protected by a device lock and shows the missing device lock dialog, deleting sensitive data if the user proceeds without one.
+// ---
+
 package org.chromium.chrome.browser.ui.device_lock;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

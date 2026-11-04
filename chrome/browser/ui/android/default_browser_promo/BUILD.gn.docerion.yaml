@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Default browser promo Android build targets
+summary: Defines the android_library target with promo Java sources and dependencies, plus a robolectric_library target with the corresponding unit tests.

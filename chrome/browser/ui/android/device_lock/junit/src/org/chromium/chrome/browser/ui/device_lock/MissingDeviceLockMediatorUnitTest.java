@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MissingDeviceLockMediatorUnitTest
+// summary: Robolectric unit tests for MissingDeviceLockMediator covering PIN creation intents, fallback to security settings, and the remove-local-data checkbox.
+// ---
+
 package org.chromium.chrome.browser.ui.device_lock;
 
 import static org.junit.Assert.assertEquals;

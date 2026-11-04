@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: DeviceLockUtils
+// summary: Utilities that build device lock creation intents and adjust dialog subview margins.
+// ---
+
 package org.chromium.chrome.browser.ui.device_lock;
 
 import android.app.admin.DevicePolicyManager;

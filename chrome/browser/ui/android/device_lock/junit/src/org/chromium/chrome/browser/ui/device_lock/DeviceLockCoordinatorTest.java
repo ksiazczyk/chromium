@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceLockCoordinatorTest
+// summary: Robolectric tests for DeviceLockCoordinator, verifying that construction wires the delegate's view and that the coordinator can be destroyed.
+// ---
+
 package org.chromium.chrome.browser.ui.device_lock;
 
 import static org.junit.Assert.assertNotEquals;

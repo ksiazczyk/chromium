@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android exclusive access manager implementation
+// summary: Implements the JNI wrapper for the exclusive access manager, forwarding fullscreen, keyboard lock, and pointer lock requests to native controllers.
+// ---
+
 #include "exclusive_access_manager_android.h"
 
 #include <cstddef>

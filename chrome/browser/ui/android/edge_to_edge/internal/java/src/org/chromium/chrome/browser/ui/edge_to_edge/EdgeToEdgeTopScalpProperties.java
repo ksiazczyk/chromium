@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EdgeToEdgeTopScalpProperties
+// summary: Defines the writable property keys (Y offset, height, color, offset tag, visibility) for the edge-to-edge top scalp layer's property model.
+// ---
+
 package org.chromium.chrome.browser.ui.edge_to_edge;
 
 import org.chromium.build.annotations.NullMarked;

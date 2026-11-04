@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Top inset provider interface
+// summary: Interface for components to observe and query top inset state for edge-to-edge display, notifying observers of top inset changes.
+// ---
+
 package org.chromium.chrome.browser.ui.edge_to_edge;
 
 import org.chromium.base.lifetime.Destroyable;

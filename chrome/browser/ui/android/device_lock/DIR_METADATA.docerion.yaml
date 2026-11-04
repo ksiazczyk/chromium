@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Device lock issue tracker metadata
+summary: Maps the directory to the Monorail component UI>Browser>Mobile>DeviceLock and a Buganizer component for issue tracking.

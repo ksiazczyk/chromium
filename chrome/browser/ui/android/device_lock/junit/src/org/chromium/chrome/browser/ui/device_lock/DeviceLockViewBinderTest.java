@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceLockViewBinderTest
+// summary: Robolectric tests for DeviceLockViewBinder that check the device lock view binds property model state and triggers click handlers correctly.
+// ---
+
 package org.chromium.chrome.browser.ui.device_lock;
 
 import static org.junit.Assert.assertEquals;

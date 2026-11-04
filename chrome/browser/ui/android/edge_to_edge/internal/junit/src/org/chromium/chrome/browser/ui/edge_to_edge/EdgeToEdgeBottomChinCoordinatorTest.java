@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EdgeToEdgeBottomChinCoordinatorTest
+// summary: Robolectric test verifying that the edge-to-edge bottom chin coordinator creates its compositor scene layer overlay and destroys it on teardown.
+// ---
+
 package org.chromium.chrome.browser.ui.edge_to_edge;
 
 import static org.mockito.ArgumentMatchers.any;

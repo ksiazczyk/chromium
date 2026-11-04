@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser promo impression counter
+// summary: Tracks default browser promo impression counts and decides whether the promo can be shown based on session counts and time intervals.
+// ---
+
 package org.chromium.chrome.browser.ui.default_browser_promo;
 
 import androidx.annotation.VisibleForTesting;

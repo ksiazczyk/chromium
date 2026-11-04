@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android exclusive access bubble header
+// summary: Declares the ExclusiveAccessBubbleAndroid class that manages the exclusive access bubble on Android through a Java bridge interface.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_EXCLUSIVE_ACCESS_EXCLUSIVE_ACCESS_BUBBLE_ANDROID_H_
 #define CHROME_BROWSER_UI_ANDROID_EXCLUSIVE_ACCESS_EXCLUSIVE_ACCESS_BUBBLE_ANDROID_H_
 

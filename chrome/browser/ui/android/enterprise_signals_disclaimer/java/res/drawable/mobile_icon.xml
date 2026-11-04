@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Mobile phone vector icon drawable
+summary: 24dp Material3 vector drawable depicting a mobile phone, tinted with the control normal color, for use in the Android enterprise signals disclaimer UI.
+-->
+
 <!-- Google Material3 mobile icon -->
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="24dp"

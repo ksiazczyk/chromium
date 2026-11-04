@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Edge-to-edge top scalp scene layer
+// summary: Java scene overlay layer that renders the edge-to-edge top scalp, a colored view sitting behind the status bar in top browser controls.
+// ---
+
 package org.chromium.chrome.browser.ui.edge_to_edge;
 
 import android.graphics.RectF;

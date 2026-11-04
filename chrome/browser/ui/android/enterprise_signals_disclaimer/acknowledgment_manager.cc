@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Acknowledgment manager implementation
+// summary: Implements storing, checking and pruning of per-account enterprise signals disclaimer acknowledgments in a local state preference of hashed Gaia IDs.
+// ---
+
 #include "chrome/browser/ui/android/enterprise_signals_disclaimer/acknowledgment_manager.h"
 
 #include <algorithm>

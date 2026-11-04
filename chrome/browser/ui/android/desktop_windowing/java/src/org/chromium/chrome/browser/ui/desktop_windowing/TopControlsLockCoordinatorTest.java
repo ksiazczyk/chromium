@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TopControlsLockCoordinator unit tests
+// summary: Unit tests for TopControlsLockCoordinator verifying top controls locking behavior across desktop windowing states and form factors.
+// ---
+
 package org.chromium.chrome.browser.ui.desktop_windowing;
 
 import static org.mockito.ArgumentMatchers.anyBoolean;

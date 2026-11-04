@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android USB chooser dialog implementation
+// summary: Implements UsbChooserDialogAndroid, creating the Java USB chooser dialog, attributing the permission request to the main frame origin and handling device selection and cancellation.
+// ---
+
 #include "chrome/browser/ui/android/device_dialog/usb_chooser_dialog_android.h"
 
 #include <stddef.h>

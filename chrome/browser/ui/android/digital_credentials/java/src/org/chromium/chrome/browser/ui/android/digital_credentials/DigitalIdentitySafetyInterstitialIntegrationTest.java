@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Digital identity safety interstitial integration test
+// summary: Integration test that verifies the digital identity safety interstitial dialog behavior, including dialog display, button presses, and related histograms in Chrome.
+// ---
+
 package org.chromium.chrome.browser.ui.android.digital_credentials;
 
 import static org.hamcrest.Matchers.is;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser promo message controller
+// summary: Builds and enqueues the message banner prompting users to set Chrome as the default browser and opens the system settings on click.
+// ---
+
 package org.chromium.chrome.browser.ui.default_browser_promo;
 
 import android.content.Context;

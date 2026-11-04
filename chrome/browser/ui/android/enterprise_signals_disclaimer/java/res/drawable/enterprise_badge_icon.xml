@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Enterprise badge icon drawable
+summary: Layer-list drawable that draws an oval badge background with a subtle stroke and overlays the enterprise icon inset by 4dp for the Android enterprise signals disclaimer UI.
+-->
+
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
     <item>
         <shape android:shape="oval">

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Acknowledgment manager header
+// summary: Declares functions to mark, query and sync account acknowledgments of the enterprise signals disclaimer in local state preferences.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_ENTERPRISE_SIGNALS_DISCLAIMER_ACKNOWLEDGMENT_MANAGER_H_
 #define CHROME_BROWSER_UI_ANDROID_ENTERPRISE_SIGNALS_DISCLAIMER_ACKNOWLEDGMENT_MANAGER_H_
 

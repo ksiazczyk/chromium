@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SimpleEdgeToEdgePadAdjuster unit tests
+// summary: Robolectric tests verifying bottom padding and clip-to-padding behavior of the pad adjuster on regular views, scroll views, recycler views and non-scrolling view groups.
+// ---
+
 package org.chromium.chrome.browser.ui.edge_to_edge;
 
 import static org.junit.Assert.assertEquals;

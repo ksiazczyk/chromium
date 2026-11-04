@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Disclaimer host interface and dismissal causes
+// summary: Defines the host interface for displaying the disclaimer plus the DismissalCause constants that are persisted to logs.
+// ---
+
 package org.chromium.chrome.browser.ui.enterprise_signals_disclaimer;
 
 import androidx.annotation.IntDef;

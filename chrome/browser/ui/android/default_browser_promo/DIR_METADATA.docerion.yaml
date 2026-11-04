@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for bug tracking
+summary: Maps the directory to the UI>Browser>Mobile>Messages Monorail component, the clank-app-team email, and a Buganizer component ID.

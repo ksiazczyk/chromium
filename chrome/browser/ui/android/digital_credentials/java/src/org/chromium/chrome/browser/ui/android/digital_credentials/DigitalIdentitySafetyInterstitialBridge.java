@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Digital identity safety interstitial bridge
+// summary: JNI bridge that creates the digital identity safety interstitial, shows the consent modal dialog for sharing identity with a website, and reports request status and dismissal metrics to native code.
+// ---
+
 package org.chromium.chrome.browser.ui.android.digital_credentials;
 
 import android.app.Activity;

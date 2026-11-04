@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceLockView
+// summary: Android view that displays the device lock page and prompts users to create a device lock when none is present.
+// ---
+
 package org.chromium.chrome.browser.ui.device_lock;
 
 import android.content.Context;
