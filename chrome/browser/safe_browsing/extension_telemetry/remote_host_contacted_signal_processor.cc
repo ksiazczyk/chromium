@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoteHostContactedSignalProcessor implementation
+// summary: Aggregates remote host contacted signals per extension, counts repeated contacts and builds telemetry report signal info.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/remote_host_contacted_signal_processor.h"
 
 #include "base/check_op.h"

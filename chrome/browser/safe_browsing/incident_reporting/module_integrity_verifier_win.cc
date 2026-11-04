@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows module integrity verifier implementation
+// summary: Verifies the integrity of loaded modules on Windows by comparing in-memory and on-disk code sections and reporting modified bytes.
+// ---
+
 #include "chrome/browser/safe_browsing/incident_reporting/module_integrity_verifier_win.h"
 
 #include <windows.h>

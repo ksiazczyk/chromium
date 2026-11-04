@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification telemetry service header
+// summary: Declares the notification telemetry service and service worker telemetry info used to track and report notification-related Safe Browsing telemetry.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_NOTIFICATION_TELEMETRY_NOTIFICATION_TELEMETRY_SERVICE_H_
 #define CHROME_BROWSER_SAFE_BROWSING_NOTIFICATION_TELEMETRY_NOTIFICATION_TELEMETRY_SERVICE_H_
 

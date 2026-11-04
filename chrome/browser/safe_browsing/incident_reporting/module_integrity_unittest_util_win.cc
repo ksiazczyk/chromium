@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Module integrity test utility constants
+// summary: Defines test export name constants used by Windows module integrity verifier unit tests.
+// ---
+
 #include "chrome/browser/safe_browsing/incident_reporting/module_integrity_unittest_util_win.h"
 
 #include <iterator>

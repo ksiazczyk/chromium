@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search hijacking detector class declaration
+// summary: Declares the SearchHijackingDetector heuristic that flags potential search hijacking victims by comparing omnibox searches with SERP landings.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_EXTENSION_TELEMETRY_SEARCH_HIJACKING_DETECTOR_H_
 #define CHROME_BROWSER_SAFE_BROWSING_EXTENSION_TELEMETRY_SEARCH_HIJACKING_DETECTOR_H_
 

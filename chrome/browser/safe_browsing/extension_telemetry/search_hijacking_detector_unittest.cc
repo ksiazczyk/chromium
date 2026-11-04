@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search hijacking detector unit tests
+// summary: Unit tests for the search hijacking detector covering default settings, omnibox search and SERP landing counting, and heuristic matching.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/search_hijacking_detector.h"
 
 #include "base/strings/string_number_conversions.h"

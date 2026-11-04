@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: State store unit tests
+// summary: Tests the state store's incident tracking with a file-backed pref store, including the Windows registry-backed platform state store via registry overrides.
+// ---
+
 #include "chrome/browser/safe_browsing/incident_reporting/state_store.h"
 
 #include <stdint.h>

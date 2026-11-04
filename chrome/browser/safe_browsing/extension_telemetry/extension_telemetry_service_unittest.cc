@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension telemetry service unit tests
+// summary: Unit tests covering the extension telemetry service's enablement, signal handling, report generation, and enterprise reporting behavior.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/extension_telemetry_service.h"
 
 #include "base/command_line.h"

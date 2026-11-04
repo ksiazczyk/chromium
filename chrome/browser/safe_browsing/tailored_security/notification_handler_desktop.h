@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop tailored security notification handler interface
+// summary: Declares the NotificationHandler subclass for tailored security desktop notifications and a helper to display the unconsented promotion notification.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_TAILORED_SECURITY_NOTIFICATION_HANDLER_DESKTOP_H_
 #define CHROME_BROWSER_SAFE_BROWSING_TAILORED_SECURITY_NOTIFICATION_HANDLER_DESKTOP_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Binary integrity incident implementation
+// summary: Implements the BinaryIntegrityIncident class, providing its type, key, and payload digest for binaries with invalid signatures.
+// ---
+
 #include "chrome/browser/safe_browsing/incident_reporting/binary_integrity_incident.h"
 
 #include "base/check.h"

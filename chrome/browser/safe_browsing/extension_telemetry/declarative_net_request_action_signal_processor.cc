@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeclarativeNetRequestActionSignalProcessor implementation
+// summary: Processes declarativeNetRequest action signals by storing unique redirect action details per extension and generating telemetry report protobufs.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/declarative_net_request_action_signal_processor.h"
 
 #include "base/check_op.h"

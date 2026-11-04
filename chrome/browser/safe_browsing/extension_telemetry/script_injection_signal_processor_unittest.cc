@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Script injection signal processor unit tests
+// summary: Unit tests covering signal aggregation, report generation and the maximum aggregated signals limit in the script injection processor.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/script_injection_signal_processor.h"
 
 #include <memory>

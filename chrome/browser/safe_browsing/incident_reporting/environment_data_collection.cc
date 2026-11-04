@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Environment data collection implementation
+// summary: Collects OS, machine, and process environment data into a ClientIncidentReport protobuf, with empty platform fallbacks for builds without a specific implementation.
+// ---
+
 #include "chrome/browser/safe_browsing/incident_reporting/environment_data_collection.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM access signal implementation
+// summary: Implements DOMAccessSignal, a telemetry signal for extension DOM access that sanitizes URLs and builds an aggregation key.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/dom_access_signal.h"
 
 #include "base/strings/string_number_conversions.h"

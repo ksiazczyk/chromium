@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Activity log ingester implementation
+// summary: Implements the ingester that filters extension ActivityLog actions and converts them into DOM access and script injection telemetry signals for the telemetry service.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/activity_log_ingester.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Binary integrity incident unit tests
+// summary: Tests the BinaryIntegrityIncident type, key, and digest behavior for identical and differing incident payloads.
+// ---
+
 #include "chrome/browser/safe_browsing/incident_reporting/binary_integrity_incident.h"
 
 #include <stddef.h>

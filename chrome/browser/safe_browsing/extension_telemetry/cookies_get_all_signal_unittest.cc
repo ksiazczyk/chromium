@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cookies getAll signal unit tests
+// summary: Tests URL filename stripping and unique argument set ID concatenation for the cookies.getAll signal with full and default arguments.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/cookies_get_all_signal.h"
 #include "testing/gtest/include/gtest/gtest.h"
 

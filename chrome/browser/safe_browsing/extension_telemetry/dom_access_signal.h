@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM access signal class declaration
+// summary: Declares DOMAccessSignal, a telemetry signal created when an extension accesses a web page DOM, carrying API name, URL, access type and timestamp.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_EXTENSION_TELEMETRY_DOM_ACCESS_SIGNAL_H_
 #define CHROME_BROWSER_SAFE_BROWSING_EXTENSION_TELEMETRY_DOM_ACCESS_SIGNAL_H_
 

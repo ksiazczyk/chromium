@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension web request reporter implementation
+// summary: Implements the Mojo ExtensionWebRequestReporter that receives web request telemetry from renderers and forwards remote host signals to the telemetry service.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/extension_web_request_reporter_impl.h"
 
 #include "chrome/browser/safe_browsing/extension_telemetry/extension_telemetry_service.h"

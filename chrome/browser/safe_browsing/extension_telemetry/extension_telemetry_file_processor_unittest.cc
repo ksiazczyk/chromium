@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Extension telemetry file processor unit tests
+// summary: Unit tests that verify file selection, hashing and manifest handling of the extension telemetry file processor using temporary extension directories.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/extension_telemetry_file_processor.h"
 
 #include <string_view>

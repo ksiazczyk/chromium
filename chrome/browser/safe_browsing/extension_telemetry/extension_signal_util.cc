@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension signal URL sanitization implementation
+// summary: Implements helpers that strip filenames, query parameters, and fragments from URLs used in telemetry signals.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/extension_signal_util.h"
 #include "url/gurl.h"
 

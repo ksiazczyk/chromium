@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RemoteHostContactedSignalProcessor unit tests
+// summary: Unit tests verifying storage, contact counting and report generation for remote host contacted signals.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/remote_host_contacted_signal_processor.h"
 
 #include <array>

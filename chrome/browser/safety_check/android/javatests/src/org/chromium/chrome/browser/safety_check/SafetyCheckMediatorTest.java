@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SafetyCheckMediatorTest
+// summary: Robolectric tests for the Safety Check mediator covering password check, Safe Browsing and update states, metrics and settings interactions.
+// ---
+
 package org.chromium.chrome.browser.safety_check;
 
 import static org.junit.Assert.assertEquals;

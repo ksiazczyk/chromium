@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cookies getAll signal implementation
+// summary: Implements the signal raised when an extension invokes the cookies.getAll API, including URL sanitization and unique argument set ID generation.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/cookies_get_all_signal.h"
 #include "base/strings/string_number_conversions.h"
 #include "base/strings/string_util.h"

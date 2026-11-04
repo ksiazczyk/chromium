@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TelemetryService class declaration
+// summary: Declares the TelemetryService base class for sending security incident telemetry to Safe Browsing, currently realized for Android APK downloads.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_TELEMETRY_TELEMETRY_SERVICE_H_
 #define CHROME_BROWSER_SAFE_BROWSING_TELEMETRY_TELEMETRY_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarative net request signal implementation
+// summary: Implements the DeclarativeNetRequestSignal class, an extension telemetry signal created when an extension invokes the declarativeNetRequest API.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/declarative_net_request_signal.h"
 
 namespace safe_browsing {

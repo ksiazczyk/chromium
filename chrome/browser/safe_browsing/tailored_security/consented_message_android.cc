@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android consented tailored security message implementation
+// summary: Implements the Android modal message shown to signed-in users when tailored security is enabled or disabled, with outcome metrics logging.
+// ---
+
 #include "chrome/browser/safe_browsing/tailored_security/consented_message_android.h"
 
 #include "base/metrics/histogram_functions.h"

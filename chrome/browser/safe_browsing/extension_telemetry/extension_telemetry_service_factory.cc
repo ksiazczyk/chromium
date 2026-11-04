@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension telemetry service factory implementation
+// summary: Implements the profile-keyed factory that creates and wires the ExtensionTelemetryService, including its dependencies on other browser services.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/extension_telemetry_service_factory.h"
 
 #include "base/no_destructor.h"

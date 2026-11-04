@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Chrome tailored security service
+// summary: Unit tests covering tailored security service behavior across enable and disable flows using test profiles, sync services, and metrics.
+// ---
+
 #include "chrome/browser/safe_browsing/tailored_security/chrome_tailored_security_service.h"
 
 #include "base/files/scoped_temp_dir.h"

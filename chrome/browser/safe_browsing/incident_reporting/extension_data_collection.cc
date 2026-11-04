@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension data collection implementation
+// summary: Gathers details about installed extensions, including state, signatures, install metadata, and update URLs, into the extension data of an incident report.
+// ---
+
 #include "chrome/browser/safe_browsing/incident_reporting/extension_data_collection.h"
 
 #include <utility>

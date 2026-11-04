@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tabs API signal implementation
+// summary: Implements the TabsApiSignal class that records chrome.tabs API invocations by extensions, sanitizing URLs and building a unique call details id.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/tabs_api_signal.h"
 
 #include "base/strings/string_number_conversions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tailored security URL observer implementation
+// summary: Implements a WebContents observer that queries the tailored security setting while the user is on a Google property and shows unconsented messages, modals, or notifications.
+// ---
+
 #include "chrome/browser/safe_browsing/tailored_security/tailored_security_url_observer.h"
 
 #include "build/build_config.h"

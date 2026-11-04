@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Script injection signal implementation
+// summary: Implements the script injection telemetry signal, sanitizing URLs and truncating oversized script arguments before aggregation.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/script_injection_signal.h"
 
 #include "base/strings/string_util.h"

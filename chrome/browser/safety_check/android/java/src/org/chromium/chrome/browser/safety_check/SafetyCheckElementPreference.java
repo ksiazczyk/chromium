@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafetyCheckElementPreference
+// summary: Preference subclass that shows a progress bar or status icon for each Safety check element.
+// ---
+
 package org.chromium.chrome.browser.safety_check;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop tailored security notification handler implementation
+// summary: Implements the desktop notification handler for the tailored security unconsented promotion, logging outcomes and opening enhanced protection settings when clicked.
+// ---
+
 #include "chrome/browser/safe_browsing/tailored_security/notification_handler_desktop.h"
 
 #include "base/metrics/histogram_functions.h"

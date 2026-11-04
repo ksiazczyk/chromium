@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension telemetry service browser tests
+// summary: Browser tests verifying that the extension telemetry service collects signals such as cookies, DOM access, and declarative net request actions into reports.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/extension_telemetry_service.h"
 
 #include "base/command_line.h"

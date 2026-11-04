@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DOM access signal processor implementation
+// summary: Implements the processor that aggregates DOM access signals per extension up to a limit and produces telemetry report signal info.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/dom_access_signal_processor.h"
 
 #include "base/check.h"

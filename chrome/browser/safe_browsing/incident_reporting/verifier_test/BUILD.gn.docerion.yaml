@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definitions for verifier test DLLs
+summary: GN build file that defines the two test-only shared libraries verifier_test_dll_1 and verifier_test_dll_2 for the safe browsing incident reporting verifier tests.

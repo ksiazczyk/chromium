@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Script injection signal processor implementation
+// summary: Implements aggregation of script injection signals per extension, capping stored signals and producing telemetry report signal info.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/script_injection_signal_processor.h"
 
 #include "base/check.h"

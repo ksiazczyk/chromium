@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows registry state store unit tests
+// summary: Tests the Windows registry-backed state store with an overridden registry and testing profiles, covering new-profile clearing and data presence.
+// ---
+
 #include "chrome/browser/safe_browsing/incident_reporting/platform_state_store.h"
 
 #include <windows.h>

@@ -4,6 +4,12 @@
 //
 // Utilities for the SafeBrowsing notification content detection code.
 
+// ---docerion
+// type: source
+// title: Notification content detection utilities header
+// summary: Declares utilities for notification content detection, including MQLS metadata logging and the UKM recorder class for suspicious notification interactions.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_NOTIFICATION_CONTENT_DETECTION_NOTIFICATION_CONTENT_DETECTION_UTIL_H_
 #define CHROME_BROWSER_SAFE_BROWSING_NOTIFICATION_CONTENT_DETECTION_NOTIFICATION_CONTENT_DETECTION_UTIL_H_
 

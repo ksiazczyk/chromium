@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for suspicious site warnings
+summary: Lists the code owners responsible for reviewing changes in the suspicious site warnings directory.

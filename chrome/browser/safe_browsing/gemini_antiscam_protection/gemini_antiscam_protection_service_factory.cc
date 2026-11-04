@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini anti-scam protection service factory implementation
+// summary: Builds the service per profile, enabling it only for enhanced protection users with the feature flag and excluding managed enterprise profiles.
+// ---
+
 #include "chrome/browser/safe_browsing/gemini_antiscam_protection/gemini_antiscam_protection_service_factory.h"
 
 #include "base/feature_list.h"

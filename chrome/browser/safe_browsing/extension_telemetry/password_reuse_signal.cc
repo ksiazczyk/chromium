@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordReuseSignal implementation
+// summary: Implements the extension telemetry signal emitted when a password reuse event is detected within an extension page.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/password_reuse_signal.h"
 
 namespace safe_browsing {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tailored security URL observer interface
+// summary: Declares TailoredSecurityUrlObserver, which watches focused web contents on Google properties and reacts to tailored security bit changes.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_TAILORED_SECURITY_TAILORED_SECURITY_URL_OBSERVER_H_
 #define CHROME_BROWSER_SAFE_BROWSING_TAILORED_SECURITY_TAILORED_SECURITY_URL_OBSERVER_H_
 

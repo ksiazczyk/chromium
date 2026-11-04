@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PotentialPasswordTheftSignalProcessor unit tests
+// summary: Unit tests verifying correlation, queueing and reporting of password reuse and remote host contacted signals.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/potential_password_theft_signal_processor.h"
 
 #include <array>

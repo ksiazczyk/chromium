@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CookiesGetSignal class implementation
+// summary: Implements the CookiesGetSignal extension telemetry signal raised when an extension calls the cookies.get API, storing name, store ID, sanitized URL and JS callstack.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/cookies_get_signal.h"
 #include "base/strings/string_util.h"
 #include "chrome/browser/safe_browsing/extension_telemetry/extension_signal_util.h"

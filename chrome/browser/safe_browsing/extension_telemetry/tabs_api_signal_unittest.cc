@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tabs API signal unit tests
+// summary: Unit tests checking URL sanitization and unique call details id generation for TabsApiSignal.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/tabs_api_signal.h"
 #include "components/safe_browsing/core/common/proto/csd.pb.h"
 #include "testing/gtest/include/gtest/gtest.h"

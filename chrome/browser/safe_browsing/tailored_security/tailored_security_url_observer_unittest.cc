@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the tailored security URL observer
+// summary: Unit tests using a mock tailored security service to verify query requests are added and removed on navigation and focus changes of the web contents.
+// ---
+
 #include "chrome/browser/safe_browsing/tailored_security/tailored_security_url_observer.h"
 
 #include "chrome/browser/sync/sync_service_factory.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock incident receiver implementation
+// summary: Implements the mock incident receiver that forwards incident additions and clears to mockable methods for tests.
+// ---
+
 #include "chrome/browser/safe_browsing/incident_reporting/mock_incident_receiver.h"
 
 #include "chrome/browser/safe_browsing/incident_reporting/incident.h"

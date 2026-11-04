@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification content detection utilities unit tests
+// summary: Unit tests for the notification content detection utilities, checking uploaded MQLS log contents and suspicious notification interaction UKM recording.
+// ---
+
 #include "chrome/browser/safe_browsing/notification_content_detection/notification_content_detection_util.h"
 
 #include "base/json/json_string_value_serializer.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafetyCheckUpdatesDelegate
+// summary: Interface for asynchronous update checks, decoupling Safety check from the Omaha updater implementation.
+// ---
+
 package org.chromium.chrome.browser.safety_check;
 
 import org.chromium.base.Callback;

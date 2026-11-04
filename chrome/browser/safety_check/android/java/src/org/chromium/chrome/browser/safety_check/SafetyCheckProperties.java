@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafetyCheckProperties
+// summary: Property keys and state enums mapping native Safe Browsing and update statuses for the Safety check UI.
+// ---
+
 package org.chromium.chrome.browser.safety_check;
 
 import android.view.View;

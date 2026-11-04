@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Activity log ingester unit tests
+// summary: Tests registration with the ActivityLog and conversion of extension actions into telemetry signals using a mock telemetry service.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/activity_log_ingester.h"
 
 #include <memory>

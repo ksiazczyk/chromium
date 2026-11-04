@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows module integrity verifier unit tests
+// summary: Unit tests that load a test DLL, apply temporary modifications, and verify detection of differing bytes by the module integrity verifier.
+// ---
+
 #include "chrome/browser/safe_browsing/incident_reporting/module_integrity_verifier_win.h"
 
 #include <windows.h>

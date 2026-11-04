@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download metadata manager unit tests
+// summary: Unit tests for DownloadMetadataManager covering persistence of download requests and retrieval of download details using mock download managers and profiles.
+// ---
+
 #include "chrome/browser/safe_browsing/incident_reporting/download_metadata_manager.h"
 
 #include <stdint.h>

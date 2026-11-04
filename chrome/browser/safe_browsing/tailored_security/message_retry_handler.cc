@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message retry handler implementation
+// summary: Implements retry logic for tailored security sync messages, using preferences, timers, and histograms to schedule repeated attempts.
+// ---
+
 #include "chrome/browser/safe_browsing/tailored_security/message_retry_handler.h"
 
 #include "base/metrics/histogram_functions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bundled settings metrics provider implementation
+// summary: Logs UMA histograms on whether the main profile's Safe Browsing, HTTPS-First Mode and JavaScript optimizer settings deviate from the selected security bundle defaults.
+// ---
+
 #include "chrome/browser/safe_browsing/metrics/bundled_settings_metrics_provider.h"
 
 #include "base/logging.h"

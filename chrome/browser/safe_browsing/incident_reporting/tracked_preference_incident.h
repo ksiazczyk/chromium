@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracked preference incident class
+// summary: Declares the TrackedPreferenceIncident class representing a tracked preference that has been modified or cleared.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_INCIDENT_REPORTING_TRACKED_PREFERENCE_INCIDENT_H_
 #define CHROME_BROWSER_SAFE_BROWSING_INCIDENT_REPORTING_TRACKED_PREFERENCE_INCIDENT_H_
 

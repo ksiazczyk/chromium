@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incident reporting service implementation
+// summary: Implements the service that collects, collates, prunes, and uploads Safe Browsing incident reports for participating profiles.
+// ---
+
 #include "chrome/browser/safe_browsing/incident_reporting/incident_reporting_service.h"
 
 #include <math.h>

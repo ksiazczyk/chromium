@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension JS callstacks implementation
+// summary: Implements storage, deduplication, conversion, and retrieval of JavaScript callstacks collected for extension API signals.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/extension_js_callstacks.h"
 
 #include "base/containers/span.h"

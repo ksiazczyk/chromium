@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows binary integrity analyzer unit tests
+// summary: Unit tests covering GetCriticalBinariesPath and VerifyBinaryIntegrity behavior for Windows Chrome binaries using a mock incident receiver.
+// ---
+
 #include "chrome/browser/safe_browsing/incident_reporting/binary_integrity_analyzer_win.h"
 
 #include <windows.h>

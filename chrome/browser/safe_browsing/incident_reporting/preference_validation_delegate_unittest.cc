@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Preference validation delegate unit tests
+// summary: Unit tests verifying that the preference validation delegate turns tracked preference validation states into incidents with the expected keys, values and states.
+// ---
+
 #include "chrome/browser/safe_browsing/incident_reporting/preference_validation_delegate.h"
 
 #include <stddef.h>

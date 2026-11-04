@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message retry handler for tailored security flows
+// summary: Declares MessageRetryHandler, which tracks retry state in profile preferences and retries tailored security message actions with configurable delays and histogram logging.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_TAILORED_SECURITY_MESSAGE_RETRY_HANDLER_H_
 #define CHROME_BROWSER_SAFE_BROWSING_TAILORED_SECURITY_MESSAGE_RETRY_HANDLER_H_
 

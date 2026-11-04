@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification telemetry service factory unit tests
+// summary: Unit tests verifying the service is created for regular profiles and disabled for incognito, guest mode, and Android arm32 devices.
+// ---
+
 #include "chrome/browser/safe_browsing/notification_telemetry/notification_telemetry_service_factory.h"
 
 #include "base/system/sys_info.h"

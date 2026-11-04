@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension telemetry service implementation
+// summary: Implements the core ExtensionTelemetryService that collects extension signals, aggregates them via signal processors, persists reports and uploads telemetry.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/extension_telemetry_service.h"
 
 #include <sstream>

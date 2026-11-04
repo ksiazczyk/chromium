@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension JS callstacks unit tests
+// summary: Unit tests covering adding, deduplicating, capping, and retrieving stored JS callstacks.
+// ---
+
 #include "chrome/browser/safe_browsing/extension_telemetry/extension_js_callstacks.h"
 
 #include "extensions/common/stack_frame.h"

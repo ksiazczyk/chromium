@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Activity log ingester class declaration
+// summary: Declares the ActivityLogIngester class that receives extension activities via the ActivityLog callback and turns them into telemetry signals.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_EXTENSION_TELEMETRY_ACTIVITY_LOG_INGESTER_H_
 #define CHROME_BROWSER_SAFE_BROWSING_EXTENSION_TELEMETRY_ACTIVITY_LOG_INGESTER_H_
 

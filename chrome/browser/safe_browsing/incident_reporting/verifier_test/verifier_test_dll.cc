@@ -4,6 +4,12 @@
 
 // Some pointless code that will become a DLL with some exports and relocs.
 
+// ---docerion
+// type: source
+// title: Test DLL source with DummyExport
+// summary: Windows DLL source providing a DummyExport with 256 bytes of nops and a DllMain, compiled into the test DLLs used by the incident reporting verifier tests.
+// ---
+
 #include <windows.h>
 
 #include <intrin.h>

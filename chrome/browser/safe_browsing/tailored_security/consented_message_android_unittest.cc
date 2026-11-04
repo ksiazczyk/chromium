@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Android consented tailored security message
+// summary: Unit tests verifying user action and histogram logging for accepted and dismissed consented tailored security messages on Android.
+// ---
+
 #include "chrome/browser/safe_browsing/tailored_security/consented_message_android.h"
 
 #include "base/test/metrics/histogram_tester.h"

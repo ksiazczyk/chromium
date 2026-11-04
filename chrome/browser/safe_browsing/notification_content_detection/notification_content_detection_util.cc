@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification content detection utilities implementation
+// summary: Implements helpers that map site engagement levels, send notification content detection data to the MQLS server, and record suspicious interaction UKM.
+// ---
+
 #include "chrome/browser/safe_browsing/notification_content_detection/notification_content_detection_util.h"
 
 #include "base/json/json_string_value_serializer.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS binary integrity analyzer
+// summary: Verifies code signatures of critical macOS bundles against Developer ID requirements and reports or clears integrity incidents.
+// ---
+
 #include "chrome/browser/safe_browsing/incident_reporting/binary_integrity_analyzer_mac.h"
 
 #include <stddef.h>

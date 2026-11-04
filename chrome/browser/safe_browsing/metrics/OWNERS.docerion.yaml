@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for safe browsing metrics
+summary: Assigns jacastro@chromium.org as owner for the bundled settings metrics files in this directory.

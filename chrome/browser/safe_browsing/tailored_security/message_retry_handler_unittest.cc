@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the message retry handler
+// summary: Unit tests verifying MessageRetryHandler retry timing, preference-based state handling, and ShouldRetryOutcome histogram recording using a testing profile and mock time.
+// ---
+
 #include "chrome/browser/safe_browsing/tailored_security/message_retry_handler.h"
 
 #include "base/test/metrics/histogram_tester.h"

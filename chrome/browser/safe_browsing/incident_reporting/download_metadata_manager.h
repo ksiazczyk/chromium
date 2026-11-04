@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download metadata manager header
+// summary: Declares DownloadMetadataManager, a browser-wide object that persists download metadata and provides download details for Safe Browsing incident reports.
+// ---
+
 #ifndef CHROME_BROWSER_SAFE_BROWSING_INCIDENT_REPORTING_DOWNLOAD_METADATA_MANAGER_H_
 #define CHROME_BROWSER_SAFE_BROWSING_INCIDENT_REPORTING_DOWNLOAD_METADATA_MANAGER_H_
 

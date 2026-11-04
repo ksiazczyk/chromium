@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resource request incident implementation
+// summary: Implements the resource request incident type, using a fixed key and constant digest so that only one such incident is reported per user.
+// ---
+
 #include "chrome/browser/safe_browsing/incident_reporting/resource_request_incident.h"
 
 #include "base/check.h"

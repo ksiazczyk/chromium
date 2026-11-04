@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incident report uploader implementation
+// summary: Uploads serialized incident reports to the Google Safe Browsing client report endpoint via SimpleURLLoader, with traffic annotation and UMA metrics.
+// ---
+
 #include "chrome/browser/safe_browsing/incident_reporting/incident_report_uploader_impl.h"
 
 #include <memory>
