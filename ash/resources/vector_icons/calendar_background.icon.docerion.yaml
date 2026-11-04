@@ -1,0 +1,4 @@
+# Docerion header of calendar_background.icon.
+type: asset
+title: Calendar background vector icon
+summary: Vector icon definition drawing a calendar outline with path commands on a 24x24 canvas for the ChromeOS Ash UI.

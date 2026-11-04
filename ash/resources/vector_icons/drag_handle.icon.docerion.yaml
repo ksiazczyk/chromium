@@ -1,0 +1,4 @@
+# Docerion header of drag_handle.icon.
+type: source
+title: Drag handle vector icon
+summary: Defines path data for a diagonal drag handle glyph drawn on a 16-unit canvas for the Ash UI.

@@ -1,0 +1,4 @@
+# Docerion header of battery.icon.
+type: asset
+title: Battery icon
+summary: Vector icon definition for a battery glyph, drawing the battery body, terminal and inner charge area on a 20dp canvas.

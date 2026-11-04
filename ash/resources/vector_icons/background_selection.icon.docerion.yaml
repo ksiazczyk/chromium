@@ -1,0 +1,4 @@
+# Docerion header of background_selection.icon.
+type: asset
+title: Background selection icon
+summary: Vector icon definition for a background selection glyph, drawing a filled circle containing a smaller rounded shape on a 20dp canvas.

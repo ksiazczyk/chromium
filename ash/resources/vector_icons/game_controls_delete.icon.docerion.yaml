@@ -1,0 +1,4 @@
+# Docerion header of game_controls_delete.icon.
+type: asset
+title: Game controls delete vector icon
+summary: Vector icon definition drawing a trash can glyph used for deleting game controls, on a 20dp canvas in Chromium's Ash resources.

@@ -1,0 +1,4 @@
+# Docerion header of lock_screen_alert.icon.
+type: asset
+title: Lock screen alert vector icon
+summary: Vector icon definition of a warning triangle symbol used on the lock screen, drawn on a 20 dp canvas.

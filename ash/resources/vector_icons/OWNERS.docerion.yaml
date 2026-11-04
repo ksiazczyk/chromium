@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for ash vector icons
+summary: Owners file that delegates review ownership to the shared components vector icons OWNERS list.
+relations:
+  - references /components/vector_icons/OWNERS

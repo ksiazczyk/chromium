@@ -1,0 +1,4 @@
+# Docerion header of ks_microphone.icon.
+type: asset
+title: Microphone vector icon
+summary: Vector icon definition that draws a microphone glyph with a mute slash on a 20dp canvas for the Ash UI.

@@ -1,0 +1,4 @@
+# Docerion header of ks_settings.icon.
+type: asset
+title: Settings vector icon
+summary: Vector icon definition that draws a settings gear glyph on a 20dp canvas for the Ash UI.

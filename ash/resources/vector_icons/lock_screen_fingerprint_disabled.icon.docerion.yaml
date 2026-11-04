@@ -1,0 +1,4 @@
+# Docerion header of lock_screen_fingerprint_disabled.icon.
+type: asset
+title: Lock screen fingerprint disabled icon
+summary: Vector icon definition drawing a crossed-out fingerprint indicating that fingerprint unlock is unavailable.

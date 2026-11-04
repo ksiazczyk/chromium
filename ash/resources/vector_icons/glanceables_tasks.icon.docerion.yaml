@@ -1,0 +1,4 @@
+# Docerion header of glanceables_tasks.icon.
+type: asset
+title: glanceables_tasks vector icon
+summary: Defines the vector path data for the glanceables tasks icon, a circle outline with a check mark, on a 20dp canvas.

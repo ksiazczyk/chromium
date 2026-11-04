@@ -1,0 +1,4 @@
+# Docerion header of ks_all_apps.icon.
+type: asset
+title: ks_all_apps vector icon
+summary: Vector icon path data drawing a grid of app tiles for the all-apps symbol in the ChromeOS Ash UI.

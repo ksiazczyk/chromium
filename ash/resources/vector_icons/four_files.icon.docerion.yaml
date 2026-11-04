@@ -1,0 +1,4 @@
+# Docerion header of four_files.icon.
+type: asset
+title: Four files vector icon
+summary: Vector icon definition representing a group of four files, drawn with path commands on a 20dp canvas for Chromium's Ash UI.

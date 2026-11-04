@@ -1,0 +1,4 @@
+# Docerion header of folder.icon.
+type: asset
+title: Folder vector icon
+summary: Vector icon definition drawing a folder glyph on a 20dp canvas for use in Chromium's Ash UI.

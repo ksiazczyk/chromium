@@ -1,0 +1,4 @@
+# Docerion header of notification_chromevox.icon.
+type: asset
+title: Notification ChromeVox icon
+summary: Vector icon definition drawing the ChromeVox screen reader glyph, a circle with sound wave arcs, for notifications.

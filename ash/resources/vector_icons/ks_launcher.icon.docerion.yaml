@@ -1,0 +1,4 @@
+# Docerion header of ks_launcher.icon.
+type: asset
+title: Launcher vector icon
+summary: Vector icon definition of concentric circles representing the launcher button in the Ash shell.

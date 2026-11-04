@@ -1,0 +1,4 @@
+# Docerion header of gif.icon.
+type: asset
+title: gif vector icon
+summary: Defines the vector path data for the GIF icon, drawing letter-like shapes on a 20dp canvas for the ash resources icon set.

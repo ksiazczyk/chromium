@@ -1,0 +1,4 @@
+# Docerion header of network_badge_off.icon.
+type: asset
+title: Network badge off vector icon
+summary: Defines the vector paths for the diagonal off badge overlaid on Chrome OS network status icons, at 40 and 20 canvas dimensions.

@@ -1,0 +1,4 @@
+# Docerion header of ks_media_track_previous.icon.
+type: asset
+title: Media track previous vector icon
+summary: Vector icon definition that draws the previous media track glyph on a 20dp canvas for the Ash UI.

@@ -1,0 +1,4 @@
+# Docerion header of notification_linux.icon.
+type: asset
+title: Notification Linux vector icon
+summary: Defines the vector path data for the Linux (Tux) notification icon used in the Ash system UI.

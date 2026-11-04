@@ -1,0 +1,4 @@
+# Docerion header of game_controls_single_button.icon.
+type: asset
+title: Game controls single button vector icon
+summary: Vector icon definition drawing a single game control button containing a key glyph, used for game dashboard controls in Chromium's Ash UI.

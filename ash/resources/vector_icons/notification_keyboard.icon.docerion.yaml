@@ -1,0 +1,4 @@
+# Docerion header of notification_keyboard.icon.
+type: asset
+title: Notification keyboard vector icon
+summary: Defines the vector path data for the keyboard notification icon used in the Ash system UI.
