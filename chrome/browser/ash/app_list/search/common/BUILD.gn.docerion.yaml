@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build configuration for app list search common
+summary: Defines the common static library sources, unit test target, dependencies, and allowed circular includes.

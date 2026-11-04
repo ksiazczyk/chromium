@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RecommendAppsFetcherImpl unit tests
+// summary: Unit tests for RecommendAppsFetcherImpl covering empty, malformed, and successful Play Store recommend-apps responses.
+// ---
+
 #include "chrome/browser/ash/app_list/search/arc/recommend_apps_fetcher_impl.h"
 
 #include <memory>

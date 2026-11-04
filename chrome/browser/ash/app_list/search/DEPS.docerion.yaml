@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for app list search
+summary: Specifies allowed include rules and per-file exceptions restricting ChromeOS dependencies on //chrome.

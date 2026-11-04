@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search engine unit tests
+// summary: Unit tests for SearchEngine covering default search start, category filtering and provider result callbacks.
+// ---
+
 #include "chrome/browser/ash/app_list/search/search_engine.h"
 
 #include <memory>

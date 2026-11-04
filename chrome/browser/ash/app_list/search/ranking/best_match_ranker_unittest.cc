@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Best match ranker unit tests
+// summary: Unit tests covering best match thresholding, ranking and shared metadata updates, and handling of cases with no qualifying results.
+// ---
+
 #include "chrome/browser/ash/app_list/search/ranking/best_match_ranker.h"
 
 #include <algorithm>

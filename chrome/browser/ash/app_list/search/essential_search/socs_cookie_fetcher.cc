@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SOCS cookie fetcher implementation
+// summary: Implements the network request to the ChromeOS compliance API that retrieves the SOCS cookie header and reports status via UMA.
+// ---
+
 #include "chrome/browser/ash/app_list/search/essential_search/socs_cookie_fetcher.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App search provider test base header
+// summary: Declares a base test class providing setup, teardown, and helpers shared by app search and app zero state provider unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_APP_SEARCH_PROVIDER_TEST_BASE_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_APP_SEARCH_PROVIDER_TEST_BASE_H_
 

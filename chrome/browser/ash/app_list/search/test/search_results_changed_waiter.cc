@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search results changed waiter
+// summary: Implements a waiter that blocks until the search controller reports results changed for all expected provider types.
+// ---
+
 #include "chrome/browser/ash/app_list/search/test/search_results_changed_waiter.h"
 
 #include "base/functional/bind.h"

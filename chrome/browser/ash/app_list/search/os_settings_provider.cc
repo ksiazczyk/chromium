@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS settings search provider
+// summary: Implements the launcher search provider that returns ChromeOS settings results for typed queries, including icon loading and status metrics.
+// ---
+
 #include "chrome/browser/ash/app_list/search/os_settings_provider.h"
 
 #include <algorithm>

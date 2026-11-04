@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search session metrics manager class declaration
+// summary: Declares SearchSessionMetricsManager, an AppListNotifier observer that tracks active launcher search sessions and records impression, launch, and abandonment metrics.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_SEARCH_SESSION_METRICS_MANAGER_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_SEARCH_SESSION_METRICS_MANAGER_H_
 

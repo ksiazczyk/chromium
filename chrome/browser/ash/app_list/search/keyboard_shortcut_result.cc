@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard shortcut search result implementation
+// summary: Implements the keyboard shortcut launcher result, including mapping shortcut icons to labels and building display text.
+// ---
+
 #include "chrome/browser/ash/app_list/search/keyboard_shortcut_result.h"
 
 #include <cstddef>

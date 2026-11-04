@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App Service app result header
+// summary: Declares AppServiceAppResult, an app search result class handling icon loading and app launching via App Service.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_APP_SERVICE_APP_RESULT_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_APP_SERVICE_APP_RESULT_H_
 

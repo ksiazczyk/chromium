@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Best match ranker class declaration
+// summary: Declares BestMatchRanker, which picks results above a score threshold as best matches and stabilizes top-ranked matches after the burn-in period.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_RANKING_BEST_MATCH_RANKER_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_RANKING_BEST_MATCH_RANKER_H_
 

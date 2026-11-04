@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search metrics manager implementation
+// summary: Implements recording of launcher search metrics such as impressions, launches, abandonments, and continue-section results via histograms and structured metrics.
+// ---
+
 #include "chrome/browser/ash/app_list/search/search_metrics_manager.h"
 
 #include "base/metrics/histogram_functions.h"

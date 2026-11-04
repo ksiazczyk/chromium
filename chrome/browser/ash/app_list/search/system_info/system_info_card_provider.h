@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemInfoCardProvider class declaration
+// summary: Declares the search provider returning system info answer cards for storage, CPU, battery, version and memory, with observers for periodic CPU and memory usage updates.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_SYSTEM_INFO_SYSTEM_INFO_CARD_PROVIDER_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_SYSTEM_INFO_SYSTEM_INFO_CARD_PROVIDER_H_
 

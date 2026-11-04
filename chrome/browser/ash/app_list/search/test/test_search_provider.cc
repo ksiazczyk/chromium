@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestSearchProvider test implementation
+// summary: Implements a fake search provider that returns queued results after a configurable delay for query and zero-state search tests.
+// ---
+
 #include "chrome/browser/ash/app_list/search/test/test_search_provider.h"
 
 #include <memory>

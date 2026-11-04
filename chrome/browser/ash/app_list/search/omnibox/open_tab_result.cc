@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenTabResult implementation
+// summary: Implements launcher results for open browser tabs, including relevance scoring, favicon fetching, and opening the tab URL.
+// ---
+
 #include "chrome/browser/ash/app_list/search/omnibox/open_tab_result.h"
 
 #include "ash/public/cpp/app_list/vector_icons/vector_icons.h"

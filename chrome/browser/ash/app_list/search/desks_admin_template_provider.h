@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desks admin template provider class declaration
+// summary: Declares DesksAdminTemplateResult and DesksAdminTemplateProvider, which show admin desk templates in the launcher continue section.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_DESKS_ADMIN_TEMPLATE_PROVIDER_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_DESKS_ADMIN_TEMPLATE_PROVIDER_H_
 

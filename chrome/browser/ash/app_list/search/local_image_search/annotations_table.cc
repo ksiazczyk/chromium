@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Annotations table implementation
+// summary: Implements creation, drop, insert, term id lookup and pruning operations for the SQLite annotations table that stores unique annotation terms.
+// ---
+
 #include "chrome/browser/ash/app_list/search/local_image_search/annotations_table.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ranker interface
+// summary: Defines the Ranker interface all app list search rankers implement, covering result and category ranking, training, and removal callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_RANKING_RANKER_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_RANKING_RANKER_H_
 

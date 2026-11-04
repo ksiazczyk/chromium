@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppResult class header
+// summary: Declares the base class for app search results holding the profile, app ID, and controller delegate.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_APP_RESULT_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_APP_RESULT_H_
 

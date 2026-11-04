@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Answer ranker implementation
+// summary: Implements AnswerRanker, which selects at most one result as an answer card from omnibox, system info, or keyboard shortcut providers and filters unselected omnibox answers.
+// ---
+
 #include "chrome/browser/ash/app_list/search/ranking/answer_ranker.h"
 
 #include "ash/public/cpp/app_list/app_list_types.h"

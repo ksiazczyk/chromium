@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Query highlighter class declaration
+// summary: Declares the QueryHighlighter ranker that postprocesses result tags to highlight text matching the query.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_RANKING_QUERY_HIGHLIGHTER_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_RANKING_QUERY_HIGHLIGHTER_H_
 

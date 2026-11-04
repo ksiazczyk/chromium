@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personalization search provider declarations
+// summary: Declares PersonalizationResult and PersonalizationProvider, which provide personalization app search results in the launcher.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_PERSONALIZATION_PROVIDER_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_PERSONALIZATION_PROVIDER_H_
 

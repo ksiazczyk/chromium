@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Score normalizing ranker implementation
+// summary: Implements a ranker that normalizes each provider's result scores toward a uniform distribution, skipping providers and continue-section files that need no normalization.
+// ---
+
 #include "chrome/browser/ash/app_list/search/ranking/score_normalizing_ranker.h"
 
 #include "base/strings/strcat.h"

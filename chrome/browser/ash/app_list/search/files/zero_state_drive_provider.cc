@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zero state Drive provider implementation
+// summary: Implements the zero-state provider that surfaces suggested Drive files from the file suggest service, scoring results by their API order and logging latency.
+// ---
+
 #include "chrome/browser/ash/app_list/search/files/zero_state_drive_provider.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zero state file provider implementation
+// summary: Implements the app list search provider that recommends recently opened local files for the ChromeOS zero-state Continue section, filtering screenshots and respecting Drive settings.
+// ---
+
 #include "chrome/browser/ash/app_list/search/files/zero_state_file_provider.h"
 
 #include <optional>

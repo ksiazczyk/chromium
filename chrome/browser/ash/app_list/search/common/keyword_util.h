@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyword extraction interface
+// summary: Declares KeywordInfo, the keyword-to-providers map, and helpers to extract keywords and strip them from queries.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_COMMON_KEYWORD_UTIL_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_COMMON_KEYWORD_UTIL_H_
 

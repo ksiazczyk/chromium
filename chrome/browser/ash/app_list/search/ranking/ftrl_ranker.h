@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FTRL ranker header
+// summary: Declares FtrlRanker, which learns weightings for expert sub-rankers, and the ResultScoringShim expert class.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_RANKING_FTRL_RANKER_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_RANKING_FTRL_RANKER_H_
 

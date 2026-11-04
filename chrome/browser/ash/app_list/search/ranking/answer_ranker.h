@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Answer ranker class declaration
+// summary: Declares AnswerRanker, a ranker that promotes at most one result to the answer card display type and hides omnibox answers that are not selected.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_RANKING_ANSWER_RANKER_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_RANKING_ANSWER_RANKER_H_
 

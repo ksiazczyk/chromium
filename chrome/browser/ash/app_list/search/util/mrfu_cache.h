@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MRFU cache class
+// summary: Declares the MrfuCache persistent string-to-score cache, documenting its boost factor, half-life decay theory, and cache operations.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_UTIL_MRFU_CACHE_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_UTIL_MRFU_CACHE_H_
 

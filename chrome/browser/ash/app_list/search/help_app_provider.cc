@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Help app provider implementation
+// summary: Implements the search provider that returns Explore help app articles as launcher results and launches the help system web app.
+// ---
+
 #include "chrome/browser/ash/app_list/search/help_app_provider.h"
 
 #include <memory>

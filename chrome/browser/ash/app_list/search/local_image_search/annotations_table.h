@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Annotations table wrapper declaration
+// summary: Declares AnnotationsTable, a static wrapper around the SQLite annotations table used to store and look up unique annotation terms.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_LOCAL_IMAGE_SEARCH_ANNOTATIONS_TABLE_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_LOCAL_IMAGE_SEARCH_ANNOTATIONS_TABLE_H_
 

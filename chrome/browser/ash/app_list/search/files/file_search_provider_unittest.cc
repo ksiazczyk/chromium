@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File search provider unit tests
+// summary: Unit tests verifying that file search matches queries case-insensitively and accent-insensitively and returns the expected file and directory results.
+// ---
+
 #include "chrome/browser/ash/app_list/search/files/file_search_provider.h"
 
 #include "ash/constants/ash_pref_names.h"

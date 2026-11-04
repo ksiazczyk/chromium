@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchProvider base class and search category enum
+// summary: Declares the abstract SearchProvider base class and the SearchCategory enum that groups launcher search providers by the kinds of results they return.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_SEARCH_PROVIDER_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_SEARCH_PROVIDER_H_
 

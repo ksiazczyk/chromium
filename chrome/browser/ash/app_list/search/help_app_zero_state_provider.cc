@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Help App zero-state provider implementation
+// summary: Implements the provider that shows Help App zero-state chips, including the release notes suggestion chip.
+// ---
+
 #include "chrome/browser/ash/app_list/search/help_app_zero_state_provider.h"
 
 #include <memory>

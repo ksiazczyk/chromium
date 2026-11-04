@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search provider base implementation
+// summary: Implements the SearchProvider base class, storing result callbacks and swapping in new results for launcher search providers.
+// ---
+
 #include "chrome/browser/ash/app_list/search/search_provider.h"
 
 #include <utility>

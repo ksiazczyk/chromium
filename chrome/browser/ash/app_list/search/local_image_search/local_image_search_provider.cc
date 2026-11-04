@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local image search provider implementation
+// summary: Implements the app list search provider that queries image annotations and builds file search results with thumbnails.
+// ---
+
 #include "chrome/browser/ash/app_list/search/local_image_search/local_image_search_provider.h"
 
 #include "base/i18n/rtl.h"

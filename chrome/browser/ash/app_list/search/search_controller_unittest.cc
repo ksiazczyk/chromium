@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search controller unit tests
+// summary: Unit tests for the launcher SearchController covering query dispatch, ranking, categories and result publishing to the model updater.
+// ---
+
 #include "chrome/browser/ash/app_list/search/search_controller.h"
 
 #include <algorithm>

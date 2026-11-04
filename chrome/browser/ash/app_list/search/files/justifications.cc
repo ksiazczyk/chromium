@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File suggestion justification strings
+// summary: Builds localized justification strings describing why a file was suggested, combining the action type, user name and a formatted access or modification time.
+// ---
+
 #include "chrome/browser/ash/app_list/search/files/justifications.h"
 
 #include "ash/strings/grit/ash_strings.h"

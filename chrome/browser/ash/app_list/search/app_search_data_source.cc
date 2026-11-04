@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App search data source implementation
+// summary: Builds app search results from App Service data, matching queries with fuzzy string matching and filtering duplicate Chrome and Android apps.
+// ---
+
 #include "chrome/browser/ash/app_list/search/app_search_data_source.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test app list controller implementation
+// summary: Implements a fake app list controller that tracks visibility changes and show sources for browser-side unit tests.
+// ---
+
 #include "chrome/browser/ash/app_list/test/test_app_list_controller.h"
 
 #include "ash/public/cpp/app_list/app_list_controller_observer.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Annotation storage implementation
+// summary: Implements AnnotationStorage, a persistent SQLite-backed store that creates and migrates the schema and supports inserting, removing and searching image annotations.
+// ---
+
 #include "chrome/browser/ash/app_list/search/local_image_search/annotation_storage.h"
 
 #include <algorithm>

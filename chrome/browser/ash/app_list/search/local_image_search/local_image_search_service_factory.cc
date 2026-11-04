@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local image search service factory implementation
+// summary: Implements the profile-keyed factory that builds LocalImageSearchService for regular profiles, skipping guest sessions and honoring the launcher image search feature flag.
+// ---
+
 #include "chrome/browser/ash/app_list/search/local_image_search/local_image_search_service_factory.h"
 
 #include "base/check_deref.h"

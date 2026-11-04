@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App zero state provider header
+// summary: Declares AppZeroStateProvider, a search provider returning app recommendations when no query is entered.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_APP_ZERO_STATE_PROVIDER_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_APP_ZERO_STATE_PROVIDER_H_
 

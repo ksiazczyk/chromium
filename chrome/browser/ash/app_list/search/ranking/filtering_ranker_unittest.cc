@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Filtering ranker unit tests
+// summary: Tests deduplication of Drive files and open tabs and filtering of omnibox answer results on short queries.
+// ---
+
 #include "chrome/browser/ash/app_list/search/ranking/filtering_ranker.h"
 
 #include "chrome/browser/ash/app_list/search/chrome_search_result.h"

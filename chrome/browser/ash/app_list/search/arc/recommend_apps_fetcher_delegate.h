@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecommendAppsFetcherDelegate interface
+// summary: Declares the delegate interface used by RecommendAppsFetcher to report load success, load errors, and parse errors.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_ARC_RECOMMEND_APPS_FETCHER_DELEGATE_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_ARC_RECOMMEND_APPS_FETCHER_DELEGATE_H_
 

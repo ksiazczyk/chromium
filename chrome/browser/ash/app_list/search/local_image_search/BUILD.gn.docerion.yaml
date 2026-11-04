@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the local_image_search library
+summary: Defines the local_image_search static library sources and dependencies plus the unit_tests source_set for the ChromeOS launcher local image search component.

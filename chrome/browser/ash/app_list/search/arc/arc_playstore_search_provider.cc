@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC Play Store search provider implementation
+// summary: Implements the search provider that fetches recent and suggested Play Store apps for a query, filtering out installed Android apps and equivalent extensions.
+// ---
+
 #include "chrome/browser/ash/app_list/search/arc/arc_playstore_search_provider.h"
 
 #include <memory>

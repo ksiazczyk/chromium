@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search controller factory unit tests
+// summary: Tests that LauncherSearchProviderTypes returns the expected autocomplete provider type bitmask for the launcher search controller.
+// ---
+
 #include "chrome/browser/ash/app_list/search/search_controller_factory.h"
 
 #include "components/omnibox/browser/autocomplete_provider.h"

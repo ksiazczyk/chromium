@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search controller factory header
+// summary: Declares CreateSearchController, which builds a SearchController with the required providers, and LauncherSearchProviderTypes.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_SEARCH_CONTROLLER_FACTORY_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_SEARCH_CONTROLLER_FACTORY_H_
 

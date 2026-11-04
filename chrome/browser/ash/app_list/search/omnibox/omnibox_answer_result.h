@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxAnswerResult class declaration
+// summary: Declares OmniboxAnswerResult, a ChromeSearchResult that displays omnibox answer cards at the top of the categorical search launcher.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_OMNIBOX_OMNIBOX_ANSWER_RESULT_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_OMNIBOX_OMNIBOX_ANSWER_RESULT_H_
 

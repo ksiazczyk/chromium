@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the omnibox search library
+summary: GN build configuration defining the omnibox static library and its unit test source set, listing sources and dependencies.

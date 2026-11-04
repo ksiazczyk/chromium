@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keyboard shortcut provider unit tests
+// summary: Unit tests for the keyboard shortcut provider using fake search results with varied relevance scores and accelerator states.
+// ---
+
 #include "chrome/browser/ash/app_list/search/keyboard_shortcut_provider.h"
 
 #include <memory>

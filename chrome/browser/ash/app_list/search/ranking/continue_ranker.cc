@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Continue ranker implementation
+// summary: Implements ContinueRanker, assigning continue ranks to zero-state file, Drive, help app, and desks admin template results in the Continue section.
+// ---
+
 #include "chrome/browser/ash/app_list/search/ranking/continue_ranker.h"
 
 #include "ash/public/cpp/app_list/app_list_types.h"

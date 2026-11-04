@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Launcher search result sorting implementation
+// summary: Implements sorting of launcher search categories and results by burn-in iteration, best match rank, category, and display score.
+// ---
+
 #include "chrome/browser/ash/app_list/search/ranking/sorting.h"
 
 #include "base/files/file_path.h"

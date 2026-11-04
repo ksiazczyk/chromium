@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keyboard shortcut result unit tests
+// summary: Unit tests verifying how keyboard shortcut results populate text items and accessible strings for various accelerator cases.
+// ---
+
 #include "chrome/browser/ash/app_list/search/keyboard_shortcut_result.h"
 
 #include <memory>

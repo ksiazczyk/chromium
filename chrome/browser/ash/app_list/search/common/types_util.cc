@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list search type utility implementations
+// summary: Implements conversions of app list search result, metrics, and display type enums to debug strings and maps search categories to UI control categories.
+// ---
+
 #include "chrome/browser/ash/app_list/search/common/types_util.h"
 
 #include "ash/public/cpp/app_list/app_list_metrics.h"

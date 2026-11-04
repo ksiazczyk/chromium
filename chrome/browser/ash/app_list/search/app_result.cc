@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppResult implementation
+// summary: Implements the base app search result, including time-decayed relevance based on last launch or install time.
+// ---
+
 #include "chrome/browser/ash/app_list/search/app_result.h"
 
 #include "base/time/time.h"

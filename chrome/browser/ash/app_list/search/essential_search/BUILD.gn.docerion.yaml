@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for essential search
+summary: Defines the essential_search static library and its unit test source set, listing sources and build dependencies.

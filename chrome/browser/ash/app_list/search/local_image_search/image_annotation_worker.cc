@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image annotation worker implementation
+// summary: Implements the background worker that watches image folders, runs on-device OCR and image content annotation, and stores results for launcher image search.
+// ---
+
 #include "chrome/browser/ash/app_list/search/local_image_search/image_annotation_worker.h"
 
 #include <algorithm>

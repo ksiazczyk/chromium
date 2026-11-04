@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: App list search test support build config
+summary: Defines the test_support and browser_test_support static libraries that bundle app list search test utilities and their dependencies.

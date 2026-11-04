@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SystemInfoAnswerResult
+// summary: Unit tests verifying IDs, display types, icons, metrics and accessibility names of system info answer results.
+// ---
+
 #include "chrome/browser/ash/app_list/search/system_info/system_info_answer_result.h"
 
 #include <memory>

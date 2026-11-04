@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC app shortcut search result implementation
+// summary: Implements the launcher search result for Android app shortcuts, computing fuzzy match relevance, decoding icons, and logging shortcut status metrics.
+// ---
+
 #include "chrome/browser/ash/app_list/search/arc/arc_app_shortcut_search_result.h"
 
 #include <string>

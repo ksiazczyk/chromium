@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SearchResultsChangedWaiter test helper header
+// summary: Declares a test helper that observes the app list search controller and waits until result sets change for a subset of result providers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_TEST_SEARCH_RESULTS_CHANGED_WAITER_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_TEST_SEARCH_RESULTS_CHANGED_WAITER_H_
 

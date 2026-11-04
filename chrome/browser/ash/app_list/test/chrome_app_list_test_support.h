@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome app list test support helpers header
+// summary: Declares test helpers for obtaining the app list client and model updater and adding dummy app list items in tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_TEST_CHROME_APP_LIST_TEST_SUPPORT_H_
 #define CHROME_BROWSER_ASH_APP_LIST_TEST_CHROME_APP_LIST_TEST_SUPPORT_H_
 

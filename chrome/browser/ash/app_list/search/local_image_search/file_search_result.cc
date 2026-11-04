@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File search result implementation
+// summary: Implements the constructor and copy semantics of FileSearchResult, which pairs a file path with its last modified time and relevance score.
+// ---
+
 #include "chrome/browser/ash/app_list/search/local_image_search/file_search_result.h"
 
 #include <utility>

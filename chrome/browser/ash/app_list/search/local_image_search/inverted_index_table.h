@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inverted index table class declaration
+// summary: Declares the InvertedIndexTable wrapper providing create, drop, insert, and remove operations for the SQLite inverted index.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_LOCAL_IMAGE_SEARCH_INVERTED_INDEX_TABLE_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_LOCAL_IMAGE_SEARCH_INVERTED_INDEX_TABLE_H_
 

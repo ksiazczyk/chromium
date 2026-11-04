@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Launcher search feature flag declarations
+// summary: Declares Chrome feature flags and query helpers that enable and control launcher image search, OCR, indexing limits, debugging, and file scan behavior.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_SEARCH_FEATURES_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_SEARCH_FEATURES_H_
 

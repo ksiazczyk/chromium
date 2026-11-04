@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Zero state Drive provider unit tests
+// summary: Unit tests for the zero-state Drive provider using a fake file suggest service to verify suggestion results, scoring and latency metrics.
+// ---
+
 #include "chrome/browser/ash/app_list/search/files/zero_state_drive_provider.h"
 
 #include "ash/utility/persistent_proto.h"

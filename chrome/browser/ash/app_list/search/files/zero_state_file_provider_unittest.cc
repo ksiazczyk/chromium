@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Zero state file provider unit tests
+// summary: Unit tests for ZeroStateFileProvider covering zero-state local file suggestions, including behavior with queries and downloads folder setup.
+// ---
+
 #include "chrome/browser/ash/app_list/search/files/zero_state_file_provider.h"
 
 #include <string>

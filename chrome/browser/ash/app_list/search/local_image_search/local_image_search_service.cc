@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local image search service implementation
+// summary: Implements the per-profile service that initializes annotation storage and the annotation worker, and runs image searches.
+// ---
+
 #include "chrome/browser/ash/app_list/search/local_image_search/local_image_search_service.h"
 
 #include "base/task/thread_pool.h"

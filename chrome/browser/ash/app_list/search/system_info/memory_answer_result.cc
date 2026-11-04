@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory answer result implementation
+// summary: Implements the memory answer card result, refreshing memory usage percentage and details every ten seconds via a repeating timer.
+// ---
+
 #include "chrome/browser/ash/app_list/search/system_info/memory_answer_result.h"
 
 #include "ash/public/cpp/app_list/app_list_types.h"

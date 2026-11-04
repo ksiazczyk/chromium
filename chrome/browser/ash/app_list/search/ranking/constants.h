@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ranking constants
+// summary: Defines constants for app list search ranking, including maximum omnibox results, best match count, stabilization count, and the best match score threshold.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_RANKING_CONSTANTS_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_RANKING_CONSTANTS_H_
 

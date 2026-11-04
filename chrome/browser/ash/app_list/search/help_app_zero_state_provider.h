@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Help App zero-state provider
+// summary: Declares HelpAppZeroStateResult and HelpAppZeroStateProvider, which provide zero-state results from the Help App.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_HELP_APP_ZERO_STATE_PROVIDER_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_HELP_APP_ZERO_STATE_PROVIDER_H_
 

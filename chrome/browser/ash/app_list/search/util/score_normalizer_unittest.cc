@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Score normalizer unit tests
+// summary: Unit tests for the ScoreNormalizer covering initialization, clearing state on version change, and bin splitting and merging behavior using a temp-dir backed proto.
+// ---
+
 #include "chrome/browser/ash/app_list/search/util/score_normalizer.h"
 
 #include "base/files/scoped_temp_dir.h"

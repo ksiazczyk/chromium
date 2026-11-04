@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Removed results ranker unit tests
+// summary: Unit tests verifying that RemovedResultsRanker filters results whose IDs were previously removed and handles empty result sets.
+// ---
+
 #include "chrome/browser/ash/app_list/search/ranking/removed_results_ranker.h"
 
 #include "ash/public/cpp/app_list/app_list_types.h"

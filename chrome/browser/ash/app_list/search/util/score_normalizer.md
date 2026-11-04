@@ -1,3 +1,11 @@
+---
+type: reference
+title: Score normalizer design document
+summary: Explains the score normalizer algorithm, covering reservoir sampling, bin-entropy based bin splitting and merging, performance, and ideas for improvement.
+relations:
+  - documents /chrome/browser/ash/app_list/search/util/score_normalizer.cc
+---
+
 # Score normalizer
 
 The score normalizer is a heuristic algorithm that attempts to map a incoming

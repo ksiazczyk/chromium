@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local image search service factory declaration
+// summary: Declares LocalImageSearchServiceFactory, a ProfileKeyedServiceFactory that creates the image search service for regular profiles after user login.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_LOCAL_IMAGE_SEARCH_LOCAL_IMAGE_SEARCH_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_LOCAL_IMAGE_SEARCH_LOCAL_IMAGE_SEARCH_SERVICE_FACTORY_H_
 

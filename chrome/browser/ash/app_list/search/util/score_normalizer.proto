@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Score normalizer storage protobuf
+// summary: Defines the ScoreNormalizerProto message used to persist normalizer state, including versioning fields, bins with dividers and counts, and named normalizers.
+// ---
+
 syntax = "proto2";
 
 option optimize_for = LITE_RUNTIME;

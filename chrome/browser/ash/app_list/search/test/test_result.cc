@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestResult test implementation
+// summary: Implements a configurable ChromeSearchResult subclass with constructors covering relevance, scoring, display type, and file results for tests.
+// ---
+
 #include "chrome/browser/ash/app_list/search/test/test_result.h"
 
 #include "base/strings/utf_string_conversions.h"

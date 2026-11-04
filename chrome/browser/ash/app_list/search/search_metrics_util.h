@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search metrics utility header
+// summary: Declares histogram prefixes, the metrics Error enum, and helper functions for logging launcher search metric errors and open methods.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_SEARCH_METRICS_UTIL_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_SEARCH_METRICS_UTIL_H_
 

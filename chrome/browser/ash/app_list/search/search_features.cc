@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Launcher search feature flags
+// summary: Defines base::Feature flags and helper functions controlling launcher image search, OCR and file scan features.
+// ---
+
 #include "chrome/browser/ash/app_list/search/search_features.h"
 
 #include "ash/constants/ash_features.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System info answer result implementation
+// summary: Implements the base system info answer card result, building result IDs, icons and accessibility labels for Settings and Diagnostics pages.
+// ---
+
 #include "chrome/browser/ash/app_list/search/system_info/system_info_answer_result.h"
 
 #include <string>

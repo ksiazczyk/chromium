@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecommendAppsFetcherImpl class declaration
+// summary: Declares RecommendAppsFetcherImpl, which issues the network request for ARC app reinstall recommendations using the Android ID header.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_ARC_RECOMMEND_APPS_FETCHER_IMPL_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_ARC_RECOMMEND_APPS_FETCHER_IMPL_H_
 

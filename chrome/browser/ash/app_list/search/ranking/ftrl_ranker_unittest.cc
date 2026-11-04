@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FTRL ranker unit tests
+// summary: Tests training and ranking of the FTRL ranker with expert rankers across single and multiple providers.
+// ---
+
 #include "chrome/browser/ash/app_list/search/ranking/ftrl_ranker.h"
 
 #include "chrome/browser/ash/app_list/search/chrome_search_result.h"

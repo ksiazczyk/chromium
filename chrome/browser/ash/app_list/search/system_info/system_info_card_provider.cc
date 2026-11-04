@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemInfoCardProvider implementation
+// summary: Implements the launcher search provider that surfaces system info answer cards for battery, CPU, memory, storage and version, linking to Settings and Diagnostics pages.
+// ---
+
 #include "chrome/browser/ash/app_list/search/system_info/system_info_card_provider.h"
 
 #include <iomanip>

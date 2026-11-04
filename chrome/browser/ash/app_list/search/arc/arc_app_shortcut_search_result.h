@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC app shortcut search result class declaration
+// summary: Declares ArcAppShortcutSearchResult, a ChromeSearchResult that displays an Android app shortcut with icon loading and an accessible name.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_ARC_ARC_APP_SHORTCUT_SEARCH_RESULT_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_ARC_ARC_APP_SHORTCUT_SEARCH_RESULT_H_
 

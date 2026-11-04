@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SystemInfoCardProvider unit tests
+// summary: Unit tests for the system info card provider covering battery, CPU and memory probe responses, relevance thresholds and error histograms using fake cros_healthd services.
+// ---
+
 #include "chrome/browser/ash/app_list/search/system_info/system_info_card_provider.h"
 
 #include <memory>

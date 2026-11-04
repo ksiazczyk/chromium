@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search utilities implementation
+// summary: Implements search helpers including sorted result intersection, English stop word checks and UMA logging for image content annotation statuses.
+// ---
+
 #include "chrome/browser/ash/app_list/search/local_image_search/search_utils.h"
 
 #include <string>

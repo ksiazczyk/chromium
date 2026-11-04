@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test app list controller delegate implementation
+// summary: Implements a stub AppListControllerDelegate for tests, returning no-op results while recording view dismissals and the last opened URL for verification.
+// ---
+
 #include "chrome/browser/ash/app_list/test/test_app_list_controller_delegate.h"
 
 #include <utility>

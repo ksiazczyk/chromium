@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test continue files search provider implementation
+// summary: Implements a fake search provider that publishes configurable continue section file and Drive results for app list search tests.
+// ---
+
 #include "chrome/browser/ash/app_list/search/test/test_continue_files_search_provider.h"
 
 #include <memory>

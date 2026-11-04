@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inverted index table implementation
+// summary: Implements creation, insertion, and removal operations for the SQLite inverted_index table backing image search.
+// ---
+
 #include "chrome/browser/ash/app_list/search/local_image_search/inverted_index_table.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list search type utility header
+// summary: Declares functions that convert app list search result, metrics, and display types to debug strings and map search categories to control categories.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_SEARCH_COMMON_TYPES_UTIL_H_
 #define CHROME_BROWSER_ASH_APP_LIST_SEARCH_COMMON_TYPES_UTIL_H_
 

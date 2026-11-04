@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AppDiscoveryMetricsManager
+// summary: Tests structured metrics recording for app discovery events using test sync services and a test metrics recorder.
+// ---
+
 #include "chrome/browser/ash/app_list/search/app_discovery_metrics_manager.h"
 
 #include "ash/public/cpp/app_list/app_list_metrics.h"

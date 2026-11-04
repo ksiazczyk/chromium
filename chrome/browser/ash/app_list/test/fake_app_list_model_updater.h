@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake app list model updater header
+// summary: Declares FakeAppListModelUpdater, an in-memory AppListModelUpdater implementation used by browser-side app list unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_APP_LIST_TEST_FAKE_APP_LIST_MODEL_UPDATER_H_
 #define CHROME_BROWSER_ASH_APP_LIST_TEST_FAKE_APP_LIST_MODEL_UPDATER_H_
 
