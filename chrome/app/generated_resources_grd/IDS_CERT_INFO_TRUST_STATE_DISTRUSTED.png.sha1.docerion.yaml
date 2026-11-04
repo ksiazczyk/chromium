@@ -1,0 +1,4 @@
+# Docerion header of IDS_CERT_INFO_TRUST_STATE_DISTRUSTED.png.sha1.
+type: asset
+title: SHA-1 placeholder for IDS_CERT_INFO_TRUST_STATE_DISTRUSTED
+summary: Contains the SHA-1 hash used to fetch the translated PNG for the certificate info distrusted trust state string.
