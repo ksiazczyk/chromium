@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Model execution live sign-in tests
+// summary: 'Manual live browser tests that sign in to a test account and verify model execution settings visibility and sync state; disabled by default behind #if 0.'
+// ---
+
 #include "base/test/bind.h"
 #include "base/test/metrics/histogram_tester.h"
 #include "base/test/scoped_feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GeolocationNavigationThrottle class header
+// summary: Declares the GeolocationNavigationThrottle class, a content navigation throttle that adds geolocation headers to omnibox-initiated navigations via a GeolocationHeaderService.
+// ---
+
 #ifndef CHROME_BROWSER_OMNIBOX_GEOLOCATION_NAVIGATION_THROTTLE_H_
 #define CHROME_BROWSER_OMNIBOX_GEOLOCATION_NAVIGATION_THROTTLE_H_
 

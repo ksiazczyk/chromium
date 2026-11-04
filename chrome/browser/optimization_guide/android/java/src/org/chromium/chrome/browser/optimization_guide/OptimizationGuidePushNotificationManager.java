@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OptimizationGuidePushNotificationManager
+// summary: Handles Optimization Guide push notifications by forwarding them to native code or persisting them in preferences, with overflow detection, until native is available.
+// ---
+
 package org.chromium.chrome.browser.optimization_guide;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome omnibox navigation observer implementation
+// summary: Implements the ref-counted observer that watches omnibox navigations, probes alternative URLs, records shortcuts, and handles 404s for custom search engines.
+// ---
+
 #include "chrome/browser/omnibox/chrome_omnibox_navigation_observer_base.h"
 
 #include <optional>

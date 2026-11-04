@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenInAppMenuItemProvider
+// summary: Interface that provides the Open in App info used to display the Open in App menu item.
+// ---
+
 package org.chromium.chrome.browser.open_in_app;
 
 import org.chromium.build.annotations.NullMarked;

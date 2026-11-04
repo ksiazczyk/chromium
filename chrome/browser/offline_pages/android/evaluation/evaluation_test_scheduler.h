@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EvaluationTestScheduler class declaration
+// summary: Declares the EvaluationTestScheduler, a Scheduler implementation used by offline page evaluation tests to trigger immediate request processing.
+// ---
+
 #ifndef CHROME_BROWSER_OFFLINE_PAGES_ANDROID_EVALUATION_EVALUATION_TEST_SCHEDULER_H_
 #define CHROME_BROWSER_OFFLINE_PAGES_ANDROID_EVALUATION_EVALUATION_TEST_SCHEDULER_H_
 

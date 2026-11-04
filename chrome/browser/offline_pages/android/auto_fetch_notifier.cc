@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto fetch notifier JNI implementation
+// summary: Implements the JNI bridge that shows, updates and cancels Android notifications for auto-fetch offline page requests.
+// ---
+
 #include "chrome/browser/offline_pages/android/auto_fetch_notifier.h"
 
 #include "base/android/jni_android.h"

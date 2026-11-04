@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmahaDelegateBase
+// summary: Base delegate implementation providing the backoff scheduler, system image detection, UUID generation, and usage checks for Omaha.
+// ---
+
 package org.chromium.chrome.browser.omaha;
 
 import android.content.Context;

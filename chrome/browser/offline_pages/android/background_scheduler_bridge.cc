@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background scheduler JNI bridge implementation
+// summary: Implements the JNI bridge that starts and stops scheduled offline page request processing and schedules background tasks on Android.
+// ---
+
 #include "chrome/browser/offline_pages/android/background_scheduler_bridge.h"
 
 #include "base/android/callback_android.h"

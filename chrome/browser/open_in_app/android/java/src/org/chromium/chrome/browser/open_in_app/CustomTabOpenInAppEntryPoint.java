@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomTabOpenInAppEntryPoint
+// summary: Entry point for the Open in App feature in the Custom Tab activity, extending the base OpenInAppEntryPoint class.
+// ---
+
 package org.chromium.chrome.browser.open_in_app;
 
 import android.content.Context;

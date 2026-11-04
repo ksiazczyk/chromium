@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the on-device translation installer
+// summary: Tests OnDeviceTranslationInstallerImpl against a mocked component updater, covering language pack registration, installation, uninstallation, and path resolution.
+// ---
+
 #include "chrome/browser/on_device_translation/installer_impl.h"
 
 #include <memory>

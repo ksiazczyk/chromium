@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MarketURLGetter
+// summary: Supplies the Play Store URL for Chrome by reading it from Omaha shared preferences, keeping the I/O off the main thread.
+// ---
+
 package org.chromium.chrome.browser.omaha;
 
 import android.content.SharedPreferences;

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners delegation for the optimization guide folder
+summary: Delegates code review ownership to the shared optimization guide OWNERS file in components.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for on-device translation
+// summary: End-to-end browser tests exercising translator creation, language pack downloads, service startup, and translation behavior across profiles and language pairs.
+// ---
+
 #include <iterator>
 #include <memory>
 #include <string>

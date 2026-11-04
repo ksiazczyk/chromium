@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the Omaha browser directory
+summary: Lists the code owners for chrome/browser/omaha by including chrome/updater/OWNERS and naming vakh@chromium.org.

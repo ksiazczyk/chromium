@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'XMLParser: SAX-based XML element and attribute parser'
+// summary: Parses server XML into a tree of nodes with attributes using a SAX parser, throwing a RequestFailureException for malformed XML.
+// ---
+
 package org.chromium.chrome.browser.omaha;
 
 import android.text.TextUtils;

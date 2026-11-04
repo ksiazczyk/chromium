@@ -1,3 +1,9 @@
+---
+type: readme
+title: Omaha Architecture Overview
+summary: Explains how the Omaha update client works in Chrome for Android, covering core flow, requests, scheduling, and class structure.
+---
+
 # Omaha Architecture Overview
 
 ## Overview

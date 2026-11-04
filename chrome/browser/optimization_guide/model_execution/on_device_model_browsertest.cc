@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: On-device model browser tests
+// summary: Browser tests that install fake on-device model assets and manifest overrides to exercise on-device model execution features.
+// ---
+
 #include "base/command_line.h"
 #include "base/functional/callback_helpers.h"
 #include "base/run_loop.h"

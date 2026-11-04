@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflinePageUtils class header
+// summary: Declares OfflinePageUtils with static helpers for selecting pages for a URL, duplicate checks, and tab-related offline page queries.
+// ---
+
 #ifndef CHROME_BROWSER_OFFLINE_PAGES_OFFLINE_PAGE_UTILS_H_
 #define CHROME_BROWSER_OFFLINE_PAGES_OFFLINE_PAGE_UTILS_H_
 

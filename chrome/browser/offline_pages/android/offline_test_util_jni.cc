@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Offline test util JNI implementation
+// summary: Native JNI implementation of OfflineTestUtil.java providing test helpers to fetch pages and requests, dump request coordinator state, and simulate offline errors.
+// ---
+
 #include <sstream>
 
 #include "base/android/callback_android.h"

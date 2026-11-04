@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabbedOpenInAppEntryPoint
+// summary: Entry point for Open in App in the tabbed activity that places or dismisses an omnibox chip for the open in app action.
+// ---
+
 package org.chromium.chrome.browser.open_in_app;
 
 import static org.chromium.build.NullUtil.assertNonNull;

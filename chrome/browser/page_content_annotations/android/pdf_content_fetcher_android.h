@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android PDF content fetcher header
+// summary: Declares FetchPdfContentForWebContentsAndroid, which extracts PDF bytes from a WebContents by reading the tab's canonical file path.
+// ---
+
 #ifndef CHROME_BROWSER_PAGE_CONTENT_ANNOTATIONS_ANDROID_PDF_CONTENT_FETCHER_ANDROID_H_
 #define CHROME_BROWSER_PAGE_CONTENT_ANNOTATIONS_ANDROID_PDF_CONTENT_FETCHER_ANDROID_H_
 

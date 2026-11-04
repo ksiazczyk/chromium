@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Open in app DIR_METADATA
+summary: Directory metadata for open_in_app specifying the Buganizer component, Android OS, and the owning team email.

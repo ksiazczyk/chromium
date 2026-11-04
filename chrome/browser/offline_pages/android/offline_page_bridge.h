@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflinePageBridge class declaration
+// summary: Declares the OfflinePageBridge class that bridges the native offline pages model to Java, with methods for querying, saving, and deleting pages.
+// ---
+
 #ifndef CHROME_BROWSER_OFFLINE_PAGES_ANDROID_OFFLINE_PAGE_BRIDGE_H_
 #define CHROME_BROWSER_OFFLINE_PAGES_ANDROID_OFFLINE_PAGE_BRIDGE_H_
 

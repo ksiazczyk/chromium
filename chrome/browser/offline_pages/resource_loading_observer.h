@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResourceLoadingObserver interface
+// summary: Declares an interface for clients to observe resource loading start and completion events and report received byte counts.
+// ---
+
 #ifndef CHROME_BROWSER_OFFLINE_PAGES_RESOURCE_LOADING_OBSERVER_H_
 #define CHROME_BROWSER_OFFLINE_PAGES_RESOURCE_LOADING_OBSERVER_H_
 

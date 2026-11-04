@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Geolocation header service factory declaration
+// summary: Declares the GeolocationHeaderServiceFactory profile-keyed service factory and its GetForProfile accessor.
+// ---
+
 #ifndef CHROME_BROWSER_OMNIBOX_GEOLOCATION_HEADER_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_OMNIBOX_GEOLOCATION_HEADER_SERVICE_FACTORY_H_
 

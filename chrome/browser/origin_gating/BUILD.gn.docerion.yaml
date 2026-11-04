@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for origin gating
+summary: Defines the origin_gating source set and its unit_tests target with their sources and dependencies.

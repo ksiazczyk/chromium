@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for GeolocationNavigationThrottle
+// summary: Unit tests covering X-Geo header attachment, feature flag behavior, geolocation permission settings, and Omnibox.Search.XGeoHeaderAttached metrics for the geolocation navigation throttle.
+// ---
+
 #include "chrome/browser/omnibox/geolocation_navigation_throttle.h"
 
 #include "base/memory/raw_ptr.h"

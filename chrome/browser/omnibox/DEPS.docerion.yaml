@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the omnibox folder
+summary: Grants the chrome/browser/omnibox folder permission to include headers from components/omnibox.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the on-device translation installer implementation
+// summary: Declares OnDeviceTranslationInstallerImpl, the Chrome browser implementation of the on-device translation installer interface with observer support.
+// ---
+
 #ifndef CHROME_BROWSER_ON_DEVICE_TRANSLATION_INSTALLER_IMPL_H_
 #define CHROME_BROWSER_ON_DEVICE_TRANSLATION_INSTALLER_IMPL_H_
 

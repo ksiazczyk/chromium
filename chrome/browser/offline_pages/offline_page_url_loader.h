@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflinePageURLLoader class header
+// summary: Declares OfflinePageURLLoader, a URLLoader that serves offline page contents when the network service is enabled.
+// ---
+
 #ifndef CHROME_BROWSER_OFFLINE_PAGES_OFFLINE_PAGE_URL_LOADER_H_
 #define CHROME_BROWSER_OFFLINE_PAGES_OFFLINE_PAGE_URL_LOADER_H_
 

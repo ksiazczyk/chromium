@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VisualsDecoderImpl header for offline page image decoding
+// summary: Declares VisualsDecoderImpl, which decodes downloaded images, crops them, and re-encodes them as PNG thumbnails or favicons for offline pages, with security notes on re-encoding.
+// ---
+
 #ifndef CHROME_BROWSER_OFFLINE_PAGES_VISUALS_DECODER_IMPL_H_
 #define CHROME_BROWSER_OFFLINE_PAGES_VISUALS_DECODER_IMPL_H_
 

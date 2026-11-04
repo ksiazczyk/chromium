@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Origin trials browser tests
+// summary: Browser tests verifying origin trial header handling, including persistent and critical trials, with intercepted responses serving Origin-Trial tokens.
+// ---
+
 #include "components/origin_trials/browser/origin_trials.h"
 
 #include <memory>

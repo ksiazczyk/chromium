@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn
+summary: Defines the origin_trials source set and the browser_tests test target with their sources and dependencies.

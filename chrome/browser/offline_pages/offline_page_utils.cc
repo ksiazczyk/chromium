@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflinePageUtils implementation
+// summary: Implements helper functions for querying offline pages, checking duplicate downloads, and calculating offline page sizes.
+// ---
+
 #include "chrome/browser/offline_pages/offline_page_utils.h"
 
 #include <algorithm>

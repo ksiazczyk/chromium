@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page text observer browser tests
+// summary: Browser tests for the optimization guide PageTextObserver, exercising page text dump requests and consumer callbacks.
+// ---
+
 #include "components/optimization_guide/content/browser/page_text_observer.h"
 
 #include <optional>

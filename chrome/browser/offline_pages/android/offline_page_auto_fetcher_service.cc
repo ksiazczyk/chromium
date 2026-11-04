@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline page auto fetcher service
+// summary: Implements the keyed service that schedules, cancels and observes auto-fetch save page requests and drives in-progress notifications.
+// ---
+
 #include "chrome/browser/offline_pages/android/offline_page_auto_fetcher_service.h"
 
 #include <optional>

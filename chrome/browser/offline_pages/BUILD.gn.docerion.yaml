@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for offline_pages
+summary: Defines the offline_pages source sets, their public headers, and build dependencies for the Chrome browser offline pages code, including Android-specific sources.

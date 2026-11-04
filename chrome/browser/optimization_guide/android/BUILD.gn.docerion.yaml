@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the Android optimization guide
+summary: Defines JNI header generation, native and Java library targets, and native, Robolectric, and instrumentation test targets for the Android optimization guide bridge.

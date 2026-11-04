@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Factory for the translation service controller manager
+// summary: Implements a profile-keyed service factory that builds ServiceControllerManager instances for regular and guest profiles.
+// ---
+
 #include "chrome/browser/on_device_translation/service_controller_manager_factory.h"
 
 #include "base/functional/bind.h"

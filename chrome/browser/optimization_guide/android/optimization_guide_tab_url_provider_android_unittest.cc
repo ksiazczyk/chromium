@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Android tab URL provider
+// summary: Verifies tab URL collection and sorting, including filtering of stale tabs and handling of tabs without WebContents.
+// ---
+
 #include "chrome/browser/optimization_guide/android/optimization_guide_tab_url_provider_android.h"
 
 #include "base/time/time.h"

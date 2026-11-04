@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline page navigation throttle implementation
+// summary: Cancels renderer-initiated navigations carrying the X-Chrome-offline header and records whether navigation was canceled.
+// ---
+
 #include "chrome/browser/offline_pages/offline_page_navigation_throttle.h"
 
 #include "base/metrics/histogram_functions.h"

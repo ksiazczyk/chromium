@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for the os_crypt directory
+summary: Lists the default code owner for reviews and points to the elevation service owners file as a backup reviewer source.

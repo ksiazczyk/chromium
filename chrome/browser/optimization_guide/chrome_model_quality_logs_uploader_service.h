@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome model quality logs uploader service header
+// summary: Declares ChromeModelQualityLogsUploaderService, which gates model quality log uploads on consent and enterprise policy and provides system metadata and performance class for logs.
+// ---
+
 #ifndef CHROME_BROWSER_OPTIMIZATION_GUIDE_CHROME_MODEL_QUALITY_LOGS_UPLOADER_SERVICE_H_
 #define CHROME_BROWSER_OPTIMIZATION_GUIDE_CHROME_MODEL_QUALITY_LOGS_UPLOADER_SERVICE_H_
 

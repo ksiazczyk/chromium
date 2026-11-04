@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline page download bridge header
+// summary: Declares the OfflinePageDownloadBridge class, a C++/Java bridge for handling user-initiated downloads of offline pages on Android.
+// ---
+
 #ifndef CHROME_BROWSER_OFFLINE_PAGES_ANDROID_DOWNLOADS_OFFLINE_PAGE_DOWNLOAD_BRIDGE_H_
 #define CHROME_BROWSER_OFFLINE_PAGES_ANDROID_DOWNLOADS_OFFLINE_PAGE_DOWNLOAD_BRIDGE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page content annotations service browser tests
+// summary: Browser tests covering the page content annotations service, including annotators, history integration, UKM metrics, and feature flags.
+// ---
+
 #include "components/page_content_annotations/core/page_content_annotations_service.h"
 
 #include <cstddef>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App-bound encryption API implementation for Windows
+// summary: Implements EncryptAppBoundString and DecryptAppBoundString calls to the elevation service and determines the app-bound encryption support level.
+// ---
+
 #include "chrome/browser/os_crypt/app_bound_encryption_win.h"
 
 #include <objbase.h>

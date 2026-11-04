@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BackgroundLoaderOffliner unit tests
+// summary: Unit tests for the background loader offliner using a stub offline page model, mock navigation handles, and histogram testing.
+// ---
+
 #include "chrome/browser/offline_pages/background_loader_offliner.h"
 
 #include <memory>

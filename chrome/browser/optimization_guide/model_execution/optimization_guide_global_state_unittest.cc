@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Optimization guide global state unit tests
+// summary: Unit tests for OptimizationGuideGlobalState covering on-device AI default enablement by channel, disk space histograms, and component updater mocks.
+// ---
+
 #include "chrome/browser/optimization_guide/model_execution/optimization_guide_global_state.h"
 
 #include "base/test/metrics/histogram_tester.h"

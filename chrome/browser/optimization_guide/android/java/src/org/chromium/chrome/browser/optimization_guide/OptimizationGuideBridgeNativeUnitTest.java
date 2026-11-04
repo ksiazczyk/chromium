@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OptimizationGuideBridgeNativeUnitTest
+// summary: Unit tests for OptimizationGuideBridge that exercise registration and decision callbacks against the native implementation.
+// ---
+
 package org.chromium.chrome.browser.optimization_guide;
 
 import static org.junit.Assert.assertEquals;

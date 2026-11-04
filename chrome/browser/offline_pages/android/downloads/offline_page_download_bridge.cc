@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline page download bridge implementation
+// summary: Implements the C++/Java bridge that handles user-initiated downloads of offline pages on Android, including duplicate download dialogs, sharing, and download UI integration.
+// ---
+
 #include "chrome/browser/offline_pages/android/downloads/offline_page_download_bridge.h"
 
 #include <memory>

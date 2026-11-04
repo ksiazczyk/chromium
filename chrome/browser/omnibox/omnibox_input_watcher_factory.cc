@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxInputWatcherFactory implementation
+// summary: Implements a BrowserContextKeyedServiceFactory that builds and provides one OmniboxInputWatcher instance per browser context in Chrome.
+// ---
+
 #include "chrome/browser/omnibox/omnibox_input_watcher_factory.h"
 
 #include "components/keyed_service/content/browser_context_dependency_manager.h"

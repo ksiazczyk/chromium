@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android PDF content fetcher
+// summary: Fetches PDF bytes for a WebContents on Android by reading TabAndroid's canonical file path on a background thread and records extraction metrics.
+// ---
+
 #include "chrome/browser/page_content_annotations/android/pdf_content_fetcher_android.h"
 
 #include <cstdint>

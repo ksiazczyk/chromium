@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization Guide global state holder service implementation
+// summary: Implements a keyed service that lazily provides access to the shared OptimizationGuideGlobalState instance.
+// ---
+
 #include "chrome/browser/optimization_guide/optimization_guide_global_state_holder_keyed_service.h"
 
 #include "chrome/browser/optimization_guide/model_execution/optimization_guide_global_state.h"

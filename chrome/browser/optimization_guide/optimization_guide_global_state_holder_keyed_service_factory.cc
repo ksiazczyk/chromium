@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization Guide global state holder service factory implementation
+// summary: Implements the profile-keyed factory for the global state holder service, returning instances only when optimization hints are enabled.
+// ---
+
 #include "chrome/browser/optimization_guide/optimization_guide_global_state_holder_keyed_service_factory.h"
 
 #include "chrome/browser/optimization_guide/optimization_guide_global_state_holder_keyed_service.h"

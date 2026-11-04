@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test utilities for the optimization guide
+// summary: Implements browser test helpers that retry histogram checks, build test model responses, set up sign-in capabilities, and observe model updates.
+// ---
+
 #include "chrome/browser/optimization_guide/browser_test_util.h"
 
 #include "base/run_loop.h"

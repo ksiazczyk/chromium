@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflinePageRequestHandler implementation
+// summary: Implements serving trusted offline page archives for http/https navigations on disconnected or prohibitively slow networks.
+// ---
+
 #include "chrome/browser/offline_pages/offline_page_request_handler.h"
 
 #include <utility>

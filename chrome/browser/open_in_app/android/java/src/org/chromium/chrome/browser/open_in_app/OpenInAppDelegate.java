@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenInAppDelegate
+// summary: Per-tab delegate that stores and exposes Open in App info such as the launch action, app name, icon and package name.
+// ---
+
 package org.chromium.chrome.browser.open_in_app;
 
 import android.graphics.drawable.Drawable;

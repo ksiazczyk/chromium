@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackgroundLoaderOffliner implementation
+// summary: Implements background loading and saving of offline pages, handling load termination, snapshots, security state, resource observation, and metrics.
+// ---
+
 #include "chrome/browser/offline_pages/background_loader_offliner.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Offline page archive publisher unit tests
+// summary: Unit tests for publishing and unpublishing offline page archives using a test delegate and temporary archive directories.
+// ---
+
 #include "chrome/browser/offline_pages/android/offline_page_archive_publisher_impl.h"
 
 #include "base/android/android_info.h"

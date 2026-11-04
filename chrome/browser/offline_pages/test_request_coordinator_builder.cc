@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test RequestCoordinator builder implementation
+// summary: Builds a test RequestCoordinator using a stub offliner and scheduler plus a test request queue for unit tests.
+// ---
+
 #include "chrome/browser/offline_pages/test_request_coordinator_builder.h"
 
 #include <memory>

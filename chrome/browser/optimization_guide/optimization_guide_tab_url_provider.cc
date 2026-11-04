@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization guide tab URL provider implementation
+// summary: Collects URLs of recently active tabs for a profile, sorted by last active time, to support optimization guide hint fetching.
+// ---
+
 #include "chrome/browser/optimization_guide/optimization_guide_tab_url_provider.h"
 
 #include "base/time/time.h"

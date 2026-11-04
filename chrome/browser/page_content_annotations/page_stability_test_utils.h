@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page stability browser test utilities header
+// summary: Declares PageStabilityBrowserTestBase with helpers for simulating network fetches and checking page stability in browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_PAGE_CONTENT_ANNOTATIONS_PAGE_STABILITY_TEST_UTILS_H_
 #define CHROME_BROWSER_PAGE_CONTENT_ANNOTATIONS_PAGE_STABILITY_TEST_UTILS_H_
 

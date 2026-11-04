@@ -1,3 +1,9 @@
+---
+type: readme
+title: App-bound encryption directory overview
+summary: Explains the app-bound encryption interface, its EncryptAppBoundString and DecryptAppBoundString functions, and the available protection levels.
+---
+
 This directory contains the interface to the application-bound encryption
 primitives that are implemented by the elevation service in
 [src/chrome/elevation_service].

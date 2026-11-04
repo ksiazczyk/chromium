@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the auto fetch page load watcher
+// summary: Unit tests for the auto-fetch page load watcher internals, using stub tab finders, fake delegates and mock notifiers.
+// ---
+
 #include "chrome/browser/offline_pages/android/auto_fetch_page_load_watcher.h"
 
 #include <memory>

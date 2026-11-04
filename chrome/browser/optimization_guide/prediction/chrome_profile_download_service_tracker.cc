@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome profile download service tracker implementation
+// summary: Implements a tracker that observes Chrome profiles and returns the background download service of the first active regular profile for prediction models.
+// ---
+
 #include "chrome/browser/optimization_guide/prediction/chrome_profile_download_service_tracker.h"
 
 #include "chrome/browser/browser_process.h"

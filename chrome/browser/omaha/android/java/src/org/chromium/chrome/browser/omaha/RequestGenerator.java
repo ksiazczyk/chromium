@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RequestGenerator
+// summary: Generates Omaha server protocol XML requests, including install events and update checks, for posting to the update server.
+// ---
+
 package org.chromium.chrome.browser.omaha;
 
 import android.content.Context;

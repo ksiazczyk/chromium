@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the Android optimization guide folder
+summary: Grants this folder include access to content public Android Java, content test, and jni_zero headers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline page bookmark observer implementation
+// summary: Deletes offline pages associated with bookmarks when bookmark nodes are removed from the bookmark model.
+// ---
+
 #include "chrome/browser/offline_pages/offline_page_bookmark_observer.h"
 
 #include "base/functional/bind.h"

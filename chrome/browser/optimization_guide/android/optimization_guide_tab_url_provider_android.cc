@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android implementation of the tab URL provider
+// summary: Collects URLs of recently active tabs from Android tab models, sorted by last active time, to feed optimization guide hints.
+// ---
+
 #include "chrome/browser/optimization_guide/android/optimization_guide_tab_url_provider_android.h"
 
 #include "chrome/browser/android/tab_android.h"

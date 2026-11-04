@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmahaService
+// summary: Schedules and runs the Omaha client pipeline as a background task, using the background task scheduler and JobService.
+// ---
+
 package org.chromium.chrome.browser.omaha;
 
 import android.app.IntentService;

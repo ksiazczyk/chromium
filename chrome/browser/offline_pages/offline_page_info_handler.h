@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline page info handler header
+// summary: Declares OfflinePageInfoHandler, which serializes offline page loading headers into navigation entries for session restore.
+// ---
+
 #ifndef CHROME_BROWSER_OFFLINE_PAGES_OFFLINE_PAGE_INFO_HANDLER_H_
 #define CHROME_BROWSER_OFFLINE_PAGES_OFFLINE_PAGE_INFO_HANDLER_H_
 

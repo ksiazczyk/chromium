@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test support header for app-bound encryption tests
+// summary: Declares FakeInstallDetails and command-line switches for app-bound encryption test modes that encrypt and decrypt files during testing.
+// ---
+
 #ifndef CHROME_BROWSER_OS_CRYPT_TEST_SUPPORT_H_
 #define CHROME_BROWSER_OS_CRYPT_TEST_SUPPORT_H_
 

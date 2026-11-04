@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Request coordinator JNI bridge implementation
+// summary: Implements the JNI bridge for the background request coordinator, converting save page requests and results between C++ and Java.
+// ---
+
 #include "chrome/browser/offline_pages/android/request_coordinator_bridge.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Page stability browser test utilities implementation
+// summary: Implements the shared browser test base that simulates fetch responses and reads page stability output for page content annotations tests.
+// ---
+
 #include "chrome/browser/page_content_annotations/page_stability_test_utils.h"
 
 #include <memory>

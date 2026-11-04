@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflinePageURLLoader implementation
+// summary: Implements a URLLoader interceptor that serves offline pages for main-frame http/https GET navigations via the request handler.
+// ---
+
 #include "chrome/browser/offline_pages/offline_page_url_loader.h"
 
 #include "base/check_op.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-app update snackbar event enum
+// summary: Defines IntDef constants for in-app update snackbar events such as impressions, action taps, and dismissals, persisted to histogram logs.
+// ---
+
 package org.chromium.chrome.browser.omaha.inline;
 
 import androidx.annotation.IntDef;

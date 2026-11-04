@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App-bound encryption Windows browser tests
+// summary: Browser tests for Windows app-bound encryption, covering encrypt and decrypt flows through OSCrypt Async, elevation service interfaces and support-level metrics.
+// ---
+
 #include "chrome/browser/os_crypt/app_bound_encryption_win.h"
 
 #include <optional>

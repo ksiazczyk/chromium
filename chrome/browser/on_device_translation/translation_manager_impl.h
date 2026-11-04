@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranslationManagerImpl header for on-device translation
+// summary: Declares the browser-side TranslationManagerImpl that implements the blink TranslationManager Mojo interface for on-device translation, owned by frame and worker host user data.
+// ---
+
 #ifndef CHROME_BROWSER_ON_DEVICE_TRANSLATION_TRANSLATION_MANAGER_IMPL_H_
 #define CHROME_BROWSER_ON_DEVICE_TRANSLATION_TRANSLATION_MANAGER_IMPL_H_
 

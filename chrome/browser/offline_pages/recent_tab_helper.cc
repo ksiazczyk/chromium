@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecentTabHelper implementation for recent page snapshots
+// summary: Implements the per-tab helper that captures MHTML snapshots of loaded pages and maintains a ring buffer of recent offline pages.
+// ---
+
 #include "chrome/browser/offline_pages/recent_tab_helper.h"
 
 #include <queue>

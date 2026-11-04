@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OptimizationGuidePushNotificationManagerUnitTest
+// summary: Robolectric unit tests for OptimizationGuidePushNotificationManager covering push notification handling, caching of hint notification payloads, and overflow behavior per optimization type.
+// ---
+
 package org.chromium.chrome.browser.optimization_guide;
 
 import static org.mockito.ArgumentMatchers.eq;

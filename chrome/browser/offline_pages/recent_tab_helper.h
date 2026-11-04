@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecentTabHelper class declaration
+// summary: Declares RecentTabHelper, a WebContentsObserver that snapshots pages once sufficiently loaded and keeps up to N recent offline snapshots.
+// ---
+
 #ifndef CHROME_BROWSER_OFFLINE_PAGES_RECENT_TAB_HELPER_H_
 #define CHROME_BROWSER_OFFLINE_PAGES_RECENT_TAB_HELPER_H_
 

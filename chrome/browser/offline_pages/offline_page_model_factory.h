@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline page model factory header
+// summary: Declares OfflinePageModelFactory, a keyed service factory creating one OfflinePageModel per profile, excluding incognito.
+// ---
+
 #ifndef CHROME_BROWSER_OFFLINE_PAGES_OFFLINE_PAGE_MODEL_FACTORY_H_
 #define CHROME_BROWSER_OFFLINE_PAGES_OFFLINE_PAGE_MODEL_FACTORY_H_
 

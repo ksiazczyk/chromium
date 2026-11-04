@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization Guide internals WebUI controller implementation
+// summary: Implements the WebUI controller for the Optimization Guide internals page, setting up the data source and serving Mojo requests for downloaded models, logged client IDs, and MQLS logs.
+// ---
+
 #include "chrome/browser/optimization_guide/optimization_guide_internals_ui.h"
 
 #include <cstdint>

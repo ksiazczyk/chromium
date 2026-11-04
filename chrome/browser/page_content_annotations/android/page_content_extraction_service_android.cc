@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page content extraction service Android JNI bridge
+// summary: Implements the Android JNI bridge for PageContentExtractionService, exposing the native service and its on-disk cached tab IDs to Java.
+// ---
+
 #include "chrome/browser/page_content_annotations/android/page_content_extraction_service_android.h"
 
 #include "base/android/callback_android.h"

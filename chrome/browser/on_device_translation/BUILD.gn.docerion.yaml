@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for on-device translation
+summary: Defines the source sets, unit and browser test targets, and dependencies for Chrome's browser-side on-device translation code.

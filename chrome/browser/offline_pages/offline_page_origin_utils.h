@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflinePageOriginUtils header
+// summary: Declares a platform-specific utility to retrieve the encoded origin app for a download request from web contents.
+// ---
+
 #ifndef CHROME_BROWSER_OFFLINE_PAGES_OFFLINE_PAGE_ORIGIN_UTILS_H_
 #define CHROME_BROWSER_OFFLINE_PAGES_OFFLINE_PAGE_ORIGIN_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the Android tab URL provider
+// summary: Declares an Android implementation of TabUrlProvider that supplies URLs of active browser tabs for a given profile.
+// ---
+
 #ifndef CHROME_BROWSER_OPTIMIZATION_GUIDE_ANDROID_OPTIMIZATION_GUIDE_TAB_URL_PROVIDER_ANDROID_H_
 #define CHROME_BROWSER_OPTIMIZATION_GUIDE_ANDROID_OPTIMIZATION_GUIDE_TAB_URL_PROVIDER_ANDROID_H_
 

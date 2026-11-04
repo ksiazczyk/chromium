@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-source page context fetcher header
+// summary: Declares the FetchPageContext function that fetches page context for a WebContents with progress and result callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_PAGE_CONTENT_ANNOTATIONS_MULTI_SOURCE_PAGE_CONTEXT_FETCHER_H_
 #define CHROME_BROWSER_PAGE_CONTENT_ANNOTATIONS_MULTI_SOURCE_PAGE_CONTEXT_FETCHER_H_
 

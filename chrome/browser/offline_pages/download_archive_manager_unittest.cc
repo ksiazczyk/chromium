@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download archive manager unit tests
+// summary: Unit tests verifying that DownloadArchiveManager picks the public archives directory from download preferences and falls back when prefs are null.
+// ---
+
 #include "chrome/browser/offline_pages/download_archive_manager.h"
 
 #include <memory>

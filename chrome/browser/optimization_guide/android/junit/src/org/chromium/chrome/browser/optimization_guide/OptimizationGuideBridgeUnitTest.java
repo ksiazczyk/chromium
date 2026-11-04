@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OptimizationGuideBridgeUnitTest
+// summary: Robolectric unit tests for OptimizationGuideBridge that verify registration of optimization types and canApplyOptimization behavior through a mocked JNI native bridge.
+// ---
+
 package org.chromium.chrome.browser.optimization_guide;
 
 import static org.mockito.AdditionalMatchers.aryEq;

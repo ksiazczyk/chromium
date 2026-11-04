@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto fetch page load watcher classes
+// summary: Declares the auto-fetch page load watcher, its navigation observer, notification interface, tab finder and testable internal implementation.
+// ---
+
 #ifndef CHROME_BROWSER_OFFLINE_PAGES_ANDROID_AUTO_FETCH_PAGE_LOAD_WATCHER_H_
 #define CHROME_BROWSER_OFFLINE_PAGES_ANDROID_AUTO_FETCH_PAGE_LOAD_WATCHER_H_
 

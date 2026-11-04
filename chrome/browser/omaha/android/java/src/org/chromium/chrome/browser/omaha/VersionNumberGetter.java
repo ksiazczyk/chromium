@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'VersionNumberGetter: version lookup and update detection'
+// summary: Provides the currently used and latest known Chrome versions, checks whether a newer version is available, and verifies OS version support; stubbed for unit tests.
+// ---
+
 package org.chromium.chrome.browser.omaha;
 
 import android.content.SharedPreferences;

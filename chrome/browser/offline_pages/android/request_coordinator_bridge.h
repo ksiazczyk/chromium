@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Request coordinator bridge header
+// summary: Declares CreateJavaSavePageRequests, a helper that converts C++ save page requests into Java objects for the Android bridge.
+// ---
+
 #ifndef CHROME_BROWSER_OFFLINE_PAGES_ANDROID_REQUEST_COORDINATOR_BRIDGE_H_
 #define CHROME_BROWSER_OFFLINE_PAGES_ANDROID_REQUEST_COORDINATOR_BRIDGE_H_
 

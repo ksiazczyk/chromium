@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: C++ implementation of the Optimization Guide JNI bridge
+// summary: Implements the native counterpart of Java's OptimizationGuideBridge, forwarding optimization decisions, on-demand hints, and push notifications between the keyed service and Java.
+// ---
+
 #include "chrome/browser/optimization_guide/android/optimization_guide_bridge.h"
 
 #include <jni.h>

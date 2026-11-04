@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hints fetcher browser tests
+// summary: Browser tests exercising the optimization guide hints fetcher, covering hint retrieval, hints component updates, network conditions and related UKM and histogram metrics.
+// ---
+
 #include "components/optimization_guide/core/hints/hints_fetcher.h"
 
 #include <map>

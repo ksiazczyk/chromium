@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OmniboxSuggestionsWatcherFactory class header
+// summary: Declares OmniboxSuggestionsWatcherFactory, a keyed service factory exposing GetForBrowserContext to access the per-profile OmniboxSuggestionsWatcher service.
+// ---
+
 #ifndef CHROME_BROWSER_OMNIBOX_OMNIBOX_SUGGESTIONS_WATCHER_FACTORY_H_
 #define CHROME_BROWSER_OMNIBOX_OMNIBOX_SUGGESTIONS_WATCHER_FACTORY_H_
 

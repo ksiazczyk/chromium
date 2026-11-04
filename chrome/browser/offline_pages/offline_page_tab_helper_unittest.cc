@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OfflinePageTabHelper unit tests
+// summary: Unit tests simulating offline page loads and verifying the tab helper's offline state and trusted-state behavior.
+// ---
+
 #include "chrome/browser/offline_pages/offline_page_tab_helper.h"
 
 #include <memory>

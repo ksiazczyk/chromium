@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome profile download service tracker unit tests
+// summary: Unit tests verifying that the tracker picks the background download service from the first active profile and updates it as profiles are created and deleted.
+// ---
+
 #include "chrome/browser/optimization_guide/prediction/chrome_profile_download_service_tracker.h"
 
 #include "base/test/test_file_util.h"

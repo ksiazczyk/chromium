@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenInAppEntryPoint
+// summary: Abstract base class for Open in App entry points that resolves app intents on navigation commits and app installation changes.
+// ---
+
 package org.chromium.chrome.browser.open_in_app;
 
 import android.content.BroadcastReceiver;

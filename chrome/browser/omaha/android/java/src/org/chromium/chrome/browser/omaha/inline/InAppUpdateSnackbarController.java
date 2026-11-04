@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-app update snackbar controller
+// summary: Displays discovery and restart snackbars for in-app updates, handling accept, decline, and dismiss callbacks with histogram event recording.
+// ---
+
 package org.chromium.chrome.browser.omaha.inline;
 
 import android.app.Activity;

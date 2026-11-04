@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabbedOpenInAppEntryPoint unit tests
+// summary: Robolectric unit tests for the tabbed Open in App entry point, verifying omnibox chip placement, dismissal and related behavior.
+// ---
+
 package org.chromium.chrome.browser.open_in_app;
 
 import static org.junit.Assert.assertEquals;

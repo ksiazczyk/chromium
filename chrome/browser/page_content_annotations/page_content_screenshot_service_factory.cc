@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page content screenshot service factory implementation
+// summary: Implements the profile-keyed factory that creates PageContentScreenshotService instances for browser profiles.
+// ---
+
 #include "chrome/browser/page_content_annotations/page_content_screenshot_service_factory.h"
 
 #include <utility>

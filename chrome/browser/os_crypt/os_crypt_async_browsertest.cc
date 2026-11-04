@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OSCrypt Async browser tests
+// summary: Browser tests exercising the OSCrypt Async encryptor for basic encrypt and decrypt operations and for encryption inside a fully sandboxed service process.
+// ---
+
 #include "components/os_crypt/async/browser/os_crypt_async.h"
 
 #include <memory>

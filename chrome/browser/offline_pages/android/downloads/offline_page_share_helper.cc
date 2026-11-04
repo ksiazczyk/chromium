@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline page share helper implementation
+// summary: Implements the helper that retrieves a content URI for sharing offline pages from the download home UI, publishing internal archives to a public directory when needed.
+// ---
+
 #include "chrome/browser/offline_pages/android/downloads/offline_page_share_helper.h"
 
 #include <utility>

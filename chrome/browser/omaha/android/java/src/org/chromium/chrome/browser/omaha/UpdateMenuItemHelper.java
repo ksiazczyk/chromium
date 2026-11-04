@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'UpdateMenuItemHelper: update badge and menu item logic'
+// summary: Manages the app menu badge and special menu item that show update availability or unsupported OS state, including UMA logging of update menu usage.
+// ---
+
 package org.chromium.chrome.browser.omaha;
 
 import android.app.Activity;

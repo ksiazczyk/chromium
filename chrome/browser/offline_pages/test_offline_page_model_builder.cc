@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test OfflinePageModel builder implementation
+// summary: Builds a test OfflinePageModel with a metadata store, archive manager and test archive publisher for use in unit tests.
+// ---
+
 #include "chrome/browser/offline_pages/test_offline_page_model_builder.h"
 
 #include <utility>

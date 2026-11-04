@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Omaha Android dependency rules
+summary: Specifies which directories this folder's code is allowed to include dependencies from.

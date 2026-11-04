@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the service controller manager factory
+// summary: Declares ServiceControllerManagerFactory, a ProfileKeyedServiceFactory that provides per-profile access to the on-device translation service controller manager.
+// ---
+
 #ifndef CHROME_BROWSER_ON_DEVICE_TRANSLATION_SERVICE_CONTROLLER_MANAGER_FACTORY_H_
 #define CHROME_BROWSER_ON_DEVICE_TRANSLATION_SERVICE_CONTROLLER_MANAGER_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OptimizationGuideBridgeFactory
+// summary: Factory that returns the profile-specific OptimizationGuideBridge instance by delegating to native code through JNI.
+// ---
+
 package org.chromium.chrome.browser.optimization_guide;
 
 import androidx.annotation.VisibleForTesting;

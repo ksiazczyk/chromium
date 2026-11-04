@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OriginGatingServiceFactory header
+// summary: Declares the OriginGatingServiceFactory class with static accessors and ProfileKeyedServiceFactory overrides.
+// ---
+
 #ifndef CHROME_BROWSER_ORIGIN_GATING_ORIGIN_GATING_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ORIGIN_GATING_ORIGIN_GATING_SERVICE_FACTORY_H_
 

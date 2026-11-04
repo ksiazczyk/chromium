@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optimization guide global state implementation
+// summary: Implements browser-process-wide state for model execution, including the manifest broker feature, on-device AI defaults, and on-device model service launch.
+// ---
+
 #include "chrome/browser/optimization_guide/model_execution/optimization_guide_global_state.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background scheduler bridge header
+// summary: Declares the C++ to Java bridge implementing the offline pages background scheduler interface on Android.
+// ---
+
 #ifndef CHROME_BROWSER_OFFLINE_PAGES_ANDROID_BACKGROUND_SCHEDULER_BRIDGE_H_
 #define CHROME_BROWSER_OFFLINE_PAGES_ANDROID_BACKGROUND_SCHEDULER_BRIDGE_H_
 

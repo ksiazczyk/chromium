@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Model execution validation browser tests
+// summary: Browser tests that validate model execution fetches against a local HTTPS test server, including sign-in and variation ID setup.
+// ---
+
 #include "base/command_line.h"
 #include "base/strings/strcat.h"
 #include "base/test/metrics/histogram_tester.h"

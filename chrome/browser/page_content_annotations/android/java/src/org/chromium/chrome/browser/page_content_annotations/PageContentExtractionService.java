@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageContentExtractionService
+// summary: Java-side JNI wrapper for the native page content extraction service, exposing a method to retrieve all currently cached tab IDs via callback.
+// ---
+
 package org.chromium.chrome.browser.page_content_annotations;
 
 import org.jni_zero.CalledByNative;

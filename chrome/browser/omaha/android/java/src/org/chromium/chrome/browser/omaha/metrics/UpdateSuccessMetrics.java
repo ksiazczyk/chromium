@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdateSuccessMetrics
+// summary: Helper class that tracks whether a Chrome update succeeded across restarts, using persisted state and session or time-window attribution.
+// ---
+
 package org.chromium.chrome.browser.omaha.metrics;
 
 import android.text.TextUtils;

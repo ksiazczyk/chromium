@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Prediction model store browser tests
+// summary: Browser tests for the prediction model store covering model storage, cache keys, locales and download behavior against an embedded HTTPS test server.
+// ---
+
 #include <algorithm>
 
 #include "base/files/file_enumerator.h"

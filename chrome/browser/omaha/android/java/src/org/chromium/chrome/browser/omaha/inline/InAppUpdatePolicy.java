@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-app update eligibility and backoff policy
+// summary: Decides whether Chrome may offer a Play Core in-app update and tracks discovery, restart, and failure backoff throttles independently of Play Core and UI.
+// ---
+
 package org.chromium.chrome.browser.omaha.inline;
 
 import android.content.Context;

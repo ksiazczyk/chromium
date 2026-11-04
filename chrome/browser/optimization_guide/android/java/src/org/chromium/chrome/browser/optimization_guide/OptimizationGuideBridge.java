@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OptimizationGuideBridge
+// summary: Java bridge to the native C++ Optimization Guide service, letting Android callers register optimization types and request on-demand decisions on the UI thread.
+// ---
+
 package org.chromium.chrome.browser.optimization_guide;
 
 import androidx.annotation.VisibleForTesting;

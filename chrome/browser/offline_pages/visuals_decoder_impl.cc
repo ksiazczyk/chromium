@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VisualsDecoderImpl implementation
+// summary: Implements decoding of offline page thumbnail images and cropping them to a centered square for visuals display.
+// ---
+
 #include "chrome/browser/offline_pages/visuals_decoder_impl.h"
 
 #include "base/functional/bind.h"

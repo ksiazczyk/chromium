@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline page model factory for Android
+// summary: Builds the per-profile OfflinePageModel keyed service with a metadata store, download archive manager, and archive publisher.
+// ---
+
 #include "chrome/browser/offline_pages/offline_page_model_factory.h"
 
 #include <utility>

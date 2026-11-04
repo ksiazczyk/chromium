@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GeolocationNavigationThrottle implementation attaching the X-Geo header
+// summary: Implements a navigation throttle that attaches the X-Geo location header to main-frame navigations from the address bar, records related metrics, and is gated by the kPlatformAgnosticXGeo feature.
+// ---
+
 #include "chrome/browser/omnibox/geolocation_navigation_throttle.h"
 
 #include <optional>

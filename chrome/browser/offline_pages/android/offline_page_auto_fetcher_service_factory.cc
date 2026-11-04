@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Offline page auto fetcher service factory
+// summary: Profile keyed service factory that builds an OfflinePageAutoFetcherService per browser context with its dependencies.
+// ---
+
 #include "chrome/browser/offline_pages/android/offline_page_auto_fetcher_service_factory.h"
 
 #include <string>

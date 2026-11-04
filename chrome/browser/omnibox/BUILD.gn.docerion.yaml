@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the Chrome omnibox browser code
+summary: Defines GN source sets for the omnibox browser code plus unit and browser test targets, with conditional sources for extension-enabled builds.

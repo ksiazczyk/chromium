@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome-side on-device translation installer implementation
+// summary: Implements OnDeviceTranslationInstaller, resolving TranslateKit library and language pack paths from the component updater, preferences, and command line flags.
+// ---
+
 #include "chrome/browser/on_device_translation/installer_impl.h"
 
 #include "base/command_line.h"

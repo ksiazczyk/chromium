@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageContentExtractionServiceFactory
+// summary: Factory that returns the per-profile PageContentExtractionService instance through JNI, with a static override for testing.
+// ---
+
 package org.chromium.chrome.browser.page_content_annotations;
 
 import org.jni_zero.JNINamespace;

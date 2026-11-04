@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-source page context fetcher implementation
+// summary: Implements FetchPageContext, wiring the page context fetcher manager with screenshot and platform-specific PDF content callbacks.
+// ---
+
 #include "chrome/browser/page_content_annotations/multi_source_page_context_fetcher.h"
 
 #include <memory>

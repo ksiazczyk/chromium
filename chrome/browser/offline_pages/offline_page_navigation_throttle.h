@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OfflinePageNavigationThrottle header
+// summary: Declares a navigation throttle that cancels renderer-initiated requests carrying the X-Chrome-offline header.
+// ---
+
 #ifndef CHROME_BROWSER_OFFLINE_PAGES_OFFLINE_PAGE_NAVIGATION_THROTTLE_H_
 #define CHROME_BROWSER_OFFLINE_PAGES_OFFLINE_PAGE_NAVIGATION_THROTTLE_H_
 

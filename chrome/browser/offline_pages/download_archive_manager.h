@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DownloadArchiveManager class declaration
+// summary: Declares an ArchiveManager subclass that dynamically resolves the downloads directory from the Download system preferences.
+// ---
+
 #ifndef CHROME_BROWSER_OFFLINE_PAGES_DOWNLOAD_ARCHIVE_MANAGER_H_
 #define CHROME_BROWSER_OFFLINE_PAGES_DOWNLOAD_ARCHIVE_MANAGER_H_
 
