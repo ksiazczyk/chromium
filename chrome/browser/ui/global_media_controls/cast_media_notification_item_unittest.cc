@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast media notification item unit tests
+// summary: Unit tests for CastMediaNotificationItem, covering media session info updates, playback state, vector icons and bitmap fetching for Cast media notifications.
+// ---
+
 #include "chrome/browser/ui/global_media_controls/cast_media_notification_item.h"
 
 #include <memory>

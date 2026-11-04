@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop tab-modal dialog delegate unit tests
+// summary: Regression tests verifying IsApp, SetTabNeedsAttention, and CanShowModalUI do not crash when a WebContents is detached from its tab.
+// ---
+
 #include "chrome/browser/ui/javascript_dialogs/javascript_tab_modal_dialog_manager_delegate_desktop.h"
 
 #include "chrome/test/base/chrome_render_view_host_test_harness.h"

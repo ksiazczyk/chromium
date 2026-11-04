@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LocationBarOverrideData unit tests
+// summary: Unit tests using a fake LocationBar to verify override creation, lookup, and fallback behavior of GetLocationBarForWebContents.
+// ---
+
 #include "chrome/browser/ui/location_bar/location_bar_override_data.h"
 
 #include <memory>

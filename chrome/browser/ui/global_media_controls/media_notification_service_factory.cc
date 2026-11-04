@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaNotificationServiceFactory implementation
+// summary: Implements the profile-keyed service factory that builds MediaNotificationService instances, showing media from all profiles on ChromeOS.
+// ---
+
 #include "chrome/browser/ui/global_media_controls/media_notification_service_factory.h"
 
 #include <memory>

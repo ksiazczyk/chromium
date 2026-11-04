@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaRouteStarter implementation
+// summary: Implements MediaRouteStarter, which provides cast services such as sink lists and route starting to media router UI controllers.
+// ---
+
 #include "chrome/browser/ui/media_router/media_route_starter.h"
 
 #include <algorithm>

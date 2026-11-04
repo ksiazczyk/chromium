@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens results panel router header
+// summary: Declares the LensResultsPanelRouter class that routes results panel queries, focus and overlay visibility to the appropriate side panel for Lens search.
+// ---
+
 #ifndef CHROME_BROWSER_UI_LENS_LENS_RESULTS_PANEL_ROUTER_H_
 #define CHROME_BROWSER_UI_LENS_LENS_RESULTS_PANEL_ROUTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login handler base class declaration
+// summary: Declares the LoginHandler base class that OS-specific authentication prompts implement, exposing SetAuth, CancelAuth and the platform view building interface.
+// ---
+
 #ifndef CHROME_BROWSER_UI_LOGIN_LOGIN_HANDLER_H_
 #define CHROME_BROWSER_UI_LOGIN_LOGIN_HANDLER_H_
 

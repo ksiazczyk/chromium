@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaRouterUIServiceFactory implementation
+// summary: Implements the profile-keyed factory that returns a MediaRouterUIService per browser context and declares dependencies on the Chrome media router and toolbar actions model.
+// ---
+
 #include "chrome/browser/ui/media_router/media_router_ui_service_factory.h"
 
 #include "build/build_config.h"

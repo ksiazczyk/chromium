@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast media session controller implementation
+// summary: Implements CastMediaSessionController, forwarding media session actions such as play, pause, seek and track changes to the Cast route's MediaController.
+// ---
+
 #include "chrome/browser/ui/global_media_controls/cast_media_session_controller.h"
 
 #include "base/time/time.h"

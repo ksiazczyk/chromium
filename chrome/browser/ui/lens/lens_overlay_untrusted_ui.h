@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay untrusted WebUI controller declaration
+// summary: Declares the WebUI controller and config for the chrome-untrusted Lens overlay page, including mojo binding for lens, ghost loader, help bubble, and searchbox handlers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_LENS_LENS_OVERLAY_UNTRUSTED_UI_H_
 #define CHROME_BROWSER_UI_LENS_LENS_OVERLAY_UNTRUSTED_UI_H_
 

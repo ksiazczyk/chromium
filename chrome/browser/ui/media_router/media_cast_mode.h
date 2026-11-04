@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media cast mode enum
+// summary: Defines the MediaCastMode enum covering presentation, tab mirroring, desktop mirroring, and remote playback modes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_MEDIA_ROUTER_MEDIA_CAST_MODE_H_
 #define CHROME_BROWSER_UI_MEDIA_ROUTER_MEDIA_CAST_MODE_H_
 

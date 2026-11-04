@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HaTS survey config header
+// summary: Defines the SurveyConfig structure and the trigger ID constants used to identify Happiness Tracking Surveys across Chrome features.
+// ---
+
 #ifndef CHROME_BROWSER_UI_HATS_SURVEY_CONFIG_H_
 #define CHROME_BROWSER_UI_HATS_SURVEY_CONFIG_H_
 

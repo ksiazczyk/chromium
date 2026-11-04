@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaRouterUIService implementation
+// summary: Implements the per-profile MediaRouterUIService that owns Media Router UI objects like the Cast toolbar button controller and tracks preferences.
+// ---
+
 #include "chrome/browser/ui/media_router/media_router_ui_service.h"
 
 #include "base/functional/bind.h"

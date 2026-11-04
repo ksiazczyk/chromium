@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HatsHelper implementation
+// summary: Implements a per-tab WebContentsObserver that notifies sentiment and performance services on new tab page opens and can launch demo surveys.
+// ---
+
 #include "chrome/browser/ui/hats/hats_helper.h"
 
 #include "base/functional/callback_helpers.h"

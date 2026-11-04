@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HidChooser base implementation
+// summary: Implements the HidChooser base class, managing the close closure and weak pointer support for a HID chooser dialog.
+// ---
+
 #include "chrome/browser/ui/hid/hid_chooser.h"
 
 HidChooser::HidChooser(base::OnceClosure close_closure)

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hung renderer core implementation
+// summary: Implements helpers that find WebContents affected by a hung renderer process and order them for the Hung Page dialog.
+// ---
+
 #include "chrome/browser/ui/hung_renderer/hung_renderer_core.h"
 
 #include <algorithm>

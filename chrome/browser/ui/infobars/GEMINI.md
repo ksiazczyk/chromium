@@ -1,3 +1,13 @@
+---
+type: guide
+title: Desktop InfoBar Registry Guidelines
+summary: Guidelines for registering desktop infobars in the centralized registry, covering registration phases, specification safety, migration behavior, and metrics synchronization.
+relations:
+  - references /chrome/browser/infobars/GEMINI.md
+  - references /chrome/browser/infobars/browser_infobar_manager.h
+  - references /chrome/browser/infobars/infobar_spec.h
+---
+
 # Desktop InfoBar Registry Guidelines
 
 These instructions apply to Desktop InfoBar registration and related code in

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens help menu utilities header
+// summary: Declares helper functions that open the Lens overlay feedback page, info page and My Activity from the help menu.
+// ---
+
 #ifndef CHROME_BROWSER_UI_LENS_LENS_OVERLAY_HELP_MENU_UTILS_H_
 #define CHROME_BROWSER_UI_LENS_LENS_OVERLAY_HELP_MENU_UTILS_H_
 

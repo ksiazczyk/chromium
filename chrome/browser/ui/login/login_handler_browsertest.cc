@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login handler browser tests
+// summary: Browser tests covering HTTP authentication login prompts, including proxy and server auth challenges, extension interaction, and navigation behavior.
+// ---
+
 #include "chrome/browser/ui/login/login_handler.h"
 
 #include <algorithm>

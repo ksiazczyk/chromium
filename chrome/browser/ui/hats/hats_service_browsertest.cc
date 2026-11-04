@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HaTS service browser tests
+// summary: Browser tests for the desktop HaTS service covering survey probability, metrics consent, incognito policy and cooldown conditions for showing surveys.
+// ---
+
 #include <map>
 #include <optional>
 

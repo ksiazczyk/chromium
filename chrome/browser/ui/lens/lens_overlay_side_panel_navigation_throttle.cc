@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay side panel navigation throttle implementation
+// summary: Implements a navigation throttle that intercepts navigations in the Lens overlay side panel, loading redirected search URLs directly and canceling disallowed navigations.
+// ---
+
 #include "chrome/browser/ui/lens/lens_overlay_side_panel_navigation_throttle.h"
 
 #include "base/memory/ptr_util.h"

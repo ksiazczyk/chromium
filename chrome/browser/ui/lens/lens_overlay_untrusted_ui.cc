@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay untrusted WebUI controller implementation
+// summary: Implements the chrome-untrusted WebUI controller for the Lens overlay page, setting up the data source, localized strings, and mojo page handler factories.
+// ---
+
 #include "chrome/browser/ui/lens/lens_overlay_untrusted_ui.h"
 
 #include "base/strings/strcat.h"

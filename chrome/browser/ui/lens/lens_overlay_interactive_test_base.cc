@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lens overlay interactive test base implementation
+// summary: Implements shared helpers and fake services for interactive Lens overlay browser tests, including mouse drag simulation and overlay opening steps.
+// ---
+
 #include "chrome/browser/ui/lens/lens_overlay_interactive_test_base.h"
 
 #include "base/base64.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test Lens search controller implementation
+// summary: Implements mock and test LensSearchController helpers with fake sessions, contextualization mocks, and test text builders for Lens tests.
+// ---
+
 #include "chrome/browser/ui/lens/test_lens_search_controller.h"
 
 #include "chrome/browser/profiles/profile.h"

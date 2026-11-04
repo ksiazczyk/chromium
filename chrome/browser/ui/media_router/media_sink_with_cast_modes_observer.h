@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaSinkWithCastModesObserver interface
+// summary: Observer interface notified when the set of available MediaSink and MediaCastMode combinations changes, used by classes such as QueryResultManager.
+// ---
+
 #ifndef CHROME_BROWSER_UI_MEDIA_ROUTER_MEDIA_SINK_WITH_CAST_MODES_OBSERVER_H_
 #define CHROME_BROWSER_UI_MEDIA_ROUTER_MEDIA_SINK_WITH_CAST_MODES_OBSERVER_H_
 

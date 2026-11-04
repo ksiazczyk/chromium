@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test Lens search contextualization controller header
+// summary: Declares a test double of LensSearchContextualizationController that lets tests set page context eligibility.
+// ---
+
 #ifndef CHROME_BROWSER_UI_LENS_TEST_LENS_SEARCH_CONTEXTUALIZATION_CONTROLLER_H_
 #define CHROME_BROWSER_UI_LENS_TEST_LENS_SEARCH_CONTEXTUALIZATION_CONTROLLER_H_
 

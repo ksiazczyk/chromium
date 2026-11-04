@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaRouterUI implementation
+// summary: Implements MediaRouterUI, the intermediary between the MediaRouter backend and the Cast dialog, handling sinks, routes, and issues.
+// ---
+
 #include "chrome/browser/ui/media_router/media_router_ui.h"
 
 #include <algorithm>

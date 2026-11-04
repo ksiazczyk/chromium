@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media item UI metrics header
+// summary: Declares the MediaItemUIMetrics class, histogram names, and the persisted GlobalMediaControlsCastMode enum for casting metrics.
+// ---
+
 #ifndef CHROME_BROWSER_UI_GLOBAL_MEDIA_CONTROLS_MEDIA_ITEM_UI_METRICS_H_
 #define CHROME_BROWSER_UI_GLOBAL_MEDIA_CONTROLS_MEDIA_ITEM_UI_METRICS_H_
 

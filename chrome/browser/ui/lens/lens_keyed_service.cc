@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens keyed service implementation
+// summary: Implements LensKeyedService, which tracks how often the Lens EDU action chip was shown and when it was last shown per profile.
+// ---
+
 #include "chrome/browser/ui/lens/lens_keyed_service.h"
 
 LensKeyedService::LensKeyedService() = default;

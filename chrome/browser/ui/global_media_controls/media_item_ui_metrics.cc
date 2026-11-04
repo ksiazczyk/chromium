@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media item UI metrics implementation
+// summary: Records start and stop casting histograms for global media controls, mapping media router cast modes to logged enum values.
+// ---
+
 #include "chrome/browser/ui/global_media_controls/media_item_ui_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

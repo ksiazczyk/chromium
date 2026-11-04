@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens side panel untrusted WebUI implementation
+// summary: Implements the WebUI controller for the Lens side panel's untrusted page, setting up the data source with localized strings, feature flags, dark mode and loading hints.
+// ---
+
 #include "chrome/browser/ui/lens/lens_side_panel_untrusted_ui.h"
 
 #include "base/strings/strcat.h"

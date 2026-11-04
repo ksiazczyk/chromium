@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for the HID UI folder
+summary: Delegates code review ownership to the owners of the Blink HID renderer module.

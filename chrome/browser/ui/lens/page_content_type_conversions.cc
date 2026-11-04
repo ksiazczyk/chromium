@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page content type conversions
+// summary: Converts MIME type strings such as PDF, HTML, image and video into Lens document and page content type enums.
+// ---
+
 #include "chrome/browser/ui/lens/page_content_type_conversions.h"
 
 namespace lens {

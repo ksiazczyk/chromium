@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test Lens search contextualization controller implementation
+// summary: Implements a test LensSearchContextualizationController with a stubbed page context eligibility API that tests can toggle.
+// ---
+
 #include "chrome/browser/ui/lens/test_lens_search_contextualization_controller.h"
 
 #include "chrome/browser/ui/lens/lens_search_contextualization_controller.h"

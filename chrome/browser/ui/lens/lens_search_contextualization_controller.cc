@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens search contextualization controller implementation
+// summary: Implements contextualization logic for Lens flows, retrieving page content, screenshots and PDF text and issuing Lens requests so searchbox queries are contextualized.
+// ---
+
 #include "chrome/browser/ui/lens/lens_search_contextualization_controller.h"
 
 #include "base/functional/bind.h"

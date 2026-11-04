@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Immersive mode controller build target
+summary: Defines the immersive_mode_controller source set with its sources and dependencies for the Chromium build.

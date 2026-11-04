@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lens overlay image helper unit tests
+// summary: Unit tests for Lens overlay image helpers covering image compression, tiered downscaling limits, and region crop geometry.
+// ---
+
 #include "chrome/browser/ui/lens/lens_overlay_image_helper.h"
 
 #include <array>

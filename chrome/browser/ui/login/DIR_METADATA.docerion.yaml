@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Login UI directory metadata
+summary: Maps the directory to the Internals>Network>Auth monorail component and a Buganizer component for issue tracking.

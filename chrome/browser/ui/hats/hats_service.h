@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HatsService survey launch logic header
+// summary: Declares HatsService, a per-profile keyed service that decides when happiness tracking surveys may launch, with launch error codes, survey metadata and options.
+// ---
+
 #ifndef CHROME_BROWSER_UI_HATS_HATS_SERVICE_H_
 #define CHROME_BROWSER_UI_HATS_HATS_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaToolbarButtonController implementation
+// summary: Implements the controller that shows, hides, or disables the toolbar media button based on active items, frozen items, and dialog state.
+// ---
+
 #include "chrome/browser/ui/global_media_controls/media_toolbar_button_controller.h"
 
 #include "chrome/browser/ui/global_media_controls/media_toolbar_button_controller_delegate.h"

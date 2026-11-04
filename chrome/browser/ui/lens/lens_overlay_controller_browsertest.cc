@@ -6,6 +6,12 @@
 // web browser, but allow for inspection and modification of internal state of
 // LensOverlayController and other business-logic classes.
 
+// ---docerion
+// type: test
+// title: Lens overlay controller browser tests
+// summary: Functional browser tests for the Lens overlay that spin up a full browser to inspect and modify LensOverlayController state.
+// ---
+
 #include "chrome/browser/ui/lens/lens_overlay_controller.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Login UI build targets (BUILD.gn)
+summary: Defines the login source set, its implementation, browser test and unit test targets together with their dependencies for the Chromium login UI.

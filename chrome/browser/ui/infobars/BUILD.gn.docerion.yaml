@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Infobars build configuration
+summary: GN build file defining the infobars source set with its sources and platform-conditional dependencies for the desktop infobar registry code.

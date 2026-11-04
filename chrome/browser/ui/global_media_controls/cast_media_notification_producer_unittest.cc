@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast media notification producer unit tests
+// summary: Unit tests for CastMediaNotificationProducer verifying that Cast, DIAL and mirroring routes are added, updated and removed as notification items.
+// ---
+
 #include "chrome/browser/ui/global_media_controls/cast_media_notification_producer.h"
 
 #include "base/strings/utf_string_conversions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay image helper header
+// summary: Declares helpers for downscaling, cropping and encoding bitmaps and building normalized bounding boxes for Lens Overlay image data.
+// ---
+
 #ifndef CHROME_BROWSER_UI_LENS_LENS_OVERLAY_IMAGE_HELPER_H_
 #define CHROME_BROWSER_UI_LENS_LENS_OVERLAY_IMAGE_HELPER_H_
 

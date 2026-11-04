@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP auth coordinator implementation
+// summary: Implements the coordinator that creates login delegates for HTTP auth challenges, forwarding flows to extensions or the enterprise proxy error service before showing dialogs.
+// ---
+
 #include "chrome/browser/ui/login/http_auth_coordinator.h"
 
 #include "base/task/sequenced_task_runner.h"

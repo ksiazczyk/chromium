@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trust & Safety sentiment service unit tests
+// summary: Unit tests covering the survey eligibility logic of the sentiment service, including feature parameters, trigger actions and histogram reporting.
+// ---
+
 #include "chrome/browser/ui/hats/trust_safety_sentiment_service.h"
 
 #include "base/memory/raw_ptr.h"

@@ -1,3 +1,9 @@
+---
+type: readme
+title: HaTS directory overview
+summary: Explains that this directory holds Happiness Tracking Survey code that rate-limits and targets surveys per profile.
+---
+
 chrome/browser/ui/hats
 =====================
 

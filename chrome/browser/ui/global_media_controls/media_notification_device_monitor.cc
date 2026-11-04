@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media notification device monitor implementation
+// summary: Implements audio output device change monitoring, using the system monitor on most platforms and provider polling on Linux and ChromeOS.
+// ---
+
 #include "chrome/browser/ui/global_media_controls/media_notification_device_monitor.h"
 
 #include <algorithm>

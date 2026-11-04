@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser infobar registry implementation
+// summary: Implements registration of desktop infobars with the centralized infobar framework, including specs, icons, and platform-specific registrations.
+// ---
+
 #include "chrome/browser/ui/infobars/browser_infobar_registry.h"
 
 #include <utility>

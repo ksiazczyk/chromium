@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Factory for Chrome JavaScript app modal dialog views
+// summary: Installs the Chrome app modal dialog manager delegate into the shared app modal dialog manager.
+// ---
+
 #include "chrome/browser/ui/javascript_dialogs/chrome_javascript_app_modal_dialog_view_factory.h"
 
 #include <memory>

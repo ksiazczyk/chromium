@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay wait-for-paint utilities header
+// summary: Declares the WaitForPaint helper that navigates a browser to a URL with a given disposition and waits for the first paint to complete.
+// ---
+
 #ifndef CHROME_BROWSER_UI_LENS_LENS_OVERLAY_WAIT_FOR_PAINT_UTILS_H_
 #define CHROME_BROWSER_UI_LENS_LENS_OVERLAY_WAIT_FOR_PAINT_UTILS_H_
 

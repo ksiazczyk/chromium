@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay query controller implementation
+// summary: Implements the controller that manages Lens overlay queries, sending screenshots and page content to the Lens server and handling responses, translate requests, and interactions.
+// ---
+
 #include "chrome/browser/ui/lens/lens_overlay_query_controller.h"
 
 #include <optional>

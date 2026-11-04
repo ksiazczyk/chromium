@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens search controller unification browser tests
+// summary: Browser tests verifying unified Lens search controller behavior with contextual tasks UI services and mocked AIM eligibility services.
+// ---
+
 #include "base/check_deref.h"
 #include "base/test/run_until.h"
 #include "base/test/scoped_feature_list.h"

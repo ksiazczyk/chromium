@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens keyed service factory header
+// summary: Declares LensKeyedServiceFactory, providing GetForProfile access to the per-profile Lens action chip counter service.
+// ---
+
 #ifndef CHROME_BROWSER_UI_LENS_LENS_KEYED_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_UI_LENS_LENS_KEYED_SERVICE_FACTORY_H_
 

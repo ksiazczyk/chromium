@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CastModesWithMediaSources unit tests
+// summary: Unit tests covering adding and removing sources across cast modes and the resulting cast mode sets.
+// ---
+
 #include "chrome/browser/ui/media_router/cast_modes_with_media_sources.h"
 
 #include "components/media_router/common/media_sink.h"

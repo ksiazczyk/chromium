@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Live Translate combobox model header
+// summary: Declares LiveTranslateComboboxModel, a combobox model used by global media controls to select the Live Translate target language.
+// ---
+
 #ifndef CHROME_BROWSER_UI_GLOBAL_MEDIA_CONTROLS_LIVE_TRANSLATE_COMBOBOX_MODEL_H_
 #define CHROME_BROWSER_UI_GLOBAL_MEDIA_CONTROLS_LIVE_TRANSLATE_COMBOBOX_MODEL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageContent struct definitions for Lens overlay queries
+// summary: Defines constructors and the destructor for the PageContent struct that represents content data sent to the Lens server.
+// ---
+
 #include "chrome/browser/ui/lens/lens_overlay_query_controller_types.h"
 
 namespace lens {

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Location bar BUILD.gn build definition
+summary: Defines the location_bar source set and its unit test target, listing public headers, sources, and build dependencies.

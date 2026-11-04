@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Media router UI build targets
+summary: GN build file defining the media_router, impl, and test source sets for the media router UI with their sources and dependencies.

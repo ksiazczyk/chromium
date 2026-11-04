@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay theme utilities declaration
+// summary: Declares the helper that determines whether the Lens overlay results and searchbox in the side panel should use dark mode.
+// ---
+
 #ifndef CHROME_BROWSER_UI_LENS_LENS_OVERLAY_THEME_UTILS_H_
 #define CHROME_BROWSER_UI_LENS_LENS_OVERLAY_THEME_UTILS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Hung renderer directory owners
+summary: Lists avi@chromium.org as the owner of the hung_renderer directory.

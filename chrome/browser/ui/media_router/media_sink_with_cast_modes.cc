@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaSinkWithCastModes implementation
+// summary: Implements constructors and equality comparison for the MediaSinkWithCastModes struct that pairs a sink with its compatible cast modes.
+// ---
+
 #include "chrome/browser/ui/media_router/media_sink_with_cast_modes.h"
 
 namespace media_router {

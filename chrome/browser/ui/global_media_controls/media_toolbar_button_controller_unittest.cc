@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaToolbarButtonController unit tests
+// summary: Unit tests verifying toolbar button show, hide, and disable behavior and promo triggers using mock item manager and delegate.
+// ---
+
 #include "chrome/browser/ui/global_media_controls/media_toolbar_button_controller.h"
 
 #include "base/unguessable_token.h"

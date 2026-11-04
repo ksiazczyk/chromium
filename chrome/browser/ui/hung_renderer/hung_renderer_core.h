@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hung renderer core header
+// summary: Declares functions to list hung WebContents and to get the title shown in the Hung Page dialog.
+// ---
+
 #ifndef CHROME_BROWSER_UI_HUNG_RENDERER_HUNG_RENDERER_CORE_H_
 #define CHROME_BROWSER_UI_HUNG_RENDERER_HUNG_RENDERER_CORE_H_
 

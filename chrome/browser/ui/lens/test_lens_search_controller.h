@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test Lens search controller header
+// summary: Declares MockLensSearchController, FakeLensQueryFlowRouter, and TestLensSearchController used by Lens overlay tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_LENS_TEST_LENS_SEARCH_CONTROLLER_H_
 #define CHROME_BROWSER_UI_LENS_TEST_LENS_SEARCH_CONTROLLER_H_
 

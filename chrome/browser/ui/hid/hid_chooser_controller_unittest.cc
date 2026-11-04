@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HidChooserController unit tests
+// summary: Unit tests covering device filtering, grouping, selection and observer behavior of the HID chooser controller using a fake HID manager.
+// ---
+
 #include "chrome/browser/ui/hid/hid_chooser_controller.h"
 
 #include <array>

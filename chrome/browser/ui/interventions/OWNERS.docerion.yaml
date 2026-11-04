@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Interventions directory owners
+summary: Lists the code owner responsible for the chrome/browser/ui/interventions directory.

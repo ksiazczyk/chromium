@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens permission bubble controller header
+// summary: Declares the controller that manages the Lens permission bubble dialog for a tab and reports when permission is granted.
+// ---
+
 #ifndef CHROME_BROWSER_UI_LENS_LENS_PERMISSION_BUBBLE_CONTROLLER_H_
 #define CHROME_BROWSER_UI_LENS_LENS_PERMISSION_BUBBLE_CONTROLLER_H_
 

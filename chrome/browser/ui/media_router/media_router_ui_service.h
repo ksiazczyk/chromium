@@ -1,6 +1,13 @@
 // Copyright 2016 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: MediaRouterUIService class declaration
+// summary: Declares MediaRouterUIService, a KeyedService owning per-profile Media Router UI objects such as the Cast toolbar action controller.
+// ---
+
 #ifndef CHROME_BROWSER_UI_MEDIA_ROUTER_MEDIA_ROUTER_UI_SERVICE_H_
 #define CHROME_BROWSER_UI_MEDIA_ROUTER_MEDIA_ROUTER_UI_SERVICE_H_
 

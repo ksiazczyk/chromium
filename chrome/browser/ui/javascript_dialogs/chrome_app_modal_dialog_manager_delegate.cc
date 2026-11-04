@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome app modal dialog manager delegate implementation
+// summary: Implements the Chrome delegate that computes titles for JavaScript app modal dialogs using URL identity and localized strings.
+// ---
+
 #include "chrome/browser/ui/javascript_dialogs/chrome_app_modal_dialog_manager_delegate.h"
 
 #include <string>

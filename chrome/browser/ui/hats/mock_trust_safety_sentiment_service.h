@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockTrustSafetySentimentService gmock header
+// summary: Declares a gmock mock of TrustSafetySentimentService stubbing user interaction events such as page info, safety check and password actions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_HATS_MOCK_TRUST_SAFETY_SENTIMENT_SERVICE_H_
 #define CHROME_BROWSER_UI_HATS_MOCK_TRUST_SAFETY_SENTIMENT_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay side panel web view implementation
+// summary: Implements the WebUI view hosting the Lens overlay side panel, including modal dialog manager setup, URL opening, context menu handling, and coordinator cleanup.
+// ---
+
 #include "chrome/browser/ui/lens/lens_overlay_side_panel_web_view.h"
 
 #include "chrome/browser/media/webrtc/media_capture_devices_dispatcher.h"

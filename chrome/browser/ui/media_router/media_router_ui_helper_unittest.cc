@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media Router UI helper unit tests
+// summary: Unit tests for media router UI helpers, verifying extension name lookup and per-cast-mode route request timeout values.
+// ---
+
 #include "chrome/browser/ui/media_router/media_router_ui_helper.h"
 
 #include "extensions/browser/extension_registry.h"

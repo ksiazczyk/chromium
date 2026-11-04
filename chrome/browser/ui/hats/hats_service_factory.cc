@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HatsService factory implementation
+// summary: Implements the per-profile HatsService factory, building the Android or desktop service instance depending on the platform build flag.
+// ---
+
 #include "chrome/browser/ui/hats/hats_service_factory.h"
 
 #include "base/no_destructor.h"

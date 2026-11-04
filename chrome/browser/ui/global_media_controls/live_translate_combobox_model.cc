@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Live Translate combobox model implementation
+// summary: Implements LiveTranslateComboboxModel, building the list of translatable languages and persisting the Live Translate target language preference.
+// ---
+
 #include "chrome/browser/ui/global_media_controls/live_translate_combobox_model.h"
 
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Login handler unit tests
+// summary: Unit tests verifying the authority, explanation and sign-on realm strings LoginHandler builds for various proxy and server auth challenge URLs.
+// ---
+
 #include "chrome/browser/ui/login/login_handler.h"
 
 #include <stddef.h>

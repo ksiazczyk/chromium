@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens composebox handler implementation
+// summary: Implements the Lens composebox Mojo page handler and omnibox client that submit queries and handle searchbox actions for the Lens side panel composebox.
+// ---
+
 #include "chrome/browser/ui/lens/lens_composebox_handler.h"
 
 #include <map>

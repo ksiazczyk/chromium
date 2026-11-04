@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Presentation request notification producer implementation
+// summary: Implements the producer that creates and manages the media notification for Cast or Presentation API requests shown in the global media controls dialog.
+// ---
+
 #include "chrome/browser/ui/global_media_controls/presentation_request_notification_producer.h"
 
 #include <utility>

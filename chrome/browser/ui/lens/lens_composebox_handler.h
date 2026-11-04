@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Lens composebox handler header
+// summary: Declares the LensComposeboxHandler class that bridges the WebUI composebox and searchbox Mojo interfaces to the Lens composebox controller.
+// ---
+
 #ifndef CHROME_BROWSER_UI_LENS_LENS_COMPOSEBOX_HANDLER_H_
 #define CHROME_BROWSER_UI_LENS_LENS_COMPOSEBOX_HANDLER_H_
 

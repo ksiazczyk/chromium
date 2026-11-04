@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginNavigationThrottle class header
+// summary: Declares a navigation throttle that intercepts responses with auth challenges and forwards them to LoginTabHelper, which rewrites the response to a blank page for the login prompt.
+// ---
+
 #ifndef CHROME_BROWSER_UI_LOGIN_LOGIN_NAVIGATION_THROTTLE_H_
 #define CHROME_BROWSER_UI_LOGIN_LOGIN_NAVIGATION_THROTTLE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginTabHelper implementation
+// summary: Implements the per-tab helper that observes navigations, validates auth challenges against the navigation URL, and shows login prompts on HTTP 401/407 responses while handling cancellations.
+// ---
+
 #include "chrome/browser/ui/login/login_tab_helper.h"
 
 #include "base/feature_list.h"

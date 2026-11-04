@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast media notification producer implementation
+// summary: Implements CastMediaNotificationProducer, deciding which Cast routes should be shown as media notification items in the Global Media Controls dialog.
+// ---
+
 #include "chrome/browser/ui/global_media_controls/cast_media_notification_producer.h"
 
 #include <algorithm>

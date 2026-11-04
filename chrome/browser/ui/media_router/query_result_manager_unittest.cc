@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Query result manager unit tests
+// summary: Unit tests for QueryResultManager covering observer notifications, sink queries per cast mode, and preferred source selection.
+// ---
+
 #include "chrome/browser/ui/media_router/query_result_manager.h"
 
 #include <algorithm>

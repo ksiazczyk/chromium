@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens results panel router implementation
+// summary: Implements LensResultsPanelRouter, routing results panel state and overlay events between the contextual tasks side panel and the Lens overlay side panel coordinator.
+// ---
+
 #include "chrome/browser/ui/lens/lens_results_panel_router.h"
 
 #include "chrome/browser/contextual_tasks/contextual_tasks_ui_service.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens session metrics logger implementation
+// summary: Implements tracking and logging of Lens overlay session metrics such as invocation, searchbox interactions, and end-of-session statistics.
+// ---
+
 #include "chrome/browser/ui/lens/lens_session_metrics_logger.h"
 
 #include "base/time/time.h"

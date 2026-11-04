@@ -1,0 +1,4 @@
+# Docerion header of HATS_PRIVACY_OWNERS.
+type: config
+title: Privacy reviewers for HaTS data reporting
+summary: Lists the privacy reviewers who must approve changes to product-specific survey data reporting.

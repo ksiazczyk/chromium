@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay query controller types and callbacks
+// summary: Defines the PageContent struct and callback type aliases for Lens overlay full image, URL, interaction, thumbnail, OAuth header, and upload progress responses.
+// ---
+
 #ifndef CHROME_BROWSER_UI_LENS_LENS_OVERLAY_QUERY_CONTROLLER_TYPES_H_
 #define CHROME_BROWSER_UI_LENS_LENS_OVERLAY_QUERY_CONTROLLER_TYPES_H_
 

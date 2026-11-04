@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the Lens browser UI directory
+summary: Defines GN source sets and dependencies for the Lens UI code, including backend logic and overlay targets.

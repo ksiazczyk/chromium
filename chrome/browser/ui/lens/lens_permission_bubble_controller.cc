@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens permission bubble controller implementation
+// summary: Implements the controller that shows the tab-modal Lens overlay permission dialog, observes permission preferences, and records user action metrics.
+// ---
+
 #include "chrome/browser/ui/lens/lens_permission_bubble_controller.h"
 
 #include <memory>

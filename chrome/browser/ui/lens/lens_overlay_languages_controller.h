@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay languages controller header
+// summary: Declares the controller that requests supported translate languages for the Lens overlay and returns them through a callback.
+// ---
+
 #ifndef CHROME_BROWSER_UI_LENS_LENS_OVERLAY_LANGUAGES_CONTROLLER_H_
 #define CHROME_BROWSER_UI_LENS_LENS_OVERLAY_LANGUAGES_CONTROLLER_H_
 

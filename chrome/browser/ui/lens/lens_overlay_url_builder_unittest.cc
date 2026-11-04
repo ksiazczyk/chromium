@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lens overlay URL builder unit tests
+// summary: Unit tests for the Lens overlay URL builder covering search URL construction, query parameters, URL equivalence, and redirect URL handling.
+// ---
+
 #include "chrome/browser/ui/lens/lens_overlay_url_builder.h"
 
 #include "base/base64url.h"

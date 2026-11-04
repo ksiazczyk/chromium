@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login navigation throttle implementation
+// summary: Implements a navigation throttle that consults LoginTabHelper when a main frame response is 401 or 407 to decide whether navigation proceeds or is handled as unauthorized.
+// ---
+
 #include "chrome/browser/ui/login/login_navigation_throttle.h"
 
 #include "base/feature_list.h"

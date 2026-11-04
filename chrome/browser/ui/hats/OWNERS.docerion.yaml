@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the HaTS directory
+summary: Lists directory owners and routes survey_config.cc changes to the privacy reviewers listed in HATS_PRIVACY_OWNERS.

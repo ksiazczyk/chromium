@@ -5,6 +5,12 @@
 // This class runs CUJ tests for lens overlay. These tests simulate input events
 // and cannot be run in parallel.
 
+// ---docerion
+// type: test
+// title: Lens overlay interactive UI tests
+// summary: Interactive CUJ tests for the Lens overlay that simulate input events such as clicks and clipboard use and cannot run in parallel.
+// ---
+
 #include "chrome/browser/ui/lens/lens_overlay_controller.h"
 
 #include <utility>

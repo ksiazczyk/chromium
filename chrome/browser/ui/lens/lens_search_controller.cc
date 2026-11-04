@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens search controller implementation
+// summary: Implements LensSearchController, the central controller for Lens Search features in Chrome, coordinating overlay opening, side panels, permissions and contextual search.
+// ---
+
 #include "chrome/browser/ui/lens/lens_search_controller.h"
 
 #include "base/check.h"

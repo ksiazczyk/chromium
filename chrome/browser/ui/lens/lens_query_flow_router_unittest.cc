@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lens query flow router unit tests
+// summary: Unit tests for the Lens query flow router, using mocks to verify query flows, contextual inputs, bitmap handling, and metrics across feature configurations.
+// ---
+
 #include "chrome/browser/ui/lens/lens_query_flow_router.h"
 
 #include "base/check_deref.h"

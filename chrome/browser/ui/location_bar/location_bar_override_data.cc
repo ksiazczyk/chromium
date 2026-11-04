@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocationBarOverrideData implementation
+// summary: Implements LocationBarOverrideData and the lookup that resolves a WebContents' LocationBar from an override or the hosting browser window.
+// ---
+
 #include "chrome/browser/ui/location_bar/location_bar_override_data.h"
 
 #include "chrome/browser/ui/browser_window.h"

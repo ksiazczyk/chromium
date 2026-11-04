@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UI media sink implementation
+// summary: Implements UIMediaSink helpers that compute the status text shown for a sink based on its state, issues, and freeze information.
+// ---
+
 #include "chrome/browser/ui/media_router/ui_media_sink.h"
 
 #include "base/strings/utf_string_conversions.h"

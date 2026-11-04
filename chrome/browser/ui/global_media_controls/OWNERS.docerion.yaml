@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for global media controls
+summary: Inherits owners from components/global_media_controls and assigns media router owners to cast and presentation request files.

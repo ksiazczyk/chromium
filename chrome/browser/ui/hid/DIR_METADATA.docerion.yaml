@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the HID UI folder
+summary: Points the folder to the shared Blink HID module metadata mixins used by Chromium directory tooling.

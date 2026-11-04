@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay wait-for-paint test utilities
+// summary: Implements WaitForPaint, a test helper that opens a URL and waits until the first visually non-empty paint completes, including a promise-based workaround for a paint race condition.
+// ---
+
 #include "chrome/browser/ui/lens/lens_overlay_wait_for_paint_utils.h"
 
 #include "base/test/run_until.h"

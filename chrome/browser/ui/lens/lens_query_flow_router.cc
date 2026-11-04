@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens query flow router implementation
+// summary: Implements routing of Lens queries, determining context upload modes, converting page content to contextual inputs, and sending query requests and Gen204 pings.
+// ---
+
 #include "chrome/browser/ui/lens/lens_query_flow_router.h"
 
 #include "base/rand_util.h"

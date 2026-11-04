@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock HaTS service implementation
+// summary: Implements MockHatsService and a helper that builds a NiceMock of the desktop HaTS service for use in tests.
+// ---
+
 #include "chrome/browser/ui/hats/mock_hats_service.h"
 
 #include <memory>

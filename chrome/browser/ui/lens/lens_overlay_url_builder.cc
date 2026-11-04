@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay search URL builder implementation
+// summary: Implements building and parsing of Lens overlay search URLs, covering query parameters for modes, sessions, translate languages, stickiness signals, and redirects.
+// ---
+
 #include "chrome/browser/ui/lens/lens_overlay_url_builder.h"
 
 #include <string>

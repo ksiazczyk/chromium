@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Presentation request notification item unit tests
+// summary: Unit tests verifying that the presentation request notification item forwards media session metadata and images to the device picker provider with the expected source title.
+// ---
+
 #include "chrome/browser/ui/global_media_controls/presentation_request_notification_item.h"
 
 #include "base/functional/callback_helpers.h"

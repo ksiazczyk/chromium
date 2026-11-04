@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay proto converter
+// summary: Converts Lens overlay server response protos into mojom structs for geometry, polygons, text, and overlay objects used by the overlay UI.
+// ---
+
 #include "chrome/browser/ui/lens/lens_overlay_proto_converter.h"
 
 #include <optional>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the JavaScript dialogs UI sources
+summary: Defines source sets and dependencies for Chrome's JavaScript dialog delegates, including unit and browser test targets.

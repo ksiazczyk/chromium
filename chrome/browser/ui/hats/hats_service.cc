@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HatsService base implementation
+// summary: Implements the base HaTS service with survey metadata, options, survey config loading and navigation permission checks.
+// ---
+
 #include "chrome/browser/ui/hats/hats_service.h"
 
 #include "content/public/browser/navigation_handle.h"

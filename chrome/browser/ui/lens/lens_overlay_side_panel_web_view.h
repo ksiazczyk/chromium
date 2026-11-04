@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay side panel web view declaration
+// summary: Declares the Lens overlay side panel web view class that adds context menu, keyboard, media access, and URL opening behavior on top of the side panel WebUI view.
+// ---
+
 #ifndef CHROME_BROWSER_UI_LENS_LENS_OVERLAY_SIDE_PANEL_WEB_VIEW_H_
 #define CHROME_BROWSER_UI_LENS_LENS_OVERLAY_SIDE_PANEL_WEB_VIEW_H_
 

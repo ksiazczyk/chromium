@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens searchbox controller implementation
+// summary: Implements the controller that manages communication between the Lens WebUI searchbox and other Lens components for the overlay and side panel.
+// ---
+
 #include "chrome/browser/ui/lens/lens_searchbox_controller.h"
 
 #include "chrome/browser/lens/core/mojom/lens_ghost_loader.mojom.h"

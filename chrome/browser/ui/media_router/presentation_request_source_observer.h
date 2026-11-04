@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Presentation request source observer interface
+// summary: Interface for observing updates from MediaRouteStarter when the presentation source used for casting changes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_MEDIA_ROUTER_PRESENTATION_REQUEST_SOURCE_OBSERVER_H_
 #define CHROME_BROWSER_UI_MEDIA_ROUTER_PRESENTATION_REQUEST_SOURCE_OBSERVER_H_
 

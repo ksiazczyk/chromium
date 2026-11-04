@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lens permission bubble interactive UI tests
+// summary: Interactive browser tests that exercise the Lens permission bubble dialog, checking accept and cancel behavior, preference updates, and recorded histograms.
+// ---
+
 #include "chrome/browser/ui/lens/lens_permission_bubble_controller.h"
 
 #include "base/test/metrics/histogram_tester.h"

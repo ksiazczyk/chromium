@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HidChooserController implementation
+// summary: Implements the WebHID permission prompt controller, filtering, grouping and tracking the HID devices shown in the chooser.
+// ---
+
 #include "chrome/browser/ui/hid/hid_chooser_controller.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for HaTS test files
+summary: Grants the browsertest files in this directory additional include permissions for views headers.

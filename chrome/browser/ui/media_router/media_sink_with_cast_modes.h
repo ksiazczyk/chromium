@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaSinkWithCastModes struct declaration
+// summary: Declares a struct holding a MediaSink and the set of cast modes it supports, interpreted in the context of a QueryResultManager mapping cast modes to sources.
+// ---
+
 #ifndef CHROME_BROWSER_UI_MEDIA_ROUTER_MEDIA_SINK_WITH_CAST_MODES_H_
 #define CHROME_BROWSER_UI_MEDIA_ROUTER_MEDIA_SINK_WITH_CAST_MODES_H_
 

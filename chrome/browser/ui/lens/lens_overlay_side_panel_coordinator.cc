@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens overlay side panel coordinator implementation
+// summary: Implements the coordinator that creates and registers the Lens overlay side panel entry, managing its web contents, menus, and navigation behavior.
+// ---
+
 #include "chrome/browser/ui/lens/lens_overlay_side_panel_coordinator.h"
 
 #include <vector>
