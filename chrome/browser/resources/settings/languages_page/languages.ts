@@ -10,6 +10,12 @@
  * this class via the LanguageHelper singleton instance.
  */
 
+// ---docerion
+// type: source
+// title: LanguageHelper for language and input method settings
+// summary: Singleton helper that builds and keeps the languages model in sync with Chrome's preferences, spell check, and translate settings.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 import {PromiseResolver} from '//resources/js/promise_resolver.js';
 import {PrefService} from '/shared/settings/prefs2/pref_service.js';

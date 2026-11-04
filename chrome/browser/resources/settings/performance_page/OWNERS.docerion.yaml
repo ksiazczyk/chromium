@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Performance page OWNERS file
+summary: Redirects review ownership of the performance settings page to the OWNERS file of chrome/browser/ui/performance_controls.

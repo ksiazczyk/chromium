@@ -9,6 +9,12 @@
  * #include=cr-shared-style-lit settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Privacy guide page styles
+summary: Styles the privacy guide page, including card layout, footer, view manager positioning, and animated background clouds and hills.
+*/
+
 :host {
   --privacy-guide-animation-duration: 900ms;
   --privacy-guide-footer-vertical-padding: 16px;

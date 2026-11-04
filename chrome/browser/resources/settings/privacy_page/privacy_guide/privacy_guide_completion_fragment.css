@@ -9,6 +9,12 @@
  * #include=privacy-guide-fragment-shared-lit settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Privacy guide completion fragment styles
+summary: Styles for the privacy guide completion fragment covering the header, link rows and footer layout.
+*/
+
 :host {
   display: flex;
   flex-flow: column;

@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: People page styles
+summary: Styles for the People settings page, including profile icon rows, sync setup links and the sign-in promo banner.
+*/
+
 .sync-row {
   align-items: center;
   flex: auto;

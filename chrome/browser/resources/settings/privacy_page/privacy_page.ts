@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy page settings element
+// summary: Lit element implementing the Chrome settings privacy page, opening dialogs and routing to privacy subpages such as cookies, security, and site settings.
+// ---
+
 /**
  * @fileoverview
  * 'settings-privacy-page' is the settings page containing privacy and

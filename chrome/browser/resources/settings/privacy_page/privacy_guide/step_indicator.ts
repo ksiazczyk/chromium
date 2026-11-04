@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Step indicator custom element
+// summary: Defines the step-indicator element that displays a row of dots showing the user's progress through a multi-step flow.
+// ---
+
 /**
  * @fileoverview
  * 'step-indicator' is an element that displays a row of dots, one of which is

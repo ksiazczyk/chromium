@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab discard exception add input template
+// summary: Lit HTML template rendering the cr-input used to type a new site for the Memory Saver tab discard exception list.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ExceptionAddInputElement} from './exception_add_input.js';

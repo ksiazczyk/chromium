@@ -8,6 +8,12 @@
  * #include=settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Languages page index styles
+summary: CSS for the languages page index, adjusting cr-view-manager display so multiple language settings cards can render at the same time.
+*/
+
 cr-view-manager [hidden-by-search],
 cr-view-manager[show-all] [slot=view][data-parent-view-id] {
   display: none;

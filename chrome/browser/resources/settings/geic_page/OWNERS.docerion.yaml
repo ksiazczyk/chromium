@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the geic_page folder
+summary: Delegates ownership of this settings folder to the owners of chrome/browser/geic.

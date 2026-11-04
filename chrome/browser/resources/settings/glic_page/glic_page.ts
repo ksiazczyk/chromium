@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic settings page element
+// summary: Lit element for the Glic entry in Chrome settings that navigates to the GEMINI route, picks the start icon, and records learn-more metrics.
+// ---
+
 import 'chrome://resources/cr_elements/cr_link_row/cr_link_row.js';
 import '../icons.html.js';
 // <if expr="_google_chrome">

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy guide completion fragment template
+// summary: Lit HTML template for the completion screen with banner, optional AI and Waa link rows and footer buttons.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {PrivacyGuideCompletionFragmentElement} from './privacy_guide_completion_fragment.js';

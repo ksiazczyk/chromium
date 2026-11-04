@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync controls HTML template
+// summary: Lit HTML template for the sync controls page with the sync-everything versus customize radio choice, policy indicators and per-data-type sync toggles.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {UserSelectableType} from '/shared/settings/people_page/sync_browser_proxy.js';

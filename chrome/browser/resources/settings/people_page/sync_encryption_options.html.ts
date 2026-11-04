@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync encryption options HTML template
+// summary: Lit HTML template showing radio buttons to choose between Google credentials and a sync passphrase, with inputs for creating a new passphrase.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsSyncEncryptionOptionsElement} from './sync_encryption_options.js';

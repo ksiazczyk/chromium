@@ -8,6 +8,12 @@
  * #include=settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Security keys PIN field styles
+summary: Styles for the security keys PIN input field used by the security key dialogs.
+*/
+
 cr-input {
   display: inline-block;
   padding-inline-end: 2em;

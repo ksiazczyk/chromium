@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners for the Glic settings page
+summary: OWNERS file that delegates review ownership of the Glic settings page to the chrome/browser/glic and glic/host teams.

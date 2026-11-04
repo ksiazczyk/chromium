@@ -11,6 +11,12 @@
  * #include=cr-icons-lit cr-shared-style-lit settings-columned-section-lit settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: GEiC subpage styles
+summary: Styles for the GEiC settings subpage, covering section padding, separators and toggle action layout.
+*/
+
 .section {
   padding: 0 var(--cr-section-padding);
 }

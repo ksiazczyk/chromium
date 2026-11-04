@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance page index template
+// summary: Lit HTML template that hosts the performance, memory, battery, and speed subpages inside a cr-view-manager.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 import type {PerformancePageIndexElement} from './performance_page_index.js';
 

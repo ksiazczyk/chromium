@@ -9,6 +9,12 @@
  * #include=settings-shared-lit cr-spinner-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Security keys set PIN dialog styles
+summary: Styles for the set PIN dialog, laying out current, new and confirm PIN inputs with spinner and shared styles.
+*/
+
 cr-input {
   display: inline-block;
   --cr-input-width: 8em;

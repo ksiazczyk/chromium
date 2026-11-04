@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the edit dictionary page
+summary: Defines styles for the custom spell check dictionary sub-page, including the new word input and word list layout.
+*/
+
 :host {
   display: flex;
   flex-direction: column;

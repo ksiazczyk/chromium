@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Downloads page HTML template
+// summary: Lit HTML template for the settings-downloads-page element, rendering the download location, prompt-for-download toggle and auto-open controls.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsDownloadsPageElement} from './downloads_page.js';

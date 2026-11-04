@@ -10,6 +10,12 @@
  * #include=cr-icons-lit cr-shared-style-lit settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the Glic login permissions page
+summary: Stylesheet for the Glic actor login permissions subpage, laying out permission rows, favicons, columns, and the empty-state message.
+*/
+
 .permission-item {
   align-items: center;
   border-bottom: var(--cr-separator-line);

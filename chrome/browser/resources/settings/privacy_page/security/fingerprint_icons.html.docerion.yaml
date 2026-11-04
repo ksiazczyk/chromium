@@ -1,0 +1,4 @@
+# Docerion header of fingerprint_icons.html.
+type: source
+title: Fingerprint icon SVG definitions
+summary: Defines the fingerprint-icon cr-iconset with SVG artwork for scanned fingerprint states in dark and light modes.

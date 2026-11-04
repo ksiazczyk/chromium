@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync controls element
+// summary: Lit element providing the sync data type controls for Chrome's sync settings, including sync-everything versus customize choices and admin-disabled notices.
+// ---
+
 // clang-format off
 import '//resources/cr_components/localized_link/localized_link.js';
 import '//resources/cr_elements/cr_radio_button/cr_radio_button.js';

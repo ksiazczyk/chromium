@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the Safety Hub extensions module
+summary: Lit CSS styles for the Safety Hub extensions module, including blue icon coloring with dark mode support.
+*/
+
 :host {
   display: block;
 }

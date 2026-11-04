@@ -6,6 +6,12 @@
  * #type=style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for tab discard exception add dialog
+summary: Lit CSS styles for the tabbed add-sites dialog covering tab sizing, dialog body height, dark mode border, and input page padding.
+*/
+
 cr-tabs {
   --cr-tabs-font-size: 100%;
   --cr-tabs-height: 40px;

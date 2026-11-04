@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Template for the Glic subpage
+// summary: Lit HTML template for the Glic subpage with launcher, tabstrip button, shortcut, and scope controls, including policy-disabled states.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsGlicSubpageElement} from './glic_subpage.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing setting enum
+// summary: Defines the SafeBrowsingSetting enum for safe browsing modes, kept in sync with the C++ safe browsing prefs.
+// ---
+
 /**
  * Enumeration of all safe browsing modes. Must be kept in sync with the enum
  * of the same name located in:

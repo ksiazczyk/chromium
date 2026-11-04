@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Manage profile styles
+summary: Styles for the manage profile subpage, covering the name input, theme color picker and profile avatar selector.
+*/
+
 cr-input {
   --cr-input-error-display: none;
 }

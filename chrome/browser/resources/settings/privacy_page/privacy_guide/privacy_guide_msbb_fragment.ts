@@ -8,6 +8,12 @@
  * that contains the MSBB setting with a two-column description.
  */
 
+// ---docerion
+// type: source
+// title: MSBB fragment element
+// summary: Implements the privacy guide MSBB step, tracking the URL-keyed anonymized data collection toggle state and recording metrics for changes.
+// ---
+
 import 'chrome://resources/cr_elements/cr_icon/cr_icon.js';
 import '../../controls/settings_toggle_button.js';
 import '../../icons.html.js';

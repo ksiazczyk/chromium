@@ -7,6 +7,12 @@
  * triggering factory resets of security keys.
  */
 
+// ---docerion
+// type: source
+// title: Security keys reset dialog component
+// summary: Lit dialog that triggers factory resets of security keys and steps through CTAP reset results and error codes.
+// ---
+
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/cr_elements/cr_dialog/cr_dialog.js';
 import 'chrome://resources/cr_elements/cr_page_selector/cr_page_selector.js';

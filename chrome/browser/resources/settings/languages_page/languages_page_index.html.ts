@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Languages page index HTML template
+// summary: Lit HTML template hosting the languages, spell check, translate, and edit dictionary pages inside a cr-view-manager.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsLanguagesPageIndexElement} from './languages_page_index.js';

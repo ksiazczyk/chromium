@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History sync fragment HTML template
+// summary: Lit HTML template for the privacy guide history sync step, showing a graphic, a toggle, and when-on versus consider description columns.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {PrivacyGuideHistorySyncFragmentElement} from './privacy_guide_history_sync_fragment.js';

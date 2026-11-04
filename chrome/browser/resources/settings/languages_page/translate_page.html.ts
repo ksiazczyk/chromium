@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate page HTML template
+// summary: Lit HTML template for the translate settings page with the translate toggle, target language selector, and always/never translate lists.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsTranslatePageElement} from './translate_page.js';

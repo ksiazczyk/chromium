@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance settings page element
+// summary: Defines the settings-performance-page element that binds performance tuning preferences, records usage metrics, and supports sending feedback.
+// ---
+
 import '../controls/settings_toggle_button.js';
 import 'chrome://resources/cr_elements/cr_link_row/cr_link_row.js';
 import '../settings_page/settings_section.js';

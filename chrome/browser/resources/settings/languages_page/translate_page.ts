@@ -7,6 +7,12 @@
  * translate settings.
  */
 
+// ---docerion
+// type: source
+// title: Translate page element
+// summary: Defines the settings-translate-page element that manages translate preferences and the always/never translate language lists.
+// ---
+
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/cr_elements/cr_collapse/cr_collapse.js';
 import 'chrome://resources/cr_elements/cr_icon_button/cr_icon_button.js';

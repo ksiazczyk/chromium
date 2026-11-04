@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings reset page element
+// summary: Defines the settings-reset-page element that hosts the reset entry point, reacts to reset dialog routes, and supports settings search.
+// ---
+
 /**
  * @fileoverview
  * 'settings-reset-page' is the settings page containing reset

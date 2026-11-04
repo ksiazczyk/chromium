@@ -8,6 +8,12 @@
  * #include=settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Do Not Track toggle styles
+summary: Lit styles for the Do Not Track toggle, adding padding and margin around the toggle button.
+*/
+
 .toggle {
   padding: 0 var(--cr-section-padding);
   margin-bottom: var(--cr-section-vertical-padding);

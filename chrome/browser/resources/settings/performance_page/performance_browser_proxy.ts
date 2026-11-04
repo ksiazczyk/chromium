@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Performance browser proxy
+// summary: Browser proxy interface and implementation for CPU info, open sites, battery presence, feedback dialogs and tab discard rule validation.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 
 export enum PerformanceFeedbackCategory {

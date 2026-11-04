@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser settings page element
+// summary: Implements the settings-default-browser-page element that displays and changes the default browser, handling state updates and a feature flag experiment.
+// ---
+
 /**
  * @fileoverview
  * 'settings-default-browser-page' is the settings page that contains

@@ -1,0 +1,4 @@
+# Docerion header of security_keys_reset_dialog.html.
+type: source
+title: Security keys reset dialog template
+summary: HTML template for the security key reset dialog showing touch, confirm, success, failure and not-allowed reset states.

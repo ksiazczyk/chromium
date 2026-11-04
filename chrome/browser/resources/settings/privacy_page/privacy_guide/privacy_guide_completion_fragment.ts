@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy guide completion fragment element
+// summary: Lit element for the privacy guide completion screen that records metrics and reacts to sync state changes.
+// ---
+
 /**
  * @fileoverview
  * 'privacy-guide-completion-fragment' is the fragment in a privacy guide

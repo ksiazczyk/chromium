@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Safety Hub module styles
+summary: Lit CSS styles for the Safety Hub module covering header layout, icon colors, site list rows and item show and hide animations.
+*/
+
 :host {
   display: block;
 

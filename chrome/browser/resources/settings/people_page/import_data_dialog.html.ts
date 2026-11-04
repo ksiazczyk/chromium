@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Import data dialog HTML template
+// summary: Lit HTML template for the settings dialog that imports bookmarks, history, passwords and other data from other browsers.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {ImportDataStatus} from './import_data_browser_proxy.js';

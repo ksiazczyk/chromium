@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Languages page HTML template
+// summary: Lit HTML template for the languages settings page, rendering the enabled language list, add languages button, and per-language action menu.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsLanguagesPageElement} from './languages_page.js';

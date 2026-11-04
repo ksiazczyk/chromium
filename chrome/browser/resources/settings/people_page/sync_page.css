@@ -11,6 +11,12 @@
  * #include=cr-shared-style-lit settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Sync page styles
+summary: Stylesheet for the sync settings page covering separators, passphrase fields, the admin-disabled icon, toast, and link rows.
+*/
+
 #sync-separator {
   border-bottom: var(--cr-separator-line);
 }

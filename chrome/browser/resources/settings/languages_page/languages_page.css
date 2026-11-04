@@ -11,6 +11,12 @@
  * #include=cr-shared-style-lit settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the languages settings page
+summary: Defines styles for the languages page, including action menus, target info visibility rules, and Windows UI language item styling.
+*/
+
 cr-action-menu.complex .dropdown-item {
   min-height: 36px;
 }

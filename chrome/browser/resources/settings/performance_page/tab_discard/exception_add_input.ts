@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab discard exception add input element
+// summary: Custom element providing the validated input for adding a site to the tab discard exceptions pref, recording metrics on submit.
+// ---
+
 import 'chrome://resources/cr_elements/cr_input/cr_input.js';
 
 import {PrefService} from '/shared/settings/prefs2/pref_service.js';

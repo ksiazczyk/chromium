@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unused site permissions module HTML template
+// summary: Lit HTML template for the unused site permissions module with got-it, more actions and bulk undo buttons, an undo toast and a site settings menu.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsSafetyHubUnusedSitePermissionsModuleElement} from './unused_site_permissions_module.js';

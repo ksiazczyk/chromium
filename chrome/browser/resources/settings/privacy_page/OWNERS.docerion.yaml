@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Privacy page code owners
+summary: Lists the owners for the privacy page directory and delegates hats_browser_proxy.ts reviews to the HaTS owners.

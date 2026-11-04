@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy guide page HTML template
+// summary: Lit HTML template for the settings privacy guide page card, rendering the step fragments, background graphics, and back and next navigation footer.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {PrivacyGuideStep} from './constants.js';

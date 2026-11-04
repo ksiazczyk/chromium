@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the languages settings page
+summary: Designates code owners for reviewing changes to the languages settings page and delegates to the language components owners.

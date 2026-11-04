@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync controls page element
+// summary: Settings subpage element that fetches and listens for sync status changes and hosts the sync controls element.
+// ---
+
 import './sync_controls.js';
 import '../settings_page/settings_subpage.js';
 

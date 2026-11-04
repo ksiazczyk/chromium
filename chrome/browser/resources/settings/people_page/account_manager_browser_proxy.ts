@@ -8,6 +8,12 @@
  * Re-uses the same WebUI message handler class.
  */
 
+// ---docerion
+// type: source
+// title: Account manager browser proxy
+// summary: TypeScript browser proxy that exposes the Chrome OS AccountManager list of GAIA accounts to the settings WebUI.
+// ---
+
 // clang-format off
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 // clang-format on

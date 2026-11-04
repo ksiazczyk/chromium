@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language code utilities
+// summary: Utility functions for converting language codes between Chrome and Translate formats and for displaying full language names.
+// ---
+
 // For some codes translate uses a different version from Chrome.  Some are
 // ISO 639 codes that have been renamed (e.g. "he" to "iw"). While others are
 // languages that Translate considers similar (e.g. "nb" and "no").

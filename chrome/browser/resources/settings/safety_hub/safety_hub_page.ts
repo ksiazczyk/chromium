@@ -8,6 +8,12 @@
  * state of Chrome.
  */
 
+// ---docerion
+// type: source
+// title: Safety Hub page element
+// summary: Lit element for the Safety Hub settings page managing password, version and Safe Browsing cards and the unused permissions and extensions modules.
+// ---
+
 // <if expr="not is_chromeos">
 import '../relaunch_confirmation_dialog.js';
 // </if>

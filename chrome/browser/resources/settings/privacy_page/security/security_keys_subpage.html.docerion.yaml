@@ -1,0 +1,4 @@
+# Docerion header of security_keys_subpage.html.
+type: source
+title: Security keys subpage template
+summary: HTML template for the security keys settings subpage with links to set PIN, credential management, bio enrollment and reset dialogs.

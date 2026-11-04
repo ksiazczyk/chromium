@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy guide page element
+// summary: Defines the settings-privacy-guide-page element that manages the privacy guide step flow, navigation, sync status, and usage metrics.
+// ---
+
 /**
  * @fileoverview
  * 'settings-privacy-guide-page' is the settings page that helps users guide

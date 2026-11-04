@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic settings subpage element
+// summary: Implements the settings-glic-subpage Lit element that manages Glic feature preferences such as captions, microphone, tab context, and triggering toggles in Chrome settings.
+// ---
+
 import 'chrome://resources/cr_elements/cr_collapse/cr_collapse.js';
 import 'chrome://resources/cr_elements/cr_link_row/cr_link_row.js';
 import 'chrome://resources/cr_components/cr_shortcut_input/cr_shortcut_input.js';

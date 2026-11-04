@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fingerprint progress arc element logic
+// summary: Implements the fingerprint-progress-arc LitElement that draws the enrollment progress circle and fingerprint scan animations.
+// ---
+
 import '//resources/cr_elements/cr_icon/cr_icon.js';
 import '//resources/cr_components/cr_lottie/cr_lottie.js';
 import './fingerprint_icons.html.js';

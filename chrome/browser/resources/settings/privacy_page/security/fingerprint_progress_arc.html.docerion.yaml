@@ -1,0 +1,4 @@
+# Docerion header of fingerprint_progress_arc.html.
+type: source
+title: Template for the fingerprint progress arc element
+summary: HTML template for the fingerprint progress arc element containing the canvas, scanning animation and scanned fingerprint icon.

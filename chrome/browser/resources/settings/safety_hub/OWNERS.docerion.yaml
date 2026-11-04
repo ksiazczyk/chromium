@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Safety Hub owners list
+summary: Lists the primary and secondary code owners responsible for reviewing changes in the Safety Hub settings directory.

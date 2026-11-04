@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security keys subpage component
+// summary: Lit settings subpage that hosts security key operations and opens the corresponding PIN, credential, bio enrollment and reset dialogs.
+// ---
+
 /**
  * @fileoverview 'security-keys-subpage' is a settings subpage
  * containing operations on security keys.

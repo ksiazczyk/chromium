@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS languages page index HTML template
+// summary: Lit HTML template for the ChromeOS languages settings section, showing a link row that opens the ChromeOS languages settings.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsLanguagesPageIndexCrosElement} from './languages_page_index_cros.js';

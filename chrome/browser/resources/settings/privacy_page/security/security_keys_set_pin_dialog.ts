@@ -7,6 +7,12 @@
  * setting and changing security key PINs.
  */
 
+// ---docerion
+// type: source
+// title: Security keys set PIN dialog component
+// summary: Lit dialog for setting and changing security key PINs, handling validation, retry counts and CTAP error states.
+// ---
+
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/cr_elements/cr_dialog/cr_dialog.js';
 import 'chrome://resources/cr_elements/cr_icon_button/cr_icon_button.js';

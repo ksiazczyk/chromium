@@ -7,6 +7,12 @@
  * to interact with the browser.
  */
 
+// ---docerion
+// type: source
+// title: Browser proxy for the languages section
+// summary: Exposes languageSettingsPrivate APIs and Windows prospective UI language handling to the languages settings UI.
+// ---
+
 // <if expr="is_win">
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 // </if>

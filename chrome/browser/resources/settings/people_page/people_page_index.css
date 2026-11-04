@@ -8,6 +8,12 @@
  * #include=settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: People page index styles
+summary: Styles for the People page index, hiding views in the view manager that are filtered out by search.
+*/
+
 cr-view-manager [hidden-by-search],
 cr-view-manager[show-all] [slot=view][data-parent-view-id] {
   display: none;

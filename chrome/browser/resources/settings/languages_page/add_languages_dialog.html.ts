@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Template for the add languages dialog
+// summary: Lit HTML template that renders the add languages dialog with a search field, selectable language checkboxes, and add/cancel buttons.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsAddLanguagesDialogElement} from './add_languages_dialog.js';

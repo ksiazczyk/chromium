@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safety Hub module element
+// summary: Lit element settings-safety-hub-module that presents Chrome's safety state as a headered site list with animated show and hide behavior.
+// ---
+
 /**
  * @fileoverview
  * 'settings-safety-hub-module' is the settings page that presents the safety

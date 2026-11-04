@@ -8,6 +8,12 @@
  * #include=settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Cookies page styles
+summary: Lit styles for the cookies settings subpage, covering radio buttons, bullet lists and settings-refresh-2026 layout.
+*/
+
 #explanationText,
 #generalControls {
   padding: 0 var(--cr-section-padding);

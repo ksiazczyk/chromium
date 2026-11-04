@@ -8,6 +8,12 @@
  * #include=privacy-guide-fragment-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Welcome fragment styles
+summary: Styles for the privacy guide welcome fragment, covering the header layout and the absolutely positioned footer.
+*/
+
 :host {
   display: flex;
   flex-flow: column;

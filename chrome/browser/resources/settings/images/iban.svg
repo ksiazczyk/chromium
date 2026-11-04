@@ -1,3 +1,9 @@
+<!--docerion
+type: asset
+title: IBAN illustration
+summary: SVG illustration representing an IBAN bank account, used for payment method UI in Chrome settings.
+-->
+
 <svg width="48" height="30" viewBox="0 0 48 30" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect width="48" height="30" rx="4" fill="#D3E3FD"/>
 <g clip-path="url(#clip0_745_185471)">

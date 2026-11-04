@@ -9,6 +9,12 @@
  * #include=settings-shared-lit cr-spinner-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Biometric enrollment dialog styles
+summary: Styles for the security key biometric enrollment dialog, covering the header, enrollment list, spinner and dark and light fingerprint icons.
+*/
+
 div[slot='body'] {
   /* Make the secondary 'Add' button in the body to align with the
      primary 'Done' button in the body-container. */

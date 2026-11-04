@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML template for tab discard exception add dialog
+// summary: Lit HTML template for the tabbed add-sites dialog with tabs for choosing current sites or manual input plus cancel and add buttons.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 import type {ExceptionTabbedAddDialogElement} from './exception_tabbed_add_dialog.js';
 

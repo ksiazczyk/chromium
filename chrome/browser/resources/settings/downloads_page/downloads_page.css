@@ -9,6 +9,12 @@
  * #include=cr-shared-style-lit settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Downloads page styles
+summary: Stylesheet for the downloads settings page, wrapping shared Lit styles and applying word breaking to the default download path display.
+*/
+
 #defaultDownloadPath {
   word-break: break-word;
 }

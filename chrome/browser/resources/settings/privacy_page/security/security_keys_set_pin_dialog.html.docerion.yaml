@@ -1,0 +1,4 @@
+# Docerion header of security_keys_set_pin_dialog.html.
+type: source
+title: Security keys set PIN dialog template
+summary: HTML template for setting or changing a security key PIN, with current, new and confirm PIN entry and status pages.

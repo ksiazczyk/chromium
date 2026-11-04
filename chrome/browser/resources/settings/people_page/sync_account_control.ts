@@ -6,6 +6,13 @@
  * 'settings-sync-account-section' is the settings page containing sign-in
  * settings.
  */
+
+// ---docerion
+// type: source
+// title: Sync account control element
+// summary: Defines the settings-sync-account-control element that manages sign-in promos, account switching, sign-out, turning off sync and sync status actions.
+// ---
+
 import '//resources/cr_elements/cr_action_menu/cr_action_menu.js';
 import '//resources/cr_elements/cr_button/cr_button.js';
 import '//resources/cr_elements/cr_icon_button/cr_icon_button.js';

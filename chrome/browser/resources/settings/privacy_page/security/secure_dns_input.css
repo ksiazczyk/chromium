@@ -6,6 +6,12 @@
  * #type=style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the secure DNS input element
+summary: Styles the secure DNS input element, laying out the cr-textarea used to enter a custom secure DNS resolver.
+*/
+
 :host {
   cursor: auto;
   display: block;

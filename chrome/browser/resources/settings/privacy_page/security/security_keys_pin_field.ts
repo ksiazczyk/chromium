@@ -7,6 +7,12 @@
  * a security key PIN.
  */
 
+// ---docerion
+// type: source
+// title: Security keys PIN field component
+// summary: Lit element for entering and validating a security key PIN, submitting it via a callback and showing incorrect-PIN and retry errors.
+// ---
+
 import 'chrome://resources/cr_elements/cr_input/cr_input.js';
 import 'chrome://resources/cr_elements/cr_icon_button/cr_icon_button.js';
 import '../../i18n_setup.js';

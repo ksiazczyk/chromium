@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speed page element
+// summary: Defines the settings-speed-page element that manages preloading preferences and CPU performance tier options.
+// ---
+
 import '../controls/collapse_radio_button.js';
 import '../controls/settings_dropdown_menu.js';
 import '../controls/settings_radio_group.js';

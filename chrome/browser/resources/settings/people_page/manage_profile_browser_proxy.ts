@@ -7,6 +7,12 @@
  * the People section to interact with the browser. Chrome Browser only.
  */
 
+// ---docerion
+// type: source
+// title: Manage profile browser proxy
+// summary: Browser proxy used by the manage profile subpage to set the profile name, icon and shortcuts via the browser backend.
+// ---
+
 // clang-format off
 import type {AvatarIcon} from 'chrome://resources/cr_elements/cr_profile_avatar_selector/cr_profile_avatar_selector.js';
 import {sendWithPromise} from 'chrome://resources/js/cr.js';

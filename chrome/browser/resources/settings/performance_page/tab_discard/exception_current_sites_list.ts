@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Current sites list element
+// summary: Custom element that periodically refreshes the list of currently open sites so they can be selected as tab discard exceptions.
+// ---
+
 import 'chrome://resources/cr_elements/cr_checkbox/cr_checkbox.js';
 import '../../site_favicon.js';
 

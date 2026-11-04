@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Sync encryption options styles
+summary: Stylesheet for the sync encryption options element, laying out the passphrase creation box, inputs, and encryption radio buttons.
+*/
+
 #create-password-box {
   margin-bottom: 1em;
 }

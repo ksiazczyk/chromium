@@ -5,6 +5,12 @@ import {RestartType} from '../relaunch_mixin_lit.js';
 // </if>
 #html_wrapper_imports_end -->
 
+<!--docerion
+type: source
+title: Personalization options HTML template
+summary: HTML template for the personalization options section of Chrome privacy settings, covering sign-in choice, metrics reporting, and anonymized URL collection toggles.
+-->
+
 <if expr="not is_chromeos">
     <div id="chromeSigninUserChoiceSetting" class="hr cr-row" role="group"
         ?hidden="${!this.chromeSigninUserChoiceInfo_?.shouldShowSettings}"

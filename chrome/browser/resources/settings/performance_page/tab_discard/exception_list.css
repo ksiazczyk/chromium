@@ -9,6 +9,12 @@
  * #include=cr-shared-style-lit settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for tab discard exception list
+summary: Lit CSS styles for the tab discard exception list covering layout, entry separators, and expand button spacing.
+*/
+
 .cr-padded-text {
   flex: 1;
 }

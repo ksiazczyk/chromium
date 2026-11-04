@@ -1,0 +1,4 @@
+# Docerion header of privacy_page_index.html.
+type: source
+title: Privacy page index HTML template
+summary: HTML template composing the privacy settings index, conditionally rendering safety hub, cookies, security, site settings, and related subpage views.

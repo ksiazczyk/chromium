@@ -9,6 +9,12 @@
  * #include=cr-shared-style-lit settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Account page styles
+summary: Lit CSS styles for the settings account subpage, covering sync items, passphrase reset controls and link rows.
+*/
+
 #other-sync-items {
   padding-bottom: 8px;
 }

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default browser page HTML template
+// summary: Lit HTML template for the settings-default-browser-page element, rendering the default browser status, error states, and a make-default button.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsDefaultBrowserPageElement} from './default_browser_page.js';

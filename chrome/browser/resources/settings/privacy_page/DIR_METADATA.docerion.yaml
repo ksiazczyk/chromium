@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Privacy page metadata for Chromium code review
+summary: Maps the privacy page folder to the UI>Settings>Privacy monorail component, team email and Buganizer component.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Template for the edit dictionary page
+// summary: Lit HTML template for the custom dictionary sub-page with a word input, add button, and removable list of dictionary words.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsEditDictionaryPageElement} from './edit_dictionary_page.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On startup page HTML template
+// summary: Lit HTML template for the on-startup settings page, rendering the startup radio group, extension indicator, and startup URLs page.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsOnStartupPageElement} from './on_startup_page.js';

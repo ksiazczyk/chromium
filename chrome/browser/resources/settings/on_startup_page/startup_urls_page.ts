@@ -7,6 +7,12 @@
  * containing the urls that will be opened when chrome is started.
  */
 
+// ---docerion
+// type: source
+// title: Startup URLs settings page element
+// summary: Lit element for the Chrome settings page that lists and manages the URLs opened when the browser starts.
+// ---
+
 import 'chrome://resources/js/action_link.js';
 import 'chrome://resources/cr_elements/action_link_lit.css.js';
 import '/shared/settings/controls/extension_controlled_indicator.js';

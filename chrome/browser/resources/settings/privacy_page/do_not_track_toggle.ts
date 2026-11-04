@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Do Not Track toggle element
+// summary: Defines the settings-do-not-track-toggle element that shows a confirmation dialog before enabling the Do Not Track preference.
+// ---
+
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/cr_elements/cr_dialog/cr_dialog.js';
 import '../controls/settings_toggle_button.js';

@@ -9,6 +9,12 @@
  * #include=settings-shared-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the add languages dialog
+summary: Defines layout styles for the add languages dialog, covering the title row, scrollable language list, and checkbox spacing.
+*/
+
 #dialog-title {
   align-items: center;
   display: flex;

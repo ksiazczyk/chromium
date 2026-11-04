@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GEiC subpage HTML template
+// summary: Lit HTML template for the GEiC subpage with toggles for the tabstrip button and default tab access preferences.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SettingsGeicSubpageElement} from './geic_subpage.js';

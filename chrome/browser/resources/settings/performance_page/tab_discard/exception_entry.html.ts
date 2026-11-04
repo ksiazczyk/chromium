@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML template for tab discard exception entry
+// summary: Lit HTML template rendering a single tab discard exception row with the site name and either a managed policy indicator or an action menu button.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ExceptionEntryElement} from './exception_entry.js';
