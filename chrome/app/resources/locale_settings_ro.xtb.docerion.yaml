@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_ro.xtb.
+type: data
+title: Romanian locale settings translation bundle
+summary: XML translation bundle with Romanian dialog dimensions, spellcheck dictionary and default encoding list for Chromium's locale-specific UI settings.

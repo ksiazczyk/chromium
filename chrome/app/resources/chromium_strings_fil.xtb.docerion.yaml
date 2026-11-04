@@ -1,0 +1,4 @@
+# Docerion header of chromium_strings_fil.xtb.
+type: data
+title: Chromium strings for Filipino
+summary: Filipino XTB translation bundle holding localized Chromium UI strings for the fil locale.

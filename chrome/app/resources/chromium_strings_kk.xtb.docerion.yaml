@@ -1,0 +1,4 @@
+# Docerion header of chromium_strings_kk.xtb.
+type: data
+title: Chromium strings in Kazakh
+summary: Kazakh translation bundle providing localized Chromium interface strings for the kk locale.

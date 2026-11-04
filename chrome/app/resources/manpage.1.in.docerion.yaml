@@ -1,0 +1,4 @@
+# Docerion header of manpage.1.in.
+type: reference
+title: Google Chrome man page template
+summary: Troff man page template for the Chrome browser command, processed at build time to document invocation, command-line options and environment variables.

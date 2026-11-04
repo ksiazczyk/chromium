@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_linux.grd.
+type: config
+title: Linux platform locale settings GRIT resource definition
+summary: GRIT resource definition that packages per-language platform locale settings into .pak files for Linux and Android builds.

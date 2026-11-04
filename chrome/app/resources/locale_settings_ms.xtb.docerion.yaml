@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_ms.xtb.
+type: data
+title: Malay locale settings translation bundle
+summary: Minimal Malay translation bundle that overrides only the system tray menu bubble width for the locale.

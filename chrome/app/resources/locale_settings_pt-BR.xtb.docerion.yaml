@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_pt-BR.xtb.
+type: data
+title: Brazilian Portuguese locale settings translation bundle
+summary: Brazilian Portuguese translation bundle defining locale-specific Chromium UI settings such as dialog sizes, spellcheck dictionary, and default encodings.

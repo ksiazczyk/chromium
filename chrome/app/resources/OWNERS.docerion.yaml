@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Directory owners file
+summary: OWNERS file with a wildcard entry granting ownership to all users.

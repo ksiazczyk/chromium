@@ -1,0 +1,4 @@
+# Docerion header of chromium_strings_uz.xtb.
+type: data
+title: Chromium strings translation bundle for Uzbek
+summary: Uzbek translations of Chromium user interface strings in the XTB translation bundle format, used for localizing the browser.

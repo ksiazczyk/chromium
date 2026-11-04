@@ -1,0 +1,4 @@
+# Docerion header of chromium_strings_it.xtb.
+type: data
+title: Chromium strings in Italian (chromium_strings_it.xtb)
+summary: Italian translation bundle supplying localized Chromium UI strings as XML translation entries.

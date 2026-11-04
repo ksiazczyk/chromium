@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_ml.xtb.
+type: data
+title: Malayalam locale settings translation bundle
+summary: Malayalam translation bundle defining locale-specific Chromium UI settings such as dialog sizes, spellcheck dictionary, and default encodings.

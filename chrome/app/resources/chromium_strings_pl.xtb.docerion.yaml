@@ -1,0 +1,4 @@
+# Docerion header of chromium_strings_pl.xtb.
+type: data
+title: 'Chromium strings: Polish (pl)'
+summary: Polish translation bundle with localized Chromium interface strings covering installation, settings, privacy, and update messages.

@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_pt-PT.xtb.
+type: data
+title: Portuguese (Portugal) locale settings translation bundle
+summary: XML translation bundle with Portuguese (Portugal) dialog dimensions, spellcheck dictionary and default encoding list for Chromium's locale-specific UI settings.

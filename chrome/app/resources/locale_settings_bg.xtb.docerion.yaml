@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_bg.xtb.
+type: data
+title: Bulgarian locale settings (bg)
+summary: Bulgarian translation bundle defining dialog dimensions, the spellcheck dictionary and preferred character encodings for the UI.

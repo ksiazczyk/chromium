@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_es-419.xtb.
+type: data
+title: es-419 locale settings translation bundle
+summary: Translation bundle holding Latin American Spanish UI locale settings, including dialog dimensions, spellcheck dictionary and the static encoding list.

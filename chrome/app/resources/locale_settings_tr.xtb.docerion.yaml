@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_tr.xtb.
+type: data
+title: Turkish locale settings translation bundle
+summary: Turkish translation bundle defining locale-specific UI settings such as dialog sizes, spellcheck dictionary and default encodings for Chromium.

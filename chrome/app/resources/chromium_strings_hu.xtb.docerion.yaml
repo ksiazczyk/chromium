@@ -1,0 +1,4 @@
+# Docerion header of chromium_strings_hu.xtb.
+type: data
+title: Chromium strings in Hungarian (chromium_strings_hu.xtb)
+summary: Hungarian translation bundle supplying localized Chromium UI strings as XML translation entries.

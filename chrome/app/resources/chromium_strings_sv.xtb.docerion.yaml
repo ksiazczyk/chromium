@@ -1,0 +1,4 @@
+# Docerion header of chromium_strings_sv.xtb.
+type: data
+title: Chromium strings translation bundle for Swedish
+summary: Swedish translations of Chromium user interface strings in the XTB translation bundle format, used for localizing the browser.

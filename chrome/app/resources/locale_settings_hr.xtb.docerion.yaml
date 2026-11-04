@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_hr.xtb.
+type: data
+title: Croatian locale settings translation bundle
+summary: Translation bundle with Croatian locale settings for Chrome, covering dialog dimensions, spellcheck dictionary and character encodings.

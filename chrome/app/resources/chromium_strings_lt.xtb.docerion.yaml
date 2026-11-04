@@ -1,0 +1,4 @@
+# Docerion header of chromium_strings_lt.xtb.
+type: data
+title: Chromium strings in Lithuanian
+summary: Lithuanian translation bundle providing localized Chromium interface strings for the lt locale.

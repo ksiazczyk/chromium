@@ -1,0 +1,4 @@
+# Docerion header of chromium_strings_pt-BR.xtb.
+type: data
+title: 'Chromium strings: Brazilian Portuguese (pt-BR)'
+summary: Brazilian Portuguese translation bundle with localized Chromium interface strings covering installation, settings, privacy, and update messages.

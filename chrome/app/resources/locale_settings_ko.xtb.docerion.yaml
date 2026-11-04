@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_ko.xtb.
+type: data
+title: Korean locale settings translation bundle
+summary: Translation bundle with Korean locale settings for Chrome, covering font sizes, dialog dimensions, spellcheck dictionary and encodings.

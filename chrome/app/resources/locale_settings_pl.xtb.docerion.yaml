@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_pl.xtb.
+type: data
+title: Polish locale settings translation bundle
+summary: Polish translation bundle defining locale-specific Chromium UI settings such as dialog sizes, spellcheck dictionary, and default encodings.

@@ -1,0 +1,4 @@
+# Docerion header of chromium_strings_nl.xtb.
+type: data
+title: Chromium strings translation bundle (Dutch)
+summary: Dutch XTB translation bundle holding localized Chromium UI strings as XML translation entries.

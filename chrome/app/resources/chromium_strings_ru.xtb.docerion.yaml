@@ -1,0 +1,4 @@
+# Docerion header of chromium_strings_ru.xtb.
+type: data
+title: 'Chromium strings: Russian (ru)'
+summary: Russian translation bundle with localized Chromium interface strings covering installation, settings, privacy, and update messages.

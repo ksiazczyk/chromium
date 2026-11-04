@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_ru.xtb.
+type: data
+title: Russian locale settings translation bundle
+summary: XML translation bundle with Russian dialog dimensions, spellcheck dictionary and default encoding list for Chromium's locale-specific UI settings.

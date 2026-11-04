@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_mr.xtb.
+type: data
+title: Marathi locale settings translation bundle
+summary: Marathi translation bundle defining locale-specific Chromium UI settings such as dialog sizes, spellcheck dictionary, and default encodings.

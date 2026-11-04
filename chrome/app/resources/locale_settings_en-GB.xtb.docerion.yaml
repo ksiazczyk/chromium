@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_en-GB.xtb.
+type: data
+title: en-GB locale settings translation bundle
+summary: Translation bundle holding British English UI locale settings, including dialog dimensions, spellcheck dictionary and the static encoding list.

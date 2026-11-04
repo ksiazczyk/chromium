@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_win.grd.
+type: config
+title: Windows platform locale settings GRIT resource definition
+summary: GRIT resource file that defines platform locale settings messages and lists the per-language .pak outputs generated for Windows builds.

@@ -1,0 +1,4 @@
+# Docerion header of chromium_strings_bs.xtb.
+type: data
+title: Chromium strings in Bosnian
+summary: Bosnian translation bundle holding localized Chromium interface strings in the XTB XML format.

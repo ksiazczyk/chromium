@@ -1,0 +1,4 @@
+# Docerion header of chromium_strings_bn.xtb.
+type: data
+title: Chromium strings in Bengali
+summary: Bengali translation bundle holding localized Chromium interface strings in the XTB XML format.

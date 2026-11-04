@@ -1,0 +1,4 @@
+# Docerion header of chromium_strings_ka.xtb.
+type: data
+title: Chromium strings in Georgian
+summary: Georgian translation bundle providing localized Chromium interface strings for the ka locale.

@@ -1,0 +1,4 @@
+# Docerion header of chromium_strings_es.xtb.
+type: data
+title: Chromium strings for Spanish
+summary: Spanish XTB translation bundle holding localized Chromium UI strings for the es locale.

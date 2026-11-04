@@ -1,0 +1,4 @@
+# Docerion header of chromium_strings_ca.xtb.
+type: data
+title: Chromium strings in Catalan
+summary: Catalan translation bundle holding localized Chromium interface strings in the XTB XML format.

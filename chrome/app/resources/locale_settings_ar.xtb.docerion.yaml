@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_ar.xtb.
+type: data
+title: Arabic locale settings (ar)
+summary: Arabic translation bundle defining dialog dimensions, the spellcheck dictionary and preferred character encodings for the UI.

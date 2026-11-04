@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for locale settings
+summary: GN build file that generates grit locale settings headers per platform and defines a unit_tests target for resources.

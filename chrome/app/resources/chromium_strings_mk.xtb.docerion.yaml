@@ -1,0 +1,4 @@
+# Docerion header of chromium_strings_mk.xtb.
+type: data
+title: Chromium strings in Macedonian
+summary: Macedonian translation bundle providing localized Chromium interface strings for the mk locale.

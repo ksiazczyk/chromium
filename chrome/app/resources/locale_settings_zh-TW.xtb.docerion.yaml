@@ -1,0 +1,4 @@
+# Docerion header of locale_settings_zh-TW.xtb.
+type: data
+title: Traditional Chinese locale settings translation bundle
+summary: Traditional Chinese translation bundle defining locale-specific UI settings such as dialog sizes, spellcheck dictionary and default encodings.

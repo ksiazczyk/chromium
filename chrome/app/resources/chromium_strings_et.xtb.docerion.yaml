@@ -1,0 +1,4 @@
+# Docerion header of chromium_strings_et.xtb.
+type: data
+title: Chromium strings for Estonian
+summary: Estonian XTB translation bundle holding localized Chromium UI strings for the et locale.

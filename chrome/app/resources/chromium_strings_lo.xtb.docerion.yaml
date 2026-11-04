@@ -1,0 +1,4 @@
+# Docerion header of chromium_strings_lo.xtb.
+type: data
+title: Chromium strings in Lao
+summary: Lao translation bundle providing localized Chromium interface strings for the lo locale.
