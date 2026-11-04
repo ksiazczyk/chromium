@@ -1,0 +1,4 @@
+# Docerion header of android_touch_to_fill_strings_fr-CA.xtb.
+type: data
+title: Touch to Fill strings translation bundle (Canadian French)
+summary: Canadian French translations of the Android touch-to-fill password manager UI strings, covering passkey and password sign-in prompts, in Chrome XTB format.

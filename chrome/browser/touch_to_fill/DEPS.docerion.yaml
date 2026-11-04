@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Touch to Fill DEPS include rules
+summary: Defines the allowed include rules for the touch_to_fill directory, covering Android Chrome, bottom sheet, favicon, device reauth, and personal context components.

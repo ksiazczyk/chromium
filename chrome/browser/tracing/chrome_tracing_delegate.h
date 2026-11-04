@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome tracing delegate header
+// summary: Declares the Chrome tracing delegate, the UMA enum of tracing finalization disallowed reasons and system tracing control hooks.
+// ---
+
 #ifndef CHROME_BROWSER_TRACING_CHROME_TRACING_DELEGATE_H_
 #define CHROME_BROWSER_TRACING_CHROME_TRACING_DELEGATE_H_
 

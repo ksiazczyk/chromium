@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchToFillPasswordManagerCoordinator
+// summary: Coordinates the touch-to-fill component by wiring the mediator, property model, and bottom sheet view together.
+// ---
+
 package org.chromium.chrome.browser.touch_to_fill;
 
 import android.content.Context;

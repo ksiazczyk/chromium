@@ -1,0 +1,4 @@
+# Docerion header of android_touch_to_fill_strings_da.xtb.
+type: data
+title: Touch to Fill password strings (Danish)
+summary: Danish translation bundle with UI strings for the Android Touch to Fill password sheet, covering passkey and saved password prompts.

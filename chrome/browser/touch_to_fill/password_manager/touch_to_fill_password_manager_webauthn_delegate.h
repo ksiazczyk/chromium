@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch To Fill WebAuthn delegate header
+// summary: Declares the TouchToFillPasswordManagerWebAuthnDelegate class used for non-conditional WebAuthn sign-in, defining credential selection, dismissal, and sorting callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_TOUCH_TO_FILL_PASSWORD_MANAGER_TOUCH_TO_FILL_PASSWORD_MANAGER_WEBAUTHN_DELEGATE_H_
 #define CHROME_BROWSER_TOUCH_TO_FILL_PASSWORD_MANAGER_TOUCH_TO_FILL_PASSWORD_MANAGER_WEBAUTHN_DELEGATE_H_
 

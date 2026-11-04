@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NoPasskeysBottomSheetBridge JNI wrapper
+// summary: JNI bridge that forwards calls from native C++ to the Java no passkeys bottom sheet and reports user actions such as dismissal back to native.
+// ---
+
 package org.chromium.chrome.browser.touch_to_fill.no_passkeys;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Touch To Fill autofill delegate Android impl unit tests
+// summary: Unit tests for the Android Touch To Fill autofill delegate, covering notice display behavior including the private inference notice bottom sheet feature flag.
+// ---
+
 #include "chrome/browser/touch_to_fill/autofill/android/touch_to_fill_autofill_delegate_android_impl.h"
 
 #include <memory>

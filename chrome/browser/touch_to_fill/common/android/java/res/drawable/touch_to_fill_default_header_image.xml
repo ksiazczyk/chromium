@@ -5,6 +5,13 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 <!--VectorRaster is ignored because: The image should be shown rarely enough to prioritize binary size over inflation time.-->
+
+<!--docerion
+type: asset
+title: Touch to Fill default header image drawable
+summary: Vector drawable illustration serving as the default header image of the Touch to Fill sheet on Android.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" android:width="320dp" android:height="114dp" android:viewportWidth="320" android:viewportHeight="114" tools:ignore="VectorRaster,UnusedResources">
     <path android:pathData="M238.097 60.783a6.041 6.041 0 1 0 0 8.544 6.041 6.041 0 0 0 0-8.544z" android:fillColor="#123868"/>
     <path android:pathData="M242.89 84.787l-5.223-4.662 6.204-6.95-8.101-4.275 3.267-6.192 12.058 6.363a3.5 3.5 0 0 1 0.978 5.426zm25.051 22.507a13.593 13.593 0 1 1 13.593-13.593 13.609 13.609 0 0 1-13.593 13.593zm0-25.686a12.093 12.093 0 1 0 12.093 12.093 12.107 12.107 0 0 0-12.093-12.093z" android:fillColor="#0c2748"/>

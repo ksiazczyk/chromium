@@ -1,0 +1,4 @@
+# Docerion header of android_touch_to_fill_strings_th.xtb.
+type: data
+title: Touch to Fill strings translation bundle (Thai)
+summary: Thai translations of the Android Touch to Fill password manager UI strings, covering passkeys, saved password prompts, sign-in and recovery messages.

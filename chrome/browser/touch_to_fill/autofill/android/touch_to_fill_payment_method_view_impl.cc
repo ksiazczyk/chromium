@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch To Fill payment method view Android implementation
+// summary: Implements the Android payment method selection surface by bridging to the Java TouchToFillPaymentMethodComponent bottom sheet.
+// ---
+
 #include "chrome/browser/touch_to_fill/autofill/android/touch_to_fill_payment_method_view_impl.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchToFillPasswordManagerViewBinder
+// summary: Binds touch-to-fill property model changes to the bottom sheet views, covering headers, credentials, and footers.
+// ---
+
 package org.chromium.chrome.browser.touch_to_fill;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

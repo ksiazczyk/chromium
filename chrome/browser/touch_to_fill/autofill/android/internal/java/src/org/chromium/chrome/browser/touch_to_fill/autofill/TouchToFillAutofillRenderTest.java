@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TouchToFillAutofill render tests
+// summary: Render tests that compare the Personal Context Notice bottom sheet against gold standards across default, RTL, and night mode variants.
+// ---
+
 package org.chromium.chrome.browser.touch_to_fill.autofill;
 
 import static org.chromium.base.ThreadUtils.runOnUiThreadBlocking;

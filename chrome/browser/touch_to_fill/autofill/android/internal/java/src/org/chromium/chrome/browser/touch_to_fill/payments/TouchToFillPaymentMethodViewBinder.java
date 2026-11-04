@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchToFillPaymentMethodViewBinder
+// summary: Binder that applies property model changes to the touch-to-fill payment method view and its list items.
+// ---
+
 package org.chromium.chrome.browser.touch_to_fill.payments;
 
 import static org.chromium.chrome.browser.touch_to_fill.payments.TouchToFillPaymentMethodProperties.BACK_PRESS_HANDLER;

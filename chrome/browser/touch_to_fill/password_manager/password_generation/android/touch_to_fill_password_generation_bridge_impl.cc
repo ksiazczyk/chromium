@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch to Fill password generation bridge JNI implementation
+// summary: Implements the bridge by creating and driving the Java password generation sheet through JNI calls.
+// ---
+
 #include "chrome/browser/touch_to_fill/password_manager/password_generation/android/touch_to_fill_password_generation_bridge_impl.h"
 
 #include <string>

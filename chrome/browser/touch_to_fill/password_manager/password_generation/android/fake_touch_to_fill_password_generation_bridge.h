@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Touch to Fill password generation bridge header
+// summary: Declares a fake implementation of the password generation bridge interface used as test support.
+// ---
+
 #ifndef CHROME_BROWSER_TOUCH_TO_FILL_PASSWORD_MANAGER_PASSWORD_GENERATION_ANDROID_FAKE_TOUCH_TO_FILL_PASSWORD_GENERATION_BRIDGE_H_
 #define CHROME_BROWSER_TOUCH_TO_FILL_PASSWORD_MANAGER_PASSWORD_GENERATION_ANDROID_FAKE_TOUCH_TO_FILL_PASSWORD_GENERATION_BRIDGE_H_
 

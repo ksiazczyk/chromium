@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Touch to Fill password generation module tests
+// summary: Robolectric tests covering the coordinator's bottom sheet behavior, including dismissal reasons and interaction result histograms.
+// ---
+
 package org.chromium.chrome.browser.touch_to_fill.password_generation;
 
 import static org.junit.Assert.assertTrue;

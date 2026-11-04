@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: No-passkeys bottom sheet bridge header
+// summary: Declares the NoPasskeysBottomSheetBridge class and its mockable JNI delegate interface for showing the Android no-passkeys bottom sheet.
+// ---
+
 #ifndef CHROME_BROWSER_TOUCH_TO_FILL_PASSWORD_MANAGER_NO_PASSKEYS_ANDROID_NO_PASSKEYS_BOTTOM_SHEET_BRIDGE_H_
 #define CHROME_BROWSER_TOUCH_TO_FILL_PASSWORD_MANAGER_NO_PASSKEYS_ANDROID_NO_PASSKEYS_BOTTOM_SHEET_BRIDGE_H_
 

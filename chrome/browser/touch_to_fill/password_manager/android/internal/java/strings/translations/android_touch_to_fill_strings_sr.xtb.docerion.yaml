@@ -1,0 +1,4 @@
+# Docerion header of android_touch_to_fill_strings_sr.xtb.
+type: data
+title: Touch to Fill password strings, Serbian (Cyrillic)
+summary: Serbian Cyrillic-script translations for the Android Touch to Fill password manager UI, covering passkey prompts, saved password sheets, and credential sharing.

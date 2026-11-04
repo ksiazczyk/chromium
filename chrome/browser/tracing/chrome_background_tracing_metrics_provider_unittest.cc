@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the background tracing metrics provider
+// summary: Unit tests verifying that saved background traces are reported as zlib-compressed trace logs inside the UMA proto, including ChromeOS-specific cases.
+// ---
+
 #include "chrome/browser/tracing/chrome_background_tracing_metrics_provider.h"
 
 #include <utility>

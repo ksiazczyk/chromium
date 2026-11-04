@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracing feature flag declarations
+// summary: Declares the kWindowsSystemTracing base::Feature used to selectively enable connecting to the Windows system tracing service.
+// ---
+
 #ifndef CHROME_BROWSER_TRACING_TRACING_FEATURES_H_
 #define CHROME_BROWSER_TRACING_TRACING_FEATURES_H_
 

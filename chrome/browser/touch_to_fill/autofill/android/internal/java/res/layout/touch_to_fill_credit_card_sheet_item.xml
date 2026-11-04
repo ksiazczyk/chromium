@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Touch to fill credit card sheet item layout
+summary: Android layout for a credit card entry in the touch-to-fill sheet, showing the favicon, card name, linked offers, benefits, virtual card status and expiration date.
+-->
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:descendantFocusability="blocksDescendants"

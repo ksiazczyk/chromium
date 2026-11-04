@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Touch to Fill autofill DIR_METADATA
+summary: Declares the issue tracker components (Monorail UI>Browser>Autofill>Payments and Buganizer 1457039) used for bugs in this directory.

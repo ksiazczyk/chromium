@@ -1,0 +1,4 @@
+# Docerion header of android_touch_to_fill_strings_ur.xtb.
+type: data
+title: Touch to Fill strings translation bundle (Urdu)
+summary: Urdu translations of the Android Touch to Fill password manager UI strings, covering passkeys, saved password prompts, sign-in and recovery messages.

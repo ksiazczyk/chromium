@@ -1,0 +1,4 @@
+# Docerion header of android_touch_to_fill_strings_bg.xtb.
+type: data
+title: Touch to Fill password strings (Bulgarian)
+summary: Bulgarian translation bundle for the Android Touch to Fill password manager UI, covering passkey prompts, sign-in messages, and credential sheet states.

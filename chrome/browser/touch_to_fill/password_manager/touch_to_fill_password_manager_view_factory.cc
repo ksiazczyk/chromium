@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch To Fill view factory implementation
+// summary: Factory that creates the Android implementation of the Touch To Fill password manager view for a given controller.
+// ---
+
 #include "chrome/browser/touch_to_fill/password_manager/touch_to_fill_password_manager_view_factory.h"
 
 #include "chrome/browser/touch_to_fill/password_manager/android/touch_to_fill_password_manager_view_impl.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAuthn credential data model for the Touch To Fill sheet
+// summary: Holds the data representing a selectable Web Authentication credential in the Touch To Fill sheet, exposing relying party ID, credential ID, user ID and username to native code.
+// ---
+
 package org.chromium.chrome.browser.touch_to_fill.data;
 
 import org.jni_zero.CalledByNative;

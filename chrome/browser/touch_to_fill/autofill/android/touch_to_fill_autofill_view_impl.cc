@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch To Fill autofill view Android implementation
+// summary: Implements the Touch To Fill autofill view on Android through a JNI bridge that shows personal context and private inference notices in a bottom sheet.
+// ---
+
 #include "chrome/browser/touch_to_fill/autofill/android/touch_to_fill_autofill_view_impl.h"
 
 #include <cstdint>

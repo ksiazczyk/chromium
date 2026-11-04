@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch-to-Fill autofill controller implementation header
+// summary: Declares TouchToFillAutofillControllerImpl, which observes autofill driver creation and manages the bottom sheet view and delegate.
+// ---
+
 #ifndef CHROME_BROWSER_TOUCH_TO_FILL_AUTOFILL_ANDROID_TOUCH_TO_FILL_AUTOFILL_CONTROLLER_IMPL_H_
 #define CHROME_BROWSER_TOUCH_TO_FILL_AUTOFILL_ANDROID_TOUCH_TO_FILL_AUTOFILL_CONTROLLER_IMPL_H_
 

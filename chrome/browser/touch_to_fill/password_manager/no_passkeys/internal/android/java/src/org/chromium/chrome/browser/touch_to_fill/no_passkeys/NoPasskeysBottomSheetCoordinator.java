@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: No passkeys bottom sheet coordinator
+// summary: Coordinator that shows the bottom sheet informing the user that no passkeys are available and destroys the component when it is dismissed.
+// ---
+
 package org.chromium.chrome.browser.touch_to_fill.no_passkeys;
 
 import android.content.Context;

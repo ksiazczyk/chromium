@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for Touch-to-Fill autofill on Android
+summary: Defines GN source sets and dependencies for the Android Touch-to-Fill autofill controllers, views, delegates, mocks and unit tests.

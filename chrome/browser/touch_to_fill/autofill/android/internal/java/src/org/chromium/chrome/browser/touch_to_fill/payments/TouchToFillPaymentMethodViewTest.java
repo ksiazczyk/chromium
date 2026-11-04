@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TouchToFillPaymentMethodViewTest
+// summary: UI tests verifying the behavior of the touch-to-fill payment method bottom sheet, including BNPL and terms-of-service screens.
+// ---
+
 package org.chromium.chrome.browser.touch_to_fill.payments;
 
 import static androidx.test.espresso.Espresso.onView;

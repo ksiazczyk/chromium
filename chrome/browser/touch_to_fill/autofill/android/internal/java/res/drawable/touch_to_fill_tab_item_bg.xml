@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: Touch To Fill tab item background drawable
+summary: Android inset drawable XML that draws a rounded rectangle background with insets for Touch To Fill tab items in the autofill UI.
+-->
+
 <inset xmlns:android="http://schemas.android.com/apk/res/android"
     android:insetLeft="@dimen/ttf_tab_item_inset"
     android:insetRight="@dimen/ttf_tab_item_inset"

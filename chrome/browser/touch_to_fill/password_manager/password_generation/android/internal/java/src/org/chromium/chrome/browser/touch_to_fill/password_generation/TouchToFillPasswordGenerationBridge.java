@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch to Fill password generation JNI bridge
+// summary: JNI wrapper that delegates calls from native C++ to the Java coordinator for the password generation bottom sheet.
+// ---
+
 package org.chromium.chrome.browser.touch_to_fill.password_generation;
 
 import android.content.Context;

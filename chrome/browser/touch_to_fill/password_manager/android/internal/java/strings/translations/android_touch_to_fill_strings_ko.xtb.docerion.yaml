@@ -1,0 +1,4 @@
+# Docerion header of android_touch_to_fill_strings_ko.xtb.
+type: data
+title: Touch To Fill password strings in Korean
+summary: Korean translation bundle for the Android Touch To Fill password manager UI, providing localized strings for passkeys, sign-in prompts and credential lists.

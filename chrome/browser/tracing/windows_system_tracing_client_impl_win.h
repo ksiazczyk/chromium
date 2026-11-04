@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows system tracing client class declaration
+// summary: Declares WindowsSystemTracingClientImpl and its STA COM Host class that launches the elevated tracing service and returns the service pid and message pipe.
+// ---
+
 #ifndef CHROME_BROWSER_TRACING_WINDOWS_SYSTEM_TRACING_CLIENT_IMPL_WIN_H_
 #define CHROME_BROWSER_TRACING_WINDOWS_SYSTEM_TRACING_CLIENT_IMPL_WIN_H_
 

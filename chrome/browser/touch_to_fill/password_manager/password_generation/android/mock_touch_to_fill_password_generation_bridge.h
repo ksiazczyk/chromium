@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock Touch to Fill password generation bridge header
+// summary: Declares a gmock mock of the password generation bridge interface for use in unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_TOUCH_TO_FILL_PASSWORD_MANAGER_PASSWORD_GENERATION_ANDROID_MOCK_TOUCH_TO_FILL_PASSWORD_GENERATION_BRIDGE_H_
 #define CHROME_BROWSER_TOUCH_TO_FILL_PASSWORD_MANAGER_PASSWORD_GENERATION_ANDROID_MOCK_TOUCH_TO_FILL_PASSWORD_GENERATION_BRIDGE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch To Fill credential delegate header
+// summary: Declares the credential delegate for the Touch To Fill controller, including user action and outcome enums used for metrics.
+// ---
+
 #ifndef CHROME_BROWSER_TOUCH_TO_FILL_PASSWORD_MANAGER_TOUCH_TO_FILL_PASSWORD_MANAGER_CREDENTIAL_DELEGATE_H_
 #define CHROME_BROWSER_TOUCH_TO_FILL_PASSWORD_MANAGER_TOUCH_TO_FILL_PASSWORD_MANAGER_CREDENTIAL_DELEGATE_H_
 

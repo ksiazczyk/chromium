@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for Chrome browser tracing
+summary: Defines GN source sets for the tracing headers, implementation, unit tests and browser tests, with Windows, Android and ChromeOS-specific sources and dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for TouchToFill password generation on Android
+summary: GN build file defining JNI generation, the Android library, resources, and Robolectric and render test targets for the TouchToFill password generation UI.

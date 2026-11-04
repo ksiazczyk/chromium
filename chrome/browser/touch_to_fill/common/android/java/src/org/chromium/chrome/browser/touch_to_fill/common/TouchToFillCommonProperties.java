@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchToFillCommonProperties
+// summary: Defines property keys describing the visible state of common TouchToFill sheet components, grouped into header and button property sets.
+// ---
+
 package org.chromium.chrome.browser.touch_to_fill.common;
 
 import org.chromium.build.annotations.NullMarked;

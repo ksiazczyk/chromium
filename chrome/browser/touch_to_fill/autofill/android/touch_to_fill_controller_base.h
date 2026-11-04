@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch To Fill controller base class
+// summary: Declares the base class for Touch To Fill surface controllers, providing common functionality for showing and hiding the surface and interacting with the WebContents.
+// ---
+
 #ifndef CHROME_BROWSER_TOUCH_TO_FILL_AUTOFILL_ANDROID_TOUCH_TO_FILL_CONTROLLER_BASE_H_
 #define CHROME_BROWSER_TOUCH_TO_FILL_AUTOFILL_ANDROID_TOUCH_TO_FILL_CONTROLLER_BASE_H_
 

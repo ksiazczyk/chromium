@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Touch to fill legal message item layout
+summary: Android layout for the centered legal message text with clickable spans placed at the bottom of the touch-to-fill sheet.
+-->
+
 <org.chromium.ui.widget.TextViewWithClickableSpans
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/legal_message"

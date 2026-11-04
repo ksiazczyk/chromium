@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Touch to Fill password generation Android
+summary: Defines GN source sets for the controller, bridge, test support and unit tests of the Android password generation bottom sheet.

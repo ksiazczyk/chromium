@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchToFillAutofill properties
+// summary: Defines the property keys and item types that describe the visible state of the TouchToFillAutofill bottom sheet component.
+// ---
+
 package org.chromium.chrome.browser.touch_to_fill.autofill;
 
 import androidx.annotation.IntDef;

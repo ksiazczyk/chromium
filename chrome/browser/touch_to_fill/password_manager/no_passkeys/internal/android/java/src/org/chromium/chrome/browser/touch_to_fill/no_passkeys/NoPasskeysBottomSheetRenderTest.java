@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: No passkeys bottom sheet render tests
+// summary: Screenshot render tests comparing the no passkeys bottom sheet against gold images across default, RTL and night mode variants.
+// ---
+
 package org.chromium.chrome.browser.touch_to_fill.no_passkeys;
 
 import static org.chromium.base.ThreadUtils.runOnUiThreadBlocking;

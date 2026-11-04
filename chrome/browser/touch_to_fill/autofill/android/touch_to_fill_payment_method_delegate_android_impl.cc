@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch To Fill payment method delegate implementation
+// summary: Implements the Android delegate that decides when to show the Touch To Fill bottom sheet and handles selection of credit cards, IBANs, and loyalty cards.
+// ---
+
 #include "chrome/browser/touch_to_fill/autofill/android/touch_to_fill_payment_method_delegate_android_impl.h"
 
 #include <optional>

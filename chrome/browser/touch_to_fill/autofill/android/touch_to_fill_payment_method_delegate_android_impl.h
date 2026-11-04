@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch To Fill payment method delegate class and trigger outcome enum
+// summary: Declares the Android payment method delegate for the Touch To Fill surface, including the trigger outcome enum and UMA histogram names.
+// ---
+
 #ifndef CHROME_BROWSER_TOUCH_TO_FILL_AUTOFILL_ANDROID_TOUCH_TO_FILL_PAYMENT_METHOD_DELEGATE_ANDROID_IMPL_H_
 #define CHROME_BROWSER_TOUCH_TO_FILL_AUTOFILL_ANDROID_TOUCH_TO_FILL_PAYMENT_METHOD_DELEGATE_ANDROID_IMPL_H_
 

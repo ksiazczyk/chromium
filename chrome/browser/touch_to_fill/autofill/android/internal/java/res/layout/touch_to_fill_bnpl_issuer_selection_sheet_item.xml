@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Touch To Fill BNPL issuer selection sheet item layout
+summary: Row layout for a BNPL issuer in the selection list, with icon, name, selection text, and a linked-status pill.
+-->
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:descendantFocusability="blocksDescendants"

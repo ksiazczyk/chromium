@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the Chrome tracing delegate
+// summary: In-process browser tests that exercise field tracing scenarios, incognito blocking and trace receipt through the tracing delegate.
+// ---
+
 #include "chrome/browser/tracing/chrome_tracing_delegate.h"
 
 #include <string_view>

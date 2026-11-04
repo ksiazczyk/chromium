@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchToFillPasswordManagerProperties
+// summary: Defines the property keys and default model that describe the visible state of the touch-to-fill bottom sheet.
+// ---
+
 package org.chromium.chrome.browser.touch_to_fill;
 
 import android.graphics.Bitmap;

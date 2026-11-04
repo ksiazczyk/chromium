@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Touch To Fill payment method delegate
+// summary: Unit tests covering suggestion generation, trigger outcomes, and dismissal behavior of the Android Touch To Fill payment method delegate.
+// ---
+
 #include "chrome/browser/touch_to_fill/autofill/android/touch_to_fill_payment_method_delegate_android_impl.h"
 
 #include <optional>

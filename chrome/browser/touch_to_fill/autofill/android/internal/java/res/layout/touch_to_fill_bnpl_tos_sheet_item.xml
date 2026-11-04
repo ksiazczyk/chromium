@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Touch To Fill BNPL terms of service sheet item layout
+summary: Row layout pairing an icon with a clickable-spans text view for BNPL terms of service content in the sheet.
+-->
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/touch_to_fill_bnpl_tos_sheet_item"

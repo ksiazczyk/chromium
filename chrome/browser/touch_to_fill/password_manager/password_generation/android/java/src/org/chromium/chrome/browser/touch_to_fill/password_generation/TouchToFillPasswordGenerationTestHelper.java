@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Touch-to-Fill Password Generation Test Helper
+// summary: Test helper that accepts or rejects a generated password in the Touch-to-Fill bottom sheet on Android, reading the shown password for test assertions.
+// ---
+
 package org.chromium.chrome.browser.touch_to_fill.password_generation;
 
 import android.app.Activity;

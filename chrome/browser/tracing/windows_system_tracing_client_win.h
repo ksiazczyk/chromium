@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows system tracing client interface
+// summary: Defines the WindowsSystemTracingClient abstract interface for starting the ETW tracing service and receiving a TracedProcess PendingRemote via callback.
+// ---
+
 #ifndef CHROME_BROWSER_TRACING_WINDOWS_SYSTEM_TRACING_CLIENT_WIN_H_
 #define CHROME_BROWSER_TRACING_WINDOWS_SYSTEM_TRACING_CLIENT_WIN_H_
 

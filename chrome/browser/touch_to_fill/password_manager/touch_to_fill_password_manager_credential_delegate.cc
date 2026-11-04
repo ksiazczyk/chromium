@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch To Fill credential delegate implementation
+// summary: Implements the autofill-context delegate that shows the sheet, runs device re-authentication and fills the selected credential.
+// ---
+
 #include "chrome/browser/touch_to_fill/password_manager/touch_to_fill_password_manager_credential_delegate.h"
 
 #include <algorithm>

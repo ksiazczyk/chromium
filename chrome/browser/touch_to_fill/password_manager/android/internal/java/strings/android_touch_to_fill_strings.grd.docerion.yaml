@@ -1,0 +1,4 @@
+# Docerion header of android_touch_to_fill_strings.grd.
+type: data
+title: Android Touch To Fill password manager strings
+summary: Grit resource file defining localized UI strings for the Android Touch To Fill password manager sheet, with per-language Android XML outputs.

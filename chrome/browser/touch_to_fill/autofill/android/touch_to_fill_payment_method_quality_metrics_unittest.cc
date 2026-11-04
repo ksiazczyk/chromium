@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quality metrics tests for Touch To Fill payment methods
+// summary: Parameterized tests verifying that filling correctness and perfect filling metrics are logged correctly for Touch To Fill credit card filling.
+// ---
+
 #include <string>
 #include <vector>
 

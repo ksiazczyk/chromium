@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Touch-to-Fill autofill controller
+// summary: Unit tests for the Android Touch-to-Fill autofill controller using mock views, mock delegates and test autofill clients.
+// ---
+
 #include "chrome/browser/touch_to_fill/autofill/android/touch_to_fill_autofill_controller_impl.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of android_touch_to_fill_strings_zh-HK.xtb.
+type: data
+title: Touch to Fill strings translation bundle (Traditional Chinese, Hong Kong)
+summary: Hong Kong Traditional Chinese translations of the Android Touch to Fill password manager UI strings, covering passkeys, password prompts and recovery messages.

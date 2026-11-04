@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TouchToFillPaymentMethodControllerRobolectricTest
+// summary: Robolectric unit tests for the touch-to-fill payment method controller, covering credit card, IBAN, loyalty card and BNPL flows.
+// ---
+
 package org.chromium.chrome.browser.touch_to_fill.payments;
 
 import static android.content.res.Resources.ID_NULL;

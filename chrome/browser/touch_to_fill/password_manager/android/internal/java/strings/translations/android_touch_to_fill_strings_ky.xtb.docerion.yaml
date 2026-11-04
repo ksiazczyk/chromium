@@ -1,0 +1,4 @@
+# Docerion header of android_touch_to_fill_strings_ky.xtb.
+type: data
+title: Touch To Fill password strings in Kyrgyz
+summary: Kyrgyz translation bundle for the Android Touch To Fill password manager UI, providing localized strings for passkeys, sign-in prompts and credential lists.

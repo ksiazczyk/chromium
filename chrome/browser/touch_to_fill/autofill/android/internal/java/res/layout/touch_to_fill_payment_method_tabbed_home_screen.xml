@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Touch to Fill payment method tabbed home screen layout
+summary: Android layout for the tabbed Touch to Fill payment method sheet, combining a branding icon, title, pay now/pay later tab bar and a payment method list.
+-->
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

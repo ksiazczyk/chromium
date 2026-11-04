@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows system tracing client implementation
+// summary: Implements launching the elevated Windows tracing service via COM, recording per-stage launch histograms, and sending a Mojo invitation to its trace session.
+// ---
+
 #include "chrome/browser/tracing/windows_system_tracing_client_impl_win.h"
 
 #include <objbase.h>

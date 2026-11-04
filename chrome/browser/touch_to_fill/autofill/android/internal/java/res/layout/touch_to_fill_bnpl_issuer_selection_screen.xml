@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Touch To Fill BNPL issuer selection screen layout
+summary: RecyclerView layout that hosts the list of BNPL issuers on the Touch To Fill issuer selection screen.
+-->
+
 <androidx.recyclerview.widget.RecyclerView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Touch To Fill BNPL issuer terms of service screen layout
+summary: RecyclerView layout that hosts the item list of the BNPL issuer terms of service screen.
+-->
+
 <androidx.recyclerview.widget.RecyclerView
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/touch_to_fill_bnpl_tos_screen_list"

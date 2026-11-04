@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchToFillPasswordManagerViewHolder
+// summary: RecyclerView view holder that binds touch-to-fill list items and filters touches when the view is partially obscured.
+// ---
+
 package org.chromium.chrome.browser.touch_to_fill;
 
 import android.annotation.SuppressLint;
