@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History browser proxy
+// summary: Browser proxy interface and implementation bridging the history WebUI to browser handlers for metrics, navigation, identity state, and sync flows.
+// ---
+
 import type {AccessPoint, Device, PageHandlerRemote} from 'chrome://resources/cr_components/history/history.mojom-webui.js';
 import {PageCallbackRouter, PageHandler} from 'chrome://resources/cr_components/history/history.mojom-webui.js';
 import {sendWithPromise} from 'chrome://resources/js/cr.js';

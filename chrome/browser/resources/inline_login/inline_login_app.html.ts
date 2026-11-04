@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit HTML template for the inline login app
+// summary: Exports the Lit html template that renders the loading spinner and the sign-in webview for the inline login app element.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {InlineLoginAppElement} from './inline_login_app.js';

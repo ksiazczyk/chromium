@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host element for inline fulfillment cards
+// summary: Host element that loads inline fulfillment card modules, binds their Mojo remotes to the browser and swaps cards in and out safely.
+// ---
+
 import type {mojo} from '//resources/mojo/mojo/public/js/bindings.js';
 import {GenericAssociatedInterfacePendingReceiver} from '//resources/mojo/mojo/public/mojom/base/generic_pending_associated_receiver.mojom-webui.js';
 import type {GenericAssociatedInterfacePendingReceiverEndpoint, GenericPendingAssociatedReceiver} from '//resources/mojo/mojo/public/mojom/base/generic_pending_associated_receiver.mojom-webui.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic API backwards compatibility type checks
+// summary: TypeScript type assertions that fail type checking when the new Glic API breaks backwards compatibility with the previous version.
+// ---
+
 // See ../PRESUBMIT.py.
 import type * as current from '@tmp/new_glic_api.js';
 // This is the glic_api.ts from before the CL, with some edits.

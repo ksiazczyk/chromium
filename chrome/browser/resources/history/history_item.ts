@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History item element
+// summary: Lit element that renders one history entry with selection, keyboard focus, search highlighting, and expandable critical actions.
+// ---
+
 // <if expr="_google_chrome">
 import './internal/icons.html.js';
 // </if>

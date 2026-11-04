@@ -29,6 +29,12 @@
 // - Avoid doing exhaustive checks against enums defined by the API, as their
 //   values may evolve over time.
 
+// ---docerion
+// type: source
+// title: Glic browser and web client API
+// summary: Main TypeScript API between the Chrome browser and the Glic web client, re-exporting generated types and documenting compatibility and usage guidelines.
+// ---
+
 /// BEGIN_GENERATED - DO NOT MODIFY BELOW
 import * as generated from './glic_api_generated.js';
 export import ActivateTabOptions = generated.ActivateTabOptions;

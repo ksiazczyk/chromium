@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic request header injector
+// summary: Injects X-Glic headers such as Chrome version, channel and onboarding state into main-frame webview requests for the Glic feature.
+// ---
+
 // <if expr="not enable_extensions_core">
 import {OnBeforeSendHeadersParams} from '/shared/guest_view/request_throttlers.js';
 // </if>

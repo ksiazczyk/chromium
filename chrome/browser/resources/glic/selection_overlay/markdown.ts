@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Minimal Markdown renderer for explanations
+// summary: Renders the limited Markdown used in explanations, supporting lists, bold, italic and links while leaving other syntax as plain text.
+// ---
+
 // Holds a link's place in the text while bold and italic are added. It's a
 // private-use character, so it has no meaning of its own.
 const LINK_MARKER = '\uE000';

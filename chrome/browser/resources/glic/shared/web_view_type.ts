@@ -5,6 +5,12 @@
 // This library allows you to obtain a chrome.webviewTag.WebView element when
 // extensions are enabled, or a SlimWebviewElement when they are not.
 
+// ---docerion
+// type: source
+// title: Glic webview type helpers
+// summary: Defines the WebViewType union of full and slim webview elements and provides a helper to detect full webviews in Glic code.
+// ---
+
 // <if expr="not enable_extensions_core">
 import '/shared/guest_view/slim_webview.js';
 

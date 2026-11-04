@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic webview controller and zoom handling
+// summary: Implements the WebviewController and persistent state for the Glic guest webview, including zoom factor stepping, page load and commit handling, and delegate callbacks for errors and admin denial.
+// ---
+
 import {EventTracker} from '//resources/js/event_tracker.js';
 import {loadTimeData} from '//resources/js/load_time_data.js';
 import {getInstance as getAnnouncerInstance} from 'chrome://resources/cr_elements/cr_a11y_announcer/cr_a11y_announcer.js';

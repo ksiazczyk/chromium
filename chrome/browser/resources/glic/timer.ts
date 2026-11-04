@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: One-shot timer utility for Glic
+// summary: Defines a OneShotTimer class that runs a callback after a delay, supports cancellation via reset, and exposes a promise-based start that rejects when the timer is canceled.
+// ---
+
 export class OneShotTimer {
   private timerId: number|undefined;
   private promiseReject: ((reason?: unknown) => void)|undefined;

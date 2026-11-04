@@ -1,0 +1,4 @@
+# Docerion header of inline_login.html.
+type: source
+title: Inline login WebUI entry page
+summary: HTML shell that hosts the inline-login-app element and loads its module script for the sign-in dialog.

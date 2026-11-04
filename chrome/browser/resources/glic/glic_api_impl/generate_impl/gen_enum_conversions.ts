@@ -7,6 +7,12 @@
  * type safe enum conversions between glic API and Mojom.
  */
 
+// ---docerion
+// type: script
+// title: Generator for Mojom-to-client enum conversions
+// summary: Node script that reads the Mojom AST JSON and writes enumToClient and enumFromClient conversion declarations for the Glic API.
+// ---
+
 import * as fs from 'fs';
 import * as process from 'process';
 

@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Help app extension manifest
+summary: Chrome extension manifest for the Chrome OS Help app, declaring its key, name, version, permissions, and content security policy.

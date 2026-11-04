@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML template for the Indigo app element
+// summary: Exports the Lit template that renders the image, the optional AI watermark and the indigo-motion-overlay element.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {IndigoImageReplacementAppElement} from './app.js';

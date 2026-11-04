@@ -9,6 +9,12 @@
  * #include=cr-hidden-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Indigo Internals page styles
+summary: Styles the Indigo Internals page with header, card, status badge, details table, and prompt table layouts, including dark mode adjustments.
+*/
+
 :host {
   display: block;
   color: var(--cr-primary-text-color);

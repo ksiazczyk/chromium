@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Selection overlay app styles
+summary: Lit CSS for the selection overlay app element, sizing the host and positioning the overlay and its close button.
+*/
+
 :host {
   display: block;
   height: 100%;

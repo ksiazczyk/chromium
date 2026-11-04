@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab-scoped observable set
+// summary: Manages per-tab observables that connect lazily, debounce unsubscription, and complete and clean up when their tab closes.
+// ---
+
 import {ObservableValue as ObservableValueImpl} from '../../observable.js';
 import {OneShotTimer} from '../../timer.js';
 

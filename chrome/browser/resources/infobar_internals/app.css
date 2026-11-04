@@ -10,6 +10,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the infobar internals app element
+summary: Lit CSS defining the page layout, infobar selection dropdown, infobar cards, actions, and empty state styling.
+*/
+
 :host {
   --page-background-color: var(--cr-fallback-color-surface);
 

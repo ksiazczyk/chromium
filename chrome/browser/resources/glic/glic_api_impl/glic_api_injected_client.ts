@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Injected Glic client boot script source
+// summary: Bundled into a JavaScript file sent to the web client, it assigns internalAutoGlicBoot to create a GlicHostRegistryImpl and deliberately has no exports.
+// ---
+
 import type {WithGlicApi} from '../glic_api/glic_api.js';
 
 import {GlicHostRegistryImpl} from './client/glic_api_client.js';

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the infobar internals WebUI
+summary: Defines the build_webui target that compiles the infobar internals resources, TypeScript files, CSS, and Mojo bindings.

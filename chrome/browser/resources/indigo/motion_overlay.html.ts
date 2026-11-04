@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML template for the motion overlay
+// summary: Exports the Lit template containing the blur layer, swipe ellipses, loading circles and the nested text overlay.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {IndigoMotionOverlayElement} from './motion_overlay.js';

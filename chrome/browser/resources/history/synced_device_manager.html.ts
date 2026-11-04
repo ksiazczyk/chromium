@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synced device manager HTML template
+// summary: Lit HTML template for the synced device manager, rendering device cards, no synced tabs messages, and sign-in or sync opt-in promos.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 // <if expr="not is_chromeos">

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Slim WebView event dispatcher
+// summary: Dispatches guest view events to the slim WebView element using configurable event descriptors and instance ID matching.
+// ---
+
 import {assert, assertNonNull} from '//resources/js/assert.js';
 import type {DictionaryValue} from '//resources/mojo/mojo/public/mojom/base/values.mojom-webui.js';
 

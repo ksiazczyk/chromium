@@ -5,6 +5,12 @@
 // Schema for the output of parse.py. Represents the mojom type
 // information needed by gen_sources and gen_enum_conversions.
 
+// ---docerion
+// type: source
+// title: Type definitions for the Mojom AST JSON
+// summary: Declares TypeScript interfaces describing the Mojom AST JSON produced by parse.py, used by the generator scripts.
+// ---
+
 export interface MojomPrimitive {
   kind: 'primitive';
   name: string;

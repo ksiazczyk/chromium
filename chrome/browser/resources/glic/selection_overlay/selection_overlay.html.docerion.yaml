@@ -1,0 +1,4 @@
+# Docerion header of selection_overlay.html.
+type: source
+title: Selection overlay WebUI entry page
+summary: HTML entry point that hosts the selection-overlay-app element and loads its module script for the Glic selection overlay.

@@ -9,6 +9,12 @@
  * #include=shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Synced device manager styles
+summary: Styles the synced device manager, including device cards, empty state messaging, and sign-in and history sync promo illustrations.
+*/
+
 :host {
   display: block;
   overflow: auto;

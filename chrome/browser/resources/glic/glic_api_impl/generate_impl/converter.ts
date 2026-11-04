@@ -17,6 +17,12 @@
  * optional default annotations.
  */
 
+// ---docerion
+// type: source
+// title: Mojom AST to TypeScript model converter
+// summary: Converts parsed Mojom modules into intermediate TypeScript models, handling @glic_* annotations, type mappings, and enum value overrides.
+// ---
+
 import type {MojomEnum, MojomField, MojomModule, MojomStruct, MojomType, MojomUnion} from './mojom_types.js';
 import {parseTsType} from './ts_types.js';
 import type {Enum, Field, Interface, TsEnumValue} from './ts_types.js';

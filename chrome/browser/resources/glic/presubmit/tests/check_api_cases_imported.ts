@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic presubmit API check imported declarations
+// summary: Declared interfaces and enums forming the base API surface for the Glic presubmit API check test cases, with commented lines marking edits that should pass or fail.
+// ---
+
 export declare interface InterfaceA {
   someMethod?(text: string): Promise<void>;
   someRequiredMethod(text: string): Promise<void>;

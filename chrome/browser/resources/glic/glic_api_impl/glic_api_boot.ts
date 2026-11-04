@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic API boot helper for test web client
+// summary: Test-only helper that creates a GlicHostRegistry by waiting for a bootstrap message from the Chrome glic WebUI and then loading the glic API script to boot the client.
+// ---
+
 import type {GlicApiBootMessage, GlicHostRegistry, WithGlicApi} from '../glic_api/glic_api.js';
 
 /*

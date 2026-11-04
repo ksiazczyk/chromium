@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History toolbar template
+// summary: Lit HTML template for the history toolbar, rendering the search field, menu and selection overlay with open, delete and cancel actions.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {HistoryToolbarElement} from './history_toolbar.js';

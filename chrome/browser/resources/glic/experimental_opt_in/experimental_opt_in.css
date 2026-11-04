@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Styles for the Glic experimental opt-in dialog
+summary: Provides CSS for the opt-in dialog, covering the error panel, webview sizing and transitions, Android responsive layout, and loading skeleton shimmer.
+*/
+
 :root {
   color-scheme: light dark;
 }

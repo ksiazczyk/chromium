@@ -1,0 +1,4 @@
+# Docerion header of inspect.html.
+type: source
+title: Markup for the Chrome inspect page
+summary: HTML structure of the DevTools inspect page with sections for devices, pages, extensions, apps, workers, shared storage worklets, and remote debugging settings.

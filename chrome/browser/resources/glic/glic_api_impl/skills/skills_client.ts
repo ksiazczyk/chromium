@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic skills client implementation
+// summary: Implements the Glic browser skills API, converting Mojo skill data to client types and supporting create, update, lookup, and UI actions for skills.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 
 import {enumFromClient, enumToClient} from '../../enum_conversions.js';

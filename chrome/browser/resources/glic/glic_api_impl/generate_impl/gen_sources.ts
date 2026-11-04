@@ -11,6 +11,12 @@
  * instructions.
  */
 
+// ---docerion
+// type: script
+// title: Generator for glic_api_generated.ts
+// summary: Reads Mojom AST JSON and emits annotated enums and structs as TypeScript definitions, formatting output with clang-format.
+// ---
+
 import {execFileSync} from 'child_process';
 import * as fs from 'fs';
 import * as path from 'path';

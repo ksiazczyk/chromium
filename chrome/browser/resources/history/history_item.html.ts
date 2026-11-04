@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History item HTML template
+// summary: Lit HTML template for a single history entry row with checkbox, link, favicon, actor icon, bookmark star, and expandable actions.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {HistoryItemElement} from './history_item.js';

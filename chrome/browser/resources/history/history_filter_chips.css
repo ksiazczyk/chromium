@@ -9,6 +9,12 @@
  * #include=cr-shared-style-lit md-select-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: History filter chips styles
+summary: Styles for the history filter chips row, including selected chip states, icons, and the clear-all button.
+*/
+
 :host {
   display: block;
   margin: 16px auto 8px;

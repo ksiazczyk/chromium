@@ -10,6 +10,12 @@
  * #include=cr-hidden-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shared history styles
+summary: Shared CSS for history cards, card titles, centered messages and website icon links, importing common style variables.
+*/
+
 a {
   color: var(--cr-link-color);
 }

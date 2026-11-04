@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Serial async task queue
+// summary: Provides a TaskQueue class that runs asynchronous tasks serially in the order they were added.
+// ---
+
 // A queue for running async tasks in serial.
 export class TaskQueue {
   private queue: Array<

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit template for the Glic selection overlay
+// summary: Lit HTML template for the selection overlay element, laying out the background canvas, region selection, prompt box and suggested action chips.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {GlicSelectionOverlayElement} from './glic_selection_overlay.js';

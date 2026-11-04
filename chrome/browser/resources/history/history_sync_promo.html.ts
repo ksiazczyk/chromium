@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History sync promo HTML template
+// summary: Lit HTML template for the history sync promo dialog, showing sign-in state descriptions and a turn-on sync button.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {HistorySignInState} from './constants.js';

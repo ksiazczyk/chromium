@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History page constants and enums
+// summary: Shared constants and enums for the history page, including sign-in and sync states plus UMA histogram buckets.
+// ---
+
 export const RESULTS_PER_PAGE = 150;
 
 /**

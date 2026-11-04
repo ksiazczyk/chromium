@@ -6,6 +6,12 @@
  * #type=style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Indigo text overlay styles
+summary: CSS for the Indigo text overlay element, defining layout variables, icon entry and rotation keyframes, step wipe transitions and RTL support.
+*/
+
 :host {
   --indigo-steps-font-size: clamp(11px, 3.5vw, 24px);
   --indigo-disclaimer-font-size:

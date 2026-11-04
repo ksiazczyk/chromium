@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Private postMessage transport types
+// summary: Declares Private-suffixed variants of Glic API types whose uncloneable properties are replaced with structured-cloneable ones for postMessage transport.
+// ---
+
 import type {                          //
              AdditionalContext,        //
              AdditionalContextPart,    //

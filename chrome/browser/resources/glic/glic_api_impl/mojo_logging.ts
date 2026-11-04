@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo handler debug logging proxy
+// summary: Provides safe JSON serialization for debug output and wraps Mojo remote or receiver handlers in a logging proxy when logging is enabled via options or load time data.
+// ---
+
 import {getGuestLoadTimeData} from './guest_load_time_data.js';
 
 const MAX_ARRAY_LENGTH = 10;

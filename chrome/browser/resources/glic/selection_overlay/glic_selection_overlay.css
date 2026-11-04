@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the Glic selection overlay
+summary: Lit CSS styles for the selection overlay, covering the screenshot canvas, scrims, shimmer, custom cursor and opening and closing animations.
+*/
+
 :host {
   --cursor-img-url: url('/glic_region_selection_cursor_icon.svg');
   align-items: center;

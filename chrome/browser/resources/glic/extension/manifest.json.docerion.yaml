@@ -1,0 +1,4 @@
+# Docerion header of manifest.json.
+type: config
+title: Gemini in Chrome extension manifest
+summary: Manifest for the Gemini in Chrome extension, declaring the background service worker, glicPrivate permissions, and the Google origins allowed to connect.

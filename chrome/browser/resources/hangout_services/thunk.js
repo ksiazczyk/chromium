@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hangouts extension message thunk script
+// summary: Handles external runtime messages and dispatches CPU info and WebRTC logging requests to the corresponding Chrome extension APIs.
+// ---
+
 chrome.runtime.onMessageExternal.addListener(function(
     message, sender, sendResponse) {
   function doSendResponse(value, errorString) {

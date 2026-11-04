@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GeicBrowserHost interface for Gemini Enterprise in Chrome
+// summary: TypeScript interface exposing Gemini Enterprise in Chrome sign-in and auth tab handling to the Glic web client, deprecating sign-in methods in favor of openAuthTab and closeAuthTab.
+// ---
+
 import type {                       //
              CloseAuthTabOptions,   //
              CloseAuthTabResponse,  //

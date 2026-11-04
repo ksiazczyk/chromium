@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the glic resources
+summary: Lists code owners for the directory and assigns per-file ownership of the glic_api API file to the gemini_enterprise owners.

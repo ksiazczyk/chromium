@@ -1,0 +1,4 @@
+# Docerion header of tsconfig.json.
+type: config
+title: TypeScript config for the API compatibility check
+summary: TypeScript configuration extending the Chromium base config to type-check check_api_compatibility.ts.

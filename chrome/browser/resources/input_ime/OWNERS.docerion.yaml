@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: OWNERS file that delegates review ownership of input_ime resources to the ChromeOS ash input method component's OWNERS file.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compile-time enum parity checks for legacy enums
+// summary: Uses TypeScript type-level assertions to verify that legacy Mojo and public API enums share the same keys, since these enums are not automatically generated.
+// ---
+
 import type * as mojom from '../glic.mojom-webui.js';
 import type * as api from '../glic_api/glic_api.js';
 import type * as mojomEnums from '../glic_enums.mojom-webui.js';

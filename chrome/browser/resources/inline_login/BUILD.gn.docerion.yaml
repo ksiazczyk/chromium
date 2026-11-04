@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for inline login WebUI
+summary: Defines the build_webui target that builds the inline login WebUI from its HTML, TypeScript and CSS sources with the required TypeScript definitions and dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Selection overlay app HTML template
+// summary: Lit HTML template that renders the glic-selection-overlay element inside the selection overlay app.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SelectionOverlayAppElement} from './selection_overlay_app.js';

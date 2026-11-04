@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic overlay element
+// summary: Implements the glic-overlay custom element and its browser proxy, switching visible panels in response to overlay state updates.
+// ---
+
 import '/strings.m.js';
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/cr_elements/cr_icon/cr_iconset.js';

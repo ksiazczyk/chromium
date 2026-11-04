@@ -7,6 +7,12 @@
  * #import=chrome://resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shared CSS variables for the history WebUI
+summary: Defines shared CSS custom properties for the history page, covering card layout, colors, and dimensions with dark mode and webui-refresh-2026 variants.
+*/
+
 html {
   --card-border-color: rgba(0, 0, 0, 0.14);
   --card-first-last-item-padding: 8px;

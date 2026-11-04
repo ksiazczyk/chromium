@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Glic internals OWNERS file
+summary: OWNERS entry that delegates review ownership for the Glic internals resources to chrome/browser/glic/API_OWNERS.

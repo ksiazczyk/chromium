@@ -9,6 +9,12 @@
  * #include=shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: History toolbar styles
+summary: CSS styles for the history toolbar, defining its layout, spacing variables and the selection overlay appearance.
+*/
+
 :host {
   display: flex;
   position: relative;

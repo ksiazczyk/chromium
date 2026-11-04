@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Common presubmit checks for Glic
+# summary: Runs shared presubmit checks covering the generated Glic API, runtime feature checks, and feature default states.
+# ---
+
 import os
 
 _common_checks_ran = False

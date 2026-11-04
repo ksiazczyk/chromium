@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inline login app element
+// summary: Lit element that hosts the Gaia authenticator in a webview, handles auth events such as completion, resize and new windows, and talks to the browser proxy.
+// ---
+
 
 import type {AuthCompletedCredentials, AuthParams} from 'chrome://chrome-signin/gaia_auth_host/authenticator.js';
 import {Authenticator} from 'chrome://chrome-signin/gaia_auth_host/authenticator.js';

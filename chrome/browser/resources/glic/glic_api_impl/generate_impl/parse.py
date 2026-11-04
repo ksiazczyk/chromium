@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Mojom parser producing a JSON AST
+# summary: Parses the Glic-related Mojom files with the Mojo parser and writes a JSON representation of their AST for the TypeScript generators.
+# ---
+
 """
 Parses mojom files and outputs JSON representation of the AST.
 This is a generic parser that outputs raw comments and structural info

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for infobar_internals
+summary: Delegates review ownership to the installer_downloader OWNERS file instead of listing reviewers directly.

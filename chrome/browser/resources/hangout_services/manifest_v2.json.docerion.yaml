@@ -1,0 +1,4 @@
+# Docerion header of manifest_v2.json.
+type: config
+title: Hangouts extension manifest (Manifest V2)
+summary: Manifest V2 configuration for the bundled Google Hangouts component extension, defining its key, permissions, and externally connectable IDs.

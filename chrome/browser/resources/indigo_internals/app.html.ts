@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit HTML template for the Indigo Internals app
+// summary: Provides the Lit HTML template showing local and combined eligibility status, eligibility details, and Glic integration prompt information.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {IndigoInternalsAppElement} from './app.js';

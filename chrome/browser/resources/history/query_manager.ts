@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History query manager element
+// summary: Element that tracks history query state and results, issues queries through the browser proxy and logs debounced query metrics.
+// ---
+
 import {HistoryEmbeddingsUserActions, QUERY_RESULT_MINIMUM_AGE} from 'chrome://resources/cr_components/history/constants.js';
 import type {QueryResult, QueryState} from 'chrome://resources/cr_components/history/history.mojom-webui.js';
 import {EventTracker} from 'chrome://resources/js/event_tracker.js';

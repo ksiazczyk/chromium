@@ -1,0 +1,4 @@
+# Docerion header of .style.lit_template_formatter.
+type: config
+title: Lit template formatter configuration
+summary: Empty dotfile configuring the style lit template formatter for this directory.

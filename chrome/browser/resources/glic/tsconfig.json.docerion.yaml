@@ -1,0 +1,4 @@
+# Docerion header of tsconfig.json.
+type: config
+title: TypeScript editor configuration for Glic
+summary: Editor-only TypeScript configuration that extends the generated build tsconfig, sets root directories and includes, and disables emit for IDE tooling.

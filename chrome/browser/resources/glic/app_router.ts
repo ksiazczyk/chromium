@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App router for the Glic WebUI
+// summary: Manages the main Glic WebUI view, switching between the first-run experience and the main application while handling browser callbacks.
+// ---
+
 import {assertNotReachedCase} from '//resources/js/assert.js';
 import {getRequiredElement} from 'chrome://resources/js/util.js';
 

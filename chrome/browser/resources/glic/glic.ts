@@ -4,6 +4,12 @@
 
 // This is the root file for the glic app. The exports are used in WebUI tests.
 
+// ---docerion
+// type: source
+// title: Glic app root exports
+// summary: Root file of the glic app that re-exports browser proxy, mojom, observable, and webview types for use in WebUI tests.
+// ---
+
 import './main.js';
 
 export type {BrowserProxy} from './browser_proxy.js';

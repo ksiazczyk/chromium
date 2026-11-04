@@ -10,6 +10,12 @@
  * regenerate.
  */
 
+// ---docerion
+// type: source
+// title: chrome.glicPrivate API TypeScript definitions
+// summary: Generated TypeScript declarations for the chrome.glicPrivate API, defining profile state, invocation sources, error codes, and the available functions.
+// ---
+
 
 
 declare namespace chrome {

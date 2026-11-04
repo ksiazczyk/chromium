@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic app controller
+// summary: Controller for the glic web client that manages panel states such as loading, offline, error, and sign-in, plus loading stage and error reason metrics.
+// ---
+
 import {loadTimeData} from '//resources/js/load_time_data.js';
 import {assert, assertNotReachedCase} from 'chrome://resources/js/assert.js';
 import {getRequiredElement} from 'chrome://resources/js/util.js';

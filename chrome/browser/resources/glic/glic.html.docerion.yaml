@@ -1,0 +1,4 @@
+# Docerion header of glic.html.
+type: source
+title: Glic WebUI main page
+summary: Main HTML page for the Glic WebUI titled Gemini in Chrome, defining offline, loading, error, and unavailable panels.

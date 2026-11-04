@@ -9,6 +9,12 @@
  * #include=shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Synced device card styles
+summary: Styles the synced device card, including the card heading, tab item list, collapse area, and window separators.
+*/
+
 :host {
   -webkit-tap-highlight-color: transparent;
   display: block;

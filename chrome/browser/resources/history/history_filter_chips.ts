@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+// ---docerion
+// type: source
+// title: History filter chips element
+// summary: Lit element that filters history results by user versus actor visits and by device, firing change events and recording usage metrics.
+// ---
+
 // <if expr="_google_chrome">
 import './internal/icons.html.js';
 // </if>

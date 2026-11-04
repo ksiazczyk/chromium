@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the Glic extension
+summary: GN build configuration that compiles background.ts into a TypeScript library using the glicPrivate and Chrome type definitions.

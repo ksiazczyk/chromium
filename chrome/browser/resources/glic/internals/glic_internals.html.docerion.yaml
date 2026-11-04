@@ -1,0 +1,4 @@
+# Docerion header of glic_internals.html.
+type: source
+title: Glic internals page shell
+summary: HTML entry point for the Glic internals WebUI page that hosts the glic-internals-app element and loads its module script.

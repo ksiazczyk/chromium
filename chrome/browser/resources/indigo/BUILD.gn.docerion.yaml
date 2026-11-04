@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the Indigo WebUI
+summary: Defines the build_webui target that compiles the Indigo WebUI's static files, CSS, TypeScript and type definitions.

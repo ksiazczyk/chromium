@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: History WebUI GN build target
+summary: Defines the GN build for the history WebUI, listing its static, TypeScript, and CSS inputs, dependencies, and optimization settings.

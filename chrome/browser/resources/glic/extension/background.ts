@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic extension background service worker
+// summary: Service worker that validates external message senders against allowed Google origins and forwards state, invoke, and conversation requests to the glicPrivate API.
+// ---
+
 const allowedUrlPatterns = [
   'https://gemini.google.com/*',
   'https://*.google.com/*',

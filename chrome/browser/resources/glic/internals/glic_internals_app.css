@@ -9,6 +9,12 @@
  * #import=//resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Glic internals app styles
+summary: Lit CSS defining the internals UI's badges, status banners, cards, and tables, with light and dark theme variables.
+*/
+
 :host {
   --badge-success-bg: var(--google-green-50, #e6f4ea);
   --badge-success-border: var(--google-green-300, #a8dab5);

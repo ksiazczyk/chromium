@@ -9,6 +9,12 @@
  * #include=cr-shared-style-lit shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: History list styles
+summary: Lit CSS styles for the history list element, including empty-state padding and card chunk shadow handling.
+*/
+
 :host {
   box-sizing: border-box;
   display: block;

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the Indigo resources
+summary: Maps the directory to Buganizer component 1999829 and the chrome-synapse-team mailing list.

@@ -1,0 +1,4 @@
+# Docerion header of experimental_opt_in.html.
+type: source
+title: Glic experimental opt-in WebUI page
+summary: HTML page for the Glic experimental opt-in flow, hosting the webview, an inline iconset, and the unified error panel markup.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the Glic WebUI
+summary: Defines build targets that compile the Glic WebUI TypeScript, HTML, CSS, and mojo bindings into Chrome resources.

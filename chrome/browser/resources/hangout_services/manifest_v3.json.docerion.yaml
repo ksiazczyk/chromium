@@ -1,0 +1,4 @@
+# Docerion header of manifest_v3.json.
+type: config
+title: Hangouts extension manifest (Manifest V3)
+summary: Manifest V3 variant of the Hangouts extension manifest, loaded at runtime based on the kHangoutsExtensionV3 feature instead of the V2 manifest.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History router element
+// summary: Element that maps URL paths and query parameters to history pages such as history, clusters and synced tabs, and serializes state back into the URL.
+// ---
+
 import type {QueryState} from 'chrome://resources/cr_components/history/history.mojom-webui.js';
 import {CrRouter} from 'chrome://resources/js/cr_router.js';
 import {EventTracker} from 'chrome://resources/js/event_tracker.js';

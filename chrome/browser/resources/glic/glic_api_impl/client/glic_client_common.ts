@@ -4,6 +4,12 @@
 
 // --- Compile-Time Type-Safe Delegation Check Infrastructure ---
 
+// ---docerion
+// type: source
+// title: Type-safe delegation proxy for the Glic client
+// summary: Provides createDelegationProxy, which forwards property access to delegate objects with compile-time and runtime method collision checks.
+// ---
+
 type ExcludedKeys = 'initialize'|'constructor';
 
 type CleanMethods<T, N> = {

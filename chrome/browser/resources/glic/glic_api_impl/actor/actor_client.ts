@@ -4,6 +4,12 @@
 
 // Web client side actor message handler.
 
+// ---docerion
+// type: source
+// title: Glic actor client message handler
+// summary: Implements the web client side actor message handler for Glic, bridging Mojo actor and task messages with the Glic API, including dialogs, permissions, navigation confirmation, and task state handling.
+// ---
+
 import {assert} from '//resources/js/assert.js';
 
 import type * as actorWebUiMojom from '../../actor_webui.mojom-webui.js';
