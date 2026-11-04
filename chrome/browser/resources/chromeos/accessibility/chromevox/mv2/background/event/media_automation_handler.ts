@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media automation handler for ChromeVox
+// summary: Singleton handler that ducks or suspends media playback when ChromeVox speech starts and resumes it after speech ends, based on the configured audio strategy.
+// ---
+
 /**
  * @fileoverview Handles media automation events.
  */

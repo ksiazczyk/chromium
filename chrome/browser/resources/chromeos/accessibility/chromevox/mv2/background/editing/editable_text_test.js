@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Editable text unit tests
+// summary: Tests spoken and braille feedback for cursor navigation, typing, and text changes in editable fields using mock TTS and braille implementations.
+// ---
+
 GEN_INCLUDE(['../../testing/chromevox_e2e_test_base.js']);
 
 /**

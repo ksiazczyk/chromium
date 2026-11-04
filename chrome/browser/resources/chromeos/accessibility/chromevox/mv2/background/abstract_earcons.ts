@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Abstract earcons base class
+// summary: Defines the abstract base class for earcon sounds in ChromeVox, covering playback, cancellation, and the earcons enabled setting.
+// ---
+
 import {LocalStorage} from '/common/local_storage.js';
 import {TestImportManager} from '/common/testing/test_import_manager.js';
 

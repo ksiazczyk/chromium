@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ForcedActionPath tests
+// summary: End-to-end test fixture covering ForcedActionPath action matching, action creation and equality, and error handling for invalid action queues.
+// ---
+
 // Include test fixture.
 GEN_INCLUDE(['../testing/chromevox_e2e_test_base.js']);
 

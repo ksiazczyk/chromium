@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeVox command handler
+// summary: Maps ChromeVox commands to the methods that perform them, covering navigation, speech, braille, and other screen reader actions.
+// ---
+
 /**
  * @fileoverview ChromeVox commands.
  */

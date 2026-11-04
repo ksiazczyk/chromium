@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeVox range tracking and navigation
+// summary: Tracks and changes the ChromeVox cursor range, including observers, navigation, focus recovery, and selection handling.
+// ---
+
 /**
  * @fileoverview Classes that handle the ChromeVox range.
  */

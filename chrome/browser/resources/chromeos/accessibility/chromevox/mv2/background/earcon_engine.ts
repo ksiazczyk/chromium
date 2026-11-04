@@ -8,6 +8,12 @@
  * rest of the code.
  */
 
+// ---docerion
+// type: source
+// title: ChromeVox earcon engine
+// summary: Low-level class that generates ChromeVox earcon sounds with the Web Audio API, with adjustable volume, pitch, panning and reverb parameters.
+// ---
+
 import {EarconId} from '../common/earcon_id.js';
 
 interface PlayProperties {

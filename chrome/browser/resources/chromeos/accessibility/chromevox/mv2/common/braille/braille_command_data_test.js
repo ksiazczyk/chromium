@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Braille command data tests
+// summary: Test fixture verifying that initializing the braille command dot pattern map does not throw duplicate pattern errors.
+// ---
+
 // Include test fixture.
 GEN_INCLUDE(['../../testing/chromevox_e2e_test_base.js']);
 

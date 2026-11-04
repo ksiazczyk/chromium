@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LogUrlWatcher
+// summary: Observes ChromeVox range changes and disables log output while the focused document is the ChromeVox log page itself.
+// ---
+
 /**
  * @fileoverview Watches the currently focused URL to verify if logging should
  * occur.

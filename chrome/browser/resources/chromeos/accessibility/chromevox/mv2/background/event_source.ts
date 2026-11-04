@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event source tracker
+// summary: Singleton that tracks the current event source type, such as touch gestures, and exposes it through the ChromeVox bridge.
+// ---
+
 /**
  * @fileoverview Tracks event sources.
  */

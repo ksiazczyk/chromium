@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Live regions support
+// summary: Implements ChromeVox support for live regions, announcing changes with queueing, de-duplication and desktop live region handling to avoid constant chatter.
+// ---
+
 /**
  * @fileoverview Implements support for live regions in ChromeVox.
  */

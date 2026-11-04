@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Braille display manager tests
+// summary: Tests written display cells, pan positions, selection markers, and display state changes using fake translators and APIs.
+// ---
+
 // Include test fixture.
 GEN_INCLUDE([
   '../../testing/chromevox_e2e_test_base.js',

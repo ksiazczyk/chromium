@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Braille input handler tests
+// summary: Tests braille input handling with a fake editor and IME port that simulate text entry, selection, and edits.
+// ---
+
 // Include test fixture.
 GEN_INCLUDE(['../../testing/chromevox_e2e_test_base.js']);
 GEN_INCLUDE(['../../testing/fake_objects.js']);

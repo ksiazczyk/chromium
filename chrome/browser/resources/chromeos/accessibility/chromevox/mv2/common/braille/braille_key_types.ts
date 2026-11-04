@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Braille key event types and dot pattern key mappings
+// summary: Defines braille display key event types adapted from Chrome's private braille API and maps braille dot patterns to standard key codes and characters.
+// ---
+
 /**
  * @fileoverview Braille command definitions.
  * These types are adapted from Chrome's private braille API.

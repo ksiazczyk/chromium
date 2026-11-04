@@ -10,6 +10,12 @@
  * of that object, we can save its constructor for future use.
  */
 
+// ---docerion
+// type: source
+// title: Automation object constructor installer
+// summary: Captures AutomationNode and AutomationEvent constructors from live instances so extension API objects can be instantiated later.
+// ---
+
 const AutomationNode = chrome.automation.AutomationNode;
 const AutomationEvent = chrome.automation.AutomationEvent;
 const EventType = chrome.automation.EventType;

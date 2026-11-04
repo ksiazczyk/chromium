@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeVox output rules based on type information
+// summary: Defines OutputRule and AncestryOutputRule classes that map events, roles and formats to ChromeVox output format strings.
+// ---
+
 /**
  * @fileoverview Contains the rules for output based on type information.
  */

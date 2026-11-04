@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Role metadata for output
+// summary: Maps automation roles to message ids, earcons, inheritance, context ordering and ancestry behavior used when generating output.
+// ---
+
 /**
  * @fileoverview Roel information for the Output module.
  */

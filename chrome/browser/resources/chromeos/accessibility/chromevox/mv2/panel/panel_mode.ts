@@ -6,6 +6,12 @@
  * @fileoverview The modes that the Chromevox panel can be in.
  */
 
+// ---docerion
+// type: source
+// title: ChromeVox panel mode definitions
+// summary: Defines the PanelMode enum and per-mode title and URL location metadata used by the ChromeVox panel.
+// ---
+
 export enum PanelMode {
   COLLAPSED = 'collapsed',
   FOCUSED = 'focused',

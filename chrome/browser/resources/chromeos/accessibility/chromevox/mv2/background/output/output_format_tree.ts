@@ -6,6 +6,12 @@
  * @fileoverview Parses the output format.
  */
 
+// ---docerion
+// type: source
+// title: Tree structure for output format tokens
+// summary: Parses output format strings into a tree of tokens with child and sibling links, validating balanced parentheses.
+// ---
+
 export class OutputFormatTree {
   value = '';
   firstChild?: OutputFormatTree;

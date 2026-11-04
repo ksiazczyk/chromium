@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gesture granularity interface
+// summary: Shared static accessor for getting and setting gesture granularity, avoiding circular dependencies between command handlers.
+// ---
+
 /**
  * @fileoverview Interface to prevent circular dependencies between
  * CommandHandler and GestureCommandHandler.

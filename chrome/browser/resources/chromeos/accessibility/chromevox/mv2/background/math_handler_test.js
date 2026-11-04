@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MathHandler tests
+// summary: Tests that MathHandler speaks MathML content correctly whether or not the math root element is present.
+// ---
+
 GEN_INCLUDE(['../testing/chromevox_e2e_test_base.js']);
 
 /**

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeVox MV2 tutorial tests
+// summary: Test fixture verifying the interactive tutorial's screens, lessons, and spoken feedback using mock feedback and panel commands.
+// ---
+
 // Include test fixture.
 GEN_INCLUDE(['panel_test_base.js']);
 GEN_INCLUDE(['../testing/mock_feedback.js']);

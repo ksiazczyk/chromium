@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeVox panel node menu background
+// summary: Calculates node menu items by walking the automation tree, matching a predicate per menu and deferring work to keep the panel responsive.
+// ---
+
 /**
  * @fileoverview Calculates the menu items for the node menus in the ChromeVox
  * panel.

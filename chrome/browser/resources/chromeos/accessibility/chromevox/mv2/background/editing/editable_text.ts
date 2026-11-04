@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutomationEditableText
+// summary: Extends ChromeVoxEditableTextBase to provide text editing feedback for automation tree text fields, describing selection and text changes via speech and braille.
+// ---
+
 import {LocalStorage} from '/common/local_storage.js';
 import {StringUtil} from '/common/string_util.js';
 import {TestImportManager} from '/common/testing/test_import_manager.js';

@@ -1,6 +1,13 @@
 // Copyright 2014 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: ChromeVox MV2 output end-to-end tests
+// summary: Tests ChromeVox speech and braille output, asserting text and span annotations for various UI elements.
+// ---
+
 GEN_INCLUDE(['../../testing/chromevox_e2e_test_base.js']);
 
 /**

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PhoneticData tests
+// summary: Tests phonetic character and text readings for Japanese and other locales against expected phonetic maps.
+// ---
+
 GEN_INCLUDE(['../testing/chromevox_e2e_test_base.js']);
 
 /**

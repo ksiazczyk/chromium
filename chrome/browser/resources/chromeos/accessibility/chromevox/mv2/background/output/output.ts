@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Central Output class for speech and braille
+// summary: Formats cursor ranges into speech and braille using format rules with attribute, message and speech property substitution.
+// ---
+
 /**
  * @fileoverview Provides output services for ChromeVox.
  */

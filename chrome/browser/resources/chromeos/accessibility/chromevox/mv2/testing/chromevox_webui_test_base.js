@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeVox WebUI test base fixture
+// summary: Base test fixture for ChromeVox WebUI tests running in a Blink renderer, adding HTML loading and callback wrapping helpers.
+// ---
+
 GEN_INCLUDE([
   '../../common/testing/accessibility_test_base.js',
   '../../common/testing/assert_additions.js',

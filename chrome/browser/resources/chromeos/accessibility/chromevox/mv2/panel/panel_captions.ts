@@ -7,6 +7,12 @@
  * panel.
  */
 
+// ---docerion
+// type: source
+// title: Panel braille captions
+// summary: Handles processing and displaying braille captions in the ChromeVox panel, including cell highlighting, table clearing and cursor routing.
+// ---
+
 class BrailleCaptions {
   private brailleTableElement_ = $('braille-table') as HTMLTableElement;
   private brailleTableElement2_ = $('braille-table2') as HTMLTableElement;

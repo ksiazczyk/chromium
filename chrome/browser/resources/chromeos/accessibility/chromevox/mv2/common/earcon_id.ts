@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Earcon identifiers and descriptions
+// summary: Defines the earcon ids used by ChromeVox and maps them to message id descriptions used to generate tutorial content.
+// ---
+
 /**
  * @fileoverview Data relating to the earcons used in ChromeVox.
  */

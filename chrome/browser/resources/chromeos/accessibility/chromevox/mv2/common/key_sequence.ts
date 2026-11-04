@@ -25,6 +25,12 @@
  * - Whether sticky mode was active.
  */
 
+// ---docerion
+// type: source
+// title: KeySequence class for user and command key sequences
+// summary: Represents a sequence of keys entered by the user or bound to a ChromeVox command, tracking modifiers, the ChromeVox modifier key, sticky mode, prefix keys, and double taps.
+// ---
+
 import {KeyCode} from '/common/key_code.js';
 import {TestImportManager} from '/common/testing/test_import_manager.js';
 

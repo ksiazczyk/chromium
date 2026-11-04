@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common directory metadata for ChromeVox mv2
+summary: Declares the monorail component, team email, and Buganizer component IDs used for issues in this directory.

@@ -41,6 +41,12 @@
  * See mock_feedback_test.js for example usage of this class.
  */
 
+// ---docerion
+// type: test
+// title: MockFeedback combined speech, braille and earcon mock
+// summary: Combined mock that installs fake tts, braille and earcon objects and matches queued speech, braille and earcon output against test expectations.
+// ---
+
 /**
  * Combined mock class for braille and speech output.
  */

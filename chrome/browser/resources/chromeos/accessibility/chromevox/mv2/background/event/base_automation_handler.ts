@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base automation handler for ChromeVox events
+// summary: Defines the BaseAutomationHandler class providing basic facilities to listen for and handle automation events from a single automation node, including default focus feedback output.
+// ---
+
 /**
  * @fileoverview Basic facilities to handle events from a single automation
  * node.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phonetic disambiguation provider
+// summary: Provides per-locale phonetic disambiguation for characters and text, with specialized handling for Japanese.
+// ---
+
 /**
  * @fileoverview Provides phonetic disambiguation functionality across multiple
  * languages for ChromeVox.

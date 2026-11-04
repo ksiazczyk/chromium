@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Push parser for output format rules
+// summary: Tokenizes output format rules and dispatches attribute, message and speech property tokens to an observer implementation.
+// ---
+
 /**
  * @fileoverview Provides a push parser for Output format rules.
  */

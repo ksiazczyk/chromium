@@ -6,6 +6,12 @@
  * @fileoverview Dumps a log of the accessibility tree.
  */
 
+// ---docerion
+// type: source
+// title: Accessibility tree dumper
+// summary: Captures a snapshot of the accessibility tree and formats it into an indented string log with node names, roles, values, locations and URLs.
+// ---
+
 type AutomationNode = chrome.automation.AutomationNode;
 type Rect = chrome.automation.Rect;
 

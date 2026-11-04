@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tts interface for ChromeVox TTS engines
+// summary: Defines the abstract TtsInterface that all ChromeVox TTS engines conform to, plus a TtsCapturingEventListener for utterance start, end, and interruption notifications.
+// ---
+
 /**
  * @fileoverview Defines a Tts interface.
  * All TTS engines in ChromeVox conform to the this interface.

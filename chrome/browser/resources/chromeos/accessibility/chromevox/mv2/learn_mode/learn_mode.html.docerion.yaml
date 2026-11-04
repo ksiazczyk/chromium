@@ -1,0 +1,4 @@
+# Docerion header of learn_mode.html.
+type: source
+title: ChromeVox Learn Mode page
+summary: HTML page for ChromeVox Learn Mode that prompts users to press keys to hear their names and loads the learn mode script.

@@ -3,6 +3,12 @@
 // found in the LICENSE file.
 
 
+// ---docerion
+// type: source
+// title: Translated message retrieval (Msgs)
+// summary: Retrieves and formats localized ChromeVox messages, applies substitutions, and replaces text in DOM elements marked for translation.
+// ---
+
 /**
  * @fileoverview Defines methods related to retrieving translated messages.
  */

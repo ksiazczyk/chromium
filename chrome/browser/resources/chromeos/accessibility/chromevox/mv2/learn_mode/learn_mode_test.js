@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeVox Learn Mode end-to-end tests
+// summary: Browser test fixture verifying Learn Mode speech feedback for keyboard input, repeats, gestures, and braille key events.
+// ---
+
 // Include test fixture.
 GEN_INCLUDE([
   '../testing/chromevox_e2e_test_base.js',

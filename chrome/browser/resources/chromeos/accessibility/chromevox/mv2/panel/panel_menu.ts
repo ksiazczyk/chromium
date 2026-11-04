@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeVox panel drop-down menus
+// summary: Implements drop-down menus in the ChromeVox panel, including menu bar items, containers, item management and activation behaviour.
+// ---
+
 /**
  * @fileoverview A drop-down menu in the ChromeVox panel.
  */

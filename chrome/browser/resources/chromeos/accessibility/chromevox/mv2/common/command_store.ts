@@ -22,6 +22,12 @@
  * 3. Add a key binding to KeySequence.
  */
 
+// ---docerion
+// type: source
+// title: Static command data store
+// summary: Persistent store of static command data providing lookups for messages, categories, signed-out denial, and key bindings for ChromeVox commands.
+// ---
+
 import {KeyCode} from '/common/key_code.js';
 
 import {Command, CommandCategory} from './command.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Chrome event helper for tests
+// summary: Defines FakeChromeEvent, a test double for a Chrome event that supports a single listener with assertion helpers.
+// ---
+
 /**
  * Fakes a Chrome event that supports one listener.
  */

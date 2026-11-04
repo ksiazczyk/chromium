@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Log type definitions for LogStore
+// summary: Defines the LogType enum and log entry classes for speech, braille, earcon, event, text, and tree logs stored in the log store.
+// ---
+
 /**
  * @fileoverview Class definitions of log that are stored in LogStore
  */

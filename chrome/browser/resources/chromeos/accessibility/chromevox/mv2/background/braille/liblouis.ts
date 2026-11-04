@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LibLouis WebAssembly wrapper shim
+// summary: JavaScript shim for the liblouis WebAssembly wrapper, communicating with a worker over RPC to provide braille translators.
+// ---
+
 /**
  * @fileoverview JavaScript shim for the liblouis Web Assembly wrapper.
  */

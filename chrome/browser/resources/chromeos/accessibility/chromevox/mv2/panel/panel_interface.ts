@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PanelInterface abstract class
+// summary: Abstract interface defining control operations for the ChromeVox panel, such as mode changes, closing menus and pending callbacks.
+// ---
+
 /**
  * @fileoverview An interface to control the ChromeVox Panel.
  */

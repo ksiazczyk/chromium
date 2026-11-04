@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeVox panel menu manager
+// summary: Manages the ChromeVox panel menus, including activating menus, adding menus and menu items, and wiring commands, shortcuts and gestures.
+// ---
+
 /**
  * @fileoverview Class to manage the ChromeVox menus.
  */

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeVox clipboard handler
+// summary: Tracks clipboard copy events and announces copied content through speech when clipboard data changes.
+// ---
+
 /**
  * @fileoverview Class to handle access to the clipboard data.
  */

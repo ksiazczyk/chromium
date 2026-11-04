@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Panel commands from background to ChromeVox panel
+// summary: Defines the PanelCommand class and PanelCommandType enum used to send commands such as speech updates and menu opening from the ChromeVox background page to the panel window.
+// ---
+
 /**
  * @fileoverview Commands to pass from the ChromeVox background page context
  * to the ChromeVox Panel.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventStreamLogger
+// summary: Listens for Chrome automation events on the desktop node and writes matching event logs to the ChromeVox LogStore based on enabled filters.
+// ---
+
 /**
  * @fileoverview Creates event stream logger.
  */

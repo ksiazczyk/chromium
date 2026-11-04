@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus automation handler for ChromeVox
+// summary: Singleton handler that listens for focus changes on the desktop and announces active descendant, details, menu selection, and selected value changes on the focused node.
+// ---
+
 /**
  * @fileoverview Handles automation events on the currently focused node.
  */

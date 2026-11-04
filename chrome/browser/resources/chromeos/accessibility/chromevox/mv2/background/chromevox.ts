@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeVox output engine access point
+// summary: Defines the ChromeVox class as a central access point for braille, earcon, and speech output, and registers bridge handlers for these output types.
+// ---
+
 /**
  * @fileoverview Defines a global object that holds references to the three
  * different output engines.

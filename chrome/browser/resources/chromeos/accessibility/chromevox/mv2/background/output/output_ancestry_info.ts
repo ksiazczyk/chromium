@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ancestor chain computation for output context
+// summary: Computes enter, leave, start and end ancestor chains for a node so output can announce context entered or exited during navigation.
+// ---
+
 /**
  * @fileoverview Provides a class which computes various types of ancestor
  * chains given the current node.
