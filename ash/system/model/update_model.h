@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update model and observer declaration
+// summary: Declares UpdateModel, which tracks software update state such as severity, factory reset, rollback, and end-of-life notices, plus its UpdateObserver interface.
+// relations:
+//   - depends_on /ash/public/cpp/update_types.h
+//   - depends_on /base/observer_list.h
+// ---
+
 #ifndef ASH_SYSTEM_MODEL_UPDATE_MODEL_H_
 #define ASH_SYSTEM_MODEL_UPDATE_MODEL_H_
 

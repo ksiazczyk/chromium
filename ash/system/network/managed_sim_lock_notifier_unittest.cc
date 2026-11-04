@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Managed SIM lock notifier unit tests
+// summary: Unit tests for ManagedSimLockNotifier covering SIM lock notification behavior across session, device, and policy states.
+// relations:
+//   - tests /ash/system/network/managed_sim_lock_notifier.h
+//   - depends_on /ash/system/network/managed_sim_lock_notifier.h
+//   - depends_on /ash/constants/ash_features.h
+// ---
+
 #include "ash/system/network/managed_sim_lock_notifier.h"
 
 #include "ash/constants/ash_features.h"

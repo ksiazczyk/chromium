@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network icon unit tests
+// summary: Unit tests for the network icon helper functions and the ActiveNetworkIcon consumer using stubbed network state and shill services.
+// relations:
+//   - tests /ash/system/network/network_icon.h
+//   - tests /ash/system/network/active_network_icon.h
+//   - depends_on /ash/public/cpp/network_config_service.h
+// ---
+
 #include "ash/system/network/network_icon.h"
 
 #include <memory>

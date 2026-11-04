@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VpnDetailedView unit tests
+// summary: Unit tests for the VPN detailed view, verifying how VPN providers and networks from extension and ARC providers are listed and rendered.
+// ---
+
 #include "ash/system/network/vpn_detailed_view.h"
 
 #include "ash/public/cpp/test/test_system_tray_client.h"

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkListViewControllerImpl implementation
+// summary: Implements the network list controller, building and updating mobile, Wi-Fi, and VPN list sections, handling scan timers, device states, and connection warning indicators.
+// relations:
+//   - implements /ash/system/network/network_list_view_controller_impl.h
+// ---
+
 #include "ash/system/network/network_list_view_controller_impl.h"
 
 #include <memory>

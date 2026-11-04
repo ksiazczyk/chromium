@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mahi error status view implementation
+// summary: Implements the view that presents Mahi error states with an image, message label and retry link inside the panel.
+// relations:
+//   - implements /ash/system/mahi/mahi_error_status_view.h
+//   - depends_on /ash/style/typography.h
+//   - depends_on /ash/system/mahi/mahi_constants.h
+// ---
+
 #include "ash/system/mahi/mahi_error_status_view.h"
 
 #include <memory>

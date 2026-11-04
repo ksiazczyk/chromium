@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracing model implementation
+// summary: Implements TracingModel, which stores whether performance tracing is enabled and notifies observers when the tracing mode changes.
+// relations:
+//   - implements /ash/system/model/tracing_model.h
+// ---
+
 #include "ash/system/model/tracing_model.h"
 
 namespace ash {

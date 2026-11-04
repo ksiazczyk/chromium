@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unified media controls detailed view controller implementation
+// summary: Creates the media controls detailed view through MediaNotificationProvider, records repeat-usage metrics, and notifies the provider when the bubble closes.
+// relations:
+//   - implements /ash/system/media/unified_media_controls_detailed_view_controller.h
+//   - depends_on /ash/system/media/media_notification_provider.h
+//   - depends_on /ash/system/media/unified_media_controls_detailed_view.h
+// ---
+
 #include "ash/system/media/unified_media_controls_detailed_view_controller.h"
 
 #include <memory>

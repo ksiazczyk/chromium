@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media notification provider interface
+// summary: Defines the interface ash uses to receive media notification info from the browser, including notification list, device selector and footer views.
+// ---
+
 #ifndef ASH_SYSTEM_MEDIA_MEDIA_NOTIFICATION_PROVIDER_H_
 #define ASH_SYSTEM_MEDIA_MEDIA_NOTIFICATION_PROVIDER_H_
 

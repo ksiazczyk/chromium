@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mahi content source button unit tests
+// summary: Unit tests for the content source button's title, icon and navigation behavior using mock Mahi manager and window delegate objects.
+// relations:
+//   - tests /ash/system/mahi/mahi_content_source_button.h
+//   - depends_on /ash/public/cpp/test/test_new_window_delegate.h
+//   - depends_on /ash/system/mahi/test/mock_mahi_manager.h
+// ---
+
 #include "ash/system/mahi/mahi_content_source_button.h"
 
 #include <memory>

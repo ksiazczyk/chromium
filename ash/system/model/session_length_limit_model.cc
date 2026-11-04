@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionLengthLimitModel implementation
+// summary: Implements SessionLengthLimitModel, which tracks remaining session time on a repeating timer and notifies observers when the limit is set or expiring soon.
+// relations:
+//   - implements /ash/system/model/session_length_limit_model.h
+//   - depends_on /ash/session/session_controller_impl.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/system/model/session_length_limit_model.h"
 
 #include "ash/session/session_controller_impl.h"

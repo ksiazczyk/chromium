@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Mahi manager implementation
+// summary: Implements a fake MahiManager that returns predetermined content, summaries, answers and outlines asynchronously for development and testing.
+// relations:
+//   - implements /ash/system/mahi/fake_mahi_manager.h
+//   - depends_on /ash/public/cpp/new_window_delegate.h
+//   - depends_on /ash/system/mahi/mahi_constants.h
+// ---
+
 #include "ash/system/mahi/fake_mahi_manager.h"
 
 #include <utility>

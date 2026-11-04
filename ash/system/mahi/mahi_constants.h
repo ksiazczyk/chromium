@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mahi panel constants
+// summary: Defines view IDs, panel dimensions, paddings, corner radii, feedback button metrics and fake manager delays used across the Mahi UI.
+// relations:
+//   - depends_on /base/time/time.h
+//   - depends_on /ui/gfx/geometry/insets.h
+//   - depends_on /ui/gfx/geometry/size.h
+// ---
+
 #ifndef ASH_SYSTEM_MAHI_MAHI_CONSTANTS_H_
 #define ASH_SYSTEM_MAHI_MAHI_CONSTANTS_H_
 

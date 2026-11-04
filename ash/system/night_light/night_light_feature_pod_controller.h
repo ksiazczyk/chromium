@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Night Light Quick Settings pod controller header
+// summary: Declares the controller for the Quick Settings Night Light feature tile, including its clock observer and tile update behavior.
+// ---
+
 #ifndef ASH_SYSTEM_NIGHT_LIGHT_NIGHT_LIGHT_FEATURE_POD_CONTROLLER_H_
 #define ASH_SYSTEM_NIGHT_LIGHT_NIGHT_LIGHT_FEATURE_POD_CONTROLLER_H_
 

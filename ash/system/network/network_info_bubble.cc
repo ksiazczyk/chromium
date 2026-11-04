@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network info bubble implementation
+// summary: Implements a bubble that shows IP and MAC address information for the default network and available network technologies.
+// relations:
+//   - depends_on /ash/system/network/network_info_bubble.h
+//   - implements /ash/system/network/network_info_bubble.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/system/network/network_info_bubble.h"
 
 #include <memory>

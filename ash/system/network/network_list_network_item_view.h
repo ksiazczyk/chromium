@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkListNetworkItemView class declaration
+// summary: Declares the view shown for a single network (mobile, Wi-Fi, Ethernet) in the quick settings detailed network page, including subtext, power and policy views and accessibility labels.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - implements /ash/system/network/network_icon_animation_observer.h
+//   - depends_on /ash/system/network/network_list_item_view.h
+// ---
+
 #ifndef ASH_SYSTEM_NETWORK_NETWORK_LIST_NETWORK_ITEM_VIEW_H_
 #define ASH_SYSTEM_NETWORK_NETWORK_LIST_NETWORK_ITEM_VIEW_H_
 

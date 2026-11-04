@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise domain model implementation
+// summary: Implements the enterprise domain model that stores device enterprise info and account domain, notifying observers on changes.
+// relations:
+//   - implements /ash/system/model/enterprise_domain_model.h
+//   - depends_on /ash/public/cpp/login_types.h
+//   - depends_on /ash/system/enterprise/enterprise_domain_observer.h
+// ---
+
 #include "ash/system/model/enterprise_domain_model.h"
 
 #include "ash/public/cpp/login_types.h"

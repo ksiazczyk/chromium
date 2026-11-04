@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VpnDetailedView implementation
+// summary: Implements the quick settings VPN detailed view that lists VPN providers and their networks in a hierarchical layout with connect, disconnect and add-network actions.
+// ---
+
 #include "ash/system/network/vpn_detailed_view.h"
 
 #include <memory>

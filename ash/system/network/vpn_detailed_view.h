@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VpnDetailedView class declaration
+// summary: Declares the VPN detailed view, which shows VPN providers and networks grouped by provider, with the connected network detached at the top of the list.
+// ---
+
 #ifndef ASH_SYSTEM_NETWORK_VPN_DETAILED_VIEW_H_
 #define ASH_SYSTEM_NETWORK_VPN_DETAILED_VIEW_H_
 

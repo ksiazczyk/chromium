@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkDetailedViewController class declaration
+// summary: Declares NetworkDetailedViewController, which updates the detailed network device page in quick settings and translates user interactions into network state changes.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - implements /ash/system/network/network_detailed_network_view.h
+//   - depends_on /ash/system/network/network_detailed_view.h
+// ---
+
 #ifndef ASH_SYSTEM_NETWORK_NETWORK_DETAILED_VIEW_CONTROLLER_H_
 #define ASH_SYSTEM_NETWORK_NETWORK_DETAILED_VIEW_CONTROLLER_H_
 

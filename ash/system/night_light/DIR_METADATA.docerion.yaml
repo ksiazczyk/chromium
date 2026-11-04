@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Night Light directory metadata
+summary: Declares the owning team email and Buganizer and Monorail components for the Night Light directory.

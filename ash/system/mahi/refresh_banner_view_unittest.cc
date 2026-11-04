@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Refresh banner view unit tests
+// summary: Unit tests for RefreshBannerView covering the banner title text and the show and hide layer animations, using a mock Mahi manager.
+// relations:
+//   - tests /ash/system/mahi/refresh_banner_view.h
+//   - depends_on /ash/system/mahi/mahi_constants.h
+//   - depends_on /ash/system/mahi/mahi_ui_controller.h
+// ---
+
 #include "ash/system/mahi/refresh_banner_view.h"
 
 #include <memory>

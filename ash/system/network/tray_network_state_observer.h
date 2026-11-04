@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrayNetworkStateObserver interface
+// summary: Defines the observer interface used by the tray network state model to report active network, network list, device state, VPN provider and global policy changes.
+// ---
+
 #ifndef ASH_SYSTEM_NETWORK_TRAY_NETWORK_STATE_OBSERVER_H_
 #define ASH_SYSTEM_NETWORK_TRAY_NETWORK_STATE_OBSERVER_H_
 

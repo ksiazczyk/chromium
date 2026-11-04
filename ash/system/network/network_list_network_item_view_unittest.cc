@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkListNetworkItemView unit tests
+// summary: Unit tests for NetworkListNetworkItemView covering connection states, policy sources, signal strength, and accessibility labels for Wi-Fi, cellular, tether, and Ethernet networks.
+// relations:
+//   - tests /ash/system/network/network_list_network_item_view.h
+//   - depends_on /ash/system/network/fake_network_detailed_network_view.h
+//   - depends_on /ash/test/ash_test_base.h
+// ---
+
 #include "ash/system/network/network_list_network_item_view.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Night Light directory include rules
+summary: Defines allowed include paths for the Night Light directory, permitting chromeos/ash/components/geolocation.

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed SIM lock notifier header
+// summary: Declares ManagedSimLockNotifier, which shows a notification prompting the user to unlock a PIN-locked SIM when policy requires it.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/session/session_observer.h
+//   - depends_on /base/memory/weak_ptr.h
+// ---
+
 #ifndef ASH_SYSTEM_NETWORK_MANAGED_SIM_LOCK_NOTIFIER_H_
 #define ASH_SYSTEM_NETWORK_MANAGED_SIM_LOCK_NOTIFIER_H_
 

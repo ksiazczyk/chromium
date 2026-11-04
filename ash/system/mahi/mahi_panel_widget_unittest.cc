@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MahiPanelWidget unit tests
+// summary: Unit tests verifying the Mahi panel widget's default bounds, accessible title, and positioning when bottom space is constrained.
+// relations:
+//   - tests /ash/system/mahi/mahi_panel_widget.h
+//   - depends_on /ash/system/mahi/fake_mahi_manager.h
+//   - depends_on /ash/system/mahi/mahi_ui_controller.h
+// ---
+
 #include "ash/system/mahi/mahi_panel_widget.h"
 
 #include "ash/keyboard/keyboard_controller_impl.h"

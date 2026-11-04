@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrayNetworkStateModel implementation
+// summary: Implements the tray network state model that tracks devices, active networks, VPNs and global policy through the CrosNetworkConfig mojo interface for the system tray UI.
+// ---
+
 #include "ash/system/network/tray_network_state_model.h"
 
 #include <set>

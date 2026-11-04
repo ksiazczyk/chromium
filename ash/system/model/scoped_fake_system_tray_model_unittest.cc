@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedFakeSystemTrayModel unit test
+// summary: Unit test verifying that ScopedFakeSystemTrayModel replaces the Shell's system tray model with a fake and restores the real instance.
+// relations:
+//   - tests /ash/system/model/scoped_fake_system_tray_model.h
+//   - depends_on /ash/public/cpp/system_tray.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/system/model/scoped_fake_system_tray_model.h"
 
 #include <memory>

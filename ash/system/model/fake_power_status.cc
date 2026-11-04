@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake power status implementation
+// summary: Implements the fake PowerStatus with settable battery, charger, and battery saver state for testing.
+// relations:
+//   - implements /ash/system/model/fake_power_status.h
+// ---
+
 #include "ash/system/model/fake_power_status.h"
 
 namespace ash {

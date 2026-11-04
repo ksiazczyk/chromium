@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkFeaturePodController class declaration
+// summary: Declares NetworkFeaturePodController, which manages the network feature tile that toggles network technologies and opens the detailed network list page.
+// relations:
+//   - depends_on /ash/constants/quick_settings_catalogs.h
+//   - implements /ash/system/network/network_feature_tile.h
+//   - implements /ash/system/network/network_icon_animation_observer.h
+// ---
+
 #ifndef ASH_SYSTEM_NETWORK_NETWORK_FEATURE_POD_CONTROLLER_H_
 #define ASH_SYSTEM_NETWORK_NETWORK_FEATURE_POD_CONTROLLER_H_
 

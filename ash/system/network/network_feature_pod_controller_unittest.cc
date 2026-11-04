@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetworkFeaturePodController unit tests
+// summary: Unit tests for NetworkFeaturePodController verifying tile state, labels, and signal strength handling across wifi, cellular, ethernet, and tether networks.
+// relations:
+//   - tests /ash/system/network/network_feature_pod_controller.h
+// ---
+
 #include "ash/system/network/network_feature_pod_controller.h"
 
 #include <memory>

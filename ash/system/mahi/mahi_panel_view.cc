@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mahi panel view implementation
+// summary: Implements the main Mahi panel view, including the header row, content source button, question and answer section, feedback buttons, links, and drag handling.
+// relations:
+//   - implements /ash/system/mahi/mahi_panel_view.h
+//   - depends_on /ash/system/mahi/mahi_constants.h
+//   - depends_on /ash/system/mahi/mahi_content_source_button.h
+// ---
+
 #include "ash/system/mahi/mahi_panel_view.h"
 
 #include <climits>

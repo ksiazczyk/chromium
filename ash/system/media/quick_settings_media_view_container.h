@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickSettingsMediaViewContainer class declaration
+// summary: Declares the container view that controls whether the quick settings media view is shown and its height.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /ui/base/metadata/metadata_header_macros.h
+//   - depends_on /ui/views/view.h
+// ---
+
 #ifndef ASH_SYSTEM_MEDIA_QUICK_SETTINGS_MEDIA_VIEW_CONTAINER_H_
 #define ASH_SYSTEM_MEDIA_QUICK_SETTINGS_MEDIA_VIEW_CONTAINER_H_
 

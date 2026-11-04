@@ -1,3 +1,13 @@
+---
+type: readme
+title: System Tray - Network and VPN Pages
+summary: Documents the architecture of the network and VPN system tray pages, describing the view and controller class hierarchies and how logic is shared between the two pages.
+relations:
+  - documents /ash/system/network/network_detailed_view.h
+  - documents /ash/system/network/network_detailed_network_view.h
+  - documents /ash/system/network/network_detailed_network_view_impl.h
+---
+
 # System Tray - Network and VPN Pages
 
 The network page within the system tray provides the user visibility into the

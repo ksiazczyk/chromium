@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mobile network header view unit tests
+// summary: Tests the mobile header's toggle button click handling and tooltip text for the on and off states.
+// relations:
+//   - tests /ash/system/network/network_list_mobile_header_view.h
+//   - depends_on /ash/system/network/fake_network_list_network_header_view_delegate.h
+//   - depends_on /ash/system/tray/hover_highlight_view.h
+// ---
+
 #include "ash/system/network/network_list_mobile_header_view.h"
 
 #include <memory>

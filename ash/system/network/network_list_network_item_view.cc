@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network list network item view implementation
+// summary: Implements the network list item view, including icons, battery, activation, SIM lock and connection state handling.
+// relations:
+//   - depends_on /ash/system/network/network_list_network_item_view.h
+//   - depends_on /ash/session/session_controller_impl.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/system/network/network_list_network_item_view.h"
 
 #include <optional>

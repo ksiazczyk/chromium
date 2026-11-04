@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Update model implementation
+// summary: Implements UpdateModel, storing system update availability, severity, relaunch notification state, and cellular update permission while notifying observers.
+// relations:
+//   - implements /ash/system/model/update_model.h
+// ---
+
 #include "ash/system/model/update_model.h"
 
 namespace ash {

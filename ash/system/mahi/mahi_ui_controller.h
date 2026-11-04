@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MahiUiController class declaration
+// summary: Declares the Mahi UI controller, its delegate interface, question sources, and APIs for panel open/close, navigation, refresh, retry, and asking questions.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/session/session_observer.h
+//   - depends_on /ash/system/mahi/mahi_ui_update.h
+// ---
+
 #ifndef ASH_SYSTEM_MAHI_MAHI_UI_CONTROLLER_H_
 #define ASH_SYSTEM_MAHI_MAHI_UI_CONTROLLER_H_
 

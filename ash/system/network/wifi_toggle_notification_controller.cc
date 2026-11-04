@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wi-Fi toggle notification controller implementation
+// summary: Shows a system notification confirming Wi-Fi enabled or disabled state when the user requests a Wi-Fi toggle, recording user metrics.
+// ---
+
 #include "ash/system/network/wifi_toggle_notification_controller.h"
 
 #include "ash/shell.h"

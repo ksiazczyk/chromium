@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed SIM lock notifier implementation
+// summary: Implements a notification that warns the user when a managed SIM lock restricts global network configuration on the primary SIM.
+// relations:
+//   - depends_on /ash/system/network/managed_sim_lock_notifier.h
+//   - depends_on /ash/ash_element_identifiers.h
+//   - depends_on /ash/public/cpp/network_config_service.h
+// ---
+
 #include "ash/system/network/managed_sim_lock_notifier.h"
 
 #include "ash/ash_element_identifiers.h"

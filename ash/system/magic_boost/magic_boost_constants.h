@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Magic Boost constants header
+// summary: Defines enums for Magic Boost opt-in features, post-opt-in transition actions, and view IDs used by the disclaimer UI.
+// ---
+
 #ifndef ASH_SYSTEM_MAGIC_BOOST_MAGIC_BOOST_CONSTANTS_H_
 #define ASH_SYSTEM_MAGIC_BOOST_MAGIC_BOOST_CONSTANTS_H_
 

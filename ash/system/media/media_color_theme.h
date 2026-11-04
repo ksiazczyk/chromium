@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media color theme header
+// summary: Declares GetCrosMediaColorTheme, a helper that returns the common media color theme used for Chrome OS media UI.
+// relations:
+//   - depends_on /components/media_message_center/notification_theme.h
+// ---
+
 #ifndef ASH_SYSTEM_MEDIA_MEDIA_COLOR_THEME_H_
 #define ASH_SYSTEM_MEDIA_MEDIA_COLOR_THEME_H_
 

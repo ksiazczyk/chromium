@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CellularSetupNotifier class declaration
+// summary: Declares CellularSetupNotifier, which watches session and network state to show a delayed cellular setup notification after OOBE.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - implements /ash/public/cpp/session/session_observer.h
+//   - implements /chromeos/services/network_config/public/cpp/cros_network_config_observer.h
+// ---
+
 #ifndef ASH_SYSTEM_NETWORK_CELLULAR_SETUP_NOTIFIER_H_
 #define ASH_SYSTEM_NETWORK_CELLULAR_SETUP_NOTIFIER_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickSettingsMediaViewController class declaration
+// summary: Declares the controller that receives media item update events and manages the quick settings media view.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/pagination/pagination_model.h
+//   - depends_on /base/memory/weak_ptr.h
+// ---
+
 #ifndef ASH_SYSTEM_MEDIA_QUICK_SETTINGS_MEDIA_VIEW_CONTROLLER_H_
 #define ASH_SYSTEM_MEDIA_QUICK_SETTINGS_MEDIA_VIEW_CONTROLLER_H_
 

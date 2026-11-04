@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media notification provider observer interface
+// summary: Defines an observer interface for ash to learn about notification list changes, view size changes and provider destruction.
+// relations:
+//   - depends_on /base/observer_list_types.h
+// ---
+
 #ifndef ASH_SYSTEM_MEDIA_MEDIA_NOTIFICATION_PROVIDER_OBSERVER_H_
 #define ASH_SYSTEM_MEDIA_MEDIA_NOTIFICATION_PROVIDER_OBSERVER_H_
 

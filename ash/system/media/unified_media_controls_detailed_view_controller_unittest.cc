@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unified media controls detailed view controller unit tests
+// summary: Verifies entering and exiting the media controls detailed view in quick settings using a mock media notification provider and the unified system tray bubble.
+// relations:
+//   - tests /ash/system/media/unified_media_controls_detailed_view_controller.h
+//   - depends_on /ash/system/media/media_tray.h
+//   - depends_on /ash/system/media/mock_media_notification_provider.h
+// ---
+
 #include "ash/system/media/unified_media_controls_detailed_view_controller.h"
 
 #include "ash/system/media/media_notification_provider.h"

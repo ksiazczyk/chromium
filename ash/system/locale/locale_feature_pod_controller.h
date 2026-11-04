@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocaleFeaturePodController class declaration
+// summary: Declares the controller for the locale feature tile in quick settings, which appears in demo mode to let users set the demo content language.
+// relations:
+//   - implements /ash/system/unified/feature_pod_controller_base.h
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/constants/quick_settings_catalogs.h
+// ---
+
 #ifndef ASH_SYSTEM_LOCALE_LOCALE_FEATURE_POD_CONTROLLER_H_
 #define ASH_SYSTEM_LOCALE_LOCALE_FEATURE_POD_CONTROLLER_H_
 

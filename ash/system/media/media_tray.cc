@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media tray implementation
+// summary: Implements the media tray in the status area, showing global media controls with pin-to-shelf behavior, empty state and bubble handling.
+// relations:
+//   - implements /ash/system/media/media_tray.h
+//   - depends_on /ash/system/media/media_notification_provider.h
+// ---
+
 #include "ash/system/media/media_tray.h"
 
 #include "ash/constants/ash_pref_names.h"

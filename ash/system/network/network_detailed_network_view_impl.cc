@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network detailed network view implementation
+// summary: Implements NetworkDetailedNetworkViewImpl, building the Wi-Fi and mobile network lists, section headers, and configure network entries.
+// ---
+
 #include "ash/system/network/network_detailed_network_view_impl.h"
 
 #include "ash/ash_element_identifiers.h"

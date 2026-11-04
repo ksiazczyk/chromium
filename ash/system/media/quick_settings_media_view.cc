@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickSettingsMediaView implementation
+// summary: Implements the media items view shown in ChromeOS quick settings, arranging items in a scroll view with pagination support.
+// relations:
+//   - depends_on /ash/system/media/quick_settings_media_view.h
+//   - depends_on /ash/public/cpp/pagination/pagination_model_observer.h
+//   - depends_on /ash/system/media/quick_settings_media_view_controller.h
+// ---
+
 #include "ash/system/media/quick_settings_media_view.h"
 
 #include "ash/public/cpp/pagination/pagination_controller.h"

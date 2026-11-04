@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkListViewController interface declaration
+// summary: Declares the interface used to add, modify, and remove networks from the network list of the detailed network page in quick settings, along with its factory.
+// relations:
+//   - depends_on /ash/system/network/network_detailed_network_view.h
+// ---
+
 #ifndef ASH_SYSTEM_NETWORK_NETWORK_LIST_VIEW_CONTROLLER_H_
 #define ASH_SYSTEM_NETWORK_NETWORK_LIST_VIEW_CONTROLLER_H_
 

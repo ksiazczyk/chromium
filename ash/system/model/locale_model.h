@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocaleModel class declaration
+// summary: Declares LocaleModel, a model storing the system locale list and current locale with observer notifications for the status area.
+// relations:
+//   - depends_on /ash/public/cpp/locale_update_controller.h
+//   - depends_on /base/observer_list.h
+// ---
+
 #ifndef ASH_SYSTEM_MODEL_LOCALE_MODEL_H_
 #define ASH_SYSTEM_MODEL_LOCALE_MODEL_H_
 

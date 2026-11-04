@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unified media controls detailed view implementation
+// summary: Implements the tray detailed view that lists all active media sessions in ChromeOS quick settings, adding the media tray pin button to the title row.
+// relations:
+//   - implements /ash/system/media/unified_media_controls_detailed_view.h
+//   - depends_on /ash/system/media/media_tray.h
+//   - depends_on /ash/system/tray/tri_view.h
+// ---
+
 #include "ash/system/media/unified_media_controls_detailed_view.h"
 
 #include "ash/strings/grit/ash_strings.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrayNetworkStateModel class declaration
+// summary: Declares the TrayNetworkStateModel, which observes the network config mojo interface, tracks devices and active networks, and notifies UI observers of important changes.
+// ---
+
 #ifndef ASH_SYSTEM_NETWORK_TRAY_NETWORK_STATE_MODEL_H_
 #define ASH_SYSTEM_NETWORK_TRAY_NETWORK_STATE_MODEL_H_
 

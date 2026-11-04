@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share detailed view controller implementation
+// summary: Implements the controller that creates the Nearby Share detailed view and supplies its accessible name for the unified system tray.
+// relations:
+//   - depends_on /ash/system/nearby_share/nearby_share_detailed_view_controller.h
+//   - depends_on /ash/system/nearby_share/nearby_share_detailed_view.h
+//   - depends_on /ash/system/tray/detailed_view_delegate.h
+// ---
+
 #include "ash/system/nearby_share/nearby_share_detailed_view_controller.h"
 
 #include "ash/system/nearby_share/nearby_share_detailed_view.h"

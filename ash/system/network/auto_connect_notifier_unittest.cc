@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AutoConnectNotifier
+// summary: Verifies that the auto-connect toast appears or stays hidden depending on connection and auto-connect events, using mock timers and shill test services.
+// relations:
+//   - tests /ash/system/network/auto_connect_notifier.h
+//   - depends_on /ash/shell.h
+//   - depends_on /ash/system/system_notification_controller.h
+// ---
+
 #include "ash/system/network/auto_connect_notifier.h"
 
 #include <memory>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media tray unit tests
+// summary: Unit tests for MediaTray covering visibility with active or frozen notifications, lock screen behavior, pinning and bubble show and hide.
+// relations:
+//   - tests /ash/system/media/media_tray.h
+//   - depends_on /ash/system/media/media_notification_provider.h
+//   - depends_on /ash/system/media/mock_media_notification_provider.h
+// ---
+
 #include "ash/system/media/media_tray.h"
 
 #include "ash/constants/tray_background_view_catalog.h"

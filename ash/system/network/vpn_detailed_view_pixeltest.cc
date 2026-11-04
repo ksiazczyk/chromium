@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VpnDetailedView pixel test
+// summary: Pixel test for the VPN list shown in the quick settings VPN sub-page, covering built-in, extension and ARC VPN providers and their networks.
+// ---
+
 #include <utility>
 #include <vector>
 

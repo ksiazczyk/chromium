@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clock model implementation
+// summary: Implements the clock model that tracks 12/24-hour format and notifies observers of system clock, timezone, and settings changes.
+// relations:
+//   - implements /ash/system/model/clock_model.h
+//   - depends_on /ash/session/session_controller_impl.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/system/model/clock_model.h"
 
 #include "ash/public/cpp/system_tray_client.h"

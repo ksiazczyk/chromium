@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VpnList unit tests
+// summary: Unit tests covering the built-in OpenVPN provider and handling of third-party extension and Arc VPN providers in VpnList.
+// ---
+
 #include "ash/system/network/vpn_list.h"
 
 #include <algorithm>

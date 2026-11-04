@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media color theme implementation
+// summary: Implements GetCrosMediaColorTheme, which builds the common Chrome OS media color theme from CrOS system color tokens.
+// relations:
+//   - depends_on /ash/system/media/media_color_theme.h
+//   - depends_on /ash/style/ash_color_id.h
+// ---
+
 #include "ash/system/media/media_color_theme.h"
 
 #include "ash/style/ash_color_id.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System tray model implementation
+// summary: Implements the top-level SystemTrayModel, aggregating clock, enterprise, locale, update, tracing, keyboard, network, and calendar submodels and forwarding tray state updates.
+// relations:
+//   - implements /ash/system/model/system_tray_model.h
+//   - has_part /ash/system/model/clock_model.h
+//   - has_part /ash/system/model/enterprise_domain_model.h
+// ---
+
 #include "ash/system/model/system_tray_model.h"
 
 #include <memory>

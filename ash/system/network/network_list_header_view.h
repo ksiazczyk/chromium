@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base header view for network and VPN list sections
+// summary: Declares NetworkListHeaderView, the base view for network and VPN list headers, handling clicks and the toggle state update hook.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/system/tray/tri_view.h
+//   - depends_on /ash/system/tray/view_click_listener.h
+// ---
+
 #ifndef ASH_SYSTEM_NETWORK_NETWORK_LIST_HEADER_VIEW_H_
 #define ASH_SYSTEM_NETWORK_NETWORK_LIST_HEADER_VIEW_H_
 

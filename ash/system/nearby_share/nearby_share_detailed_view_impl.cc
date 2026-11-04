@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share detailed view implementation
+// summary: Implements the Quick Share detailed view with an enable toggle, visibility selection rows, and user email lookup for the Quick Settings tray.
+// relations:
+//   - implements /ash/system/nearby_share/nearby_share_detailed_view_impl.h
+//   - depends_on /ash/system/tray/hover_highlight_view.h
+//   - depends_on /chromeos/ash/components/signin/identity_manager_provider.h
+// ---
+
 #include "ash/system/nearby_share/nearby_share_detailed_view_impl.h"
 
 #include <string>

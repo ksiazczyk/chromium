@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Night Light metrics recorder implementation
+// summary: Records initial Night Light schedule type and color temperature histograms when the first user session starts.
+// ---
+
 #include "ash/system/night_light/night_light_metrics_recorder.h"
 
 #include "ash/public/cpp/schedule_enums.h"

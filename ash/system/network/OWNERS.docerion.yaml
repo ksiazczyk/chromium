@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for ash/system/network
+summary: Lists the email addresses of the developers responsible for reviewing changes to the network system tray code.

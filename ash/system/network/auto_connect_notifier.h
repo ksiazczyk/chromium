@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutoConnectNotifier class declaration
+// summary: Declares an observer of network connection, state, and auto-connect events that alerts the user to policy-driven auto-connections via a toast.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /chromeos/ash/components/network/auto_connect_handler.h
+//   - implements /chromeos/ash/components/network/network_connection_observer.h
+// ---
+
 #ifndef ASH_SYSTEM_NETWORK_AUTO_CONNECT_NOTIFIER_H_
 #define ASH_SYSTEM_NETWORK_AUTO_CONNECT_NOTIFIER_H_
 

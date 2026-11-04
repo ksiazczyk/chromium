@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Night Light controller unit tests
+// summary: Tests Night Light scheduling, sunrise and sunset behavior, color temperature, and notification interactions across time zones and sessions.
+// ---
+
 #include <cmath>
 #include <limits>
 #include <optional>

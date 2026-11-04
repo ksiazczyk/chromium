@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake power status unit tests
+// summary: Unit tests verifying FakePowerStatus defaults, setters, and reset-to-default behavior for battery and charger state.
+// relations:
+//   - tests /ash/system/model/fake_power_status.h
+//   - depends_on /ash/test/ash_test_base.h
+// ---
+
 #include "ash/system/model/fake_power_status.h"
 
 #include "ash/test/ash_test_base.h"

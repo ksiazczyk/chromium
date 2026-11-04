@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mahi animation utilities implementation
+// summary: Implements helpers that load Mahi lottie animations from resources and build looping playback configs based on cycle restart markers.
+// relations:
+//   - implements /ash/system/mahi/mahi_animation_utils.h
+//   - depends_on /ash/system/mahi/mahi_constants.h
+//   - depends_on /ash/utility/lottie_util.h
+// ---
+
 #include "ash/system/mahi/mahi_animation_utils.h"
 
 #include "ash/system/mahi/mahi_constants.h"

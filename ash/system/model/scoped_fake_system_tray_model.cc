@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedFakeSystemTrayModel implementation
+// summary: Implements ScopedFakeSystemTrayModel, which swaps a FakeSystemTrayModel into the Shell and restores the real model on destruction.
+// relations:
+//   - implements /ash/system/model/scoped_fake_system_tray_model.h
+//   - depends_on /ash/shell.h
+//   - depends_on /ash/system/model/fake_system_tray_model.h
+// ---
+
 #include "ash/system/model/scoped_fake_system_tray_model.h"
 
 #include "ash/public/cpp/system_tray.h"

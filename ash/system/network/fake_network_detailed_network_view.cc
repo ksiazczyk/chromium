@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake network detailed network view implementation
+// summary: Fake NetworkDetailedNetworkView that records list change notifications, scan bar visibility, and clicked network items for use in tests.
+// relations:
+//   - implements /ash/system/network/fake_network_detailed_network_view.h
+//   - depends_on /ash/system/network/network_detailed_network_view.h
+//   - depends_on /ash/system/network/network_list_item_view.h
+// ---
+
 #include "ash/system/network/fake_network_detailed_network_view.h"
 
 #include "ash/system/network/network_detailed_network_view.h"

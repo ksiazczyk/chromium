@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Magic Boost disclaimer view class declaration
+// summary: Declares the MagicBoostDisclaimerView class, a bubble view with accept and decline buttons that invokes caller-provided callbacks and can create a centered host widget.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/weak_ptr.h
+//   - depends_on /ui/base/metadata/metadata_header_macros.h
+// ---
+
 #ifndef ASH_SYSTEM_MAGIC_BOOST_MAGIC_BOOST_DISCLAIMER_VIEW_H_
 #define ASH_SYSTEM_MAGIC_BOOST_MAGIC_BOOST_DISCLAIMER_VIEW_H_
 

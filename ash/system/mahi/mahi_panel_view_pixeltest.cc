@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mahi panel view pixel test
+// summary: Pixel tests capturing the Mahi panel view appearance across its states, parameterized on whether system blur is enabled.
+// relations:
+//   - tests /ash/system/mahi/mahi_panel_view.h
+//   - depends_on /ash/system/mahi/mahi_ui_controller.h
+//   - depends_on /ash/system/mahi/test/mock_mahi_manager.h
+// ---
+
 #include <memory>
 #include <string>
 #include <vector>

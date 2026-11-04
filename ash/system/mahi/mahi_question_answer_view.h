@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MahiQuestionAnswerView class declaration
+// summary: Declares the Mahi question and answer view that reacts to UI controller updates and reports question count metrics.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/system/mahi/mahi_ui_controller.h
+//   - depends_on /base/time/time.h
+// ---
+
 #ifndef ASH_SYSTEM_MAHI_MAHI_QUESTION_ANSWER_VIEW_H_
 #define ASH_SYSTEM_MAHI_MAHI_QUESTION_ANSWER_VIEW_H_
 

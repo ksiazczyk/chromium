@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network detailed network view unit tests
+// summary: Unit tests for NetworkDetailedNetworkView covering network list items, section headers, and Wi-Fi and mobile toggle interactions.
+// relations:
+//   - tests /ash/system/network/network_detailed_network_view.h
+//   - depends_on /ash/system/network/network_detailed_view.h
+//   - depends_on /ash/system/network/network_list_mobile_header_view.h
+// ---
+
 #include "ash/system/network/network_detailed_network_view.h"
 
 #include <memory>

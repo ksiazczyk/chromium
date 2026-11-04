@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network icon animation observer interface
+// summary: Declares the AnimationObserver interface that is notified when an animated network icon image changes.
+// relations:
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_SYSTEM_NETWORK_NETWORK_ICON_ANIMATION_OBSERVER_H_
 #define ASH_SYSTEM_NETWORK_NETWORK_ICON_ANIMATION_OBSERVER_H_
 

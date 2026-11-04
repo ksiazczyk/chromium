@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Refresh banner view implementation
+// summary: Implements the refresh banner shown on top of the Mahi panel, including its clip path, refresh button, and slide and opacity animations.
+// relations:
+//   - depends_on /ash/system/mahi/refresh_banner_view.h
+//   - implements /ash/system/mahi/refresh_banner_view.h
+//   - depends_on /ash/style/icon_button.h
+// ---
+
 #include "ash/system/mahi/refresh_banner_view.h"
 
 #include <string>

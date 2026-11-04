@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mahi content source button class
+// summary: Declares a label button that displays and navigates to the current Mahi content source, caching its URL and media app PDF client id.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/weak_ptr.h
+//   - depends_on /base/unguessable_token.h
+// ---
+
 #ifndef ASH_SYSTEM_MAHI_MAHI_CONTENT_SOURCE_BUTTON_H_
 #define ASH_SYSTEM_MAHI_MAHI_CONTENT_SOURCE_BUTTON_H_
 

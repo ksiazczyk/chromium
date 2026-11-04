@@ -2,6 +2,13 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 //
+
+// ---docerion
+// type: source
+// title: UnifiedVPNDetailedViewController implementation
+// summary: Implements the controller that creates the VPN detailed view for the unified system tray and provides its accessible name.
+// ---
+
 #include "ash/system/network/unified_vpn_detailed_view_controller.h"
 
 #include <memory>

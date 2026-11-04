@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetworkFeatureTile view implementation
+// summary: Implements NetworkFeatureTile, a FeatureTile subclass that forwards theme change events to its delegate.
+// relations:
+//   - implements /ash/system/network/network_feature_tile.h
+// ---
+
 #include "ash/system/network/network_feature_tile.h"
 
 #include "base/check.h"

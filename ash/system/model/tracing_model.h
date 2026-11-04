@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash system tracing model header
+// summary: Declares the Ash TracingModel and TracingObserver classes that track whether performance tracing is enabled and notify observers when the tracing mode changes.
+// relations:
+//   - depends_on /base/observer_list.h
+// ---
+
 #ifndef ASH_SYSTEM_MODEL_TRACING_MODEL_H_
 #define ASH_SYSTEM_MODEL_TRACING_MODEL_H_
 

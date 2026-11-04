@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VPN feature pod controller implementation
+// summary: Implements the Quick Settings VPN feature tile, controlling its visibility and connected-state label from the tray network model and VPN list.
+// ---
+
 #include "ash/system/network/vpn_feature_pod_controller.h"
 
 #include <string>

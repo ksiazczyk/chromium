@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocaleModel implementation
+// summary: Implements the LocaleModel that stores the system locale list and adds fake locales when the QS show locale tile switch is enabled.
+// relations:
+//   - depends_on /ash/system/model/locale_model.h
+//   - depends_on /ash/constants/ash_switches.h
+//   - depends_on /base/command_line.h
+// ---
+
 #include "ash/system/model/locale_model.h"
 
 #include "ash/constants/ash_switches.h"

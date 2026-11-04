@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unified media controls detailed view controller header
+// summary: Declares the controller for UnifiedMediaControlsDetailedView in UnifiedSystemTray, with entry point and casting device list expansion options.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/system/unified/detailed_view_controller.h
+//   - depends_on /components/global_media_controls/public/constants.h
+// ---
+
 #ifndef ASH_SYSTEM_MEDIA_UNIFIED_MEDIA_CONTROLS_DETAILED_VIEW_CONTROLLER_H_
 #define ASH_SYSTEM_MEDIA_UNIFIED_MEDIA_CONTROLS_DETAILED_VIEW_CONTROLLER_H_
 

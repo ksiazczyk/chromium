@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: QuickSettingsMediaViewContainer unit tests
+// summary: Tests visibility toggling of the media view container and switching between the media view and detailed views.
+// relations:
+//   - tests /ash/system/media/quick_settings_media_view_container.h
+//   - depends_on /ash/system/media/media_tray.h
+//   - depends_on /ash/system/unified/unified_system_tray.h
+// ---
+
 #include "ash/system/media/quick_settings_media_view_container.h"
 
 #include "ash/system/media/media_tray.h"

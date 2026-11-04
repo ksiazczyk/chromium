@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActiveNetworkIcon class declaration
+// summary: Declares the ActiveNetworkIcon class that supplies single or dual tray icons and connection status strings for the default network and periodically purges the icon cache.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/system/network/network_icon.h
+//   - depends_on /ash/system/network/tray_network_state_observer.h
+// ---
+
 #ifndef ASH_SYSTEM_NETWORK_ACTIVE_NETWORK_ICON_H_
 #define ASH_SYSTEM_NETWORK_ACTIVE_NETWORK_ICON_H_
 

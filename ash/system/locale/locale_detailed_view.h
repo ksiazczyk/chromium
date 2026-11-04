@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocaleDetailedView class declaration
+// summary: Declares the LocaleDetailedView class that shows the list of languages usable for demo mode when the locale feature tile is clicked.
+// relations:
+//   - depends_on /ash/system/tray/tray_detailed_view.h
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/containers/flat_map.h
+// ---
+
 #ifndef ASH_SYSTEM_LOCALE_LOCALE_DETAILED_VIEW_H_
 #define ASH_SYSTEM_LOCALE_LOCALE_DETAILED_VIEW_H_
 

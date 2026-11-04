@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedFakePowerStatus class declaration
+// summary: Declares ScopedFakePowerStatus, a scoped helper that swaps a fake PowerStatus into the PowerStatus singleton for testing.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_SYSTEM_MODEL_SCOPED_FAKE_POWER_STATUS_H_
 #define ASH_SYSTEM_MODEL_SCOPED_FAKE_POWER_STATUS_H_
 

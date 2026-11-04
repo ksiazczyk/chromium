@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share controller implementation
+// summary: Implements NearbyShareControllerImpl, relaying Nearby Share high visibility, enabled, and visibility state changes from Chrome to observers in ash.
+// relations:
+//   - depends_on /ash/system/nearby_share/nearby_share_controller_impl.h
+//   - implements /ash/system/nearby_share/nearby_share_controller_impl.h
+// ---
+
 #include "ash/system/nearby_share/nearby_share_controller_impl.h"
 
 namespace ash {

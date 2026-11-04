@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Virtual keyboard model implementation
+// summary: Implements VirtualKeyboardModel, which tracks ARC IME keyboard visibility from input method bounds and keyboard controller state and notifies observers.
+// relations:
+//   - implements /ash/system/model/virtual_keyboard_model.h
+//   - depends_on /ash/public/cpp/keyboard/keyboard_controller.h
+// ---
+
 #include "ash/system/model/virtual_keyboard_model.h"
 
 #include "ash/public/cpp/keyboard/keyboard_controller.h"

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocaleUpdateControllerImpl class declaration
+// summary: Declares the ash implementation of LocaleUpdateController that observes and handles locale change events.
+// relations:
+//   - implements /ash/public/cpp/locale_update_controller.h
+//   - depends_on /base/observer_list.h
+// ---
+
 #ifndef ASH_SYSTEM_LOCALE_LOCALE_UPDATE_CONTROLLER_IMPL_H_
 #define ASH_SYSTEM_LOCALE_LOCALE_UPDATE_CONTROLLER_IMPL_H_
 
