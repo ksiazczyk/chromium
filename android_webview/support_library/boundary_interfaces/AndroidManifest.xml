@@ -5,6 +5,12 @@
   found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Android manifest pinning minSdkVersion for boundary interface lint
+summary: Hardcodes minSdkVersion 24 so the boundary interfaces compile and lint against the AndroidX WebKit module's minimum SDK version.
+-->
+
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="no.manifest.configured"
     android:versionCode="1"

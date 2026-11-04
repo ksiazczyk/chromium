@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the WebView support library
+summary: Defines the android_library build target that compiles the support library glue Java adapter sources for WebView.
+relations:
+  - configured_by /build/config/android/config.gni
+  - configured_by /build/config/android/rules.gni
+  - has_part /android_webview/support_library/java/src/org/chromium/support_lib_glue/SupportLibDropDataContentProviderAdapter.java

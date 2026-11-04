@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the WebView renderer
+summary: GN build file defining the renderer source_set, listing WebView renderer sources and dependencies on content, components, blink, and printing.
+relations:
+  - depends_on /printing/buildflags/buildflags.gni
+  - has_part /android_webview/renderer/aw_content_renderer_client.cc
+  - has_part /android_webview/renderer/aw_content_renderer_client.h

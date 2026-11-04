@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VariationsSeedServer
+// summary: Bound Android service that serves the variations seed to WebView apps over IPC, writing the seed only when newer and reporting pending variations service metrics via callback.
+// ---
+
 package org.chromium.android_webview.services;
 
 import android.app.Service;

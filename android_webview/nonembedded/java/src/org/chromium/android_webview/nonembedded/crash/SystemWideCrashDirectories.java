@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemWideCrashDirectories
+// summary: Provides getters for the directories and JSON log file paths where WebView stores crash minidumps, temporary crash files, and crash logs.
+// ---
+
 package org.chromium.android_webview.nonembedded.crash;
 
 import org.chromium.base.ContextUtils;

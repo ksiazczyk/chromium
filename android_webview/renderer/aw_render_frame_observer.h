@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwRenderFrameObserver class declaration
+// summary: Declares a RenderFrameObserver that manages navigation priority leases and a timer for boosting the WebView renderer thread.
+// relations:
+//   - depends_on /base/threading/platform_thread.h
+//   - depends_on /base/timer/timer.h
+//   - depends_on /content/public/renderer/render_frame_observer.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_RENDERER_AW_RENDER_FRAME_OBSERVER_H_
 #define ANDROID_WEBVIEW_RENDERER_AW_RENDER_FRAME_OBSERVER_H_
 

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VariationsSeedHolder
+// summary: Singleton that manages the WebView variations service's local copy of the variations seed, serializing seed loads, writes to requesting apps, and fetch scheduling on a dedicated thread.
+// relations:
+//   - depends_on /android_webview/nonembedded/java/src/org/chromium/android_webview/services/AwEntropyState.java
+//   - dependency_of /android_webview/nonembedded/java/src/org/chromium/android_webview/services/AwVariationsSeedFetcher.java
+// ---
+
 package org.chromium.android_webview.services;
 
 import android.os.Handler;

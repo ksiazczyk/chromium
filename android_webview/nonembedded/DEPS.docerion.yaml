@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for nonembedded WebView
+summary: Restricts dependencies for nonembedded WebView code by forbidding the //content layer while allowing components/crash/android.

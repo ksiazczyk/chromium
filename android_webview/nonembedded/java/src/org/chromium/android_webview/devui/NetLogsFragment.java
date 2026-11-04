@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetLogsFragment
+// summary: Fragment of the WebView DevTools UI that lists captured net log files, shows total storage capacity, and supports sharing and deleting the logs.
+// relations:
+//   - depends_on /android_webview/nonembedded/java/src/org/chromium/android_webview/devui/DevUiBaseFragment.java
+// ---
+
 package org.chromium.android_webview.devui;
 
 import android.app.Activity;

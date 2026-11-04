@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwRenderFrameExt renderer-side frame extension implementation
+// summary: Implements the render-process side of WebView frame features, including hit test data, text zoom, page scale, image detection, and autofill agent setup.
+// relations:
+//   - implements /android_webview/renderer/aw_render_frame_ext.h
+//   - depends_on /base/strings/string_util.h
+//   - depends_on /components/autofill/content/renderer/autofill_agent.h
+// ---
+
 #include "android_webview/renderer/aw_render_frame_ext.h"
 
 #include <memory>

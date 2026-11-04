@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for WebView proto definitions
+summary: GN build file defining proto and Java proto library targets for the WebView variations seed and metrics bridge records protos.
+relations:
+  - depends_on /build/config/android/rules.gni
+  - depends_on /third_party/protobuf/proto_library.gni
+  - configures /android_webview/proto/aw_variations_seed.proto

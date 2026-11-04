@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'CrashBugUrlFactory: build bug report URIs for WebView crashes'
+// summary: Factory class that builds an intent and URI to report a WebView crash on the Chromium issue tracker, prefilled with crash details from a crash report template.
+// ---
+
 package org.chromium.android_webview.devui.util;
 
 import android.content.Intent;

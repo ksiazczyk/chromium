@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Support library WebView provider factory glue
+// summary: Factory implementing WebViewProviderFactoryBoundaryInterface that advertises supported features, creates adapters, and records AndroidX API calls.
+// ---
+
 package org.chromium.support_lib_glue;
 
 import android.content.Context;

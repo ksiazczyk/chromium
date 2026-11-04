@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SupportLibNavigationParametersAdapter
+// summary: Adapter that converts a NavigationParametersBoundaryInterface invocation handler into an AwNavigationParams object for navigation handling.
+// ---
+
 package org.chromium.support_lib_glue;
 
 import org.chromium.android_webview.AwNavigationParams;

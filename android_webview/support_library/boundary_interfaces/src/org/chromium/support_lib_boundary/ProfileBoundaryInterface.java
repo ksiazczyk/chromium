@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile boundary interface
+// summary: Boundary interface for WebView profiles covering cookies, prefetch, prerenders, origin-matched headers, preconnect and HTTP cache access.
+// relations:
+//   - depends_on /android_webview/support_library/boundary_interfaces/src/org/chromium/support_lib_boundary/HttpCacheBoundaryInterface.java
+// ---
+
 package org.chromium.support_lib_boundary;
 
 import android.os.CancellationSignal;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafeBrowsingResponse boundary interface
+// summary: Boundary interface for responding to Safe Browsing warnings by showing an interstitial, proceeding or returning to safety.
+// ---
+
 package org.chromium.support_lib_boundary;
 
 import org.jspecify.annotations.NullMarked;

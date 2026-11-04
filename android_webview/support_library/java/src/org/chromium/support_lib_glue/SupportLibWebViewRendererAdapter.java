@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SupportLibWebViewRendererAdapter
+// summary: Adapter between WebViewRendererBoundaryInterface and AwRenderProcess that supports terminating the renderer and managing its support library peer object.
+// ---
+
 package org.chromium.support_lib_glue;
 
 import static org.chromium.support_lib_glue.SupportLibWebViewChromiumFactory.recordApiCall;

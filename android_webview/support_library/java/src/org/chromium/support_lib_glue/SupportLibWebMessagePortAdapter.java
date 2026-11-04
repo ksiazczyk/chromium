@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Support library WebMessagePort adapter
+// summary: Adapter between WebMessagePortBoundaryInterface and content's MessagePort, handling postMessage, close, and message callback setup while recording API calls.
+// ---
+
 package org.chromium.support_lib_glue;
 
 import static org.chromium.support_lib_glue.SupportLibWebViewChromiumFactory.recordApiCall;

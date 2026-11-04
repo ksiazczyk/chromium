@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SupportLibJsReplyProxyAdapter
+// summary: Adapter between JsReplyProxyBoundaryInterface and JsReplyProxy, supporting message posting and JavaScript execution with error mapping.
+// ---
+
 package org.chromium.support_lib_glue;
 
 import static org.chromium.support_lib_glue.SupportLibWebViewChromiumFactory.recordApiCall;

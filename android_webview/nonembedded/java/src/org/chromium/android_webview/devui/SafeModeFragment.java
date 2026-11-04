@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafeModeFragment
+// summary: Fragment of the WebView DevTools UI that shows whether WebView SafeMode is enabled, when it was activated, and which actions triggered it.
+// relations:
+//   - depends_on /android_webview/nonembedded/java/src/org/chromium/android_webview/devui/DevUiBaseFragment.java
+// ---
+
 package org.chromium.android_webview.devui;
 
 import android.app.Activity;

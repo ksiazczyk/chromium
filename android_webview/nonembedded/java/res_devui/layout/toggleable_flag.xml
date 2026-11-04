@@ -5,6 +5,12 @@
   found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Toggleable flag layout
+summary: Android layout for a developer flag row showing the flag name and description with a spinner to change its state.
+-->
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/toggleable_flag"

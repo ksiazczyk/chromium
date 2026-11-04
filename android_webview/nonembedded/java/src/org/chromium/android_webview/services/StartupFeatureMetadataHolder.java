@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup feature metadata holder service
+// summary: Placeholder service that only exposes metadata declared in the library's manifest and is never actually invoked.
+// ---
+
 package org.chromium.android_webview.services;
 
 import android.app.Service;

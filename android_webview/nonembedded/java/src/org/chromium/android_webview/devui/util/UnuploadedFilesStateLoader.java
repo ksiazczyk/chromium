@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Loader for unuploaded minidump crash states
+// summary: CrashInfoLoader that reads unuploaded minidump files from the crash directory and derives their upload state, local id, and trial count from file names.
+// relations:
+//   - depends_on /android_webview/nonembedded/java/src/org/chromium/android_webview/devui/util/CrashInfoLoader.java
+// ---
+
 package org.chromium.android_webview.devui.util;
 
 import org.chromium.android_webview.nonembedded.crash.CrashInfo;

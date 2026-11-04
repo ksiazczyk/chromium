@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Support library WebMessageListener adapter
+// summary: Transient glue adapter implementing WebMessageListener that forwards postMessage events to the AndroidX boundary interface after checking supported features and payload types.
+// relations:
+//   - depends_on /android_webview/support_library/java/src/org/chromium/support_lib_glue/SupportLibJsReplyProxyAdapter.java
+// ---
+
 package org.chromium.support_lib_glue;
 
 import android.net.Uri;

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SupportLibProfileStore
+// summary: Singleton glue implementation of ProfileStoreBoundaryInterface that manages profile creation, lookup, listing and deletion via ProfileStore.
+// relations:
+//   - references /android_webview/support_library/java/src/org/chromium/support_lib_glue/SupportLibProfile.java
+// ---
+
 package org.chromium.support_lib_glue;
 
 import static org.chromium.support_lib_glue.SupportLibWebViewChromiumFactory.recordApiCall;

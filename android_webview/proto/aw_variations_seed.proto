@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwVariationsSeed protobuf definition
+// summary: Proto2 definition of AwVariationsSeed, which WebView uses to serialize a downloaded variations seed and its HTTP header metadata to a per-app file.
+// ---
+
 syntax = "proto2";
 
 package android_webview;

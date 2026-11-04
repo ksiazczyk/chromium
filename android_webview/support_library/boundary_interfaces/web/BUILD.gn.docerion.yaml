@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the web boundary interface Java library
+summary: GN build file defining the web_boundary_interface_java Android library, listing its boundary interface sources, ProGuard flags, and dependency constraints for AndroidX mirroring.
+relations:
+  - depends_on /build/config/android/config.gni
+  - depends_on /build/config/android/rules.gni
+  - has_part /android_webview/support_library/boundary_interfaces/web/src/org/chromium/support_lib_boundary/web/WebContentBoundaryInterface.java

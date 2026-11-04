@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwContentSettingsClient class declaration
+// summary: Declares the WebView implementation of blink::WebContentSettingsClient that governs insecure content and mixed content upgrades per render frame.
+// relations:
+//   - implements /content/public/renderer/render_frame_observer.h
+//   - implements /third_party/blink/public/platform/web_content_settings_client.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_RENDERER_AW_CONTENT_SETTINGS_CLIENT_H_
 #define ANDROID_WEBVIEW_RENDERER_AW_CONTENT_SETTINGS_CLIENT_H_
 

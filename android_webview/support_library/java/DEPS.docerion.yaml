@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the WebView support library
+summary: Defines include rules that restrict imports to the allowed subset of Chromium's content public Android Java code.

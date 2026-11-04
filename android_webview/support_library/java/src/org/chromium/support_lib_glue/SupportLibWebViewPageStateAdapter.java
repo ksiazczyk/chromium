@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page state support library adapter
+// summary: Adapts WebViewPageStateBoundaryInterface to AwPageState, exposing the state URL and its associated page.
+// relations:
+//   - depends_on /android_webview/support_library/java/src/org/chromium/support_lib_glue/SupportLibWebViewPageAdapter.java
+// ---
+
 package org.chromium.support_lib_glue;
 
 import static org.chromium.support_lib_glue.SupportLibWebViewChromiumFactory.recordApiCall;

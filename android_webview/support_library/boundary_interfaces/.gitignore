@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Gitignore for Android Studio mirror artifacts
+# summary: Excludes Android Studio project files when the boundary interfaces directory is mirrored into the Android tree.
+# ---
+
 # For Android Studio, when we mirror this repo into the Android tree
 *.iml
 .gradle/

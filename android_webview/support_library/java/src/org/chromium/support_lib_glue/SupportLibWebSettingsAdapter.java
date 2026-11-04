@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Support library WebSettings adapter
+// summary: Adapter between WebSettingsBoundaryInterface and AwSettings that maps support library settings such as safe browsing, dark mode, and offscreen pre-raster onto WebView settings.
+// ---
+
 package org.chromium.support_lib_glue;
 
 import static org.chromium.support_lib_glue.SupportLibWebViewChromiumFactory.recordApiCall;

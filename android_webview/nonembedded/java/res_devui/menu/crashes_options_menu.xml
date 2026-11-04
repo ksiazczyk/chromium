@@ -5,6 +5,12 @@
   found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Crashes options menu resource
+summary: Android menu resource defining the Refresh action shown in the options menu of the WebView DevTools crashes screen.
+-->
+
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <group android:id="@+id/crashes_menu">
         <!--suppress HardcodedText -->

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS rules restricting imports for boundary interfaces
+summary: Rules out dependencies on other Chromium components so the directory keeps building when mirrored into Android.

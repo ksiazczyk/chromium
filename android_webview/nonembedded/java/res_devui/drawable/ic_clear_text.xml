@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--docerion
+type: asset
+title: Clear text icon
+summary: Android vector drawable of a 24dp X-shaped icon used to clear text in the WebView dev UI.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="24dp"
     android:height="24dp"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for browser-exposed renderer interfaces
+// summary: Declares ExposeRendererInterfacesToBrowser, which registers WebView renderer Mojo interfaces with the browser via a binder map.
+// ---
+
 #ifndef ANDROID_WEBVIEW_RENDERER_BROWSER_EXPOSED_RENDERER_INTERFACES_H_
 #define ANDROID_WEBVIEW_RENDERER_BROWSER_EXPOSED_RENDERER_INTERFACES_H_
 

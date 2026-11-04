@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SupportLibProxyControllerAdapter
+// summary: Adapter between AwProxyController and ProxyControllerBoundaryInterface that sets and clears proxy overrides with thread dispatch and error unwrapping.
+// ---
+
 package org.chromium.support_lib_glue;
 
 import static org.chromium.support_lib_glue.SupportLibWebViewChromiumFactory.recordApiCall;

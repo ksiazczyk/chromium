@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSurface boundary interface
+// summary: Boundary interface for WebSurface, a presentation surface for rendering WebContent in Jetpack Compose without intermediate View hierarchy nodes, covering drawing, sizing, touch input and teardown.
+// ---
+
 package org.chromium.support_lib_boundary.web;
 
 import android.graphics.Canvas;

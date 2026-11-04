@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parser of the crash upload log file
+// summary: CrashInfoLoader that parses the upload log file in the crash directory to load upload ids, times, and local ids of uploaded crashes.
+// relations:
+//   - depends_on /android_webview/nonembedded/java/src/org/chromium/android_webview/devui/util/CrashInfoLoader.java
+// ---
+
 package org.chromium.android_webview.devui.util;
 
 import org.chromium.android_webview.nonembedded.crash.CrashInfo;

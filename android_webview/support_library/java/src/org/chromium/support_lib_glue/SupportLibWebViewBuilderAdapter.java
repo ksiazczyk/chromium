@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewBuilder support library glue adapter
+// summary: Adapts the AndroidX WebViewBuilder boundary interface to build and configure Chromium WebView instances from a builder config.
+// ---
+
 package org.chromium.support_lib_glue;
 
 import android.content.Context;

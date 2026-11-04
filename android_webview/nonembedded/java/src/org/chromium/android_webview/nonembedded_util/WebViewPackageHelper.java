@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewPackageHelper
+// summary: Helper class for retrieving WebView package info, checking the active system WebView implementation, and loading WebView labels, with test hooks for mocking the current package.
+// ---
+
 package org.chromium.android_webview.nonembedded_util;
 
 import android.content.Context;

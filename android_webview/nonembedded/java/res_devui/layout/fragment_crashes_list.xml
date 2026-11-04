@@ -5,6 +5,12 @@
   found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Crashes list fragment layout
+summary: Layout for the crashes fragment, combining a summary text view with an expandable list of crash entries.
+-->
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/fragment_crashes_list"

@@ -5,6 +5,12 @@
   found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: WebView DevUI styles and themes
+summary: Defines the DevUi DayNight theme plus navigation button, header text, and TV-related placeholder styles for the WebView developer UI.
+-->
+
 <resources>
     <style name="Theme.DevUi.DayNight" parent="@android:style/Theme.Material.Light.DarkActionBar" />
     <style name="SelectedNavigationButton">

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewNavigation boundary interface
+// summary: Boundary interface exposing WebView navigation details such as URL, status code, navigation flags, response headers, and snapshots of page and navigation state.
+// ---
+
 package org.chromium.support_lib_boundary;
 
 import org.jspecify.annotations.NullMarked;

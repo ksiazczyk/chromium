@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contract annotation for NullAway nullness checking
+// summary: Defines a method-level Contract annotation used for NullAway nullness contract checking in Chromium.
+// ---
+
 package org.chromium.support_lib_boundary.util;
 
 import java.lang.annotation.ElementType;

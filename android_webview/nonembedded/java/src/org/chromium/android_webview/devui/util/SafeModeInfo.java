@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafeMode status information for the DevTools UI
+// summary: Exposes SafeMode status to the UI by querying SafeModeController and binding to SafeModeService to fetch the activation timestamp.
+// ---
+
 package org.chromium.android_webview.devui.util;
 
 import android.content.ComponentName;

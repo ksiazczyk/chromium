@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersistentErrorView
+// summary: Reusable view that displays a persistent error message at the top of an activity layout, with an optional action button and click dialog.
+// ---
+
 package org.chromium.android_webview.devui;
 
 import android.app.Activity;

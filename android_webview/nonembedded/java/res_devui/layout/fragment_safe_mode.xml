@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--docerion
+type: source
+title: Safe mode fragment layout
+summary: Layout for the safe mode fragment, showing the safe mode state and a list of active safe mode actions.
+-->
+
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/fragment_safe_mode"
     android:orientation="vertical"

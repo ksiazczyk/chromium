@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwMinidumpUploadJobService
+// summary: Service that uses the Android JobScheduler to upload crash minidumps at appropriate times, delegating to the WebView uploader delegate.
+// ---
+
 package org.chromium.android_webview.services;
 
 import android.os.PersistableBundle;

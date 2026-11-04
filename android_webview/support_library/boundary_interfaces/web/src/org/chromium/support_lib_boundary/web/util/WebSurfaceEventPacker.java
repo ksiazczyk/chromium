@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'WebSurfaceEventPacker: boundary payload packing utilities'
+// summary: Provides static methods to pack and unpack WebSurfaceEvent over-scroll payloads as float arrays across the support library boundary.
+// ---
+
 package org.chromium.support_lib_boundary.web.util;
 
 import org.jspecify.annotations.NullMarked;

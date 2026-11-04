@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentBuilder
+// summary: Builder that accepts WebContentConfig key-value pairs, rejecting unsupported required configs while safely ignoring unsupported optional ones, and produces an AwWebContent instance.
+// ---
+
 package org.chromium.support_lib_glue;
 
 import org.chromium.android_webview.AwWebContent;

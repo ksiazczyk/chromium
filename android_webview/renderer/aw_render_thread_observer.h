@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwRenderThreadObserver class declaration
+// summary: Declares a RenderThreadObserver that registers the WebView Renderer mojo interface and handles render-process wide requests.
+// relations:
+//   - depends_on /base/compiler_specific.h
+//   - depends_on /content/public/renderer/render_thread_observer.h
+//   - depends_on /mojo/public/cpp/bindings/associated_receiver.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_RENDERER_AW_RENDER_THREAD_OBSERVER_H_
 #define ANDROID_WEBVIEW_RENDERER_AW_RENDER_THREAD_OBSERVER_H_
 

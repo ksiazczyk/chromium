@@ -5,6 +5,12 @@
   found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: DevTools options menu resource
+summary: Android menu resource listing DevTools options such as changing the WebView provider, reporting a bug, checking for updates, SafeMode status and about information.
+-->
+
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <group android:id="@+id/nav_menu_group">
         <!--suppress HardcodedText -->

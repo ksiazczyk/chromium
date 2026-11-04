@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContent boundary interface
+// summary: Defines the boundary interface for WebContent, representing Chromium web content state that can survive moving across WebViews, with methods to run a view factory and destroy the content.
+// ---
+
 package org.chromium.support_lib_boundary.web;
 
 import android.content.Context;

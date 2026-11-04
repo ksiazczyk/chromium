@@ -5,6 +5,12 @@
   found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Crash list item header layout
+summary: Layout for the header row of a crash list entry, displaying the crashing package's icon alongside a two-line title.
+-->
+
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     style="@style/TvSelectableBackground"
     android:layout_width="match_parent"

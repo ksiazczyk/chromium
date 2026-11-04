@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Non-embedded SafeMode action base class
+// summary: Abstract SafeModeAction subclass defining onActivate and onDeactivate hooks for setup and cleanup work performed during WebView SafeMode in the non-embedded process.
+// ---
+
 package org.chromium.android_webview.services;
 
 import org.chromium.android_webview.common.SafeModeAction;

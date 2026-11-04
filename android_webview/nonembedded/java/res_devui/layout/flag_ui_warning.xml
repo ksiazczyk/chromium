@@ -5,6 +5,12 @@
   found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Flags screen warning banner layout
+summary: Layout for the warning banner shown on the flags screen, alerting users that experimental features are ahead and describing the risks.
+-->
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/flag_ui_warning"

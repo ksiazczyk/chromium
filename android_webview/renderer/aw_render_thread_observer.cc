@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwRenderThreadObserver implementation
+// summary: Implements render-process wide WebView IPC handlers for clearing the Blink cache, updating network state, and prefetching the native library.
+// relations:
+//   - implements /android_webview/renderer/aw_render_thread_observer.h
+//   - depends_on /base/android/library_loader/library_prefetcher.h
+//   - depends_on /base/task/thread_pool.h
+// ---
+
 #include "android_webview/renderer/aw_render_thread_observer.h"
 
 #include "base/android/library_loader/anchor_functions_buildflags.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for nonembedded WebView Java code
+summary: Grants the nonembedded WebView Java code include access to the background task scheduler, minidump uploader, and variations component directories.

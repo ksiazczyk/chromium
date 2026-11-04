@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewProviderFactory boundary interface
+// summary: Boundary interface for WebView globals and singletons, providing builders, controllers, profile store, supported features, and asynchronous WebView startup.
+// relations:
+//   - references /components/embedder_support/android/util/web_resource_response.cc
+//   - depends_on /android_webview/support_library/boundary_interfaces/src/org/chromium/support_lib_boundary/DropDataContentProviderBoundaryInterface.java
+// ---
+
 package org.chromium.support_lib_boundary;
 
 import android.webkit.WebView;

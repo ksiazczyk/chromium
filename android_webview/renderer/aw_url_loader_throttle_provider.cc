@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwURLLoaderThrottleProvider implementation
+// summary: Creates renderer-side URL loader throttles, adding Safe Browsing checks for non-frame resource requests in WebView.
+// relations:
+//   - implements /android_webview/renderer/aw_url_loader_throttle_provider.h
+//   - depends_on /base/feature_list.h
+//   - depends_on /base/memory/ptr_util.h
+// ---
+
 #include "android_webview/renderer/aw_url_loader_throttle_provider.h"
 
 #include <memory>

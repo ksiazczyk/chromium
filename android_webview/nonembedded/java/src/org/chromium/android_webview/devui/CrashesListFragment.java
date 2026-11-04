@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrashesListFragment
+// summary: Fragment of the WebView DevTools UI that lists recent WebView crashes and supports uploading them or filing bugs, with dialogs for consent and metered networks.
+// relations:
+//   - depends_on /android_webview/nonembedded/java/src/org/chromium/android_webview/devui/DevUiBaseFragment.java
+// ---
+
 package org.chromium.android_webview.devui;
 
 import android.app.Activity;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SupportLibWebChromeClientAdapter
+// summary: Adapter that detects WebChromeClientCompat clients via reflection, tracks their supported features, records a usage histogram, and forwards callbacks such as onReceivedThemeColor.
+// ---
+
 package org.chromium.support_lib_callback_glue;
 
 import android.graphics.Color;

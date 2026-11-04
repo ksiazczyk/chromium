@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Support library adapter for service worker settings
+// summary: Adapter between AwServiceWorkerSettings and ServiceWorkerWebSettingsBoundaryInterface exposing settings such as cache mode, content and file access, and network loads.
+// ---
+
 package org.chromium.support_lib_glue;
 
 import static org.chromium.support_lib_glue.SupportLibWebViewChromiumFactory.recordApiCall;

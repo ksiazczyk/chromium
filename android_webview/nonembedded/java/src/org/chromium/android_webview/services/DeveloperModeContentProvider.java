@@ -1,6 +1,13 @@
 // Copyright 2019 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: DeveloperModeContentProvider
+// summary: Content provider that exposes WebView developer mode flag overrides through query() to any context, including the embedded WebView implementation.
+// ---
+
 package org.chromium.android_webview.services;
 
 import android.content.ContentProvider;

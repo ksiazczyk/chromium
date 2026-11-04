@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser-exposed renderer interfaces implementation
+// summary: Exposes WebView renderer Mojo interfaces to the browser, binding the visited link notification sink to the visited link reader.
+// relations:
+//   - implements /android_webview/renderer/browser_exposed_renderer_interfaces.h
+//   - depends_on /android_webview/renderer/aw_content_renderer_client.h
+//   - depends_on /base/task/single_thread_task_runner.h
+// ---
+
 #include "android_webview/renderer/browser_exposed_renderer_interfaces.h"
 
 #include "android_webview/renderer/aw_content_renderer_client.h"

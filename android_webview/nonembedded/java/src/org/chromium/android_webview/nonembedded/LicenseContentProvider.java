@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView license content provider
+// summary: Content provider that serves WebView OSS license HTML for about:credits in SystemWebview and TrichromeWebview, falling back to an asset in the stub.
+// relations:
+//   - depends_on /android_webview/nonembedded/java/src/org/chromium/android_webview/nonembedded/WebViewApkApplication.java
+// ---
+
 package org.chromium.android_webview.nonembedded;
 
 import android.content.ContentProvider;

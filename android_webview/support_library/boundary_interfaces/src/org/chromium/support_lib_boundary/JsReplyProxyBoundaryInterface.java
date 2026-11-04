@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JsReplyProxy boundary interface
+// summary: Boundary interface for the JavaScript reply proxy used to post messages with payloads and execute JavaScript back into the page.
+// ---
+
 package org.chromium.support_lib_boundary;
 
 import org.jspecify.annotations.NullMarked;

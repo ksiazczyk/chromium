@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwEntropyState
+// summary: Manages generation, storage, and retrieval of the low entropy source and limited entropy randomization source used by WebView variations, persisted in shared preferences.
+// ---
+
 package org.chromium.android_webview.services;
 
 import android.content.Context;

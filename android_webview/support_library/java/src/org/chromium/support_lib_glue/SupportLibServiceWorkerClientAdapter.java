@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Support library adapter for service worker clients
+// summary: Adapter between ServiceWorkerClientBoundaryInterface and AwServiceWorkerClient that intercepts service worker requests when the shouldInterceptRequest feature is supported.
+// ---
+
 package org.chromium.support_lib_glue;
 
 import static org.chromium.support_lib_glue.SupportLibWebViewChromiumFactory.recordApiCall;

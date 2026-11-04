@@ -4,6 +4,13 @@
   Use of this source code is governed by a BSD-style license that can be
   found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Television UI styles for WebView developer UI
+summary: Android resource XML defining TV-specific styles such as TvNonFocusable and TvClickableRow that control focusability and clickable backgrounds for the WebView developer UI on television devices.
+-->
+
 <resources>
     <!-- Style for elements which are focusable for phones (such as for talkback)
          but which are non-focusable for TV (because there's no need to D-pad navigate to them). -->

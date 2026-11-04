@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file with security review rules
+summary: Sets per-file ownership so changes to browser_exposed_renderer_interfaces.cc require review by the IPC security owners.
+relations:
+  - references /ipc/SECURITY_OWNERS

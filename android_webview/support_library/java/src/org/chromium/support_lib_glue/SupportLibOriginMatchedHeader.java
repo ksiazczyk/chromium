@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SupportLibOriginMatchedHeader
+// summary: Support library glue implementation of OriginMatchedHeaderBoundaryInterface that delegates name, value and rules access to AwOriginMatchedHeader.
+// ---
+
 package org.chromium.support_lib_glue;
 
 import org.chromium.android_webview.AwOriginMatchedHeader;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView navigation support library adapter
+// summary: Adapts WebViewNavigationBoundaryInterface to AwNavigation, exposing the URL and flags such as reload, history, back, forward, and commit state.
+// ---
+
 package org.chromium.support_lib_glue;
 
 import static org.chromium.support_lib_glue.SupportLibWebViewChromiumFactory.recordApiCall;

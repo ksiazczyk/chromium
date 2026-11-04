@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewNavigationState boundary interface
+// summary: Thread-safe boundary interface exposing a snapshot of navigation state such as URL, status code, flags, response headers, and page state.
+// ---
+
 package org.chromium.support_lib_boundary;
 
 import androidx.annotation.AnyThread;

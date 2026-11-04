@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwContentSettingsClient implementation
+// summary: Implements per-frame content settings for WebView, allowing mixed content for non-standard schemes and applying mixed content auto-upgrade preferences.
+// relations:
+//   - implements /android_webview/renderer/aw_content_settings_client.h
+//   - depends_on /content/public/renderer/render_frame.h
+//   - depends_on /third_party/blink/public/platform/web_url.h
+// ---
+
 #include "android_webview/renderer/aw_content_settings_client.h"
 
 #include "content/public/common/url_constants.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView APK application subclass
+// summary: Application subclass for standalone WebView and Trichrome that initializes process globals, locales, crash handling, and metrics for WebView APK processes.
+// ---
+
 package org.chromium.android_webview.nonembedded;
 
 import android.app.Application;

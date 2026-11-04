@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SupportLibWebResourceError adapter
+// summary: Implements WebResourceErrorBoundaryInterface by wrapping an AwWebResourceError and exposing its error code, debug code, and description to the support library boundary.
+// ---
+
 package org.chromium.support_lib_callback_glue;
 
 import org.chromium.android_webview.AwWebResourceError;

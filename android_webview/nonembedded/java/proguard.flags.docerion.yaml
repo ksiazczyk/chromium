@@ -1,0 +1,4 @@
+# Docerion header of proguard.flags.
+type: config
+title: ProGuard keep rules for WebView Chromium classes
+summary: Keeps WebView factory providers, API entry points, functor classes, and adapter class names required for reflection, resource scanning, and CTS compatibility.

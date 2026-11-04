@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwRenderFrameExt class declaration
+// summary: Declares the AwRenderFrameExt class, a RenderFrameObserver and LocalMainFrame mojom implementation for WebView renderer frames.
+// relations:
+//   - depends_on /content/public/renderer/render_frame_observer.h
+//   - depends_on /mojo/public/cpp/bindings/associated_receiver.h
+//   - depends_on /mojo/public/cpp/bindings/associated_remote.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_RENDERER_AW_RENDER_FRAME_EXT_H_
 #define ANDROID_WEBVIEW_RENDERER_AW_RENDER_FRAME_EXT_H_
 

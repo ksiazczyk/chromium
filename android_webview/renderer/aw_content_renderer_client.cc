@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwContentRendererClient implementation
+// summary: Implements WebView's renderer client, wiring render thread observers, visited links, error pages, spellcheck, key systems, prescient networking, and navigation handling.
+// relations:
+//   - implements /android_webview/renderer/aw_content_renderer_client.h
+//   - depends_on /android_webview/common/aw_features.h
+//   - depends_on /android_webview/common/aw_switches.h
+// ---
+
 #include "android_webview/renderer/aw_content_renderer_client.h"
 
 #include <memory>

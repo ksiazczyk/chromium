@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SupportLibWebViewContentsClientAdapter
+// summary: Support library glue version of WebViewContentsClientAdapter that detects WebViewClientCompat clients via reflection, tracks supported features, and records a compat usage histogram.
+// ---
+
 package org.chromium.support_lib_callback_glue;
 
 import android.webkit.WebResourceRequest;

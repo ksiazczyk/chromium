@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics upload service
+// summary: Android service that receives UMA metrics logs from embedded WebView instances and forwards them to GMS-core, mapping platform status codes to HTTP status codes.
+// ---
+
 package org.chromium.android_webview.services;
 
 import android.app.Service;

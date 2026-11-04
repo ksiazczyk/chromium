@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process global config constants
+// summary: Constants shared between Chromium and AndroidX for process global config map keys and WebView UI thread startup modes.
+// ---
+
 package org.chromium.support_lib_boundary;
 
 import androidx.annotation.RestrictTo;

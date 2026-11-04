@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SupportLibDropDataContentProviderAdapter
+// summary: Adapter implementing DropDataContentProviderBoundaryInterface that delegates drag-and-drop data content provider operations to DropDataProviderImpl.
+// ---
+
 package org.chromium.support_lib_glue;
 
 import android.content.ContentProvider;

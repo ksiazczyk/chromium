@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build target for boundary interface Java sources
+summary: Defines the android_library build target that compiles the org.chromium.support_lib_boundary Java interface sources.
+relations:
+  - depends_on /build/config/android/config.gni
+  - depends_on /build/config/android/rules.gni
+  - has_part /android_webview/support_library/boundary_interfaces/src/org/chromium/support_lib_boundary/DropDataContentProviderBoundaryInterface.java

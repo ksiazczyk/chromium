@@ -1,3 +1,9 @@
+---
+type: readme
+title: Boundary Interfaces for WebView's Jetpack libraries
+summary: Explains that the canonical boundary interfaces live in Chromium and are mirrored into Android, directing changes to the Chromium repository.
+---
+
 # Boundary Interfaces for WebView's Jetpack libraries
 
 **Note:** the canonical copy of the boundary interfaces lives in the chromium

@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build config for WebView support library callback glue
+summary: Defines the callback_java Android library target that compiles support library callback glue classes, such as SafeBrowsing response and WebChromeClient adapters, for the Chromium WebView.
+relations:
+  - depends_on /build/config/android/config.gni
+  - depends_on /build/config/android/rules.gni
+  - has_part /android_webview/support_library/callback/java/src/org/chromium/support_lib_callback_glue/SupportLibSafeBrowsingResponse.java

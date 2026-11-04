@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView support library feature name constants
+// summary: Defines string constants naming the features the WebView support library can support, shared between Chromium and the Android Support Library.
+// ---
+
 package org.chromium.support_lib_boundary.util;
 
 import org.jspecify.annotations.NullMarked;

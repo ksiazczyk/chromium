@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewApkProcess class header
+// summary: Declares the WebViewApkProcess singleton class that holds global state and provides access to the pref service in the webview APK process.
+// relations:
+//   - depends_on /base/sequence_checker.h
+//   - depends_on /base/task/single_thread_task_executor.h
+//   - depends_on /components/prefs/pref_service.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_NONEMBEDDED_WEBVIEW_APK_PROCESS_H_
 #define ANDROID_WEBVIEW_NONEMBEDDED_WEBVIEW_APK_PROCESS_H_
 

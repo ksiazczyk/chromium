@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: MetricsBridgeService
+// summary: Service that records UMA histogram calls from non-embedded WebView processes into a log file so they can later be retrieved and uploaded.
+// ---
+
 package org.chromium.android_webview.services;
 
 import android.app.Service;

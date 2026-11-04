@@ -1,6 +1,15 @@
 // Copyright 2019 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: HomeFragment
+// summary: Main fragment of the WebView DevTools UI that shows a summary of the WebView package, DevTools package, and device, with copy-to-clipboard on long press.
+// relations:
+//   - depends_on /android_webview/nonembedded/java/src/org/chromium/android_webview/devui/DevUiBaseFragment.java
+// ---
+
 package org.chromium.android_webview.devui;
 
 import android.app.Activity;
