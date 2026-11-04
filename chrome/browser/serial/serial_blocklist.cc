@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Serial blocklist implementation
+// summary: Implements the serial device blocklist, matching USB vendor and product IDs and Bluetooth service UUIDs against static and server-provided entries.
+// ---
+
 #include "chrome/browser/serial/serial_blocklist.h"
 
 #include <algorithm>

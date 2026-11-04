@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SecurityEventRecorderImpl interface
+// summary: Declares SecurityEventRecorderImpl, which wraps a security event sync bridge and clock to record GaiaPasswordReuse events.
+// ---
+
 #ifndef CHROME_BROWSER_SECURITY_EVENTS_SECURITY_EVENT_RECORDER_IMPL_H_
 #define CHROME_BROWSER_SECURITY_EVENTS_SECURITY_EVENT_RECORDER_IMPL_H_
 

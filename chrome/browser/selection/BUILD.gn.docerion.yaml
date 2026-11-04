@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for the selection source set and unit tests
+summary: GN build file defining the selection source set, its dependencies, and the unit test target.

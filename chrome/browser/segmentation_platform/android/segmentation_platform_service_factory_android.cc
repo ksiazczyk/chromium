@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Segmentation platform service factory JNI bridge
+// summary: Android JNI entry point that returns the Java object of the per-profile segmentation platform service from the native factory.
+// ---
+
 #include "base/android/scoped_java_ref.h"
 #include "chrome/browser/profiles/profile.h"
 #include "chrome/browser/segmentation_platform/segmentation_platform_service_factory.h"

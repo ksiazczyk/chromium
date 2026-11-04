@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Prepopulated engines migration browser tests
+// summary: Browser test suite verifying migration of prepopulated search engines to new IDs, such as splitting Android codesearch into its own engine entry.
+// ---
+
 #include <memory>
 #include <optional>
 #include <ostream>

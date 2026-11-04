@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomSearchEngineCoordinator
+// summary: Coordinates the custom search engine settings UI, wiring the adapter, mediator, property model, and site search edit and remove dialogs.
+// ---
+
 package org.chromium.chrome.browser.search_engines.settings.custom_search_engine;
 
 import android.content.Context;

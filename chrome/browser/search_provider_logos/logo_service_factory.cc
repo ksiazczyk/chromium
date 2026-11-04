@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LogoServiceFactory implementation
+// summary: Implements the per-profile factory that builds LogoServiceImpl instances with cached logo storage, identity and template URL dependencies.
+// ---
+
 #include "chrome/browser/search_provider_logos/logo_service_factory.h"
 
 #include "base/feature_list.h"

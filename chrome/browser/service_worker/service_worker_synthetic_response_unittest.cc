@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for synthetic service worker response eligibility
+// summary: Unit tests verifying that synthetic responses are allowed only for default search engine search URLs on the provider's own origin.
+// ---
+
 #include "chrome/browser/service_worker/service_worker_synthetic_response.h"
 
 #include <memory>

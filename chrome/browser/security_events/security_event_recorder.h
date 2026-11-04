@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SecurityEventRecorder interface
+// summary: Declares the SecurityEventRecorder keyed service interface for recording GaiaPasswordReuse events via Chrome Sync and exposing the sync controller delegate.
+// ---
+
 #ifndef CHROME_BROWSER_SECURITY_EVENTS_SECURITY_EVENT_RECORDER_H_
 #define CHROME_BROWSER_SECURITY_EVENTS_SECURITY_EVENT_RECORDER_H_
 

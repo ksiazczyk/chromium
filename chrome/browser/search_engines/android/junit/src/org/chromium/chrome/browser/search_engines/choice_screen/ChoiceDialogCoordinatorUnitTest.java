@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChoiceDialogCoordinator unit tests
+// summary: Robolectric unit tests verifying when and how the search engine choice dialog coordinator shows, suppresses, or records histograms for the OS default choice dialog.
+// ---
+
 package org.chromium.chrome.browser.search_engines.choice_screen;
 
 import static org.junit.Assert.assertEquals;

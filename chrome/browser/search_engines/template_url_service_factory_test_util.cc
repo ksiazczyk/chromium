@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TemplateURLServiceFactory test utilities implementation
+// summary: Implements test helpers that install a TemplateURLService testing factory for a profile and verify the model loads.
+// ---
+
 #include "chrome/browser/search_engines/template_url_service_factory_test_util.h"
 
 #include "base/functional/bind.h"

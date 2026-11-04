@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CustomSearchEngineAdapterUnitTest
+// summary: Robolectric unit tests verifying that CustomSearchEngineAdapter creates view holders for search engine items with the expected view binder tags.
+// ---
+
 package org.chromium.chrome.browser.search_engines.settings.custom_search_engine;
 
 import static org.junit.Assert.assertNotNull;

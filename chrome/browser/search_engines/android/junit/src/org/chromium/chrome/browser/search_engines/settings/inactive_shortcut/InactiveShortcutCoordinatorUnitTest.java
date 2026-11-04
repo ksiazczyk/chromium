@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for InactiveShortcutCoordinator
+// summary: Robolectric and Mockito unit tests for InactiveShortcutCoordinator, mocking template URL, preference, and eligibility services under the starter pack expansion feature.
+// ---
+
 package org.chromium.chrome.browser.search_engines.settings.inactive_shortcut;
 
 import static org.mockito.ArgumentMatchers.any;

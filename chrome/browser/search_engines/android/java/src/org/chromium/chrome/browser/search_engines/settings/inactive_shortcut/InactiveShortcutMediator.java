@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InactiveShortcutMediator
+// summary: Populates the list of inactive site search engines and handles menu actions to activate, make default or delete them, with starter pack restrictions.
+// ---
+
 package org.chromium.chrome.browser.search_engines.settings.inactive_shortcut;
 
 import android.content.Context;

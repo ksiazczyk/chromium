@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for segmentation_platform
+summary: Directory metadata that reuses the shared segmentation platform COMMON_METADATA mixins.

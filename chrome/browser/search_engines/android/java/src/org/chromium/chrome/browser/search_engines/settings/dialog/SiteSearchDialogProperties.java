@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site search dialog property keys
+// summary: Defines the property keys for the site search dialog model, covering input fields, change callbacks, error messages, and URL enablement.
+// ---
+
 package org.chromium.chrome.browser.search_engines.settings.dialog;
 
 import org.chromium.base.Callback;

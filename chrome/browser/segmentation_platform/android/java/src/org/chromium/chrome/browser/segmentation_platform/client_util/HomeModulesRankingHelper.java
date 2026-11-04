@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: HomeModulesRankingHelper
+// summary: Helper class that fetches the home modules ranking order and notifies the native module ranker of card shown and interaction events via JNI.
+// ---
+
 package org.chromium.chrome.browser.segmentation_platform.client_util;
 
 import org.jni_zero.JniType;

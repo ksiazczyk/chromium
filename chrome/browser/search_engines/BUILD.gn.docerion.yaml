@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the search_engines browser code
+summary: Defines GN source sets for the Chrome search engines browser code, plus test support and unit test targets with their platform-conditional dependencies.

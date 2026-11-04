@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS delegating to content Android owners
+summary: Delegates code ownership of the Android selection directory to the owners of content/public/android.

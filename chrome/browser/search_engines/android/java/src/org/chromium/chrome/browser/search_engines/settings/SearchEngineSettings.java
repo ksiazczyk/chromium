@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchEngineSettings
+// summary: Settings list fragment for choosing the default search engine, including an EEA choice header and a link to manage search engines and site search.
+// ---
+
 package org.chromium.chrome.browser.search_engines.settings;
 
 import android.content.Context;

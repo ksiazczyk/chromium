@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UIThreadSearchTermsData implementation
+// summary: Implements SearchTermsData usable on the UI thread, supplying Google base URL, locale, RLZ, and image search source values.
+// ---
+
 #include "chrome/browser/search_engines/ui_thread_search_terms_data.h"
 
 #include "base/check.h"

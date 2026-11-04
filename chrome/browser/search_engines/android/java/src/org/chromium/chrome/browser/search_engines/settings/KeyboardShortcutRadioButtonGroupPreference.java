@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard shortcut radio group preference for search engine settings
+// summary: Android preference widget offering a radio group to choose between space-or-tab and tab as the omnibox keyword shortcut, persisting the choice in user prefs.
+// ---
+
 package org.chromium.chrome.browser.search_engines.settings;
 
 import android.content.Context;

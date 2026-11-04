@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SerialBridge Java access point for serial port state queries
+// summary: Java entry point that queries via JNI whether a given WebContents is connected to a serial port, exposing isWebContentsConnectedToSerialPort to browser code.
+// ---
+
 package org.chromium.chrome.browser.serial;
 
 import org.jni_zero.NativeMethods;

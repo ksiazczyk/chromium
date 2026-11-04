@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JNI handler for extension control
+// summary: Implements the JNI-backed handler that disables Chrome extensions on Android when triggered by a user action.
+// ---
+
 #include "chrome/browser/search_engines/extension_control_handler_android.h"
 
 #include "base/android/jni_string.h"

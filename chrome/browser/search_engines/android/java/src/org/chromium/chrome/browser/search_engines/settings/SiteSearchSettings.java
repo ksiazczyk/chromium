@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SiteSearchSettings
+// summary: Settings fragment for the manage search engines and site search page, coordinating sections for custom engines, site search, inactive shortcuts and extensions.
+// ---
+
 package org.chromium.chrome.browser.search_engines.settings;
 
 import android.content.Context;

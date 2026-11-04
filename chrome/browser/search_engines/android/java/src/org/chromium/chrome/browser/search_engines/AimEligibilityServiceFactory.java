@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AimEligibilityServiceFactory
+// summary: Factory exposing a JNI-backed check for whether the Aim starter pack is enabled for a given profile.
+// ---
+
 package org.chromium.chrome.browser.search_engines;
 
 import org.jni_zero.JniType;

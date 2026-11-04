@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchEngineListPreference hosting a RecyclerView
+// summary: ChromeBasePreference subclass that embeds a RecyclerView adapter to render search engine lists inside the settings screen.
+// ---
+
 package org.chromium.chrome.browser.search_engines.settings.common;
 
 import android.content.Context;

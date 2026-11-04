@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchEnginePromoState
+// summary: IntDef annotation defining the states of search engine promo dialog checks, from should-check to shown.
+// ---
+
 package org.chromium.chrome.browser.search_engines;
 
 import androidx.annotation.IntDef;

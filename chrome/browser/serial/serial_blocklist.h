@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Serial blocklist class declaration
+// summary: Declares the SerialBlocklist singleton that excludes devices from Web Serial access, with a Finch-configured parameter for dynamic blocklist additions.
+// ---
+
 #ifndef CHROME_BROWSER_SERIAL_SERIAL_BLOCKLIST_H_
 #define CHROME_BROWSER_SERIAL_SERIAL_BLOCKLIST_H_
 

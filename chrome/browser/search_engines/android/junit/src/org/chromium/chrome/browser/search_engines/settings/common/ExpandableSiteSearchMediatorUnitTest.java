@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExpandableSiteSearchMediatorUnitTest
+// summary: Robolectric unit tests for ExpandableSiteSearchMediator, covering expansion via the more button and updates on template URL service changes.
+// ---
+
 package org.chromium.chrome.browser.search_engines.settings.common;
 
 import static org.junit.Assert.assertEquals;

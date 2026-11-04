@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for InactiveShortcutMediator
+// summary: Robolectric and Mockito unit tests for InactiveShortcutMediator, covering its model list behavior with mocked template URL, preference, and eligibility services.
+// ---
+
 package org.chromium.chrome.browser.search_engines.settings.inactive_shortcut;
 
 import static org.junit.Assert.assertEquals;

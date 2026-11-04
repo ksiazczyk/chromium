@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for segmentation_platform
+summary: Owners file delegating review ownership to the components/segmentation_platform OWNERS list.

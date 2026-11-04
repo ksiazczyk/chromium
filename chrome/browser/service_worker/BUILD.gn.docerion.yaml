@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for Chrome service worker code
+summary: Defines the service_worker source set plus browser test and unit test targets for the Chrome service worker directory.

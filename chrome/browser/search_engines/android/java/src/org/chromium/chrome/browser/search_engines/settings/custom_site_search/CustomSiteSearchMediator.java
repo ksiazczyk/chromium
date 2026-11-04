@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CustomSiteSearchMediator
+// summary: Mediator that populates the custom site search list from active site search engines and handles add, edit, deactivate, and remove actions via menu delegates.
+// ---
+
 package org.chromium.chrome.browser.search_engines.settings.custom_site_search;
 
 import android.content.Context;

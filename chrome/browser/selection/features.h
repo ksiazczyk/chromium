@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart selection feature flag declarations
+// summary: Declares the feature flag and timeout parameter used to control server-side smart selection suggestions.
+// ---
+
 #ifndef CHROME_BROWSER_SELECTION_FEATURES_H_
 #define CHROME_BROWSER_SELECTION_FEATURES_H_
 

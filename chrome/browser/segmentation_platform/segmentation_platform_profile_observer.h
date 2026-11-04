@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Segmentation platform profile observer
+// summary: Declares an observer that watches profile creation and destruction and pauses segmentation signal collection while off-the-record profiles exist.
+// ---
+
 #ifndef CHROME_BROWSER_SEGMENTATION_PLATFORM_SEGMENTATION_PLATFORM_PROFILE_OBSERVER_H_
 #define CHROME_BROWSER_SEGMENTATION_PLATFORM_SEGMENTATION_PLATFORM_PROFILE_OBSERVER_H_
 

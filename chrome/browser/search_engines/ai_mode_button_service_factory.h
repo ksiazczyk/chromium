@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AiModeButtonServiceFactory declaration
+// summary: Declares the profile-keyed factory that provides an AiModeButtonService instance for each browser profile.
+// ---
+
 #ifndef CHROME_BROWSER_SEARCH_ENGINES_AI_MODE_BUTTON_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_SEARCH_ENGINES_AI_MODE_BUTTON_SERVICE_FACTORY_H_
 

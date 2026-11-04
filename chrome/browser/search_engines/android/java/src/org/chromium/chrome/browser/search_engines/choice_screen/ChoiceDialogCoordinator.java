@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChoiceDialogCoordinator
+// summary: Entry point that shows a blocking dialog inviting users to finish their default app and search engine choice in Android settings, with metrics and an escape hatch limit.
+// ---
+
 package org.chromium.chrome.browser.search_engines.choice_screen;
 
 import static org.chromium.chrome.browser.preferences.ChromePreferenceKeys.SEARCH_ENGINE_CHOICE_PENDING_OS_CHOICE_DIALOG_SHOWN_ATTEMPTS;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TemplateURLService unit tests
+// summary: Unit tests for TemplateURLService covering keyword management, default search provider selection, and engine lifecycle.
+// ---
+
 #include "components/search_engines/template_url_service.h"
 
 #include <stddef.h>

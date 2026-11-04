@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Blocking choice confirmation illustration (night mode)
+summary: Night-mode Android vector drawable showing a search bar with a green checkmark, used as the illustration for the blocking choice confirmation dialog.
+-->
+
 <!-- VectorRaster warning is ignored because we intentionally want the width to
      be greater than 200. -->
 <vector xmlns:android="http://schemas.android.com/apk/res/android"

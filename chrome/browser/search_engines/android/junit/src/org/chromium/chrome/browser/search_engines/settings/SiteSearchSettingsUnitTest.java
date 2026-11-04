@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SiteSearchSettings unit tests
+// summary: Robolectric unit tests verifying the site search settings fragment's page title and preference creation, including extension search engine behavior.
+// ---
+
 package org.chromium.chrome.browser.search_engines.settings;
 
 import static org.junit.Assert.assertEquals;

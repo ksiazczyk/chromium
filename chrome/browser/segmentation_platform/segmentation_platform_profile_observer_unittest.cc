@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Segmentation platform profile observer unit tests
+// summary: Unit tests verifying that segmentation signal collection is paused and resumed as off-the-record profiles are created and destroyed.
+// ---
+
 #include "chrome/browser/segmentation_platform/segmentation_platform_profile_observer.h"
 
 #include "chrome/browser/profiles/profile_destroyer.h"

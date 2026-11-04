@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Segmentation platform service factory unit tests
+// summary: Unit tests covering initialization, cached results, and default model behavior of the segmentation platform service factory.
+// ---
+
 #include "chrome/browser/segmentation_platform/segmentation_platform_service_factory.h"
 
 #include <memory>

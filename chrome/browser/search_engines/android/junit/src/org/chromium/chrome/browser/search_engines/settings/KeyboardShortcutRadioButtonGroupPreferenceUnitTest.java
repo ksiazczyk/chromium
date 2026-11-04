@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: KeyboardShortcutRadioButtonGroupPreference unit tests
+// summary: Robolectric unit tests verifying that the keyboard shortcut radio button group preference reflects the omnibox keyword space triggering preference state.
+// ---
+
 package org.chromium.chrome.browser.search_engines.settings;
 
 import static org.mockito.ArgumentMatchers.any;

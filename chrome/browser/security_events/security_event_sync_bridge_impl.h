@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security Event Sync Bridge Impl Header
+// summary: Declares SecurityEventSyncBridgeImpl, which combines the security event bridge and DataTypeSyncBridge to persist and sync security events via an in-memory-cached store.
+// ---
+
 #ifndef CHROME_BROWSER_SECURITY_EVENTS_SECURITY_EVENT_SYNC_BRIDGE_IMPL_H_
 #define CHROME_BROWSER_SECURITY_EVENTS_SECURITY_EVENT_SYNC_BRIDGE_IMPL_H_
 

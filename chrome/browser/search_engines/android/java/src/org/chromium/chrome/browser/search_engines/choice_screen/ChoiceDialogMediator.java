@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChoiceDialogMediator
+// summary: Handles signals from observers and services to manage the state and type of the search engine choice dialog through its delegate.
+// ---
+
 package org.chromium.chrome.browser.search_engines.choice_screen;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

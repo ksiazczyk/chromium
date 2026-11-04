@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Prewarm service worker registration for the default search engine
+// summary: Implements prewarming of the service worker registration for the default search engine URL, gated by a feature flag and counted for tests.
+// ---
+
 #include "chrome/browser/service_worker/service_worker_prewarm.h"
 
 #include "base/check_is_test.h"

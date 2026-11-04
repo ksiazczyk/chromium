@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Android serial browser build targets
+summary: GN build file defining the Android Java library, resources, JNI header generation, and Robolectric unit tests for the browser serial component.

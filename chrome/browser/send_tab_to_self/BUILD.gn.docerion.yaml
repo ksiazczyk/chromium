@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Send Tab to Self browser build targets
+summary: Defines GN source sets for the send_tab_to_self browser code, its implementation dependencies, and its unit and browser test targets.

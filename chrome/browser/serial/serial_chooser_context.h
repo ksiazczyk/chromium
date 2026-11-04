@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Serial chooser context class declaration
+// summary: Declares SerialChooserContext, which grants, checks and revokes serial port permissions and exposes port manager access and port observers.
+// ---
+
 #ifndef CHROME_BROWSER_SERIAL_SERIAL_CHOOSER_CONTEXT_H_
 #define CHROME_BROWSER_SERIAL_SERIAL_CHOOSER_CONTEXT_H_
 

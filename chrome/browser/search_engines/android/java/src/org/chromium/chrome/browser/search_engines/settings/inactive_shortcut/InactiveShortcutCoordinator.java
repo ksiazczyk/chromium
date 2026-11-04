@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InactiveShortcutCoordinator
+// summary: Coordinates the inactive shortcut preference UI, wiring the adapter, mediator, property model and site search dialog, with cleanup on destroy.
+// ---
+
 package org.chromium.chrome.browser.search_engines.settings.inactive_shortcut;
 
 import android.content.Context;

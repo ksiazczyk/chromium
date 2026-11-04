@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SiteSearchProperties model keys and view types
+// summary: Defines the writable property keys, view type constants, and item position constants used by the site search settings MVC list items.
+// ---
+
 package org.chromium.chrome.browser.search_engines.settings.common;
 
 import android.graphics.Bitmap;

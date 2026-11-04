@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Segmentation platform service browser tests
+// summary: Browser tests exercising the segmentation platform service end to end, including UKM feature processing, SQL queries, and model execution.
+// ---
+
 #include <memory>
 
 #include "base/files/file_util.h"

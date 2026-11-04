@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Serial policy allowed ports implementation
+// summary: Loads and interprets the SerialAllowForUrls and SerialAllowUsbDevicesForUrls policies to grant origins access to serial ports.
+// ---
+
 #include "chrome/browser/serial/serial_policy_allowed_ports.h"
 
 #include <optional>

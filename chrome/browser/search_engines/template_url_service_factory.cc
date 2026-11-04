@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Template URL service factory implementation
+// summary: Implements the profile-keyed factory that builds TemplateURLService with prefs, web data, history client, and search terms data dependencies.
+// ---
+
 #include "chrome/browser/search_engines/template_url_service_factory.h"
 
 #include <string>

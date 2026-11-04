@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android JNI glue for TemplateURLServiceFactory
+// summary: Implements the Android JNI entry point that returns the profile's TemplateURLService Java object.
+// ---
+
 #include "base/android/jni_android.h"
 #include "chrome/browser/profiles/profile.h"
 #include "chrome/browser/search_engines/template_url_service_factory.h"

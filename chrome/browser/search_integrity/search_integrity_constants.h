@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search integrity constants
+// summary: Defines shared constants for the minimum word length in name matching and the hex escape threshold for obfuscated URLs.
+// ---
+
 #ifndef CHROME_BROWSER_SEARCH_INTEGRITY_SEARCH_INTEGRITY_CONSTANTS_H_
 #define CHROME_BROWSER_SEARCH_INTEGRITY_SEARCH_INTEGRITY_CONSTANTS_H_
 

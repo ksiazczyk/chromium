@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionSearchEngineMediator
+// summary: Mediator that populates the settings list with extension-provided search engines and handles menu actions to manage or disable the providing extension.
+// ---
+
 package org.chromium.chrome.browser.search_engines.settings.extensions;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome serial delegate implementation
+// summary: Implements the Chrome serial delegate that blocks serial access in guest contexts and forwards chooser and port permission requests to the profile's chooser context.
+// ---
+
 #include "chrome/browser/serial/chrome_serial_delegate.h"
 
 #include <utility>

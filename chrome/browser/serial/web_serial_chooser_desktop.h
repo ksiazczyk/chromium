@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop WebSerialChooser header
+// summary: Declares the WebSerialChooserDesktop subclass that shows the desktop serial device chooser dialog and holds a ScopedClosureRunner for its dismissal callback.
+// ---
+
 #ifndef CHROME_BROWSER_SERIAL_WEB_SERIAL_CHOOSER_DESKTOP_H_
 #define CHROME_BROWSER_SERIAL_WEB_SERIAL_CHOOSER_DESKTOP_H_
 

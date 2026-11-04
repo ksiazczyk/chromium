@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SerialNotificationManager for WebSerial connection notifications
+// summary: Creates, updates and cancels the WebSerial notification shown when a website is connected to a serial port, handling intents, notification IDs and shared preferences state.
+// ---
+
 package org.chromium.chrome.browser.serial;
 
 import static org.chromium.build.NullUtil.assertNonNull;

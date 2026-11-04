@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Send Tab to Self scroll observer implementation
+// summary: Implements a WebContents observer that accumulates gesture scroll volume on tabs opened via Send Tab to Self and records it as a metric.
+// ---
+
 #include "chrome/browser/send_tab_to_self/send_tab_to_self_scroll_observer.h"
 
 #include "components/send_tab_to_self/metrics_util.h"

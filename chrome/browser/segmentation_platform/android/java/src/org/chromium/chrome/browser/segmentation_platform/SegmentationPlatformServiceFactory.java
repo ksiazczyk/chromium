@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SegmentationPlatformServiceFactory
+// summary: Factory that creates or retrieves the SegmentationPlatformService for a given Chrome profile, with a test override hook and JNI binding to native code.
+// ---
+
 package org.chromium.chrome.browser.segmentation_platform;
 
 import org.jni_zero.JniType;

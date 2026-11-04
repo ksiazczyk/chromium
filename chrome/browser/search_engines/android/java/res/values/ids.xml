@@ -6,6 +6,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Search engine resource IDs
+summary: Declares an Android resource ID named default_search_engine_dialog_options used by the search engine UI.
+-->
+
 <resources>
     <item name="default_search_engine_dialog_options" type="id"/>
 </resources>

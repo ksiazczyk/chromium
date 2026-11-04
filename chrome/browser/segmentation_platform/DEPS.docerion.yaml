@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for segmentation platform
+summary: Allows includes of commerce, segmentation platform, sync device info and visited URL ranking components from this directory.

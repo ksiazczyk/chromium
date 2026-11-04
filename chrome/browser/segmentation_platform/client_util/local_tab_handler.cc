@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local tab handler implementation
+// summary: Implements TabFetcher and tab session source logic that fetches local tabs from Android tab models or desktop tab strip models for the segmentation platform.
+// ---
+
 #include "chrome/browser/segmentation_platform/client_util/local_tab_handler.h"
 
 #include "base/time/time.h"

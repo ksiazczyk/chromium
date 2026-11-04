@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Template URL scraper browser tests
+// summary: Browser test that scrapes search engine template URLs from a page with an OpenSearch submit handler served by an embedded test server.
+// ---
+
 #include <stddef.h>
 
 #include <utility>

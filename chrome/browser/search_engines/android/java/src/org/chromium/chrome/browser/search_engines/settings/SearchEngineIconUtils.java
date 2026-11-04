@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchEngineIconUtils
+// summary: Utility helpers that update search engine icons in views, using caches, built-in resources, or fetching favicons from the Google favicon server.
+// ---
+
 package org.chromium.chrome.browser.search_engines.settings;
 
 import android.content.Context;

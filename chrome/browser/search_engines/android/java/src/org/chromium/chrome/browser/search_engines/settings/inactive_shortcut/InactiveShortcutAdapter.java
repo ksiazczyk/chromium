@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InactiveShortcutAdapter
+// summary: RecyclerView adapter that registers view types and binders for search engine and more items in the inactive shortcut settings list.
+// ---
+
 package org.chromium.chrome.browser.search_engines.settings.inactive_shortcut;
 
 import android.content.Context;

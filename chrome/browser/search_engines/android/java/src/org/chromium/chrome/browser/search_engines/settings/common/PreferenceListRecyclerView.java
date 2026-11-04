@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PreferenceListRecyclerView with divider decoration
+// summary: Custom RecyclerView for preference lists that uses a linear layout manager and draws dividers between items while omitting the last one.
+// ---
+
 package org.chromium.chrome.browser.search_engines.settings.common;
 
 import static org.chromium.build.NullUtil.assertNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Serial policy allowed ports declaration
+// summary: Declares SerialPolicyAllowedPorts, which maintains enterprise policy configuration for allowed serial ports, USB vendors and devices per origin.
+// ---
+
 #ifndef CHROME_BROWSER_SERIAL_SERIAL_POLICY_ALLOWED_PORTS_H_
 #define CHROME_BROWSER_SERIAL_SERIAL_POLICY_ALLOWED_PORTS_H_
 

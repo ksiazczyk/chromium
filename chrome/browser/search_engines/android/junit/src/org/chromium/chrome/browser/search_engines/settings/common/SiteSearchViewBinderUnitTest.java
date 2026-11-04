@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SiteSearchViewBinderUnitTest
+// summary: Robolectric unit tests for SiteSearchViewBinder, checking that site name, shortcut, icons, and accessibility actions bind correctly to views.
+// ---
+
 package org.chromium.chrome.browser.search_engines.settings.common;
 
 import static org.junit.Assert.assertEquals;

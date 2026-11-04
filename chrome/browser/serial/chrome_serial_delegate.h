@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome serial delegate class declaration
+// summary: Declares ChromeSerialDelegate, the Chrome implementation of the content SerialDelegate interface for chooser and port permission handling.
+// ---
+
 #ifndef CHROME_BROWSER_SERIAL_CHROME_SERIAL_DELEGATE_H_
 #define CHROME_BROWSER_SERIAL_CHROME_SERIAL_DELEGATE_H_
 

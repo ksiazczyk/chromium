@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionControlHandler
+// summary: JNI-backed handler that creates per-profile extension controls and disables extensions by ID, with a test factory hook.
+// ---
+
 package org.chromium.chrome.browser.search_engines;
 
 import org.jni_zero.JniType;

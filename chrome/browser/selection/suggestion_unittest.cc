@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Suggestion unit tests
+// summary: Unit tests for the Suggestion class covering mojo endpoint binding, execution, disconnect handling, and interface name registration.
+// ---
+
 #include "chrome/browser/selection/suggestion.h"
 
 #include <string>

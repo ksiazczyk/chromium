@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SendTabToSelfPageHandler header
+// summary: Declares the WebContentsUserData handler that manages pending send requests and scroll position selector generation for Send Tab to Self.
+// ---
+
 #ifndef CHROME_BROWSER_SEND_TAB_TO_SELF_SEND_TAB_TO_SELF_PAGE_HANDLER_H_
 #define CHROME_BROWSER_SEND_TAB_TO_SELF_SEND_TAB_TO_SELF_PAGE_HANDLER_H_
 

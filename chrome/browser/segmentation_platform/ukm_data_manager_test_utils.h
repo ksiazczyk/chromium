@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UKM data manager test utilities
+// summary: Declares helpers to set up UKM testing for the segmentation platform, including default model overrides, sample metadata, and profile setup.
+// ---
+
 #ifndef CHROME_BROWSER_SEGMENTATION_PLATFORM_UKM_DATA_MANAGER_TEST_UTILS_H_
 #define CHROME_BROWSER_SEGMENTATION_PLATFORM_UKM_DATA_MANAGER_TEST_UTILS_H_
 

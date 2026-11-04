@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Search integrity build targets
+summary: Defines the search_integrity source set and unit test targets with their sources, defines, and dependencies for the GN build.

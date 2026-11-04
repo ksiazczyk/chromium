@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Serial chooser context implementation
+// summary: Implements per-origin serial port permission storage, port tracking, token encoding and the SerialPortManagerClient connection for Chrome profiles.
+// ---
+
 #include "chrome/browser/serial/serial_chooser_context.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome browser main extra parts for segmentation platform
+// summary: Implements browser startup hooks that initialize local state, the UKM database client and per-profile segmentation platform services.
+// ---
+
 #include "chrome/browser/segmentation_platform/chrome_browser_main_extra_parts_segmentation_platform.h"
 
 #include "chrome/browser/browser_process.h"

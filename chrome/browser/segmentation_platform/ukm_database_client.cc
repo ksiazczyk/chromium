@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UKM database client implementation
+// summary: Implements the client that initializes and owns the UKM data manager and observer, providing UKM functionality to segmentation platform services.
+// ---
+
 #include "chrome/browser/segmentation_platform/ukm_database_client.h"
 
 #include "base/check_is_test.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Web Serial chooser header
+// summary: Declares WebSerialChooserAndroid, the Android WebSerialChooser subclass that owns and displays the serial chooser dialog.
+// ---
+
 #ifndef CHROME_BROWSER_SERIAL_ANDROID_WEB_SERIAL_CHOOSER_ANDROID_H_
 #define CHROME_BROWSER_SERIAL_ANDROID_WEB_SERIAL_CHOOSER_ANDROID_H_
 
