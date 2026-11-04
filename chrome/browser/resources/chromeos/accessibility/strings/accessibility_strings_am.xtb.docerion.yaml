@@ -1,0 +1,4 @@
+# Docerion header of accessibility_strings_am.xtb.
+type: data
+title: Amharic accessibility string translations
+summary: Xtb translation bundle with Amharic translations of ChromeOS accessibility strings, including ChromeVox commands, gestures, and tutorial text.

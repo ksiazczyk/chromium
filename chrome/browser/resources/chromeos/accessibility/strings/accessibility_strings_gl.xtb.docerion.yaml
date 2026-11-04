@@ -1,0 +1,4 @@
+# Docerion header of accessibility_strings_gl.xtb.
+type: data
+title: Galician accessibility strings translation bundle
+summary: Galician translation bundle with ChromeVox accessibility strings for ChromeOS, covering keyboard shortcuts, gestures, colors, and tutorial messages.

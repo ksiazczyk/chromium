@@ -1,0 +1,4 @@
+# Docerion header of accessibility_strings_fr-CA.xtb.
+type: data
+title: Canadian French accessibility strings translation bundle
+summary: Canadian French translation bundle with ChromeVox accessibility strings for ChromeOS, covering keyboard shortcuts, gestures, colors, and tutorial messages.

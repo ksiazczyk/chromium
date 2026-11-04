@@ -1,0 +1,4 @@
+# Docerion header of accessibility_strings.gni.
+type: config
+title: Accessibility strings build rules
+summary: GN build file that maps Chrome locales to extension locale names and defines a grit template for packaging accessibility strings into per-locale message files.

@@ -1,0 +1,4 @@
+# Docerion header of accessibility_strings_en-GB.xtb.
+type: data
+title: British English ChromeOS accessibility strings
+summary: XML translation bundle providing British English localized strings for ChromeOS accessibility features such as ChromeVox commands, gestures, and tutorials.

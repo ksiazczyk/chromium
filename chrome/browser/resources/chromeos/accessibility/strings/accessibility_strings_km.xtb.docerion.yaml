@@ -1,0 +1,4 @@
+# Docerion header of accessibility_strings_km.xtb.
+type: data
+title: ChromeOS accessibility strings (Khmer)
+summary: Khmer translation bundle with localized ChromeOS accessibility strings for ChromeVox commands, gestures, and interface messages in XTB format.

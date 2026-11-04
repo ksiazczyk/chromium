@@ -1,0 +1,4 @@
+# Docerion header of dictation_strings.grdp.
+type: data
+title: Dictation string resources
+summary: GRIT part defining spoken Dictation command phrases for text editing, cursor movement, and clipboard actions in ChromeOS.

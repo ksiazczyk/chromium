@@ -1,0 +1,4 @@
+# Docerion header of accessibility_strings_my.xtb.
+type: data
+title: Accessibility strings in Burmese
+summary: Burmese XTB translation bundle providing localized ChromeVox and ChromeOS accessibility interface strings.

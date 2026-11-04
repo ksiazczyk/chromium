@@ -1,0 +1,4 @@
+# Docerion header of accessibility_strings_af.xtb.
+type: data
+title: Afrikaans accessibility string translations
+summary: Xtb translation bundle with Afrikaans translations of ChromeOS accessibility strings, including ChromeVox commands, gestures, and tutorial text.

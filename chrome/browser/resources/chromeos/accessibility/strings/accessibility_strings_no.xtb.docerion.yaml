@@ -1,0 +1,4 @@
+# Docerion header of accessibility_strings_no.xtb.
+type: data
+title: Accessibility strings in Norwegian
+summary: Norwegian XTB translation bundle providing localized ChromeVox and ChromeOS accessibility interface strings.

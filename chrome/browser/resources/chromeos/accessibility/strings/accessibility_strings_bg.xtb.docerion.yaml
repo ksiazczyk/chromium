@@ -1,0 +1,4 @@
+# Docerion header of accessibility_strings_bg.xtb.
+type: data
+title: Bulgarian accessibility string translations
+summary: Xtb translation bundle with Bulgarian translations of ChromeOS accessibility strings, including ChromeVox commands, gestures, and tutorial text.

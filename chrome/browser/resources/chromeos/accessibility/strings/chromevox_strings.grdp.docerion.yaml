@@ -1,0 +1,4 @@
+# Docerion header of chromevox_strings.grdp.
+type: data
+title: ChromeVox string resources
+summary: GRIT part defining English source messages for ChromeVox commands, options page key descriptions, and tutorial text.

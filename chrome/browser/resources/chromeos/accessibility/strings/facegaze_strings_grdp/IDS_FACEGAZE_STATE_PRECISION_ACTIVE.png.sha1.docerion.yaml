@@ -1,0 +1,4 @@
+# Docerion header of IDS_FACEGAZE_STATE_PRECISION_ACTIVE.png.sha1.
+type: data
+title: FaceGaze precision mode active image SHA-1 checksum
+summary: Stores the SHA-1 hash of the FaceGaze precision mode active PNG resource in the ChromeOS accessibility strings folder.

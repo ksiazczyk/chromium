@@ -1,0 +1,4 @@
+# Docerion header of accessibility_strings_ka.xtb.
+type: data
+title: Georgian ChromeVox accessibility strings
+summary: Georgian XTB translation bundle with localized ChromeVox accessibility strings for ChromeOS, covering keyboard commands, touch gestures, colors, and tutorial messages.

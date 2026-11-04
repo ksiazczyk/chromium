@@ -1,0 +1,4 @@
+# Docerion header of accessibility_strings_sl.xtb.
+type: data
+title: Slovenian accessibility strings translation bundle
+summary: XML translation bundle with ChromeOS accessibility (ChromeVox) UI strings localized into Slovenian.

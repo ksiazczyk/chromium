@@ -1,0 +1,4 @@
+# Docerion header of switch_access_strings.grdp.
+type: data
+title: Switch Access string resources
+summary: GRIT part defining Switch Access strings, including menu actions for selecting, scrolling, dictation, and moving the text caret.

@@ -1,0 +1,4 @@
+# Docerion header of select_to_speak_strings.grdp.
+type: data
+title: Select-to-speak string resources
+summary: GRIT part defining Select-to-speak strings such as the product name, checkbox and radio button state descriptions, and the natural voice dialog.

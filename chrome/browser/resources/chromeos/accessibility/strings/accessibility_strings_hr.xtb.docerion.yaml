@@ -1,0 +1,4 @@
+# Docerion header of accessibility_strings_hr.xtb.
+type: data
+title: Croatian ChromeVox accessibility strings
+summary: Croatian XTB translation bundle with localized ChromeVox accessibility strings for ChromeOS, covering keyboard commands, touch gestures, colors, and tutorial messages.

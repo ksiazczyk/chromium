@@ -1,0 +1,4 @@
+# Docerion header of accessibility_strings_el.xtb.
+type: data
+title: Greek ChromeOS accessibility strings
+summary: XML translation bundle providing Greek localized strings for ChromeOS accessibility features such as ChromeVox commands, gestures, and tutorials.

@@ -1,0 +1,4 @@
+# Docerion header of accessibility_strings_de.xtb.
+type: data
+title: German ChromeOS accessibility strings
+summary: XML translation bundle providing German localized strings for ChromeOS accessibility features such as ChromeVox commands, gestures, and tutorials.

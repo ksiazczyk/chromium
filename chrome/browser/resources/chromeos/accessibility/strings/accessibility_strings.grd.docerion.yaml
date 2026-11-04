@@ -1,0 +1,4 @@
+# Docerion header of accessibility_strings.grd.
+type: config
+title: Accessibility strings resource definition
+summary: GRD file declaring the localized message outputs for the ChromeOS accessibility extension across all supported locales.

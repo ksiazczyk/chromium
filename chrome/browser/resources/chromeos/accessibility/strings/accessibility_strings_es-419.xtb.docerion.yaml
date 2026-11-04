@@ -1,0 +1,4 @@
+# Docerion header of accessibility_strings_es-419.xtb.
+type: data
+title: Latin American Spanish ChromeOS accessibility strings
+summary: XML translation bundle providing Latin American Spanish localized strings for ChromeOS accessibility features such as ChromeVox commands, gestures, and tutorials.

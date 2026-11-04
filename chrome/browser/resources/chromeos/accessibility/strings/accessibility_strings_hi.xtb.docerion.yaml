@@ -1,0 +1,4 @@
+# Docerion header of accessibility_strings_hi.xtb.
+type: data
+title: Hindi accessibility strings translation bundle
+summary: Hindi translation bundle with ChromeVox accessibility strings for ChromeOS, covering keyboard shortcuts, gestures, colors, and tutorial messages.
