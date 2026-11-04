@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Android browser BUILD.gn build configuration
+summary: Defines GN source sets and dependencies for the Android browser code, including tabs, OOM intervention, policy auditor bridge, and persisted tab data targets.

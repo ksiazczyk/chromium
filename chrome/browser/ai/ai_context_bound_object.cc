@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AIContextBoundObject implementation
+// summary: Implements the base class for context-bound AI objects, handling their removal from the owning set when the document goes away.
+// ---
+
 #include "chrome/browser/ai/ai_context_bound_object.h"
 
 #include "chrome/browser/ai/ai_context_bound_object_set.h"

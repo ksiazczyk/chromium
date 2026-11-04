@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test guarding WebView renderer extension availability
+// summary: Browser test verifying that the window.android WebView renderer extension is not exposed in Chrome on Android outside of WebView.
+// ---
+
 #include "chrome/test/base/android/android_browser_test.h"
 #include "chrome/test/base/chrome_test_utils.h"
 #include "content/public/browser/web_contents.h"

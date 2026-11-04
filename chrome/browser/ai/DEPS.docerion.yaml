@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for chrome/browser/ai
+summary: DEPS file restricting includes in the AI browser directory to the on-device AI component and passage embeddings mojom services.

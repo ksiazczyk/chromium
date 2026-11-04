@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictionary pref backup serializer header
+// summary: Declares the GetSerializedDict and SetDict helpers behind the JNI layer, exposed for testing.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_BACKUP_DICT_PREF_BACKUP_SERIALIZER_H_
 #define CHROME_BROWSER_ANDROID_BACKUP_DICT_PREF_BACKUP_SERIALIZER_H_
 

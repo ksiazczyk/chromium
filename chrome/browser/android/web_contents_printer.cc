@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsPrinter JNI implementation for Android printing
+// summary: Implements JNI print entry points that resolve the target render frame, initialize the print view manager, and start print jobs for Android web contents.
+// ---
+
 #include <memory>
 #include <utility>
 #include <vector>

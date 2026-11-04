@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApkUkmRecorder
+// summary: Records user-keyed UKM metrics for WebAPKs via JNI, covering session duration, launch reasons, and uninstall details.
+// ---
+
 package org.chromium.chrome.browser.browserservices.metrics;
 
 import org.jni_zero.JNINamespace;

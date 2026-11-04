@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI rewriter implementation
+// summary: Implements the AIRewriter Mojo interface, mapping tone, format, and length options to on-device writing assistance model requests.
+// ---
+
 #include "chrome/browser/ai/ai_rewriter.h"
 
 #include "base/containers/fixed_flat_set.h"

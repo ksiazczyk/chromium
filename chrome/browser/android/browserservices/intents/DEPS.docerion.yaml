@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the intents directory
+summary: Specifies directory dependency allowlist rules permitting use of webapk common libraries and content public Android code.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabBrowserControlsConstraintsHelper JNI implementation
+// summary: Implements the JNI bridge that forwards browser controls state constraints and offset tag modifications from Java to the WebContents.
+// ---
+
 #include "cc/input/android/offset_tag_android.h"
 #include "cc/input/browser_controls_offset_tag_modifications.h"
 #include "cc/input/browser_controls_state.h"

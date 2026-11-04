@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileKeyStartupAccessor implementation
+// summary: Implements a singleton that stores the ProfileKey pointer during Android startup in reduced ServiceManager mode, using a templated helper to pick the right instance storage.
+// ---
+
 #include "chrome/browser/android/profile_key_startup_accessor.h"
 
 #include <type_traits>

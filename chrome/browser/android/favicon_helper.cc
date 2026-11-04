@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon helper JNI implementation
+// summary: Implements the JNI bridge that fetches local and foreign favicon images for page URLs through the favicon service.
+// ---
+
 #include "chrome/browser/android/favicon_helper.h"
 
 #include <jni.h>

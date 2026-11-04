@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy native task implementation
+// summary: Implements the JNI glue that starts, stops and finishes native background tasks on behalf of the Java scheduler.
+// ---
+
 #include "chrome/browser/android/background_task_scheduler/proxy_native_task.h"
 
 #include "base/android/callback_android.h"

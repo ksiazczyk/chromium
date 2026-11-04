@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome background task factory header
+// summary: Declares the factory that creates BackgroundTask instances for given task IDs and initializes the Java-side factory.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_BACKGROUND_TASK_SCHEDULER_CHROME_BACKGROUND_TASK_FACTORY_H_
 #define CHROME_BROWSER_ANDROID_BACKGROUND_TASK_SCHEDULER_CHROME_BACKGROUND_TASK_FACTORY_H_
 

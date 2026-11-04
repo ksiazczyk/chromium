@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file redirecting to the Java backup package
+summary: Redirects ownership of this directory to the OWNERS file in the Java Chrome backup package.

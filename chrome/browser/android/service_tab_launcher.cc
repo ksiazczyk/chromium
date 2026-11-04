@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service tab launcher implementation
+// summary: Launches new tabs from background services on Android through JNI and completes the stored callback with the resulting WebContents.
+// ---
+
 #include "chrome/browser/android/service_tab_launcher.h"
 
 #include <memory>

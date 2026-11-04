@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI data keyed service factory header
+// summary: Declares AiDataKeyedServiceFactory, the singleton profile-keyed factory granting access to AiDataKeyedService.
+// ---
+
 #ifndef CHROME_BROWSER_AI_AI_DATA_KEYED_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_AI_AI_DATA_KEYED_SERVICE_FACTORY_H_
 

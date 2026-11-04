@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI proofreader implementation
+// summary: Implements the browser-side AIProofreader that runs proofreading requests and correction type lookups through the on-device proofreader model.
+// ---
+
 #include "chrome/browser/ai/ai_proofreader.h"
 
 #include "base/containers/fixed_flat_set.h"

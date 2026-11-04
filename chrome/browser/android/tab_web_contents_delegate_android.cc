@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab WebContents delegate for Android
+// summary: Implements the Android-specific WebContents delegate for tabs, handling file choosers, popup blocking, find-in-page, navigation state and other browser behaviors.
+// ---
+
 #include "chrome/browser/android/tab_web_contents_delegate_android.h"
 
 #include <android/keycodes.h>

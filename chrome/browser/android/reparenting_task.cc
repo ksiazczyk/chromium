@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reparenting task JNI glue
+// summary: JNI handler that attaches a background tab through BackgroundTabManager, committing its history and unregistering it as a background tab.
+// ---
+
 #include "chrome/browser/android/background_tab_manager.h"
 #include "chrome/browser/history/history_service_factory.h"
 #include "chrome/browser/profiles/profile.h"

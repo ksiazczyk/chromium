@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EmbeddingGemma V1 decision model implementation
+// summary: Implements the AIDecisionModel Mojo interface by embedding schema options with EmbeddingGemma V1 and scoring inputs by similarity.
+// ---
+
 #include "chrome/browser/ai/ai_embedding_gemma_v1_decision_model.h"
 
 #include <algorithm>

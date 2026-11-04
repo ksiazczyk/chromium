@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for chrome/browser/android
+summary: Points the directory to the shared Chrome Android COMMON_METADATA mixins for metadata inheritance.

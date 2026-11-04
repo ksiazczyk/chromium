@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsThemeClient header declaring theme opt-in user data
+// summary: Declares the WebContentsThemeClient user data class that lets a WebContents inherit the app theme on Android when attached.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_WEB_CONTENTS_THEME_CLIENT_H_
 #define CHROME_BROWSER_ANDROID_WEB_CONTENTS_THEME_CLIENT_H_
 

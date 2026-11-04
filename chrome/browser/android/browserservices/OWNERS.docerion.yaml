@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Browser services directory owners
+summary: OWNERS rules for the directory, delegating to the Java browserservices owners and adding per-file owners for custom tab intent data files.

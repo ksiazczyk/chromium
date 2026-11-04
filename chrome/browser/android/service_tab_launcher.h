@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Service tab launcher header
+// summary: Declares the singleton ServiceTabLauncher used to create tabs from services where no Activity or tab model exists.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_SERVICE_TAB_LAUNCHER_H_
 #define CHROME_BROWSER_ANDROID_SERVICE_TAB_LAUNCHER_H_
 

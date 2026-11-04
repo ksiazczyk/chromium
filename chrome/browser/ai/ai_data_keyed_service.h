@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AiDataKeyedService browser service
+// summary: Declares the keyed service that collects AI data for a browser context, including extension allowlist checks and asynchronous data collection callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_AI_AI_DATA_KEYED_SERVICE_H_
 #define CHROME_BROWSER_AI_AI_DATA_KEYED_SERVICE_H_
 

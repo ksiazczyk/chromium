@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome startup flags implementation
+// summary: Force-appends Chrome-specific command line switches, such as enabling the DOM Distiller backend, during Android startup.
+// ---
+
 #include <jni.h>
 
 #include "chrome/browser/android/chrome_startup_flags.h"

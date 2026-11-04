@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupAndroid class header
+// summary: Declares the Android TabGroup subclass used to build platform-specific tab group features, including its factory and last shown tab accessor.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_TAB_GROUP_ANDROID_H_
 #define CHROME_BROWSER_ANDROID_TAB_GROUP_ANDROID_H_
 

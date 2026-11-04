@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file delegating to the Java browsing data owners
+summary: Delegates code review ownership to the OWNERS file of the Java browsing_data directory.

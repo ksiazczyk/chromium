@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group features class header
+// summary: Declares TabGroupFeatures, the Android owner of controllers for features scoped to a tab group, with test dependency injection support.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_TAB_GROUP_FEATURES_H_
 #define CHROME_BROWSER_ANDROID_TAB_GROUP_FEATURES_H_
 

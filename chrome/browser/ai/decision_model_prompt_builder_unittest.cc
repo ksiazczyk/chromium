@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Decision model prompt builder unit tests
+// summary: Unit tests for the decision model prompt builder, checking prompt formatting for boolean, choice, and score questions.
+// ---
+
 #include "chrome/browser/ai/decision_model_prompt_builder.h"
 
 #include <optional>

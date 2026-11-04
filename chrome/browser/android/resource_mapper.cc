@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResourceMapper implementation mapping resource IDs to Java drawables
+// summary: Maps Chromium C++ resource IDs to Android Java drawable IDs using a JNI-provided ID list and returns kMissingId when no mapping exists.
+// ---
+
 #include "chrome/browser/android/resource_mapper.h"
 
 #include <map>

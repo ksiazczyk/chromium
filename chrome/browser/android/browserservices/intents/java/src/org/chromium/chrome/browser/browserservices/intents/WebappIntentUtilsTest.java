@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebappIntentUtilsTest
+// summary: Robolectric tests for WebappIntentUtils covering the copying of webapp and WebAPK launch intent extras between intents.
+// ---
+
 package org.chromium.chrome.browser.browserservices.intents;
 
 import static org.junit.Assert.assertEquals;

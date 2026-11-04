@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build config for browser services intents Java library
+summary: Defines the android_library target listing browser services intents Java sources and dependencies, plus a robolectric_library target for its JUnit unit tests.

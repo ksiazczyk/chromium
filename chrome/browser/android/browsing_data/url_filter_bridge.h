@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL filter bridge header
+// summary: Declares a C++ wrapper exposing a GURL predicate to Java for filtering browsing data deletion on Android.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_BROWSING_DATA_URL_FILTER_BRIDGE_H_
 #define CHROME_BROWSER_ANDROID_BROWSING_DATA_URL_FILTER_BRIDGE_H_
 

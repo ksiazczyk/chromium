@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WarmupManager JNI implementation for preconnect and prefetch
+// summary: Implements JNI entry points that initialize the loading predictor, preconnect URLs and subresources, and start prefetch requests from Custom Tabs on Android.
+// ---
+
 #include "base/android/jni_android.h"
 #include "base/android/jni_string.h"
 #include "chrome/browser/predictors/loading_predictor.h"

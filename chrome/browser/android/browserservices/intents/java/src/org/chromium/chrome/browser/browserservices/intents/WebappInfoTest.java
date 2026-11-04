@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebappInfoTest
+// summary: Robolectric tests checking WebappInfo parsing of various URLs, names, short names and intent extras for web app shortcuts.
+// ---
+
 package org.chromium.chrome.browser.browserservices.intents;
 
 import android.content.Intent;

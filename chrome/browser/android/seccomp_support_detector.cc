@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Seccomp support detector implementation
+// summary: Reads the kernel version with uname and reports it to the Android.KernelVersion UMA histogram as part of seccomp support reporting.
+// ---
+
 #include "chrome/browser/android/seccomp_support_detector.h"
 
 #include <sys/utsname.h>

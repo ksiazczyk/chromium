@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the Android loaded tab storage data wrapper
+// summary: Declares StorageLoadedDataAndroid plus JNI type conversions for tab state and storage loading warnings.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_STORAGE_LOADED_DATA_ANDROID_H_
 #define CHROME_BROWSER_ANDROID_STORAGE_LOADED_DATA_ANDROID_H_
 

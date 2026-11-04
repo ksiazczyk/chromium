@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebappIntentUtils
+// summary: Utility methods for extracting and copying data from homescreen shortcut and WebAPK launch intents, including color conversions.
+// ---
+
 package org.chromium.chrome.browser.browserservices.intents;
 
 import android.content.Intent;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebappConstants
+// summary: Defines intent extra keys and shortcut version constants used when adding web app shortcuts to the Android home screen.
+// ---
+
 package org.chromium.chrome.browser.browserservices.intents;
 
 import org.chromium.build.annotations.NullMarked;

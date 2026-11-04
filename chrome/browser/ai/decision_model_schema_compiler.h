@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Decision model schema compiler header
+// summary: Declares DecisionModelSchemaCompiler, which validates decision schemas and decodes option weights and embedding passages for both model backends.
+// ---
+
 #ifndef CHROME_BROWSER_AI_DECISION_MODEL_SCHEMA_COMPILER_H_
 #define CHROME_BROWSER_AI_DECISION_MODEL_SCHEMA_COMPILER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab WebContents destroyer
+// summary: Implements graceful shutdown and deferred destruction of a tab's WebContents, suppressing dialogs and input, ignoring late navigations and using a fallback timeout.
+// ---
+
 #include "chrome/browser/android/tab_web_contents_destroyer.h"
 
 #include <memory>

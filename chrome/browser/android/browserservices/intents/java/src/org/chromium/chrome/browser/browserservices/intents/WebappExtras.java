@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebappExtras
+// summary: Stores webapp-specific data such as id, URL, scope, icon, name, display mode, orientation and colors on behalf of the browser services intent data provider.
+// ---
+
 package org.chromium.chrome.browser.browserservices.intents;
 
 import org.chromium.blink.mojom.DisplayMode;

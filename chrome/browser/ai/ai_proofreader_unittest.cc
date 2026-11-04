@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AI proofreader unit tests
+// summary: Unit tests for the AI proofreader API, covering proofreader creation, options, and correction results via mocked on-device capabilities.
+// ---
+
 #include "chrome/browser/ai/ai_proofreader.h"
 
 #include <memory>

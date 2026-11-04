@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Historical tab saver browser tests
+// summary: Browser tests verifying WebContentsStateByteBuffer creation, restoration, and DCHECK crash behavior for null or empty data in the historical tab saver.
+// ---
+
 #include "chrome/browser/android/historical_tab_saver.h"
 
 #include "base/android/jni_android.h"

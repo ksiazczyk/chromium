@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab storage packager Android implementation
+// summary: Implements the Android TabStoragePackager, packaging tab and tab strip collection state into storage payloads with metadata fetched via JNI.
+// ---
+
 #include "chrome/browser/android/tab_storage_packager_android.h"
 
 #include <jni.h>

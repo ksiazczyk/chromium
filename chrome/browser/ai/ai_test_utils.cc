@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AI test utilities implementation
+// summary: Implements shared AI test helpers, including a fake streaming responder and a base test harness that sets up on-device model sessions and feature configs.
+// ---
+
 #include "chrome/browser/ai/ai_test_utils.h"
 
 #include <cstdint>

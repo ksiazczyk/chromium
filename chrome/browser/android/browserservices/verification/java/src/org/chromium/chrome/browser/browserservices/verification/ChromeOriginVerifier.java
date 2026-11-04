@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOriginVerifier
+// summary: Chrome-specific origin verifier that adds relation parsing, verification skipping, result persistence, TWA allowlisting and metrics on top of OriginVerifier.
+// ---
+
 package org.chromium.chrome.browser.browserservices.verification;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

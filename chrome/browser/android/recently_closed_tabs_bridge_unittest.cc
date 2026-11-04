@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RecentlyClosedTabsBridge unit tests
+// summary: Unit tests covering TabIterator iteration over tab, group and window entries plus related recently closed tabs bridge behavior.
+// ---
+
 #include "chrome/browser/android/recently_closed_tabs_bridge.h"
 
 #include "base/memory/raw_ptr.h"

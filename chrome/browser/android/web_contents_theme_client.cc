@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebContentsThemeClient implementation for night mode queries
+// summary: Implements a WebContentsUserData client that reports night mode and force dark status via JNI, with a testing override map.
+// ---
+
 #include "chrome/browser/android/web_contents_theme_client.h"
 
 #include <map>

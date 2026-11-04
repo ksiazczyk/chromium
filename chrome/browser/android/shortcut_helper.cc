@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shortcut helper implementation
+// summary: Adds web app and shortcut icons to the Android launcher via JNI, downloads splash images, and records add-to-home-screen UKM metrics.
+// ---
+
 #include "chrome/browser/android/shortcut_helper.h"
 
 #include <jni.h>

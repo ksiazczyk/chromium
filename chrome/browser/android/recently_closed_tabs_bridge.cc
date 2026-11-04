@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recently closed tabs JNI bridge implementation
+// summary: Implements the JNI bridge that exposes recently closed tabs, groups and windows from the tab restore service to Java and supports reopening and clearing entries.
+// ---
+
 #include "chrome/browser/android/recently_closed_tabs_bridge.h"
 
 #include <optional>

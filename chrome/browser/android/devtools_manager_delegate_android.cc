@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools manager delegate for Android
+// summary: Implements the Android DevTools manager delegate that exposes tabs as DevTools agent hosts and manages external agent proxies.
+// ---
+
 #include "chrome/browser/android/devtools_manager_delegate_android.h"
 
 #include <map>

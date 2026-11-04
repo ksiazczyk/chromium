@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AI data keyed service browser tests
+// summary: Browser tests for AiDataKeyedService, exercising AI data collection across tabs, frames, autofill forms and actor actions.
+// ---
+
 #include "chrome/browser/ai/ai_data_keyed_service.h"
 
 #include <memory>

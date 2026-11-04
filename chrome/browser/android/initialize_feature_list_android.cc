@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Early feature list initialization for Android
+// summary: JNI entry point that creates the browser thread pool, task executor, and Chrome feature list early during Android browser startup.
+// ---
+
 #include "chrome/browser/android/initialize_feature_list_android.h"
 
 #include "base/allocator/partition_alloc_support.h"

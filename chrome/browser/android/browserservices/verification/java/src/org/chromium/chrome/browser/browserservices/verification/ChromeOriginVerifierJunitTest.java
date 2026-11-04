@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOriginVerifierJunitTest
+// summary: Robolectric tests for ChromeOriginVerifier covering verification results with mocked JNI and profile dependencies.
+// ---
+
 package org.chromium.chrome.browser.browserservices.verification;
 
 import static com.google.common.truth.Truth.assertThat;

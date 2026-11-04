@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabAndroidDataProvider interface
+// summary: Declares a pure virtual interface for the Java-backed tab object and its JNI bridge, exposing window id, Android id and WebContents state buffer accessors.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_TAB_ANDROID_DATA_PROVIDER_H_
 #define CHROME_BROWSER_ANDROID_TAB_ANDROID_DATA_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab group features factory implementation
+// summary: Implements TabGroupFeatures creation with a replaceable factory so tests can stub out tab group feature functionality.
+// ---
+
 #include "chrome/browser/android/tab_group_features.h"
 
 #include "base/memory/ptr_util.h"

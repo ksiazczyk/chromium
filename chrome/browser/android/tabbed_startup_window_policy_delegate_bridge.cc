@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tabbed startup window policy delegate bridge
+// summary: JNI bridge exposing session startup URL getters and setters that validate web-safe URLs and reset the startup type to default when the list is empty.
+// ---
+
 #include "chrome/browser/android/tabbed_startup_window_policy_delegate_bridge.h"
 
 #include <string>

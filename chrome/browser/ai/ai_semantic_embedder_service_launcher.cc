@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI semantic embedder service launcher implementation
+// summary: Implements the launcher that manages the AI embeddings service lifecycle, model component downloads, and crash-based launch throttling.
+// ---
+
 #include "chrome/browser/ai/ai_semantic_embedder_service_launcher.h"
 
 #include <utility>

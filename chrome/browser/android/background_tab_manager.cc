@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Background tab manager implementation
+// summary: Implements per-WebContents storage of backgrounded tab state, caching history while the tab is hidden and committing it when shown.
+// ---
+
 #include "chrome/browser/android/background_tab_manager.h"
 
 #include "base/memory/singleton.h"

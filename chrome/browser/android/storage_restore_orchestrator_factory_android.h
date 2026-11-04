@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the Android storage restore orchestrator factory
+// summary: Declares StorageRestoreOrchestratorFactoryAndroid, which decouples C++ and Java object lifetimes when building restore orchestrators.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_STORAGE_RESTORE_ORCHESTRATOR_FACTORY_ANDROID_H_
 #define CHROME_BROWSER_ANDROID_STORAGE_RESTORE_ORCHESTRATOR_FACTORY_ANDROID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shortcut helper header
+// summary: Declares ShortcutHelper for adding launcher shortcuts, storing webapp splash images, and querying installed WebAPKs and Trusted Web Activities.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_SHORTCUT_HELPER_H_
 #define CHROME_BROWSER_ANDROID_SHORTCUT_HELPER_H_
 

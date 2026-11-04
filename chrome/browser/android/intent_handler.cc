@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Intent handler JNI bridge
+// summary: JNI bindings that check CORS-safelisted headers and validate URLs launched from external Android intents.
+// ---
+
 #include "base/android/jni_string.h"
 #include "base/strings/string_util.h"
 #include "chrome/browser/ui/startup/url_util.h"

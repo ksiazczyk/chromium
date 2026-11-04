@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AiDataKeyedService implementation
+// summary: Implements the browser service that collects AI data such as page content, form structures, screenshots, and PDF content for model prototyping and actor tasks.
+// ---
+
 #include "chrome/browser/ai/ai_data_keyed_service.h"
 
 #include <algorithm>

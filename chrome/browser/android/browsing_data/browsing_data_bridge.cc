@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browsing data JNI bridge implementation
+// summary: Native JNI bridge that removes browsing data and exposes the browsing data model to Java on Android.
+// ---
+
 #include <jni.h>
 #include <stddef.h>
 

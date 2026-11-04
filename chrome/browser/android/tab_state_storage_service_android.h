@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab state storage service Android header
+// summary: Declares TabStateStorageServiceAndroid, the JNI wrapper exposing save, load, clear, batch and key management operations for tab state storage.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_TAB_STATE_STORAGE_SERVICE_ANDROID_H_
 #define CHROME_BROWSER_ANDROID_TAB_STATE_STORAGE_SERVICE_ANDROID_H_
 

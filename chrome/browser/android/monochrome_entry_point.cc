@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Monochrome entry point
+// summary: Native initialization hook that dispatches JNI-on-load setup for WebView, browser, and child process types in Monochrome builds.
+// ---
+
 #include "android_webview/lib/webview_jni_onload.h"
 #include "base/android/base_jni_init.h"
 #include "base/android/library_loader/library_loader_hooks.h"

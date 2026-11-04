@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for chrome/browser/ai
+summary: DIR_METADATA file pointing the AI browser directory at shared common metadata mixins from the blink renderer AI modules.

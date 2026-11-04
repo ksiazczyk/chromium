@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserServicesIntentDataProvider base class
+// summary: Abstract base class for model classes that parse incoming intents into Custom Tab and Trusted Web Activity customization data.
+// ---
+
 package org.chromium.chrome.browser.browserservices.intents;
 
 import static androidx.browser.customtabs.CustomTabsIntent.ACTIVITY_SIDE_SHEET_DECORATION_TYPE_SHADOW;

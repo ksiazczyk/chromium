@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOriginVerifierUnitTestSupport
+// summary: Helper that registers valid relations so unit tests can make ChromeOriginVerifier verification pass without native code.
+// ---
+
 package org.chromium.chrome.browser.browserservices.verification;
 
 import androidx.browser.customtabs.CustomTabsService;

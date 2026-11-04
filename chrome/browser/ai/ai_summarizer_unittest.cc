@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AI summarizer unit tests
+// summary: Unit tests for AISummarizer covering creation, options, input context limits, language support, and streaming summarization behavior across platforms.
+// ---
+
 #include "chrome/browser/ai/ai_summarizer.h"
 
 #include "base/run_loop.h"

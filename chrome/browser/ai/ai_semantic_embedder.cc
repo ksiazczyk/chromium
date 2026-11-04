@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI semantic embedder implementation
+// summary: Implements the AISemanticEmbedder Mojo interface, applying task-type prompt formatting and computing embeddings via the passage embeddings service.
+// ---
+
 #include "chrome/browser/ai/ai_semantic_embedder.h"
 
 #include "base/functional/bind.h"

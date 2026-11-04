@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionHolder for Custom Tab and Auth Tab sessions
+// summary: Sealed interface that holds either a Custom Tabs or Auth Tab session token and supports parcel serialization.
+// ---
+
 package org.chromium.chrome.browser.browserservices.intents;
 
 import android.app.PendingIntent;

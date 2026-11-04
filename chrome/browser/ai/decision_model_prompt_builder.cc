@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Decision model prompt builder implementation
+// summary: Implements prompt construction for the AI decision model, building system, input, and question prompts with single-letter option keys.
+// ---
+
 #include "chrome/browser/ai/decision_model_prompt_builder.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AIContextBoundObject base class
+// summary: Declares the base class for AI objects such as language models and summarizers that are deleted when their owning document is gone, with an optional session priority hook.
+// ---
+
 #ifndef CHROME_BROWSER_AI_AI_CONTEXT_BOUND_OBJECT_H_
 #define CHROME_BROWSER_AI_AI_CONTEXT_BOUND_OBJECT_H_
 

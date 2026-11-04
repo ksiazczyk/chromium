@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI language model header
+// summary: Declares AILanguageModel and its Context class, which manages prompt history and eviction within the model's token limit.
+// ---
+
 #ifndef CHROME_BROWSER_AI_AI_LANGUAGE_MODEL_H_
 #define CHROME_BROWSER_AI_AI_LANGUAGE_MODEL_H_
 

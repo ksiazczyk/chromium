@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserCallbackWrapper for Custom Tab and Auth Tab callbacks
+// summary: Wrapper that holds either a Custom Tabs callback or an Auth Tab callback and forwards session events to the appropriate one.
+// ---
+
 package org.chromium.chrome.browser.browserservices.intents;
 
 import android.net.Uri;

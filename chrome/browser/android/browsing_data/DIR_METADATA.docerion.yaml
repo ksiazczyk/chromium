@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA mixin for the Android browsing data directory
+summary: Points the directory metadata to the common browsing_data metadata used by the Java Android folder.

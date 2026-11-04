@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AI language model unit tests
+// summary: Unit tests for the browser-side AI Language Model implementation, covering creation options, streaming responses, context handling and model availability.
+// ---
+
 #include "chrome/browser/ai/ai_language_model.h"
 
 #include <cstdint>

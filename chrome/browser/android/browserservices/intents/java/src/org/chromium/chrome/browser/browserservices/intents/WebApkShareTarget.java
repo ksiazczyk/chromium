@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApkShareTarget
+// summary: Stores information about a WebAPK's share intent handlers, including action, title and text parameters, HTTP method and accepted file types.
+// ---
+
 package org.chromium.chrome.browser.browserservices.intents;
 
 import org.chromium.build.annotations.NullMarked;

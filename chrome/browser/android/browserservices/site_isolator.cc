@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site isolator JNI implementation
+// summary: Native JNI glue that starts site isolation for a user-triggered origin in a given profile via content::SiteInstance.
+// ---
+
 #include "base/android/jni_android.h"
 #include "base/android/jni_string.h"
 #include "chrome/browser/profiles/profile.h"

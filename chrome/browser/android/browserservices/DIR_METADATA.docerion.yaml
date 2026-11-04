@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Browser services directory metadata
+summary: Directory metadata pointing to the Trusted Web Activities monorail component, the team email address, and the public Buganizer component.

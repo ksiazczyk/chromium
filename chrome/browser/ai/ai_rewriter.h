@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI rewriter header
+// summary: Declares the AIRewriter class that exposes the streaming Rewrite API, usage measurement, and option conversion helpers.
+// ---
+
 #ifndef CHROME_BROWSER_AI_AI_REWRITER_H_
 #define CHROME_BROWSER_AI_AI_REWRITER_H_
 

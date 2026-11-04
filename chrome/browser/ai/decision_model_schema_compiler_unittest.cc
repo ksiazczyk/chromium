@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Decision model schema compiler unit tests
+// summary: Unit tests for the decision model schema compiler, covering question compilation, score descriptions, and embedding weight decoding.
+// ---
+
 #include "chrome/browser/ai/decision_model_schema_compiler.h"
 
 #include <limits>

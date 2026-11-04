@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AIContextBoundObjectSet implementation
+// summary: Implements adding, removing, and priority propagation for the set of context-bound AI objects.
+// ---
+
 #include "chrome/browser/ai/ai_context_bound_object_set.h"
 
 #include <memory>

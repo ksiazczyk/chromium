@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI summarizer implementation
+// summary: Implements the browser-side AISummarizer, mapping summarizer options and constraints to Optimization Guide protos and streaming on-device summarization results to renderers.
+// ---
+
 #include "chrome/browser/ai/ai_summarizer.h"
 
 #include <algorithm>

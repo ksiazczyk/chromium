@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android restore entity tracker implementation
+// summary: Registers tabs and collections loaded from tab state storage and associates Android tab and collection nodes with their storage IDs during restore.
+// ---
+
 #include "chrome/browser/android/restore_entity_tracker_android.h"
 
 #include <memory>

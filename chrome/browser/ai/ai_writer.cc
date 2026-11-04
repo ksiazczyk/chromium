@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI writer implementation
+// summary: Implements the browser-side AIWriter, mapping tone, format, length, and language options to Writing Assistance protos and streaming write results to renderers.
+// ---
+
 #include "chrome/browser/ai/ai_writer.h"
 
 #include "base/containers/fixed_flat_set.h"

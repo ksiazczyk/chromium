@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOriginVerifierFactory
+// summary: Factory that creates ChromeOriginVerifier instances and allows substituting a test instance for mocking.
+// ---
+
 package org.chromium.chrome.browser.browserservices.verification;
 
 import androidx.browser.customtabs.CustomTabsService;

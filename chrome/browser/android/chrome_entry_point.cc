@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome JNI onLoad native entry point
+// summary: Provides the native initialization hook that runs Chrome's JNI onLoad init when the native library is loaded on Android.
+// ---
+
 #include "base/android/library_loader/library_loader_hooks.h"
 #include "chrome/app/android/chrome_jni_onload.h"
 

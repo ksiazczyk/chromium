@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Partner browser customizations header
+// summary: Declares PartnerBrowserCustomizations with a static check for partner-disabled incognito mode.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_PARTNER_BROWSER_CUSTOMIZATIONS_H_
 #define CHROME_BROWSER_ANDROID_PARTNER_BROWSER_CUSTOMIZATIONS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dictionary pref backup serializer unit tests
+// summary: Unit tests covering serialization, deserialization, and safe handling of corrupted dictionary pref data.
+// ---
+
 #include "chrome/browser/android/backup/dict_pref_backup_serializer.h"
 
 #include <string>

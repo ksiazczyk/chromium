@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OriginVerifierMetricsRecorder
+// summary: Records UMA histograms for Origin Verifier outcomes, including verification results and online or offline verification times.
+// ---
+
 package org.chromium.chrome.browser.browserservices.metrics;
 
 import androidx.annotation.IntDef;

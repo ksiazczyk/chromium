@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileKeyStartupAccessor singleton header
+// summary: Declares a singleton accessor that exposes the ProfileKey of the associated profile during Android startup in reduced ServiceManager mode.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_PROFILE_KEY_STARTUP_ACCESSOR_H_
 #define CHROME_BROWSER_ANDROID_PROFILE_KEY_STARTUP_ACCESSOR_H_
 

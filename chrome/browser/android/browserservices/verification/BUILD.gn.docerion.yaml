@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for Chrome origin verification
+summary: Defines GN build targets for the Chrome origin verifier Java library, JNI header generation, and Robolectric and instrumentation test targets.

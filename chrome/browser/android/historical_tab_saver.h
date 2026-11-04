@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Historical tab saver header
+// summary: Declares the ScopedWebContents wrapper that manages web contents for possibly frozen tabs.
+// ---
+
 #ifndef CHROME_BROWSER_ANDROID_HISTORICAL_TAB_SAVER_H_
 #define CHROME_BROWSER_ANDROID_HISTORICAL_TAB_SAVER_H_
 

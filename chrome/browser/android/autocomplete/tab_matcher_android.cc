@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabMatcherAndroid implementation
+// summary: Implements the Android TabMatcher that determines whether a URL is open in a tab so omnibox suggestions can offer Switch to Tab actions.
+// ---
+
 #include "chrome/browser/android/autocomplete/tab_matcher_android.h"
 
 #include "base/android/device_info.h"

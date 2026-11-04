@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media state observer implementation
+// summary: Tracks audio, capture, mirroring, and picture-in-picture state for a tab's web contents and updates the TabAndroid media indicator.
+// ---
+
 #include "chrome/browser/android/media_state_observer.h"
 
 #include "chrome/browser/android/tab_android.h"

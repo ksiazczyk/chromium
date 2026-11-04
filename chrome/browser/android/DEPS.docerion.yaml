@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for chrome/browser/android
+summary: Specifies allowed dependency includes for the directory, with special-case exceptions for the monochrome entry point and test setup.
