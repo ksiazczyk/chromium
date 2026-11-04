@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome MimeHandlerView interactive UI tests
+// summary: Interactive browser tests for MimeHandlerView guests, exercising fullscreen entry and exit via Escape using an embedded test server and test extension.
+// ---
+
 #include "base/files/file_path.h"
 #include "base/functional/bind.h"
 #include "base/location.h"

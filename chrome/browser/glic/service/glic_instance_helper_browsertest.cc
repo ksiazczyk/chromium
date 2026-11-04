@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic instance helper browser tests
+// summary: Browser tests checking that pinned tab discard protection follows Glic instance visibility and pinning.
+// ---
+
 #include "chrome/browser/glic/service/glic_instance_helper.h"
 
 #include "base/memory/weak_ptr.h"

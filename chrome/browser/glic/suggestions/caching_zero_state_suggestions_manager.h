@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Caching zero state suggestions manager interface
+// summary: Declares the CachingZeroStateSuggestionsManager interface and a factory function for caching zero-state Glic suggestion requests.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_SUGGESTIONS_CACHING_ZERO_STATE_SUGGESTIONS_MANAGER_H_
 #define CHROME_BROWSER_GLIC_SUGGESTIONS_CACHING_ZERO_STATE_SUGGESTIONS_MANAGER_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of sort_headers_test.py.
+type: test
+title: Tests for the C++ header include sorter
+summary: Unit tests verifying include ordering, primary header placement, system header grouping, and guarded include handling.

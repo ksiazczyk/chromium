@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic window animator implementation
+// summary: Implements GlicWindowAnimator, which animates the Glic widget's bounds, size, and position and manages updates to any running resize animation.
+// ---
+
 #include "chrome/browser/glic/widget/glic_window_animator.h"
 
 #include "base/functional/callback.h"

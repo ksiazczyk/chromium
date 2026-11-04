@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual cueing prefs registration
+// summary: Registers the profile list pref that tracks supported tools for zero state suggestions.
+// ---
+
 #include "chrome/browser/glic/suggestions/contextual_cueing_prefs.h"
 
 #include "components/prefs/pref_registry.h"

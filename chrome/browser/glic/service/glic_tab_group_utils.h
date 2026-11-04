@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic tab group utilities interface
+// summary: Declares Glic helpers for locating browser windows by tab group, enumerating a group's tabs, and grouping or ungrouping tabs.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_SERVICE_GLIC_TAB_GROUP_UTILS_H_
 #define CHROME_BROWSER_GLIC_SERVICE_GLIC_TAB_GROUP_UTILS_H_
 

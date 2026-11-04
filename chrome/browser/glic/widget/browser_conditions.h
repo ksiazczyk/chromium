@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface for browser attachability conditions for Glic
+// summary: Declares helpers to find and observe browsers eligible for Glic panel attachment, plus visibility and foreground checks.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_WIDGET_BROWSER_CONDITIONS_H_
 #define CHROME_BROWSER_GLIC_WIDGET_BROWSER_CONDITIONS_H_
 

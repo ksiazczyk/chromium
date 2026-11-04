@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake contextual cueing service implementation
+// summary: Implements a fake ContextualCueingService that posts configurable zero-state suggestions for focused and pinned tabs during tests.
+// ---
+
 #include "chrome/browser/glic/test_support/fake_contextual_cueing_service.h"
 
 #include "base/logging.h"

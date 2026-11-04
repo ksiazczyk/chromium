@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual cueing enums for nudge decisions and metrics
+// summary: Defines enums for nudge decisions, Glic auto-open results and nudge interactions, kept in sync with contextual cueing histogram metadata.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_SUGGESTIONS_CONTEXTUAL_CUEING_ENUMS_H_
 #define CHROME_BROWSER_GLIC_SUGGESTIONS_CONTEXTUAL_CUEING_ENUMS_H_
 

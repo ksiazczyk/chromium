@@ -1,0 +1,4 @@
+# Docerion header of explain_fulfillment.mojom.
+type: source
+title: Mojo interface for explain suggestion fulfillment
+summary: Defines the ExplainFulfillment interface the selection overlay WebUI uses to get explanations, search, or ask Gemini.

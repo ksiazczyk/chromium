@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Metrics types unit tests
+// summary: Verifies string conversion of invocation sources and the response segmentation mapping for attached and detached text and audio modes.
+// ---
+
 #include "chrome/browser/glic/service/metrics/metrics_types.h"
 
 #include "chrome/browser/glic/host/glic.mojom.h"

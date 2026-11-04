@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zero state suggestions request implementation
+// summary: Implements a zero-state suggestions request that gathers page contexts from requested tabs, runs Optimization Guide model execution, and caches focused-tab results.
+// ---
+
 #include "chrome/browser/glic/suggestions/zero_state_suggestions_request.h"
 
 #include <string>

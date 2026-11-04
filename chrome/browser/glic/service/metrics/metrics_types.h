@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic metrics types header
+// summary: Defines persisted metric enums such as ResponseSegmentation and declares helpers for converting Glic metric types to strings.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_SERVICE_METRICS_METRICS_TYPES_H_
 #define CHROME_BROWSER_GLIC_SERVICE_METRICS_METRICS_TYPES_H_
 

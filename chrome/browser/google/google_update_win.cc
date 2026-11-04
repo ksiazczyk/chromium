@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Update integration implementation for Windows
+// summary: Implements on-demand update checks and upgrades of Chrome on Windows by talking to Google Update COM interfaces, reporting results and error codes to callers.
+// ---
+
 #include "chrome/browser/google/google_update_win.h"
 
 #include <objbase.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic inactive side panel UI implementation
+// summary: Implements the inactive Glic side panel embedder that shows a blurred screenshot of the previous UI and activates the Glic panel when the view is focused.
+// ---
+
 #include "chrome/browser/glic/widget/glic_inactive_side_panel_ui.h"
 
 #include "base/notimplemented.h"

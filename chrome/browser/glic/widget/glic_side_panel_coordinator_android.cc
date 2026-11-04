@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Glic side panel coordinator implementation
+// summary: Implements the Android Glic side panel coordinator, showing Glic content in a tab bottom sheet and handling tab activation and backgrounded states.
+// ---
+
 #include "chrome/browser/glic/public/widget/glic_side_panel_coordinator_android.h"
 
 #include <climits>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic UI types implementation
+// summary: Implements ShowOptions and SidePanelShowOptions constructors plus factory helpers for floating and side panel show configurations.
+// ---
+
 #include "chrome/browser/glic/service/glic_ui_types.h"
 
 #include "base/strings/stringprintf.h"

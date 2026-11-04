@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inactive Glic view controller class declaration
+// summary: Declares InactiveViewController, which manages a view displaying a blurred and dynamically resized screenshot, updating blur, scrim color, and opacity on changes.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_WIDGET_INACTIVE_VIEW_CONTROLLER_H_
 #define CHROME_BROWSER_GLIC_WIDGET_INACTIVE_VIEW_CONTROLLER_H_
 

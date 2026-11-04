@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock GlicKeyedService implementation
+// summary: Implements a mock GlicKeyedService that subclasses the real service so Glic browser tests can stub its behavior.
+// ---
+
 #include "chrome/browser/glic/test_support/mock_glic_keyed_service.h"
 
 #include "chrome/browser/profiles/profile.h"

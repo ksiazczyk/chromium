@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the caching zero state suggestions manager
+// summary: Unit tests verifying that focused and pinned tab zero-state suggestion requests are cached and passed through to the contextual cueing service.
+// ---
+
 #include "chrome/browser/glic/suggestions/caching_zero_state_suggestions_manager.h"
 
 #include "base/memory/raw_ptr.h"

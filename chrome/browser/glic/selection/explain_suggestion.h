@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface of the Explain selection suggestion
+// summary: Declares the ExplainSuggestion class that shows the Explain card in the selection overlay and serves its requests.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_SELECTION_EXPLAIN_SUGGESTION_H_
 #define CHROME_BROWSER_GLIC_SELECTION_EXPLAIN_SUGGESTION_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: GSA directory dependency rules
+summary: Allows this directory to include code from components/externalauth/android.

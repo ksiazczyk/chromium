@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic instance coordinator metrics implementation
+// summary: Implements coordinator-level Glic metrics for concurrent visibility, memory footprint, conversation switching targets, and instance counts.
+// ---
+
 #include "chrome/browser/glic/service/metrics/glic_instance_coordinator_metrics.h"
 
 #include <algorithm>

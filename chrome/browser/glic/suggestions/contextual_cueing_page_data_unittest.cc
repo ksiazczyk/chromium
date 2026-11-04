@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual cueing page data unit tests
+// summary: Unit tests covering cueing configuration matching, early destruction, PDF page count conditions, and word count signals.
+// ---
+
 #include "chrome/browser/glic/suggestions/contextual_cueing_page_data.h"
 
 #include "base/test/scoped_feature_list.h"

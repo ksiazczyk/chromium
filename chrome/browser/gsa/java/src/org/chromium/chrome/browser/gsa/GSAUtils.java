@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'GSAUtils: Google Search App state utilities'
+// summary: Java utilities for the Google Search App (AGSA) on Android, covering package name checks, version comparison against minimum versions, enabled state, and test fakes.
+// ---
+
 package org.chromium.chrome.browser.gsa;
 
 import android.content.pm.PackageInfo;

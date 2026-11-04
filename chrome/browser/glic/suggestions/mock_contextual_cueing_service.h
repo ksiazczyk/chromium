@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock contextual cueing service header
+// summary: Declares MockContextualCueingService, a gmock test double stubbing nudge and zero-state suggestion methods of ContextualCueingService for tests.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_SUGGESTIONS_MOCK_CONTEXTUAL_CUEING_SERVICE_H_
 #define CHROME_BROWSER_GLIC_SUGGESTIONS_MOCK_CONTEXTUAL_CUEING_SERVICE_H_
 

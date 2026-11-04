@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SelectionSuggestion class header
+// summary: Declares the SelectionSuggestion class, a Glic selection suggestion tied to a tab that carries a label and prompt for the selection suggestion service.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_SELECTION_SELECTION_SUGGESTION_H_
 #define CHROME_BROWSER_GLIC_SELECTION_SELECTION_SUGGESTION_H_
 

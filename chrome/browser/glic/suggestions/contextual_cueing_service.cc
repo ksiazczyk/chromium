@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual cueing service implementation
+// summary: Implements the profile-level service that tracks nudge activity, enforces engagement constraints, logs metrics, and fetches Glic zero state suggestions.
+// ---
+
 #include "chrome/browser/glic/suggestions/contextual_cueing_service.h"
 
 #include <cmath>

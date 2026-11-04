@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop Android Glic side panel coordinator implementation
+// summary: Implements the Glic side panel coordinator for Android's desktop-style side panel, registering a Glic side panel entry and reacting to enablement changes.
+// ---
+
 #include "chrome/browser/glic/public/widget/glic_side_panel_coordinator_desktop_android.h"
 
 #include "base/functional/callback.h"

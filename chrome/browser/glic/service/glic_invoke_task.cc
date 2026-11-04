@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic invoke task implementation
+// summary: Implements GlicInvokeTask and SequentialTaskGroup for running invocation task sequences, with helpers for clipboard and additional context data extraction.
+// ---
+
 #include "chrome/browser/glic/service/glic_invoke_task.h"
 
 #include "base/barrier_closure.h"

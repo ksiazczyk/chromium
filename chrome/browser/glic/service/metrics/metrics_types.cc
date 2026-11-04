@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic metrics type helper functions
+// summary: Provides string conversions for invocation and daisy chain sources and computes response segmentation values for Glic metrics.
+// ---
+
 #include "chrome/browser/glic/service/metrics/metrics_types.h"
 
 #include "components/tabs/public/tab_interface.h"

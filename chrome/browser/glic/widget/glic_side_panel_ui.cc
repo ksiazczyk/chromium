@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic side panel UI implementation
+// summary: Implements the desktop side panel embedder for Glic, hosting the Glic view and managing hotkeys, modal dialogs and window activation state.
+// ---
+
 #include "chrome/browser/glic/widget/glic_side_panel_ui.h"
 
 #include "base/memory/weak_ptr.h"

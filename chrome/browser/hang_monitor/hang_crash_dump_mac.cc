@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac hung child process crash dump
+// summary: Implements crash dumping for hung child processes on macOS by obtaining the task port from the browser port provider and asking Crashpad to dump the process without crashing.
+// ---
+
 #include "chrome/browser/hang_monitor/hang_crash_dump.h"
 
 #include "base/process/process.h"

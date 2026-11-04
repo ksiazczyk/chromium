@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic side panel coordinator implementation
+// summary: Implements the per-tab side panel coordinator that registers, shows and closes the Glic side panel entry in the browser's side panel registry.
+// ---
+
 #include "chrome/browser/glic/public/widget/glic_side_panel_coordinator_impl.h"
 
 #include "base/functional/callback.h"

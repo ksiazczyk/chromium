@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic cue target
+// summary: Implements the Glic contextual cue target that registers with the cueing controller, checks page eligibility, and invokes Glic in response to cue actions.
+// ---
+
 #include "chrome/browser/glic/suggestions/glic_cue_target.h"
 
 #include <utility>

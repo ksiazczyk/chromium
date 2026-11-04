@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android Glic side panel coordinator browser tests
+// summary: Browser tests verifying that the Android Glic side panel coordinator preserves expanded and peek states when switching between tabs.
+// ---
+
 #include "chrome/browser/glic/public/glic_side_panel_coordinator.h"
 
 #include "base/test/scoped_feature_list.h"

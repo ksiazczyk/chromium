@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android Glic side panel UI unit tests
+// summary: Unit tests for the Android Glic side panel UI covering microphone stopping, media permission requests, window activation and drag-and-drop behavior.
+// ---
+
 #include "chrome/browser/glic/widget/glic_side_panel_ui_android.h"
 
 #include <memory>

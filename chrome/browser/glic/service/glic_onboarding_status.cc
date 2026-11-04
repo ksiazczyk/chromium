@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic onboarding status implementation
+// summary: Implements reading and writing the Glic onboarding status preference, with helpers for invoked, opted-in and prompt states.
+// ---
+
 #include "chrome/browser/glic/service/glic_onboarding_status.h"
 
 #include <utility>

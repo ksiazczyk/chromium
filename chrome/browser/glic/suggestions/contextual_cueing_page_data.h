@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual cueing page data header
+// summary: Declares the CueingResult struct and the page-scoped decider that evaluates contextual cueing metadata conditions for a page.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_SUGGESTIONS_CONTEXTUAL_CUEING_PAGE_DATA_H_
 #define CHROME_BROWSER_GLIC_SUGGESTIONS_CONTEXTUAL_CUEING_PAGE_DATA_H_
 

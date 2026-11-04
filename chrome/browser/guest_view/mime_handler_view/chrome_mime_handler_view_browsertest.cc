@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome MimeHandlerView browser tests
+// summary: Browser tests for the Chrome MimeHandlerView guest view, covering PDF loading metrics, context menus, print preview, and guest attachment behavior.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/location.h"
 #include "base/memory/scoped_refptr.h"

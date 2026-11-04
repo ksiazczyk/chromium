@@ -1,0 +1,4 @@
+# Docerion header of selection_overlay.mojom.
+type: source
+title: Selection overlay Mojo interface definitions
+summary: Defines Mojo structs, enums and interfaces for communication between the browser and the chrome-untrusted selection overlay WebUI.

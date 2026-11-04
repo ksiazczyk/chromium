@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic tab added waiter implementation
+// summary: Implements a waiter that blocks on a run loop until GlicTabObserver reports a new tab and then returns that tab.
+// ---
+
 #include "chrome/browser/glic/test_support/glic_test_tab_added_waiter.h"
 
 #include <utility>

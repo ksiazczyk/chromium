@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShakeTrigger class header
+// summary: Declares the ShakeTrigger mouse shake detector and its ShakeTriggerClient interface used to trigger Glic region capture.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_SELECTION_SHAKE_TRIGGER_H_
 #define CHROME_BROWSER_GLIC_SELECTION_SHAKE_TRIGGER_H_
 

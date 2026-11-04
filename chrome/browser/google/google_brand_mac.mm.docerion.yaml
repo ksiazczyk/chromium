@@ -1,0 +1,4 @@
+# Docerion header of google_brand_mac.mm.
+type: source
+title: Mac Google brand code lookup
+summary: Reads the Chrome brand code on macOS from system or user brand files, extended attribute tags, or the app bundle.

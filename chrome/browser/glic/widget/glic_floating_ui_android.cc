@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android stub implementation of the floating Glic UI
+// summary: Provides a no-op Android implementation of GlicFloatingUi, returning empty sizes and default states for all embedder methods.
+// ---
+
 #include "chrome/browser/glic/widget/glic_floating_ui_android.h"
 
 #include "chrome/browser/glic/host/glic.mojom.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped modal dialog manager delegate class declaration
+// summary: Declares a helper that attaches a modal dialog manager delegate to WebContents and clears it on removal or destruction to prevent modal dialog crashes and deadlocks.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_WIDGET_SCOPED_MODAL_DIALOG_MANAGER_DELEGATE_H_
 #define CHROME_BROWSER_GLIC_WIDGET_SCOPED_MODAL_DIALOG_MANAGER_DELEGATE_H_
 

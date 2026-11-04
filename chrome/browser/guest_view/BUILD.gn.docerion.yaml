@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Guest view build targets
+summary: Defines GN source sets for Chrome's guest view delegates plus browser and interactive UI test targets, with feature- and platform-conditional sources and dependencies.

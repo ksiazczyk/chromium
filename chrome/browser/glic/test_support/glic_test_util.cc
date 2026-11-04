@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic test utilities implementation
+// summary: Implements GlicInstanceTracker and helpers that locate and track Glic instances across browsers and tabs for tests.
+// ---
+
 #include "chrome/browser/glic/test_support/glic_test_util.h"
 
 #include "base/strings/strcat.h"

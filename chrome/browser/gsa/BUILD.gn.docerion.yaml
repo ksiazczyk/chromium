@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GSA Android library build definition
+summary: Defines the GN android_library target for GSAUtils.java and its Java dependencies.

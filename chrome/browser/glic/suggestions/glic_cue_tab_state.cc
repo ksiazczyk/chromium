@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic cue tab state
+// summary: Implements per-tab state for GlicCueTarget, caching page content annotations for the current navigation and managing pending eligibility checks with a timeout.
+// ---
+
 #include "chrome/browser/glic/suggestions/glic_cue_tab_state.h"
 
 #include <utility>

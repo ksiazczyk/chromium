@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface of the floating Glic UI embedder
+// summary: Declares GlicFloatingUi, a GlicUiEmbedder managing a detached floating Glic window with resize, attach, hotkey and modal dialog support.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_WIDGET_GLIC_FLOATING_UI_H_
 #define CHROME_BROWSER_GLIC_WIDGET_GLIC_FLOATING_UI_H_
 

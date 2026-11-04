@@ -1,0 +1,4 @@
+# Docerion header of check_glic_api_test_registration.py.
+type: script
+title: Glic API test registration checker
+summary: Statically verifies that every Glic WebUI TypeScript test method has a matching C++ browser test declaration.

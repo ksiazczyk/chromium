@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic drag-and-drop test base implementation
+// summary: Implements the base fixture for Glic drag-and-drop file upload browser tests, configuring features, sign-in, guest preparation, and simulated mouse drags.
+// ---
+
 #include "chrome/browser/glic/test_support/glic_drag_and_drop_test_base.h"
 
 #include "base/files/file_util.h"

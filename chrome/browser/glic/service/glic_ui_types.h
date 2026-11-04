@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic UI types
+// summary: Defines embedder key variants, close reasons, and ShowOptions structs describing how the Glic floating or side panel UI is displayed.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_SERVICE_GLIC_UI_TYPES_H_
 #define CHROME_BROWSER_GLIC_SERVICE_GLIC_UI_TYPES_H_
 

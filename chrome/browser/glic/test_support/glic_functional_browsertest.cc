@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic functional browser test base implementation
+// summary: Implements helpers of the GlicFunctionalBrowserTestBase fixture for evaluating JavaScript in the Glic guest frame and converting results to expected values.
+// ---
+
 #include "chrome/browser/glic/test_support/glic_functional_browsertest.h"
 
 #include "chrome/browser/ui/tabs/tab_strip_model.h"

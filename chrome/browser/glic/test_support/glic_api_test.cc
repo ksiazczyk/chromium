@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic API test helpers implementation
+// summary: Implements the WebUI state listener and deserialization of test commands such as tab navigation, JS execution and wait actions for Glic API tests.
+// ---
+
 #include "chrome/browser/glic/test_support/glic_api_test.h"
 
 #include "base/check.h"

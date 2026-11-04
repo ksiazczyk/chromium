@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for Glic suggestions
+summary: Defines GN source sets for the Glic suggestions module, including public headers, implementation, test support and unit tests.

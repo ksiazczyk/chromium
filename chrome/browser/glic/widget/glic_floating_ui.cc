@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the floating Glic UI embedder
+// summary: Implements the floating Glic window embedder, handling widget creation, browser attachment, hotkeys, keep-alive and modal dialog hosting.
+// ---
+
 #include "chrome/browser/glic/widget/glic_floating_ui.h"
 
 #include "base/feature_list.h"

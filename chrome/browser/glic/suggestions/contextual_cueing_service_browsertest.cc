@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual cueing service browser tests
+// summary: In-process browser tests for the contextual cueing service, covering zero state suggestion fetching on navigation, page eligibility, and histogram metrics.
+// ---
+
 #include "chrome/browser/glic/suggestions/contextual_cueing_service.h"
 
 #include <optional>

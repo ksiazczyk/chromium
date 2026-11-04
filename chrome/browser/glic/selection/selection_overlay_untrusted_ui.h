@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Selection overlay untrusted WebUI header
+// summary: Declares the WebUI controller and config for the chrome-untrusted Glic selection overlay page and its page handler factory.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_SELECTION_SELECTION_OVERLAY_UNTRUSTED_UI_H_
 #define CHROME_BROWSER_GLIC_SELECTION_SELECTION_OVERLAY_UNTRUSTED_UI_H_
 

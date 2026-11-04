@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the Quick Answers selection tool
+// summary: Builds Quick Answers requests from the selected text and creates Explain suggestions for the selection overlay.
+// ---
+
 #include "chrome/browser/glic/selection/quick_answers_tool.h"
 
 #include <memory>

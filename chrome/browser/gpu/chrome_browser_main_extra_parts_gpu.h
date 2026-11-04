@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for ChromeBrowserMainExtraPartsGpu
+// summary: Declares the ChromeBrowserMainExtraPartsGpu class, a browser extra parts and GpuDataManagerObserver implementation for GPU startup and info updates.
+// ---
+
 #ifndef CHROME_BROWSER_GPU_CHROME_BROWSER_MAIN_EXTRA_PARTS_GPU_H_
 #define CHROME_BROWSER_GPU_CHROME_BROWSER_MAIN_EXTRA_PARTS_GPU_H_
 

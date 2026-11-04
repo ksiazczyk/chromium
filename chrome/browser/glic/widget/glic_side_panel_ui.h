@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic side panel UI class declaration
+// summary: Declares GlicSidePanelUi, the GlicUiEmbedder implementation that hosts the Glic web UI in the browser side panel.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_WIDGET_GLIC_SIDE_PANEL_UI_H_
 #define CHROME_BROWSER_GLIC_WIDGET_GLIC_SIDE_PANEL_UI_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic API browser test fixture header
+// summary: Defines the GlicApiBrowserTest fixtures that pair C++ browser-side tests with TypeScript test code running in the Glic WebUI client.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_TEST_SUPPORT_GLIC_API_TEST_H_
 #define CHROME_BROWSER_GLIC_TEST_SUPPORT_GLIC_API_TEST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic window resize animation class declaration
+// summary: Declares GlicWindowResizeAnimation, which animates the Glic window from one size to another with lifetime, single-animation, and callback constraints.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_WIDGET_GLIC_WINDOW_RESIZE_ANIMATION_H_
 #define CHROME_BROWSER_GLIC_WIDGET_GLIC_WINDOW_RESIZE_ANIMATION_H_
 

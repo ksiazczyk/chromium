@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the selection overlay interactive UI tests
+summary: Grants the interactive UI test source file an include exception for ash/shell.h.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic instance coordinator metrics unit tests
+// summary: Unit tests for coordinator metrics using a mock data provider and histogram tester to check concurrent visibility and counting behavior.
+// ---
+
 #include "chrome/browser/glic/service/metrics/glic_instance_coordinator_metrics.h"
 
 #include <memory>

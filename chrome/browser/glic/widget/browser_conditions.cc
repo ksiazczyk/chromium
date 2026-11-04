@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of browser attachability conditions for Glic
+// summary: Implements checks that determine which browser windows the Glic panel can attach to, including platform-specific foreground and visibility logic.
+// ---
+
 #include "chrome/browser/glic/widget/browser_conditions.h"
 
 #include "base/check_deref.h"

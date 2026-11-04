@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic view unit tests
+// summary: Unit tests for GlicView covering drag-and-drop acceptance rules, feature flags and window creation behavior.
+// ---
+
 #include "chrome/browser/glic/widget/glic_view.h"
 
 #include <memory>

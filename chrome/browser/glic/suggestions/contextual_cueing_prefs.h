@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual cueing prefs declarations
+// summary: Declares the supported tools pref name constant and the profile pref registration function for contextual cueing.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_SUGGESTIONS_CONTEXTUAL_CUEING_PREFS_H_
 #define CHROME_BROWSER_GLIC_SUGGESTIONS_CONTEXTUAL_CUEING_PREFS_H_
 

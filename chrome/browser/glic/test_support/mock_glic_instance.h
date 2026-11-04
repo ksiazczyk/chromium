@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mock Glic instance header
+// summary: Defines a gmock-based MockGlicInstance implementing the GlicInstance interface for use in tests.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_TEST_SUPPORT_MOCK_GLIC_INSTANCE_H_
 #define CHROME_BROWSER_GLIC_TEST_SUPPORT_MOCK_GLIC_INSTANCE_H_
 

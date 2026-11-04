@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic interactive browser test fixture
+// summary: Defines GlicBrowserInteractiveTest, combining the Glic browser test mixin with InteractiveBrowserTest for interactive tests.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_TEST_SUPPORT_GLIC_BROWSER_INTERACTIVE_TEST_H_
 #define CHROME_BROWSER_GLIC_TEST_SUPPORT_GLIC_BROWSER_INTERACTIVE_TEST_H_
 

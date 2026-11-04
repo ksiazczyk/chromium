@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web contents delegate utility for Glic widget
+// summary: Header defining a SetWebContentsDelegate template helper that sets or conditionally clears a WebContents delegate, handling both NoWebview privileged contents and WebUI modes.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_WIDGET_WEB_CONTENTS_DELEGATE_UTIL_H_
 #define CHROME_BROWSER_GLIC_WIDGET_WEB_CONTENTS_DELEGATE_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Caching zero state suggestions manager implementation
+// summary: Implements a caching layer over the contextual cueing service that deduplicates zero-state Glic suggestion requests for focused and pinned tabs.
+// ---
+
 #include "chrome/browser/glic/suggestions/caching_zero_state_suggestions_manager.h"
 
 #include "base/memory/raw_ptr.h"

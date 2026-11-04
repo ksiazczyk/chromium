@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic invoke task framework
+// summary: Declares the GlicInvokeTask interface plus sequential and parallel task groups that orchestrate staged Glic invocation flows with typed task stages.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_SERVICE_GLIC_INVOKE_TASK_H_
 #define CHROME_BROWSER_GLIC_SERVICE_GLIC_INVOKE_TASK_H_
 

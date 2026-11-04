@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic metrics session manager unit tests
+// summary: Tests session start, cancellation, and end behavior of GlicMetricsSessionManager using mock time and configurable feature timeouts.
+// ---
+
 #include "chrome/browser/glic/service/metrics/glic_metrics_session_manager.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic instance coordinator metrics browser tests
+// summary: Browser tests verifying coordinator metrics histograms such as concurrent visibility peak count, duration, and memory pressure footprints.
+// ---
+
 #include "chrome/browser/glic/service/metrics/glic_instance_coordinator_metrics.h"
 
 #include "base/test/run_until.h"

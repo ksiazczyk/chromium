@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Google Update Windows unit tests
+// summary: Unit tests for the Windows Google Update integration, using mocked COM state objects and a mock delegate to verify update check and upgrade behavior.
+// ---
+
 #include "chrome/browser/google/google_update_win.h"
 
 #include <windows.h>

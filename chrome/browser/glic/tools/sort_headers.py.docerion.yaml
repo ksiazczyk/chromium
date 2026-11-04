@@ -1,0 +1,4 @@
+# Docerion header of sort_headers.py.
+type: script
+title: C++ header include sorter
+summary: 'Sorts #include and #import lines in C++ files, reorganizing preprocessor conditional blocks while preserving comments and barriers.'

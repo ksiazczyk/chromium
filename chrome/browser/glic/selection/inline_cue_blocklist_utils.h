@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface of inline cue blocklist utilities
+// summary: Declares helpers that decide whether the inline cue is blocked for a URL and manage opt-outs from the default blocklist.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_SELECTION_INLINE_CUE_BLOCKLIST_UTILS_H_
 #define CHROME_BROWSER_GLIC_SELECTION_INLINE_CUE_BLOCKLIST_UTILS_H_
 

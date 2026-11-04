@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Update policy fetcher API
+// summary: Defines Google Update state structs, policy JSON field name constants, and policy parsing function declarations.
+// ---
+
 #ifndef CHROME_BROWSER_GOOGLE_GOOGLE_UPDATE_POLICY_FETCHER_H_
 #define CHROME_BROWSER_GOOGLE_GOOGLE_UPDATE_POLICY_FETCHER_H_
 

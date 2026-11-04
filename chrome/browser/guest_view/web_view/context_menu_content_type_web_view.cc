@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView context menu content type implementation
+// summary: Implements context menu item grouping for webview guests, deciding which menu groups such as links, extension items, and developer tools are available.
+// ---
+
 #include "chrome/browser/guest_view/web_view/context_menu_content_type_web_view.h"
 
 #include <optional>

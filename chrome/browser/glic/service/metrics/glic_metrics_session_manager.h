@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic metrics session manager header
+// summary: Declares GlicMetricsSessionManager, which manages Glic metrics sessions based on visibility, activation, and user input with configurable timeouts.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_SERVICE_METRICS_GLIC_METRICS_SESSION_MANAGER_H_
 #define CHROME_BROWSER_GLIC_SERVICE_METRICS_GLIC_METRICS_SESSION_MANAGER_H_
 

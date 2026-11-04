@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows implementation updating Chrome did-run state
+// summary: Posts a background task to update the installer did-run state whenever a render process is created, signaling that the browser is in use.
+// ---
+
 #include "chrome/browser/google/did_run_updater_win.h"
 
 #include "base/functional/bind.h"

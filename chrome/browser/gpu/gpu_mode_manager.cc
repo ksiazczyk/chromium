@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GPU mode manager implementation
+// summary: Registers hardware acceleration preferences, records UMA metrics and user actions about GPU mode changes, and disables hardware acceleration when the preference is off.
+// ---
+
 #include "chrome/browser/gpu/gpu_mode_manager.h"
 
 #include "base/functional/bind.h"

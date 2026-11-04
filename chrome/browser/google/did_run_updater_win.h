@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the Windows did-run state updater
+// summary: Declares the DidRunUpdater class, which uses render process creation as a proxy for browser activity to refresh did-run state.
+// ---
+
 #ifndef CHROME_BROWSER_GOOGLE_DID_RUN_UPDATER_WIN_H_
 #define CHROME_BROWSER_GOOGLE_DID_RUN_UPDATER_WIN_H_
 

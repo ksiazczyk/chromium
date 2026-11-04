@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hung child process crash dump interface
+// summary: Declares CrashDumpHungChildProcess, which attempts to generate a crash dump for the child process identified by the given handle.
+// ---
+
 #ifndef CHROME_BROWSER_HANG_MONITOR_HANG_CRASH_DUMP_H_
 #define CHROME_BROWSER_HANG_MONITOR_HANG_CRASH_DUMP_H_
 

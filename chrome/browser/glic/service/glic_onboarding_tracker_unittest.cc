@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic onboarding tracker unit tests
+// summary: Unit tests covering onboarding status getters, state migration and state transitions with histogram and user action verification.
+// ---
+
 #include "chrome/browser/glic/service/glic_onboarding_tracker.h"
 
 #include "base/test/metrics/histogram_tester.h"

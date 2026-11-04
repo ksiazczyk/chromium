@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GlicInstanceImpl implementation
+// summary: Implements GlicInstanceImpl, which owns a single Glic host, manages UI embedders, sharing managers, and instance lifecycle state for the Glic feature.
+// ---
+
 #include "chrome/browser/glic/service/glic_instance_impl.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SelectionSuggestionTool implementation
+// summary: Implements the Glic selection suggestion tool that registers with the tab's suggestion service, reports capabilities from prefs or feature parameters, and creates suggestions from server data.
+// ---
+
 #include "chrome/browser/glic/selection/selection_suggestion_tool.h"
 
 #include <memory>

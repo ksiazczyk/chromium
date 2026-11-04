@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic invoke task unit tests
+// summary: Unit tests verifying sequential and parallel task group execution, completion callbacks and nested group behavior using mock tasks.
+// ---
+
 #include "chrome/browser/glic/service/glic_invoke_task.h"
 
 #include "base/functional/callback_helpers.h"

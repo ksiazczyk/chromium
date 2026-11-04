@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for inline cue blocklist utilities
+// summary: Tests blocklist precedence, default blocking, user overrides and unblocking of default-blocked sites.
+// ---
+
 #include "chrome/browser/glic/selection/inline_cue_blocklist_utils.h"
 
 #include <algorithm>

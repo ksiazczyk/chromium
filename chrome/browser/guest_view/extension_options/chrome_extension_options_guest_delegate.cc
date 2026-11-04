@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome extension options guest delegate implementation
+// summary: Implements ChromeExtensionOptionsGuestDelegate, handling context menus in extension options guest views and opening URLs in new tabs via the embedder's web contents.
+// ---
+
 #include "chrome/browser/guest_view/extension_options/chrome_extension_options_guest_delegate.h"
 
 #include <memory>

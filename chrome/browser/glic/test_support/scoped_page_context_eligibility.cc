@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped page context eligibility stub implementation
+// summary: Installs a stub page context eligibility API for the object's lifetime, treating URLs containing 'ineligible' as ineligible.
+// ---
+
 #include "chrome/browser/glic/test_support/scoped_page_context_eligibility.h"
 
 #include <string>

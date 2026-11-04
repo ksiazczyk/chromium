@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for GpuModeManager
+// summary: Declares the GpuModeManager class that registers and tracks the hardware acceleration mode preference.
+// ---
+
 #ifndef CHROME_BROWSER_GPU_GPU_MODE_MANAGER_H_
 #define CHROME_BROWSER_GPU_GPU_MODE_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Selection overlay untrusted WebUI implementation
+// summary: Sets up the chrome-untrusted Glic selection overlay data source with resources, localized strings and display configuration values.
+// ---
+
 #include "chrome/browser/glic/selection/selection_overlay_untrusted_ui.h"
 
 #include "base/feature_list.h"

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file delegating review ownership
+summary: Points to the update_client OWNERS file to define the code owners for this directory.

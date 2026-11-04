@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic state tracker implementation
+// summary: Implements boolean state tracking that measures how long the state stays true and logs each duration to a UMA histogram.
+// ---
+
 #include "chrome/browser/glic/service/glic_state_tracker.h"
 
 #include "base/metrics/histogram_functions.h"

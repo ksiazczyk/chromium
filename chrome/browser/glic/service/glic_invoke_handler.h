@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic invoke handler header
+// summary: Declares GlicInvokeHandler, which parses Glic invocation options, resolves target surfaces, and communicates with the instance host to run invocations.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_SERVICE_GLIC_INVOKE_HANDLER_H_
 #define CHROME_BROWSER_GLIC_SERVICE_GLIC_INVOKE_HANDLER_H_
 

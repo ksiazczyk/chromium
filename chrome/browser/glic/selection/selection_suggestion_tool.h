@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SelectionSuggestionTool class header
+// summary: Declares the SelectionSuggestionTool interface for tool ID, capabilities, and creation of smart selection suggestions from server responses.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_SELECTION_SELECTION_SUGGESTION_TOOL_H_
 #define CHROME_BROWSER_GLIC_SELECTION_SELECTION_SUGGESTION_TOOL_H_
 

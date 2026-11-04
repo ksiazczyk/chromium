@@ -1,0 +1,4 @@
+# Docerion header of check_glic_api_test_registration_test.py.
+type: test
+title: Tests for the Glic API test registration checker
+summary: Unit tests for extracting TypeScript test method names and matching them against C++ browser test declarations.

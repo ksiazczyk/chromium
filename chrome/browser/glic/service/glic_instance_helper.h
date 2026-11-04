@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic instance helper header
+// summary: Declares GlicInstanceHelper, a per-tab helper binding a Glic instance ID, conversation info, and pinned instances to a TabInterface.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_SERVICE_GLIC_INSTANCE_HELPER_H_
 #define CHROME_BROWSER_GLIC_SERVICE_GLIC_INSTANCE_HELPER_H_
 

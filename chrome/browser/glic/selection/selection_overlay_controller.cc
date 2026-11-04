@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Selection overlay controller implementation
+// summary: Implements the SelectionOverlayController managing overlay states, screenshots, selected regions and WebUI bindings for Glic selection.
+// ---
+
 #include "chrome/browser/glic/selection/selection_overlay_controller.h"
 
 #include "base/check_deref.h"

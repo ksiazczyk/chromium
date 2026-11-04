@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic instance metrics interactive UI tests
+// summary: Interactive UI tests verifying Glic instance metrics user actions and session durations using shortened timeout parameters.
+// ---
+
 #include "chrome/browser/glic/service/metrics/glic_instance_metrics.h"
 
 #include "base/strings/string_number_conversions.h"

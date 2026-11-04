@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS brand code map unit tests
+// summary: Verifies GetRlzBrandCode returns enrollment-based variations for mapped codes and passes through unmapped codes.
+// ---
+
 #include "chrome/browser/google/google_brand_code_map_chromeos.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

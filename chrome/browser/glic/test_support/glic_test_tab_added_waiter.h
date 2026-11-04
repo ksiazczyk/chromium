@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic tab added waiter header
+// summary: Declares GlicTestTabAddedWaiter, which listens via GlicTabObserver for a tab creation event and returns the newly added tab.
+// ---
+
 #ifndef CHROME_BROWSER_GLIC_TEST_SUPPORT_GLIC_TEST_TAB_ADDED_WAITER_H_
 #define CHROME_BROWSER_GLIC_TEST_SUPPORT_GLIC_TEST_TAB_ADDED_WAITER_H_
 

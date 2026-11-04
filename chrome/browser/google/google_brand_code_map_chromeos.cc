@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS RLZ brand code map implementation
+// summary: Maps static ChromeOS brand codes to RLZ brand code variations based on the device's enrollment market segment.
+// ---
+
 #include "chrome/browser/google/google_brand_code_map_chromeos.h"
 
 #include "base/containers/fixed_flat_map.h"

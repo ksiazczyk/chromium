@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual cueing helper browser tests
+// summary: Browser tests verifying nudge UI behavior, cueing metadata handling, auto-open flows, and related metrics for the contextual cueing helper.
+// ---
+
 #include "chrome/browser/glic/suggestions/contextual_cueing_helper.h"
 
 #include "base/test/metrics/histogram_tester.h"

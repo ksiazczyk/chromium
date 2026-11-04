@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Awake instance limit calculator implementation
+// summary: Implements CalculateAwakeInstancesLimit, scaling the maximum number of awake Glic instances by system memory pressure via piecewise linear interpolation.
+// ---
+
 #include "chrome/browser/glic/service/glic_instance_limit_calculator.h"
 
 #include <algorithm>

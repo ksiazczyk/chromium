@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Contextual cueing helper unit tests
+// summary: Unit tests for the contextual cueing helper using mock cueing and optimization guide services with simulated navigations.
+// ---
+
 #include "chrome/browser/glic/suggestions/contextual_cueing_helper.h"
 
 #include "base/feature_list.h"

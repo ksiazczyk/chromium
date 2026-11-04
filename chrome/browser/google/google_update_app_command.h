@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Update app command API
+// summary: Declares ConfigureProxyBlanket and GetUpdaterAppCommand for invoking Google Update commands over COM.
+// ---
+
 #ifndef CHROME_BROWSER_GOOGLE_GOOGLE_UPDATE_APP_COMMAND_H_
 #define CHROME_BROWSER_GOOGLE_GOOGLE_UPDATE_APP_COMMAND_H_
 

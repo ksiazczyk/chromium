@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Glic side panel UI implementation
+// summary: Implements the Android Glic side panel UI embedder, handling keyboard events, media access, file selection and drag-and-drop for the Glic panel.
+// ---
+
 #include "chrome/browser/glic/widget/glic_side_panel_ui_android.h"
 
 #include "base/android/jni_android.h"

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata
+summary: Points to the shared guest view metadata in components/guest_view/COMMON_METADATA for this directory.
