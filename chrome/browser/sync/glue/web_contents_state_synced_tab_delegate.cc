@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web contents state synced tab delegate implementation
+// summary: Implements a synced tab delegate that restores a renderless web contents from a placeholder tab's state buffer for session sync.
+// ---
+
 #include "chrome/browser/sync/glue/web_contents_state_synced_tab_delegate.h"
 
 #include "chrome/browser/sync/glue/synced_tab_delegate_android.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dictionary load observer implementation
+// summary: Implements an observer that runs a quit task once the custom spellcheck dictionary finishes loading.
+// ---
+
 #include "chrome/browser/sync/test/integration/dictionary_load_observer.h"
 
 DictionaryLoadObserver::DictionaryLoadObserver(

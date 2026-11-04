@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncSessionsWebContentsRouterFactory header
+// summary: Declares the ProfileKeyedServiceFactory that returns or creates the per-profile SyncSessionsWebContentsRouter service instance.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_SESSIONS_SYNC_SESSIONS_WEB_CONTENTS_ROUTER_FACTORY_H_
 #define CHROME_BROWSER_SYNC_SESSIONS_SYNC_SESSIONS_WEB_CONTENTS_ROUTER_FACTORY_H_
 

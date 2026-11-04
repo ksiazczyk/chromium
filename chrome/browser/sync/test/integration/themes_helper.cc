@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Theme helper implementation for sync tests
+// summary: Implements helpers to switch profiles between custom, default, system, and grayscale themes and to check pending theme installs in sync tests.
+// ---
+
 #include "chrome/browser/sync/test/integration/themes_helper.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension settings helper for sync integration tests
+// summary: Declares helpers to get and set extension settings across profiles and a checker that waits for extension settings to match on all profiles.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_TEST_INTEGRATION_EXTENSION_SETTINGS_HELPER_H_
 #define CHROME_BROWSER_SYNC_TEST_INTEGRATION_EXTENSION_SETTINGS_HELPER_H_
 

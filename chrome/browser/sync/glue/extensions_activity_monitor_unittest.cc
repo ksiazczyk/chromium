@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extensions activity monitor unit tests
+// summary: Unit tests verifying that only mutating bookmarks API events from extensions are recorded by the extensions activity monitor.
+// ---
+
 #include "chrome/browser/sync/glue/extensions_activity_monitor.h"
 
 #include <stdint.h>

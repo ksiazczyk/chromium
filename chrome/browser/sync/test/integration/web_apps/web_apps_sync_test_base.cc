@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web apps sync test base implementation
+// summary: Implements WebAppsSyncTestBase, configuring feature flags so web app sync integration tests run with a stable test environment.
+// ---
+
 #include "chrome/browser/sync/test/integration/web_apps/web_apps_sync_test_base.h"
 
 #include "base/containers/extend.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-device pref tracker factory implementation
+// summary: Implements the profile-keyed factory that builds CrossDevicePrefTrackerImpl per profile, gated by a feature flag and including Android JNI bindings.
+// ---
+
 #include "chrome/browser/sync/prefs/cross_device_pref_tracker/cross_device_pref_tracker_factory.h"
 
 #include "base/check.h"

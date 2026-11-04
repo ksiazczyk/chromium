@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single-client search engines sync integration tests
+// summary: Browser tests verifying search engine (TemplateURL) sync behavior in a single-client setup, including Android large form factor support and separate account storage.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/search_engines/template_url_service_factory.h"

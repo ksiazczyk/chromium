@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Two-client web apps generated icon fix test
+// summary: Two-client sync tests for the generated icon fix manager, verifying scheduling and results of icon fixes across synced clients.
+// ---
+
 #include "base/containers/flat_map.h"
 #include "base/test/bind.h"
 #include "base/test/metrics/histogram_tester.h"

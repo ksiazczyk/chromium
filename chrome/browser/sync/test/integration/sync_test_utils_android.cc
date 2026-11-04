@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android sync test utilities implementation
+// summary: Implements Android-specific helpers that use Java bridges to set up fake or live accounts, sign in and out, and manage tab groups for sync tests.
+// ---
+
 #include "chrome/browser/sync/test/integration/sync_test_utils_android.h"
 
 #include <memory>

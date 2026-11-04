@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single-client OS preferences sync integration tests
+// summary: ChromeOS-only browser tests verifying upload and download of OS preferences and OS priority preferences through sync.
+// ---
+
 #include "ash/constants/ash_pref_names.h"
 #include "ash/public/cpp/shelf_prefs.h"
 #include "base/json/json_writer.h"

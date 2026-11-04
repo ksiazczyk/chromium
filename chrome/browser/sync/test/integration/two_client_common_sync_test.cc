@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Two-client common sync tests
+// summary: Browser test verifying that awaiting quiescence works when one of two clients signs out and sync is turned off.
+// ---
+
 #include "build/build_config.h"
 #include "chrome/browser/sync/test/integration/sync_service_impl_harness.h"
 #include "chrome/browser/sync/test/integration/sync_test.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserListRouterHelper implementation
+// summary: Implements the non-Android helper of SyncSessionsWebContentsRouter that observes browser windows and tab strips to notify the router about tab insertions, replacements, and closures.
+// ---
+
 #include "chrome/browser/sync/sessions/browser_list_router_helper.h"
 
 #include "chrome/browser/profiles/profile.h"

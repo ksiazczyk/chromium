@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single-client themes sync integration test
+// summary: Browser tests for theme syncing, covering custom, system, default, grayscale and color-based themes against a fake sync server.
+// ---
+
 #include "base/test/metrics/histogram_tester.h"
 #include "base/test/run_until.h"
 #include "base/test/scoped_feature_list.h"

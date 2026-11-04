@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wallet sync test helper header
+// summary: Declares wallet helper functions to access payments and personal data managers, web data services, and to set or update server-side card and credential data.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_TEST_INTEGRATION_WALLET_HELPER_H_
 #define CHROME_BROWSER_SYNC_TEST_INTEGRATION_WALLET_HELPER_H_
 

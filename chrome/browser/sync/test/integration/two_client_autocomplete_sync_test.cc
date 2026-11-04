@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Two-client autocomplete sync tests
+// summary: Browser tests verifying autocomplete entry synchronization between two clients, including Unicode keys and duplicate names across profiles.
+// ---
+
 #include "base/strings/utf_string_conversions.h"
 #include "chrome/browser/sync/test/integration/autofill_helper.h"
 #include "chrome/browser/sync/test/integration/sync_test.h"

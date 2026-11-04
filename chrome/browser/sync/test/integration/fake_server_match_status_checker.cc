@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake server match status checker implementation
+// summary: Implements a status change checker base that observes fake server commits and successful GetUpdates to re-check exit conditions.
+// ---
+
 #include "chrome/browser/sync/test/integration/fake_server_match_status_checker.h"
 
 #include "chrome/browser/sync/test/integration/sync_datatype_helper.h"

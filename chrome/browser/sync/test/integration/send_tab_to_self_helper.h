@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Send Tab to Self test helpers
+// summary: Declares checkers that wait until Send Tab to Self sync entries expose or open a given URL, plus related model comparison helpers, for browser integration tests.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_TEST_INTEGRATION_SEND_TAB_TO_SELF_HELPER_H_
 #define CHROME_BROWSER_SYNC_TEST_INTEGRATION_SEND_TAB_TO_SELF_HELPER_H_
 

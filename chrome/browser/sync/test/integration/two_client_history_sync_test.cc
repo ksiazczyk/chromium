@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Two-client history sync integration tests
+// summary: Browser tests that verify browsing history sync between two clients, covering navigation recording, deletions and visit details across sync modes.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "base/strings/utf_string_conversions.h"
 #include "base/test/scoped_feature_list.h"

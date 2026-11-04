@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncedSetUpUtilsBridge JNI bridge for synced set up utilities
+// summary: Java JNI bridge exposing native synced set up utilities that fetch cross-device preferences from a remote device and determine the best match remote device OS type and form factor, with testing overrides.
+// ---
+
 package org.chromium.chrome.browser.sync.synced_set_up;
 
 import org.jni_zero.JNINamespace;

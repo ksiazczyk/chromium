@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Two-client web apps integration test base implementation
+// summary: Implements the shared base class for two-client web apps sync integration tests, wiring browser, profile, and sync helper behavior.
+// ---
+
 #include "chrome/browser/sync/test/integration/web_apps/two_client_web_apps_integration_test_base.h"
 
 #include "base/test/bind.h"

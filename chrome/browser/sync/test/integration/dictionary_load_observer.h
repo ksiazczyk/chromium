@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dictionary load observer interface
+// summary: Declares an observer used to block tests until the SpellcheckCustomDictionary has finished loading.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_TEST_INTEGRATION_DICTIONARY_LOAD_OBSERVER_H_
 #define CHROME_BROWSER_SYNC_TEST_INTEGRATION_DICTIONARY_LOAD_OBSERVER_H_
 

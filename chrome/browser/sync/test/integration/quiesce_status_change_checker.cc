@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quiesce status change checker implementation
+// summary: Implements a checker that waits until multiple sync clients finish committing unsynced items and downloading each other's updates.
+// ---
+
 #include "chrome/browser/sync/test/integration/quiesce_status_change_checker.h"
 
 #include <stddef.h>

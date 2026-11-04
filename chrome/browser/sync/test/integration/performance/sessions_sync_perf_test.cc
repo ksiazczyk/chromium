@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sessions sync performance test
+// summary: Browser performance test measuring sync times for opening, navigating and closing 150 tabs across two synced clients.
+// ---
+
 #include "base/strings/string_number_conversions.h"
 #include "base/strings/stringprintf.h"
 #include "chrome/browser/sync/test/integration/performance/sync_timing_helper.h"

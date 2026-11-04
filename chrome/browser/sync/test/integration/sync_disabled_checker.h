@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync disabled checker header
+// summary: Declares SyncDisabledChecker, which waits for Sync-the-feature to become disabled and captures the sync status at the moment of disabling.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_TEST_INTEGRATION_SYNC_DISABLED_CHECKER_H_
 #define CHROME_BROWSER_SYNC_TEST_INTEGRATION_SYNC_DISABLED_CHECKER_H_
 

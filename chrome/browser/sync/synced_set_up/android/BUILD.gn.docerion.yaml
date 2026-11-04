@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for synced set up Android
+summary: GN build file defining the Android Java library, generated JNI headers, and native source set for the synced set up bridge.

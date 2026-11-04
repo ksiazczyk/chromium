@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single-client reading list sync integration tests
+// summary: Browser tests verifying reading list entries download, upload and merge correctly between the local model and the fake server across sync modes.
+// ---
+
 #include "base/location.h"
 #include "base/test/scoped_feature_list.h"
 #include "build/build_config.h"

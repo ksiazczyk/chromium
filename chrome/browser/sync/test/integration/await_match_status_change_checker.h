@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Await match status change checker interface
+// summary: Declares AwaitMatchStatusChangeChecker, a multi-client checker driven by a datatype-specific exit condition callback.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_TEST_INTEGRATION_AWAIT_MATCH_STATUS_CHANGE_CHECKER_H_
 #define CHROME_BROWSER_SYNC_TEST_INTEGRATION_AWAIT_MATCH_STATUS_CHANGE_CHECKER_H_
 

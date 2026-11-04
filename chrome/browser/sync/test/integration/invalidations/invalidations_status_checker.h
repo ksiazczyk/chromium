@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InvalidationsStatusChecker class declaration
+// summary: Declares a test status change checker used in sync integration tests to wait for invalidations to be enabled or disabled.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_TEST_INTEGRATION_INVALIDATIONS_INVALIDATIONS_STATUS_CHECKER_H_
 #define CHROME_BROWSER_SYNC_TEST_INTEGRATION_INVALIDATIONS_INVALIDATIONS_STATUS_CHECKER_H_
 

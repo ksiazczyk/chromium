@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncSessionsRouterTabHelper implementation
+// summary: Implements a per-WebContents helper that forwards navigation, load, title, visibility, language detection, and favicon events to the sessions router.
+// ---
+
 #include "chrome/browser/sync/sessions/sync_sessions_router_tab_helper.h"
 
 #include "base/feature_list.h"

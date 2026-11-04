@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Preferences sync integration test helper
+// summary: Declares utilities for modifying and verifying synced preferences across profiles, plus checkers that wait for preference values to change.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_TEST_INTEGRATION_PREFERENCES_HELPER_H_
 #define CHROME_BROWSER_SYNC_TEST_INTEGRATION_PREFERENCES_HELPER_H_
 

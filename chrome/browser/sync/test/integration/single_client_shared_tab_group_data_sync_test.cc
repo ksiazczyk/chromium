@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single-client shared tab group data sync integration tests
+// summary: Browser tests verifying shared tab group collaboration data syncs, including group and tab specifics exchanged with the fake server.
+// ---
+
 #include <optional>
 #include <string>
 #include <vector>

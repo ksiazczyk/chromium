@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Two-client extensions sync integration tests
+// summary: Browser tests that verify extension syncing between two clients, including differing initial sets, enable and disable state, and incognito behavior.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/extensions/scoped_test_mv2_enabler.h"
 #include "chrome/browser/extensions/sync/extension_sync_util.h"

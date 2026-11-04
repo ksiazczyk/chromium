@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake server match status checker interface
+// summary: Declares an abstract status change checker that observes the fake sync server so subclasses can wait on server-side conditions.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_TEST_INTEGRATION_FAKE_SERVER_MATCH_STATUS_CHECKER_H_
 #define CHROME_BROWSER_SYNC_TEST_INTEGRATION_FAKE_SERVER_MATCH_STATUS_CHECKER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single-client app list sync tests
+// summary: Browser tests verifying app list sync for a single client, including fake server entity matching and sync item name handling.
+// ---
+
 #include <stddef.h>
 
 #include <string>

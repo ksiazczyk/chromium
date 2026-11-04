@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for sync integration test directory
+summary: DEPS file specifying allowed include dependencies for the sync integration tests, with special rules for the Nigori and web apps test files.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Saved tab groups sync test helper header
+// summary: Declares saved tab group checkers and matchers for verifying tab group sync service state in integration tests.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_TEST_INTEGRATION_SAVED_TAB_GROUPS_HELPER_H_
 #define CHROME_BROWSER_SYNC_TEST_INTEGRATION_SAVED_TAB_GROUPS_HELPER_H_
 

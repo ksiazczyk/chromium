@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Web apps sync test directory metadata
+summary: Declares metadata mixins for the web apps sync integration test directory, inheriting settings from chrome/browser/web_applications.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single-client status change checker implementation
+// summary: Implements a status change checker that observes a single SyncServiceImpl and delegates to the multi-client checker.
+// ---
+
 #include "chrome/browser/sync/test/integration/single_client_status_change_checker.h"
 
 #include <vector>

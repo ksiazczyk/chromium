@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome syncable prefs database unit tests
+// summary: Verifies that every syncable pref ID appears in the SyncablePref metrics enum and that always-syncing preferences are priority preferences.
+// ---
+
 #include "chrome/browser/sync/prefs/chrome_syncable_prefs_database.h"
 
 #include <string_view>

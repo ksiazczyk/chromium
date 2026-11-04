@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single-client ARC package sync integration tests
+// summary: Browser tests verifying single-client syncing of ARC packages on ChromeOS, using checkers for package counts and fake server entity matching.
+// ---
+
 #include "ash/constants/ash_features.h"
 #include "chrome/browser/ash/app_list/arc/arc_package_syncable_service.h"
 #include "chrome/browser/profiles/profile.h"

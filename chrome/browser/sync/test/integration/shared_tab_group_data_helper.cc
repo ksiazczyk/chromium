@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared tab group data test helpers implementation
+// summary: Implements helpers that compare shared tab group models between services and convert fake server sync entities for verification in sync tests.
+// ---
+
 #include "chrome/browser/sync/test/integration/shared_tab_group_data_helper.h"
 
 #include <algorithm>

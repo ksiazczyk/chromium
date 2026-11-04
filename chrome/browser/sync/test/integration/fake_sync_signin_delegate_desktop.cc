@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake sync sign-in delegate for desktop implementation
+// summary: Implements the desktop sign-in delegate that fakes primary account sign-in, consent upgrades and sign-out via IdentityManager test utilities.
+// ---
+
 #include "chrome/browser/sync/test/integration/fake_sync_signin_delegate_desktop.h"
 
 #include <optional>

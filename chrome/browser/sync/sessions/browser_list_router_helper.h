@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserListRouterHelper header
+// summary: Declares BrowserListRouterHelper, a non-Android helper of SyncSessionsWebContentsRouter that adds multi-window tab tracking via browser collection and tab strip observation.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_SESSIONS_BROWSER_LIST_ROUTER_HELPER_H_
 #define CHROME_BROWSER_SYNC_SESSIONS_BROWSER_LIST_ROUTER_HELPER_H_
 

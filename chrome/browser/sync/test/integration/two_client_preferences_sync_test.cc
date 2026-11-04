@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Two-client preferences sync integration tests
+// summary: Browser tests that verify preference syncing between two clients, covering boolean, integer, string and list preferences and related sync metrics.
+// ---
+
 #include <map>
 #include <string>
 

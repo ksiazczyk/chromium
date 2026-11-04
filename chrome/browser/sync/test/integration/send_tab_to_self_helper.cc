@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Send tab to self sync test helper implementation
+// summary: Implements checkers and utilities for send-tab-to-self sync tests, including URL population checks and element focus waiting.
+// ---
+
 #include "chrome/browser/sync/test/integration/send_tab_to_self_helper.h"
 
 #include <map>

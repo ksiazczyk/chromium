@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single-client WebAuthn credentials sync integration test
+// summary: Integration test verifying passkey (WebAuthn credential) sync, including shadowing passkeys, display names, sync IDs and passkey model behavior.
+// ---
+
 #include <algorithm>
 
 #include "base/containers/span.h"

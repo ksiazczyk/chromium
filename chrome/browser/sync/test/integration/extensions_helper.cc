@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extensions helper implementation for sync integration tests
+// summary: Implements helpers to install, uninstall, enable and compare fake extensions across profiles, plus the ExtensionsMatchChecker, for sync integration tests.
+// ---
+
 #include "chrome/browser/sync/test/integration/extensions_helper.h"
 
 #include "base/check.h"

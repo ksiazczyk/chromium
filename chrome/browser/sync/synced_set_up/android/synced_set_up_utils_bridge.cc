@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncedSetUpUtilsBridge JNI implementation
+// summary: C++ JNI bridge that retrieves cross-device preferences and best-match device OS type and form factor from a remote device for Java callers.
+// ---
+
 #include "base/android/jni_android.h"
 #include "base/android/jni_string.h"
 #include "base/json/json_writer.h"

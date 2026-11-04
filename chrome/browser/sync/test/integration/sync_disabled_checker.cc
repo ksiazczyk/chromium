@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync disabled checker implementation
+// summary: Implements a status change checker that waits until Sync-the-feature is disabled and is no longer in setup in single-client sync tests.
+// ---
+
 #include "chrome/browser/sync/test/integration/sync_disabled_checker.h"
 
 SyncDisabledChecker::SyncDisabledChecker(syncer::SyncServiceImpl* service)

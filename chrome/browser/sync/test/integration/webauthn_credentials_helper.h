@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebAuthn credentials sync test helper header
+// summary: Declares checkers for WebAuthn credential sync integration tests, covering passkey sync activation, local passkey changes and matches, and server passkey matching.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_TEST_INTEGRATION_WEBAUTHN_CREDENTIALS_HELPER_H_
 #define CHROME_BROWSER_SYNC_TEST_INTEGRATION_WEBAUTHN_CREDENTIALS_HELPER_H_
 

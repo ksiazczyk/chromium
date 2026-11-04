@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android live sync sign-in delegate
+// summary: Declares a SyncSigninDelegate that signs in to real servers for live sync tests on Android.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_TEST_INTEGRATION_LIVE_SYNC_SIGNIN_DELEGATE_ANDROID_H_
 #define CHROME_BROWSER_SYNC_TEST_INTEGRATION_LIVE_SYNC_SIGNIN_DELEGATE_ANDROID_H_
 

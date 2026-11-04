@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Committed nudged changes checker interface
+// summary: Declares a status checker that waits for all nudged changes to be committed, safe for tests with self notifications off.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_TEST_INTEGRATION_COMMITTED_ALL_NUDGED_CHANGES_CHECKER_H_
 #define CHROME_BROWSER_SYNC_TEST_INTEGRATION_COMMITTED_ALL_NUDGED_CHANGES_CHECKER_H_
 

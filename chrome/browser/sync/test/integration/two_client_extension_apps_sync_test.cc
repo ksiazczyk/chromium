@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Two-client extension apps sync integration tests
+// summary: Browser tests that verify app syncing between two client profiles, covering install, ordering, enablement and removal; ChromeOS-only after Chrome Apps deprecation.
+// ---
+
 #include <stddef.h>
 
 #include <memory>

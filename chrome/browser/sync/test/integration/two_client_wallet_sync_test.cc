@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Two-client wallet sync integration tests
+// summary: Browser tests verifying autofill wallet credit card data and metadata updates sync between two clients.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/sync/test/integration/autofill_helper.h"
 #include "chrome/browser/sync/test/integration/sync_test.h"

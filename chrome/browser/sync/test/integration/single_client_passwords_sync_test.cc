@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single-client passwords sync integration tests
+// summary: Browser tests covering single-client password sync, including encrypted password values, unsupported proto fields, and password store interactions.
+// ---
+
 #include "base/base64.h"
 #include "base/test/metrics/histogram_tester.h"
 #include "build/build_config.h"

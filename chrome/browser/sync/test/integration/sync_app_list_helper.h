@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync app list test helper header
+// summary: Declares SyncAppListHelper, a singleton helper for comparing app lists across profiles, moving apps in and out of folders, and logging app lists on test failures.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_TEST_INTEGRATION_SYNC_APP_LIST_HELPER_H_
 #define CHROME_BROWSER_SYNC_TEST_INTEGRATION_SYNC_APP_LIST_HELPER_H_
 

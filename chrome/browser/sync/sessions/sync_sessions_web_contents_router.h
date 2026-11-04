@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncSessionsWebContentsRouter header
+// summary: Declares SyncSessionsWebContentsRouter, a KeyedService implementing LocalSessionEventRouter that forwards WebContentsObserver events to sessions sync.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_SESSIONS_SYNC_SESSIONS_WEB_CONTENTS_ROUTER_H_
 #define CHROME_BROWSER_SYNC_SESSIONS_SYNC_SESSIONS_WEB_CONTENTS_ROUTER_H_
 

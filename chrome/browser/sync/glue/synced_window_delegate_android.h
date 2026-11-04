@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android synced window delegate header
+// summary: Declares SyncedWindowDelegateAndroid, which adapts an Android TabModel to the sync_sessions SyncedWindowDelegate interface.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_GLUE_SYNCED_WINDOW_DELEGATE_ANDROID_H_
 #define CHROME_BROWSER_SYNC_GLUE_SYNCED_WINDOW_DELEGATE_ANDROID_H_
 

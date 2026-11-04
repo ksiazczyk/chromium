@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync datatype helper implementation
+// summary: Associates a SyncTest instance with the per-datatype helper namespaces so they can access the active sync integration test.
+// ---
+
 #include "chrome/browser/sync/test/integration/sync_datatype_helper.h"
 
 #include "chrome/browser/sync/test/integration/sync_test.h"

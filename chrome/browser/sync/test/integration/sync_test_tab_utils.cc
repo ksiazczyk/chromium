@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab helper implementation for single-client sync tests
+// summary: Implements platform-agnostic helpers to open tabs and create, inspect, and update tab groups on Android and desktop during sync tests.
+// ---
+
 #include "chrome/browser/sync/test/integration/sync_test_tab_utils.h"
 
 #include "base/notreached.h"

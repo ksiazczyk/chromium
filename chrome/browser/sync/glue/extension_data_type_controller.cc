@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension data type controller implementation
+// summary: Implements the sync data type controller for extensions, apps and themes, initializing the extension system for the profile before loading models.
+// ---
+
 #include "chrome/browser/sync/glue/extension_data_type_controller.h"
 
 #include <utility>

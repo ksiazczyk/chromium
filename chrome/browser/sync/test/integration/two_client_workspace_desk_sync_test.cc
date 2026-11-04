@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Two-client workspace desk sync integration tests
+// summary: ChromeOS-specific browser tests verifying workspace desk templates download and sync between two clients.
+// ---
+
 #include "ash/constants/ash_features.h"
 #include "ash/public/cpp/desk_template.h"
 #include "base/test/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password sync integration test helper
+// summary: Declares utilities for managing and comparing password forms across profiles and injecting encrypted passwords into the fake server during sync tests.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_TEST_INTEGRATION_PASSWORDS_HELPER_H_
 #define CHROME_BROWSER_SYNC_TEST_INTEGRATION_PASSWORDS_HELPER_H_
 

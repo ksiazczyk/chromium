@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single-client polling sync integration tests
+// summary: Browser tests verifying initialization and persistence of the sync poll interval prefs, including server-driven poll interval updates across sync setup modes.
+// ---
+
 #include "build/build_config.h"
 #include "chrome/browser/sync/test/integration/session_hierarchy_match_checker.h"
 #include "chrome/browser/sync/test/integration/sessions_helper.h"

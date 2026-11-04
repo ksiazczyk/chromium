@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dictionary sync integration test helper interface
+// summary: Declares dictionary helper functions and checkers that block until client dictionaries match expected words or entry counts.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_TEST_INTEGRATION_DICTIONARY_HELPER_H_
 #define CHROME_BROWSER_SYNC_TEST_INTEGRATION_DICTIONARY_HELPER_H_
 

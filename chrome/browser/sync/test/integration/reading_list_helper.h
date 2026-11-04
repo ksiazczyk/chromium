@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reading list sync test helper header
+// summary: Declares reading list helpers and equality checkers for local and server-side reading list data in sync integration tests.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_TEST_INTEGRATION_READING_LIST_HELPER_H_
 #define CHROME_BROWSER_SYNC_TEST_INTEGRATION_READING_LIST_HELPER_H_
 

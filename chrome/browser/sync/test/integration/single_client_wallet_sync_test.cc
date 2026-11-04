@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single-client wallet sync integration test
+// summary: Integration test verifying sync of wallet payment data such as credit cards, cloud token data and payments customer data in a single client.
+// ---
+
 #include "base/command_line.h"
 #include "base/strings/string_number_conversions.h"
 #include "base/strings/utf_string_conversions.h"

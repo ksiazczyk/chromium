@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync sign-in delegate interface for integration tests
+// summary: Interface for signing test accounts in and out across platforms, with factory functions for fake and live sign-in delegates used by sync integration tests.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_TEST_INTEGRATION_SYNC_SIGNIN_DELEGATE_H_
 #define CHROME_BROWSER_SYNC_TEST_INTEGRATION_SYNC_SIGNIN_DELEGATE_H_
 

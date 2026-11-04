@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Preferences sync integration test helper implementation
+// summary: Implements utilities to change and compare preference values across sync test profiles and to inspect preferences in the fake server.
+// ---
+
 #include "chrome/browser/sync/test/integration/preferences_helper.h"
 
 #include <utility>

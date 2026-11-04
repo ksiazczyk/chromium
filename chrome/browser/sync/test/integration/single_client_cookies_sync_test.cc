@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single-client cookies sync integration tests
+// summary: Parameterized browser tests for single-client cookie syncing via ChromeOS Floating SSO, enabled by policy and verified against the fake server.
+// ---
+
 #include <string>
 
 #include "ash/constants/ash_features.h"

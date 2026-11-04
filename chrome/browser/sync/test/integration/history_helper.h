@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: History helper for sync integration tests
+// summary: Declares GMock matchers for history sync entities and visit rows plus functions to retrieve URLs and visits from sync test profiles.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_TEST_INTEGRATION_HISTORY_HELPER_H_
 #define CHROME_BROWSER_SYNC_TEST_INTEGRATION_HISTORY_HELPER_H_
 

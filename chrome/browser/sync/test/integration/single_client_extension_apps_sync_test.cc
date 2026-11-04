@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single-client extension apps sync integration tests
+// summary: Browser tests verifying single-client sync of the APPS data type, including a fake server checker for expected app IDs and handling of auto-installed apps.
+// ---
+
 #include <vector>
 
 #include "base/test/scoped_feature_list.h"

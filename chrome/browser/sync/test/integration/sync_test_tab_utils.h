@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab helper declarations for single-client sync tests
+// summary: Declares platform-agnostic tab utilities for opening tabs and managing tab groups in single-client sync integration tests.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_TEST_INTEGRATION_SYNC_TEST_TAB_UTILS_H_
 #define CHROME_BROWSER_SYNC_TEST_INTEGRATION_SYNC_TEST_TAB_UTILS_H_
 

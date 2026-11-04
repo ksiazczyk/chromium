@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Two-client web apps integration tests for Mac
+// summary: Platform-specific generated browser tests covering web app install, sync and launch scenarios on macOS.
+// ---
+
 #include "build/build_config.h"
 #include "chrome/browser/sync/test/integration/web_apps/two_client_web_apps_integration_test_base.h"
 #include "content/public/test/browser_test.h"

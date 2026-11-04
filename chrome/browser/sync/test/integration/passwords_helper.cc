@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password sync integration test helper implementation
+// summary: Implements utilities to read, create, compare, and inject password forms in password stores and the fake server for sync integration tests.
+// ---
+
 #include "chrome/browser/sync/test/integration/passwords_helper.h"
 
 #include <sstream>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake sync GCM driver for instance ID interface
+// summary: Declares a fake GCM driver for Instance ID used by sync integration tests, with a hook for a destruction callback.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_TEST_INTEGRATION_FAKE_SYNC_GCM_DRIVER_FOR_INSTANCE_ID_H_
 #define CHROME_BROWSER_SYNC_TEST_INTEGRATION_FAKE_SYNC_GCM_DRIVER_FOR_INSTANCE_ID_H_
 

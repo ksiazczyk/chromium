@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Printers sync integration test helper
+// summary: Declares utilities for managing test printers and checkers that wait for printer sync to complete across profiles or on the fake server.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_TEST_INTEGRATION_PRINTERS_HELPER_H_
 #define CHROME_BROWSER_SYNC_TEST_INTEGRATION_PRINTERS_HELPER_H_
 

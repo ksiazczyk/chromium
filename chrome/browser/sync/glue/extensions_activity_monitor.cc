@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions activity monitor implementation
+// summary: Implements monitoring of mutating extension bookmarks API calls and records the usage in syncer ExtensionsActivity for sync.
+// ---
+
 #include "chrome/browser/sync/glue/extensions_activity_monitor.h"
 
 #include "components/sync/base/extensions_activity.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single-client user events sync integration test
+// summary: Parameterized browser tests verifying user event recording, commits and retries in both full-sync and transport-only modes.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/metrics/statistics_recorder.h"
 #include "base/test/bind.h"

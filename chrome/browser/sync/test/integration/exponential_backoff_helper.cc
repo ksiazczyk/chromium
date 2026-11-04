@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Exponential backoff test helper implementation
+// summary: Implements a checker that verifies sync retry delays fall within expected exponential backoff ranges after failures.
+// ---
+
 #include "chrome/browser/sync/test/integration/exponential_backoff_helper.h"
 
 #include <algorithm>

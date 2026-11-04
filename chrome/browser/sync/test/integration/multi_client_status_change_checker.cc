@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multi-client sync status change checker implementation
+// summary: Implements a checker that observes multiple sync services and re-evaluates its exit condition whenever any service state changes.
+// ---
+
 #include "chrome/browser/sync/test/integration/multi_client_status_change_checker.h"
 
 #include "base/memory/raw_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake SyncService implementation for Android sync tests
+// summary: Provides a fake SyncService implementation that lets Android sync tests control sync state such as engine initialization, auth errors, passphrase requirements and trusted vault flags.
+// ---
+
 package org.chromium.chrome.browser.sync;
 
 import androidx.annotation.AnyThread;

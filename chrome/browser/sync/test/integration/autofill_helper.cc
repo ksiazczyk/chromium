@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill sync test helper implementation
+// summary: Implements helpers to add, remove and compare autofill keys and profiles across sync test profiles via the web data service.
+// ---
+
 #include "chrome/browser/sync/test/integration/autofill_helper.h"
 
 #include <stddef.h>

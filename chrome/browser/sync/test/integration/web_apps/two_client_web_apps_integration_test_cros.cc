@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS web apps integration tests
+// summary: Script-generated two-client web apps integration tests for ChromeOS, covering shortcuts, sync toggling, and cross-client app checks.
+// ---
+
 #include "chrome/browser/sync/test/integration/web_apps/two_client_web_apps_integration_test_base.h"
 #include "content/public/test/browser_test.h"
 

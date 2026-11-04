@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Two-client web apps integration tests (generated)
+// summary: Script-generated two-client integration tests covering sync on/off and web app install scenarios; test contents are auto-generated and not meant for manual edits.
+// ---
+
 #include "chrome/browser/sync/test/integration/web_apps/two_client_web_apps_integration_test_base.h"
 #include "content/public/test/browser_test.h"
 

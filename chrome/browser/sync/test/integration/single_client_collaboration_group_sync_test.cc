@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single-client collaboration group sync integration tests
+// summary: Parameterized sanity browser test verifying that the collaboration group data type activates across the supported sync setup modes.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/sync/test/integration/sync_service_impl_harness.h"
 #include "chrome/browser/sync/test/integration/sync_test.h"

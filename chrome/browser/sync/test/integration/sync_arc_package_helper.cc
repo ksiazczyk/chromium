@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC package sync test helper implementation
+// summary: Implements helpers to install, uninstall and compare ARC packages across profiles, using a fake app instance, for ARC package sync integration tests.
+// ---
+
 #include "chrome/browser/sync/test/integration/sync_arc_package_helper.h"
 
 #include <vector>

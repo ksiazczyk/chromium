@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension setting data type controller declaration
+// summary: Declares a non-UI sync data type controller for extension and app settings, noting Chrome OS uses a fork of the class for APP_SETTINGS.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_GLUE_EXTENSION_SETTING_DATA_TYPE_CONTROLLER_H_
 #define CHROME_BROWSER_SYNC_GLUE_EXTENSION_SETTING_DATA_TYPE_CONTROLLER_H_
 

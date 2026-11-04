@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single-client skills sync integration test
+// summary: Browser integration tests verifying that skills sync as the SKILL data type, including activation checkers, specifics matchers and tombstone handling.
+// ---
+
 #include <string>
 #include <utility>
 #include <vector>

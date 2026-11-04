@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single-client incoming password sharing invitation tests
+// summary: Browser tests verifying processing of incoming password sharing invitations, including decryption, client tag collisions, and result metrics.
+// ---
+
 #include <memory>
 #include <optional>
 #include <string>

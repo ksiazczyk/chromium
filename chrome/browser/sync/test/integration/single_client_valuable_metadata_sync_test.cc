@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single-client valuable metadata sync integration test
+// summary: Parameterized browser tests for autofill valuable metadata syncing, checking server entities and metadata specifics via matchers.
+// ---
+
 #include "base/test/protobuf_matchers.h"
 #include "chrome/browser/autofill/autofill_entity_data_manager_factory.h"
 #include "chrome/browser/sync/test/integration/fake_server_match_status_checker.h"

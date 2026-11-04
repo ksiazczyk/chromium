@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Two-client contact info sync tests
+// summary: Browser tests verifying contact info address profile synchronization between two clients across sync modes, with a checker comparing profiles on all clients.
+// ---
+
 #include <tuple>
 #include <vector>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Two-client printers sync integration tests
+// summary: ChromeOS-specific browser tests that verify printer syncing between two clients, covering adding, removing and editing printers across profiles.
+// ---
+
 #include <stdio.h>
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync app helper implementation
+// summary: Implements SyncAppHelper, which loads and compares app states such as ordinals, launch types and descriptions across profiles for app sync integration tests.
+// ---
+
 #include "chrome/browser/sync/test/integration/sync_app_helper.h"
 
 #include <list>

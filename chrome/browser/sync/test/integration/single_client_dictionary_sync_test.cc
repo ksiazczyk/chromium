@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single-client dictionary sync integration tests
+// summary: Parameterized browser tests for single-client spellcheck dictionary syncing across combined and separate local and account dictionaries.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "build/build_config.h"
 #include "chrome/browser/spellchecker/spellcheck_custom_dictionary.h"

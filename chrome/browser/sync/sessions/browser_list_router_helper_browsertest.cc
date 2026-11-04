@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserListRouterHelper browser tests
+// summary: In-process browser tests verifying that BrowserListRouterHelper routes tab modification and closure events scoped to a single profile across multiple browser windows.
+// ---
+
 #include "chrome/browser/sync/sessions/browser_list_router_helper.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Exponential backoff test helper interface
+// summary: Declares ExponentialBackoffChecker, which validates that a sync client backs off exponentially after encountering errors.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_TEST_INTEGRATION_EXPONENTIAL_BACKOFF_HELPER_H_
 #define CHROME_BROWSER_SYNC_TEST_INTEGRATION_EXPONENTIAL_BACKOFF_HELPER_H_
 

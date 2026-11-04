@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Two-client custom passphrase sync tests
+// summary: Browser tests verifying end-to-end two-client behavior when a custom passphrase is set, including decryption failures and passphrase acceptance.
+// ---
+
 #include "build/build_config.h"
 #include "chrome/browser/sync/test/integration/bookmarks_helper.h"
 #include "chrome/browser/sync/test/integration/encryption_helper.h"

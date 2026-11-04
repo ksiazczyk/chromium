@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Chromium OWNERS file that delegates code ownership for the synced_set_up directory to the owners of the corresponding sync_preferences component.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Status change checker implementation
+// summary: Implements the StatusChangeChecker base that blocks in a nested run loop until an exit condition is met or a configurable timeout expires.
+// ---
+
 #include "chrome/browser/sync/test/integration/status_change_checker.h"
 
 #include <sstream>

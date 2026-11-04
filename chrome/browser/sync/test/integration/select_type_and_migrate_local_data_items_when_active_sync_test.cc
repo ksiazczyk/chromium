@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Select type and migrate local data sync integration test
+// summary: Sync integration test verifying data type selection and migration of local data items such as bookmarks, passwords and addresses while sync is active.
+// ---
+
 #include "base/run_loop.h"
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/extensions/sync/account_extension_tracker.h"
