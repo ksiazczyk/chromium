@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the UsersPrivateDelegate prefs access service
+// summary: Implements UsersPrivateDelegate, lazily creating a PrefsUtil for reading and writing user settings.
+// ---
+
 #include "chrome/browser/ash/extensions/users_private/users_private_delegate.h"
 
 #include <memory>

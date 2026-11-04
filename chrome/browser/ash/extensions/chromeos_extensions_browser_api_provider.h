@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS extensions browser API provider header
+// summary: Declares ChromeOSExtensionsBrowserAPIProvider, which registers ChromeOS extension functions with the browser extension function registry.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_CHROMEOS_EXTENSIONS_BROWSER_API_PROVIDER_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_CHROMEOS_EXTENSIONS_BROWSER_API_PROVIDER_H_
 

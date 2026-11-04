@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device local account management policy provider
+// summary: Implements the extension install policy for device-local accounts, allowing only whitelisted extension types, IDs and locations.
+// ---
+
 #include "chrome/browser/ash/extensions/device_local_account_management_policy_provider.h"
 
 #include "base/dcheck_is_on.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File Manager private API browser tests
+// summary: Extension API browser tests for file_manager_private, covering disks, mounts, file watchers, DLP policies and related private API behavior.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

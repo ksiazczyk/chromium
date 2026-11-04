@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media parser private API functions
+// summary: Implements fileManagerPrivate functions that sniff content MIME types and extract metadata from media file blobs.
+// ---
+
 #include "chrome/browser/ash/extensions/file_manager/private_api_media_parser.h"
 
 #include <string_view>

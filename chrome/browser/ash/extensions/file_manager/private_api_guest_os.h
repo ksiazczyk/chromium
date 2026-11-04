@@ -4,6 +4,12 @@
 //
 // This file provides Guest OS API functions
 
+// ---docerion
+// type: source
+// title: Guest OS private API function declarations
+// summary: Declares fileManagerPrivate functions for listing mountable guests and mounting guest OS shares.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_FILE_MANAGER_PRIVATE_API_GUEST_OS_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_FILE_MANAGER_PRIVATE_API_GUEST_OS_H_
 

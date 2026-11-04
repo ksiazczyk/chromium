@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Miscellaneous file manager private API functions
+// summary: Implements miscellaneous chrome.fileManagerPrivate extension functions such as preferences, zoom, profiles, inspector, settings subpages, and MIME type lookup.
+// ---
+
 #include "chrome/browser/ash/extensions/file_manager/private_api_misc.h"
 
 #include <stddef.h>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for ChromeOS Ash extensions
+summary: Defines the static_library targets, sources and dependencies for the ChromeOS Ash extensions code, including browser API provider and test support targets.

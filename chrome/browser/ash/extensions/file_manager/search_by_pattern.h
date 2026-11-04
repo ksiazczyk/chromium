@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Pattern based file search declarations
+// summary: Declares functions to build case-insensitive fnmatch queries and to search files by name pattern under a root path.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_FILE_MANAGER_SEARCH_BY_PATTERN_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_FILE_MANAGER_SEARCH_BY_PATTERN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Factory creating per-profile UsersPrivateDelegate services
+// summary: Implements the profile-keyed factory that builds UsersPrivateDelegate instances for browser contexts.
+// ---
+
 #include "chrome/browser/ash/extensions/users_private/users_private_delegate_factory.h"
 
 #include "chrome/browser/ash/extensions/users_private/users_private_delegate.h"

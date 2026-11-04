@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for external_metrics
+summary: GN build file defining the external_metrics static library plus crosier integration test and unit test targets for ChromeOS.

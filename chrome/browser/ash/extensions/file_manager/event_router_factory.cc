@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event router profile factory implementation
+// summary: Implements the ProfileKeyedServiceFactory that creates a per-profile EventRouter, declaring dependencies and enabling guest login mode.
+// ---
+
 #include "chrome/browser/ash/extensions/file_manager/event_router_factory.h"
 
 #include "chrome/browser/apps/app_service/app_service_proxy_factory.h"

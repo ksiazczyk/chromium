@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GFX utilities for ARC app and extension dual badges
+// summary: Implements the mapping between Play Store apps and Chrome extensions used to apply dual badges to app icons.
+// ---
+
 #include "chrome/browser/ash/extensions/gfx_utils.h"
 
 #include <vector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default keyboard extension browser test header
+// summary: Declares the DefaultKeyboardExtensionBrowserTest class and its config struct used to run virtual keyboard browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_DEFAULT_KEYBOARD_EXTENSION_BROWSER_TEST_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_DEFAULT_KEYBOARD_EXTENSION_BROWSER_TEST_H_
 

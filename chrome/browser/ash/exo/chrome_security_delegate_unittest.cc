@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeSecurityDelegate unit tests
+// summary: Unit tests for the Chrome OS Ash Exo security delegate, exercising guest OS path sharing and data transfer behavior with fake DBus clients and testing profiles.
+// ---
+
 #include "chrome/browser/ash/exo/chrome_security_delegate.h"
 
 #include <string>

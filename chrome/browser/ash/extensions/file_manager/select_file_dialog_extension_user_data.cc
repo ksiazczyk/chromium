@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Select file dialog extension user data implementation
+// summary: Stores the select file dialog, its type and DLP dialog caller as WebContents user data and provides safe accessors for callbacks.
+// ---
+
 #include "chrome/browser/ash/extensions/file_manager/select_file_dialog_extension_user_data.h"
 
 #include <optional>

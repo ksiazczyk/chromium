@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input method event router for ChromeOS extensions
+// summary: Declares ExtensionInputMethodEventRouter, an InputMethodManager observer that notifies extensions when the input method changes.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_INPUT_METHOD_EVENT_ROUTER_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_INPUT_METHOD_EVENT_ROUTER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the speech recognition private API
+// summary: Runs end-to-end browser tests for start, result, stop and error flows over network and on-device recognition.
+// ---
+
 #include "chrome/browser/ash/extensions/speech/speech_recognition_private_api.h"
 #include "chrome/browser/ash/extensions/speech/speech_recognition_private_base_test.h"
 #include "chrome/browser/ash/extensions/speech/speech_recognition_private_manager.h"

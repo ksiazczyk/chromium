@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExternalMetrics integration test
+// summary: Crosier integration test verifying that histograms reported by the ChromeOS metrics_client binary are imported by Ash's ExternalMetrics.
+// ---
+
 #include "base/metrics/histogram_base.h"
 #include "base/metrics/statistics_recorder.h"
 #include "base/process/launch.h"

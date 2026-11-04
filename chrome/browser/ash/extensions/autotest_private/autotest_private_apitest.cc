@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autotest private extension API browser tests
+// summary: Contains browser tests exercising the autotestPrivate extension API, covering ARC, app list, policy, and related scenarios.
+// ---
+
 #include <memory>
 
 #include "ash/ambient/ambient_ui_settings.h"

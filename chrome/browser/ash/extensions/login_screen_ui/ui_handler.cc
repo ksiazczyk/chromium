@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login screen UI window handler implementation
+// summary: Implements the UiHandler singleton that manages login screen extension windows, session state and extension lifecycle events.
+// ---
+
 #include "chrome/browser/ash/extensions/login_screen_ui/ui_handler.h"
 
 #include <algorithm>

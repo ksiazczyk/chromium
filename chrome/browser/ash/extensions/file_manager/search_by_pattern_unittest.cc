@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search by pattern unit tests
+// summary: Unit tests for CreateFnmatchQuery and SearchByPattern covering query building, excluded paths and result ordering.
+// ---
+
 #include "chrome/browser/ash/extensions/file_manager/search_by_pattern.h"
 
 #include <vector>

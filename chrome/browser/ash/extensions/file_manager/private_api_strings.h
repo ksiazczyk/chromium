@@ -4,6 +4,12 @@
 //
 // This file only provides getStrings() as the .cc file for it is big.
 
+// ---docerion
+// type: source
+// title: Header for file manager strings function
+// summary: Declares FileManagerPrivateGetStringsFunction, which supplies localized strings for the Files app to JavaScript.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_FILE_MANAGER_PRIVATE_API_STRINGS_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_FILE_MANAGER_PRIVATE_API_STRINGS_H_
 

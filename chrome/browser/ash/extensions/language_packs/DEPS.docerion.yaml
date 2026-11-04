@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Language packs directory dependency rules
+summary: Sets include rules restricting //chrome dependencies for this directory, with allowances for its own files.

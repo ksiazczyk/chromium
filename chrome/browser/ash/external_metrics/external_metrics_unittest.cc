@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExternalMetrics unit tests
+// summary: Unit tests for ExternalMetrics covering the custom collection interval, sample processing, missing files and histogram validation using temp directories.
+// ---
+
 #include "chrome/browser/ash/external_metrics/external_metrics.h"
 
 #include <memory>

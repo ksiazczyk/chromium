@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Files app system notification manager implementation
+// summary: Implements system notifications for the Files app, covering device mount events, IO task progress and policy-related dialogs.
+// ---
+
 #include "chrome/browser/ash/extensions/file_manager/system_notification_manager.h"
 
 #include <optional>

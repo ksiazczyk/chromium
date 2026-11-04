@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped Drive notification suppression implementation
+// summary: Implements a scoped helper that suppresses Drive notifications for a path and restores them when the instance is destroyed.
+// ---
+
 #include "chrome/browser/ash/extensions/file_manager/scoped_suppress_drive_notifications_for_path.h"
 
 #include "chrome/browser/ash/extensions/file_manager/event_router_factory.h"

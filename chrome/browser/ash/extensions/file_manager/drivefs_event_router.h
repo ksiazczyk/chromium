@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DriveFS event router class declaration
+// summary: Declares DriveFsEventRouter, which observes DriveFS hosts and broadcasts file transfer and sync events to listeners.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_FILE_MANAGER_DRIVEFS_EVENT_ROUTER_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_FILE_MANAGER_DRIVEFS_EVENT_ROUTER_H_
 

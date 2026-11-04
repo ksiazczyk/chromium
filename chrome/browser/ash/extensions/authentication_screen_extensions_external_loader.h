@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Authentication screen extensions external loader header
+// summary: Declares AuthenticationScreenExtensionsExternalLoader, which loads extensions force-installed into sign-in and lock screen profiles via policy.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_AUTHENTICATION_SCREEN_EXTENSIONS_EXTERNAL_LOADER_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_AUTHENTICATION_SCREEN_EXTENSIONS_EXTERNAL_LOADER_H_
 

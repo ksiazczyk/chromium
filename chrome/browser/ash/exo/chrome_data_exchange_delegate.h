@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome data exchange delegate header
+// summary: Declares ChromeDataExchangeDelegate extending exo::DataExchangeDelegate and a helper that reads FileSystemURLs from a pickle.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXO_CHROME_DATA_EXCHANGE_DELEGATE_H_
 #define CHROME_BROWSER_ASH_EXO_CHROME_DATA_EXCHANGE_DELEGATE_H_
 

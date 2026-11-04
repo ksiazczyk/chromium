@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for autotest_private
+summary: Specifies allowed include dependencies for the directory, with per-file rules for the API implementation and its tests.

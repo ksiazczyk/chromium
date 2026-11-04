@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ExtendedUpdatesNotification
+// summary: Tests notification display, button click actions, dismissal persistence, and profile destruction edge cases with a mock notification delegate.
+// ---
+
 #include "chrome/browser/ash/extended_updates/extended_updates_notification.h"
 
 #include <optional>

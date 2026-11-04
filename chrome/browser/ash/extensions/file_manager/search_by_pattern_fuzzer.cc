@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Search by pattern fuzzer
+// summary: Fuzzes SearchByPattern with arbitrary queries in a temporary directory to check its resilience against malformed input.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

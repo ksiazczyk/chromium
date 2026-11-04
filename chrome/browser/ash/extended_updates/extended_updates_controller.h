@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extended Updates controller header
+// summary: Declares the ExtendedUpdatesController class with eligibility checks, opt-in handling, EOL info callbacks, and testing hooks.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENDED_UPDATES_EXTENDED_UPDATES_CONTROLLER_H_
 #define CHROME_BROWSER_ASH_EXTENDED_UPDATES_EXTENDED_UPDATES_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External cache delegate defaults
+// summary: Provides default no-op implementations for the ExternalCacheDelegate callback methods.
+// ---
+
 #include "chrome/browser/ash/extensions/external_cache_delegate.h"
 
 #include "base/values.h"

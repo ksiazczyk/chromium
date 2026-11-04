@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input method extension API browser test
+// summary: Browser test exercising the input method extension API with test IME engines and keyboard layouts.
+// ---
+
 #include <optional>
 #include <vector>
 

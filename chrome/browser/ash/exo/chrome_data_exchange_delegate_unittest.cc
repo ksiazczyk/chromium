@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome data exchange delegate unit tests
+// summary: Unit tests for ChromeDataExchangeDelegate that set up test profiles, users, and mount points to verify URI list and file system URL handling across VM window types.
+// ---
+
 #include "chrome/browser/ash/exo/chrome_data_exchange_delegate.h"
 
 #include "ash/public/cpp/app_types_util.h"

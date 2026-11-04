@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File system provider metrics mapping implementation
+// summary: Maps known file system provider IDs to UMA enum values used for the FileSystemProviderMounted metric, reporting unknown providers as UNKNOWN.
+// ---
+
 #include "chrome/browser/ash/extensions/file_manager/file_system_provider_metrics_util.h"
 
 #include "base/no_destructor.h"

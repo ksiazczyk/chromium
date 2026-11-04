@@ -4,6 +4,12 @@
 //
 // This file provides task related API functions.
 
+// ---docerion
+// type: source
+// title: Header for sharesheet file manager private API functions
+// summary: Declares extension functions for sharesheetHasTargets and invokeSharesheet, including MIME type and directory collection callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_FILE_MANAGER_PRIVATE_API_SHARESHEET_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_FILE_MANAGER_PRIVATE_API_SHARESHEET_H_
 

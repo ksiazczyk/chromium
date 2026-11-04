@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome security delegate header
+// summary: Declares ChromeSecurityDelegate extending exo::SecurityDelegate, plus helpers to translate VM paths to host paths and share files with VMs as file URLs.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXO_CHROME_SECURITY_DELEGATE_H_
 #define CHROME_BROWSER_ASH_EXO_CHROME_SECURITY_DELEGATE_H_
 

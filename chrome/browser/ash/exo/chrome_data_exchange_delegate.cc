@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome data exchange delegate implementation
+// summary: Implements ChromeDataExchangeDelegate, extracting file system URLs from drag and drop pickles and mapping target windows to ARC, Borealis, Crostini, or unknown VM endpoint types.
+// ---
+
 #include "chrome/browser/ash/exo/chrome_data_exchange_delegate.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped extended updates controller implementation
+// summary: Replaces the global ExtendedUpdatesController instance with a given controller on construction and restores the original on destruction.
+// ---
+
 #include "chrome/browser/ash/extended_updates/test/scoped_extended_updates_controller.h"
 
 namespace ash {

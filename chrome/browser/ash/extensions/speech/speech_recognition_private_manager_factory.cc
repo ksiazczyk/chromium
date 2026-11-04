@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpeechRecognitionPrivateManagerFactory implementation
+// summary: Implements the profile-keyed service factory that builds and provides a SpeechRecognitionPrivateManager per browser context.
+// ---
+
 #include "chrome/browser/ash/extensions/speech/speech_recognition_private_manager_factory.h"
 
 #include "chrome/browser/ash/extensions/speech/speech_recognition_private_manager.h"

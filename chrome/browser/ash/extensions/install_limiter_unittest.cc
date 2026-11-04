@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Install limiter unit tests
+// summary: Tests InstallLimiter deferral behavior, including demo mode screensaver exceptions and deferred install ordering.
+// ---
+
 #include "chrome/browser/ash/extensions/install_limiter.h"
 
 #include "base/files/file_path.h"

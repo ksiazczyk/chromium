@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Login screen UI extension API implementation
+// summary: Implements the chrome.loginScreenUi show and close extension functions that delegate to the login screen UI handler.
+// ---
+
 #include "chrome/browser/ash/extensions/login_screen_ui/login_screen_ui_api.h"
 
 #include "chrome/browser/ash/extensions/login_screen_ui/ui_handler.h"

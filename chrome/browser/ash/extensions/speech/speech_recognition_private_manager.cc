@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manager dispatching speech recognition events to extensions
+// summary: Implements the per-browser-context manager that starts and stops recognition and dispatches result, stop and error events to extensions.
+// ---
+
 #include "chrome/browser/ash/extensions/speech/speech_recognition_private_manager.h"
 
 #include "base/strings/string_number_conversions.h"

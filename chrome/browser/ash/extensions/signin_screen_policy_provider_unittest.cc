@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sign-in screen policy provider unit tests
+// summary: Unit tests verifying that the sign-in screen policy provider blocks random policy extensions and allows essential or whitelisted policy-installed ones.
+// ---
+
 #include "chrome/browser/ash/extensions/signin_screen_policy_provider.h"
 
 #include "ash/constants/ash_extension_constants.h"

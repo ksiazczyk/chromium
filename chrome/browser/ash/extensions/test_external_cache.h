@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestExternalCache in-memory extension cache header
+// summary: Declares TestExternalCache, an in-memory ExternalCache fake with helpers to simulate extension CRX downloads in tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_TEST_EXTERNAL_CACHE_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_TEST_EXTERNAL_CACHE_H_
 

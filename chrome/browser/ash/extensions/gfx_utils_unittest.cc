@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the ARC and extension dual badge map
+// summary: Unit tests verifying the mapping between Chrome extensions and equivalent installed Play Store apps.
+// ---
+
 #include "chrome/browser/ash/extensions/gfx_utils.h"
 
 #include <algorithm>

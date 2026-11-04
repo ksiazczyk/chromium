@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File manager private dialog API implementation
+// summary: Implements fileManagerPrivate dialog functions for selecting files, cancelling dialogs and listing or choosing Android picker apps.
+// ---
+
 #include "chrome/browser/ash/extensions/file_manager/private_api_dialog.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Authentication screen extensions loader browser tests
+// summary: Browser tests covering force-installed extension loading on the sign-in and lock screen profiles, including the badge authentication extension flow.
+// ---
+
 #include "chrome/browser/ash/extensions/authentication_screen_extensions_external_loader.h"
 
 #include "ash/constants/ash_switches.h"

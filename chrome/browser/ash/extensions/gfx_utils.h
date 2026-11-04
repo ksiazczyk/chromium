@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GFX utilities header for ARC app equivalence and badges
+// summary: Declares helpers that find Play Store apps equivalent to Chrome extensions and apply icon badges.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_GFX_UTILS_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_GFX_UTILS_H_
 

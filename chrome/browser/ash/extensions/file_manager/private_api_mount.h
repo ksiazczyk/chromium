@@ -4,6 +4,12 @@
 //
 // This file provides task related API functions.
 
+// ---docerion
+// type: source
+// title: Header for mount-related file manager private API functions
+// summary: Declares extension functions for addMount, cancelMounting, removeMount, and getVolumeMetadataList in the Files app private API.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_FILE_MANAGER_PRIVATE_API_MOUNT_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_FILE_MANAGER_PRIVATE_API_MOUNT_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for external_metrics
+summary: Chromium DEPS file that blocks chrome includes in this directory, allows metrics includes, and grants test-only access to crosier test support.

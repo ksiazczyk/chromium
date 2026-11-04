@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Accessibility features extension API browser tests
+// summary: Parameterized browser tests verifying the chrome.accessibilityFeatures extension API permissions across manifest v2 and v3 and read or modify access.
+// ---
+
 #include <stddef.h>
 
 #include <string>

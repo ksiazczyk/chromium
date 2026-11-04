@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: config
+# title: ExternalMetrics integration test metadata
+# summary: Crosier harness metadata describing the ExternalMetricsIntegrationTest case with its owners, hw-agnostic setting and CQ tags.
+# ---
+
 # Schema can be found at: platform/dev/test/gtest/gtest_schema.yaml
 ---
 name: "ExternalMetricsIntegrationTest"

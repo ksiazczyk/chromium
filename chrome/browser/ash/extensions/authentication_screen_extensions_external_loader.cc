@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Authentication screen extensions external loader implementation
+// summary: Implements the loader that force-installs policy-specified extensions into the sign-in and lock screen profiles, handling badge-based authentication.
+// ---
+
 #include "chrome/browser/ash/extensions/authentication_screen_extensions_external_loader.h"
 
 #include <memory>

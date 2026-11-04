@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Default keyboard extension browser test
+// summary: Browser test base that injects JavaScript into the virtual keyboard page and runs the matching test methods for keyboard extensions.
+// ---
+
 #include "chrome/browser/ash/extensions/default_keyboard_extension_browser_test.h"
 
 #include "ash/public/cpp/keyboard/keyboard_switches.h"

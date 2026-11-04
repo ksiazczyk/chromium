@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest OS private API functions
+// summary: Implements fileManagerPrivate functions to list mountable guests and mount guest OS shares.
+// ---
+
 #include "chrome/browser/ash/extensions/file_manager/private_api_guest_os.h"
 
 #include "base/check_deref.h"

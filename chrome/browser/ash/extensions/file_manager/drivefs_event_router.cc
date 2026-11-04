@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DriveFS event router implementation
+// summary: Implements handling of DriveFS sync status, file change, error and transfer progress events for the Files app.
+// ---
+
 #include "chrome/browser/ash/extensions/file_manager/drivefs_event_router.h"
 
 #include "ash/constants/ash_features.h"

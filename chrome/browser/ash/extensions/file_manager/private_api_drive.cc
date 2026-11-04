@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive private API functions for Files app
+// summary: Implements chrome.fileManagerPrivate Drive extension functions such as entry properties, pinning, search, and connection state.
+// ---
+
 #include "chrome/browser/ash/extensions/file_manager/private_api_drive.h"
 
 #include <map>

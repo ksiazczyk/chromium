@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External cache helper functions
+// summary: Implements static ExternalCache helpers that compute extension update URLs, build cached extension values, and decide immediate caching.
+// ---
+
 #include "chrome/browser/ash/extensions/external_cache.h"
 
 #include "base/values.h"

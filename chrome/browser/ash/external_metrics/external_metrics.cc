@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalMetrics implementation
+// summary: Implements the ExternalMetrics service that periodically reads ChromeOS-reported metric events from files and records them as UMA histograms, actions and crashes.
+// ---
+
 #include "chrome/browser/ash/external_metrics/external_metrics.h"
 
 #include <stddef.h>

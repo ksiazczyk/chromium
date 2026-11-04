@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SpeechRecognitionPrivateManager header
+// summary: Declares the keyed service that routes SpeechRecognitionPrivate API calls to the right speech recognizer and routes events back to extensions.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_SPEECH_SPEECH_RECOGNITION_PRIVATE_MANAGER_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_SPEECH_SPEECH_RECOGNITION_PRIVATE_MANAGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File Manager event router implementation
+// summary: Implements the EventRouter keyed service that monitors disk mounts, network state, preferences and related observers and dispatches File Browser events to listeners.
+// ---
+
 #include "chrome/browser/ash/extensions/file_manager/event_router.h"
 
 #include <stddef.h>

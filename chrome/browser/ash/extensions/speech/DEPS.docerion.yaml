@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for speech recognition extension dependencies
+summary: Restricts //chrome includes for this directory, allowing only its own files plus profiles and speech dependencies.

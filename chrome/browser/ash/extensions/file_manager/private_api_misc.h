@@ -5,6 +5,12 @@
 // This file provides miscellaneous API functions, which don't belong to
 // other files.
 
+// ---docerion
+// type: source
+// title: Header for miscellaneous file manager private API functions
+// summary: Declares extension function classes for miscellaneous fileManagerPrivate methods including getPreferences, setPreferences, zoom, getProfiles, and openInspector.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_FILE_MANAGER_PRIVATE_API_MISC_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_FILE_MANAGER_PRIVATE_API_MISC_H_
 

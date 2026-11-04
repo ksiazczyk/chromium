@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System notification manager unit tests
+// summary: Unit tests verifying Files app system notifications for device events, IO task progress and the associated UMA metrics.
+// ---
+
 #include "chrome/browser/ash/extensions/file_manager/system_notification_manager.h"
 
 #include <optional>

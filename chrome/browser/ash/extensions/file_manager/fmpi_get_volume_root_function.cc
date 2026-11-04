@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: fileManagerPrivateInternal.getVolumeRoot function implementation
+// summary: Implements the getVolumeRoot extension function that grants a caller access to a volume and returns its root directory entry definition.
+// ---
+
 #include "chrome/browser/ash/extensions/file_manager/fmpi_get_volume_root_function.h"
 
 #include "ash/webui/file_manager/url_constants.h"

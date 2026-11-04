@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Input method private extension API implementation
+// summary: Implements the inputMethodPrivate extension API functions and wires up input method event routers for ChromeOS.
+// ---
+
 #include "chrome/browser/ash/extensions/input_method_api.h"
 
 #include <stddef.h>

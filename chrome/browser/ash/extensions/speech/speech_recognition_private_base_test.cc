@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared test base implementation for speech recognition tests
+// summary: Implements the shared test base that sets up the speech recognition service and routes test helper calls for interim and final results.
+// ---
+
 #include "chrome/browser/ash/extensions/speech/speech_recognition_private_base_test.h"
 
 #include "content/public/test/fake_speech_recognition_manager.h"

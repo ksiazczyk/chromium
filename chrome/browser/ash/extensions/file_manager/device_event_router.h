@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device event router class declaration
+// summary: Declares DeviceEventRouter, a VolumeManagerObserver and PowerManagerClient observer that tracks device states and dispatches device events.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_FILE_MANAGER_DEVICE_EVENT_ROUTER_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_FILE_MANAGER_DEVICE_EVENT_ROUTER_H_
 

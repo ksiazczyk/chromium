@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File system provider metrics types
+// summary: Defines the FileSystemProviderMountedType enum, the UMA metric name and the provider ID to UMA value mapping function.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_FILE_MANAGER_FILE_SYSTEM_PROVIDER_METRICS_UTIL_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_FILE_MANAGER_FILE_SYSTEM_PROVIDER_METRICS_UTIL_H_
 

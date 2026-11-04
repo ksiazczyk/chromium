@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Language pack extension status conversion utility header
+// summary: Declares the helper that maps language pack results to extension status values.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_LANGUAGE_PACKS_LANGUAGE_PACKS_EXTENSIONS_UTIL_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_LANGUAGE_PACKS_LANGUAGE_PACKS_EXTENSIONS_UTIL_H_
 

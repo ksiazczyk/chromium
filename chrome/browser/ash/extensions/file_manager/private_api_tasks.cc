@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File manager private task API implementation
+// summary: Implements fileManagerPrivateInternal extension functions for executing, listing and setting default file tasks in the Files app.
+// ---
+
 #include "chrome/browser/ash/extensions/file_manager/private_api_tasks.h"
 
 #include <stddef.h>

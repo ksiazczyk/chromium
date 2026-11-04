@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedAppWindow RAII test utility implementation
+// summary: Implements an RAII wrapper that closes an extensions::AppWindow and waits for its native window destruction during tests.
+// ---
+
 #include "chrome/browser/ash/extensions/scoped_app_window.h"
 
 #include <utility>

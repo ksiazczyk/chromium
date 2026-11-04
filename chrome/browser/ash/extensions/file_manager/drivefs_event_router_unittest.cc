@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DriveFS event router unit tests
+// summary: Unit tests for the DriveFS event router that converts DriveFS host events into file_manager_private extension events such as file watches, transfers and sync errors.
+// ---
+
 #include "chrome/browser/ash/extensions/file_manager/drivefs_event_router.h"
 
 #include <cstdint>

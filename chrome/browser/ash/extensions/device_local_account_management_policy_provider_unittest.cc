@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device local account policy provider unit tests
+// summary: Unit tests verifying which extensions may be installed in public sessions and single-app kiosk sessions.
+// ---
+
 #include "chrome/browser/ash/extensions/device_local_account_management_policy_provider.h"
 
 #include <memory>

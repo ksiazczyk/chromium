@@ -4,6 +4,12 @@
 //
 // Implements chrome.fileManagerPrivateInternal.getVolumeRoot function.
 
+// ---docerion
+// type: source
+// title: fileManagerPrivateInternal.getVolumeRoot function declaration
+// summary: Declares the extension function class that returns a DirectoryEntry for the root directory of a volume via the privileged fileManagerPrivateInternal API.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_FILE_MANAGER_FMPI_GET_VOLUME_ROOT_FUNCTION_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_FILE_MANAGER_FMPI_GET_VOLUME_ROOT_FUNCTION_H_
 

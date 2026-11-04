@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Speech recognition private extension API implementation
+// summary: Implements the speechRecognitionPrivate start and stop extension functions, forwarding requests to the per-context manager.
+// ---
+
 #include "chrome/browser/ash/extensions/speech/speech_recognition_private_api.h"
 
 #include <optional>

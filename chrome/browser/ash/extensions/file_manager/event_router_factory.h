@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event router profile factory header
+// summary: Declares EventRouterFactory, a profile-keyed service factory exposing GetForProfile and GetInstance for the File Manager event router.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_EXTENSIONS_FILE_MANAGER_EVENT_ROUTER_FACTORY_H_
 #define CHROME_BROWSER_ASH_EXTENSIONS_FILE_MANAGER_EVENT_ROUTER_FACTORY_H_
 
