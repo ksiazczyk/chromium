@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network health resource provider header
+// summary: Declares AddResources, which supplies the resources needed for network health elements to a WebUI data source.
+// ---
+
 #ifndef ASH_WEBUI_NETWORK_UI_NETWORK_HEALTH_RESOURCE_PROVIDER_H_
 #define ASH_WEBUI_NETWORK_UI_NETWORK_HEALTH_RESOURCE_PROVIDER_H_
 

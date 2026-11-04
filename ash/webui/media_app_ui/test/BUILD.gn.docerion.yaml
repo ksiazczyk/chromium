@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Media App UI test build file
+summary: GN build rules that stage the Media App UI TypeScript test sources into the TypeScript root for testing.

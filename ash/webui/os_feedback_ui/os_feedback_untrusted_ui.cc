@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Untrusted OS feedback WebUI controller implementation
+// summary: Implements the untrusted WebUI controller for the feedback tool, configuring its data source, resources, and content security policy.
+// ---
+
 
 #include "ash/webui/os_feedback_ui/os_feedback_untrusted_ui.h"
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the backend directory
+summary: Grants the backend directory include access to google_apis and services/network.

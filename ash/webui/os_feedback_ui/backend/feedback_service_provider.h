@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedbackServiceProvider class declaration
+// summary: Declares the FeedbackServiceProvider mojo interface implementation that delegates feedback actions to an OsFeedbackDelegate and tracks page timing for metrics.
+// ---
+
 #ifndef ASH_WEBUI_OS_FEEDBACK_UI_BACKEND_FEEDBACK_SERVICE_PROVIDER_H_
 #define ASH_WEBUI_OS_FEEDBACK_UI_BACKEND_FEEDBACK_SERVICE_PROVIDER_H_
 

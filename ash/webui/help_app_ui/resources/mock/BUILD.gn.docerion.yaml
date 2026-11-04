@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for Help App mock TypeScript library
+summary: GN build file defining the ts_library target that compiles the mock Help App from app_bin.ts, ChromeOS only.

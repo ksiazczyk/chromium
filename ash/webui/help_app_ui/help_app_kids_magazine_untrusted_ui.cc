@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Help App Kids Magazine untrusted WebUI implementation
+// summary: Implements the untrusted WebUI controller for the Help App Kids Magazine, adding its data source, bundled resources, frame ancestors, and content security policies.
+// ---
+
 #include "ash/webui/help_app_ui/help_app_kids_magazine_untrusted_ui.h"
 
 #include <string_view>

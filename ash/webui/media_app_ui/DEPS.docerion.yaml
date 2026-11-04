@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Media App UI include rules
+summary: DEPS file restricting includes for the directory, forbidding chrome dependencies and allowing only public Blink interfaces and listed ChromeOS components.

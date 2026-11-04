@@ -1,0 +1,4 @@
+# Docerion header of help_app_resources.grd.
+type: config
+title: Grit resource list for the help app
+summary: Grit resource list that packages the help app HTML pages, icons, and rolled-up browser proxy and receiver scripts into the ash help app resource bundle.

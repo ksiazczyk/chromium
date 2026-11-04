@@ -1,0 +1,4 @@
+# Docerion header of help_app_files.gni.
+type: config
+title: GN variables for staged TypeScript test files
+summary: Defines the TypeScript staging directory and the list of test TypeScript files consumed by tsc for the Help App.

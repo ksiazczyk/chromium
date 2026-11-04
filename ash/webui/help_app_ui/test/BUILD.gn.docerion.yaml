@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Help app UI test BUILD.gn
+summary: GN build file that stages the help app test TypeScript sources for compilation and asserts ChromeOS-only builds.

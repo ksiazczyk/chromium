@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the Help App WebUI
+summary: Defines the static libraries, Mojo bindings, unit tests and browser test support targets for the ChromeOS Help App.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS feedback WebUI URL constants
+// summary: Declares host and URL string constants for the Chrome OS feedback WebUI and its untrusted counterpart.
+// ---
+
 #ifndef ASH_WEBUI_OS_FEEDBACK_UI_URL_CONSTANTS_H_
 #define ASH_WEBUI_OS_FEEDBACK_UI_URL_CONSTANTS_H_
 

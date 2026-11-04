@@ -1,0 +1,4 @@
+# Docerion header of media_app_ui.gni.
+type: config
+title: Media App build configuration
+summary: GN arguments file defining enable_cros_media_app, which controls bundling the real ChromeOS Media App or a mock for testing.

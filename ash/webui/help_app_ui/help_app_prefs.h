@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Help app preference names
+// summary: Defines help app preference name constants and declares the function that registers these profile preferences.
+// ---
+
 #ifndef ASH_WEBUI_HELP_APP_UI_HELP_APP_PREFS_H_
 #define ASH_WEBUI_HELP_APP_UI_HELP_APP_PREFS_H_
 

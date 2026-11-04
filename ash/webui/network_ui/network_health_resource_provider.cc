@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network health resource provider implementation
+// summary: Adds localized strings for network health states and ONC network properties plus network type SVG resources to the WebUI data source.
+// ---
+
 #include "ash/webui/network_ui/network_health_resource_provider.h"
 
 #include "ash/webui/grit/ash_webui_common_resources.h"

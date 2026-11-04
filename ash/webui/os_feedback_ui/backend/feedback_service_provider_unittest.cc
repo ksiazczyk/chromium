@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for FeedbackServiceProvider
+// summary: Tests the feedback service provider against a fake OsFeedbackDelegate, covering context retrieval, screenshots, report sending and metric emission.
+// ---
+
 #include "ash/webui/os_feedback_ui/backend/feedback_service_provider.h"
 
 #include <utility>

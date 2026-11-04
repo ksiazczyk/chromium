@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake feedback data for tests
+// summary: Supplies fake help content lists, search requests and responses, feedback contexts, and PNG data used for testing the feedback UI.
+// ---
+
 import type {HelpContentList} from './feedback_types.js';
 import type {FeedbackContext, SearchRequest, SearchResponse} from './os_feedback_ui.mojom-webui.js';
 import {HelpContentType} from './os_feedback_ui.mojom-webui.js';

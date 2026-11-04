@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Network UI DEPS include rules
+summary: Grants code in the network_ui directory include access to the ChromeOS strings grit header.

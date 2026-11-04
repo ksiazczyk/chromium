@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchConcept persistence implementation
+// summary: Implements disk persistence for help app search concepts, reading and writing a versioned proto file with status metrics.
+// ---
+
 #include "ash/webui/help_app_ui/search/search_concept.h"
 
 #include <cstddef>

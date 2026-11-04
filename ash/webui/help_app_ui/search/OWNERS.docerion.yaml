@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Per-file OWNERS for Mojom files
+summary: Grants IPC security owners per-file review authority over Mojom files in the help app search directory.

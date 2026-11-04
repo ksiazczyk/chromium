@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchHandler implementation
+// summary: Implements the help app search handler, querying the local search service and managing cache status, observers, and result metrics.
+// ---
+
 #include "ash/webui/help_app_ui/search/search_handler.h"
 
 #include <algorithm>

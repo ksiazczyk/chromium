@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Help app UI browser test suite (TypeScript)
+// summary: TypeScript test suite for the help app WebUI that packages each test's logic into an importable object for the browser test runner, covering URL scheme, title and language, and dark mode background.
+// ---
+
 /**
  * @fileoverview Test suite for chrome://help-app. The tests are actually
  * invoked in help_app_ui_gtest_browsertest.js, this file simply packages up

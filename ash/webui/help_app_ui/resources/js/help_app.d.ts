@@ -11,6 +11,12 @@
  * off the JS externs and has no knowledge of this file.
  */
 
+// ---docerion
+// type: source
+// title: Help app TypeScript type declarations for search and device info
+// summary: Declares TypeScript interfaces for the ChromeOS help app, covering searchable items, launcher search items, search results, and device info used by the local search service.
+// ---
+
 /**
  * Each SearchableItem maps to one Data field in the Local Search Service (LSS)
  * Mojo API and represents a single potential search result for in-app search

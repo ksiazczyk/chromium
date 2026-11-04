@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Help app WebUI controller implementation
+// summary: Implements the help app WebUI controller, setting up the host data source, content security policy overrides and permissions for the untrusted page.
+// ---
+
 #include "ash/webui/help_app_ui/help_app_ui.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Media App UI owners
+summary: Lists the code owners for the directory and routes changes to Mojom files to the IPC security owners.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Help app page handler implementation
+// summary: Implements the help_app mojom PageHandler, forwarding renderer requests such as feedback dialogs, settings pages, and install dialogs to the UI delegate and updating prefs.
+// ---
+
 #include "ash/webui/help_app_ui/help_app_page_handler.h"
 
 #include <utility>

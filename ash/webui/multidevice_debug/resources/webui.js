@@ -3,6 +3,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: source
+// title: JavaScript bridge to the native WebUI handler
+// summary: Exports WebUI helpers that send commands such as getLogMessages, forceEnrollment, and forceDeviceSync to the native handler.
+// ---
+
 /**
  * JavaScript hooks into the native WebUI handler.
  */

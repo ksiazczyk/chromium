@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Guest test query receiver
+// summary: Installs message pipe handlers in the guest that run registered GUEST_TEST cases and signal handler readiness to the driver.
+// ---
+
 import type {TestMessageResponseData, TestMessageRunTestCase} from './driver_api.js';
 import {TEST_ONLY} from './receiver.js';
 

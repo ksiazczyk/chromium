@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SearchTagRegistry unit tests
+// summary: Unit tests for SearchTagRegistry covering adding concepts, index size, metadata lookup for existing and missing IDs and observer notifications.
+// ---
+
 #include "ash/webui/help_app_ui/search/search_tag_registry.h"
 
 #include "ash/webui/help_app_ui/search/search.mojom.h"

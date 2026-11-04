@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SearchConcept unit tests
+// summary: Unit tests covering initialization, saving and reading search concepts, and wiping persistence on version changes.
+// ---
+
 #include "ash/webui/help_app_ui/search/search_concept.h"
 
 #include <cstddef>

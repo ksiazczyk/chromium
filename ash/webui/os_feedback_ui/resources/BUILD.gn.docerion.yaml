@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: OS feedback UI resources build configuration
+summary: GN build rules that package the ChromeOS feedback UI's static files, CSS, icons, web components, and TypeScript sources into the ash_os_feedback WebUI target.

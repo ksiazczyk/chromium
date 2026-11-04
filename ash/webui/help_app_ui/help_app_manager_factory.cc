@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Help app manager factory implementation
+// summary: Implements HelpAppManagerFactory, a BrowserContextKeyedServiceFactory that creates per-profile HelpAppManager instances backed by the local search service proxy.
+// ---
+
 #include "ash/webui/help_app_ui/help_app_manager_factory.h"
 #include "ash/webui/help_app_ui/help_app_manager.h"
 #include "chromeos/ash/components/local_search_service/public/cpp/local_search_service_proxy_factory.h"

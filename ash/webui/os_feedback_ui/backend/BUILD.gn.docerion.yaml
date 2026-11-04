@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the os_feedback_ui backend
+summary: Defines the GN targets for the ChromeOS feedback UI backend static library and its unit tests, listing sources and dependencies.

@@ -9,6 +9,12 @@
  * test framework.
  */
 
+// ---docerion
+// type: source
+// title: App context test support for crash reporting
+// summary: Support code shipped in the released app that listens for test events simulating type errors and unhandled rejections to cover crash reporting cases the test framework cannot inject.
+// ---
+
 // Event handlers for tests in MediaAppIntegrationTest for testing crash report
 // integration. These can't be injected because errors on lines of injected code
 // do not go to the error handlers installed on window in the real app context.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Mall directory owners
+summary: Points to the browser-side Mall OWNERS file and requires security owners to review changes to .mojom files.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search page logic for the OS feedback UI
+// summary: Implements the search-page element, the first feedback step that matches keywords in the user's description and displays up to five relevant help contents.
+// ---
+
 import 'chrome://resources/ash/common/cr_elements/cr_button/cr_button.js';
 import './help_content.js';
 import './help_resources_icons.html.js';

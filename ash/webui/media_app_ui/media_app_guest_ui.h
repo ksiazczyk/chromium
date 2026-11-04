@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media App guest WebUI controller header
+// summary: Declares the untrusted guest WebUI controller for the media app and its delegate, which binds OCR, Mahi and Mantis Mojo services between the guest frame and the browser.
+// ---
+
 #ifndef ASH_WEBUI_MEDIA_APP_UI_MEDIA_APP_GUEST_UI_H_
 #define ASH_WEBUI_MEDIA_APP_UI_MEDIA_APP_GUEST_UI_H_
 

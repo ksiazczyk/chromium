@@ -8,6 +8,12 @@
  * brought in via DEPS to ../../app/js/app_main.js. Runs in an isolated guest.
  */
 
+// ---docerion
+// type: source
+// title: Mock Media App main module
+// summary: Provides a mock of the Media App that renders video, image, audio, PDF and RAW test files in an isolated guest when the real app is unavailable.
+// ---
+
 /**
  * Helper that returns UI that can serve as an effective mock of a fragment of
  * the real app, after loading a provided Blob URL.

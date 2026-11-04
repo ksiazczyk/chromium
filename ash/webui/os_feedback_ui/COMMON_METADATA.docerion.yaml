@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common directory metadata for the OS feedback UI
+summary: Declares the Buganizer component used for ChromeOS feedback issues in this directory.

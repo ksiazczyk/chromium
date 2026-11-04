@@ -1,0 +1,4 @@
+# Docerion header of media_app_files.gni.
+type: config
+title: Media App TypeScript source lists
+summary: GN import file listing the TypeScript, JavaScript, Mojom and test sources staged and compiled for the Media App UI build.

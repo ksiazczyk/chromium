@@ -11,6 +11,12 @@
  * #include=cr-shared-style md-select cros-color-overrides
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shared feedback UI stylesheet
+summary: Defines shared CSS variables and layout styles for headers, footers, dialogs, and scrolling effects used across the feedback UI.
+*/
+
 :host {
   --feedback-footer-height: 92px;
   --feedback-google-sans-font-family: 'Google Sans', Roboto, sans-serif;

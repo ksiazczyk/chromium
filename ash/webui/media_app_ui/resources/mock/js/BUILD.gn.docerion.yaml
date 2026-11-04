@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the Media App mock
+summary: Defines GN targets that stage TypeScript sources and compile the mock Media App's ts_library for ChromeOS testing.

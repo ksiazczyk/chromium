@@ -12,6 +12,12 @@
  *
  */
 
+// ---docerion
+// type: test
+// title: Test worker
+// summary: Minimal web worker that echoes received messages back, used to verify valid worker creation in guest tests.
+// ---
+
 self.onmessage = function(event) {
   const data = /** @type {string} */ (event.data);
 

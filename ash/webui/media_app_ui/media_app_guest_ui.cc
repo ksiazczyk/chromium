@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media App guest UI implementation
+// summary: Implements the chrome-untrusted guest WebUI controller, serving app resources and fonts, checking feature access and recording window count metrics.
+// ---
+
 
 #include "ash/webui/media_app_ui/media_app_guest_ui.h"
 

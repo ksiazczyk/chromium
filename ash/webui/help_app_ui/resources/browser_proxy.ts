@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Help app browser proxy
+// summary: Privileged WebUI script that connects the help app to the browser via Mojo, manages the guest iframe message pipe, and updates the launcher search index.
+// ---
+
 import {MessagePipe} from '//system_apps/message_pipe.js';
 import type {Url} from 'chrome://resources/mojo/url/mojom/url.mojom-webui.js';
 

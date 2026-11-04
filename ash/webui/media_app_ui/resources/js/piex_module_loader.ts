@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PIEX wasm module loader
+// summary: Loads the PIEX preview image extractor via wasm by injecting the wasm and module scripts once and returning the raw image buffer extraction callback.
+// ---
+
 type PiexLoadPromise = Promise<((buffer: ArrayBuffer) => Promise<File>)>;
 let _piexLoadPromise: PiexLoadPromise|null = null;
 

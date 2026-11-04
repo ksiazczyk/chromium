@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Help app UI test DEPS
+summary: Allows this test directory to include Chrome test base headers needed for browser tests.

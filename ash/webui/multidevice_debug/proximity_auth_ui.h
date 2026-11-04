@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProximityAuthUI WebUI controller header
+// summary: Declares the ProximityAuthUI Mojo WebUI controller class for the proximity-auth debug page, including its constructor bindings and MultiDeviceSetup interface binder.
+// ---
+
 #ifndef ASH_WEBUI_MULTIDEVICE_DEBUG_PROXIMITY_AUTH_UI_H_
 #define ASH_WEBUI_MULTIDEVICE_DEBUG_PROXIMITY_AUTH_UI_H_
 

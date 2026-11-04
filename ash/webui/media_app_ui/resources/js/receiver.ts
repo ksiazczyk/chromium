@@ -4,6 +4,12 @@
 
 /// <reference path="media_app.d.ts" />
 
+// ---docerion
+// type: source
+// title: Untrusted frame file receiver
+// summary: Implements ReceivedFile and message handling in the untrusted frame for file operations such as writability checks, overwrite, rename, save-as, and edit-in-photos via the parent message pipe.
+// ---
+
 import './sandboxed_load_time_data.js';
 
 import {COLOR_PROVIDER_CHANGED, ColorChangeUpdater} from '//resources/cr_components/color_change_listener/colors_css_updater.js';

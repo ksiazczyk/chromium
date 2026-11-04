@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo page handler bootstrap
+// summary: Creates the media app Mojo PageHandlerRemote and asks the browser process to connect it for privileged context IPC.
+// ---
+
 import './media_app_ui.mojom-lite.js';
 
 export const mediaAppPageHandler = new ash.mediaAppUi.mojom.PageHandlerRemote();

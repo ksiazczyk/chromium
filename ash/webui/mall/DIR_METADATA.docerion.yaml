@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Mall directory metadata
+summary: Maps the Mall directory to the ChromeOS Software Developer Commerce team and Buganizer component 1210805.

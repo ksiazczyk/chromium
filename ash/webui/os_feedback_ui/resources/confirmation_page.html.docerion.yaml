@@ -1,0 +1,4 @@
+# Docerion header of confirmation_page.html.
+type: source
+title: Confirmation page template
+summary: Polymer template for the feedback tool's confirmation page, showing the report status message, help resource links, and navigation buttons.

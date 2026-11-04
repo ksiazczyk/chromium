@@ -1,0 +1,4 @@
+# Docerion header of multidevice_debug_resources.grd.
+type: config
+title: Grit resource list for the multidevice debug WebUI
+summary: Packages the debug page HTML, CSS, and JavaScript files as BINDATA resources for the ChromeOS ash build.

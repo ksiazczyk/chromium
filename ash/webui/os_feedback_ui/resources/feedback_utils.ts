@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feedback UI scrolling utilities
+// summary: Exports functions that toggle scrolling visual effects such as shadow elevation, shields, and separators for the ChromeOS feedback UI pages.
+// ---
+
 import {strictQuery} from 'chrome://resources/ash/common/typescript_utils/strict_query.js';
 
 /**

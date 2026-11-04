@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privileged launch context for the media app
+// summary: Implements the privileged side of the media app, arbitrating file read and write access, navigation, file pickers, saving and messaging with the untrusted iframe.
+// ---
+
 import '/strings.m.js';
 import './unguessable_token.mojom-lite.js';
 import './file_system_access_transfer_token.mojom-lite.js';

@@ -1,3 +1,9 @@
+---
+type: readme
+title: Media App WebUI README
+summary: Describes the directory that provides the Media App WebUI and its supporting interfaces for ChromeOS integration, noting that most UI code comes from an internal package served via the resource bundle.
+---
+
 Provides the chrome://media-app WebUI and supporting interfaces that allow the
 Media App to integrate with ChromeOS.
 

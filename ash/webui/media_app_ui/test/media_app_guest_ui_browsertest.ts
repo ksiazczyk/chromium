@@ -6,6 +6,12 @@
 
 /// <reference path="media_app.d.ts" />
 
+// ---docerion
+// type: test
+// title: Media app guest UI browser test suite
+// summary: Browser test suite for the guest media app UI, covering worker spawning, language and load-time data, CSP-restricted resource loading, default file list, missing font fetches, and in-place filtering.
+// ---
+
 import {assertEquals, assertTrue} from 'chrome-untrusted://webui-test/chai_assert.js';
 
 import {GUEST_TEST} from './guest_query_receiver.js';

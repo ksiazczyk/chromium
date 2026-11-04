@@ -6,6 +6,12 @@
  * @fileoverview Placeholder file for mock app. Runs in an isolated guest.
  */
 
+// ---docerion
+// type: source
+// title: Mock Help App entry point
+// summary: Placeholder mock app that updates the launcher search index from the background page and seeds the in-app search index with fake results.
+// ---
+
 document.addEventListener('DOMContentLoaded', () => {
   if (document.location.pathname === '/background') {
     // In the background page, don't render the app.

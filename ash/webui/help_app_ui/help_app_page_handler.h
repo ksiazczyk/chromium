@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Help app page handler header
+// summary: Declares the Mojo page handler that gives the help app renderer access to browser-side actions such as opening feedback, settings pages and the Microsoft 365 setup flow.
+// ---
+
 #ifndef ASH_WEBUI_HELP_APP_UI_HELP_APP_PAGE_HANDLER_H_
 #define ASH_WEBUI_HELP_APP_UI_HELP_APP_PAGE_HANDLER_H_
 

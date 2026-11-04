@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for help app search bindings
+summary: Defines GN targets that build the search.mojom Mojo bindings and the search_concept.proto proto library for the ChromeOS help app search.

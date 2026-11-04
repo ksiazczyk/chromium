@@ -1,0 +1,4 @@
+# Docerion header of media_app_ui.mojom.
+type: source
+title: Media App browser Mojo interface definitions
+summary: Defines the Mojo interfaces letting the Media App renderer request browser services such as feedback, fullscreen, file writability, Photos editing and form submission.

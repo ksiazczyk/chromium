@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProximityAuthUI WebUI controller implementation
+// summary: Implements the ProximityAuthUI WebUI controller, registering the debug page's HTML, CSS and JS resources and adding the message handler for device sync debugging.
+// ---
+
 #include "ash/webui/multidevice_debug/proximity_auth_ui.h"
 
 #include <memory>

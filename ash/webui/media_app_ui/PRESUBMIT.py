@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Media App UI presubmit checks
+# summary: Python presubmit script that runs web_dev_style checks on changes uploaded to or committed in the media_app_ui directory.
+# ---
+
 
 def CheckChangeOnUpload(input_api, output_api):
   return _CommonChecks(input_api, output_api)

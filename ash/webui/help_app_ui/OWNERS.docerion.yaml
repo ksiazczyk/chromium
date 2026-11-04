@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the help_app_ui directory
+summary: Lists the directory owners and routes Mojom file reviews to the IPC security owners.

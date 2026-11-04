@@ -1,0 +1,4 @@
+# Docerion header of search_page.html.
+type: source
+title: Search page template for the OS feedback UI
+summary: HTML template for the first feedback tool step, showing a description textarea, empty-input error UI, and an embedded untrusted help content iframe.

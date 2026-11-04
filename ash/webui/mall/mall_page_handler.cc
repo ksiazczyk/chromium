@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mall page handler implementation
+// summary: Implements the Mojo PageHandler by forwarding GetMallEmbedUrl requests to the MallUIDelegate.
+// ---
+
 #include "ash/webui/mall/mall_page_handler.h"
 
 #include "ash/webui/mall/mall_ui_delegate.h"

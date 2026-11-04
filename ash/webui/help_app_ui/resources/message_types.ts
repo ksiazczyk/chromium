@@ -7,6 +7,12 @@
  * Message definitions passed over the HelpApp privileged/unprivileged pipe.
  */
 
+// ---docerion
+// type: source
+// title: Help app message type enum
+// summary: Enum of message types exchanged over the privileged and unprivileged help app message pipe, covering feedback dialogs, search index updates, and settings.
+// ---
+
 /** Enum for message types. */
 export enum Message {
   OPEN_FEEDBACK_DIALOG = 'open-feedback-dialog',

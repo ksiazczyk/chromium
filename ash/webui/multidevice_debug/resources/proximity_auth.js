@@ -3,6 +3,12 @@
  * found in the LICENSE file.
  */
 
+// ---docerion
+// type: source
+// title: ProximityAuth debug page controller
+// summary: Wires the debug UI to CryptAuth enrollment, device sync, notifications, and remote device data via Mojo and WebUI calls.
+// ---
+
 import {EventTypeForDebugging, MultiDeviceSetup} from 'chrome://resources/mojo/chromeos/ash/services/multidevice_setup/public/mojom/multidevice_setup.mojom-webui.js';
 
 import {Logs} from './logs.js';

@@ -7,3 +7,9 @@
  * An empty script used when mocking that provides no functionality, but avoids
  * a 404 error.
  */
+
+// ---docerion
+// type: source
+// title: Empty mock module script
+// summary: An intentionally empty script used during mocking so that requests for the module do not return a 404 error.
+// ---

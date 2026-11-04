@@ -11,6 +11,12 @@
  * off the JS externs and has no knowledge of this file.
  */
 
+// ---docerion
+// type: source
+// title: Media app type declarations and externs
+// summary: Handcrafted TypeScript declarations for media app externs, covering Mojo interfaces for OCR, Mahi and Mantis as well as the AbstractFile interface.
+// ---
+
 type RectF =
     import('//resources/mojo/ui/gfx/geometry/mojom/geometry.mojom-webui.js')
         .RectF;

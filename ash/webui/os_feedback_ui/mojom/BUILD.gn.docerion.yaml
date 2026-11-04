@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build config for the os_feedback_ui mojom target
+summary: Defines the mojom build target for the OS feedback UI, listing its source file and public dependencies on Mojo base and URL mojoms.

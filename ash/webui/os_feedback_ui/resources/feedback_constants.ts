@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feedback constants
+// summary: Exports legal help, privacy policy, and terms of service URLs used by the ChromeOS feedback app.
+// ---
+
 export const FEEDBACK_LEGAL_HELP_URL =
     'https://support.google.com/legal/answer/3110420';
 export const FEEDBACK_PRIVACY_POLICY_URL =

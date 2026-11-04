@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Help app UI browser test class header
+// summary: Declares the HelpAppUiBrowserTest class derived from SandboxedWebUiAppTestBase for the help app browser tests.
+// ---
+
 #ifndef ASH_WEBUI_HELP_APP_UI_TEST_HELP_APP_UI_BROWSERTEST_H_
 #define ASH_WEBUI_HELP_APP_UI_TEST_HELP_APP_UI_BROWSERTEST_H_
 

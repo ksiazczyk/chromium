@@ -1,0 +1,4 @@
+# Docerion header of media_app_resources.grd.
+type: config
+title: Grit resource list for media app UI resources
+summary: Grit resource definition that bundles the media app's HTML pages, JavaScript rollups, and icon assets into a .pak package for the build.

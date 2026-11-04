@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network diagnostics resource provider implementation
+// summary: Adds localized strings for network diagnostics tests, problems, result states, and ARC diagnostics to the WebUI data source.
+// ---
+
 #include "ash/webui/network_ui/network_diagnostics_resource_provider.h"
 
 #include "ash/webui/grit/ash_webui_common_resources.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Help app untrusted WebUI controller header
+// summary: Declares the untrusted WebUI controller class that hosts the help app's sandboxed interface and configures its data source.
+// ---
+
 #ifndef ASH_WEBUI_HELP_APP_UI_HELP_APP_UNTRUSTED_UI_H_
 #define ASH_WEBUI_HELP_APP_UI_HELP_APP_UNTRUSTED_UI_H_
 
