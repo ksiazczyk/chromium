@@ -1,0 +1,4 @@
+# Docerion header of android_webview_strings_es.xtb.
+type: data
+title: Spanish Android WebView string translations
+summary: Spanish translation bundle with Android WebView UI strings for app management, link actions, WebView licences, and an unsupported-feature notice.

@@ -1,0 +1,4 @@
+# Docerion header of android_webview_strings_af.xtb.
+type: data
+title: Android WebView strings in Afrikaans
+summary: XTB translation bundle with Afrikaans localizations of Android WebView UI strings, covering link actions, WebView licenses and an unsupported-feature notice.

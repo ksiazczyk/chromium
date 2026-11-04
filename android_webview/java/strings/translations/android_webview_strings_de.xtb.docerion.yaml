@@ -1,0 +1,4 @@
+# Docerion header of android_webview_strings_de.xtb.
+type: data
+title: German Android WebView string translations
+summary: German translation bundle with Android WebView UI strings for app management, link actions, WebView licences, and an unsupported-feature notice.

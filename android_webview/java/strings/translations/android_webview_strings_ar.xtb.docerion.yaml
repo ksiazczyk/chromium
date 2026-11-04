@@ -1,0 +1,4 @@
+# Docerion header of android_webview_strings_ar.xtb.
+type: data
+title: Android WebView strings in Arabic
+summary: XTB translation bundle with Arabic localizations of Android WebView UI strings, covering link actions, WebView licenses and an unsupported-feature notice.
