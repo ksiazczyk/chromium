@@ -1,0 +1,4 @@
+# Docerion header of IDS_IWA_INSTALLER_INSTALL_PROGRESS.png.sha1.
+type: data
+title: SHA1 placeholder hash for IWA installer install progress text
+summary: Holds the SHA1 hash of the placeholder PNG for the progress text shown while an Isolated Web App is installing.
