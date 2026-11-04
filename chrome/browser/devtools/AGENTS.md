@@ -1,3 +1,13 @@
+---
+type: guide
+title: Chrome DevTools CDP Testing Guidelines
+summary: Agent guidance for the DevTools directory describing Chrome-layer CDP handlers and how to test protocol features with JavaScript protocol tests or, as a last resort, C++ tests.
+relations:
+  - references /chrome/browser/devtools/README.md
+  - references /content/browser/devtools/protocol/AGENTS.md
+  - references /third_party/blink/web_tests/inspector-protocol/AGENTS.md
+---
+
 # Chrome DevTools (`chrome/browser/devtools`)
 
 This directory contains Chrome-layer DevTools integration (such as DevTools window management, UI bindings, and remote debugging) as well as Chrome-specific Chrome DevTools Protocol (CDP) domain handlers in `chrome/browser/devtools/protocol/` (e.g., `Autofill`, `Browser`, `Extensions`, `PWA`, `Target`, and Chrome-specific `Page` commands).

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools window testing helpers
+// summary: Testing helpers that open and close DevTools windows synchronously, observe window creation, and disable DevTools via a mock policy provider for tests.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_DEVTOOLS_WINDOW_TESTING_H_
 #define CHROME_BROWSER_DEVTOOLS_DEVTOOLS_WINDOW_TESTING_H_
 

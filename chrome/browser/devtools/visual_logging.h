@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools visual logging event structs
+// summary: Defines structs for visual logging events such as impressions, clicks, hovers and drags, plus session tag bit flags.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_VISUAL_LOGGING_H_
 #define CHROME_BROWSER_DEVTOOLS_VISUAL_LOGGING_H_
 

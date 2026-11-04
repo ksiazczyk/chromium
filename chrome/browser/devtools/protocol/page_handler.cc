@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page domain handler implementation
+// summary: Implements the Page domain backend of the Chrome DevTools protocol, mainly the PrintToPDF command using headless and regular print managers.
+// ---
+
 #include "chrome/browser/devtools/protocol/page_handler.h"
 
 #include <string>

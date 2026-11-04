@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Serialize host descriptions unit tests
+// summary: Unit tests verifying serialization of host description forests, including empty input, stubs, duplicate names and nested children.
+// ---
+
 #include "chrome/browser/devtools/serialize_host_descriptions.h"
 
 #include <array>

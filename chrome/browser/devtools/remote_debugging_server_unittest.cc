@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remote debugging server unit tests
+// summary: Unit tests using a mock server to verify remote debugging starts and stops with the user preference and is blocked by enterprise policy.
+// ---
+
 #include "chrome/browser/devtools/remote_debugging_server.h"
 
 #include "base/command_line.h"

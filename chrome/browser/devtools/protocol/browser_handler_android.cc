@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Browser DevTools protocol handler implementation
+// summary: Implements the Browser DevTools domain on Android, resolving window state and bounds for Android tasks and tracking browser windows.
+// ---
+
 #include "chrome/browser/devtools/protocol/browser_handler_android.h"
 
 #include <set>

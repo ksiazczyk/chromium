@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools navigation gating rule manager unit tests
+// summary: Unit tests covering allowlist and blocklist pattern matching, wildcards, empty rules, and specificity-based overrides for navigation gating.
+// ---
+
 #include "chrome/browser/devtools/devtools_navigation_gating_rule_manager.h"
 
 #include <memory>

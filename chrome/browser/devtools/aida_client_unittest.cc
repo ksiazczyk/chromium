@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AidaClient unit tests
+// summary: Unit tests covering AidaClient request preparation, OAuth credential failures, and availability behavior using a testing profile and identity test environment.
+// ---
+
 #include "chrome/browser/devtools/aida_client.h"
 
 #include <memory>

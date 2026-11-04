@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PWA handler class declaration
+// summary: Declares PWAHandler, the Chrome-side backend for the DevTools PWA domain and its install, launch, and settings commands.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_PROTOCOL_PWA_HANDLER_H_
 #define CHROME_BROWSER_DEVTOOLS_PROTOCOL_PWA_HANDLER_H_
 

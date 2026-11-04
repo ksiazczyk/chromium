@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowManager DevTools protocol handler header
+// summary: Declares WindowManagerHandler, the backend for the DevTools WindowManager domain controlling overview mode.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_PROTOCOL_WINDOW_MANAGER_HANDLER_H_
 #define CHROME_BROWSER_DEVTOOLS_PROTOCOL_WINDOW_MANAGER_HANDLER_H_
 

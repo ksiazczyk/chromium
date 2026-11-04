@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools file system indexer unit tests
+// summary: Unit tests verifying that the file system indexer indexes a test directory and finds expected files via trigram search.
+// ---
+
 #include "chrome/browser/devtools/devtools_file_system_indexer.h"
 
 #include <set>

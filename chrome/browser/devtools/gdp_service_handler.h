@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Developer Profiles service handler header
+// summary: Declares GdpServiceHandler, which points DevTools requests at the Google Developer Profiles API.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_GDP_SERVICE_HANDLER_H_
 #define CHROME_BROWSER_DEVTOOLS_GDP_SERVICE_HANDLER_H_
 

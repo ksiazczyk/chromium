@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process sharing info bar delegate declarations
+// summary: Declares the ProcessSharingInfobarDelegate class providing the message text, buttons, link and accept behavior for the shared process info bar.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_PROCESS_SHARING_INFOBAR_DELEGATE_H_
 #define CHROME_BROWSER_DEVTOOLS_PROCESS_SHARING_INFOBAR_DELEGATE_H_
 

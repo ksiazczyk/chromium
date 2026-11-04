@@ -1,0 +1,4 @@
+# Docerion header of inspector_protocol_config.json.
+type: config
+title: Inspector protocol generation configuration
+summary: Configuration for generating Chrome DevTools protocol bindings, specifying which domains, commands and events are included and which are async.

@@ -1,0 +1,4 @@
+# Docerion header of devtools_dock_tile_mac.mm.
+type: source
+title: DevTools dock tile macOS implementation
+summary: macOS implementation of DevToolsDockTile::Update that sets the dock tile badge label and image through Cocoa.

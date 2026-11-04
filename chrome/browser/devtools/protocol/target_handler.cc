@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Target DevTools protocol handler implementation
+// summary: Implements the DevTools Target domain in the browser, creating targets and managing remote locations with trust and file-access checks.
+// ---
+
 #include "chrome/browser/devtools/protocol/target_handler.h"
 
 #include <ranges>

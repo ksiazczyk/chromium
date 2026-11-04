@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools window views implementation
+// summary: Implements browser-window integration of DevToolsWindow, including toggling the window, keyboard event handling, beforeunload checks, and the eye dropper.
+// ---
+
 #include "chrome/browser/devtools/devtools_ui_controller.h"
 #include "chrome/browser/devtools/devtools_window.h"
 #include "chrome/browser/ui/browser_window.h"

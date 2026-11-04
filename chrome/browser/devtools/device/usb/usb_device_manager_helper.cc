@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: USB device manager helper implementation
+// summary: Implements helpers that enumerate USB devices, identify Android ADB interfaces and collect device info for remote debugging.
+// ---
+
 #include "chrome/browser/devtools/device/usb/usb_device_manager_helper.h"
 
 #include <memory>

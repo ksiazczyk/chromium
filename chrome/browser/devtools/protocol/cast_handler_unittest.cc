@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cast handler unit tests
+// summary: Unit tests for CastHandler that use a mock media router to verify sink updates, SetSinkToUse and mirroring command handling.
+// ---
+
 #include "chrome/browser/devtools/protocol/cast_handler.h"
 
 #include "base/functional/bind.h"

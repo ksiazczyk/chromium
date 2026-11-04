@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audits protocol browser test
+// summary: Browser test that enables the Audits domain and verifies a deprecation issue is reported when navigating to a Flash embed page via an embedded server.
+// ---
+
 #include "chrome/browser/devtools/protocol/devtools_protocol_test_support.h"
 #include "content/public/test/browser_test.h"
 

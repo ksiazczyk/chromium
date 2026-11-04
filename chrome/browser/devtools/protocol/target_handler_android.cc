@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Target DevTools protocol handler implementation
+// summary: Implements the DevTools Target domain on Android, creating tabs and windows through TabModel with trust and scheme restrictions.
+// ---
+
 #include "chrome/browser/devtools/protocol/target_handler_android.h"
 
 #include <memory>

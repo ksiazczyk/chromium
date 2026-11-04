@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Host description serialization utility
+// summary: Converts a flat list of host description nodes into a forest of dictionaries by nesting each child's representation under a given key in its parent.
+// ---
+
 #include "chrome/browser/devtools/serialize_host_descriptions.h"
 
 #include <map>

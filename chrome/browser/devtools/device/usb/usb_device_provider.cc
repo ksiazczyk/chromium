@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UsbDeviceProvider implementation for USB Android devices
+// summary: Implements the USB device provider that enumerates Android devices over USB, queries device info, and opens ADB sockets for remote DevTools debugging.
+// ---
+
 #include "chrome/browser/devtools/device/usb/usb_device_provider.h"
 
 #include <memory>

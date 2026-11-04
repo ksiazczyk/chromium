@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Diagnostics writer interface
+// summary: Declares the DiagnosticsWriter observer that formats diagnostic results for machine, log, and human output.
+// ---
+
 #ifndef CHROME_BROWSER_DIAGNOSTICS_DIAGNOSTICS_WRITER_H_
 #define CHROME_BROWSER_DIAGNOSTICS_DIAGNOSTICS_WRITER_H_
 

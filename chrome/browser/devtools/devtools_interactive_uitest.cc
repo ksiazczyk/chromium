@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools manager delegate interactive UI tests
+// summary: Browser tests verifying that Browser.setWindowBounds commands correctly maximize, minimize, fullscreen, and resize the browser window.
+// ---
+
 #include <utility>
 
 #include "base/functional/bind.h"

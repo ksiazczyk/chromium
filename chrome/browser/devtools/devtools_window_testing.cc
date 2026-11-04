@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools window testing harness
+// summary: Provides DevToolsWindowTesting helpers that let tests access DevTools window internals, wait for load, and control closing and popup behavior.
+// ---
+
 #include "chrome/browser/devtools/devtools_window_testing.h"
 
 #include <algorithm>

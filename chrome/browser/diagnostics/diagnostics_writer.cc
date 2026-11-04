@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Diagnostics console writer implementation
+// summary: Implements the SimpleConsole wrapper for Windows and POSIX consoles used to output diagnostic test results.
+// ---
+
 #include "chrome/browser/diagnostics/diagnostics_writer.h"
 
 #include <stdint.h>

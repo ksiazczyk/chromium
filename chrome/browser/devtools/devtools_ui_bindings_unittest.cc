@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools UI bindings unit tests
+// summary: Unit tests for DevToolsUIBindings covering network resource loading, HTTP request dispatch, navigation, and related behavior with test profiles and web contents.
+// ---
+
 #include "chrome/browser/devtools/devtools_ui_bindings.h"
 
 #include "base/base64.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevToolsWindowAndroid Java interface for controlling DevTools windows
+// summary: Static Java interface for opening and controlling DevTools windows on Android, with availability checks and JNI bindings to native DevTools methods.
+// ---
+
 package org.chromium.chrome.browser.devtools;
 
 import android.content.Context;

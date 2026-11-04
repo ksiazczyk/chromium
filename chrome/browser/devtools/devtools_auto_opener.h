@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools auto opener header
+// summary: Declares DevToolsAutoOpener, a TabStripModelObserver that tracks browser tab strips and opens DevTools windows automatically for new tabs.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_DEVTOOLS_AUTO_OPENER_H_
 #define CHROME_BROWSER_DEVTOOLS_DEVTOOLS_AUTO_OPENER_H_
 

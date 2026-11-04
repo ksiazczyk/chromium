@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools navigation gating rule manager header
+// summary: Declares the singleton manager that loads navigation gating rules from the command line and evaluates gateable events against them.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_DEVTOOLS_NAVIGATION_GATING_RULE_MANAGER_H_
 #define CHROME_BROWSER_DEVTOOLS_DEVTOOLS_NAVIGATION_GATING_RULE_MANAGER_H_
 

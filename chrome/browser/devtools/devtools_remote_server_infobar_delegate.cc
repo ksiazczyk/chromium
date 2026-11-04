@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools remote server infobar delegate
+// summary: Implements the confirm infobar delegate shown while remote debugging is active, providing the automation message, a cancel-style button that works on Android, and navigation to the inspect page when accepted.
+// ---
+
 #include "chrome/browser/devtools/devtools_remote_server_infobar_delegate.h"
 
 #include <memory>

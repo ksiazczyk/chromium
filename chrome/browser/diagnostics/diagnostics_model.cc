@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Diagnostics model implementation
+// summary: Implements the platform-shared diagnostics model that owns the test list, runs all tests, and drives recovery across platforms.
+// ---
+
 #include "chrome/browser/diagnostics/diagnostics_model.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Port forwarding browser tests
+// summary: Browser tests that enable port forwarding via preferences and a TCP device provider, then verify forwarding status and page loading.
+// ---
+
 #include "base/command_line.h"
 #include "base/compiler_specific.h"
 #include "base/functional/bind.h"

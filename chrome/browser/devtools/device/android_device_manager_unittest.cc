@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android device manager unit tests
+// summary: Tests that JSON requests to an unresponsive device socket time out, using a fake device provider and mock sockets.
+// ---
+
 #include "chrome/browser/devtools/device/android_device_manager.h"
 
 #include "base/containers/span.h"

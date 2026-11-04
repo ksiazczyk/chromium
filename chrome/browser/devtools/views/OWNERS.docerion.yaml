@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: DevTools views OWNERS file
+summary: Defines per-file code review ownership, assigning finnur@chromium.org as owner for devtools_floaty files in this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Global confirm info bar header
+// summary: Declares GlobalConfirmInfoBar, which shows a confirm info bar for all tabs in all browsers until dismissed or closed.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_GLOBAL_CONFIRM_INFO_BAR_H_
 #define CHROME_BROWSER_DEVTOOLS_GLOBAL_CONFIRM_INFO_BAR_H_
 

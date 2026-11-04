@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools settings header
+// summary: Declares the DevToolsSettings class for registering, reading, writing and syncing DevTools frontend settings.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_DEVTOOLS_SETTINGS_H_
 #define CHROME_BROWSER_DEVTOOLS_DEVTOOLS_SETTINGS_H_
 

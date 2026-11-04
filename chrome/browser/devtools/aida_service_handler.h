@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AIDA service handler
+// summary: Declares AidaServiceHandler, a DevTools HTTP service handler that checks request eligibility and supplies the AIDA base URL, OAuth consumer ID and traffic annotation.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_AIDA_SERVICE_HANDLER_H_
 #define CHROME_BROWSER_DEVTOOLS_AIDA_SERVICE_HANDLER_H_
 

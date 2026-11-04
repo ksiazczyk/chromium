@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools select file dialog header
+// summary: Declares the DevToolsSelectFileDialog listener class that shows file dialogs with selected and canceled callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_DEVTOOLS_SELECT_FILE_DIALOG_H_
 #define CHROME_BROWSER_DEVTOOLS_DEVTOOLS_SELECT_FILE_DIALOG_H_
 

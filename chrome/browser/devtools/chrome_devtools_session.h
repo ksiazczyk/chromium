@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome DevTools session
+// summary: Declares ChromeDevToolsSession, which owns the Chrome-specific DevTools protocol handlers attached to a session.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_CHROME_DEVTOOLS_SESSION_H_
 #define CHROME_BROWSER_DEVTOOLS_CHROME_DEVTOOLS_SESSION_H_
 

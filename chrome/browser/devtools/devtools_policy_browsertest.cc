@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: DevTools policy dialog browser tests
+// summary: Browser tests for the DevTools policy dialog across DeveloperToolsAvailability policy values, covering dialog display and blocked-by-policy histograms.
+// ---
+
 #include <string>
 
 #include "base/functional/callback.h"

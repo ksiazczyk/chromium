@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools infobar delegate header
+// summary: Declares DevToolsInfoBarDelegate, a ConfirmInfoBarDelegate that displays a message and reports the user's accept or cancel decision via a callback.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_DEVTOOLS_INFOBAR_DELEGATE_H_
 #define CHROME_BROWSER_DEVTOOLS_DEVTOOLS_INFOBAR_DELEGATE_H_
 

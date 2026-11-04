@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage handler class declaration
+// summary: Declares StorageHandler, the Chrome-side backend for the DevTools Storage domain and private verification token observer.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_PROTOCOL_STORAGE_HANDLER_H_
 #define CHROME_BROWSER_DEVTOOLS_PROTOCOL_STORAGE_HANDLER_H_
 

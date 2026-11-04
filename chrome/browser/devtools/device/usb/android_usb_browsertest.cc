@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android USB device browser tests
+// summary: Browser tests exercising Android USB device detection and ADB communication using fake USB device services and a mock ADB server.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

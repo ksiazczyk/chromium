@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome DevTools manager delegate implementation
+// summary: Implements Chrome's DevTools manager delegate, covering target types, browser contexts, Android device discovery, remote debugging infobars and inspection policies.
+// ---
+
 #include "chrome/browser/devtools/chrome_devtools_manager_delegate.h"
 
 #include <memory>

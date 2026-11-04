@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome DevTools session base
+// summary: Declares ChromeDevToolsSessionBase, the common frontend channel and command dispatch base shared by desktop and Android DevTools sessions.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_CHROME_DEVTOOLS_SESSION_BASE_H_
 #define CHROME_BROWSER_DEVTOOLS_CHROME_DEVTOOLS_SESSION_BASE_H_
 

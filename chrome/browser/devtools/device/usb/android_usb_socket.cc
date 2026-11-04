@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android USB socket implementation
+// summary: Implements AndroidUsbSocket, a stream socket that tunnels network traffic through the ADB protocol over a USB device connection.
+// ---
+
 #include "chrome/browser/devtools/device/usb/android_usb_socket.h"
 
 #include <stddef.h>

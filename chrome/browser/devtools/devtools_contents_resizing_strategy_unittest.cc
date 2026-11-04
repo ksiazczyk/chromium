@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools contents resizing strategy unit tests
+// summary: Unit tests verifying bounds computation for empty, undocked and docked strategies as the container grows or shrinks.
+// ---
+
 #include "chrome/browser/devtools/devtools_contents_resizing_strategy.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

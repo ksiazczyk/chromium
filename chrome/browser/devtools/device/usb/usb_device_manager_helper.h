@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: USB device manager helper declarations
+// summary: Declares AndroidDeviceInfo structures and the UsbDeviceManagerHelper singleton used to access Android USB devices via the device service.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_DEVICE_USB_USB_DEVICE_MANAGER_HELPER_H_
 #define CHROME_BROWSER_DEVTOOLS_DEVICE_USB_USB_DEVICE_MANAGER_HELPER_H_
 

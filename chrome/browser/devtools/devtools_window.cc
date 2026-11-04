@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools window implementation
+// summary: Implements DevToolsWindow, the Chrome window hosting the DevTools front-end, including docking, open and close actions, policy checks, infobars, and zoom handling.
+// ---
+
 #include "chrome/browser/devtools/devtools_window.h"
 
 #include <algorithm>

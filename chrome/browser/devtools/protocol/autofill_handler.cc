@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill DevTools protocol handler implementation
+// summary: Implements the Autofill DevTools domain, handling trigger and address-setting commands and reporting autofill fill events to the frontend.
+// ---
+
 #include "chrome/browser/devtools/protocol/autofill_handler.h"
 
 #include <optional>

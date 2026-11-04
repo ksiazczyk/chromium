@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageHandler Android implementation
+// summary: Android-specific DevTools Page domain handler that wires the dispatcher and falls most commands through to Content's Page handler.
+// ---
+
 #include "chrome/browser/devtools/protocol/page_handler.h"
 
 #include "base/check.h"

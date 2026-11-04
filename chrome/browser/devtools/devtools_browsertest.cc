@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools browser tests
+// summary: Large browser test suite covering DevTools windows, remote debugging, policy-based availability, autofill interactions and other DevTools behaviors in Chrome.
+// ---
+
 #include <stddef.h>
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools toggle action types
+// summary: Defines DevToolsToggleAction, a value object enumerating actions for opening or toggling DevTools such as show, inspect, pause, and reveal with source location parameters.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_DEVTOOLS_TOGGLE_ACTION_H_
 #define CHROME_BROWSER_DEVTOOLS_DEVTOOLS_TOGGLE_ACTION_H_
 

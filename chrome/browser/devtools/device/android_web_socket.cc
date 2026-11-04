@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android WebSocket implementation
+// summary: Implements the WebSocket client that frames and exchanges DevTools protocol messages with browsers on Android devices.
+// ---
+
 #include <utility>
 
 #include "base/functional/bind.h"

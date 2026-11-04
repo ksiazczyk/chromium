@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools UI bindings class declaration
+// summary: Declares DevToolsUIBindings, the base browser-side class connecting the DevTools front-end with Chrome features such as files, settings, extensions, and themes.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_DEVTOOLS_UI_BINDINGS_H_
 #define CHROME_BROWSER_DEVTOOLS_DEVTOOLS_UI_BINDINGS_H_
 

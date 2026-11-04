@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools connection dialog browser tests
+// summary: Browser tests verifying the DevTools connection dialog returns allow or deny results for null browser, accept, cancel, close and disable interactions.
+// ---
+
 #include "chrome/browser/devtools/devtools_connection_dialog.h"
 
 #include "base/test/test_future.h"

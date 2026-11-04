@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reconnaissance diagnostics test declarations
+// summary: Declares outcome codes and factory functions for reconnaissance diagnostic tests such as disk space and JSON checks.
+// ---
+
 #ifndef CHROME_BROWSER_DIAGNOSTICS_RECON_DIAGNOSTICS_H_
 #define CHROME_BROWSER_DIAGNOSTICS_RECON_DIAGNOSTICS_H_
 

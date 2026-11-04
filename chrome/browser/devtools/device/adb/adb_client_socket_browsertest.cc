@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ADB client socket browser test
+// summary: Browser test that verifies device discovery, remote browser listing, and page detection through AdbDeviceProvider against a mock ADB server.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "base/run_loop.h"
 #include "build/build_config.h"

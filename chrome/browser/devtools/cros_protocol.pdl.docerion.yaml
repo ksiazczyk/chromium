@@ -1,0 +1,4 @@
+# Docerion header of cros_protocol.pdl.
+type: reference
+title: ChromeOS DevTools WindowManager protocol definition
+summary: Defines the ChromeOS-only WindowManager DevTools protocol domain with commands to enter and exit overview mode.

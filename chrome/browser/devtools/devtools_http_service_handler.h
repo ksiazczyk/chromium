@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools HTTP service handler class declaration
+// summary: Declares DevToolsHttpServiceHandler, an abstract handler for OAuth-authenticated DevTools HTTP requests with result and error types.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_DEVTOOLS_HTTP_SERVICE_HANDLER_H_
 #define CHROME_BROWSER_DEVTOOLS_DEVTOOLS_HTTP_SERVICE_HANDLER_H_
 

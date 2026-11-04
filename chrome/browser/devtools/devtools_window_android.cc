@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android DevTools window stubs
+// summary: Android-specific no-op implementations of DevToolsWindow keyboard event handling, eye dropper opening, and browser toolbar and window updates.
+// ---
+
 #include "chrome/browser/devtools/devtools_window.h"
 
 #include "base/notimplemented.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools file system indexer implementation
+// summary: Implements a trigram-based index over workspace files, built on a background sequenced task runner, to support fast text search from the DevTools frontend.
+// ---
+
 #include "chrome/browser/devtools/devtools_file_system_indexer.h"
 
 #include <stddef.h>

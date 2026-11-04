@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools availability checker header
+// summary: Declares the DevToolsBlockReason enum used for UMA logging and the GetDevToolsBlockReason overloads that report why DevTools inspection is blocked for profiles, frames, extensions, web apps or URLs.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_DEVTOOLS_AVAILABILITY_CHECKER_H_
 #define CHROME_BROWSER_DEVTOOLS_DEVTOOLS_AVAILABILITY_CHECKER_H_
 

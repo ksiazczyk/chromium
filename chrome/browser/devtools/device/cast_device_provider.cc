@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast device provider implementation
+// summary: Discovers Cast devices through local DNS-SD service discovery and converts their service records into device info for remote debugging.
+// ---
+
 #include "chrome/browser/devtools/device/cast_device_provider.h"
 
 #include <map>

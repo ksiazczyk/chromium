@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome DevTools session implementation
+// summary: Implements ChromeDevToolsSession by instantiating Chrome-specific protocol handlers such as page, emulation, storage and security based on target type and client trust.
+// ---
+
 #include "chrome/browser/devtools/chrome_devtools_session.h"
 
 #include <memory>

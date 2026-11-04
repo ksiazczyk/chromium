@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for devtools protocol handlers
+summary: Defines per-file include rules granting specific handlers and browser tests access to ash, PDF, printing, web package, and verification token components.

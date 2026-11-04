@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools Android bridge browser tests
+// summary: Browser tests verifying DevToolsAndroidBridge TCP target discovery, including preference-driven provider updates and default discovery values.
+// ---
+
 #include "chrome/browser/devtools/device/devtools_android_bridge.h"
 
 #include <algorithm>

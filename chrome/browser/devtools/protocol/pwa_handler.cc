@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PWA handler implementation
+// summary: Implements the DevTools PWA domain backend for installing, uninstalling, launching, and configuring web apps and file handlers.
+// ---
+
 #include "chrome/browser/devtools/protocol/pwa_handler.h"
 
 #include <vector>

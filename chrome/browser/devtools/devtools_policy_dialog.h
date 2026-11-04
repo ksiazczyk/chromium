@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools policy dialog header
+// summary: Declares the DevToolsPolicyDialog class that shows one policy-blocked dialog per WebContents with test observer hooks.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_DEVTOOLS_POLICY_DIALOG_H_
 #define CHROME_BROWSER_DEVTOOLS_DEVTOOLS_POLICY_DIALOG_H_
 

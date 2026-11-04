@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools navigation gating service header
+// summary: Declares DevToolsNavigationGatingService, a KeyedService that gates DevTools-controlled navigations using the shared global rule manager.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_DEVTOOLS_NAVIGATION_GATING_SERVICE_H_
 #define CHROME_BROWSER_DEVTOOLS_DEVTOOLS_NAVIGATION_GATING_SERVICE_H_
 

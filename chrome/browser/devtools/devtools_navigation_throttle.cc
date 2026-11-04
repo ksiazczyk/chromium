@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools navigation throttle implementation
+// summary: Implements a navigation throttle that defers and cancels navigations in tabs with an attached DevTools debugger when gating rules block the URL.
+// ---
+
 #include "chrome/browser/devtools/devtools_navigation_throttle.h"
 
 #include <memory>

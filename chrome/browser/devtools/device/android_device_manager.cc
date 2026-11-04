@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android device manager implementation
+// summary: Implements AndroidDeviceManager, which queries devices, sends commands and HTTP upgrades, and opens sockets to Android devices over ADB for remote debugging.
+// ---
+
 #include "chrome/browser/devtools/device/android_device_manager.h"
 
 #include <stddef.h>

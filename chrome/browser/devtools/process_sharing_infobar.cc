@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process sharing info bar implementation
+// summary: Registers the DevTools shared process info bar and shows a modal restart dialog that lets users opt out of the process sharing experiment.
+// ---
+
 #include "chrome/browser/devtools/process_sharing_infobar.h"
 
 #include <memory>

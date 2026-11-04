@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools contents resizing strategy implementation
+// summary: Implements layout logic that splits container bounds between the DevTools view and the inspected page, enforcing minimum DevTools sizes per dock side.
+// ---
+
 #include "chrome/browser/devtools/devtools_contents_resizing_strategy.h"
 
 #include <algorithm>

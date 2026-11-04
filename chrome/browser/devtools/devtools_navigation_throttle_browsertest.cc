@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools navigation throttle browser tests
+// summary: Browser tests verifying that blocklist and allowlist gating rules block or permit navigations only when a DevTools agent is attached.
+// ---
+
 #include "chrome/browser/devtools/devtools_navigation_throttle.h"
 
 #include "base/command_line.h"

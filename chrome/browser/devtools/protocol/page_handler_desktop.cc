@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageHandler desktop implementation
+// summary: Desktop DevTools Page domain handler handling ad blocking, SPC transaction mode, and installability commands before falling through to Content.
+// ---
+
 #include <string>
 #include <utility>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Emulation domain handler implementation
+// summary: Implements the Emulation domain backend of the Chrome DevTools protocol, mapping Chrome displays to protocol screen info and handling automation overrides.
+// ---
+
 #include "chrome/browser/devtools/protocol/emulation_handler.h"
 
 #include <memory>

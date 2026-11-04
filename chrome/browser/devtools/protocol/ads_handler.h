@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ads DevTools protocol handler header
+// summary: Declares AdsHandler, which bridges the DevTools frontend with AdsPageLoadMetricsObserver to serve page-level ad statistics.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_PROTOCOL_ADS_HANDLER_H_
 #define CHROME_BROWSER_DEVTOOLS_PROTOCOL_ADS_HANDLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Diagnostics test base class and test IDs
+// summary: Declares the DiagnosticsTest base class and the DiagnosticsTestId enum used by Chrome's diagnostic mode tests.
+// ---
+
 #ifndef CHROME_BROWSER_DIAGNOSTICS_DIAGNOSTICS_TEST_H_
 #define CHROME_BROWSER_DIAGNOSTICS_DIAGNOSTICS_TEST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools targets UI handlers implementation
+// summary: Implements UI handlers that serialize local and ADB-connected DevTools targets for the inspect devices view.
+// ---
+
 #include "chrome/browser/devtools/devtools_targets_ui.h"
 
 #include <memory>

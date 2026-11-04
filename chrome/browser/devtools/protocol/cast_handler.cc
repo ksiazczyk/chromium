@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cast handler implementation
+// summary: Implements the DevTools Cast domain, wiring sink selection, tab and desktop mirroring, and stop-casting commands to Chrome's media router.
+// ---
+
 #include "chrome/browser/devtools/protocol/cast_handler.h"
 
 #include <algorithm>

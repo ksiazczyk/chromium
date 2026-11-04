@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome DevTools session base implementation
+// summary: Implements the shared DevTools session base that dispatches CDP commands, records command metrics and detaches clients when DevTools policy changes.
+// ---
+
 #include "chrome/browser/devtools/chrome_devtools_session_base.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools browser context manager implementation
+// summary: Implements creation, lookup and disposal of off-the-record profiles used as DevTools browser contexts, including Android tab cleanup and timed profile destruction.
+// ---
+
 #include "chrome/browser/devtools/devtools_browser_context_manager.h"
 
 #include "base/functional/bind.h"

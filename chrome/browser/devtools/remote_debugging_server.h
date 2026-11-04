@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote debugging server declarations
+// summary: Declares the RemoteDebuggingServer class, including reasons for not starting, tethering support, and methods to start or stop the HTTP server and pipe handler.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_REMOTE_DEBUGGING_SERVER_H_
 #define CHROME_BROWSER_DEVTOOLS_REMOTE_DEBUGGING_SERVER_H_
 

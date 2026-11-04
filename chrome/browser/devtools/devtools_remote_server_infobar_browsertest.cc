@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools remote server infobar browser tests
+// summary: Browser tests for the DevTools remote debugging infobar, covering no-crash behavior when all browser windows close before disconnect and accept handling that opens the inspect page in the remaining active browser.
+// ---
+
 #include "base/command_line.h"
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/devtools/chrome_devtools_manager_delegate.h"

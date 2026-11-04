@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android device manager header
+// summary: Declares AndroidDeviceManager with Device, DeviceInfo, BrowserInfo, and WebSocket types used for remote debugging of Android devices.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_DEVICE_ANDROID_DEVICE_MANAGER_H_
 #define CHROME_BROWSER_DEVTOOLS_DEVICE_ANDROID_DEVICE_MANAGER_H_
 

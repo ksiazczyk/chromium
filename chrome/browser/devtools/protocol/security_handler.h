@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security handler class declaration
+// summary: Declares SecurityHandler, the Chrome-side backend for the DevTools Security domain observing visible security state changes.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_PROTOCOL_SECURITY_HANDLER_H_
 #define CHROME_BROWSER_DEVTOOLS_PROTOCOL_SECURITY_HANDLER_H_
 

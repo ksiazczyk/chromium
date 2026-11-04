@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process sharing info bar delegate implementation
+// summary: Implements the confirm info bar delegate that shows the shared process message with an opt-out button and a learn-more link.
+// ---
+
 #include "chrome/browser/devtools/process_sharing_infobar_delegate.h"
 
 #include "chrome/browser/devtools/process_sharing_infobar.h"

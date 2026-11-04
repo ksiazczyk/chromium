@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools infobar delegate implementation
+// summary: Implements the confirm infobar delegate that shows a message asking the user to allow or deny a DevTools request and runs the callback with the choice.
+// ---
+
 #include "chrome/browser/devtools/devtools_infobar_delegate.h"
 
 #include "chrome/browser/devtools/global_confirm_info_bar.h"

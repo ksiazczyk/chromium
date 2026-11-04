@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini Code Assist service handler header
+// summary: Declares GcaServiceHandler, which configures DevTools requests to the Gemini Code Assist API for AI-powered features.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_GCA_SERVICE_HANDLER_H_
 #define CHROME_BROWSER_DEVTOOLS_GCA_SERVICE_HANDLER_H_
 

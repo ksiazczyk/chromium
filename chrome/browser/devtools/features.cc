@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools feature flags
+// summary: Defines base::Feature flags and field trial parameters for DevTools AI features such as Console Insights, Freestyler, and the AI assistance agents.
+// ---
+
 #include "chrome/browser/devtools/features.h"
 
 #include "base/feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DevTools device discovery unit tests
+// summary: Unit tests for GetFrontendURLFromValue, checking frontend URL rewriting with the remoteVersion parameter across many URL cases.
+// ---
+
 #include "chrome/browser/devtools/device/devtools_device_discovery.h"
 
 #include "base/values.h"

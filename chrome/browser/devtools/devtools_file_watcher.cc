@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools file watcher implementation
+// summary: Implements a shared, throttled file watcher that tracks path changes and reports modified, added, and removed files to listeners.
+// ---
+
 #include "chrome/browser/devtools/devtools_file_watcher.h"
 
 #include <algorithm>

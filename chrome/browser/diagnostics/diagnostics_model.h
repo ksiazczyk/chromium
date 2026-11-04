@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiagnosticsModel interface
+// summary: Declares the diagnostics model interface with test result states, observer callbacks, and per-test TestInfo for the MVC diagnostics system.
+// ---
+
 #ifndef CHROME_BROWSER_DIAGNOSTICS_DIAGNOSTICS_MODEL_H_
 #define CHROME_BROWSER_DIAGNOSTICS_DIAGNOSTICS_MODEL_H_
 

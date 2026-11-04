@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Port forwarding controller implementation
+// summary: Implements port forwarding connections to remote devices using the Tethering DevTools domain, parsing notifications and tracking status.
+// ---
+
 #include "chrome/browser/devtools/device/port_forwarding_controller.h"
 
 #include <map>

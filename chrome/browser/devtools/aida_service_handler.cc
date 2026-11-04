@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AIDA service handler implementation
+// summary: Implements AidaServiceHandler with a network traffic annotation and availability checks for AIDA requests made through DevTools.
+// ---
+
 #include "chrome/browser/devtools/aida_service_handler.h"
 
 #include "chrome/browser/devtools/aida_client.h"

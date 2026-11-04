@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools file helper header
+// summary: Declares the DevToolsFileHelper class for saving and appending files and registering workspace file systems, together with its Delegate and Storage interfaces.
+// ---
+
 #ifndef CHROME_BROWSER_DEVTOOLS_DEVTOOLS_FILE_HELPER_H_
 #define CHROME_BROWSER_DEVTOOLS_DEVTOOLS_FILE_HELPER_H_
 
