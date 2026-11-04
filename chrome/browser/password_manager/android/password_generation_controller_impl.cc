@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password generation controller implementation
+// summary: Implements the password generation controller, coordinating the accessory sheet, Touch To Fill generation UI, and metrics for automatic and manual password generation.
+// ---
+
 #include "chrome/browser/password_manager/android/password_generation_controller_impl.h"
 
 #include <memory>

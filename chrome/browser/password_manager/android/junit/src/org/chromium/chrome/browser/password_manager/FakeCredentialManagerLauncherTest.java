@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeCredentialManagerLauncherTest
+// summary: Robolectric tests verifying that the fake credential manager launcher returns a PendingIntent on success and reports errors when no account is set or the API fails.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import static android.os.Looper.getMainLooper;

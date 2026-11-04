@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Receiver bridge for password settings update callbacks
+// summary: Java counterpart of the native settings updater receiver that forwards downstream callbacks for fetched values, errors, and setting changes back to native code.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import static org.chromium.base.ThreadUtils.assertOnUiThread;

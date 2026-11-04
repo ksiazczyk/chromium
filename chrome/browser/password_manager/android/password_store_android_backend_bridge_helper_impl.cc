@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password store Android backend bridge helper implementation
+// summary: Implements the bridge helper, running receiver and dispatcher bridge operations sequentially on a single background thread for JNI compatibility.
+// ---
+
 #include "chrome/browser/password_manager/android/password_store_android_backend_bridge_helper_impl.h"
 
 #include <cstdint>

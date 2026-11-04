@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password CSV download flow controller factory
+// summary: Creates and holds a single flow controller instance for the duration of the CSV download flow and rewires it after activity recreation.
+// ---
+
 package org.chromium.chrome.browser.pwm_disabled;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

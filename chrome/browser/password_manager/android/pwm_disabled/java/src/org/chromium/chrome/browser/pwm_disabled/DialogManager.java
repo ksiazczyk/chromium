@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dialog manager with minimum display time
+// summary: Manages a dialog fragment so it stays visible for a minimum period, delaying hide calls to avoid flickering.
+// ---
+
 package org.chromium.chrome.browser.pwm_disabled;
 
 import androidx.annotation.IntDef;

@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: PasswordSettingsUpdaterReceiverBridgeTest
+// summary: Robolectric tests verifying that settings updater receiver bridge callbacks invoke the correct native JNI callbacks and record metrics.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import static org.mockito.Mockito.isNull;

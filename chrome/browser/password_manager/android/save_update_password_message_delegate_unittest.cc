@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Save and update password message delegate unit tests
+// summary: Unit tests for the save and update password message delegate, covering prompt display, dismissal reasons, account storage and recorded metrics.
+// ---
+
 #include "chrome/browser/password_manager/android/save_update_password_message_delegate.h"
 
 #include <algorithm>

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Android manifest for password manager tests
+summary: Android manifest declaring an activity and theme so tests using ActivityScenario can run for the password manager package.
+-->
+
 <!-- This manifest is required for tests using
      androidx.test.core.app.ActivityScenario to work.
 -->

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager unavailable dialog mediator
+// summary: Handles button clicks and dismissal of the password manager unavailable dialog and records the corresponding metrics.
+// ---
+
 package org.chromium.chrome.browser.pwm_disabled;
 
 import org.chromium.build.annotations.NullMarked;

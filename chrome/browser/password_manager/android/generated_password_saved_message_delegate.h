@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generated password saved message delegate header
+// summary: Declares the delegate that shows the generated-password-saved message and the add-username dialog on Android.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_GENERATED_PASSWORD_SAVED_MESSAGE_DELEGATE_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_GENERATED_PASSWORD_SAVED_MESSAGE_DELEGATE_H_
 

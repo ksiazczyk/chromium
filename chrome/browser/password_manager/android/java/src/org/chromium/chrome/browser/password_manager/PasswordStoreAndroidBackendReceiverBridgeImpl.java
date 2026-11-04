@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password store Android backend receiver bridge
+// summary: Java counterpart of the native receiver bridge that forwards Android backend operation callbacks, results and errors to the native password manager.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import org.jni_zero.CalledByNative;

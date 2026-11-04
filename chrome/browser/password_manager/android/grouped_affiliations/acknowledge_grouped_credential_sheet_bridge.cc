@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Acknowledge grouped credential sheet bridge implementation
+// summary: Implements the JNI bridge that shows the grouped credential acknowledgement sheet and records dismissal metrics.
+// ---
+
 #include "chrome/browser/password_manager/android/grouped_affiliations/acknowledge_grouped_credential_sheet_bridge.h"
 
 #include <jni.h>

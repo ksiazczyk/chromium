@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password CSV download dialog view binder
+// summary: Binds property model changes such as title, paragraphs, and button callbacks to the CSV download dialog fragment's view.
+// ---
+
 package org.chromium.chrome.browser.pwm_disabled;
 
 import static org.chromium.chrome.browser.pwm_disabled.PasswordCsvDownloadDialogProperties.CLOSE_BUTTON_CALLBACK;

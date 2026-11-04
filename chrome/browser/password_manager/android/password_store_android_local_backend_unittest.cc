@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password store Android local backend unit tests
+// summary: Unit tests for the Android local password store backend using mock bridge helpers and fake lifecycle helpers.
+// ---
+
 #include "chrome/browser/password_manager/android/password_store_android_local_backend.h"
 
 #include <jni.h>

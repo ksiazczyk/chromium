@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CCT password saving metrics recorder bridge implementation
+// summary: JNI bridge that signals the Java side to start recording metrics about password saving in Chrome Custom Tabs.
+// ---
+
 #include "chrome/browser/password_manager/android/cct_password_saving_metrics_recorder_bridge.h"
 
 #include "base/android/jni_android.h"

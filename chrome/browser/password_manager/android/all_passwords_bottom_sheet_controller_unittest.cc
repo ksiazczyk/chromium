@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the all passwords bottom sheet controller
+// summary: Tests credential listing, selection, dismissal and device authentication behaviour of the all-passwords bottom sheet controller.
+// ---
+
 #include "chrome/browser/password_manager/android/all_passwords_bottom_sheet_controller.h"
 
 #include "base/android/device_info.h"

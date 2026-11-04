@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordSettingsUpdaterAndroidBridgeHelperImpl implementation
+// summary: Implements the bridge helper that runs password settings accessor operations for the Android JNI bridges on a dedicated background thread.
+// ---
+
 #include "chrome/browser/password_manager/android/password_settings_updater_android_bridge_helper_impl.h"
 
 #include "base/debug/dump_without_crashing.h"

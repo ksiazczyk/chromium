@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordManagerHelper
+// summary: Profile-scoped helper for showing password settings, running password checkup operations, and coordinating dialogs and error handling with the backend.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import android.app.PendingIntent;

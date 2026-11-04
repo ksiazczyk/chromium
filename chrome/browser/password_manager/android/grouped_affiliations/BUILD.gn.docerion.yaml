@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for grouped affiliations
+summary: Defines native, Java, JNI, resource and test build targets for the grouped credential acknowledgement sheet.

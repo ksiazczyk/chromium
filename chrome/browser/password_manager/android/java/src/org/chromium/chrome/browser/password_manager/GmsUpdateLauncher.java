@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GMS update launcher
+// summary: Opens the Google Play Store page for Google Play Services so the user can update GMS Core.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import android.content.ActivityNotFoundException;

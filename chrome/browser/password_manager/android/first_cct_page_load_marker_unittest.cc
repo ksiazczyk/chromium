@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: First CCT page load marker unit tests
+// summary: Unit tests verifying that creating the marker attaches it to WebContents and consuming it removes it.
+// ---
+
 #include "chrome/browser/password_manager/android/first_cct_page_load_marker.h"
 
 #include "chrome/test/base/testing_profile.h"

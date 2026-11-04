@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Acknowledge grouped credential sheet controller
+// summary: Controller that displays the acknowledgement bottom sheet before filling a credential saved for another site or app grouped with the current site.
+// ---
+
 package org.chromium.chrome.browser.grouped_affiliations;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Password manager settings service Android impl unit tests
+// summary: Unit tests for the Android password manager settings service, exercising sync and pref behavior with mocked bridge helpers.
+// ---
+
 #include "chrome/browser/password_manager/android/password_manager_settings_service_android_impl.h"
 
 #include <memory>

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Add username dialog content layout
+summary: Android layout XML defining the content view of the add-username dialog, with a scrollable description and username and password text input fields.
+-->
+
 <org.chromium.chrome.browser.add_username_dialog.AddUsernameDialogContentView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"

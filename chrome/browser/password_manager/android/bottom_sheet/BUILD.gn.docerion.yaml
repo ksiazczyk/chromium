@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the SimpleNoticeSheet Android bottom sheet
+summary: GN build configuration defining the Java library, Robolectric and instrumentation test targets, and layout resources for the SimpleNoticeSheet bottom sheet.

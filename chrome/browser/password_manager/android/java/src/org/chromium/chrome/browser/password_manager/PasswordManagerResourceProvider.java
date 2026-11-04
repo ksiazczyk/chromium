@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordManagerResourceProvider
+// summary: Interface supplying resource IDs for the password manager UI, allowing downstream implementations to override upstream resources.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import androidx.annotation.DrawableRes;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password sync controller delegate bridge JNI implementation
+// summary: Implements the JNI bridge that calls the Java counterpart to notify the credential manager and reports results back to the consumer.
+// ---
+
 #include "chrome/browser/password_manager/android/password_sync_controller_delegate_bridge_impl.h"
 
 #include "base/android/jni_android.h"

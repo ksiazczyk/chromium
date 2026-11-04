@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: PasswordSettingsUpdaterDispatcherBridgeTest
+// summary: Robolectric tests verifying that settings updater dispatcher bridge calls forward to the password settings accessor and report results with metrics.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import static org.junit.Assert.assertEquals;

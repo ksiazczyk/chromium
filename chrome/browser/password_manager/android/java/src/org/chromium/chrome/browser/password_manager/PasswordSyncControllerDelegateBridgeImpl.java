@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password sync controller delegate bridge
+// summary: Java counterpart of the native bridge that propagates sync events to the downstream PasswordSyncControllerDelegate and reports errors back to native code.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import com.google.android.gms.common.api.ApiException;

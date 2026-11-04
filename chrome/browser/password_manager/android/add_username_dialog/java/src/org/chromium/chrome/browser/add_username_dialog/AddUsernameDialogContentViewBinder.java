@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AddUsernameDialogContentViewBinder
+// summary: Binds changes of the dialog's property model, such as password and username-changed callback, to the content view.
+// ---
+
 package org.chromium.chrome.browser.add_username_dialog;
 
 import static org.chromium.chrome.browser.add_username_dialog.AddUsernameDialogContentProperties.PASSWORD;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password CSV download dialog fragment
+// summary: Dialog fragment offering users to download unmigrated passwords and launching an activity to choose the CSV save location.
+// ---
+
 package org.chromium.chrome.browser.pwm_disabled;
 
 import static org.chromium.build.NullUtil.assertNonNull;

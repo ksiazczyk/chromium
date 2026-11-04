@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleNoticeSheetProperties
+// summary: Defines the property keys describing the visible state of the simple notice sheet, such as title, text and button.
+// ---
+
 package org.chromium.chrome.browser.bottom_sheet;
 
 import android.text.SpannableString;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom Tab intent helper interface
+// summary: Functional interface that creates an intent to start a Chrome Custom Tab for a given intent.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import android.content.Context;

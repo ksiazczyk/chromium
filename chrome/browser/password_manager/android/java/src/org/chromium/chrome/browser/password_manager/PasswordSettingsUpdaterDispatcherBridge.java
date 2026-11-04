@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dispatcher bridge for password settings updates
+// summary: Java counterpart of the native settings updater dispatcher that forwards password settings get and set requests from native code to the downstream accessor while recording metrics.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import static org.chromium.base.ThreadUtils.assertOnBackgroundThread;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Acknowledge grouped credential sheet JNI bridge
+// summary: JNI bridge that shows and dismisses the acknowledgement bottom sheet when filling grouped credentials on Android and reports dismissals to native code.
+// ---
+
 package org.chromium.chrome.browser.grouped_affiliations;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

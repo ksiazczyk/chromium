@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android password sync controller delegate unit tests
+// summary: Tests the sync delegate's credential manager notifications and metrics using a mock bridge and a test sync service.
+// ---
+
 #include "chrome/browser/password_manager/android/password_sync_controller_delegate_android.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordManagerBackendSupportHelper
+// summary: Singleton helper that checks whether the password manager backend is present, preferring a downstream ServiceLoader implementation.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import org.chromium.base.ResettersForTesting;

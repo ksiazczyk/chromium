@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI credential creation declarations
+// summary: Declares functions that create Java counterparts of PasswordForm as Credential objects and Credential arrays for Android.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_CREDENTIAL_ANDROID_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_CREDENTIAL_ANDROID_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Dependency include rules for the Android password manager
+summary: Specifies allowed include directories for this folder, with exceptions for content public Java and password-related components.

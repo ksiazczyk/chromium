@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI creation of Java Credential objects
+// summary: Implements JNI helpers that convert native PasswordForm data into Java Credential objects, including origin URL and federation strings.
+// ---
+
 #include "chrome/browser/password_manager/android/credential_android.h"
 
 #include "base/android/jni_string.h"

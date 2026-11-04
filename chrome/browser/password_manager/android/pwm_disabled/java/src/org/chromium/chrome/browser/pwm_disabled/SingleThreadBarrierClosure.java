@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Single-thread barrier closure
+// summary: Single-threaded Runnable that invokes a callback only after being run a predefined number of times, inspired by native barrier closures.
+// ---
+
 package org.chromium.chrome.browser.pwm_disabled;
 
 import org.chromium.build.annotations.NullMarked;

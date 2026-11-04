@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delayed password field classification handler factory
+// summary: Defines a keyed service factory that schedules creation of the password field classification model handler five seconds after startup.
+// ---
+
 #include "chrome/browser/password_manager/android/delayed_password_field_classification_model_handler_factory.h"
 
 #include "base/functional/bind.h"

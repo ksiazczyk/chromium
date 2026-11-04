@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake PasswordSyncControllerDelegate for integration tests
+// summary: Fake sync controller delegate that immediately reports sync success to the credential manager for integration tests.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import org.chromium.base.Callback;

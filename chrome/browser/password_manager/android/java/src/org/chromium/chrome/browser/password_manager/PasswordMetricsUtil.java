@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password Manager metrics histogram constants
+// summary: Defines histogram name constants for recording Password Manager metrics such as credential manager intent latency, success, error, and password checkup launch outcomes.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import org.chromium.build.annotations.NullMarked;

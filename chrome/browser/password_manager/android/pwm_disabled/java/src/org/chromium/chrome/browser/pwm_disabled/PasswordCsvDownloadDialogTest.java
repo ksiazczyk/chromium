@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password CSV download dialog tests
+// summary: Robolectric tests verifying the contents and behavior of the password CSV download dialog, including GMS variants and settings link handling.
+// ---
+
 package org.chromium.chrome.browser.pwm_disabled;
 
 import static android.app.Activity.RESULT_OK;

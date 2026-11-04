@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: PasswordManagerAndroidBackendUtil
+// summary: Utilities for classes interacting with the Google Mobile Services password manager backend, mapping exceptions to error codes and handling resolvable API errors.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import android.app.PendingIntent;

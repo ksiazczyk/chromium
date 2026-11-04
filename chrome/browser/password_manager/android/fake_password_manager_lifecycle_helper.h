@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake password manager lifecycle helper header
+// summary: Declares a fake PasswordManagerLifecycleHelper that records a foregrounding callback and triggers it manually, for use in tests.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_FAKE_PASSWORD_MANAGER_LIFECYCLE_HELPER_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_FAKE_PASSWORD_MANAGER_LIFECYCLE_HELPER_H_
 

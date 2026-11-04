@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: First CCT page load marker implementation
+// summary: Implements a WebContents user data marker set when a custom tab is initialized and consumed once to identify the first page loaded by the CCT.
+// ---
+
 #include "chrome/browser/password_manager/android/first_cct_page_load_marker.h"
 
 #include "content/public/browser/web_contents.h"

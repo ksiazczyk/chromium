@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AllPasswordsBottomSheetHelper implementation
+// summary: Fetches stored credentials from the profile and account password stores to decide when the All Passwords bottom sheet can be shown.
+// ---
+
 #include "chrome/browser/password_manager/android/all_passwords_bottom_sheet_helper.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakePasswordSettingsAccessorFactoryImplTest
+// summary: Robolectric test verifying that the fake password settings accessor factory creates a FakePasswordSettingsAccessor instance.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import static org.junit.Assert.assertTrue;

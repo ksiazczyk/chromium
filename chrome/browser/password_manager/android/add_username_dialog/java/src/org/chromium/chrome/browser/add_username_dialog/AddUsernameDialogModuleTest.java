@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AddUsernameDialogModuleTest
+// summary: Robolectric tests checking the dialog's title and button texts, password display, dismissal and acceptance behavior of the controller.
+// ---
+
 package org.chromium.chrome.browser.add_username_dialog;
 
 import static com.google.common.truth.Truth.assertThat;

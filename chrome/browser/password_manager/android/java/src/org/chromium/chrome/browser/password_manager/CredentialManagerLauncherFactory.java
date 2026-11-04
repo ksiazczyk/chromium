@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credential Manager launcher factory
+// summary: Abstract factory returning the CredentialManagerLauncher implementation, supporting downstream implementations via ServiceLoader and a testing override.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import static org.chromium.base.ThreadUtils.assertOnUiThread;

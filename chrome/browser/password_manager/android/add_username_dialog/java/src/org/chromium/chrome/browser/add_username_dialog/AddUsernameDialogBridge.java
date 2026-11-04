@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AddUsernameDialogBridge
+// summary: JNI bridge that lets native code show the add username dialog and forwards accepted usernames or dismissals back to native.
+// ---
+
 package org.chromium.chrome.browser.add_username_dialog;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

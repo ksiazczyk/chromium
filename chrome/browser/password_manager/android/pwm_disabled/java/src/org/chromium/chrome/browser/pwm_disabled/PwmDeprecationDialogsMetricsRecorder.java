@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager deprecation dialogs metrics recorder
+// summary: Utility that records histograms for deprecation dialog impressions, dismissal reasons, and the last step of the CSV download flow.
+// ---
+
 package org.chromium.chrome.browser.pwm_disabled;
 
 import androidx.annotation.IntDef;

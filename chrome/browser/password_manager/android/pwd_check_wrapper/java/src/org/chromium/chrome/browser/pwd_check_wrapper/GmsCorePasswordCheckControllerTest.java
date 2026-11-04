@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GmsCorePasswordCheckControllerTest
+// summary: Robolectric unit tests for GmsCorePasswordCheckController covering password check and breached credential count flows.
+// ---
+
 package org.chromium.chrome.browser.pwd_check_wrapper;
 
 import static org.mockito.Mockito.verify;

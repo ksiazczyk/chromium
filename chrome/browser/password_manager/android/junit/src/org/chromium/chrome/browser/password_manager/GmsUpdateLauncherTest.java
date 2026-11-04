@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GmsUpdateLauncherTest
+// summary: Robolectric test verifying that launching a Google Play Services update starts an activity with the correct Play Store market intent and referrer.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import static org.junit.Assert.assertEquals;

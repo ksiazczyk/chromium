@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password manager availability utility unit tests
+// summary: Unit tests verifying password manager availability across missing internal backend, too-low GMS Core version and fully supported configurations.
+// ---
+
 #include "chrome/browser/password_manager/android/password_manager_android_util.h"
 
 #include <limits>

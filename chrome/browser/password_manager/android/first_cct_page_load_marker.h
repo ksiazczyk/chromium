@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: First CCT page load marker header
+// summary: Declares a WebContentsUserData marker that identifies the first page loaded by a custom tab and can be consumed by the password manager.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_FIRST_CCT_PAGE_LOAD_MARKER_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_FIRST_CCT_PAGE_LOAD_MARKER_H_
 

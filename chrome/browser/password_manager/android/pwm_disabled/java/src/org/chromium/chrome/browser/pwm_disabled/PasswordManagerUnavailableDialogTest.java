@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password manager unavailable dialog tests
+// summary: Robolectric tests verifying dialog contents, show and hide behavior, and launching the GMS Core update flow.
+// ---
+
 package org.chromium.chrome.browser.pwm_disabled;
 
 import static org.junit.Assert.assertEquals;

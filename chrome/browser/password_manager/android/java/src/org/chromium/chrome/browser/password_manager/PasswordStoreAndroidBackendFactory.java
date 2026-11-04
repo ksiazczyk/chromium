@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password store Android backend factory
+// summary: Abstract factory that supplies the password store Android backend implementation, resolved via ServiceLoader with an upstream fallback and a testing hook.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import org.chromium.base.ResettersForTesting;

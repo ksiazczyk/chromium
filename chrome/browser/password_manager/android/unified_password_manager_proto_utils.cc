@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unified password manager proto utilities
+// summary: Implements conversion between stored credentials and unified password manager protos, including serialization of Chrome-specific local form data.
+// ---
+
 #include "chrome/browser/password_manager/android/unified_password_manager_proto_utils.h"
 
 #include <optional>

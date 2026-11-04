@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PasswordSettingsUpdaterAndroidBridgeHelperImpl unit tests
+// summary: Unit tests for the bridge helper that use mock receiver and dispatcher bridges to verify setting fetch and change behavior.
+// ---
+
 #include "chrome/browser/password_manager/android/password_settings_updater_android_bridge_helper_impl.h"
 
 #include <memory>

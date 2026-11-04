@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generated password saved message delegate implementation
+// summary: Shows an Android message when a generated password is saved and presents an add-username dialog when the saved credentials lack a username.
+// ---
+
 #include "chrome/browser/password_manager/android/generated_password_saved_message_delegate.h"
 
 #include <memory>

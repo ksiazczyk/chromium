@@ -1,6 +1,13 @@
 // Copyright 2022 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: PasswordCheckupClientMetricsRecorderTest
+// summary: Robolectric tests verifying that the password checkup metrics recorder writes success, latency and error histograms correctly for each check operation.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Acknowledge grouped credential sheet view
+// summary: Bottom sheet content view that renders the acknowledgement sheet's header icon, ellipsized title and description for grouped credential fills.
+// ---
+
 package org.chromium.chrome.browser.grouped_affiliations;
 
 import android.content.res.Resources;

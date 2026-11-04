@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android shared preferences delegate implementation
+// summary: Implements reading and writing password protection account credentials in Android shared preferences.
+// ---
+
 #include "chrome/browser/password_manager/android/shared_preferences_delegate_android.h"
 
 #include "base/android/shared_preferences/shared_preferences_manager.h"

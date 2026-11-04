@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockPasswordManagerUtilBridge declaration
+// summary: Declares a gmock mock of PasswordManagerUtilBridgeInterface that fakes internal backend presence and Play Services updatability checks.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_MOCK_PASSWORD_MANAGER_UTIL_BRIDGE_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_MOCK_PASSWORD_MANAGER_UTIL_BRIDGE_H_
 

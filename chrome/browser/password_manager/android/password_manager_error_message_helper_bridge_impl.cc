@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager error message helper bridge implementation
+// summary: Implements the error message helper bridge by invoking the corresponding Java methods for credential updates, key retrieval and error UI state.
+// ---
+
 #include "chrome/browser/password_manager/android/password_manager_error_message_helper_bridge_impl.h"
 
 #include <utility>

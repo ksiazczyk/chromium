@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager test utils bridge JNI implementation
+// summary: JNI bridge exposing test helpers that disable server predictions and set up fake GMS Core backends.
+// ---
+
 #include <jni.h>
 
 #include "base/android/jni_android.h"

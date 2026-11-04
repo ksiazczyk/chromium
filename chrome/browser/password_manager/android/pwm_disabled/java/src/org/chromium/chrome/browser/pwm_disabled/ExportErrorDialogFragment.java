@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password export error dialog fragment
+// summary: Dialog fragment explaining errors that occurred during password export and offering actions such as learning more or retrying.
+// ---
+
 package org.chromium.chrome.browser.pwm_disabled;
 
 import android.app.Dialog;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockPasswordSyncControllerDelegateBridge declaration
+// summary: Declares a gmock mock of PasswordSyncControllerDelegateBridge that fakes consumer setup and sync state notifications for the credential manager.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_MOCK_PASSWORD_SYNC_CONTROLLER_DELEGATE_BRIDGE_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_MOCK_PASSWORD_SYNC_CONTROLLER_DELEGATE_BRIDGE_H_
 

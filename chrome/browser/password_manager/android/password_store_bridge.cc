@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password store JNI bridge implementation
+// summary: Implements the JNI bridge that lets Java insert, edit, count, list and clear credentials in the profile and account password stores.
+// ---
+
 #include "chrome/browser/password_manager/android/password_store_bridge.h"
 
 #include <jni.h>

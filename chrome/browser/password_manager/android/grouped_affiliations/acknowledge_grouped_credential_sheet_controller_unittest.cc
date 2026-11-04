@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the acknowledge grouped credential sheet controller
+// summary: Unit tests verifying sheet display, dismissal reasons and confirmation result histogram logging.
+// ---
+
 #include "chrome/browser/password_manager/android/grouped_affiliations/acknowledge_grouped_credential_sheet_controller.h"
 
 #include <memory>

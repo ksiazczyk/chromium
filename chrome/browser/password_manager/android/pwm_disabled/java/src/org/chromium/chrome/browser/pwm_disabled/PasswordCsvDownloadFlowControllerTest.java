@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password CSV download flow controller tests
+// summary: Robolectric tests covering the CSV download flow steps, reauthentication, file writing, and related histogram recording.
+// ---
+
 package org.chromium.chrome.browser.pwm_disabled;
 
 import static android.app.Activity.RESULT_OK;

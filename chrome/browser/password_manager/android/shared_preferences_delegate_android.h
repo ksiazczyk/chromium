@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android shared preferences delegate
+// summary: Declares the Android delegate giving the password manager access to shared preferences for credential storage.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_SHARED_PREFERENCES_DELEGATE_ANDROID_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_SHARED_PREFERENCES_DELEGATE_ANDROID_H_
 

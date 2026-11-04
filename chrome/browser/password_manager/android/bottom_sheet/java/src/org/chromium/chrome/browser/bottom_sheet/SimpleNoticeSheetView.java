@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimpleNoticeSheetView
+// summary: Android view that renders the simple notice sheet layout and implements BottomSheetContent with title, text and button setters.
+// ---
+
 package org.chromium.chrome.browser.bottom_sheet;
 
 import android.content.Context;

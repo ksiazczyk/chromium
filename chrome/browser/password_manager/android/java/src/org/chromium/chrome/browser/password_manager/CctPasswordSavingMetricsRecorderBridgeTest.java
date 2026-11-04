@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: CCT password saving metrics recorder bridge tests
+// summary: Robolectric unit tests verifying that the CCT metrics recorder attaches to and detaches from the window and records the expected histograms.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import static org.junit.Assert.assertNotNull;

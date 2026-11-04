@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JUnit rule pausing the Robolectric scheduler
+// summary: Test rule that pauses the Robolectric scheduler so posted tasks run asynchronously and on demand during tests.
+// ---
+
 package org.chromium.chrome.browser.pwm_disabled;
 
 import org.junit.rules.ExternalResource;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android password sync controller delegate implementation
+// summary: Observes sync service state and notifies the Android credential manager about password sync changes, recording related metrics.
+// ---
+
 #include "chrome/browser/password_manager/android/password_sync_controller_delegate_android.h"
 
 #include "base/memory/weak_ptr.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MockPasswordManagerErrorMessageHelperBridge declaration
+// summary: Declares a gmock mock of PasswordManagerErrorMessageHelperBridge that fakes credential update, trusted vault, and error UI flows in tests.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_MOCK_PASSWORD_MANAGER_ERROR_MESSAGE_HELPER_BRIDGE_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_ANDROID_MOCK_PASSWORD_MANAGER_ERROR_MESSAGE_HELPER_BRIDGE_H_
 

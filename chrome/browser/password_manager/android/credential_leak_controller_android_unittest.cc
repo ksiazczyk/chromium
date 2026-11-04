@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Credential leak controller unit tests
+// summary: Tests the credential leak dialog controller's button handling and verifies the associated UKM and UMA metrics.
+// ---
+
 #include "chrome/browser/password_manager/android/credential_leak_controller_android.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the pwd_check_wrapper Java library
+summary: 'Defines GN targets for the Android password check wrapper: the main Java library with its controllers, fake test-support controllers, and a Robolectric JUnit test target with dependencies.'

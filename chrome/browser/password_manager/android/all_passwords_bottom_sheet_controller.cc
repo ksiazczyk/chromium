@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: All passwords bottom sheet controller implementation
+// summary: Implements the controller that retrieves stored credentials and shows the all-passwords bottom sheet for filling the focused field.
+// ---
+
 #include "chrome/browser/password_manager/android/all_passwords_bottom_sheet_controller.h"
 
 #include <memory>

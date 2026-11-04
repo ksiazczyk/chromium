@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Empty password store backend unit tests
+// summary: Unit tests verifying that the empty backend signals init and shutdown, returns empty login lists and cannot save passwords.
+// ---
+
 #include "chrome/browser/password_manager/android/password_store_empty_backend.h"
 
 #include <vector>

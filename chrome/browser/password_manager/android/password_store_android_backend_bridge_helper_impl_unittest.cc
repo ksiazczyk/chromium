@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password store Android backend bridge helper implementation unit tests
+// summary: Unit tests for the bridge helper implementation, using mock receiver and dispatcher bridges to verify job dispatch and consumer notifications.
+// ---
+
 #include "chrome/browser/password_manager/android/password_store_android_backend_bridge_helper_impl.h"
 
 #include <memory>

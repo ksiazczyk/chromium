@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PasswordManagerLifecycleHelperTest
+// summary: Robolectric tests verifying PasswordManagerLifecycleHelper instance reuse and foreground session notifications to registered and unregistered observers.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import static org.junit.Assert.assertSame;

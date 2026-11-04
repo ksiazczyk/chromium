@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the Android password manager folder
+summary: Lists default owners plus per-file owners for Java files and password store backend files in this directory.

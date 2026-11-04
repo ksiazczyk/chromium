@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password Checkup client helper factory
+// summary: Abstract factory returning the PasswordCheckupClientHelper implementation, supporting downstream implementations via ServiceLoader and a testing override.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import org.chromium.base.ResettersForTesting;

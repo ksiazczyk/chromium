@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Empty password store backend implementation
+// summary: Implements a password store backend that stores no data, replying with empty lists to reads and refusing to save passwords.
+// ---
+
 #include "chrome/browser/password_manager/android/password_store_empty_backend.h"
 
 #include "components/password_manager/core/browser/password_store/password_data_type_controller_delegate_android.h"

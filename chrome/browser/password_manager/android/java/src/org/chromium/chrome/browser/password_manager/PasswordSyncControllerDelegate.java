@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password sync controller delegate interface
+// summary: Interface for notifying Credential Manager about sync events, with asynchronous success and failure callbacks for syncing and non-syncing accounts.
+// ---
+
 package org.chromium.chrome.browser.password_manager;
 
 import org.chromium.base.Callback;

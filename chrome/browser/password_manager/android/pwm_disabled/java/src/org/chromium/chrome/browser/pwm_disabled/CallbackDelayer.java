@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Callback delayer interface
+// summary: Interface for running callbacks after an implementation-specific delay, always asynchronously.
+// ---
+
 package org.chromium.chrome.browser.pwm_disabled;
 
 import org.chromium.build.annotations.NullMarked;
