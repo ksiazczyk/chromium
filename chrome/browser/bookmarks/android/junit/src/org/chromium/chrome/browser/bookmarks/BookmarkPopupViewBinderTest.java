@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BookmarkPopupViewBinderTest
+// summary: Robolectric unit tests for BookmarkPopupViewBinder verifying binding of text, image, and click listener properties to the bookmark popup view.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import static org.junit.Assert.assertEquals;

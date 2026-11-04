@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark toolbar properties
+// summary: Hosts the property keys describing bookmark toolbar UI state such as title, buttons, menus, navigation state and selection mode options.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import android.view.View;

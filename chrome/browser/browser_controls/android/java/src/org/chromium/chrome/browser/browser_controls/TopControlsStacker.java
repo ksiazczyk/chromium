@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TopControlsStacker
+// summary: Coordinator managing the relative y-axis positions, types, visibilities, and scroll behaviors of registered top control layers in the browser controls.
+// ---
+
 package org.chromium.chrome.browser.browser_controls;
 
 import android.content.Context;

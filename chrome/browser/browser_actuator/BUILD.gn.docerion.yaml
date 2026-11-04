@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for browser_actuator
+summary: Defines GN build targets for the browser actuator service factory and its unit tests, with dependencies on profiles, signin, and browser_actuator components.

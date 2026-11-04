@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark search box row view binder
+// summary: Binds search box row model properties to the view, handling shopping chip updates and delegating remaining keys to the generic search box binder.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import org.chromium.base.Callback;

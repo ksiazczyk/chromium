@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser Actuator Internals WebUI browser tests
+// summary: Browser tests verifying that the internals page renders its LitElement app and that the Mojo factory and UI interfaces bind and connect.
+// ---
+
 #include "chrome/browser/browser_actuator/internals/browser_actuator_internals_ui.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of browser_actuator_internals.mojom.
+type: source
+title: Browser Actuator internals Mojo interface definitions
+summary: Defines recorded event and session summary structs plus the Mojo interfaces the trusted internals WebUI uses to fetch and export session history.

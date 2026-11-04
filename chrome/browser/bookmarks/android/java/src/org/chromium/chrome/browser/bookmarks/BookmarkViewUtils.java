@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkViewUtils
+// summary: Provides static helpers for bookmark views, including folder icons, tints, child counts, and folder description text.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BookmarkManagerMediatorTest
+// summary: Extensive Robolectric unit tests for BookmarkManagerMediator covering list rendering, sorting, filtering, price tracking, metrics, and user actions.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import static org.junit.Assert.assertEquals;

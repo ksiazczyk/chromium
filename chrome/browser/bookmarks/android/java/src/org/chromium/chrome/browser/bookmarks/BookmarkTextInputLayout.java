@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark text input layout
+// summary: TextInputLayout wrapper that adds empty-field validation and error message display for bookmark-related text inputs.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import static org.chromium.build.NullUtil.assertNonNull;

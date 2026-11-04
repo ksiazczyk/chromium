@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser Actuator Internals WebUI controller header
+// summary: Declares the Mojo WebUI controller and internal WebUI config for the browser actuator internals page, including the interface factory binding and Mojo implementation holder.
+// ---
+
 #ifndef CHROME_BROWSER_BROWSER_ACTUATOR_INTERNALS_BROWSER_ACTUATOR_INTERNALS_UI_H_
 #define CHROME_BROWSER_BROWSER_ACTUATOR_INTERNALS_BROWSER_ACTUATOR_INTERNALS_UI_H_
 

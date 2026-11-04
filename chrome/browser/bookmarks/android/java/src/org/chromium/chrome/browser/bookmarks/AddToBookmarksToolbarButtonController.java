@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Add to bookmarks toolbar button controller
+// summary: Controls the adaptive toolbar button that adds the current web page to bookmarks, refreshing its icon on model changes and showing IPH.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import android.content.Context;

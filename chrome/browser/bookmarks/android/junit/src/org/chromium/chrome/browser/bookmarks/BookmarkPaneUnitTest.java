@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BookmarkPaneUnitTest
+// summary: Parameterized Robolectric unit tests for BookmarkPane run with the bookmark pane feature enabled, covering pane behavior across identity manager modes.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import static org.junit.Assert.assertEquals;

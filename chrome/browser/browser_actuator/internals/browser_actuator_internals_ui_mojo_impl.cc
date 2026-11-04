@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser Actuator Internals Mojo UI implementation
+// summary: Implements the Mojo UI interface, returning capped per-session event history and JSON exports from the profile's session stream recorder.
+// ---
+
 #include "chrome/browser/browser_actuator/internals/browser_actuator_internals_ui_mojo_impl.h"
 
 #include <cstddef>

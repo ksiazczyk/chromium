@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark desktop navigation coordinator
+// summary: Coordinates the bookmark desktop navigation pane, wiring its recycler view adapter to the navigation mediator.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import android.content.Context;

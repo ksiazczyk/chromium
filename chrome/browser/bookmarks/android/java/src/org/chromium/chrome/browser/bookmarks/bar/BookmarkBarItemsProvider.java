@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark bar items provider
+// summary: Observes the bookmark model and propagates events for top-level bookmark bar items, combining items from account and local folder sources.
+// ---
+
 package org.chromium.chrome.browser.bookmarks.bar;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

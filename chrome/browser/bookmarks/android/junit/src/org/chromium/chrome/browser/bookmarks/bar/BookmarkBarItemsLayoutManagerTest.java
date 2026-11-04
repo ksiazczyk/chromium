@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BookmarkBarItemsLayoutManager
+// summary: Robolectric unit tests for the bookmark bar RecyclerView layout manager, checking item width constraints, spacing, measurement, and overflow callback behavior.
+// ---
+
 package org.chromium.chrome.browser.bookmarks.bar;
 
 import static android.view.ViewGroup.LayoutParams.WRAP_CONTENT;

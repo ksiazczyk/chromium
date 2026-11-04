@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkPopupCoordinator for desktop bookmark popup
+// summary: Coordinates the popup view shown when adding or editing a bookmark from the desktop window, wiring model, view and anchored popup window.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import android.app.Activity;

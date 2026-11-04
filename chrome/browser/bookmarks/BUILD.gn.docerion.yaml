@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build configuration for the Chrome bookmarks code
+summary: GN build file defining source sets, public headers, dependencies, test support and unit test targets for the bookmarks directory.

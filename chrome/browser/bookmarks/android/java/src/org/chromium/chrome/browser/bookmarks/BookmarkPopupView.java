@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkPopupView for desktop bookmark popup
+// summary: Custom view for the desktop bookmark popup with editable title, folder row, thumbnail image and price tracking switch.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import android.annotation.SuppressLint;

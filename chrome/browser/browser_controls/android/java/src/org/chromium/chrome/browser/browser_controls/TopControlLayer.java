@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TopControlLayer
+// summary: Interface for views registering as top controls, exposing type, height, visibility, scroll behavior, and callbacks for height, offset tag, and position updates.
+// ---
+
 package org.chromium.chrome.browser.browser_controls;
 
 import org.chromium.build.annotations.NullMarked;

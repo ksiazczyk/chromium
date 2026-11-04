@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop-forcing test bookmark client implementation
+// summary: Implements a test bookmark client that forces the desktop form factor and a testing factory that builds a loaded bookmark model around it.
+// ---
+
 #include "chrome/browser/bookmarks/desktop_forcing_chrome_bookmark_test_client.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BookmarkBarCoordinator
+// summary: Robolectric unit tests exercising the bookmark bar coordinator, covering view setup, layout, browser controls integration, theming, and interactions with side UI and bookmark model dependencies.
+// ---
+
 package org.chromium.chrome.browser.bookmarks.bar;
 
 import static android.view.ViewGroup.LayoutParams.MATCH_PARENT;

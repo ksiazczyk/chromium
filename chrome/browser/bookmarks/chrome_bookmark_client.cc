@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome bookmark client implementation
+// summary: Implements the Chrome bookmark client that wires the bookmark model to profile services such as sync, favicon, history, commerce and undo.
+// ---
+
 #include "chrome/browser/bookmarks/chrome_bookmark_client.h"
 
 #include "base/metrics/histogram_functions.h"

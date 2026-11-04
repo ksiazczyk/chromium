@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power bookmark utilities
+// summary: Helper utilities for power bookmarks, including price tracking eligibility checks, shopping list detection and commerce subscription creation.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import android.content.res.Resources;

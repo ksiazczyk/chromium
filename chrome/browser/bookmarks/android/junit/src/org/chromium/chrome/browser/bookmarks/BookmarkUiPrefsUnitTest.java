@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BookmarkUiPrefs unit tests
+// summary: Unit tests for BookmarkUiPrefs covering bookmark row display preference and sort order persistence and observer notifications.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import static org.mockito.Mockito.reset;

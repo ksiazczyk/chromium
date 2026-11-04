@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BreadcrumbManagerKeyedServiceFactory implementation
+// summary: Implements the profile-keyed service factory that creates a breadcrumb manager service for each browser context.
+// ---
+
 #include "chrome/browser/breadcrumbs/breadcrumb_manager_keyed_service_factory.h"
 
 #include "base/no_destructor.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BookmarkManagerDragHelperTest
+// summary: Robolectric unit tests for BookmarkManagerDragHelper covering touch scenarios such as long-press selection and drag handling in the bookmark list.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import static org.junit.Assert.assertEquals;

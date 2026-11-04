@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BookmarkDesktopNavigationMediatorUnitTest
+// summary: Robolectric unit tests for BookmarkDesktopNavigationMediator, verifying the desktop navigation pane folder list, folder visibility and related user actions.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import static org.junit.Assert.assertEquals;

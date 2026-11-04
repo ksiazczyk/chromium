@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Android bookmarks directory
+summary: Defines GN build targets for the Android bookmarks code, including native source sets, the Java library and Android resources.

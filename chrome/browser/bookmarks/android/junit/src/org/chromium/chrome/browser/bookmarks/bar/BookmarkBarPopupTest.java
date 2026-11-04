@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BookmarkBarPopup
+// summary: Robolectric unit tests for the bookmark bar popup, covering empty view setup with the bookmarks bar empty message and popup window sizing relative to maximum width.
+// ---
+
 package org.chromium.chrome.browser.bookmarks.bar;
 
 import static org.junit.Assert.assertEquals;

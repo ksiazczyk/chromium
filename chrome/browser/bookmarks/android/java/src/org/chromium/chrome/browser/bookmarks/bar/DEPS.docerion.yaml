@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS
+summary: Chromium DEPS file with include rules for the bookmark bar package, allowing OffsetTag and a ViewResourceFrameLayout import for BookmarkBarCoordinator.

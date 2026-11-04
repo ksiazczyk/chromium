@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkPage native page for tablet bookmark manager
+// summary: Native page that hosts the bookmark manager coordinator on tablet devices in Chrome for Android.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import android.app.Activity;

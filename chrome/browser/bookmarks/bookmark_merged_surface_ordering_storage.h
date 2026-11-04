@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark merged surface ordering storage class declaration
+// summary: Declares BookmarkMergedSurfaceOrderingStorage, which saves and loads custom ordering of local and account bookmarks in permanent folders to and from disk.
+// ---
+
 #ifndef CHROME_BROWSER_BOOKMARKS_BOOKMARK_MERGED_SURFACE_ORDERING_STORAGE_H_
 #define CHROME_BROWSER_BOOKMARKS_BOOKMARK_MERGED_SURFACE_ORDERING_STORAGE_H_
 

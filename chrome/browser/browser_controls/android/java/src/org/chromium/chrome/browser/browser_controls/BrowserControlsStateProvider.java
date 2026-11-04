@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserControlsStateProvider interface for controls state
+// summary: Interface for retrieving and monitoring browser controls state, including offsets, heights, position, and observer notifications.
+// ---
+
 package org.chromium.chrome.browser.browser_controls;
 
 import androidx.annotation.ColorInt;

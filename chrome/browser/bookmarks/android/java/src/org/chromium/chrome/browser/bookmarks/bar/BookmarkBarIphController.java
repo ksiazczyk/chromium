@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark bar in-product help controller
+// summary: Controls in-product help for the bookmark bar, anchoring educational UI to the toolbar menu and deferring shows until sheets and dialogs dismiss.
+// ---
+
 package org.chromium.chrome.browser.bookmarks.bar;
 
 import static org.chromium.chrome.browser.bookmarks.bar.BookmarkBarUtils.isActivityStateBookmarkBarCompatible;

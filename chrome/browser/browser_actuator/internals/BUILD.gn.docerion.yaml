@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Browser Actuator Internals build configuration
+summary: GN build file defining the Mojo bindings with typemaps, the internals source set, and the unit and browser test targets for the Browser Actuator Internals WebUI.

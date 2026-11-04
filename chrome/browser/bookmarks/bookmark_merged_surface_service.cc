@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark merged surface service implementation
+// summary: Implements BookmarkMergedSurfaceService, which maintains merged ordering of local and account bookmark children in permanent folders for UI surfaces.
+// ---
+
 #include "chrome/browser/bookmarks/bookmark_merged_surface_service.h"
 
 #include <cstddef>

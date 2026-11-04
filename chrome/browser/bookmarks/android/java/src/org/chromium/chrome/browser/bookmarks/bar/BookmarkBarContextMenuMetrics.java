@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark bar context menu metrics
+// summary: Defines IntDef enums and recording helpers for histograms covering context menu actions, entrypoints, and triggering gestures.
+// ---
+
 package org.chromium.chrome.browser.bookmarks.bar;
 
 import androidx.annotation.IntDef;

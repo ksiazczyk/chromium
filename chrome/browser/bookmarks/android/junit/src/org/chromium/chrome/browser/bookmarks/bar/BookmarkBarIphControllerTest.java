@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BookmarkBarIphController
+// summary: Robolectric unit tests for the bookmark bar in-product help controller, verifying IPH triggers, preference and feature engagement tracker behavior, and reactions to bookmark bar setting changes.
+// ---
+
 package org.chromium.chrome.browser.bookmarks.bar;
 
 import static org.mockito.ArgumentMatchers.any;

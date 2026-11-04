@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkParentFolder class declaration
+// summary: Declares BookmarkParentFolder, a variant wrapper for permanent folder types or non-permanent folder nodes, with accessors and parent relationship queries.
+// ---
+
 #ifndef CHROME_BROWSER_BOOKMARKS_BOOKMARK_PARENT_FOLDER_H_
 #define CHROME_BROWSER_BOOKMARKS_BOOKMARK_PARENT_FOLDER_H_
 

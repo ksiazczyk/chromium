@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkFolderPickerMetrics
+// summary: Metrics recording helper for the bookmark folder picker and move-to flows, logging outcomes and the create-new-folder user action.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import androidx.annotation.IntDef;

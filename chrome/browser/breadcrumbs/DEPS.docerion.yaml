@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the breadcrumbs folder
+summary: Declares the include directories allowed for code in chrome/browser/breadcrumbs.

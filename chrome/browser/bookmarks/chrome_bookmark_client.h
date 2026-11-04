@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome bookmark client class declaration
+// summary: Declares ChromeBookmarkClient, the Chrome BookmarkClient implementation providing favicons, typed counts, sync metadata encoding and managed node support.
+// ---
+
 #ifndef CHROME_BROWSER_BOOKMARKS_CHROME_BOOKMARK_CLIENT_H_
 #define CHROME_BROWSER_BOOKMARKS_CHROME_BOOKMARK_CLIENT_H_
 

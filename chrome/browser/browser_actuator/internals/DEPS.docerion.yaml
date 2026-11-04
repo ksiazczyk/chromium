@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Browser Actuator internals include rules
+summary: Restricts includes so the internals page is the only consumer of the recorded session history header.

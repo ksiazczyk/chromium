@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark metrics utilities
+// summary: Reports bookmark usage histograms for sort options, display preferences, filters and added bookmarks.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import androidx.annotation.IntDef;

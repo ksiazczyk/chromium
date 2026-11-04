@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BookmarkBarMediator
+// summary: Robolectric unit tests for the bookmark bar mediator, covering item interaction, keyboard and mouse events, context menus, snackbars, favicons, and visibility behind various feature flags.
+// ---
+
 package org.chromium.chrome.browser.bookmarks.bar;
 
 import static org.junit.Assert.assertEquals;

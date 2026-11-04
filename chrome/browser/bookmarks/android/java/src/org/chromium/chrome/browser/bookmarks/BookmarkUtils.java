@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkUtils
+// summary: Holds static utility methods for bookmark operations such as adding or editing bookmarks, showing snackbars, and reading list support.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

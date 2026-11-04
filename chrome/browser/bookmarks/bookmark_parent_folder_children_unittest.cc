@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BookmarkParentFolderChildren unit tests
+// summary: Unit tests verifying child access, sizing, and iteration for regular folder nodes and permanent folder ordering trackers.
+// ---
+
 #include "chrome/browser/bookmarks/bookmark_parent_folder_children.h"
 
 #include <memory>

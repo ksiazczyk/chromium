@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark bar context menu mediator
+// summary: Builds the bookmark bar context menu model list, applying business logic based on profile, bookmark state, and the menu entrypoint.
+// ---
+
 package org.chromium.chrome.browser.bookmarks.bar;
 
 import static org.chromium.build.NullUtil.assertNonNull;

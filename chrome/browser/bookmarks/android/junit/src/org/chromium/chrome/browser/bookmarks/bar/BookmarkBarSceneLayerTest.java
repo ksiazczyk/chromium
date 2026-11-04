@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BookmarkBarSceneLayerTest
+// summary: Unit tests for BookmarkBarSceneLayer that verify visibility toggling and content tree assignment through mocked JNI calls.
+// ---
+
 package org.chromium.chrome.browser.bookmarks.bar;
 
 import static org.junit.Assert.assertFalse;

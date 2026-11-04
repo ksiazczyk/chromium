@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark bar context menu delegate interface
+// summary: Interface defining context menu operations for bookmarks, such as opening in tabs, windows, or tab groups, and editing, moving, or deleting bookmarks.
+// ---
+
 package org.chromium.chrome.browser.bookmarks.bar;
 
 import org.chromium.build.annotations.NullMarked;

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Browser Actuator internals owners
+summary: Delegates ownership to the Browser Actuator owners and requires IPC security review for Mojom and traits files.

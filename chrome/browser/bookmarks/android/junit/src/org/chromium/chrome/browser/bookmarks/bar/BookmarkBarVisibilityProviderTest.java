@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BookmarkBarVisibilityProviderTest
+// summary: Unit tests for BookmarkBarVisibilityProvider covering pref change observers, configuration changes, profile suppliers, and feature flags.
+// ---
+
 package org.chromium.chrome.browser.bookmarks.bar;
 
 import static org.junit.Assert.assertFalse;

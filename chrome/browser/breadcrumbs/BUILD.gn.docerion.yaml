@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the breadcrumbs browser code
+summary: GN build file defining the breadcrumbs source set plus its unit test and desktop browser test targets.

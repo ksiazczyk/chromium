@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed bookmark service factory implementation
+// summary: Creates per-profile ManagedBookmarkService instances and derives the managed bookmarks manager identity from enterprise policy.
+// ---
+
 #include "chrome/browser/bookmarks/managed_bookmark_service_factory.h"
 
 #include <string>

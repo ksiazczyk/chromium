@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BookmarkFolderPickerMetricsUnitTest
+// summary: Robolectric unit tests for BookmarkFolderPickerMetrics, verifying histogram and user action recording of folder picker outcomes such as moved, closed and dismissed.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import static org.junit.Assert.assertTrue;

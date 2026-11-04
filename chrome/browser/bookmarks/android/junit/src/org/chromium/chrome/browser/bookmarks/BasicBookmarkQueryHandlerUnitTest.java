@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BasicBookmarkQueryHandlerUnitTest
+// summary: Robolectric unit tests for BasicBookmarkQueryHandler, verifying bookmark list building for the root folder, regular folders and the reading list.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import static org.junit.Assert.assertEquals;

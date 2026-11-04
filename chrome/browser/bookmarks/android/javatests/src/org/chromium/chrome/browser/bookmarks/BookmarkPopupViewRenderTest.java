@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark popup view render tests
+// summary: Night-mode parameterized render tests for the desktop Android bookmark popup view layout and text.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import android.app.Activity;

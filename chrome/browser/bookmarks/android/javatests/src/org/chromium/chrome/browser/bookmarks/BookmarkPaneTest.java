@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark pane transit tests
+// summary: Public transit tests for the Android bookmark pane verifying bookmarks are displayed and searchable; currently disabled.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import static androidx.test.espresso.Espresso.onView;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeBookmarkModel
+// summary: Fake BookmarkModel that mocks the bookmark bridge JNI so production bookmark code can be exercised in unit tests.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import androidx.annotation.NonNull;

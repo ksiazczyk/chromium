@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BookmarkModelListTestUtil
+// summary: Test utility with static helpers that verify the view types and bookmark IDs contained in a bookmark ModelList used by bookmark tests.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkManagerDragHelper
+// summary: Helper handling custom drag-and-drop touch interaction logic for bookmark rows, including delayed selection and drag start behavior.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import android.content.Context;

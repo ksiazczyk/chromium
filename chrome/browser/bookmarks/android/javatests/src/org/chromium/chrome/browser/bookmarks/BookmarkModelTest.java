@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark model unit tests
+// summary: Unit tests for BookmarkModel, the bookmark data layer, covering property setters, folder queries and model changes.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import androidx.test.annotation.UiThreadTest;

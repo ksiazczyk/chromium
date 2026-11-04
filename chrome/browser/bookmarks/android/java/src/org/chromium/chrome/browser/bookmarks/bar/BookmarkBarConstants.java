@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark bar constants
+// summary: Holds preference key constants that track whether the user wants the bookmark bar shown on the current device.
+// ---
+
 package org.chromium.chrome.browser.bookmarks.bar;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkQueryHandler interface for bookmark lists
+// summary: Interface for building bookmark list entries for a parent folder, search query or folder selection in the bookmark UI.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import org.chromium.build.annotations.NullMarked;

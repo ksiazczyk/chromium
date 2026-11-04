@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BookmarkManagerViewBinderTest
+// summary: Robolectric unit tests for BookmarkManagerViewBinder checking binding of legacy promo views, section headers, and dividers from the property model.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import static org.junit.Assert.assertEquals;

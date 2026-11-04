@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkPane hub pane hosting the bookmark manager
+// summary: Hub pane that hosts the bookmark manager coordinator and manages its lifecycle within Chrome's hub UI.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

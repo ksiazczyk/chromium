@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark model factory declaration
+// summary: Declares BookmarkModelFactory, a ProfileKeyedServiceFactory singleton that associates BookmarkModel instances with browser contexts.
+// ---
+
 #ifndef CHROME_BROWSER_BOOKMARKS_BOOKMARK_MODEL_FACTORY_H_
 #define CHROME_BROWSER_BOOKMARKS_BOOKMARK_MODEL_FACTORY_H_
 

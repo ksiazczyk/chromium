@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark UI observer interface
+// summary: Observer interface that notifies bookmark UI components of UI mode changes, folder state updates and destruction events.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark bar render tests
+// summary: Parameterized render tests that verify the bookmark bar UI in both night mode enabled and disabled configurations.
+// ---
+
 package org.chromium.chrome.browser.bookmarks.bar;
 
 import static android.view.ViewGroup.LayoutParams.MATCH_PARENT;

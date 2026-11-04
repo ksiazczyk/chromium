@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark bar button view binder
+// summary: Binds bookmark bar button property model changes to view updates such as icon, title, tooltip, background, and click listeners.
+// ---
+
 package org.chromium.chrome.browser.bookmarks.bar;
 
 import org.chromium.build.annotations.NullMarked;

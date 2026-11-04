@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Improved bookmark folder view render tests
+// summary: Render tests for the improved bookmark folder view, parameterized across night mode to check folder row visuals with mocked bookmark data.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import static org.mockito.Mockito.doReturn;

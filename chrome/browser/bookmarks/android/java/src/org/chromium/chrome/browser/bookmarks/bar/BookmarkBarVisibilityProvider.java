@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkBarVisibilityProvider
+// summary: Provider that tracks device configuration and Bookmark Bar user setting changes to notify observers of visibility and bookmark item width constraint changes in a profile-agnostic way.
+// ---
+
 package org.chromium.chrome.browser.bookmarks.bar;
 
 import android.app.Activity;

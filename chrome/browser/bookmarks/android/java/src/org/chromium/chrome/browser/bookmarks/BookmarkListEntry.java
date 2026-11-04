@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkListEntry
+// summary: Represents the different view types and associated data for entries shown in the bookmark list UI, such as bookmarks, section headers, and promos.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import android.content.res.Resources;

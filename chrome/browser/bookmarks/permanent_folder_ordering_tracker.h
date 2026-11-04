@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermanentFolderOrderingTracker header for bookmark folder ordering
+// summary: Declares a class that tracks custom child ordering across local and account permanent bookmark nodes (bookmark bar, other, mobile) and manages add, move, remove and query operations.
+// ---
+
 #ifndef CHROME_BROWSER_BOOKMARKS_PERMANENT_FOLDER_ORDERING_TRACKER_H_
 #define CHROME_BROWSER_BOOKMARKS_PERMANENT_FOLDER_ORDERING_TRACKER_H_
 

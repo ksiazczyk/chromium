@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark manager testing delegate
+// summary: Interface exposing bookmark manager internals like rows, counts and search to integration tests.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import androidx.recyclerview.widget.RecyclerView.ViewHolder;

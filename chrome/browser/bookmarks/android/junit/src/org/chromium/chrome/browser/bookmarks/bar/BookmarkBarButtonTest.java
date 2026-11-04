@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for BookmarkBarButton
+// summary: Robolectric unit tests verifying BookmarkBarButton mouse button handling, including middle and right clicks with keyboard meta state passed to the click callback.
+// ---
+
 package org.chromium.chrome.browser.bookmarks.bar;
 
 import static org.junit.Assert.assertEquals;

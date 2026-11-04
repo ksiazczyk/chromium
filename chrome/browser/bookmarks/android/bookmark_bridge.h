@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkBridge class declaration for Android bookmarks
+// summary: Declares the BookmarkBridge class, its observer interfaces and the bookmark node mask enum used by the Android bookmark page.
+// ---
+
 #ifndef CHROME_BROWSER_BOOKMARKS_ANDROID_BOOKMARK_BRIDGE_H_
 #define CHROME_BROWSER_BOOKMARKS_ANDROID_BOOKMARK_BRIDGE_H_
 

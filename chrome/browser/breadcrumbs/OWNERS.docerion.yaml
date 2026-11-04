@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file pointing to the breadcrumbs component owners
+summary: Delegates ownership of the breadcrumbs browser folder to the owners listed in components/breadcrumbs/OWNERS.

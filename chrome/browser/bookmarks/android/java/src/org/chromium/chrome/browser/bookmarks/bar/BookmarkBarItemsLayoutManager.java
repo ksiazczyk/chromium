@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark bar items layout manager
+// summary: RecyclerView layout manager that lays out bookmark bar items horizontally, rendering only items that fit the viewport and reporting item overflow.
+// ---
+
 package org.chromium.chrome.browser.bookmarks.bar;
 
 import static android.view.View.MeasureSpec.AT_MOST;

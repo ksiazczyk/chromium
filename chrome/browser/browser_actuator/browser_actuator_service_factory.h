@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserActuatorServiceFactory header
+// summary: Declares the BrowserActuatorServiceFactory singleton that returns a per-profile service or nullptr when the feature is disabled or the profile is not regular.
+// ---
+
 #ifndef CHROME_BROWSER_BROWSER_ACTUATOR_BROWSER_ACTUATOR_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_BROWSER_ACTUATOR_BROWSER_ACTUATOR_SERVICE_FACTORY_H_
 

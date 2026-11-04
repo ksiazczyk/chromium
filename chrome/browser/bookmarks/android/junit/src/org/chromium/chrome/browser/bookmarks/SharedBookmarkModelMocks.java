@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared bookmark model mocks for unit tests
+// summary: Provides a shared set of predefined BookmarkModel mocks, bookmark IDs and items that multiple bookmark unit tests reuse.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import static org.mockito.Mockito.anyInt;

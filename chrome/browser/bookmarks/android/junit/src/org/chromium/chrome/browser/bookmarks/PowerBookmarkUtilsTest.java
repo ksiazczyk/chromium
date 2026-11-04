@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PowerBookmarkUtilsTest
+// summary: Tests that PowerBookmarkUtils builds commerce subscriptions from PowerBookmarkMeta and ShoppingSpecifics.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import org.junit.Assert;

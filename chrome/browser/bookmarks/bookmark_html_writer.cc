@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark HTML export writer implementation
+// summary: Implements asynchronous export of bookmarks and their favicons to a Netscape-style bookmarks HTML file.
+// ---
+
 
 #include "chrome/browser/bookmarks/bookmark_html_writer.h"
 

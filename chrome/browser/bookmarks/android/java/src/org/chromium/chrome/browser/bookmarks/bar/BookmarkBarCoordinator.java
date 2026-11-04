@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark bar coordinator
+// summary: Coordinates the bookmark bar feature, wiring views, models, visibility, theming, and integration with browser controls and layout systems.
+// ---
+
 package org.chromium.chrome.browser.bookmarks.bar;
 
 import static android.view.View.INVISIBLE;

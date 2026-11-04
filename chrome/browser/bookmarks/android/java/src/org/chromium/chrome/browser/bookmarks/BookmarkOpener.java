@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark opener interface
+// summary: Interface consolidating logic for opening bookmarks in the current tab, new tabs, new windows or tab groups.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import android.os.Bundle;

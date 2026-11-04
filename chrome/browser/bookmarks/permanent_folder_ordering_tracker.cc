@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Permanent folder ordering tracker implementation
+// summary: Tracks and orders children of a permanent bookmark folder across account and local nodes, merging visited and newly added nodes consistently.
+// ---
+
 #include "chrome/browser/bookmarks/permanent_folder_ordering_tracker.h"
 
 #include <cstddef>

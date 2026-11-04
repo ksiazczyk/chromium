@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark bar button view
+// summary: Custom LinearLayout view for a single bookmark bar button, rendering icon and title while handling mouse, touch, and keyboard click behavior.
+// ---
+
 package org.chromium.chrome.browser.bookmarks.bar;
 
 import android.annotation.SuppressLint;

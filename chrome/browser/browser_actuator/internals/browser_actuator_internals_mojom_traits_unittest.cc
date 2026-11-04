@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mojom traits unit tests
+// summary: Verifies round-trip serialization of recorded events and session summaries, including active sessions without end time and uint32 count saturation.
+// ---
+
 #include "chrome/browser/browser_actuator/internals/browser_actuator_internals_mojom_traits.h"
 
 #include <cstdint>

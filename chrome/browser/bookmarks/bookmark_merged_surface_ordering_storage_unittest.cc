@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark merged surface ordering storage unit tests
+// summary: Unit tests verifying that BookmarkMergedSurfaceOrderingStorage correctly saves and loads custom bookmark ordering for permanent folders.
+// ---
+
 #include "chrome/browser/bookmarks/bookmark_merged_surface_ordering_storage.h"
 
 #include <cstdint>

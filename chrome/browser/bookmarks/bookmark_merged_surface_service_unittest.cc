@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark merged surface service unit tests
+// summary: Unit tests for BookmarkMergedSurfaceService covering merged children ordering, observer notifications and bookmark operations across local and account folders.
+// ---
+
 #include "chrome/browser/bookmarks/bookmark_merged_surface_service.h"
 
 #include <memory>

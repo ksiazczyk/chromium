@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for browser_actuator
+summary: Restricts includes in this folder, allowing only the browser actuator service implementation, its proto directory, and the sharing message proto.

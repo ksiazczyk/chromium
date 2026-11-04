@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Improved bookmark row properties
+// summary: Defines the property keys that drive the improved bookmark row UI, including title, description, start image, selection, drag and menu settings.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import android.content.res.ColorStateList;

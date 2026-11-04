@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojom traits declarations for session snapshots
+// summary: Declares StructTraits that map session event and session snapshot fields to and from the internals Mojom types.
+// ---
+
 #ifndef CHROME_BROWSER_BROWSER_ACTUATOR_INTERNALS_BROWSER_ACTUATOR_INTERNALS_MOJOM_TRAITS_H_
 #define CHROME_BROWSER_BROWSER_ACTUATOR_INTERNALS_BROWSER_ACTUATOR_INTERNALS_MOJOM_TRAITS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped bookmark model observation for folder descendants
+// summary: Observes a bookmark model and propagates add, move, remove and update events for a folder's direct descendants to a scoped observer.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import org.chromium.build.annotations.NullMarked;

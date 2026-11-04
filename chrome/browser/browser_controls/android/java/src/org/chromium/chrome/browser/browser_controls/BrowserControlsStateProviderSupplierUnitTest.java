@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserControlsStateProviderSupplierUnitTest
+// summary: Robolectric unit tests verifying attach, observer notification, value lookup, and destroy behavior of BrowserControlsStateProviderSupplier across window states.
+// ---
+
 package org.chromium.chrome.browser.browser_controls;
 
 import static org.junit.Assert.assertEquals;

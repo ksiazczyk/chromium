@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserControlsOffsetTagsInfo value object
+// summary: Value object holding offset tags and constraints that let viz move the top controls, content viewport, and bottom controls.
+// ---
+
 package org.chromium.chrome.browser.browser_controls;
 
 import com.google.errorprone.annotations.DoNotMock;

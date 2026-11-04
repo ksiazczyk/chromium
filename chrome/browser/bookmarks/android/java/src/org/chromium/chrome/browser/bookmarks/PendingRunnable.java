@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pending runnable
+// summary: Utility that collapses multiple posts of the same runnable into a single deduplicated task execution on a valid thread.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import org.chromium.base.ThreadUtils;

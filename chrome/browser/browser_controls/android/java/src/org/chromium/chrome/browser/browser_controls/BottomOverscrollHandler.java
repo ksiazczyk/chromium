@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BottomOverscrollHandler for bottom edge overscroll gestures
+// summary: Handles bottom overscroll gestures by deciding when they can start and transiently showing browser controls, while recording UMA histograms.
+// ---
+
 package org.chromium.chrome.browser.browser_controls;
 
 import android.os.Handler;

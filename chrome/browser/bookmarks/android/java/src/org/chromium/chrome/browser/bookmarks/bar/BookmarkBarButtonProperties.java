@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark bar button properties
+// summary: Defines the property keys modeling a bookmark bar button's state, including icon, title, tooltip, callbacks, and styling resources.
+// ---
+
 package org.chromium.chrome.browser.bookmarks.bar;
 
 import android.content.res.Resources;

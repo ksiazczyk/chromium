@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark merged surface service class declaration
+// summary: Declares BookmarkMergedSurfaceService, a KeyedService that merges local and account bookmarks and tracks their ordering for merged UI surfaces.
+// ---
+
 #ifndef CHROME_BROWSER_BOOKMARKS_BOOKMARK_MERGED_SURFACE_SERVICE_H_
 #define CHROME_BROWSER_BOOKMARKS_BOOKMARK_MERGED_SURFACE_SERVICE_H_
 

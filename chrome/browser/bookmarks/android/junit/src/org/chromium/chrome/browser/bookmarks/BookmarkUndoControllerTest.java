@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BookmarkUndoController unit tests
+// summary: Unit tests for BookmarkUndoController verifying snackbar spawning for bookmark deletions across windows and stale snackbar dismissal.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import static org.mockito.ArgumentMatchers.any;

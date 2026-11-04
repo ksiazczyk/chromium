@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shopping accessory view for the price chip
+// summary: Custom FrameLayout view that renders the shopping price chip, showing normal prices, price drops and the tracked icon.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import android.content.Context;

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Includes the parent bookmarks OWNERS file so this JUnit test directory shares the same code owners.

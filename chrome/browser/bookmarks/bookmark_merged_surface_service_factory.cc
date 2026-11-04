@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bookmark merged surface service factory implementation
+// summary: Implements BookmarkMergedSurfaceServiceFactory, building the merged surface service per profile with dependencies on the bookmark model and managed bookmark services.
+// ---
+
 #include "chrome/browser/bookmarks/bookmark_merged_surface_service_factory.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bookmark save flow tests
+// summary: Instrumentation tests for the Chrome Android bookmark save flow, exercising the bottom sheet and price tracking with mocked sync, identity, and commerce services.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import static androidx.test.espresso.Espresso.onView;

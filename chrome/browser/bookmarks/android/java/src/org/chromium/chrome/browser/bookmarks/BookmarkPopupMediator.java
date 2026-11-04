@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BookmarkPopupMediator for desktop bookmark popup
+// summary: Mediator that binds bookmark details, folder hierarchy and price tracking state to the desktop bookmark popup property model.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import android.content.Context;

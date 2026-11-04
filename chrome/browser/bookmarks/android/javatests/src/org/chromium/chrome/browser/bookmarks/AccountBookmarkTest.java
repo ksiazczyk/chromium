@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Account bookmark UI tests
+// summary: Instrumentation tests for displaying and interacting with signed-in account bookmarks in the Android bookmark manager.
+// ---
+
 package org.chromium.chrome.browser.bookmarks;
 
 import static androidx.test.espresso.Espresso.onView;

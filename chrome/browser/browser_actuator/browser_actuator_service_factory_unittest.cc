@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserActuatorServiceFactory unit tests
+// summary: Tests factory behavior across feature flags, incognito and guest sessions, and internals-gated stream recorder creation.
+// ---
+
 #include "chrome/browser/browser_actuator/browser_actuator_service_factory.h"
 
 #include <memory>
