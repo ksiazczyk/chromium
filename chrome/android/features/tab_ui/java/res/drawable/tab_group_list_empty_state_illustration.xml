@@ -4,6 +4,13 @@ Copyright 2025 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: tab_group_list_empty_state_illustration
+summary: Auto-mirrored 130dp vector illustration of grouped tab cards used for the tab group list empty state.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="130dp"
     android:height="130dp"

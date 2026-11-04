@@ -4,6 +4,13 @@ Copyright 2025 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Pinned tab strip width multipliers for tablet screens
+summary: Defines float width percentage multipliers for pinned tab strip items with two, three, or more than three rows on tablet-sized screens.
+-->
+
 <resources>
     <!-- Width modifier multipliers for pinned tab strip items. -->
     <item name="pinned_tab_strip_item_width_percentage_multiplier_2_rows" format="float" type="dimen">0.85</item>

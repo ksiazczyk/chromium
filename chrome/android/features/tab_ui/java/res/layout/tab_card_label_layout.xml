@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Tab card label layout
+summary: Android layout for TabCardLabelView showing a tab card label with an optional async image icon and single-line text in the tab management UI.
+-->
+
 <org.chromium.chrome.browser.tasks.tab_management.labels.TabCardLabelView
   xmlns:android="http://schemas.android.com/apk/res/android"
   xmlns:app="http://schemas.android.com/apk/res-auto"

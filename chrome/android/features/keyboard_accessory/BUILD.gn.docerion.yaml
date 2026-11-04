@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Keyboard accessory build targets
+summary: Defines GN build targets for the keyboard accessory feature, including public and internal Java groups, JNI headers, and a test_java library with its sources and dependencies.

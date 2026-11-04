@@ -4,6 +4,13 @@ Copyright 2024 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Tab group list layout
+summary: Layout for the tab group list view, holding a RecyclerView of tab groups and an included empty state view.
+-->
+
 <org.chromium.chrome.browser.tasks.tab_management.TabGroupListView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent">

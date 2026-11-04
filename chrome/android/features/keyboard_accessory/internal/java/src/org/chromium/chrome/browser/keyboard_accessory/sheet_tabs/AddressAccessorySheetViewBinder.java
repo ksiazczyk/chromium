@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AddressAccessorySheetViewBinder
+// summary: Stateless binder that creates view holders and binds address user info fields to chip views in the address accessory sheet.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.sheet_tabs;
 
 import android.view.View;

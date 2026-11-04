@@ -1,0 +1,4 @@
+# Docerion header of tab_management_java_sources.gni.
+type: config
+title: Tab management Java source lists
+summary: GN include file enumerating public and internal tab management Java source lists used by build targets in this feature.

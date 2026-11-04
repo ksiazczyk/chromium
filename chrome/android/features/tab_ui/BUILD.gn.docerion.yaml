@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tab UI feature build targets
+summary: GN build configuration defining Java strings, resources, and other targets for the Chrome Android tab UI feature.

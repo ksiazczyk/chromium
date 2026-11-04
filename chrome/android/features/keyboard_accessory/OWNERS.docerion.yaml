@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Keyboard accessory owners
+summary: Delegates code ownership of this directory to the OWNERS file of chrome/browser/keyboard_accessory.

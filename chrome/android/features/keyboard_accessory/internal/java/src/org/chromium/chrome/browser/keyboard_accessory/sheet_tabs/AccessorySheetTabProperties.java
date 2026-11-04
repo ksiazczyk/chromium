@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessorySheetTabProperties
+// summary: Defines the property keys that make up the model of the AccessorySheetTab component, covering items, scroll listener, and default accessibility focus.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.sheet_tabs;
 
 import androidx.recyclerview.widget.RecyclerView;

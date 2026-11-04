@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AddressAccessorySheetControllerTest
+// summary: Robolectric controller tests for the address accessory sheet, verifying tab creation, view adapter setup, and accessibility focus behavior.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.sheet_tabs;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

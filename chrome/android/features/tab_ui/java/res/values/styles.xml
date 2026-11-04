@@ -6,6 +6,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Tab UI style definitions
+summary: Defines styles for tab grid dialog titles, tab strip group context menus, the dialog share button, and color picker buttons.
+-->
+
 <resources>
     <style name="TabGridDialogTitleTheme">
         <item name="colorControlNormal">@color/divider_color</item>

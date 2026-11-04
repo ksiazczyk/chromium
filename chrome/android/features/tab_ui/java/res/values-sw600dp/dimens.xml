@@ -4,6 +4,13 @@ Copyright 2025 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Pinned tab strip dimensions for tablet screens
+summary: Defines the minimum width for pinned tab strip items on tablet-sized (sw600dp) screens in the Chromium tab UI.
+-->
+
 <resources>
     <!-- Dimens for pinned tab strip -->
     <dimen name="pinned_tab_strip_item_min_width">186dp</dimen>

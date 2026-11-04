@@ -3,6 +3,12 @@
      Use of this source code is governed by a BSD-style license that can be
      found in the LICENSE file. -->
 
+<!--docerion
+type: test
+title: Keyboard accessory test layout
+summary: Android test layout that hosts AsyncViewStub placeholders for the keyboard accessory and its sheet container used by keyboard accessory tests.
+-->
+
 <FrameLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"

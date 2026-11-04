@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NoSwipeViewPagerTest
+// summary: Robolectric tests verifying NoSwipeViewPager measurement behavior, including exact, child-based, and max-height sizing under the dynamic positioning feature.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.sheet_component;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CreditCardAccessorySheetControllerTest
+// summary: Robolectric controller tests for the credit card accessory sheet, covering tab creation, item model updates, and credit card and promo code data display.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.sheet_tabs;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

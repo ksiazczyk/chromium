@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manual filling coordinator
+// summary: Implements ManualFillingComponent by integrating the keyboard accessory bar and accessory sheet coordinators to handle manual filling of passwords, payments and other user data.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory;
 
 import android.content.Context;

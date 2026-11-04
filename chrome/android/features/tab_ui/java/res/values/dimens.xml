@@ -4,6 +4,13 @@ Copyright 2019 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Tab UI dimension definitions
+summary: Defines dimensions and integer alpha values for tab grid cards, dialogs, tab strip, share buttons, tab list editor, and other tab UI components.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <dimen name="tab_list_selected_margin">7dp</dimen>
     <dimen name="tab_grid_price_card_radius">4dp</dimen>

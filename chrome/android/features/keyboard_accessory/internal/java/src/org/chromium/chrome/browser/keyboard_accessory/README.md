@@ -1,3 +1,9 @@
+---
+type: readme
+title: Manual filling component
+summary: Describes the use cases, package structure, provider-based data flow and state machine of the manual filling component, including its known places of confusion.
+---
+
 # Manual filling component
 
 This folder contains all ui components that are necessary to display the

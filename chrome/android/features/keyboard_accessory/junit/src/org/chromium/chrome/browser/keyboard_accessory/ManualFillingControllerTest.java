@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ManualFillingController unit tests
+// summary: JUnit tests for the keyboard accessory's manual filling controller, covering keyboard extension states, visibility behavior, and related properties with Mockito and Robolectric.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory;
 
 import static android.content.res.Configuration.HARDKEYBOARDHIDDEN_UNDEFINED;

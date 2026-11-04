@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Tab search empty state illustration
+summary: Vector illustration shown as the empty state graphic for tab search.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="104dp"
     android:height="104dp"

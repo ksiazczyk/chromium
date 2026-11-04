@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Manual filling integration tests
+// summary: Integration tests for the keyboard accessory and accessory sheet interacting with other Chrome components such as snackbars and layouts.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory;
 
 import static androidx.test.espresso.Espresso.onView;

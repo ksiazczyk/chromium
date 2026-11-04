@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: tab_group_list_normal_item_background
+summary: Shape drawable with uniformly small corner radii for normal items in a tab group list.
+-->
+
 <shape xmlns:android="http://schemas.android.com/apk/res/android"
   android:shape="rectangle"
     android:tint="?attr/colorSurfaceContainer">

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill AI suppression dialog render tests
+// summary: Parameterized render tests for the Autofill AI suppression confirmation dialog, covering default, RTL and night mode layouts.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory;
 
 import static org.chromium.base.ThreadUtils.runOnUiThreadBlocking;

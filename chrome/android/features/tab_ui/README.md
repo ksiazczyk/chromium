@@ -1,3 +1,9 @@
+---
+type: readme
+title: Tab UI & Tab Management
+summary: Explains that the directory contains Chrome Android tab UI code and describes the central TabList MVC components and their host containers.
+---
+
 # Tab UI & Tab Management
 
 This directory contains the majority of the code for the Tabs related UI on

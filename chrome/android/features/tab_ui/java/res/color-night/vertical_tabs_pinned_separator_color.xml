@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Vertical tabs pinned separator color
+summary: Defines the dark-mode color for the vertical tabs pinned tab separator, resolving to the colorOutlineVariant theme attribute.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:color="?attr/colorOutlineVariant" />
 </selector>

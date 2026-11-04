@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: KeyboardAccessoryChipGroupTest
+// summary: Robolectric unit tests for KeyboardAccessoryChipGroup that verify chip width limiting so multiple chips fit on screen, using a fixed 360x640 mdpi device configuration.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.bar_component;
 
 import static org.junit.Assert.assertEquals;

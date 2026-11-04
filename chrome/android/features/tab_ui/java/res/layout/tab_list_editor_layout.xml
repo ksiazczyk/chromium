@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Tab list editor layout
+summary: Root Android layout for the tab selection editor's selectable list view.
+-->
+
 <org.chromium.chrome.browser.tasks.tab_management.TabListEditorLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/selectable_list"

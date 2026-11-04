@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Animated check mark icon vector drawable
+summary: Animated vector drawable that draws a check mark stroke via a trim path animation lasting 400 milliseconds.
+-->
+
 <animated-vector
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:aapt="http://schemas.android.com/aapt"

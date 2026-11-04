@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Tab group dialog background color
+summary: Defines the dark-mode background color for the tab group dialog, resolving to the Material colorSurfaceContainer theme attribute.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:color="?attr/colorSurfaceContainer" />
 </selector>

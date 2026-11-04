@@ -4,6 +4,13 @@ Copyright 2023 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Strip drag shadow view layout
+summary: Android layout for StripDragShadowView that renders a drag shadow of a tab card during tab strip reordering by including the tab grid card item layout.
+-->
+
 <org.chromium.chrome.browser.compositor.overlays.strip.reorder.StripDragShadowView
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/strip_drag_shadow_view"

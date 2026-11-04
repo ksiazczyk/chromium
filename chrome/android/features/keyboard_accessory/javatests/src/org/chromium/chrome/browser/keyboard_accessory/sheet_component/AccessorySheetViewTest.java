@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccessorySheetViewTest
+// summary: Instrumented Espresso test that checks the keyboard accessory sheet view's behavior, such as tab switching, visibility, layout properties and user interactions.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.sheet_component;
 
 import static androidx.test.espresso.Espresso.onView;

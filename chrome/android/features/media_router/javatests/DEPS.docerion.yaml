@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Media router Java tests DEPS include rules
+summary: Defines include rules that allow the media router Java tests to depend on Chromium content public Java APIs.

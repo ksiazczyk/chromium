@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NotchedKeyboardAccessoryOutlineProviderRenderTest
+// summary: Render tests that verify the notched outline path of the keyboard accessory bar for different notch positions.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.bar_component;
 
 import android.graphics.Canvas;

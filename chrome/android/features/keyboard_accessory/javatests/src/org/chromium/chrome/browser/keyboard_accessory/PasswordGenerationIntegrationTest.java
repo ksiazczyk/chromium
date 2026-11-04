@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password generation integration tests
+// summary: Integration tests for password generation through the keyboard accessory and the touch-to-fill generation bottom sheet.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory;
 
 import static org.chromium.base.ThreadUtils.runOnUiThreadBlocking;

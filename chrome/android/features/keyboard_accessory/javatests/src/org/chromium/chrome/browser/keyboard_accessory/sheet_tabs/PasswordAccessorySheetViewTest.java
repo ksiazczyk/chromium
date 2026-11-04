@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password accessory sheet view tests
+// summary: View tests for the password accessory sheet, checking user info fields, passkey sections and option toggles in the sheet layout.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.sheet_tabs;
 
 import static androidx.test.espresso.Espresso.onView;

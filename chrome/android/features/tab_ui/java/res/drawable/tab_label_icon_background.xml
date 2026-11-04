@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Tab label icon background
+summary: Oval shape drawable used as the background of tab label icons.
+-->
+
 <shape xmlns:android="http://schemas.android.com/apk/res/android"
     android:shape="oval"
     android:tint="?attr/colorOnSecondaryContainer">

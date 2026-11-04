@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Archived tab icon vector drawable
+summary: 24dp vector drawable icon for archived tabs, drawn as a segmented frame shape tinted with the default accent icon color.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="24dp"
     android:height="24dp"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manual filling mediator
+// summary: Mediator that manages the manual filling state machine and applies state properties such as keyboard extension state, field bounds and visibility to the accessory subcomponents.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

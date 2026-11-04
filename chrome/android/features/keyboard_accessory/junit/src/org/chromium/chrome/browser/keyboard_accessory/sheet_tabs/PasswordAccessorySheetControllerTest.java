@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PasswordAccessorySheetControllerTest
+// summary: Robolectric controller tests for the password accessory sheet, covering tab creation, password and footer command items, and UMA metric recording.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.sheet_tabs;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

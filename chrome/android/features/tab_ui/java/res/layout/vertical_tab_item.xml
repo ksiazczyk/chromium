@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: data
+title: Vertical tab item layout
+summary: Layout for a single vertical tab list item with favicon, loading spinner, title, AI indicator, and action spinner views inside a custom item layout.
+-->
+
 <org.chromium.chrome.browser.tasks.tab_management.vertical_tabs.VerticalTabItemLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

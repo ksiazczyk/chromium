@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Credit card accessory sheet view tests
+// summary: View tests for the credit card accessory sheet, covering card art icons, loyalty card info and promo code entries.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.sheet_tabs;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;
