@@ -1,0 +1,4 @@
+# Docerion header of .gitallowed.
+type: config
+title: Git-secrets allowed patterns
+summary: Specifies patterns excluded from git-secrets matching, currently limited to the certificate transparency data directory.

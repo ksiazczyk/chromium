@@ -1,3 +1,9 @@
+---
+type: data
+title: Chromium contributors list
+summary: Sorted registry of individual and organizational contributors, listing names with email addresses or fnmatch patterns.
+---
+
 # For more details, see docs/contributing.md#first_time-contributors
 #
 # Names should be added to this file with this pattern:

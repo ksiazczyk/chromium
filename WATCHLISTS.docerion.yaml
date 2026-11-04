@@ -1,0 +1,4 @@
+# Docerion header of WATCHLISTS.
+type: config
+title: Watchlist rules
+summary: Defines watchlist rules that map file path patterns to interested reviewers for code review notifications.

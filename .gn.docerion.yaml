@@ -1,0 +1,7 @@
+# Docerion header of .gn.
+type: config
+title: GN build system dotfile
+summary: GN meta-build dotfile that marks the source tree root and sets startup options and default build arguments for Chromium and embedded projects.
+relations:
+  - depends_on /build/circular_includes_bedrock.gni
+  - depends_on /build/circular_includes_untriaged.gni

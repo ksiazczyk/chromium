@@ -1,0 +1,4 @@
+# Docerion header of PRESUBMIT_test.py.
+type: test
+title: Unit tests for PRESUBMIT.py
+summary: Runs unit tests for the top-level PRESUBMIT.py checks using mock input and output APIs.

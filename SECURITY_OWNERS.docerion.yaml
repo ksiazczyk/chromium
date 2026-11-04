@@ -1,0 +1,4 @@
+# Docerion header of SECURITY_OWNERS.
+type: config
+title: Security owners list
+summary: Lists members of the security ownership council who decide membership in SECURITY_OWNERS files in subdirectories.

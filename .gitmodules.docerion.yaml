@@ -1,0 +1,4 @@
+# Docerion header of .gitmodules.
+type: config
+title: Git submodule definitions
+summary: Maps submodule paths to upstream repository URLs for third-party dependencies and test data, with gclient checkout conditions.

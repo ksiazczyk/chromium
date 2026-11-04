@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Git ignore rules
+# summary: Ignores build outputs, IDE settings, coverage data and generated artifacts across the Chromium checkout.
+# ---
+
 /client-py/
 *.bak
 *.code-workspace

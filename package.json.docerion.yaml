@@ -1,0 +1,4 @@
+# Docerion header of package.json.
+type: config
+title: Root package.json for TypeScript module resolution
+summary: Minimal package manifest that keeps the TypeScript compiler inside the repository root and makes it emit ES modules under NodeNext.

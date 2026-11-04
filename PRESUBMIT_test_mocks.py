@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Mock helpers for presubmit tests
+# summary: Provides mock InputApi, OutputApi and file classes used by the presubmit unit tests.
+# ---
+
 from collections import defaultdict
 import fnmatch
 import inspect

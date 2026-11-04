@@ -1,0 +1,4 @@
+# Docerion header of BRANCH_OWNERS.
+type: config
+title: Branch managers owners list
+summary: Lists the current branch managers, kept in sync with the branch-managers mailing list.

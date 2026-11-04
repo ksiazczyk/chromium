@@ -1,0 +1,4 @@
+# Docerion header of .git-blame-ignore-revs.
+type: config
+title: Git hyper-blame ignore list
+summary: Lists hashes of large automated reformatting and renaming commits that git hyper-blame should skip when attributing changes.
