@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageEvent class header for JS sandbox message ports
+// summary: Declares the MessageEvent class that wraps the data of a message received on a JS sandbox message port as a garbage-collected gin object.
+// relations:
+//   - depends_on /base/android/jni_android.h
+//   - depends_on /gin/wrappable.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_JS_SANDBOX_SERVICE_MESSAGE_EVENT_H_
 #define ANDROID_WEBVIEW_JS_SANDBOX_SERVICE_MESSAGE_EVENT_H_
 

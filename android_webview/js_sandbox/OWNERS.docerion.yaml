@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS list for js_sandbox
+summary: Lists the email addresses of the code owners responsible for the js_sandbox directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwPaymentRequestDefaultSettingsTest
+// summary: JUnit test verifying that the PaymentRequest interface stays undefined in JavaScript when a WebView has not been explicitly configured for payments.
+// ---
+
 package org.chromium.android_webview.test.payments;
 
 import androidx.test.filters.SmallTest;

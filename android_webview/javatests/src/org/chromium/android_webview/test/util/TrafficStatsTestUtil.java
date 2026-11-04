@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TrafficStats tagged bytes test utility
+// summary: Test utility that queries via JNI how many network bytes were received with a given tag and whether the device supports that query.
+// ---
+
 package org.chromium.android_webview.test.util;
 
 import org.jni_zero.JNINamespace;

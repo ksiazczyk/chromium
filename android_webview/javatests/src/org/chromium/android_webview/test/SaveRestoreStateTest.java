@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebView saveState and restoreState tests
+// summary: Instrumentation tests verifying the WebView saveState and restoreState APIs preserve navigation history across state save and restore.
+// relations:
+//   - depends_on /android_webview/javatests/src/org/chromium/android_webview/test/AwActivityTestRule.java
+// ---
+
 package org.chromium.android_webview.test;
 
 import android.os.Bundle;

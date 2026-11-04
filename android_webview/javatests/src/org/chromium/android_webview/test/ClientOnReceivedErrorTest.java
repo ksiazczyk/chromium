@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ClientOnReceivedErrorTest
+// summary: Tests for the onReceivedError callback on invalid URLs and unsupported schemes.
+// relations:
+//   - depends_on /android_webview/javatests/src/org/chromium/android_webview/test/AwActivityTestRule.java
+// ---
+
 package org.chromium.android_webview.test;
 
 import static org.chromium.android_webview.test.AwActivityTestRule.WAIT_TIMEOUT_MS;

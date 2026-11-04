@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock MetricsBridgeService for tests
+// summary: Mock Android service implementing IMetricsBridgeService that records metrics data and offers helpers to assert on received records during testing.
+// relations:
+//   - implements /android_webview/nonembedded/java/src/org/chromium/android_webview/services/MetricsBridgeService.java
+// ---
+
 package org.chromium.android_webview.test.services;
 
 import android.app.Service;

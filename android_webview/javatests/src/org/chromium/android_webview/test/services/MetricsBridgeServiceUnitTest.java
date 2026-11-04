@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MetricsBridgeServiceUnitTest
+// summary: Unit tests for MetricsBridgeService verifying that metrics records are correctly saved to and parsed from a file without binding a real service connection.
+// ---
+
 package org.chromium.android_webview.test.services;
 
 import static org.chromium.android_webview.test.OnlyRunIn.ProcessMode.EITHER_PROCESS;

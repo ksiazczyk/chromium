@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the WebView JS sandbox service
+summary: GN build definition for the js_sandbox source set, listing its C++ sources and dependencies on base, gin, and JNI headers.
+relations:
+  - has_part /android_webview/js_sandbox/service/js_sandbox_array_buffer_allocator.cc
+  - has_part /android_webview/js_sandbox/service/js_sandbox_array_buffer_allocator.h
+  - has_part /android_webview/js_sandbox/service/js_sandbox_isolate.cc

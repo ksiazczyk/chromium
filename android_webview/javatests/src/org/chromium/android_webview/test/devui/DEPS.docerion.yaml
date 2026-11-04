@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS dependency rules for devui tests
+summary: Dependency rules restricting devui test code to nonembedded WebView and common WebView APIs.

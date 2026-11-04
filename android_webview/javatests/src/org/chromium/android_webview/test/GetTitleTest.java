@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GetTitle tests
+// summary: JUnit test suite verifying page title behavior for content loaded from data URLs and pages with a title, an empty title, or no title.
+// relations:
+//   - depends_on /android_webview/javatests/src/org/chromium/android_webview/test/AwActivityTestRule.java
+// ---
+
 package org.chromium.android_webview.test;
 
 import androidx.test.filters.SmallTest;

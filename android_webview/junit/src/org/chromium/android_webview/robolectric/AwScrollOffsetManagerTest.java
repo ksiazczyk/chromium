@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Robolectric tests for AwScrollOffsetManager
+// summary: Robolectric integration tests simulating scrolling and overscroll propagation between the container view and native scroll state.
+// ---
+
 package org.chromium.android_webview.robolectric;
 
 import android.graphics.Rect;

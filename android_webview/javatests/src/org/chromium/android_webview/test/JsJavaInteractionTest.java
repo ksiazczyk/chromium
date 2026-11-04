@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JavaScript-Java interaction tests
+// summary: JUnit test suite for JavaScript and Java interaction in WebView, covering injected objects, postMessage with ports, and script execution callbacks.
+// relations:
+//   - depends_on /android_webview/javatests/src/org/chromium/android_webview/test/AwActivityTestRule.java
+// ---
+
 package org.chromium.android_webview.test;
 
 import android.net.Uri;

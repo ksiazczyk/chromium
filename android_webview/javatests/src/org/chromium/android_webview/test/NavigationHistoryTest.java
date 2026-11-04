@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigation history tests
+// summary: Tests that WebView navigation history entries expose correct URLs, titles, and favicons across page loads and history navigation.
+// relations:
+//   - depends_on /android_webview/javatests/src/org/chromium/android_webview/test/AwActivityTestRule.java
+// ---
+
 package org.chromium.android_webview.test;
 
 import static org.chromium.android_webview.test.AwActivityTestRule.SCALED_WAIT_TIMEOUT_MS;

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Variations seed loader tests
+// summary: Parameterized instrumentation tests for the WebView VariationsSeedLoader, verifying seed requests and loading through a mock variations seed server.
+// relations:
+//   - depends_on /android_webview/javatests/src/org/chromium/android_webview/test/util/VariationsTestUtils.java
+//   - depends_on /android_webview/javatests/src/org/chromium/android_webview/test/AwActivityTestRule.java
+// ---
+
 package org.chromium.android_webview.test;
 
 import static com.google.common.truth.Truth.assertThat;

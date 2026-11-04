@@ -1,0 +1,4 @@
+# Docerion header of PRESUBMIT_test.py.
+type: test
+title: Tests for the WebView javatests presubmit checks
+summary: Unit tests that verify the presubmit check logic for test runner annotations using mock input and output APIs.

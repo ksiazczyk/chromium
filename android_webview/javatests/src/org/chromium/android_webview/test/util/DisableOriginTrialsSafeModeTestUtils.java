@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DisableOriginTrialsSafeModeTestUtils
+// summary: JNI utility class letting tests query whether origin trials are disabled and whether policy or flags are set.
+// ---
+
 package org.chromium.android_webview.test.util;
 
 import org.jni_zero.JNINamespace;

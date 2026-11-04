@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CookieManager test
+// summary: Comprehensive tests for the WebView CookieManager covering cookie acceptance, expiry, and related behavior in a fresh process.
+// relations:
+//   - depends_on /android_webview/javatests/src/org/chromium/android_webview/test/AwActivityTestRule.java
+// ---
+
 package org.chromium.android_webview.test;
 
 import static org.hamcrest.CoreMatchers.containsString;

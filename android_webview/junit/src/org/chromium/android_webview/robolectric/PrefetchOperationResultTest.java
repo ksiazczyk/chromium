@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrefetchOperationResult unit tests
+// summary: Robolectric tests verifying that PrefetchOperationResult maps prefetch callback status codes, including server errors with HTTP response extras, to operation status codes.
+// ---
+
 package org.chromium.android_webview.robolectric;
 
 import android.os.Bundle;

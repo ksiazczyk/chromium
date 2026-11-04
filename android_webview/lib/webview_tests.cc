@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android WebView unit test suite entry point
+// summary: Main for the android_webview unit tests, initializing the test suite with resource paks, GL surface support, Mojo, and WebView-specific command-line switches.
+// relations:
+//   - depends_on /base/base_switches.h
+//   - depends_on /base/command_line.h
+//   - depends_on /base/files/file_path.h
+// ---
+
 #include "base/base_switches.h"
 #include "base/command_line.h"
 #include "base/files/file_path.h"

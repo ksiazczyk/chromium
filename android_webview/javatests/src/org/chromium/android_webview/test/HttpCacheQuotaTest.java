@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HTTP cache quota tests
+// summary: JUnit test suite for the WebView HTTP cache quota API, checking quota limits, default quota behavior, and per-profile settings in multi-process mode.
+// relations:
+//   - tests /android_webview/java/src/org/chromium/android_webview/AwHttpCacheManager.java
+//   - depends_on /android_webview/java/src/org/chromium/android_webview/AwHttpCacheManager.java
+// ---
+
 package org.chromium.android_webview.test;
 
 import static org.chromium.android_webview.test.OnlyRunIn.ProcessMode.MULTI_PROCESS;

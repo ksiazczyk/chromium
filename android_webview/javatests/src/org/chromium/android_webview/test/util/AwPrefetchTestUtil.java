@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwPrefetchTestUtil
+// summary: Test utility for AwPrefetchTestBase that sets and clears the latest prefetch info via JNI for testing.
+// ---
+
 package org.chromium.android_webview.test.util;
 
 import org.jni_zero.JNINamespace;

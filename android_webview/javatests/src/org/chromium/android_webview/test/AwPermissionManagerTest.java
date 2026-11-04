@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwPermissionManagerTest
+// summary: Tests for AwPermissionManager covering web permission requests such as duplicate MIDI access requests and getUserMedia media device access.
+// relations:
+//   - depends_on /android_webview/javatests/src/org/chromium/android_webview/test/AwActivityTestRule.java
+// ---
+
 package org.chromium.android_webview.test;
 
 import android.content.pm.PackageManager;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CrashInfoTest
+// summary: Robolectric unit tests for the WebView CrashInfo class, verifying merging of crash records, upload state and capture time handling, and JSON serialization compatibility.
+// ---
+
 package org.chromium.android_webview.robolectric.nonembedded.crash;
 
 import static org.chromium.android_webview.nonembedded.crash.CrashInfo.createCrashInfoForTesting;

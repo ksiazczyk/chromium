@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JS sandbox isolate callback header
+// summary: Declares a reference-counted callback that reports JS evaluation results and error types to Java, optionally over file descriptors.
+// relations:
+//   - depends_on /base/android/scoped_java_ref.h
+//   - depends_on /base/memory/ref_counted.h
+//   - depends_on /base/memory/scoped_refptr.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_JS_SANDBOX_SERVICE_JS_SANDBOX_ISOLATE_CALLBACK_H_
 #define ANDROID_WEBVIEW_JS_SANDBOX_SERVICE_JS_SANDBOX_ISOLATE_CALLBACK_H_
 

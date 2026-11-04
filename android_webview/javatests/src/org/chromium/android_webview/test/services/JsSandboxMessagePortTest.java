@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JsSandboxMessagePortTest
+// summary: Large instrumentation tests focusing on sandbox-side MessagePort behavior, including posting messages and JavaScript-visible port APIs.
+// ---
+
 package org.chromium.android_webview.test.services;
 
 import static org.chromium.android_webview.test.OnlyRunIn.ProcessMode.EITHER_PROCESS;

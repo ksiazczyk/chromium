@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared video playback test utility
+// summary: Test utility shared by video tests that loads a page with an autoplaying WebM video and waits for the play event to be reported.
+// ---
+
 package org.chromium.android_webview.test.util;
 
 import android.app.Instrumentation;

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwProxyController tests
+// summary: Tests for AwProxyController proxy override behavior, verifying that requests route through a configured proxy server and that clearing the override restores direct connections.
+// relations:
+//   - depends_on /android_webview/javatests/src/org/chromium/android_webview/test/AwActivityTestRule.java
+//   - tests /android_webview/java/src/org/chromium/android_webview/AwProxyController.java
+// ---
+
 package org.chromium.android_webview.test;
 
 import androidx.test.filters.MediumTest;

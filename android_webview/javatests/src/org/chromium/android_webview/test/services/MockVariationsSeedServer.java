@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock VariationsSeedServer for tests
+// summary: Mock bound service extending VariationsSeedServer that notifies tests when a seed is requested and can report a configured metrics bundle.
+// ---
+
 package org.chromium.android_webview.test.services;
 
 import android.content.Intent;

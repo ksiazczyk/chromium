@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Full screen video test AwContentsClient
+// summary: Test AwContentsClient helper that records and waits for custom view show, hide, and key event callbacks used in full screen video tests.
+// ---
+
 package org.chromium.android_webview.test;
 
 import android.app.Activity;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Robolectric tests for PlatformSelectionActionMenuDelegate
+// summary: Robolectric tests verifying selection action menu item ordering and additional items contributed by the autofill selection menu delegate.
+// ---
+
 package org.chromium.android_webview.robolectric;
 
 import android.content.Context;

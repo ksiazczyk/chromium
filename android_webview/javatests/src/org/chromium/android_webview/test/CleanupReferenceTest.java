@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CleanupReferenceTest
+// summary: Unit tests for CleanupReference verifying that cleanup callbacks run when referenced objects are garbage collected.
+// ---
+
 package org.chromium.android_webview.test;
 
 import static org.chromium.android_webview.test.OnlyRunIn.ProcessMode.EITHER_PROCESS;

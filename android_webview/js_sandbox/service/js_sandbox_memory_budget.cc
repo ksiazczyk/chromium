@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JS sandbox memory budget implementation
+// summary: Implements a thread-safe memory budget that tracks allocations with page-size rounding and checks for leaks on destruction.
+// relations:
+//   - depends_on /android_webview/js_sandbox/service/js_sandbox_memory_budget.h
+//   - depends_on /base/check_op.h
+//   - depends_on /base/logging.h
+// ---
+
 #include "android_webview/js_sandbox/service/js_sandbox_memory_budget.h"
 
 #include <cstddef>

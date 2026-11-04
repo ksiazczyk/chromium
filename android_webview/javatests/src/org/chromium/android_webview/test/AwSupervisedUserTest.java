@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwSupervisedUserTest
+// summary: Tests the URL loading integration for blocking mature sites for supervised users, including iframe handling and blocked page behavior.
+// ---
+
 package org.chromium.android_webview.test;
 
 import static androidx.test.espresso.intent.Intents.intended;

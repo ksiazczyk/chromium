@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web archive saving tests
+// summary: Instrumentation tests for the WebView saveWebArchive feature, covering explicit paths, automatic naming and expected failures when writing MHTML archives.
+// relations:
+//   - depends_on /android_webview/javatests/src/org/chromium/android_webview/test/AwActivityTestRule.java
+// ---
+
 package org.chromium.android_webview.test;
 
 import static org.chromium.base.test.util.ScalableTimeout.scaleTimeout;

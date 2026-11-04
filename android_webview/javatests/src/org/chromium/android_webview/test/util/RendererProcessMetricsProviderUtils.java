@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Renderer process metrics test utility
+// summary: Test utility with a JNI bridge that forces recording of renderer process metric histograms in the Android WebView native code.
+// ---
+
 package org.chromium.android_webview.test.util;
 
 import org.jni_zero.JNINamespace;

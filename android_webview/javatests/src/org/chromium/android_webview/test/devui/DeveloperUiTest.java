@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeveloperUiTest
+// summary: Espresso UI tests for general developer UI functionality such as navigation, menus and bug reporting.
+// ---
+
 package org.chromium.android_webview.test.devui;
 
 import static androidx.test.espresso.Espresso.onData;

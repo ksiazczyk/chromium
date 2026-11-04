@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JS sandbox array buffer allocator header
+// summary: Declares a V8 array buffer allocator wrapper that accounts allocations against a shared JS sandbox memory budget.
+// relations:
+//   - depends_on /base/memory/raw_ref.h
+//   - references /android_webview/js_sandbox/service/js_sandbox_memory_budget.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_JS_SANDBOX_SERVICE_JS_SANDBOX_ARRAY_BUFFER_ALLOCATOR_H_
 #define ANDROID_WEBVIEW_JS_SANDBOX_SERVICE_JS_SANDBOX_ARRAY_BUFFER_ALLOCATOR_H_
 

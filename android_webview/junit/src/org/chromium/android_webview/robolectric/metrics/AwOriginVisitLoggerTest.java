@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AwOriginVisitLogger
+// summary: Robolectric tests checking that AwOriginVisitLogger records the daily distinct origins visited histogram only after a day boundary has passed.
+// relations:
+//   - tests /android_webview/java/src/org/chromium/android_webview/metrics/AwOriginVisitLogger.java
+// ---
+
 package org.chromium.android_webview.robolectric.metrics;
 
 import static org.junit.Assert.assertEquals;

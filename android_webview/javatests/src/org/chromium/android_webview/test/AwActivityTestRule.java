@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebView activity test rule
+// summary: JUnit test rule that launches the WebView test activity and offers helpers for creating AwContents views, loading URLs and synchronizing with the UI thread.
+// relations:
+//   - references /android_webview/test/shell/src/org/chromium/android_webview/test/AwTestRunnerActivity.java
+// ---
+
 package org.chromium.android_webview.test;
 
 import android.app.Activity;

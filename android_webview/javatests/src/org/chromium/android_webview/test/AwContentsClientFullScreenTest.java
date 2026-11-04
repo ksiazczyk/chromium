@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fullscreen API tests
+// summary: Parameterized tests for the fullscreen API, covering fullscreen video and non-video elements in both hardware and software rendering modes.
+// relations:
+//   - references /android_webview/test/shell/assets/full_screen_video_test.html
+//   - references /android_webview/test/shell/assets/full_screen_video_inside_div_test.html
+//   - references /android_webview/test/shell/assets/full_screen_video.js
+// ---
+
 package org.chromium.android_webview.test;
 
 import static org.chromium.android_webview.test.AwActivityTestRule.WAIT_TIMEOUT_MS;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Video SurfaceView view hierarchy test utility
+// summary: Test utility that counts views of a given type within a view hierarchy to verify video SurfaceViews in WebView tests.
+// ---
+
 package org.chromium.android_webview.test.util;
 
 import android.view.View;

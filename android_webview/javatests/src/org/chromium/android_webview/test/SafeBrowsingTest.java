@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe Browsing interstitial test suite
+// summary: Instrumentation test suite verifying WebView Safe Browsing interstitials, API behavior, and responses for malicious pages using an embedded test server.
+// relations:
+//   - depends_on /android_webview/javatests/src/org/chromium/android_webview/test/AwActivityTestRule.java
+// ---
+
 package org.chromium.android_webview.test;
 
 import static org.junit.Assert.assertNotEquals;

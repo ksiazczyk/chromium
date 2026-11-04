@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the WebView native library
+summary: GN build file defining the lib and webview_entry_point source sets with their sources, defines, and dependencies for the Android WebView native entrypoint.
+relations:
+  - depends_on /build/config/android/config.gni
+  - depends_on /components/spellcheck/spellcheck_build_features.gni
+  - has_part /android_webview/lib/aw_main_delegate.cc

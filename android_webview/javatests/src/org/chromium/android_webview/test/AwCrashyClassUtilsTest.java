@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwCrashyClassUtils crash flag tests
+// summary: Tests that WebView triggers test crashes only when the matching switches and features are enabled, and starts up normally otherwise.
+// ---
+
 package org.chromium.android_webview.test;
 
 import static org.chromium.android_webview.test.OnlyRunIn.ProcessMode.EITHER_PROCESS;

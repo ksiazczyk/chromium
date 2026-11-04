@@ -1,0 +1,8 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for WebView service tests
+summary: Chromium OWNERS file inheriting nonembedded owners and assigning per-file owners for variations and JsSandbox test files.
+relations:
+  - references /android_webview/nonembedded/OWNERS
+  - references /android_webview/browser/variations/OWNERS
+  - references /android_webview/js_sandbox/OWNERS

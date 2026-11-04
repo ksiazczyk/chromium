@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Spare renderer process tests
+// summary: Instrumentation tests verifying spare renderer creation for the default profile and that renderer process count limits per browser context are respected.
+// ---
+
 package org.chromium.android_webview.test;
 
 import static org.junit.Assert.assertEquals;

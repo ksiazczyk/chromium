@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Memory metrics logger tests
+// summary: Tests that the WebView memory metrics logger records the expected browser, renderer, and total memory histograms in single- and multi-process modes.
+// relations:
+//   - tests /android_webview/browser/metrics/memory_metrics_logger.cc
+//   - depends_on /android_webview/javatests/src/org/chromium/android_webview/test/AwActivityTestRule.java
+// ---
+
 package org.chromium.android_webview.test;
 
 import static org.chromium.android_webview.test.OnlyRunIn.ProcessMode.MULTI_PROCESS;

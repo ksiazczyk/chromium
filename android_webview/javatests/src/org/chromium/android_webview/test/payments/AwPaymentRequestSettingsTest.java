@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwPaymentRequestSettingsTest
+// summary: Parameterized JUnit test verifying that WebView PaymentRequest settings and hasEnrolledInstrument() behave as expected with one installed payment app.
+// ---
+
 package org.chromium.android_webview.test.payments;
 
 import androidx.test.filters.SmallTest;

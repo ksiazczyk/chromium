@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe Browsing SafeMode action tests
+// summary: Instrumentation tests verifying that the AwSafeBrowsingSafeModeAction disables Safe Browsing checks for a hardcoded malware URL, including overriding per-WebView toggles.
+// relations:
+//   - tests /android_webview/java/src/org/chromium/android_webview/safe_browsing/AwSafeBrowsingSafeModeAction.java
+//   - depends_on /android_webview/java/src/org/chromium/android_webview/common/SafeModeAction.java
+//   - depends_on /android_webview/javatests/src/org/chromium/android_webview/test/AwActivityTestRule.java
+// ---
+
 package org.chromium.android_webview.test;
 
 import static org.junit.Assert.assertFalse;

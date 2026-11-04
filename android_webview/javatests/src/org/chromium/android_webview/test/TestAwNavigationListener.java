@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestAwNavigationListener recording navigation events in tests
+// summary: AwNavigationListener implementation that records started, redirected, completed, and visible navigations plus page events and paint timings for test assertions.
+// ---
+
 package org.chromium.android_webview.test;
 
 import org.junit.Assert;

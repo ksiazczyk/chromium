@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RectUtils pixel coverage tests
+// summary: Robolectric tests for RectUtils.calculatePixelsOfCoverage covering single, multiple, overlapping, touching, clipped and zero-dimension rectangles.
+// ---
+
 package org.chromium.android_webview.robolectric;
 
 import android.graphics.Rect;

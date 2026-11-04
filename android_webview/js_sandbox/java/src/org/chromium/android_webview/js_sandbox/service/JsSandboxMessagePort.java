@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JsSandboxMessagePort
+// summary: Message port that forwards strings and array buffers between the client-side MessagePortInternal and the native sandbox message port, with memory budget checks.
+// ---
+
 package org.chromium.android_webview.js_sandbox.service;
 
 import androidx.javascriptengine.common.MessagePortInternal;

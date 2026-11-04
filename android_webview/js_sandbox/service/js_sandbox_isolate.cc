@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JS sandbox isolate implementation
+// summary: Implements the native JS sandbox isolate, evaluating JavaScript with V8 and handling file descriptor input, message ports, inspection, and memory limits.
+// relations:
+//   - implements /android_webview/js_sandbox/service/js_sandbox_isolate.h
+//   - depends_on /android_webview/js_sandbox/service/js_sandbox_array_buffer_allocator.h
+//   - depends_on /android_webview/js_sandbox/service/js_sandbox_isolate_callback.h
+// ---
+
 #include "android_webview/js_sandbox/service/js_sandbox_isolate.h"
 
 #include <errno.h>

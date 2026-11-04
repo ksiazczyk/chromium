@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for UploadedCrashesInfoLoader
+// summary: Unit tests verifying that UploadedCrashesInfoLoader parses upload log entries into CrashInfo records with correct upload time, upload ID and local ID.
+// ---
+
 package org.chromium.android_webview.test.devui.util;
 
 import static org.chromium.android_webview.test.OnlyRunIn.ProcessMode.EITHER_PROCESS;

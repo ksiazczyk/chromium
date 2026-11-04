@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CrashLoggingUtilsTest
+// summary: Tests that CrashLoggingUtils writes crash metadata to a log file in a format that CrashInfo can read back with the expected fields.
+// ---
+
 package org.chromium.android_webview.test.services;
 
 import static org.chromium.android_webview.test.OnlyRunIn.ProcessMode.EITHER_PROCESS;

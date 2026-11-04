@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageEvent implementation for JS sandbox message ports
+// summary: Implements the MessageEvent gin wrapper delivered to onmessage callbacks, exposing the message payload through its data property.
+// relations:
+//   - implements /android_webview/js_sandbox/service/message_event.h
+//   - depends_on /base/android/jni_android.h
+//   - depends_on /base/android/jni_array.h
+// ---
+
 #include "android_webview/js_sandbox/service/message_event.h"
 
 #include <cstdint>

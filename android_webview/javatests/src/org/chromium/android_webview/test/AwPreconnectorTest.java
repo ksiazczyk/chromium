@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwPreconnector preconnect tests
+// summary: Instrumentation tests verifying that AwPreconnector opens preconnect connections to given URLs, handles multiple and invalid URLs, and records preconnect histogram events.
+// relations:
+//   - tests /android_webview/java/src/org/chromium/android_webview/AwPreconnector.java
+// ---
+
 package org.chromium.android_webview.test;
 
 import static org.junit.Assert.assertThrows;

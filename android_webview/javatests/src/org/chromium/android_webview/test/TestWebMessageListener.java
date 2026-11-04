@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestWebMessageListener capturing postMessage events
+// summary: WebMessageListener implementation that queues post message payloads for assertions and offers static helpers to add or remove listeners on AwContents.
+// relations:
+//   - depends_on /android_webview/javatests/src/org/chromium/android_webview/test/AwActivityTestRule.java
+// ---
+
 package org.chromium.android_webview.test;
 
 import android.net.Uri;

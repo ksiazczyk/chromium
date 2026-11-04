@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Asynchronous find-in-page API tests
+// summary: Tests for the asynchronous find-in-page APIs findAllAsync and findNext in WebView, checking match counts and navigation between matches.
+// ---
+
 package org.chromium.android_webview.test;
 
 import androidx.test.InstrumentationRegistry;

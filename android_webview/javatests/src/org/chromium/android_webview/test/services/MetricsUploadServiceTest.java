@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MetricsUploadServiceTest
+// summary: Instrumentation tests for MetricsUploadService checking that platform log status codes map to the expected HTTP status codes when uploading metrics logs.
+// ---
+
 package org.chromium.android_webview.test.services;
 
 import static org.chromium.android_webview.test.OnlyRunIn.ProcessMode.EITHER_PROCESS;

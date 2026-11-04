@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OriginMatcher tests
+// summary: Unit tests for OriginMatcher origin matching, covering empty rule lists, wildcard subdomains, invalid rule rejection, and use after destroy.
+// relations:
+//   - tests /components/origin_matcher/android/java/src/org/chromium/components/origin_matcher/OriginMatcher.java
+//   - depends_on /android_webview/javatests/src/org/chromium/android_webview/test/AwActivityTestRule.java
+// ---
+
 package org.chromium.android_webview.test;
 
 import static org.chromium.android_webview.test.OnlyRunIn.ProcessMode.EITHER_PROCESS;

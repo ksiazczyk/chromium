@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwContentsClientGetDefaultVideoPosterTest
+// summary: Parameterized instrumentation tests verifying that AwContentsClient.getDefaultVideoPoster is invoked for video elements and that default video poster responses respect content security policy.
+// relations:
+//   - references /android_webview/test/shell/assets/asset_icon.png
+//   - depends_on /android_webview/javatests/src/org/chromium/android_webview/test/AwActivityTestRule.java
+// ---
+
 package org.chromium.android_webview.test;
 
 import android.content.Context;

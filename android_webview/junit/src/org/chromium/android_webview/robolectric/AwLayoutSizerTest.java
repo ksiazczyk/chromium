@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Robolectric tests for AwLayoutSizer
+// summary: Robolectric tests verifying layout sizing behavior such as measured dimensions, layout requests on content size changes, and wrap-content handling.
+// relations:
+//   - tests /android_webview/java/src/org/chromium/android_webview/AwLayoutSizer.java
+// ---
+
 package org.chromium.android_webview.robolectric;
 
 import android.view.View;

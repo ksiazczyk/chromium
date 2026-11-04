@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JS sandbox array buffer allocator implementation
+// summary: Implements a V8 array buffer allocator that routes allocations through the JS sandbox memory budget and fails when the budget is exhausted.
+// relations:
+//   - implements /android_webview/js_sandbox/service/js_sandbox_array_buffer_allocator.h
+//   - depends_on /android_webview/js_sandbox/service/js_sandbox_memory_budget.h
+// ---
+
 #include "android_webview/js_sandbox/service/js_sandbox_array_buffer_allocator.h"
 
 #include <cstddef>

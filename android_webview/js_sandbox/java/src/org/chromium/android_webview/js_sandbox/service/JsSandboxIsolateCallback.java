@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JsSandboxIsolateCallback
+// summary: Callback class the native code invokes to report a JavaScript evaluation result or error back to the client binder callback.
+// ---
+
 package org.chromium.android_webview.js_sandbox.service;
 
 import android.os.RemoteException;

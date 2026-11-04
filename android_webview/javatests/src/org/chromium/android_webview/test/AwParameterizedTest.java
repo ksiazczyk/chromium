@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwParameterizedTest
+// summary: Abstract base class for parameterized WebView instrumentation tests that supplies AwSettings mutation parameters, including an all-mutations variant.
+// ---
+
 package org.chromium.android_webview.test;
 
 import android.webkit.WebSettings;

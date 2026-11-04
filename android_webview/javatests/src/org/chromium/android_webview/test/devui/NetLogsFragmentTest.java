@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetLogsFragmentTest
+// summary: Espresso UI tests for the developer UI net logs fragment, covering net log file listing and sharing.
+// ---
+
 package org.chromium.android_webview.test.devui;
 
 import static androidx.test.espresso.Espresso.onData;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JSUtils
+// summary: Runs JavaScript in WebView pages to click nodes with user gestures and evaluate code while awaiting results.
+// ---
+
 package org.chromium.android_webview.test.util;
 
 import android.app.Instrumentation;

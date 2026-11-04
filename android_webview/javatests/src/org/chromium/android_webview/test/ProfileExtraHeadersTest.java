@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile origin-matched header tests
+// summary: Tests AwBrowserContext.setOriginMatchedHeader, verifying extra headers applied to navigations, prefetches, and service worker fetches.
+// relations:
+//   - references /android_webview/test/data/hello_world.html
+// ---
+
 package org.chromium.android_webview.test;
 
 import androidx.annotation.NonNull;

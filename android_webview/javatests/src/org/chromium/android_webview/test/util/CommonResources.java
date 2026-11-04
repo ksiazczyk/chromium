@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CommonResources
+// summary: Supplies shared HTML snippets, content-type and cache headers, and base64 image data used across WebView tests.
+// ---
+
 package org.chromium.android_webview.test.util;
 
 import android.graphics.Color;

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for TrackExitReasons
+// summary: Robolectric tests for TrackExitReasons covering app state data persistence, reading and writing state files, and exit reason metric reporting.
+// relations:
+//   - tests /android_webview/java/src/org/chromium/android_webview/metrics/TrackExitReasons.java
+// ---
+
 package org.chromium.android_webview.robolectric.metrics;
 
 import static org.junit.Assert.assertEquals;

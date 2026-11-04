@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test platform service bridge for metrics logs
+// summary: Test double implementing PlatformServiceBridge that queues metrics logs so tests can wait for, inspect, and assert on uploaded metrics data.
+// relations:
+//   - depends_on /android_webview/javatests/src/org/chromium/android_webview/test/AwActivityTestRule.java
+// ---
+
 package org.chromium.android_webview.test;
 
 import org.junit.Assert;

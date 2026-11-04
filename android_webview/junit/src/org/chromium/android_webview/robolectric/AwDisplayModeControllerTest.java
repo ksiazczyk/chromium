@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Robolectric tests for AwDisplayModeController
+// summary: Robolectric tests checking display mode detection such as fullscreen versus browser based on view and display dimensions.
+// relations:
+//   - tests /android_webview/java/src/org/chromium/android_webview/AwDisplayModeController.java
+// ---
+
 package org.chromium.android_webview.robolectric;
 
 import static org.mockito.Mockito.inOrder;

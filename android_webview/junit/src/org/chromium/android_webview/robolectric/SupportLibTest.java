@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Support library feature and method tests
+// summary: Robolectric tests guarding AndroidX WebView support library features and boundary interface methods, including conditional ENQUEUE_PRECONNECT support with lazy profiles.
+// relations:
+//   - references /android_webview/support_library/boundary_interfaces/src/org/chromium/support_lib_boundary/util/Features.java
+// ---
+
 package org.chromium.android_webview.robolectric;
 
 import org.junit.Assert;

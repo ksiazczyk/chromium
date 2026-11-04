@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for WebView JUnit tests
+summary: Defines include rules granting the WebView JUnit test directory access to specific Chromium component and content Java sources.

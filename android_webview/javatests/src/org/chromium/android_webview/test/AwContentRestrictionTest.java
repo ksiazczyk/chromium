@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content restriction tests
+// summary: Parameterized tests for WebView content restriction integration, covering allowed and blocked sites, redirects, and the request bypassed throttle histogram.
+// relations:
+//   - depends_on /android_webview/javatests/src/org/chromium/android_webview/test/AwActivityTestRule.java
+// ---
+
 package org.chromium.android_webview.test;
 
 import static androidx.test.espresso.intent.Intents.intending;

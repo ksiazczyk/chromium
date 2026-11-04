@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FlagsFragmentTest
+// summary: Espresso UI tests for the developer UI flags fragment, covering flag toggling and developer mode state.
+// relations:
+//   - depends_on /android_webview/javatests/src/org/chromium/android_webview/test/devui/DeveloperUiTestUtils.java
+// ---
+
 package org.chromium.android_webview.test.devui;
 
 import static androidx.test.espresso.Espresso.onData;

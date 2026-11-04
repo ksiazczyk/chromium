@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Geolocation tests
+// summary: JUnit test suite for geolocation in AwContents, covering permission prompts, getCurrentPosition and watchPosition, and pause and resume effects on location updates.
+// relations:
+//   - depends_on /android_webview/javatests/src/org/chromium/android_webview/test/AwActivityTestRule.java
+//   - depends_on /android_webview/java/src/org/chromium/android_webview/AwGeolocationPermissions.java
+// ---
+
 package org.chromium.android_webview.test;
 
 import androidx.test.InstrumentationRegistry;

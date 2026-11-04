@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Off-the-main-thread prefetch test base
+// summary: Abstract base class holding all off-the-main-thread prefetch tests, including queue draining while the UI thread is blocked, for concrete feature configurations to instantiate.
+// ---
+
 package org.chromium.android_webview.test;
 
 import android.os.SystemClock;

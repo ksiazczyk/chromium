@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Robolectric tests for AwContentRestrictionManagerBridge
+// summary: Robolectric unit tests covering content restriction metadata handling, feature flags, callbacks, and parcel file descriptor plumbing in the bridge.
+// ---
+
 package org.chromium.android_webview.robolectric;
 
 import static org.mockito.Mockito.times;

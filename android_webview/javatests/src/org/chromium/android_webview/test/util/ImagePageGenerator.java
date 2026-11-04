@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ImagePageGenerator
+// summary: Generates distinct base64 image pages on a test web server to avoid caching side effects in image loading tests.
+// relations:
+//   - depends_on /android_webview/javatests/src/org/chromium/android_webview/test/util/CommonResources.java
+// ---
+
 package org.chromium.android_webview.test.util;
 
 import org.chromium.net.test.util.TestWebServer;

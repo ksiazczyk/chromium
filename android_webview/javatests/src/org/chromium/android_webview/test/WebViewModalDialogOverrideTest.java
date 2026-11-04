@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebViewModalDialogOverrideTest
+// summary: JUnit test suite verifying that Android WebView client callbacks for JavaScript alerts, prompts, and beforeunload modal dialogs display and function correctly.
+// relations:
+//   - depends_on /android_webview/javatests/src/org/chromium/android_webview/test/AwActivityTestRule.java
+// ---
+
 /** Test suite for displaying and functioning of modal dialogs. */
 package org.chromium.android_webview.test;
 

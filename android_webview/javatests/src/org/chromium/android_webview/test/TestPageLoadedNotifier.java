@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JavaScript-injected notifier for back/forward cache page loads
+// summary: Utility injected into JavaScript that completes a future when a page finishes loading, used with verify_bfcache.html to check loading behavior when BFCache is enabled.
+// relations:
+//   - references /android_webview/test/data/verify_bfcache.html
+// ---
+
 package org.chromium.android_webview.test;
 
 import android.webkit.JavascriptInterface;

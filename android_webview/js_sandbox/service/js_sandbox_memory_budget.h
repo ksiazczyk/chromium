@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JS sandbox memory budget header
+// summary: Declares a thread-safe memory budget class that limits and tracks allocations for the JS sandbox, with an unlimited-budget option.
+// relations:
+//   - depends_on /base/synchronization/lock.h
+//   - depends_on /base/thread_annotations.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_JS_SANDBOX_SERVICE_JS_SANDBOX_MEMORY_BUDGET_H_
 #define ANDROID_WEBVIEW_JS_SANDBOX_SERVICE_JS_SANDBOX_MEMORY_BUDGET_H_
 

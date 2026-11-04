@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for WebViewCrashInfoCollector
+// summary: Unit tests for WebViewCrashInfoCollector, which aggregates crash information from multiple crash info loaders, including hidden crashes and JSON log files.
+// ---
+
 package org.chromium.android_webview.test.devui.util;
 
 import static org.hamcrest.MatcherAssert.assertThat;

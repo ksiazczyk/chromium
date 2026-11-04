@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Find-in-page API test rule
+// summary: Test rule base class for WebView find-in-page API tests, providing helpers to run findAllAsync and findNext on the UI thread and await results.
+// relations:
+//   - depends_on /android_webview/javatests/src/org/chromium/android_webview/test/AwActivityTestRule.java
+// ---
+
 package org.chromium.android_webview.test;
 
 import androidx.test.InstrumentationRegistry;

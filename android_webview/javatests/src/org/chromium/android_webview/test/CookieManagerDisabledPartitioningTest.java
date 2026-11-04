@@ -1,6 +1,16 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: CookieManager disabled partitioning test
+// summary: Tests for the WebView CookieManager when cookie partitioning is disabled, covering first-party and third-party cookie acceptance.
+// relations:
+//   - references /android_webview/javatests/src/org/chromium/android_webview/test/CookieManagerTest.java
+//   - depends_on /android_webview/javatests/src/org/chromium/android_webview/test/AwActivityTestRule.java
+// ---
+
 package org.chromium.android_webview.test;
 
 import android.annotation.SuppressLint;

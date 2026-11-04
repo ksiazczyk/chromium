@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwContents popup favicon tests
+// summary: Tests popup favicon handling, using a tarpit server that never responds to keep the popup's navigation pending until the test adopts it.
+// relations:
+//   - depends_on /android_webview/javatests/src/org/chromium/android_webview/test/AwActivityTestRule.java
+// ---
+
 package org.chromium.android_webview.test;
 
 import androidx.test.filters.SmallTest;

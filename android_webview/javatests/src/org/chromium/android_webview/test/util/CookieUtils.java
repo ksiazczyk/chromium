@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CookieUtils
+// summary: Provides callback helpers and a synchronous clearCookies method for testing the WebView CookieManager.
+// ---
+
 package org.chromium.android_webview.test.util;
 
 import android.app.Instrumentation;

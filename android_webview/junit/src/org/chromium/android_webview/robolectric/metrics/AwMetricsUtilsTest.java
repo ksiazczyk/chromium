@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AwMetricsUtils
+// summary: Robolectric unit tests verifying that AwMetricsUtils hashes histogram names to the expected values, including cases matching the C++ metrics hash tests.
+// relations:
+//   - tests /android_webview/java/src/org/chromium/android_webview/metrics/AwMetricsUtils.java
+//   - references /base/metrics/metrics_hashes_unittest.cc
+// ---
+
 package org.chromium.android_webview.robolectric.metrics;
 
 import org.junit.Assert;

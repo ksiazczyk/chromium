@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MetricsBridgeServiceTest
+// summary: Instrumentation tests for MetricsBridgeService verifying that histogram records sent to the service can be retrieved and are cleared after retrieval.
+// ---
+
 package org.chromium.android_webview.test.services;
 
 import static org.chromium.android_webview.test.OnlyRunIn.ProcessMode.EITHER_PROCESS;

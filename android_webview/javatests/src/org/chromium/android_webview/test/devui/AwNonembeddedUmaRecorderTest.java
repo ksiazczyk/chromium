@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwNonembeddedUmaRecorderTest
+// summary: Unit tests for AwNonembeddedUmaRecorder verifying histogram recording through a mock metrics bridge service.
+// ---
+
 package org.chromium.android_webview.test.devui;
 
 import static org.chromium.android_webview.test.OnlyRunIn.ProcessMode.EITHER_PROCESS;

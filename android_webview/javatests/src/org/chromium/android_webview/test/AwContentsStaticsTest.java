@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwContentsStatics tests
+// summary: Tests static AwContents APIs such as clearing client certificate preferences and enforcing the cleartext traffic policy.
+// relations:
+//   - references /android_webview/test/data/hello_world.html
+//   - depends_on /android_webview/javatests/src/org/chromium/android_webview/test/AwActivityTestRule.java
+//   - tests /android_webview/java/src/org/chromium/android_webview/AwContentsStatics.java
+// ---
+
 package org.chromium.android_webview.test;
 
 import static org.chromium.android_webview.test.OnlyRunIn.ProcessMode.EITHER_PROCESS;
