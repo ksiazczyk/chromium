@@ -1,0 +1,4 @@
+# Docerion header of IDS_SETTINGS_PERFORMANCE_BATTERY_SAVER_MODE_ON_BATTERY_LABEL.png.sha1.
+type: asset
+title: SHA-1 checksum for battery saver on-battery label image
+summary: Stores the SHA-1 hash of the PNG image referenced by the IDS_SETTINGS_PERFORMANCE_BATTERY_SAVER_MODE_ON_BATTERY_LABEL string; the hash matches the below-threshold label file, so the same image is reused.

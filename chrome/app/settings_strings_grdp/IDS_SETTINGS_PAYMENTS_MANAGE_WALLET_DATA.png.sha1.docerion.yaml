@@ -1,0 +1,4 @@
+# Docerion header of IDS_SETTINGS_PAYMENTS_MANAGE_WALLET_DATA.png.sha1.
+type: asset
+title: SHA-1 checksum for manage Wallet data image
+summary: Stores the SHA-1 hash of the PNG image referenced by the IDS_SETTINGS_PAYMENTS_MANAGE_WALLET_DATA settings string for binary fetch and verification.
