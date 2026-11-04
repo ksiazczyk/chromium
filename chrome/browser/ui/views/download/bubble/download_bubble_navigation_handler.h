@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download bubble navigation handler interface
+// summary: Abstract interface for opening and closing the bubble dialogs, handling security button presses, and preventing bubble close on deactivation.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_DOWNLOAD_BUBBLE_DOWNLOAD_BUBBLE_NAVIGATION_HANDLER_H_
 #define CHROME_BROWSER_UI_VIEWS_DOWNLOAD_BUBBLE_DOWNLOAD_BUBBLE_NAVIGATION_HANDLER_H_
 

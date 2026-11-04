@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura bubble drag event handler implementation
+// summary: Implements mouse and gesture handling that drags non-platform-window-backed aura bubbles from caption areas while constraining movement to the source display.
+// ---
+
 #include "chrome/browser/ui/views/bubble/webui_bubble_event_handler_aura.h"
 
 #include "base/check_deref.h"

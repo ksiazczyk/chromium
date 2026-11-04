@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI bubble dialog view unit tests
+// summary: Unit tests that verify WebUIBubbleDialogView behavior, including responding to web view preferred size changes, parameterized over draggable region support.
+// ---
+
 #include "chrome/browser/ui/views/bubble/webui_bubble_dialog_view.h"
 
 #include <memory>

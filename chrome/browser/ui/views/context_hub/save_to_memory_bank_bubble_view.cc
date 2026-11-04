@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save to memory bank bubble view implementation
+// summary: Implements the bubble dialog that hosts a WebView loading the context hub save-to-memory-bank page, sets its size and styling, and closes the widget when the embedded contents finish.
+// ---
+
 #include "chrome/browser/ui/views/context_hub/save_to_memory_bank_bubble_view.h"
 
 #include <memory>

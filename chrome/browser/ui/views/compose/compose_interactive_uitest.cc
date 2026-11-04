@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Compose interactive UI browser tests
+// summary: Interactive browser tests driving the Compose dialog happy path against a test page with mocked optimization guide and identity services.
+// ---
+
 #include <memory>
 #include <optional>
 #include <utility>

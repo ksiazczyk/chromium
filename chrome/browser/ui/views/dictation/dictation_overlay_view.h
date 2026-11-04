@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictation overlay view header
+// summary: Declares DictationOverlayView, a small bubble overlay that tracks caret focus bounds and fullscreen changes during dictation.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_DICTATION_DICTATION_OVERLAY_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_DICTATION_DICTATION_OVERLAY_VIEW_H_
 

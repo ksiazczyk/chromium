@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Price insights icon view interactive UI test
+// summary: Interactive UI test covering the price insights icon, including feature promos, UKM logging, and shopping page detection.
+// ---
+
 #include "base/test/metrics/histogram_tester.h"
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/commerce/shopping_service_factory.h"

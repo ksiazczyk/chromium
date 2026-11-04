@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download toolbar UI controller browser tests
+// summary: Browser tests for the downloads toolbar button, covering show and hide behavior, accessibility and web app frame toolbar integration.
+// ---
+
 #include "chrome/browser/ui/views/download/bubble/download_toolbar_ui_controller.h"
 
 #include "base/files/file_path.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks close button controller implementation
+// summary: Implements the controller that decides when the contextual tasks close tab button shows, based on side panel visibility, eligibility, and tab strip mode.
+// ---
+
 #include "chrome/browser/ui/views/contextual_tasks/contextual_tasks_close_button_controller.h"
 
 #include "base/functional/bind.h"

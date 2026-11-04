@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini app restart dialog implementation
+// summary: Implements AppRestartDialog, which shows a system-modal dialog on a given display telling the user a Crostini app needs restarting.
+// ---
+
 #include "chrome/browser/ui/views/crostini/crostini_app_restart_dialog.h"
 
 #include "ash/strings/grit/ash_strings.h"

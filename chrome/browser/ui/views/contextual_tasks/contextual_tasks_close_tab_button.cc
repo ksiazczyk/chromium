@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks close tab button implementation
+// summary: Implements the contextual tasks toolbar button that closes the active tab, expands the side panel, and records user action metrics.
+// ---
+
 #include "chrome/browser/ui/views/contextual_tasks/contextual_tasks_close_tab_button.h"
 
 #include "base/functional/bind.h"

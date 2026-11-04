@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for contextual tasks views
+summary: Points the folder to the shared contextual tasks COMMON_METADATA mixins for directory metadata.

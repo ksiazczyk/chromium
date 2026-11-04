@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Exclusive access bubble views implementation
+// summary: Implements the views-based bubble showing exit instructions for fullscreen, keyboard lock, and pointer lock modes, including menu dismissal and presentation watchdog logic.
+// ---
+
 #include "chrome/browser/ui/views/exclusive_access/exclusive_access_bubble_views.h"
 
 #include <utility>

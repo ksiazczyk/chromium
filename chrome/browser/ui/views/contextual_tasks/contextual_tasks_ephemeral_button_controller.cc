@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks ephemeral button controller implementation
+// summary: Implements the controller that shows or hides the contextual tasks toolbar button based on task associations, side panel state, and AIM eligibility.
+// ---
+
 #include "chrome/browser/ui/views/contextual_tasks/contextual_tasks_ephemeral_button_controller.h"
 
 #include <algorithm>

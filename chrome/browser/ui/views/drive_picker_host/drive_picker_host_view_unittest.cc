@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Drive Picker Host view unit tests
+// summary: Unit tests for the Drive Picker Host view using mock WebUI controllers to verify initialization and picker UI triggering.
+// ---
+
 #include "chrome/browser/ui/views/drive_picker_host/drive_picker_host_view.h"
 
 #include "chrome/browser/ui/browser_window/test/mock_browser_window_interface.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Discounts coupon code label view header
+// summary: Declares the coupon code label view that displays a promo code with a copy button in the discounts bubble.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_COMMERCE_DISCOUNTS_COUPON_CODE_LABEL_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_COMMERCE_DISCOUNTS_COUPON_CODE_LABEL_VIEW_H_
 

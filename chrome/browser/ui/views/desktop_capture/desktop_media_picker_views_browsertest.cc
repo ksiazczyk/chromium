@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop media picker views browser tests
+// summary: Browser tests that show the desktop media picker dialog with fake media lists to exercise dialog UI interactions, source lists, and dismissal behavior.
+// ---
+
 #include "chrome/browser/ui/views/desktop_capture/desktop_media_picker_views.h"
 
 #include <memory>

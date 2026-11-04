@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the device signals consent directory
+summary: Delegates code ownership for this directory to the owners file of the device signals component.

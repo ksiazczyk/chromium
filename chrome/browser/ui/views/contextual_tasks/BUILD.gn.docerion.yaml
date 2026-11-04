@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Contextual tasks views build targets
+summary: Defines GN source sets for the contextual tasks views headers, their implementation, and interactive UI tests with their dependencies.

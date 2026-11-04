@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Drive Picker Host controller unit tests
+// summary: Unit tests for the Drive Picker Host controller covering dialog sizing, modal behavior, and widget lifetime under the Omnibox Everywhere feature.
+// ---
+
 #include "chrome/browser/ui/views/drive_picker_host/drive_picker_host_controller.h"
 
 #include <memory>

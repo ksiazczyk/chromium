@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download bubble partial view implementation
+// summary: Implements the compact partial view of recent downloads, including the checkbox row that lets users suppress the partial bubble view.
+// ---
+
 #include "chrome/browser/ui/views/download/bubble/download_bubble_partial_view.h"
 
 #include <string_view>

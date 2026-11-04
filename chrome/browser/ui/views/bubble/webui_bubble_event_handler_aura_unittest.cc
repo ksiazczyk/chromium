@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Aura bubble drag event handler unit tests
+// summary: Unit tests verifying window dragging via mouse and touch gestures in caption areas and that drags are ignored in client areas.
+// ---
+
 #include "chrome/browser/ui/views/bubble/webui_bubble_event_handler_aura.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

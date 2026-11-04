@@ -1,0 +1,4 @@
+# Docerion header of desktop_media_permission_pane_view_mac_unittest.mm.
+type: test
+title: Mac desktop media permission pane view unit tests
+summary: Unit test that simulates clicking the permission button and verifies the settings callback runs and the clicked state is recorded.

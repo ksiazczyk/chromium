@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download bubble started animation implementation
+// summary: Implements the two-phase linear animation that moves a download icon from the page center up to the download bubble toolbar icon while fading in and out.
+// ---
+
 #include "chrome/browser/ui/views/download/bubble/download_bubble_started_animation_views.h"
 
 #include "chrome/app/vector_icons/vector_icons.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Dictation views BUILD.gn build definition
+summary: Defines the dictation source_set and unit_tests targets with their sources, public headers and dependencies for the GN build.

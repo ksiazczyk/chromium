@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Drive Picker Host code owners
+summary: Delegates ownership to the drive_picker_host WebUI OWNERS file and requires security review for Mojom changes.

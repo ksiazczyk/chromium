@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dictation bubble UI unit tests
+// summary: Unit tests verifying state propagation to the waveform and toggle button, plus layout and interaction behaviour of the bubble.
+// ---
+
 #include "chrome/browser/ui/views/dictation/dictation_bubble_ui.h"
 
 #include <memory>

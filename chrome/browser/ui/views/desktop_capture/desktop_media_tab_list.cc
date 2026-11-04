@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop media tab list implementation
+// summary: Implements the tab list view of the desktop media picker, showing castable tabs in a table with previews and UMA tracking of discarded tab highlights.
+// ---
+
 #include "chrome/browser/ui/views/desktop_capture/desktop_media_tab_list.h"
 
 #include "base/memory/raw_ptr.h"

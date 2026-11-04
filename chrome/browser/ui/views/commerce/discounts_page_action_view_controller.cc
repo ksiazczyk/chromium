@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Discounts page action view controller implementation
+// summary: Implements the controller that shows or hides the discounts page action icon and decides when to open the discounts bubble.
+// ---
+
 #include "chrome/browser/ui/views/commerce/discounts_page_action_view_controller.h"
 
 #include <vector>

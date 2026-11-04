@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crostini app restart dialog unit tests
+// summary: Unit tests verifying the app restart dialog has only an OK button, is system modal, and uses the modal dialog preferred width.
+// ---
+
 #include "chrome/browser/ui/views/crostini/crostini_app_restart_dialog.h"
 
 #include "chrome/test/views/chrome_views_test_base.h"

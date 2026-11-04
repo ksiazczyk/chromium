@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download bubble security view implementation
+// summary: Implements the security subpage of the download bubble that shows danger warnings, deep scan status, and password prompts with command buttons.
+// ---
+
 #include "chrome/browser/ui/views/download/bubble/download_bubble_security_view.h"
 
 #include "base/memory/raw_ptr.h"

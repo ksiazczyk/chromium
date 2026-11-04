@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Button dump accessibility events browser test
+// summary: Browser test that records accessibility events fired by a label button during click, focus, and enabled-state changes across platforms.
+// ---
+
 #include "chrome/browser/ui/views/accessibility/dump_accessibility_events_views_browsertest_base.h"
 #include "content/public/test/browser_test.h"
 #include "ui/events/test/event_generator.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI bubble reopen suppressor implementation
+// summary: Implements WebUIBubbleReopenSuppressor, which suppresses unintentional bubble reopening within a time window after the bubble widget closes.
+// ---
+
 #include "chrome/browser/ui/views/bubble/webui_bubble_reopen_suppressor.h"
 
 #include "ui/views/mouse_constants.h"

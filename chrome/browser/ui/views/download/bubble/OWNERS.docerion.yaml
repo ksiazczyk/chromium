@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the download bubble views folder
+summary: Points to the OWNERS file in chrome/browser/download/bubble to delegate code ownership and review responsibility for this folder.

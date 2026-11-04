@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Save to Memory Bank bubble view unit tests
+// summary: Views unit tests verifying bubble creation, the localized window title, and that CloseContents closes the bubble widget.
+// ---
+
 #include "chrome/browser/ui/views/context_hub/save_to_memory_bank_bubble_view.h"
 
 #include <memory>

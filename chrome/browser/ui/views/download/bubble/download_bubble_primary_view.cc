@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download bubble primary view implementation
+// summary: Implements the base view for the download bubble's main and partial pages, building the scrollable row list and an optional off-the-record info banner.
+// ---
+
 #include "chrome/browser/ui/views/download/bubble/download_bubble_primary_view.h"
 
 #include <string_view>

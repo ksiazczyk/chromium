@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the desktop capture UI directory
+summary: Lists the Chromium reviewers responsible for approving changes in this directory.

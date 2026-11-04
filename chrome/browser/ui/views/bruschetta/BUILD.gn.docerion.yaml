@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Bruschetta views build definition
+summary: Defines the static library and browser test build targets for the Bruschetta installer and uninstaller views.

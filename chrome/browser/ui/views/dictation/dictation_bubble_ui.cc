@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictation bubble UI implementation
+// summary: Implements the dictation toast bubble, including waveform, toggle and close buttons, state updates and audio level display.
+// ---
+
 #include "chrome/browser/ui/views/dictation/dictation_bubble_ui.h"
 
 #include "base/memory/raw_ptr.h"

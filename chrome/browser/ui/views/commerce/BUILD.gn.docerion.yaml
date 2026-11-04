@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Commerce views build configuration (BUILD.gn)
+summary: GN build file defining source sets for the commerce UI views and their unit, browser, and interactive UI tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictation overlay view implementation
+// summary: Implements the teardrop-shaped overlay with mic button and waveform that follows the caret during an active dictation stream.
+// ---
+
 #include "chrome/browser/ui/views/dictation/dictation_overlay_view.h"
 
 #include <memory>

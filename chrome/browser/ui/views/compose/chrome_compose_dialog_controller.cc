@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Compose dialog controller implementation
+// summary: Implements ChromeComposeDialogController and ShowComposeDialog to create and show the Compose bubble dialog for a web contents, logging open results.
+// ---
+
 #include "chrome/browser/ui/views/compose/chrome_compose_dialog_controller.h"
 
 #include "base/functional/callback.h"

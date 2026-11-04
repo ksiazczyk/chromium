@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for download UI views
+summary: Defines the download source_set with its sources and dependencies, adding bubble and animation views only on non-ChromeOS platforms.

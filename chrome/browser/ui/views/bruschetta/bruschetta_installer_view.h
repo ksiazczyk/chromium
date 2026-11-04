@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bruschetta installer dialog class declaration
+// summary: Declares the dialog view that observes and drives the Bruschetta installation process for a guest VM.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_BRUSCHETTA_BRUSCHETTA_INSTALLER_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_BRUSCHETTA_BRUSCHETTA_INSTALLER_VIEW_H_
 

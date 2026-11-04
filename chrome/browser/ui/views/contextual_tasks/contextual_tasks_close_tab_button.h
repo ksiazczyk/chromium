@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks close tab button class declaration
+// summary: Declares ContextualTasksCloseTabButton, a toolbar button that closes the active tab and updates its visibility through the close button controller.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_CONTEXTUAL_TASKS_CONTEXTUAL_TASKS_CLOSE_TAB_BUTTON_H_
 #define CHROME_BROWSER_UI_VIEWS_CONTEXTUAL_TASKS_CONTEXTUAL_TASKS_CLOSE_TAB_BUTTON_H_
 

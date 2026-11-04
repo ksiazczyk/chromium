@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price tracking view header
+// summary: Declares PriceTrackingView, a FlexLayoutView implementing the commerce SubscriptionsObserver for toggling price tracking on product pages.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_COMMERCE_PRICE_TRACKING_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_COMMERCE_PRICE_TRACKING_VIEW_H_
 

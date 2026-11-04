@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crostini dialog browser test utility header
+// summary: Declares CrostiniDialogBrowserTest, a common base class for Crostini dialog browser tests that can wait for page loads.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_CROSTINI_CROSTINI_DIALOGUE_BROWSER_TEST_UTIL_H_
 #define CHROME_BROWSER_UI_VIEWS_CROSTINI_CROSTINI_DIALOGUE_BROWSER_TEST_UTIL_H_
 

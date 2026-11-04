@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Drive picker sanitizer unit tests
+// summary: Unit tests verifying that the sanitizer accepts valid Drive files and blocks invalid IDs, unsupported types, and untrusted or non-HTTPS thumbnail URLs.
+// ---
+
 #include "chrome/browser/ui/views/drive_picker_host/drive_picker_sanitizer.h"
 
 #include "chrome/browser/ui/views/drive_picker_host/drive_picker_result_handler.mojom.h"

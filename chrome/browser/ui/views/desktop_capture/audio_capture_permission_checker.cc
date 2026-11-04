@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio capture permission checker implementation
+// summary: Implements the checker factory with test override and Mac-only UMA recording for audio capture permission interactions.
+// ---
+
 #include "chrome/browser/ui/views/desktop_capture/audio_capture_permission_checker.h"
 
 #include "build/build_config.h"

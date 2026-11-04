@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crostini recovery view browser tests
+// summary: Browser tests covering the recovery dialog flow, including unclean startup setup, button behavior, and histogram logging.
+// ---
+
 #include "chrome/browser/ui/views/crostini/crostini_recovery_view.h"
 
 #include "base/feature_list.h"

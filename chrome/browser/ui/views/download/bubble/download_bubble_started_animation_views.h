@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download bubble started animation header
+// summary: Declares the download-started animation that moves and fades an icon upward toward the download bubble toolbar icon.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_DOWNLOAD_BUBBLE_DOWNLOAD_BUBBLE_STARTED_ANIMATION_VIEWS_H_
 #define CHROME_BROWSER_UI_VIEWS_DOWNLOAD_BUBBLE_DOWNLOAD_BUBBLE_STARTED_ANIMATION_VIEWS_H_
 

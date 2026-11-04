@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RichControlsContainerView class declaration
+// summary: Declares a flex layout container combining an icon, title, secondary labels, and control views in one row.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_CONTROLS_RICH_CONTROLS_CONTAINER_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_CONTROLS_RICH_CONTROLS_CONTAINER_VIEW_H_
 

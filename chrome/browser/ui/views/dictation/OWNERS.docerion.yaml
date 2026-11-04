@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Dictation views code owners
+summary: Redirects ownership review to the OWNERS file of chrome/browser/dictation for this views directory.

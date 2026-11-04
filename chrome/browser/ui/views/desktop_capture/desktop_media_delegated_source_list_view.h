@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delegated source list view class declaration
+// summary: Declares DesktopMediaDelegatedSourceListView, a controller list view for delegated source lists without thumbnail previews, forwarding source list events.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_DESKTOP_CAPTURE_DESKTOP_MEDIA_DELEGATED_SOURCE_LIST_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_DESKTOP_CAPTURE_DESKTOP_MEDIA_DELEGATED_SOURCE_LIST_VIEW_H_
 

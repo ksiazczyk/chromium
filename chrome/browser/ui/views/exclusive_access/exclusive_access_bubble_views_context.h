@@ -1,6 +1,13 @@
 // Copyright 2015 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: ExclusiveAccessBubbleViewsContext interface
+// summary: Declares the abstract context interface supplying the exclusive access manager, accelerator provider, bubble parent view, and window bounds to the bubble.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_EXCLUSIVE_ACCESS_EXCLUSIVE_ACCESS_BUBBLE_VIEWS_CONTEXT_H_
 #define CHROME_BROWSER_UI_VIEWS_EXCLUSIVE_ACCESS_EXCLUSIVE_ACCESS_BUBBLE_VIEWS_CONTEXT_H_
 

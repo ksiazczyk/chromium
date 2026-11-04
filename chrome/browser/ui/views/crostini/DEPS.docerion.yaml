@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Crostini UI views
+summary: Sets include rules that allow needed Ash and Chrome dependencies while restricting general //chrome includes for the Crostini views directory.

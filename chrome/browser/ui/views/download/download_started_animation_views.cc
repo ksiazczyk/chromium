@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download started animation implementation
+// summary: Implements the translucent popup that animates a download-started image over the web contents and closes itself when the animation finishes.
+// ---
+
 #include "chrome/browser/ui/views/download/download_started_animation_views.h"
 
 #include "base/memory/raw_ptr.h"

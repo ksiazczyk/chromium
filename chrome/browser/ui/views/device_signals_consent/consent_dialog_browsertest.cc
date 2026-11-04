@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the device signals consent dialog
+// summary: In-process browser test that checks the consent dialog body text for managed profiles and domains using mock policy providers, with the Windows case disabled.
+// ---
+
 #include "base/strings/utf_string_conversions.h"
 #include "base/test/scoped_feature_list.h"
 #include "base/values.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExclusiveAccessBubbleViews class declaration
+// summary: Declares the ExclusiveAccessBubbleViews class that displays exit-instruction bubbles for exclusive access modes, with animation, repositioning, and testing hooks.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_EXCLUSIVE_ACCESS_EXCLUSIVE_ACCESS_BUBBLE_VIEWS_H_
 #define CHROME_BROWSER_UI_VIEWS_EXCLUSIVE_ACCESS_EXCLUSIVE_ACCESS_BUBBLE_VIEWS_H_
 

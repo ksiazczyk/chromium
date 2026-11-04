@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Compose dialog view unit tests
+// summary: Parameterized unit tests verifying CalculateBubbleBounds keeps the dialog onscreen below, above or beside the anchor across fallback strategies.
+// ---
+
 #include "chrome/browser/ui/views/compose/compose_dialog_view.h"
 
 #include "components/compose/core/browser/config.h"

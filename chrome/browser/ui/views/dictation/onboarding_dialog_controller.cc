@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictation onboarding dialog controller implementation
+// summary: Implements the dictation onboarding dialog with banner image, styled text, learn-more link and accept or cancel handling.
+// ---
+
 #include "chrome/browser/ui/views/dictation/onboarding_dialog_controller.h"
 
 #include <utility>

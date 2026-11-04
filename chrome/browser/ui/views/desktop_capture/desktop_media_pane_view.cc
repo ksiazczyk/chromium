@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop media pane view implementation
+// summary: Implements the pane view wrapping the content pane, switching between content and a Mac screen-capture permission pane based on permission updates.
+// ---
+
 #include "chrome/browser/ui/views/desktop_capture/desktop_media_pane_view.h"
 
 #include <string_view>

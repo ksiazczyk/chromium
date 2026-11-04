@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crostini uninstaller view browser tests
+// summary: Browser tests for the uninstaller dialog, using a fake Concierge client to verify the uninstall flow and view destruction.
+// ---
+
 #include "chrome/browser/ui/views/crostini/crostini_uninstaller_view.h"
 
 #include "base/memory/ptr_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Share-this-tab source view implementation
+// summary: Implements the view showing the shared tab's thumbnail, favicon and title, with periodic frame capture and enterprise screenshot-protection checks.
+// ---
+
 #include "chrome/browser/ui/views/desktop_capture/share_this_tab_source_view.h"
 
 #include "base/compiler_specific.h"

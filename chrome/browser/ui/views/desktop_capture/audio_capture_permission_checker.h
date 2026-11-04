@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio capture permission checker interface
+// summary: Declares the permission checker interface, its state enum, the UMA interaction enum, and a factory for testing.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_DESKTOP_CAPTURE_AUDIO_CAPTURE_PERMISSION_CHECKER_H_
 #define CHROME_BROWSER_UI_VIEWS_DESKTOP_CAPTURE_AUDIO_CAPTURE_PERMISSION_CHECKER_H_
 

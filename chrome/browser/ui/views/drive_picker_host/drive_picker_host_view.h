@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive Picker Host view header
+// summary: Declares the trusted UI container hosting the Drive Picker WebUI, acting as WebContents delegate and DrivePickerHostUI delegate for the overlay.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_DRIVE_PICKER_HOST_DRIVE_PICKER_HOST_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_DRIVE_PICKER_HOST_DRIVE_PICKER_HOST_VIEW_H_
 

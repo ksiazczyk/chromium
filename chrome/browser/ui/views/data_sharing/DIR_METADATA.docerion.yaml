@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for data sharing views
+summary: Points the directory to the shared data sharing COMMON_METADATA mixins for Chromium directory metadata.

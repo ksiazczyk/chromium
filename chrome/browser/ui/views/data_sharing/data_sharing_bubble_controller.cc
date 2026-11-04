@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data sharing bubble controller implementation
+// summary: Implements the per-browser controller that hosts the data sharing WebUI bubble, anchors it to tab groups and handles link opening and callbacks.
+// ---
+
 #include "chrome/browser/ui/views/data_sharing/data_sharing_bubble_controller.h"
 
 #include "base/check_deref.h"

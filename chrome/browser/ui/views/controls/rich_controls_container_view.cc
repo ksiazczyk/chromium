@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RichControlsContainerView implementation
+// summary: Implements a page-info style row layout with an icon, title, secondary labels, and trailing controls.
+// ---
+
 #include "chrome/browser/ui/views/controls/rich_controls_container_view.h"
 
 #include <string_view>

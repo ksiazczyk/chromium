@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Audio permission warning view interface
+// summary: Declares a view that warns users about missing system audio permission with cancel and open-system-settings buttons.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_DESKTOP_CAPTURE_AUDIO_PERMISSION_WARNING_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_DESKTOP_CAPTURE_AUDIO_PERMISSION_WARNING_VIEW_H_
 

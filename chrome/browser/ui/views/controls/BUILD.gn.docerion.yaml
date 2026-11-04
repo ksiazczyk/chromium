@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Controls views build definition
+summary: GN build file defining the controls source set, its dependencies, unit tests, and accessibility browser tests.

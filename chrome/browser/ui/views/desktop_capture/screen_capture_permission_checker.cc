@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen capture permission checker implementation
+// summary: Creates a platform-specific screen capture permission checker, returning the Mac implementation or nullptr on other platforms.
+// ---
+
 #include "chrome/browser/ui/views/desktop_capture/screen_capture_permission_checker.h"
 
 #include "build/build_config.h"

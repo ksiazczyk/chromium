@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Share-this-tab source view header
+// summary: Declares ShareThisTabSourceView, which displays a preview, favicon and title for the tab being shared, or a throbber before activation.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_DESKTOP_CAPTURE_SHARE_THIS_TAB_SOURCE_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_DESKTOP_CAPTURE_SHARE_THIS_TAB_SOURCE_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account card view class declaration
+// summary: Declares AccountCardView, a views::View subclass that displays account information for the data sharing UI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_DATA_SHARING_ACCOUNT_CARD_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_DATA_SHARING_ACCOUNT_CARD_VIEW_H_
 

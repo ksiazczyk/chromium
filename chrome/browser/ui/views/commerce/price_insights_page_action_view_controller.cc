@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price insights page action view controller implementation
+// summary: Implements the controller that shows, hides, and expands the price insights page action icon based on the tab's commerce context.
+// ---
+
 #include "chrome/browser/ui/views/commerce/price_insights_page_action_view_controller.h"
 
 #include "chrome/browser/ui/actions/chrome_action_id.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shopping collection IPH view header
+// summary: Declares ShoppingCollectionIphView, a view displaying in-product help content for shopping collections.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_COMMERCE_SHOPPING_COLLECTION_IPH_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_COMMERCE_SHOPPING_COLLECTION_IPH_VIEW_H_
 

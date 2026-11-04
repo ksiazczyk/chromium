@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Digital identity integration test
+// summary: In-process browser test covering end-to-end digital identity request flows and the desktop safety interstitial logic using a fake digital identity provider.
+// ---
+
 #include <memory>
 #include <string>
 

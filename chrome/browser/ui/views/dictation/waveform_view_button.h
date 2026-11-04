@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictation waveform view button header
+// summary: Declares WaveformViewButton, a button wrapper around WaveformView exposing dictation state and audio level controls.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_DICTATION_WAVEFORM_VIEW_BUTTON_H_
 #define CHROME_BROWSER_UI_VIEWS_DICTATION_WAVEFORM_VIEW_BUTTON_H_
 

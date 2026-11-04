@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictation reviewing page status view implementation
+// summary: Implements the transient reviewing-page status shown in the dictation bubble, with an auto-dismiss timer that pauses while the bubble is hovered or focused.
+// ---
+
 #include "chrome/browser/ui/views/dictation/reviewing_page_status_view.h"
 
 #include "chrome/browser/ui/views/chrome_layout_provider.h"

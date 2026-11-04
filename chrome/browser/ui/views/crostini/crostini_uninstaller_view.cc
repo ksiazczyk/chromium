@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini uninstaller dialog implementation
+// summary: Implements the uninstaller dialog that warns the user, removes Crostini with a progress bar, and logs the uninstall result.
+// ---
+
 #include "chrome/browser/ui/views/crostini/crostini_uninstaller_view.h"
 
 #include "ash/strings/grit/ash_strings.h"

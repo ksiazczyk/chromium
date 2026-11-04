@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the Crostini update filesystem dialog
+// summary: Browser tests that launch the CrostiniUpdateFilesystemView dialog, verify its buttons and widget lifecycle, and check recorded histogram samples.
+// ---
+
 #include "chrome/browser/ui/views/crostini/crostini_update_filesystem_view.h"
 
 #include "base/functional/callback_helpers.h"

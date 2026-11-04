@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Data sharing live browser tests
+// summary: End-to-end live browser test that exercises shared tab group UI with real sign-in and sync against a sandbox sync server.
+// ---
+
 #include "base/command_line.h"
 #include "base/scoped_observation.h"
 #include "base/test/bind.h"

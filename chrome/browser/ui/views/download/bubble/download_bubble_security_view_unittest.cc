@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download bubble security view unit tests
+// summary: Unit tests for the download bubble security view, using mock navigation handlers and download items to verify security subpage behavior.
+// ---
+
 #include "chrome/browser/ui/views/download/bubble/download_bubble_security_view.h"
 
 #include "base/command_line.h"

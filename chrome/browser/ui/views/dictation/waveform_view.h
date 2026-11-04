@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictation waveform view header
+// summary: Declares WaveformView, a custom view drawing an animated voice waveform of vertical bars that responds to dictation state and mic volume.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_DICTATION_WAVEFORM_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_DICTATION_WAVEFORM_VIEW_H_
 

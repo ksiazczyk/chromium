@@ -1,0 +1,4 @@
+# Docerion header of screen_capture_permission_checker_mac.mm.
+type: source
+title: Mac screen capture permission checker implementation
+summary: Implements the Mac screen capture permission checker with feature flags controlling periodic permission checks and settings prompts on macOS.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HoverButtonController implementation
+// summary: Implements mouse, key, and gesture event handling that triggers the HoverButton callback and ink drop states.
+// ---
+
 #include "chrome/browser/ui/views/controls/hover_button_controller.h"
 
 #include "chrome/browser/ui/views/controls/hover_button.h"

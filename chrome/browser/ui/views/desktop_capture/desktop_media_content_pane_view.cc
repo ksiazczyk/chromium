@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop media content pane view implementation
+// summary: Implements the picker's content pane, laying out media source content with an optional share-audio control, audio recommendation card, and Mac audio warning view.
+// ---
+
 #include "chrome/browser/ui/views/desktop_capture/desktop_media_content_pane_view.h"
 
 #include <memory>

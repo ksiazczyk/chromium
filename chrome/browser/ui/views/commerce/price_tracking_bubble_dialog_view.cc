@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price tracking bubble dialog view implementation
+// summary: Implements the location bar price tracking bubble dialog, including the first-use experience and bookmark folder handling.
+// ---
+
 #include "chrome/browser/ui/views/commerce/price_tracking_bubble_dialog_view.h"
 
 #include "base/functional/callback_helpers.h"

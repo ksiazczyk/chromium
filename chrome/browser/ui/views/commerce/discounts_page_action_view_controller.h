@@ -3,6 +3,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Discounts page action view controller header
+// summary: Declares the controller that coordinates the visual state of the Discounts page-action icon and suggestion chip for a tab.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_COMMERCE_DISCOUNTS_PAGE_ACTION_VIEW_CONTROLLER_H_
 #define CHROME_BROWSER_UI_VIEWS_COMMERCE_DISCOUNTS_PAGE_ACTION_VIEW_CONTROLLER_H_
 

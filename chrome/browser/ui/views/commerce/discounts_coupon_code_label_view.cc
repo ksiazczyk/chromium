@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Discounts coupon code label view implementation
+// summary: Implements the promo code label with a copy-to-clipboard button shown inside the discounts bubble.
+// ---
+
 #include "chrome/browser/ui/views/commerce/discounts_coupon_code_label_view.h"
 
 #include <utility>

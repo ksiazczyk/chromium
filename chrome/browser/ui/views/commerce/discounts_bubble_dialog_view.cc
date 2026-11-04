@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Discounts bubble dialog view implementation
+// summary: Implements the bubble dialog that presents available discounts for the current page, with main and terms and conditions pages.
+// ---
+
 #include "chrome/browser/ui/views/commerce/discounts_bubble_dialog_view.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download UI context menu view class declaration
+// summary: Declares DownloadUiContextMenuView, which displays the download context menu via views::MenuRunner and tracks menu close time and command execution metrics.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_DOWNLOAD_DOWNLOAD_UI_CONTEXT_MENU_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_DOWNLOAD_DOWNLOAD_UI_CONTEXT_MENU_VIEW_H_
 

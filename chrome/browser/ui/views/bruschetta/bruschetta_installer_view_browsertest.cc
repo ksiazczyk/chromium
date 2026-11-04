@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bruschetta installer dialog browser tests
+// summary: Browser tests for the installer dialog using a mock installer to verify UI states, messages and accessibility.
+// ---
+
 #include "chrome/browser/ui/views/bruschetta/bruschetta_installer_view.h"
 
 #include <memory>

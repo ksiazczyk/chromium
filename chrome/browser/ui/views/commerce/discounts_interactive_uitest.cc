@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Discounts interactive UI tests
+// summary: Parametrized interactive tests covering discounts bubble display, auto-popup behavior, metrics, and coupon copy flows.
+// ---
+
 #include <optional>
 
 #include "base/strings/strcat.h"

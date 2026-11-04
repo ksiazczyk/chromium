@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for download views
+summary: Points this directory to the shared download component metadata mixins used for Chromium directory tracking.

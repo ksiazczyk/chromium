@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictation reviewing page status view header
+// summary: Declares ReviewingPageStatusView, a transient dictation bubble status indicating page contents are being reviewed, with timeout and hover/focus pause behavior.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_DICTATION_REVIEWING_PAGE_STATUS_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_DICTATION_REVIEWING_PAGE_STATUS_VIEW_H_
 

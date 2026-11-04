@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price tracking view implementation
+// summary: Implements the price tracking toggle view shown in the bookmark bubble, including icon, labels, and email notification messaging.
+// ---
+
 #include "chrome/browser/ui/views/commerce/price_tracking_view.h"
 
 #include "base/metrics/user_metrics.h"

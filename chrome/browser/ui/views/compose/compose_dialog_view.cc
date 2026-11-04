@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compose dialog view implementation
+// summary: Implements the Compose dialog bubble view, including bubble bounds calculation with fallback positioning strategies and context menu handling.
+// ---
+
 #include "chrome/browser/ui/views/compose/compose_dialog_view.h"
 
 #include <vector>

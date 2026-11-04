@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data sharing UI utilities implementation
+// summary: Implements helpers that build share, join, and manage WebUI URLs and process shared tab group preview outcomes for the data sharing UI.
+// ---
+
 #include "chrome/browser/ui/views/data_sharing/data_sharing_utils.h"
 
 #include <optional>

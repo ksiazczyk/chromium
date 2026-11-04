@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI bubble manager unit tests
+// summary: Unit tests verifying WebUIBubbleManager bubble creation with anchor views and anchor rects using mock browser window interfaces.
+// ---
+
 #include "chrome/browser/ui/views/bubble/webui_bubble_manager.h"
 
 #include "chrome/browser/ui/browser_window/test/mock_browser_window_interface.h"

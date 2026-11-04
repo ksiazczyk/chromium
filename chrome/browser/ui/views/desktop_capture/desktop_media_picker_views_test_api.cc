@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop media picker views test API implementation
+// summary: Implements helpers letting tests focus, press, and select picker sources, switch tabs, and inspect audio and button states of the picker dialog.
+// ---
+
 #include "chrome/browser/ui/views/desktop_capture/desktop_media_picker_views_test_api.h"
 
 #include <algorithm>

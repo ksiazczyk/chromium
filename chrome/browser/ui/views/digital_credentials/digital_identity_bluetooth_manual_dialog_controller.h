@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth manual dialog controller header
+// summary: Declares the controller class that shows the manual Bluetooth power-on step of the digital identity dialog flow.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_DIGITAL_CREDENTIALS_DIGITAL_IDENTITY_BLUETOOTH_MANUAL_DIALOG_CONTROLLER_H_
 #define CHROME_BROWSER_UI_VIEWS_DIGITAL_CREDENTIALS_DIGITAL_IDENTITY_BLUETOOTH_MANUAL_DIALOG_CONTROLLER_H_
 

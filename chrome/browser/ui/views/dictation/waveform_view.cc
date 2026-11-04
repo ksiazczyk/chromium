@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictation waveform view implementation
+// summary: Implements the animated voice waveform view that draws vertical rounded bars driven by mic audio level and plays a traveling wave animation during finalizing.
+// ---
+
 #include "chrome/browser/ui/views/dictation/waveform_view.h"
 
 #include <algorithm>

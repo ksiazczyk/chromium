@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks close button controller header
+// summary: Declares the controller that tracks panel and mode state to trigger visibility of the contextual tasks close tab button.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_CONTEXTUAL_TASKS_CONTEXTUAL_TASKS_CLOSE_BUTTON_CONTROLLER_H_
 #define CHROME_BROWSER_UI_VIEWS_CONTEXTUAL_TASKS_CONTEXTUAL_TASKS_CLOSE_BUTTON_CONTROLLER_H_
 

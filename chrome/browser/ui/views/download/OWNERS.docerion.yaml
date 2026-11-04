@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for download views
+summary: Delegates code review ownership for this directory to the components/download OWNERS file.

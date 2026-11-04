@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download bubble row list view browser test
+// summary: In-process browser test that verifies the download bubble row list view adds, removes, and displays rows for mock download items.
+// ---
+
 #include "chrome/browser/ui/views/download/bubble/download_bubble_row_list_view.h"
 
 #include <optional>

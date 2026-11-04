@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pen ID browser test for Windows
+// summary: Windows browser test that simulates pen pointer events with a fake IPenDevice and verifies pen device IDs are reported to web content.
+// ---
+
 #include <stdint.h>
 
 #include <memory>

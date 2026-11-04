@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download in-progress dialog view implementation
+// summary: Implements the modal dialog warning users about active downloads when closing the browser, the last incognito window, or a guest session.
+// ---
+
 #include "chrome/browser/ui/views/download/download_in_progress_dialog_view.h"
 
 #include "chrome/browser/ui/views/chrome_layout_provider.h"

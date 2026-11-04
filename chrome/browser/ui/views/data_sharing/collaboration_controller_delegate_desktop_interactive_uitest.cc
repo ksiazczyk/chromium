@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Collaboration controller delegate interactive UI tests
+// summary: Interactive browser tests exercising the desktop collaboration delegate's dialogs, sign-in and sync states, and flow outcomes.
+// ---
+
 #include "chrome/browser/ui/views/data_sharing/collaboration_controller_delegate_desktop.h"
 
 #include <memory>

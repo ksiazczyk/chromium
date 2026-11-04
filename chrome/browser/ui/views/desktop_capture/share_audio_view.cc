@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShareAudioView implementation
+// summary: Implements the view with an audio-sharing toggle and label used in desktop capture share dialogs, including boxed and default styles.
+// ---
+
 #include "chrome/browser/ui/views/desktop_capture/share_audio_view.h"
 
 #include <string_view>

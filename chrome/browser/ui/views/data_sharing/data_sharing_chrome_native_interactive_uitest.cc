@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Data sharing Chrome native UI interactive tests
+// summary: Interactive browser tests that verify the share bubble and tab group editor flows for shared tab groups in Chrome's native UI.
+// ---
+
 #include <optional>
 #include <string>
 

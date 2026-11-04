@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Price tracking email dialog browser tests
+// summary: Browser tests verifying that accepting, rejecting, or closing the price tracking email consent dialog updates the email notification preference.
+// ---
+
 #include "chrome/browser/ui/views/commerce/price_tracking_email_dialog_view.h"
 
 #include "chrome/browser/signin/identity_manager_factory.h"

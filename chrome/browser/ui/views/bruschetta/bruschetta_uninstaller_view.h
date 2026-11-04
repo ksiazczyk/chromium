@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bruschetta uninstaller dialog class declaration
+// summary: Declares the bubble dialog view that warns the user and uninstalls Bruschetta upon confirmation.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_BRUSCHETTA_BRUSCHETTA_UNINSTALLER_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_BRUSCHETTA_BRUSCHETTA_UNINSTALLER_VIEW_H_
 

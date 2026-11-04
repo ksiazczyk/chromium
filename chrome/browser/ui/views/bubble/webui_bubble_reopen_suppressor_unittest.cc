@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI bubble reopen suppressor unit tests
+// summary: Unit tests verifying suppression of bubble reopening after close and that a zero threshold bypasses suppression.
+// ---
+
 #include "chrome/browser/ui/views/bubble/webui_bubble_reopen_suppressor.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rich hover button implementation
+// summary: Implements RichHoverButton, a hoverable button that lays out an icon, title, subtitle, custom view, state icon and action icon in a table layout.
+// ---
+
 #include "chrome/browser/ui/views/controls/rich_hover_button.h"
 
 #include <memory>

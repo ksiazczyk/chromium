@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download bubble contents view implementation
+// summary: Implements the view that hosts the download bubble's primary page (main or partial) and switches to the security page for dangerous downloads.
+// ---
+
 #include "chrome/browser/ui/views/download/bubble/download_bubble_contents_view.h"
 
 #include <utility>

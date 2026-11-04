@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop media picker views implementation
+// summary: Implements the Views-based desktop media picker dialog, including source styling, tabbed surface categories, audio sharing controls, and enterprise data protection handling.
+// ---
+
 #include "chrome/browser/ui/views/desktop_capture/desktop_media_picker_views.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictation onboarding dialog controller header
+// summary: Declares OnboardingDialogController, which shows the per-tab dictation onboarding dialog and reports completion or closure.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_DICTATION_ONBOARDING_DIALOG_CONTROLLER_H_
 #define CHROME_BROWSER_UI_VIEWS_DICTATION_ONBOARDING_DIALOG_CONTROLLER_H_
 

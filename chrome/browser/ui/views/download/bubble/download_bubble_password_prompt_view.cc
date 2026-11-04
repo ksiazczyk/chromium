@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download bubble password prompt view implementation
+// summary: Implements the password prompt view for encrypted archive downloads, showing error messages and accessible names for invalid or empty passwords.
+// ---
+
 #include "chrome/browser/ui/views/download/bubble/download_bubble_password_prompt_view.h"
 
 #include <string_view>

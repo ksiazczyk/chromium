@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac desktop media permission pane view header
+// summary: Declares DesktopMediaPermissionPaneViewMac, a view that shows a macOS screen recording permission prompt with a button to open the System Settings pane.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_DESKTOP_CAPTURE_DESKTOP_MEDIA_PERMISSION_PANE_VIEW_MAC_H_
 #define CHROME_BROWSER_UI_VIEWS_DESKTOP_CAPTURE_DESKTOP_MEDIA_PERMISSION_PANE_VIEW_MAC_H_
 

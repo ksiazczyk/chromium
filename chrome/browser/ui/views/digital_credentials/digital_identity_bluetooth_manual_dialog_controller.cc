@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth manual dialog controller implementation
+// summary: Implements the dialog step that asks the user to manually turn on Bluetooth, wiring accept and cancel callbacks into the multi-step dialog.
+// ---
+
 #include "chrome/browser/ui/views/digital_credentials/digital_identity_bluetooth_manual_dialog_controller.h"
 
 #include <memory>

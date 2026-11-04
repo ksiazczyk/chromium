@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download CUJ event emitter implementation
+// summary: Implements EmitElementTrackerEvent, which notifies the views element tracker of custom events on the browser view for critical user journey tracking.
+// ---
+
 #include "chrome/browser/ui/views/download/download_cuj_event_emitter.h"
 
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

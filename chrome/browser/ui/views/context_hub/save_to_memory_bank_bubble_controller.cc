@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save to Memory Bank bubble controller implementation
+// summary: Implements the per-WebContents controller that anchors, creates, shows, and closes the Save to Memory Bank bubble and cleans it up on close or navigation.
+// ---
+
 #include "chrome/browser/ui/views/context_hub/save_to_memory_bank_bubble_controller.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive Picker Host controller header
+// summary: Declares the window-level orchestrator that manages creation, display, and lifetime of the Drive Picker overlay for a single active picker session.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_DRIVE_PICKER_HOST_DRIVE_PICKER_HOST_CONTROLLER_H_
 #define CHROME_BROWSER_UI_VIEWS_DRIVE_PICKER_HOST_DRIVE_PICKER_HOST_CONTROLLER_H_
 

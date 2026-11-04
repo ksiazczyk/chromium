@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageSwitcherView implementation
+// summary: Implements a container view that replaces its single child page and updates preferred size on changes.
+// ---
+
 #include "chrome/browser/ui/views/controls/page_switcher_view.h"
 
 #include <utility>

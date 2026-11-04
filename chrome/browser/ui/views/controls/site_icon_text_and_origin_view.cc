@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site icon, text and origin view implementation
+// summary: Implements a reusable view pairing an icon with an editable title textfield and the site URL below it, used by the DIY web app install dialog.
+// ---
+
 #include "chrome/browser/ui/views/controls/site_icon_text_and_origin_view.h"
 
 #include <memory>

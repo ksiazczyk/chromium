@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop collaboration controller delegate implementation
+// summary: Implements the desktop UI delegate for collaboration flows, showing sign-in and sync prompts plus join, share, manage, leave, delete and error dialogs.
+// ---
+
 #include "chrome/browser/ui/views/data_sharing/collaboration_controller_delegate_desktop.h"
 
 #include "build/branding_buildflags.h"

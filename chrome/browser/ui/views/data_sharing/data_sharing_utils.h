@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data sharing UI utilities header
+// summary: Declares WebUI query parameters, flow types, the RequestInfo struct, and helper functions for generating data sharing URLs and previews.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_DATA_SHARING_DATA_SHARING_UTILS_H_
 #define CHROME_BROWSER_UI_VIEWS_DATA_SHARING_DATA_SHARING_UTILS_H_
 
