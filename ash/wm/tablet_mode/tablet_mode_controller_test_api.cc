@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tablet mode controller test API
+// summary: Implements a test API to force tablet mode on or off and simulate attached external mice, touchpads, and Bluetooth devices in tests.
+// ---
+
 #include "ash/wm/tablet_mode/tablet_mode_controller_test_api.h"
 
 #include <vector>

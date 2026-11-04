@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split view setup view implementation
+// summary: Implements the faster split screen setup view containing a toast with a skip button and a settings button that deep links to window snap preferences.
+// ---
+
 #include "ash/wm/splitview/split_view_setup_view.h"
 
 #include "ash/resources/vector_icons/vector_icons.h"

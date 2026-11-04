@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split view utility functions and animation types
+// summary: Declares the SplitviewAnimationType enum and helper utilities for split view animations, window transform observation, and transient bubble dialog relayout.
+// ---
+
 #ifndef ASH_WM_SPLITVIEW_SPLIT_VIEW_UTILS_H_
 #define ASH_WM_SPLITVIEW_SPLIT_VIEW_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Informed restore item view implementation
+// summary: Implements the view representing an app in the informed restore widget, laying out the app icon, title, and tab favicons, including inside screenshot previews.
+// ---
+
 #include "ash/wm/window_restore/informed_restore_item_view.h"
 
 #include "ash/resources/vector_icons/vector_icons.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tablet mode multitask cue controller header
+// summary: Declares TabletModeMultitaskCueController, which creates a single cue bar at the top center of an activated maximizable app window in tablet mode and manages its lifecycle.
+// ---
+
 #ifndef ASH_WM_TABLET_MODE_TABLET_MODE_MULTITASK_CUE_CONTROLLER_H_
 #define ASH_WM_TABLET_MODE_TABLET_MODE_MULTITASK_CUE_CONTROLLER_H_
 

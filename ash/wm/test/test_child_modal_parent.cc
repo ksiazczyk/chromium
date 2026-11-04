@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test child modal parent window
+// summary: Test widget that hosts a modal parent window and can show a child modal window, used to exercise window modality behavior in Ash tests.
+// ---
+
 #include "ash/wm/test/test_child_modal_parent.h"
 
 #include "base/functional/bind.h"

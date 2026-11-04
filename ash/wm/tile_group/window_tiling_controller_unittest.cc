@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WindowTilingController unit tests
+// summary: Unit tests for WindowTilingController verifying tiling resize behavior for normal, snapped, and maximized windows via accelerator actions.
+// ---
+
 #include "ash/wm/tile_group/window_tiling_controller.h"
 
 #include "ash/accelerators/accelerator_commands.h"

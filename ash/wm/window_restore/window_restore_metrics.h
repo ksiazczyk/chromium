@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window restore metrics header
+// summary: Declares histogram names, enums for screenshot-on-shutdown status and dialog close types, and functions that record informed restore and full restore metrics in ash.
+// ---
+
 #ifndef ASH_WM_WINDOW_RESTORE_WINDOW_RESTORE_METRICS_H_
 #define ASH_WM_WINDOW_RESTORE_WINDOW_RESTORE_METRICS_H_
 

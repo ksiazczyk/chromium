@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Workspace event handler unit tests
+// summary: Unit tests for WorkspaceEventHandler covering double-click resize edge maximize, caption maximize toggling, gesture taps, and pinned window behavior.
+// ---
+
 #include "ash/wm/workspace/workspace_event_handler.h"
 
 #include <algorithm>

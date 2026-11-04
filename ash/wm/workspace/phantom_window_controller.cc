@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phantom window controller implementation
+// summary: Implements the phantom preview widget showing how snapping, docking or maximizing a window will change its bounds, including the maximize cue animation.
+// ---
+
 #include "ash/wm/workspace/phantom_window_controller.h"
 
 #include <math.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split view overview session class declaration
+// summary: Declares SplitViewOverviewSession, which encapsulates clamshell split view state with one snapped window and overview, including setup and exit point enums.
+// ---
+
 #ifndef ASH_WM_SPLITVIEW_SPLIT_VIEW_OVERVIEW_SESSION_H_
 #define ASH_WM_SPLITVIEW_SPLIT_VIEW_OVERVIEW_SESSION_H_
 

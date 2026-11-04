@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split view divider implementation
+// summary: Implements the split view divider widget that tracks divider position, enforces window minimum sizes, and handles resizing between snapped windows in ChromeOS Ash.
+// ---
+
 #include "ash/wm/splitview/split_view_divider.h"
 
 #include <algorithm>

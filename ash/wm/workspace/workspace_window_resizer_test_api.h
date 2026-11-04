@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Workspace window resizer test API
+// summary: Declares a test API that exposes the snap phantom window controller and dwell countdown timer of WorkspaceWindowResizer for use in unit tests.
+// ---
+
 #ifndef ASH_WM_WORKSPACE_WORKSPACE_WINDOW_RESIZER_TEST_API_H_
 #define ASH_WM_WORKSPACE_WORKSPACE_WINDOW_RESIZER_TEST_API_H_
 

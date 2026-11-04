@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tablet mode multitask cue controller unit tests
+// summary: Unit tests verifying cue layer creation and bounds, cue placement in split view, and dismissal when the dismiss timer fires.
+// ---
+
 #include "ash/wm/tablet_mode/tablet_mode_multitask_cue_controller.h"
 
 #include "ash/shell.h"

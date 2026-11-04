@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Coral selector view pixel diff test
+// summary: Pixel diff test that verifies the rendering of the Coral selector menu using a test Birch client, a stubbed coral group response, and the kCoralFeature flag.
+// ---
+
 #include <memory>
 #include <utility>
 

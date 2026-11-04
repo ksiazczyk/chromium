@@ -1,3 +1,9 @@
+---
+type: readme
+title: Window Restore and Informed Restore Dialog overview
+summary: Explains the window restore logic for restoring window properties and the informed restore dialog shown on login when the full restore setting is "Ask every time".
+---
+
 ## Window Restore
 
 Window restore contains the logic to set certain window management properties

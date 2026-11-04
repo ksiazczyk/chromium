@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-window resize controller implementation
+// summary: Implements the widget shown at shared window edges that lets users resize two or more adjacent windows at once, driven by WorkspaceEventHandler.
+// ---
+
 #include "ash/wm/workspace/multi_window_resize_controller.h"
 
 #include <ranges>

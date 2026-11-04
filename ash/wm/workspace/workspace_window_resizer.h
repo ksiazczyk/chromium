@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WorkspaceWindowResizer class header
+// summary: Declares WorkspaceWindowResizer, which keeps windows within the work area during drags and manages snapping, attached windows, and phantom window feedback.
+// ---
+
 #ifndef ASH_WM_WORKSPACE_WORKSPACE_WINDOW_RESIZER_H_
 #define ASH_WM_WORKSPACE_WORKSPACE_WINDOW_RESIZER_H_
 

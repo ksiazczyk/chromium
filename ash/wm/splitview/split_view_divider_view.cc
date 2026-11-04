@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split view divider view implementation
+// summary: Implements the divider's content view, including the resize handler view, accessibility labels, and mouse, keyboard, and gesture handling for resizing and swapping windows.
+// ---
+
 #include "ash/wm/splitview/split_view_divider_view.h"
 
 #include "ash/accessibility/accessibility_controller.h"

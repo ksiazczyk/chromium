@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Informed restore test API implementation
+// summary: Implements test helpers that inject informed restore contents data and retrieve the onboarding dialog for use in tests.
+// ---
+
 #include "ash/wm/window_restore/informed_restore_test_api.h"
 
 #include "ash/shell.h"

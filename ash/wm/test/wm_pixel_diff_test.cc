@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window manager pixel diff tests for overview and desks bar
+// summary: Implements parameterized pixel diff tests that capture and compare screenshots of Ash overview grids, the desks bar and related window management UI.
+// ---
+
 #include <memory>
 #include <utility>
 

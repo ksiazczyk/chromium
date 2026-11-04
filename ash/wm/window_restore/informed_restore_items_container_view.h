@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Informed restore items container view header
+// summary: Declares InformedRestoreItemsContainerView, a vertical list of app item views with a maximum item count for the informed restore contents view.
+// ---
+
 #ifndef ASH_WM_WINDOW_RESTORE_INFORMED_RESTORE_ITEMS_CONTAINER_VIEW_H_
 #define ASH_WM_WINDOW_RESTORE_INFORMED_RESTORE_ITEMS_CONTAINER_VIEW_H_
 

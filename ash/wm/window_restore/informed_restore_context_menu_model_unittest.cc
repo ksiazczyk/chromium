@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Informed restore context menu model unit tests
+// summary: Unit tests verifying the layout, commands, settings button behavior, and restore preference updates of the informed restore inline context menu.
+// ---
+
 #include "ash/wm/window_restore/informed_restore_context_menu_model.h"
 
 #include "ash/constants/ash_pref_names.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tablet mode window state header
+// summary: Declares the TabletModeWindowState class that constrains window states in tablet mode and reverts windows to their previous state handler when leaving tablet mode.
+// ---
+
 #ifndef ASH_WM_TABLET_MODE_TABLET_MODE_WINDOW_STATE_H_
 #define ASH_WM_TABLET_MODE_TABLET_MODE_WINDOW_STATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split view test utilities implementation
+// summary: Implements helper functions for split view tests, such as fetching controllers and divider bounds, snapping test windows, and verifying split view overview sessions.
+// ---
+
 #include "ash/wm/splitview/split_view_test_util.h"
 
 #include "ash/public/cpp/shelf_config.h"

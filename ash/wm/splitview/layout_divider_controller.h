@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Layout divider controller interface
+// summary: Defines the interface for delegates that handle resize, swap and snapped-bounds requests forwarded from SplitViewDivider.
+// ---
+
 #ifndef ASH_WM_SPLITVIEW_LAYOUT_DIVIDER_CONTROLLER_H_
 #define ASH_WM_SPLITVIEW_LAYOUT_DIVIDER_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tablet mode toggle fullscreen event handler implementation
+// summary: Implements touch-based toggling of fullscreen for the active window in tablet mode, handling edge swipes and conditions such as screen lock, session state, and kiosk mode.
+// ---
+
 #include "ash/wm/tablet_mode/tablet_mode_toggle_fullscreen_event_handler.h"
 
 #include "ash/public/cpp/shelf_config.h"

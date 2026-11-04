@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SnapGroupController implementation
+// summary: Implements the singleton controller that creates, replaces, and removes SnapGroups when windows are snapped, including snap-to-replace handling and metric recording.
+// ---
+
 #include "ash/wm/snap_group/snap_group_controller.h"
 
 #include <optional>

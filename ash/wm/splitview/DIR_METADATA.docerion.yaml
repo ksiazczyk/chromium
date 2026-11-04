@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Split view directory metadata
+summary: Maps the split view directory to the ChromeOS window management team email and its Buganizer and Monorail components.

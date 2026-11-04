@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SplitViewDividerView class declaration
+// summary: Declares SplitViewDividerView, the content view of the split view divider widget that hosts the handler view and processes input events for resizing.
+// ---
+
 #ifndef ASH_WM_SPLITVIEW_SPLIT_VIEW_DIVIDER_VIEW_H_
 #define ASH_WM_SPLITVIEW_SPLIT_VIEW_DIVIDER_VIEW_H_
 

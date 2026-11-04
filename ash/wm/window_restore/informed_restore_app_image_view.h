@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Informed restore app image view header
+// summary: Declares the image view class that shows an app icon and observes the app registry cache to update the icon after installation.
+// ---
+
 #ifndef ASH_WM_WINDOW_RESTORE_INFORMED_RESTORE_APP_IMAGE_VIEW_H_
 #define ASH_WM_WINDOW_RESTORE_INFORMED_RESTORE_APP_IMAGE_VIEW_H_
 

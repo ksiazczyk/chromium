@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Magnetism matcher unit tests
+// summary: Unit tests verifying magnetism matcher snapping behavior for left, bottom and obscured edge cases.
+// ---
+
 #include "ash/wm/workspace/magnetism_matcher.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

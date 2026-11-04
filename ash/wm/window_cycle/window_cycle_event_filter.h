@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window cycle event filter class declaration
+// summary: Declares the WindowCycleEventFilter that consumes events while cycling through windows and handles Alt release, trigger keys, repeated cycling, scrolling, and gestures.
+// ---
+
 #ifndef ASH_WM_WINDOW_CYCLE_WINDOW_CYCLE_EVENT_FILTER_H_
 #define ASH_WM_WINDOW_CYCLE_WINDOW_CYCLE_EVENT_FILTER_H_
 

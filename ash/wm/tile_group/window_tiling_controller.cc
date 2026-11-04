@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window tiling controller implementation
+// summary: Implements tile-like window resizing in four directions, stepping through tiling ratios and snapping windows to half of the display work area.
+// ---
+
 #include "ash/wm/tile_group/window_tiling_controller.h"
 
 #include <ranges>

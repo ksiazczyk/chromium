@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal input devices event blocker implementation
+// summary: Implements blocking of the internal keyboard and touchpad, allowing only volume and power keys while blocked, for example in tablet mode.
+// ---
+
 #include "ash/wm/tablet_mode/internal_input_devices_event_blocker.h"
 
 #include "ash/shell.h"

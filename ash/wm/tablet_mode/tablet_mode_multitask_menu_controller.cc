@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tablet mode multitask menu controller implementation
+// summary: Implements touch and gesture handling in tablet mode that opens or dismisses the multitask menu when dragging from the top region of a window.
+// ---
+
 #include "ash/wm/tablet_mode/tablet_mode_multitask_menu_controller.h"
 
 #include "ash/session/session_controller_impl.h"

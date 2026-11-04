@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tablet mode window resizer implementation
+// summary: Implements the tablet mode window resizer and drag delegate, handling window drags, split view snap indicators, and snap thresholds during tablet mode window movement.
+// ---
+
 #include "ash/wm/tablet_mode/tablet_mode_window_resizer.h"
 
 #include <memory>

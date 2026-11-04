@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Split view controller clamshell mode tests
+// summary: Tests split view behavior in clamshell mode, including ending split view after skipping partial overview and tablet mode transitions.
+// ---
+
 #include "ash/shell.h"
 #include "ash/test/ash_test_base.h"
 #include "ash/wm/overview/overview_controller.h"

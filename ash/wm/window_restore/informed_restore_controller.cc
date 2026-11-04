@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Informed restore controller implementation
+// summary: Implements the controller that starts and ends informed restore overview sessions, shows onboarding and nudges, and manages contents data from the full restore service.
+// ---
+
 #include "ash/wm/window_restore/informed_restore_controller.h"
 
 #include "ash/birch/birch_model.h"

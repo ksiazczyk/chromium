@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MultiWindowResizeController class declaration
+// summary: Declares MultiWindowResizeController, which detects mouse hover over shared window edges and shows a widget for resizing multiple windows together.
+// ---
+
 #ifndef ASH_WM_WORKSPACE_MULTI_WINDOW_RESIZE_CONTROLLER_H_
 #define ASH_WM_WORKSPACE_MULTI_WINDOW_RESIZE_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Snap group unit tests
+// summary: Extensive unit tests for Ash snap group behavior, covering interactions with overview, split view, desks, accessibility, and window management features.
+// ---
+
 #include "ash/wm/snap_group/snap_group.h"
 
 #include <algorithm>

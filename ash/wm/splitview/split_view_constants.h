@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split view UI constants
+// summary: Defines constants for split view visuals and behavior, including divider sizes, label insets, highlight opacity and animation durations.
+// ---
+
 #ifndef ASH_WM_SPLITVIEW_SPLIT_VIEW_CONSTANTS_H_
 #define ASH_WM_SPLITVIEW_SPLIT_VIEW_CONSTANTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window cycle controller implementation
+// summary: Implements the Alt+Tab window cycling controller for Ash, starting and completing cycles, handling all-desks versus current-desk modes, and recording usage metrics.
+// ---
+
 #include "ash/wm/window_cycle/window_cycle_controller.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tablet mode multitask menu implementation
+// summary: Implements the tablet mode multitask menu widget with fullscreen, half split, partial split, and float buttons plus slide and fade animations.
+// ---
+
 #include "ash/wm/tablet_mode/tablet_mode_multitask_menu.h"
 
 #include <algorithm>

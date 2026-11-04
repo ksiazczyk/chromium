@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Informed restore contents data
+// summary: Declares the data struct holding app, tab and screenshot information plus restore and cancel callbacks used to build the informed restore dialog.
+// ---
+
 #ifndef ASH_WM_WINDOW_RESTORE_INFORMED_RESTORE_CONTENTS_DATA_H_
 #define ASH_WM_WINDOW_RESTORE_INFORMED_RESTORE_CONTENTS_DATA_H_
 

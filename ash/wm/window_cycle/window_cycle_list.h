@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window cycle list class declaration
+// summary: Declares WindowCycleList, the class used by WindowCycleController to step through windows, manage focus and the tab slider, and decide whether the cycle UI should be shown.
+// ---
+
 #ifndef ASH_WM_WINDOW_CYCLE_WINDOW_CYCLE_LIST_H_
 #define ASH_WM_WINDOW_CYCLE_WINDOW_CYCLE_LIST_H_
 

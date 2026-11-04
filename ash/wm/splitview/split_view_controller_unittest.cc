@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Split view controller unit tests
+// summary: Extensive unit tests covering SplitViewController snapping, divider dragging, overview interaction and related metrics.
+// ---
+
 #include "ash/wm/splitview/split_view_controller.h"
 
 #include <algorithm>

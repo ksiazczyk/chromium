@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SplitViewDivider class declaration
+// summary: Declares SplitViewDivider, which observes split view windows, manages the divider widget's stacking, visibility, and position, and drives resizing with the divider.
+// ---
+
 #ifndef ASH_WM_SPLITVIEW_SPLIT_VIEW_DIVIDER_H_
 #define ASH_WM_SPLITVIEW_SPLIT_VIEW_DIVIDER_H_
 

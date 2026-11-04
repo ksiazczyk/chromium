@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Informed restore contents data implementation
+// summary: Implements constructors for the tab and app info structures that populate the informed restore dialog.
+// ---
+
 #include "ash/wm/window_restore/informed_restore_contents_data.h"
 
 namespace ash {

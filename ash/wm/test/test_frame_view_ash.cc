@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestFrameViewAsh implementation
+// summary: Implements a test widget delegate that creates a TestFrameViewAsh frame supporting configurable minimum and maximum window sizes for tests.
+// ---
+
 #include "ash/wm/test/test_frame_view_ash.h"
 
 namespace ash {

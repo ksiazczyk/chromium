@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Snap group metrics declarations
+// summary: Declares histogram name constants, the SnapGroupExitPoint enum, and functions for recording snap group and partial overview metrics.
+// ---
+
 #ifndef ASH_WM_SNAP_GROUP_SNAP_GROUP_METRICS_H_
 #define ASH_WM_SNAP_GROUP_SNAP_GROUP_METRICS_H_
 

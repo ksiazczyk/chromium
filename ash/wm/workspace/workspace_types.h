@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WorkspaceWindowState enum definition
+// summary: Defines the WorkspaceWindowState enum with fullscreen, maximized, and default states describing the current workspace window situation.
+// ---
+
 #ifndef ASH_WM_WORKSPACE_WORKSPACE_TYPES_H_
 #define ASH_WM_WORKSPACE_WORKSPACE_TYPES_H_
 

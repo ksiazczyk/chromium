@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split view test utilities declarations
+// summary: Declares helper functions used by split view tests to access controllers, snap windows, and verify whether split view or overview sessions are active.
+// ---
+
 #ifndef ASH_WM_SPLITVIEW_SPLIT_VIEW_TEST_UTIL_H_
 #define ASH_WM_SPLITVIEW_SPLIT_VIEW_TEST_UTIL_H_
 

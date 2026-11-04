@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Tablet mode directory metadata
+summary: Specifies the owning team email and Buganizer and Monorail components for the ash tablet mode directory.

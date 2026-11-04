@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window cycle item view class declaration
+// summary: Declares WindowCycleItemView for individual window previews and GroupContainerCycleView, which hosts item views and acts as the focus target for snap groups during cycling.
+// ---
+
 #ifndef ASH_WM_WINDOW_CYCLE_WINDOW_CYCLE_ITEM_VIEW_H_
 #define ASH_WM_WINDOW_CYCLE_WINDOW_CYCLE_ITEM_VIEW_H_
 

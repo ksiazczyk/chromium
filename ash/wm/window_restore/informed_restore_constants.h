@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Informed restore dialog constants
+// summary: Defines sizes, insets, colors, thresholds and view IDs used to lay out and test the informed restore dialog UI.
+// ---
+
 #ifndef ASH_WM_WINDOW_RESTORE_INFORMED_RESTORE_CONSTANTS_H_
 #define ASH_WM_WINDOW_RESTORE_INFORMED_RESTORE_CONSTANTS_H_
 

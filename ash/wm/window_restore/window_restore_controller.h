@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window restore controller
+// summary: Declares the controller that saves windows to the restore file and restores them, with activation, insertion, and stacking helpers.
+// ---
+
 #ifndef ASH_WM_WINDOW_RESTORE_WINDOW_RESTORE_CONTROLLER_H_
 #define ASH_WM_WINDOW_RESTORE_WINDOW_RESTORE_CONTROLLER_H_
 

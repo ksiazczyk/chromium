@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window restore utility header
+// summary: Declares the RestoreOption enum and utility functions for restore preferences, WindowInfo construction, favicon retrieval, and the informed restore screenshot image path.
+// ---
+
 #ifndef ASH_WM_WINDOW_RESTORE_WINDOW_RESTORE_UTIL_H_
 #define ASH_WM_WINDOW_RESTORE_WINDOW_RESTORE_UTIL_H_
 

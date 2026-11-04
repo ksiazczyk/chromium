@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split view controller class declaration
+// summary: Declares SplitViewController, which manages window snapping and its interaction with overview mode, with one instance per display.
+// ---
+
 #ifndef ASH_WM_SPLITVIEW_SPLIT_VIEW_CONTROLLER_H_
 #define ASH_WM_SPLITVIEW_SPLIT_VIEW_CONTROLLER_H_
 

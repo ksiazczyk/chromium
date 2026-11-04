@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split view highlight view implementation
+// summary: Implements the rounded highlight view that previews snap regions and animates bounds changes using layer clip rects.
+// ---
+
 #include "ash/wm/splitview/split_view_highlight_view.h"
 
 #include "ash/display/screen_orientation_controller.h"

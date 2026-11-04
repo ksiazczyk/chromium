@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multi-window resize controller unit tests
+// summary: Unit tests covering multi-window resize widget behavior, including show timing, mouse movement over window pairs and metrics.
+// ---
+
 #include "ash/wm/workspace/multi_window_resize_controller.h"
 
 #include <algorithm>

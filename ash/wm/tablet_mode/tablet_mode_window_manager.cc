@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tablet mode window manager implementation
+// summary: Implements the tablet mode window manager, tracking windows, carrying snapped windows into split view during mode transitions, and coordinating overview and multitask menu behavior.
+// ---
+
 #include "ash/wm/tablet_mode/tablet_mode_window_manager.h"
 
 #include <memory>

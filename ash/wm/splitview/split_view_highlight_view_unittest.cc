@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Split view highlight view unit tests
+// summary: Unit tests for SplitViewHighlightView, verifying bounds animation, clip rect handling, and mirrored animation for right and bottom highlights.
+// ---
+
 #include "ash/wm/splitview/split_view_highlight_view.h"
 
 #include "ash/display/screen_orientation_controller.h"

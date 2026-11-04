@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Informed restore context menu model implementation
+// summary: Implements the settings context menu that reads and sets the full restore behavior preference with radio options.
+// ---
+
 #include "ash/wm/window_restore/informed_restore_context_menu_model.h"
 
 #include "ash/constants/ash_pref_names.h"

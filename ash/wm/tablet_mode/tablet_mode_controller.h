@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tablet mode controller class declaration
+// summary: Declares TabletModeController, which listens to accelerometer and power manager events to switch between clamshell and tablet mode and rotate the display.
+// ---
+
 #ifndef ASH_WM_TABLET_MODE_TABLET_MODE_CONTROLLER_H_
 #define ASH_WM_TABLET_MODE_TABLET_MODE_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Split view snap position enum
+// summary: Defines the SnapPosition enum that specifies primary and secondary snap positions for split view across landscape and portrait screen orientations.
+// ---
+
 #ifndef ASH_WM_SPLITVIEW_SPLIT_VIEW_TYPES_H_
 #define ASH_WM_SPLITVIEW_SPLIT_VIEW_TYPES_H_
 

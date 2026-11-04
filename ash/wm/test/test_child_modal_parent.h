@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestChildModalParent declaration
+// summary: Declares a test widget delegate that hosts a modal parent widget and provides methods to show and toggle child modal windows.
+// ---
+
 #ifndef ASH_WM_TEST_TEST_CHILD_MODAL_PARENT_H_
 #define ASH_WM_TEST_TEST_CHILD_MODAL_PARENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Magnetism matcher implementation
+// summary: Implements edge matching logic that decides when a dragged window should magnetically snap to another window's edges within a configurable distance.
+// ---
+
 #include "ash/wm/workspace/magnetism_matcher.h"
 
 #include <algorithm>

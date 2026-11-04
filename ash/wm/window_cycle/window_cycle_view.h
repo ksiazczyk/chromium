@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowCycleView header for the Ash alt-tab window cycling UI
+// summary: Declares the WindowCycleView widget that displays the collection of windows a user can cycle through, with APIs for scaling, fading, scrolling, targeting, dragging, and fling handling.
+// ---
+
 #ifndef ASH_WM_WINDOW_CYCLE_WINDOW_CYCLE_VIEW_H_
 #define ASH_WM_WINDOW_CYCLE_WINDOW_CYCLE_VIEW_H_
 

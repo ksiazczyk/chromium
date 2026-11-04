@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tablet mode controller implementation
+// summary: Implements the controller that enters and exits tablet mode from lid angle and accelerometer data, rotates the display, and blocks internal input devices.
+// ---
+
 #include "ash/wm/tablet_mode/tablet_mode_controller.h"
 
 #include <algorithm>

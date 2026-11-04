@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tablet mode multitask cue controller implementation
+// summary: Implements the controller that shows a draggable cue bar at the top of active app windows in tablet mode, with fade animations, dismissal timing, and an education nudge.
+// ---
+
 #include "ash/wm/tablet_mode/tablet_mode_multitask_cue_controller.h"
 
 #include "ash/constants/ash_switches.h"

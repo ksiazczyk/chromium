@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeWindowState implementation
+// summary: Implements a fake WindowState that records visibility on minimize and last requested bounds, plus a delegate that tracks trusted pin toggles and drag events.
+// ---
+
 #include "ash/wm/test/fake_window_state.h"
 
 #include "ash/wm/wm_event.h"

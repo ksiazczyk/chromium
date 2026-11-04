@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestFrameViewAsh declaration
+// summary: Declares a test widget delegate that creates TestFrameViewAsh and a FrameViewAsh subclass for testing windows with size constraints.
+// ---
+
 #ifndef ASH_WM_TEST_TEST_FRAME_VIEW_ASH_H_
 #define ASH_WM_TEST_TEST_FRAME_VIEW_ASH_H_
 

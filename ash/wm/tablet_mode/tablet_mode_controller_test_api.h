@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tablet mode controller test API header
+// summary: Declares a test API for TabletModeController that drives tablet mode entry and exit, mouse and touchpad attachment, lid angle updates, suspend simulation, and clock injection in tests.
+// ---
+
 #ifndef ASH_WM_TABLET_MODE_TABLET_MODE_CONTROLLER_TEST_API_H_
 #define ASH_WM_TABLET_MODE_TABLET_MODE_CONTROLLER_TEST_API_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BackdropController class declaration
+// summary: Declares the BackdropController class that creates and restacks a backdrop behind qualifying windows, observing accessibility, overview, split view and wallpaper changes.
+// ---
+
 #ifndef ASH_WM_WORKSPACE_BACKDROP_CONTROLLER_H_
 #define ASH_WM_WORKSPACE_BACKDROP_CONTROLLER_H_
 

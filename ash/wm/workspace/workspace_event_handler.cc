@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Workspace event handler implementation
+// summary: Implements mouse and gesture event handling for workspace windows, including double-click caption maximize, resize-edge double-click toggling, and multi-window resize.
+// ---
+
 #include "ash/wm/workspace/workspace_event_handler.h"
 
 #include "ash/public/cpp/shell_window_ids.h"

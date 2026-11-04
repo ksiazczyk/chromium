@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tablet mode multitask menu controller header
+// summary: Declares the ui::EventHandler that detects gestures in tablet mode to show or hide the multitask menu and owns the multitask cue controller.
+// ---
+
 #ifndef ASH_WM_TABLET_MODE_TABLET_MODE_MULTITASK_MENU_CONTROLLER_H_
 #define ASH_WM_TABLET_MODE_TABLET_MODE_MULTITASK_MENU_CONTROLLER_H_
 

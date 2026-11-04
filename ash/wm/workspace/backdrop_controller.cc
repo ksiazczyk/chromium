@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Backdrop controller implementation
+// summary: Implements the backdrop window shown behind top-level activatable windows in tablet mode and split view, including earcon playback for interactions outside window bounds.
+// ---
+
 #include "ash/wm/workspace/backdrop_controller.h"
 
 #include <algorithm>

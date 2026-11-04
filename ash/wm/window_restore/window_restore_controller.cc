@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window restore controller implementation
+// summary: Implements saving and restoring app windows across desks, including out-of-bounds adjustment, activation rules, and tablet mode handling.
+// ---
+
 #include "ash/wm/window_restore/window_restore_controller.h"
 
 #include <algorithm>

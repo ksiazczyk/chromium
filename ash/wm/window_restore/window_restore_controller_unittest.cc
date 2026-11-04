@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window restore controller unit tests
+// summary: Unit tests for window save and restore behavior, activation, desks, tablet mode, and overview interactions of the controller.
+// ---
+
 #include "ash/wm/window_restore/window_restore_controller.h"
 
 #include <algorithm>

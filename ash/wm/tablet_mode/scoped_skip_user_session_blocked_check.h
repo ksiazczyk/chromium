@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped skip user session blocked check header
+// summary: Declares a scoped helper that skips user session blocked checks in the event client for the duration of a code scope.
+// ---
+
 #ifndef ASH_WM_TABLET_MODE_SCOPED_SKIP_USER_SESSION_BLOCKED_CHECK_H_
 #define ASH_WM_TABLET_MODE_SCOPED_SKIP_USER_SESSION_BLOCKED_CHECK_H_
 

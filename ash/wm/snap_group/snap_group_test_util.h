@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Snap group test utility header
+// summary: Declares helper functions for snap group tests, such as snapping two test windows, clicking overview items, and verifying divider and work area bounds.
+// ---
+
 #include "ui/events/test/event_generator.h"
 
 #ifndef ASH_WM_SNAP_GROUP_SNAP_GROUP_TEST_UTIL_H_

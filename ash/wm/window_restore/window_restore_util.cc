@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window restore utility implementation
+// summary: Implements window restore utilities including restore preference registration and checks, WindowInfo building, favicon fetching, and the informed restore image path.
+// ---
+
 #include "ash/wm/window_restore/window_restore_util.h"
 
 #include <algorithm>

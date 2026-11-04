@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SnapGroupObserver interface
+// summary: Defines the observer interface notified when a snap group is added to or removed from the SnapGroupController.
+// ---
+
 #ifndef ASH_WM_SNAP_GROUP_SNAP_GROUP_OBSERVER_H_
 #define ASH_WM_SNAP_GROUP_SNAP_GROUP_OBSERVER_H_
 

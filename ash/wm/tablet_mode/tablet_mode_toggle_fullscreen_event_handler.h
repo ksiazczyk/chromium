@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tablet mode toggle fullscreen event handler header
+// summary: Declares the TabletModeToggleFullscreenEventHandler class that observes touch events and window destruction to toggle fullscreen on the active window in tablet mode.
+// ---
+
 #ifndef ASH_WM_TABLET_MODE_TABLET_MODE_TOGGLE_FULLSCREEN_EVENT_HANDLER_H_
 #define ASH_WM_TABLET_MODE_TABLET_MODE_TOGGLE_FULLSCREEN_EVENT_HANDLER_H_
 
