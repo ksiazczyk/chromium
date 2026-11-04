@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy error page info utilities implementation
+// summary: Implements GetEnterpriseProxyErrorPageInfo, which builds alternative error page override info for disguised enterprise proxy errors when the feature is enabled and error data exists.
+// ---
+
 #include "chrome/browser/enterprise/net/proxy_error_utils.h"
 
 #include <optional>

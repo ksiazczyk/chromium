@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Idle service implementation
+// summary: Implements the per-profile IdleTimeout enterprise policy service that tracks browser idle state, observes browser activation, and triggers configured actions.
+// ---
+
 #include "chrome/browser/enterprise/idle/idle_service.h"
 
 #include <algorithm>

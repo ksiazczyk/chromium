@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data protection URL lookup service factory implementation
+// summary: Implements the profile-keyed service factory that builds DataProtectionUrlLookupService instances per browser context.
+// ---
+
 #include "chrome/browser/enterprise/data_protection/data_protection_url_lookup_service_factory.h"
 
 #include "chrome/browser/profiles/profile.h"

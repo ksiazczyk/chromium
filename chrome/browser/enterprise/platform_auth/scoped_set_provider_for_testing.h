@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped platform auth provider override header
+// summary: Declares a RAII helper that overrides the PlatformAuthProviderManager provider implementation for tests.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_PLATFORM_AUTH_SCOPED_SET_PROVIDER_FOR_TESTING_H_
 #define CHROME_BROWSER_ENTERPRISE_PLATFORM_AUTH_SCOPED_SET_PROVIDER_FOR_TESTING_H_
 

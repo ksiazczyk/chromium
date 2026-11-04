@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy error page info utilities header
+// summary: Declares GetEnterpriseProxyErrorPageInfo, which returns alternative error page override info for disguised enterprise proxy errors or nullptr when none apply.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_NET_PROXY_ERROR_UTILS_H_
 #define CHROME_BROWSER_ENTERPRISE_NET_PROXY_ERROR_UTILS_H_
 

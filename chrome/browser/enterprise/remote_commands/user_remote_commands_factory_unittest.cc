@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User remote commands factory unit tests
+// summary: Unit test checking that the factory builds a clear browsing data job for the corresponding remote command type.
+// ---
+
 #include "chrome/browser/enterprise/remote_commands/user_remote_commands_factory.h"
 
 #include "chrome/test/base/testing_profile.h"

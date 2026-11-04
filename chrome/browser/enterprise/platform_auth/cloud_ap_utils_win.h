@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows registry origin helper declaration
+// summary: Declares AppendRegistryOrigins for collecting valid https origins from REG_SZ or REG_MULTI_SZ registry values.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_PLATFORM_AUTH_CLOUD_AP_UTILS_WIN_H_
 #define CHROME_BROWSER_ENTERPRISE_PLATFORM_AUTH_CLOUD_AP_UTILS_WIN_H_
 

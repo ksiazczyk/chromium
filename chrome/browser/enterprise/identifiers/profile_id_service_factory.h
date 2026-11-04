@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile ID service factory header
+// summary: Declares ProfileIdServiceFactory, a profile keyed service factory that provides per-profile access to the ProfileIdService.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_IDENTIFIERS_PROFILE_ID_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ENTERPRISE_IDENTIFIERS_PROFILE_ID_SERVICE_FACTORY_H_
 

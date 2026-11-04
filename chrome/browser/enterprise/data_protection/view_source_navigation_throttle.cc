@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View-source navigation throttle implementation
+// summary: Implements a navigation throttle that checks view-source navigations against Safe Browsing enterprise policy and shows a blocking interstitial when disallowed.
+// ---
+
 #include "chrome/browser/enterprise/data_protection/view_source_navigation_throttle.h"
 
 #include "base/memory/ptr_util.h"

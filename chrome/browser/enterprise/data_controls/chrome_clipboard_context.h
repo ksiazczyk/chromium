@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome clipboard context class declaration
+// summary: Declares the Clank and desktop ClipboardContext implementation exposing source and destination details.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_DATA_CONTROLS_CHROME_CLIPBOARD_CONTEXT_H_
 #define CHROME_BROWSER_ENTERPRISE_DATA_CONTROLS_CHROME_CLIPBOARD_CONTEXT_H_
 

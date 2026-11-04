@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Clipboard toast tracker browser tests
+// summary: Browser tests verifying that enterprise copy toasts appear with the correct toast ID and are not shown twice in one session.
+// ---
+
 #include "chrome/browser/enterprise/data_protection/clipboard_toast_tracker.h"
 
 #include "chrome/browser/ui/browser_window/public/browser_window_features.h"

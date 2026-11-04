@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile ID delegate implementation
+// summary: Implements the profile ID delegate, creating and persisting a profile GUID and retrieving the device ID from cloud policy or DM token storage, with Windows serial number support.
+// ---
+
 #include "chrome/browser/enterprise/identifiers/profile_id_delegate_impl.h"
 
 #include <utility>

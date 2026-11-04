@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Proxy override rules browser tests
+// summary: Browser tests verifying the ProxyOverrideRules policy, covering proxy rule matching, DNS probe conditions, and enablement policies via cloud-set user and machine policies.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "base/test/scoped_feature_list.h"
 #include "base/values.h"

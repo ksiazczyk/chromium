@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile management navigation throttle header
+// summary: Declares the throttle that looks for profile management data in HTTP responses from supported hosts and registers profiles with tokens.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_PROFILE_MANAGEMENT_PROFILE_MANAGEMENT_NAVIGATION_THROTTLE_H_
 #define CHROME_BROWSER_ENTERPRISE_PROFILE_MANAGEMENT_PROFILE_MANAGEMENT_NAVIGATION_THROTTLE_H_
 

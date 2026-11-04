@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Android Entra SSO provider
+// summary: Unit tests covering origin filtering, header parsing, metrics, and error handling of the Android Entra SSO provider.
+// ---
+
 #include "chrome/browser/enterprise/platform_auth/entra_provider_android.h"
 
 #include <map>

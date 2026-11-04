@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP header injection utilities implementation
+// summary: Implements helpers that wrap the trusted URL loader header client and create WebSocket header clients when header injection is enabled and rules exist.
+// ---
+
 #include "chrome/browser/enterprise/network_header_injection/http_header_injection_utils.h"
 
 #include <utility>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for enterprise idle
+summary: Points to the shared OWNERS file in components/enterprise/idle to define code ownership for this directory.

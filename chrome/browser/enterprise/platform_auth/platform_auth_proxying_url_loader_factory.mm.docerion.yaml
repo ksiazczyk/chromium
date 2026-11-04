@@ -1,0 +1,4 @@
+# Docerion header of platform_auth_proxying_url_loader_factory.mm.
+type: source
+title: Platform auth proxying URL loader factory implementation
+summary: Implements request interception that routes configured Okta host subresource requests through the URLSession-based SSO loader.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clear browsing data remote command job header
+// summary: Declares the remote command job class that clears browsing data such as cache and cookies for a specific profile.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_REMOTE_COMMANDS_CLEAR_BROWSING_DATA_JOB_H_
 #define CHROME_BROWSER_ENTERPRISE_REMOTE_COMMANDS_CLEAR_BROWSING_DATA_JOB_H_
 

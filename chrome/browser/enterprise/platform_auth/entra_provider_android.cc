@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Entra SSO auth provider implementation
+// summary: Implements EntraProviderAndroid, which reads Entra tokens through JNI and attaches x-ms- headers for supported Microsoft login origins.
+// ---
+
 #include "chrome/browser/enterprise/platform_auth/entra_provider_android.h"
 
 #include "base/android/callback_android.h"

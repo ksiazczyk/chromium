@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Data protection overlay view unit tests
+// summary: Unit tests verifying the overlay view stays invisible to accessibility and skips redundant repaints when the watermark text or style is unchanged.
+// ---
+
 #include "chrome/browser/enterprise/data_protection/data_protection_overlay_view.h"
 
 #include "components/enterprise/connectors/core/connectors_prefs.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock platform auth provider declaration
+// summary: Declares a GoogleMock mock of PlatformAuthProvider for use in platform authentication tests.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_PLATFORM_AUTH_MOCK_PLATFORM_AUTH_PROVIDER_H_
 #define CHROME_BROWSER_ENTERPRISE_PLATFORM_AUTH_MOCK_PLATFORM_AUTH_PROVIDER_H_
 

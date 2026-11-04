@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise proxy tab helper delegate unit tests
+// summary: Unit tests for the enterprise proxy tab helper delegate's sign-in handling, using a mocked signin bridge to verify null WebContents safety, account picker opening, and update credentials flows.
+// ---
+
 #include "chrome/browser/enterprise/net/enterprise_proxy_tab_helper_delegate.h"
 
 #include <memory>

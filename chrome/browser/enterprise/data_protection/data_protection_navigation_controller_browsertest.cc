@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Data protection navigation controller browser tests
+// summary: Browser tests for the data protection navigation controller, exercising navigation event chains with enterprise connector DLP and malware analysis policies.
+// ---
+
 #include "chrome/browser/enterprise/data_protection/data_protection_navigation_controller.h"
 
 #include "base/functional/bind.h"

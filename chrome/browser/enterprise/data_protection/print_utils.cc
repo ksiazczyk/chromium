@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print policy scanning utilities implementation
+// summary: Implements policy-gated printing that scans print data for DLP, hides the preview when blocking, and reports an allow or block verdict for the print job.
+// ---
+
 #include "chrome/browser/enterprise/data_protection/print_utils.h"
 
 #include <cstring>

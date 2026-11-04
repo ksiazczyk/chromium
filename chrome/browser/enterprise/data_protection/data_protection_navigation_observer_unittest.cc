@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Data protection navigation observer unit tests
+// summary: Unit tests for the navigation observer covering URL verdict sources, watermark settings, internal URLs, and enterprise reporting behavior.
+// ---
+
 #include "chrome/browser/enterprise/data_protection/data_protection_navigation_observer.h"
 
 #include <map>

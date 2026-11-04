@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform auth provider interface
+// summary: Defines the interface for platform-provided authentication, covering origin filtering support, asynchronous IdP/STS origin fetching, and auth data retrieval for URLs.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_PLATFORM_AUTH_PLATFORM_AUTH_PROVIDER_H_
 #define CHROME_BROWSER_ENTERPRISE_PLATFORM_AUTH_PLATFORM_AUTH_PROVIDER_H_
 

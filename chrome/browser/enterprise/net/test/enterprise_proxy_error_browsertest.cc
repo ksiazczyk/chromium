@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise proxy error page browser tests
+// summary: Browser tests verifying enterprise proxy error handling, including authentication error page rendering, error categories, metrics, and sign-in flows on supported platforms.
+// ---
+
 #include <memory>
 #include <utility>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Job profile picker for remote command jobs
+// summary: Declares a helper class that lets remote command jobs resolve the correct profile to execute on, whether the command comes via CBCM or profile management.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_REMOTE_COMMANDS_JOB_PROFILE_PICKER_H_
 #define CHROME_BROWSER_ENTERPRISE_REMOTE_COMMANDS_JOB_PROFILE_PICKER_H_
 

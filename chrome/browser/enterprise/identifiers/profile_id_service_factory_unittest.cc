@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile ID service factory unit tests
+// summary: Unit tests for the profile ID service factory, verifying profile ID generation across platforms using fake device IDs, testing profiles, and preset GUID handling.
+// ---
+
 #include "chrome/browser/enterprise/identifiers/profile_id_service_factory.h"
 
 #include "base/base64url.h"

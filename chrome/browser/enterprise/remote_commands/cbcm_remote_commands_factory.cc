@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CBCM remote commands factory implementation
+// summary: Creates remote command jobs for CBCM-enrolled browsers, covering clear browsing data, extension update checks and credential rotation.
+// ---
+
 #include "chrome/browser/enterprise/remote_commands/cbcm_remote_commands_factory.h"
 
 #include "base/notreached.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data protection navigation observer implementation
+// summary: Implements the observer that monitors WebContents navigations, performs enterprise URL lookups, and applies data protection settings such as watermarking and screenshot restrictions.
+// ---
+
 #include "chrome/browser/enterprise/data_protection/data_protection_navigation_observer.h"
 
 #include "base/check_op.h"

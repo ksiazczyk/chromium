@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User remote commands service declaration
+// summary: Declares the profile-level service handling user remote commands on top of the policy user remote commands base class.
+// ---
+
 #include "components/policy/core/browser/remote_commands/user_remote_commands_service_base.h"
 
 #include "base/memory/raw_ptr.h"

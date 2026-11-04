@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data protection feature flags
+// summary: Defines base::Feature flags for enterprise data protection, including force download to cloud, tab sharing protection and tab title reporting.
+// ---
+
 #include "chrome/browser/enterprise/data_protection/data_protection_features.h"
 
 #include "base/feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows registry origin helper implementation
+// summary: Implements AppendRegistryOrigins, which reads https login URLs from Windows registry values and appends their origins.
+// ---
+
 #include "chrome/browser/enterprise/platform_auth/cloud_ap_utils_win.h"
 
 #include <winerror.h>

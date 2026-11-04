@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise groups handler factory class declaration
+// summary: Declares the EnterpriseGroupsProfileHandlerFactory ProfileKeyedServiceFactory with singleton and per-profile access methods for creating enterprise groups handlers.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_GROUPS_ENTERPRISE_GROUPS_HANDLER_FACTORY_H_
 #define CHROME_BROWSER_ENTERPRISE_GROUPS_ENTERPRISE_GROUPS_HANDLER_FACTORY_H_
 

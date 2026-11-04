@@ -1,0 +1,4 @@
+# Docerion header of extensible_enterprise_sso_okta_browsertest.mm.
+type: test
+title: Browser tests for macOS Okta Extensible Enterprise SSO
+summary: Browser tests simulating Okta SSO login POST requests to verify when authentication headers are injected on macOS.

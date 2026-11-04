@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform auth proxying URL loader factory header
+// summary: Declares a URL loader factory that intercepts requests for credential SSO handling and otherwise propagates them unmodified.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_PLATFORM_AUTH_PLATFORM_AUTH_PROXYING_URL_LOADER_FACTORY_H_
 #define CHROME_BROWSER_ENTERPRISE_PLATFORM_AUTH_PLATFORM_AUTH_PROXYING_URL_LOADER_FACTORY_H_
 

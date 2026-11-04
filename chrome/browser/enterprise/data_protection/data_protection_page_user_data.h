@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data protection page user data header
+// summary: Declares DataProtectionPageUserData, which attaches watermark and screenshot allow or deny state to a Page once navigation is committed.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_DATA_PROTECTION_DATA_PROTECTION_PAGE_USER_DATA_H_
 #define CHROME_BROWSER_ENTERPRISE_DATA_PROTECTION_DATA_PROTECTION_PAGE_USER_DATA_H_
 

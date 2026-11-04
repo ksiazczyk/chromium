@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paste allowed request header
+// summary: Declares PasteAllowedRequest, which tracks pending clipboard paste-allowed checks, manages callbacks, and caches completed results.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_DATA_PROTECTION_PASTE_ALLOWED_REQUEST_H_
 #define CHROME_BROWSER_ENTERPRISE_DATA_PROTECTION_PASTE_ALLOWED_REQUEST_H_
 

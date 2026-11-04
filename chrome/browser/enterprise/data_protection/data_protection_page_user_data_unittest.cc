@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Data protection page user data unit tests
+// summary: Unit tests for creating and updating page user data with RT lookup responses, watermark text, and screenshot allow or deny states.
+// ---
+
 #include "chrome/browser/enterprise/data_protection/data_protection_page_user_data.h"
 
 #include "base/strings/stringprintf.h"

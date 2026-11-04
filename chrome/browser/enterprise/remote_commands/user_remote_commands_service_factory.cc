@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User remote commands service factory implementation
+// summary: Implements the per-profile factory that builds UserRemoteCommandsService instances when the kUserRemoteCommands feature is enabled and a cloud policy manager exists.
+// ---
+
 #include "chrome/browser/enterprise/remote_commands/user_remote_commands_service_factory.h"
 
 #include "base/no_destructor.h"

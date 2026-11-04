@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeRulesService unit tests
+// summary: Unit tests for ChromeRulesService covering paste and print verdicts across regular, incognito and other profiles as well as OS clipboard sources.
+// ---
+
 #include "chrome/browser/enterprise/data_controls/chrome_rules_service.h"
 
 #include "base/test/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform auth provider manager implementation
+// summary: Implements the singleton manager that instantiates the platform-specific auth provider, tracks enabled state and allowed origins, and serves auth headers for URLs.
+// ---
+
 #include "chrome/browser/enterprise/platform_auth/platform_auth_provider_manager.h"
 
 #include <stdint.h>

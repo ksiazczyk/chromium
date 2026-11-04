@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data protection clipboard utilities implementation
+// summary: Implements clipboard data protection logic including paste allowed requests, content analysis integration, restriction dialogs and telemetry metrics.
+// ---
+
 #include "chrome/browser/enterprise/data_protection/data_protection_clipboard_utils.h"
 
 #include <algorithm>

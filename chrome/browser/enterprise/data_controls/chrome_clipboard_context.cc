@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome clipboard context implementation
+// summary: Builds clipboard source and destination metadata used for data controls checks and paste reporting.
+// ---
+
 #include "chrome/browser/enterprise/data_controls/chrome_clipboard_context.h"
 
 #include "chrome/browser/enterprise/connectors/analysis/content_analysis_info.h"

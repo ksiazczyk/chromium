@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform auth policy observer browser tests
+// summary: Browser tests checking that setting the SSO policy updates the managed preference and toggles the platform auth provider manager on Windows, Android and Mac.
+// ---
+
 #include "chrome/browser/enterprise/platform_auth/platform_auth_policy_observer.h"
 
 #include <vector>

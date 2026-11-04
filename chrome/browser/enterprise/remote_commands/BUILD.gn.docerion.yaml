@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for enterprise remote commands tests
+summary: Defines unit test and browser test source sets for the enterprise remote commands directory.

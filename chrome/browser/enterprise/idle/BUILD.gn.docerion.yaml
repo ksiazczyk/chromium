@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn test targets for enterprise idle
+summary: Defines the unit test and interactive UI test source sets and dependencies for the enterprise idle timeout feature.

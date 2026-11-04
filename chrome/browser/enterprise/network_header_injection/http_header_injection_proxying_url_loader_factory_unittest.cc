@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for proxying URL loader factory
+// summary: Unit tests verifying that the proxy is added only when rules exist and that requests get the kURLLoadOptionUseHeaderClient flag.
+// ---
+
 #include "chrome/browser/enterprise/network_header_injection/http_header_injection_proxying_url_loader_factory.h"
 
 #include "base/functional/bind.h"

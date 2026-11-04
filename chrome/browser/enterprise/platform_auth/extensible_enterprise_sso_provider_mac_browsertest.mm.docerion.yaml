@@ -1,0 +1,4 @@
+# Docerion header of extensible_enterprise_sso_provider_mac_browsertest.mm.
+type: test
+title: Browser tests for the macOS Extensible Enterprise SSO provider
+summary: In-process browser tests using OCMock to fake ASAuthorization providers and verify SSO cookie fetching and recorded metrics.

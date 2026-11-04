@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CloudApProviderWin
+// summary: Tests support level handling, origin fetching, and cookie info parsing using registry overrides and mocked callbacks.
+// ---
+
 #include "chrome/browser/enterprise/platform_auth/cloud_ap_provider_win.h"
 
 #include <proofofpossessioncookieinfo.h>

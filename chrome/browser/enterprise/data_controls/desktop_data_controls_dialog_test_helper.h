@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop data controls dialog test helper header
+// summary: Declares a test helper class to interact with desktop data controls dialogs in tests, mimicking user actions and waiting for dialog lifecycle events.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_DATA_CONTROLS_DESKTOP_DATA_CONTROLS_DIALOG_TEST_HELPER_H_
 #define CHROME_BROWSER_ENTERPRISE_DATA_CONTROLS_DESKTOP_DATA_CONTROLS_DIALOG_TEST_HELPER_H_
 

@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Incognito navigation throttle browser tests
+// summary: Browser tests that set the MandatoryExtensionsForIncognitoNavigation policy and verify blocking and missing-extension pages in Incognito mode.
+// ---
+
 #include "chrome/browser/enterprise/incognito/incognito_navigation_throttle.h"
 
 #include "base/feature_list.h"

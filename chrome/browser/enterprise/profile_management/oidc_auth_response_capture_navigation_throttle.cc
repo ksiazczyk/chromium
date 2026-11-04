@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OIDC auth response capture navigation throttle
+// summary: Implements a navigation throttle that captures OIDC auth responses on enrollment URLs to create or switch to a managed profile.
+// ---
+
 #include "chrome/browser/enterprise/profile_management/oidc_auth_response_capture_navigation_throttle.h"
 
 #include <optional>

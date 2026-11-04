@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supported SSO extension identity provider metadata
+// summary: Defines team and extension identifiers for supported Microsoft and Okta SSO extensions and provides lookup helpers.
+// ---
+
 #include "chrome/browser/enterprise/platform_auth/extensible_enterprise_sso_metadata.h"
 
 #include <array>

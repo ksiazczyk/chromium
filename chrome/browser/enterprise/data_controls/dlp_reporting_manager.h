@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DLP reporting manager header
+// summary: Declares DlpReportingManager, the DlpPolicyEventBuilder and helper functions for building and reporting DLP policy events.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_DATA_CONTROLS_DLP_REPORTING_MANAGER_H_
 #define CHROME_BROWSER_ENTERPRISE_DATA_CONTROLS_DLP_REPORTING_MANAGER_H_
 

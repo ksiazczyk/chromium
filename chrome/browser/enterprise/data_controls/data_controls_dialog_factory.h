@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DataControlsDialogFactory interface
+// summary: Declares the DataControlsDialogFactory interface used to show platform-specific data controls dialogs only when none is already open.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_DATA_CONTROLS_DATA_CONTROLS_DIALOG_FACTORY_H_
 #define CHROME_BROWSER_ENTERPRISE_DATA_CONTROLS_DATA_CONTROLS_DIALOG_FACTORY_H_
 

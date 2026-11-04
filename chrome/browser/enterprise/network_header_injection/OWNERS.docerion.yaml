@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for network header injection
+summary: Delegates code review ownership to the OWNERS file of components/enterprise/network_header_injection.

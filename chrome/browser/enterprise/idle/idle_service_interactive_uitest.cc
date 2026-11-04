@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Idle service interactive UI tests
+// summary: Interactive browser tests covering idle timeout behavior, including mocked idle time, browser closing, idle bubbles, and related metrics.
+// ---
+
 #include "chrome/browser/enterprise/idle/idle_service.h"
 
 #include <array>

@@ -1,0 +1,4 @@
+# Docerion header of extensible_enterprise_sso_provider_mac.mm.
+type: source
+title: Extensible Enterprise SSO provider for macOS implementation
+summary: Implements fetching SSO authentication headers via platform SSO extensions and records duration and success metrics for supported requests.

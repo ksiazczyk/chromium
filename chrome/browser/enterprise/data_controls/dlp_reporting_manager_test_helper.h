@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DLP reporting manager test helper header
+// summary: Declares the IsDlpPolicyEvent matcher and a helper that installs a mock report queue to collect DLP policy events during tests.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_DATA_CONTROLS_DLP_REPORTING_MANAGER_TEST_HELPER_H_
 #define CHROME_BROWSER_ENTERPRISE_DATA_CONTROLS_DLP_REPORTING_MANAGER_TEST_HELPER_H_
 

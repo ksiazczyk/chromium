@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop data controls dialog test helper implementation
+// summary: Implements a test helper that observes desktop data controls dialogs and mimics bypassing, closing and Esc dismissal during tests.
+// ---
+
 #include "chrome/browser/enterprise/data_controls/desktop_data_controls_dialog_test_helper.h"
 
 #include "base/run_loop.h"

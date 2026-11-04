@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Action factory unit tests
+// summary: Unit tests for ActionFactory queue building and that clear browsing data action types collapse into a single action.
+// ---
+
 #include "chrome/browser/enterprise/idle/action.h"
 
 #include "build/build_config.h"

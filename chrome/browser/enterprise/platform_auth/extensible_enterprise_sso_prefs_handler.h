@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensible Enterprise SSO prefs handler class declaration
+// summary: Declares the handler that syncs the com.apple.extensiblesso payload's hosts and URLs with Chrome prefs, along with a CFPreferences observer interface.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_PLATFORM_AUTH_EXTENSIBLE_ENTERPRISE_SSO_PREFS_HANDLER_H_
 #define CHROME_BROWSER_ENTERPRISE_PLATFORM_AUTH_EXTENSIBLE_ENTERPRISE_SSO_PREFS_HANDLER_H_
 

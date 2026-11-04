@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Data protection telemetry browser test
+// summary: Browser tests for the enterprise tab title reporting feature, exercising real-time URL lookups and matched-rule watermark responses.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "chrome/browser/enterprise/connectors/reporting/realtime_reporting_client.h"
 #include "chrome/browser/enterprise/connectors/reporting/realtime_reporting_client_factory.h"

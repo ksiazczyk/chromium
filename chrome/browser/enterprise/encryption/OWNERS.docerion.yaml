@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the enterprise encryption directory
+summary: Lists the accounts responsible for reviewing changes to the enterprise encryption code in this directory.

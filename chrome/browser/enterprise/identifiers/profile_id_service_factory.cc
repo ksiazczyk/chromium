@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile ID service factory implementation
+// summary: Implements the ProfileIdServiceFactory keyed service factory, building ProfileIdService instances with the delegate implementation and skipping guest sessions.
+// ---
+
 #include "chrome/browser/enterprise/identifiers/profile_id_service_factory.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clear browsing data remote command job implementation
+// summary: Implements the BROWSER_CLEAR_BROWSING_DATA remote command that clears cache and cookies for a profile and reports failed data types.
+// ---
+
 #include "chrome/browser/enterprise/remote_commands/clear_browsing_data_job.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise proxy tab helper delegate implementation
+// summary: Implements the SignIn delegate for the enterprise proxy tab helper, launching Android account picker or credential update flows, with desktop support still pending.
+// ---
+
 #include "chrome/browser/enterprise/net/enterprise_proxy_tab_helper_delegate.h"
 
 #include "build/build_config.h"

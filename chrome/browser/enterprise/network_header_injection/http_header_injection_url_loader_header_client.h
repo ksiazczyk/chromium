@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP header injection URL loader header client declaration
+// summary: Declares the TrustedURLLoaderHeaderClient implementation that proxies loader creation events and attaches enterprise header injection clients.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_NETWORK_HEADER_INJECTION_HTTP_HEADER_INJECTION_URL_LOADER_HEADER_CLIENT_H_
 #define CHROME_BROWSER_ENTERPRISE_NETWORK_HEADER_INJECTION_HTTP_HEADER_INJECTION_URL_LOADER_HEADER_CLIENT_H_
 

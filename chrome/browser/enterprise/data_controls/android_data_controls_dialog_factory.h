@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android data controls dialog factory declaration
+// summary: Declares the Android singleton factory that instantiates data controls dialogs for Clank.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_DATA_CONTROLS_ANDROID_DATA_CONTROLS_DIALOG_FACTORY_H_
 #define CHROME_BROWSER_ENTERPRISE_DATA_CONTROLS_ANDROID_DATA_CONTROLS_DIALOG_FACTORY_H_
 

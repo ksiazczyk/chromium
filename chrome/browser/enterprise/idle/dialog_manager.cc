@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Idle dialog manager implementation
+// summary: Implements the singleton DialogManager that shows the 30-second idle warning dialog and notifies on expiry or dismissal.
+// ---
+
 #include "chrome/browser/enterprise/idle/dialog_manager.h"
 
 #include <algorithm>

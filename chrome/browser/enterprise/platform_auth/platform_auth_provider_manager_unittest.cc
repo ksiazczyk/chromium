@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Platform auth provider manager unit tests
+// summary: Unit tests covering enable and disable behavior, origin fetching, and metrics of the platform auth provider manager.
+// ---
+
 #include "chrome/browser/enterprise/platform_auth/platform_auth_provider_manager.h"
 
 #include "base/memory/raw_ptr.h"

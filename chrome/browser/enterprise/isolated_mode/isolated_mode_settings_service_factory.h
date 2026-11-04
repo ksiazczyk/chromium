@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Mode settings service factory header
+// summary: Declares the IsolatedModeSettingsServiceFactory keyed service factory and the helper functions for per-profile isolated mode checks.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_ISOLATED_MODE_ISOLATED_MODE_SETTINGS_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ENTERPRISE_ISOLATED_MODE_ISOLATED_MODE_SETTINGS_SERVICE_FACTORY_H_
 

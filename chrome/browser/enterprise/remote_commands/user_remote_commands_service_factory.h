@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User remote commands service factory header
+// summary: Declares the UserRemoteCommandsServiceFactory keyed service factory and the kUserRemoteCommands feature flag that controls user remote commands.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_REMOTE_COMMANDS_USER_REMOTE_COMMANDS_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ENTERPRISE_REMOTE_COMMANDS_USER_REMOTE_COMMANDS_SERVICE_FACTORY_H_
 

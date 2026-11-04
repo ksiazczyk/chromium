@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OIDC auth response capture navigation throttle header
+// summary: Declares the OidcAuthResponseCaptureNavigationThrottle class that intercepts OIDC authentication redirections for experimental profile enrollment.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_PROFILE_MANAGEMENT_OIDC_AUTH_RESPONSE_CAPTURE_NAVIGATION_THROTTLE_H_
 #define CHROME_BROWSER_ENTERPRISE_PROFILE_MANAGEMENT_OIDC_AUTH_RESPONSE_CAPTURE_NAVIGATION_THROTTLE_H_
 

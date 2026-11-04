@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise groups handler factory implementation
+// summary: Implements the EnterpriseGroupsProfileHandlerFactory keyed service, building an EnterpriseGroupsProfileHandler per profile when the enterprise groups experiment feature is enabled and a cloud policy manager exists.
+// ---
+
 #include "chrome/browser/enterprise/groups/enterprise_groups_handler_factory.h"
 
 #include <memory>

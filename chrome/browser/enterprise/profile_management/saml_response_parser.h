@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: SAML response parser class declaration
+// summary: Declares SAMLResponseParser, a utility class that retrieves attributes from a SAML response found in a web page body and reports them through a callback.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_PROFILE_MANAGEMENT_SAML_RESPONSE_PARSER_H_
 #define CHROME_BROWSER_ENTERPRISE_PROFILE_MANAGEMENT_SAML_RESPONSE_PARSER_H_
 

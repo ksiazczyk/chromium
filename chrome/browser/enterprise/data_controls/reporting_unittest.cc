@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Data controls reporting unit tests
+// summary: Unit tests verifying that data controls clipboard events are reported through the enterprise reporting event router across managed, incognito and guest profiles.
+// ---
+
 #include <memory>
 
 #include "base/test/bind.h"

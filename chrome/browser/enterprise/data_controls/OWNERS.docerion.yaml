@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for enterprise data controls
+summary: Lists the owners and review alias that must approve changes to the data controls directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTTP header injection service factory implementation
+// summary: Profile-keyed service factory that creates an HttpHeaderInjectionService per profile, with isolated mode profile selection handling.
+// ---
+
 #include "chrome/browser/enterprise/network_header_injection/http_header_injection_service_factory.h"
 
 #include "base/feature_list.h"

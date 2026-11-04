@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Data protection directory metadata
+summary: Points the data_protection directory at the shared enterprise content metadata mixins.

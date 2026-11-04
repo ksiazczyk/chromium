@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform auth feature flag definitions
+// summary: Defines base::Feature flags for enterprise authentication, enabling extensible enterprise SSO by default and Ping Identity SSO support by default disabled.
+// ---
+
 #include "chrome/browser/enterprise/platform_auth/platform_auth_features.h"
 
 #include "base/feature_list.h"

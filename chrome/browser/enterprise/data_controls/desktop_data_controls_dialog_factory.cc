@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop data controls dialog factory implementation
+// summary: Implements the desktop singleton factory that creates DataControlsDialog instances for data control warnings on desktop platforms.
+// ---
+
 #include "chrome/browser/enterprise/data_controls/desktop_data_controls_dialog_factory.h"
 
 #include "base/memory/singleton.h"

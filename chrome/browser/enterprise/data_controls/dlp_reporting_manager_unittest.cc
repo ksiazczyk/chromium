@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DLP reporting manager unit tests
+// summary: Unit tests verifying that DlpReportingManager reports DLP policy events with correct source, destination, restriction, mode and rule details.
+// ---
+
 #include "chrome/browser/enterprise/data_controls/dlp_reporting_manager.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile management navigation throttle browser tests
+// summary: Browser tests for the profile management navigation throttle using an embedded test server that serves SAML responses.
+// ---
+
 #include "chrome/browser/enterprise/profile_management/profile_management_navigation_throttle.h"
 
 #include "base/base64.h"

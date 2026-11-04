@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise proxy error service factory header
+// summary: Declares the EnterpriseProxyErrorServiceFactory, a profile-scoped KeyedServiceFactory for the enterprise proxy error service.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_NET_ENTERPRISE_PROXY_ERROR_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ENTERPRISE_NET_ENTERPRISE_PROXY_ERROR_SERVICE_FACTORY_H_
 

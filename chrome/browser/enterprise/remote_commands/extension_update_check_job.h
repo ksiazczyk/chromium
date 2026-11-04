@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension update check remote command job header
+// summary: Declares the remote command job class that runs extension update checks in a specific profile.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_REMOTE_COMMANDS_EXTENSION_UPDATE_CHECK_JOB_H_
 #define CHROME_BROWSER_ENTERPRISE_REMOTE_COMMANDS_EXTENSION_UPDATE_CHECK_JOB_H_
 

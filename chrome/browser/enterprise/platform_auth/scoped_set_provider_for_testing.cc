@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped platform auth provider override for tests
+// summary: Test helper that swaps the process-wide platform auth provider and restores the previous one on destruction.
+// ---
+
 #include "chrome/browser/enterprise/platform_auth/scoped_set_provider_for_testing.h"
 
 #include <utility>

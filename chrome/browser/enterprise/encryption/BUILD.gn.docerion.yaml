@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for enterprise encryption unit tests
+summary: Defines the testonly unit_tests source_set that builds cache_encryption_provider_impl_unittest.cc with its base, browser, test support and gtest dependencies.

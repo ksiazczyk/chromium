@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Action base class and factory header
+// summary: Declares the Action base class and ActionFactory that convert policy action types into a priority queue of actions.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_IDLE_ACTION_H_
 #define CHROME_BROWSER_ENTERPRISE_IDLE_ACTION_H_
 

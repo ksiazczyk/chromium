@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data protection URL lookup service factory header
+// summary: Declares the ProfileKeyedServiceFactory providing DataProtectionUrlLookupService instances per browser context.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_DATA_PROTECTION_DATA_PROTECTION_URL_LOOKUP_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ENTERPRISE_DATA_PROTECTION_DATA_PROTECTION_URL_LOOKUP_SERVICE_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HTTP header injection utilities unit tests
+// summary: Unit tests checking that header injection clients are only created when the feature is enabled and injection rules are configured for the profile.
+// ---
+
 #include "chrome/browser/enterprise/network_header_injection/http_header_injection_utils.h"
 
 #include "base/test/scoped_feature_list.h"

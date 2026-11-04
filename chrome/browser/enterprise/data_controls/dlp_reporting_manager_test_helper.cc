@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DLP reporting manager test helper implementation
+// summary: Implements a gmock matcher for DlpPolicyEvent and a helper that attaches a mock report queue to capture reported DLP events in tests.
+// ---
+
 #include "chrome/browser/enterprise/data_controls/dlp_reporting_manager_test_helper.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print policy scanning unit tests
+// summary: Unit tests covering print scanning verdicts, local and cloud content analysis responses, and realtime reporting for policy-gated printing.
+// ---
+
 #include "chrome/browser/enterprise/data_protection/print_utils.h"
 
 #include "base/containers/span.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Job profile picker implementation
+// summary: Resolves the target profile for remote command jobs from the payload's profile path, with case-insensitive matching on Windows.
+// ---
+
 #include "chrome/browser/enterprise/remote_commands/job_profile_picker.h"
 
 #include <variant>

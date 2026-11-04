@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for Chrome enterprise data controls
+summary: Defines the data_controls and test_support source sets, their sources and platform-specific dependencies.
