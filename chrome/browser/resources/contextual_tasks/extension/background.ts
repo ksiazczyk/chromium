@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension background service worker for search message relaying
+// summary: Background script that manages chrome.runtime ports and relays search channel protobuf messages between the browser and extension pages via Mojo.
+// ---
+
 import {ExtensionPageCallbackRouter, ExtensionPageHandlerFactory, ExtensionPageHandlerRemote} from 'chrome://contextual-tasks/contextual_tasks.mojom-webui.js';
 import type {ExtensionPageInterface} from 'chrome://contextual-tasks/contextual_tasks.mojom-webui.js';
 import {getArrayBufferFromBigBuffer} from 'chrome://contextual-tasks/utils.js';

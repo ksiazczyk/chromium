@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for engagement
+summary: Points to COMMON_METADATA so the directory inherits the engagement issue tracker settings.

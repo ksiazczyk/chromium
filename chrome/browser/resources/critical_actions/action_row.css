@@ -8,6 +8,12 @@
  * #import=//resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Critical action row element styles
+summary: Styles the critical-action-row table row, including type pills, metadata preview, delete button, and dark mode variants.
+*/
+
 :host {
   display: table-row;
 }

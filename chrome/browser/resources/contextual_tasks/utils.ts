@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks WebUI utilities
+// summary: Shared helpers for recording user actions, checking Google origins, converting BigBuffer to ArrayBuffer, and handshake timing constants.
+// ---
+
 import type {BigBuffer} from 'chrome://resources/mojo/mojo/public/mojom/base/big_buffer.mojom-webui.js';
 
 export function recordAction(actionName: string) {

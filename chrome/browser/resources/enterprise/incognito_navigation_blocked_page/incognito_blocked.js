@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incognito blocked page logic
+// summary: JavaScript that fills in the lists of blocking or missing extensions and reveals the appropriate message container when the page loads.
+// ---
+
 showBlockingExtensions = (extensionNames) => {
   const ul = document.getElementById('blocking-extensions');
   for (extName of extensionNames) {

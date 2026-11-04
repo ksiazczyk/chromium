@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Database tab Lit HTML template
+// summary: Lit HTML template that renders the site data database table with sortable columns and an add-origin input.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {DatabaseTabElement} from './database_tab.js';

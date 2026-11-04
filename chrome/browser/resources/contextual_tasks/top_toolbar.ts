@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks top toolbar element
+// summary: Lit element implementing top toolbar behavior, including feature flags, permission dashboard state, menus, and user action metrics.
+// ---
+
 import './icons.html.js';
 import '//resources/cr_elements/cr_button/cr_button.js';
 import '//resources/cr_elements/cr_icon/cr_icon.js';

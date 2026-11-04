@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Downloads WebUI entry point
+// summary: Entry point that re-exports the downloads page elements, services and Mojom types for the Chrome downloads WebUI.
+// ---
+
 import './manager.js';
 
 export {CrIconElement} from 'chrome://resources/cr_elements/cr_icon/cr_icon.js';

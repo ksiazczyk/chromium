@@ -13,6 +13,12 @@
  * #include=cr-shared-style-lit cr-hidden-style-lit md-select-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Contextual Tasks Internals page styles
+summary: CSS styles for the internals debug page, covering cards, tabs, model option controls, relevant tab lists, and the event log table.
+*/
+
 :host {
   display: block;
   margin: 0 auto;

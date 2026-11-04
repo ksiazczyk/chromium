@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Error page styles
+summary: Lit CSS styles for the contextual tasks error page, covering the error icon, protected icon, and centered text lines.
+*/
+
 :host {
   height: 100%;
   width: 100%;

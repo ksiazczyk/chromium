@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Discards tab Lit template
+// summary: Lit HTML template for the discards tab, rendering action links and the sortable tab discard info table with one row per open tab.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {DiscardsTabElement} from './discards_tab.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Critical Actions app Lit element
+// summary: Implements the critical-actions-app element that loads, filters, paginates, refreshes, and clears critical action records via the Mojo page handler.
+// ---
+
 import '//resources/cr_elements/cr_button/cr_button.js';
 import './action_row.js';
 

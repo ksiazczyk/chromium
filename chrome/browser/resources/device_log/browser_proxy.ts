@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser proxy for the device log page
+// summary: Defines the LogLevel enum, LogEntry interface, and browser proxy used to fetch and clear the device event log from the backend.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 
 // LogLevel values must match the strings provided by the backend.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Picker API proxy for the Drive Picker host
+// summary: Loads the Google API Loader and Picker, drives picker selection and returns sanitized Drive files or a cancel result to the caller.
+// ---
+
 import {assert} from 'chrome-untrusted://resources/js/assert.js';
 import {PromiseResolver} from 'chrome-untrusted://resources/js/promise_resolver.js';
 import {getTrustedScriptURL} from 'chrome-untrusted://resources/js/static_types.js';

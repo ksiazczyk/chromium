@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab picker browser proxy
+// summary: Browser proxy for the tab picker that fetches recent tabs and adds or deletes tab context through the composebox searchbox handler.
+// ---
+
 import {ComposeboxProxyImpl} from 'chrome://resources/cr_components/composebox/composebox_proxy.js';
 import {MojoPluralStringProxy} from 'chrome://resources/cr_components/search/mojo_plural_string_proxy.js';
 import {TabAttachmentSource} from 'chrome://resources/mojo/components/omnibox/browser/searchbox.mojom-webui.js';

@@ -8,6 +8,12 @@
  * #import=//resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the device log page
+summary: Styles the device log UI, including layout, controls, and colored log level and log type tags with dark mode support.
+*/
+
 :host {
   display: flex;
   flex-direction: column;

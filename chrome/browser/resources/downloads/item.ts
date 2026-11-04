@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download item element
+// summary: Implements the downloads-item element that displays a single download, handling danger types, progress and actions.
+// ---
+
 import './icons.html.js';
 // <if expr="_google_chrome">
 import './internal/icons.html.js';

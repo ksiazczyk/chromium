@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sources menu element
+// summary: Lit custom element showing the sources menu and reporting tab, file, and image clicks to the toolbar browser proxy.
+// ---
+
 import './icons.html.js';
 import '//resources/cr_elements/cr_action_menu/cr_action_menu.js';
 import '//resources/cr_elements/cr_icon/cr_icon.js';

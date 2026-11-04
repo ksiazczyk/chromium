@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Error dialog styles
+summary: Lit CSS styles for the contextual tasks error dialog, defining cr-dialog sizing, backdrop and full-width buttons.
+*/
+
 :host {
   --cr-dialog-width: 300px;
   --cr-dialog-title-font-size: large;

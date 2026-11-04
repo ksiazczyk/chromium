@@ -1,0 +1,4 @@
+# Docerion header of incognito_blocked.html.
+type: source
+title: Incognito navigation blocked page markup
+summary: HTML template for the page shown when extensions block incognito navigation, with localized headings, instructions, and containers for blocking or missing extensions.

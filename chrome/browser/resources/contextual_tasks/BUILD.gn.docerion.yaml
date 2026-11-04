@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Contextual tasks WebUI GN build configuration
+summary: Defines the GN targets that build the contextual tasks WebUI, listing its TypeScript, CSS, HTML and Mojo sources with platform conditions.

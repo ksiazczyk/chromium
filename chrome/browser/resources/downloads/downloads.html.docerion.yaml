@@ -1,0 +1,4 @@
+# Docerion header of downloads.html.
+type: source
+title: Downloads page HTML entry document
+summary: HTML entry document for the downloads page that sets locale, color scheme and styles and mounts the downloads-manager element with its module script.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sanitizer for Google Picker responses
+// summary: Validates and sanitizes third-party Google Picker responses into typed Drive file metadata, including IDs, sizes, types and thumbnail URLs.
+// ---
+
 import type {Url} from '//resources/mojo/url/mojom/url.mojom-webui.js';
 
 /**

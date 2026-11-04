@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Default browser modal WebUI build file
+summary: GN build configuration that assembles the default browser modal WebUI from static files, TypeScript sources and Mojo dependencies.

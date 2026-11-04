@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Drive picker host code owners
+summary: Delegates code ownership to the OWNERS file of the drive_picker_host WebUI directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device log app element
+// summary: Implements the DeviceLogAppElement Lit component that loads, filters, and displays device event logs by level and type.
+// ---
+
 import '/strings.m.js';
 
 import type {PropertyValues} from '//resources/lit/v3_0/lit.rollup.js';

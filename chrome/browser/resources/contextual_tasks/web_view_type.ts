@@ -5,6 +5,12 @@
 // This library allows you to obtain a chrome.webviewTab.WebView element when
 // extensions are enabled, or a SlimWebviewElement when they are not.
 
+// ---docerion
+// type: source
+// title: WebView type helpers
+// summary: Defines the WebViewType union of full webview and SlimWebviewElement plus a guard that detects full WebView instances.
+// ---
+
 // <if expr="not enable_extensions_core">
 import '/shared/guest_view/slim_webview.js';
 

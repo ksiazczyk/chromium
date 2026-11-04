@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Guest window manager for contextual tasks
+// summary: Manages hidden webview elements hosting guest windows opened from the AIM page, registering and closing them via the browser proxy.
+// ---
+
 import {BrowserProxyImpl} from './contextual_tasks_browser_proxy.js';
 import type {WebViewType} from './web_view_type.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit template for the banner promo element
+// summary: Renders the banner promo markup with an icon, header and body slots, plus dismiss and accept buttons.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {BannerPromoElement} from './banner_promo.js';

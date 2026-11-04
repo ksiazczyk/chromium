@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overflow menu element
+// summary: Lit custom element implementing the contextual tasks overflow menu, tracking pin state, feature flags, and toolbar events to show or hide menu items.
+// ---
+
 import './icons.html.js';
 import '//resources/cr_elements/cr_action_menu/cr_action_menu.js';
 import '//resources/cr_elements/cr_icon/cr_icon.js';

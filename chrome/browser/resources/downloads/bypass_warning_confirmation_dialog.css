@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the bypass warning confirmation dialog
+summary: Styles the dialog body, buttons and danger icon shown when keeping a flagged dangerous download, with dark mode support.
+*/
+
 #body {
   display: flex;
 }

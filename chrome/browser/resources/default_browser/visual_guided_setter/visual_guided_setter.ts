@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Visual guided setter page controller
+// summary: TypeScript that reports the illustration container's anchor rect to the browser, fits the docking slot to the docked Settings window bounds, and handles error state and the settings link.
+// ---
+
 import '/strings.m.js';
 
 import {ColorChangeUpdater} from 'chrome://resources/cr_components/color_change_listener/colors_css_updater.js';

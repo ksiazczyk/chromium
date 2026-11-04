@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the downloads WebUI
+summary: GN build definition that compiles the downloads WebUI TypeScript, CSS, icons and Mojo bindings into an optimized trusted WebUI target.

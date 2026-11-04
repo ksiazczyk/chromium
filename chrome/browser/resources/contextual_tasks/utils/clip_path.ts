@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composebox clip path utility
+// summary: TypeScript utility that computes a clip path cutting occluded AIM elements out of the contextual tasks composebox so only uncovered areas remain clickable.
+// ---
+
 import type {Rect} from '../post_message_handler.js';
 
 /**

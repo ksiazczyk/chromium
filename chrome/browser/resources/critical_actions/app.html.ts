@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Critical Actions app HTML template
+// summary: Renders the main app template with header actions, feature-disabled warning banner, search and type filters, entries table, and pagination controls.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CriticalActionsAppElement} from './app.js';

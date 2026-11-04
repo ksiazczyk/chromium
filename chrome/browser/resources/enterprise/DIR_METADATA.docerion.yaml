@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for enterprise resources
+summary: Sets the Monorail component Chromium>Enterprise and the public Buganizer component for issues in this directory.

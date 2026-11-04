@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Critical Actions WebUI bug tracking metadata
+summary: Maps the directory to the Chrome>Privacy>Browser Privacy monorail component and a Buganizer component for issue routing.

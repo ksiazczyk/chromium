@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data sharing SDK to Mojo bridge
+// summary: Initializes the data sharing SDK and forwards read, leave, and delete group requests between the browser proxy callback router and the SDK.
+// ---
+
 // clang-format off
 // <if expr="_google_chrome">
 import './data_sharing_sdk.js';

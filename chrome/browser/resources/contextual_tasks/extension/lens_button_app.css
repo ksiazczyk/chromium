@@ -8,6 +8,12 @@
  * #include=cr-icon-button
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the Lens button app
+summary: Lit styles for the Lens icon button covering fill colors, hover and active states, focus outlines, and forced-colors support.
+*/
+
 :host {
   align-items: center;
   display: flex;

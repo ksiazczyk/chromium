@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Onboarding tooltip element
+// summary: Lit element that shows a capped, impression-tracked onboarding tooltip anchored to a target element.
+// ---
+
 import '//resources/cr_elements/cr_button/cr_button.js';
 import '//resources/cr_elements/icons.html.js';
 import '//resources/cr_elements/cr_tooltip/cr_tooltip.js';

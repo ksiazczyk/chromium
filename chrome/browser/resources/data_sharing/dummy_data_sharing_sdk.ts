@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dummy Data Sharing SDK implementation
+// summary: Stub SDK implementation for non-branded builds that returns fake group data and placeholder dialogs.
+// ---
+
 // Dummy implementation of data_sharing_sdk.js for non-branded build.
 import type {AddAccessTokenParams, AddAccessTokenResult, AddMemberParams, CreateGroupParams, CreateGroupResult, DataSharingSdk, DataSharingSdkGroupData, DataSharingSdkResponse, DeleteGroupParams, LeaveGroupParams, ReadGroupOptions, ReadGroupParams, ReadGroupResult, ReadGroupsParams, ReadGroupsResult, RunCloseFlowParams, RunDeleteFlowParams, RunInviteFlowParams, RunJoinFlowParams, RunManageFlowParams} from './data_sharing_sdk_types.js';
 import {Code} from './data_sharing_sdk_types.js';

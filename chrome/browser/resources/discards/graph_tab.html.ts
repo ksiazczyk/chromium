@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Graph tab Lit template
+// summary: Lit HTML template for the graph tab that provides the tooltip container and the SVG body with an arrow marker definition.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {GraphTabElement} from './graph_tab.js';

@@ -8,6 +8,12 @@
  * #import=//resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Critical Actions app element styles
+summary: Styles the Critical Actions Internals app layout, including header, warning banner, toolbar, filters, table, and pagination controls.
+*/
+
 :host {
   color: var(--cr-primary-text-color);
   display: block;

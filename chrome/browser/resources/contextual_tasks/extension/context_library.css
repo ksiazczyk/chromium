@@ -6,6 +6,12 @@
  * #type=style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the context library element
+summary: Lit styles that shrink-wrap and center the favicon group and set favicon border and skeleton colors for light and dark mode.
+*/
+
 /* Shrink-wraps the content so the document reports a natural size to the
  * embedder via responsive-embedded-sizing. Avoid width/height: 100% here. */
 :host {

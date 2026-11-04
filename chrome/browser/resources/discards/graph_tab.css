@@ -7,6 +7,12 @@
  * #import=chrome://resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Graph tab styles
+summary: Lit CSS for the graph tab, styling graph nodes, links, separators and the draggable tooltip panels with dark mode support.
+*/
+
 .links line {
   stroke: #999;
   stroke-opacity: 0.6;

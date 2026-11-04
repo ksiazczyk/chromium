@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the Drive Picker host untrusted WebUI
+summary: Defines the WebUI build for the untrusted Drive Picker host, listing TypeScript, CSS, static HTML files and Mojo and Lit build dependencies.

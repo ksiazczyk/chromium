@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lens chip app HTML template
+// summary: Lit HTML template for the Lens chip that renders the crop preview image and its dismiss button.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {LensChipAppElement} from './lens_chip_app.js';

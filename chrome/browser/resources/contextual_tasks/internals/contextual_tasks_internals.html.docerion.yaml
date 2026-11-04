@@ -1,0 +1,4 @@
+# Docerion header of contextual_tasks_internals.html.
+type: source
+title: Contextual Tasks internals HTML shell
+summary: HTML entry page for the internals UI that sets color scheme and base styles, mounts the contextual tasks internals app element, and loads the app module script.

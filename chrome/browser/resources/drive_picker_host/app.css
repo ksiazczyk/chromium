@@ -6,6 +6,12 @@
  * #type=style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Drive picker host app styles
+summary: Lit styles for the host element that lay out a full-size, borderless, transparent iframe.
+*/
+
 :host {
   display: flex;
   align-items: center;

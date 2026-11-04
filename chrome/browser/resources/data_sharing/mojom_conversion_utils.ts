@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SDK to Mojom group data conversion utilities
+// summary: Converts Data Sharing SDK group and member objects into the group_data.mojom types used by the WebUI.
+// ---
+
 // <if expr="_google_chrome">
 import '/data_sharing_sdk.js';
 // </if>

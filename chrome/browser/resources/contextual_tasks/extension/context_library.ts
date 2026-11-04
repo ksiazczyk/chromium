@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context library Lit element
+// summary: Defines the context-library custom element that shows tab favicons, tracks dark mode, and updates through browser proxy callbacks and window messages.
+// ---
+
 import 'chrome://resources/cr_components/composebox/composebox_favicon_group.js';
 
 import {ExtensionBrowserProxyImpl} from 'chrome://contextual-tasks/contextual_tasks_browser_proxy.js';

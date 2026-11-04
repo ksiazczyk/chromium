@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab picker app element
+// summary: Lit element implementing the tab picker UI, fetching tab suggestions, tracking selected tabs and handling menu open, close and selection events.
+// ---
+
 import 'chrome://resources/cr_components/composebox/composebox_favicon_group.js';
 import 'chrome://resources/cr_components/composebox/composebox_tab_favicon.js';
 import 'chrome://resources/cr_components/composebox/icons.html.js';

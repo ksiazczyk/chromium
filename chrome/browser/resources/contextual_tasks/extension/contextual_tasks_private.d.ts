@@ -10,6 +10,12 @@
  * ts_definitions` to regenerate.
  */
 
+// ---docerion
+// type: source
+// title: Type definitions for the chrome.contextualTasksPrivate API
+// summary: Generated TypeScript declarations for the chrome.contextualTasksPrivate extension API covering profile state and panel launch calls.
+// ---
+
 
 
 declare namespace chrome {

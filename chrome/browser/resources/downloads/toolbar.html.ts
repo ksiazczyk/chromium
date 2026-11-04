@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Downloads toolbar HTML template
+// summary: Lit template that renders the downloads toolbar markup with a search field and a Clear all button.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {DownloadsToolbarElement} from './toolbar.js';

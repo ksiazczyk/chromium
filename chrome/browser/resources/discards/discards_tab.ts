@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Discards tab element
+// summary: Implements the discards tab WebUI element, providing comparison and sort functions for tab discard details plus discard and freeze actions.
+// ---
+
 import 'chrome://resources/js/action_link.js';
 import '/strings.m.js';
 

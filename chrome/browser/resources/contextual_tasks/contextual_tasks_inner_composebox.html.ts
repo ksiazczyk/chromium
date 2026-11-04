@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inner composebox HTML template
+// summary: Lit HTML template for the inner composebox, including animated glow, voice search carousel, tool chips and input.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 import {ToolMode} from '//resources/mojo/components/omnibox/composebox/composebox_query.mojom-webui.js';
 

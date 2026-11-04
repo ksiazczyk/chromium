@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Favicon group styles
+summary: Lit CSS styles for the favicon group element, laying out overlapping favicon items with hover and overflow styling.
+*/
+
 :host {
   align-items: center;
   background-color: var(--toolbar-background-color);

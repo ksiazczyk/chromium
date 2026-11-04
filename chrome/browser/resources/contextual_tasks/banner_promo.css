@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the banner promo element
+summary: Styles the contextual tasks banner promo card, covering its container, icon, header, body and action buttons.
+*/
+
 :host {
   box-sizing: border-box;
   display: block;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks top toolbar template
+// summary: Lit HTML template rendering the top toolbar row with permission dashboard, logo, title, action buttons, and overflow menu.
+// ---
+
 import '/strings.m.js';
 
 import {html} from '//resources/lit/v3_0/lit.rollup.js';

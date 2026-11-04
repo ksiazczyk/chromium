@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overflow menu HTML template
+// summary: Lit HTML template for the contextual tasks overflow menu with actions such as new thread, thread history, open in new tab, pin, my activity, help, and feedback.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {OverflowMenuElement} from './overflow_menu.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks browser proxy
+// summary: Singleton browser proxies bridging the WebUI to the browser's page and extension page Mojo handlers.
+// ---
+
 import {ExtensionPageCallbackRouter, ExtensionPageHandlerFactory, ExtensionPageHandlerRemote, PageCallbackRouter, PageHandlerFactory, PageHandlerRemote} from './contextual_tasks.mojom-webui.js';
 import type {ExtensionPageHandlerInterface, PageHandlerInterface} from './contextual_tasks.mojom-webui.js';
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ghost loader element
+// summary: Lit element rendering an animated skeleton loading placeholder, exporting the row, pair, and bottom animation delay helpers.
+// ---
+
 import {CrLitElement} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import {getCss} from './ghost_loader.css.js';

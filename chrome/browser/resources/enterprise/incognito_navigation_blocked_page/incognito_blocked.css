@@ -2,6 +2,12 @@
 * Use of this source code is governed by a BSD-style license that can be
 * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Incognito blocked page styles
+summary: Styles the enterprise incognito navigation blocked page, defining layout, text colors, and the enterprise icon used in the message.
+*/
+
 body {
   --header-color: var(--cr-primary-text-color);
   --paragraph-color: var(--cr-secondary-text-color);

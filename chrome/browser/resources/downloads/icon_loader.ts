@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download item icon loader
+// summary: Loads file icons for download items and resolves a promise once the image finishes loading or errors.
+// ---
+
 import {getFileIconUrl} from 'chrome://resources/js/icon.js';
 import {PromiseResolver} from 'chrome://resources/js/promise_resolver.js';
 

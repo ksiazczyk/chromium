@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for enterprise resources
+summary: Delegates code ownership of this directory to the owners list of components/enterprise.

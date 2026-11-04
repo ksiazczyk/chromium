@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the data sharing WebUI
+summary: Defines GN targets that build and package the data sharing WebUI, including Mojo bindings, TypeScript dependencies, and branded versus non-branded SDK handling.

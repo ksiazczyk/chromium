@@ -1,0 +1,4 @@
+# Docerion header of tab_picker.html.
+type: source
+title: Tab picker host page
+summary: HTML host page that mounts the tab-picker-app element and loads the tab picker and post message entry scripts.

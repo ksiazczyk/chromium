@@ -9,6 +9,12 @@
  * #include=action-link-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Discards tab table styles
+summary: Lit CSS for the discards tab, styling the tab discard info table with sortable headers, favicons, tooltips and dark mode support.
+*/
+
 table {
   border-collapse: collapse;
 }

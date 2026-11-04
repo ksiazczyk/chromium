@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Favicon group Lit HTML template
+// summary: Lit HTML template that renders tab favicons, file and image icons, and a remaining-items count for the favicon group.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ContextualTasksFaviconGroupElement} from './favicon_group.js';

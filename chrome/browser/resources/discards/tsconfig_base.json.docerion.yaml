@@ -1,0 +1,4 @@
+# Docerion header of tsconfig_base.json.
+type: config
+title: TypeScript base configuration for the discards WebUI
+summary: Extends the shared Lit TypeScript base config and enables UMD global access plus d3 type definitions for the discards UI.

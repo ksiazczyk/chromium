@@ -1,0 +1,4 @@
+# Docerion header of device_log_ui.html.
+type: source
+title: Device log UI HTML shell
+summary: HTML entry page for the device log UI that sets the localized title and base styles, loads the app module script, and hosts the device-log-app element.

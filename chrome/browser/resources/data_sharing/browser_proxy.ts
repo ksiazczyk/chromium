@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser proxy for the data sharing WebUI
+// summary: Implements the BrowserProxy singleton that connects the data sharing WebUI to the Mojo page handler for sharing actions, share links, and tab group previews.
+// ---
+
 import {AbslStatusCode} from '//resources/mojo/mojo/public/mojom/base/absl_status.mojom-webui.js';
 
 import type {PageHandlerInterface} from './data_sharing.mojom-webui.js';

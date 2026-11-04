@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory metrics section definitions
+// summary: Defines metric and section definitions used by the memory tab to extract and display OS, malloc and PartitionAlloc memory metrics.
+// ---
+
 /**
  * Definition of a single metric entry to be extracted from a ProcessMemoryDump.
  */

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Critical action row HTML template
+// summary: Renders the Lit template for a critical action row showing ID, timestamp, visit, conversation, task, type, source, metadata, and a delete button.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {CriticalActionRowElement} from './action_row.js';

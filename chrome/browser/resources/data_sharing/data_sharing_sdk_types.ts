@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Data Sharing SDK type definitions
+// summary: Defines enums and interfaces for the Data Sharing SDK API, kept in sync with the third-party SDK copy.
+// ---
+
 // IMPORTANT: This file should be kept in sync with
 // third_party/data_sharing_sdk/cipd/data_sharing_sdk_types.ts
 // Only update this file by copying the content from that file and fix the

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Info tooltip HTML template
+// summary: Lit HTML template for the info tooltip with title, body text, optional link, and icon or text close actions.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ContextualTasksInfoTooltipElement} from './info_tooltip.js';
