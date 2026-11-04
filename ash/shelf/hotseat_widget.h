@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HotseatWidget class header
+// summary: Declares the HotseatWidget shelf component that hosts app shortcuts and manages hotseat states, transitions, bounds calculation, and accessibility properties.
+// relations:
+//   - references /ash/shelf/hotseat_transition_animator.h
+//   - depends_on /ash/shelf/shelf_component.h
+//   - depends_on /ui/views/widget/widget.h
+// ---
+
 #ifndef ASH_SHELF_HOTSEAT_WIDGET_H_
 #define ASH_SHELF_HOTSEAT_WIDGET_H_
 

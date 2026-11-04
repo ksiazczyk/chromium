@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanner disclaimer types and entry points
+// summary: Declares the ScannerDisclaimerType and ScannerEntryPoint enums plus functions to get and acknowledge the disclaimer shown for Scanner entry points.
+// relations:
+//   - references /ash/ash_export.h
+// ---
+
 #ifndef ASH_SCANNER_SCANNER_DISCLAIMER_H_
 #define ASH_SCANNER_SCANNER_DISCLAIMER_H_
 

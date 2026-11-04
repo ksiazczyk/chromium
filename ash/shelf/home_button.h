@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Home button header
+// summary: Declares the HomeButton class for the shelf, which opens the app list or home screen and supports long-press actions for Assistant and Sunfish/Scanner.
+// relations:
+//   - depends_on /ash/shelf/home_button_controller.h
+//   - depends_on /ash/shelf/shelf_control_button.h
+// ---
+
 #ifndef ASH_SHELF_HOME_BUTTON_H_
 #define ASH_SHELF_HOME_BUTTON_H_
 

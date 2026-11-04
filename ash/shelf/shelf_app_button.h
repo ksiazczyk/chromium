@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShelfAppButton class declaration
+// summary: Declares the app shortcut shelf button with state flags, icon image handling, and badge support.
+// relations:
+//   - implements /ash/shelf/shelf_button.h
+//   - depends_on /ash/shelf/shelf_button_delegate.h
+//   - depends_on /ash/public/cpp/shelf_types.h
+// ---
+
 #ifndef ASH_SHELF_SHELF_APP_BUTTON_H_
 #define ASH_SHELF_SHELF_APP_BUTTON_H_
 

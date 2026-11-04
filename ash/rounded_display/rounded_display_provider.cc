@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rounded display provider implementation
+// summary: Implements RoundedDisplayProvider, creating and updating gutters and the host window that render software-based rounded corners for a display.
+// relations:
+//   - implements /ash/rounded_display/rounded_display_provider.h
+//   - references /ash/rounded_display/rounded_display_gutter.h
+//   - references /ash/rounded_display/rounded_display_gutter_factory.h
+// ---
+
 #include "ash/rounded_display/rounded_display_provider.h"
 
 #include <algorithm>

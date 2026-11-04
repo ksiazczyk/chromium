@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShelfButton class header
+// summary: Declares ShelfButton, a views::Button subclass for items on the shelf that keeps the owning Shelf and a ShelfButtonDelegate.
+// relations:
+//   - references /ui/views/controls/button/button.h
+//   - references /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_SHELF_SHELF_BUTTON_H_
 #define ASH_SHELF_SHELF_BUTTON_H_
 

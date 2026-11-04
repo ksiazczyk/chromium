@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Ash session OWNERS file
+summary: Lists hidehiko@chromium.org as the owner of the ash session directory for review routing.

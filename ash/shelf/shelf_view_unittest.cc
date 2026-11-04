@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ShelfView unit tests
+// summary: Extensive unit tests for the shelf view covering item buttons, context menus, dragging, tooltips, alignment and animation behavior.
+// relations:
+//   - tests /ash/shelf/shelf_view.h
+// ---
+
 #include "ash/shelf/shelf_view.h"
 
 #include <algorithm>

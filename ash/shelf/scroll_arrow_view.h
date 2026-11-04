@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollArrowView class header
+// summary: Declares a shelf button view that paints left or right scroll arrows for the scrollable shelf.
+// relations:
+//   - depends_on /ash/shelf/shelf_button.h
+// ---
+
 #ifndef ASH_SHELF_SCROLL_ARROW_VIEW_H_
 #define ASH_SHELF_SCROLL_ARROW_VIEW_H_
 

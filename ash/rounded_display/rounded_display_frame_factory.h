@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RoundedDisplayFrameFactory class declaration
+// summary: Declares the factory that creates compositor frames for rounded display gutters.
+// ---
+
 #ifndef ASH_ROUNDED_DISPLAY_ROUNDED_DISPLAY_FRAME_FACTORY_H_
 #define ASH_ROUNDED_DISPLAY_ROUNDED_DISPLAY_FRAME_FACTORY_H_
 

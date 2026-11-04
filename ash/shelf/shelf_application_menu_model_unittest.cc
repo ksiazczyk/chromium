@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shelf application menu model unit tests
+// summary: Unit tests verifying shelf application menu contents with empty and non-empty item lists, command enablement, and histogram buckets for menu selection metrics.
+// relations:
+//   - tests /ash/shelf/shelf_application_menu_model.h
+//   - references /base/memory/raw_ptr.h
+//   - references /base/strings/utf_string_conversions.h
+// ---
+
 #include "ash/shelf/shelf_application_menu_model.h"
 
 #include <memory>

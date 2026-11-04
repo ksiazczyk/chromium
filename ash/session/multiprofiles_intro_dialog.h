@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multiprofiles intro dialog class declaration
+// summary: Declares the MultiprofilesIntroDialog class, a dialog for multi-profiles introduction and confirmation with an accept callback.
+// ---
+
 #ifndef ASH_SESSION_MULTIPROFILES_INTRO_DIALOG_H_
 #define ASH_SESSION_MULTIPROFILES_INTRO_DIALOG_H_
 

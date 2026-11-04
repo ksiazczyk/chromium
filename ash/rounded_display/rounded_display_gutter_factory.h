@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RoundedDisplayGutterFactory class declaration
+// summary: Declares the factory that creates drawable overlay gutters for rounded displays.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /ash/rounded_display/rounded_display_gutter.h
+// ---
+
 #ifndef ASH_ROUNDED_DISPLAY_ROUNDED_DISPLAY_GUTTER_FACTORY_H_
 #define ASH_ROUNDED_DISPLAY_ROUNDED_DISPLAY_GUTTER_FACTORY_H_
 

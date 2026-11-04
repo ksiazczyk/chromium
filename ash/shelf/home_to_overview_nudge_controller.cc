@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Home to overview nudge controller implementation
+// summary: Implements the contextual nudge that animates the hotseat and shows a bubble encouraging users to swipe up from home to overview.
+// relations:
+//   - implements /ash/shelf/home_to_overview_nudge_controller.h
+//   - references /ash/controls/contextual_nudge.h
+//   - references /ash/controls/contextual_tooltip.h
+// ---
+
 #include "ash/shelf/home_to_overview_nudge_controller.h"
 
 #include "ash/controls/contextual_nudge.h"

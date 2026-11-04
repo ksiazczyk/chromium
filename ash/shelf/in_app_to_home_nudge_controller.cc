@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-app to home nudge controller implementation
+// summary: Implements logic for showing or hiding the in-app-to-home drag handle nudge based on tablet mode, in-app shelf state, and shelf control visibility.
+// relations:
+//   - implements /ash/shelf/in_app_to_home_nudge_controller.h
+//   - depends_on /ash/session/session_controller_impl.h
+//   - depends_on /ash/shelf/drag_handle.h
+// ---
+
 #include "ash/shelf/in_app_to_home_nudge_controller.h"
 
 #include "ash/session/session_controller_impl.h"

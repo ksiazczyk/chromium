@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ShelfWidget unit tests
+// summary: Unit tests for the shelf widget covering alignment, visibility states, hotseat transitions, drag handle and login shelf behavior.
+// relations:
+//   - tests /ash/shelf/shelf_widget.h
+// ---
+
 #include "ash/shelf/shelf_widget.h"
 
 #include "ash/constants/ash_switches.h"

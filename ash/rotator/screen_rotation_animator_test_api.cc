@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Screen rotation animator test API implementation
+// summary: Implements the test API for ScreenRotationAnimator, exposing its layer animators and disabling animation timers for tests.
+// relations:
+//   - implements /ash/rotator/screen_rotation_animator_test_api.h
+//   - references /ash/rotator/screen_rotation_animator.h
+//   - references /ui/compositor/layer.h
+// ---
+
 #include "ash/rotator/screen_rotation_animator_test_api.h"
 
 #include "ash/rotator/screen_rotation_animator.h"

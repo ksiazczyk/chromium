@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scrollable shelf constants
+// summary: Defines layout constants, gesture thresholds, timing values, and histogram names used by the scrollable shelf.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/time/time.h
+// ---
+
 #ifndef ASH_SHELF_SCROLLABLE_SHELF_CONSTANTS_H_
 #define ASH_SHELF_SCROLLABLE_SHELF_CONSTANTS_H_
 

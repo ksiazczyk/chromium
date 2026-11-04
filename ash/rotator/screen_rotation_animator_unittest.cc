@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Screen rotation animator unit tests
+// summary: Unit tests for screen rotation animations covering rotation requests, observer notifications, animation queueing, and external display removal scenarios.
+// relations:
+//   - tests /ash/rotator/screen_rotation_animator.h
+//   - tests /ash/rotator/screen_rotation_animator_observer.h
+//   - references /ash/rotator/screen_rotation_animator_test_api.h
+// ---
+
 #include "ash/rotator/screen_rotation_animator.h"
 
 #include <memory>

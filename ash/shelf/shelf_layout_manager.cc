@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShelfLayoutManager implementation
+// summary: Implements the layout manager that positions the shelf and status widgets, handling auto-hide, work area insets, shelf dragging, gestures, and background state.
+// relations:
+//   - implements /ash/shelf/shelf_layout_manager.h
+//   - references /ash/shelf/desk_button_widget.h
+//   - references /ash/shelf/drag_handle.h
+// ---
+
 #include "ash/shelf/shelf_layout_manager.h"
 
 #include <algorithm>

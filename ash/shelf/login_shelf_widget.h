@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginShelfWidget class declaration
+// summary: Declares LoginShelfWidget, a separate shelf component widget so the login shelf can be focused without stacking the main shelf widget above other components.
+// relations:
+//   - depends_on /ash/public/cpp/session/session_observer.h
+//   - depends_on /ash/shelf/shelf_component.h
+//   - depends_on /ui/views/widget/widget.h
+// ---
+
 #ifndef ASH_SHELF_LOGIN_SHELF_WIDGET_H_
 #define ASH_SHELF_LOGIN_SHELF_WIDGET_H_
 

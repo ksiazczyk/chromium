@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen rotation animator implementation
+// summary: Implements the screen rotation animator that animates display rotation by copying layer trees, running old and new layer animations, and reporting smoothness metrics.
+// relations:
+//   - implements /ash/rotator/screen_rotation_animator.h
+//   - references /ash/rotator/screen_rotation_animation.h
+//   - references /ash/rotator/screen_rotation_animator_observer.h
+// ---
+
 #include "ash/rotator/screen_rotation_animator.h"
 
 #include <memory>

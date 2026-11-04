@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file pointing to the app_list owners
+summary: Designates code owners for the directory by referencing the ash/app_list/OWNERS file.
+relations:
+  - references /ash/app_list/OWNERS

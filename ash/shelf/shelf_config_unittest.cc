@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ShelfConfig unit tests
+// summary: Unit tests checking dense shelf behavior across display sizes, tablet mode transitions, and shelf size ordering between home and in-app contexts.
+// relations:
+//   - depends_on /ash/public/cpp/shelf_config.h
+//   - depends_on /ash/app_list/test/app_list_test_helper.h
+//   - depends_on /ash/session/session_controller_impl.h
+// ---
+
 #include "ash/public/cpp/shelf_config.h"
 
 #include "ash/app_list/test/app_list_test_helper.h"

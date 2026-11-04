@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanner action view model implementation
+// summary: Implements the view model that supplies localized labels and vector icons for each supported scanner action type.
+// relations:
+//   - implements /ash/scanner/scanner_action_view_model.h
+// ---
+
 #include "ash/scanner/scanner_action_view_model.h"
 
 #include <string>

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session aborted dialog implementation
+// summary: Implements the session aborted dialog that informs the user a multiprofiles session was aborted and requests sign-out when acknowledged.
+// relations:
+//   - implements /ash/session/session_aborted_dialog.h
+// ---
+
 #include "ash/session/session_aborted_dialog.h"
 
 #include "ash/root_window_controller.h"

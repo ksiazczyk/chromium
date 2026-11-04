@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window rotation animation implementation
+// summary: Implements the WindowRotation layer animation element that rotates a window layer by a given angle with scale and translation effects and angle-dependent duration.
+// relations:
+//   - implements /ash/rotator/window_rotation.h
+//   - references /base/time/time.h
+//   - references /ui/compositor/layer.h
+// ---
+
 #include "ash/rotator/window_rotation.h"
 
 #include <memory>

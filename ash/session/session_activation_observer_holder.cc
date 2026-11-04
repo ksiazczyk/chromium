@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionActivationObserverHolder implementation
+// summary: Implements the holder that manages per-account session activation observers and notifies them of active session changes and lock state changes.
+// relations:
+//   - implements /ash/session/session_activation_observer_holder.h
+//   - references /ash/public/cpp/session/session_activation_observer.h
+//   - references /base/notreached.h
+// ---
+
 #include "ash/session/session_activation_observer_holder.h"
 
 #include <map>

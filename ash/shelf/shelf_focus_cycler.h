@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShelfFocusCycler class declaration
+// summary: Declares the ShelfFocusCycler class and SourceView enum that move keyboard focus between the shelf, status area, desk button, and login UI.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /base/memory/raw_ptr.h
+//   - implemented_by /ash/shelf/shelf_focus_cycler.cc
+// ---
+
 #ifndef ASH_SHELF_SHELF_FOCUS_CYCLER_H_
 #define ASH_SHELF_SHELF_FOCUS_CYCLER_H_
 

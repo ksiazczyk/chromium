@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shelf window watcher implementation
+// summary: Implements ShelfWindowWatcher, which keeps shelf items in sync with windows in the default container by observing window additions, property changes, visibility, and activation.
+// relations:
+//   - implements /ash/shelf/shelf_window_watcher.h
+//   - references /ash/shelf/shelf_window_watcher_item_delegate.h
+// ---
+
 #include "ash/shelf/shelf_window_watcher.h"
 
 #include <memory>

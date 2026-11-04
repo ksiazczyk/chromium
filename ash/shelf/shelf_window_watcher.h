@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shelf window watcher header
+// summary: Declares ShelfWindowWatcher, which manages shelf items for dialogs with valid shelf item type and ID properties and tracks the active item via window activation.
+// relations:
+//   - references /ash/shell_observer.h
+//   - references /base/memory/raw_ptr.h
+//   - references /base/scoped_multi_source_observation.h
+// ---
+
 #ifndef ASH_SHELF_SHELF_WINDOW_WATCHER_H_
 #define ASH_SHELF_SHELF_WINDOW_WATCHER_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window scale animation implementation
+// summary: Implements scale-down-to-shelf and scale-up-to-restore animations for windows in a transient tree after a drag ends, minimizing windows in descending order on completion.
+// relations:
+//   - depends_on /ash/shelf/shelf.h
+//   - depends_on /ui/aura/window.h
+//   - depends_on /base/time/time.h
+// ---
+
 #include "ash/shelf/window_scale_animation.h"
 
 #include <optional>

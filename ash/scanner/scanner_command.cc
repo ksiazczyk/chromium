@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanner command implementations
+// summary: Implements constructors and destructors for the OpenUrl, DriveUpload, and CopyToClipboard scanner command structs.
+// relations:
+//   - implements /ash/scanner/scanner_command.h
+// ---
+
 #include "ash/scanner/scanner_command.h"
 
 #include <memory>

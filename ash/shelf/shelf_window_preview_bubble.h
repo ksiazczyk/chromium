@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shelf window preview bubble header
+// summary: Declares ShelfWindowPreviewBubble, a shelf bubble that displays a window preview and updates its anchor and window in place.
+// ---
+
 #ifndef ASH_SHELF_SHELF_WINDOW_PREVIEW_BUBBLE_H_
 #define ASH_SHELF_SHELF_WINDOW_PREVIEW_BUBBLE_H_
 

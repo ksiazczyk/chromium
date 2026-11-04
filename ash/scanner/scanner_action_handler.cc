@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanner action handler implementation
+// summary: Converts scanner actions into commands and executes them, building Calendar and Contacts URLs, uploading to Drive, and copying to the clipboard.
+// relations:
+//   - implements /ash/scanner/scanner_action_handler.h
+//   - references /ash/scanner/scanner_command.h
+//   - references /ash/scanner/scanner_command_delegate.h
+// ---
+
 #include "ash/scanner/scanner_action_handler.h"
 
 #include <cstddef>

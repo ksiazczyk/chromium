@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RGB keyboard manager observer interface
+// summary: Declares an observer interface that is notified when RGB keyboard support status changes.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/observer_list_types.h
+// ---
+
 #ifndef ASH_RGB_KEYBOARD_RGB_KEYBOARD_MANAGER_OBSERVER_H_
 #define ASH_RGB_KEYBOARD_RGB_KEYBOARD_MANAGER_OBSERVER_H_
 

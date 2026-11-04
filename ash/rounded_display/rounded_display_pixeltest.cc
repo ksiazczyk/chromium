@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Rounded display pixel tests
+// summary: Parameterized pixel tests verifying that rounded display mask textures are drawn correctly across device scale factors and display rotations.
+// relations:
+//   - references /ash/test/ash_test_base.h
+//   - references /ash/test/ash_test_util.h
+//   - references /ash/test/pixel/ash_pixel_differ.h
+// ---
+
 #include <tuple>
 
 #include "ash/test/ash_test_base.h"

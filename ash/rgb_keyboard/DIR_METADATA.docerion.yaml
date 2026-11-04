@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: RGB keyboard directory metadata
+summary: Directory metadata mapping the RGB keyboard folder to the ChromeOS Peripherals Keyboard team and Buganizer component 1131926.

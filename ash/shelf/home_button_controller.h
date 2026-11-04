@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Home button controller header
+// summary: Declares the controller that manages home button behavior, including gesture handling and long-press actions for Assistant or Sunfish/Scanner.
+// relations:
+//   - depends_on /ash/capture_mode/sunfish_scanner_feature_watcher.h
+//   - depends_on /ash/public/cpp/app_list/app_list_controller_observer.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_SHELF_HOME_BUTTON_CONTROLLER_H_
 #define ASH_SHELF_HOME_BUTTON_CONTROLLER_H_
 

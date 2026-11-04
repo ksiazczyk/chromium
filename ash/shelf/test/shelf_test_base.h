@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shelf test base header
+// summary: Declares a shared AshTestBase fixture for scrollable shelf pixel and non-pixel tests with app shortcut and shelf view helpers.
+// relations:
+//   - references /ash/public/cpp/shelf_item.h
+//   - references /ash/public/cpp/shelf_types.h
+//   - references /ash/test/ash_test_base.h
+// ---
+
 #ifndef ASH_SHELF_TEST_SHELF_TEST_BASE_H_
 #define ASH_SHELF_TEST_SHELF_TEST_BASE_H_
 

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk apps button header
+// summary: Declares the login shelf button that manages the kiosk app menu, its model, menu display state, and app launching callbacks.
+// relations:
+//   - depends_on /ash/public/cpp/kiosk_app_menu.h
+//   - depends_on /ash/shelf/login_shelf_button.h
+// ---
+
 #ifndef ASH_SHELF_KIOSK_APPS_BUTTON_H_
 #define ASH_SHELF_KIOSK_APPS_BUTTON_H_
 

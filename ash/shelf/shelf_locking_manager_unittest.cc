@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ShelfLockingManager unit tests
+// summary: Unit tests verifying shelf alignment while the screen or session is locked, including deferred alignment changes applied after unlocking.
+// relations:
+//   - tests /ash/shelf/shelf_locking_manager.h
+//   - depends_on /ash/shelf/shelf.h
+// ---
+
 #include "ash/shelf/shelf_locking_manager.h"
 
 #include "ash/shelf/shelf.h"

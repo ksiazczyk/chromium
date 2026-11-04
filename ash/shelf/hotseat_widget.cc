@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hotseat widget implementation
+// summary: Implements the hotseat widget on the Chrome OS shelf, including state transitions, animations, shadows, and layout of app buttons.
+// relations:
+//   - implements /ash/shelf/hotseat_widget.h
+// ---
+
 #include "ash/shelf/hotseat_widget.h"
 
 #include <memory>

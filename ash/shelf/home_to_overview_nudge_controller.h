@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Home to overview nudge controller header
+// summary: Declares the controller that shows and hides the home-to-overview contextual nudge near the hotseat, with timers and widget observation.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /base/memory/raw_ptr.h
+//   - references /base/memory/weak_ptr.h
+// ---
+
 #ifndef ASH_SHELF_HOME_TO_OVERVIEW_NUDGE_CONTROLLER_H_
 #define ASH_SHELF_HOME_TO_OVERVIEW_NUDGE_CONTROLLER_H_
 

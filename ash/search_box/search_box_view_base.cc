@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search box view base implementation
+// summary: Implements the base search box view with a textfield, search, close, Gemini, and sunfish buttons, plus animations and autocomplete ghost text for Chrome OS.
+// relations:
+//   - depends_on /ash/search_box/search_box_view_base.h
+// ---
+
 #include "ash/search_box/search_box_view_base.h"
 
 #include <algorithm>

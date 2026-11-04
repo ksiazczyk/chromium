@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sensor types and observer declarations
+// summary: Defines the SensorLocation and SensorType enums, the SensorReading and SensorUpdate data structures, and the SensorObserver interface for sensor updates.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /base/observer_list_types.h
+// ---
+
 #ifndef ASH_SENSOR_INFO_SENSOR_TYPES_H_
 #define ASH_SENSOR_INFO_SENSOR_TYPES_H_
 

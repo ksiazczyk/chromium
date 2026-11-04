@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for RoundedDisplayFrameFactory
+// summary: Verifies compositor frame creation and quad configuration for vertical and horizontal gutters.
+// relations:
+//   - references /ash/rounded_display/rounded_display_frame_factory.h
+//   - tests /ash/rounded_display/rounded_display_frame_factory.cc
+//   - references /ash/rounded_display/rounded_display_gutter_factory.h
+// ---
+
 #include "ash/rounded_display/rounded_display_frame_factory.h"
 
 #include <memory>

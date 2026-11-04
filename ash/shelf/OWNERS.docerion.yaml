@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Shelf OWNERS file
+summary: Lists the code owners for the shelf directory and delegates ownership of login-related files to the ash login owners.

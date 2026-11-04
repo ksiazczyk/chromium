@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shelf menu model adapter implementation
+// summary: Implements the shelf context menu adapter, including hover-triggered window preview and tooltip bubbles for application menu items.
+// relations:
+//   - implements /ash/shelf/shelf_menu_model_adapter.h
+//   - depends_on /ash/shelf/shelf_bubble.h
+//   - depends_on /ash/shelf/shelf_tooltip_bubble.h
+// ---
+
 #include "ash/shelf/shelf_menu_model_adapter.h"
 
 #include "ash/constants/ash_features.h"

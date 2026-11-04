@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rounded display provider class declaration
+// summary: Declares RoundedDisplayProvider, the API that manages and renders software-based rounded corners for a display via overlay gutters and compositor frames.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /base/memory/weak_ptr.h
+//   - references /ui/display/display.h
+// ---
+
 #ifndef ASH_ROUNDED_DISPLAY_ROUNDED_DISPLAY_PROVIDER_H_
 #define ASH_ROUNDED_DISPLAY_ROUNDED_DISPLAY_PROVIDER_H_
 

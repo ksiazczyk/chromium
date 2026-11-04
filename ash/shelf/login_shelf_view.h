@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginShelfView class declaration
+// summary: Declares LoginShelfView with its ButtonId enum and APIs for kiosk apps, guest sign-in, parent access, add-user state, and session-driven UI updates.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/login/ui/login_data_dispatcher.h
+//   - depends_on /ash/public/cpp/kiosk_app_menu.h
+// ---
+
 #ifndef ASH_SHELF_LOGIN_SHELF_VIEW_H_
 #define ASH_SHELF_LOGIN_SHELF_VIEW_H_
 

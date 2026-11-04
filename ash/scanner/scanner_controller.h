@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanner controller declaration
+// summary: Declares ScannerController, the top-level mediator that manages Scanner sessions, checks UI constraints, fetches actions for images, and executes them.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /ash/public/cpp/session/session_observer.h
+//   - references /ash/scanner/scanner_action_view_model.h
+// ---
+
 #ifndef ASH_SCANNER_SCANNER_CONTROLLER_H_
 #define ASH_SCANNER_SCANNER_CONTROLLER_H_
 

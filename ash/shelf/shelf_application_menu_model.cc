@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shelf application menu model implementation
+// summary: Implements the menu model listing open applications for a shelf item, executing commands through the item delegate and recording UMA metrics for selected menu items.
+// relations:
+//   - implements /ash/shelf/shelf_application_menu_model.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/shelf/shelf_application_menu_model.h"
 
 #include <algorithm>

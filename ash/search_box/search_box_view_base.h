@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SearchBoxViewBase class declaration
+// summary: Declares the SearchBoxViewBase class, which combines icons and a textfield and provides common search box functions across Chrome OS, including button creation and query callbacks.
+// relations:
+//   - depends_on /ash/search_box/search_box_constants.h
+// ---
+
 #ifndef ASH_SEARCH_BOX_SEARCH_BOX_VIEW_BASE_H_
 #define ASH_SEARCH_BOX_SEARCH_BOX_VIEW_BASE_H_
 

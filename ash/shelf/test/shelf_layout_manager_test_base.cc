@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shelf layout manager test base implementation
+// summary: Implements shared fixtures and gesture, scroll, and drag helpers for testing shelf layout manager visibility and auto-hide behavior.
+// relations:
+//   - implements /ash/shelf/test/shelf_layout_manager_test_base.h
+//   - references /ash/shelf/shelf_layout_manager.h
+//   - references /ash/shelf/shelf_view.h
+// ---
+
 #include "ash/shelf/test/shelf_layout_manager_test_base.h"
 
 #include "ash/constants/ash_pref_names.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shelf drag handle unit tests
+// summary: Unit tests for the shelf drag handle, covering contextual nudges, visibility in tablet mode, and drag-from-shelf window behavior with metrics.
+// ---
+
 #include "ash/app_list/test/app_list_test_helper.h"
 #include "ash/constants/ash_features.h"
 #include "ash/constants/ash_pref_names.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shelf tooltip manager implementation
+// summary: Implements ShelfTooltipManager, which shows tooltip bubbles for shelf items after a hover delay, closes them on input, and manages the window preview bubble.
+// relations:
+//   - implements /ash/shelf/shelf_tooltip_manager.h
+//   - references /ash/constants/ash_features.h
+//   - references /ash/constants/ash_switches.h
+// ---
+
 #include "ash/shelf/shelf_tooltip_manager.h"
 
 #include <optional>

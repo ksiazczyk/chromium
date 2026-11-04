@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LoginShelfView unit tests
+// summary: Unit tests for the login shelf view covering button visibility, focus, kiosk app menus, and click behavior across session states and shutdown policies.
+// relations:
+//   - tests /ash/shelf/login_shelf_view.h
+// ---
+
 #include "ash/shelf/login_shelf_view.h"
 
 #include <algorithm>

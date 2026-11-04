@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Drag window from shelf controller test API implementation
+// summary: Provides test helpers that wait until overview is shown during a shelf window drag and access the other window's copy layer.
+// relations:
+//   - implements /ash/shelf/drag_window_from_shelf_controller_test_api.h
+// ---
+
 #include "ash/shelf/drag_window_from_shelf_controller_test_api.h"
 
 #include "ash/shelf/drag_window_from_shelf_controller.h"

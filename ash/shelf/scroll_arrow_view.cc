@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollArrowView implementation
+// summary: Implements the shelf scroll arrow button that paints left or right overflow icons with RTL awareness and rotation for vertical alignment.
+// relations:
+//   - implements /ash/shelf/scroll_arrow_view.h
+// ---
+
 #include "ash/shelf/scroll_arrow_view.h"
 
 #include "ash/public/cpp/shelf_config.h"

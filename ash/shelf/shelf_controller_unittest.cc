@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ShelfController unit tests
+// summary: Unit tests for the ShelfController covering shutdown behavior, active shelf ID updates, and notification badge updates on shelf items.
+// relations:
+//   - tests /ash/shelf/shelf_controller.h
+// ---
+
 #include "ash/shelf/shelf_controller.h"
 
 #include <string>

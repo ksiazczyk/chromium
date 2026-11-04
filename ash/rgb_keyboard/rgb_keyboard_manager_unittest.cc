@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RGB keyboard manager unit tests
+// summary: Tests RgbKeyboardManager capability fetching, zone counts, color setting, and histogram emission using a fake rgbkbd client.
+// relations:
+//   - tests /ash/rgb_keyboard/rgb_keyboard_manager.h
+//   - references /ash/ime/ime_controller_impl.h
+//   - references /ash/rgb_keyboard/histogram_util.h
+// ---
+
 #include "ash/rgb_keyboard/rgb_keyboard_manager.h"
 
 #include <stdint.h>

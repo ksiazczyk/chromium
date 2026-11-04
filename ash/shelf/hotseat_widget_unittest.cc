@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hotseat widget unit tests
+// summary: Unit tests covering hotseat widget behavior, state transitions, focus, and shelf interactions across tablet mode, auto-hide, and feature flag configurations.
+// relations:
+//   - tests /ash/shelf/hotseat_widget.h
+// ---
+
 #include "ash/shelf/hotseat_widget.h"
 
 #include <memory>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Home button unit tests
+// summary: Unit tests covering home button gesture handling, tablet mode behavior, and related shelf features such as Sunfish and Scanner.
+// relations:
+//   - tests /ash/shelf/home_button.h
+//   - references /ash/accessibility/accessibility_controller.h
+//   - references /ash/app_list/app_list_controller_impl.h
+// ---
+
 #include "ash/shelf/home_button.h"
 
 #include <memory>

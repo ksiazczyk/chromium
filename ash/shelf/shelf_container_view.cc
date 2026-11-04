@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShelfContainerView implementation
+// summary: Implements the container view hosting the ShelfView, calculating ideal sizes, handling layout invalidation, and translating the shelf during gestures.
+// relations:
+//   - implements /ash/shelf/shelf_container_view.h
+//   - depends_on /ash/public/cpp/shelf_config.h
+//   - depends_on /ui/base/metadata/metadata_impl_macros.h
+// ---
+
 #include "ash/shelf/shelf_container_view.h"
 
 #include "ash/public/cpp/shelf_config.h"

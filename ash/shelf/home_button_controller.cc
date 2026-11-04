@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Home button controller implementation
+// summary: Implements gesture handling for the home button, including long-press to start a Sunfish/Scanner capture session and Assistant tap overlay animations.
+// relations:
+//   - implements /ash/shelf/home_button_controller.h
+//   - depends_on /ash/shelf/home_button.h
+// ---
+
 #include "ash/shelf/home_button_controller.h"
 
 #include "ash/app_list/app_list_controller_impl.h"

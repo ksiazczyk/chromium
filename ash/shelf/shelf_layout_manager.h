@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShelfLayoutManager class declaration
+// summary: Declares ShelfLayoutManager, the layout manager responsible for laying out the shelf and status widgets and tracking visibility, drag, and work area state.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /ash/shelf/drag_window_from_shelf_controller.h
+//   - references /ash/shelf/shelf.h
+// ---
+
 #ifndef ASH_SHELF_SHELF_LAYOUT_MANAGER_H_
 #define ASH_SHELF_SHELF_LAYOUT_MANAGER_H_
 

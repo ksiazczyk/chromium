@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RGB keyboard color utility declarations
+// summary: Declares the default backlight color and helpers converting backlight color enums to SkColor values for the keyboard backlight and slider icon.
+// relations:
+//   - references /ash/ash_export.h
+// ---
+
 #ifndef ASH_RGB_KEYBOARD_RGB_KEYBOARD_UTIL_H_
 #define ASH_RGB_KEYBOARD_RGB_KEYBOARD_UTIL_H_
 

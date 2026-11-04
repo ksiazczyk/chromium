@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoginShelfView implementation
+// summary: Implements the shelf view shown outside an active user session, managing buttons such as shutdown, restart, sign out, guest browsing, add user, kiosk apps, and enrollment.
+// ---
+
 #include "ash/shelf/login_shelf_view.h"
 
 #include <algorithm>

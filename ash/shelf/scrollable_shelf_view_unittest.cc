@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scrollable shelf view unit tests
+// summary: Unit tests covering paging, scrolling, ink drop animations, and metrics reporting for the scrollable shelf view.
+// relations:
+//   - tests /ash/shelf/scrollable_shelf_view.h
+// ---
+
 #include "ash/shelf/scrollable_shelf_view.h"
 
 #include "ash/app_list/app_list_controller_impl.h"

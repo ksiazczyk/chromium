@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScannerSession implementation
+// summary: Implements the ScannerSession class, including JPEG image downscaling and fetching or populating Scanner actions from image bytes.
+// relations:
+//   - implements /ash/scanner/scanner_session.h
+//   - depends_on /ash/scanner/scanner_action_view_model.h
+//   - depends_on /ash/scanner/scanner_controller.h
+// ---
+
 #include "ash/scanner/scanner_session.h"
 
 #include <algorithm>

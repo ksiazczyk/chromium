@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shelf unit tests
+// summary: Unit tests for the Shelf class verifying shelf item status reflection in buttons, ink drop colors, and behavior across primary and secondary displays.
+// relations:
+//   - tests /ash/shelf/shelf_view.h
+// ---
+
 #include "ash/shelf/shelf.h"
 
 #include <memory>

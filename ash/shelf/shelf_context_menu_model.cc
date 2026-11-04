@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShelfContextMenuModel implementation
+// summary: Implements the context menu for shelf items, the shelf, and the desktop, handling auto-hide, alignment, personalization hub, desk name, and task manager commands.
+// relations:
+//   - implements /ash/shelf/shelf_context_menu_model.h
+// ---
+
 #include "ash/shelf/shelf_context_menu_model.h"
 
 #include <memory>

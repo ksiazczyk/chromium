@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShelfLockingManager implementation
+// summary: Implements locking the shelf alignment to the bottom while the screen or session is locked, restoring the prior alignment and auto-hide behavior on unlock.
+// relations:
+//   - implements /ash/shelf/shelf_locking_manager.h
+//   - depends_on /ash/shelf/shelf.h
+//   - depends_on /ash/wm/lock_state_controller.h
+// ---
+
 #include "ash/shelf/shelf_locking_manager.h"
 
 #include "ash/session/session_controller_impl.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shelf widget header
+// summary: Declares the ShelfWidget class that manages the shelf view and status area widget, one instance per display, with layout and session handling.
+// ---
+
 #ifndef ASH_SHELF_SHELF_WIDGET_H_
 #define ASH_SHELF_SHELF_WIDGET_H_
 

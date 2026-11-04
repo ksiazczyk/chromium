@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Screen rotation animation unit tests
+// summary: Unit tests verifying that aborted rotation animations set the layer transform to the target and that destroying a layer during animation does not crash.
+// relations:
+//   - tests /ash/rotator/screen_rotation_animation.h
+//   - tests /ash/rotator/screen_rotation_animation.cc
+//   - references /ash/test/ash_test_base.h
+// ---
+
 #include "ash/rotator/screen_rotation_animation.h"
 
 #include <memory>

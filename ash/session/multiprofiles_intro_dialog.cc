@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multiprofiles intro dialog implementation
+// summary: Implements the multiprofiles introduction dialog with a never-show-again checkbox that reports user acceptance through a callback.
+// relations:
+//   - implements /ash/session/multiprofiles_intro_dialog.h
+// ---
+
 #include "ash/session/multiprofiles_intro_dialog.h"
 
 #include "ash/shell.h"

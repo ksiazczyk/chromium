@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScannerSession class declaration
+// summary: Declares ScannerSession, which represents a single use of the Scanner feature and fetches or populates actions for captured images.
+// relations:
+//   - depends_on /ash/scanner/scanner_action_view_model.h
+//   - depends_on /base/functional/callback.h
+//   - depends_on /components/manta/manta_status.h
+// ---
+
 #ifndef ASH_SCANNER_SCANNER_SESSION_H_
 #define ASH_SCANNER_SCANNER_SESSION_H_
 

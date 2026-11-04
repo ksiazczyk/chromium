@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollableShelfView implementation
+// summary: Implements the scrollable shelf view with arrow paging, scrolling, layout, and animation smoothness metrics.
+// relations:
+//   - implements /ash/shelf/scrollable_shelf_view.h
+//   - depends_on /ash/shelf/scrollable_shelf_constants.h
+// ---
+
 #include "ash/shelf/scrollable_shelf_view.h"
 
 #include <algorithm>

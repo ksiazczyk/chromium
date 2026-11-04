@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestPrefServiceProvider implementation
+// summary: Implements a test helper that creates and owns sign-in and user pref services so ash tests can simulate re-login while keeping pref references valid.
+// relations:
+//   - implements /ash/session/test_pref_service_provider.h
+//   - depends_on /components/prefs/testing_pref_service.h
+// ---
+
 #include "ash/session/test_pref_service_provider.h"
 
 #include <algorithm>

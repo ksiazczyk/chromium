@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShelfController implementation
+// summary: Implements the ShelfController that owns the shared ShelfModel and applies per-display shelf auto-hide and alignment preferences across displays.
+// relations:
+//   - implements /ash/shelf/shelf_controller.h
+//   - references /ash/shelf/shelf.h
+//   - references /ash/shelf/shelf_layout_manager.h
+// ---
+
 #include "ash/shelf/shelf_controller.h"
 
 #include <memory>

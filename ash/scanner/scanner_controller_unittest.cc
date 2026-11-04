@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scanner controller unit tests
+// summary: Unit tests for ScannerController covering session startup, action fetching and execution, toasts, notifications, and metrics using fake delegates and test servers.
+// relations:
+//   - tests /ash/scanner/scanner_controller.h
+//   - references /ash/accelerators/accelerator_controller_impl.h
+//   - references /ash/constants/ash_features.h
+// ---
+
 #include "ash/scanner/scanner_controller.h"
 
 #include <cstdint>

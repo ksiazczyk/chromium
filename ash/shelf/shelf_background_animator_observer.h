@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shelf background animator observer interface
+// summary: Defines the observer interface for ShelfBackgroundAnimator with callbacks for shelf background color updates and animation end notifications.
+// relations:
+//   - references /ash/ash_export.h
+// ---
+
 #ifndef ASH_SHELF_SHELF_BACKGROUND_ANIMATOR_OBSERVER_H_
 #define ASH_SHELF_SHELF_BACKGROUND_ANIMATOR_OBSERVER_H_
 

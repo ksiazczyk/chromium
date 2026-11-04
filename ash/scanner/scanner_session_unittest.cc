@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScannerSession unit tests
+// summary: Unit tests for ScannerSession covering delegate errors, unsupported languages, empty responses and metrics recording.
+// relations:
+//   - tests /ash/scanner/scanner_session.h
+//   - depends_on /ash/scanner/fake_scanner_profile_scoped_delegate.h
+// ---
+
 #include "ash/scanner/scanner_session.h"
 
 #include <memory>

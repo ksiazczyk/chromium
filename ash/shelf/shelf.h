@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shelf class declaration
+// summary: Declares the Shelf controller with auto-hide locks, alignment helpers, and per-display shelf state.
+// relations:
+//   - implements /ash/shelf/shelf_layout_manager_observer.h
+//   - depends_on /ash/shelf/desk_button_widget.h
+//   - depends_on /ash/public/cpp/shelf_types.h
+// ---
+
 #ifndef ASH_SHELF_SHELF_H_
 #define ASH_SHELF_SHELF_H_
 

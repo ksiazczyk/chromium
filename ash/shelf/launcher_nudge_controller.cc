@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Launcher nudge controller implementation
+// summary: Implements preference tracking and timer-based scheduling for the launcher nudge that animates the home button to guide users toward the launcher.
+// relations:
+//   - implements /ash/shelf/launcher_nudge_controller.h
+//   - depends_on /ash/shelf/home_button.h
+// ---
+
 #include "ash/shelf/launcher_nudge_controller.h"
 
 #include <memory>

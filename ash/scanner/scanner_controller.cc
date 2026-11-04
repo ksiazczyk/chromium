@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanner controller implementation
+// summary: Implements the top-level ScannerController, mediating Scanner sessions, action fetching and execution, notifications, toasts, metrics, and feedback.
+// relations:
+//   - implements /ash/scanner/scanner_controller.h
+//   - references /ash/constants/ash_features.h
+//   - references /ash/constants/ash_pref_names.h
+// ---
+
 #include "ash/scanner/scanner_controller.h"
 
 #include <cstddef>

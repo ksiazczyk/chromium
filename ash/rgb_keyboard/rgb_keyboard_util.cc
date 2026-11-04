@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RGB keyboard color conversion utilities
+// summary: Converts personalization backlight color enums into SkColor values, including wallpaper-derived colors and icon background colors.
+// relations:
+//   - implements /ash/rgb_keyboard/rgb_keyboard_util.h
+//   - references /ash/public/cpp/wallpaper/wallpaper_types.h
+//   - references /ash/shell.h
+// ---
+
 #include "ash/rgb_keyboard/rgb_keyboard_util.h"
 
 #include "ash/public/cpp/wallpaper/wallpaper_types.h"

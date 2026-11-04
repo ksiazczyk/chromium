@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rounded display gutter factory implementation
+// summary: Creates overlay gutters for display corners based on panel size and corner radii.
+// relations:
+//   - implements /ash/rounded_display/rounded_display_gutter_factory.h
+//   - depends_on /ash/rounded_display/rounded_display_gutter.h
+//   - references /ui/gfx/geometry/point.h
+// ---
+
 #include "ash/rounded_display/rounded_display_gutter_factory.h"
 
 #include <memory>

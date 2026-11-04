@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionControllerImpl implementation
+// summary: Implements the ash session controller that caches session state, user sessions, and prefs, handling screen locking, session length limits, and related dialogs.
+// relations:
+//   - implemented_by /ash/session/session_controller_impl.h
+//   - references /ash/session/fullscreen_controller.h
+//   - references /ash/session/multiprofiles_intro_dialog.h
+// ---
+
 #include "ash/session/session_controller_impl.h"
 
 #include <algorithm>

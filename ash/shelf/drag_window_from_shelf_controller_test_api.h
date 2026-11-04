@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Drag window from shelf controller test API header
+// summary: Declares a test API for the shelf window drag controller to wait for overview display and inspect the other window copy layer.
+// ---
+
 #ifndef ASH_SHELF_DRAG_WINDOW_FROM_SHELF_CONTROLLER_TEST_API_H_
 #define ASH_SHELF_DRAG_WINDOW_FROM_SHELF_CONTROLLER_TEST_API_H_
 

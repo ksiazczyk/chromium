@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowRotation layer animation element header
+// summary: Declares the ash WindowRotation class, a layer animation element that animates a window layer between orientations using an interpolated transform and supports mid-transition target updates.
+// relations:
+//   - references /ash/ash_export.h
+//   - depends_on /ui/compositor/layer_animation_element.h
+//   - references /ui/gfx/geometry/point.h
+// ---
+
 #ifndef ASH_ROTATOR_WINDOW_ROTATION_H_
 #define ASH_ROTATOR_WINDOW_ROTATION_H_
 

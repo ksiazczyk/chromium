@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShelfComponent interface
+// summary: Defines an interface for shelf components such as navigation, hotseat, and status area widgets to coordinate target bounds and animation updates.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/gfx/geometry/rect.h
+// ---
+
 #ifndef ASH_SHELF_SHELF_COMPONENT_H_
 #define ASH_SHELF_SHELF_COMPONENT_H_
 

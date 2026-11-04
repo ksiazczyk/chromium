@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Rounded display gutter unit tests
+// summary: Unit tests that verify rounded display gutter corner mask textures by sampling drawn pixel ratios and colors in Skia bitmaps.
+// relations:
+//   - tests /ash/rounded_display/rounded_display_gutter.h
+//   - references /base/check.h
+//   - references /testing/gtest/include/gtest/gtest.h
+// ---
+
 #include "ash/rounded_display/rounded_display_gutter.h"
 
 #include <algorithm>

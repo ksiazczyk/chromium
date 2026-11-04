@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shelf test base implementation
+// summary: Implements the shared test fixture for scrollable shelf tests, including app shortcut setup, animation waiting, and shelf view accessors.
+// relations:
+//   - implements /ash/shelf/test/shelf_test_base.h
+//   - references /ash/shelf/scrollable_shelf_view.h
+//   - references /ash/shelf/shelf.h
+// ---
+
 #include "ash/shelf/test/shelf_test_base.h"
 
 #include "ash/shelf/scrollable_shelf_view.h"

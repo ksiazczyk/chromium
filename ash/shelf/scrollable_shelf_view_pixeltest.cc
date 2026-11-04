@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scrollable shelf view pixel tests
+// summary: Pixel tests verifying scrollable shelf rendering under overflow, RTL, left and right shelf alignment, and guest mode.
+// relations:
+//   - tests /ash/shelf/scrollable_shelf_view.h
+// ---
+
 #include "ash/shelf/scrollable_shelf_view.h"
 #include "ash/shelf/shelf_menu_model_adapter.h"
 #include "ash/shelf/shelf_widget.h"

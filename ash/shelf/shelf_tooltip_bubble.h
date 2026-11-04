@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shelf tooltip bubble class declaration
+// summary: Declares ShelfTooltipBubble, the tooltip bubble widget for shelf items, including preferred size calculation and close behavior overrides.
+// relations:
+//   - references /ash/ash_export.h
+//   - references /ash/shelf/shelf_bubble.h
+// ---
+
 #ifndef ASH_SHELF_SHELF_TOOLTIP_BUBBLE_H_
 #define ASH_SHELF_SHELF_TOOLTIP_BUBBLE_H_
 

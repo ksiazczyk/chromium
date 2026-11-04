@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shelf observer interface
+// summary: Declares the ShelfObserver interface for notifications about shelf background, visibility, auto-hide, icon positions, and hotseat state changes.
+// ---
+
 #ifndef ASH_SHELF_SHELF_OBSERVER_H_
 #define ASH_SHELF_SHELF_OBSERVER_H_
 

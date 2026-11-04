@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shelf tooltip bubble implementation
+// summary: Implements ShelfTooltipBubble, a transparent shelf bubble that shows tooltip text anchored to a shelf view and closes on press or mouse exit.
+// relations:
+//   - implemented_by /ash/shelf/shelf_tooltip_bubble.h
+//   - references /ash/constants/ash_features.h
+//   - references /ash/style/ash_color_id.h
+// ---
+
 #include "ash/shelf/shelf_tooltip_bubble.h"
 
 #include "ash/constants/ash_features.h"

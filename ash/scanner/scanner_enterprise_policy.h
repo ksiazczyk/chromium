@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanner enterprise policy values
+// summary: Defines the ScannerEnterprisePolicy enum of valid integer values for the Scanner enterprise policy preference, including allowed and disallowed states.
+// ---
+
 #ifndef ASH_SCANNER_SCANNER_ENTERPRISE_POLICY_H_
 #define ASH_SCANNER_SCANNER_ENTERPRISE_POLICY_H_
 

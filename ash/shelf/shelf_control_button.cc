@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShelfControlButton implementation
+// summary: Implements the base shelf control button for non-app shelf controls, setting up ink drops, focus rings, and highlight path generation.
+// relations:
+//   - implements /ash/shelf/shelf_control_button.h
+// ---
+
 #include "ash/shelf/shelf_control_button.h"
 
 #include "ash/public/cpp/shelf_config.h"

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Swipe home to overview controller unit tests
+// summary: Unit tests covering drag, end, and cancel gestures for the swipe home to overview transition, including thresholds, transition timers, and animations.
+// relations:
+//   - depends_on /ash/shelf/shelf.h
+//   - depends_on /ash/test/ash_test_base.h
+// ---
+
 #include "ash/shelf/swipe_home_to_overview_controller.h"
 
 #include <optional>

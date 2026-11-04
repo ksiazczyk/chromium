@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shelf button implementation
+// summary: Implements ShelfButton, the base button view for shelf items, handling focus rings, ink drops, anchor bounds for bubbles, and click notification via a delegate.
+// relations:
+//   - implements /ash/shelf/shelf_button.h
+//   - references /ash/shelf/shelf.h
+//   - references /ash/shelf/shelf_button_delegate.h
+// ---
+
 #include "ash/shelf/shelf_button.h"
 
 #include "ash/constants/ash_constants.h"

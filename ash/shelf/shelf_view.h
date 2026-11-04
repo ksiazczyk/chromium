@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shelf view class declaration
+// summary: Declares ShelfView, the view holding shelf items during an active user session, with delegates, alignment enums, and interfaces for model, tooltip, and menu handling.
+// ---
+
 #ifndef ASH_SHELF_SHELF_VIEW_H_
 #define ASH_SHELF_SHELF_VIEW_H_
 

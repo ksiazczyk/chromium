@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shelf window targeter implementation
+// summary: Implements extended mouse and touch hit-test insets around the shelf to ease window resizing and dragging out a hidden shelf.
+// relations:
+//   - implements /ash/shelf/shelf_window_targeter.h
+//   - references /ash/public/cpp/shelf_config.h
+// ---
+
 #include "ash/shelf/shelf_window_targeter.h"
 
 #include "ash/public/cpp/session/session_types.h"

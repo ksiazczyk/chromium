@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SensorProvider class declaration
+// summary: Declares the SensorProvider class and its DeviceState and SensorData helpers for communicating with the IIO Service and distributing sensor readings to observers.
+// relations:
+//   - references /ash/accelerometer/accel_gyro_samples_observer.h
+//   - references /ash/ash_export.h
+//   - references /base/gtest_prod_util.h
+// ---
+
 #ifndef ASH_SENSOR_INFO_SENSOR_PROVIDER_H_
 #define ASH_SENSOR_INFO_SENSOR_PROVIDER_H_
 

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shelf menu model adapter class declaration
+// summary: Declares ShelfMenuModelAdapter, which wraps menu operations for ShelfView and manages hover preview and tooltip bubble delays.
+// relations:
+//   - implements /ash/app_menu/app_menu_model_adapter.h
+// ---
+
 #ifndef ASH_SHELF_SHELF_MENU_MODEL_ADAPTER_H_
 #define ASH_SHELF_SHELF_MENU_MODEL_ADAPTER_H_
 

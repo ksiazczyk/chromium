@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanner feedback conversion helpers
+// summary: Declares helpers that convert Scanner actions to dictionary values and base values to flattened user-facing strings for feedback reports.
+// ---
+
 #ifndef ASH_SCANNER_SCANNER_FEEDBACK_H_
 #define ASH_SCANNER_SCANNER_FEEDBACK_H_
 

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shelf bubble implementation
+// summary: Implements ShelfBubble, the base bubble dialog for shelf tooltips and menus, handling arrow placement per shelf alignment, display parenting, and accessibility role.
+// relations:
+//   - implements /ash/shelf/shelf_bubble.h
+// ---
+
 #include "ash/shelf/shelf_bubble.h"
 
 #include <memory>

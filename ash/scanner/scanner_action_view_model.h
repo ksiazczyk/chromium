@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanner action view model declaration
+// summary: Declares ScannerActionViewModel, a wrapper that converts an unpopulated scanner action into user-facing text, an icon, and a callback, carrying downscaled JPEG bytes.
+// ---
+
 #ifndef ASH_SCANNER_SCANNER_ACTION_VIEW_MODEL_H_
 #define ASH_SCANNER_SCANNER_ACTION_VIEW_MODEL_H_
 

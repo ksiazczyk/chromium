@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScannerText unit tests
+// summary: Unit tests for ScannerText covering paragraph and line appending and text extraction for valid and invalid ranges.
+// relations:
+//   - tests /ash/scanner/scanner_text.h
+// ---
+
 #include "ash/scanner/scanner_text.h"
 
 #include <string>

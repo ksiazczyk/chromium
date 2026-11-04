@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanner action handler interface
+// summary: Declares ScannerActionToCommand and HandleScannerCommand, which turn a scanner action into a command and apply it to the system via a delegate.
+// ---
+
 #ifndef ASH_SCANNER_SCANNER_ACTION_HANDLER_H_
 #define ASH_SCANNER_SCANNER_ACTION_HANDLER_H_
 

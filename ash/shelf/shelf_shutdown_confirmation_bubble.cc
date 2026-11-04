@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shelf shutdown confirmation bubble implementation
+// summary: Implements the confirmation bubble anchored to a login shelf button that asks the user to confirm or cancel shutting down the device.
+// relations:
+//   - implements /ash/shelf/shelf_shutdown_confirmation_bubble.h
+// ---
+
 #include "ash/shelf/shelf_shutdown_confirmation_bubble.h"
 
 #include <string>

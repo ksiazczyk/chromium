@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen rotation animation implementation
+// summary: Implements the ScreenRotationAnimation layer animation element that rotates a layer around a pivot point while tweening its transform and opacity.
+// relations:
+//   - implements /ash/rotator/screen_rotation_animation.h
+//   - references /base/time/time.h
+//   - references /ui/compositor/layer.h
+// ---
+
 #include "ash/rotator/screen_rotation_animation.h"
 
 #include <memory>

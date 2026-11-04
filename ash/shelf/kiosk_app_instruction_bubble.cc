@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Kiosk app instruction bubble implementation
+// summary: Implements a shelf-anchored bubble dialog that instructs kiosk users to interact with the kiosk app menu button, with alignment-aware arrow and styling.
+// relations:
+//   - implements /ash/shelf/kiosk_app_instruction_bubble.h
+//   - depends_on /ash/shell.h
+//   - depends_on /ash/style/typography.h
+// ---
+
 #include "ash/shelf/kiosk_app_instruction_bubble.h"
 
 #include "ash/public/cpp/shell_window_ids.h"

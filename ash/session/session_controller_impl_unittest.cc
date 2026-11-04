@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SessionControllerImpl unit tests
+// summary: Unit tests for SessionControllerImpl covering session state changes, observers, screen locking, pref services, and session events using fake clients and test observers.
+// relations:
+//   - references /ash/session/session_controller_impl.h
+//   - references /ash/session/test_session_controller_client.h
+//   - references /ash/public/cpp/session/session_observer.h
+// ---
+
 #include "ash/session/session_controller_impl.h"
 
 #include <memory>

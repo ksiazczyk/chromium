@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LoginShelfView pixel tests
+// summary: Pixel tests verifying focus traversal between the lock screen contents and login shelf buttons such as shutdown, browse as guest, and add person via screenshot comparison.
+// relations:
+//   - tests /ash/shelf/login_shelf_view.h
+//   - depends_on /ash/login/ui/login_test_base.h
+//   - depends_on /ash/focus/focus_cycler.h
+// ---
+
 #include "ash/focus/focus_cycler.h"
 #include "ash/login/ui/lock_contents_view_test_api.h"
 #include "ash/login/ui/lock_screen.h"
