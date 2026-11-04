@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud profile reporting service factory header
+// summary: Declares CloudProfileReportingServiceFactory, which provides per-profile access to the cloud profile reporting service.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_REPORTING_CLOUD_PROFILE_REPORTING_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ENTERPRISE_REPORTING_CLOUD_PROFILE_REPORTING_SERVICE_FACTORY_H_
 

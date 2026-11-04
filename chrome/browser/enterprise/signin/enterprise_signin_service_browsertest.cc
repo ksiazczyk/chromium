@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EnterpriseSigninService browser tests
+// summary: Interactive browser tests verifying that EnterpriseSigninService opens and activates GAIA reauth tabs as sync transport state changes.
+// ---
+
 #include "chrome/browser/enterprise/signin/enterprise_signin_service.h"
 
 #include <memory>

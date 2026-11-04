@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop report scheduler delegate implementation
+// summary: Implements the desktop report scheduler delegate, handling update watching, version-triggered reports, profile DM tokens, and user security signals.
+// ---
+
 #include "chrome/browser/enterprise/reporting/report_scheduler_desktop.h"
 
 #include <optional>

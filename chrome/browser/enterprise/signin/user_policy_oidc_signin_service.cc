@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User policy OIDC signin service implementation
+// summary: Implements policy signin for OIDC-enrolled profiles, managing user or profile cloud policy and restoring policies from a backup DM token.
+// ---
+
 #include "chrome/browser/enterprise/signin/user_policy_oidc_signin_service.h"
 
 #include <memory>

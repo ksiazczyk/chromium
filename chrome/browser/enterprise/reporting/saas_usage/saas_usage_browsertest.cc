@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SaaS usage reporting browser tests
+// summary: Browser tests exercising SaaS usage reporting with configured policies, DM token storage, and reporting clients.
+// ---
+
 #include "base/run_loop.h"
 #include "base/test/bind.h"
 #include "base/test/scoped_feature_list.h"

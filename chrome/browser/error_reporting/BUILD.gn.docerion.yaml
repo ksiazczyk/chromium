@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for JavaScript error reporting
+summary: Defines GN build targets for the JavaScript error reporting library, its constants, test support mocks, unit tests, browser tests, and a mock Chrome OS crash reporter.

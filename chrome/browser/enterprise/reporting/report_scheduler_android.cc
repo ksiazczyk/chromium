@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android report scheduler delegate implementation
+// summary: Implements the Android report scheduler delegate, providing profile DM tokens, client IDs, cookie manager access, and security report triggering.
+// ---
+
 #include "chrome/browser/enterprise/reporting/report_scheduler_android.h"
 
 #include "chrome/browser/browser_process.h"

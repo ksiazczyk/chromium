@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context info fetcher header
+// summary: Declares the ContextInfo struct and ContextInfoFetcher interface backing chrome.enterprise.reportingPrivate.getContextInfo.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_SIGNALS_CONTEXT_INFO_FETCHER_H_
 #define CHROME_BROWSER_ENTERPRISE_SIGNALS_CONTEXT_INFO_FETCHER_H_
 

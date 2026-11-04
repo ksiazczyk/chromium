@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile signals collector implementation
+// summary: Collects profile-level enterprise signals such as built-in DNS client, Safe Browsing level, enrollment domain, profile ID and real-time URL check mode for signals aggregation responses.
+// ---
+
 #include "chrome/browser/enterprise/signals/profile_signals_collector.h"
 
 #include <utility>

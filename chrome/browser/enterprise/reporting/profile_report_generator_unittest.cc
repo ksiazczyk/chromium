@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile report generator unit tests
+// summary: Unit tests for profile report generation covering profile IDs, sign-in and affiliation info, profile names, and extension request inclusion across platforms.
+// ---
+
 #include "components/enterprise/browser/reporting/profile_report_generator.h"
 
 #include <string>

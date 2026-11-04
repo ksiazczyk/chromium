@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android browser report generator delegate
+// summary: Android implementation of platform-specific info fetching for enterprise browser reports, such as executable path, channel and profiles.
+// ---
+
 #include "chrome/browser/enterprise/reporting/browser_report_generator_android.h"
 
 #include "base/android/apk_info.h"

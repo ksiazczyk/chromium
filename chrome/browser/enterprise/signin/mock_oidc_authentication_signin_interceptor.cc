@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockOidcAuthenticationSigninInterceptor implementation
+// summary: Implements the mock OIDC sign-in interceptor, defaulting MaybeInterceptOidcAuthentication to the real interceptor behavior for tests.
+// ---
+
 #include "chrome/browser/enterprise/signin/mock_oidc_authentication_signin_interceptor.h"
 
 MockOidcAuthenticationSigninInterceptor::

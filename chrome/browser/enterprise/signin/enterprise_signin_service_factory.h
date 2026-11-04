@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EnterpriseSigninService factory header
+// summary: Declares the EnterpriseSigninServiceFactory keyed service factory providing per-profile access to EnterpriseSigninService.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_SIGNIN_ENTERPRISE_SIGNIN_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ENTERPRISE_SIGNIN_ENTERPRISE_SIGNIN_SERVICE_FACTORY_H_
 

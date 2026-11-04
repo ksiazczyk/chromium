@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context info fetcher implementation
+// summary: Collects browser context signals such as affiliation IDs, analysis connector providers, firewall state, and DNS servers.
+// ---
+
 #include "chrome/browser/enterprise/signals/context_info_fetcher.h"
 
 #include <algorithm>

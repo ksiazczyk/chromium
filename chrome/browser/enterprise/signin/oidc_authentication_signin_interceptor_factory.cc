@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OIDC authentication signin interceptor factory
+// summary: Implements the profile-keyed factory that provides the OidcAuthenticationSigninInterceptor when the OIDC auth profile management feature is enabled.
+// ---
+
 #include "chrome/browser/enterprise/signin/oidc_authentication_signin_interceptor_factory.h"
 
 #include "chrome/browser/enterprise/identifiers/profile_id_service_factory.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OIDC authentication signin interceptor browser tests
+// summary: Browser tests for OIDC signin interception, covering profile creation and policy registration using mocks and an embedded policy test server.
+// ---
+
 #include "chrome/browser/enterprise/signin/oidc_authentication_signin_interceptor.h"
 
 #include <variant>

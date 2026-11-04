@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Management context mixin implementation
+// summary: Implements the ManagementContextMixin test helper, creating platform-specific variants and applying cloud user policies through a mock policy provider.
+// ---
+
 #include "chrome/browser/enterprise/test/management_context_mixin.h"
 
 #include <utility>

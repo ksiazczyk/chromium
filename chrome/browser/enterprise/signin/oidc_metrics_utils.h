@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OIDC enrollment metrics enums and declarations
+// summary: Declares enums for OIDC enrollment funnel steps and outcomes plus functions to record interception, profile creation, and latency metrics.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_SIGNIN_OIDC_METRICS_UTILS_H_
 #define CHROME_BROWSER_ENTERPRISE_SIGNIN_OIDC_METRICS_UTILS_H_
 

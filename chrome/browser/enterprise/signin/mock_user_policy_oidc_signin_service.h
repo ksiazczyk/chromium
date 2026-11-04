@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock user policy OIDC signin service header
+// summary: Declares a mock UserPolicyOidcSigninService that only mocks out browser creation to enable in-depth testing.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_SIGNIN_MOCK_USER_POLICY_OIDC_SIGNIN_SERVICE_H_
 #define CHROME_BROWSER_ENTERPRISE_SIGNIN_MOCK_USER_POLICY_OIDC_SIGNIN_SERVICE_H_
 

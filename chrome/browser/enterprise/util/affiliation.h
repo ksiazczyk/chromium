@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile affiliation API header
+// summary: Declares the ProfileUnaffiliatedReason enum and functions to test whether a profile is managed by the same customer as the browser.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_UTIL_AFFILIATION_H_
 #define CHROME_BROWSER_ENTERPRISE_UTIL_AFFILIATION_H_
 

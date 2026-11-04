@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signals aggregator factory implementation
+// summary: Implements the profile-keyed factory that builds SignalsAggregator instances, wiring platform-specific collectors for certificates, files, settings and OS signals.
+// ---
+
 #include "chrome/browser/enterprise/signals/signals_aggregator_factory.h"
 
 #include <memory>

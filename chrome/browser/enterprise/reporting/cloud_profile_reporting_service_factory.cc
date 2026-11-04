@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud profile reporting service factory implementation
+// summary: Implements the profile-keyed service factory that builds CloudProfileReportingService instances for browser contexts.
+// ---
+
 #include "chrome/browser/enterprise/reporting/cloud_profile_reporting_service_factory.h"
 
 #include "chrome/browser/enterprise/identifiers/profile_id_service_factory.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserDelegateImpl class declaration
+// summary: Declares UserDelegateImpl, the Chrome implementation of the device signals UserDelegate interface for a profile.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_SIGNALS_USER_DELEGATE_IMPL_H_
 #define CHROME_BROWSER_ENTERPRISE_SIGNALS_USER_DELEGATE_IMPL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for enterprise signals
+summary: Delegates code ownership review to the owners of the device_signals component.

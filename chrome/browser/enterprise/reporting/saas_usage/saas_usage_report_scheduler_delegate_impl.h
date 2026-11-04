@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SaaS usage report scheduler delegate header
+// summary: Declares the scheduler delegate that observes profile events and notifies the SaaS usage report scheduler when at least one reporting-enabled profile exists.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_REPORTING_SAAS_USAGE_SAAS_USAGE_REPORT_SCHEDULER_DELEGATE_IMPL_H_
 #define CHROME_BROWSER_ENTERPRISE_REPORTING_SAAS_USAGE_SAAS_USAGE_REPORT_SCHEDULER_DELEGATE_IMPL_H_
 

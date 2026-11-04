@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android app info generator header
+// summary: Declares the AndroidAppInfoGenerator class that collects Android application information for enterprise reports.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_REPORTING_ANDROID_APP_INFO_GENERATOR_H_
 #define CHROME_BROWSER_ENTERPRISE_REPORTING_ANDROID_APP_INFO_GENERATOR_H_
 

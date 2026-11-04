@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of watermark style settings
+// summary: Implements watermark style settings such as fill and outline colors, font size, and timestamp timezone resolution.
+// ---
+
 #include "chrome/browser/enterprise/watermark/settings.h"
 
 #include <algorithm>

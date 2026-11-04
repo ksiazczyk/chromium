@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for managed browser utils
+// summary: Unit tests covering browser management detection, requesting URL construction, and client certificate auto-selection filtering.
+// ---
+
 #include "chrome/browser/enterprise/util/managed_browser_utils.h"
 
 #include <memory>

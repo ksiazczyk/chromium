@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension info collection for profile reports
+// summary: Collects installed extension details such as permissions, install type and webstore status into profile report protos.
+// ---
+
 #include "chrome/browser/enterprise/reporting/extension_info.h"
 
 #include <algorithm>

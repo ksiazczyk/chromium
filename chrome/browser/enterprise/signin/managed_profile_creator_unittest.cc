@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ManagedProfileCreator unit tests
+// summary: Unit tests verifying ManagedProfileCreator behavior with a mock creation delegate, covering new profile creation and callback handling.
+// ---
+
 #include "chrome/browser/enterprise/signin/managed_profile_creator.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile token web signin interceptor browser tests
+// summary: Browser tests with a mock delegate verifying enrollment token interception, profile switching, and bubble parameters for the token-based signin interceptor.
+// ---
+
 #include "chrome/browser/enterprise/signin/profile_token_web_signin_interceptor.h"
 
 #include "base/functional/callback.h"

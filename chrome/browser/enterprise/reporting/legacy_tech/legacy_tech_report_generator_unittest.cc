@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the legacy tech report generator
+// summary: Unit tests verifying that the generator fills report fields correctly, sanitizes long URLs, and handles cookie issue details.
+// ---
+
 #include "chrome/browser/enterprise/reporting/legacy_tech/legacy_tech_report_generator.h"
 
 #include <optional>

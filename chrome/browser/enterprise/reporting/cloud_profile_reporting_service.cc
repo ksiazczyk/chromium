@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud profile reporting service implementation
+// summary: Implements the per-profile service that creates report schedulers and a cloud policy client for uploading cloud profile reports.
+// ---
+
 #include "chrome/browser/enterprise/reporting/cloud_profile_reporting_service.h"
 
 #include <utility>

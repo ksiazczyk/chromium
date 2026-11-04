@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigation handle data delegate unit tests
+// summary: Unit tests verifying URL retrieval and encryption protocol mapping for TLS versions and QUIC.
+// ---
+
 #include "chrome/browser/enterprise/reporting/saas_usage/navigation_handle_data_delegate.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SaaS usage report uploader header
+// summary: Declares the uploader that wraps SaaS usage report protos into generic events for browser-level and profile-level reporting.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_REPORTING_SAAS_USAGE_SAAS_USAGE_REPORT_UPLOADER_IMPL_H_
 #define CHROME_BROWSER_ENTERPRISE_REPORTING_SAAS_USAGE_SAAS_USAGE_REPORT_UPLOADER_IMPL_H_
 

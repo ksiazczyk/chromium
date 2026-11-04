@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the enterprise watermark feature
+// summary: Browser tests verifying watermark rendering, multilingual text, line wrapping, and timestamp timezone behavior.
+// ---
+
 #include "base/command_line.h"
 #include "base/run_loop.h"
 #include "base/strings/pattern.h"

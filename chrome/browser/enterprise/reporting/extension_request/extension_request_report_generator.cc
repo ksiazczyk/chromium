@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension request report generator implementation
+// summary: Builds extension workflow event reports from pending extension requests and decides which blocked or removed requests should be uploaded.
+// ---
+
 #include "chrome/browser/enterprise/reporting/extension_request/extension_request_report_generator.h"
 
 #include <string>

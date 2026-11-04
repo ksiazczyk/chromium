@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OIDC managed profile creation delegate header
+// summary: Declares the ManagedProfileCreationDelegate for profiles created from OIDC authentication responses, carrying tokens and user information.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_SIGNIN_OIDC_MANAGED_PROFILE_CREATION_DELEGATE_H_
 #define CHROME_BROWSER_ENTERPRISE_SIGNIN_OIDC_MANAGED_PROFILE_CREATION_DELEGATE_H_
 

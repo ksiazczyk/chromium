@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension info unit tests
+// summary: Unit tests verifying that extension details like permissions, install type and app type are reported correctly.
+// ---
+
 #include "chrome/browser/enterprise/reporting/extension_info.h"
 
 #include "chrome/browser/extensions/extension_service.h"

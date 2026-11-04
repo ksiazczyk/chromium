@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension request notification browser tests
+// summary: Browser tests verifying that extension request notifications show correct titles and bodies and behave correctly when clicked or closed for each notify type.
+// ---
+
 #include "chrome/browser/enterprise/reporting/extension_request/extension_request_notification.h"
 
 #include <array>

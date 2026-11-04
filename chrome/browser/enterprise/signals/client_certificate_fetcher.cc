@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Client certificate fetcher implementation
+// summary: Implements fetching an auto-selected client certificate for a URL via the profile's client cert store and network context service.
+// ---
+
 #include "chrome/browser/enterprise/signals/client_certificate_fetcher.h"
 
 #include <memory>

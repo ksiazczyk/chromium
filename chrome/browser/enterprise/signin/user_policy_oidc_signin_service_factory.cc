@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User policy OIDC signin service factory implementation
+// summary: Implements the keyed service factory that creates UserPolicyOidcSigninService instances when OIDC auth profile management is enabled.
+// ---
+
 #include "chrome/browser/enterprise/signin/user_policy_oidc_signin_service_factory.h"
 
 #include <variant>

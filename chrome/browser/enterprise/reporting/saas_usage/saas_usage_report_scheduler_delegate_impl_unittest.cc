@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SaaS usage report scheduler delegate unit tests
+// summary: Unit tests verifying readiness state and ready-state callback behavior of the scheduler delegate across profiles with and without a reporting client.
+// ---
+
 #include "chrome/browser/enterprise/reporting/saas_usage/saas_usage_report_scheduler_delegate_impl.h"
 
 #include "base/test/mock_callback.h"

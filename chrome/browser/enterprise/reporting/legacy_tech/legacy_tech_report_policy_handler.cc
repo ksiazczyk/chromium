@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LegacyTechReportPolicyHandler implementation
+// summary: Implements validation of the LegacyTechReportAllowlist policy, rejecting wildcard entries and unaffiliated user scopes.
+// ---
+
 #include "chrome/browser/enterprise/reporting/legacy_tech/legacy_tech_report_policy_handler.h"
 
 #include "base/values.h"

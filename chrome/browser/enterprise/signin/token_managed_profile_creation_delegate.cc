@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Token managed profile creation delegate implementation
+// summary: Implements a managed profile creation delegate that stores an enrollment token on newly created profiles and checks their managed status.
+// ---
+
 #include "chrome/browser/enterprise/signin/token_managed_profile_creation_delegate.h"
 
 #include "chrome/browser/profiles/profile_attributes_storage.h"

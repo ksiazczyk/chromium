@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SaaS usage report uploader implementation
+// summary: Implements uploading of SaaS usage report events through the realtime reporting client, choosing browser or profile DM token based on platform and profile affiliation.
+// ---
+
 #include "chrome/browser/enterprise/reporting/saas_usage/saas_usage_report_uploader_impl.h"
 
 #include <optional>

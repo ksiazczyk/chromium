@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SaaS usage reporting controller factory implementation
+// summary: Implements the profile-keyed service factory that builds SaasUsageReportingController instances with URL list matchers for browser and profile preferences.
+// ---
+
 #include "chrome/browser/enterprise/reporting/saas_usage/saas_usage_reporting_controller_factory.h"
 
 #include "base/no_destructor.h"

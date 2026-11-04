@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations for watermark style settings
+// summary: Declares watermark style helper functions, default colors, and the timestamp timezone type enum used for metrics.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_WATERMARK_SETTINGS_H_
 #define CHROME_BROWSER_ENTERPRISE_WATERMARK_SETTINGS_H_
 

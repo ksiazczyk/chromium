@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise signin preference names and reauth prompt enum
+// summary: Declares enterprise signin preference name constants and the ProfileReauthPrompt enum controlling whether users are prompted to reauthenticate.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_SIGNIN_ENTERPRISE_SIGNIN_PREFS_H_
 #define CHROME_BROWSER_ENTERPRISE_SIGNIN_ENTERPRISE_SIGNIN_PREFS_H_
 

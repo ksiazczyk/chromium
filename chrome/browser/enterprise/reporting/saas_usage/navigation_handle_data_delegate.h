@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation handle data delegate header
+// summary: Declares NavigationHandleDataDelegate, which provides navigation URL and encryption protocol for SaaS usage reporting.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_REPORTING_SAAS_USAGE_NAVIGATION_HANDLE_DATA_DELEGATE_H_
 #define CHROME_BROWSER_ENTERPRISE_REPORTING_SAAS_USAGE_NAVIGATION_HANDLE_DATA_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SaaS usage navigation observer implementation
+// summary: Implements a WebContentsObserver that records committed primary-frame navigations to the SaaS usage reporting controller.
+// ---
+
 #include "chrome/browser/enterprise/reporting/saas_usage/saas_usage_navigation_observer.h"
 
 #include <string>

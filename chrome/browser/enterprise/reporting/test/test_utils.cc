@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise reporting test utilities implementation
+// summary: Implements shared helpers that verify profile signal values in enterprise reporting test reports.
+// ---
+
 #include "chrome/browser/enterprise/reporting/test/test_utils.h"
 
 #include "chrome/browser/browser_process.h"

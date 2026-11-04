@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ash management context test mixin implementation
+// summary: Implements the Ash-specific management context mixin that sets up cloud-enrolled or consumer-owned device state, DM tokens, and managed users for enterprise browser tests.
+// ---
+
 #include "chrome/browser/enterprise/test/ash/management_context_mixin_ash.h"
 
 #include <array>

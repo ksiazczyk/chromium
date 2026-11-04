@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser launch data collector desktop unit tests
+// summary: Unit tests for the desktop browser launch data collector, checking sorted switch key capture, launch time, exclusion of the Windows shortcut location switch, and flag switch collection.
+// ---
+
 #include "chrome/browser/enterprise/reporting/browser_launch/browser_launch_data_collector_desktop.h"
 
 #include <string>

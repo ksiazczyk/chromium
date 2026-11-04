@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension request notification implementation
+// summary: Implements notifications shown when enterprise extension requests are approved, rejected or force-installed, including Android notification ID creation and parsing.
+// ---
+
 #include "chrome/browser/enterprise/reporting/extension_request/extension_request_notification.h"
 
 #include <array>

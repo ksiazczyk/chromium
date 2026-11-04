@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ManagementContextMixinBrowser class declaration
+// summary: Declares the browser test mixin that configures a fake cloud management context, including user and machine policy setup, for enterprise browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_TEST_BROWSER_MANAGEMENT_CONTEXT_MIXIN_BROWSER_H_
 #define CHROME_BROWSER_ENTERPRISE_TEST_BROWSER_MANAGEMENT_CONTEXT_MIXIN_BROWSER_H_
 

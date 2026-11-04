@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Definitions of watermark feature flags
+// summary: Defines the watermark customization and test page base features, both enabled by default.
+// ---
+
 #include "chrome/browser/enterprise/watermark/watermark_features.h"
 
 namespace enterprise_watermark {

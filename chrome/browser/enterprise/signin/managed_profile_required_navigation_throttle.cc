@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManagedProfileRequiredNavigationThrottle implementation
+// summary: Implements the navigation throttle that blocks navigations and shows a managed-profile-required interstitial until an enterprise sign-in action is taken.
+// ---
+
 #include "chrome/browser/enterprise/signin/managed_profile_required_navigation_throttle.h"
 
 #include <memory>

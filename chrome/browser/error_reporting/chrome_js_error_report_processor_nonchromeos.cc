@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Non-Chrome OS direct upload of JS error reports
+// summary: Implements the non-Chrome OS code path that uploads JavaScript error reports directly to the crash endpoints and records them in uploads.log.
+// ---
+
 #include <optional>
 #include <string>
 #include <utility>

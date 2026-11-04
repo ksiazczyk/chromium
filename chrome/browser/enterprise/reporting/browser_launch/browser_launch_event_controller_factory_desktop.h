@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop browser launch event controller factory header
+// summary: Declares the factory that wires desktop-specific launch data collectors and uploaders into browser launch event controllers.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_REPORTING_BROWSER_LAUNCH_BROWSER_LAUNCH_EVENT_CONTROLLER_FACTORY_DESKTOP_H_
 #define CHROME_BROWSER_ENTERPRISE_REPORTING_BROWSER_LAUNCH_BROWSER_LAUNCH_EVENT_CONTROLLER_FACTORY_DESKTOP_H_
 

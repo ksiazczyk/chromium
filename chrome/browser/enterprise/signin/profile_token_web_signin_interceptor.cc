@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile token web signin interceptor implementation
+// summary: Implements interception of web signins carrying enrollment tokens, switching to or creating token-managed enterprise profiles and opening a browser for them.
+// ---
+
 #include "chrome/browser/enterprise/signin/profile_token_web_signin_interceptor.h"
 
 #include <string>

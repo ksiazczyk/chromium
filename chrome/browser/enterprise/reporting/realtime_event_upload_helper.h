@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Realtime event upload helper header
+// summary: Declares a helper class that prepares real-time event uploads, exposing reporting context with client, DM token, and scope information.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_REPORTING_REALTIME_EVENT_UPLOAD_HELPER_H_
 #define CHROME_BROWSER_ENTERPRISE_REPORTING_REALTIME_EVENT_UPLOAD_HELPER_H_
 

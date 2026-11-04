@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for enterprise reporting tests
+summary: Defines GN source sets for unit tests and browser tests of the enterprise reporting code, with platform-conditional sources.

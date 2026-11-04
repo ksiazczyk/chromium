@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Real time report controller delegate header
+// summary: Declares the RealTimeReportControllerDelegate that starts and stops extension request watching and triggers extension request and legacy tech reports.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_REPORTING_REAL_TIME_REPORT_CONTROLLER_DELEGATE_H_
 #define CHROME_BROWSER_ENTERPRISE_REPORTING_REAL_TIME_REPORT_CONTROLLER_DELEGATE_H_
 

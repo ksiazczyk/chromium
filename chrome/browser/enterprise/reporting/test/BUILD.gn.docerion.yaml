@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Enterprise reporting test support build file
+summary: Defines the testonly test_support source set with uploader test base and test utility sources, plus platform-specific dependencies.

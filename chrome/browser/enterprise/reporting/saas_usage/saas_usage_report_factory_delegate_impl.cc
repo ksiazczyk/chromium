@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SaaS usage report factory delegate implementation
+// summary: Implements the report factory delegate that supplies profile ID and affiliation status for SaaS usage reports.
+// ---
+
 #include "chrome/browser/enterprise/reporting/saas_usage/saas_usage_report_factory_delegate_impl.h"
 
 #include "chrome/browser/enterprise/identifiers/profile_id_service_factory.h"

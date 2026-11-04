@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android app info generator
+// summary: Builds an AndroidAppInfo proto with app id, name, status, install source, version and permissions from ARC app data.
+// ---
+
 #include "chrome/browser/enterprise/reporting/android_app_info_generator.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SaaS usage navigation observer unit tests
+// summary: Unit tests using a mock controller to verify which navigations the observer reports.
+// ---
+
 #include "chrome/browser/enterprise/reporting/saas_usage/saas_usage_navigation_observer.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI JS error reporting browser tests
+// summary: Browser tests verifying that JavaScript errors on WebUI and regular pages are captured and reported through the mock error reporting pipeline.
+// ---
+
 #include <memory>
 
 #include "base/test/scoped_feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Chrome JS error report processor
+// summary: Unit tests for ChromeJsErrorReportProcessor covering report sending, endpoint handling, and recent report tracking using a mock crash endpoint.
+// ---
+
 #include "chrome/browser/error_reporting/chrome_js_error_report_processor.h"
 
 #include <memory>

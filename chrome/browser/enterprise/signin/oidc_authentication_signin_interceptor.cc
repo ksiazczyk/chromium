@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OIDC authentication signin interceptor
+// summary: Implements the interceptor that captures OIDC authentication tokens, runs policy registration, and creates or switches to a managed profile after user consent.
+// ---
+
 #include "chrome/browser/enterprise/signin/oidc_authentication_signin_interceptor.h"
 
 #include <string>

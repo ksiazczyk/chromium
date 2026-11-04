@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Report scheduler browser tests
+// summary: Browser tests verifying that cloud reporting launches and shuts down with the browser, using a fake DM token storage and a CBCM controller observer.
+// ---
+
 #include "components/enterprise/browser/reporting/report_scheduler.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Security reporting browser tests
+// summary: Browser tests for enterprise security reporting, covering report uploads, cookie handling and client certificate scenarios.
+// ---
+
 #include <optional>
 
 #include "base/functional/callback.h"

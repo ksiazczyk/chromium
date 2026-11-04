@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManagedProfileRequiredNavigationThrottle class header
+// summary: Declares a navigation throttle that blocks navigations in a browser context during enterprise sign-in interception until the required managed profile action completes.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_SIGNIN_MANAGED_PROFILE_REQUIRED_NAVIGATION_THROTTLE_H_
 #define CHROME_BROWSER_ENTERPRISE_SIGNIN_MANAGED_PROFILE_REQUIRED_NAVIGATION_THROTTLE_H_
 

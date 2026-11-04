@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise reporting test utilities header
+// summary: Declares helper functions for setting fake signal values and verifying report sections in enterprise reporting tests.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_REPORTING_TEST_TEST_UTILS_H_
 #define CHROME_BROWSER_ENTERPRISE_REPORTING_TEST_TEST_UTILS_H_
 

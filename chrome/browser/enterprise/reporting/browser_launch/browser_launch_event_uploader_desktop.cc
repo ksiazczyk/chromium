@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop browser launch event uploader implementation
+// summary: Uploads browser launch events through real-time reporting, deferring browser-level uploads until a regular profile is available.
+// ---
+
 #include "chrome/browser/enterprise/reporting/browser_launch/browser_launch_event_uploader_desktop.h"
 
 #include <optional>

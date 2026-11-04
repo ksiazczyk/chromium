@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux device info fetcher implementation
+// summary: Implements DeviceInfoFetcher on Linux, collecting OS version, security patch level, host name, device model, serial number, screen lock, disk encryption and MAC addresses.
+// ---
+
 #include "chrome/browser/enterprise/signals/device_info_fetcher_linux.h"
 
 #include <string>

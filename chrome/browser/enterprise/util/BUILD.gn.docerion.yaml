@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for enterprise util Java and JNI targets
+summary: Defines the Java library, JNI header generation, and Robolectric test targets for the enterprise util Android components.

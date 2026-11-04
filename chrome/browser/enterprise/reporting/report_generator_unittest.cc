@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Report generator unit tests
+// summary: Unit tests for the enterprise report generator, verifying profile reports, serial numbers, extensions, and ARC app infos across desktop, Android, and Chrome OS.
+// ---
+
 #include "components/enterprise/browser/reporting/report_generator.h"
 
 #include <set>

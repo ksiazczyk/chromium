@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile token web signin interceptor factory
+// summary: Implements the keyed service factory that provides a ProfileTokenWebSigninInterceptor per profile for intercepting web sign-ins with profile tokens.
+// ---
+
 #include "chrome/browser/enterprise/signin/profile_token_web_signin_interceptor_factory.h"
 
 #include "chrome/browser/profiles/profile.h"

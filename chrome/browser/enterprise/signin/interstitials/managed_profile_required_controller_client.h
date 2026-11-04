@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed profile required interstitial controller client header
+// summary: Declares the ManagedProfileRequiredControllerClient class that extends the security interstitial controller client to handle user commands such as going back.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_SIGNIN_INTERSTITIALS_MANAGED_PROFILE_REQUIRED_CONTROLLER_CLIENT_H_
 #define CHROME_BROWSER_ENTERPRISE_SIGNIN_INTERSTITIALS_MANAGED_PROFILE_REQUIRED_CONTROLLER_CLIENT_H_
 

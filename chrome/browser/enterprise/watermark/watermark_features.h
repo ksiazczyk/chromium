@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise watermark feature flag declarations
+// summary: Header declaring the kEnableWatermarkCustomization and kEnableWatermarkTestPage base::Feature flags for the enterprise watermark module.
+// ---
+
 #ifndef CHROME_BROWSER_ENTERPRISE_WATERMARK_WATERMARK_FEATURES_H_
 #define CHROME_BROWSER_ENTERPRISE_WATERMARK_WATERMARK_FEATURES_H_
 

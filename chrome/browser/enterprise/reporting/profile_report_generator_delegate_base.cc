@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Profile report generator delegate base implementation
+// summary: Implements shared profile report generation logic such as signed-in user info, policy values and affiliation data.
+// ---
+
 #include "chrome/browser/enterprise/reporting/profile_report_generator_delegate_base.h"
 
 #include <memory>

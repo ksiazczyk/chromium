@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed browser utilities implementation
+// summary: Implements helpers for browser management state, certificate auto-selection, enterprise badging, and management environment detection.
+// ---
+
 #include "chrome/browser/enterprise/util/managed_browser_utils.h"
 
 #include <memory>
