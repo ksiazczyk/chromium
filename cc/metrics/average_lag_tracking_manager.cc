@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AverageLagTrackingManager implementation
+// summary: Collects eligible scroll events per frame token and feeds them to the AverageLagTracker when compositor frame presentation feedback arrives.
+// ---
+
 #include "cc/metrics/average_lag_tracking_manager.h"
 
 #include <algorithm>

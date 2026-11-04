@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Viewport implementation for compositor scrolling
+// summary: Implements viewport scrolling for the compositor, distributing scroll deltas between inner and outer viewport layers and handling browser controls, pinch zoom, and scroll snapping.
+// ---
+
 #include "cc/layers/viewport.h"
 
 #include <algorithm>

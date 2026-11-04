@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderFrameMetadata Mojom traits implementation
+// summary: Implements StructTraits Read functions for RenderFrameMetadata structs, validating untrusted fields and recording crash keys when checks fail.
+// ---
+
 #include "cc/mojom/render_frame_metadata_mojom_traits.h"
 
 #include <cmath>

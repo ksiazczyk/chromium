@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Surface layer implementation
+// summary: Implements the main-thread SurfaceLayer that embeds a viz surface, managing surface IDs, fallback ranges, deadlines, and submission state callbacks.
+// ---
+
 #include "cc/layers/surface_layer.h"
 
 #include <stdint.h>

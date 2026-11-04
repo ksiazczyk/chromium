@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Layer base class for composited layers
+// summary: Declares the Layer base class for composited layers in Chromium's compositor, covering tree structure, child ownership, property updates, and main-thread synchronization.
+// ---
+
 #ifndef CC_LAYERS_LAYER_H_
 #define CC_LAYERS_LAYER_H_
 

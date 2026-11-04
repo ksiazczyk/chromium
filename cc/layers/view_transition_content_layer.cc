@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewTransitionContentLayer implementation
+// summary: Implements creation and property pushing for the main-thread view transition content layer that renders a Viz-cached texture.
+// ---
+
 #include "cc/layers/view_transition_content_layer.h"
 
 #include <memory>

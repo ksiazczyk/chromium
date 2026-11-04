@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compositor frame reporting controller implementation
+// summary: Implements CompositorFrameReportingController, which manages CompositorFrameReporter instances across pipeline stages and reports frame timing to UMA.
+// ---
+
 #include "cc/metrics/compositor_frame_reporting_controller.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderSurfaceImpl class declaration
+// summary: Declares RenderSurfaceImpl with draw properties, transforms, occlusion, and mask filter state for render surfaces.
+// ---
+
 #ifndef CC_LAYERS_RENDER_SURFACE_IMPL_H_
 #define CC_LAYERS_RENDER_SURFACE_IMPL_H_
 

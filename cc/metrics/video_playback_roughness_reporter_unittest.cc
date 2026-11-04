@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VideoPlaybackRoughnessReporter unit tests
+// summary: Tests roughness window scoring and reporting across normal, batched, and freezing playback scenarios.
+// ---
+
 #include "cc/metrics/video_playback_roughness_reporter.h"
 
 #include <algorithm>

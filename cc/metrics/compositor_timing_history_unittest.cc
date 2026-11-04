@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Compositor timing history unit tests
+// summary: Unit tests for CompositorTimingHistory verifying duration estimates for sequential compositor stages, including aborted main frames.
+// ---
+
 #include "cc/metrics/compositor_timing_history.h"
 
 #include <memory>

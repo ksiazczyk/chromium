@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollJankV4Frame struct definitions
+// summary: Defines the ScrollJankV4Frame struct with scroll damage variants, trimmed begin frame args, and scroll start, update, and end stages used by the scroll jank v4 metric.
+// ---
+
 #ifndef CC_METRICS_SCROLL_JANK_V4_FRAME_H_
 #define CC_METRICS_SCROLL_JANK_V4_FRAME_H_
 

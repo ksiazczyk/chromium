@@ -1,0 +1,4 @@
+# Docerion header of browser_controls_params.mojom.
+type: source
+title: Mojom definition of BrowserControlsParams
+summary: Defines the cc.mojom struct with control heights, minimum heights, and behavior flags such as animating height changes and shrinking Blink viewport size.

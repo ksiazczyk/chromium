@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event latency tracing recorder implementation
+// summary: Implements recording of EventLatency trace events, mapping event types to perfetto protos and naming dispatch and compositor breakdowns.
+// ---
+
 #include "cc/metrics/event_latency_tracing_recorder.h"
 
 #include <algorithm>

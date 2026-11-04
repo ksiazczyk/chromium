@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollJankV4FrameTimelineCalculator class declaration
+// summary: Declares the calculator that produces a sorted frame timeline from scroll event metrics and presented frame args for scroll jank evaluation.
+// ---
+
 #ifndef CC_METRICS_SCROLL_JANK_V4_FRAME_TIMELINE_CALCULATOR_H_
 #define CC_METRICS_SCROLL_JANK_V4_FRAME_TIMELINE_CALCULATOR_H_
 

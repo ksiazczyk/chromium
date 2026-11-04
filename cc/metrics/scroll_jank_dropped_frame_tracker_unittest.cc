@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScrollJankDroppedFrameTracker unit tests
+// summary: Unit tests verifying ScrollJankDroppedFrameTracker histogram emission for delayed frames and missed vsyncs across fixed windows and scrolls.
+// ---
+
 #include "cc/metrics/scroll_jank_dropped_frame_tracker.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NinePatchThumbScrollbarLayer tickmark unit test
+// summary: Unit test verifying that tickmarks are painted only when the scrollbar reports tickmarks, using a mock nine-patch thumb scrollbar layer.
+// ---
+
 #include "cc/layers/nine_patch_thumb_scrollbar_layer.h"
 
 #include "cc/animation/animation_host.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollJankDroppedFrameTracker class declaration
+// summary: Declares ScrollJankDroppedFrameTracker, which tracks janky frames and missed vsyncs, and defines the related histogram name constants.
+// ---
+
 #ifndef CC_METRICS_SCROLL_JANK_DROPPED_FRAME_TRACKER_H_
 #define CC_METRICS_SCROLL_JANK_DROPPED_FRAME_TRACKER_H_
 

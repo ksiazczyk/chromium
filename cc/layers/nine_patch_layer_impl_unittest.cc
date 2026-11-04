@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NinePatchLayerImpl unit tests
+// summary: Unit tests verifying quad counts, quad rects, UV rects, and center fill behavior of the compositor-side nine patch layer across layout variations.
+// ---
+
 #include "cc/layers/nine_patch_layer_impl.h"
 
 #include <stddef.h>

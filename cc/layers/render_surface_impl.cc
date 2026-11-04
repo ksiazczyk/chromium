@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderSurfaceImpl implementation
+// summary: Implements render surface behavior including render targets, drawable content rects, blending, and quad appending.
+// ---
+
 #include "cc/layers/render_surface_impl.h"
 
 #include <stddef.h>

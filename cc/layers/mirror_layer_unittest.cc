@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MirrorLayer unit tests
+// summary: Unit tests verifying that mirror layer properties are pushed to the impl side and that mirror counts update correctly.
+// ---
+
 #include "cc/layers/mirror_layer.h"
 
 #include <memory>

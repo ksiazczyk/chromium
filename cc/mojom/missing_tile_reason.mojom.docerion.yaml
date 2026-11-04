@@ -1,0 +1,4 @@
+# Docerion header of missing_tile_reason.mojom.
+type: source
+title: MissingTileReason enum for tiles not ready to draw
+summary: Mojom enum describing why a tile is missing or not ready to draw, with values for out-of-memory, resource not ready, and deleted tiles.

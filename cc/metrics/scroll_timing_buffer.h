@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollTimingBuffer and consumer declaration
+// summary: Declares a producer ring buffer holding 150 scroll timing records in shared memory and a consumer that tracks its own read position and reports overwritten records.
+// ---
+
 #ifndef CC_METRICS_SCROLL_TIMING_BUFFER_H_
 #define CC_METRICS_SCROLL_TIMING_BUFFER_H_
 

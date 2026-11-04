@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub compositor frame reporting controller declaration
+// summary: Declares a CompositorFrameReportingController subclass that disables all frame metric reporting.
+// ---
+
 #ifndef CC_METRICS_STUB_COMPOSITOR_FRAME_REPORTING_CONTROLLER_H_
 #define CC_METRICS_STUB_COMPOSITOR_FRAME_REPORTING_CONTROLLER_H_
 

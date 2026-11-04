@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UIResourceLayerImpl implementation
+// summary: Implements the compositor-side UI resource layer, appending texture draw quads for the current UI resource with UV, opacity and occlusion handling.
+// ---
+
 #include "cc/layers/ui_resource_layer_impl.h"
 
 #include <memory>

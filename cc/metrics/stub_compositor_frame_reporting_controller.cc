@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub compositor frame reporting controller implementation
+// summary: Implements a stub reporting controller whose frame lifecycle callbacks perform no metric reporting.
+// ---
+
 #include "cc/metrics/stub_compositor_frame_reporting_controller.h"
 
 #include <memory>

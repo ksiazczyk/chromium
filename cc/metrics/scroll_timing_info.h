@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollTimingInfo struct declaration
+// summary: Defines the finalized scroll segment record delivered over shared memory, with static asserts enforcing trivial copyability, unique representations, and no padding.
+// ---
+
 #ifndef CC_METRICS_SCROLL_TIMING_INFO_H_
 #define CC_METRICS_SCROLL_TIMING_INFO_H_
 

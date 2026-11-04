@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScrollTimingBuffer unit tests
+// summary: Unit tests covering capacity-based overwriting of oldest records, buffer wraparound, overwritten record counting, and concurrent push and read across threads.
+// ---
+
 #include "cc/metrics/scroll_timing_buffer.h"
 
 #include <array>

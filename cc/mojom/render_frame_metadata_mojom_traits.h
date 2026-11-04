@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderFrameMetadata Mojom traits declarations
+// summary: Declares StructTraits mappings between cc::RenderFrameMetadata and its Mojom DataView types, including Android and iOS browser controls fields.
+// ---
+
 #ifndef CC_MOJOM_RENDER_FRAME_METADATA_MOJOM_TRAITS_H_
 #define CC_MOJOM_RENDER_FRAME_METADATA_MOJOM_TRAITS_H_
 

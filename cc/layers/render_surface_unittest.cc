@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Render surface change tracking tests
+// summary: Tests that render surface property changes are tracked correctly and that quads are appended as expected.
+// ---
+
 #include "base/memory/ptr_util.h"
 #include "cc/layers/append_quads_context.h"
 #include "cc/layers/append_quads_data.h"

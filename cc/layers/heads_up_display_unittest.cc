@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Heads-up display layer tree tests
+// summary: Layer tree integration tests verifying HUD layer parenting across root layer changes and HUD sizing with an FPS counter and device scale factors.
+// ---
+
 #include "cc/layers/heads_up_display_layer.h"
 #include "cc/layers/layer.h"
 #include "cc/test/layer_tree_test.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollbarLayerBase class header
+// summary: Declares the base class for scrollbar layers with layer type selection, orientation, scroll element id, and find-in-page tickmark handling.
+// ---
+
 #ifndef CC_LAYERS_SCROLLBAR_LAYER_BASE_H_
 #define CC_LAYERS_SCROLLBAR_LAYER_BASE_H_
 

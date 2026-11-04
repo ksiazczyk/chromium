@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NinePatchGenerator implementation
+// summary: Implements generation of nine-patch quads from image bounds, aperture, border, and occlusion layout parameters.
+// ---
+
 #include "cc/layers/nine_patch_generator.h"
 
 #include "base/trace_event/traced_value.h"

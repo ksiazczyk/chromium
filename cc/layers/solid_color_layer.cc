@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SolidColorLayer implementation
+// summary: Implements the main-thread solid color layer that renders a solid background color and records it as an SkPicture.
+// ---
+
 #include "cc/layers/solid_color_layer.h"
 
 #include <memory>

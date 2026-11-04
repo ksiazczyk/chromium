@@ -1,0 +1,4 @@
+# Docerion header of element_id.mojom.
+type: source
+title: ElementId Mojom definition
+summary: Defines the cc.mojom ElementId struct that mirrors cc::ElementId as a 64-bit identifier.

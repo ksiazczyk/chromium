@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Solid color scrollbar layer class declaration
+// summary: Declares the main-thread layer for solid color overlay scrollbars that can be fully drawn on the impl thread, as used on Android.
+// ---
+
 #ifndef CC_LAYERS_SOLID_COLOR_SCROLLBAR_LAYER_H_
 #define CC_LAYERS_SOLID_COLOR_SCROLLBAR_LAYER_H_
 

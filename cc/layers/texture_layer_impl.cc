@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextureLayerImpl implementation
+// summary: Impl-thread implementation of TextureLayerImpl, appending texture draw quads and handling resource ownership, eviction, draw modes, and property copying.
+// ---
+
 #include "cc/layers/texture_layer_impl.h"
 
 #include <stddef.h>

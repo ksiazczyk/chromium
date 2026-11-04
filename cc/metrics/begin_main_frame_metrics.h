@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Begin main frame metrics
+// summary: Defines the BeginMainFrameReason enum and BeginMainFrameMetrics struct used to record why a main frame was triggered and the latency timings of main frame lifecycle stages in cc.
+// ---
+
 #ifndef CC_METRICS_BEGIN_MAIN_FRAME_METRICS_H_
 #define CC_METRICS_BEGIN_MAIN_FRAME_METRICS_H_
 

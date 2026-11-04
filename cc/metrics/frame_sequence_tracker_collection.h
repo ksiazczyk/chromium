@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameSequenceTrackerCollection declaration
+// summary: Declares FrameSequenceTrackerCollection, which creates frame sequence trackers and notifies them of begin-frames and submitted frames.
+// ---
+
 #ifndef CC_METRICS_FRAME_SEQUENCE_TRACKER_COLLECTION_H_
 #define CC_METRICS_FRAME_SEQUENCE_TRACKER_COLLECTION_H_
 

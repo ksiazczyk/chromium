@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrawMode enum
+// summary: Defines the DrawMode enum distinguishing hardware, software, and resourceless software drawing.
+// ---
+
 #ifndef CC_LAYERS_DRAW_MODE_H_
 #define CC_LAYERS_DRAW_MODE_H_
 

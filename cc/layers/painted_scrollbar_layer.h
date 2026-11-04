@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Painted scrollbar layer class declaration
+// summary: Declares the PaintedScrollbarLayer class, a generic painted scrollbar layer for overlay and non-overlay scrollbars on macOS and desktop platforms, with update and property-push interfaces.
+// ---
+
 #ifndef CC_LAYERS_PAINTED_SCROLLBAR_LAYER_H_
 #define CC_LAYERS_PAINTED_SCROLLBAR_LAYER_H_
 

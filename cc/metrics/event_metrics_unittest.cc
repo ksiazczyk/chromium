@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Event metrics unit tests
+// summary: Unit tests for EventMetrics and scroll event metrics, verifying creation and dispatch stage timestamps using a simple test tick clock.
+// ---
+
 #include "cc/metrics/event_metrics.h"
 
 #include <vector>

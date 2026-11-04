@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollJankDroppedFrameTracker implementation
+// summary: Implements ScrollJankDroppedFrameTracker, emitting histograms for delayed frames and missed vsyncs per scroll and per fixed window.
+// ---
+
 #include "cc/metrics/scroll_jank_dropped_frame_tracker.h"
 
 #include <optional>

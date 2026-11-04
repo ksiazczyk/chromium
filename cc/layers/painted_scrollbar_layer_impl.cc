@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Painted scrollbar layer impl implementation
+// summary: Implements the impl-side PaintedScrollbarLayerImpl that appends thumb and track-and-buttons quads, manages UI resource ids, and computes thumb quad and hit-test rects.
+// ---
+
 #include "cc/layers/painted_scrollbar_layer_impl.h"
 
 #include <algorithm>

@@ -1,0 +1,4 @@
+# Docerion header of touch_action.mojom.
+type: source
+title: TouchAction Mojom struct
+summary: Defines a Mojom struct wrapping a cc::TouchAction bitmask in a uint32 value for validation across the Mojo boundary.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Painted scrollbar layer unit tests
+// summary: Unit tests for PaintedScrollbarLayer verifying paint needs for thumb and track, internal content bounds, and update behavior using fake scrollbars and layer tree hosts.
+// ---
+
 #include "cc/layers/painted_scrollbar_layer.h"
 
 #include <memory>

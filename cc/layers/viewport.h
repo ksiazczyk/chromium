@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Viewport class declaration for viewport scroll handling
+// summary: Declares the Viewport class, which encapsulates gesture handling and scroll bubbling between the inner and outer viewport scroll layers in the layer tree.
+// ---
+
 #ifndef CC_LAYERS_VIEWPORT_H_
 #define CC_LAYERS_VIEWPORT_H_
 

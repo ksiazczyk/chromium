@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Compositor frame reporter unit tests
+// summary: Unit tests for CompositorFrameReporter verifying stage timing, Blink and Viz breakdowns, and UMA histogram reporting for presented and dropped frames.
+// ---
+
 #include "cc/metrics/compositor_frame_reporter.h"
 
 #include <algorithm>

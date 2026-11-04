@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NinePatchGenerator unit tests
+// summary: Unit tests for NinePatchGenerator layout change detection and patch generation across symmetric and asymmetric layouts.
+// ---
+
 #include "cc/layers/nine_patch_generator.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

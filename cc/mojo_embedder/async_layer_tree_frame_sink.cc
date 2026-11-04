@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AsyncLayerTreeFrameSink implementation
+// summary: Implements the mojo-based AsyncLayerTreeFrameSink, managing message pipes, begin frames, frame submission, and tracing of skipped frames.
+// ---
+
 #include "cc/mojo_embedder/async_layer_tree_frame_sink.h"
 
 #include <utility>

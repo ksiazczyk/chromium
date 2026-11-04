@@ -1,0 +1,4 @@
+# Docerion header of hit_test_opaqueness.mojom.
+type: source
+title: Hit test opaqueness Mojom definition
+summary: Defines the HitTestOpaqueness Mojom enum describing whether layered content is transparent, mixed, or opaque for hit testing.

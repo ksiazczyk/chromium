@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compositor timing history
+// summary: Declares CompositorTimingHistory, which keeps rolling histories of compositor stage durations to estimate commit, activation, and draw times.
+// ---
+
 #ifndef CC_METRICS_COMPOSITOR_TIMING_HISTORY_H_
 #define CC_METRICS_COMPOSITOR_TIMING_HISTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SurfaceLayer unit tests
+// summary: Unit tests for SurfaceLayer verifying deadline policies, surface ID updates, and commit-time synchronization using fake layer tree host test infrastructure.
+// ---
+
 #include "cc/layers/surface_layer.h"
 
 #include <stdint.h>

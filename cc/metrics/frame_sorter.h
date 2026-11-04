@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameSorter class declaration
+// summary: Declares FrameSorter and its observer interface, which process frames in initiation order, keep a ring buffer of recent frame states, and expose throughput statistics.
+// ---
+
 #ifndef CC_METRICS_FRAME_SORTER_H_
 #define CC_METRICS_FRAME_SORTER_H_
 

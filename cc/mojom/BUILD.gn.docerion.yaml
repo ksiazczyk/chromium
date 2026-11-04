@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: 'BUILD.gn: GN build rules for cc mojom typemaps'
+summary: Defines GN targets for the cc mojom bindings, the shared mojom traits component, and typemaps that map mojom types to cc C++ types.

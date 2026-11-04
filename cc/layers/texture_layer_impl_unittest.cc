@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TextureLayerImpl unit tests
+// summary: Unit tests for TextureLayerImpl checking visible opaque region and occlusion behavior when appending quads with test transferable resources.
+// ---
+
 #include "cc/layers/texture_layer_impl.h"
 
 #include <stddef.h>

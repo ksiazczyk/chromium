@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NinePatchThumbScrollbarLayer class header
+// summary: Declares a scrollbar layer for non-custom overlay scrollbars whose thumb is painted as a nine-patch UI resource, used on non-Mac desktop platforms.
+// ---
+
 #ifndef CC_LAYERS_NINE_PATCH_THUMB_SCROLLBAR_LAYER_H_
 #define CC_LAYERS_NINE_PATCH_THUMB_SCROLLBAR_LAYER_H_
 

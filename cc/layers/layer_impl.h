@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerImpl compositor-side layer declaration
+// summary: Declares LayerImpl, the compositor-side layer class with property tree indices, draw properties, viewport layer roles, and quad generation interfaces.
+// ---
+
 #ifndef CC_LAYERS_LAYER_IMPL_H_
 #define CC_LAYERS_LAYER_IMPL_H_
 

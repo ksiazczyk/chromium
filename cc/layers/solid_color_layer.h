@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SolidColorLayer class header
+// summary: Declares the SolidColorLayer class, a layer that renders a solid color set via SetBackgroundColor.
+// ---
+
 
 #ifndef CC_LAYERS_SOLID_COLOR_LAYER_H_
 #define CC_LAYERS_SOLID_COLOR_LAYER_H_

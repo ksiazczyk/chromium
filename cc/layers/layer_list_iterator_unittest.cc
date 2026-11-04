@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Layer list iterator unit tests
+// summary: Unit tests verifying traversal order of layer list iterators over sample layer trees, including single-layer and null-root cases.
+// ---
+
 #include "cc/layers/layer_list_iterator.h"
 
 #include <memory>

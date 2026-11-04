@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MirrorLayerImpl implementation
+// summary: Implements the compositor-side mirror layer, appending render pass draw quads that display the mirrored layer's surface.
+// ---
+
 #include "cc/layers/mirror_layer_impl.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of ui_resource_id.mojom.
+type: source
+title: UIResourceId Mojom struct
+summary: Defines a Mojom struct carrying a UI resource identifier as a plain int32 value.

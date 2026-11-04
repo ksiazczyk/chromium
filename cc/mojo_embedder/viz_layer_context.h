@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VizLayerContext class declaration
+// summary: Declares VizLayerContext, a client-side LayerContext that submits display tree updates to a GPU-side LayerContext backend in viz over a mojo connection.
+// ---
+
 #ifndef CC_MOJO_EMBEDDER_VIZ_LAYER_CONTEXT_H_
 #define CC_MOJO_EMBEDDER_VIZ_LAYER_CONTEXT_H_
 

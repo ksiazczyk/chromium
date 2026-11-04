@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollbarLayerImplBase implementation
+// summary: Implements the impl-side base class for scrollbar layers, managing geometry, damage reasons, scrollability, and registration with the layer tree.
+// ---
+
 #include "cc/layers/scrollbar_layer_impl_base.h"
 
 #include <algorithm>

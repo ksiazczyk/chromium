@@ -1,0 +1,4 @@
+# Docerion header of layer_selection_bound.mojom.
+type: source
+title: Layer selection bound Mojom definition
+summary: Defines Mojom structs mirroring cc::LayerSelectionBound and cc::LayerSelection, including edge points, layer ID, and hidden state.

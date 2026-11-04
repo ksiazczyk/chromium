@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeadlinePolicy header
+// summary: Declares DeadlinePolicy, which selects existing, default, specified, or infinite compositor frame activation deadlines.
+// ---
+
 #ifndef CC_LAYERS_DEADLINE_POLICY_H_
 #define CC_LAYERS_DEADLINE_POLICY_H_
 

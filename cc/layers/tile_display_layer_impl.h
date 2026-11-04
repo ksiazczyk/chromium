@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TileDisplayLayerImpl class declarations
+// summary: Declares the tile display layer classes, including tile contents variants, tiling management, and the TileDisplayLayerImpl compositor layer.
+// ---
+
 #ifndef CC_LAYERS_TILE_DISPLAY_LAYER_IMPL_H_
 #define CC_LAYERS_TILE_DISPLAY_LAYER_IMPL_H_
 

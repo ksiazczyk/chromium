@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoFrameProvider interface
+// summary: Defines the provider and client interface for exchanging video frames with the compositor, including threading notes and frame update methods.
+// ---
+
 #ifndef CC_LAYERS_VIDEO_FRAME_PROVIDER_H_
 #define CC_LAYERS_VIDEO_FRAME_PROVIDER_H_
 

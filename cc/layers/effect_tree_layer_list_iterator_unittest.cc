@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Effect tree layer list iterator unit tests
+// summary: Unit tests verifying the front-to-back visit order of layers and render surfaces produced by EffectTreeLayerListIterator across various layer tree shapes.
+// ---
+
 #include "cc/layers/effect_tree_layer_list_iterator.h"
 
 #include <memory>

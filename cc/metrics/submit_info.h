@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SubmitInfo struct declaration
+// summary: Declares a struct holding frame token, timing, checkerboarding, and event metrics recorded at submit time.
+// ---
+
 #ifndef CC_METRICS_SUBMIT_INFO_H_
 #define CC_METRICS_SUBMIT_INFO_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SurfaceLayerImpl unit tests
+// summary: Unit tests for SurfaceLayerImpl covering occlusion handling, quad generation, and population of primary and fallback surface IDs and activation dependencies.
+// ---
+
 #include "cc/layers/surface_layer_impl.h"
 
 #include <stddef.h>

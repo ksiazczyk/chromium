@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Heads-up display layer impl implementation
+// summary: Implements the impl-side HUD layer that draws debug overlays such as frame rendering stats, memory graphs and debug rects onto a texture used for display.
+// ---
+
 #include "cc/layers/heads_up_display_layer_impl.h"
 
 #include <stddef.h>

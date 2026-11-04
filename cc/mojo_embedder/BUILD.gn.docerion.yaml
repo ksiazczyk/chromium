@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the cc mojo_embedder component
+summary: Defines the cc_mojo_embedder GN component, listing its sources and dependencies for building the mojo embedder library.

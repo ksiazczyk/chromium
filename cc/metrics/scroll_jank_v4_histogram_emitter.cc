@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scroll jank v4 histogram emitter implementation
+// summary: Implements the emitter that records UMA histograms for the scroll jank v4 metric, aggregating missed vsyncs per jank reason over fixed frame windows and per scroll.
+// ---
+
 #include "cc/metrics/scroll_jank_v4_histogram_emitter.h"
 
 #include <algorithm>

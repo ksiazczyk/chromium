@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameSequenceMetrics implementation
+// summary: Implements FrameSequenceMetrics, computing and reporting throughput, checkerboarding and jank histograms for frame sequences by tracker type and thread.
+// ---
+
 #include "cc/metrics/frame_sequence_metrics.h"
 
 #include <array>

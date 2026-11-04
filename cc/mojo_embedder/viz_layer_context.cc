@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VizLayerContext implementation
+// summary: Implements VizLayerContext, serializing layer tree, property tree, animation, and resource updates from cc to viz over mojo.
+// ---
+
 #include "cc/mojo_embedder/viz_layer_context.h"
 
 #include <cmath>

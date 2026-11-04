@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LatencyData struct declaration
+// summary: Declares LatencyData, which carries event type, total latency and optional scroll or pinch input type for reporting event latency to the custom metrics recorder.
+// ---
+
 #ifndef CC_METRICS_LATENCY_DATA_H_
 #define CC_METRICS_LATENCY_DATA_H_
 

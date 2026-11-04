@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppendQuadsContext header
+// summary: Declares the AppendQuadsContext struct carrying the draw mode and view transition capture state for quad appending.
+// ---
+
 #ifndef CC_LAYERS_APPEND_QUADS_CONTEXT_H_
 #define CC_LAYERS_APPEND_QUADS_CONTEXT_H_
 

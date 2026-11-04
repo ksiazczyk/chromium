@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for cc/mojom
+summary: Specifies the allowed include dependencies for the cc/mojom directory, covering mojo public, viz compositing, and skia mojom headers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Picture layer impl implementation
+// summary: Implements the impl-side PictureLayerImpl managing picture layer tilings, raster scale adjustment, tile updates, and quad appending for tiled content rendering.
+// ---
+
 #include "cc/layers/picture_layer_impl.h"
 
 #include <stddef.h>

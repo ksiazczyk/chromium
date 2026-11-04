@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PictureLayer unit tests
+// summary: Unit tests for PictureLayer covering layer updates, invalidation, and pushing properties to the impl side.
+// ---
+
 #include "cc/layers/picture_layer.h"
 
 #include <stddef.h>

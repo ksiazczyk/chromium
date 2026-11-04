@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scroll jank v4 histogram emitter class declaration
+// summary: Declares ScrollJankV4HistogramEmitter, which emits fixed-window and per-scroll UMA histograms for the scroll jank v4 metric and tracks missed vsyncs per jank reason.
+// ---
+
 #ifndef CC_METRICS_SCROLL_JANK_V4_HISTOGRAM_EMITTER_H_
 #define CC_METRICS_SCROLL_JANK_V4_HISTOGRAM_EMITTER_H_
 

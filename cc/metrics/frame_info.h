@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameInfo struct declaration
+// summary: Declares the FrameInfo struct with frame final state, smooth thread and main thread response enums used to describe compositor frame outcomes for metrics.
+// ---
+
 #ifndef CC_METRICS_FRAME_INFO_H_
 #define CC_METRICS_FRAME_INFO_H_
 

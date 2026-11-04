@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scroll jank v4 processor unit tests
+// summary: Unit tests covering ScrollJankV4Processor input-to-frame delivery scenarios, checking jank decisions, UMA histograms and Perfetto trace results.
+// ---
+
 #include "cc/metrics/scroll_jank_v4_processor.h"
 
 #include <memory>

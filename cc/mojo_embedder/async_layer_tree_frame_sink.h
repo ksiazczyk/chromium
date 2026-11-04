@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AsyncLayerTreeFrameSink class declaration
+// summary: Declares AsyncLayerTreeFrameSink, the mojo-based LayerTreeFrameSink used when cc does not share a process with the viz display compositor.
+// ---
+
 #ifndef CC_MOJO_EMBEDDER_ASYNC_LAYER_TREE_FRAME_SINK_H_
 #define CC_MOJO_EMBEDDER_ASYNC_LAYER_TREE_FRAME_SINK_H_
 

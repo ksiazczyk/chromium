@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scroll jank v4 tracing recorder implementation
+// summary: Implements recording of Perfetto trace events for scroll jank v4 results, mapping jank reasons and vsync interval types to their proto enums.
+// ---
+
 #include "cc/metrics/scroll_jank_v4_tracing_recorder.h"
 
 #include <variant>

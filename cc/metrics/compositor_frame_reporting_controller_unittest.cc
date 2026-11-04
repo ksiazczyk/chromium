@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Compositor frame reporting controller unit tests
+// summary: Unit tests for CompositorFrameReportingController covering reporter lifecycle, scroll timing, and histogram reporting across pipeline stages.
+// ---
+
 #include "cc/metrics/compositor_frame_reporting_controller.h"
 
 #include <algorithm>

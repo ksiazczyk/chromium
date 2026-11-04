@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PredictorJankTracker class declaration
+// summary: Declares PredictorJankTracker, which emits predictor scroll jank metrics per frame using a sliding window of previous frame deltas and presentation timestamps.
+// ---
+
 #ifndef CC_METRICS_PREDICTOR_JANK_TRACKER_H_
 #define CC_METRICS_PREDICTOR_JANK_TRACKER_H_
 

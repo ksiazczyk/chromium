@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scroll jank v4 tracing recorder class declaration
+// summary: Declares ScrollJankV4TracingRecorder, which records trace events for scroll jank v4 results.
+// ---
+
 #ifndef CC_METRICS_SCROLL_JANK_V4_TRACING_RECORDER_H_
 #define CC_METRICS_SCROLL_JANK_V4_TRACING_RECORDER_H_
 

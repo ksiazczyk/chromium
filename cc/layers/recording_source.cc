@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecordingSource implementation
+// summary: Implements display list recording updates, invalidation region tracking, and solid color analysis for picture layers.
+// ---
+
 #include "cc/layers/recording_source.h"
 
 #include <algorithm>

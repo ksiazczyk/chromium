@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FrameSorter unit tests
+// summary: Tests FrameSorter ordering of frame results, including dropped and presented frames, multiple acks, source id changes and resets, via a query simulation helper.
+// ---
+
 #include "cc/metrics/frame_sorter.h"
 
 #include <string>

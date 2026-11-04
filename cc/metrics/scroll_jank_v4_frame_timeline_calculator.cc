@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scroll jank v4 frame timeline calculator implementation
+// summary: Builds the scroll jank v4 frame timeline by grouping scroll updates and ends into frames, marking damaging versus non-damaging frames from begin frame IDs.
+// ---
+
 #include "cc/metrics/scroll_jank_v4_frame_timeline_calculator.h"
 
 #include <algorithm>

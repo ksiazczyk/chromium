@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OwnedLayerImplList declaration
+// summary: Declares OwnedLayerImplList, a container owning LayerImpl objects with id-based lookup, vector-order iteration, and tracking of layers that should push properties.
+// ---
+
 #ifndef CC_LAYERS_LAYER_COLLECTIONS_H_
 #define CC_LAYERS_LAYER_COLLECTIONS_H_
 

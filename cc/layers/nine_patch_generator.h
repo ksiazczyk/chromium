@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NinePatchGenerator class header
+// summary: Declares the generator that computes nine-patch patches and appends texture quads for nine-patch layers.
+// ---
+
 #ifndef CC_LAYERS_NINE_PATCH_GENERATOR_H_
 #define CC_LAYERS_NINE_PATCH_GENERATOR_H_
 

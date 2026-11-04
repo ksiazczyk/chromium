@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TileDisplayLayerImpl unit tests
+// summary: Unit tests for the tile display layer covering quad appending, occlusion, clipping, missing tiles, and damage behavior.
+// ---
+
 #include "cc/layers/tile_display_layer_impl.h"
 
 #include <algorithm>

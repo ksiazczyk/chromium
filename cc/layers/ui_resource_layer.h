@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UIResourceLayer class header
+// summary: Declares the main-thread UIResourceLayer that displays a bitmap or UI resource ID with an optional UV transform for compositing.
+// ---
+
 #ifndef CC_LAYERS_UI_RESOURCE_LAYER_H_
 #define CC_LAYERS_UI_RESOURCE_LAYER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Heads-up display layer impl unit tests
+// summary: Unit tests checking HUD layer drawing across hardware, software and resourceless software draw modes, including behavior after resource loss.
+// ---
+
 #include "cc/layers/heads_up_display_layer_impl.h"
 
 #include <stddef.h>

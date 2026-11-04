@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollSequenceTracker class declaration
+// summary: Declares a tracker that records scroll begin timestamps and detects the first scroll update, letting callers group chronologically arriving events of the same scroll.
+// ---
+
 #ifndef CC_METRICS_SCROLL_SEQUENCE_TRACKER_H_
 #define CC_METRICS_SCROLL_SEQUENCE_TRACKER_H_
 

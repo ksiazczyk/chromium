@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScrollSequenceTracker unit tests
+// summary: Unit tests verifying the tracker's initial state, scroll begin handling with real and null metrics, and behavior across repeated scroll updates.
+// ---
+
 #include "cc/metrics/scroll_sequence_tracker.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Surface layer class declaration
+// summary: Declares a layer that renders a surface referencing the output of another compositor instance or client, with deadline and fallback controls.
+// ---
+
 #ifndef CC_LAYERS_SURFACE_LAYER_H_
 #define CC_LAYERS_SURFACE_LAYER_H_
 

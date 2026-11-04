@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NinePatchThumbScrollbarLayerImpl class header
+// summary: Declares the compositor-side scrollbar layer that renders a nine-patch thumb and track using UI resource ids, aperture, image bounds, and track geometry.
+// ---
+
 #ifndef CC_LAYERS_NINE_PATCH_THUMB_SCROLLBAR_LAYER_IMPL_H_
 #define CC_LAYERS_NINE_PATCH_THUMB_SCROLLBAR_LAYER_IMPL_H_
 

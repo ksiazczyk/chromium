@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Effect tree layer list iterator implementation
+// summary: Implements a front-to-back iterator over layers and render surfaces in a LayerTreeImpl, walking the effect tree to visit drawn layers, target surfaces and contributing surfaces.
+// ---
+
 #include "cc/layers/effect_tree_layer_list_iterator.h"
 
 #include "base/notreached.h"

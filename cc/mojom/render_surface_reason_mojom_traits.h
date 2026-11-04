@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderSurfaceReason Mojom traits
+// summary: Maps each cc::RenderSurfaceReason enum value to its Mojom counterpart and back for serializing effect node render surface reasons over Mojo.
+// ---
+
 #ifndef CC_MOJOM_RENDER_SURFACE_REASON_MOJOM_TRAITS_H_
 #define CC_MOJOM_RENDER_SURFACE_REASON_MOJOM_TRAITS_H_
 

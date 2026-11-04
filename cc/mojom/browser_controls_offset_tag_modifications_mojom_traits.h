@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo StructTraits for BrowserControlsOffsetTagModifications
+// summary: Maps between the cc C++ types for browser controls offset tags and offset tag modifications and their mojom counterparts via StructTraits specializations.
+// ---
+
 #ifndef CC_MOJOM_BROWSER_CONTROLS_OFFSET_TAG_MODIFICATIONS_MOJOM_TRAITS_H_
 #define CC_MOJOM_BROWSER_CONTROLS_OFFSET_TAG_MODIFICATIONS_MOJOM_TRAITS_H_
 

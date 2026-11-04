@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo traits for cc::OverscrollBehavior
+// summary: Header defining EnumTraits and StructTraits that convert cc::OverscrollBehavior between native C++ and its Mojom representation.
+// ---
+
 #ifndef CC_MOJOM_OVERSCROLL_BEHAVIOR_MOJOM_TRAITS_H_
 #define CC_MOJOM_OVERSCROLL_BEHAVIOR_MOJOM_TRAITS_H_
 

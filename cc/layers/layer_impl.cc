@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerImpl compositor-side layer implementation
+// summary: Implements LayerImpl, the impl-thread counterpart of Layer, including layer type naming, property tree indices, shared quad state, and tracing support.
+// ---
+
 #include "cc/layers/layer_impl.h"
 
 #include <algorithm>

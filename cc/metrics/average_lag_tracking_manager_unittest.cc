@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AverageLagTrackingManager
+// summary: Tests collection of scroll events from frames and their handling on successful or failed compositor frame presentation feedback.
+// ---
+
 #include "cc/metrics/average_lag_tracking_manager.h"
 
 #include <algorithm>

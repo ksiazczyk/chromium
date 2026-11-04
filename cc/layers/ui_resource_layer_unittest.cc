@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UIResourceLayer unit tests
+// summary: Unit tests covering SetBitmap, SetUIResourceId and drawable-content behavior of the main-thread UI resource layer.
+// ---
+
 #include "cc/layers/ui_resource_layer.h"
 
 #include "cc/animation/animation_host.h"

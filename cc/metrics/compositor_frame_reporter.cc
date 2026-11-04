@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compositor frame reporter implementation
+// summary: Implements CompositorFrameReporter, which traces compositor frame pipeline stage durations and reports latency histograms to UMA for presented and dropped frames.
+// ---
+
 #include "cc/metrics/compositor_frame_reporter.h"
 
 #include <algorithm>

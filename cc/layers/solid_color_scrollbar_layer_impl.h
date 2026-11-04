@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Solid color scrollbar layer impl class declaration
+// summary: Declares the impl-side solid color scrollbar layer with thumb thickness, track start, color, and quad appending overrides.
+// ---
+
 #ifndef CC_LAYERS_SOLID_COLOR_SCROLLBAR_LAYER_IMPL_H_
 #define CC_LAYERS_SOLID_COLOR_SCROLLBAR_LAYER_IMPL_H_
 

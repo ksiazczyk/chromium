@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameSequenceTracker declaration
+// summary: Declares FrameSequenceTracker, which tracks frame sequences via vsync sequence numbers and presentation timestamps to determine throughput.
+// ---
+
 #ifndef CC_METRICS_FRAME_SEQUENCE_TRACKER_H_
 #define CC_METRICS_FRAME_SEQUENCE_TRACKER_H_
 
