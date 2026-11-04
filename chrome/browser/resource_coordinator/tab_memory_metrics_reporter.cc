@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab memory metrics reporter implementation
+// summary: Implements reporting of per-tab memory metrics via UKM at scheduled intervals after a tab finishes loading.
+// ---
+
 #include "chrome/browser/resource_coordinator/tab_memory_metrics_reporter.h"
 
 #include <array>

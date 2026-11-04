@@ -1,0 +1,4 @@
+# Docerion header of extension_strings_fil.xtb.
+type: data
+title: Filipino accessibility extension strings
+summary: Filipino XTB translation bundle holding the localized listen-to-selected-text string for the accessibility extension.

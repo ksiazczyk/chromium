@@ -1,0 +1,4 @@
+# Docerion header of extension_strings_ky.xtb.
+type: data
+title: Kyrgyz accessibility extension strings
+summary: Kyrgyz translation bundle for the Chrome accessibility extension, providing the localized string for listening to selected text.

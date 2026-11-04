@@ -1,0 +1,4 @@
+# Docerion header of extension_strings_hu.xtb.
+type: data
+title: Hungarian accessibility extension strings
+summary: Hungarian translation bundle containing the accessibility extension string for listening to selected text.

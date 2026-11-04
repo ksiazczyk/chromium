@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supported links dialog element for app management settings
+// summary: Lit element for the supported links dialog that displays an app's supported links and traps keyboard focus on the dialog's close button.
+// ---
+
 import 'chrome://resources/cr_elements/cr_dialog/cr_dialog.js';
 
 import type {App} from 'chrome://resources/cr_components/app_management/app_management.mojom-webui.js';

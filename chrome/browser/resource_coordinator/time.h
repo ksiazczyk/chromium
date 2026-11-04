@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resource coordinator time and testing clock helpers
+// summary: Declares functions returning current time via injectable testing clocks and a scoped helper to set clocks for tests.
+// ---
+
 #ifndef CHROME_BROWSER_RESOURCE_COORDINATOR_TIME_H_
 #define CHROME_BROWSER_RESOURCE_COORDINATOR_TIME_H_
 

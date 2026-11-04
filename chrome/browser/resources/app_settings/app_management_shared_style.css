@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shared app management styles
+summary: Shared CSS for app settings pages, defining card containers, permission rows, headers, expanders, and other common layout styles.
+*/
+
 .card-container {
   border-radius: var(--cr-card-border-radius);
   box-shadow: var(--cr-card-shadow);

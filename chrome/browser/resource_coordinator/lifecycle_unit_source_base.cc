@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LifecycleUnitSourceBase implementation
+// summary: Implements LifecycleUnitSourceBase observer management and lifecycle unit counting, dispatching creation and destruction notifications.
+// ---
+
 #include "chrome/browser/resource_coordinator/lifecycle_unit_source_base.h"
 
 #include "base/observer_list.h"

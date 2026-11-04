@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab lifecycle unit class declaration
+// summary: Declares TabLifecycleUnit, a LifecycleUnitBase and WebContentsObserver representing a tab, with methods for discarding, loading, focus and tab strip updates.
+// ---
+
 #ifndef CHROME_BROWSER_RESOURCE_COORDINATOR_TAB_LIFECYCLE_UNIT_H_
 #define CHROME_BROWSER_RESOURCE_COORDINATOR_TAB_LIFECYCLE_UNIT_H_
 

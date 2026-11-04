@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History swiping control header
+// summary: Declares the HistorySwipingControl tab helper that lets embedder UIs such as the Profile Picker regulate trackpad history swiping on macOS.
+// ---
+
 #ifndef CHROME_BROWSER_RENDERER_HOST_CHROME_RENDER_WIDGET_HOST_VIEW_MAC_HISTORY_SWIPING_CONTROL_H_
 #define CHROME_BROWSER_RENDERER_HOST_CHROME_RENDER_WIDGET_HOST_VIEW_MAC_HISTORY_SWIPING_CONTROL_H_
 

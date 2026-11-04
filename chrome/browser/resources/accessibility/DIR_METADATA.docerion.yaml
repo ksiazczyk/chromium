@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for accessibility resources
+summary: Points this directory's metadata at the shared accessibility mixins in ui/accessibility/COMMON_METADATA.

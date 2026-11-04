@@ -1,0 +1,4 @@
+# Docerion header of extension_strings_zh-HK.xtb.
+type: data
+title: Accessibility extension strings (Chinese, Hong Kong)
+summary: Chinese (Hong Kong) translation bundle for the accessibility extension, providing localized UI strings such as the prompt for listening to selected text.

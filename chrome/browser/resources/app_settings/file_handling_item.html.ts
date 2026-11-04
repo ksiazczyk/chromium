@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File handling item HTML template
+// summary: Lit HTML template for the file handling item, showing a toggle row, type list and learn more links, plus an overflow dialog for user visible types.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {FileHandlingItemElement} from './file_handling_item.js';

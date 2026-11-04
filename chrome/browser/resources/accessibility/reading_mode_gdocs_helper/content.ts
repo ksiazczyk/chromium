@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reading mode GDocs helper content script
+// summary: TypeScript content script that injects the extension's gdocs_script.js into the current document so the reading mode helper can run on the page.
+// ---
+
 // TODO(b:272150598): Investigate sharing this with
 // ../embedded_a11y_helper/content.ts.
 (function() {

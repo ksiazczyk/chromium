@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Access Code Cast error message element
+// summary: Defines the c2c-error-message Lit element that maps add-sink and cast result codes to localized error message categories.
+// ---
+
 import {I18nMixinLit} from '//resources/cr_elements/i18n_mixin_lit.js';
 import {assertNotReachedCase} from '//resources/js/assert.js';
 import {CrLitElement} from '//resources/lit/v3_0/lit.rollup.js';

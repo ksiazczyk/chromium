@@ -1,0 +1,4 @@
+# Docerion header of extension_strings.gni.
+type: config
+title: Accessibility extension strings build rules
+summary: GN build file that derives the accessibility locale list and defines a grit template producing gzipped messages.json outputs for the accessibility extension.

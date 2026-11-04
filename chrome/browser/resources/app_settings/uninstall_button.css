@@ -9,6 +9,12 @@
  * #include=app-management-shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Uninstall button styles
+summary: Styles for the app management uninstall button element, arranging the policy indicator and uninstall button.
+*/
+
 :host {
   align-items: center;
   display: flex;

@@ -1,0 +1,4 @@
+# Docerion header of extension_strings_tr.xtb.
+type: data
+title: Accessibility extension strings in Turkish
+summary: Turkish translation bundle for the accessibility extension, containing the localized string for reading selected text aloud.

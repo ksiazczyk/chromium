@@ -7,6 +7,12 @@
  * #import=//resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shared CSS variables for app management settings
+summary: CSS custom properties shared across the app management settings UI, defining fonts, card widths, row heights, colors, and spacing.
+*/
+
 html {
   --app-management-font-size: 13px;
   --app-management-line-height: 1.54; /* 20px */

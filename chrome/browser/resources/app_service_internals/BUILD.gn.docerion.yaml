@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: App Service Internals WebUI BUILD.gn
+summary: GN build rules for the App Service Internals WebUI, listing static and TypeScript sources, Mojo bindings dependencies, and Lit build dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of extension_strings_zu.xtb.
+type: data
+title: Accessibility extension strings (Zulu)
+summary: Zulu translation bundle for the accessibility extension, providing localized UI strings such as the prompt for listening to selected text.

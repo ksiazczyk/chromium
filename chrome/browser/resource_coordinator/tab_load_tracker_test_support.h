@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabLoadTracker test support helpers
+// summary: Declares helper functions for tests to wait for TabLoadTracker loading state transitions for individual tabs or all tabs in a tab strip.
+// ---
+
 #ifndef CHROME_BROWSER_RESOURCE_COORDINATOR_TAB_LOAD_TRACKER_TEST_SUPPORT_H_
 #define CHROME_BROWSER_RESOURCE_COORDINATOR_TAB_LOAD_TRACKER_TEST_SUPPORT_H_
 

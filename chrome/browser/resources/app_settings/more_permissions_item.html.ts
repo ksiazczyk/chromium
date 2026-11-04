@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: More permissions item HTML template
+// summary: Lit HTML template for the more permissions item, rendering a label and an icon button that acts as a link to further permission settings.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {MorePermissionsItemElement} from './more_permissions_item.js';

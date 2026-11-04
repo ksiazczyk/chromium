@@ -9,6 +9,12 @@
  * #include=app-management-shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: App content item styles
+summary: Styles for the app management app content item, setting a pointer cursor and removing padding from the app content row.
+*/
+
 :host {
   cursor: pointer;
 }

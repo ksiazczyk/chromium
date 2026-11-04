@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for renderer_host
+summary: Include rules that forbid references to chrome/browser/tab_contents and allow OCMock headers in the renderer_host directory.

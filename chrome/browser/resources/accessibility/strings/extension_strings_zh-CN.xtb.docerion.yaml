@@ -1,0 +1,4 @@
+# Docerion header of extension_strings_zh-CN.xtb.
+type: data
+title: Accessibility extension strings in Simplified Chinese
+summary: Simplified Chinese translation bundle for the accessibility extension, containing the localized string for reading selected text aloud.

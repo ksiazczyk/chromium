@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: about_sys browser proxy
+// summary: Browser proxy that requests system info logs from the browser via chrome.send and defines the SystemLog and BrowserProxy interfaces.
+// ---
+
 import {sendWithPromise} from 'chrome://resources/js/cr.js';
 
 export interface SystemLog {

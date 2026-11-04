@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App uninstall button element
+// summary: Lit element that renders an uninstall button for an app, disabling it for system, policy, or kiosk installs, showing a policy indicator, and recording the uninstall dialog user action.
+// ---
+
 import '//resources/cr_elements/cr_button/cr_button.js';
 import '//resources/cr_elements/policy/cr_tooltip_icon.js';
 import '//resources/cr_elements/icons.html.js';

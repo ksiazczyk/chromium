@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History swiping control implementation
+// summary: Implements the HistorySwipingControl WebContentsUserData tab helper that runs a callback to decide whether trackpad history swiping is allowed.
+// ---
+
 #include "chrome/browser/renderer_host/chrome_render_widget_host_view_mac_history_swiping_control.h"
 
 #include "base/check.h"

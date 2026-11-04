@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabLoadTracker header
+// summary: Declares TabLoadTracker, a deprecated browser-process singleton that tracks tab loading states and exposes state queries, counts, and observer registration.
+// ---
+
 #ifndef CHROME_BROWSER_RESOURCE_COORDINATOR_TAB_LOAD_TRACKER_H_
 #define CHROME_BROWSER_RESOURCE_COORDINATOR_TAB_LOAD_TRACKER_H_
 

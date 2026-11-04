@@ -1,0 +1,4 @@
+# Docerion header of extension_strings_sw.xtb.
+type: data
+title: Accessibility extension strings in Swahili
+summary: Swahili translation bundle for the accessibility extension, containing the localized string for listening to selected text.

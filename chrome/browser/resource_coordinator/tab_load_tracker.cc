@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabLoadTracker implementation
+// summary: Implements TabLoadTracker, which tracks the unloaded, loading, and loaded state of all tab WebContents and notifies observers about tracking and state changes.
+// ---
+
 
 #include "chrome/browser/resource_coordinator/tab_load_tracker.h"
 

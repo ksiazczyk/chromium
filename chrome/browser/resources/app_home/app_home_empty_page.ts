@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App home empty page element
+// summary: Defines the app-home-empty-page Lit element that renders the empty state of the app home.
+// ---
+
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 
 import {CrLitElement} from 'chrome://resources/lit/v3_0/lit.rollup.js';

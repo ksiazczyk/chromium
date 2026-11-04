@@ -1,0 +1,4 @@
+# Docerion header of extension_strings_vi.xtb.
+type: data
+title: Accessibility extension strings in Vietnamese
+summary: Vietnamese translation bundle for the accessibility extension, containing the localized string for reading selected text aloud.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resource coordinator tab discard utilities implementation
+// summary: Implements access to the tab lifecycle unit source, fast-kill of renderer processes for discards, and discarding the least important tab.
+// ---
+
 #include "chrome/browser/resource_coordinator/utils.h"
 
 #include "base/check.h"

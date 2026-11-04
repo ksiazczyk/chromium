@@ -1,0 +1,4 @@
+# Docerion header of extension_strings_km.xtb.
+type: data
+title: Khmer accessibility extension strings
+summary: Khmer translation bundle for the Chrome accessibility extension, providing the localized string for listening to selected text.

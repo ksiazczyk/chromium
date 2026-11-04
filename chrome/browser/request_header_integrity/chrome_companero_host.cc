@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Companero host implementation
+// summary: Implements the browser-process ChromeCompaneroHost, loading the native chromecompaneros library on a thread pool and serving header integrity tokens to child processes over Mojo.
+// ---
+
 #include "chrome/browser/request_header_integrity/chrome_companero_host.h"
 
 #include <array>

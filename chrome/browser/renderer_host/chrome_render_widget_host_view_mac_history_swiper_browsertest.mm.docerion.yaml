@@ -1,0 +1,4 @@
+# Docerion header of chrome_render_widget_host_view_mac_history_swiper_browsertest.mm.
+type: test
+title: Mac history swiper browser tests
+summary: Browser tests that replay macOS touch and scroll wheel events to verify history swipe navigation and overlay behavior in the render widget host view.

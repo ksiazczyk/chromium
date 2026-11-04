@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App list custom element
+// summary: Lit custom element managing the app list, handling Mojo add, remove and update events, keyboard navigation, app launching and context menus.
+// ---
+
 import './app_item.js';
 import './app_home_empty_page.js';
 import '//resources/cr_elements/cr_action_menu/cr_action_menu.js';

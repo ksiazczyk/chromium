@@ -1,0 +1,4 @@
+# Docerion header of extension_strings_ta.xtb.
+type: data
+title: Accessibility extension strings in Tamil
+summary: Tamil translation bundle for the accessibility extension, containing the localized string for reading selected text aloud.

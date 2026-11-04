@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Supported links dialog HTML template
+// summary: Lit HTML template rendering a cr-dialog that lists an app's supported links in a scrollable body with a localized title.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SupportedLinksDialogElement} from './supported_links_dialog.js';

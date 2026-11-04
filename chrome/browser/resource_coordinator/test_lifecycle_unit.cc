@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test lifecycle unit implementation
+// summary: Implements a test lifecycle unit and helper functions that assert discard eligibility outcomes in tests.
+// ---
+
 #include "chrome/browser/resource_coordinator/test_lifecycle_unit.h"
 
 #include <algorithm>

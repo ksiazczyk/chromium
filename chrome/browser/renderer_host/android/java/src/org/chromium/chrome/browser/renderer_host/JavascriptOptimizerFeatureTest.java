@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JavaScript optimizer feature integration test for Android
+// summary: Instrumented Android test verifying that OS-level advanced protection and content settings can disable JavaScript optimizers in Chrome.
+// ---
+
 package org.chromium.chrome.browser.renderer_host;
 
 import static org.junit.Assert.assertFalse;

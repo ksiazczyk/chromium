@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Reading mode GDocs helper build definition
+summary: GN build file that compiles content.ts with the TypeScript library template and copies the generated script plus gdocs_script.js into the output resources directory.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for app_home
+summary: Delegates ownership reviews of app_home to the web_applications OWNERS file.

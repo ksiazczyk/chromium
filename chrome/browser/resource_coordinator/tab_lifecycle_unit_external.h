@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab lifecycle unit external interface
+// summary: Declares the TabLifecycleUnitExternal interface for controlling tab lifecycle outside the resource coordinator, including discardability and tab state queries.
+// ---
+
 #ifndef CHROME_BROWSER_RESOURCE_COORDINATOR_TAB_LIFECYCLE_UNIT_EXTERNAL_H_
 #define CHROME_BROWSER_RESOURCE_COORDINATOR_TAB_LIFECYCLE_UNIT_EXTERNAL_H_
 

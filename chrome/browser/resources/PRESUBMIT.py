@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: Presubmit checks for browser resources
+# summary: Runs presubmit checks for icon names and verifies that user action metrics added in HTML changes are declared in actions.xml.
+# ---
+
 """Presubmit script for files in chrome/browser/resources.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

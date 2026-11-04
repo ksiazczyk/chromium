@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: about_sys WebUI build configuration
+summary: GN build definition for the about_sys WebUI, wiring the HTML, CSS, and TypeScript sources into the build with Lit and key-value pair viewer dependencies.

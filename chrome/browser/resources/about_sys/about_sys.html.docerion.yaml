@@ -1,0 +1,4 @@
+# Docerion header of about_sys.html.
+type: source
+title: about_sys WebUI entry page
+summary: Entry HTML page for the about_sys WebUI that loads the app module and renders the system-app element.

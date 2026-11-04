@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the resource_coordinator directory
+summary: Points to shared directory metadata in services/resource_coordinator via a mixin entry.

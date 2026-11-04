@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the android renderer host folder
+summary: Grants this directory include access to the Android site settings component under components/browser_ui/site_settings/android.

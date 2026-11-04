@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Render process host browser tests
+// summary: Browser tests for Chrome render process host behavior such as process counts, process backgrounding, DevTools contents and navigation process selection.
+// ---
+
 #include "base/base_switches.h"
 #include "base/command_line.h"
 #include "base/functional/callback_helpers.h"

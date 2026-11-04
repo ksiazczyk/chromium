@@ -1,0 +1,4 @@
+# Docerion header of extension_strings_hy.xtb.
+type: data
+title: Armenian accessibility extension strings
+summary: Armenian translation bundle containing the accessibility extension string for listening to selected text.

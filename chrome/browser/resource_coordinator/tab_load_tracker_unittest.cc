@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabLoadTracker unit tests
+// summary: Unit tests for TabLoadTracker verifying loading state tracking, observer notifications, and state transitions using navigation simulators and mock observers.
+// ---
+
 #include "chrome/browser/resource_coordinator/tab_load_tracker.h"
 
 #include <memory>

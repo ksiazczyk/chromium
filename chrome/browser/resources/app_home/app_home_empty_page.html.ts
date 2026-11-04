@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Empty page Lit template
+// summary: Lit HTML template for the empty app home page showing an illustration, label and install help button.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {AppHomeEmptyPageElement} from './app_home_empty_page.js';

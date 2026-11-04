@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for Android renderer host test targets
+summary: Defines GN targets for the JavaScript optimizer feature tests, including Java test and test-support libraries, JNI header generation, and a native test-support static library.

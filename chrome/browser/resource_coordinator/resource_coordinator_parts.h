@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resource coordinator parts class declaration
+// summary: Declares ResourceCoordinatorParts, a single early-initialized holder of the tab load tracker, tab memory metrics reporter, tab manager and tab lifecycle unit source.
+// ---
+
 #ifndef CHROME_BROWSER_RESOURCE_COORDINATOR_RESOURCE_COORDINATOR_PARTS_H_
 #define CHROME_BROWSER_RESOURCE_COORDINATOR_RESOURCE_COORDINATOR_PARTS_H_
 

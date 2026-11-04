@@ -9,6 +9,12 @@
  * #include=app-management-shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: File handling item styles
+summary: Styles for the file handling item, hiding it when unavailable and adjusting the toggle row and dialog body appearance.
+*/
+
 :host(:not([available_])) {
   display: none;
 }

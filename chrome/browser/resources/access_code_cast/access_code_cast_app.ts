@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Access code cast dialog app element
+// summary: Lit element implementing the cast dialog, covering access code entry, QR input state, managed device footnote and casting actions.
+// ---
+
 import './passcode_input/passcode_input.js';
 import './error_message/error_message.js';
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';

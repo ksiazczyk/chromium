@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App item Lit HTML template
+// summary: Lit HTML template rendering an app tile with icon, name and a context menu offering actions like Web Store link, open in window, launch at startup, shortcuts and uninstall.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import {AppType} from './app_home.mojom-webui.js';

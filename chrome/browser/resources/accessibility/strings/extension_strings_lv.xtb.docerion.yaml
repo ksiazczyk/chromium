@@ -1,0 +1,4 @@
+# Docerion header of extension_strings_lv.xtb.
+type: data
+title: Latvian accessibility extension strings
+summary: Latvian translation bundle for the Chrome accessibility extension, providing the localized string for listening to selected text.

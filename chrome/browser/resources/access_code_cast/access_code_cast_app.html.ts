@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit HTML template for the access code cast app
+// summary: Renders the dialog markup with the access code input, optional QR scanner view, error message, footnote and action buttons.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {AccessCodeCastAppElement} from './access_code_cast_app.js';

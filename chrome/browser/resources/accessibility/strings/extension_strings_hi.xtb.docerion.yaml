@@ -1,0 +1,4 @@
+# Docerion header of extension_strings_hi.xtb.
+type: data
+title: Hindi accessibility extension strings
+summary: Hindi XTB translation bundle holding the localized listen-to-selected-text string for the accessibility extension.

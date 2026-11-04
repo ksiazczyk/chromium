@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Resource coordinator tab helper browser tests
+// summary: Browser tests verifying the tab helper's loading state changes and UKM source id updates, including that prerendering triggers no loading state change.
+// ---
+
 #include "chrome/browser/resource_coordinator/tab_helper.h"
 
 #include "base/functional/bind.h"

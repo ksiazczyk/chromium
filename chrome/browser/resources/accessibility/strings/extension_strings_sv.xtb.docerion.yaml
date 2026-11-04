@@ -1,0 +1,4 @@
+# Docerion header of extension_strings_sv.xtb.
+type: data
+title: Swedish accessibility extension strings
+summary: Swedish translation bundle for the accessibility extension, providing the localized string for listening to selected text.

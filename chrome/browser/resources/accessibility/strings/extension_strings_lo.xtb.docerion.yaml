@@ -1,0 +1,4 @@
+# Docerion header of extension_strings_lo.xtb.
+type: data
+title: Lao accessibility extension strings
+summary: Lao translation bundle for the Chrome accessibility extension, providing the localized string for listening to selected text.

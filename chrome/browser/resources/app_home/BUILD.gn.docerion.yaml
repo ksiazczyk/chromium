@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: App home WebUI build definition
+summary: GN build rules for the app_home WebUI, listing TypeScript, CSS and static files plus Mojo and Lit dependencies.

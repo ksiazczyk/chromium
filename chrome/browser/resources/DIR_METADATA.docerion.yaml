@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Issue tracker metadata for the resources folder
+summary: Maps the resources folder to the UI monorail component and a Buganizer component ID.

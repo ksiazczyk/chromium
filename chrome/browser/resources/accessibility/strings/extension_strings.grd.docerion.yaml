@@ -1,0 +1,4 @@
+# Docerion header of extension_strings.grd.
+type: config
+title: Accessibility extension strings GRIT definition
+summary: GRIT resource definition listing per-locale outputs that package the accessibility extension strings into gzipped messages.json files.

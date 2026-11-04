@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: source
+title: App Service Internals index page
+summary: HTML entry page that hosts the app-service-internals element and loads its module script.

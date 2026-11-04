@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LifecycleUnitBase class header
+// summary: Defines LifecycleUnitBase, a base implementation of LifecycleUnit that tracks state, state change times, discard count, unique IDs and observers.
+// ---
+
 #ifndef CHROME_BROWSER_RESOURCE_COORDINATOR_LIFECYCLE_UNIT_BASE_H_
 #define CHROME_BROWSER_RESOURCE_COORDINATOR_LIFECYCLE_UNIT_BASE_H_
 

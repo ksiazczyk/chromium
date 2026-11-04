@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file with per-file reviewer rules
+summary: Lists code owners with per-file rules for Mac Objective-C files and the JavaScript optimizer browsertest.

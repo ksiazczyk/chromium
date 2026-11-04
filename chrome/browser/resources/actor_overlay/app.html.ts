@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor overlay app template
+// summary: Lit HTML template that renders the border glow and magic cursor, including the optional cursor chip label.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ActorOverlayAppElement} from './app.js';

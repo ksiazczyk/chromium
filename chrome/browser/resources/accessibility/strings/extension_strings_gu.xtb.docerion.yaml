@@ -1,0 +1,4 @@
+# Docerion header of extension_strings_gu.xtb.
+type: data
+title: Gujarati accessibility extension strings
+summary: Gujarati XTB translation bundle holding the localized listen-to-selected-text string for the accessibility extension.

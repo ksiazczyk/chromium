@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App Service Internals HTML template
+// summary: Lit HTML template that renders the App Service Internals page with app list, preferred apps, promise apps, and app capabilities sections.
+// ---
+
 import {html} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 
 import type {AppServiceInternalsElement} from './app_service_internals.js';

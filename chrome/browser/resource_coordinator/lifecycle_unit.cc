@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LifecycleUnit SortKey implementation
+// summary: Implements LifecycleUnit's SortKey comparison by last focused time and the class destructor.
+// ---
+
 #include "chrome/browser/resource_coordinator/lifecycle_unit.h"
 
 namespace resource_coordinator {

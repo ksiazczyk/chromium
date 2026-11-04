@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform Runtime host implementation
+// summary: Implements PlatformRuntimeHost, which launches the sandboxed utility process, periodically refreshes headers, and recovers from crashes, hangs, and timeouts using backoff.
+// ---
+
 #include "chrome/browser/request_header_integrity/platform_runtime_host.h"
 
 #include <optional>

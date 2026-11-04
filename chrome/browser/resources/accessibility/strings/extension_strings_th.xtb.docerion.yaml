@@ -1,0 +1,4 @@
+# Docerion header of extension_strings_th.xtb.
+type: data
+title: Accessibility extension strings in Thai
+summary: Thai translation bundle for the accessibility extension, containing the localized string for listening to selected text.

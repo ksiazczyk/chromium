@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Deprecated apps link Lit HTML template
+// summary: Lit HTML template showing a warning icon and link that opens the deprecated apps dialog when the link string is available.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {DeprecatedAppsLinkElement} from './deprecated_apps_link.js';

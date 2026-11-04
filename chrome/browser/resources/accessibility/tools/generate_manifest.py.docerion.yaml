@@ -1,0 +1,4 @@
+# Docerion header of generate_manifest.py.
+type: script
+title: Extension manifest generator from a Jinja2 template
+summary: Python tool that renders an extension manifest from a Jinja2 template, filling in the Chrome version, extension key, and guest mode or Manifest V3 options.

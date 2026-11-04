@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility Internals page logic
+// summary: TypeScript controller for the Accessibility Internals page that defines accessibility mode flags, communicates with the browser backend, and requests accessibility trees and event logs for pages, widgets, and native UI.
+// ---
+
 import 'chrome://resources/js/action_link.js';
 
 import {assert, assertNotReached, assertNotReachedCase} from 'chrome://resources/js/assert.js';

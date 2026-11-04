@@ -9,6 +9,12 @@
  * #include=cr-shared-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Access Code Cast error message styles
+summary: CSS styles for the Access Code Cast error message element, defining the error color variable and centered error text styling.
+*/
+
 :host {
   --error-message-color: var(--color-sys-error);
 }

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Companero host interface
+// summary: Declares ChromeCompaneroHost, the browser-process host that serves header integrity tokens over Mojo, primes the loader cache, and offloads native library work to a SequenceBound backend.
+// ---
+
 #ifndef CHROME_BROWSER_REQUEST_HEADER_INTEGRITY_CHROME_COMPANERO_HOST_H_
 #define CHROME_BROWSER_REQUEST_HEADER_INTEGRITY_CHROME_COMPANERO_HOST_H_
 

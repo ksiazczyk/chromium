@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabManager header
+// summary: Declares TabManager, which triggers tab lifecycle state transitions and supports discarding tabs, including via the extensions API.
+// ---
+
 #ifndef CHROME_BROWSER_RESOURCE_COORDINATOR_TAB_MANAGER_H_
 #define CHROME_BROWSER_RESOURCE_COORDINATOR_TAB_MANAGER_H_
 

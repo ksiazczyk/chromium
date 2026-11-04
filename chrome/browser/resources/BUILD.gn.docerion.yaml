@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for browser resources
+summary: Aggregates resource build targets for WebUI pages, side panels and component extensions under chrome/browser/resources.

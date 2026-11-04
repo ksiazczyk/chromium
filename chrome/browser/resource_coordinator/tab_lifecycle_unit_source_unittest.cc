@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabLifecycleUnitSource unit tests
+// summary: Unit tests for TabLifecycleUnitSource covering lifecycle unit creation, state and discard changes, and focused-tab tracking using mock observers and test tab strips.
+// ---
+
 #include "chrome/browser/resource_coordinator/tab_lifecycle_unit_source.h"
 
 #include <memory>

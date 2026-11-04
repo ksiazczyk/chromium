@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the resources folder
+summary: Defines owners for the folder, including per-file rules for profile sign-in confirmation files and rewrite_imports.py.

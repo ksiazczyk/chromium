@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Accessibility WebUI build targets
+summary: Defines the GN build targets for the accessibility WebUI resources and the Reading Mode Google Docs helper extension manifest, including a stable extension key.

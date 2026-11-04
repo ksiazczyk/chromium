@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Discard metrics lifecycle unit observer header
+// summary: Declares a lifecycle unit observer that records discard and reload timing metrics.
+// ---
+
 #ifndef CHROME_BROWSER_RESOURCE_COORDINATOR_DISCARD_METRICS_LIFECYCLE_UNIT_OBSERVER_H_
 #define CHROME_BROWSER_RESOURCE_COORDINATOR_DISCARD_METRICS_LIFECYCLE_UNIT_OBSERVER_H_
 

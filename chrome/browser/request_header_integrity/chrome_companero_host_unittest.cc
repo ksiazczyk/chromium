@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome Companero host unit tests
+// summary: Unit tests for ChromeCompaneroHost covering Mojo binding, direct token retrieval, loader cache priming with histograms, and graceful failure when the native library is missing.
+// ---
+
 #include "chrome/browser/request_header_integrity/chrome_companero_host.h"
 
 #include <memory>

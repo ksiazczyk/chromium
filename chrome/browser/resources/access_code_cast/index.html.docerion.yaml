@@ -1,0 +1,4 @@
+# Docerion header of index.html.
+type: source
+title: Entry page for the access code cast dialog
+summary: HTML entry point that loads the app module and hosts the access-code-cast-app element.

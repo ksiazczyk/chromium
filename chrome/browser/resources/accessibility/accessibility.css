@@ -4,6 +4,12 @@
  * found in the LICENSE file.
  */
 
+/*docerion
+type: source
+title: Styles for the Accessibility Internals page
+summary: Styles the Accessibility Internals page with checkbox rows, a two-column layout and a single-column layout for mobile screens.
+*/
+
 body {
   font-family: Arial, sans-serif;
   font-size: 12px;

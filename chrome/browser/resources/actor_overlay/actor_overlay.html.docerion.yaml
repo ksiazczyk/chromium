@@ -1,0 +1,4 @@
+# Docerion header of actor_overlay.html.
+type: source
+title: Actor overlay entry page
+summary: HTML host page for the Actor Overlay WebUI that loads the app module and renders the actor-overlay-app element.

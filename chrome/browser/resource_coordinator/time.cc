@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resource coordinator time helpers
+// summary: Provides Now and NowTicks helpers with overridable clocks so resource coordinator code can be tested with fake time.
+// ---
+
 #include "chrome/browser/resource_coordinator/time.h"
 
 #include "base/check.h"

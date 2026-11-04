@@ -1,0 +1,4 @@
+# Docerion header of component_extension_resources.grd.
+type: config
+title: Component extension resources GRD file
+summary: Grit resource list bundling scripts, HTML and CSS for component extensions such as network speech synthesis, glic and ARC support.

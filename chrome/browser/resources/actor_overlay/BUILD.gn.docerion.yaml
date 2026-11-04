@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Actor overlay build configuration
+summary: GN build rules that assemble the actor overlay WebUI from its HTML, TypeScript, and CSS sources with Lit and Mojo dependencies.

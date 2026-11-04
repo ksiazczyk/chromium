@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LifecycleUnit SortKey unit tests
+// summary: Unit tests verifying the comparison behavior of the LifecycleUnit SortKey class.
+// ---
+
 #include "chrome/browser/resource_coordinator/lifecycle_unit.h"
 
 #include "base/time/time.h"

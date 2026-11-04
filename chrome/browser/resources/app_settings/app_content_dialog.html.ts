@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Template for the app content dialog
+// summary: Lit HTML template for the dialog that lists an app's scope extensions under the app content heading.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {AppContentDialogElement} from './app_content_dialog.js';

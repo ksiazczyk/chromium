@@ -1,0 +1,4 @@
+# Docerion header of extension_strings_ar.xtb.
+type: data
+title: Arabic accessibility extension strings
+summary: Translation bundle providing the Arabic text for the listen-to-selected-string message used by the accessibility extension.

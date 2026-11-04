@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabLoadTracker test support implementation
+// summary: Implements helpers that wait for TabLoadTracker loading state transitions or until tabs are no longer tracked, for use in unittests.
+// ---
+
 #include "chrome/browser/resource_coordinator/tab_load_tracker_test_support.h"
 
 #include "base/memory/raw_ptr.h"

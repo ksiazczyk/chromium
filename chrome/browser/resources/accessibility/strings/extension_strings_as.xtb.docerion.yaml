@@ -1,0 +1,4 @@
+# Docerion header of extension_strings_as.xtb.
+type: data
+title: Assamese accessibility extension strings
+summary: Translation bundle providing the Assamese text for the listen-to-selected-string message used by the accessibility extension.

@@ -1,6 +1,13 @@
 // Copyright 2018 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Permission item element for app management settings
+// summary: Lit element implementing the app management permission toggle, handling availability, managed state, and bool or tri-state permission updates.
+// ---
+
 import './app_management_shared_style.css.js';
 import './toggle_row.js';
 

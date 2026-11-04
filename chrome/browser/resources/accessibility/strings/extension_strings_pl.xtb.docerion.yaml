@@ -1,0 +1,4 @@
+# Docerion header of extension_strings_pl.xtb.
+type: data
+title: Accessibility extension strings (Polish)
+summary: Polish translation bundle for the accessibility extension, providing the localized string for listening to selected text.

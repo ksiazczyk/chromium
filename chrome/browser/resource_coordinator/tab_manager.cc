@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabManager implementation
+// summary: Implements TabManager startup and tab discarding, including extension-triggered discards, wiring the performance manager signal observer and the lifecycle unit source.
+// ---
+
 #include "chrome/browser/resource_coordinator/tab_manager.h"
 
 #include <stddef.h>

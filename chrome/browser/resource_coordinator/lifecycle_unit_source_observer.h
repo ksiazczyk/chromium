@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LifecycleUnitSourceObserver interface
+// summary: Declares the LifecycleUnitSourceObserver interface invoked when a LifecycleUnit is created by a source.
+// ---
+
 #ifndef CHROME_BROWSER_RESOURCE_COORDINATOR_LIFECYCLE_UNIT_SOURCE_OBSERVER_H_
 #define CHROME_BROWSER_RESOURCE_COORDINATOR_LIFECYCLE_UNIT_SOURCE_OBSERVER_H_
 
