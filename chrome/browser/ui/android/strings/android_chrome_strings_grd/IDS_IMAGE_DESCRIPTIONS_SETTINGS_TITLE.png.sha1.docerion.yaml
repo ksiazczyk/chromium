@@ -1,0 +1,4 @@
+# Docerion header of IDS_IMAGE_DESCRIPTIONS_SETTINGS_TITLE.png.sha1.
+type: data
+title: IDS_IMAGE_DESCRIPTIONS_SETTINGS_TITLE screenshot SHA1 hash
+summary: Stores the SHA1 checksum of the PNG image referenced for the image descriptions settings title string.
