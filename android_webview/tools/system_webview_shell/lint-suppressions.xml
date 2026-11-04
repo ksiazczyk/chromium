@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
+<!--docerion
+type: config
+title: Android lint suppressions for the WebView shell
+summary: Configures Android lint for the WebView shell by ignoring directories already covered by Chrome's lint check and suppressing selected issue types.
+-->
+
 <!--
 Please refer to the lint doc for how to use this file and what should go in it:
 https://chromium.googlesource.com/chromium/src/+/main/build/android/docs/lint.md

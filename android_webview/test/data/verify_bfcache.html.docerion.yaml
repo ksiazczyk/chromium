@@ -1,0 +1,4 @@
+# Docerion header of verify_bfcache.html.
+type: test
+title: Back/forward cache verification page
+summary: Test page that records pageshow persistence and completes awFullyLoadedFuture for AwBackForwardCacheTest.

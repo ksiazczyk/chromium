@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Parser of .test instruction files for captured site tests
+// summary: Reads .test JSON files and builds an ordered queue of Actions such as loadPage, click, autofill and validateField for captured site tests.
+// relations:
+//   - depends_on /android_webview/tools/captured_sites_tests/javatests/src/org/chromium/webview_ui_test/test/util/Action.java
+// ---
+
 package org.chromium.webview_ui_test.test.util;
 
 import org.json.JSONArray;

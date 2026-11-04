@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Espresso web JavaScript atoms for WebView testing
+// summary: Collects Espresso web JavaScript atoms, including actions to click an HTML select element and read its currently selected text, for WebView testing.
+// ---
+
 package org.chromium.webview_ui_test.test.util;
 
 import static androidx.test.espresso.web.model.Atoms.castOrDie;

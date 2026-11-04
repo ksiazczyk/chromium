@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill profile parser for captured site tests
+// summary: Parses .profile JSON files into a map of autofill field types and values used by WebView captured site tests.
+// ---
+
 package org.chromium.webview_ui_test.test.util;
 
 import org.json.JSONArray;

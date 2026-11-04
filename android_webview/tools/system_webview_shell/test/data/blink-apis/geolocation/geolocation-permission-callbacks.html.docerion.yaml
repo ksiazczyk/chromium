@@ -1,0 +1,6 @@
+# Docerion header of geolocation-permission-callbacks.html.
+type: test
+title: Geolocation permission callbacks test page
+summary: HTML test page that requests the current geolocation position to verify WebView permission denial callbacks and error reporting.
+relations:
+  - depends_on /android_webview/tools/system_webview_shell/test/data/resources/js-test.js

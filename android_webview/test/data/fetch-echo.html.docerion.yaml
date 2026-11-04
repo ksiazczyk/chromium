@@ -1,0 +1,4 @@
+# Docerion header of fetch-echo.html.
+type: test
+title: Fetch echo test page
+summary: Test page that fetches the URL given in the query string and echoes the response text into the document title.

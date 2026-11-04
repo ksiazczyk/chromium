@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overlays manager implementation
+// summary: Implements SurfaceControl overlay support, supplying surface control and transaction callbacks during draw functor rendering.
+// relations:
+//   - depends_on /android_webview/test/shell/src/draw_fn/overlays_manager.h
+//   - depends_on /android_webview/public/browser/draw_fn.h
+//   - depends_on /android_webview/test/shell/src/draw_fn/allocator.h
+// ---
+
 #include "android_webview/test/shell/src/draw_fn/overlays_manager.h"
 
 #include "android_webview/public/browser/draw_fn.h"

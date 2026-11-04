@@ -1,0 +1,4 @@
+# Docerion header of prerender-no-vary-search-multiple-params.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for No-Vary-Search multiple params page
+summary: Mock HTTP response headers that serve a No-Vary-Search header for the matching prerender test page.

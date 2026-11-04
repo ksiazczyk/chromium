@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Ruff configuration for WebView tools
+# summary: Sets Ruff lint and format settings such as line length, indent width, and quote style for the WebView tools directory.
+# ---
+
 line-length = 80
 indent-width = 2
 

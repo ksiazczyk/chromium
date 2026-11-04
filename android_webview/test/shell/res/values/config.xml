@@ -4,6 +4,12 @@
      found in the LICENSE file.
 -->
 
+<!--docerion
+type: test
+title: WebView test shell key system UUID mapping resource
+summary: Android resource array mapping a test key system name to the Widevine MediaDrm UUID so the WebView test shell can pass MediaDrm plugin availability checks.
+-->
+
 <resources>
     <!-- Array of "[keySystemName],[UuidOfMediaDrm]" -->
     <string-array name="config_key_system_uuid_mapping" translatable="false">

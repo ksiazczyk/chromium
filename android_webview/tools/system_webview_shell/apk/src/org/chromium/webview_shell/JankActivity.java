@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView activity for Android Jank testing
+// summary: Activity that displays a URL in a WebView so a Jank tester can exercise scrolling and other interactions.
+// ---
+
 package org.chromium.webview_shell;
 
 import android.app.Activity;

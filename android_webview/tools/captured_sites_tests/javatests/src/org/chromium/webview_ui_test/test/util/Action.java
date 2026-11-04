@@ -1,6 +1,15 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Action classes for WebView captured site test steps
+// summary: Defines an abstract Action with concrete subclasses that load pages, click elements, autofill and validate fields on a WebView during captured site tests.
+// relations:
+//   - depends_on /android_webview/tools/captured_sites_tests/javatests/src/org/chromium/webview_ui_test/test/util/PerformActions.java
+// ---
+
 package org.chromium.webview_ui_test.test.util;
 
 /*

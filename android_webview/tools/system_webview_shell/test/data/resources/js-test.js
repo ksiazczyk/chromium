@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JavaScript test helpers for WebView shell tests
+// summary: Shared JavaScript helpers for WebView shell tests that log output, report pass or fail results, and compare values during automated test runs.
+// ---
+
 debug = function debug(msg)
 {
     console.log(msg);

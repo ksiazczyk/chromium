@@ -1,0 +1,4 @@
+# Docerion header of geolocation-permission-callbacks-expected.txt.
+type: test
+title: Geolocation permission callbacks expected results
+summary: Expected output for the WebView geolocation permission callbacks test, showing the prompt callback, denial and error messages.

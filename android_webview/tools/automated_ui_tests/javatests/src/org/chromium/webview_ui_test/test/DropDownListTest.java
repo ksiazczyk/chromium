@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebView drop-down list Espresso tests
+// summary: Espresso tests verifying WebView select drop-down behavior across viewport scale factors, currently disabled pending crbug.com/947352.
+// relations:
+//   - depends_on /android_webview/tools/automated_ui_tests/javatests/src/org/chromium/webview_ui_test/test/util/Actions.java
+//   - depends_on /android_webview/tools/automated_ui_tests/javatests/src/org/chromium/webview_ui_test/test/util/Atoms.java
+//   - references /android_webview/tools/automated_ui_tests/test/data/webview_nonscaled.html
+// ---
+
 package org.chromium.webview_ui_test.test;
 
 import static androidx.test.espresso.Espresso.onView;

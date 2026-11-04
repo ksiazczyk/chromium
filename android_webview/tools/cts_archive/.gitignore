@@ -1,2 +1,8 @@
+# ---docerion
+# type: config
+# title: CTS archive CIPD ignore rules
+# summary: Ignores the cipd/ folder in the WebView CTS archive because its files are fetched from CIPD rather than stored in git.
+# ---
+
 # Files under these folders are taken from CIPD.
 cipd/

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Renderer process metrics provider test utility
+// summary: JNI test helper that forces the renderer process metrics provider to provide current session data so histograms can be recorded during tests.
+// relations:
+//   - depends_on /android_webview/browser/metrics/renderer_process_metrics_provider.h
+// ---
+
 
 #include "android_webview/browser/metrics/renderer_process_metrics_provider.h"
 

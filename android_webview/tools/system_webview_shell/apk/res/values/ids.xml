@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--docerion
+type: config
+title: WebView shell ID resources
+summary: Declares an Android ID resource, multi_profile_name_tag_key, used to tag views in the multi-profile testing feature of the WebView shell.
+-->
+
 <resources>
     <item type="id" name="multi_profile_name_tag_key" />
 </resources>

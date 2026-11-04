@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewCreateDestroyActivity
+// summary: Activity that keeps at most one live WebView, destroying it before creating a new one, to test create/destroy sequences and catch memory leaks.
+// relations:
+//   - references /android_webview/tools/system_webview_shell/apk/src/org/chromium/webview_shell/TelemetryActivity.java
+// ---
+
 package org.chromium.webview_shell;
 
 import android.annotation.SuppressLint;

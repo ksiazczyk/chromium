@@ -1,0 +1,6 @@
+# Docerion header of run_simpleperf.py.
+type: source
+title: Simpleperf Profiling Tool for WebView
+summary: Runs simpleperf on a device to collect sampling-based performance traces of WebView and symbolizes captured addresses into an HTML report.
+relations:
+  - depends_on /third_party/android_platform/development/scripts/stack

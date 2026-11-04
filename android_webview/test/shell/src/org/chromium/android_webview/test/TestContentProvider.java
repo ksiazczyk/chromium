@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Content provider for testing content URLs
+// summary: Test content provider that serves registered responses such as a test image over content URLs and tracks or resets resource request counts.
+// ---
+
 /** Content provider for testing content URLs. */
 package org.chromium.android_webview.test;
 

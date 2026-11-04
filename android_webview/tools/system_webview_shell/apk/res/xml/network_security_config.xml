@@ -3,6 +3,12 @@
      Use of this source code is governed by a BSD-style license that can be
      found in the LICENSE file. -->
 
+<!--docerion
+type: config
+title: Network security config permitting cleartext traffic
+summary: Android network security config that keeps cleartext traffic and user certificate trust enabled for the System WebView Shell test browser on Android P and later.
+-->
+
 <network-security-config>
     <!-- Starting with Android P (API level 28), the default value of
     isCleartextTrafficPermitted() is false. For the SystemWebViewShell

@@ -1,0 +1,7 @@
+# Docerion header of update_cts.py.
+type: source
+title: CTS Version Update Tool
+summary: Updates the WebView CTS configuration to the latest CTS release versions by querying git tags of the AOSP CTS repository and rewriting webview_cts_gcs_path.json.
+relations:
+  - depends_on /android_webview/tools/cts_utils.py
+  - configures /android_webview/tools/cts_config/webview_cts_gcs_path.json

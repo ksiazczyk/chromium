@@ -1,0 +1,4 @@
+# Docerion header of cors.html.
+type: test
+title: CORS test page for XHR and fetch requests
+summary: Test page that issues an XHR or fetch request to a URL from the query string and reports load, error, or abort through the document title.

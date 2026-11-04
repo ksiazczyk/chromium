@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for stable webexposed web tests
+summary: Requires approval from blink API OWNERS for changes to stable web-exposed interface test expectations in this directory.
+relations:
+  - references /third_party/blink/API_OWNERS

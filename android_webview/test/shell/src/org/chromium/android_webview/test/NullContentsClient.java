@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: No-op AwContentsClient for tests
+// summary: Provides empty default implementations of all AwContentsClient callbacks so tests only need to override the specific callbacks they care about.
+// relations:
+//   - implements /android_webview/java/src/org/chromium/android_webview/AwContentsClient.java
+// ---
+
 package org.chromium.android_webview.test;
 
 import android.graphics.Bitmap;

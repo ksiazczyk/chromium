@@ -1,0 +1,4 @@
+# Docerion header of fetch.py.
+type: script
+title: Fetch script for Android CTS archive downloads
+summary: Reports the latest CTS archive version and prints download URLs for Android CTS zip files consumed by the 3pp packaging system.

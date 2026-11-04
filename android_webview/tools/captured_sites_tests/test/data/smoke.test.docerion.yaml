@@ -1,0 +1,4 @@
+# Docerion header of smoke.test.
+type: test
+title: Autofill smoke test scenario
+summary: Captured-sites test scenario that loads an autofill demo page, triggers autofill on form fields, and validates the filled name and credit card values.

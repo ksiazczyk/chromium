@@ -1,3 +1,12 @@
+---
+type: readme
+title: WebView Tools
+summary: Overview of developer and testing tools for WebView, pointing to script help output and WebView Shell usage documentation.
+relations:
+  - references /android_webview/docs/README.md
+  - references /android_webview/docs/webview-shell.md
+---
+
 # WebView Tools
 
 This folder includes various tools for testing or developing WebView. This code

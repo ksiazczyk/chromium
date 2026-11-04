@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Memory metrics logging utilities for WebView tests
+// summary: Java utility class exposing a JNI call to force recording of WebView memory metrics histograms, returning success or failure.
+// ---
+
 package org.chromium.android_webview.test.util;
 
 import org.jni_zero.JNINamespace;

@@ -1,6 +1,13 @@
 // Copyright 2015 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: WebView activity for Telemetry performance testing
+// summary: Activity that loads a URL in a WebView wrapped in configurable trace tags so Telemetry benchmarks can measure startup and URL load intervals.
+// ---
+
 package org.chromium.webview_shell;
 
 import android.app.Activity;

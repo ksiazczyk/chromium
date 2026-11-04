@@ -6,6 +6,12 @@
   found in the LICENSE file.
 -->
 
+<!--docerion
+type: test
+title: Android WebView test shell manifest
+summary: Android manifest for the WebView test shell app, declaring permissions, activities, providers, sandboxed services, and intent filters used by tests.
+-->
+
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="org.chromium.android_webview.shell">
   <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>

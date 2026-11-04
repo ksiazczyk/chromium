@@ -4,6 +4,12 @@
  * found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Android manifest for the System WebView shell APK
+summary: Declares permissions, features, intent queries, and activities such as telemetry, jank, and startup time for the WebView shell test app.
+-->
+
 <manifest
     xmlns:android="http://schemas.android.com/apk/res/android"
     package="{{manifest_package|default('org.chromium.webview_shell')}}"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Draw functor context manager implementation
+// summary: Implements GL and Vulkan context managers that create contexts, draw, and sync functors for the draw_fn WebView test shell.
+// relations:
+//   - depends_on /android_webview/test/shell/src/draw_fn/context_manager.h
+//   - depends_on /android_webview/browser/gfx/test/fake_hwui_gl_context.h
+//   - depends_on /android_webview/public/browser/draw_fn.h
+// ---
+
 #include "android_webview/test/shell/src/draw_fn/context_manager.h"
 
 #include <EGL/egl.h>

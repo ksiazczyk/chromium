@@ -4,6 +4,12 @@
      found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: WebView browser fragment layout
+summary: Fragment layout with a URL input field and a load button for the WebView browser fragment.
+-->
+
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/container"

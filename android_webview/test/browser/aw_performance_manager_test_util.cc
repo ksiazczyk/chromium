@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Performance manager graph node test utility
+// summary: JNI test helper that verifies PerformanceManager graph nodes exist for a WebContents, checking the page, frame, process, and worker nodes against expected URLs.
+// relations:
+//   - depends_on /base/android/jni_string.h
+//   - depends_on /base/android/scoped_java_ref.h
+//   - depends_on /components/performance_manager/public/graph/frame_node.h
+// ---
+
 #include "base/android/jni_string.h"
 #include "base/android/scoped_java_ref.h"
 #include "components/performance_manager/public/graph/frame_node.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JavaScript test module
+// summary: ES module exporting a callMe function, used as a module fixture for WebView module loading tests.
+// ---
+
 export function callMe() {
     return true;
 }

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebView ActionMode Espresso tests
+// summary: Espresso instrumentation tests for the WebView text-selection ActionMode, covering actions such as copy, paste, share, select all and web search.
+// ---
+
 package org.chromium.webview_ui_test.test;
 
 import static androidx.test.espresso.Espresso.onData;

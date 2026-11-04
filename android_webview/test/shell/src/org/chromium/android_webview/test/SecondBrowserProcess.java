@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service simulating a second browser process
+// summary: Android service that imitates a second WebView browser process by loading the library and taking the data directory lock via a binder transaction.
+// ---
+
 package org.chromium.android_webview.test;
 
 import android.app.Service;

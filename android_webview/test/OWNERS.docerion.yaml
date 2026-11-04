@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for the WebView test folder
+summary: Grants per-file ownership so any reviewer can approve changes to BUILD.gn in the WebView test directory.
+relations:
+  - references /android_webview/test/BUILD.gn

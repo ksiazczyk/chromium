@@ -1,0 +1,4 @@
+# Docerion header of global-interface-listing-expected.txt.
+type: test
+title: WebView web test expected global interface listing
+summary: Expected output for a WebView web test that documents all interfaces, attributes, and methods exposed on the global window object and element instances.

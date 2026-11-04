@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Helpers performing WebView actions like clicks and autofill
+// summary: Provides helpers to load URLs, click elements by XPath, autofill and verify field values on a WebView using Espresso and UI Automator.
+// relations:
+//   - depends_on /android_webview/tools/captured_sites_tests/javatests/src/org/chromium/webview_ui_test/test/util/CapturedSitesTestRule.java
+// ---
+
 package org.chromium.webview_ui_test.test.util;
 
 import static androidx.test.espresso.Espresso.onView;

@@ -4,6 +4,12 @@
 
 // Objects starting with the "aw" prefix are injected by AwPrerenderTest.
 
+// ---docerion
+// type: test
+// title: Prerender test setup script
+// summary: JavaScript helper for WebView prerender tests that creates iframes, detects activation, and signals state to injected aw-prefixed test objects.
+// ---
+
 function createIframe(url) {
   const iframe = document.createElement('iframe');
   iframe.setAttribute('src', url);

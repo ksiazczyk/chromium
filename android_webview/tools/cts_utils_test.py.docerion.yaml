@@ -1,0 +1,6 @@
+# Docerion header of cts_utils_test.py.
+type: test
+title: Unit tests for cts_utils
+summary: Unittests covering CTS config parsing and the Chromium repo helper in cts_utils.py.
+relations:
+  - tests /android_webview/tools/cts_utils.py

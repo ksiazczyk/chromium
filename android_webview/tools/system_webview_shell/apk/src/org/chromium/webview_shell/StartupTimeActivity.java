@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Activity for measuring WebView startup time scenarios
+// summary: Activity that measures UI-blocking durations of WebView startup scenarios such as create, add view, and load, logging results in milliseconds to logcat.
+// ---
+
 package org.chromium.webview_shell;
 
 import android.app.Activity;

@@ -1,0 +1,6 @@
+# Docerion header of run_cts.py.
+type: source
+title: WebView CTS Test Runner
+summary: Runs the WebView CTS test APKs stored in CIPD on devices or emulators, determining architecture and CTS release and applying test filters and expected-failure skips.
+relations:
+  - depends_on /android_webview/tools/cts_config/webview_cts_gcs_path.json

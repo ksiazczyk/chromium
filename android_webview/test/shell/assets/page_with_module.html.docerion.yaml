@@ -1,0 +1,6 @@
+# Docerion header of page_with_module.html.
+type: test
+title: Page with module import test
+summary: Test page that imports a JavaScript module and reports success or failure to the injected test object.
+relations:
+  - depends_on /android_webview/test/shell/assets/mod.m.js

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: 'PageCyclerTest: WebView page loading tests for popular sites'
+// summary: Parameterized JUnit test that visits popular websites such as Google and Wikipedia in the WebView shell on internet-connected bots, checking that page loads finish without crashing.
+// ---
+
 package org.chromium.webview_shell.page_cycler;
 
 import android.webkit.WebSettings;

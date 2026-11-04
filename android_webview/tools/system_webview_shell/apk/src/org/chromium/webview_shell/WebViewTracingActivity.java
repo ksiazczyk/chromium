@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewTracingActivity
+// summary: Activity for telemetry testing of the WebView Tracing API that loads a URL with optional tracing and measures URL load time and overall tracing duration.
+// ---
+
 package org.chromium.webview_shell;
 
 import android.app.Activity;

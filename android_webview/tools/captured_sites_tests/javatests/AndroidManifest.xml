@@ -4,6 +4,12 @@
  * found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Android manifest for WebView UI test instrumentation
+summary: Declares permissions, a static autofill service, and the Chromium JUnit instrumentation runner for the org.chromium.webview_ui_test test package.
+-->
+
 <manifest
       xmlns:android="http://schemas.android.com/apk/res/android"
       xmlns:tools="http://schemas.android.com/tools"

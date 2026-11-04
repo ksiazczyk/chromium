@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Variations signature verification test utility
+// summary: JNI test helper that disables variations signature verification through AwFeatureListCreator for use in WebView instrumentation tests.
+// relations:
+//   - depends_on /android_webview/browser/aw_feature_list_creator.h
+// ---
+
 
 #include "android_webview/browser/aw_feature_list_creator.h"
 

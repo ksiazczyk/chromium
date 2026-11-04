@@ -1,0 +1,4 @@
+# Docerion header of install.sh.
+type: script
+title: Install script for filtered WebView CTS archives
+summary: Extracts selected CTS test APKs from Android CTS zips and repackages them into filtered archives per Android version and architecture.

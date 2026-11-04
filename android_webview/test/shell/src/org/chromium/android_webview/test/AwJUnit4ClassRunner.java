@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JUnit4 runner for WebView instrumentation tests
+// summary: Custom JUnit4 test runner that duplicates WebView instrumentation tests in single and multi-process modes, honoring OnlyRunIn and device restriction annotations.
+// relations:
+//   - references /android_webview/test/shell/src/org/chromium/android_webview/test/OnlyRunIn.java
+// ---
+
 package org.chromium.android_webview.test;
 
 import androidx.annotation.CallSuper;

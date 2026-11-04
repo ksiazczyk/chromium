@@ -5,6 +5,12 @@
  * found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Android manifest for the WebView page cycler
+summary: Declares the page cycler app package, its permissions, and an instrumentation runner targeting the WebView shell package.
+-->
+
 <manifest
     xmlns:android="http://schemas.android.com/apk/res/android"
     package="org.chromium.webview_shell.page_cycler"

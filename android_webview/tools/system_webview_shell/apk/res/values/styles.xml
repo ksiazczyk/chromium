@@ -3,6 +3,12 @@
      Use of this source code is governed by a BSD-style license that can be
      found in the LICENSE file. -->
 
+<!--docerion
+type: config
+title: WebView shell style resources
+summary: Defines the UrlText and UrlTextError text styles, which apply the normal and error URL colors to text in the WebView shell UI.
+-->
+
 <resources>
     <style name="UrlText">
         <item name="android:textColor">@color/url_color</item>

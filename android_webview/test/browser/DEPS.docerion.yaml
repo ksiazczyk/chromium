@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for WebView browser tests
+summary: Defines the allowed include paths, such as origin trials, performance manager, and content browser APIs, for the WebView browser test directory.

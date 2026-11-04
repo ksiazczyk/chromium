@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwEmbeddedTestServer for Android WebView tests
+// summary: Java test server extending EmbeddedTestServer that starts HTTP or HTTPS servers with custom handlers for Android WebView tests, running via a service in a separate APK.
+// ---
+
 package org.chromium.android_webview.test;
 
 import android.content.Context;

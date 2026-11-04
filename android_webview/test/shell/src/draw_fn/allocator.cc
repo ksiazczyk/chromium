@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Draw functor allocator implementation
+// summary: Implements the Allocator that tracks draw functor lifecycle and provides the draw_fn function table for the WebView test shell.
+// relations:
+//   - depends_on /android_webview/test/shell/src/draw_fn/allocator.h
+//   - depends_on /android_webview/public/browser/draw_fn.h
+//   - depends_on /base/logging.h
+// ---
+
 #include "android_webview/test/shell/src/draw_fn/allocator.h"
 
 #include "android_webview/public/browser/draw_fn.h"

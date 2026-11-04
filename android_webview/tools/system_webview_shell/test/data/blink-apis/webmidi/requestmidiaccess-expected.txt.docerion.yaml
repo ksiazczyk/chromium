@@ -1,0 +1,4 @@
+# Docerion header of requestmidiaccess-expected.txt.
+type: test
+title: Expected output for requestMIDIAccess WebView test
+summary: Expected results for the WebView navigator.requestMIDIAccess test without options, showing sysexEnabled is false.

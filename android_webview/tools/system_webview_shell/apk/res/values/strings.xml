@@ -4,6 +4,12 @@
      found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: WebView shell string resources
+summary: Provides user-facing strings for the WebView shell APK, including activity titles, menu actions, and button labels for its various test activities.
+-->
+
 <resources>
     <string name="app_name">WebView Shell</string>
     <string name="title_activity_telemetry">WebView Telemetry</string>

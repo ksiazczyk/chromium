@@ -3,6 +3,12 @@
      Use of this source code is governed by a BSD-style license that can be
      found in the LICENSE file. -->
 
+<!--docerion
+type: config
+title: System WebView Shell v17 theme styles
+summary: Android resource XML defining the ShellTheme style for API 17+ used by the System WebView Shell APK.
+-->
+
 <resources>
   <style name="ShellTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
   </style>

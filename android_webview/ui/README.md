@@ -1,3 +1,13 @@
+---
+type: readme
+title: Android WebView Resources
+summary: Explains how WebView application resources are managed, how to add WebView-specific Android strings and drawables, and how shared resources are allowlisted.
+relations:
+  - references /android_webview/java/strings/android_webview_strings.grd
+  - references /android_webview/ui/grit_resources_allowlist.txt
+  - references /android_webview/ui/grit_strings_allowlist.txt
+---
+
 # Android WebView Resources
 
 This folder is responsible for managing WebView's application resources. Please

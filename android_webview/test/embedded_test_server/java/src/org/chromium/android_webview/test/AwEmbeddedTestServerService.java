@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwEmbeddedTestServerService bound service
+// summary: Android service that creates and returns a new AwEmbeddedTestServerImpl when bound, hosting the WebView test server.
+// ---
+
 package org.chromium.android_webview.test;
 
 import android.app.Service;

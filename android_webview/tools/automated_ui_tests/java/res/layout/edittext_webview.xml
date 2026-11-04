@@ -4,6 +4,12 @@
      found in the LICENSE file.
 -->
 
+<!--docerion
+type: data
+title: EditText WebView test layout
+summary: Android layout resource for the automated UI test app that places a WebView above an EditText, likely for testing text input interaction with WebView content.
+-->
+
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"

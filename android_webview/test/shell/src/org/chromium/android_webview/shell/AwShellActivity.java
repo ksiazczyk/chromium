@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwShellActivity
+// summary: Main activity of the Android WebView test shell that hosts a WebView test container with a URL bar, navigation buttons, and back-invoked handling for tests.
+// relations:
+//   - depends_on /android_webview/test/shell/src/org/chromium/android_webview/shell/AwShellResourceProvider.java
+//   - depends_on /android_webview/test/shell/src/org/chromium/android_webview/shell/AwShellSwitches.java
+// ---
+
 package org.chromium.android_webview.shell;
 
 import android.app.Activity;

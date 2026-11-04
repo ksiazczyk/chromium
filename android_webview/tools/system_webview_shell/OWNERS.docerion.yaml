@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS per-file rule for lint XML files
+summary: Grants ownership approval rights for the lint-*.xml files to all reviewers via a per-file rule.

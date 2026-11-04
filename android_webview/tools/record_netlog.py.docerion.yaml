@@ -1,0 +1,6 @@
+# Docerion header of record_netlog.py.
+type: script
+title: Record WebView netlog
+summary: Script that sets WebView command-line flags to record a netlog for an app on a device and pulls the log when the user stops it.
+relations:
+  - references /android_webview/docs/device-setup.md

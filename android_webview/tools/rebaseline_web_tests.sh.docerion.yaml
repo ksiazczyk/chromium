@@ -1,0 +1,4 @@
+# Docerion header of rebaseline_web_tests.sh.
+type: script
+title: Rebaseline WebView web test expectations
+summary: Shell script that runs WebView instrumentation tests in rebaseline mode and pulls updated expectation files from the device.

@@ -1,0 +1,4 @@
+# Docerion header of requestmidiaccess-permission-denied-expected.txt.
+type: test
+title: Expected output for denied requestMIDIAccess with sysex
+summary: Expected results for the WebView test where a sysex requestMIDIAccess call is denied and fails with NotAllowedError.

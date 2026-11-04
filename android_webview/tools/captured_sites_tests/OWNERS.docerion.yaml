@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for captured_sites_tests
+summary: Lists the code owners responsible for the captured_sites_tests directory.

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test rule launching the WebView UI test activity
+// summary: JUnit activity test rule that launches WebViewUiTestActivity with a layout from the UseLayout annotation and provides synchronous URL loading.
+// relations:
+//   - depends_on /android_webview/tools/captured_sites_tests/javatests/src/org/chromium/webview_ui_test/test/util/CapturedSitesSyncWrapper.java
+// ---
+
 package org.chromium.webview_ui_test.test.util;
 
 import android.content.Intent;

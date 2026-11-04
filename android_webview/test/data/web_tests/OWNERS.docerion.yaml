@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Web tests OWNERS
+summary: Grants ownership of the web_tests directory to everyone, allowing any user to approve changes in this test data folder.

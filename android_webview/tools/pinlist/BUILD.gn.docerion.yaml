@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn targets for the pinlist generator
+summary: GN build file defining a script test that runs the pinlist generator on a device plus the Python library target backing it.
+relations:
+  - depends_on /build/config/android/config.gni
+  - depends_on /build/config/chrome_build.gni
+  - depends_on /build/config/python.gni

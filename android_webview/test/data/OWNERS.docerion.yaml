@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for prerendering test data
+summary: Delegates ownership of prerender test data files to the prerender OWNERS file in the Chromium content browser directory.
+relations:
+  - references /content/browser/preloading/prerender/OWNERS

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewMultiProfileBrowserActivity
+// summary: Activity that hosts two WebViewBrowserFragment instances with separate profile names to exercise multi-profile WebView browsing in one screen.
+// relations:
+//   - depends_on /android_webview/tools/system_webview_shell/apk/src/org/chromium/webview_shell/EdgeToEdgeUtil.java
+// ---
+
 package org.chromium.webview_shell;
 
 import android.os.Bundle;

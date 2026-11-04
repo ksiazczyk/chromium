@@ -1,3 +1,11 @@
+---
+type: readme
+title: WebView Shell
+summary: Explains that the WebView shell is a test-only standalone application for testing WebView, warns against shipping it as a browser, and links to further documentation.
+relations:
+  - references /android_webview/docs/webview-shell.md
+---
+
 # WebView Shell
 
 The WebView shell is a standalone application for testing WebView. For more

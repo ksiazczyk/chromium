@@ -1,0 +1,4 @@
+# Docerion header of basic-logging-expected.txt.
+type: test
+title: Basic logging expected output
+summary: Expected output text for the basic-logging WebView test, listing the debug lines the page should produce.

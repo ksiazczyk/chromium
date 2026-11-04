@@ -1,0 +1,6 @@
+# Docerion header of battery-callback.html.
+type: test
+title: Battery Status API callback test page
+summary: HTML test page that calls navigator.getBattery() in WebView and validates the returned battery manager values, reporting success or failure of the promise.
+relations:
+  - depends_on /android_webview/tools/system_webview_shell/test/data/resources/js-test.js

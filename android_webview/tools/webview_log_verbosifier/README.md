@@ -1,3 +1,12 @@
+---
+type: readme
+title: WebView Log Verbosifier
+summary: README for the deprecated WebView Log Verbosifier, an empty app that makes WebView log active field trials and command line flags, with install, logcat search, and uninstall instructions.
+relations:
+  - references /android_webview/docs/commandline-flags.md
+  - references /android_webview/docs/developer-ui.md
+---
+
 # WebView Log Verbosifier
 
 *** note

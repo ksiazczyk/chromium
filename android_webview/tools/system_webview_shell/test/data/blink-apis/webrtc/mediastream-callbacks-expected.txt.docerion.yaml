@@ -1,0 +1,4 @@
+# Docerion header of mediastream-callbacks-expected.txt.
+type: test
+title: Expected output for MediaStream callbacks test in WebView
+summary: Expected results for the WebView MediaStream callbacks test, covering the permission request, granted capture resources, and successful getUserMedia checks.

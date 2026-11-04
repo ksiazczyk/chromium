@@ -1,0 +1,4 @@
+# Docerion header of key-system-test.html.
+type: test
+title: Key system support test page
+summary: Test page that checks requestMediaKeySystemAccess support for key systems and proprietary codec availability for DRM-related tests.

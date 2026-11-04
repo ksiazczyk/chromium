@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebViewUiTestRule JUnit rule for WebView UI tests
+// summary: JUnit activity test rule that launches WebViewUiTestActivity with a UseLayout-specified layout and synchronously loads data, files, and JavaScript in tests.
+// relations:
+//   - depends_on /android_webview/tools/automated_ui_tests/javatests/src/org/chromium/webview_ui_test/test/util/WebViewSyncWrapper.java
+//   - depends_on /android_webview/tools/automated_ui_tests/javatests/src/org/chromium/webview_ui_test/test/util/UseLayout.java
+// ---
+
 package org.chromium.webview_ui_test.test.util;
 
 import static androidx.test.espresso.matcher.RootMatchers.withDecorView;

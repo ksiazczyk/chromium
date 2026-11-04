@@ -1,0 +1,6 @@
+# Docerion header of eme.html.
+type: test
+title: WebView EME callback test page
+summary: HTML test page that requests Widevine media key system access to verify EME callbacks in WebView.
+relations:
+  - depends_on /android_webview/tools/system_webview_shell/test/data/resources/js-test.js

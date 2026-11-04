@@ -1,0 +1,4 @@
+# Docerion header of autofill.html.
+type: test
+title: Autofill test form page
+summary: HTML form with a username autocomplete input used to test autofill behavior in the WebView test shell.

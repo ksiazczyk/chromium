@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebView embedded test server request handlers
+// summary: Native JNI implementation of the Android WebView embedded test server, providing request handlers such as /click-redirect and /echoheader-and-set-data for test responses.
+// relations:
+//   - depends_on /base/android/jni_array.h
+//   - depends_on /base/base64.h
+//   - depends_on /base/strings/stringprintf.h
+// ---
+
 #include <jni.h>
 
 #include <string_view>

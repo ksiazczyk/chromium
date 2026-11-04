@@ -1,0 +1,4 @@
+# Docerion header of global-interface-listing-expected.txt.
+type: test
+title: Expected global interface listing for stable web tests
+summary: Expected test output documenting all interfaces, attributes and methods exposed on the global window object and element instances.

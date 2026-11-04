@@ -1,0 +1,4 @@
+# Docerion header of mediastream-permission-denied-callbacks-expected.txt.
+type: test
+title: Expected output for MediaStream permission denied test
+summary: Expected results for the WebView MediaStream permission-denied test, showing the capture permission request being denied and the NotAllowedError callback.

@@ -1,0 +1,4 @@
+# Docerion header of client_hints.html.
+type: test
+title: Client hints test page reporting UA data via title
+summary: Test page that writes the user agent client hints platform, mobile flag, and brands into the document title for verification.

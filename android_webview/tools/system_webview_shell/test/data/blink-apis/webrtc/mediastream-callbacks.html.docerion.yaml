@@ -1,0 +1,6 @@
+# Docerion header of mediastream-callbacks.html.
+type: test
+title: MediaStream API callbacks test page for WebView
+summary: HTML test page that requests audio and video via webkitGetUserMedia in WebView and verifies the success callback, track readiness, and stream activity.
+relations:
+  - references /android_webview/tools/system_webview_shell/test/data/resources/js-test.js

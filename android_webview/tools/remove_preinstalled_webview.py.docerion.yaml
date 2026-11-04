@@ -1,0 +1,4 @@
+# Docerion header of remove_preinstalled_webview.py.
+type: source
+title: Remove Preinstalled WebView Tool
+summary: Removes the system-preinstalled WebView and Trichrome packages from a development device so a locally built WebView APK can be installed without signature mismatches.

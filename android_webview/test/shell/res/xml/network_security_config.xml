@@ -6,6 +6,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: WebView test shell network security config
+summary: Android network security configuration that permits cleartext traffic for the WebView test shell.
+-->
+
 <network-security-config>
   <base-config cleartextTrafficPermitted="true">
   </base-config>

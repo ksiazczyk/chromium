@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebViewThreadTest
+// summary: Instrumentation tests checking that WebView and its managers such as CookieManager, GeolocationPermissions, WebStorage and the WebView database work when accessed from non-UI threads.
+// ---
+
 package org.chromium.webview_shell.test;
 
 import static org.chromium.base.test.util.ScalableTimeout.scaleTimeout;

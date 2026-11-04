@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Draw functor context manager interface
+// summary: Declares the ContextManager base class handling surfaces, sync, drawing, and overlay management for the draw_fn test shell.
+// relations:
+//   - depends_on /android_webview/test/shell/src/draw_fn/overlays_manager.h
+//   - depends_on /base/android/scoped_java_ref.h
+//   - depends_on /ui/gl/android/scoped_a_native_window.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_TEST_SHELL_SRC_DRAW_FN_CONTEXT_MANAGER_H_
 #define ANDROID_WEBVIEW_TEST_SHELL_SRC_DRAW_FN_CONTEXT_MANAGER_H_
 

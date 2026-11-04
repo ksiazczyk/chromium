@@ -1,0 +1,8 @@
+# Docerion header of shared.gni.
+type: config
+title: Shared GN templates for WebView instrumentation tests
+summary: Provides shared GN templates that build the WebView instrumentation APK and test APK with a common set of dependencies and settings.
+relations:
+  - configured_by /android_webview/variables.gni
+  - configured_by /build/config/android/rules.gni
+  - configured_by /chrome/version.gni

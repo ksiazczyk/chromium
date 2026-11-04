@@ -1,6 +1,15 @@
 # Copyright 2020 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: CTS config utilities
+# summary: Python helpers for reading and updating the WebView CTS test configuration and performing operations on the Chromium checkout.
+# relations:
+#   - depends_on /android_webview/tools/cts_config/webview_cts_gcs_path.json
+# ---
+
 """Stage the Chromium checkout to update CTS test version."""
 
 import json

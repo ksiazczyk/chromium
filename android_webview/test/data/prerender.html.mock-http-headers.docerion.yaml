@@ -1,0 +1,4 @@
+# Docerion header of prerender.html.mock-http-headers.
+type: test
+title: Mock HTTP headers for prerender test page
+summary: Mock HTTP response headers serving a 200 OK with a No-Vary-Search header for prerender.html in WebView tests.

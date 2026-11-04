@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: System WebView Shell APK main menu resource
+summary: Defines the options menu of the System WebView Shell APK, with items for WebView reload, reset, cache, cookies, tracing, force dark, WebAuthn, night mode, and launching helper activities.
+-->
+
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:id="@+id/menu_reload_webview"
           android:title="@string/menu_reload_webview"/>

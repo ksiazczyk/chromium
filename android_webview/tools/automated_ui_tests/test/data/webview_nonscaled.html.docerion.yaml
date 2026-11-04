@@ -1,0 +1,4 @@
+# Docerion header of webview_nonscaled.html.
+type: test
+title: WebView test page with viewport scale 1.0
+summary: Test fixture page pinned to viewport scale 1.0 with four select menus positioned in the page corners for WebView automated UI tests.

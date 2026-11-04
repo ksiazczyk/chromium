@@ -1,0 +1,4 @@
+# Docerion header of run_tests_rebaseline.sh.
+type: test
+title: WebView layout test rebaseline script
+summary: Shell script that runs the system WebView shell layout tests in rebaseline mode and pulls the newly generated expectation files from the device into a test_rebaseline directory.

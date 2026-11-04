@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestAutofillService
+// summary: Stub Android autofill service that returns static fill responses built from AutofillProfile data to support WebView autofill testing.
+// ---
+
 package org.chromium.webview_ui_test.test;
 
 import android.app.assist.AssistStructure;

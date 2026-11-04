@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for WebView tools
+# summary: Runs Python unit tests, patch formatting, and Ruff checks when changes to WebView tools are uploaded or committed.
+# ---
+
 """Presubmit for android_webview/tools."""
 
 PRESUBMIT_VERSION = '2.0.0'

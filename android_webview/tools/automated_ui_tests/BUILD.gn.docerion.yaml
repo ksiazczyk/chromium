@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for WebView automated UI tests
+summary: Defines GN build targets for the WebView UI test app resources and its instrumentation test APK with dependencies on Espresso and UI Automator.
+relations:
+  - depends_on /build/config/android/rules.gni
+  - depends_on /testing/test.gni
+  - references /android_webview/tools/automated_ui_tests/java/res/layout/edittext_webview.xml
