@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Sharesheet strings DIR_METADATA
+summary: Directory metadata assigning the lt-web-apps-team, Chrome OS, and a Buganizer component to this sharesheet strings directory.

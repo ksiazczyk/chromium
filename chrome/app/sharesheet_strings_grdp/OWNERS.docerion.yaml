@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Sharesheet strings OWNERS
+summary: Delegates code review ownership of this strings directory to the chrome/browser/sharesheet OWNERS file.

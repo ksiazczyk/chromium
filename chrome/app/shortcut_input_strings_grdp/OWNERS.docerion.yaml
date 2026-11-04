@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the shortcut input strings directory
+summary: OWNERS file that grants review ownership to everyone for this directory via a wildcard entry.
