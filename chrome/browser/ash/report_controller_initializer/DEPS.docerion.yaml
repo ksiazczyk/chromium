@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for report_controller_initializer
+summary: Restricts //chrome includes for the directory, lists the allowed //chrome dependencies, and adds extra include rules for unit tests.

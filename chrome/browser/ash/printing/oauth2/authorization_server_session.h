@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Authorization server session class
+// summary: Declares AuthorizationServerSession, which manages a single OAuth 2 session with scope handling and a callback waiting list.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_OAUTH2_AUTHORIZATION_SERVER_SESSION_H_
 #define CHROME_BROWSER_ASH_PRINTING_OAUTH2_AUTHORIZATION_SERVER_SESSION_H_
 

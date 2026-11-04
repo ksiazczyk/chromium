@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Server printers provider unit tests
+// summary: Unit tests for ServerPrintersProvider that use an embedded test server and libipp responses to verify detection of printers from print servers.
+// ---
+
 #include "chrome/browser/ash/printing/server_printers_provider.h"
 
 #include <map>

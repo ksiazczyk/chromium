@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the ChromeOS printing browser library
+summary: Defines the sources, conditional CUPS sources and dependencies of the ChromeOS printing static library.

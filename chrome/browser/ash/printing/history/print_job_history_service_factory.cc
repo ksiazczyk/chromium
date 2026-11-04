@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrintJobHistoryServiceFactory implementation
+// summary: Creates per-profile PrintJobHistoryService instances wired to the print job database, CUPS print job manager, and reporting service.
+// ---
+
 #include "chrome/browser/ash/printing/history/print_job_history_service_factory.h"
 
 #include <memory>

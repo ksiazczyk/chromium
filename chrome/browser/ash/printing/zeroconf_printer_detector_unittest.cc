@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Zeroconf printer detector unit tests
+// summary: Unit tests verifying zeroconf printer detection across IPP, IPPS, socket, and LPD service types using fake service discovery listers.
+// ---
+
 #include "chrome/browser/ash/printing/zeroconf_printer_detector.h"
 
 #include <algorithm>

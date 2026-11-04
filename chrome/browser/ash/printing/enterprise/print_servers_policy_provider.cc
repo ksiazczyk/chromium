@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print servers policy provider implementation
+// summary: Merges print servers from the user and device external print server policies into a single deduplicated list and notifies a listener, choosing a fetching mode based on the server count.
+// ---
+
 #include "chrome/browser/ash/printing/enterprise/print_servers_policy_provider.h"
 
 #include "ash/constants/ash_pref_names.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printer specifics translation implementation
+// summary: Converts between sync protobuf PrinterSpecifics and chromeos::Printer objects, including PPD reference merging and make-and-model handling.
+// ---
+
 #include "chrome/browser/ash/printing/specifics_translation.h"
 
 #include <string>

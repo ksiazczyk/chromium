@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CupsPrintersManagerFactory implementation
+// summary: Implements the profile-keyed service factory that builds a CupsPrintersManager per browser context, with guest session handling and proxy wiring for the primary profile.
+// ---
+
 #include "chrome/browser/ash/printing/cups_printers_manager_factory.h"
 
 #include "base/check_deref.h"

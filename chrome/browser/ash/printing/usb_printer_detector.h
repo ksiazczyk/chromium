@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: USB printer detector interface
+// summary: Declares UsbPrinterDetector, which observes the USB service for printer additions and exposes them through the PrinterDetector interface.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_USB_PRINTER_DETECTOR_H_
 #define CHROME_BROWSER_ASH_PRINTING_USB_PRINTER_DETECTOR_H_
 

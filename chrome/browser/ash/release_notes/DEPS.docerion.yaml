@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the release notes directory
+summary: Restricts includes from //chrome and lists the allowed Chrome and message center dependencies for this directory.

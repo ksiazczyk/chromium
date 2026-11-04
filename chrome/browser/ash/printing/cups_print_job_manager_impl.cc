@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CupsPrintJobManagerImpl implementation
+// summary: Implements the concrete print job manager that polls CUPS for job updates, handles timeouts and cancellations, and records job result metrics.
+// ---
+
 #include <cups/cups.h>
 
 #include <optional>

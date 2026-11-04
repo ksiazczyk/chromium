@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CalculatorsPoliciesBinder interface
+// summary: Declares a binder that propagates device settings and profile preference changes to printer calculators.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_ENTERPRISE_CALCULATORS_POLICIES_BINDER_H_
 #define CHROME_BROWSER_ASH_PRINTING_ENTERPRISE_CALCULATORS_POLICIES_BINDER_H_
 

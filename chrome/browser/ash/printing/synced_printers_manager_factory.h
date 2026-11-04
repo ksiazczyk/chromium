@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synced printers manager factory header
+// summary: Declares SyncedPrintersManagerFactory, a ProfileKeyedServiceFactory providing per-profile SyncedPrintersManager instances.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_SYNCED_PRINTERS_MANAGER_FACTORY_H_
 #define CHROME_BROWSER_ASH_PRINTING_SYNCED_PRINTERS_MANAGER_FACTORY_H_
 

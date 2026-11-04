@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PPD resolution state unit tests
+// summary: Unit tests verifying PpdResolutionState default state, successful and failed resolution marking, and USB manufacturer storage.
+// ---
+
 #include "chrome/browser/ash/printing/ppd_resolution_state.h"
 
 #include "chromeos/printing/printer_configuration.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: USB printer detector implementation
+// summary: Detects USB printers via the device service and drives the CUPS setup flow, taking session state such as screen lock into account.
+// ---
+
 #include "chrome/browser/ash/printing/usb_printer_detector.h"
 
 #include <map>

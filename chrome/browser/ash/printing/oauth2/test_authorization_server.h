@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake OAuth2 authorization server test helper
+// summary: Declares FakeAuthorizationServer with methods to receive and respond to HTTP requests, plus helpers for parsing URL parameters and building OAuth2 metadata in tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_OAUTH2_TEST_AUTHORIZATION_SERVER_H_
 #define CHROME_BROWSER_ASH_PRINTING_OAUTH2_TEST_AUTHORIZATION_SERVER_H_
 

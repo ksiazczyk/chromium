@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print servers provider factory header
+// summary: Declares PrintServersProviderFactory, which dispenses per-account and device-wide PrintServersProvider instances and must be accessed from the UI thread.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_ENTERPRISE_PRINT_SERVERS_PROVIDER_FACTORY_H_
 #define CHROME_BROWSER_ASH_PRINTING_ENTERPRISE_PRINT_SERVERS_PROVIDER_FACTORY_H_
 

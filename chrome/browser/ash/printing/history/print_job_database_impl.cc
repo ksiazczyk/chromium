@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print job database implementation
+// summary: Implements PrintJobDatabase on a LevelDB proto database, caching entries and deferring operations until initialization.
+// ---
+
 #include "chrome/browser/ash/printing/history/print_job_database_impl.h"
 
 #include <utility>

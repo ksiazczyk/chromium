@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synced printers manager implementation
+// summary: Implements SyncedPrintersManager, managing saved and enterprise printers backed by the PrintersSyncBridge and notifying observers of changes.
+// ---
+
 #include "chrome/browser/ash/printing/synced_printers_manager.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalPrinter interface
+// summary: Declares the LocalPrinter interface for managing local printers, covering printer lookup, capabilities, status, EULA URLs and OAuth access tokens.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_LOCAL_PRINTER_H_
 #define CHROME_BROWSER_ASH_PRINTING_LOCAL_PRINTER_H_
 

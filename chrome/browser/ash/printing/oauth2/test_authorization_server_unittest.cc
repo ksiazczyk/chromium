@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the fake authorization server helpers
+// summary: Contains unit tests verifying ParseURLParameters, BuildMetadata, and the FakeAuthorizationServer request and response handling.
+// ---
+
 #include "chrome/browser/ash/printing/oauth2/test_authorization_server.h"
 
 #include <memory>

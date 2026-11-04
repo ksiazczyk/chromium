@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ChromeSanitizeUIDelegate
+// summary: Verifies that performing sanitize settings sets the kSanitizeCompleted preference to true, using a fake profile resetter and a test WebUI.
+// ---
+
 #include "chrome/browser/ash/sanitize/chrome_sanitize_ui_delegate.h"
 
 #include "chrome/browser/profile_resetter/fake_profile_resetter.h"

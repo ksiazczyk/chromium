@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for print job manager utils
+// summary: Tests state transitions and page count updates performed by the print job manager utility functions across CUPS job states and reasons.
+// ---
+
 #include "chrome/browser/ash/printing/cups_print_job_manager_utils.h"
 
 #include <memory>

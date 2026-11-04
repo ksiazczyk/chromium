@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Privacy Hub directory metadata
+summary: Maps the directory to Buganizer components and the ChromeOS privacy feature development team email.

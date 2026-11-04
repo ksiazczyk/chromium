@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the quick_pair directory
+summary: Sets include rules that restrict ChromeOS dependencies on //chrome while allowing this directory's own headers and a few listed //chrome dependencies.

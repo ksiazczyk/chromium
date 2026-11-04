@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise printers provider implementation
+// summary: Implements the enterprise printers provider that combines device and user printer policies into a final list of available printers and notifies observers of changes.
+// ---
+
 #include "chrome/browser/ash/printing/enterprise/enterprise_printers_provider.h"
 
 #include <algorithm>

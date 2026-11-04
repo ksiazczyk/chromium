@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for enterprise printing
+summary: Defines the enterprise printing static library, its unit test target, and the managed printer proto libraries.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrinterEventTrackerFactory implementation
+// summary: Implements the profile-keyed service factory that creates PrinterEventTracker instances and toggles logging across all loaded profiles.
+// ---
+
 #include "chrome/browser/ash/printing/printer_event_tracker_factory.h"
 
 #include "base/lazy_instance.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Calculators policies binder implementation
+// summary: Binds user profile preferences and device settings for printer policies to BulkPrintersCalculator instances.
+// ---
+
 #include "chrome/browser/ash/printing/enterprise/calculators_policies_binder.h"
 
 #include <list>

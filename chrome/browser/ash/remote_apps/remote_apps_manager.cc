@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote apps manager implementation
+// summary: Implements the RemoteAppsManager keyed service that adds, removes and pins remote apps in the ChromeOS launcher.
+// ---
+
 #include "chrome/browser/ash/remote_apps/remote_apps_manager.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrintersMap class header
+// summary: Declares PrintersMap, which stores printers categorized by class and supports status saving and secure queries.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_PRINTERS_MAP_H_
 #define CHROME_BROWSER_ASH_PRINTING_PRINTERS_MAP_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for the printing OAuth 2 library
+summary: Defines the oauth2 static library, test_support target and unit_tests source_set with their sources and dependencies.

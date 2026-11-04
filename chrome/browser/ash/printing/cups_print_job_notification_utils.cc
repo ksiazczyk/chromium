@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CUPS print job notification utilities implementation
+// summary: Builds notification titles, icons and body messages for print job states and printer error codes, resolving the printing app name via App Service.
+// ---
+
 #include "chrome/browser/ash/printing/cups_print_job_notification_utils.h"
 
 #include "ash/constants/ash_pref_names.h"

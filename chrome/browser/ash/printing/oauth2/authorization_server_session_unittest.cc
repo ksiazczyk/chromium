@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AuthorizationServerSession
+// summary: Tests scope parsing, waiting list handling and token request flows of AuthorizationServerSession against a fake server.
+// ---
+
 #include "chrome/browser/ash/printing/oauth2/authorization_server_session.h"
 
 #include <memory>

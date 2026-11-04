@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CupsPrintersManager unit tests
+// summary: Large unit test suite for CupsPrintersManager using fake enterprise printer providers, network helpers, and DBus fakes to exercise printer handling and metrics.
+// ---
+
 #include "chrome/browser/ash/printing/cups_printers_manager.h"
 
 #include <algorithm>

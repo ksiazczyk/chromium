@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test print job database implementation
+// summary: Implements an in-memory fake print job database for tests, supporting initialize, save, delete, clear and get operations.
+// ---
+
 #include "chrome/browser/ash/printing/history/test_print_job_database.h"
 
 #include "base/functional/callback.h"

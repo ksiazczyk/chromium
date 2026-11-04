@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remote apps manager browser tests
+// summary: Browser tests verifying remote apps manager behavior across the launcher, shelf, pinning and sync flows.
+// ---
+
 #include "chrome/browser/ash/remote_apps/remote_apps_manager.h"
 
 #include "ash/app_list/app_list_model_provider.h"

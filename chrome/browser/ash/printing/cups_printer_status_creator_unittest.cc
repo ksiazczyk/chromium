@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CUPS printer status creator unit tests
+// summary: Tests conversion of printer reasons and severities into CupsPrinterStatus reasons and severities, plus status creation with authentication info.
+// ---
+
 #include "chrome/browser/ash/printing/cups_printer_status_creator.h"
 
 #include <vector>

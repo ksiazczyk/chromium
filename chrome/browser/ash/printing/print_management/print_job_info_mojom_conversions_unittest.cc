@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for print job info mojom conversions
+// summary: Unit tests verifying that print job protos and CupsPrintJob objects convert to Mojo PrintJobInfo structs with the expected field values.
+// ---
+
 #include "chrome/browser/ash/printing/print_management/print_job_info_mojom_conversions.h"
 
 #include <memory>

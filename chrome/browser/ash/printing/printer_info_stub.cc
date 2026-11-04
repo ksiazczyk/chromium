@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub printer info query implementation
+// summary: Provides a stub QueryIppPrinter that returns fake printer data for builds without CUPS support.
+// ---
+
 #include "chrome/browser/ash/printing/printer_info.h"
 
 #include "base/check.h"

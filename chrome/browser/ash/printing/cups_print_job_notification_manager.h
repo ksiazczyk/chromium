@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CUPS print job notification manager header
+// summary: Declares CupsPrintJobNotificationManager, which observes print job lifecycle events and maintains a notification for each active print job.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_CUPS_PRINT_JOB_NOTIFICATION_MANAGER_H_
 #define CHROME_BROWSER_ASH_PRINTING_CUPS_PRINT_JOB_NOTIFICATION_MANAGER_H_
 

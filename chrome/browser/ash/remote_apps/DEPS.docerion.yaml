@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for remote apps directory
+summary: Sets Chromium include dependency rules restricting and allowing //chrome headers for the remote apps directory.

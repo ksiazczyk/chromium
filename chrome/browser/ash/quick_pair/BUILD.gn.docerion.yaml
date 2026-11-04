@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the quick_pair library
+summary: Defines the quick_pair static library with its sources and build dependencies for ChromeOS.

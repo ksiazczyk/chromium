@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the OAuth2 printing sign-in dialog
+// summary: Implements a modal web view dialog that loads the authorization URL and closes with the redirect URL when the OAuth2 flow finishes.
+// ---
+
 #include "chrome/browser/ash/printing/oauth2/signin_dialog.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrintersMap implementation
+// summary: Implements a printer store keyed by printer class with lookups, secure printer queries and status caching.
+// ---
+
 #include "chrome/browser/ash/printing/printers_map.h"
 
 #include "base/containers/extend.h"

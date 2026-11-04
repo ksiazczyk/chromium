@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print job info mojom conversion declarations
+// summary: Declares functions that convert a PrintJobInfo proto and a CupsPrintJob into Mojo PrintJobInfo structs.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_PRINT_MANAGEMENT_PRINT_JOB_INFO_MOJOM_CONVERSIONS_H_
 #define CHROME_BROWSER_ASH_PRINTING_PRINT_MANAGEMENT_PRINT_JOB_INFO_MOJOM_CONVERSIONS_H_
 

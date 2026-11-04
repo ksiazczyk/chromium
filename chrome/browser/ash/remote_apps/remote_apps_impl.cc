@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote apps Mojo implementation
+// summary: Implements the RemoteApps Mojo interface, forwarding calls to RemoteAppsManager and dispatching app launch events to observers.
+// ---
+
 #include "chrome/browser/ash/remote_apps/remote_apps_impl.h"
 
 #include <algorithm>

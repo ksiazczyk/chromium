@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Authorization server data class
+// summary: Declares AuthorizationServerData, which initializes communication with an authorization server and exposes its endpoints and client ID.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_OAUTH2_AUTHORIZATION_SERVER_DATA_H_
 #define CHROME_BROWSER_ASH_PRINTING_OAUTH2_AUTHORIZATION_SERVER_DATA_H_
 

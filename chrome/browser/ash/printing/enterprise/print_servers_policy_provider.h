@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Print servers policy provider header
+// summary: Declares PrintServersPolicyProvider, which observes device and user print server policy providers and propagates the calculated list of available print servers to a callback.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_ENTERPRISE_PRINT_SERVERS_POLICY_PROVIDER_H_
 #define CHROME_BROWSER_ASH_PRINTING_ENTERPRISE_PRINT_SERVERS_POLICY_PROVIDER_H_
 

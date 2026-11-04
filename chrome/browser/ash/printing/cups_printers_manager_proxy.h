@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CupsPrintersManagerProxy interface
+// summary: Declares an interface for observing printers of the primary user profile, with methods to attach or detach the active manager and manage observers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_CUPS_PRINTERS_MANAGER_PROXY_H_
 #define CHROME_BROWSER_ASH_PRINTING_CUPS_PRINTERS_MANAGER_PROXY_H_
 

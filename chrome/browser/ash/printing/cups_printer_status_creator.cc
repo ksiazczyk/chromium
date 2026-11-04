@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CUPS printer status creator implementation
+// summary: Converts printing::PrinterStatus reasons and severities into CupsPrinterStatus status reasons and attaches authentication info.
+// ---
+
 #include "chrome/browser/ash/printing/cups_printer_status_creator.h"
 
 #include "chrome/browser/ash/printing/printer_info.h"

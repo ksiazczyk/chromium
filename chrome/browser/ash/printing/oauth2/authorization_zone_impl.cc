@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthorizationZone implementation
+// summary: Implements the AuthorizationZone interface, building authorization requests with PKCE code challenges and handling token requests for OAuth2 sessions.
+// ---
+
 #include "chrome/browser/ash/printing/oauth2/authorization_zone_impl.h"
 
 #include <algorithm>

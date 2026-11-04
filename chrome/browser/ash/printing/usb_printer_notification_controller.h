@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: USB printer notification controller interface
+// summary: Declares the interface for showing and removing USB printer notifications for ephemeral, saved and configuration-required printers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_USB_PRINTER_NOTIFICATION_CONTROLLER_H_
 #define CHROME_BROWSER_ASH_PRINTING_USB_PRINTER_NOTIFICATION_CONTROLLER_H_
 

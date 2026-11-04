@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for HttpExchange
+// summary: Unit tests exercising HttpExchange against simulated responses covering connection errors, server errors, temporary unavailability, and invalid responses.
+// ---
+
 #include "chrome/browser/ash/printing/oauth2/http_exchange.h"
 
 #include <string>

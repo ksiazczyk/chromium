@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for launching printer settings
+// summary: System web app browser test verifying that LaunchPrinterSettings opens OS Settings on the CUPS printers page.
+// ---
+
 #include "chrome/browser/ash/printing/print_management/print_management_delegate_impl.h"
 
 #include <memory>

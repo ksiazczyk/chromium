@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CupsPrintJobManager interface and observer API
+// summary: Declares the CupsPrintJobManager keyed service that tracks CUPS print jobs and notifies observers of job lifecycle events such as creation, suspension, errors and completion.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_CUPS_PRINT_JOB_MANAGER_H_
 #define CHROME_BROWSER_ASH_PRINTING_CUPS_PRINT_JOB_MANAGER_H_
 

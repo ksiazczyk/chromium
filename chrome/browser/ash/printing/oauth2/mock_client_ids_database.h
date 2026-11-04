@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock client IDs database for tests
+// summary: Declares a gmock implementation of ClientIdsDatabase that stubs FetchId and StoreId for OAuth2 printing tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_OAUTH2_MOCK_CLIENT_IDS_DATABASE_H_
 #define CHROME_BROWSER_ASH_PRINTING_OAUTH2_MOCK_CLIENT_IDS_DATABASE_H_
 

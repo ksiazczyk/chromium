@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print servers provider unit tests
+// summary: Unit tests covering parsing of print server policy JSON, allowlist handling, observer notification behavior, ClearData semantics, and safe destruction while parsing is in progress.
+// ---
+
 #include "chrome/browser/ash/printing/enterprise/print_servers_provider.h"
 
 #include <string>

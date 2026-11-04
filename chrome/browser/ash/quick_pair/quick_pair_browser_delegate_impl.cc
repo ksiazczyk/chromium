@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Pair browser delegate implementation
+// summary: Implements QuickPairBrowserDelegate, supplying browser dependencies such as active profiles, URL loaders, image fetching, and companion app launching for Quick Pair.
+// ---
+
 #include "chrome/browser/ash/quick_pair/quick_pair_browser_delegate_impl.h"
 
 #include "ash/constants/ash_features.h"

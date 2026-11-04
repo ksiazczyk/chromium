@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrinterDetector interface
+// summary: Declares the PrinterDetector interface for incremental automatic discovery of printers with callbacks when new printers are found.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_PRINTER_DETECTOR_H_
 #define CHROME_BROWSER_ASH_PRINTING_PRINTER_DETECTOR_H_
 

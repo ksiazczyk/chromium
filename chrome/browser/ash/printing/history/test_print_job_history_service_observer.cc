@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test print job history service observer implementation
+// summary: Implements a test observer that counts finished print jobs and runs a quit closure each time the print job history service reports a finished job.
+// ---
+
 #include "chrome/browser/ash/printing/history/test_print_job_history_service_observer.h"
 
 namespace ash {

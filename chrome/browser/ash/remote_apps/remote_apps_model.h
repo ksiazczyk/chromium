@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RemoteAppsModel header
+// summary: Declares RemoteAppsModel with AppInfo and FolderInfo structs and methods to add, query, and delete remote apps and folders.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_REMOTE_APPS_REMOTE_APPS_MODEL_H_
 #define CHROME_BROWSER_ASH_REMOTE_APPS_REMOTE_APPS_MODEL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReportControllerInitializer class header
+// summary: Declares the ReportControllerInitializer class, its state and UMA-mapping enums, and the precondition checks performed before initializing ReportController.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_REPORT_CONTROLLER_INITIALIZER_REPORT_CONTROLLER_INITIALIZER_H_
 #define CHROME_BROWSER_ASH_REPORT_CONTROLLER_INITIALIZER_REPORT_CONTROLLER_INITIALIZER_H_
 

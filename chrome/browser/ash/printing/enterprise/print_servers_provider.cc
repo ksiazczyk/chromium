@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print servers provider implementation
+// summary: Parses the external print servers policy JSON off the UI thread, validates entries and URL schemes, applies the allowlist preference, and notifies observers of the resulting print server list.
+// ---
+
 #include "chrome/browser/ash/printing/enterprise/print_servers_provider.h"
 
 #include <memory>

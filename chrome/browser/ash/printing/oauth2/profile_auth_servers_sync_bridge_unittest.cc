@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the authorization servers sync bridge
+// summary: Tests initialization, initial merge and incremental sync changes of the trusted Authorization Servers sync bridge using mock store and processor.
+// ---
+
 #include "chrome/browser/ash/printing/oauth2/profile_auth_servers_sync_bridge.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ID generator interface
+// summary: Declares the IdGenerator interface plus GUID and fake implementations used to generate remote app IDs.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_REMOTE_APPS_ID_GENERATOR_H_
 #define CHROME_BROWSER_ASH_REMOTE_APPS_ID_GENERATOR_H_
 

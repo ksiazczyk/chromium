@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Zeroconf printer detector fuzzer
+// summary: Fuzz target that drives the zeroconf printer detector with randomized device lister delegate calls to uncover crashes.
+// ---
+
 #include <fuzzer/FuzzedDataProvider.h>
 
 #include <cstddef>

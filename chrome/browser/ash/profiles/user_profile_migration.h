@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User profile migration helpers header
+// summary: Declares the user profile migration helpers and the NonUserRepresentativeProfileReason enum describing why a profile is not tied to a user.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PROFILES_USER_PROFILE_MIGRATION_H_
 #define CHROME_BROWSER_ASH_PROFILES_USER_PROFILE_MIGRATION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CUPS printers manager implementation
+// summary: Implements the top-level ChromeOS CUPS printers manager, aggregating USB, zeroconf, enterprise and synced printers and polling printer status.
+// ---
+
 #include "chrome/browser/ash/printing/cups_printers_manager.h"
 
 #include <algorithm>

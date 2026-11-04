@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive UI test for print management printer settings
+// summary: Interactive Ash UI test exercising the Print Management app and printer settings navigation using a fake print job history service.
+// ---
+
 #include <string>
 #include <utility>
 

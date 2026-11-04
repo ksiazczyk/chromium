@@ -1,3 +1,13 @@
+---
+type: readme
+title: OAuth 2 for IPP Printers
+summary: Explains the OAuth 2 client for IPP printers, listing the public API, internal classes and the PrinterAuthenticator helper with a sequence diagram.
+relations:
+  - references /chrome/browser/ash/printing/oauth2/sequence_diagram.png
+  - documents /chrome/browser/ash/printing/oauth2/authorization_zones_manager.h
+  - documents /chrome/browser/ash/printing/oauth2/status_code.h
+---
+
 # OAuth 2 for IPP Printers
 
 Some printers may require an access token to allow a user to use them.

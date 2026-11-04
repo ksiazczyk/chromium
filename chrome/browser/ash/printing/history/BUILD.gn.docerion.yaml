@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Print job history GN build targets
+summary: Defines the GN targets for the print job history library, its proto, unit tests, and test support sources.

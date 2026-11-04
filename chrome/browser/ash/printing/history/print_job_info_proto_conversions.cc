@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print job info proto conversions implementation
+// summary: Implements conversion functions that map print settings, CUPS print jobs, printers and printer error codes to their proto representations for print job history storage.
+// ---
+
 #include "chrome/browser/ash/printing/history/print_job_info_proto_conversions.h"
 
 #include <optional>

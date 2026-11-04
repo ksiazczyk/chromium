@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printer setup utility implementation
+// summary: Implements printer setup from Print Preview, logging setup result metrics and fetching printer capabilities.
+// ---
+
 #include "chrome/browser/ash/printing/printer_setup_util.h"
 
 #include <memory>

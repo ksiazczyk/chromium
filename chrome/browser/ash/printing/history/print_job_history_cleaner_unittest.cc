@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrintJobHistoryCleaner unit tests
+// summary: Unit tests verifying that PrintJobHistoryCleaner deletes print jobs whose completion time exceeds the configured expiration period.
+// ---
+
 #include "chrome/browser/ash/printing/history/print_job_history_cleaner.h"
 
 #include "ash/constants/ash_pref_names.h"

@@ -1,6 +1,13 @@
 // Copyright 2017 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: CUPS printers manager header
+// summary: Declares CupsPrintersManager, the top-level manager of available CUPS printers, with observer interfaces and factory functions.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_CUPS_PRINTERS_MANAGER_H_
 #define CHROME_BROWSER_ASH_PRINTING_CUPS_PRINTERS_MANAGER_H_
 

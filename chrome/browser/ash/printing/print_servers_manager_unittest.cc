@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print servers manager unit tests
+// summary: Unit tests for PrintServersManager that use fake server and policy providers to verify print server selection and observer behavior.
+// ---
+
 #include "chrome/browser/ash/printing/print_servers_manager.h"
 
 #include <map>

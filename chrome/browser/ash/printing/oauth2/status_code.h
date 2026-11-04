@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth2 status codes and status callback
+// summary: Defines the StatusCode enum covering OAuth2 success and error conditions plus the StatusCallback type used throughout the printing OAuth2 code.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_OAUTH2_STATUS_CODE_H_
 #define CHROME_BROWSER_ASH_PRINTING_OAUTH2_STATUS_CODE_H_
 

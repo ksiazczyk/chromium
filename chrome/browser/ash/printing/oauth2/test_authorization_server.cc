@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake OAuth2 authorization server implementation
+// summary: Implements FakeAuthorizationServer and helpers that simulate an OAuth2 authorization server in unit tests, including metadata building and URL parameter parsing.
+// ---
+
 #include "chrome/browser/ash/printing/oauth2/test_authorization_server.h"
 
 #include <list>

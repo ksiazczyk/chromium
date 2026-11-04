@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OAuth2 printing constants
+// summary: Defines constants for the printing OAuth2 implementation, including the internal redirect URI, the ChromeOS client registration name, and the maximum number of parallel sessions.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_OAUTH2_CONSTANTS_H_
 #define CHROME_BROWSER_ASH_PRINTING_OAUTH2_CONSTANTS_H_
 

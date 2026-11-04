@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserContextHelperDelegateImpl header
+// summary: Declares the BrowserContextHelperDelegateImpl class that injects chrome/browser dependencies into the BrowserContextHelper delegate interface.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PROFILES_BROWSER_CONTEXT_HELPER_DELEGATE_IMPL_H_
 #define CHROME_BROWSER_ASH_PROFILES_BROWSER_CONTEXT_HELPER_DELEGATE_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bulk printers calculator implementation
+// summary: Implements calculation of the available printer list from policies, parsing the JSON printer data off the UI thread.
+// ---
+
 #include "chrome/browser/ash/printing/enterprise/bulk_printers_calculator.h"
 
 #include <optional>

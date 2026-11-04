@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CUPS print job notification manager unit tests
+// summary: Tests that CupsPrintJobNotificationManager creates a message center notification for a new print job and removes it when the notification is dismissed.
+// ---
+
 #include "chrome/browser/ash/printing/cups_print_job_notification_manager.h"
 
 #include "ash/public/cpp/notification_utils.h"

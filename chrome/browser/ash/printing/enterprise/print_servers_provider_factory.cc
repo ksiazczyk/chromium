@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print servers provider factory implementation
+// summary: Implements a singleton factory that creates and dispenses PrintServersProvider instances per account ID, per profile, and for the device, with removal and test shutdown support.
+// ---
+
 #include "chrome/browser/ash/printing/enterprise/print_servers_provider_factory.h"
 
 #include "base/no_destructor.h"

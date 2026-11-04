@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrintingManagerFactory implementation
+// summary: Implements the profile-keyed factory that builds PrintingManager instances, registers the delete-print-job-history pref and wires the print management WebUI controller.
+// ---
+
 #include "chrome/browser/ash/printing/print_management/printing_manager_factory.h"
 
 #include <memory>

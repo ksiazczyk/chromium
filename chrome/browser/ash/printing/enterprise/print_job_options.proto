@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print job options proto schema
+// summary: Defines protobuf messages describing default and allowed print settings for a managed printer, such as media size, duplex mode, color, DPI, quality and layout.
+// ---
+
 syntax = "proto3";
 option optimize_for = LITE_RUNTIME;
 

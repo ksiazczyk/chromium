@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeCupsPrintersManager implementation
+// summary: Implements a fake CupsPrintersManager letting tests add printers of any class, control setup results and status, and trigger local printer observers.
+// ---
+
 #include "chrome/browser/ash/printing/fake_cups_printers_manager.h"
 
 #include <string>

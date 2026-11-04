@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Print servers policy provider unit tests
+// summary: Unit tests using a fake provider to verify that user and device print server lists are combined correctly, including a regression test for setting the listener after servers are ready.
+// ---
+
 #include "chrome/browser/ash/printing/enterprise/print_servers_policy_provider.h"
 
 #include <map>

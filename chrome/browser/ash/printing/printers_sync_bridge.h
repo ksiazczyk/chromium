@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printers sync bridge header
+// summary: Declares PrintersSyncBridge, which integrates printer storage with the User Sync Service and notifies observers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_PRINTERS_SYNC_BRIDGE_H_
 #define CHROME_BROWSER_ASH_PRINTING_PRINTERS_SYNC_BRIDGE_H_
 

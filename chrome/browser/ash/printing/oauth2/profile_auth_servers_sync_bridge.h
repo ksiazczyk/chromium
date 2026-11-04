@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trusted authorization servers sync bridge declaration
+// summary: Declares the sync bridge that keeps the list of trusted Authorization Servers synchronized between the user's profile and this client, with an observer interface.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_OAUTH2_PROFILE_AUTH_SERVERS_SYNC_BRIDGE_H_
 #define CHROME_BROWSER_ASH_PRINTING_OAUTH2_PROFILE_AUTH_SERVERS_SYNC_BRIDGE_H_
 

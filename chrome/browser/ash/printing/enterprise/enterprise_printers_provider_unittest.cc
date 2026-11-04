@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EnterprisePrintersProvider unit tests
+// summary: Unit tests verifying that the provider merges device and user printer policies, including bulk configuration and recommended printers, and reports results to observers.
+// ---
+
 #include "chrome/browser/ash/printing/enterprise/enterprise_printers_provider.h"
 
 #include <algorithm>

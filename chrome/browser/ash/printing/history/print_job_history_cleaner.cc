@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print job history expiration cleaner
+// summary: Deletes print job records older than the expiration period policy once the preference service and database are ready.
+// ---
+
 #include "chrome/browser/ash/printing/history/print_job_history_cleaner.h"
 
 #include "ash/constants/ash_pref_names.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Automatic USB printer configurer implementation
+// summary: Implements automatic installation and uninstallation of connected USB printers, including IPP-USB autoconfiguration and PPD resolution.
+// ---
+
 #include "chrome/browser/ash/printing/automatic_usb_printer_configurer.h"
 
 #include <string>

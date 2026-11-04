@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printers sync bridge implementation
+// summary: Implements the sync bridge that persists synced printers in a DataTypeStore and handles conflict resolution.
+// ---
+
 #include "chrome/browser/ash/printing/printers_sync_bridge.h"
 
 #include <set>

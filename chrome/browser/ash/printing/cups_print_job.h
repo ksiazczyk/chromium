@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CUPS print job class declaration
+// summary: Declares the CupsPrintJob class that models a CUPS print job with states, error codes and job metadata.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_CUPS_PRINT_JOB_H_
 #define CHROME_BROWSER_ASH_PRINTING_CUPS_PRINT_JOB_H_
 

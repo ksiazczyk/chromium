@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the trusted authorization servers sync bridge
+// summary: Implements the DataTypeSyncBridge that stores and syncs the list of trusted OAuth2 printing authorization servers in the user's profile.
+// ---
+
 #include "chrome/browser/ash/printing/oauth2/profile_auth_servers_sync_bridge.h"
 
 #include <memory>

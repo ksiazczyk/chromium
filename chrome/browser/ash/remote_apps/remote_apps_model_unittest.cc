@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RemoteAppsModel unit tests
+// summary: Unit tests verifying app and folder add, lookup, and deletion behavior in RemoteAppsModel using a fake ID generator.
+// ---
+
 #include "chrome/browser/ash/remote_apps/remote_apps_model.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

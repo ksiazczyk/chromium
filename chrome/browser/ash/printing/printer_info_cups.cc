@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CUPS printer info query implementation
+// summary: Implements IPP printer queries through the printing backend, parsing make-and-model, document formats, and autoconf capability for the callback.
+// ---
+
 #include <algorithm>
 #include <array>
 #include <string>

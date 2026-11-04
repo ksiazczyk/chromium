@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Pair support check implementation
+// summary: Implements IsFastPairSupported, checking Bluetooth adapter hardware support together with configured Google API keys.
+// ---
+
 #include "chrome/browser/ash/quick_pair/fast_pair_support_utils.h"
 
 #include "ash/constants/ash_features.h"

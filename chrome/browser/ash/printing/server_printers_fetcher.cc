@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Server printers fetcher implementation
+// summary: Implements querying a print server for available printers over IPP and parsing the response via a URL loader.
+// ---
+
 #include "chrome/browser/ash/printing/server_printers_fetcher.h"
 
 #include <string>

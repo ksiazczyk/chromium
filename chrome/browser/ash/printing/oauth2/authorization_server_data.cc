@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Authorization server data implementation
+// summary: Implements metadata retrieval and dynamic client registration against an OAuth 2 authorization server for printing.
+// ---
+
 #include "chrome/browser/ash/printing/oauth2/authorization_server_data.h"
 
 #include <memory>

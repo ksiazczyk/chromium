@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the ChromeOS sanitize library
+summary: GN build file defining the sanitize static library and its unit test target, listing the delegate sources and their dependencies.

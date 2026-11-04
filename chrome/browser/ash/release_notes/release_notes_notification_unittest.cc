@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the release notes notification
+// summary: Parameterized tests verifying when the release notes notification is shown based on feature flags and profile eligibility.
+// ---
+
 #include "chrome/browser/ash/release_notes/release_notes_notification.h"
 
 #include "ash/constants/ash_features.h"

@@ -1,6 +1,13 @@
 // Copyright 2019 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Printer installation manager interface
+// summary: Defines an interface for tracking printer installation in CUPS, including setup, uninstall, and installed-state checks.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_PRINTER_INSTALLATION_MANAGER_H_
 #define CHROME_BROWSER_ASH_PRINTING_PRINTER_INSTALLATION_MANAGER_H_
 

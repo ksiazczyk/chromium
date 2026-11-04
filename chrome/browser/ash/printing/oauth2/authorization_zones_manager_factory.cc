@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthorizationZonesManager factory implementation
+// summary: ProfileKeyedServiceFactory that builds AuthorizationZonesManager instances per browser context using local state and the sync data type store service.
+// ---
+
 #include "chrome/browser/ash/printing/oauth2/authorization_zones_manager_factory.h"
 
 #include "base/no_destructor.h"

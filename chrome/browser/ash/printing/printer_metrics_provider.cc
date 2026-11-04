@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printer metrics provider implementation
+// summary: Implements the UMA metrics provider that enables printer event logging and flushes stored events into the session metrics proto.
+// ---
+
 #include "chrome/browser/ash/printing/printer_metrics_provider.h"
 
 #include "chrome/browser/ash/printing/printer_event_tracker.h"

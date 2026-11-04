@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrinterEventTracker unit tests
+// summary: Unit tests verifying that the printer event tracker records events when enabled, stays off by default, and flushes stored printer events.
+// ---
+
 #include "chrome/browser/ash/printing/printer_event_tracker.h"
 
 #include "base/time/time.h"

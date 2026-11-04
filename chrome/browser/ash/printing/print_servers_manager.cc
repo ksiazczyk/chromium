@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print servers manager implementation
+// summary: Implements the ChromeOS manager for IPP print servers, tracking policy-provided servers and notifying observers when server printers change.
+// ---
+
 #include "chrome/browser/ash/printing/print_servers_manager.h"
 
 #include <map>

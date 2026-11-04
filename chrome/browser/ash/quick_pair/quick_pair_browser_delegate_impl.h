@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Pair browser delegate header
+// summary: Declares the QuickPairBrowserDelegate implementation that handles all browser dependency requests for the Quick Pair system.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_QUICK_PAIR_QUICK_PAIR_BROWSER_DELEGATE_IMPL_H_
 #define CHROME_BROWSER_ASH_QUICK_PAIR_QUICK_PAIR_BROWSER_DELEGATE_IMPL_H_
 

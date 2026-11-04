@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PrinterMetricsProvider header
+// summary: Declares a metrics provider that toggles printer event logging and supplies printer events with the current session metrics data.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_PRINTER_METRICS_PROVIDER_H_
 #define CHROME_BROWSER_ASH_PRINTING_PRINTER_METRICS_PROVIDER_H_
 

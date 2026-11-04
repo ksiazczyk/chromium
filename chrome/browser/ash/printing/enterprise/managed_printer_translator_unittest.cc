@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Managed printer translator unit tests
+// summary: Unit tests covering conversion of printer configuration dictionaries to protos and Printer objects, including PPD resources, USB IDs and invalid inputs.
+// ---
+
 #include "chrome/browser/ash/printing/enterprise/managed_printer_translator.h"
 
 #include <optional>

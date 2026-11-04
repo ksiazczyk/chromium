@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EnterprisePrintersProvider interface header
+// summary: Declares the EnterprisePrintersProvider interface, which tracks device and user printer policies, computes the available enterprise printers and notifies observers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_ENTERPRISE_ENTERPRISE_PRINTERS_PROVIDER_H_
 #define CHROME_BROWSER_ASH_PRINTING_ENTERPRISE_ENTERPRISE_PRINTERS_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PPD resolution tracker header
+// summary: Declares PpdResolutionTracker for tracking per-printer PPD resolution progress, success, failure, and USB manufacturer.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_PPD_RESOLUTION_TRACKER_H_
 #define CHROME_BROWSER_ASH_PRINTING_PPD_RESOLUTION_TRACKER_H_
 

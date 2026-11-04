@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileHelper implementation
+// summary: Implements ProfileHelper, mapping ChromeOS users to browser profiles and providing signin, lock screen, and user profile path lookups.
+// ---
+
 #include "chrome/browser/ash/profiles/profile_helper.h"
 
 #include <algorithm>

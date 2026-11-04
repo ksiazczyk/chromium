@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed printer translator header
+// summary: Declares functions that parse a managed printer configuration dictionary into a proto message and convert it into a valid chromeos Printer object.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_ENTERPRISE_MANAGED_PRINTER_TRANSLATOR_H_
 #define CHROME_BROWSER_ASH_PRINTING_ENTERPRISE_MANAGED_PRINTER_TRANSLATOR_H_
 

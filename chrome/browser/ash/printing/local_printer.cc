@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalPrinter global instance implementation
+// summary: Implements the global LocalPrinter instance registry with Get and IsSet accessors guarded by checks.
+// ---
+
 #include "chrome/browser/ash/printing/local_printer.h"
 
 #include "base/check_is_test.h"

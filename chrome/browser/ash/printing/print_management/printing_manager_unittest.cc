@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PrintingManager unit tests
+// summary: Unit tests covering PrintingManager print job state tracking, history deletion handling and policy-gated print job history removal using fake services and test profiles.
+// ---
+
 #include "chrome/browser/ash/printing/print_management/printing_manager.h"
 
 #include "ash/constants/ash_pref_names.h"

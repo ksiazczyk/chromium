@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CUPS print job notification unit tests
+// summary: Parametrized tests verifying print job notifications for print preview and isolated web app sources, including app name resolution and notification content.
+// ---
+
 #include "chrome/browser/ash/printing/cups_print_job_notification.h"
 
 #include "ash/public/cpp/notification_utils.h"

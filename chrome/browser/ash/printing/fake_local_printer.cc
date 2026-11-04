@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeLocalPrinter implementation
+// summary: Fake LocalPrinter implementation that returns configurable printers, capabilities, statuses, EULA URLs and OAuth tokens while counting calls for tests.
+// ---
+
 #include "chrome/browser/ash/printing/fake_local_printer.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AuthorizationZoneImpl class header
+// summary: Declares AuthorizationZoneImpl, the concrete implementation of the AuthorizationZone interface that manages pending authorizations and endpoint token requests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_OAUTH2_AUTHORIZATION_ZONE_IMPL_H_
 #define CHROME_BROWSER_ASH_PRINTING_OAUTH2_AUTHORIZATION_ZONE_IMPL_H_
 

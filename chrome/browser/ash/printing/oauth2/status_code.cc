@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Status code to string conversion
+// summary: Implements ToStringPiece, mapping each OAuth2 StatusCode enum value to a short string suitable for device logs.
+// ---
+
 #include "chrome/browser/ash/printing/oauth2/status_code.h"
 
 #include <string_view>

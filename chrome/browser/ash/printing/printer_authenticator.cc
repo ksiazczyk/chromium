@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Printer authenticator implementation
+// summary: Implements the OAuth2 authentication flow for printers, obtaining access tokens and showing trusted-server and sign-in dialogs when needed.
+// ---
+
 #include "chrome/browser/ash/printing/printer_authenticator.h"
 
 #include <memory>

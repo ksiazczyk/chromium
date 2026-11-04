@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Print management DEPS include rules
+summary: Bans //chrome includes for ChromeOS code and grants narrow exceptions for tests and the keyed-service factory's history dependency.

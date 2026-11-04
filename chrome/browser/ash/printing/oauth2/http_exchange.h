@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HttpExchange class declaration
+// summary: Declares HttpExchange, a helper that builds and sends OAuth2 HTTP requests and parses single-JSON-object responses, mapping outcomes to StatusCode values.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_PRINTING_OAUTH2_HTTP_EXCHANGE_H_
 #define CHROME_BROWSER_ASH_PRINTING_OAUTH2_HTTP_EXCHANGE_H_
 

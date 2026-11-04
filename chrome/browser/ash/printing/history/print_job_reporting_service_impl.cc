@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print job reporting service implementation
+// summary: Implements print job reporting that enqueues print job events for policy-installed printers when the ReportDevicePrintJobs device setting is enabled.
+// ---
+
 #include <memory>
 #include <utility>
 

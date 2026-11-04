@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print job state conversion utilities
+// summary: Implements helpers that map CUPS job and printer states to CupsPrintJob states, update page counts and describe job status for logging.
+// ---
+
 #include "chrome/browser/ash/printing/cups_print_job_manager_utils.h"
 
 #include <algorithm>

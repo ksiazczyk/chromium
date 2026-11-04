@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CupsPrintersManagerProxy implementation
+// summary: Implements the proxy that forwards printer change events from the active CupsPrintersManager to observers that have no profile access.
+// ---
+
 #include "chrome/browser/ash/printing/cups_printers_manager_proxy.h"
 
 #include <memory>
