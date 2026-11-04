@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PerfettoPlatform class declaration
+// summary: Declares the PerfettoPlatform class implementing perfetto::Platform with options for producer name, deferred tasks, and real process ID.
+// ---
+
 #ifndef BASE_TRACING_PERFETTO_PLATFORM_H_
 #define BASE_TRACING_PERFETTO_PLATFORM_H_
 

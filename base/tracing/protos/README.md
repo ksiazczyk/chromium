@@ -1,3 +1,9 @@
+---
+type: readme
+title: Perfetto typed events for Chrome
+summary: Explains that this folder will contain Chrome's TrackEvent protobuf extensions to be autorolled into Perfetto, and links to documentation on adding new typed trace events.
+---
+
 # Perfetto typed events for Chrome
 
 **NOTE**: This is a work-in-progress.

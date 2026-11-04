@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for Android version info
+summary: Defines Android Java library targets that generate version constants and the channel enum, including JNI generation for the version constants bridge.

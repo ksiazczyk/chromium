@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal traits for base::expected
+// summary: Provides internal type traits and conversion checks that support the implementation of base::expected.
+// ---
+
 #ifndef BASE_TYPES_EXPECTED_INTERNAL_H_
 #define BASE_TYPES_EXPECTED_INTERNAL_H_
 

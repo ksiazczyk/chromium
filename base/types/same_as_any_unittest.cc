@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the SameAsAny concept
+// summary: Verifies the SameAsAny concept with static_assert cases covering empty type lists, duplicates, pointers, and constness.
+// ---
+
 #include "base/types/same_as_any.h"
 
 namespace base {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for to_address
+// summary: Static-assert tests verifying to_address handles raw pointers, iterators, and smart pointers while rejecting non-pointer types in a SFINAE-compatible way.
+// ---
+
 #include "base/types/to_address.h"
 
 #include <array>

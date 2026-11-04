@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for expected macros
+// summary: Tests RETURN_IF_ERROR and ASSIGN_OR_RETURN behavior with expected, optional, move-only types, lambdas, and error-handling adaptors.
+// ---
+
 #include "base/types/expected_macros.h"
 
 #include <memory>

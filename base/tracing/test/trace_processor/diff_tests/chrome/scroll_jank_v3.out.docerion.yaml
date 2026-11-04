@@ -1,0 +1,4 @@
+# Docerion header of scroll_jank_v3.out.
+type: test
+title: Scroll jank v3 expected diff test output
+summary: Expected CSV output for the scroll jank v3 diff test with jank causes, sub-causes, delays since last frame and vsync intervals.

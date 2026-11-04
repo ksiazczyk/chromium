@@ -1,0 +1,4 @@
+# Docerion header of use_unofficial_version_number.gni.
+type: config
+title: Build argument for unofficial version numbers
+summary: Declares the use_unofficial_version_number GN argument, defaulting to true for non-Chrome-branded builds.

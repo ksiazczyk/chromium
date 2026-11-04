@@ -2,6 +2,12 @@
 -- Use of this source code is governed by a BSD-style license that can be
 -- found in the LICENSE file.
 
+-- ---docerion
+-- type: source
+-- title: Scroll jank V4 metric
+-- summary: Defines tables and macros for the Chrome Scroll Jank V4 metric, associating sub-slices with ScrollJankV4 slices across Chrome versions.
+-- ---
+
 -- Finds the timestamps and durations of sub-slices of 'ScrollJankV4' main
 -- slices with the given `sub_slice_names`.
 --

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome TrackEvent protobuf extension definitions
+// summary: Large protobuf file defining Chrome-specific messages and enums, such as memory pressure, task annotator, and frame deletion, that extend Perfetto TrackEvent tracing.
+// ---
+
 syntax = "proto2";
 
 import public "protos/perfetto/trace/track_event/track_event.proto";

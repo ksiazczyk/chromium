@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Chrome stdlib SQL source set build definition
+summary: GN build file that defines the chrome_sql perfetto_sql_source_set from the SQL file list in perfetto_sql_files.gni for Chromium and Perfetto targets.

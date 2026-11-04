@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RETURN_IF_ERROR and ASSIGN_OR_RETURN macros
+// summary: Defines macros that propagate errors from expected or optional expressions, optionally invoking a handler to transform or report the error.
+// ---
+
 #ifndef BASE_TYPES_EXPECTED_MACROS_H_
 #define BASE_TYPES_EXPECTED_MACROS_H_
 

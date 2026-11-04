@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Version info implementation
+// summary: Implements version number, major version, and parsed base::Version accessors, using APK info on Android.
+// ---
+
 #include "base/version_info/version_info.h"
 
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of chrome_input_with_frame_view_new.pftrace.sha256.
+type: test
+title: SHA256 checksum for chrome_input_with_frame_view_new.pftrace
+summary: Contains the SHA256 digest used to verify the chrome_input_with_frame_view_new.pftrace trace in the tracing test data set.

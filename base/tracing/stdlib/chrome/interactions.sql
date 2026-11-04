@@ -6,6 +6,12 @@
 -- is expected to be in flux as metrics are added across different CUI types.
 -- Currently we only track Chrome page loads and their associated metrics.
 
+-- ---docerion
+-- type: source
+-- title: Chrome critical user interactions metrics
+-- summary: Defines the chrome_interactions Perfetto table that unifies page load, startup and web content interaction events with type, name, timestamp and duration.
+-- ---
+
 INCLUDE PERFETTO MODULE chrome.page_loads;
 
 INCLUDE PERFETTO MODULE chrome.startups;

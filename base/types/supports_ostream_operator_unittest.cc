@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SupportsOstreamOperator
+// summary: Static-assert based tests checking operator<< support for basic types, enums, and structs with and without stream operators.
+// ---
+
 #include "base/types/supports_ostream_operator.h"
 
 #include <stdint.h>

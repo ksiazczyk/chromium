@@ -31,6 +31,12 @@
 -- various stages of input processing, and are unified by a single
 -- scroll_update_id value, recorded as scroll_deltas.trace_id in each event.
 
+-- ---docerion
+-- type: source
+-- title: Scroll offset tables
+-- summary: Perfetto SQL module creating chrome_scroll_input_offsets and chrome_presented_scroll_offsets, computing pixel deltas and cumulative offsets for scroll inputs and presented frames.
+-- ---
+
 INCLUDE PERFETTO MODULE chrome.event_latency;
 
 -- The raw input deltas for all input events which were part of a scroll.

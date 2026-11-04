@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Channel enum for installation channels
+// summary: Defines the Channel enum from canary to stable plus a constexpr helper returning the channel's string name.
+// ---
+
 #ifndef BASE_VERSION_INFO_CHANNEL_H_
 #define BASE_VERSION_INFO_CHANNEL_H_
 

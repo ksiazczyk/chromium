@@ -1,0 +1,4 @@
+# Docerion header of tests_chrome_interactions.py.
+type: test
+title: Chrome interactions diff tests
+summary: Defines the ChromeInteractions diff test suite verifying page load metrics such as first and largest contentful paint navigations.

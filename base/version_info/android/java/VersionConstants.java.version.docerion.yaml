@@ -1,0 +1,4 @@
+# Docerion header of VersionConstants.java.version.
+type: source
+title: Android VersionConstants Java template
+summary: Template for the VersionConstants Java class whose @-placeholders are replaced at build time with the official build flag, version numbers and channel shared by Android Chrome and WebView.

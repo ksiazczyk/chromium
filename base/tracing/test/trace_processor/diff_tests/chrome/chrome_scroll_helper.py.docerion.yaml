@@ -1,0 +1,4 @@
+# Docerion header of chrome_scroll_helper.py.
+type: test
+title: Chrome scroll helper for synthetic traces
+summary: Provides the ChromeScrollHelper class that adds gesture scroll begin, update and end latency events to synthetic traces used by scroll diff tests.

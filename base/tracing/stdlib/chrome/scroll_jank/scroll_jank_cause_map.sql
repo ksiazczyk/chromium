@@ -2,6 +2,12 @@
 -- Use of this source code is governed by a BSD-style license that can be
 -- found in the LICENSE file.
 
+-- ---docerion
+-- type: source
+-- title: Scroll jank cause description map
+-- summary: Perfetto SQL table mapping EventLatency stages to the processes, threads and descriptions of likely scroll jank causes, serving as the source of truth for cause descriptions.
+-- ---
+
 INCLUDE PERFETTO MODULE chrome.event_latency_description;
 
 -- Source of truth of the descriptions of EventLatency-based scroll jank causes.

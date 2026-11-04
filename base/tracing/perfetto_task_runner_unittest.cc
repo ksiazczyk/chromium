@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PerfettoTaskRunner unit tests
+// summary: Unit tests for PerfettoTaskRunner that verify sequential task posting across threads and related task runner behavior.
+// ---
+
 #include "base/tracing/perfetto_task_runner.h"
 
 #include <memory>

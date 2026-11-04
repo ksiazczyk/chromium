@@ -2,6 +2,12 @@
 -- Use of this source code is governed by a BSD-style license that can be
 -- found in the LICENSE file.
 
+-- ---docerion
+-- type: source
+-- title: VSync intervals table and average interval function
+-- summary: Perfetto SQL module providing a chrome_vsync_intervals table and a function to compute the average VSync interval over a time segment.
+-- ---
+
 -- A simple table that checks the time between VSync (this can be used to
 -- determine if we're refreshing at 90 FPS or 60 FPS).
 --

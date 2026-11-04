@@ -1,0 +1,4 @@
+# Docerion header of loadline2_phone_perfetto_trace.pb.gz.sha256.
+type: test
+title: SHA256 checksum for loadline2_phone_perfetto_trace.pb.gz
+summary: Contains the SHA256 digest used to verify the loadline2_phone_perfetto_trace.pb.gz trace in the tracing test data set.

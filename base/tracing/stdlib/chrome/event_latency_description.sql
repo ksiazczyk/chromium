@@ -2,6 +2,12 @@
 -- Use of this source code is governed by a BSD-style license that can be
 -- found in the LICENSE file.
 
+-- ---docerion
+-- type: source
+-- title: Event latency stage descriptions
+-- summary: Defines a table mapping EventLatency stage names to human-readable descriptions of what each stage of the input-to-presentation pipeline measures.
+-- ---
+
 -- Source of truth of the descriptions of EventLatency stages.
 CREATE PERFETTO TABLE chrome_event_latency_stage_descriptions (
   -- The name of the EventLatency stage.

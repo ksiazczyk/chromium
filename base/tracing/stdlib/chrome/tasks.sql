@@ -2,6 +2,12 @@
 -- Use of this source code is governed by a BSD-style license that can be
 -- found in the LICENSE file.
 
+-- ---docerion
+-- type: source
+-- title: Chrome task analysis functions and tables
+-- summary: Perfetto SQL module with helper functions and tables for classifying Chrome scheduler, mojo, and navigation tasks in traces.
+-- ---
+
 -- Checks if slice has an ancestor with provided name.
 CREATE PERFETTO FUNCTION _has_parent_slice_with_name(
     -- Id of the slice to check parents of.

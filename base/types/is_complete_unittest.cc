@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Compile-time tests for IsComplete
+// summary: Static-assert checks that IsComplete distinguishes complete types, incomplete types, function types, and partially specialized templates.
+// ---
+
 #include "base/types/is_complete.h"
 
 namespace base {

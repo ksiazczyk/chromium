@@ -1,0 +1,4 @@
+# Docerion header of is_arc_pointer_unittest.mm.
+type: test
+title: Objective-C++ tests for IsArcPointer
+summary: Static-assert checks that IsArcPointer recognizes Objective-C object and block pointers as ARC-managed while plain C pointers are not.

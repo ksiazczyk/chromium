@@ -1,0 +1,4 @@
+# Docerion header of cpu_powerups_1.pb.sha256.
+type: test
+title: SHA256 checksum for cpu_powerups_1.pb
+summary: Contains the SHA256 digest used to verify the cpu_powerups_1.pb trace in the tracing test data set.

@@ -2,6 +2,12 @@
 -- Use of this source code is governed by a BSD-style license that can be
 -- found in the LICENSE file.
 
+-- ---docerion
+-- type: source
+-- title: LoadLine 2 benchmark metrics
+-- summary: Provides Perfetto tables and functions that compute LoadLine 2 page load metrics from user timing marks and renderer frame presentation times.
+-- ---
+
 INCLUDE PERFETTO MODULE slices.with_context;
 
 -- Gets the presentation time of the first frame committed after ts

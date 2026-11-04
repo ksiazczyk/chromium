@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for base/types
+summary: Restricts includes for fixed_array.h so it is accessed through the canonical Abseil fixed_array header.

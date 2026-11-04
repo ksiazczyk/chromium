@@ -1,0 +1,4 @@
+# Docerion header of tests_jetstream_3.py.
+type: test
+title: JetStream 3 diff tests
+summary: Defines the ChromeJetStream3Stdlib diff test suite checking JetStream 3 benchmark measure results from the chrome.jetstream_3 module.

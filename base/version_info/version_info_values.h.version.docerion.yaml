@@ -1,0 +1,4 @@
+# Docerion header of version_info_values.h.version.
+type: config
+title: Template for generated version values header
+summary: Template expanded at build time into version_info_values.h with product name, version, last change, and official build flag.

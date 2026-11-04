@@ -1,3 +1,13 @@
+---
+type: readme
+title: PerfettoSQL Chrome Standard Library tests
+summary: Explains how to run Perfetto diff tests for the Chrome standard library, add new diff tests and GCS-hosted test data, and write TestTraceProcessor unit and browser tests.
+relations:
+  - references /DEPS
+  - references /base/tracing/test/trace_processor/diff_tests/include_index.py
+  - documents /base/tracing/test/test_data.py
+---
+
 # PerfettoSQL Chrome Standard Library tests
 
 This directory contains the [Perfetto Diff Tests](https://perfetto.dev/docs/analysis/trace-processor#diff-tests) to test changes to the Chrome standard library.

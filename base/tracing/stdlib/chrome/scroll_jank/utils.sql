@@ -15,6 +15,12 @@
 -- ratio should increase with increments more than minimal value in numerator
 -- (1ns) divided by maximum value in denominator, giving 1e-9.
 
+-- ---docerion
+-- type: source
+-- title: Scroll jank helper utilities
+-- summary: Perfetto SQL helper functions and tables for computing jank metrics, including janky frame detection, jank budget calculation, and long-task slice selection.
+-- ---
+
 -- Function : function takes scroll ids of frames to verify it's from
 -- the same scroll, and makes sure the frame ts occurred within the scroll
 -- timestamp of the neighbour and computes whether the frame was janky or not.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StrongAlias type-safe wrapper template
+// summary: Provides a type-safe alternative to typedefs that wraps an underlying value type with a tag class to prevent mixing incompatible aliases.
+// ---
+
 #ifndef BASE_TYPES_STRONG_ALIAS_H_
 #define BASE_TYPES_STRONG_ALIAS_H_
 

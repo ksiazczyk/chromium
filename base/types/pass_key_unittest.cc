@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: pass_key unit tests
+// summary: Unit tests verifying PassKey construction rules and single- and multi-type conversion semantics through static_asserts and compile-time checks.
+// ---
+
 #include "base/types/pass_key.h"
 
 #include <concepts>

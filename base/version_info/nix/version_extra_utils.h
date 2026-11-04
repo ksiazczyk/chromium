@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux version extra utils header
+// summary: Declares Linux helpers that read the CHROME_VERSION_EXTRA environment variable to determine the release channel, extended stable flag, application name, and session name prefix.
+// ---
+
 #ifndef BASE_VERSION_INFO_NIX_VERSION_EXTRA_UTILS_H_
 #define BASE_VERSION_INFO_NIX_VERSION_EXTRA_UTILS_H_
 

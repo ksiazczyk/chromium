@@ -2,6 +2,12 @@
 -- Use of this source code is governed by a BSD-style license that can be
 -- found in the LICENSE file.
 
+-- ---docerion
+-- type: source
+-- title: Scroll jank cause helper functions
+-- summary: Perfetto SQL helpers that resolve process and thread IDs, including surfaceflinger and Browser, GPU and Renderer lookups, for attributing scroll jank causes in EventLatency slices.
+-- ---
+
 INCLUDE PERFETTO MODULE slices.with_context;
 
 -- Function to retrieve the upid for a surfaceflinger, as these are attributed

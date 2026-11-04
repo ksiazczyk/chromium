@@ -1,0 +1,4 @@
+# Docerion header of scroll_offsets.pftrace.sha256.
+type: test
+title: SHA256 checksum for scroll_offsets.pftrace
+summary: Contains the SHA256 hash that verifies the integrity of the scroll_offsets.pftrace trace used in base tracing tests.

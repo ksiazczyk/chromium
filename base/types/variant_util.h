@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VariantIndexOfType compile-time helper header
+// summary: Header defining a constexpr VariantIndexOfType helper that returns the 0-based index of a type T within an std::variant's alternative list, intended for variants without duplicate types.
+// ---
+
 #ifndef BASE_TYPES_VARIANT_UTIL_H_
 #define BASE_TYPES_VARIANT_UTIL_H_
 

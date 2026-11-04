@@ -1,3 +1,11 @@
+---
+type: readme
+title: Overhauled performance tracing in Chrome
+summary: Explains how Chrome replaces TRACE_EVENT macros with Perfetto and how this directory connects Chrome to the Perfetto tracing SDK and service.
+relations:
+  - references /base/trace_event/builtin_categories.h
+---
+
 # Overhauled performance tracing in Chrome
 
 We are upgrading Chrome's support for performance tracing by replacing Chrome's implementation of

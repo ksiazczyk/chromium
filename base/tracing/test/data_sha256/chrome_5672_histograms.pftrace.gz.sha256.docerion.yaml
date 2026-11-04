@@ -1,0 +1,4 @@
+# Docerion header of chrome_5672_histograms.pftrace.gz.sha256.
+type: test
+title: SHA256 checksum for chrome_5672_histograms.pftrace.gz
+summary: Contains the SHA256 digest used to verify the chrome_5672_histograms.pftrace.gz trace in the tracing test data set.

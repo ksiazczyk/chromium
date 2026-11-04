@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Version info API declarations
+// summary: Declares accessors for product name, version, last change, official build flag, OS type, and enabled sanitizers.
+// ---
+
 #ifndef BASE_VERSION_INFO_VERSION_INFO_H_
 #define BASE_VERSION_INFO_VERSION_INFO_H_
 

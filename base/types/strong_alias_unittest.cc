@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for StrongAlias
+// summary: Typed unit tests covering construction, copy and move semantics, value access, and stream output for StrongAlias across several underlying types.
+// ---
+
 #include "base/types/strong_alias.h"
 
 #include <cstdint>

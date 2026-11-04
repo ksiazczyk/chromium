@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VersionInfo
+// summary: Utility class for querying the current Chromium build's channel, official status, and version numbers without requiring native libraries to be loaded.
+// ---
+
 package org.chromium.base.version_info;
 
 import org.chromium.base.ApkInfo;

@@ -1,0 +1,4 @@
+# Docerion header of chrome_tasks.out.
+type: test
+title: Chrome tasks expected diff test output
+summary: Expected CSV output of the chrome_tasks diff test, listing Chrome task names, task types and counts queried from a page load trace.

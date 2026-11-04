@@ -1,0 +1,4 @@
+# Docerion header of tests_scroll_jank.py.
+type: test
+title: Chrome scroll jank diff tests
+summary: Diff test suite verifying Chrome scroll jank stdlib queries, including janky frames, chrome scrolls, and scroll input offsets, against expected outputs.

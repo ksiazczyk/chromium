@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for Chrome track event proto targets
+summary: GN build file defining targets that generate the Chrome track event proto descriptor, protozero library, extension descriptor diff, and grit resources.

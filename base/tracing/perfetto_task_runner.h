@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PerfettoTaskRunner class declaration
+// summary: Declares PerfettoTaskRunner, a perfetto task runner wrapper around base sequenced task runners with deferred tasks and FD watch support.
+// ---
+
 #ifndef BASE_TRACING_PERFETTO_TASK_RUNNER_H_
 #define BASE_TRACING_PERFETTO_TASK_RUNNER_H_
 

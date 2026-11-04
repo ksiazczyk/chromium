@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: optional_ref unit tests
+// summary: Unit tests covering construction, conversion rules, and access behavior of base::optional_ref, including static_assert checks against disallowed conversions.
+// ---
+
 #include "base/types/optional_ref.h"
 
 #include <compare>

@@ -2,6 +2,12 @@
 -- Use of this source code is governed by a BSD-style license that can be
 -- found in the LICENSE file.
 
+-- ---docerion
+-- type: source
+-- title: Event latency helper functions and tables
+-- summary: Provides functions for finding descendant slices and presentation timestamps plus tables of EventLatency slices for Chrome events.
+-- ---
+
 -- Finds the start timestamp for a given slice's descendant with a given name.
 -- If there are multiple descendants with a given name, the function will return
 -- the first one, so it's most useful when working with a timeline broken down

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VersionConstantsBridge
+// summary: JNI bridge class that exposes VersionConstants channel values to native code and forwards channel changes from native.
+// ---
+
 package org.chromium.base.version_info;
 
 import org.jni_zero.CalledByNative;

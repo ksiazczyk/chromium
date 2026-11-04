@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: optional_util unit tests
+// summary: Unit tests for the optional utility helpers, covering pointer conversions, optional-to-expected conversions, and OptionalUnwrapTo projections.
+// ---
+
 #include "base/types/optional_util.h"
 
 #include <memory>

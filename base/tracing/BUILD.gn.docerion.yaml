@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build rules for Perfetto tracing targets and diff tests
+summary: Defines GN targets for base/tracing, including a wrapper that runs Perfetto diff tests with trace, metrics, and extension descriptors.

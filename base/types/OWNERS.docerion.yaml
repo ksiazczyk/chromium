@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the base/types directory
+summary: Assigns per-file ownership of id_type and strong_alias files to lukasza@chromium.org and defers other files to //base/OWNERS.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners delegation to base/trace_event
+summary: Delegates ownership of the tracing directory to the owners listed in base/trace_event/OWNERS.

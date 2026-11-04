@@ -1,3 +1,9 @@
+---
+type: readme
+title: PerfettoSQL Chrome Standard Library
+summary: Explains the Chrome standard library of PerfettoSQL metrics, how to add or modify metrics and tests, and how to run the schema documentation checks.
+---
+
 # PerfettoSQL Chrome Standard Library
 
 The [PerfettoSQL Standard Library](https://perfetto.dev/docs/analysis/stdlib-docs) contains commonly used SQL tables, views, functions and macros to make it easier for users to query traces. The Chrome Standard Library contains those metrics that are specific to Chrome.

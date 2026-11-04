@@ -1,0 +1,4 @@
+# Docerion header of chrome_fcp_lcp_navigations.pftrace.sha256.
+type: test
+title: SHA256 checksum for chrome_fcp_lcp_navigations.pftrace
+summary: Contains the SHA256 digest used to verify the chrome_fcp_lcp_navigations.pftrace trace in the tracing test data set.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: base::expected vocabulary type
+// summary: Implements the expected<T, E> vocabulary type, a C++23 std::expected backport holding either a value or an error, with transformation members and usage examples.
+// ---
+
 #ifndef BASE_TYPES_EXPECTED_H_
 #define BASE_TYPES_EXPECTED_H_
 

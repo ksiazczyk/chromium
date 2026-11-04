@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trace time boot clock header
+// summary: Declares the Perfetto builtin trace clock ID per platform and the TraceBootTicksNow function that returns CLOCK_BOOTTIME where available.
+// ---
+
 #ifndef BASE_TRACING_TRACE_TIME_H_
 #define BASE_TRACING_TRACE_TIME_H_
 

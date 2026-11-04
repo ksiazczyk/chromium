@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: base::optional_ref non-owning optional reference
+// summary: Defines base::optional_ref, a non-owning optional-like reference for passing optional parameters without the hidden copies caused by const std::optional<T>&.
+// ---
+
 #ifndef BASE_TYPES_OPTIONAL_REF_H_
 #define BASE_TYPES_OPTIONAL_REF_H_
 

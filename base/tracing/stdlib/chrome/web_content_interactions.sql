@@ -2,6 +2,12 @@
 -- Use of this source code is governed by a BSD-style license that can be
 -- found in the LICENSE file.
 
+-- ---docerion
+-- type: source
+-- title: Web content interaction events
+-- summary: Perfetto SQL module exposing a chrome_web_content_interactions table for InteractionToFirstPaint events such as taps, clicks, typing, and drags.
+-- ---
+
 INCLUDE PERFETTO MODULE slices.with_context;
 
 -- Chrome web content interactions (InteractionToFirstPaint), including

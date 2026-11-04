@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SupportsOstreamOperator concept
+// summary: Defines an internal concept that detects whether a type can be streamed to std::ostream via operator<<.
+// ---
+
 #ifndef BASE_TYPES_SUPPORTS_OSTREAM_OPERATOR_H_
 #define BASE_TYPES_SUPPORTS_OSTREAM_OPERATOR_H_
 
