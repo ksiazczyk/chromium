@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unified autoplay config implementation
+// summary: Registers the block-autoplay profile preference and decides whether autoplay should be blocked based on that pref and the default sound content setting.
+// ---
+
 #include "chrome/browser/media/unified_autoplay_config.h"
 
 #include "chrome/browser/content_settings/host_content_settings_map_factory.h"

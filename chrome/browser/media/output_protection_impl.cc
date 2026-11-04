@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OutputProtectionImpl Mojo service
+// summary: Implements the media::mojom::OutputProtection Mojo service, forwarding query status and enable protection requests to OutputProtectionProxy on the UI thread.
+// ---
+
 #include "chrome/browser/media/output_protection_impl.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Media DRM CDM directory metadata
+summary: Declares the Chromium issue tracking components (Monorail and Buganizer) used for bugs in the Android CDM media directory.

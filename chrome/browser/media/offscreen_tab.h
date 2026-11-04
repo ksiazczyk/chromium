@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OffscreenTab class declaration
+// summary: Declares the OffscreenTab class that hosts an offscreen WebContents for capture, describing its lifecycle, owner interface, and WebContents delegate behavior.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_OFFSCREEN_TAB_H_
 #define CHROME_BROWSER_MEDIA_OFFSCREEN_TAB_H_
 

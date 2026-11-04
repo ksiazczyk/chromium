@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Manta directory include rules
+summary: Specifies allowed include rules for the chrome/browser/manta directory, permitting Manta, profile, signin, prefs and ChromeOS demo mode dependencies.

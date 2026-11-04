@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media storage ID salt
+// summary: Declares MediaStorageIdSalt, which provides the per-profile salt used when creating Storage IDs and registers its preference.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_MEDIA_STORAGE_ID_SALT_H_
 #define CHROME_BROWSER_MEDIA_MEDIA_STORAGE_ID_SALT_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Magic Stack directory metadata
+summary: Declares the monorail component and Buganizer component ID used for issue tracking of the magic stack directory.

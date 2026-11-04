@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OffscreenTab implementation
+// summary: Implements OffscreenTab, which owns a sandboxed WebContents rendered offscreen for capture, including Aura window adoption and automatic teardown when capture stops.
+// ---
+
 #include "chrome/browser/media/offscreen_tab.h"
 
 #include <algorithm>

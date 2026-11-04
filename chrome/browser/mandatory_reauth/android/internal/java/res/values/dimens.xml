@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Mandatory reauth bottom sheet dimension resources
+summary: Defines Android dimension values for the mandatory reauth opt-in bottom sheet icon size and horizontal margins.
+-->
+
 <resources>
     <dimen name="mandatory_reauth_opt_in_bottom_sheet_icon_width">30dp</dimen>
     <dimen name="mandatory_reauth_opt_in_bottom_sheet_icon_height">60dp</dimen>

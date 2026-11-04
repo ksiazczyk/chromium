@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Engagement service factory implementation
+// summary: Implements the profile-keyed factory that creates and provides MediaEngagementService instances per browser context.
+// ---
+
 #include "chrome/browser/media/media_engagement_service_factory.h"
 
 #include "chrome/browser/content_settings/host_content_settings_map_factory.h"

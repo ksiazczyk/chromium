@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome OS platform verification browser checks
+// summary: Implements browser-side checks for platform verification, permitting it only when the URL is valid, the profile is not incognito or guest, and the protected media identifier permission is granted.
+// ---
+
 #include "chrome/browser/media/platform_verification_chromeos.h"
 
 #include "chrome/browser/profiles/profile.h"

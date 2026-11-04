@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome media session client header
+// summary: Header for the ChromeMediaSessionClient singleton providing incognito-aware media session metadata placeholders.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_CHROME_MEDIA_SESSION_CLIENT_H_
 #define CHROME_BROWSER_MEDIA_CHROME_MEDIA_SESSION_CLIENT_H_
 

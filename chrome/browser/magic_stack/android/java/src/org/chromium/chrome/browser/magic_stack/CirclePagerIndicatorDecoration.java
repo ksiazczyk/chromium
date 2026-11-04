@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Circle pager indicator decoration for the magic stack RecyclerView
+// summary: Draws circular page indicator dots over the magic stack RecyclerView, handling RTL layout and tablet item-per-screen changes.
+// ---
+
 package org.chromium.chrome.browser.magic_stack;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

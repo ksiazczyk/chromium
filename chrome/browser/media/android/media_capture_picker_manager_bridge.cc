@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media capture picker manager JNI bridge implementation
+// summary: Implements the C++ side of the JNI bridge to the Java media capture picker, reporting picked tabs, windows, screens and cancellations as desktop media IDs.
+// ---
+
 #include "chrome/browser/media/android/media_capture_picker_manager_bridge.h"
 
 #include <string>

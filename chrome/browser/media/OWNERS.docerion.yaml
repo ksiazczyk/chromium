@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS reviewers for the media directory
+summary: Lists code owners with per-file rules for Cast, CDM, media engagement, IPC security review and permission context changes.

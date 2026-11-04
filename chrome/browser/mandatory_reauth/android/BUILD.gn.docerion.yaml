@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Mandatory reauth Android build targets
+summary: GN build file defining the native mandatory_reauth source set, the Java Android library for the opt-in bottom sheet, and their dependencies.

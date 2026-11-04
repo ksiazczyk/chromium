@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RedirectionConnector implementation
+// summary: Implements the browser-wide singleton that connects media sources to the OS video redirection sink, creating and tearing down per-source redirection sessions in the utility process.
+// ---
+
 #include "chrome/browser/media/redirection_connector.h"
 
 #include <utility>

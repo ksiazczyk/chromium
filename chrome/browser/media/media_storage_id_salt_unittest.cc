@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaStorageIdSalt unit tests
+// summary: Unit tests verifying MediaStorageIdSalt salt creation, persistence, regeneration after corruption, and distinct salts for regular and Incognito profiles.
+// ---
+
 #include "chrome/browser/media/media_storage_id_salt.h"
 
 #include <string>

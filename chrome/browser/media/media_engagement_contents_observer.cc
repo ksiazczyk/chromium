@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media engagement contents observer implementation
+// summary: Tracks media and audio context playback per tab to detect significant playback and record media engagement for origins.
+// ---
+
 #include "chrome/browser/media/media_engagement_contents_observer.h"
 
 #include <memory>

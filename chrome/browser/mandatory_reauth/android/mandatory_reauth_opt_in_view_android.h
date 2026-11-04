@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mandatory reauth opt-in view Android class declaration
+// summary: Declares MandatoryReauthOptInViewAndroid, the native AutofillBubbleBase class managing the Android view for the mandatory reauth opt-in prompt.
+// ---
+
 #ifndef CHROME_BROWSER_MANDATORY_REAUTH_ANDROID_MANDATORY_REAUTH_OPT_IN_VIEW_ANDROID_H_
 #define CHROME_BROWSER_MANDATORY_REAUTH_ANDROID_MANDATORY_REAUTH_OPT_IN_VIEW_ANDROID_H_
 

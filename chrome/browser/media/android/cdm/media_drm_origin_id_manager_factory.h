@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaDrmOriginIdManagerFactory class declaration
+// summary: Declares a singleton ProfileKeyedServiceFactory that owns MediaDrmOriginIdManager instances and ties them to profile lifetimes.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ANDROID_CDM_MEDIA_DRM_ORIGIN_ID_MANAGER_FACTORY_H_
 #define CHROME_BROWSER_MEDIA_ANDROID_CDM_MEDIA_DRM_ORIGIN_ID_MANAGER_FACTORY_H_
 

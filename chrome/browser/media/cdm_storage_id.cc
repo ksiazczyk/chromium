@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM storage ID computation
+// summary: Computes the CDM Storage ID as a SHA-256 hash of machine ID, origin, storage ID key, and profile salt for platform verification on Windows, Mac, and ChromeOS.
+// ---
+
 #include "chrome/browser/media/cdm_storage_id.h"
 
 #include "base/functional/callback.h"

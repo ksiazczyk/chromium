@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM storage ID header
+// summary: Declares ComputeStorageId, which asynchronously derives the CDM Storage ID from the profile salt and origin together with platform-specific values.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_CDM_STORAGE_ID_H_
 #define CHROME_BROWSER_MEDIA_CDM_STORAGE_ID_H_
 

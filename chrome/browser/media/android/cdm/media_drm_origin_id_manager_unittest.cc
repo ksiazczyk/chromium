@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaDrmOriginIdManager unit tests
+// summary: Unit tests covering preprovisioning, origin ID retrieval, preference storage, and backoff behavior of the MediaDrmOriginIdManager.
+// ---
+
 #include "chrome/browser/media/android/cdm/media_drm_origin_id_manager.h"
 
 #include <algorithm>

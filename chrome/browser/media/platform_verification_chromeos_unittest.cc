@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Platform verification browser checks unit tests
+// summary: Unit tests verifying PerformBrowserChecks succeeds normally and fails for invalid URLs, incognito profiles, and blocked protected media identifier content settings.
+// ---
+
 #include "chrome/browser/media/platform_verification_chromeos.h"
 
 #include <memory>

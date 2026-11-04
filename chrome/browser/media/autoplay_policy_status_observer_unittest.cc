@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autoplay policy status observer unit tests
+// summary: Unit tests checking that the observer records Media.Autoplay histograms once per page when media starts playing.
+// ---
+
 #include "chrome/browser/media/autoplay_policy_status_observer.h"
 
 #include "base/test/metrics/histogram_tester.h"

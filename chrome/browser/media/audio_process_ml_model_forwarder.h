@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioProcessMlModelForwarder class header
+// summary: Declares AudioProcessMlModelForwarder, which subscribes to Optimization Guide models and forwards them to the audio process.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_AUDIO_PROCESS_ML_MODEL_FORWARDER_H_
 #define CHROME_BROWSER_MEDIA_AUDIO_PROCESS_ML_MODEL_FORWARDER_H_
 

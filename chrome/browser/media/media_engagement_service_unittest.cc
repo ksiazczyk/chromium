@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media engagement service unit tests
+// summary: Unit tests for the media engagement service, covering scoring, preloaded lists, history expiry and media engagement content settings changes.
+// ---
+
 #include "chrome/browser/media/media_engagement_service.h"
 
 #include <memory>

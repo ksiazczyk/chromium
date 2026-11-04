@@ -1,3 +1,9 @@
+---
+type: readme
+title: How to Add a Module in the Magic Stack
+summary: Explains the Magic Stack architecture and gives step-by-step instructions for adding standard modules, educational tip cards, and segmentation platform integration on Android.
+---
+
 # How to Add a Module in the Magic Stack
 
 **Reference Document:** [go/magic-stack-adding-module-instruction](http://goto.google.com/magic-stack-adding-module-instruction)

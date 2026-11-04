@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension media access handler header
+// summary: Declares the MediaAccessHandler that processes media capture requests coming from extensions.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_EXTENSION_MEDIA_ACCESS_HANDLER_H_
 #define CHROME_BROWSER_MEDIA_EXTENSION_MEDIA_ACCESS_HANDLER_H_
 

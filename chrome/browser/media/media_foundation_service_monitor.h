@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media Foundation service monitor
+// summary: Declares the MediaFoundationServiceMonitor singleton that tracks failure samples per site and controls hardware secure decryption availability.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_MEDIA_FOUNDATION_SERVICE_MONITOR_H_
 #define CHROME_BROWSER_MEDIA_MEDIA_FOUNDATION_SERVICE_MONITOR_H_
 

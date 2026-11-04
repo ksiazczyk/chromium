@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mandatory Reauth opt-in bottom sheet component interface
+// summary: Java interface defining the component that shows the mandatory re-auth opt-in prompt as a bottom sheet, with a delegate relaying close events and a closed reason to the native side.
+// ---
+
 package org.chromium.chrome.browser.mandatory_reauth;
 
 import org.chromium.build.annotations.NullMarked;

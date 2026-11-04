@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android tab sharing UI class declaration
+// summary: Declares TabSharingUIAndroid, the Android MediaStreamUI that manages tab sharing state, stop sharing and source switching via JNI.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_ANDROID_TAB_SHARING_UI_ANDROID_H_
 #define CHROME_BROWSER_MEDIA_ANDROID_TAB_SHARING_UI_ANDROID_H_
 

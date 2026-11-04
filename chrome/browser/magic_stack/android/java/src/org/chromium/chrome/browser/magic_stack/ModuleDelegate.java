@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Module delegate interface
+// summary: Interface for the magic stack module host, defining module type constants and callbacks for data readiness, clicks and settings.
+// ---
+
 package org.chromium.chrome.browser.magic_stack;
 
 import androidx.annotation.IntDef;

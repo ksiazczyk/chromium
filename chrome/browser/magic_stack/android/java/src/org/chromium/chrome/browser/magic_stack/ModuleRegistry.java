@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModuleRegistry
+// summary: Registry that maps module types to their builders, computes the set of enabled and eligible modules from user preferences, and forwards pause events to builders.
+// ---
+
 package org.chromium.chrome.browser.magic_stack;
 
 import android.view.ViewGroup;

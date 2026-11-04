@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Capture device ranking implementation
+// summary: Registers the audio and video input preference ranking prefs and maps various device info types to stable and unique device IDs.
+// ---
+
 #include "chrome/browser/media/prefs/capture_device_ranking.h"
 
 #include "chrome/browser/media/prefs/pref_names.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HomeModulesUtils unit tests
+// summary: Robolectric unit tests for HomeModulesUtils, covering freshness counts, timestamps, scores and settings preference keys.
+// ---
+
 package org.chromium.chrome.browser.magic_stack;
 
 import static org.junit.Assert.assertEquals;

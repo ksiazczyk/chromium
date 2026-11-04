@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the magic stack Android folder
+summary: Grants the magic stack Android code permission to depend on NewTabPageUtils.java from chrome/android via an include rule.

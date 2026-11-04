@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OutputProtectionProxy implementation
+// summary: Forwards output protection queries and protection requests, using the ChromeOS protection delegate and accounting for insecure capture in the reported link mask.
+// ---
+
 #include "chrome/browser/media/output_protection_proxy.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM preference service helper implementation
+// summary: Implements helpers that read and write CDM origin data, including per-origin IDs and hardware secure decryption disable times, in the profile preferences.
+// ---
+
 #include "chrome/browser/media/cdm_pref_service_helper.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CirclePagerIndicatorDecoration unit tests
+// summary: Robolectric unit tests for the circle pager indicator decoration, covering item-per-screen counts, indicator drawing and layout metrics.
+// ---
+
 package org.chromium.chrome.browser.magic_stack;
 
 import static org.junit.Assert.assertEquals;

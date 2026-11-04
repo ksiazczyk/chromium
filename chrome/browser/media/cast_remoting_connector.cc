@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CastRemotingConnector implementation
+// summary: Implements CastRemotingConnector, which connects a media element source to a remote sink and mediates one remoting session at a time per tab.
+// ---
+
 #include "chrome/browser/media/cast_remoting_connector.h"
 
 #include <memory>

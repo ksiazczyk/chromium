@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ClearKey CDM test helper header
+// summary: Declares helpers to register ClearKey and MediaFoundation ClearKey CDM paths for tests.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_CLEAR_KEY_CDM_TEST_HELPER_H_
 #define CHROME_BROWSER_MEDIA_CLEAR_KEY_CDM_TEST_HELPER_H_
 

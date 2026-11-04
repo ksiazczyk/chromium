@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OutputProtectionImpl class declaration
+// summary: Declares the DocumentService-based implementation of media::mojom::OutputProtection used to check display link types and output protection status.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_OUTPUT_PROTECTION_IMPL_H_
 #define CHROME_BROWSER_MEDIA_OUTPUT_PROTECTION_IMPL_H_
 

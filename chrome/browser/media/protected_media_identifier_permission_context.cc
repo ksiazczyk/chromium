@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protected media identifier permission context
+// summary: Implements the permission context for the protected media identifier content setting on Chrome OS, Android and Windows, including enterprise policy checks and an origin allowlist for automated testing.
+// ---
+
 #include "chrome/browser/media/protected_media_identifier_permission_context.h"
 
 #include "base/check.h"

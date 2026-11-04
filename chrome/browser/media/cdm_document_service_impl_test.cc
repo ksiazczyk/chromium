@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CdmDocumentServiceImpl unit tests
+// summary: Unit tests for CdmDocumentServiceImpl, focused on Windows Media Foundation CDM data retrieval, CDM store file ACLs, and preference-based origin data.
+// ---
+
 #include "chrome/browser/media/cdm_document_service_impl.h"
 
 #include <memory>

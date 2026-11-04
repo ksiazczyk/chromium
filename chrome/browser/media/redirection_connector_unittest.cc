@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RedirectionConnector unit tests
+// summary: Unit tests exercising RedirectionConnector with a fake remoter and fake redirection session factory, covering session start, stop, data streams and sink messaging.
+// ---
+
 #include "chrome/browser/media/redirection_connector.h"
 
 #include <initializer_list>

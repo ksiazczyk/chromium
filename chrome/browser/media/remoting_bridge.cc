@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remoting bridge implementation
+// summary: Implements the media::mojom::Remoter service that delegates remoting calls and notifications between a media source and its registered clients, activating the first available client.
+// ---
+
 #include "chrome/browser/media/remoting_bridge.h"
 
 #include <algorithm>

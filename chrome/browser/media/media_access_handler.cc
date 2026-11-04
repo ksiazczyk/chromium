@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media access handler base class
+// summary: Implements the base MediaAccessHandler that resolves preferred audio and video capture devices and runs the media response callback.
+// ---
+
 #include "chrome/browser/media/media_access_handler.h"
 
 #include <memory>

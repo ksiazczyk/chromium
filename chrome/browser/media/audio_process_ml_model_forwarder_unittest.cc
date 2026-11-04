@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Audio process ML model forwarder unit tests
+// summary: Unit tests verifying that the audio process ML model forwarder delivers optimization guide models to the audio service through the ML model manager Mojo interface.
+// ---
+
 #include "chrome/browser/media/audio_process_ml_model_forwarder.h"
 
 #include <memory>

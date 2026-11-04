@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioDucker class header
+// summary: Declares the AudioDucker page user data class that starts and stops ducking of other audio via the audio focus manager.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_AUDIO_DUCKER_H_
 #define CHROME_BROWSER_MEDIA_AUDIO_DUCKER_H_
 

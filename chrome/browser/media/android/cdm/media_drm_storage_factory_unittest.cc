@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MediaDrmStorageFactory unit tests
+// summary: Verifies that MediaDrmStorage connects for regular profiles but is rejected for off-the-record profiles.
+// ---
+
 #include "chrome/browser/media/android/cdm/media_drm_storage_factory.h"
 
 #include <memory>

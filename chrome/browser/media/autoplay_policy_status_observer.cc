@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autoplay policy status observer implementation
+// summary: Records histograms describing the autoplay policy status that allowed media playback when media starts playing in a WebContents.
+// ---
+
 #include "chrome/browser/media/autoplay_policy_status_observer.h"
 
 #include "base/metrics/histogram_functions.h"

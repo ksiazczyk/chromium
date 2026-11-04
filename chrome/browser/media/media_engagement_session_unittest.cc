@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media engagement session unit tests
+// summary: Unit tests for MediaEngagementSession covering pending data commits, significant playback recording, player deltas and UKM metric recording.
+// ---
+
 #include "chrome/browser/media/media_engagement_session.h"
 
 #include "base/memory/ptr_util.h"

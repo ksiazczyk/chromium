@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mandatory reauth opt-in bottom sheet content
+// summary: Implements the BottomSheetContent view that renders the mandatory reauth opt-in prompt with accept and cancel buttons for autofill payment card challenges.
+// ---
+
 package org.chromium.chrome.browser.mandatory_reauth;
 
 import android.content.Context;

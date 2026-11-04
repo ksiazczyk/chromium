@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Redirection remoting source bridge header
+// summary: Declares RedirectionRemotingSourceBridge, the per-source Mojo bridge linking a RemotingBridge to the MediaRemoter serving its source in the redirection utility process.
+// ---
+
 #ifndef CHROME_BROWSER_MEDIA_REDIRECTION_REMOTING_SOURCE_BRIDGE_H_
 #define CHROME_BROWSER_MEDIA_REDIRECTION_REMOTING_SOURCE_BRIDGE_H_
 

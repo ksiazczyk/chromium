@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AudioProcessMlModelForwarder implementation
+// summary: Implements forwarding of Optimization Guide ML models, such as residual echo estimation and voice isolation, to the audio service process.
+// ---
+
 #include "chrome/browser/media/audio_process_ml_model_forwarder.h"
 
 #include <memory>

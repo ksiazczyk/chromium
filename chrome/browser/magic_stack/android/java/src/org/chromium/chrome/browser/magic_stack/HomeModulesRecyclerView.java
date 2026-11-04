@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Home modules RecyclerView
+// summary: Custom RecyclerView for home modules with tablet layout support, focus handling and module height and padding management.
+// ---
+
 package org.chromium.chrome.browser.magic_stack;
 
 import static android.view.ViewGroup.LayoutParams.MATCH_PARENT;

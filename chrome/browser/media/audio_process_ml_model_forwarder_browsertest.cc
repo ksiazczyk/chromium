@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AudioProcessMlModelForwarder browser test
+// summary: Browser test verifying that audio capture triggers registration of the neural residual echo estimation model with the Optimization Guide.
+// ---
+
 #include "chrome/browser/media/audio_process_ml_model_forwarder.h"
 
 #include "base/test/run_until.h"

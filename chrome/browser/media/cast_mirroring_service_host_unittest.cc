@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CastMirroringServiceHost resolution clamping unit test
+// summary: Unit test verifying that GetClampedResolution clamps capture resolution constraints to expected sizes for common screen resolutions.
+// ---
+
 #include "chrome/browser/media/cast_mirroring_service_host.h"
 
 #include <array>

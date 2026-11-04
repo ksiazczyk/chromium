@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Home modules coordinator
+// summary: Root coordinator that builds and displays the magic stack module list on home surfaces, wiring the RecyclerView, snap helper and page indicator.
+// ---
+
 package org.chromium.chrome.browser.magic_stack;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

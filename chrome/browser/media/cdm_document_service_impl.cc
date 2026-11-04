@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CDM document service implementation
+// summary: Implements the CDM document service, including CDM storage ID support, ChromeOS platform verification, and Windows Media Foundation CDM store handling.
+// ---
+
 #include "chrome/browser/media/cdm_document_service_impl.h"
 
 #include <utility>

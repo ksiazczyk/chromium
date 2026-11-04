@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Mandatory re-auth opt-in bottom sheet layout
+summary: Android layout XML defining the bottom sheet UI that prompts users to opt in to mandatory re-authentication for autofill, with an icon, title, explanation, and accept/cancel buttons.
+-->
+
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="wrap_content"
