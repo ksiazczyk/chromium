@@ -1,0 +1,4 @@
+# Docerion header of icons.html.
+type: asset
+title: Icon set for the zero state promo UI
+summary: Defines a cr-iconset with SVG icons such as spark, shopping bag, coupons, writing and productivity used by the promo chips.

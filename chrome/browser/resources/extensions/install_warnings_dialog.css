@@ -8,6 +8,12 @@
  * #include=cr-shared-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Install warnings dialog styles
+summary: Lit CSS styles for the install warnings dialog, styling the warning list for light and dark color schemes.
+*/
+
 div[slot='body'] ul {
   background-color: #ffebee;  /* --paper-red-50 */
   margin: 0;

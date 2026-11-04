@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Runtime host permissions template
+// summary: Lit HTML template for the runtime host permissions element, rendering host access selects and per-site lists for standard and enhanced controls.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ExtensionsRuntimeHostPermissionsElement} from './runtime_host_permissions.js';

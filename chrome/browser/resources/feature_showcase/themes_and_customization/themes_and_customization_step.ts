@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Themes and customization step element
+// summary: Custom element for the themes and customization showcase step that snapshots the current theme and applies or reverts it when the user confirms or skips.
+// ---
+
 import '//resources/cr_components/customize_color_scheme_mode/customize_color_scheme_mode.js';
 import '//resources/cr_components/theme_color_picker/theme_color_picker.js';
 import '//resources/cr_elements/cr_button/cr_button.js';

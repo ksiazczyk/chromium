@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager step HTML template
+// summary: Lit HTML template for the password manager feature showcase step, rendering the title, description, illustration, and confirm and skip buttons with localized strings.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {FeatureShowcasePasswordManagerStepElement} from './password_manager_step.js';

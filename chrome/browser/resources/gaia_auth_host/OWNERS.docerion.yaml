@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for gaia_auth_host
+summary: Lists the code owners in PST and CET responsible for reviewing changes to the gaia_auth_host directory.

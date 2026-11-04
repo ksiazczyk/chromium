@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Family Link User Internals page styles
+summary: Styles the Family Link User Internals page, covering info sections, detail tables, highlight animations, and filtering result entries.
+*/
+
 #info {
   column-width: 350px;
 }

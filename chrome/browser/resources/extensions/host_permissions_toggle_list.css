@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Host permissions toggle list styles
+summary: Lit CSS styles for the host permissions toggle list, covering section headings, site rows, favicons and per-host toggles.
+*/
+
 cr-icon {
   --iron-icon-height: var(--cr-icon-size);
   --iron-icon-width: var(--cr-icon-size);

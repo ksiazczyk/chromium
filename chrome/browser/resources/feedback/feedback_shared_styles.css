@@ -7,6 +7,12 @@
  * #import=./feedback_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Feedback shared button styles
+summary: Shared CSS for the feedback UI defining white and blue button, link, and focus styles, with ChromeOS jelly and dark mode variants.
+*/
+
 button.white-button,
 button.blue-button {
   border: 1px solid transparent;

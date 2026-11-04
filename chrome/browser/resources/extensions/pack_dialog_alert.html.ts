@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pack dialog alert Lit template
+// summary: Lit HTML template for the pack dialog alert, showing the pack response message with configurable confirm and cancel buttons.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ExtensionsPackDialogAlertElement} from './pack_dialog_alert.js';

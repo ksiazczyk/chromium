@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SAML handler for webview-based authentication
+// summary: Implements SamlHandler to add SAML support to the auth webview, covering the credentials passing API, injected scripts and the device attestation flow.
+// ---
+
 // <if expr="is_chromeos">
 import {NativeEventTarget as EventTarget} from 'chrome://resources/ash/common/event_target.js';
 

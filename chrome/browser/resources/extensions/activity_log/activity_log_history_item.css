@@ -12,6 +12,12 @@
  * #include=cr-icons-lit cr-shared-style-lit shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Activity log history item styles
+summary: Styles individual activity log history rows, including the main row, expand and delete buttons, and the page URL list.
+*/
+
 :host {
   border-top: var(--cr-separator-line);
   display: block;

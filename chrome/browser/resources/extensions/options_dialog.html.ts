@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Options dialog Lit template
+// summary: Lit HTML template for the extensions options dialog, rendering the extension icon and name in the title and a body slot for the embedded options element.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ExtensionsOptionsDialogElement} from './options_dialog.js';

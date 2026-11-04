@@ -12,6 +12,12 @@
  *  could be seen if the user would scroll up/down.
  */
 
+// ---docerion
+// type: source
+// title: Injected helper reporting webview scroll position
+// summary: Sends scroll and resize information from inside the webview so the host can display shadows indicating hidden scrollable content.
+// ---
+
 export const WebviewScrollShadowsHelper = (function() {
   function WebviewScrollShadowsHelper() {}
 

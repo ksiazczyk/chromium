@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site permissions by site page element
+// summary: Defines the extensions-site-permissions-by-site element that groups extension site access by eTLD and refreshes on settings and item state changes.
+// ---
+
 import 'chrome://resources/cr_elements/cr_icon_button/cr_icon_button.js';
 import './site_permissions_site_group.js';
 

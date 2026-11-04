@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Feature showcase WebUI build definition
+summary: Defines the build_webui target for the feature showcase WebUI, listing static assets, TypeScript, CSS and Mojo generated files with their dependencies.

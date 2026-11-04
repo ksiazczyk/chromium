@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HTML template for the extensions code section
+// summary: Lit template that renders line numbers, truncated source lines, and the highlighted code region for the code section element.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ExtensionsCodeSectionElement} from './code_section.js';

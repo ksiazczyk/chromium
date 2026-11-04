@@ -7,6 +7,12 @@
  * authenticator.js is used from TypeScript files.
  */
 
+// ---docerion
+// type: source
+// title: TypeScript definitions for Authenticator
+// summary: Minimal TypeScript definitions for authenticator.js, covering auth params, credentials, events and the Authenticator class.
+// ---
+
 import type {PasswordAttributes} from './saml_password_attributes.js';
 
 export interface SyncTrustedVaultKey {

@@ -9,6 +9,12 @@
  * #include=feedback-shared-styles
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Feedback app styles
+summary: Styles the feedback dialog's title bar, form fields, buttons and ChromeOS jelly theme variants.
+*/
+
 :host {
   display: flex;
   flex-direction: column;

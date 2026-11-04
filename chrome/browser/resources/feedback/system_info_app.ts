@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System info app element
+// summary: Lit element that shows feedback system information, fetching entries via the feedback browser proxy into a key-value pair viewer.
+// ---
+
 import '/shared/key_value_pair_viewer/key_value_pair_viewer.js';
 
 import type {KeyValuePairEntry} from '/shared/key_value_pair_viewer/key_value_pair_entry.js';

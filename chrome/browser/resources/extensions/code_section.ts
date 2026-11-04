@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Code section element for extension source display
+// summary: Lit element that displays extension source code with a highlighted region, line numbers, and truncation for DOM performance.
+// ---
+
 import '/strings.m.js';
 import './shared_vars.css.js';
 

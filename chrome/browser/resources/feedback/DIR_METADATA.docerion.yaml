@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the feedback team
+summary: Declares the ChromeOS Feedback engineering team and Buganizer component responsible for this directory.

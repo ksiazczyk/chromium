@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pack dialog Lit template
+// summary: Lit HTML template for the pack extension dialog with root directory and key file inputs, browse buttons and a conditional alert dialog.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ExtensionsPackDialogElement} from './pack_dialog.js';

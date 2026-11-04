@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini step custom element
+// summary: Lit custom element for the Gemini feature showcase step that reports accept or skip consent through the browser proxy and fires step-completed.
+// ---
+
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import '../feature_showcase_step.js';
 

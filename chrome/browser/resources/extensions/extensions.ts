@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions WebUI entry module with re-exports
+// summary: Entry module for the extensions WebUI that re-exports the manager, activity log, detail view, dialogs, site permissions and other extension page elements and utilities.
+// ---
+
 import './manager.js';
 
 export {COLORS_CSS_SELECTOR} from 'chrome://resources/cr_components/color_change_listener/colors_css_updater.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature showcase stepper HTML template
+// summary: Lit template that renders the stepper as an accessible progressbar with product logo, step dots, static checks and Lottie animations.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {FeatureShowcaseStepperElement} from './feature_showcase_stepper.js';

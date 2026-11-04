@@ -7,6 +7,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Default browser step styles
+summary: Lit stylesheet for the default browser showcase step, sizing the step element and setting the refresh showcase illustration image.
+*/
+
 :host {
   height: 100%;
 }

@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Gemini step styles
+summary: Styles the Gemini feature showcase step, including light and dark mode illustration images and disclosure text layout.
+*/
+
 :host {
   height: 100%;
 }

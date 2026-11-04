@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google Lens step HTML template
+// summary: Lit HTML template for the Google Lens feature showcase step, rendering title, description, disclosure text and confirm or skip buttons with platform-specific ordering.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {FeatureShowcaseGoogleLensStepElement} from './google_lens_step.js';

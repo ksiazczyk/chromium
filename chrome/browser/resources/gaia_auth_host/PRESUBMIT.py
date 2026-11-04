@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for gaia_auth_host
+# summary: Presubmit script that warns when the SamlHandler.onAPICall_ warn log used as a tast test signal is removed.
+# ---
+
 """Presubmit script for gaia_auth_host
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lit directive for asynchronous chunked list rendering
+// summary: Provides an asyncMap directive that renders array items progressively across animation frames to keep large lists responsive.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import {AsyncDirective, directive, html, PartType} from 'chrome://resources/lit/v3_0/lit.rollup.js';
 import type {PartInfo, TemplateResult} from 'chrome://resources/lit/v3_0/lit.rollup.js';

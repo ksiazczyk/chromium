@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Feed Internals owners file
+summary: Delegates ownership of the feed_internals resources directory to the owners of components/feed.

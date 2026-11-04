@@ -12,6 +12,12 @@
  * #include=cr-hidden-style-lit cr-shared-style-lit cr-icons-lit action-link-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the zero state promo app element
+summary: Lit CSS styles defining the promo bubble layout, chips, buttons, links and color custom properties.
+*/
+
 :host {
   --zero-state-promo-background-color: var(--color-button-foreground);
   --zero-state-promo-foreground-color: var(--color-button-background);

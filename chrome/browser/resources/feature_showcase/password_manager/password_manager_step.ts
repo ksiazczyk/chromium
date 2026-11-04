@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password manager step element
+// summary: Lit element for the password manager feature showcase step that disables its buttons and calls the browser handler to pin or skip the password manager.
+// ---
+
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import '../feature_showcase_step.js';
 

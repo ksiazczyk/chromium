@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureShowcaseGoogleLensStepElement
+// summary: Lit custom element for the Google Lens onboarding step that enables or skips Google Lens through the browser proxy handler and fires step-completed.
+// ---
+
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import '../feature_showcase_step.js';
 

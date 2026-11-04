@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feed Internals WebUI frontend logic
+// summary: Implements the Feed Internals page logic, retrieving feed properties and fetch data over Mojo and wiring buttons for refresh, histograms, dumps, and overrides.
+// ---
+
 import {assert} from 'chrome://resources/js/assert.js';
 import {getRequiredElement} from 'chrome://resources/js/util.js';
 import type {TimeDelta} from 'chrome://resources/mojo/mojo/public/mojom/base/time.mojom-webui.js';

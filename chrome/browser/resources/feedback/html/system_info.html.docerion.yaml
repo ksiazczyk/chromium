@@ -1,0 +1,4 @@
+# Docerion header of system_info.html.
+type: source
+title: System info WebUI page
+summary: HTML host page for the feedback system information view, loading the system_info_app.js module and rendering the system-info-app element.

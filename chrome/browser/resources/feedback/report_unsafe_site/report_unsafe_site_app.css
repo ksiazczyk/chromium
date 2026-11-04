@@ -10,6 +10,12 @@
  * #include=cr-spinner-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Report unsafe site dialog styles
+summary: Lit CSS styles for the report unsafe site dialog, covering layout, screenshot placeholder, buttons, footer and dark mode colors.
+*/
+
 :host {
   color: var(--cr-primary-text-color);
 }

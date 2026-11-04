@@ -6,6 +6,12 @@
  * #type=vars-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Feedback shared CSS variables
+summary: Defines feedback UI color custom properties, mapping Google colors and ChromeOS system tokens for light and dark color schemes.
+*/
+
 <if expr="is_chromeos">
 html:has(body.jelly-enabled) {
   --feedback-alert-color: var(--cros-sys-alert);

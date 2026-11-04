@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feedback utility constants and helpers
+// summary: Provides feedback-related URL constants and a helper that opens a URL in a sized app window.
+// ---
+
 export const FEEDBACK_LANDING_PAGE: string =
     'https://support.google.com/chrome/go/feedback_confirmation';
 

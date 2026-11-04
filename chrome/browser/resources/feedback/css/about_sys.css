@@ -6,6 +6,12 @@
  * #type=style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Feedback about system page styles
+summary: Stylesheet for the feedback tool's about system information page, defining the header banner with settings icon, heading colors, and global button spacing.
+*/
+
 .global-button {
   margin: 1px 3px 0 3px;
   font-family: inherit;

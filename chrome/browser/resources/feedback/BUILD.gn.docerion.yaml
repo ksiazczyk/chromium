@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Feedback WebUI build definition
+summary: GN build rules that bundle the feedback WebUI's HTML, TypeScript, CSS and static assets into the feedback resource target.

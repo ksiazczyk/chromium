@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: Feed Internals page styles
+summary: Styles the Feed Internals debug page with heading colors, fixed table layout, striped rows, and button formatting.
+*/
+
 h2 {
   color: rgb(74, 142, 230);
   font-size: 100%;

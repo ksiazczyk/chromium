@@ -9,6 +9,12 @@
  * #include=cr-hidden-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Styles for the extensions code section
+summary: Defines light and dark theme styling for the code viewer, including line numbers, scroll container, and highlight marks.
+*/
+
 :host {
   --paper-grey-500: #9e9e9e;
   --paper-grey-800: #424242;

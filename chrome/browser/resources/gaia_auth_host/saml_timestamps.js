@@ -14,6 +14,12 @@
  * and ISO 8601.
  */
 
+// ---docerion
+// type: source
+// title: Timestamp decoding for SAML password expiry
+// summary: Decodes timestamp strings in NTFS filetime, Unix time and ISO 8601 formats into Date objects used for SAML password expiry notifications.
+// ---
+
   /** @const @private {number} Maximum length of a valid timestamp. */
   const MAX_SANE_LENGTH = 30;
 

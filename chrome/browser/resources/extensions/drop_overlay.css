@@ -9,6 +9,12 @@
  * #include=cr-hidden-style-lit
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Drop overlay styles
+summary: Styles for the drop overlay shown while dragging an extension file, including dark mode background and centered icon and text.
+*/
+
 :host {
   align-items: center;
   background-color: rgba(241, 241, 241, .9);

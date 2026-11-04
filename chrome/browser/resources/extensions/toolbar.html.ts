@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions toolbar HTML template
+// summary: Lit template that renders the extensions toolbar with search, dev mode toggle, product logo, pack dialog, and developer drawer buttons.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ServiceInterface} from './service.js';

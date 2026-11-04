@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Family Link User Internals directory metadata
+summary: Points the directory's metadata to the supervised user common metadata mixins for component and ownership tracking.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions drop overlay element
+// summary: Lit element that shows a full-page overlay while extension files are dragged over the window and wires up the drag-and-drop handler.
+// ---
+
 import 'chrome://resources/cr_elements/icons.html.js';
 import 'chrome://resources/cr_elements/cr_icon/cr_icon.js';
 

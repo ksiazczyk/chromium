@@ -1,6 +1,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Zero state promo app Lit element
+// summary: Defines the extensions-zero-state-promo-app element that picks a promo UI variant and reports Web Store link clicks and dismissals.
+// ---
+
 import './icons.html.js';
 import 'chrome://resources/cr_elements/cr_button/cr_button.js';
 import 'chrome://resources/cr_elements/cr_chip/cr_chip.js';

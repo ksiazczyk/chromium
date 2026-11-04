@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toggle row element
+// summary: Lit element providing a clickable row that syncs a hidden native checkbox with a cr-toggle and fires change events.
+// ---
+
 import 'chrome://resources/cr_elements/cr_toggle/cr_toggle.js';
 
 import type {CrToggleElement} from 'chrome://resources/cr_elements/cr_toggle/cr_toggle.js';

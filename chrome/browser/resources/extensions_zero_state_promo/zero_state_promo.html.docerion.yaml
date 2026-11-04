@@ -1,0 +1,4 @@
+# Docerion header of zero_state_promo.html.
+type: source
+title: Host page for the extensions zero state promo app
+summary: HTML entry page that loads theme and color stylesheets and mounts the extensions-zero-state-promo-app element.

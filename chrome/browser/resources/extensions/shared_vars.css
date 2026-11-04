@@ -7,6 +7,12 @@
  * #import=chrome://resources/cr_elements/cr_shared_vars.css.js
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Shared CSS variables for the extensions page
+summary: Defines color and layout custom properties for the extensions WebUI, with dark mode overrides.
+*/
+
 html {
   /* Note: error-color is used for many warnings. There's also an orange-y
    * warning color in 1 place. */

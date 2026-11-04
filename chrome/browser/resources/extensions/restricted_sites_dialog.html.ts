@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Restricted sites dialog template
+// summary: Lit HTML template for the extensions restricted sites dialog, rendering the warning body plus cancel and allow buttons.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ExtensionsRestrictedSitesDialogElement} from './restricted_sites_dialog.js';

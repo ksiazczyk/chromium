@@ -8,6 +8,12 @@
  * #scheme=relative
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Feature showcase step styles
+summary: Lit CSS for showcase step elements defining layout, typography, illustration and button styling with responsive and Linux-specific adjustments.
+*/
+
 :host {
   --showcase-text-gap_: 24px;
   --showcase-text-padding-top_: 48px;

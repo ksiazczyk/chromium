@@ -6,6 +6,12 @@
  * @fileoverview Support password change on with SAML provider.
  */
 
+// ---docerion
+// type: source
+// title: Password change authenticator for SAML providers
+// summary: Authenticator supporting password change flows with SAML providers and detecting success for ADFS, Azure, Okta and Ping IdPs.
+// ---
+
 // clang-format off
 // <if expr="is_chromeos">
 import {NativeEventTarget as EventTarget} from 'chrome://resources/ash/common/event_target.js';

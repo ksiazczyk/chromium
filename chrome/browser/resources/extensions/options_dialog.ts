@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions options dialog element
+// summary: Lit element that shows an extension's embedded options page in a dialog, resizing it to the preferred size reported by the ExtensionOptions element.
+// ---
+
 import 'chrome://resources/cr_elements/cr_dialog/cr_dialog.js';
 
 import type {CrDialogElement} from 'chrome://resources/cr_elements/cr_dialog/cr_dialog.js';

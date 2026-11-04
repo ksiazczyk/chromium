@@ -14,6 +14,12 @@
  * #include=cr-icons-lit cr-hidden-style-lit cr-shared-style-lit action-link-lit shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Extension item card styles
+summary: Lit CSS styles for extension item cards, covering layout, warnings, dev mode and review prompting variants.
+*/
+
 .layout-horizontal-center {
   display: flex;
   flex-direction: row;

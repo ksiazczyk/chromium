@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL utilities for favicons and subdomains
+// summary: Provides helpers that compute favicon URLs for site entries and detect wildcard subdomain matching in host permission sites.
+// ---
+
 import {getFaviconForPageURL} from 'chrome://resources/js/icon.js';
 
 export const SUBDOMAIN_SPECIFIER = '*.';

@@ -10,6 +10,12 @@
  * #include=cr-shared-style-lit shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Site permissions by site page styles
+summary: Styles for the all-sites view of extension site permissions, covering the title text and site group layout.
+*/
+
 #container {
   box-sizing: border-box;
 }

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions detail view Lit HTML template
+// summary: Lit HTML template rendering the extension detail view layout, including header actions, safety check warning and MV2 deprecation message.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ExtensionsDetailViewElement} from './detail_view.js';

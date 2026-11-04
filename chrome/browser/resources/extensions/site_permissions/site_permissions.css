@@ -11,6 +11,12 @@
  * #include=cr-shared-style-lit shared-style
  * #css_wrapper_metadata_end */
 
+/*docerion
+type: source
+title: Site permissions page styles
+summary: Styles for the extensions site permissions page, laying out the header and card container that holds the permitted and restricted site lists.
+*/
+
 #container {
   box-sizing: border-box;
 }

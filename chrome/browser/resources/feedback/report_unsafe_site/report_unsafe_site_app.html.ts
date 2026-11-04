@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Report unsafe site dialog HTML template
+// summary: Lit HTML template rendering the report unsafe site dialog with the page URL, screenshot checkbox, and cancel and send report buttons.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {ReportUnsafeSiteAppElement} from './report_unsafe_site_app.js';

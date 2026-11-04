@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen capture helper for feedback
+// summary: Captures the current screen via getUserMedia and returns a promise resolving to a canvas with the screenshot or null on failure.
+// ---
+
 import {PromiseResolver} from 'chrome://resources/js/promise_resolver.js';
 
 import {FeedbackBrowserProxyImpl} from './feedback_browser_proxy.js';

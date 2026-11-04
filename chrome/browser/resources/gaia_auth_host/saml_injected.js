@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Injected script for SAML provider pages
+// summary: Script injected into SAML provider pages that signals external page loads, forwards the credential passing API and scrapes password fields for Chrome OS.
+// ---
+
 import {Channel} from './channel.js';
 import {PostMessageChannel} from './post_message_channel.js';
 import {WebviewScrollShadowsHelper, WebviewScrollShadowsHelperConstructor} from './scroll_helper_injected.js';

@@ -1,0 +1,4 @@
+# Docerion header of extensions.html.
+type: source
+title: Extensions page HTML shell
+summary: HTML entry document for the extensions manager page that sets locale and color scheme, mimics the developer toolbar while loading, and loads the manager script.

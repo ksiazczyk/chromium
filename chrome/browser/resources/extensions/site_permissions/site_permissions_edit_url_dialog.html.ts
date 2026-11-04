@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Edit URL dialog HTML template
+// summary: Lit HTML template for a dialog that takes a site URL as input, with validation, an error message, and cancel and submit buttons.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {SitePermissionsEditUrlDialogElement} from './site_permissions_edit_url_dialog.js';

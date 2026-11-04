@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gemini step HTML template
+// summary: Lit HTML template for the Gemini feature showcase step with localized title, description, disclosure text, and confirm and skip buttons.
+// ---
+
 import {html} from '//resources/lit/v3_0/lit.rollup.js';
 
 import type {FeatureShowcaseGeminiStepElement} from './gemini_step.js';
