@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Request file system dialog browser test
+// summary: Browser test that shows and verifies the request file system dialog UI using the DialogBrowserTest harness.
+// ---
+
 #include "chrome/browser/ui/views/extensions/dialogs/request_file_system_dialog.h"
 
 #include "base/functional/bind.h"

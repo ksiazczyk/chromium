@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security dialog tracker header
+// summary: Declares the SecurityDialogTracker singleton and its observer interface for tracking security dialogs across browser windows and profiles.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_EXTENSIONS_SECURITY_DIALOG_TRACKER_H_
 #define CHROME_BROWSER_UI_VIEWS_EXTENSIONS_SECURITY_DIALOG_TRACKER_H_
 

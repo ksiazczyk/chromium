@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device chooser dialog view implementation
+// summary: Implements the modal device chooser dialog constrained to a tab, wiring buttons and callbacks to the device chooser content view.
+// ---
+
 #include "chrome/browser/ui/views/extensions/chooser_dialog_view.h"
 
 #include "chrome/browser/extensions/api/chrome_device_permissions_prompt.h"

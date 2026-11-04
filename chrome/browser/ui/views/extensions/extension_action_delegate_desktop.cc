@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension action delegate desktop implementation
+// summary: Implements desktop Views-specific extension action UI logic, including triggering, showing, and hiding the action popup and handling accelerators.
+// ---
+
 #include "chrome/browser/ui/views/extensions/extension_action_delegate_desktop.h"
 
 #include <utility>

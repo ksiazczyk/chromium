@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser UI test for the eye dropper
+// summary: Parameterized browser test that shows the eye dropper at several device scale factors and verifies it with pixel screenshots; the test is currently disabled as flaky.
+// ---
+
 #include "chrome/browser/ui/views/eye_dropper/eye_dropper.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security dialog tracker implementation
+// summary: Implements a singleton that tags security-sensitive dialog widgets and reports whether a browser has visible security dialogs to block extension popups.
+// ---
+
 #include "chrome/browser/ui/views/extensions/security_dialog_tracker.h"
 
 #include <memory>

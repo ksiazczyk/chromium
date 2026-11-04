@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extensions dialogs browser test helper
+// summary: Declares ExtensionsDialogBrowserTest, a shared browser test base class that installs extensions and exposes the extensions toolbar container for dialog tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_EXTENSIONS_EXTENSIONS_DIALOGS_BROWSERTEST_H_
 #define CHROME_BROWSER_UI_VIEWS_EXTENSIONS_EXTENSIONS_DIALOGS_BROWSERTEST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EyeDropperPortal unit tests
+// summary: Unit tests that verify the eye dropper's XDG desktop portal color picking flow using mocked D-Bus bus and object proxies.
+// ---
+
 #include "chrome/browser/ui/views/eye_dropper/eye_dropper_portal.h"
 
 #include <tuple>

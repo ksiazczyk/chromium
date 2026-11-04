@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extensions dialog browser test helper
+// summary: Provides a browser test base class that installs extensions and exposes the desktop extensions toolbar container for dialog UI tests.
+// ---
+
 #include "chrome/browser/ui/views/extensions/extensions_dialogs_browsertest.h"
 
 #include "chrome/browser/profiles/profile.h"

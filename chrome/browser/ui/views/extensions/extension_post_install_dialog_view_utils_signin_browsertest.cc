@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension post-install dialog sign-in browser test
+// summary: Browser tests covering sign-in promo behavior from the extension post-install bubble, using identity and extension sync test utilities.
+// ---
+
 #include <algorithm>
 
 #include "base/memory/scoped_refptr.h"

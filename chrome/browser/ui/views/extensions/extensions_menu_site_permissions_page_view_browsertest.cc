@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extensions menu site permissions page browser tests
+// summary: Browser tests for the extensions menu site permissions page covering access radio buttons and toggles.
+// ---
+
 #include "chrome/browser/ui/views/extensions/extensions_menu_site_permissions_page_view.h"
 
 #include <vector>

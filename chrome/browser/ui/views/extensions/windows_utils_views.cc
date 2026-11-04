@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Views implementation of windows_util child window checks
+// summary: Implements CalledFromChildWindow for Views, comparing widget ancestry to decide whether an extension function call originates from a child window of the controller's window.
+// ---
+
 #include "chrome/browser/extensions/api/tabs/windows_util.h"
 #include "chrome/browser/extensions/window_controller.h"
 #include "content/public/browser/web_contents.h"

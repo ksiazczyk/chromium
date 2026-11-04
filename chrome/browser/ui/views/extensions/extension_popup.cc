@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension popup implementation
+// summary: Implements the bubble that hosts extension browser-action popups, handling sizing, anchoring and widget lifecycle.
+// ---
+
 #include "chrome/browser/ui/views/extensions/extension_popup.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions menu desktop delegate implementation
+// summary: Implements ExtensionsMenuDelegateDesktop, wiring the extensions menu view model to desktop views for actions, host access requests and site permission handling.
+// ---
+
 #include "chrome/browser/ui/views/extensions/extensions_menu_delegate_desktop.h"
 
 #include <algorithm>

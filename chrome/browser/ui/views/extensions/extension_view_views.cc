@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionViewViews implementation
+// summary: Implements the WebView-based view that displays extension content, handling visibility, sizing, container bounds, and keyboard events.
+// ---
+
 #include "chrome/browser/ui/views/extensions/extension_view_views.h"
 
 #include "base/functional/bind.h"

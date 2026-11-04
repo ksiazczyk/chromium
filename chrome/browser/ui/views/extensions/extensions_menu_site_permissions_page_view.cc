@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions menu site permissions page implementation
+// summary: Implements the site permissions page in the extensions menu with radio buttons for site access control.
+// ---
+
 #include "chrome/browser/ui/views/extensions/extensions_menu_site_permissions_page_view.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File System Access scroll panel header
+// summary: Declares FileSystemAccessScrollPanel, a scrollable panel that displays a list of file paths for File System Access UI surfaces.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_FILE_SYSTEM_ACCESS_FILE_SYSTEM_ACCESS_SCROLL_PANEL_H_
 #define CHROME_BROWSER_UI_VIEWS_FILE_SYSTEM_ACCESS_FILE_SYSTEM_ACCESS_SCROLL_PANEL_H_
 

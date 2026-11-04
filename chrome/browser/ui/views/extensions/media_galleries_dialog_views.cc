@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media galleries dialog views implementation
+// summary: Implements the Views-based media galleries configuration dialog with checkboxes, context menus, and confirm buttons.
+// ---
+
 #include "chrome/browser/ui/views/extensions/media_galleries_dialog_views.h"
 
 #include <stddef.h>

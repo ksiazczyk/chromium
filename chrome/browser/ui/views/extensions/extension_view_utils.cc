@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension view utilities
+// summary: Implements helpers to resolve the extensions toolbar container for a WebContents or window, support per-WebContents overrides, and fetch action icons.
+// ---
+
 #include "chrome/browser/ui/views/extensions/extension_view_utils.h"
 
 #include <utility>

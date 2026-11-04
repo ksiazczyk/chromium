@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extensions menu item browser tests
+// summary: Browser tests verifying the extensions menu item view updates its label, tooltip, pin and context menu buttons.
+// ---
+
 #include "base/memory/raw_ptr.h"
 #include "base/test/metrics/user_action_tester.h"
 #include "build/build_config.h"

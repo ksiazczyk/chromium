@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions toolbar desktop implementation
+// summary: Implements the Views-based extensions toolbar container handling extension actions, menus, drag and drop, and the request access button.
+// ---
+
 #include "chrome/browser/ui/views/extensions/extensions_toolbar_desktop.h"
 
 #include <algorithm>

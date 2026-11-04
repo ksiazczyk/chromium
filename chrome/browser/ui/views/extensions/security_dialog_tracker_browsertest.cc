@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Security dialog tracker browser test
+// summary: Browser test verifying that the tracker detects visible security dialogs and handles adding, removing, ignoring, and closing tracked dialog widgets.
+// ---
+
 #include "chrome/browser/ui/views/extensions/security_dialog_tracker.h"
 
 #include "chrome/browser/ui/browser_window.h"

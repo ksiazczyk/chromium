@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EyeDropperViewMac interface for macOS
+// summary: Declares the macOS EyeDropperViewMac class implementing content::EyeDropper with an NSColorSampler that reports selected colors to a listener.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_EYE_DROPPER_EYE_DROPPER_VIEW_MAC_H_
 #define CHROME_BROWSER_UI_VIEWS_EYE_DROPPER_EYE_DROPPER_VIEW_MAC_H_
 

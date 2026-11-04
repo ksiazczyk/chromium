@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension keybinding registry views implementation
+// summary: Implements the Views-specific registry that registers extension command accelerators with the focus manager and routes commands.
+// ---
+
 #include "chrome/browser/ui/views/extensions/extension_keybinding_registry_views.h"
 
 #include "chrome/browser/extensions/commands/command_service.h"

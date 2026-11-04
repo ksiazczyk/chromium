@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extensions toolbar browser test fixture implementation
+// summary: Implements the shared browser test fixture that sets up extensions, permissions, and toolbar helpers for toolbar and menu tests.
+// ---
+
 #include "chrome/browser/ui/views/extensions/extensions_toolbar_browsertest.h"
 
 #include "base/check.h"

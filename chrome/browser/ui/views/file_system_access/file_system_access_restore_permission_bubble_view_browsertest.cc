@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File System Access restore permission bubble view browser test
+// summary: Browser tests for the restore permission bubble, exercising button clicks, permission callbacks and bubble behavior across tabs and window layouts.
+// ---
+
 #include "chrome/browser/ui/views/file_system_access/file_system_access_restore_permission_bubble_view.h"
 
 #include <optional>

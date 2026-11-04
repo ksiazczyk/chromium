@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media gallery checkbox view implementation
+// summary: Implements a box-layout view combining a checkbox, secondary details label, and context menu support for a single media gallery entry in the dialog.
+// ---
+
 #include "chrome/browser/ui/views/extensions/media_gallery_checkbox_view.h"
 
 #include "chrome/browser/media_galleries/media_galleries_preferences.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the eye dropper directory
+summary: Grants the directory include access to components/dbus, components/eye_dropper, dbus, ui/aura and ui/linux.

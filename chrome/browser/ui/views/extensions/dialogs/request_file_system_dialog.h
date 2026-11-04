@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Request file system dialog header
+// summary: Declares ShowRequestFileSystemDialog, which prompts the user to grant an extension access to a file system volume on ChromeOS.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_EXTENSIONS_DIALOGS_REQUEST_FILE_SYSTEM_DIALOG_H_
 #define CHROME_BROWSER_UI_VIEWS_EXTENSIONS_DIALOGS_REQUEST_FILE_SYSTEM_DIALOG_H_
 

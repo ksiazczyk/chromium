@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension install friction dialog interactive UI tests
+// summary: Interactive browser tests covering the extension install friction dialog, including the learn-more link and dialog closing when the tab is closed.
+// ---
+
 #include "chrome/browser/ui/extensions/extension_install_friction_dialog.h"
 
 #include "base/functional/callback_helpers.h"

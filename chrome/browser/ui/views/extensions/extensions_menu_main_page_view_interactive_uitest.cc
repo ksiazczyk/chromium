@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extensions menu main page interactive UI tests
+// summary: Interactive UI tests for the extensions menu main page covering site access requests and permission flows.
+// ---
+
 #include "chrome/browser/ui/views/extensions/extensions_menu_main_page_view.h"
 
 #include "base/command_line.h"

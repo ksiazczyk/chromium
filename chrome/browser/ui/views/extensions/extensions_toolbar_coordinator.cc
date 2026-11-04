@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extensions toolbar coordinator implementation
+// summary: Implements the coordinator that tracks the extensions toolbar container and owns its desktop view controller.
+// ---
+
 #include "chrome/browser/ui/views/extensions/extensions_toolbar_coordinator.h"
 
 #include "chrome/browser/ui/views/extensions/extensions_toolbar_desktop.h"

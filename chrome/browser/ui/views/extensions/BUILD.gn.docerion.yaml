@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for extension UI views
+summary: GN build file defining source sets for the extension UI views in this directory, including dialogs, menu views, and utility targets.

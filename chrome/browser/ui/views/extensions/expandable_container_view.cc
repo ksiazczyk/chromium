@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Expandable container view implementation
+// summary: Implements a view that shows details text with a link to expand or collapse additional details.
+// ---
+
 #include "chrome/browser/ui/views/extensions/expandable_container_view.h"
 
 #include <string>

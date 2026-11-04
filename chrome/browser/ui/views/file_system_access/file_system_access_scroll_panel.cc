@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File System Access scroll panel implementation
+// summary: Implements a scrollable panel that lists file paths with folder icons for File System Access API UI surfaces.
+// ---
+
 #include "chrome/browser/ui/views/file_system_access/file_system_access_scroll_panel.h"
 
 #include "base/files/file_path.h"

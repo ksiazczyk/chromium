@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension action delegate desktop header
+// summary: Declares ExtensionActionDelegateDesktop, which implements Views-specific extension action UI logic such as showing the action popup and context menu.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_EXTENSIONS_EXTENSION_ACTION_DELEGATE_DESKTOP_H_
 #define CHROME_BROWSER_UI_VIEWS_EXTENSIONS_EXTENSION_ACTION_DELEGATE_DESKTOP_H_
 

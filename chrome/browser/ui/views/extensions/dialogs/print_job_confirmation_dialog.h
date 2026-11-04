@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Print job confirmation dialog header
+// summary: Declares ShowPrintJobConfirmationDialog, which shows a ChromeOS confirmation bubble anchored to the extension toolbar icon before a print job starts.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_EXTENSIONS_DIALOGS_PRINT_JOB_CONFIRMATION_DIALOG_H_
 #define CHROME_BROWSER_UI_VIEWS_EXTENSIONS_DIALOGS_PRINT_JOB_CONFIRMATION_DIALOG_H_
 

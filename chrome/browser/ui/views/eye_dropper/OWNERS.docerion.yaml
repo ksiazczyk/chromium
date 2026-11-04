@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS listing eye dropper code owners
+summary: Names daniec@microsoft.com and joelhockey@chromium.org as the code owners responsible for reviewing changes in this directory.

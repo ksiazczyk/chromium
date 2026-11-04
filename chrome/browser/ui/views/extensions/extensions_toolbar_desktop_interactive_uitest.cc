@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop extensions toolbar interactive UI tests
+// summary: Interactive UI tests for the desktop extensions toolbar, covering menus, popups, install dialogs, and feature promos.
+// ---
+
 #include "chrome/browser/ui/views/extensions/extensions_toolbar_desktop.h"
 
 #include <optional>

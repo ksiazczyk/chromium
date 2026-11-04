@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for file system access views
+summary: Points this directory to the Blink>Storage>FileSystem issue tracker component and the storage-dev team mailing list.

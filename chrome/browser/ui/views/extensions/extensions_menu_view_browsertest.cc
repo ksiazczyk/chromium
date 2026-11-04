@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extensions menu view browser tests
+// summary: Browser tests covering the extensions menu bubble, its menu items, extension state changes, and accessibility behavior.
+// ---
+
 #include "chrome/browser/ui/views/extensions/extensions_menu_view.h"
 
 #include <algorithm>

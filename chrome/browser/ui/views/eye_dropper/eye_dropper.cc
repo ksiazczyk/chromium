@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShowEyeDropper fallback for platforms without eye dropper support
+// summary: Provides a ShowEyeDropper stub that returns null on platforms supporting neither Aura nor Mac.
+// ---
+
 #include "chrome/browser/ui/views/eye_dropper/eye_dropper.h"
 
 #include "build/build_config.h"

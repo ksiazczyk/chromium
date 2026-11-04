@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura implementation of ShowEyeDropper with Wayland portal support
+// summary: Implements ShowEyeDropper on Aura, routing Wayland sessions to the XDG portal and parenting the eye dropper view in a menu container on ChromeOS.
+// ---
+
 #include <memory>
 
 #include "build/build_config.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the eye dropper views and tests
+summary: Defines GN source sets for the eye dropper implementation plus interactive UI, unit and browser test targets, with platform-conditional sources and dependencies.

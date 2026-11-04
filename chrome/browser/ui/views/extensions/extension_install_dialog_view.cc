@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension install dialog view implementation
+// summary: Implements the Views-based extension install prompt dialog, showing extension details, permissions, and ratings with install and cancel actions.
+// ---
+
 #include "chrome/browser/ui/views/extensions/extension_install_dialog_view.h"
 
 #include <memory>

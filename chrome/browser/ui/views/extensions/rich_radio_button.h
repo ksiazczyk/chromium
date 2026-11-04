@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rich radio button header
+// summary: Declares RichRadioButton, a views button combining a radio button with icon, title, and description, modeled on the Android widget.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_EXTENSIONS_RICH_RADIO_BUTTON_H_
 #define CHROME_BROWSER_UI_VIEWS_EXTENSIONS_RICH_RADIO_BUTTON_H_
 

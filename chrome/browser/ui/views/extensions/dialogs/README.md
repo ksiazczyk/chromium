@@ -1,3 +1,13 @@
+---
+type: readme
+title: 'Extensions dialogs: steps for creating a new dialog'
+summary: Explains how to add a new extension dialog, covering the Show<Name>Dialog pattern, ui::DialogModel usage, and Kombucha interactive tests.
+relations:
+  - references /ui/base/models/dialog_model.h
+  - references /chrome/browser/ui/extensions/extension_dialog_utils.h
+  - references /chrome/test/interaction/README.md
+---
+
 ## Extensions Dialogs
 
 ### Steps for creating a new dialog
