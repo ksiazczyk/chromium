@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document picture-in-picture activity
+// summary: Android activity hosting web contents in a document picture-in-picture window, handling task management, dialogs, and page info UI.
+// ---
+
 package org.chromium.chrome.browser.media;
 
 import static android.view.Display.INVALID_DISPLAY;

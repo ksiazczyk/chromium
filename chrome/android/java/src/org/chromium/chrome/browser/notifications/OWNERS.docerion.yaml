@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Lists the code owners for the notifications directory, also covering related JUnit and instrumentation test directories.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incognito new tab page controller
+// summary: Controller for the incognito new tab page that manages its view, background color, context menus, and edge-to-edge insets.
+// ---
+
 package org.chromium.chrome.browser.ntp;
 
 import android.app.Activity;

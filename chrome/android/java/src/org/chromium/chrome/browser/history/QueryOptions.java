@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QueryOptions
+// summary: Defines filtering options for browsing history queries, including app ID, hostname, client IDs, and which visit sources to include.
+// ---
+
 package org.chromium.chrome.browser.history;
 
 import org.chromium.build.annotations.NullMarked;

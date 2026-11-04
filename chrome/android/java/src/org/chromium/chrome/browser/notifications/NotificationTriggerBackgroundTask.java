@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification trigger background task
+// summary: Background task that handles notification triggers scheduled by NotificationTriggerScheduler, loading native code so pending notifications can be displayed.
+// ---
+
 package org.chromium.chrome.browser.notifications;
 
 import android.content.Context;

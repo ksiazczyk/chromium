@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History overscroll navigation handler
+// summary: Handles history overscroll navigation for 3-button navigation mode, detecting edge swipes and controlling the arrow bubble UI.
+// ---
+
 package org.chromium.chrome.browser.gesturenav;
 
 import static org.chromium.build.NullUtil.assertNonNull;

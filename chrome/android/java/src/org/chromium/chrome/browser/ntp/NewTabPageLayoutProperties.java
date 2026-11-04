@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Property keys for the NewTabPageLayout view
+// summary: Defines writable property keys such as delegate, search box view, top inset, transition Y, and container width used to update the NewTabPageLayout.
+// ---
+
 package org.chromium.chrome.browser.ntp;
 
 import android.view.View;

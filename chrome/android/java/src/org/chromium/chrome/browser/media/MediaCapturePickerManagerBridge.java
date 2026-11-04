@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media capture picker JNI bridge
+// summary: JNI glue that receives picker dialog requests from the native backend, invokes the Android picker manager, and reports tab, window, screen, and cancel results back to native code.
+// ---
+
 package org.chromium.chrome.browser.media;
 
 import org.jni_zero.CalledByNative;

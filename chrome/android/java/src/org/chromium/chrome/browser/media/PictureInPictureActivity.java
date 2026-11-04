@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Picture-in-Picture activity for web API requests
+// summary: Activity created when a web API requests Picture-in-Picture, connecting to the web API through OverlayWindowAndroid and handling media action buttons.
+// ---
+
 package org.chromium.chrome.browser.media;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

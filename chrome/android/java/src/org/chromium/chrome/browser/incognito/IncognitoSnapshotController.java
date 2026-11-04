@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incognito snapshot controller base class
+// summary: Abstract base class that secures the window against snapshots when an incognito tab is visible, with an optional screenshot feature.
+// ---
+
 package org.chromium.chrome.browser.incognito;
 
 import android.app.Activity;

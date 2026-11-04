@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History desktop navigation coordinator
+// summary: Sets up the RecyclerView adapter and mediator for the history desktop navigation pane and tears them down on destroy.
+// ---
+
 package org.chromium.chrome.browser.history;
 
 import android.content.Context;

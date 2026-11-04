@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstalledAppProviderFactory
+// summary: Java factory that creates InstalledAppProvider Mojo service instances for the outermost main frame and terminates renderers sending requests from invalid frames.
+// ---
+
 package org.chromium.chrome.browser.installedapp;
 
 import org.chromium.build.annotations.NullMarked;

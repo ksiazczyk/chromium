@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incognito notification service implementation
+// summary: Handles the close-all-incognito notification action by closing incognito tabs, deleting persisted state, and clearing recents snapshots.
+// ---
+
 package org.chromium.chrome.browser.incognito;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Notifications directory common metadata
+summary: Declares the issue tracker component, team email and Buganizer component shared by the notifications directory.

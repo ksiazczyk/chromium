@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: OWNERS file redirecting code review ownership to the shared chrome browser hub OWNERS file.

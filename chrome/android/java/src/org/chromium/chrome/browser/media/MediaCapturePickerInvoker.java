@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media capture picker invoker
+// summary: Entry stub that shows the media capture picker UI through a service-loaded delegate, enforces one prompt per window, and forwards user picks to the manager delegate.
+// ---
+
 package org.chromium.chrome.browser.media;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

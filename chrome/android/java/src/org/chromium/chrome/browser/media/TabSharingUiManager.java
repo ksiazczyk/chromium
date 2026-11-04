@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabSharingUiManager
+// summary: Singleton manager that tracks active tab sharing sessions via bridge instances and broadcasts session start and stop events to registered observers.
+// ---
+
 package org.chromium.chrome.browser.media;
 
 import org.chromium.base.ObserverList;

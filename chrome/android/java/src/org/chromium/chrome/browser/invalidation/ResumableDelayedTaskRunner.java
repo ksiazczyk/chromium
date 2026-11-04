@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResumableDelayedTaskRunner
+// summary: Android Java utility that schedules a delayed runnable whose countdown can be paused, resumed, and cancelled, and that must be used on a single Looper thread.
+// ---
+
 package org.chromium.chrome.browser.invalidation;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Property keys for the New Tab Page fake search box
+// summary: Defines the writable property keys used to build and update the fake search box model, such as callbacks, visibility, icons, text, and layout values.
+// ---
+
 package org.chromium.chrome.browser.ntp.search;
 
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overscroll glow scene overlay
+// summary: Scene overlay rendering the overscroll glow effect on a compositor layer when gesture navigation cannot go forward any further.
+// ---
+
 package org.chromium.chrome.browser.gesturenav;
 
 import android.graphics.RectF;

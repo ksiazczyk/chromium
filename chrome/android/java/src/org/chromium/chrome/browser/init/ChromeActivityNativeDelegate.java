@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeActivityNativeDelegate interface
+// summary: Interface for activity-level delegates handling native-dependent lifecycle callbacks such as onCreateWithNative, onStartWithNative, and startup failure reporting.
+// ---
+
 package org.chromium.chrome.browser.init;
 
 import android.content.Intent;

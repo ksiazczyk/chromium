@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HubTabSwitcherMetricsRecorderUnitTest
+// summary: Robolectric unit tests for HubTabSwitcherMetricsRecorder verifying recorded user actions across regular and incognito tab models.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import static org.junit.Assert.assertEquals;

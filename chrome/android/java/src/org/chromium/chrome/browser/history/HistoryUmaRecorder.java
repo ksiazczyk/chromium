@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoryUmaRecorder for history UI metrics
+// summary: Records UMA user actions and histograms for the Android history UI, covering open, search, item removal, selection, copy link, and query timing events.
+// ---
+
 package org.chromium.chrome.browser.history;
 
 import org.chromium.base.metrics.RecordHistogram;

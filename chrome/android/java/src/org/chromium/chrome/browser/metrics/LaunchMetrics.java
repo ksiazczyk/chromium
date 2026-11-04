@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LaunchMetrics - Chrome Android launch metrics recorder
+// summary: Records Chrome launch metrics such as home screen, WebAPK and TWA launches, caching them until the native library is loaded before committing them to MetricsService.
+// ---
+
 package org.chromium.chrome.browser.metrics;
 
 import org.jni_zero.JNINamespace;

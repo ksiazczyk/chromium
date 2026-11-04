@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash recovery delegate for tabbed windows
+// summary: Recovers ChromeTabbedActivity windows from a previous session during app launch after a crash, including eligibility checks and a recovery prompt dialog.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import android.app.Activity;

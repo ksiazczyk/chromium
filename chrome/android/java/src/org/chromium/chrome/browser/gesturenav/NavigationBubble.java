@@ -1,6 +1,13 @@
 // Copyright 2019 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Gesture navigation bubble view
+// summary: View class for the gesture navigation bubble that shows an icon with optional text and animates color transitions for close-tab or close-app targets.
+// ---
+
 package org.chromium.chrome.browser.gesturenav;
 
 import android.animation.ValueAnimator;

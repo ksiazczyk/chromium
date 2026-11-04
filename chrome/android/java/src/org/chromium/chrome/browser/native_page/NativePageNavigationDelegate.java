@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation delegate interface for native pages
+// summary: Interface exposing common navigation methods for native page UIs, including opening URLs with dispositions and enabling incognito or other-window options.
+// ---
+
 package org.chromium.chrome.browser.native_page;
 
 import org.chromium.build.annotations.NullMarked;

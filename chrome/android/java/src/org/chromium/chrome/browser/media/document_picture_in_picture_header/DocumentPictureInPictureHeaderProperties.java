@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document Picture-in-Picture header property keys
+// summary: Defines the property model keys for the header, covering visibility, height, spacing, colors, security icon, URL display, and component size.
+// ---
+
 package org.chromium.chrome.browser.media.document_picture_in_picture_header;
 
 import android.content.res.ColorStateList;

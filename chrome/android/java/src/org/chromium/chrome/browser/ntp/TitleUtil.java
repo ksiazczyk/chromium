@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Link title utility
+// summary: Utility that returns a display title for a link, falling back to a shortened URL when the title is empty.
+// ---
+
 package org.chromium.chrome.browser.ntp;
 
 import android.text.TextUtils;

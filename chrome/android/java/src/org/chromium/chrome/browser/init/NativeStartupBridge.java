@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeStartupBridge
+// summary: JNI entry point that lets native code request a full browser start when Chrome is running in minimal browser mode.
+// ---
+
 package org.chromium.chrome.browser.init;
 
 import org.jni_zero.CalledByNative;

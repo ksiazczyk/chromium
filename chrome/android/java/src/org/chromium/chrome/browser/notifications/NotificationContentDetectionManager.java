@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationContentDetectionManager
+// summary: Replaces suspicious notifications with warning notifications and tracks user interactions for Safe Browsing UMA metrics.
+// ---
+
 package org.chromium.chrome.browser.notifications;
 
 import android.app.Notification;

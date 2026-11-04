@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus-acquiring scroll view for the incognito new tab page
+// summary: ScrollView wrapper that requests focus on tap, filters key events to arrows and space, and is used only by the incognito new tab page.
+// ---
+
 package org.chromium.chrome.browser.ntp;
 
 

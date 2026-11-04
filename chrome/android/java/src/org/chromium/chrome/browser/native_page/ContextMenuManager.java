@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Context menu manager for native pages
+// summary: Java class that creates and closes context menus on native pages and dispatches item clicks such as open in new tab, incognito, download, remove, and copy link address.
+// ---
+
 package org.chromium.chrome.browser.native_page;
 
 import android.view.View;

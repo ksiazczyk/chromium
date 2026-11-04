@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browsing history JNI bridge
+// summary: JNI bridge implementing HistoryProvider so Android can query, filter, and remove browsing history through native code.
+// ---
+
 package org.chromium.chrome.browser.history;
 
 import org.jni_zero.CalledByNative;

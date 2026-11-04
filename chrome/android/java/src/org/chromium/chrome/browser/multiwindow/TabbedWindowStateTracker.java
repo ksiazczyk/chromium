@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tabbed window state tracker
+// summary: Tracks and persists visibility state of a ChromeTabbedActivity window and records window width metrics as a ChromeAndroidTaskFeature.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import android.graphics.Rect;

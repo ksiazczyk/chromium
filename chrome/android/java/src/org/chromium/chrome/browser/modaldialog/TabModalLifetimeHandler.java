@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabModalLifetimeHandler
+// summary: Handles dismissal of tab modal dialogs on user actions outside the dialog, such as tab destruction, navigation, or back press.
+// ---
+
 package org.chromium.chrome.browser.modaldialog;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LensPolicyUtils
+// summary: Java utility class that reports whether the Lens camera assisted search enterprise policy is enabled, reading from the policy cache or native code and supporting a testing override.
+// ---
+
 package org.chromium.chrome.browser.lens;
 
 import org.jni_zero.NativeMethods;

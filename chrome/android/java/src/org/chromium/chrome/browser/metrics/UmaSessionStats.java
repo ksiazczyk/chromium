@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UmaSessionStats - UMA session stats for Chrome Android
+// summary: Sets up UMA session stats while the app is in the foreground, recording page load stats and communicating with the native MetricsService.
+// ---
+
 package org.chromium.chrome.browser.metrics;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

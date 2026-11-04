@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media capture picker tab observer
+// summary: Observer that tracks pickable tabs across tab models, filters them via a delegate, and forwards title, icon, and content update events to the capture picker.
+// ---
+
 package org.chromium.chrome.browser.media;
 
 import android.graphics.Bitmap;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Back navigation gesture action delegate
+// summary: Interface defining the actions taken when a back navigation gesture occurs, such as navigating back, closing the tab, or exiting the app.
+// ---
+
 package org.chromium.chrome.browser.gesturenav;
 
 import androidx.annotation.IntDef;

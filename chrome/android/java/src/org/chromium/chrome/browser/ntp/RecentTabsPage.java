@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecentTabsPage
+// summary: Native Recent Tabs page that lists recently closed tabs and tabs from synced devices in an expandable list view.
+// ---
+
 package org.chromium.chrome.browser.ntp;
 
 import android.app.Activity;

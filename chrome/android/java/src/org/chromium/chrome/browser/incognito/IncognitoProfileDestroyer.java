@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incognito profile destroyer
+// summary: Destroys the incognito profile when the last incognito tab is closed across all tab model selectors.
+// ---
+
 package org.chromium.chrome.browser.incognito;
 
 import org.chromium.build.annotations.NullMarked;

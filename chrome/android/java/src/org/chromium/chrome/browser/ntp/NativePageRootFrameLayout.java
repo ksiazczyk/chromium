@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Root frame layout for native pages
+// summary: FrameLayout base class for native page root views that disables fullscreen IME mode to fix landscape transitions.
+// ---
+
 package org.chromium.chrome.browser.ntp;
 
 

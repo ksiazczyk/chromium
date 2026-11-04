@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Coordinator for the New Tab Page realbox embedding a location bar
+// summary: Implements NtpSearchBox by embedding an actual location bar, with many operations delegated to the location bar or still marked as unimplemented.
+// ---
+
 package org.chromium.chrome.browser.ntp.search;
 
 import android.graphics.Point;

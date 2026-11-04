@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FullscreenHtmlApiHandlerCompat
+// summary: Compat implementation of the HTML fullscreen handler that hides and shows system bars using WindowInsetsControllerCompat.
+// ---
+
 package org.chromium.chrome.browser.fullscreen;
 
 import android.app.Activity;

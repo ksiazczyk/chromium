@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserParts startup delegate interface
+// summary: Interface that AsyncInitializationActivity subclasses implement to receive ordered pre-native and post-native startup callbacks from ChromeBrowserInitializer.
+// ---
+
 package org.chromium.chrome.browser.init;
 
 import org.chromium.build.annotations.NullMarked;

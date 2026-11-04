@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecentTabsCoordinator
+// summary: Encapsulates the UI logic for the Recent Tabs screen, wiring the list view, adapter, context menus and edge-to-edge padding.
+// ---
+
 package org.chromium.chrome.browser.ntp;
 
 import android.app.Activity;

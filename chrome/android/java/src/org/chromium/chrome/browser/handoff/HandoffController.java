@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HandoffController for Android Handoff integration
+// summary: Java class that orchestrates Chrome's Android Handoff integration, managing per-activity opt-in state and handling data requests from the Android platform.
+// ---
+
 package org.chromium.chrome.browser.handoff;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

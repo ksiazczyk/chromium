@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View binder for NewTabPageLayout property updates
+// summary: Pushes property model changes to the NewTabPageLayout view, handling delegate, layout change listener, search box, insets, translation, and container width.
+// ---
+
 package org.chromium.chrome.browser.ntp;
 
 import static org.chromium.chrome.browser.ntp.NewTabPageLayoutProperties.COMPOSEPLATE_AND_MVT_CONTAINER_WIDTH_PX;

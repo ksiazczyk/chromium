@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the latency injection directory
+summary: Lists the code owner responsible for the Chrome Android latency injection directory.

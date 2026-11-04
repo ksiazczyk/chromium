@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome process kill and restart controller
+// summary: Handles requests to kill and optionally restart Chrome's main browser process by finishing activities and firing an intent to BrowserRestartActivity.
+// ---
+
 package org.chromium.chrome.browser.init;
 
 import android.app.Activity;

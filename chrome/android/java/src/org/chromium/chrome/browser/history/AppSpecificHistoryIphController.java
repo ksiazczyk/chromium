@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App-specific history IPH controller
+// summary: Shows an in-product help bubble for the app-specific history feature, anchored to the toolbar search menu item.
+// ---
+
 package org.chromium.chrome.browser.history;
 
 import android.app.Activity;

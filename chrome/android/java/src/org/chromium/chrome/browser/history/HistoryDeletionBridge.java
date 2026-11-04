@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History deletion notification bridge
+// summary: Per-profile JNI bridge that notifies registered observers when browsing history URLs are deleted in native code.
+// ---
+
 package org.chromium.chrome.browser.history;
 
 import androidx.annotation.VisibleForTesting;

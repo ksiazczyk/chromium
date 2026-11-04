@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationJobService
+// summary: Split-compatible job service stub that loads the chrome split and delegates to NotificationJobServiceImpl.
+// ---
+
 package org.chromium.chrome.browser.notifications;
 
 import org.chromium.build.annotations.IdentifierNameString;

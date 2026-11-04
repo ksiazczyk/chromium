@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionsInvalidationManager
+// summary: Singleton manager that enables or disables SESSIONS sync invalidations with a short delay depending on whether a RecentTabsPage is open, for the Android UI thread.
+// ---
+
 package org.chromium.chrome.browser.invalidation;
 
 import android.text.format.DateUtils;

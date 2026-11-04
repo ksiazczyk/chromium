@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'ConnectivityDetector: Android network connectivity detection'
+// summary: Java class that determines the Chrome Android connection state from the Android system or HTTP probes of well-known URLs, retrying with exponential backoff and recording histograms.
+// ---
+
 package org.chromium.chrome.browser.net.connectivitydetector;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History navigation coordinator
+// summary: Coordinator that initializes and manages the gesture navigation UI, observing tabs, insets, fullscreen state, and side UI changes.
+// ---
+
 package org.chromium.chrome.browser.gesturenav;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

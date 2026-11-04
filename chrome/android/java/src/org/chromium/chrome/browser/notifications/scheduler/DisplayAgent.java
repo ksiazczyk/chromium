@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayAgent
+// summary: Android agent that builds and displays scheduled notifications in the Android UI on behalf of the notification scheduler, including icons and action buttons.
+// ---
+
 package org.chromium.chrome.browser.notifications.scheduler;
 
 import static org.chromium.build.NullUtil.assertNonNull;

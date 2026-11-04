@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativePageAssassin singleton for freezing hidden native pages
+// summary: Singleton that tracks recently hidden tabs and freezes their native pages to keep inactive pages from consuming memory.
+// ---
+
 package org.chromium.chrome.browser.native_page;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New tab page creation state
+// summary: Per-tab user data that tracks whether a new tab page was newly created and focuses the omnibox once the page finishes loading.
+// ---
+
 package org.chromium.chrome.browser.ntp;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

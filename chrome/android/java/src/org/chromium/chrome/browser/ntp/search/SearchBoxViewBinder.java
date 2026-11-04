@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: View binder for the New Tab Page search box
+// summary: Binds SearchBoxProperties model changes to the SearchBoxContainerView, applying callbacks, visibility, tint, and layout updates for each property key.
+// ---
+
 package org.chromium.chrome.browser.ntp.search;
 
 import android.content.res.ColorStateList;

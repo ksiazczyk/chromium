@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incognito notification presence controller
+// summary: Observes the incognito tab model to show the incognito notification when tabs appear and dismiss it when none remain.
+// ---
+
 package org.chromium.chrome.browser.incognito;
 
 import org.chromium.build.annotations.NullMarked;

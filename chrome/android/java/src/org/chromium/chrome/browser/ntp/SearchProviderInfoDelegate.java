@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Search provider info delegate
+// summary: Delegate holding search provider information for the New Tab Page, such as logo state, Google detection and AI Mode entry point configuration.
+// ---
+
 package org.chromium.chrome.browser.ntp;
 
 import org.chromium.build.annotations.NullMarked;

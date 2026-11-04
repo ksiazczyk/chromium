@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HomepageManager
+// summary: Central gateway for homepage enabled state and URL on Chrome Android, tracking policy and partner customizations and notifying listeners of homepage changes.
+// ---
+
 package org.chromium.chrome.browser.homepage;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

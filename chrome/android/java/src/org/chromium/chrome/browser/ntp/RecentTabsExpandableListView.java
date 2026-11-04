@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecentTabsExpandableListView
+// summary: Custom ExpandableListView for the Recent Tabs page that applies tablet-specific width and padding handling.
+// ---
+
 package org.chromium.chrome.browser.ntp;
 
 import android.content.Context;

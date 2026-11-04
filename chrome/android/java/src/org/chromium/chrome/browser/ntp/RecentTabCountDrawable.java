@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecentTabCountDrawable
+// summary: Drawable that renders a stacked icon with a tab count number for bulk tab closures on the Recent Tabs page.
+// ---
+
 package org.chromium.chrome.browser.ntp;
 
 import android.content.Context;

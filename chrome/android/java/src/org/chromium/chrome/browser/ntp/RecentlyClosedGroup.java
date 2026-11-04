@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recently closed tab group model
+// summary: Model of a recently closed tab group from TabRestoreService, exposing its title, color and list of contained tabs.
+// ---
+
 package org.chromium.chrome.browser.ntp;
 
 import org.chromium.build.annotations.NullMarked;

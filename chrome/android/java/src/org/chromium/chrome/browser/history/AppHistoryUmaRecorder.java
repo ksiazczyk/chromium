@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-app history UMA recorder
+// summary: Records user action metrics for the in-app history page under the Android.AppHistoryPage prefix, extending the base history UMA recorder.
+// ---
+
 package org.chromium.chrome.browser.history;
 
 import org.chromium.build.annotations.NullMarked;

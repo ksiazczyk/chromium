@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gesture navigation view model properties
+// summary: Defines the writable property keys used by the gesture navigation view model, including action, direction, edge, and bubble offset.
+// ---
+
 package org.chromium.chrome.browser.gesturenav;
 
 import org.chromium.build.annotations.NullMarked;

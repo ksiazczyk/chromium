@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gesture user education IPH controller
+// summary: Controller that shows in-product help educating users about gesture navigation, using Lottie animations, a scrim, and gesture detection.
+// ---
+
 package org.chromium.chrome.browser.gesturenav;
 
 import android.animation.Animator;

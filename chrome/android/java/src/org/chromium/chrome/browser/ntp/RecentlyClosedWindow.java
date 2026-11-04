@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recently closed window model
+// summary: Model of a recently closed window from MultiInstanceManager, exposing instance ID, tab count, title and active tab details.
+// ---
+
 package org.chromium.chrome.browser.ntp;
 
 import org.chromium.build.annotations.NullMarked;

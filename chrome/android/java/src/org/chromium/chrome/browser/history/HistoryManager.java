@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History manager
+// summary: Central manager that combines the history UI components, handling selection, search, snackbars, deletion, and preferences.
+// ---
+
 package org.chromium.chrome.browser.history;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

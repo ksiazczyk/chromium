@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HomepagePolicyManager
+// summary: Monitors homepage-related enterprise policies on Chrome Android and exposes managed homepage state, home button policy, and policy updates to listeners.
+// ---
+
 package org.chromium.chrome.browser.homepage;
 
 import androidx.annotation.VisibleForTesting;

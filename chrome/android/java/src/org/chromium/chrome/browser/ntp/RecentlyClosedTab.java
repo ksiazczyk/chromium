@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Recently closed tab model
+// summary: Model of a recently closed tab from TabRestoreService, holding title, URL and optional tab group ID, created via JNI from native code.
+// ---
+
 package org.chromium.chrome.browser.ntp;
 
 import org.jni_zero.CalledByNative;

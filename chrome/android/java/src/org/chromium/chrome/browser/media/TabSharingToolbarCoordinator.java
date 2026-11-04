@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab sharing toolbar coordinator
+// summary: Coordinator that inflates the tab sharing toolbar layout and wires its model, view binder, and mediator for each sharing session.
+// ---
+
 package org.chromium.chrome.browser.media;
 
 import android.content.Context;

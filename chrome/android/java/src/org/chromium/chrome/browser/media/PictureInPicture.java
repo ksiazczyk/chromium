@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PictureInPicture availability utility
+// summary: Utility that checks whether Picture-in-Picture is supported by the device and enabled for Chrome in the system's per-application settings.
+// ---
+
 package org.chromium.chrome.browser.media;
 
 import android.app.AppOpsManager;

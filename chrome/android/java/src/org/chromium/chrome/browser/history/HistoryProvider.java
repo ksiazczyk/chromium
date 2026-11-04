@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HistoryProvider interface for browsing history
+// summary: Defines a Java interface for querying and managing browsing history, with observers for query results, deletions, apps, and synced client device groups.
+// ---
+
 package org.chromium.chrome.browser.history;
 
 import org.chromium.base.Callback;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Activity profile provider initialization
+// summary: Supplies a ProfileProvider for an activity, creating regular and incognito profiles once ProfileManager is ready and cleaning up on destroy.
+// ---
+
 package org.chromium.chrome.browser.init;
 
 import org.chromium.base.supplier.OneshotSupplierImpl;

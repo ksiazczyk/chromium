@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Container view for the New Tab Page search box layout
+// summary: Custom LinearLayout that wires up the hint text, search engine icon, voice, Lens and plus buttons, and the AI chip, with touch delegate and styling handling.
+// ---
+
 package org.chromium.chrome.browser.ntp.search;
 
 import android.content.Context;

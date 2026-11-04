@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base delegate for tabbed startup window restoration
+// summary: Abstract base delegate that handles startup window restoration, crash recovery state, and task cleanup for tabbed Chrome windows.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import android.app.Activity;

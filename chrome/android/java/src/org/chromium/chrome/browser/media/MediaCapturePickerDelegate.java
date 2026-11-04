@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media capture picker delegate interface
+// summary: Interface that delegates media capture picker creation to Clank, defining screen capture intent creation, picked tab retrieval, and app content projection callbacks.
+// ---
+
 package org.chromium.chrome.browser.media;
 
 import android.content.Context;

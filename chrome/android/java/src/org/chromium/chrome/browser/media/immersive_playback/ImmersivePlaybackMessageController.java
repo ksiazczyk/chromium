@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Immersive playback confirmation message controller
+// summary: Controls the immersive playback confirmation message banner, dismissing it on navigation or fullscreen exit and opening the format selection dialog when the user confirms.
+// ---
+
 package org.chromium.chrome.browser.media.immersive_playback;
 
 import android.content.Context;

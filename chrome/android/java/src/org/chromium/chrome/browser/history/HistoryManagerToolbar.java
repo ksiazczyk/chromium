@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History manager toolbar
+// summary: Selection toolbar for the history UI that manages menu item visibility, delete and copy-link actions, and info header visibility.
+// ---
+
 package org.chromium.chrome.browser.history;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

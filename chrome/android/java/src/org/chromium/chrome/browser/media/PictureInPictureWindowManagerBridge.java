@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PictureInPictureWindowManager JNI bridge
+// summary: Bridge between the C++ PictureInPictureWindowManager and Java that exposes an observable supplier tracking whether a Picture-in-Picture window is active.
+// ---
+
 package org.chromium.chrome.browser.media;
 
 import org.jni_zero.CalledByNative;

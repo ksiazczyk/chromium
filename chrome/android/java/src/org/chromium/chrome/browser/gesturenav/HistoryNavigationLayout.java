@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History navigation layout
+// summary: FrameLayout that hosts the side slide gesture UI for history navigation, showing and managing the arrow bubble during gestures.
+// ---
+
 package org.chromium.chrome.browser.gesturenav;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

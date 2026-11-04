@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Utilities for new tab page layout and feature options
+// summary: Helper methods for tiles layout margins, Aurora padding styles, layout types, and action chip enums used when launching the new tab page.
+// ---
+
 package org.chromium.chrome.browser.ntp;
 
 import android.content.res.Resources;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History item view
+// summary: Selectable list item view for history entries that renders favicons, a remove button, and source app chips.
+// ---
+
 package org.chromium.chrome.browser.history;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

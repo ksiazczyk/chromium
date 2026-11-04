@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoOverlayActivity
+// summary: Abstract base class for video overlay activities such as Picture-in-Picture and Immersive Playback, handling shared lifecycle, profile, and JNI setup.
+// ---
+
 package org.chromium.chrome.browser.media;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

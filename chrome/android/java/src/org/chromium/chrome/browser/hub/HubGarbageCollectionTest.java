@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HubGarbageCollectionTest
+// summary: Instrumentation tests verifying that Hub coordinator and views become garbage collectible after leaving the Hub.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import static org.junit.Assert.assertNotNull;

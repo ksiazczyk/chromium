@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeInterfaceRegistrar
+// summary: Registers Chrome-layer Mojo interface implementations such as PaymentRequest, InstalledAppProvider, Authenticator, DigitalGoodsFactory and ShareService with the render frame host interface registry on native call.
+// ---
+
 package org.chromium.chrome.browser.mojo;
 
 import org.jni_zero.CalledByNative;

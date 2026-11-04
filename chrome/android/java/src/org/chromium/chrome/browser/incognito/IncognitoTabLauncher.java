@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incognito tab launcher activity
+// summary: Exported activity that launches a new incognito tab with a blank omnibox, verifying the calling app's package name.
+// ---
+
 package org.chromium.chrome.browser.incognito;
 
 import android.app.Activity;

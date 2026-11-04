@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecentTabsManager
+// summary: Provides the domain logic and data for the Recent Tabs page, covering foreign sessions, recently closed tabs, sync state and the sign-in promo.
+// ---
+
 package org.chromium.chrome.browser.ntp;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

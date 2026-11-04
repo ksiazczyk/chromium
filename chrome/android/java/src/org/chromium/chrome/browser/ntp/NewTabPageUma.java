@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UMA recording of new tab page user actions
+// summary: Records user actions and impressions on the new tab page into the NewTabPage.ActionAndroid2 histogram, with constants kept in sync with enums.xml.
+// ---
+
 package org.chromium.chrome.browser.ntp;
 
 

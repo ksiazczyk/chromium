@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup window policy delegate for tabbed activity
+// summary: Manages startup window policies and relaunch session restoration for ChromeTabbedActivity windows, including launch allocation modes and startup URL resolution.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import static org.chromium.build.NullUtil.assertNonNull;

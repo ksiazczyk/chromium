@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the connectivitydetector directory
+summary: Chromium OWNERS file that delegates code ownership of this directory to the offline pages OWNERS file.

@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Common metadata for the NTP directory
+summary: Shared directory metadata specifying the owning team email and public Buganizer component for the NTP folder.

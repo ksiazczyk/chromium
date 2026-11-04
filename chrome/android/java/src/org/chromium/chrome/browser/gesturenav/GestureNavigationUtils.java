@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gesture navigation utility helpers
+// summary: Helper class for gesture navigation that checks transition support, detects gesture navigation mode, and provides test overrides.
+// ---
+
 package org.chromium.chrome.browser.gesturenav;
 
 import android.os.Build.VERSION;

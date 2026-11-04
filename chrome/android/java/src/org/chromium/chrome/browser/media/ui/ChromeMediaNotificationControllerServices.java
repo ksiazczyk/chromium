@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Services exposing the media notification controller delegate
+// summary: Defines SplitCompatService subclasses for playback, presentation and cast listeners that expose the delegate's service implementations from the base module.
+// ---
+
 package org.chromium.chrome.browser.media.ui;
 
 import org.chromium.base.SplitCompatService;

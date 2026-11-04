@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation sheet interface
+// summary: Interface defining methods for controlling the navigation history bottom sheet, including creation, gesture-driven updates, and open/close state queries.
+// ---
+
 package org.chromium.chrome.browser.gesturenav;
 
 import android.content.Context;

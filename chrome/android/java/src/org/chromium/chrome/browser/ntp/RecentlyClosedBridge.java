@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecentlyClosedBridge
+// summary: JNI bridge that lets Java code get, restore and clear the list of recently closed tabs, groups and bulk events.
+// ---
+
 package org.chromium.chrome.browser.ntp;
 
 import androidx.annotation.VisibleForTesting;

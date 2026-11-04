@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New tab page controller
+// summary: Core controller for the Chrome Android new tab page, coordinating the feed surface, customization, metrics, and browser controls.
+// ---
+
 package org.chromium.chrome.browser.ntp;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

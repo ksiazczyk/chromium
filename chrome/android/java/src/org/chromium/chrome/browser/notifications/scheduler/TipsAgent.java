@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TipsAgent
+// summary: Agent that schedules and displays tips notifications and shows tips promos through the Android UI based on backend criteria.
+// ---
+
 package org.chromium.chrome.browser.notifications.scheduler;
 
 import android.content.Context;

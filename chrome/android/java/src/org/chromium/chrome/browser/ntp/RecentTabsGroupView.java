@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecentTabsGroupView
+// summary: Header view for each group on the Recent Tabs page, showing the group name, icon, last synced time and an expand/collapse button.
+// ---
+
 package org.chromium.chrome.browser.ntp;
 
 import static android.view.accessibility.AccessibilityNodeInfo.AccessibilityAction.ACTION_COLLAPSE;

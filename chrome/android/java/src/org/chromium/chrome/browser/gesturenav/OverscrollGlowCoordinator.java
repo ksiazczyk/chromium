@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overscroll glow coordinator
+// summary: Coordinator that controls the overscroll glow effect, forwarding gesture events to the compositor-based glow overlay.
+// ---
+
 package org.chromium.chrome.browser.gesturenav;
 
 import android.view.ViewGroup;

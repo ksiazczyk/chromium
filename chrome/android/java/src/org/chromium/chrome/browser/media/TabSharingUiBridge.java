@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabSharingUiBridge
+// summary: Java JNI bridge that connects the tab sharing toolbar UI to the native backend, tracking capturer and capturee WebContents and supporting stop and source-switch operations.
+// ---
+
 package org.chromium.chrome.browser.media;
 
 import org.jni_zero.CalledByNative;

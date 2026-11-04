@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media capture notification service stub
+// summary: Split-compatible service entry point that delegates to MediaCaptureNotificationServiceImpl for media capture notifications.
+// ---
+
 package org.chromium.chrome.browser.media;
 
 import org.chromium.base.SplitCompatService;

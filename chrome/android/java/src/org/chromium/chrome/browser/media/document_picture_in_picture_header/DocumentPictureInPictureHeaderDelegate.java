@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document Picture-in-Picture header delegate interface
+// summary: Interface for header actions such as back-to-tab and security icon clicks, plus window pinning, display access, and resizing.
+// ---
+
 package org.chromium.chrome.browser.media.document_picture_in_picture_header;
 
 import org.chromium.build.annotations.NullMarked;

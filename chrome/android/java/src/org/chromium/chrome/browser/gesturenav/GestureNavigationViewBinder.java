@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Gesture navigation view binder
+// summary: Binds gesture navigation property model changes to the history navigation layout, updating bubble actions and offsets.
+// ---
+
 package org.chromium.chrome.browser.gesturenav;
 
 import static org.chromium.chrome.browser.gesturenav.GestureNavigationProperties.ACTION;

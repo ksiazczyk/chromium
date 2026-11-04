@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Headless fragment for MediaProjection capture prompt
+// summary: Headless per-Activity fragment that launches the Android MediaProjection capture prompt and delivers capture actions to delegates keyed by task id.
+// ---
+
 package org.chromium.chrome.browser.media;
 
 import android.app.Activity;

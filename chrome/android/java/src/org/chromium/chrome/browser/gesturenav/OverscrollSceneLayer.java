@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OverscrollSceneLayer
+// summary: Java-side SceneOverlayLayer implementation for the gesture navigation overscroll glow effect, bridging to native code via JNI to prepare, update, release and reset the animation.
+// ---
+
 package org.chromium.chrome.browser.gesturenav;
 
 import android.view.View;

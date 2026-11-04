@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeMediaRouterClient
+// summary: Java class providing Chrome-specific Media Router behavior on Android, including notifications, tab intents, and deferred task handling.
+// ---
+
 package org.chromium.chrome.browser.media.router;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser history info header preference
+// summary: Reads and writes the shared preference that controls whether the info header is shown in the browser history UI.
+// ---
+
 package org.chromium.chrome.browser.history;
 
 import org.chromium.build.annotations.NullMarked;

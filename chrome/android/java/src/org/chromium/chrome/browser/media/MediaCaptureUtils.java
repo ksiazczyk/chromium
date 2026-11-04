@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media capture utilities
+// summary: Shared utility methods for the media capture picker and sharing sessions, including bringing the window of a shared tab to the front.
+// ---
+
 package org.chromium.chrome.browser.media;
 
 import android.app.Activity;

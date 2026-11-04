@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Async pre-native startup task runner
+// summary: Runs background startup tasks before the native side starts, currently native library loading and fetching the variations seed on first run.
+// ---
+
 package org.chromium.chrome.browser.init;
 
 import androidx.annotation.VisibleForTesting;
