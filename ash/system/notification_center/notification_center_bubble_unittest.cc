@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification center bubble unit tests
+// summary: Tests bubble height and bounds constraints in tablet mode and when display size changes.
+// ---
+
 #include "ash/system/notification_center/notification_center_bubble.h"
 
 #include <cstdint>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageViewFactory class header
+// summary: Declares the factory that builds message views per notification type and manages custom notification view factory callbacks.
+// ---
+
 #ifndef ASH_SYSTEM_NOTIFICATION_CENTER_MESSAGE_VIEW_FACTORY_H_
 #define ASH_SYSTEM_NOTIFICATION_CENTER_MESSAGE_VIEW_FACTORY_H_
 

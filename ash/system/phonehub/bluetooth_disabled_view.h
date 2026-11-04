@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth disabled interstitial view header
+// summary: Declares the BluetoothDisabledView class representing the Phone Hub error state shown when Bluetooth is turned off on the device.
+// ---
+
 #ifndef ASH_SYSTEM_PHONEHUB_BLUETOOTH_DISABLED_VIEW_H_
 #define ASH_SYSTEM_PHONEHUB_BLUETOOTH_DISABLED_VIEW_H_
 

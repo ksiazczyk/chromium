@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Palette tray test API
+// summary: Declares PaletteTrayTestApi, giving tests access to the tray's tool manager, welcome bubble, bubble wrapper, accessible name, and stylus state handling.
+// ---
+
 #ifndef ASH_SYSTEM_PALETTE_PALETTE_TRAY_TEST_API_H_
 #define ASH_SYSTEM_PALETTE_PALETTE_TRAY_TEST_API_H_
 

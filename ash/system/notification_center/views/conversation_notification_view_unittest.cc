@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Conversation notification view unit tests
+// summary: Unit tests for ConversationNotificationView covering expand and collapse behavior, inline settings, and view visibility using AshTestBase.
+// ---
+
 #include "ash/system/notification_center/views/conversation_notification_view.h"
 
 #include "ash/system/notification_center/views/notification_actions_view.h"

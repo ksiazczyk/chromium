@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub more apps button implementation
+// summary: Implements the Phone Hub button that shows the first three apps from the phone's app drawer with a loading animation and opens the full apps list.
+// ---
+
 #include "ash/system/phonehub/phone_hub_more_apps_button.h"
 
 #include <memory>

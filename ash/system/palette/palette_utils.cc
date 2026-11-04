@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Palette utility functions
+// summary: Implements palette_utils helpers that check whether a screen point falls within a palette tray and whether the current session can show stylus tools.
+// ---
+
 #include "ash/system/palette/palette_utils.h"
 
 #include "ash/public/cpp/stylus_utils.h"

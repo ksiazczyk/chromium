@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message view container implementation
+// summary: Implements MessageViewContainer, which wraps a message view in the notification list, managing corner radii, backgrounds, expand state, and slide-out behavior.
+// ---
+
 #include "ash/system/notification_center/views/message_view_container.h"
 
 #include "ash/constants/ash_features.h"

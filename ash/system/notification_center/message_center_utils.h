@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message center utility declarations
+// summary: Declares helpers for sorting and counting notifications, generating group IDs, locating view controllers, and running animations.
+// ---
+
 #ifndef ASH_SYSTEM_NOTIFICATION_CENTER_MESSAGE_CENTER_UTILS_H_
 #define ASH_SYSTEM_NOTIFICATION_CENTER_MESSAGE_CENTER_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Continue browsing chip class declaration
+// summary: Declares the ContinueBrowsingChip button representing a web page left off on the connected phone, storing its URL, position among sibling chips and user action recorder.
+// ---
+
 #ifndef ASH_SYSTEM_PHONEHUB_CONTINUE_BROWSING_CHIP_H_
 #define ASH_SYSTEM_PHONEHUB_CONTINUE_BROWSING_CHIP_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationCenterTray class declaration
+// summary: Declares the tray button displaying available notifications, its observer interface, and methods for bubble handling, visibility, and accessibility updates.
+// ---
+
 #ifndef ASH_SYSTEM_NOTIFICATION_CENTER_NOTIFICATION_CENTER_TRAY_H_
 #define ASH_SYSTEM_NOTIFICATION_CENTER_NOTIFICATION_CENTER_TRAY_H_
 

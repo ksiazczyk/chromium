@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App stream launcher view implementation
+// summary: Implements the Phone Hub panel page listing apps the user can launch for app streaming, with a header, scrollable app list, and data model updates.
+// ---
+
 #include "ash/system/phonehub/app_stream_launcher_view.h"
 
 #include <cmath>

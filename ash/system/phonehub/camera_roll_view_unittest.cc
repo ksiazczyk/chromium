@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Camera roll view unit tests
+// summary: Unit tests for the Phone Hub camera roll view, covering opt-in states, image and video thumbnails, and metrics using a fake camera roll manager and user action recorder.
+// ---
+
 #include "ash/system/phonehub/camera_roll_view.h"
 
 #include "ash/system/phonehub/camera_roll_thumbnail.h"

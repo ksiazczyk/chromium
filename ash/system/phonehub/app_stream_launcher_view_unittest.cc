@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App stream launcher view unit tests
+// summary: Unit tests for the Phone Hub app stream launcher view, covering opening the view and adding app items with a fake Phone Hub manager.
+// ---
+
 #include "ash/system/phonehub/app_stream_launcher_view.h"
 
 #include "ash/constants/ash_features.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AshNotificationExpandButton implementation
+// summary: Implements the expand button for ash notification views, providing single-to-group animations, expand and collapse tooltip texts, and animation histogram names.
+// ---
+
 #include "ash/system/notification_center/views/ash_notification_expand_button.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stacked notification bar implementation
+// summary: Implements the stacked notification bar view in the notification center, including stacked notification icons with layer animations and the Clear All pill button.
+// ---
+
 #include "ash/system/notification_center/stacked_notification_bar.h"
 
 #include <algorithm>

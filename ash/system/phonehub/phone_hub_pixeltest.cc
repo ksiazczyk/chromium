@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Phone Hub pixel tests for tray icon and bubble
+// summary: Pixel tests verifying the appearance of the Phone Hub tray icon and its bubble across shelf alignments and feature connection statuses.
+// ---
+
 #include <memory>
 #include <optional>
 

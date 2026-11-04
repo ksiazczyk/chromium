@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub onboarding view header
+// summary: Declares OnboardingView, the entry point UI asking multidevice users to opt in to Phone Hub, including dismiss prompt and nudge-origin handling.
+// ---
+
 #ifndef ASH_SYSTEM_PHONEHUB_ONBOARDING_VIEW_H_
 #define ASH_SYSTEM_PHONEHUB_ONBOARDING_VIEW_H_
 

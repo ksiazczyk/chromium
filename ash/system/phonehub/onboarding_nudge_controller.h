@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub onboarding nudge controller header
+// summary: Declares the controller that shows the Phone Hub onboarding nudge when eligible devices are found, tracking show counts, timing, and synced-device prefs.
+// ---
+
 #ifndef ASH_SYSTEM_PHONEHUB_ONBOARDING_NUDGE_CONTROLLER_H_
 #define ASH_SYSTEM_PHONEHUB_ONBOARDING_NUDGE_CONTROLLER_H_
 

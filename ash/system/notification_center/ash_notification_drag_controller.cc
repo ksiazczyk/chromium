@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash notification drag controller implementation
+// summary: Implements drag-and-drop handling for Ash notification views, including drag image setup and notification removal after a copy drop.
+// ---
+
 #include "ash/system/notification_center/ash_notification_drag_controller.h"
 
 #include "ash/root_window_controller.h"

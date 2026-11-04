@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tether connection pending view implementation
+// summary: Implements the interstitial view shown while a tether hotspot connection to Phone Hub is in progress.
+// ---
+
 #include "ash/system/phonehub/tether_connection_pending_view.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification actions view unit tests
+// summary: Unit tests for NotificationActionsView verifying inline reply visibility, textfield focus, send button state, and reply callback behavior.
+// ---
+
 #include "ash/system/notification_center/views/notification_actions_view.h"
 
 #include "ash/style/icon_button.h"

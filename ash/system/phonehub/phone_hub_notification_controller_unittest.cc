@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Phone Hub notification controller unit tests
+// summary: Unit tests for the Phone Hub notification controller, covering notification creation, inline reply disabling, custom action rows and phone name display.
+// ---
+
 #include "ash/system/phonehub/phone_hub_notification_controller.h"
 
 #include "ash/constants/ash_features.h"

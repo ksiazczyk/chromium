@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConversationItemView class declaration
+// summary: Declares a flex layout view that shows an icon, title, and message associated with a notification item.
+// ---
+
 #ifndef ASH_SYSTEM_NOTIFICATION_CENTER_VIEWS_CONVERSATION_ITEM_VIEW_H_
 #define ASH_SYSTEM_NOTIFICATION_CENTER_VIEWS_CONVERSATION_ITEM_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PhoneStatusView class declaration
+// summary: Declares the header row view at the top of the Phone Hub panel that displays the phone name and status icons such as signal and battery.
+// ---
+
 #ifndef ASH_SYSTEM_PHONEHUB_PHONE_STATUS_VIEW_H_
 #define ASH_SYSTEM_PHONEHUB_PHONE_STATUS_VIEW_H_
 

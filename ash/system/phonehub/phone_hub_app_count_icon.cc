@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub app count icon implementation
+// summary: Implements the AppCountIcon view that renders a small Phone Hub app icon displaying a numeric app count.
+// ---
+
 #include "ash/system/phonehub/phone_hub_app_count_icon.h"
 
 #include "ash/style/ash_color_id.h"

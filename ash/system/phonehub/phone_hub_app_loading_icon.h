@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub app loading icon class declaration
+// summary: Declares the AppLoadingIcon view that shows a pulsing placeholder and starts or stops its loading animation.
+// ---
+
 #ifndef ASH_SYSTEM_PHONEHUB_PHONE_HUB_APP_LOADING_ICON_H_
 #define ASH_SYSTEM_PHONEHUB_PHONE_HUB_APP_LOADING_ICON_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification grouping controller implementation
+// summary: Implements grouping of child notifications under parent notifications, tracking parent-child relationships and updating the notification center views accordingly.
+// ---
+
 #include "ash/system/notification_center/notification_grouping_controller.h"
 
 #include <algorithm>

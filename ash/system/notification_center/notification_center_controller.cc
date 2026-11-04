@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification center controller implementation
+// summary: Implements NotificationCenterController, which creates and updates the notification center view and manages pinned system notifications in an ongoing process list while observing MessageCenter.
+// ---
+
 #include "ash/system/notification_center/notification_center_controller.h"
 
 #include "ash/constants/ash_features.h"

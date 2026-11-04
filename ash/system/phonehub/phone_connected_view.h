@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub connected view header
+// summary: Declares PhoneConnectedView, which displays phone status and utility actions and shows app stream connection error dialogs.
+// ---
+
 #ifndef ASH_SYSTEM_PHONEHUB_PHONE_CONNECTED_VIEW_H_
 #define ASH_SYSTEM_PHONEHUB_PHONE_CONNECTED_VIEW_H_
 

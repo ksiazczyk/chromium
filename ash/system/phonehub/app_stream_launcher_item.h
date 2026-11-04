@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App stream launcher item header
+// summary: Declares a view that pairs a Phone Hub recent app button with an app name label for the app streaming launcher.
+// ---
+
 #ifndef ASH_SYSTEM_PHONEHUB_APP_STREAM_LAUNCHER_ITEM_H_
 #define ASH_SYSTEM_PHONEHUB_APP_STREAM_LAUNCHER_ITEM_H_
 

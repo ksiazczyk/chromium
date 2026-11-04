@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App stream connection error dialog implementation
+// summary: Implements the dialog shown when an app streaming connection fails, with tethering and troubleshooting actions anchored to the Phone Hub bubble.
+// ---
+
 #include "ash/system/phonehub/app_stream_connection_error_dialog.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub sub-feature opt-in view implementation
+// summary: Implements the Phone Hub bubble entry point for granting or dismissing opt-in to sub-features such as camera roll, messaging, and notifications.
+// ---
+
 #include "ash/system/phonehub/sub_feature_opt_in_view.h"
 
 #include <string>

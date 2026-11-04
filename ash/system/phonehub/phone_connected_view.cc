@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub connected view implementation
+// summary: Builds the Phone Hub panel shown when a phone is connected, adding opt-in, quick actions, task continuation, camera roll, and recent apps views.
+// ---
+
 #include "ash/system/phonehub/phone_connected_view.h"
 
 #include <memory>

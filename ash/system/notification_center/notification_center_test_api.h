@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NotificationCenterTestApi class declaration
+// summary: Declares a utility class offering methods to add custom, pinned, system, and progress notifications and to toggle the notification center bubble for easier testing.
+// ---
+
 #ifndef ASH_SYSTEM_NOTIFICATION_CENTER_NOTIFICATION_CENTER_TEST_API_H_
 #define ASH_SYSTEM_NOTIFICATION_CENTER_NOTIFICATION_CENTER_TEST_API_H_
 

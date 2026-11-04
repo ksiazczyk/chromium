@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Session state notification blocker unit tests
+// summary: Unit tests verifying that SessionStateNotificationBlocker shows or blocks notifications and popups across session states, kiosk mode, lock screen and priority cases.
+// ---
+
 #include "ash/system/notification_center/session_state_notification_blocker.h"
 
 #include <memory>

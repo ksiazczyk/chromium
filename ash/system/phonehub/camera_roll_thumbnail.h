@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera Roll thumbnail button header
+// summary: Declares the CameraRollThumbnail menu button that displays photo or video thumbnails, shows a context menu, and requests downloads with throttling.
+// ---
+
 #ifndef ASH_SYSTEM_PHONEHUB_CAMERA_ROLL_THUMBNAIL_H_
 #define ASH_SYSTEM_PHONEHUB_CAMERA_ROLL_THUMBNAIL_H_
 

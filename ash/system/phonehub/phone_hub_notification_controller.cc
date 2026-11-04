@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub notification controller implementation
+// summary: Implements the controller that creates and manages Chrome OS message center notifications for Phone Hub, including inline replies, tether and Camera Roll notifications.
+// ---
+
 #include "ash/system/phonehub/phone_hub_notification_controller.h"
 
 #include "ash/constants/ash_features.h"

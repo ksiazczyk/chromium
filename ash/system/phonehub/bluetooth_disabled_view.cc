@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth disabled interstitial view implementation
+// summary: Implements the Phone Hub interstitial shown when Bluetooth is disabled, with an error image, description, Learn more button, and metrics logging.
+// ---
+
 #include "ash/system/phonehub/bluetooth_disabled_view.h"
 
 #include "ash/public/cpp/new_window_delegate.h"

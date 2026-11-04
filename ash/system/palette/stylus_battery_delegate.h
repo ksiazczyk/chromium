@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stylus battery delegate class declaration
+// summary: Declares StylusBatteryDelegate, an observer of the peripheral battery listener exposing stylus battery level, charging state, and status display conditions.
+// ---
+
 #ifndef ASH_SYSTEM_PALETTE_STYLUS_BATTERY_DELEGATE_H_
 #define ASH_SYSTEM_PALETTE_STYLUS_BATTERY_DELEGATE_H_
 

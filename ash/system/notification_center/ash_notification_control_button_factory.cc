@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash notification control button factory implementation
+// summary: Creates ash-styled extra small floating icon buttons used as controls in notification views.
+// ---
+
 #include "ash/system/notification_center/ash_notification_control_button_factory.h"
 
 #include "ash/style/icon_button.h"

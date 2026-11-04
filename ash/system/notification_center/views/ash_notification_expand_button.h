@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AshNotificationExpandButton class declaration
+// summary: Declares the customized expand button for ash notification views, used for grouped and singular notifications, with animation and tooltip overrides.
+// ---
+
 #ifndef ASH_SYSTEM_NOTIFICATION_CENTER_VIEWS_ASH_NOTIFICATION_EXPAND_BUTTON_H_
 #define ASH_SYSTEM_NOTIFICATION_CENTER_VIEWS_ASH_NOTIFICATION_EXPAND_BUTTON_H_
 

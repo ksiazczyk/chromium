@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MessagePopupAnimationWaiter unit tests
+// summary: Unit tests verifying the popup animation waiter completes correctly for active and idle message popup collections.
+// ---
+
 #include "ash/system/notification_center/message_popup_animation_waiter.h"
 
 #include "ash/system/notification_center/message_center_test_util.h"

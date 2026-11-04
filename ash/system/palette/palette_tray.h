@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Palette tray class declaration
+// summary: Declares PaletteTray, the per-display tray that shows the stylus palette at the bottom of the screen and controls the lifetime of the palette tools.
+// ---
+
 #ifndef ASH_SYSTEM_PALETTE_PALETTE_TRAY_H_
 #define ASH_SYSTEM_PALETTE_PALETTE_TRAY_H_
 

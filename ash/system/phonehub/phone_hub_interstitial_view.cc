@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub interstitial view implementation
+// summary: Builds interstitial pages with optional progress bar, image, title, description and buttons for Phone Hub states.
+// ---
+
 #include "ash/system/phonehub/phone_hub_interstitial_view.h"
 
 #include <memory>

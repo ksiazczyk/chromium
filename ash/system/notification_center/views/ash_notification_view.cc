@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AshNotificationView implementation
+// summary: Implements the main ChromeOS notification view for web, basic, image, and list notifications, covering expansion, grouping, drag and drop, and animations.
+// ---
+
 #include "ash/system/notification_center/views/ash_notification_view.h"
 
 #include <algorithm>

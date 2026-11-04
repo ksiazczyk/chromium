@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub recent apps view header
+// summary: Declares the PhoneHubRecentAppsView class and its header, buttons, loading, and placeholder subviews for showing recent apps in the Phone Hub bubble.
+// ---
+
 #ifndef ASH_SYSTEM_PHONEHUB_PHONE_HUB_RECENT_APPS_VIEW_H_
 #define ASH_SYSTEM_PHONEHUB_PHONE_HUB_RECENT_APPS_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Palette tool manager unit tests
+// summary: Unit tests for PaletteToolManager verifying that tools can be enabled and disabled and that activating a tool only deactivates tools in the same group.
+// ---
+
 #include <memory>
 
 #include "ash/system/palette/palette_tool.h"

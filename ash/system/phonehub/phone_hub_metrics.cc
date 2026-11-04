@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub metrics logging implementation
+// summary: Implements UMA metrics logging for Phone Hub, covering interstitial screens, quick actions, notifications, tab continuation chips and Camera Roll interactions.
+// ---
+
 #include "ash/system/phonehub/phone_hub_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

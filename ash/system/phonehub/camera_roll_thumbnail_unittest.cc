@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Camera Roll thumbnail unit tests
+// summary: Unit tests for Camera Roll thumbnails covering image and video rendering, left-click downloads with throttling and backoff, and right-click context menus.
+// ---
+
 #include "ash/system/phonehub/camera_roll_thumbnail.h"
 
 #include "ash/resources/vector_icons/vector_icons.h"

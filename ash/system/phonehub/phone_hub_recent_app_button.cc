@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub recent app button implementation
+// summary: Implements the Phone Hub recent app image button that shows a resized app icon with focus ring, ink drop, accessibility name and tooltip.
+// ---
+
 #include "ash/system/phonehub/phone_hub_recent_app_button.h"
 
 #include <utility>

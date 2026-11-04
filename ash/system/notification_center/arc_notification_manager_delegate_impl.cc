@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC notification manager delegate implementation
+// summary: Implements the ash delegate for ARC notifications, reporting managed guest or kiosk sessions and showing or hiding the message center bubble.
+// ---
+
 #include "ash/system/notification_center/arc_notification_manager_delegate_impl.h"
 
 #include "ash/login_status.h"

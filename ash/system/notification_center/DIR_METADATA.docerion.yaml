@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Notification center directory metadata
+summary: Metadata for the notification center directory, listing the owning team email, common metadata mixins, and Buganizer component IDs.

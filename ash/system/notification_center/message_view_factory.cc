@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageViewFactory implementation
+// summary: Creates message views for notifications by type, including custom, conversation, and pinned ongoing process views.
+// ---
+
 #include "ash/system/notification_center/message_view_factory.h"
 
 #include <memory>

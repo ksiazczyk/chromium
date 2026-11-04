@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification metrics unit tests
+// summary: Tests that notification metrics histograms are recorded correctly for view types, groups, and system notifications.
+// ---
+
 #include "ash/system/notification_center/metrics_utils.h"
 
 #include <memory>

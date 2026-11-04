@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub UI controller implementation
+// summary: Implements the controller that maps PhoneHubManager state to the corresponding content view in the tray bubble and records screen metrics for each UI state.
+// ---
+
 #include "ash/system/phonehub/phone_hub_ui_controller.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Palette tray unit tests
+// summary: Ash test suite for PaletteTray covering tray visibility, stylus insertion and ejection, welcome bubble behavior, and preference handling.
+// ---
+
 #include "ash/system/palette/palette_tray.h"
 
 #include <memory>

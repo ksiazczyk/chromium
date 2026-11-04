@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overview button tray class declaration
+// summary: Declares the OverviewButtonTray class, a status area tray button that toggles Overview Mode and observes overview, tablet mode, and shelf config changes.
+// ---
+
 #ifndef ASH_SYSTEM_OVERVIEW_OVERVIEW_BUTTON_TRAY_H_
 #define ASH_SYSTEM_OVERVIEW_OVERVIEW_BUTTON_TRAY_H_
 

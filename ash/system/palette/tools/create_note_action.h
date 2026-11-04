@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CreateNoteAction palette tool class declaration
+// summary: Declares the ash palette tool class that launches the selected note-taking app and dynamically hides itself when no note-taking client is available.
+// ---
+
 #ifndef ASH_SYSTEM_PALETTE_TOOLS_CREATE_NOTE_ACTION_H_
 #define ASH_SYSTEM_PALETTE_TOOLS_CREATE_NOTE_ACTION_H_
 

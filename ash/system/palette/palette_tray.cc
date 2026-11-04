@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Palette tray implementation
+// summary: Implements the PaletteTray status area tray that shows the stylus tools palette on displays with stylus hardware, managing prefs, bubble behavior, and tool lifetime.
+// ---
+
 #include "ash/system/palette/palette_tray.h"
 
 #include <algorithm>

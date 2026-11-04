@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App stream launcher list item implementation
+// summary: Implements a label button representing a streamable app in the launcher list, with resized icons and accessibility names based on streamability.
+// ---
+
 #include "ash/system/phonehub/app_stream_launcher_list_item.h"
 
 #include "ash/strings/grit/ash_strings.h"

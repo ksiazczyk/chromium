@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub connecting view header
+// summary: Declares PhoneConnectingView, the interstitial UI shown while connecting to the phone for the first time or resuming an interrupted connection.
+// ---
+
 #ifndef ASH_SYSTEM_PHONEHUB_PHONE_CONNECTING_VIEW_H_
 #define ASH_SYSTEM_PHONEHUB_PHONE_CONNECTING_VIEW_H_
 

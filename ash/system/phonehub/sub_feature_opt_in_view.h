@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub sub-feature opt-in view declaration
+// summary: Declares SubFeatureOptInView, a Phone Hub bubble entry point for users to grant access to or opt out of Phone Hub sub-features.
+// ---
+
 #ifndef ASH_SYSTEM_PHONEHUB_SUB_FEATURE_OPT_IN_VIEW_H_
 #define ASH_SYSTEM_PHONEHUB_SUB_FEATURE_OPT_IN_VIEW_H_
 

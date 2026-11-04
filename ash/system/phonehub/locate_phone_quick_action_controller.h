@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Locate phone quick action controller declaration
+// summary: Declares the controller for the Phone Hub locate phone quick action, tracking the requested ringing state and a timer that verifies it matches FindMyDeviceController.
+// ---
+
 #ifndef ASH_SYSTEM_PHONEHUB_LOCATE_PHONE_QUICK_ACTION_CONTROLLER_H_
 #define ASH_SYSTEM_PHONEHUB_LOCATE_PHONE_QUICK_ACTION_CONTROLLER_H_
 

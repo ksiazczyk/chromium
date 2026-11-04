@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub onboarding nudge controller implementation
+// summary: Shows and tracks the Phone Hub onboarding nudge anchored to the shelf, registering prefs for shown time and appearance counts and handling click, dismiss and hover events.
+// ---
+
 #include "ash/system/phonehub/onboarding_nudge_controller.h"
 
 #include <algorithm>

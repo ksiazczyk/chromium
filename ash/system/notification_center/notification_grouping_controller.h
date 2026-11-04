@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification grouping controller header
+// summary: Declares NotificationGroupingController, a MessageCenterObserver that manages adding, removing and updating grouped notifications in the Ash notification center.
+// ---
+
 #ifndef ASH_SYSTEM_NOTIFICATION_CENTER_NOTIFICATION_GROUPING_CONTROLLER_H_
 #define ASH_SYSTEM_NOTIFICATION_CENTER_NOTIFICATION_GROUPING_CONTROLLER_H_
 

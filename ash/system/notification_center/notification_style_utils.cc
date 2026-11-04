@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification style utilities implementation
+// summary: Implements style helpers for notification views, including app and item icon creation, icon background colors, label styling, notification backgrounds and inline settings views.
+// ---
+
 #include "ash/system/notification_center/notification_style_utils.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MagnifierMode palette tool class declaration
+// summary: Declares the palette tool exposing a partial screen magnifier that appears dynamically when the user presses the screen.
+// ---
+
 #ifndef ASH_SYSTEM_PALETTE_TOOLS_MAGNIFIER_MODE_H_
 #define ASH_SYSTEM_PALETTE_TOOLS_MAGNIFIER_MODE_H_
 

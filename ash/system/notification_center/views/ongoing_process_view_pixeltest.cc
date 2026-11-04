@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OngoingProcessView pixel tests
+// summary: Parameterized pixel tests that render OngoingProcessView across title, message, button type and system blur variations and compare screenshots.
+// ---
+
 #include "ash/constants/ash_features.h"
 #include "ash/resources/vector_icons/vector_icons.h"
 #include "ash/system/notification_center/notification_center_test_api.h"

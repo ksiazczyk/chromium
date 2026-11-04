@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StackedNotificationBar view header for Ash notification center
+// summary: Declares StackedNotificationBar, an Ash notification center view showing the header above the notification list with icons for hidden notifications, counts, and a clear-all button.
+// ---
+
 #ifndef ASH_SYSTEM_NOTIFICATION_CENTER_STACKED_NOTIFICATION_BAR_H_
 #define ASH_SYSTEM_NOTIFICATION_CENTER_STACKED_NOTIFICATION_BAR_H_
 

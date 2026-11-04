@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub task continuation view implementation
+// summary: Implements the Phone Hub view that displays chips for resuming unfinished browser tasks from the connected phone.
+// ---
+
 #include "ash/system/phonehub/task_continuation_view.h"
 
 #include "ash/strings/grit/ash_strings.h"

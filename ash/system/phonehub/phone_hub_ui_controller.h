@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub UI controller header
+// summary: Declares PhoneHubUiController, which translates PhoneHubManager state into the main content and status header views displayed in the Phone Hub tray bubble.
+// ---
+
 #ifndef ASH_SYSTEM_PHONEHUB_PHONE_HUB_UI_CONTROLLER_H_
 #define ASH_SYSTEM_PHONEHUB_PHONE_HUB_UI_CONTROLLER_H_
 

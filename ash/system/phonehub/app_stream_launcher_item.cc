@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App stream launcher item implementation
+// summary: Implements a launcher item combining a recent app button and app name label, graying out icons for apps that cannot be streamed.
+// ---
+
 #include "ash/system/phonehub/app_stream_launcher_item.h"
 
 #include <utility>

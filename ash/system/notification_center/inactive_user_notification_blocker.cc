@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Inactive user notification blocker implementation
+// summary: Implements a blocker that hides notifications from inactive user profiles in multi-user sessions and restores per-user quiet mode.
+// ---
+
 #include "ash/system/notification_center/inactive_user_notification_blocker.h"
 
 #include "ash/session/session_controller_impl.h"

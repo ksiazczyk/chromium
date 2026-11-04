@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification style utilities header
+// summary: Declares utility functions for styling notification views, such as icon creation, label configuration, themed backgrounds, popup styling and inline settings views.
+// ---
+
 #ifndef ASH_SYSTEM_NOTIFICATION_CENTER_NOTIFICATION_STYLE_UTILS_H_
 #define ASH_SYSTEM_NOTIFICATION_CENTER_NOTIFICATION_STYLE_UTILS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multidevice feature opt-in view declaration
+// summary: Declares the Phone Hub entry point for granting or opting out of multidevice feature access, observing notification and camera roll access changes to update visibility.
+// ---
+
 #ifndef ASH_SYSTEM_PHONEHUB_MULTIDEVICE_FEATURE_OPT_IN_VIEW_H_
 #define ASH_SYSTEM_PHONEHUB_MULTIDEVICE_FEATURE_OPT_IN_VIEW_H_
 

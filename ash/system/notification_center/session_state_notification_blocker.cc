@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session state notification blocker implementation
+// summary: Implements a notification blocker that suppresses notifications and popups based on session state, kiosk mode, lock screen and PrefService readiness, with exceptions for allowed OOBE and system notifications.
+// ---
+
 #include "ash/system/notification_center/session_state_notification_blocker.h"
 
 #include <algorithm>

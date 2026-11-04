@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message center utility functions
+// summary: Implements helpers for notification sorting, counting, group ID generation, view controller lookup, and fade and slide animations.
+// ---
+
 #include "ash/system/notification_center/message_center_utils.h"
 
 #include <algorithm>

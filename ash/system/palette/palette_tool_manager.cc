@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Palette tool manager implementation
+// summary: Implements PaletteToolManager, which owns registered tools, keeps one active tool per group, and creates the palette views for each tool.
+// ---
+
 #include "ash/system/palette/palette_tool_manager.h"
 
 #include <algorithm>

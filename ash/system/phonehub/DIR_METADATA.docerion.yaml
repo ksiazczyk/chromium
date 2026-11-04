@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Phone Hub UI directory metadata
+summary: Points the ash Phone Hub UI directory to the shared Phone Hub component metadata mixins.

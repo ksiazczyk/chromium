@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ongoing process view implementation
+// summary: Implements the view for ongoing process notifications with icon, title, subtitle, and control buttons, logging metrics when title or icon is missing.
+// ---
+
 #include "ash/system/notification_center/views/ongoing_process_view.h"
 
 #include <string>

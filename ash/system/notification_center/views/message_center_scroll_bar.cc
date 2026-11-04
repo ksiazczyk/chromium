@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message center scroll bar implementation
+// summary: Implements the message center scroll bar, recording UMA metrics for scroll action reasons and presentation time while scrolling the notification list.
+// ---
+
 #include "ash/system/notification_center/views/message_center_scroll_bar.h"
 
 #include "ash/controls/rounded_scroll_bar.h"

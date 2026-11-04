@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub app count icon class declaration
+// summary: Declares the AppCountIcon view, a small Phone Hub app icon that shows a numeric app count.
+// ---
+
 #ifndef ASH_SYSTEM_PHONEHUB_PHONE_HUB_APP_COUNT_ICON_H_
 #define ASH_SYSTEM_PHONEHUB_PHONE_HUB_APP_COUNT_ICON_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Phone Hub tray unit tests
+// summary: Unit tests for the Phone Hub tray covering bubble behavior, onboarding nudges, context menu, feature states, and status area metrics using fake Phone Hub managers.
+// ---
+
 #include "ash/system/phonehub/phone_hub_tray.h"
 
 #include <string>

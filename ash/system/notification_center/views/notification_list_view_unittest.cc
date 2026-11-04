@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification list view unit tests
+// summary: Unit tests for NotificationListView covering animations, notification bounds, and clear-all behavior using test notification views.
+// ---
+
 #include "ash/system/notification_center/views/notification_list_view.h"
 
 #include "ash/constants/ash_features.h"

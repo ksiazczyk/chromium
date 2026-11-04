@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub app icon implementation
+// summary: Implements the AppIcon base view that resizes an app icon image to the requested size.
+// ---
+
 #include "ash/system/phonehub/phone_hub_app_icon.h"
 #include "ui/base/metadata/metadata_impl_macros.h"
 #include "ui/gfx/image/image_skia.h"

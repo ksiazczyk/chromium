@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Silence phone quick action controller declaration
+// summary: Declares the controller for the Phone Hub quick action item that toggles the phone's silence (Do Not Disturb) mode.
+// ---
+
 #ifndef ASH_SYSTEM_PHONEHUB_SILENCE_PHONE_QUICK_ACTION_CONTROLLER_H_
 #define ASH_SYSTEM_PHONEHUB_SILENCE_PHONE_QUICK_ACTION_CONTROLLER_H_
 

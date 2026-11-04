@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Create note action implementation for the ash stylus palette
+// summary: Implements the palette tool that launches the selected note-taking app, including stylus bluetooth button handling and hiding the action on external displays.
+// ---
+
 #include "ash/system/palette/tools/create_note_action.h"
 
 #include "ash/public/cpp/note_taking_client.h"

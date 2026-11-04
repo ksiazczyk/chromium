@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Palette welcome bubble class declarations
+// summary: Declares PaletteWelcomeBubbleView and PaletteWelcomeBubble, which display a one-time warm welcome bubble for the palette tray when a stylus is first used.
+// ---
+
 #ifndef ASH_SYSTEM_PALETTE_PALETTE_WELCOME_BUBBLE_H_
 #define ASH_SYSTEM_PALETTE_PALETTE_WELCOME_BUBBLE_H_
 

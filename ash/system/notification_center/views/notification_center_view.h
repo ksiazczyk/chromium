@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification center view class declaration
+// summary: Declares NotificationCenterView, a view that manages scrolling of the notification list and updates the stacked notification bar.
+// ---
+
 #ifndef ASH_SYSTEM_NOTIFICATION_CENTER_VIEWS_NOTIFICATION_CENTER_VIEW_H_
 #define ASH_SYSTEM_NOTIFICATION_CENTER_VIEWS_NOTIFICATION_CENTER_VIEW_H_
 

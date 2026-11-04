@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Continue browsing chip implementation
+// summary: Implements a clickable Phone Hub chip that shows a tab the user left open on their phone, displaying its favicon and URL and opening the page when pressed.
+// ---
+
 #include "ash/system/phonehub/continue_browsing_chip.h"
 
 #include "ash/public/cpp/new_window_delegate.h"

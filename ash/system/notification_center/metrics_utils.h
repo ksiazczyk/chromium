@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification metrics enums header
+// summary: Declares enums for detailed notification types, view variations, expand button actions, and group types used in histograms.
+// ---
+
 #ifndef ASH_SYSTEM_NOTIFICATION_CENTER_METRICS_UTILS_H_
 #define ASH_SYSTEM_NOTIFICATION_CENTER_METRICS_UTILS_H_
 

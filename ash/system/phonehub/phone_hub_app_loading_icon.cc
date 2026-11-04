@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Phone Hub app loading icon implementation
+// summary: Implements the AppLoadingIcon placeholder circle with a repeated fade loading animation.
+// ---
+
 #include "ash/system/phonehub/phone_hub_app_loading_icon.h"
 
 #include "ash/style/ash_color_id.h"

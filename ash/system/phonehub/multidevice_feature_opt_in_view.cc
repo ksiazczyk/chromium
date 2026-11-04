@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multidevice feature opt-in view implementation
+// summary: Implements the Phone Hub onboarding view that lets users grant or dismiss access for notifications, messaging apps and camera roll, linking to the multidevice settings opt-in flow.
+// ---
+
 #include "ash/system/phonehub/multidevice_feature_opt_in_view.h"
 
 #include <memory>

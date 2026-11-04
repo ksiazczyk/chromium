@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Palette tool base class declaration
+// summary: Declares the PaletteTool base class and its Delegate interface for shelf palette actions, where only one tool per group can be active.
+// ---
+
 #ifndef ASH_SYSTEM_PALETTE_PALETTE_TOOL_H_
 #define ASH_SYSTEM_PALETTE_PALETTE_TOOL_H_
 

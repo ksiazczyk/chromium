@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Magnifier mode palette tool implementation
+// summary: Implements the palette tool that enables and disables the partial screen magnifier through the PartialMagnifierController.
+// ---
+
 #include "ash/system/palette/tools/magnifier_mode.h"
 
 #include "ash/accessibility/magnifier/partial_magnifier_controller.h"

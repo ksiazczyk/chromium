@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stylus battery view unit tests
+// summary: Unit tests verifying the accessible role and name of the stylus battery view, including updates after a new battery level is reported.
+// ---
+
 #include "ash/system/palette/stylus_battery_view.h"
 
 #include "ash/strings/grit/ash_strings.h"

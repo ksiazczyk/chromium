@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification center bubble implementation
+// summary: Implements the tray bubble that hosts the notification center view and updates its bounds on display changes.
+// ---
+
 #include "ash/system/notification_center/notification_center_bubble.h"
 
 #include <memory>

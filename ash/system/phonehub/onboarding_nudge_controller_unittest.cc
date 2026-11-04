@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Phone Hub onboarding nudge controller unit tests
+// summary: Unit tests for the onboarding nudge controller, covering nudge display, pref updates for eligible devices, and action metrics using a test clock.
+// ---
+
 #include "ash/system/phonehub/onboarding_nudge_controller.h"
 
 #include <memory>

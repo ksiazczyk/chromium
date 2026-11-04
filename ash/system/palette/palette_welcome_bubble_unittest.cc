@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Palette welcome bubble unit tests
+// summary: Unit tests for the palette welcome bubble, covering show and hide behavior, the shown-once preference, and closing the bubble by tapping outside it.
+// ---
+
 #include "ash/system/palette/palette_welcome_bubble.h"
 
 #include "ash/constants/ash_pref_names.h"

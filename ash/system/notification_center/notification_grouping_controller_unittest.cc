@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Notification grouping controller unit tests
+// summary: Unit tests for NotificationGroupingController covering grouping, ungrouping and parent notification behavior using test doubles for the notification view controller.
+// ---
+
 #include "ash/system/notification_center/notification_grouping_controller.h"
 
 #include <memory>

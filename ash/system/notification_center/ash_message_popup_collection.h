@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash message popup collection header
+// summary: Declares AshMessagePopupCollection and its notifier collision handler, adapting notification popups to shelf alignment and autohide state.
+// ---
+
 #ifndef ASH_SYSTEM_NOTIFICATION_CENTER_ASH_MESSAGE_POPUP_COLLECTION_H_
 #define ASH_SYSTEM_NOTIFICATION_CENTER_ASH_MESSAGE_POPUP_COLLECTION_H_
 

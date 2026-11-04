@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification metrics recorder implementation
+// summary: Implements NotificationMetricsRecorder, logging metrics for notification additions, clicks, inline replies, hovers, popup expirations and notifications shown in the first minute after login.
+// ---
+
 #include "ash/system/notification_center/notification_metrics_recorder.h"
 
 #include "ash/session/session_controller_impl.h"

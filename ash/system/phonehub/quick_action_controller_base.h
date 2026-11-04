@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickActionControllerBase
+// summary: Declares the base class for Phone Hub quick action controllers, which create and update their QuickActionItem views.
+// ---
+
 #ifndef ASH_SYSTEM_PHONEHUB_QUICK_ACTION_CONTROLLER_BASE_H_
 #define ASH_SYSTEM_PHONEHUB_QUICK_ACTION_CONTROLLER_BASE_H_
 

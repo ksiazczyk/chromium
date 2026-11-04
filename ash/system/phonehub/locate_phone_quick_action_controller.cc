@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Locate phone quick action controller implementation
+// summary: Implements the Phone Hub quick action that rings the connected phone, requesting ringing state changes via FindMyDeviceController and reconciling the item state after a timeout.
+// ---
+
 #include "ash/system/phonehub/locate_phone_quick_action_controller.h"
 
 #include "ash/constants/ash_features.h"

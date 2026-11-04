@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Palette identifiers and enums
+// summary: Defines palette enums for tool groups, tool identifiers, UMA histogram options, mode cancellation types, and invocation methods.
+// ---
+
 #ifndef ASH_SYSTEM_PALETTE_PALETTE_IDS_H_
 #define ASH_SYSTEM_PALETTE_PALETTE_IDS_H_
 
