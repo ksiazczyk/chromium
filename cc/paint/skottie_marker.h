@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skottie marker struct
+// summary: Defines the SkottieMarker struct with a name and begin and end times, mirroring the skottie::MarkerObserver API for Skottie animation markers.
+// ---
+
 #ifndef CC_PAINT_SKOTTIE_MARKER_H_
 #define CC_PAINT_SKOTTIE_MARKER_H_
 

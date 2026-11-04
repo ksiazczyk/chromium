@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilterOperations implementation
+// summary: Implements the FilterOperations list, including rect mapping and expansion plus checks for filters that move pixels or affect opacity.
+// ---
+
 #include "cc/paint/filter_operations.h"
 
 #include <stddef.h>

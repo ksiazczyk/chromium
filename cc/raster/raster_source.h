@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Raster source header
+// summary: Declares the RasterSource class with PlaybackSettings and methods for rastering recordings into tiles and analyzing solid color content.
+// ---
+
 #ifndef CC_RASTER_RASTER_SOURCE_H_
 #define CC_RASTER_RASTER_SOURCE_H_
 

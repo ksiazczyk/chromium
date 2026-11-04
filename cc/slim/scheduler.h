@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scheduler and SchedulerClient interfaces
+// summary: Declares the Scheduler interface controlling slim compositor frame timing and the SchedulerClient the compositor implements to produce or skip frames.
+// ---
+
 #ifndef CC_SLIM_SCHEDULER_H_
 #define CC_SLIM_SCHEDULER_H_
 

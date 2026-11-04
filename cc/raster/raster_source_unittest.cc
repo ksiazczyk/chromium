@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Raster source unit tests
+// summary: Unit tests for RasterSource covering solid color analysis at various scales, playback behavior and image provider interaction.
+// ---
+
 #include "cc/raster/raster_source.h"
 
 #include <stddef.h>

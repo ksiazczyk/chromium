@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transfer cache entry implementation
+// summary: Implements ServiceTransferCacheEntry creation, safe type conversion, and GPU context usage checks per entry type.
+// ---
+
 #include "cc/paint/transfer_cache_entry.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clear rects for opaque raster calculation
+// summary: Implements CalculateClearForOpaqueRasterRects, which computes device-space rects to clear so rasterized opaque content stays fully opaque under translation or scale.
+// ---
+
 #include "cc/paint/clear_for_opaque_raster.h"
 
 #include <cmath>

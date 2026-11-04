@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaintRecord class declaration
+// summary: Declares PaintRecord, a cheap-to-copy read-only wrapper around PaintOpBuffer that exposes playback, content usage queries, and STL-like iteration over paint operations.
+// ---
+
 #ifndef CC_PAINT_PAINT_RECORD_H_
 #define CC_PAINT_PAINT_RECORD_H_
 

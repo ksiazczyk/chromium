@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaintImage implementation
+// summary: Implements the PaintImage class, covering image and content IDs, frame metadata, decoding mode negotiation, gainmap support and texture backing.
+// ---
+
 #include "cc/paint/paint_image.h"
 
 #include <algorithm>

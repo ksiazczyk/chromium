@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerTree interface for hosting slim layer trees
+// summary: Declares the LayerTree interface that hosts a tree of slim Layers, managing frame sinks, visibility, viewport, background color, and presentation callbacks.
+// ---
+
 #ifndef CC_SLIM_LAYER_TREE_H_
 #define CC_SLIM_LAYER_TREE_H_
 

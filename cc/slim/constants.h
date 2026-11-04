@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Slim compositor constants
+// summary: Defines constants for the slim compositor, including unneeded begin frame thresholds, software texture size limits, and minimum occlusion tracking dimensions.
+// ---
+
 #ifndef CC_SLIM_CONSTANTS_H_
 #define CC_SLIM_CONSTANTS_H_
 

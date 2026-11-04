@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DiscardableImageMap class declaration
+// summary: Declares DiscardableImageMap, which tracks discardable images by rect and animated image metadata, letting clients query images intersecting a given rect.
+// ---
+
 #ifndef CC_PAINT_DISCARDABLE_IMAGE_MAP_H_
 #define CC_PAINT_DISCARDABLE_IMAGE_MAP_H_
 

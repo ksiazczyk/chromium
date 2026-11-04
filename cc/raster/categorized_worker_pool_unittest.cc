@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Categorized worker pool unit tests
+// summary: Tests the categorized worker pool's task runner, sequenced task runner and task graph runner behavior, including background task concurrency rules.
+// ---
+
 #include "cc/raster/categorized_worker_pool.h"
 
 #include <utility>

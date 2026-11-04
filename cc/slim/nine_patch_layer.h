@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NinePatchLayer class declaration
+// summary: Declares NinePatchLayer, a UIResourceLayer subclass that draws a nine-patch image with border, aperture, center fill, and nearest-neighbor options.
+// ---
+
 #ifndef CC_SLIM_NINE_PATCH_LAYER_H_
 #define CC_SLIM_NINE_PATCH_LAYER_H_
 

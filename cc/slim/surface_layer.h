@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SurfaceLayer class declaration
+// summary: Declares a layer that embeds content from another viz client, with APIs for surface id, fallback, stretching, and offset tag registration.
+// ---
+
 #ifndef CC_SLIM_SURFACE_LAYER_H_
 #define CC_SLIM_SURFACE_LAYER_H_
 

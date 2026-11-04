@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SkiaPaintCanvas unit tests
+// summary: Unit tests verifying that SkiaPaintCanvas flushes pending context operations at the configured draw interval, both for direct drawing and recorded pictures, and that flushing can be disabled.
+// ---
+
 #include "cc/paint/skia_paint_canvas.h"
 
 #include "cc/paint/paint_recorder.h"

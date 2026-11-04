@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageAnalysisState enum header
+// summary: Defines an enum describing the outcome of image analysis, such as whether animated images were found.
+// ---
+
 #ifndef CC_PAINT_IMAGE_ANALYSIS_STATE_H_
 #define CC_PAINT_IMAGE_ANALYSIS_STATE_H_
 

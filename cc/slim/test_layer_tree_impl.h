@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test layer tree header
+// summary: Declares TestLayerTreeImpl, a LayerTreeImpl test subclass exposing NeedsBeginFrames, referenced surfaces and a ResetNeedsBeginFrame helper for tests.
+// ---
+
 #ifndef CC_SLIM_TEST_LAYER_TREE_IMPL_H_
 #define CC_SLIM_TEST_LAYER_TREE_IMPL_H_
 

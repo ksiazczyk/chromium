@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skottie resource metadata map declaration
+// summary: Declares SkottieResourceMetadataMap, which maps Skottie asset resource IDs to file paths and optional sizes, plus the hashed resource ID type.
+// ---
+
 #ifndef CC_PAINT_SKOTTIE_RESOURCE_METADATA_H_
 #define CC_PAINT_SKOTTIE_RESOURCE_METADATA_H_
 

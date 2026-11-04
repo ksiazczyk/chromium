@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the cc raster directory
+summary: Declares the issue tracker components used for bugs in the compositor rasterization code.

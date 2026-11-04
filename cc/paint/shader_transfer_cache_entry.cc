@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shader transfer cache entry implementation
+// summary: Implements the service-side shader transfer cache entry that stores a PaintShader with its cached size, with deserialization deliberately unsupported.
+// ---
+
 #include "cc/paint/shader_transfer_cache_entry.h"
 
 #include <utility>

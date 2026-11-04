@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaintImageBuilder implementation
+// summary: Implements PaintImageBuilder factory methods and validates constructed paint images, merging HDR metadata and handling SRGB reinterpretation.
+// ---
+
 #include "cc/paint/paint_image_builder.h"
 
 namespace cc {

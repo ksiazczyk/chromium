@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for clear-for-opaque-raster
+// summary: Unit tests verifying CalculateClearForOpaqueRasterRects behavior with no transform, translation, and scale across playback edge cases.
+// ---
+
 #include "cc/paint/clear_for_opaque_raster.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

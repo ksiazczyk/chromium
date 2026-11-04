@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ColorFilter class declaration
+// summary: Declares the ColorFilter wrapper around SkColorFilter with factory methods for various filter types and serialization hooks for paint ops.
+// ---
+
 #ifndef CC_PAINT_COLOR_FILTER_H_
 #define CC_PAINT_COLOR_FILTER_H_
 

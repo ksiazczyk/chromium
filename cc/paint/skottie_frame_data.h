@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skottie frame data types
+// summary: Defines SkottieFrameData, holding the PaintImage and filter quality used for an asset in one frame of a Skottie animation, and a map from asset IDs to such frame data.
+// ---
+
 #ifndef CC_PAINT_SKOTTIE_FRAME_DATA_H_
 #define CC_PAINT_SKOTTIE_FRAME_DATA_H_
 

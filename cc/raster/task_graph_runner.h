@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskGraphRunner interface
+// summary: Declares the TaskGraphRunner interface and NamespaceToken for scheduling tasks in dependency order, decoupled from how tasks are executed.
+// ---
+
 #ifndef CC_RASTER_TASK_GRAPH_RUNNER_H_
 #define CC_RASTER_TASK_GRAPH_RUNNER_H_
 

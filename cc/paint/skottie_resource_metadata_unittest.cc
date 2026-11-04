@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skottie resource metadata unit tests
+// summary: Unit tests verifying asset registration in SkottieResourceMetadataMap, including rejection of duplicate, empty, and absolute-path assets, and resource ID hashing.
+// ---
+
 #include "cc/paint/skottie_resource_metadata.h"
 
 #include "base/files/file_path.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia paint canvas header
+// summary: Declares the SkiaPaintCanvas class, a PaintCanvas implementation that passes paint APIs through to an SkCanvas for efficient drawing without record playback.
+// ---
+
 #ifndef CC_PAINT_SKIA_PAINT_CANVAS_H_
 #define CC_PAINT_SKIA_PAINT_CANVAS_H_
 

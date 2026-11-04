@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Slim compositor include dependency rules
+summary: Specifies allowed include dependencies for the cc/slim directory, restricting cc usage to a small set of leaf headers during the transition away from wrapping cc.

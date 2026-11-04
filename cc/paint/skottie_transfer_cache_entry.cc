@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skottie transfer cache entry implementation
+// summary: Implements client and service transfer cache entries that serialize and deserialize Skottie animation data for the GPU transfer cache.
+// ---
+
 #include "cc/paint/skottie_transfer_cache_entry.h"
 
 #include <utility>

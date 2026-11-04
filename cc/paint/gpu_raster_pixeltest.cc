@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GPU raster pixel tests
+// summary: Pixel tests verifying GPU rasterization output through Skia Ganesh and Graphite with viz test infrastructure.
+// ---
+
 #include <array>
 #include <cmath>
 #include <memory>

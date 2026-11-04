@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecordPaintCanvas class declaration
+// summary: Declares a PaintCanvas implementation that records paint operations into a PaintOpBuffer, with methods to release or copy the resulting paint record.
+// ---
+
 #ifndef CC_PAINT_RECORD_PAINT_CANVAS_H_
 #define CC_PAINT_RECORD_PAINT_CANVAS_H_
 

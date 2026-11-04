@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Transfer cache deserialization fuzzer
+// summary: Fuzzes ServiceTransferCacheEntry deserialization with random entry types and byte payloads to find robustness bugs.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

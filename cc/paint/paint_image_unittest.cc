@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaintImage unit tests
+// summary: Unit tests for PaintImage covering frame decoding, supported decode sizes, SkImage retrieval per frame, and YUV420 decoding with a fake paint image generator.
+// ---
+
 #include "cc/paint/paint_image.h"
 
 #include <utility>

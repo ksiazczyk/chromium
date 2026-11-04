@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaintOpBuffer class definitions
+// summary: Declares PaintOpBuffer, playback callbacks and parameters, and a shared image provider for storing and replaying paint operations.
+// ---
+
 #ifndef CC_PAINT_PAINT_OP_BUFFER_H_
 #define CC_PAINT_PAINT_OP_BUFFER_H_
 

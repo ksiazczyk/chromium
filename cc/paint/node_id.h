@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Node ID definitions for DOM-to-paint-op association
+// summary: Defines the NodeId alias and NodeInfo struct that associate DOM nodes with paint operations for blink content capture.
+// ---
+
 #ifndef CC_PAINT_NODE_ID_H_
 #define CC_PAINT_NODE_ID_H_
 

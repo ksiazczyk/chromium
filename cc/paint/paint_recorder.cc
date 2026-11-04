@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaintRecorder implementation
+// summary: Implements PaintRecorder and InspectablePaintRecorder methods for beginning and finishing paint recording into a PaintRecord.
+// ---
+
 #include "cc/paint/paint_recorder.h"
 
 #include <utility>

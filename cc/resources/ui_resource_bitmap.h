@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UIResourceBitmap class header
+// summary: Declares the UIResourceBitmap class, a thread-safe ref-counted bitmap wrapper supporting RGBA8 and ETC1 formats.
+// ---
+
 #ifndef CC_RESOURCES_UI_RESOURCE_BITMAP_H_
 #define CC_RESOURCES_UI_RESOURCE_BITMAP_H_
 

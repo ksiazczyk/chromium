@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Task graph runner performance tests
+// summary: Benchmarks building, scheduling and collecting task graphs with a synchronous task graph runner and reports lap-timer results.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

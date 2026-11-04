@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Paint op helper unit tests
+// summary: Unit tests verifying the string representation of paint records and individual paint ops produced by PaintOpHelper.
+// ---
+
 #include "cc/test/paint_op_helper.h"
 
 #include <array>

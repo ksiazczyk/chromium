@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SkottieWrapper stub for unsupported platforms
+// summary: Provides stub SkottieWrapper factory implementations for platforms where Skottie is not supported.
+// ---
+
 #include "cc/paint/skottie_wrapper.h"
 
 #include "base/containers/span.h"

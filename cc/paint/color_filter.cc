@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color filter implementations
+// summary: Implements ColorFilter subclasses for matrix, blend, gamma, luma, table, and high-contrast filters, including their paint-op serialization.
+// ---
+
 #include "cc/paint/color_filter.h"
 
 #include <algorithm>

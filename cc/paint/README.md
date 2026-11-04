@@ -1,3 +1,9 @@
+---
+type: readme
+title: cc/paint overview
+summary: Explains that cc/paint replaces SkPicture/SkCanvas/SkPaint recording structures in Blink and ui, and outlines its dependency constraints.
+---
+
 # cc/paint
 
 This document gives an overview of the paint component of cc.

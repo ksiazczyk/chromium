@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SkottieMRUResourceProvider unit tests
+// summary: Unit tests using a frame data stub to verify that the provider registers assets, exposes metadata, and returns the most recent frame data or no-update results for image assets.
+// ---
+
 #include "cc/paint/skottie_mru_resource_provider.h"
 
 #include <optional>

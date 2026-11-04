@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilterOperation class declaration
+// summary: Declares FilterOperation with factory methods for CSS-style filters including grayscale, sepia, blur, zoom, and reference filters.
+// ---
+
 #ifndef CC_PAINT_FILTER_OPERATION_H_
 #define CC_PAINT_FILTER_OPERATION_H_
 

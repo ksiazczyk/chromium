@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task graph work queue implementation
+// summary: Implements the shared scheduling queue that tracks task namespaces, priorities and dependencies for task graph runners.
+// ---
+
 #include "cc/raster/task_graph_work_queue.h"
 
 #include <stddef.h>

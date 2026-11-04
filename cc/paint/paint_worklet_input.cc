@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaintWorkletInput implementation
+// summary: Implements PaintWorkletInput's PropertyKey and PropertyValue helpers, including comparison operators and repaint-trigger detection for paint worklet inputs.
+// ---
+
 #include "cc/paint/paint_worklet_input.h"
 
 namespace cc {

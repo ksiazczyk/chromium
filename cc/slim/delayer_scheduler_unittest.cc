@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Delayed scheduler unit tests
+// summary: Unit tests for the DelayedScheduler covering delayed begin frames, swap throttling, and did-not-produce-frame behavior using a test scheduler client.
+// ---
+
 #include <optional>
 
 #include "cc/slim/delayed_scheduler.h"

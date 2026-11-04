@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UIResourceBitmap implementation
+// summary: Implements UIResourceBitmap, wrapping immutable Skia pixel data for drawing, pixel access, and size calculations.
+// ---
+
 #include "cc/resources/ui_resource_bitmap.h"
 
 #include <stdint.h>

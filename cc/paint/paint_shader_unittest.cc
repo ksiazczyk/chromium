@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaintShader unit tests
+// summary: Unit tests for PaintShader covering rasterization tile rects for record shaders and decoding of paint record shaders through an image provider.
+// ---
+
 #include "cc/paint/paint_shader.h"
 
 #include <limits>

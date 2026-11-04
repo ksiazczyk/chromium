@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TileTask implementation
+// summary: Implements TileTask completion state and external dependency handling, including checks used to prevent duplicate image decodes.
+// ---
+
 #include "cc/raster/tile_task.h"
 
 #include <utility>

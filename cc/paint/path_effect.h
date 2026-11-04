@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PathEffect class declaration
+// summary: Declares the PathEffect base class with dash and corner variants, serialization hooks, and Skia conversion used by paint flags and paint ops.
+// ---
+
 #ifndef CC_PAINT_PATH_EFFECT_H_
 #define CC_PAINT_PATH_EFFECT_H_
 

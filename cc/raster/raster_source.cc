@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Raster source implementation
+// summary: Implements playback of recorded display lists onto canvases, including clearing for opaque raster, partial raster and solid color analysis.
+// ---
+
 #include "cc/raster/raster_source.h"
 
 #include <stddef.h>

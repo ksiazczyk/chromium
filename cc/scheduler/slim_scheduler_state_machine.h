@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SlimSchedulerStateMachine class header
+// summary: Declares SlimSchedulerStateMachine, a SchedulerStateMachine subclass that avoids re-entrancy per VSync and simplifies deadline modes to prevent dropped frames.
+// ---
+
 #ifndef CC_SCHEDULER_SLIM_SCHEDULER_STATE_MACHINE_H_
 #define CC_SCHEDULER_SLIM_SCHEDULER_STATE_MACHINE_H_
 

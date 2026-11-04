@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Single thread task graph runner header
+// summary: Declares SingleThreadTaskGraphRunner, a TaskGraphRunner implementation that runs scheduled task graphs asynchronously on one worker thread.
+// ---
+
 #ifndef CC_RASTER_SINGLE_THREAD_TASK_GRAPH_RUNNER_H_
 #define CC_RASTER_SINGLE_THREAD_TASK_GRAPH_RUNNER_H_
 

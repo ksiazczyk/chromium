@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaintWorkletJob class declaration
+// summary: Declares PaintWorkletJob, which encapsulates data for dispatching PaintWorklets to the worklet thread, along with job vector, id, and map typedefs.
+// ---
+
 #ifndef CC_PAINT_PAINT_WORKLET_JOB_H_
 #define CC_PAINT_PAINT_WORKLET_JOB_H_
 

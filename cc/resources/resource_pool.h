@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResourcePool class header
+// summary: Declares the ResourcePool class and its Backing and InUsePoolResource types for pooling GPU resources and providing memory dumps.
+// ---
+
 #ifndef CC_RESOURCES_RESOURCE_POOL_H_
 #define CC_RESOURCES_RESOURCE_POOL_H_
 

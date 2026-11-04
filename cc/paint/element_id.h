@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ElementId struct declaration
+// summary: Declares ElementId, a stable opaque identifier used by cc clients for scroll tree nodes and animation targets.
+// ---
+
 #ifndef CC_PAINT_ELEMENT_ID_H_
 #define CC_PAINT_ELEMENT_ID_H_
 

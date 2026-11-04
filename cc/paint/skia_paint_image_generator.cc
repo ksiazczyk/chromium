@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SkiaPaintImageGenerator implementation
+// summary: Implements the SkImageGenerator callbacks by delegating encoded data, pixel, and YUVA plane requests to an underlying cc PaintImageGenerator for a given frame and client.
+// ---
+
 #include "cc/paint/skia_paint_image_generator.h"
 
 #include <utility>

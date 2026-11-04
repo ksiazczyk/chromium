@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint filter declarations
+// summary: Declares the PaintFilter base class and its filter type enum, wrapping Skia image filters for use and serialization in paint operations.
+// ---
+
 #ifndef CC_PAINT_PAINT_FILTER_H_
 #define CC_PAINT_PAINT_FILTER_H_
 

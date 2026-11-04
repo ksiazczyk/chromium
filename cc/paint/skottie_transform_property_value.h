@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skottie transform property value declarations
+// summary: Declares the Skottie transform property value struct and a map from hashed Lottie node names to values.
+// ---
+
 #ifndef CC_PAINT_SKOTTIE_TRANSFORM_PROPERTY_VALUE_H_
 #define CC_PAINT_SKOTTIE_TRANSFORM_PROPERTY_VALUE_H_
 

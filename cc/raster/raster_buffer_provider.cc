@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RasterBufferProvider implementation
+// summary: Implements RasterBufferProvider helpers, notably PlaybackToMemory, which rasterizes a RasterSource into memory for supported SharedImageFormats using Skia surfaces.
+// ---
+
 #include "cc/raster/raster_buffer_provider.h"
 
 #include <stddef.h>

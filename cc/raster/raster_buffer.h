@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RasterBuffer abstract base class header
+// summary: Declares the RasterBuffer interface for playing back a RasterSource into a buffer, including background thread priority support for playback.
+// ---
+
 #ifndef CC_RASTER_RASTER_BUFFER_H_
 #define CC_RASTER_RASTER_BUFFER_H_
 

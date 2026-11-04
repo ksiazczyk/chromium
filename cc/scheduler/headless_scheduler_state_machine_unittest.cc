@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HeadlessSchedulerStateMachine unit tests
+// summary: Unit tests covering the headless scheduler state machine's full-pipeline mode, including deadline blocking, commit flow and draw behavior.
+// ---
+
 #include "cc/scheduler/headless_scheduler_state_machine.h"
 
 #include "base/feature_list.h"

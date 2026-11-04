@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TargetColorParams struct declaration
+// summary: Defines TargetColorParams, holding the target color space and optional HDR headroom used for rasterization.
+// ---
+
 #ifndef CC_PAINT_TARGET_COLOR_PARAMS_H_
 #define CC_PAINT_TARGET_COLOR_PARAMS_H_
 

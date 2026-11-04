@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test layer tree client header
+// summary: Declares TestLayerTreeClient, a LayerTreeClient test double exposing counters for frame sink lifecycle callbacks used by slim compositor unit tests.
+// ---
+
 #ifndef CC_SLIM_TEST_LAYER_TREE_CLIENT_H_
 #define CC_SLIM_TEST_LAYER_TREE_CLIENT_H_
 

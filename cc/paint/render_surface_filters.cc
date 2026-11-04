@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Render surface filters implementation
+// summary: Implements color matrix helpers for brightness, contrast, saturation, hue rotation, invert, opacity and grayscale, building render surface image filters from FilterOperations.
+// ---
+
 #include "cc/paint/render_surface_filters.h"
 
 #include <stddef.h>

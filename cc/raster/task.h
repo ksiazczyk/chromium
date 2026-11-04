@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task and TaskGraph declarations
+// summary: Declares TaskState for the task lifecycle, the ref-counted Task base class and the TaskGraph dependency graph with categories and priorities.
+// ---
+
 #ifndef CC_RASTER_TASK_H_
 #define CC_RASTER_TASK_H_
 

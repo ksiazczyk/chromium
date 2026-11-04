@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaintWorkletLayerPainter interface
+// summary: Declares an abstract interface bridging the compositor and the PaintWorklet thread for asynchronously dispatching worklets and tracking ongoing dispatches.
+// ---
+
 #ifndef CC_PAINT_PAINT_WORKLET_LAYER_PAINTER_H_
 #define CC_PAINT_PAINT_WORKLET_LAYER_PAINTER_H_
 

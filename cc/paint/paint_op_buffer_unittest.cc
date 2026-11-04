@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Paint op buffer unit tests
+// summary: Unit tests for paint op buffer playback, serialization and deserialization, including image, shader and Skottie handling.
+// ---
+
 #include "cc/paint/paint_op_buffer.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameSinkImplClient interface declaration
+// summary: Declares the client interface receiving BeginFrame notifications, frame acknowledgements, presentation details and sink loss events.
+// ---
+
 #ifndef CC_SLIM_FRAME_SINK_IMPL_CLIENT_H_
 #define CC_SLIM_FRAME_SINK_IMPL_CLIENT_H_
 

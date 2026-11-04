@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PlaybackImageProvider class header
+// summary: Declares PlaybackImageProvider and its Settings, which supply decoded images for raster from the ImageDecodeCache with skip lists, frame indexes, and a software or GPU raster mode.
+// ---
+
 #ifndef CC_RASTER_PLAYBACK_IMAGE_PROVIDER_H_
 #define CC_RASTER_PLAYBACK_IMAGE_PROVIDER_H_
 

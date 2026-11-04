@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DiscardableImageMap unit tests
+// summary: Unit tests verifying image gathering, rect-based queries, color space handling, and animated image metadata in DiscardableImageMap across paint op scenarios.
+// ---
+
 #include "cc/paint/discardable_image_map.h"
 
 #include <stddef.h>

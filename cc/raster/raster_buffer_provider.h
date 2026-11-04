@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RasterBufferProvider interface header
+// summary: Declares the RasterBufferProvider interface for acquiring raster buffers, partial raster support, resource readiness callbacks, and flushing of pending raster work.
+// ---
+
 #ifndef CC_RASTER_RASTER_BUFFER_PROVIDER_H_
 #define CC_RASTER_RASTER_BUFFER_PROVIDER_H_
 

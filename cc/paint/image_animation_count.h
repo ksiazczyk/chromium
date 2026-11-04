@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Image animation loop count constants
+// summary: Defines constants for GIF and WebP animation loop counts, including once, infinite, none, and paused states.
+// ---
+
 #ifndef CC_PAINT_IMAGE_ANIMATION_COUNT_H_
 #define CC_PAINT_IMAGE_ANIMATION_COUNT_H_
 

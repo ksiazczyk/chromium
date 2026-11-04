@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VideoFrameController interface header
+// summary: Declares VideoFrameController and VideoFrameControllerClient interfaces for receiving begin frame callbacks and draw completion notifications.
+// ---
+
 #ifndef CC_SCHEDULER_VIDEO_FRAME_CONTROLLER_H_
 #define CC_SCHEDULER_VIDEO_FRAME_CONTROLLER_H_
 

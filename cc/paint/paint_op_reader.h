@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint op reader header
+// summary: Declares the PaintOpReader class with typed read functions for deserializing paint op data such as paths, flags, shaders and matrices.
+// ---
+
 #ifndef CC_PAINT_PAINT_OP_READER_H_
 #define CC_PAINT_PAINT_OP_READER_H_
 

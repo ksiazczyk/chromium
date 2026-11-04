@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BeginFrameTracker implementation
+// summary: Implements BeginFrameTracker, which validates and traces the lifecycle of BeginFrameArgs in the compositor scheduler, including start, finish, interval handling and perfetto serialization.
+// ---
+
 #include "cc/scheduler/begin_frame_tracker.h"
 
 #include "base/trace_event/trace_event.h"

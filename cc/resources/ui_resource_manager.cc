@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UIResourceManager implementation
+// summary: Implements UIResourceManager, which creates, deletes, recreates and shares UI resources for a LayerTreeHost, queuing UIResourceRequests and caching shared SkBitmap-backed resources.
+// ---
+
 #include "cc/resources/ui_resource_manager.h"
 
 #include <algorithm>

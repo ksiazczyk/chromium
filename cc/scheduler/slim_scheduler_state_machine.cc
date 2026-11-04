@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SlimSchedulerStateMachine implementation
+// summary: Implements the SlimSchedulerStateMachine, which prevents repeating actions within a VSync interval and restricts commits and activations to idle states.
+// ---
+
 #include "cc/scheduler/slim_scheduler_state_machine.h"
 
 #include "base/logging.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scroll offset map type definition
+// summary: Defines the ScrollOffsetMap type alias that maps element IDs to scroll offset points using a base flat map.
+// ---
+
 #ifndef CC_PAINT_SCROLL_OFFSET_MAP_H_
 #define CC_PAINT_SCROLL_OFFSET_MAP_H_
 

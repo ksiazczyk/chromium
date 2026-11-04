@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaintFlags class declarations
+// summary: Declares CorePaintFlags and PaintFlags, a minimal paint state set mirroring SkPaint with styles, blend modes, filter quality and dynamic range limit mixtures.
+// ---
+
 #ifndef CC_PAINT_PAINT_FLAGS_H_
 #define CC_PAINT_PAINT_FLAGS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: One-copy raster buffer provider implementation
+// summary: Implements rasterization into staging buffers followed by copying results into GPU shared image resources, with sync token management.
+// ---
+
 #include "cc/raster/one_copy_raster_buffer_provider.h"
 
 #include <stdint.h>

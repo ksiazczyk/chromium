@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skottie frame data provider interface
+// summary: Declares the SkottieFrameDataProvider interface that callers implement to supply images for image assets in each frame of a Skottie animation, including its ImageAsset base class.
+// ---
+
 #ifndef CC_PAINT_SKOTTIE_FRAME_DATA_PROVIDER_H_
 #define CC_PAINT_SKOTTIE_FRAME_DATA_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TargetColorParams implementation
+// summary: Implements hashing and string conversion for TargetColorParams rasterization color settings.
+// ---
+
 #include "cc/paint/target_color_params.h"
 
 #include <cmath>

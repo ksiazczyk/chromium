@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LCD text disallowed reason enum
+// summary: Defines the LCDTextDisallowedReason enum listing reasons why LCD text rendering is disallowed, used in benchmarks.
+// ---
+
 #ifndef CC_RASTER_LCD_TEXT_DISALLOWED_REASON_H_
 #define CC_RASTER_LCD_TEXT_DISALLOWED_REASON_H_
 

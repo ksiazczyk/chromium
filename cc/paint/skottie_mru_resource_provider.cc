@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SkottieMRUResourceProvider implementation
+// summary: Implements the Skottie resource provider, parsing image asset dimensions from the Lottie JSON and serving the most recent frame data returned by a SkottieWrapper callback for each asset.
+// ---
+
 #include "cc/paint/skottie_mru_resource_provider.h"
 
 #include <optional>

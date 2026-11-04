@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Solid color analyzer unit tests
+// summary: Unit tests verifying SolidColorAnalyzer's solid color detection across clear, draw, clip, and shape operations.
+// ---
+
 #include "cc/paint/solid_color_analyzer.h"
 
 #include <array>

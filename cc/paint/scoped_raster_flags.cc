@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped raster flags implementation
+// summary: Implements raster-time paint flag preparation, decoding image and record shaders, resolving filters with an image provider and adjusting thin strokes for anti-aliasing.
+// ---
+
 #include "cc/paint/scoped_raster_flags.h"
 
 #include <utility>

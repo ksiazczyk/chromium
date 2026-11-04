@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeferredPaintRecord interface
+// summary: Declares the abstract DeferredPaintRecord base class with virtual queries for size, layer needs, opacity, and paint worklet input status.
+// ---
+
 #ifndef CC_PAINT_DEFERRED_PAINT_RECORD_H_
 #define CC_PAINT_DEFERRED_PAINT_RECORD_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skia paint canvas implementation
+// summary: Implements a PaintCanvas that forwards drawing operations directly to an SkCanvas, supporting save layers, clipping, drawing, annotations and GPU context flushing.
+// ---
+
 #include "cc/paint/skia_paint_canvas.h"
 
 #include <cstdint>

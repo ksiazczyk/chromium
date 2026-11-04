@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Damage data structures for render pass damage
+// summary: Declares data structures used to compute damage in the slim compositor, including per-layer damage data and maps from render pass IDs to damage data.
+// ---
+
 #ifndef CC_SLIM_DAMAGE_DATA_H_
 #define CC_SLIM_DAMAGE_DATA_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaintOpBuffer iterator implementation
+// summary: Implements iterators over paint op buffers, including a playback folding iterator that folds SaveLayerAlpha ops into drawing ops.
+// ---
+
 #include "cc/paint/paint_op_buffer_iterator.h"
 
 #include <variant>

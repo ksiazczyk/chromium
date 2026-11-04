@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedUIResource implementation
+// summary: Implements ScopedUIResource, which creates a UI resource from a bitmap and deletes it when the instance goes out of scope.
+// ---
+
 #include "cc/resources/scoped_ui_resource.h"
 
 #include "base/functional/bind.h"

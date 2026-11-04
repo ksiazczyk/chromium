@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LCD text disallowed reason to string conversion
+// summary: Maps each LCDTextDisallowedReason enum value to its string name and provides stream output for logging.
+// ---
+
 #include "cc/raster/lcd_text_disallowed_reason.h"
 
 #include <iostream>

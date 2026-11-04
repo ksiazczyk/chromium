@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaintCanvas interface wrapping SkCanvas
+// summary: Declares the PaintCanvas abstract interface, a restricted SkCanvas wrapper implemented for rasterizing or recording paint commands into a PaintOpBuffer.
+// ---
+
 #ifndef CC_PAINT_PAINT_CANVAS_H_
 #define CC_PAINT_PAINT_CANVAS_H_
 

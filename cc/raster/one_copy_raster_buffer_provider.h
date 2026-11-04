@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: One-copy raster buffer provider class declaration
+// summary: Declares the OneCopyRasterBufferProvider class that rasters paint sources and copies results into resources using a staging buffer pool.
+// ---
+
 #ifndef CC_RASTER_ONE_COPY_RASTER_BUFFER_PROVIDER_H_
 #define CC_RASTER_ONE_COPY_RASTER_BUFFER_PROVIDER_H_
 

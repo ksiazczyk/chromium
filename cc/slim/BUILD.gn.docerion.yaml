@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Slim compositor GN build definition
+summary: Defines the GN build target for the cc/slim compositor component, listing its sources and its dependencies on base, viz, mojo, skia, and gfx.

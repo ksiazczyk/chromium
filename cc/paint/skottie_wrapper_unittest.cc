@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SkottieWrapper unit tests
+// summary: Tests SkottieWrapper loading, validation, identity, markers, and frame data callbacks with Lottie test data.
+// ---
+
 #include "cc/paint/skottie_wrapper.h"
 
 #include <cstdint>

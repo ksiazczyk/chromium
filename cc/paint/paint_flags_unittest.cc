@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaintFlags dynamic range limit tests
+// summary: Unit tests verifying the effective HDR headroom computed by PaintFlags DynamicRangeLimitMixture for standard, constrained-high and high dynamic range limits.
+// ---
+
 #include "cc/paint/paint_flags.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaintWorkletInput class declaration
+// summary: Declares PaintWorkletInput, a deferred paint record that identifies the custom and native properties a paint worklet depends on, plus the PaintWorkletRecordMap type.
+// ---
+
 #ifndef CC_PAINT_PAINT_WORKLET_INPUT_H_
 #define CC_PAINT_PAINT_WORKLET_INPUT_H_
 

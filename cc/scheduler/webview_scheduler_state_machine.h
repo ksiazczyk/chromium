@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebviewSchedulerStateMachine class declaration
+// summary: Declares the WebviewSchedulerStateMachine class, a SchedulerStateMachine subclass that overrides WebView-specific scheduling behaviors such as sync tree activation, main frame blocking, and deadline modes.
+// ---
+
 #ifndef CC_SCHEDULER_WEBVIEW_SCHEDULER_STATE_MACHINE_H_
 #define CC_SCHEDULER_WEBVIEW_SCHEDULER_STATE_MACHINE_H_
 

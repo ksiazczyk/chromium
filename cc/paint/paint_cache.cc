@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint cache implementation
+// summary: Implements the client-side budgeted LRU cache and the service-side storage for cached paint data such as paths and SkRuntimeEffects, including purging logic.
+// ---
+
 #include "cc/paint/paint_cache.h"
 
 #include "base/check_op.h"

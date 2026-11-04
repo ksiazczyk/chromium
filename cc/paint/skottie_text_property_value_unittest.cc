@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skottie text property value unit tests
+// summary: Unit tests verifying that SkottieTextPropertyValue sets text correctly and that its comparison operators distinguish changes in text and box values.
+// ---
+
 #include "cc/paint/skottie_text_property_value.h"
 
 #include <string>

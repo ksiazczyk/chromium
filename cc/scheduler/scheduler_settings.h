@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SchedulerSettings class header
+// summary: Declares the SchedulerSettings class whose flags configure compositor scheduler behavior such as main frame scheduling, commit targets, frame rate limits, and scroll deadlines.
+// ---
+
 #ifndef CC_SCHEDULER_SCHEDULER_SETTINGS_H_
 #define CC_SCHEDULER_SCHEDULER_SETTINGS_H_
 

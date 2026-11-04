@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilterOperation implementation
+// summary: Implements FilterOperation constructors, equality, and behavior for filter types such as blur, drop shadow, color matrix, and reference filters.
+// ---
+
 #include "cc/paint/filter_operation.h"
 
 #include <stddef.h>

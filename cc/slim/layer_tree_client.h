@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerTreeClient interface declaration
+// summary: Declares the LayerTreeClient interface clients implement to handle begin frames, frame submission acknowledgements, and frame sink requests and loss.
+// ---
+
 #ifndef CC_SLIM_LAYER_TREE_CLIENT_H_
 #define CC_SLIM_LAYER_TREE_CLIENT_H_
 

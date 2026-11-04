@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PathEffect implementation
+// summary: Implements dash and corner path effects with serialization, deserialization, equality checks, and creation of the corresponding Skia path effects.
+// ---
+
 #include "cc/paint/path_effect.h"
 
 #include <vector>

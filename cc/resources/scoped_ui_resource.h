@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedUIResource class header
+// summary: Declares ScopedUIResource, a UIResourceClient that owns a bitmap-backed UI resource for its lifetime.
+// ---
+
 #ifndef CC_RESOURCES_SCOPED_UI_RESOURCE_H_
 #define CC_RESOURCES_SCOPED_UI_RESOURCE_H_
 

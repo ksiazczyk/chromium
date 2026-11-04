@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint cache declarations
+// summary: Declares ClientPaintCache and ServicePaintCache, which cache small high-frequency paint data like paths and runtime effects with a client-controlled budget.
+// ---
+
 #ifndef CC_PAINT_PAINT_CACHE_H_
 #define CC_PAINT_PAINT_CACHE_H_
 

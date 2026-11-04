@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Zero-copy raster buffer provider implementation
+// summary: Implements the zero-copy raster buffer provider that rasters directly into shared images and hands mailboxes to the display compositor.
+// ---
+
 #include "cc/raster/zero_copy_raster_buffer_provider.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Raw memory transfer cache entry implementation
+// summary: Implements client and service transfer cache entries that move raw byte buffers between processes without conversion during serialization or deserialization.
+// ---
+
 #include "cc/paint/raw_memory_transfer_cache_entry.h"
 
 #include <utility>

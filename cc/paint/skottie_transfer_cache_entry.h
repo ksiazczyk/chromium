@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Skottie transfer cache entry declarations
+// summary: Declares client and service transfer cache entries for serializing and deserializing Skottie animation data between processes.
+// ---
+
 #ifndef CC_PAINT_SKOTTIE_TRANSFER_CACHE_ENTRY_H_
 #define CC_PAINT_SKOTTIE_TRANSFER_CACHE_ENTRY_H_
 

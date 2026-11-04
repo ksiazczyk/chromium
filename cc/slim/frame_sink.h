@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameSink interface declaration
+// summary: Declares the FrameSink abstraction that owns the connection to the GPU process through the compositor frame sink mojo interface.
+// ---
+
 #ifndef CC_SLIM_FRAME_SINK_H_
 #define CC_SLIM_FRAME_SINK_H_
 

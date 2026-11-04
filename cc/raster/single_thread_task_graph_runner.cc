@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Single thread task graph runner implementation
+// summary: Implements a task graph runner that executes task graphs on a single worker thread using locks and condition variables for scheduling and shutdown.
+// ---
+
 #include "cc/raster/single_thread_task_graph_runner.h"
 
 #include <stdint.h>

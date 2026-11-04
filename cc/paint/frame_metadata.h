@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FrameMetadata struct header
+// summary: Defines a FrameMetadata struct holding a completion flag and display duration for a decoded image frame.
+// ---
+
 #ifndef CC_PAINT_FRAME_METADATA_H_
 #define CC_PAINT_FRAME_METADATA_H_
 

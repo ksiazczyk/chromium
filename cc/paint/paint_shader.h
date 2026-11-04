@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaintShader class declaration
+// summary: Declares the PaintShader class with factory functions for empty, color, gradient, image, paint record, and SkSL command shaders used by the compositor painting system.
+// ---
+
 #ifndef CC_PAINT_PAINT_SHADER_H_
 #define CC_PAINT_PAINT_SHADER_H_
 

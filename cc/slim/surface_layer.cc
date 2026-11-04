@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Surface layer implementation
+// summary: Implements SurfaceLayer, managing surface ranges, fallback deadlines, stretch-to-bounds behavior, offset tag registration, and quad appending for embedded viz surfaces.
+// ---
+
 #include "cc/slim/surface_layer.h"
 
 #include <algorithm>

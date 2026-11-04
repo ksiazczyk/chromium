@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaintWorkletInput unit tests
+// summary: Unit tests for PaintWorkletInput covering PropertyKey insertion into a flat set and repaint triggering on property value changes.
+// ---
+
 #include "cc/paint/paint_worklet_input.h"
 
 #include "base/containers/flat_set.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synchronous task graph runner implementation
+// summary: Implements a TaskGraphRunner that runs scheduled tasks synchronously, executing pending tasks only when RunUntilIdle or waiting for tasks is invoked.
+// ---
+
 #include "cc/raster/synchronous_task_graph_runner.h"
 
 #include <stdint.h>

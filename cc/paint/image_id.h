@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint image ID type aliases
+// summary: Defines type aliases for paint image ID flat sets and animated image driver state maps keyed by image ID.
+// ---
+
 #ifndef CC_PAINT_IMAGE_ID_H_
 #define CC_PAINT_IMAGE_ID_H_
 

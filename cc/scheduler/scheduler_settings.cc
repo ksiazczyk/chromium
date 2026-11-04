@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SchedulerSettings implementation
+// summary: Implements SchedulerSettings constructors and serializes scheduler settings into a traced value for debugging and tracing output.
+// ---
+
 #include "cc/scheduler/scheduler_settings.h"
 
 #include <utility>

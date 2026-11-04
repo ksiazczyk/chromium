@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Skottie transfer cache entry unit tests
+// summary: Tests serialization and deserialization of Skottie transfer cache entries using sample Lottie data.
+// ---
+
 #include "cc/paint/skottie_transfer_cache_entry.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaintImageGenerator implementation
+// summary: Implements the PaintImageGenerator base class, providing generator content IDs, supported decode sizes and default decode acceleration metadata.
+// ---
+
 #include <utility>
 #include <vector>
 

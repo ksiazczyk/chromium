@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paint op reader implementation
+// summary: Implements PaintOpReader, which safely deserializes paint ops, shaders, images and filters from memory with validation and security constraints.
+// ---
+
 #include "cc/paint/paint_op_reader.h"
 
 #include <stddef.h>

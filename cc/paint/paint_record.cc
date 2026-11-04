@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaintRecord implementation
+// summary: Implements the PaintRecord class that wraps a read-only PaintOpBuffer, providing fixed-scale bounds computation, SkPicture conversion, and iteration over paint ops.
+// ---
+
 #include "cc/paint/paint_record.h"
 
 #include <algorithm>

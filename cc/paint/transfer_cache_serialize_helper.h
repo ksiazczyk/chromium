@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transfer cache serialize helper header
+// summary: Declares the TransferCacheSerializeHelper class that locks, creates, and flushes client transfer cache entries while paint ops are serialized for the GPU transfer cache.
+// ---
+
 #ifndef CC_PAINT_TRANSFER_CACHE_SERIALIZE_HELPER_H_
 #define CC_PAINT_TRANSFER_CACHE_SERIALIZE_HELPER_H_
 

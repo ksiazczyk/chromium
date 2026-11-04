@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Synchronous task graph runner interface
+// summary: Declares SynchronousTaskGraphRunner, a TaskGraphRunner that only runs pending tasks when RunUntilIdle is called, backed by a TaskGraphWorkQueue.
+// ---
+
 #ifndef CC_RASTER_SYNCHRONOUS_TASK_GRAPH_RUNNER_H_
 #define CC_RASTER_SYNCHRONOUS_TASK_GRAPH_RUNNER_H_
 

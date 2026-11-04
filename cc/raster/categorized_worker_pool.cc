@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Categorized worker pool implementation
+// summary: Implements a thread pool that runs categorized tasks and task graphs with foreground and background priorities for the Chromium compositor.
+// ---
+
 #include "cc/raster/categorized_worker_pool.h"
 
 #include <algorithm>

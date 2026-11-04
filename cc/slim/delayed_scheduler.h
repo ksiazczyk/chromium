@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delayed scheduler for renderer-driven browser control scrolling
+// summary: Declares the DelayedScheduler class, a scheduler that caches begin frame args until MaybeCompositeNow or the next begin frame to prioritize scroll-driven frame production.
+// ---
+
 #ifndef CC_SLIM_DELAYED_SCHEDULER_H_
 #define CC_SLIM_DELAYED_SCHEDULER_H_
 

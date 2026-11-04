@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SchedulerStateMachine class header
+// summary: Declares the SchedulerStateMachine class with enums for frame sink, begin frame, and deadline states that coordinate main thread painting with impl thread rendering.
+// ---
+
 #ifndef CC_SCHEDULER_SCHEDULER_STATE_MACHINE_H_
 #define CC_SCHEDULER_SCHEDULER_STATE_MACHINE_H_
 

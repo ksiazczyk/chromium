@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Raw memory transfer cache entry declaration
+// summary: Declares client and service transfer cache entry classes backed by raw memory, exposing id, serialized size, and cached size operations.
+// ---
+
 #ifndef CC_PAINT_RAW_MEMORY_TRANSFER_CACHE_ENTRY_H_
 #define CC_PAINT_RAW_MEMORY_TRANSFER_CACHE_ENTRY_H_
 
