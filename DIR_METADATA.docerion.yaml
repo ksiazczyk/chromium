@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA directory metadata
+summary: Declares directory metadata pointing to the Chromium monorail project for filing bugs and contacting the team.

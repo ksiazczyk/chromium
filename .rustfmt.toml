@@ -1,6 +1,12 @@
 # This file defines the Rust style for automatic reformatting.
 # See also https://rust-lang.github.io/rustfmt
 
+# ---docerion
+# type: config
+# title: Rust formatting configuration for rustfmt
+# summary: Defines the Rust style rules, edition settings, and ignore patterns used by rustfmt for automatic reformatting of the codebase.
+# ---
+
 # Rust language edition to be used by the parser.
 edition = "2024"
 

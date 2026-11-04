@@ -1,0 +1,4 @@
+# Docerion header of .cursorignore.
+type: config
+title: Cursor AI ignore rules
+summary: Excludes most of third_party and the out directory from Cursor AI indexing and features.

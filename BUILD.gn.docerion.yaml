@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Root GN build file
+summary: Root build file that GN loads first to discover all build dependencies, defining the gn_all target and root-level build arguments.
+relations:
+  - depends_on /build/config/c++/modules.gni
+  - depends_on /build/config/cast.gni
+  - depends_on /build/config/chrome_build.gni

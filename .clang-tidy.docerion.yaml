@@ -1,0 +1,4 @@
+# Docerion header of .clang-tidy.
+type: config
+title: Clang-tidy lint check configuration
+summary: Configures clang-tidy checks for Chromium C++ code, enabling bugprone, google, modernize and readability checks and documenting rejected checks.

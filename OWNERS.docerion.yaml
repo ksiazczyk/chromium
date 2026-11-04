@@ -1,0 +1,8 @@
+# Docerion header of OWNERS.
+type: config
+title: Top-level code ownership rules
+summary: Defines top-level code ownership and per-file reviewer rules for the repository, including branch, submodule and security ownership.
+relations:
+  - configures /.clang-format
+  - configures /.clang-tidy
+  - configures /styleguide/c++/OWNERS

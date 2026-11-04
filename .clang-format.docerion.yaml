@@ -1,0 +1,4 @@
+# Docerion header of .clang-format.
+type: config
+title: Chromium clang-format style configuration
+summary: Defines the Chromium style for clang-format, including include sorting categories, macro block indentation and brace insertion settings.

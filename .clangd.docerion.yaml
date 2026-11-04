@@ -1,0 +1,4 @@
+# Docerion header of .clangd.
+type: config
+title: Clangd editor diagnostics configuration
+summary: Disables include-cleaner diagnostics and removes unsupported compile flags so clangd works cleanly with the Chromium build.

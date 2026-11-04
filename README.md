@@ -1,3 +1,12 @@
+---
+type: readme
+title: Chromium
+summary: Root README introducing the Chromium open-source browser project, with links to documentation, source checkout instructions, and bug reporting.
+relations:
+  - references /docs/README.md
+  - references /chrome/app/theme/chromium/product_logo_64.png
+---
+
 # ![Logo](chrome/app/theme/chromium/product_logo_64.png) Chromium
 
 Chromium is an open-source browser project that aims to build a safer, faster,

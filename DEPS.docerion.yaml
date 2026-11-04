@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Chromium dependency manifest for gclient
+summary: Defines the dependencies of the Chromium source repository for gclient, including dependency versions, variables and checkout conditions.

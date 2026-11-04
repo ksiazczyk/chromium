@@ -1,6 +1,13 @@
 # Copyright 2012 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Top-level presubmit checks for Chromium
+# summary: Implements the top-level presubmit checks run by depot_tools on Chromium changes, covering style, dependencies and other repository rules.
+# ---
+
 """Top-level presubmit script for Chromium.
 
 See https://www.chromium.org/developers/how-tos/depottools/presubmit-scripts/

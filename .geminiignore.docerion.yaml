@@ -1,0 +1,4 @@
+# Docerion header of .geminiignore.
+type: config
+title: Gemini AI ignore rules
+summary: Lists paths such as remoting and v8 Gemini notes that are excluded from Gemini AI indexing.

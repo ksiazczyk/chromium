@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Git line-ending and diff attributes
+# summary: Forces LF line endings for source and metadata files, marks binaries, and disables Tricium on third_party paths.
+# ---
+
 # Stop Windows python license check presubmit errors by forcing LF checkout.
 *.py  text eol=lf
 

@@ -4,6 +4,12 @@
 # changing a dependency here, run 'vpython3' (or 'vpython3 -vpython-tool
 # upgrade') locally to resynchronize it, and commit both files together.
 
+# ---docerion
+# type: config
+# title: vpython spec for Python dependencies
+# summary: uv-backed vpython specification pinning Python package dependencies and platform version constraints for the repository.
+# ---
+
 requires-python = '>=3.11,<3.12'
 dependencies = [
   'protobuf==7.36.0',

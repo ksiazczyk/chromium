@@ -1,0 +1,4 @@
+# Docerion header of codereview.settings.
+type: config
+title: Code review settings for git-cl
+summary: Repository settings used by git-cl, specifying the project, Gerrit host, CC list, and source browsing URLs.

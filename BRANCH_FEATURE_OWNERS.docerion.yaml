@@ -1,0 +1,4 @@
+# Docerion header of BRANCH_FEATURE_OWNERS.
+type: config
+title: Release branch feature owners placeholder
+summary: Owners file for release branches managed by branch managers that must remain blank on the main branch.

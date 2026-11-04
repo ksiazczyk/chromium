@@ -1,3 +1,9 @@
+---
+type: reference
+title: Chromium Code of Conduct
+summary: Community code of conduct describing expected behavior in Chromium spaces, how to report concerns, and consequences for violations.
+---
+
 # Chromium Code of Conduct
 
 Google and the Chromium team are committed to preserving and fostering a

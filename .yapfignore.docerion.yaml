@@ -1,0 +1,4 @@
+# Docerion header of .yapfignore.
+type: config
+title: Yapf ignore patterns for Python formatting
+summary: Lists generated protobuf and third-party Python files that the yapf formatter should skip when reformatting code.

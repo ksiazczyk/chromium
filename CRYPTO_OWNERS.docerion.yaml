@@ -1,0 +1,4 @@
+# Docerion header of CRYPTO_OWNERS.
+type: config
+title: Cryptography owners list
+summary: Lists the people responsible for decisions about cryptography use in Chromium, to consult when adding cryptographic code.

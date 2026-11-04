@@ -1,0 +1,4 @@
+# Docerion header of .mailmap.
+type: config
+title: Git mailmap for contributor names and emails
+summary: Maps contributors' previous names and email addresses to current ones so Git commands like log and blame respect their preferences.
