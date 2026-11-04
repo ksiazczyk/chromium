@@ -1,0 +1,4 @@
+# Docerion header of IDS_SETTINGS_POINTING_STICK_ACCELERATION_LABEL.png.sha1.
+type: asset
+title: SHA-1 checksum for pointing stick acceleration image
+summary: Stores the SHA-1 hash of the PNG image for the pointing stick acceleration label string in ChromeOS settings.

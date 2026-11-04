@@ -1,0 +1,4 @@
+# Docerion header of IDS_SETTINGS_PER_DEVICE_KEYBOARD_KEY_SEARCH.png.sha1.
+type: asset
+title: SHA-1 checksum for Search key image
+summary: Stores the SHA-1 hash of the PNG image for the per-device keyboard Search key string in ChromeOS settings.

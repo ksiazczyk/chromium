@@ -1,0 +1,4 @@
+# Docerion header of IDS_SETTINGS_STORAGE_ITEM_ENCRYPTION_AES_256.png.sha1.
+type: data
+title: SHA-1 checksum for AES-256 storage encryption icon
+summary: Stores the SHA-1 hash of the corresponding AES-256 storage encryption PNG icon for integrity verification.

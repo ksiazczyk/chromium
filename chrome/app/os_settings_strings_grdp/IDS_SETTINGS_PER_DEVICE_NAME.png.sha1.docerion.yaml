@@ -1,0 +1,4 @@
+# Docerion header of IDS_SETTINGS_PER_DEVICE_NAME.png.sha1.
+type: asset
+title: SHA-1 checksum for per-device name image
+summary: Stores the SHA-1 hash of the PNG image for the per-device name string in ChromeOS settings.
