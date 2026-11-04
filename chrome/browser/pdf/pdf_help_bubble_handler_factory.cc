@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF help bubble handler factory implementation
+// summary: Creates help bubble and tracked element handlers for PDF viewer features such as Glic summarize and Ink signatures when their flags are enabled.
+// ---
+
 #include "chrome/browser/pdf/pdf_help_bubble_handler_factory.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remote actor credential permission client unit tests
+// summary: Unit tests verifying grant permission requests, request payloads and metrics of the credential permission client.
+// ---
+
 #include "chrome/browser/password_manager/remote_actor/remote_actor_credential_permission_client.h"
 
 #include <memory>

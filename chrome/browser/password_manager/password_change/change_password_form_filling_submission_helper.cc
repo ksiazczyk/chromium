@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChangePasswordFormFillingSubmissionHelper implementation
+// summary: Implements the helper that fills, submits and verifies change password form submissions, with error metrics and model quality logging.
+// ---
+
 #include "chrome/browser/password_manager/password_change/change_password_form_filling_submission_helper.h"
 
 #include <string>

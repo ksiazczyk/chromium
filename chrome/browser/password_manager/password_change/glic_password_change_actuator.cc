@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic password change actuator implementation
+// summary: Implements GlicPasswordChangeActuator, which uses Gemini in Chrome (Glic) and Actor to navigate, fill, and verify password change flows, including prompt loading and logging.
+// ---
+
 #include "chrome/browser/password_manager/password_change/glic_password_change_actuator.h"
 
 #include <set>

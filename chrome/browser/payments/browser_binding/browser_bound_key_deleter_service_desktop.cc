@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop browser bound key deleter service
+// summary: Implements removal of invalid browser bound keys on desktop by enumerating local credentials and falling back to a date-based expiration of about nine months.
+// ---
+
 #include "chrome/browser/payments/browser_binding/browser_bound_key_deleter_service_desktop.h"
 
 #include <memory>

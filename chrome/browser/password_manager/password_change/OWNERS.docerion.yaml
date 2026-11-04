@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Password change directory owners
+summary: Lists the owners responsible for reviewing changes in the password_change directory.

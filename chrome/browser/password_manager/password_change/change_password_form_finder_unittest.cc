@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChangePasswordFormFinder unit tests
+// summary: Unit tests for ChangePasswordFormFinder covering form detection, button clicking and error cases.
+// ---
+
 #include "chrome/browser/password_manager/password_change/change_password_form_finder.h"
 
 #include "base/test/gmock_callback_support.h"

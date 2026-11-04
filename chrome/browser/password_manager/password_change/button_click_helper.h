@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Button click helper interface
+// summary: Declares a helper that clicks an element by DOM node ID and invokes a callback with the click result.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_PASSWORD_CHANGE_BUTTON_CLICK_HELPER_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_PASSWORD_CHANGE_BUTTON_CLICK_HELPER_H_
 

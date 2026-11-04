@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Glic password change actuator unit tests
+// summary: Unit tests for GlicPasswordChangeActuator covering form waiting, filling, verification flow, and actor task state handling with mocked Glic services.
+// ---
+
 #include "chrome/browser/password_manager/password_change/glic_password_change_actuator.h"
 
 #include <memory>

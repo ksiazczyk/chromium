@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cross-origin navigation observer unit tests
+// summary: Tests the observer's handling of same-domain, subdomain and cross-origin navigations using a mock affiliation service.
+// ---
+
 #include "chrome/browser/password_manager/password_change/cross_origin_navigation_observer.h"
 
 #include "base/barrier_closure.h"

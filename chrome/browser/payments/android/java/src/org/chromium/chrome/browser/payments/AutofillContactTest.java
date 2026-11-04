@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AutofillContactTest
+// summary: Parameterized Robolectric unit tests for the AutofillContact class covering contact field completion and incomplete-contact messaging.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import static org.mockito.ArgumentMatchers.anyInt;

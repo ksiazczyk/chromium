@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ODE metrics reporter factory implementation
+// summary: Builds per-profile ODE metrics reporters, wiring platform-specific passkey state trackers for Android and desktop.
+// ---
+
 #include "chrome/browser/password_manager/ode/on_device_encryption_metrics_reporter_factory.h"
 
 #include <memory>

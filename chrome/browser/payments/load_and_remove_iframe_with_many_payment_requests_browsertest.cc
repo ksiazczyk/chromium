@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Load and remove iframe with many payment requests browser test
+// summary: Browser test checking that loading and removing an iframe that creates many payment requests does not crash, for same-origin and cross-origin cases.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "chrome/test/payments/payment_request_platform_browsertest_base.h"
 #include "content/public/common/content_features.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WindowAndroidIntentLauncherUnitTest
+// summary: Robolectric tests for the Android intent-based payment app launcher covering destroyed web contents, missing windows and launch failures.
+// ---
+
 package org.chromium.chrome.browser.payments;
 
 import static org.mockito.ArgumentMatchers.argThat;

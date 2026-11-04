@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password receiver service factory implementation
+// summary: Implements the factory that builds PasswordReceiverService per profile to sync incoming password sharing invitations, skipping creation on Android where GMSCore handles it.
+// ---
+
 #include "chrome/browser/password_manager/factories/password_receiver_service_factory.h"
 
 #include <utility>

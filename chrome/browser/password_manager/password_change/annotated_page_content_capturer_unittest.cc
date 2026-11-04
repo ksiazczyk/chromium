@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Annotated page content capturer unit tests
+// summary: Unit tests covering page content capture success, retry behavior, and capture metric logging.
+// ---
+
 #include "base/functional/callback.h"
 #include "base/test/gmock_callback_support.h"
 #include "base/test/metrics/histogram_tester.h"

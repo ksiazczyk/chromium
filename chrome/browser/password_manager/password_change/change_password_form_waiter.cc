@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChangePasswordFormWaiter implementation
+// summary: Implements waiting for change password form parsing, classifying discarded forms and checking field focusability and enabled state.
+// ---
+
 #include "chrome/browser/password_manager/password_change/change_password_form_waiter.h"
 
 #include <algorithm>

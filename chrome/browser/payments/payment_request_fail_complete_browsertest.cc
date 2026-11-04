@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaymentRequest failComplete browser test
+// summary: Browser test verifying that a failed payment transaction reports the 'Transaction failed' status through the failComplete flow.
+// ---
+
 #include "chrome/test/payments/payment_request_platform_browsertest_base.h"
 #include "content/public/test/browser_test.h"
 #include "content/public/test/browser_test_utils.h"

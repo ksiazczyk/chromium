@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password change logging utilities implementation
+// summary: Implements helpers that log password change progress and convert model response page types, outcomes, and data into readable strings and dictionaries.
+// ---
+
 #include "chrome/browser/password_manager/password_change/password_change_logging_util.h"
 
 #include "base/strings/string_number_conversions.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: PDF folder include rules (DEPS)
+summary: Specifies allowed include rules for the PDF folder, granting extra header access to specific PDF test files.

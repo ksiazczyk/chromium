@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment app service bridge unit tests
+// summary: Unit tests for the Android payment app service bridge, using mock payment apps and callbacks to verify app creation and can-make-payment behavior.
+// ---
+
 #include "components/payments/content/android/payment_app_service_bridge.h"
 
 #include <memory>

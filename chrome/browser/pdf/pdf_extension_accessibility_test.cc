@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF extension accessibility browser tests
+// summary: Browser tests verifying the PDF viewer accessibility tree, accessibility actions, and searchify integration with the ScreenAI service.
+// ---
+
 #include <stddef.h>
 
 #include <map>

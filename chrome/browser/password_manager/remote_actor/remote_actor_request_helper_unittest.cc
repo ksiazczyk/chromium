@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remote actor request helper unit tests
+// summary: Unit tests for RemoteActorRequest that verify OAuth access token attachment, request headers, upload body, and success or failure callback behavior using a test URL loader factory.
+// ---
+
 #include "chrome/browser/password_manager/remote_actor/remote_actor_request_helper.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-origin navigation observer class declaration
+// summary: Declares a WebContentsObserver that fires a callback when navigation leaves the initial host or its affiliated domains.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_PASSWORD_CHANGE_CROSS_ORIGIN_NAVIGATION_OBSERVER_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_PASSWORD_CHANGE_CROSS_ORIGIN_NAVIGATION_OBSERVER_H_
 

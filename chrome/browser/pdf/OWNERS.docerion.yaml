@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: PDF folder code owners (OWNERS)
+summary: Lists owners for the PDF folder and per-file reviewers for PDF extension tests and utility files.

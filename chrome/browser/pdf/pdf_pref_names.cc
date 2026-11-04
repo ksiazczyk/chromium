@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF preference name constants
+// summary: Defines preference name constants for PDF viewer settings such as Skia rendering, OOPIF viewer, XFA forms, local file access, and Drive save restrictions.
+// ---
+
 #include "chrome/browser/pdf/pdf_pref_names.h"
 
 namespace prefs {

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for remote_actor
+summary: Defines the remote_actor source set plus its unit and browser test targets and their build dependencies.

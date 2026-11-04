@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for PaymentManager.enableDelegations
+// summary: Browser tests verifying enableDelegations() rejects invalid values and lets payment handlers handle shipping and contact details, skipping the payment sheet.
+// ---
+
 #include <string>
 
 #include "chrome/test/payments/payment_request_platform_browsertest_base.h"

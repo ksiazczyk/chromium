@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password reuse manager factory header
+// summary: Declares PasswordReuseManagerFactory, a ProfileKeyedServiceFactory that creates a PasswordReuseManager instance per profile.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_FACTORIES_PASSWORD_REUSE_MANAGER_FACTORY_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_FACTORIES_PASSWORD_REUSE_MANAGER_FACTORY_H_
 

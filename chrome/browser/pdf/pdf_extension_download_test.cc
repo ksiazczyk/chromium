@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF extension download browser tests
+// summary: Browser tests for saving and downloading PDFs from the viewer via context menu, toolbar, and policy-controlled download behavior.
+// ---
+
 #include "base/auto_reset.h"
 #include "base/command_line.h"
 #include "base/files/file_path.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the field info manager factory
+// summary: Creates per-profile FieldInfoManager instances used by the password manager to track form field information.
+// ---
+
 #include "chrome/browser/password_manager/factories/field_info_manager_factory.h"
 
 #include "chrome/browser/profiles/profile.h"

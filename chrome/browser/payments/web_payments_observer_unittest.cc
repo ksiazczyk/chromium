@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebPaymentsObserver unit tests
+// summary: Unit tests covering WebPaymentsObserver telemetry behavior, including the disabled feature, null navigation handle, and form data parsing cases.
+// ---
+
 #include "chrome/browser/payments/web_payments_observer.h"
 
 #include <memory>

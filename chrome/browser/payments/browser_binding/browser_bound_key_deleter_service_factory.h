@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser bound key deleter service factory header
+// summary: Declares the profile keyed service factory providing per-profile access to the browser bound key deleter service and a testing override.
+// ---
+
 #ifndef CHROME_BROWSER_PAYMENTS_BROWSER_BINDING_BROWSER_BOUND_KEY_DELETER_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_PAYMENTS_BROWSER_BINDING_BROWSER_BOUND_KEY_DELETER_SERVICE_FACTORY_H_
 

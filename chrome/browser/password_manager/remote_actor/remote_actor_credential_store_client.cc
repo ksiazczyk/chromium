@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote actor credential store client implementation
+// summary: Implements the Passbox REST client that uploads and deletes shared credentials with OAuth2 authentication, including the traffic annotation and endpoint override switch.
+// ---
+
 #include "chrome/browser/password_manager/remote_actor/remote_actor_credential_store_client.h"
 
 #include <optional>

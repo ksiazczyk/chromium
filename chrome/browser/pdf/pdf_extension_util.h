@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF extension utility header
+// summary: Declares PDF viewer extension utilities for manifests, strings, resources and dispatching save and viewport update events.
+// ---
+
 #ifndef CHROME_BROWSER_PDF_PDF_EXTENSION_UTIL_H_
 #define CHROME_BROWSER_PDF_PDF_EXTENSION_UTIL_H_
 

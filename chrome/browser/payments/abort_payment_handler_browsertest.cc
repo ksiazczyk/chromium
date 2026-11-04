@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment handler abort browser tests
+// summary: Browser tests verifying that installed and just-in-time payment handlers can accept or refuse aborting a payment request.
+// ---
+
 #include <string>
 
 #include "build/build_config.h"

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the ODE desktop embedder
+summary: Delegates code ownership to the OWNERS file of the cross-platform ODE core in components.

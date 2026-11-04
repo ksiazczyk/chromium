@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordChangeSubmissionVerifier class header
+// summary: Declares the verifier that checks if a password change was successful and defines the submission outcome and verification result enums used for metrics.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_PASSWORD_CHANGE_PASSWORD_CHANGE_SUBMISSION_VERIFIER_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_PASSWORD_CHANGE_PASSWORD_CHANGE_SUBMISSION_VERIFIER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF service process launcher implementation
+// summary: Launches and manages the sandboxed PDF Service utility process, providing singleton and per-call Mojo remote handles with idle timeout.
+// ---
+
 #include "chrome/browser/pdf/pdf_service.h"
 
 #include "base/no_destructor.h"

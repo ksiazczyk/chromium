@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Secure Payment Confirmation test fixture header
+// summary: Header for the Secure Payment Confirmation browser test fixture, declaring setup hooks, histogram helpers, and error message utilities shared by SPC tests.
+// ---
+
 #ifndef CHROME_BROWSER_PAYMENTS_SECURE_PAYMENT_CONFIRMATION_BROWSERTEST_H_
 #define CHROME_BROWSER_PAYMENTS_SECURE_PAYMENT_CONFIRMATION_BROWSERTEST_H_
 

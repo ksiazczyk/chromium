@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScriptPasswordChangeActuator unit tests
+// summary: Unit tests for the script password change actuator, covering actuation state changes, optimization guide integration, and model quality log uploading.
+// ---
+
 #include "chrome/browser/password_manager/password_change/script_password_change_actuator.h"
 
 #include <memory>

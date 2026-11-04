@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF extension printing browser tests
+// summary: Browser tests for printing from the PDF extension, covering print preview, out-of-process printing and ChromeOS CUPS printing interactions.
+// ---
+
 #include <memory>
 #include <tuple>
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PaymentRequestParamsBuilder
+// summary: Builder that assembles PaymentRequest parameters and mocked dependencies such as WebContents and JourneyLogger for payment request unit tests.
+// ---
+
 package org.chromium.chrome.browser.payments.test_support;
 
 import android.app.Activity;

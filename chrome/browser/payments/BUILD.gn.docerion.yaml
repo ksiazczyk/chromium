@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for Chrome payments
+summary: Defines GN source sets for the Chrome browser payments code, its implementation, and the payment browser test suite with their dependencies.

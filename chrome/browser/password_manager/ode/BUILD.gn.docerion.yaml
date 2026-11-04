@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the ODE desktop embedder
+summary: Defines the GN source sets for the ODE desktop embedder, including platform-conditional sources and the unit test target.

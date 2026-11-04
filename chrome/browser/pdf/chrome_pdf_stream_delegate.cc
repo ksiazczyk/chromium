@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome PDF stream delegate implementation
+// summary: Implements the Chrome PDF stream delegate that resolves stream info, applies Skia renderer and XFA form preferences and policies, and manages PDF navigation URLs.
+// ---
+
 #include "chrome/browser/pdf/chrome_pdf_stream_delegate.h"
 
 #include <optional>

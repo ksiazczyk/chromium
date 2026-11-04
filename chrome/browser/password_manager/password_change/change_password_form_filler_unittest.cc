@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChangePasswordFormFiller unit tests
+// summary: Unit tests for ChangePasswordFormFiller covering form filling, retry behavior and submission errors using mock password manager components.
+// ---
+
 #include "chrome/browser/password_manager/password_change/change_password_form_filler.h"
 
 #include <string>

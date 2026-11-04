@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remote actor credential store client unit tests
+// summary: Unit tests verifying Passbox update and delete requests, URL construction, and metrics using mocked identity and network test environments.
+// ---
+
 #include "chrome/browser/password_manager/remote_actor/remote_actor_credential_store_client.h"
 
 #include <memory>

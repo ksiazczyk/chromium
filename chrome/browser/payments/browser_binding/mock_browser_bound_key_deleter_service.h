@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock browser bound key deleter service declaration
+// summary: Declares a gmock mock of the browser bound key deleter service that stubs RemoveInvalidBBKs for use in tests.
+// ---
+
 #ifndef CHROME_BROWSER_PAYMENTS_BROWSER_BINDING_MOCK_BROWSER_BOUND_KEY_DELETER_SERVICE_H_
 #define CHROME_BROWSER_PAYMENTS_BROWSER_BINDING_MOCK_BROWSER_BOUND_KEY_DELETER_SERVICE_H_
 

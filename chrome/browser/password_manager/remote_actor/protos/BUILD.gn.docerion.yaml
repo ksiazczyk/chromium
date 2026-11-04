@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for remote actor protos
+summary: Defines the proto_library GN target that builds the remote actor affiliated passwords result proto with dependencies on affiliation and sync protocol protos.

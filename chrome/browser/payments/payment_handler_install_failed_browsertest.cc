@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for failed payment handler installation
+// summary: Browser test verifying the error shown when a payment handler fails to install and that the install success histogram records the failure.
+// ---
+
 #include <string>
 
 #include "base/functional/bind.h"

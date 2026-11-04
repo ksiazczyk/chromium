@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sec-Fetch-Site header browser test
+// summary: Browser tests checking that payment method manifest requests carry the correct Sec-Fetch-Site header for cross-site, same-origin, and same-site scenarios.
+// ---
+
 #include <memory>
 
 #include "chrome/test/payments/payment_request_platform_browsertest_base.h"

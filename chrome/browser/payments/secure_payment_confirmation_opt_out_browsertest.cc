@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Secure Payment Confirmation opt-out browser tests
+// summary: Browser tests covering the Secure Payment Confirmation opt-out flow, verifying when opt-out is offered, taken, or declined and the metrics recorded for each case.
+// ---
+
 #include "chrome/browser/payments/secure_payment_confirmation_browsertest.h"
 #include "components/autofill/core/browser/test_utils/test_event_waiter.h"
 #include "components/payments/content/secure_payment_confirmation_app.h"

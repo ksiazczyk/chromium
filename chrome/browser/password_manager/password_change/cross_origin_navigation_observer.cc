@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-origin navigation observer implementation
+// summary: Detects navigations away from the initial or affiliated domains during a password change flow and invokes a callback via the affiliation service.
+// ---
+
 #include "chrome/browser/password_manager/password_change/cross_origin_navigation_observer.h"
 
 #include <ranges>

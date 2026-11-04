@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF extension test utilities implementation
+// summary: Implements helpers to locate PDF extension and plugin frames, count plugin processes and wait for PDFs to load in browser tests.
+// ---
+
 #include "chrome/browser/pdf/pdf_extension_test_util.h"
 
 #include <stddef.h>

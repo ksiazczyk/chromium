@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Secure Payment Confirmation browser tests
+// summary: Browser tests for Secure Payment Confirmation, including the shared test fixture setup, feature flag configuration, and JourneyLogger histogram verification helpers.
+// ---
+
 #include "chrome/browser/payments/secure_payment_confirmation_browsertest.h"
 
 #include <stdint.h>

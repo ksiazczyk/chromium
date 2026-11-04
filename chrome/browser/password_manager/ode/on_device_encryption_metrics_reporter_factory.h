@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ODE metrics reporter factory header
+// summary: Declares the profile-keyed service factory that provides OnDeviceEncryptionMetricsReporter instances per profile.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_ODE_ON_DEVICE_ENCRYPTION_METRICS_REPORTER_FACTORY_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_ODE_ON_DEVICE_ENCRYPTION_METRICS_REPORTER_FACTORY_H_
 

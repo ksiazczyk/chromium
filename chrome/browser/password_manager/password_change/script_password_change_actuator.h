@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScriptPasswordChangeActuator class header
+// summary: Declares the script-based actuator that finds, fills, and submits change password forms, verifies results, and notifies observers of state changes.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_PASSWORD_CHANGE_SCRIPT_PASSWORD_CHANGE_ACTUATOR_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_PASSWORD_CHANGE_SCRIPT_PASSWORD_CHANGE_ACTUATOR_H_
 

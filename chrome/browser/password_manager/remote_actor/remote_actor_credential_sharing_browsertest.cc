@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Remote actor credential sharing browser tests
+// summary: Browser tests verifying that the credential sharing API is injected only on allowed origins and returns expected results.
+// ---
+
 #include "base/command_line.h"
 #include "base/test/metrics/histogram_tester.h"
 #include "base/test/scoped_feature_list.h"

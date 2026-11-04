@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for payments directory
+summary: Specifies allowed include rules and per-file exceptions for dependencies in the Chrome browser payments directory.

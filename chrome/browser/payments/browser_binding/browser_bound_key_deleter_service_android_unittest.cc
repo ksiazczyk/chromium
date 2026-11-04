@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android browser bound key deleter service unit tests
+// summary: Unit tests verifying that the Android deleter filters and deletes browser bound keys whose credentials no longer match, using mock authenticator and binder.
+// ---
+
 #include "chrome/browser/payments/browser_binding/browser_bound_key_deleter_service_android.h"
 
 #include <memory>

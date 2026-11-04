@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Annotated page content capturer implementation
+// summary: Captures annotated page content after page load stops, retrying on failure and logging capture metrics.
+// ---
+
 #include "chrome/browser/password_manager/password_change/annotated_page_content_capturer_impl.h"
 
 #include <utility>

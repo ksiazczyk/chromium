@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop browser bound key deleter service header
+// summary: Declares BrowserBoundKeyDeleterServiceDesktop, the desktop implementation with a test hook for injecting a passkey browser binder.
+// ---
+
 #ifndef CHROME_BROWSER_PAYMENTS_BROWSER_BINDING_BROWSER_BOUND_KEY_DELETER_SERVICE_DESKTOP_H_
 #define CHROME_BROWSER_PAYMENTS_BROWSER_BINDING_BROWSER_BOUND_KEY_DELETER_SERVICE_DESKTOP_H_
 

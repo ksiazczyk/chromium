@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Chrome passkey ODE state tracker
+// summary: Parameterized tests verifying the tracker computes the correct ODE state across account, sync, passkey model, and enclave conditions.
+// ---
+
 #include "chrome/browser/password_manager/ode/chrome_passkey_on_device_encryption_state_tracker.h"
 
 #include <string>

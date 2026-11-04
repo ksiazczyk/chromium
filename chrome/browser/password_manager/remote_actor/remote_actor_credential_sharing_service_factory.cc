@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote actor credential sharing service factory implementation
+// summary: Implements the profile-keyed factory that creates the remote actor credential sharing service for regular profiles when the feature flag is enabled.
+// ---
+
 #include "chrome/browser/password_manager/remote_actor/remote_actor_credential_sharing_service_factory.h"
 
 #include "chrome/browser/password_manager/remote_actor/remote_actor_credential_sharing_service_impl.h"

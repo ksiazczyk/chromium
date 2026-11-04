@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF extension JavaScript browser tests
+// summary: Browser test base for the PDF extension that runs JavaScript test modules against the PDF viewer, setting up WebUI test resources, embedded test servers, and optional DevTools code coverage.
+// ---
+
 #include <memory>
 #include <string>
 #include <vector>

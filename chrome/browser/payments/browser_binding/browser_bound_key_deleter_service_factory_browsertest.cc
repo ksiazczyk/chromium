@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser bound key deleter service factory browser test
+// summary: Browser test that installs a mock browser bound key deleter service and verifies RemoveInvalidBBKs is invoked when the profile starts.
+// ---
+
 #include "chrome/browser/payments/browser_binding/browser_bound_key_deleter_service_factory.h"
 
 #include "chrome/browser/payments/browser_binding/mock_browser_bound_key_deleter_service.h"

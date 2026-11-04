@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF extension test base class header
+// summary: Declares the PDFExtensionTestBase fixture with helpers to load PDFs, retrieve extension hosts and inspect web contents during PDF extension tests.
+// ---
+
 #ifndef CHROME_BROWSER_PDF_PDF_EXTENSION_TEST_BASE_H_
 #define CHROME_BROWSER_PDF_PDF_EXTENSION_TEST_BASE_H_
 

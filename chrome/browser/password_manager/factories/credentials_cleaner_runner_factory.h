@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the credentials cleaner runner factory
+// summary: Declares CredentialsCleanerRunnerFactory, which creates instances of CredentialsCleanerRunner per profile.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_FACTORIES_CREDENTIALS_CLEANER_RUNNER_FACTORY_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_FACTORIES_CREDENTIALS_CLEANER_RUNNER_FACTORY_H_
 

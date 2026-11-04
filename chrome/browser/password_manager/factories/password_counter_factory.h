@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password counter profile service factory header
+// summary: Declares PasswordCounterFactory, a ProfileKeyedServiceFactory that builds a PasswordCounter instance for each profile.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_FACTORIES_PASSWORD_COUNTER_FACTORY_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_FACTORIES_PASSWORD_COUNTER_FACTORY_H_
 

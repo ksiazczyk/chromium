@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password sender service factory implementation
+// summary: Implements the factory that builds PasswordSenderService per profile for outgoing password sharing invitation sync, returning null on Android where GMSCore handles sending.
+// ---
+
 #include "chrome/browser/password_manager/factories/password_sender_service_factory.h"
 
 #include <memory>

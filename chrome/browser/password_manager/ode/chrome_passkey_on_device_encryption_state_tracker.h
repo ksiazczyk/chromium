@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome passkey ODE state tracker header
+// summary: Declares the desktop passkey ODE state tracker that observes enclave manager updates to compute the on-device encryption state.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_ODE_CHROME_PASSKEY_ON_DEVICE_ENCRYPTION_STATE_TRACKER_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_ODE_CHROME_PASSKEY_ON_DEVICE_ENCRYPTION_STATE_TRACKER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Detached web contents class declaration
+// summary: Declares a helper managing a WebContents that is not attached to any tab strip or visible widget, with a testing constructor.
+// ---
+
 #ifndef CHROME_BROWSER_PASSWORD_MANAGER_PASSWORD_CHANGE_DETACHED_WEB_CONTENTS_H_
 #define CHROME_BROWSER_PASSWORD_MANAGER_PASSWORD_CHANGE_DETACHED_WEB_CONTENTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CanMakePayment event browser tests
+// summary: Browser tests verifying that the canmakepayment event does not fire for standardized payment methods such as interledger.
+// ---
+
 #include "chrome/test/payments/payment_app_install_util.h"
 #include "chrome/test/payments/payment_request_platform_browsertest_base.h"
 #include "content/public/test/browser_test.h"

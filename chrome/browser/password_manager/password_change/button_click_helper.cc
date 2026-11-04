@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Button click helper
+// summary: Clicks a DOM element via an actor tool invocation and reports the action result for password change flows.
+// ---
+
 #include "chrome/browser/password_manager/password_change/button_click_helper.h"
 
 #include "base/strings/to_string.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebPaymentsObserver implementation
+// summary: Implements a WebContents observer that records anonymized 3D-Secure challenge telemetry from form submission POST data during navigations.
+// ---
+
 #include "chrome/browser/payments/web_payments_observer.h"
 
 #include "base/feature_list.h"

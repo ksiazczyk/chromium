@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for browser bound key deleter
+summary: GN build file defining source sets for the browser bound key deleter service, its Android and desktop implementations, unit tests, browser tests and test support.

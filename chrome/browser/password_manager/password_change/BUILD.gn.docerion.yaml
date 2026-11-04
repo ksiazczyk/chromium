@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Password change build targets
+summary: GN build configuration defining the password_change source sets, features target, and unit tests.

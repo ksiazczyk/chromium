@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the password counter factory
+// summary: Builds per-profile PasswordCounter caches of password store state, gated by device form factor and an Android context menu feature flag.
+// ---
+
 #include "chrome/browser/password_manager/factories/password_counter_factory.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PasswordChangeFromCheckupDelegate implementation
+// summary: Implements the delegate that starts, stops, and reports state for an automatic password change flow for a credential from the Password Checkup page using the Glic actuator.
+// ---
+
 #include "chrome/browser/password_manager/password_change/password_change_from_checkup_delegate.h"
 
 #include <utility>

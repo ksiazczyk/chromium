@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PasswordChangeSubmissionVerifier unit tests
+// summary: Unit tests for the submission verifier, using mock optimization guide services and a fake content capturer to check outcomes, histograms, and UKM entries.
+// ---
+
 #include "chrome/browser/password_manager/password_change/password_change_submission_verifier.h"
 
 #include "base/test/gmock_callback_support.h"

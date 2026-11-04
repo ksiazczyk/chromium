@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PaymentRequest CSP browser test
+// summary: Browser tests verifying Content Security Policy violations when constructing PaymentRequest with disallowed payment method identifiers and allowed connect-src variants.
+// ---
+
 #include <string>
 
 #include "chrome/test/payments/payment_request_platform_browsertest_base.h"

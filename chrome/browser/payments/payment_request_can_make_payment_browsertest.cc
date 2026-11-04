@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CanMakePayment query browser tests
+// summary: Parameterized browser tests for canMakePayment() and hasEnrolledInstrument() under different values of the CanMakePaymentEnabled pref, with histogram checks.
+// ---
+
 #include <string>
 #include <vector>
 

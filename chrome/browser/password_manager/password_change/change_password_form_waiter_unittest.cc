@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Change password form waiter unit tests
+// summary: Unit tests for the change password form waiter, covering form detection, visibility and discard reasons with mock password manager components.
+// ---
+
 #include "chrome/browser/password_manager/password_change/change_password_form_waiter.h"
 
 #include <utility>

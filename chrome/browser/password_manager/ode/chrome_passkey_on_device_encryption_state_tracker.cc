@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome passkey ODE state tracker implementation
+// summary: Implements the desktop passkey ODE state tracker, deriving the platform state from the enclave manager's loaded and ready status.
+// ---
+
 #include "chrome/browser/password_manager/ode/chrome_passkey_on_device_encryption_state_tracker.h"
 
 #include "chrome/browser/webauthn/enclave_manager_interface.h"

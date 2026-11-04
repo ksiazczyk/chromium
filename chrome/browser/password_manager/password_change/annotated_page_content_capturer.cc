@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Annotated page content capturer
+// summary: Implements factory-based creation of the annotated page content capturer used during password change.
+// ---
+
 #include "chrome/browser/password_manager/password_change/annotated_page_content_capturer.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PDF extension interactive UI tests
+// summary: Interactive browser tests for the PDF viewer covering keyboard focus, tab navigation, text selection, and touch selection behavior.
+// ---
+
 #include "base/run_loop.h"
 #include "base/test/run_until.h"
 #include "base/test/scoped_feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for payment handler error responses
+// summary: Browser tests verifying that payment handler respondWith rejections surface to the merchant as OperationError or AbortError.
+// ---
+
 #include "chrome/test/payments/payment_request_platform_browsertest_base.h"
 #include "content/public/test/browser_test.h"
 #include "content/public/test/browser_test_utils.h"

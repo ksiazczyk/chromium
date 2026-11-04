@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF help bubble handler factory header
+// summary: Declares a DocumentService factory that creates HelpBubbleHandler instances bound to the PDF viewer extension frame.
+// ---
+
 #ifndef CHROME_BROWSER_PDF_PDF_HELP_BUBBLE_HANDLER_FACTORY_H_
 #define CHROME_BROWSER_PDF_PDF_HELP_BUBBLE_HANDLER_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Payment manifest parser browser tests
+// summary: Browser tests for parsing payment method and web app manifests, covering valid manifests, disallowed JavaScript comments and limits on web app URLs.
+// ---
+
 #include "components/payments/content/utility/payment_manifest_parser.h"
 #include "content/public/test/browser_test.h"
 
