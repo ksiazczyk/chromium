@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: Redirects ownership of this directory to the OWNERS file in chrome/browser/resources/ash/settings.
