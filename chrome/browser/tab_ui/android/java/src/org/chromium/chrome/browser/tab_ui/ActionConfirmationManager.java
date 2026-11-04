@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Action confirmation manager for destructive tab group actions
+// summary: Orchestrates confirmation dialogs that warn users before tab actions such as deleting, ungrouping, or leaving tab groups, with user action metrics for non-incognito tabs.
+// ---
+
 package org.chromium.chrome.browser.tab_ui;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ActionConfirmationManagerUnitTest
+// summary: Robolectric unit tests for ActionConfirmationManager, covering confirmation dialogs, sync and preference state, and result callbacks for tab group actions.
+// ---
+
 package org.chromium.chrome.browser.tab_ui;
 
 import static org.junit.Assert.assertEquals;

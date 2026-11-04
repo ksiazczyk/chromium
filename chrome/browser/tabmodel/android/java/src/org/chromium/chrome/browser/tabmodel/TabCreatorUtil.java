@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabCreatorUtil shared launch helpers
+// summary: Utility class holding shared logic for TabCreator callers and implementations, such as launching the NTP with a unified launch type.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import org.chromium.base.TraceEvent;

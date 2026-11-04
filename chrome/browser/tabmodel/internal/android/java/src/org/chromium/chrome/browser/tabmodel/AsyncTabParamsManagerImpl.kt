@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: AsyncTabParamsManagerImpl
+// summary: Implementation of AsyncTabParamsManager that stores tab parameters for tabs opened asynchronously via intents, including incognito tab accounting and cleanup.
+// ---
+
 package org.chromium.chrome.browser.tabmodel
 
 import android.util.SparseArray

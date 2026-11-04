@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PassthroughTabRemoverUnitTest
+// summary: Robolectric unit tests covering tab closing in PassthroughTabRemover, including dialog skipping and beforeunload proceed and cancel paths.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static org.junit.Assert.assertEquals;

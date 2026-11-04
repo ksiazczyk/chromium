@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RecordingTabCreatorManagerUnitTest
+// summary: Unit tests verifying that RecordingTabCreatorManager wraps the regular tab creator in a RecordingTabCreator under the SQLite tab storage feature and delegates unchanged otherwise.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabGroupVisualDataStoreUnitTest
+// summary: Robolectric unit tests for TabGroupVisualDataStore covering storing, retrieving, and deleting tab group visual data.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static org.junit.Assert.assertEquals;

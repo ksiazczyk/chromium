@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PassthroughTabRemover
+// summary: Passthrough TabRemover implementation that forwards tab closing calls directly to the TabModel, handling beforeunload prompts and action listeners.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import androidx.annotation.VisibleForTesting;

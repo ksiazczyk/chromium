@@ -1,0 +1,4 @@
+# Docerion header of android_tab_ui_strings_iw.xtb.
+type: data
+title: Hebrew Android tab UI strings
+summary: Hebrew translation bundle for Chrome Android tab UI, covering tab group save, leave, ungroup, and delete dialogs.

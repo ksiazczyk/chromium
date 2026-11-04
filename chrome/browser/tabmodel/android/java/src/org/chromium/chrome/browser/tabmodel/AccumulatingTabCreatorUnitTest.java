@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccumulatingTabCreatorUnitTest
+// summary: Unit tests verifying that AccumulatingTabCreator records new and frozen tab creation arguments and stops recording when requested.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static org.junit.Assert.assertEquals;

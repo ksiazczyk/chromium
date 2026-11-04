@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Empty TabUngrouper implementation
+// summary: No-op implementation of TabUngrouper whose ungroup operations for tabs and tab groups do nothing.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import org.chromium.base.Token;

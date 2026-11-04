@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Listener interface for selecting a tab
+// summary: Interface notified when a tab is being selected so the tab can be chosen and the tab switcher layout exited.
+// ---
+
 package org.chromium.chrome.browser.tab_ui;
 
 import org.chromium.build.annotations.NullMarked;

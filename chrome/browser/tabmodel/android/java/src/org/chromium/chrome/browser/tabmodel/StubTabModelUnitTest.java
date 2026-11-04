@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StubTabModelUnitTest
+// summary: Tests that StubTabModel overrides every mutating TabModel method, using a reflection-based allowlist of safe read and listener methods inherited from EmptyTabModel.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static org.junit.Assert.assertEquals;

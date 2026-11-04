@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabUngrouperFactory interface
+// summary: Factory interface that creates a TabUngrouper for a tab model based on incognito branding and a tab model supplier.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import androidx.annotation.VisibleForTesting;

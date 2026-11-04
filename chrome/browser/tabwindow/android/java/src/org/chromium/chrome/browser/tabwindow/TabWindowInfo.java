@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabWindowInfo holding tab, tab model, selector and window type
+// summary: Holds objects related to a tab and its window, defining a TabWindowType annotation that classifies selectors as tabbed, headless, custom tab, or archived.
+// ---
+
 package org.chromium.chrome.browser.tabwindow;
 
 import androidx.annotation.IntDef;

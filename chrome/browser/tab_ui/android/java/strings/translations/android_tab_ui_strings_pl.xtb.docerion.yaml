@@ -1,0 +1,4 @@
+# Docerion header of android_tab_ui_strings_pl.xtb.
+type: data
+title: Android tab UI strings in Polish
+summary: Translation bundle with Polish localized strings for the Android tab UI, covering tab group dialogs for leaving, deleting, and ungrouping shared tab groups.

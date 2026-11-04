@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Incognito tab UI color resources
+summary: Defines color resources for incognito tab titles, thumbnails, backgrounds, action buttons, hover overlays, and favicon backgrounds in the tab UI.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
   <color name="incognito_tab_title_color">@color/baseline_neutral_90</color>
   <color name="incognito_tab_title_selected_color">@color/baseline_primary_20</color>

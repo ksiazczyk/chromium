@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabListFaviconProvider
+// summary: Provides processed favicons for the tab list, defining fetcher interfaces and favicon wrappers with selected and recolorable drawable states.
+// ---
+
 package org.chromium.chrome.browser.tab_ui;
 
 import static org.chromium.build.NullUtil.assertNonNull;

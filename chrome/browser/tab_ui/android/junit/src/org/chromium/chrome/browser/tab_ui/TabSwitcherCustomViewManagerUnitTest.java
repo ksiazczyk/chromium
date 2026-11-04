@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabSwitcherCustomViewManagerUnitTest
+// summary: Unit tests for TabSwitcherCustomViewManager verifying delegate callbacks when custom views are requested and released in the tab switcher.
+// ---
+
 package org.chromium.chrome.browser.tab_ui;
 
 import static org.mockito.Mockito.doNothing;

@@ -3,6 +3,12 @@
      Use of this source code is governed by a BSD-style license that can be
      found in the LICENSE file. -->
 
+<!--docerion
+type: asset
+title: Tab placeholder icon drawable
+summary: Circular vector icon with clipped abstract shapes and a stroked ring, used as a placeholder image for tabs.
+-->
+
 <vector
   xmlns:android="http://schemas.android.com/apk/res/android"
   android:width="64dp"

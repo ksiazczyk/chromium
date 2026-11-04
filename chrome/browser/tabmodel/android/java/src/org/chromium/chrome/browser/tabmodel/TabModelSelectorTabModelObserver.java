@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabModelSelectorTabModelObserver
+// summary: TabModelObserver that registers itself with all tab models owned by a TabModelSelector, including lazily created models, and must be destroyed to unregister.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import org.chromium.base.Callback;

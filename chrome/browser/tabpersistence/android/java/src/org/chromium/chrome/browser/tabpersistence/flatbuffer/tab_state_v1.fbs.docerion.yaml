@@ -1,0 +1,4 @@
+# Docerion header of tab_state_v1.fbs.
+type: source
+title: Tab state v1 FlatBuffer schema
+summary: Version 1 FlatBuffers schema for persisted tab state, covering parent and root IDs, timestamps, WebContentsState bytes, launch type, user agent, tab group, pinning, and URL.

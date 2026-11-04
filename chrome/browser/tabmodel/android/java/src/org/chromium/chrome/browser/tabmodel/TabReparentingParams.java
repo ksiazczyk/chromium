@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabReparentingParams
+// summary: AsyncTabParams implementation that carries a tab and finalize callback for reparenting it across activities.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import android.content.ComponentName;

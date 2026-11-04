@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native counterpart of the Java TabWindowManagerObserver
+// summary: Declares the C++ observer class that receives TabWindowManager events from Java via JNI and notifies native observers.
+// ---
+
 #ifndef CHROME_BROWSER_TABWINDOW_TAB_WINDOW_MANAGER_OBSERVER_H_
 #define CHROME_BROWSER_TABWINDOW_TAB_WINDOW_MANAGER_OBSERVER_H_
 

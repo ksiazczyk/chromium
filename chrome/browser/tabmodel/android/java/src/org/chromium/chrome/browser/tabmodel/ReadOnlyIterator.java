@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadOnlyIterator
+// summary: Iterator wrapper that prevents modification of the underlying collection by throwing UnsupportedOperationException on remove when asserts are enabled.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import org.chromium.build.BuildConfig;

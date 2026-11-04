@@ -1,0 +1,4 @@
+# Docerion header of android_tab_ui_strings_zh-TW.xtb.
+type: data
+title: Android tab UI strings in Traditional Chinese (Taiwan)
+summary: Traditional Chinese (Taiwan) translation bundle with Chrome for Android tab UI strings covering tab group actions such as leaving, ungrouping, and deleting groups.

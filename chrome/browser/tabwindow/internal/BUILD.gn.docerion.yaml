@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tab window internal GN build targets
+summary: GN build file defining the android_library target for TabWindowManager Java sources and a robolectric_library target for its unit tests.

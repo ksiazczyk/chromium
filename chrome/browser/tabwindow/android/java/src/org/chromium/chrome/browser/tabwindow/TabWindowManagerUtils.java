@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabWindowManagerUtils for tab group title and color lookup
+// summary: Utility class that looks up a tab group's displayable title and color in any window via the TabWindowManager, falling back to grey when not found.
+// ---
+
 package org.chromium.chrome.browser.tabwindow;
 
 import android.content.Context;

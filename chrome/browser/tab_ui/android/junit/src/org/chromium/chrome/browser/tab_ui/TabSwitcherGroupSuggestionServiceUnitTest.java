@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabSwitcherGroupSuggestionServiceUnitTest
+// summary: Unit tests for TabSwitcherGroupSuggestionService covering group suggestion retrieval, tab group and tab model observer behavior, and user responses.
+// ---
+
 package org.chromium.chrome.browser.tab_ui;
 
 import static org.junit.Assert.assertFalse;

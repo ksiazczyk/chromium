@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OverridableTabCountUnitTest
+// summary: Robolectric unit tests verifying that OverridableTabCount tracks the real tab count and honors overridden counts with single and multiple tokens.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static org.junit.Assert.assertEquals;

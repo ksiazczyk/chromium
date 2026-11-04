@@ -1,0 +1,4 @@
+# Docerion header of android_tab_ui_strings.grd.
+type: data
+title: Android tab UI strings for Chrome
+summary: Grit resource file defining localized UI strings for the tab UI dynamic feature module of Chrome for Android, with output files for many languages.

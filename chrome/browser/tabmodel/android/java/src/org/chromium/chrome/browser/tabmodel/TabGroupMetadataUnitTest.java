@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabGroupMetadataUnitTest
+// summary: Unit tests verifying serialization, deserialization and ordering of TabGroupMetadata when stored in intents and parcels.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static com.google.common.truth.Truth.assertThat;

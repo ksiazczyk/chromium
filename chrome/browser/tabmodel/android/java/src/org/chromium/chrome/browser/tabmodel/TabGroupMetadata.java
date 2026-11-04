@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabGroupMetadata for drag and drop transfer
+// summary: Holds tab group metadata such as selected tab, IDs, URLs, color, title and collapsed state for transfer during tab group drag and drop.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static org.chromium.chrome.browser.tabmodel.TabGroupTitleUtils.UNSET_TAB_GROUP_TITLE;

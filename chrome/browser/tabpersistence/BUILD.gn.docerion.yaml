@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Tab persistence build targets (BUILD.gn)
+summary: Defines the Java library, FlatBuffer schema library, and Robolectric unit test targets for Chrome's tab persistence code.

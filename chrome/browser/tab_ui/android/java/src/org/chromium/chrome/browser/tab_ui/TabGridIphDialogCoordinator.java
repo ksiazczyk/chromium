@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Coordinator for the grid tab switcher IPH dialog
+// summary: Coordinates the in-product help dialog for drag-and-drop in the grid tab switcher, showing a modal dialog with an animated illustration and handling dismissal.
+// ---
+
 package org.chromium.chrome.browser.tab_ui;
 
 import static org.chromium.build.NullUtil.assertNonNull;

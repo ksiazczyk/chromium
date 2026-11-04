@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabCardThemeUtilUnitTest
+// summary: Unit tests for TabCardThemeUtil checking favicon tint and title text colors for selected, unselected, and incognito tab cards.
+// ---
+
 package org.chromium.chrome.browser.tab_ui;
 
 import static org.junit.Assert.assertEquals;

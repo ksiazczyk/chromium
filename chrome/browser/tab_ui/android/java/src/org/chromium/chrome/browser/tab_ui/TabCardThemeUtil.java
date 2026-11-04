@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme utility for tab card colors and styles
+// summary: Utility providing colors and styles for tab cards in the grid tab switcher, including favicon tints, title text colors, and thumbnail aspect ratios.
+// ---
+
 package org.chromium.chrome.browser.tab_ui;
 
 import android.app.Activity;

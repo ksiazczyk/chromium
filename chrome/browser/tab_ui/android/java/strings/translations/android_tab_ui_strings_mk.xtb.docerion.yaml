@@ -1,0 +1,4 @@
+# Docerion header of android_tab_ui_strings_mk.xtb.
+type: data
+title: Android tab UI strings (Macedonian)
+summary: Macedonian translation bundle for Chrome's Android tab UI, providing localized strings for shared tab group prompts such as leaving, ungrouping, and deleting groups.

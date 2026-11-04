@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabOrchestratorType
+// summary: IntDef annotation identifying which type of TabModelOrchestrator, such as tabbed, custom, archived, or headless, manages a TabPersistentStore.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import androidx.annotation.IntDef;

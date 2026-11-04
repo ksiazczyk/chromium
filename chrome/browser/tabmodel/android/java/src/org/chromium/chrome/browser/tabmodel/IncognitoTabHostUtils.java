@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IncognitoTabHostUtils
+// summary: Static utilities to check whether incognito tabs exist, whether the incognito model is active, and to close all incognito tabs across registered IncognitoTabHosts.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import org.chromium.build.annotations.NullMarked;

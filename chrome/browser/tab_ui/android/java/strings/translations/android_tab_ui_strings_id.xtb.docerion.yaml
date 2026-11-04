@@ -1,0 +1,4 @@
+# Docerion header of android_tab_ui_strings_id.xtb.
+type: data
+title: Indonesian Android tab UI strings
+summary: Indonesian translation bundle for Chrome Android tab UI, covering tab group save, leave, ungroup, and delete dialogs.

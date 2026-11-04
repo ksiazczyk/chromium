@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-thumbnail card provider for tab group thumbnails
+// summary: Creates a single combined bitmap thumbnail for all tabs in a tab group, drawing up to four tab thumbnails, favicons, placeholders, and overlay effects.
+// ---
+
 package org.chromium.chrome.browser.tab_ui;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

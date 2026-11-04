@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArchivedTabCountTrackerUnitTest
+// summary: Unit tests verifying that ArchivedTabCountTracker updates its count supplier from tab model and tab group sync observers.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static org.junit.Assert.assertEquals;

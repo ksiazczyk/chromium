@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecordingTabCreatorManager
+// summary: TabCreatorManager that delegates to another manager and orchestrates a RecordingTabCreator for regular tabs when tab storage is enabled.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import org.chromium.build.annotations.NullMarked;

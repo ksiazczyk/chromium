@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabGroupUtilsUnitTest
+// summary: Robolectric unit tests for TabGroupUtils covering tab group selection, regrouping, and tab group sync behavior.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

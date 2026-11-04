@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabStateFileManager unit tests
+// summary: Robolectric unit tests covering saving and restoring tab state files, including FlatBuffer, encrypted, and tab group ID cases.
+// ---
+
 package org.chromium.chrome.browser.tabpersistence;
 
 import static org.junit.Assert.assertEquals;

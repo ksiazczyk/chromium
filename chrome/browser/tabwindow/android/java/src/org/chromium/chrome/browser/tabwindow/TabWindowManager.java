@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabWindowManager interface for multiple tab model selectors
+// summary: Interface managing multiple TabModelSelector instances across activities, defining window ID limits per Android version, observers, and lookup methods.
+// ---
+
 package org.chromium.chrome.browser.tabwindow;
 
 import android.app.Activity;

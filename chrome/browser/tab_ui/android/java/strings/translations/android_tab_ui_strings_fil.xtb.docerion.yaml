@@ -1,0 +1,4 @@
+# Docerion header of android_tab_ui_strings_fil.xtb.
+type: data
+title: Android tab UI strings in Filipino
+summary: Filipino translation bundle for Chrome on Android tab UI, covering shared tab group keep, leave and delete prompts.

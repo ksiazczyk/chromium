@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabUngrouper interface
+// summary: Interface that moves tabs or entire tab groups out of their group, optionally showing a dialog when the action is destructive to tab groups.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import org.chromium.base.Token;

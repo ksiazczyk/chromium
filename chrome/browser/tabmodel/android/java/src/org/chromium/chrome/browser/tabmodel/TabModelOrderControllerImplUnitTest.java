@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabModelOrderControllerImplUnitTest
+// summary: Robolectric unit tests verifying TabModelOrderControllerImpl insertion index behavior for invalid launch types, pinned tabs, and adjacent tab opening.
+// ---
+
 package org.chromium.chrome.browser.tabmodel;
 
 import static org.junit.Assert.assertEquals;
