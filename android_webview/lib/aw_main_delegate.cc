@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwMainDelegate implementation
+// summary: Implements the Android WebView ContentMainDelegate, setting up features, crash reporting, the memory system, and per-process clients for browser, renderer, and GPU.
+// relations:
+//   - implements /android_webview/lib/aw_main_delegate.h
+//   - depends_on /android_webview/browser/aw_browser_process.h
+//   - depends_on /android_webview/browser/aw_content_browser_client.h
+// ---
+
 #include "android_webview/lib/aw_main_delegate.h"
 
 #include <memory>

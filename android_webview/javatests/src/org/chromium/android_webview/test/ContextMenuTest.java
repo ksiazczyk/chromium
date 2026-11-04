@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Context menu test
+// summary: Instrumentation tests for WebView context menu behavior, including hyperlink context menu items and menu population.
+// ---
+
 package org.chromium.android_webview.test;
 
 import static androidx.test.espresso.intent.Intents.intended;

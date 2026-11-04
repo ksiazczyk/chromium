@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwContentsLifecycleNotifier tests
+// summary: Tests that AwContentsLifecycleNotifier notifies observers about first WebView creation, last WebView destruction and app state changes.
+// relations:
+//   - depends_on /android_webview/javatests/src/org/chromium/android_webview/test/AwActivityTestRule.java
+//   - tests /android_webview/java/src/org/chromium/android_webview/AwContentsLifecycleNotifier.java
+// ---
+
 package org.chromium.android_webview.test;
 
 import static com.google.common.truth.Truth.assertThat;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MinidumpUploadJobTest
+// summary: Instrumentation tests for WebView's MinidumpUploaderDelegate implementation and the interplay of WebView's minidump-copying and minidump-uploading logic.
+// ---
+
 package org.chromium.android_webview.test.services;
 
 import static org.chromium.android_webview.test.OnlyRunIn.ProcessMode.EITHER_PROCESS;

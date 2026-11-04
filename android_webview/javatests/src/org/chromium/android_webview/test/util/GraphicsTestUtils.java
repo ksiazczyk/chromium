@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GraphicsTestUtils
+// summary: Draws AwContents or views into bitmaps and samples pixel colors to assert background rendering in tests.
+// ---
+
 package org.chromium.android_webview.test.util;
 
 import android.content.Context;

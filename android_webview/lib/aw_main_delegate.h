@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwMainDelegate class declaration
+// summary: Declares the Android WebView implementation of ContentMainDelegate, a per-process singleton that creates the content, browser, GPU, and renderer clients.
+// relations:
+//   - depends_on /android_webview/browser/aw_feature_list_creator.h
+//   - depends_on /android_webview/common/aw_content_client.h
+//   - depends_on /android_webview/common/gfx/aw_gr_context_options_provider.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_LIB_AW_MAIN_DELEGATE_H_
 #define ANDROID_WEBVIEW_LIB_AW_MAIN_DELEGATE_H_
 

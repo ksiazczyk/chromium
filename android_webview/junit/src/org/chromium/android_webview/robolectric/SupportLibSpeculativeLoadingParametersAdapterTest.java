@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SupportLibSpeculativeLoadingParametersAdapter tests
+// summary: Robolectric tests for converting speculative loading parameters from the support library boundary interface, including version-skew handling when getVariationsId fails.
+// ---
+
 package org.chromium.android_webview.robolectric;
 
 import com.android.webview.chromium.PrefetchParams;

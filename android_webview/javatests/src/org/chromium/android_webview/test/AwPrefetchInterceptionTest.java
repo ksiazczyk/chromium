@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Prefetch shouldInterceptRequest tests
+// summary: Parameterized tests checking shouldInterceptRequest behavior for various WebView prefetch mechanisms, including speculation rules prefetch against a local HTTPS test server.
+// relations:
+//   - depends_on /android_webview/javatests/src/org/chromium/android_webview/test/AwActivityTestRule.java
+//   - references /android_webview/test/data/hello_world.html
+//   - references /android_webview/test/data/prefetch.html
+// ---
+
 package org.chromium.android_webview.test;
 
 import androidx.test.filters.LargeTest;

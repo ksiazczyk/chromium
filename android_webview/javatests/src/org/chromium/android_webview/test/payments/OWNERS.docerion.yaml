@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: OWNERS file that inherits code owners for this test directory from the payments OWNERS file in android_webview/java.
+relations:
+  - references /android_webview/java/src/org/chromium/android_webview/payments/OWNERS

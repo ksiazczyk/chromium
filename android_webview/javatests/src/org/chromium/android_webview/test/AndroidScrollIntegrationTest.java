@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Synchronous scrolling integration tests
+// summary: Integration tests for synchronous scrolling in the Android WebView, exercising the scroll offset manager, overscroll callbacks and gesture events.
+// relations:
+//   - depends_on /android_webview/javatests/src/org/chromium/android_webview/test/AwActivityTestRule.java
+// ---
+
 package org.chromium.android_webview.test;
 
 import static com.google.common.truth.Truth.assertThat;

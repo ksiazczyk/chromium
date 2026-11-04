@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ServiceNamesTest
+// summary: Robolectric JUnit test asserting that the class-name constants in ServiceNames match the actual Android WebView service classes such as the minidump uploader, crash receiver, and metrics services.
+// ---
+
 package org.chromium.android_webview.robolectric.common.services;
 
 import org.junit.Assert;

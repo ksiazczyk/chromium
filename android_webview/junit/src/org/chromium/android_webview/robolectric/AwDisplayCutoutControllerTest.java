@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Robolectric tests for AwDisplayCutoutController
+// summary: Robolectric tests verifying display cutout inset handling, listener registration, and pre-draw behavior in the WebView display cutout controller.
+// relations:
+//   - tests /android_webview/java/src/org/chromium/android_webview/AwDisplayCutoutController.java
+// ---
+
 package org.chromium.android_webview.robolectric;
 
 import static org.mockito.ArgumentMatchers.any;

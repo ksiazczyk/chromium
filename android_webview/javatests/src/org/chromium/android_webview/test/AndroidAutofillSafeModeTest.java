@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android autofill safe mode tests
+// summary: Instrumentation tests checking that the Android autofill safe mode action disables the autofill provider and records its enabled state.
+// ---
+
 package org.chromium.android_webview.test;
 
 import static org.junit.Assert.assertFalse;

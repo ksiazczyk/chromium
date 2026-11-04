@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Prefetch OMT trigger tests with OMT disabled
+// summary: Parameterized test class running the off-the-main-thread WebView Prefetch suite with OMT prefetch disabled so async requests reroute to the main-thread path.
+// ---
+
 package org.chromium.android_webview.test;
 
 import org.junit.runner.RunWith;

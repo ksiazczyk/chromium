@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FlagOverrideHelperTest unit tests
+// summary: Robolectric unit tests verifying that FlagOverrideHelper applies WebView flag overrides to the command line, parses comma-delimited switch values, and rejects unknown flags.
+// ---
+
 package org.chromium.android_webview.robolectric.common;
 
 import org.junit.Assert;

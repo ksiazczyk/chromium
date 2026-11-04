@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JS sandbox isolate callback implementation
+// summary: Implements JNI callbacks that report JavaScript evaluation results and errors, including memory limit details, back to the Java caller.
+// relations:
+//   - depends_on /android_webview/js_sandbox/service/js_sandbox_isolate_callback.h
+//   - depends_on /base/android/jni_android.h
+//   - depends_on /base/android/jni_string.h
+// ---
+
 #include "android_webview/js_sandbox/service/js_sandbox_isolate_callback.h"
 
 #include <jni.h>

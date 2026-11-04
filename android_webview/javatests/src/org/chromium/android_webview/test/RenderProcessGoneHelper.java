@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Render process gone test helper
+// summary: Test helper that lets tests wait for render-process-gone notifications and AwContents destruction before proceeding.
+// ---
+
 package org.chromium.android_webview.test;
 
 import org.chromium.android_webview.test.TestAwContents.RenderProcessGoneObserver;

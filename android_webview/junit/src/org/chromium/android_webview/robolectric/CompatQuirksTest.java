@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Robolectric tests for CompatQuirks
+// summary: Robolectric unit tests checking compat quirk enablement defaults, testing overrides precedence, and reset behavior.
+// ---
+
 package org.chromium.android_webview.robolectric;
 
 import org.junit.After;

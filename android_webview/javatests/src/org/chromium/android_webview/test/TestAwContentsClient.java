@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestAwContentsClient helper for WebView instrumentation tests
+// summary: AwContentsClient subclass with callback helpers for page events, errors, SSL, downloads, and request interception, used as the test client in Android WebView instrumentation tests.
+// ---
+
 package org.chromium.android_webview.test;
 
 import android.graphics.Bitmap;

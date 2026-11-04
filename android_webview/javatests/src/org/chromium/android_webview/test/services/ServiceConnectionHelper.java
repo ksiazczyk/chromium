@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ServiceConnectionHelper test utility
+// summary: AutoCloseable helper that binds to a specified Android service for tests and unbinds automatically when the try-with-resources block exits.
+// relations:
+//   - references /android_webview/test/shell/AndroidManifest.xml
+// ---
+
 package org.chromium.android_webview.test.services;
 
 import android.content.ComponentName;

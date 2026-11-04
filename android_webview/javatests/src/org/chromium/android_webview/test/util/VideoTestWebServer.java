@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test web server serving a sample WebM video
+// summary: Test web server that serves a one-pixel one-frame WebM video with video content type and cache headers for WebView video tests.
+// relations:
+//   - depends_on /android_webview/javatests/src/org/chromium/android_webview/test/util/CommonResources.java
+// ---
+
 package org.chromium.android_webview.test.util;
 
 import android.util.Pair;

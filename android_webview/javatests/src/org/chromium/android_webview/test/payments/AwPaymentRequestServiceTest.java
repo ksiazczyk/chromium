@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwPaymentRequestServiceTest
+// summary: Parameterized JUnit test verifying that the PaymentRequest API works as expected in WebView when the payment request setting is enabled.
+// ---
+
 package org.chromium.android_webview.test.payments;
 
 import androidx.test.filters.SmallTest;

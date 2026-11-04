@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwContents tests
+// summary: Broad instrumentation tests covering many AwContents behaviors, including settings, input events, dark mode, renderer priority and downloads.
+// ---
+
 package org.chromium.android_webview.test;
 
 import static org.hamcrest.MatcherAssert.assertThat;

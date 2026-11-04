@@ -1,3 +1,9 @@
+---
+type: readme
+title: //android_webview/lib/
+summary: Explains that the folder hosts the native entrypoint for all WebView processes and is the only path allowed to depend on all process implementations.
+---
+
 # //android\_webview/lib/
 
 This folder holds the native entrypoint for all WebView processes, and is

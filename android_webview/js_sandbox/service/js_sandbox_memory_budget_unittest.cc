@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JS sandbox memory budget unit tests
+// summary: Unit tests covering allocation, freeing, page rounding, zero-byte allocations, and concurrent use of the JS sandbox memory budget.
+// relations:
+//   - tests /android_webview/js_sandbox/service/js_sandbox_memory_budget.h
+//   - depends_on /base/barrier_closure.h
+//   - depends_on /base/run_loop.h
+// ---
+
 #include "android_webview/js_sandbox/service/js_sandbox_memory_budget.h"
 
 #include <memory>

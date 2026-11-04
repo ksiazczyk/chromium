@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AwSiteVisitLogger
+// summary: Robolectric tests checking that AwSiteVisitLogger records the weekly distinct sites visited histogram only after a week boundary has passed.
+// relations:
+//   - tests /android_webview/java/src/org/chromium/android_webview/metrics/AwSiteVisitLogger.java
+// ---
+
 package org.chromium.android_webview.robolectric.metrics;
 
 import static org.junit.Assert.assertEquals;

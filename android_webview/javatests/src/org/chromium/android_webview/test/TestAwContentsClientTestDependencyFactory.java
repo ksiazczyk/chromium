@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test dependency factory creating TestAwContents instances
+// summary: Factory extending AwActivityTestRule.TestDependencyFactory so tests create the enhanced TestAwContents instead of regular AwContents.
+// relations:
+//   - depends_on /android_webview/javatests/src/org/chromium/android_webview/test/AwActivityTestRule.java
+// ---
+
 package org.chromium.android_webview.test;
 
 import android.content.Context;

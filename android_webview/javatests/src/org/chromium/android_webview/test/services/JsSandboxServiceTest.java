@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JsSandboxServiceTest
+// summary: Instrumentation tests for JavaScriptSandbox covering script evaluation, Unicode handling, data input, size limits, and isolate termination scenarios.
+// ---
+
 package org.chromium.android_webview.test.services;
 
 import static org.chromium.android_webview.test.OnlyRunIn.ProcessMode.EITHER_PROCESS;

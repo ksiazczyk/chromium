@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView JNI onload initialization
+// summary: Initializes content JNI on library load and installs AwMainDelegate as the content main delegate for WebView processes.
+// relations:
+//   - implements /android_webview/lib/webview_jni_onload.h
+//   - depends_on /android_webview/lib/aw_main_delegate.h
+//   - depends_on /content/public/app/content_jni_onload.h
+// ---
+
 #include "android_webview/lib/webview_jni_onload.h"
 
 #include "android_webview/lib/aw_main_delegate.h"

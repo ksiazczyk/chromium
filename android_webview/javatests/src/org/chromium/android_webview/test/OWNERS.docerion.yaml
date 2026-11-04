@@ -1,0 +1,8 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for Android WebView tests
+summary: Defines code owners for the WebView test directory, with per-file owner rules for areas such as autofill, cookies, safe browsing, metrics, and variations.
+relations:
+  - references /components/android_autofill/OWNERS
+  - references /content/browser/back_forward_cache/OWNERS
+  - references /components/content_capture/OWNERS

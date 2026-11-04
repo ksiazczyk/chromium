@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestAwServiceWorkerClient helper for service worker tests
+// summary: AwServiceWorkerClient subclass that records intercepted service worker requests through a ShouldInterceptRequestHelper for verification in tests.
+// ---
+
 package org.chromium.android_webview.test;
 
 import org.chromium.android_webview.AwServiceWorkerClient;

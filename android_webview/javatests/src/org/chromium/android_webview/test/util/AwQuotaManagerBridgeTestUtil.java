@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwQuotaManagerBridgeTestUtil
+// summary: Helper that synchronously fetches origins from AwQuotaManagerBridge using a callback helper for WebView tests.
+// ---
+
 package org.chromium.android_webview.test.util;
 
 import androidx.test.InstrumentationRegistry;

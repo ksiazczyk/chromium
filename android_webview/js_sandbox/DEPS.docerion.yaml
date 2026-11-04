@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for js_sandbox
+summary: DEPS file that allowlists includes of gin and V8 headers for code in the js_sandbox directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: On-disk file tests for WebView cache and cookies
+// summary: Instrumented tests verifying that WebView's HTTP cache lives in the cache directory and its cookie file is written inside the data directory.
+// ---
+
 package org.chromium.android_webview.test;
 
 import static org.chromium.android_webview.test.OnlyRunIn.ProcessMode.EITHER_PROCESS;

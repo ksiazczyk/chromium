@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwContents cross-origin isolation allowlist tests
+// summary: Tests that origins on the cross-origin isolated allowlist can use SharedArrayBuffer in workers and report crossOriginIsolated correctly.
+// relations:
+//   - depends_on /android_webview/javatests/src/org/chromium/android_webview/test/AwActivityTestRule.java
+// ---
+
 package org.chromium.android_webview.test;
 
 import android.util.Pair;

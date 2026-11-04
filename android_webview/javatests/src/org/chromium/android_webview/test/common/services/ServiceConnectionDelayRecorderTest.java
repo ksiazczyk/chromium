@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ServiceConnectionDelayRecorderTest
+// summary: Unit tests for the WebView ServiceConnectionDelayRecorder, verifying recorded service connection delays and histogram values using a fake clock and a mock variations seed server.
+// ---
+
 package org.chromium.android_webview.test.common.services;
 
 import static org.chromium.android_webview.test.OnlyRunIn.ProcessMode.EITHER_PROCESS;

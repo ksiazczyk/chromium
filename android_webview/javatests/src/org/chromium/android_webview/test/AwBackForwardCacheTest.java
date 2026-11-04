@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Back-forward cache tests
+// summary: Instrumentation tests verifying that WebView pages are stored in and restored from the back/forward cache during navigation.
+// relations:
+//   - references /android_webview/test/data/verify_bfcache.html
+//   - references /android_webview/test/data/verify_bfcache2.html
+//   - references /android_webview/test/data/green.html
+// ---
+
 package org.chromium.android_webview.test;
 
 import static org.chromium.android_webview.test.AwActivityTestRule.SCALED_WAIT_TIMEOUT_MS;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CrashBugUrlFactory
+// summary: Unit tests verifying that CrashBugUrlFactory builds correct bug tracker report intents with scheme, host, path and template parameters for WebView crash reports.
+// ---
+
 package org.chromium.android_webview.test.devui.util;
 
 import static androidx.test.espresso.intent.matcher.IntentMatchers.hasAction;

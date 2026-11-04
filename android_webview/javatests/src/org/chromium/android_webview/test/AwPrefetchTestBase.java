@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebView Prefetch API test base
+// summary: Abstract base class covering WebView's expectations for the Prefetch API across all triggers and configurations, with subclasses differentiating worker-thread runs and feature flags.
+// relations:
+//   - references /android_webview/test/data/hello_world.html
+//   - depends_on /android_webview/javatests/src/org/chromium/android_webview/test/AwActivityTestRule.java
+// ---
+
 package org.chromium.android_webview.test;
 
 import static com.google.common.truth.Truth.assertThat;

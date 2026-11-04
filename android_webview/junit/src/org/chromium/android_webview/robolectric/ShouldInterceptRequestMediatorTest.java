@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ShouldInterceptRequestMediator tests
+// summary: Robolectric tests checking that overridesShouldInterceptRequest detects WebViewClient subclasses overriding either shouldInterceptRequest overload.
+// ---
+
 package org.chromium.android_webview.robolectric;
 
 import static org.chromium.android_webview.ShouldInterceptRequestMediator.overridesShouldInterceptRequest;

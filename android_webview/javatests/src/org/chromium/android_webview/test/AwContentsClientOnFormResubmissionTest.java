@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwContentsClientOnFormResubmissionTest
+// summary: Parameterized instrumentation tests checking that POST form data resubmission is handled correctly through the onFormResubmission callback for both resend and don't-resend cases.
+// relations:
+//   - depends_on /android_webview/javatests/src/org/chromium/android_webview/test/AwActivityTestRule.java
+// ---
+
 package org.chromium.android_webview.test;
 
 import android.os.Message;

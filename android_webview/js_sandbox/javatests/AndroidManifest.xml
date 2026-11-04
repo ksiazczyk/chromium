@@ -4,6 +4,12 @@
  * found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Android manifest for JavaScriptEngine tests
+summary: Declares the androidx.javascriptengine.test package, its permissions, and the AndroidJUnitRunner instrumentation used to run the JavaScriptEngine tests.
+-->
+
 <manifest
       xmlns:android="http://schemas.android.com/apk/res/android"
       package="androidx.javascriptengine.test">

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header interceptor tests
+// summary: JUnit test suite for header interceptors registered via GetHeaderInterceptorStore, covering navigation, prefetch, and service worker fetch requests.
+// relations:
+//   - references /android_webview/test/data/hello_world.html
+// ---
+
 package org.chromium.android_webview.test;
 
 import static com.google.common.truth.Truth.assertThat;

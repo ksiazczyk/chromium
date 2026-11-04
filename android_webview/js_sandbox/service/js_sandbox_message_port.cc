@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JsSandboxMessagePort implementation for the Android WebView JS sandbox
+// summary: Implements the gin-wrapped message port for the Android WebView JS sandbox, exposing postMessage, close and onmessage to JavaScript and bridging messages over JNI from Binder threads to the isolate thread.
+// relations:
+//   - implements /android_webview/js_sandbox/service/js_sandbox_message_port.h
+//   - depends_on /android_webview/js_sandbox/service/message_event.h
+//   - depends_on /base/android/jni_android.h
+// ---
+
 #include "android_webview/js_sandbox/service/js_sandbox_message_port.h"
 
 #include <algorithm>

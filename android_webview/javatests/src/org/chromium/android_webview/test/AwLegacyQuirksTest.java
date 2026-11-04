@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwLegacyQuirksTest
+// summary: Tests for legacy WebView quirks that keep compatibility with WebView Classic, such as DPI handling.
+// ---
+
 package org.chromium.android_webview.test;
 
 import android.graphics.Rect;

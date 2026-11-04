@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Robolectric tests for AwViewAndroidDelegate insets
+// summary: Robolectric tests verifying how WebView insets are computed relative to window bounds and IME visibility in AwViewAndroidDelegate.
+// ---
+
 package org.chromium.android_webview.robolectric;
 
 import static org.mockito.Mockito.doReturn;

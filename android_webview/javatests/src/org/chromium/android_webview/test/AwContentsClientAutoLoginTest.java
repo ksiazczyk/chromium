@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Auto-login request callback tests
+// summary: Parameterized tests for the AwContentsClient.onReceivedLoginRequest callback, checking realm, account, and args parsed from x-auto-login headers.
+// relations:
+//   - depends_on /android_webview/javatests/src/org/chromium/android_webview/test/AwActivityTestRule.java
+// ---
+
 package org.chromium.android_webview.test;
 
 import android.util.Pair;

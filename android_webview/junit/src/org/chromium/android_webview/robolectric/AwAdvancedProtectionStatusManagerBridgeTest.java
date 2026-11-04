@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Robolectric tests for AwAdvancedProtectionStatusManagerBridge
+// summary: Robolectric unit tests verifying advanced protection status detection, including OS setting observation, permissions, and native bridge interactions.
+// ---
+
 package org.chromium.android_webview.robolectric;
 
 import static org.junit.Assert.assertFalse;

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebExposed global interface listing test
+// summary: Instrumentation test that runs the webexposed global interface listing check as a non-layout test and supports rebaselining of its expectations.
+// relations:
+//   - depends_on /android_webview/javatests/src/org/chromium/android_webview/test/AwActivityTestRule.java
+//   - references /build/android/pylib/local/device/local_device_instrumentation_test_run.py
+//   - references /android_webview/test/data/web_tests/webexposed/global-interface-listing-expected.txt
+// ---
+
 package org.chromium.android_webview.test;
 
 import android.os.Bundle;

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for AwNonembeddedUmaReplayer
+// summary: Robolectric tests verifying that AwNonembeddedUmaReplayer correctly replays boolean, exponential, and linear histogram records into a mocked UmaRecorder.
+// relations:
+//   - tests /android_webview/java/src/org/chromium/android_webview/metrics/AwNonembeddedUmaReplayer.java
+// ---
+
 package org.chromium.android_webview.robolectric.metrics;
 
 import static org.mockito.Mockito.times;

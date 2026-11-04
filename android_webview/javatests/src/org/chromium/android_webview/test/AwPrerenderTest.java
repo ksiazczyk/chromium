@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebView prerender tests
+// summary: Large parameterized test suite for WebView prerendering, covering activation by URL load or JavaScript, prerender final status histograms, and speculative loading settings.
+// relations:
+//   - references /android_webview/test/data/hello_world.html
+//   - references /android_webview/test/data/prerender.html
+//   - references /android_webview/test/data/prerender-test-setup.js
+// ---
+
 package org.chromium.android_webview.test;
 
 import static org.chromium.android_webview.test.AwActivityTestRule.SCALED_WAIT_TIMEOUT_MS;

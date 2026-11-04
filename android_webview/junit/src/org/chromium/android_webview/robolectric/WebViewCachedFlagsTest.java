@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebViewCachedFlags tests
+// summary: Robolectric tests for WebViewCachedFlags covering initialization, preference cleanup, cached enabled and disabled flags, defaults and histogram reporting.
+// relations:
+//   - tests /android_webview/java/src/org/chromium/android_webview/common/WebViewCachedFlags.java
+// ---
+
 package org.chromium.android_webview.robolectric;
 
 import static org.chromium.android_webview.common.WebViewCachedFlags.param;

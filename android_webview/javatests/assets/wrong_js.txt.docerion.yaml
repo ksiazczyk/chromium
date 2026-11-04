@@ -1,0 +1,4 @@
+# Docerion header of wrong_js.txt.
+type: asset
+title: Non-JavaScript text asset
+summary: Plain text file whose content states it is not a JavaScript file, serving as a negative test asset.

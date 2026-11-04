@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for WebView javatests
+summary: Defines the allowed include and dependency rules for the android_webview/javatests directory, granting access to selected Chromium components and test helpers.

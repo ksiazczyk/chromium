@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwContents navigate API tests
+// summary: Tests for the AwContents navigate API, covering page loads, custom headers, and navigation parameters against a test web server.
+// relations:
+//   - tests /android_webview/java/src/org/chromium/android_webview/AwContents.java
+//   - depends_on /android_webview/javatests/src/org/chromium/android_webview/test/AwActivityTestRule.java
+// ---
+
 package org.chromium.android_webview.test;
 
 import android.os.Bundle;

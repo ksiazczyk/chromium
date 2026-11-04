@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multi-profile browser context tests
+// summary: Tests for creating, retrieving, and managing multiple named AwBrowserContext profiles in the Android WebView.
+// relations:
+//   - tests /android_webview/java/src/org/chromium/android_webview/AwBrowserContext.java
+// ---
+
 package org.chromium.android_webview.test;
 
 import static org.junit.Assert.assertEquals;

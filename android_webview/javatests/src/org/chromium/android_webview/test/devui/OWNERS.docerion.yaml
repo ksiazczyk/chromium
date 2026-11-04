@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for devui tests
+summary: Ownership file delegating review of these devui tests to the nonembedded WebView OWNERS file.
+relations:
+  - references /android_webview/nonembedded/OWNERS

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock application context for manifest metadata in tests
+// summary: Test utility wrapping an application context to inject mock manifest metadata bundles for applications and services plus string array resources.
+// ---
+
 package org.chromium.android_webview.test.util;
 
 import android.content.ComponentName;

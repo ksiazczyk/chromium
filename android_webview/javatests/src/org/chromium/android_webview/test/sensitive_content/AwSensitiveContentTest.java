@@ -1,6 +1,17 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: AwSensitiveContentTest
+// summary: Instrumentation tests verifying that WebView sets view content sensitivity correctly for pages with usernames, passwords, and credit cards under the sensitive content feature.
+// relations:
+//   - references /android_webview/test/data/autofill/form_username_sensitive.html
+//   - references /android_webview/test/data/autofill/form_password.html
+//   - references /android_webview/test/data/autofill/page_address_credit_card_forms.html
+// ---
+
 package org.chromium.android_webview.test.sensitive_content;
 
 import static org.chromium.base.test.util.CriteriaHelper.pollUiThread;

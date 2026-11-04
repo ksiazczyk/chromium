@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JsSandboxFledgeTest
+// summary: Instrumentation tests for the JavaScript sandbox evaluating functions with no arguments, single arguments, and JSON arguments via JavaScriptIsolate.
+// ---
+
 package org.chromium.android_webview.test.services;
 
 import static org.chromium.android_webview.test.OnlyRunIn.ProcessMode.EITHER_PROCESS;

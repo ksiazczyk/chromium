@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DisableHardwareAcceleration annotation
+// summary: JUnit method annotation that disables hardware-accelerated rendering for the annotated test.
+// ---
+
 package org.chromium.android_webview.test;
 
 import java.lang.annotation.ElementType;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebAddressParser unit tests
+// summary: Robolectric tests for WebAddressParser URL fixup covering schemes, ports, paths, fragments and redacted or malformed credential cases.
+// ---
+
 package org.chromium.android_webview.robolectric;
 
 import org.junit.Assert;

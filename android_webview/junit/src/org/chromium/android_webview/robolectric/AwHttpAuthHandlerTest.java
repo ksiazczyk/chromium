@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Robolectric tests for AwHttpAuthHandler
+// summary: Robolectric tests ensuring HTTP auth handler methods proceed, cancel, and first-attempt checks run on the UI thread and throw on background threads.
+// relations:
+//   - tests /android_webview/java/src/org/chromium/android_webview/AwHttpAuthHandler.java
+// ---
+
 package org.chromium.android_webview.robolectric;
 
 import org.junit.Assert;

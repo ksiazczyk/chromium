@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ParsedQuicHints tests
+// summary: Tests parsing of QUIC hint origin sets into wildcard suffixes and exact origins, including catch-all patterns and port, query, and fragment variants.
+// ---
+
 package org.chromium.android_webview.test;
 
 import static org.chromium.android_webview.test.OnlyRunIn.ProcessMode.EITHER_PROCESS;

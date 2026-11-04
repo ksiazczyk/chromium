@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Performance Manager JNI test utility for Android WebView
+// summary: Provides JNI bindings to verify Performance Manager graph nodes exist for a WebContents in browser tests.
+// ---
+
 package org.chromium.android_webview.test.util;
 
 import org.jni_zero.JNINamespace;

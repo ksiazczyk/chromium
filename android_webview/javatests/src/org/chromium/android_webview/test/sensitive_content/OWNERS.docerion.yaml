@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS
+summary: OWNERS file that delegates code ownership for the WebView sensitive content tests to the components/sensitive_content OWNERS list.
+relations:
+  - references /components/sensitive_content/OWNERS

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Standalone AwQuotaManagerBridge test
+// summary: Instrumentation test verifying AwQuotaManagerBridge starts and returns origins without any AwContents instance, simulating WebStorage use without a WebView.
+// ---
+
 package org.chromium.android_webview.test;
 
 import static org.chromium.android_webview.test.OnlyRunIn.ProcessMode.EITHER_PROCESS;

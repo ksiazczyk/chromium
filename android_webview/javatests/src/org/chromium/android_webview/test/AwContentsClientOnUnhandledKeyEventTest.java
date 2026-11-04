@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwContentsClientOnUnhandledKeyEventTest
+// summary: Parameterized instrumentation tests verifying that unconsumed key events are delivered to the WebViewClient.onUnhandledKeyEvent callback.
+// relations:
+//   - depends_on /android_webview/javatests/src/org/chromium/android_webview/test/AwActivityTestRule.java
+// ---
+
 package org.chromium.android_webview.test;
 
 import android.os.SystemClock;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CrashesListFragmentTest
+// summary: Espresso UI tests for the developer UI crashes list, covering crash entries, upload state and bug filing.
+// ---
+
 package org.chromium.android_webview.test.devui;
 
 import static androidx.test.espresso.Espresso.onData;

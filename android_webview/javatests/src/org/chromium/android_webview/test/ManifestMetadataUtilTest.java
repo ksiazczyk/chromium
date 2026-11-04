@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Manifest metadata utility tests
+// summary: Instrumentation tests verifying that ManifestMetadataUtil reads app manifest metadata such as metrics opt-out, Safe Browsing opt-in, and content restriction settings.
+// relations:
+//   - tests /android_webview/java/src/org/chromium/android_webview/ManifestMetadataUtil.java
+// ---
+
 package org.chromium.android_webview.test;
 
 import android.content.ComponentName;

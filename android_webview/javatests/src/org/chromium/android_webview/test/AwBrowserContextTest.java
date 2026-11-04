@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwBrowserContext tests
+// summary: Parameterized JUnit tests for AwBrowserContext covering max prerenders, the cross-origin isolation allow list, and header interceptor store error handling.
+// relations:
+//   - references /android_webview/browser/aw_browser_context.h
+//   - depends_on /android_webview/javatests/src/org/chromium/android_webview/test/AwActivityTestRule.java
+// ---
+
 package org.chromium.android_webview.test;
 
 import androidx.test.filters.SmallTest;

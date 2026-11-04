@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JsSandboxIsolate
+// summary: Binder stub for a JavaScript sandbox isolate that evaluates JavaScript directly or from a file descriptor and bridges to the native isolate via JNI.
+// relations:
+//   - depends_on /android_webview/js_sandbox/java/src/org/chromium/android_webview/js_sandbox/service/JsSandboxIsolateCallback.java
+// ---
+
 package org.chromium.android_webview.js_sandbox.service;
 
 import android.content.res.AssetFileDescriptor;

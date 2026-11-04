@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for UnuploadedFilesStateLoader
+// summary: Unit tests checking that UnuploadedFilesStateLoader parses crash directory files and classifies their upload states as skipped, pending or user-requested.
+// ---
+
 package org.chromium.android_webview.test.devui.util;
 
 import static org.chromium.android_webview.test.OnlyRunIn.ProcessMode.EITHER_PROCESS;

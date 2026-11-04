@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for WebViewCrashLogParser
+// summary: Unit tests verifying that WebViewCrashLogParser parses JSON crash log files and handles invalid files, missing directories and deletion of old log files.
+// ---
+
 package org.chromium.android_webview.test.devui.util;
 
 import static org.hamcrest.Matchers.containsInAnyOrder;

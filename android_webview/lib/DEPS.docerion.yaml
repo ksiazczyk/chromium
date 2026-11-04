@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for //android_webview/lib
+summary: Lists the headers and directories that the WebView native entrypoint folder is allowed to include from across the Chromium codebase.

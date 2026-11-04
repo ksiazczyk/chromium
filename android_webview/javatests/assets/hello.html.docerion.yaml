@@ -1,0 +1,4 @@
+# Docerion header of hello.html.
+type: asset
+title: Hello HTML test asset
+summary: A minimal HTML page that greets the user and serves as a test asset for Android WebView tests.

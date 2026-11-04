@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Prefetch API main thread trigger tests
+// summary: Parameterized test class running the WebView Prefetch API suite with the main-thread trigger while off-the-main-thread prefetch features are disabled.
+// ---
+
 package org.chromium.android_webview.test;
 
 import org.junit.runner.RunWith;

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android protocol handler tests
+// summary: Instrumentation tests for AndroidProtocolHandler covering null, empty, malformed and pathless URLs plus automatic svgz asset decompression.
+// relations:
+//   - depends_on /android_webview/test/shell/assets/star.svgz
+//   - depends_on /android_webview/javatests/src/org/chromium/android_webview/test/AwActivityTestRule.java
+//   - tests /android_webview/java/src/org/chromium/android_webview/AndroidProtocolHandler.java
+// ---
+
 package org.chromium.android_webview.test;
 
 import static org.chromium.android_webview.test.OnlyRunIn.ProcessMode.EITHER_PROCESS;

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JsSandboxMessagePort class header for the Android WebView JS sandbox
+// summary: Declares the JsSandboxMessagePort gin wrapper, defining JNI entry points for string and array buffer messages, port closing, memory budget reservation, and the postMessage and onmessage API.
+// relations:
+//   - depends_on /android_webview/js_sandbox/service/js_sandbox_isolate.h
+//   - depends_on /base/android/jni_android.h
+//   - depends_on /base/android/scoped_java_ref.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_JS_SANDBOX_SERVICE_JS_SANDBOX_MESSAGE_PORT_H_
 #define ANDROID_WEBVIEW_JS_SANDBOX_SERVICE_JS_SANDBOX_MESSAGE_PORT_H_
 

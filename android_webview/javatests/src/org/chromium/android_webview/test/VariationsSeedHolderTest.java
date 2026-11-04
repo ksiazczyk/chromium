@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Variations seed holder tests
+// summary: Instrumentation tests for the WebView VariationsSeedHolder service, covering seed writes, seed updates, and entropy source initialization.
+// relations:
+//   - depends_on /android_webview/javatests/src/org/chromium/android_webview/test/util/VariationsTestUtils.java
+// ---
+
 package org.chromium.android_webview.test;
 
 import static org.mockito.Mockito.mock;

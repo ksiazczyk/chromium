@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Console messages for blocked loads test
+// summary: Parameterized tests checking that renderer-initiated content loading blocks are reported to the embedder via WebChromeClient.onConsoleMessage.
+// relations:
+//   - depends_on /android_webview/javatests/src/org/chromium/android_webview/test/AwActivityTestRule.java
+// ---
+
 package org.chromium.android_webview.test;
 
 import static org.junit.Assert.assertNotEquals;

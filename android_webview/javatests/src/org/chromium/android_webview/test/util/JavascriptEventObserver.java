@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JavaScript event observer test utility
+// summary: Test utility that registers itself as a JavaScript interface on WebContents and lets tests wait for JavaScript to signal that an event happened.
+// ---
+
 package org.chromium.android_webview.test.util;
 
 import org.chromium.base.test.util.CallbackHelper;

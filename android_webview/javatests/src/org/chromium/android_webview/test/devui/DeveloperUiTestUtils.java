@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeveloperUiTestUtils
+// summary: Shared helpers for developer UI tests, providing ListView count matchers and clipboard utilities.
+// ---
+
 package org.chromium.android_webview.test.devui;
 
 import static org.hamcrest.Matchers.is;

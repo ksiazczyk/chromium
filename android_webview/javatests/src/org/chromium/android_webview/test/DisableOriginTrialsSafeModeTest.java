@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Disable origin trials safe mode test
+// summary: Tests for WebView's DisableOriginTrials safe mode action, checking state saving and origin trial policy behavior.
+// ---
+
 package org.chromium.android_webview.test;
 
 import static org.junit.Assert.assertFalse;
