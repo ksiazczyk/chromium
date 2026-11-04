@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Printing strings directory OWNERS
+summary: Delegates code ownership of this directory to the OWNERS file in the printing directory.

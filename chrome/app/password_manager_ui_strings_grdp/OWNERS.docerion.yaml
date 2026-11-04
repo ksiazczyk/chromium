@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for password manager UI strings
+summary: OWNERS pointer that delegates ownership of this strings directory to the password manager OWNERS file.
