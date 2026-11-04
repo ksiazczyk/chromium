@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DragDropCaptureDelegate implementation
+// summary: Implements the capture delegate that transfers touch and gesture events to a DragDropTracker capture window when a drag and drop session starts in Ash.
+// relations:
+//   - implements /ash/drag_drop/drag_drop_capture_delegate.h
+//   - depends_on /ash/drag_drop/drag_drop_tracker.h
+//   - depends_on /ui/aura/env.h
+// ---
+
 #include "ash/drag_drop/drag_drop_capture_delegate.h"
 #include "ash/drag_drop/drag_drop_tracker.h"
 #include "ui/aura/env.h"

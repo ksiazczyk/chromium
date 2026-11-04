@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DetachableBasePairingStatus enum
+// summary: 'Defines the enum of detachable base pairing states: none, authenticated, not authenticated, and invalid device.'
+// ---
+
 #ifndef ASH_DETACHABLE_BASE_DETACHABLE_BASE_PAIRING_STATUS_H_
 #define ASH_DETACHABLE_BASE_DETACHABLE_BASE_PAIRING_STATUS_H_
 

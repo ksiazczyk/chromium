@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Security curtain controller unit tests
+// summary: Unit tests verifying curtain display across monitors, input blocking, audio muting, camera access, and cursor behavior while the security curtain is enabled.
+// relations:
+//   - tests /ash/curtain/security_curtain_controller.h
+//   - depends_on /ash/display/cursor_window_controller.h
+//   - depends_on /ash/display/window_tree_host_manager.h
+// ---
+
 #include "ash/constants/ash_features.h"
 #include "ash/constants/ash_pref_names.h"
 #include "ash/curtain/security_curtain_controller.h"

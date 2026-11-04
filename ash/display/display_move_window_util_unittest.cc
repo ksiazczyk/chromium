@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Display move window utility unit tests
+// summary: Unit tests for moving the active window between displays, checking bounds, window states, snapping, and accelerator behavior across layouts.
+// relations:
+//   - tests /ash/display/display_move_window_util.h
+//   - depends_on /ash/accelerators/accelerator_commands.h
+//   - depends_on /ash/accelerators/accelerator_controller_impl.h
+// ---
+
 #include "ash/display/display_move_window_util.h"
 
 #include "ash/accelerators/accelerator_commands.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drag image view implementation
+// summary: Implements the DragImageView widget that renders the drag image, including touch drag operation hints, opacity and painting.
+// relations:
+//   - implements /ash/drag_drop/drag_image_view.h
+//   - depends_on /ash/public/cpp/shell_window_ids.h
+//   - depends_on /ui/aura/window.h
+// ---
+
 #include "ash/drag_drop/drag_image_view.h"
 
 #include <memory>

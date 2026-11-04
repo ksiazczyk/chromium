@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ash display
+summary: Defines allowed include dependencies for the ash display directory, with specific rules for display color manager and refresh rate controller tests.

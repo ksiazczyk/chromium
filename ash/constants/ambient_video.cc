@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient video name conversion
+// summary: Implements ToString for the AmbientVideo enum, returning metric-stable names for each ambient mode video.
+// relations:
+//   - depends_on /ash/constants/ambient_video.h
+// ---
+
 #include "ash/constants/ambient_video.h"
 
 #include <string_view>

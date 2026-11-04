@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard nudge histogram constants
+// summary: Defines histogram name constants for clipboard history nudges and maps nudge types to paste and menu-open time delta histograms.
+// relations:
+//   - implements /ash/clipboard/clipboard_nudge_constants.h
+//   - depends_on /ash/clipboard/clipboard_nudge_constants.h
+// ---
+
 #include "ash/clipboard/clipboard_nudge_constants.h"
 
 namespace ash {

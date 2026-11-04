@@ -1,0 +1,6 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for ash DBus
+summary: Points the directory metadata to the shared ChromeOS DBus COMMON_METADATA mixins.
+relations:
+  - references /chromeos/dbus/COMMON_METADATA

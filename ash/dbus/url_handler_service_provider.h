@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL handler D-Bus service provider header
+// summary: Declares the UrlHandlerServiceProvider class that exports a D-Bus method for opening URLs with scheme-based validation.
+// relations:
+//   - implements /chromeos/ash/components/dbus/services/cros_dbus_service.h
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/compiler_specific.h
+// ---
+
 #ifndef ASH_DBUS_URL_HANDLER_SERVICE_PROVIDER_H_
 #define ASH_DBUS_URL_HANDLER_SERVICE_PROVIDER_H_
 

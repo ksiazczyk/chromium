@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display preferences implementation
+// summary: Implements storing and loading of display preferences such as layout, rotation, power state, zoom, mirroring, variable refresh rate, and touch calibration data in Chrome OS local state.
+// relations:
+//   - depends_on /ash/display/display_prefs.h
+//   - depends_on /ash/constants/ash_pref_names.h
+//   - depends_on /ash/constants/ash_switches.h
+// ---
+
 #include "ash/display/display_prefs.h"
 
 #include <stddef.h>

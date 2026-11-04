@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DragDropController unit tests
+// summary: Extensive unit tests for the Ash DragDropController covering drag sessions, drag images, data transfer policy and related drag and drop behavior.
+// relations:
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/drag_drop/drag_image_view.h
+//   - depends_on /ash/drag_drop/mock_drag_drop_observer.h
+// ---
+
 #include "ash/drag_drop/drag_drop_controller.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Edusumer directory metadata
+summary: Defines the owning team email and Buganizer component for the ash/edusumer directory.

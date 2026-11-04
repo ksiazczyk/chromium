@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScreenAsh unit tests
+// summary: Unit tests for window lookup at screen points, display selection for new windows, and observer behavior when switching to unified desktop mode.
+// relations:
+//   - depends_on /ash/shell.h
+//   - depends_on /ash/test/ash_test_base.h
+//   - depends_on /base/test/test_future.h
+// ---
+
 #include "ash/shell.h"
 #include "ash/test/ash_test_base.h"
 #include "base/test/test_future.h"

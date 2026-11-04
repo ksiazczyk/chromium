@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DragDropController implementation
+// summary: Implements the Ash drag and drop client that starts, updates, cancels and completes drag and drop sessions, including drag image handling and cancel animations.
+// relations:
+//   - implements /ash/drag_drop/drag_drop_controller.h
+//   - depends_on /ash/drag_drop/drag_image_view.h
+//   - depends_on /ash/drag_drop/toplevel_window_drag_delegate.h
+// ---
+
 #include "ash/drag_drop/drag_drop_controller.h"
 
 #include <algorithm>

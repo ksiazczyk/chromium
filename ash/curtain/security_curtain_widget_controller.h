@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SecurityCurtainWidgetController class declaration
+// summary: Declares SecurityCurtainWidgetController, which displays a curtain widget over a single display to hide content from local users, owning the widget, its layers, occlusion exclusion and maximizer.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/aura/window_occlusion_tracker.h
+// ---
+
 #ifndef ASH_CURTAIN_SECURITY_CURTAIN_WIDGET_CONTROLLER_H_
 #define ASH_CURTAIN_SECURITY_CURTAIN_WIDGET_CONTROLLER_H_
 

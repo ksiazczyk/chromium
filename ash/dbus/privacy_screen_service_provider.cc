@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy screen D-Bus service provider
+// summary: Implements the D-Bus service that reports the current privacy screen setting and emits a signal whenever it changes in Ash.
+// relations:
+//   - implements /ash/dbus/privacy_screen_service_provider.h
+//   - depends_on /ash/shell.h
+//   - depends_on /base/functional/bind.h
+// ---
+
 #include "ash/dbus/privacy_screen_service_provider.h"
 
 #include "ash/shell.h"

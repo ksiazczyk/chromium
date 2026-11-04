@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display move window utility implementation
+// summary: Implements helpers that decide when the active window can be moved between displays and handle the move accelerator by cycling through displays.
+// relations:
+//   - implements /ash/display/display_move_window_util.h
+//   - depends_on /ash/accessibility/accessibility_controller.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/display/display_move_window_util.h"
 
 #include <stdint.h>

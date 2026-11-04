@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Root window transformers unit tests
+// summary: Unit tests verifying mouse, touch, and scroll event coordinates and cursor behavior under root window transforms for rotation, scaling, and mirroring.
+// relations:
+//   - tests /ash/display/root_window_transformers.h
+//   - depends_on /ash/accessibility/magnifier/fullscreen_magnifier_controller.h
+//   - depends_on /ash/display/display_util.h
+// ---
+
 #include "ash/display/root_window_transformers.h"
 
 #include <memory>

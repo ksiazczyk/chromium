@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overscan calibrator implementation
+// summary: Implements the visual feedback overlay with calibration arrows that lets users adjust and commit display overscan insets, handling rotation and scale conversions.
+// relations:
+//   - implements /ash/display/overscan_calibrator.h
+//   - depends_on /ash/display/window_tree_host_manager.h
+//   - depends_on /ash/public/cpp/shell_window_ids.h
+// ---
+
 #include "ash/display/overscan_calibrator.h"
 
 #include <stdint.h>

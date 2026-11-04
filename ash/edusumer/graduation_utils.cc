@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Graduation eligibility utilities
+// summary: Implements checks that read the graduation enablement policy pref to detect upcoming enablement changes and determine app availability within start and end dates.
+// relations:
+//   - depends_on /ash/edusumer/graduation_utils.h
+//   - depends_on /ash/constants/ash_pref_names.h
+//   - depends_on /base/logging.h
+// ---
+
 #include "ash/edusumer/graduation_utils.h"
 
 #include <optional>

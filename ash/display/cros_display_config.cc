@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CrosDisplayConfig implementation
+// summary: Implements the Chrome OS display configuration service, handling display layout, mirroring, unified desktop mode, zoom, and calibration operations.
+// relations:
+//   - implements /ash/display/cros_display_config.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/display/display_alignment_controller.h
+// ---
+
 #include "ash/display/cros_display_config.h"
 
 #include <optional>

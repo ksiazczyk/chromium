@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedDragDropObserver class header
+// summary: Declares ScopedDragDropObserver, which observes an aura drag-drop client for its lifetime and forwards drag updated, completed, and cancelled events to a supplied callback.
+// relations:
+//   - implements /ash/shell_observer.h
+//   - depends_on /base/functional/callback.h
+//   - depends_on /base/scoped_observation.h
+// ---
+
 #ifndef ASH_DRAG_DROP_SCOPED_DRAG_DROP_OBSERVER_H_
 #define ASH_DRAG_DROP_SCOPED_DRAG_DROP_OBSERVER_H_
 

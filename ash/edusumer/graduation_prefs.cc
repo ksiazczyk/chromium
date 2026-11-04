@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Graduation preferences registration
+// summary: Registers profile preferences for graduation enablement status and nudge shown count and time.
+// relations:
+//   - depends_on /ash/edusumer/graduation_prefs.h
+//   - depends_on /ash/constants/ash_pref_names.h
+//   - depends_on /base/time/time.h
+// ---
+
 #include "ash/edusumer/graduation_prefs.h"
 
 #include "ash/constants/ash_pref_names.h"

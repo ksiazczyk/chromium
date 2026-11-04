@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MouseCursorEventFilter unit tests
+// summary: Unit tests verifying that the mouse pointer warps correctly between displays of equal and different sizes and that warping respects edges and enabled state.
+// relations:
+//   - tests /ash/display/mouse_cursor_event_filter.h
+//   - depends_on /ash/shell.h
+//   - depends_on /ash/test/ash_test_base.h
+// ---
+
 #include "ash/display/mouse_cursor_event_filter.h"
 
 #include "ash/shell.h"

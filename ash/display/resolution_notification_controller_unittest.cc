@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Resolution notification controller unit tests
+// summary: Unit tests covering resolution and refresh rate change notifications, fallback messages, countdown timeouts, and revert behavior of the controller.
+// relations:
+//   - tests /ash/display/resolution_notification_controller.h
+//   - depends_on /ash/display/display_change_dialog.h
+//   - depends_on /ash/display/display_util.h
+// ---
+
 #include "ash/display/resolution_notification_controller.h"
 
 #include <string_view>

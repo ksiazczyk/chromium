@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScreenOrientationController test API header
+// summary: Declares a test API wrapping ScreenOrientationController to set display rotation, toggle rotation locks, and query orientation state in tests.
+// relations:
+//   - depends_on /ash/display/display_configuration_controller.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /chromeos/ui/base/display_util.h
+// ---
+
 #ifndef ASH_DISPLAY_SCREEN_ORIENTATION_CONTROLLER_TEST_API_H_
 #define ASH_DISPLAY_SCREEN_ORIENTATION_CONTROLLER_TEST_API_H_
 

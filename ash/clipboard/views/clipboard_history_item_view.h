@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard history item view class declaration
+// summary: Declares ClipboardHistoryItemView, the base class for menu items of the clipboard history menu, with focus and selection handling.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/clipboard/clipboard_history_util.h
+//   - depends_on /base/unguessable_token.h
+// ---
+
 #ifndef ASH_CLIPBOARD_VIEWS_CLIPBOARD_HISTORY_ITEM_VIEW_H_
 #define ASH_CLIPBOARD_VIEWS_CLIPBOARD_HISTORY_ITEM_VIEW_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for color_enhancement
+summary: Declares the OS>Accessibility monorail component, team email, and Buganizer component IDs for the directory.

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ContextualNudge class declaration
+// summary: Declares the ContextualNudge bubble class with its Position enum, constructor parameters, anchor rect updates and gesture event handling.
+// relations:
+//   - depends_on /ui/views/bubble/bubble_dialog_delegate_view.h
+//   - implemented_by /ash/controls/contextual_nudge.cc
+// ---
+
 #ifndef ASH_CONTROLS_CONTEXTUAL_NUDGE_H_
 #define ASH_CONTROLS_CONTEXTUAL_NUDGE_H_
 

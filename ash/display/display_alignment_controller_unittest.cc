@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DisplayAlignmentController unit tests
+// summary: Unit tests for the display alignment controller covering edge-triggered indicators, screen lock behavior, and preview indicators while dragging displays.
+// relations:
+//   - tests /ash/display/display_alignment_controller.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/display/display_alignment_indicator.h
+// ---
+
 #include "ash/display/display_alignment_controller.h"
 
 #include <algorithm>

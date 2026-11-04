@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DisplayConfigurationController test API implementation
+// summary: Implements the test API for DisplayConfigurationController, toggling the display animator and accessing or replacing screen rotation animators.
+// relations:
+//   - implements /ash/display/display_configuration_controller_test_api.h
+//   - depends_on /ash/display/display_configuration_controller.h
+//   - depends_on /ash/root_window_controller.h
+// ---
+
 #include "ash/display/display_configuration_controller_test_api.h"
 
 #include "ash/display/display_configuration_controller.h"

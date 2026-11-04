@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test clipboard history controller delegate declaration
+// summary: Declares a test implementation of the ClipboardHistoryControllerDelegate used to back ClipboardHistoryControllerImpl in tests.
+// relations:
+//   - implements /ash/clipboard/clipboard_history_controller_delegate.h
+//   - depends_on /ash/clipboard/clipboard_history_controller_delegate.h
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_CLIPBOARD_TEST_SUPPORT_TEST_CLIPBOARD_HISTORY_CONTROLLER_DELEGATE_IMPL_H_
 #define ASH_CLIPBOARD_TEST_SUPPORT_TEST_CLIPBOARD_HISTORY_CONTROLLER_DELEGATE_IMPL_H_
 

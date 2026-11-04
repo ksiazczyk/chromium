@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extended mouse warp controller implementation
+// summary: Implements mouse cursor warping between displays in extended display mode, managing warp regions, edge bounds, and shared edge indicators for window dragging.
+// relations:
+//   - implements /ash/display/extended_mouse_warp_controller.h
+//   - depends_on /ash/display/display_util.h
+//   - depends_on /ash/display/shared_display_edge_indicator.h
+// ---
+
 #include "ash/display/extended_mouse_warp_controller.h"
 
 #include <cmath>

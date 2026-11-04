@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash preference names
+// summary: Defines preference name constants for Ash features including assistive input, Google integrations, Mahi, and many other system settings.
+// relations:
+//   - references /components/policy/resources/templates/policy_definitions/GenerativeAI/HelpMeWriteSettings.yaml
+//   - references /components/policy/resources/templates/policy_definitions/Miscellaneous/OrcaEnabled.yaml
+//   - references /components/policy/resources/templates/policy_definitions/GenerativeAI/HelpMeReadSettings.yaml
+// ---
+
 #ifndef ASH_CONSTANTS_ASH_PREF_NAMES_H_
 #define ASH_CONSTANTS_ASH_PREF_NAMES_H_
 

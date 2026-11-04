@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayShutdownObserver class declaration
+// summary: Declares a session observer that listens for Chrome termination on behalf of the display configurator so display configuration events stop during shutdown.
+// relations:
+//   - depends_on /ash/public/cpp/session/session_observer.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_DISPLAY_DISPLAY_SHUTDOWN_OBSERVER_H_
 #define ASH_DISPLAY_DISPLAY_SHUTDOWN_OBSERVER_H_
 

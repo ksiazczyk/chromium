@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Detachable base notification controller unit tests
+// summary: Verifies when base-changed and firmware-update notifications are shown, removed, and reshown across user logins and session states.
+// relations:
+//   - tests /ash/detachable_base/detachable_base_notification_controller.h
+//   - depends_on /ash/detachable_base/detachable_base_handler.h
+// ---
+
 #include "ash/detachable_base/detachable_base_notification_controller.h"
 
 #include <string>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenAsh implementation
+// summary: Implements the Aura display::Screen for Ash, forwarding display queries and providing a replacement screen instance used during shutdown.
+// relations:
+//   - depends_on /ash/display/screen_ash.h
+//   - depends_on /ash/constants/ash_switches.h
+//   - depends_on /ash/display/window_tree_host_manager.h
+// ---
+
 #include "ash/display/screen_ash.h"
 
 #include "ash/constants/ash_switches.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RoundedScrollBar class declaration
+// summary: Declares the RoundedScrollBar class with track insets, snap-back and thumb visibility controls, and scroll event observation.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /base/timer/timer.h
+// ---
+
 #ifndef ASH_CONTROLS_ROUNDED_SCROLL_BAR_H_
 #define ASH_CONTROLS_ROUNDED_SCROLL_BAR_H_
 

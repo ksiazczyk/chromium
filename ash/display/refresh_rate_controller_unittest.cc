@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Refresh rate controller unit tests
+// summary: Unit tests for the refresh rate controller using fake display snapshots, mock native display delegates, and game mode scenarios.
+// relations:
+//   - tests /ash/display/refresh_rate_controller.h
+//   - depends_on /ash/constants/ash_switches.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/display/refresh_rate_controller.h"
 
 #include <memory>

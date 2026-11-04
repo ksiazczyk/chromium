@@ -1,0 +1,7 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for ash/constants
+summary: Defines allowed include rules for the directory, including a whitelist of permitted Abseil headers.
+relations:
+  - references /styleguide/c++/c++-features.md
+  - references /DEPS

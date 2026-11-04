@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User authentication D-Bus service provider header
+// summary: Declares the UserAuthenticationServiceProvider class that exports D-Bus methods for in-session user authentication.
+// relations:
+//   - implements /chromeos/ash/components/dbus/services/cros_dbus_service.h
+//   - depends_on /base/memory/weak_ptr.h
+//   - depends_on /dbus/exported_object.h
+// ---
+
 #ifndef ASH_DBUS_USER_AUTHENTICATION_SERVICE_PROVIDER_H_
 #define ASH_DBUS_USER_AUTHENTICATION_SERVICE_PROVIDER_H_
 

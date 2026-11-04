@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Clipboard history unit tests
+// summary: Unit tests for ClipboardHistory verifying how text, bitmap, and other clipboard data are retained in the history.
+// relations:
+//   - tests /ash/clipboard/clipboard_history.h
+//   - depends_on /ash/test/ash_test_base.h
+// ---
+
 #include "ash/clipboard/clipboard_history.h"
 
 #include <list>

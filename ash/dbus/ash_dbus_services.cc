@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AshDBusServices implementation
+// summary: Creates and owns the ash D-Bus services for display, gesture properties, liveness, privacy screen, URL handling, and user authentication.
+// relations:
+//   - implements /ash/dbus/ash_dbus_services.h
+//   - depends_on /ash/constants/ash_features.h
+//   - depends_on /ash/dbus/display_service_provider.h
+// ---
+
 #include "ash/dbus/ash_dbus_services.h"
 
 #include "ash/constants/ash_features.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchCalibratorController implementation
+// summary: Implements the touchscreen calibration flow that associates touch devices with displays, transforms touch events, and manages calibration state.
+// relations:
+//   - implements /ash/display/touch_calibrator_controller.h
+//   - depends_on /ash/display/touch_calibrator_view.h
+//   - depends_on /ash/display/window_tree_host_manager.h
+// ---
+
 #include "ash/display/touch_calibrator_controller.h"
 
 #include <algorithm>

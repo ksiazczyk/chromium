@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome external URL constants for Ash
+// summary: Declares external Chrome browser URL constants such as the Chromium project site and sync dashboard links for use in Ash.
+// ---
+
 #ifndef ASH_CONSTANTS_CHROME_URL_CONSTANTS_H_
 #define ASH_CONSTANTS_CHROME_URL_CONSTANTS_H_
 

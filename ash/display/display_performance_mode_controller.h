@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayPerformanceModeController class header
+// summary: Declares the Ash controller that tracks power status and user preference to set display features to high performance, intelligent, or power saver modes and notifies observers of changes.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/system/power/power_status.h
+//   - depends_on /base/scoped_observation.h
+// ---
+
 #ifndef ASH_DISPLAY_DISPLAY_PERFORMANCE_MODE_CONTROLLER_H_
 #define ASH_DISPLAY_DISPLAY_PERFORMANCE_MODE_CONTROLLER_H_
 

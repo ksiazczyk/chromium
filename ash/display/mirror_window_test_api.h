@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mirror window test API header
+// summary: Declares MirrorWindowTestApi, giving tests access to mirroring hosts and cursor state managed by the mirror window controller.
+// ---
+
 #ifndef ASH_DISPLAY_MIRROR_WINDOW_TEST_API_H_
 #define ASH_DISPLAY_MIRROR_WINDOW_TEST_API_H_
 

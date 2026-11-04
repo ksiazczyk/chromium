@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UnifiedMouseWarpController unit tests
+// summary: Unit tests verifying that the mouse cursor warps at expected display edges and lands on the correct target display in unified desktop mode.
+// relations:
+//   - tests /ash/display/unified_mouse_warp_controller.h
+//   - tests /ash/display/unified_mouse_warp_controller.cc
+//   - depends_on /ash/display/unified_mouse_warp_controller.h
+// ---
+
 #include "ash/display/unified_mouse_warp_controller.h"
 
 #include <sstream>

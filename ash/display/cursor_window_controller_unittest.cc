@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CursorWindowController
+// summary: Tests cursor compositing behavior including cursor bounds, hot point, display assignment, and bitmap separation for inversion.
+// relations:
+//   - tests /ash/display/cursor_window_controller.h
+//   - depends_on /ash/accessibility/accessibility_controller.h
+//   - depends_on /ash/constants/ash_constants.h
+// ---
+
 #include "ash/display/cursor_window_controller.h"
 
 #include <cmath>

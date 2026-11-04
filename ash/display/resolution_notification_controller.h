@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResolutionNotificationController class declaration
+// summary: Declares the controller that prepares resolution change confirmation dialogs and applies or reverts display mode changes for external displays.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/display/cros_display_config.h
+//   - depends_on /ash/display/display_change_dialog.h
+// ---
+
 #ifndef ASH_DISPLAY_RESOLUTION_NOTIFICATION_CONTROLLER_H_
 #define ASH_DISPLAY_RESOLUTION_NOTIFICATION_CONTROLLER_H_
 

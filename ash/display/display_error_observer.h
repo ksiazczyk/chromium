@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayErrorObserver class header
+// summary: Declares DisplayErrorObserver, an Ash observer that reacts to failed display configuration changes and shows an error dialog when necessary.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/display/manager/display_configurator.h
+// ---
+
 #ifndef ASH_DISPLAY_DISPLAY_ERROR_OBSERVER_H_
 #define ASH_DISPLAY_DISPLAY_ERROR_OBSERVER_H_
 

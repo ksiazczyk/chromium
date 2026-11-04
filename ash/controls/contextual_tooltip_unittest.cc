@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tooltip unit tests
+// summary: Tests contextual nudge show, timeout and interval behavior across feature flag states using a test clock and user pref service.
+// relations:
+//   - tests /ash/controls/contextual_tooltip.h
+//   - tests /ash/controls/contextual_tooltip.cc
+// ---
+
 #include "ash/controls/contextual_tooltip.h"
 
 #include "ash/constants/ash_features.h"

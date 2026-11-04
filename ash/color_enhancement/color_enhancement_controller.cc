@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Color enhancement controller implementation
+// summary: Implements the controller that applies high contrast, greyscale, and color vision correction filters to displays using CVD simulation and daltonizing matrices.
+// relations:
+//   - implements /ash/color_enhancement/color_enhancement_controller.h
+//   - depends_on /ash/shell.h
+//   - depends_on /cc/paint/filter_operation.h
+// ---
+
 #include "ash/color_enhancement/color_enhancement_controller.h"
 
 #include <array>

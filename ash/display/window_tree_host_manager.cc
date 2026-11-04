@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowTreeHostManager implementation
+// summary: Implements WindowTreeHostManager, which owns root windows for each attached display and keeps them in sync with display configuration changes.
+// relations:
+//   - depends_on /ash/display/window_tree_host_manager.h
+//   - depends_on /ash/accessibility/magnifier/fullscreen_magnifier_controller.h
+//   - depends_on /ash/accessibility/magnifier/partial_magnifier_controller.h
+// ---
+
 #include "ash/display/window_tree_host_manager.h"
 
 #include <algorithm>

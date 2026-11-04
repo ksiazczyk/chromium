@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash command-line switch declarations
+// summary: Declares command-line switch name constants for ChromeOS Ash covering ARC, OOBE, kiosk mode, HDCP, and testing flags.
+// relations:
+//   - depends_on /base/auto_reset.h
+//   - depends_on /base/component_export.h
+//   - references /ash/constants/ash_features.h
+// ---
+
 #ifndef ASH_CONSTANTS_ASH_SWITCHES_H_
 #define ASH_CONSTANTS_ASH_SWITCHES_H_
 

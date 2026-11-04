@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for ash clipboard views
+summary: Lists the code owners responsible for the ash clipboard views directory.

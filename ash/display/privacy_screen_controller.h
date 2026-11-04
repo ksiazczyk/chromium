@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Privacy screen controller class declaration
+// summary: Declares the privacy screen controller that tracks support, managed state, and enablement, and notifies observers of setting changes.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/privacy_screen_dlp_helper.h
+//   - depends_on /ash/public/cpp/session/session_observer.h
+// ---
+
 #ifndef ASH_DISPLAY_PRIVACY_SCREEN_CONTROLLER_H_
 #define ASH_DISPLAY_PRIVACY_SCREEN_CONTROLLER_H_
 

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security curtain controller interface
+// summary: Declares the SecurityCurtainController interface for enabling and disabling a privacy overlay over all monitors, with options for muting audio and blocking input.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/functional/callback.h
+//   - depends_on /base/time/time.h
+// ---
+
 #ifndef ASH_CURTAIN_SECURITY_CURTAIN_CONTROLLER_H_
 #define ASH_CURTAIN_SECURITY_CURTAIN_CONTROLLER_H_
 

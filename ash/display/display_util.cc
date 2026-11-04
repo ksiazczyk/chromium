@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display utility functions implementation
+// summary: Implements Ash display helpers for creating mouse warp controllers, computing native edge bounds, moving the cursor, showing display error notifications, and formatting refresh rates.
+// relations:
+//   - implements /ash/display/display_util.h
+//   - depends_on /ash/constants/notifier_catalogs.h
+//   - depends_on /ash/display/display_configuration_controller.h
+// ---
+
 #include "ash/display/display_util.h"
 
 #include <algorithm>

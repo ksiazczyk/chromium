@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash feature flag declarations
+// summary: Declares ChromeOS Ash feature flags and feature parameters, such as battery saver, Boca, and ambient mode, for use with the base feature list.
+// relations:
+//   - depends_on /base/component_export.h
+//   - depends_on /base/feature_list.h
+//   - depends_on /base/metrics/field_trial_params.h
+// ---
+
 #ifndef ASH_CONSTANTS_ASH_FEATURES_H_
 #define ASH_CONSTANTS_ASH_FEATURES_H_
 

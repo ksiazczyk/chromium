@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard history main button implementation
+// summary: Implements the main button of a clipboard history item view, handling clicks, gestures, theme changes, ink drop styling, and painting a highlight when pseudo-focused.
+// relations:
+//   - implements /ash/clipboard/views/clipboard_history_main_button.h
+//   - depends_on /ash/clipboard/views/clipboard_history_item_view.h
+//   - depends_on /ash/style/style_util.h
+// ---
+
 #include "ash/clipboard/views/clipboard_history_main_button.h"
 
 #include "ash/clipboard/views/clipboard_history_item_view.h"

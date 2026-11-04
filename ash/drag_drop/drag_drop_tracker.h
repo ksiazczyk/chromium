@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DragDropTracker header
+// summary: Declares DragDropTracker, which sets up a capture window for handling drag events inside and outside the root window where the drag began.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/functional/bind.h
+//   - depends_on /ui/events/event.h
+// ---
+
 #ifndef ASH_DRAG_DROP_DRAG_DROP_TRACKER_H_
 #define ASH_DRAG_DROP_DRAG_DROP_TRACKER_H_
 

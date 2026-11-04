@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollViewGradientHelper class declaration
+// summary: Declares a helper that adds top and bottom fade gradients to a ScrollView via a layer gradient mask and updates them on scroll callbacks.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/callback_list.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_CONTROLS_SCROLL_VIEW_GRADIENT_HELPER_H_
 #define ASH_CONTROLS_SCROLL_VIEW_GRADIENT_HELPER_H_
 

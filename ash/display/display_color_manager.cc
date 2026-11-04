@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayColorManager implementation
+// summary: Implements display color management, applying color correction matrices and color temperature adjustments based on display snapshots and VPD profile data.
+// relations:
+//   - implements /ash/display/display_color_manager.h
+//   - depends_on /ash/constants/ash_paths.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/display/display_color_manager.h"
 
 #include <utility>

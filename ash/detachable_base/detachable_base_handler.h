@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DetachableBaseHandler class declaration
+// summary: Declares the handler that tracks detachable base pairing, authentication, and firmware update state and exposes per-user last used base methods.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/detachable_base/detachable_base_pairing_status.h
+//   - depends_on /ash/public/cpp/session/session_observer.h
+// ---
+
 #ifndef ASH_DETACHABLE_BASE_DETACHABLE_BASE_HANDLER_H_
 #define ASH_DETACHABLE_BASE_DETACHABLE_BASE_HANDLER_H_
 

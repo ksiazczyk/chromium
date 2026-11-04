@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the color_enhancement directory
+summary: Lists the code owners for the color_enhancement directory, including a reference to the accessibility OWNERS file.
+relations:
+  - references /ui/accessibility/OWNERS

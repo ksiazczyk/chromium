@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TouchCalibratorView implementation
+// summary: Implements the touch calibration overlay view, drawing backgrounds, hint boxes, touch targets, and animations shown to users during display calibration.
+// relations:
+//   - depends_on /ash/display/touch_calibrator_view.h
+//   - depends_on /ash/public/cpp/shell_window_ids.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/display/touch_calibrator_view.h"
 
 #include <memory>

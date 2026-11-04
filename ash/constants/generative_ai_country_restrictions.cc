@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generative AI country restrictions implementation
+// summary: Implements a fixed country allowlist and a check that gates generative AI features by country code in Ash.
+// relations:
+//   - depends_on /ash/constants/generative_ai_country_restrictions.h
+//   - depends_on /base/containers/fixed_flat_set.h
+// ---
+
 #include "ash/constants/generative_ai_country_restrictions.h"
 
 #include "base/containers/fixed_flat_set.h"

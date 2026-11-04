@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScreenAsh class declaration
+// summary: Declares the Ash implementation of display::Screen, including display lookup methods, brightness handling, and shutdown screen creation helpers.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /chromeos/dbus/power/power_manager_client.h
+//   - implements /ui/display/screen.h
+// ---
+
 #ifndef ASH_DISPLAY_SCREEN_ASH_H_
 #define ASH_DISPLAY_SCREEN_ASH_H_
 

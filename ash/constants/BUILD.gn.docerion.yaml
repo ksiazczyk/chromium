@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the ash constants component
+summary: GN build file defining the ash_constants component, its source files, and its public and private dependencies.
+relations:
+  - has_part /ash/constants/ambient_time_of_day_constants.h
+  - has_part /ash/constants/ambient_video.cc
+  - has_part /ash/constants/ambient_video.h

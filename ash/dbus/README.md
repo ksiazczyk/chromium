@@ -1,3 +1,11 @@
+---
+type: readme
+title: Ash DBus services overview
+summary: Explains how the D-Bus bus instance and ash D-Bus services are owned under classic single-process mash and multi-process ash builds.
+relations:
+  - references /ash/README.md
+---
+
 Under classic/single-process mash:
 * The dbus::Bus instance is created in chrome and passed to ash in
   ShellInitParams.

@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for ash/edusumer
+summary: Delegates code ownership of the edusumer directory to the child accounts OWNERS file.
+relations:
+  - references /ash/child_accounts/OWNERS

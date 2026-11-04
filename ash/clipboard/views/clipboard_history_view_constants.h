@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard history view constants
+// summary: Defines shared layout, sizing, spacing, and styling constants used by the clipboard history views, such as insets, delete button sizes, and image corner radii.
+// relations:
+//   - depends_on /ui/gfx/geometry/insets.h
+// ---
+
 #ifndef ASH_CLIPBOARD_VIEWS_CLIPBOARD_HISTORY_VIEW_CONSTANTS_H_
 #define ASH_CLIPBOARD_VIEWS_CLIPBOARD_HISTORY_VIEW_CONSTANTS_H_
 

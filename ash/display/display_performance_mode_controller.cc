@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayPerformanceModeController implementation
+// summary: Implements the controller that tracks display performance mode, choosing high performance, power saver, or intelligent mode from user setting and battery status.
+// relations:
+//   - implements /ash/display/display_performance_mode_controller.h
+// ---
+
 #include "ash/display/display_performance_mode_controller.h"
 
 namespace ash {

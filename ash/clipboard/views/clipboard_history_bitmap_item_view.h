@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard history bitmap item view class declaration
+// summary: Declares ClipboardHistoryBitmapItemView, the clipboard history menu item that displays bitmap clipboard data.
+// relations:
+//   - depends_on /ash/clipboard/views/clipboard_history_item_view.h
+//   - depends_on /base/unguessable_token.h
+//   - depends_on /ui/base/clipboard/clipboard_data.h
+// ---
+
 #ifndef ASH_CLIPBOARD_VIEWS_CLIPBOARD_HISTORY_BITMAP_ITEM_VIEW_H_
 #define ASH_CLIPBOARD_VIEWS_CLIPBOARD_HISTORY_BITMAP_ITEM_VIEW_H_
 

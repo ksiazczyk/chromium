@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayHighlightController class header
+// summary: Declares DisplayHighlightController, which manages which display renders identification highlights and removes them when the screen locks.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/session/session_observer.h
+//   - depends_on /ui/display/manager/display_manager_observer.h
+// ---
+
 #ifndef ASH_DISPLAY_DISPLAY_HIGHLIGHT_CONTROLLER_H_
 #define ASH_DISPLAY_DISPLAY_HIGHLIGHT_CONTROLLER_H_
 

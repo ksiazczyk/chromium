@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Graduation utils unit tests
+// summary: Unit tests for graduation eligibility logic using a fake clock and testing pref service across start and end date scenarios.
+// relations:
+//   - tests /ash/edusumer/graduation_utils.h
+//   - depends_on /ash/edusumer/graduation_utils.h
+//   - depends_on /ash/constants/ash_pref_names.h
+// ---
+
 #include "ash/edusumer/graduation_utils.h"
 
 #include <memory>

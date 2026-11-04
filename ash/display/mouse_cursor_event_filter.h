@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MouseCursorEventFilter class declaration
+// summary: Declares the MouseCursorEventFilter event handler and display manager observer that controls mouse location and warping in the extended desktop environment.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/gtest_prod_util.h
+//   - depends_on /ui/display/manager/display_manager_observer.h
+// ---
+
 #ifndef ASH_DISPLAY_MOUSE_CURSOR_EVENT_FILTER_H_
 #define ASH_DISPLAY_MOUSE_CURSOR_EVENT_FILTER_H_
 

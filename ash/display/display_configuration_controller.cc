@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayConfigurationController implementation
+// summary: Implements DisplayConfigurationController, applying display layout, mirror mode, rotation, and primary display changes with fade animations and throttle timeouts.
+// relations:
+//   - implements /ash/display/display_configuration_controller.h
+//   - depends_on /ash/display/display_animator.h
+//   - depends_on /ash/display/display_util.h
+// ---
+
 #include "ash/display/display_configuration_controller.h"
 
 #include <memory>

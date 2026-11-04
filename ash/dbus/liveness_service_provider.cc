@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LivenessServiceProvider implementation
+// summary: Implements the LivenessServiceProvider that exports the CheckLiveness D-Bus method and replies with an empty response to confirm UI thread responsiveness.
+// relations:
+//   - implements /ash/dbus/liveness_service_provider.h
+//   - depends_on /base/functional/bind.h
+//   - depends_on /base/logging.h
+// ---
+
 #include "ash/dbus/liveness_service_provider.h"
 
 #include "base/functional/bind.h"

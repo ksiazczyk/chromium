@@ -1,0 +1,4 @@
+# Docerion header of org.chromium.DisplayService.conf.
+type: config
+title: org.chromium.DisplayService D-Bus policy configuration
+summary: D-Bus bus policy that lets the chronos user own org.chromium.DisplayService and allows power and root users to call its interface.

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedDragDropObserver unit tests
+// summary: Unit tests verifying that ScopedDragDropObserver event callbacks run as expected, parameterized over drag completed and drag cancelled scenarios.
+// relations:
+//   - tests /ash/drag_drop/scoped_drag_drop_observer.h
+//   - depends_on /ash/drag_drop/drag_drop_controller.h
+//   - depends_on /ash/drag_drop/draggable_test_view.h
+// ---
+
 #include "ash/drag_drop/scoped_drag_drop_observer.h"
 
 #include "ash/drag_drop/drag_drop_controller.h"

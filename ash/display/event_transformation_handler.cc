@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event transformation handler implementation
+// summary: Implements scroll event scaling in the Ash shell, boosting scroll deltas by 20% when the event targets a non-integrated display.
+// relations:
+//   - implements /ash/display/event_transformation_handler.h
+//   - depends_on /ui/aura/window.h
+//   - depends_on /ui/aura/window_event_dispatcher.h
+// ---
+
 #include "ash/display/event_transformation_handler.h"
 
 #include <cmath>

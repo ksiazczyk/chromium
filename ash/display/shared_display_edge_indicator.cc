@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedDisplayEdgeIndicator implementation
+// summary: Implements the animated popup widgets that highlight the shared edge between displays where a window can be dragged to another display.
+// relations:
+//   - implements /ash/display/shared_display_edge_indicator.h
+//   - depends_on /ash/public/cpp/shell_window_ids.h
+//   - depends_on /ash/root_window_controller.h
+// ---
+
 #include "ash/display/shared_display_edge_indicator.h"
 
 #include "ash/public/cpp/shell_window_ids.h"

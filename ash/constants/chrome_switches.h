@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome command-line switch constants for Ash
+// summary: Defines copies of Chrome browser command-line switch constants used by ChromeOS system parts, kept in sync with chrome/common/chrome_switches.h.
+// ---
+
 #ifndef ASH_CONSTANTS_CHROME_SWITCHES_H_
 #define ASH_CONSTANTS_CHROME_SWITCHES_H_
 

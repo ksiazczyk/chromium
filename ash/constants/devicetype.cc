@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device type helper implementations
+// summary: Implements Bluetooth device naming, device type to string conversion, and Google-branded device detection for Ash.
+// relations:
+//   - depends_on /ash/constants/devicetype.h
+//   - depends_on /ash/constants/ash_switches.h
+//   - depends_on /base/command_line.h
+// ---
+
 #include "ash/constants/devicetype.h"
 
 #include "ash/constants/ash_switches.h"

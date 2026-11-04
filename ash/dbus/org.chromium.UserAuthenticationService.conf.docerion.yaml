@@ -1,0 +1,4 @@
+# Docerion header of org.chromium.UserAuthenticationService.conf.
+type: config
+title: org.chromium.UserAuthenticationService D-Bus policy configuration
+summary: D-Bus bus policy that lets chronos own org.chromium.UserAuthenticationService and allows the u2f user to request the WebAuthn auth dialog.

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Projecting observer unit tests
+// summary: Unit tests verifying projecting state detection for combinations of internal, VGA, and casting displays.
+// relations:
+//   - tests /ash/display/projecting_observer.h
+//   - depends_on /chromeos/dbus/power/fake_power_manager_client.h
+//   - depends_on /ui/display/manager/test/fake_display_snapshot.h
+// ---
+
 #include "ash/display/projecting_observer.h"
 
 #include <memory>

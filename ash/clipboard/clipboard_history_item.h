@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClipboardHistoryItem class declaration
+// summary: Declares ClipboardHistoryItem, which wraps clipboard data with metadata for its visual presentation in the clipboard history menu.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /chromeos/ui/clipboard_history/clipboard_history_types.h
+//   - depends_on /ui/base/clipboard/clipboard_data.h
+// ---
+
 #ifndef ASH_CLIPBOARD_CLIPBOARD_HISTORY_ITEM_H_
 #define ASH_CLIPBOARD_CLIPBOARD_HISTORY_ITEM_H_
 

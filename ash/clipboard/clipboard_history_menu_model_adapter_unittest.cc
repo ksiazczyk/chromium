@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Clipboard history menu model adapter unit tests
+// summary: Unit tests for ClipboardHistoryMenuModelAdapter covering menu refresh, show sources, and menu item selection and removal.
+// relations:
+//   - tests /ash/clipboard/clipboard_history_menu_model_adapter.h
+//   - depends_on /ash/clipboard/clipboard_history.h
+//   - depends_on /ash/clipboard/clipboard_history_controller_impl.h
+// ---
+
 #include "ash/clipboard/clipboard_history_menu_model_adapter.h"
 
 #include <algorithm>

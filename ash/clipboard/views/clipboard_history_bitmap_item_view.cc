@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard history bitmap item view implementation
+// summary: Implements the clipboard history menu item view for bitmap data, including a fade transition from a placeholder image to rendered HTML content.
+// relations:
+//   - implements /ash/clipboard/views/clipboard_history_bitmap_item_view.h
+//   - depends_on /ash/clipboard/clipboard_history_item.h
+//   - depends_on /base/functional/bind.h
+// ---
+
 #include "ash/clipboard/views/clipboard_history_bitmap_item_view.h"
 
 #include "ash/clipboard/clipboard_history_item.h"

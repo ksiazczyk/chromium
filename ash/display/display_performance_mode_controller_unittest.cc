@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DisplayPerformanceModeController unit tests
+// summary: Unit tests verifying that the display performance mode controller switches between power saver, intelligent, and high performance modes based on power status, battery saver state, and user settings.
+// relations:
+//   - tests /ash/display/display_performance_mode_controller.h
+//   - depends_on /ash/shell.h
+//   - depends_on /ash/test/ash_test_base.h
+// ---
+
 #include "ash/display/display_performance_mode_controller.h"
 
 #include "ash/shell.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard nudge controller implementation
+// summary: Implements showing and tracking of clipboard history onboarding and contextual nudges, including profile prefs, show limits, and histogram recording.
+// relations:
+//   - implements /ash/clipboard/clipboard_nudge_controller.h
+//   - depends_on /ash/clipboard/clipboard_history_item.h
+//   - depends_on /ash/clipboard/clipboard_history_util.h
+// ---
+
 #include "ash/clipboard/clipboard_nudge_controller.h"
 
 #include "ash/clipboard/clipboard_history_item.h"

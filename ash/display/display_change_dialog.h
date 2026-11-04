@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayChangeDialog class header
+// summary: Declares DisplayChangeDialog, a modal dialog with a 15-second countdown timer for confirming or reverting external display configuration changes.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/functional/callback.h
+//   - depends_on /base/gtest_prod_util.h
+// ---
+
 #ifndef ASH_DISPLAY_DISPLAY_CHANGE_DIALOG_H_
 #define ASH_DISPLAY_DISPLAY_CHANGE_DIALOG_H_
 

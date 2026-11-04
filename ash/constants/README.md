@@ -1,3 +1,9 @@
+---
+type: readme
+title: ash/constants
+summary: Explains that the directory holds low-level Chrome OS constants shared by ash-chrome and the browser, with no logic allowed.
+---
+
 # ash/constants
 
 This directory contains constants used by Chrome OS. It is a very low-level

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayPrefs class declaration
+// summary: Declares the DisplayPrefs class that registers, stores, and loads display preference settings from local state for the session, with test helper methods.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/public/cpp/session/session_observer.h
+//   - depends_on /base/memory/raw_ptr.h
+// ---
+
 #ifndef ASH_DISPLAY_DISPLAY_PREFS_H_
 #define ASH_DISPLAY_DISPLAY_PREFS_H_
 

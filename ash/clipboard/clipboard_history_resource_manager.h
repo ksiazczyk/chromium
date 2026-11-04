@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard history resource manager declaration
+// summary: Declares ClipboardHistoryResourceManager, a helper that augments clipboard history items with asynchronously retrieved metadata.
+// relations:
+//   - depends_on /ash/clipboard/clipboard_history.h
+//   - depends_on /ash/clipboard/clipboard_history_item.h
+// ---
+
 #ifndef ASH_CLIPBOARD_CLIPBOARD_HISTORY_RESOURCE_MANAGER_H_
 #define ASH_CLIPBOARD_CLIPBOARD_HISTORY_RESOURCE_MANAGER_H_
 

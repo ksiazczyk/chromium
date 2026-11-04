@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DragImageView class declaration
+// summary: Declares a view shown on top of everything as the drag image, with APIs for bounds, visibility, opacity and touch drag hints.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ui/base/dragdrop/drag_drop_types.h
+//   - depends_on /ui/gfx/geometry/point.h
+// ---
+
 #ifndef ASH_DRAG_DROP_DRAG_IMAGE_VIEW_H_
 #define ASH_DRAG_DROP_DRAG_IMAGE_VIEW_H_
 

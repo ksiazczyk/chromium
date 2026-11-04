@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DisplayConfigurationObserver header
+// summary: Declares DisplayConfigurationObserver, which observes display manager and tablet state changes to persist display prefs and manage tablet mode mirror mode.
+// relations:
+//   - depends_on /ash/ash_export.h
+//   - depends_on /base/memory/weak_ptr.h
+//   - depends_on /ui/display/display_observer.h
+// ---
+
 #ifndef ASH_DISPLAY_DISPLAY_CONFIGURATION_OBSERVER_H_
 #define ASH_DISPLAY_DISPLAY_CONFIGURATION_OBSERVER_H_
 

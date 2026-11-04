@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash path provider implementation
+// summary: Implements the PathService provider that maps Ash path keys to system file and directory paths such as TPM update files and policy caches.
+// relations:
+//   - depends_on /ash/constants/ash_paths.h
+//   - depends_on /base/base_paths.h
+//   - depends_on /base/files/file_path.h
+// ---
+
 #include "ash/constants/ash_paths.h"
 
 #include "base/base_paths.h"

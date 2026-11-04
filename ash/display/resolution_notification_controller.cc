@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resolution notification controller implementation
+// summary: Implements the controller that shows a confirm-or-revert notification when a display's resolution or refresh rate changes, applying the change through DisplayManager.
+// relations:
+//   - implements /ash/display/resolution_notification_controller.h
+//   - depends_on /ash/display/cros_display_config.h
+//   - depends_on /ash/display/display_change_dialog.h
+// ---
+
 #include "ash/display/resolution_notification_controller.h"
 
 #include <utility>

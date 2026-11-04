@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the ash DBus directory
+summary: Defines allowed include paths for ash/dbus and additionally permits gmock in test files.

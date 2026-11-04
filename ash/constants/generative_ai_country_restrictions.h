@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generative AI country restrictions declarations
+// summary: Declares functions to check whether generative AI features are allowed for a country and to fetch the allowlist.
+// relations:
+//   - depends_on /base/component_export.h
+// ---
+
 #ifndef ASH_CONSTANTS_GENERATIVE_AI_COUNTRY_RESTRICTIONS_H_
 #define ASH_CONSTANTS_GENERATIVE_AI_COUNTRY_RESTRICTIONS_H_
 

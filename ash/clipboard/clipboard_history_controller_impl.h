@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard history controller class declaration
+// summary: Declares ClipboardHistoryControllerImpl, which shows a menu of recent clipboard items when the keyboard shortcut is pressed.
+// relations:
+//   - implements /ash/public/cpp/clipboard_history_controller.h
+//   - depends_on /ash/ash_export.h
+//   - depends_on /ash/clipboard/clipboard_history.h
+// ---
+
 #ifndef ASH_CLIPBOARD_CLIPBOARD_HISTORY_CONTROLLER_IMPL_H_
 #define ASH_CLIPBOARD_CLIPBOARD_HISTORY_CONTROLLER_IMPL_H_
 

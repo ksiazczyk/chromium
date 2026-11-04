@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Color enhancement controller unit tests
+// summary: Tests that the controller applies the expected color matrices to root window layers and updates cursor compositing for high contrast and notification flash.
+// relations:
+//   - tests /ash/color_enhancement/color_enhancement_controller.h
+//   - depends_on /ash/accessibility/accessibility_controller.h
+//   - depends_on /ash/accessibility/flash_screen_controller.h
+// ---
+
 #include "ash/color_enhancement/color_enhancement_controller.h"
 
 #include <optional>

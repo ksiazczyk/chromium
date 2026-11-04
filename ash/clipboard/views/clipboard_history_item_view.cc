@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard history item view implementation
+// summary: Implements the base view class for clipboard history menu items, covering contents display, pseudo focus handling, delete actions, and the Ctrl+V label.
+// relations:
+//   - implements /ash/clipboard/views/clipboard_history_item_view.h
+//   - depends_on /ash/bubble/bubble_utils.h
+//   - depends_on /ash/clipboard/clipboard_history.h
+// ---
+
 #include "ash/clipboard/views/clipboard_history_item_view.h"
 
 #include <memory>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RoundedScrollBar implementation
+// summary: Implements an ash-styled overlay scrollbar with a rounded thumb that fades out after scrolling, brightens on hover and paints with semantic colors.
+// relations:
+//   - implements /ash/controls/rounded_scroll_bar.h
+//   - depends_on /ash/style/ash_color_id.h
+//   - depends_on /base/functional/bind.h
+// ---
+
 #include "ash/controls/rounded_scroll_bar.h"
 
 #include <limits>

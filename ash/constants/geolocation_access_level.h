@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Geolocation access level enum
+// summary: Defines the GeolocationAccessLevel enum for the Privacy Hub geolocation feature, kept in sync with policy protos and histograms.
+// relations:
+//   - references /tools/metrics/histograms/metadata/chromeos/enums.xml
+// ---
+
 #ifndef ASH_CONSTANTS_GEOLOCATION_ACCESS_LEVEL_H_
 #define ASH_CONSTANTS_GEOLOCATION_ACCESS_LEVEL_H_
 

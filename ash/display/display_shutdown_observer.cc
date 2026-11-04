@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Display shutdown observer implementation
+// summary: Implements the observer that tells the display configurator to prepare for exit when the Chrome shutdown process starts, stopping display configuration handling.
+// relations:
+//   - depends_on /ash/display/display_shutdown_observer.h
+//   - depends_on /ui/display/manager/display_configurator.h
+// ---
+
 #include "ash/display/display_shutdown_observer.h"
 
 #include "ui/display/manager/display_configurator.h"

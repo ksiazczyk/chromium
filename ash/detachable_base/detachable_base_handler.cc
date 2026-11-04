@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Detachable base handler implementation
+// summary: Implements DetachableBaseHandler, tracking detachable base pairing and authentication state and persisting the last used base per user in local state prefs.
+// relations:
+//   - implements /ash/detachable_base/detachable_base_handler.h
+//   - depends_on /ash/constants/ash_pref_names.h
+//   - depends_on /ash/detachable_base/detachable_base_observer.h
+// ---
+
 #include "ash/detachable_base/detachable_base_handler.h"
 
 #include "ash/constants/ash_pref_names.h"

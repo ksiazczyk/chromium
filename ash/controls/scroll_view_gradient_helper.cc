@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScrollViewGradientHelper implementation
+// summary: Implements gradient mask updates that draw fade in and fade out edges on a scroll view based on its scroll position, with animated first appearance.
+// relations:
+//   - implements /ash/controls/scroll_view_gradient_helper.h
+//   - depends_on /base/check.h
+//   - depends_on /base/check_op.h
+// ---
+
 #include "ash/controls/scroll_view_gradient_helper.h"
 
 #include <memory>

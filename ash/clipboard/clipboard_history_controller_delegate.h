@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard history controller delegate interface
+// summary: Declares the browser-implemented delegate used by the clipboard history controller to perform explicit paste operations.
+// relations:
+//   - depends_on /ash/ash_export.h
+// ---
+
 #ifndef ASH_CLIPBOARD_CLIPBOARD_HISTORY_CONTROLLER_DELEGATE_H_
 #define ASH_CLIPBOARD_CLIPBOARD_HISTORY_CONTROLLER_DELEGATE_H_
 

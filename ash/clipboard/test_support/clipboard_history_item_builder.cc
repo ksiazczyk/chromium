@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clipboard history item builder implementation
+// summary: Implements the test builder that constructs ClipboardHistoryItem objects with configurable text, HTML, RTF, PNG, file, bookmark, custom and web smart paste clipboard data.
+// relations:
+//   - implements /ash/clipboard/test_support/clipboard_history_item_builder.h
+//   - depends_on /ash/clipboard/clipboard_history_item.h
+//   - depends_on /base/notreached.h
+// ---
+
 #include "ash/clipboard/test_support/clipboard_history_item_builder.h"
 
 #include <string_view>

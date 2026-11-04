@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Output protection delegate implementation
+// summary: Implements the delegate that proxies content protection queries and requests for a window and renews them when the window moves to another display.
+// relations:
+//   - depends_on /ash/display/output_protection_delegate.h
+//   - depends_on /ash/capture_mode/capture_mode_controller.h
+//   - depends_on /ash/shell.h
+// ---
+
 #include "ash/display/output_protection_delegate.h"
 
 #include "ash/capture_mode/capture_mode_controller.h"
