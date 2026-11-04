@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StringPrintf declarations
+// summary: Declares printf-style helpers StringPrintf, StringPrintV, StringAppendF and StringAppendV, with templates delegating to absl::StrFormat pending removal.
+// ---
+
 #ifndef BASE_STRINGS_STRINGPRINTF_H_
 #define BASE_STRINGS_STRINGPRINTF_H_
 

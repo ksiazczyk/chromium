@@ -1,0 +1,4 @@
+# Docerion header of sys_info_ios.mm.
+type: source
+title: iOS SysInfo implementation
+summary: Implements SysInfo for iOS using UIKit and Mach APIs to report OS name and version, architecture, hardware model with overrides, and available memory.

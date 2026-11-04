@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows StrCat for wide strings
+// summary: Implements StrCat and StrAppend overloads for std::wstring on Windows, reusing the shared internal concatenation helpers.
+// ---
+
 #include "base/strings/strcat_win.h"
 
 #include <initializer_list>

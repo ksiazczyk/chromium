@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SamplingHeapChurnProfiler implementation
+// summary: Implements the SamplingHeapChurnProfiler, which records a subsampled stream of alloc-free samples and scales them to estimate total memory churn.
+// ---
+
 #include "base/sampling_heap_profiler/sampling_heap_churn_profiler.h"
 
 #include <algorithm>

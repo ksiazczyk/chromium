@@ -1,0 +1,4 @@
+# Docerion header of cstring_view_nocompile.nc.
+type: test
+title: cstring_view no-compile tests
+summary: No-compile test suite asserting that invalid cstring_view constructions and cross-type operations fail to compile.

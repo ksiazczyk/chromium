@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LockImpl POSIX implementation
+// summary: Implements LockImpl on POSIX platforms with pthread mutexes, optional priority inheritance, spin-then-yield acquisition, and debug error checking.
+// ---
+
 #include "base/synchronization/lock_impl.h"
 
 #include <pthread.h>

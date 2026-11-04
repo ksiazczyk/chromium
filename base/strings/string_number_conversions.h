@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Number and string conversion API header
+// summary: Declares number-to-string and string-to-number conversion functions, with warnings about error handling and locale-sensitive UI use.
+// ---
+
 #ifndef BASE_STRINGS_STRING_NUMBER_CONVERSIONS_H_
 #define BASE_STRINGS_STRING_NUMBER_CONVERSIONS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac suspendable thread delegate declaration
+// summary: Declares SuspendableThreadDelegateMac, the macOS and iOS implementation supporting stack sampling via Mach thread suspension.
+// ---
+
 #ifndef BASE_PROFILER_SUSPENDABLE_THREAD_DELEGATE_MAC_H_
 #define BASE_PROFILER_SUSPENDABLE_THREAD_DELEGATE_MAC_H_
 

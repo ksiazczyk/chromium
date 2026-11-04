@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UTF string conversion API
+// summary: Declares functions converting between UTF-8, UTF-16, and wide strings, plus ASCII helpers and compile-time guards against use on string literals.
+// ---
+
 #ifndef BASE_STRINGS_UTF_STRING_CONVERSIONS_H_
 #define BASE_STRINGS_UTF_STRING_CONVERSIONS_H_
 

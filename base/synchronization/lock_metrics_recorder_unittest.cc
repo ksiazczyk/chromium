@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LockMetricsRecorder unit tests
+// summary: Unit tests for LockMetricsRecorder verifying that lock acquisition samples are recorded, classified by lock type tags, and reported as expected.
+// ---
+
 #include "base/synchronization/lock_metrics_recorder.h"
 
 #include <array>

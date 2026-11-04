@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LockFreeAddressHashSet unit tests
+// summary: Unit tests covering insert, remove, contains, copy and concurrent access behavior of the lock-free address hash set.
+// ---
+
 #include "base/sampling_heap_profiler/lock_free_address_hash_set.h"
 
 #include <stdlib.h>

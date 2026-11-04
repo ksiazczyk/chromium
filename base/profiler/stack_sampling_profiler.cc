@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stack sampling profiler implementation
+// summary: Core implementation of StackSamplingProfiler, which periodically samples a target thread's stack on a dedicated sampling thread to support UMA profiling.
+// ---
+
 #include "base/profiler/stack_sampling_profiler.h"
 
 #include <algorithm>

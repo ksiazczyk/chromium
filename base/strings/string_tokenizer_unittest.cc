@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: String tokenizer unit tests
+// summary: Unit tests for base::StringTokenizer covering token iteration, reset, delimiter and empty token options, quote handling, and token views.
+// ---
+
 #include "base/strings/string_tokenizer.h"
 
 #include "testing/gmock/include/gmock/gmock.h"

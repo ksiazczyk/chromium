@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LazyStringBuilder implementation
+// summary: Implements LazyStringBuilder methods that append string views or values and build the result with StrCat.
+// ---
+
 #include "base/strings/lazy_string_builder.h"
 
 #include "base/strings/strcat.h"

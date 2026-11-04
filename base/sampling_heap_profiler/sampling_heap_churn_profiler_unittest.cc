@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SamplingHeapChurnProfiler unit tests
+// summary: Unit tests for the churn profiler covering start and stop sessions, recording alloc-free events, and clearing accumulated samples.
+// ---
+
 #include "base/sampling_heap_profiler/sampling_heap_churn_profiler.h"
 
 #include <stdlib.h>

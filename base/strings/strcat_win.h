@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows StrCat wide-string header
+// summary: Declares std::wstring overloads of StrCat and StrAppend for the Windows build.
+// ---
+
 #ifndef BASE_STRINGS_STRCAT_WIN_H_
 #define BASE_STRINGS_STRCAT_WIN_H_
 

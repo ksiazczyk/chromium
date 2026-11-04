@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StrCat and StrAppend implementation
+// summary: Implements base::StrCat and base::StrAppend for narrow and UTF-16 strings, delegating to shared internal helpers for efficient concatenation.
+// ---
+
 #include "base/strings/strcat.h"
 
 #include <string>

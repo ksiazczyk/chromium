@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows suspendable thread delegate declaration
+// summary: Declares SuspendableThreadDelegateWin, the Windows implementation of the suspendable thread delegate for stack sampling.
+// ---
+
 #ifndef BASE_PROFILER_SUSPENDABLE_THREAD_DELEGATE_WIN_H_
 #define BASE_PROFILER_SUSPENDABLE_THREAD_DELEGATE_WIN_H_
 

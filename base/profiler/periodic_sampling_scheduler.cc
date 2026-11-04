@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Periodic sampling scheduler implementation
+// summary: Implements the scheduler that computes the time to the next stack sampling collection by placing a randomly offset sampling window inside each repeated period.
+// ---
+
 #include "base/profiler/periodic_sampling_scheduler.h"
 
 #include "base/rand_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UTF string conversion implementation
+// summary: Implements conversions between UTF-8, UTF-16, and wide strings, including an optional fast ASCII path and replacement of invalid code points.
+// ---
+
 #include "base/strings/utf_string_conversions.h"
 
 #include <limits.h>

@@ -5,6 +5,12 @@
 // This file provides the RegisterContext cross-platform typedef that represents
 // the native register context for the platform.
 
+// ---docerion
+// type: source
+// title: RegisterContext cross-platform typedef
+// summary: Defines the RegisterContext typedef mapping to the native register context type on Windows, POSIX, and Apple platforms, with a placeholder struct for other cases.
+// ---
+
 #ifndef BASE_PROFILER_REGISTER_CONTEXT_H_
 #define BASE_PROFILER_REGISTER_CONTEXT_H_
 

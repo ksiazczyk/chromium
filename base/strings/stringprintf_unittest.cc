@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StringPrintf unit tests
+// summary: Unit tests for StringPrintf, StringAppendF and StringAppendV covering empty and misc formats, buffer growth boundaries and errno preservation.
+// ---
+
 #include "base/strings/stringprintf.h"
 
 #include <errno.h>

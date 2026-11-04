@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stack buffer class
+// summary: Defines the StackBuffer class holding an aligned buffer for stack copies shared across StackSampler instances, including platform stack alignment and ChromeOS discard support.
+// ---
+
 #ifndef BASE_PROFILER_STACK_BUFFER_H_
 #define BASE_PROFILER_STACK_BUFFER_H_
 

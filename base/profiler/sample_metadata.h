@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sample metadata API and usage documentation
+// summary: Declares SampleMetadata and ScopedSampleMetadata for attaching thread- or process-scoped metadata to profiler samples, with usage examples in comments.
+// ---
+
 #ifndef BASE_PROFILER_SAMPLE_METADATA_H_
 #define BASE_PROFILER_SAMPLE_METADATA_H_
 

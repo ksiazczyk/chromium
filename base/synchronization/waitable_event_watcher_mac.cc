@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaitableEventWatcher Mac implementation
+// summary: Implements WaitableEventWatcher on macOS with a MACH_RECV dispatch source that fires the callback when the watched event's receive right is signaled.
+// ---
+
 #include "base/synchronization/waitable_event_watcher.h"
 
 #include "base/apple/scoped_dispatch_object.h"

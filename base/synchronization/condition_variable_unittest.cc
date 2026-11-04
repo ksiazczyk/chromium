@@ -4,6 +4,12 @@
 
 // Multi-threaded tests of ConditionVariable class.
 
+// ---docerion
+// type: test
+// title: ConditionVariable unit tests
+// summary: Multi-threaded unit tests for the base::ConditionVariable class, using a WorkQueue to coordinate worker threads and verify wait, signal, and broadcast behavior.
+// ---
+
 #include "base/synchronization/condition_variable.h"
 
 #include <time.h>

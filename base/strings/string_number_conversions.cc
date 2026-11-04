@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Number and string conversion implementation
+// summary: Implements NumberToString, StringToInt, StringToDouble, and hex encoding helpers for converting between numbers and strings.
+// ---
+
 #include "base/strings/string_number_conversions.h"
 
 #include <iterator>

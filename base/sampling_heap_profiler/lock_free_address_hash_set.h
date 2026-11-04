@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LockFreeAddressHashSet class declaration
+// summary: Declares a hash set with lock-free Contains lookups and lock-guarded insert, remove and copy operations used by the allocation sampler.
+// ---
+
 #ifndef BASE_SAMPLING_HEAP_PROFILER_LOCK_FREE_ADDRESS_HASH_SET_H_
 #define BASE_SAMPLING_HEAP_PROFILER_LOCK_FREE_ADDRESS_HASH_SET_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of lazy_string_builder_nocompile.nc.
+type: test
+title: LazyStringBuilder no-compile tests
+summary: No-compile test suite verifying that rvalue strings, dangling references and unauthorized construction of LazyStringBuilder fail to compile.

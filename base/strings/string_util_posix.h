@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX string utility helpers
+// summary: Header providing POSIX-specific wrappers such as strdup, vsnprintf and vswprintf for use with C APIs that require them.
+// ---
+
 #ifndef BASE_STRINGS_STRING_UTIL_POSIX_H_
 #define BASE_STRINGS_STRING_UTIL_POSIX_H_
 

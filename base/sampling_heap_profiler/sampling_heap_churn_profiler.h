@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SamplingHeapChurnProfiler class declaration
+// summary: Declares the SamplingHeapChurnProfiler class, which records subsampled alloc-free stack traces when sampled allocations are freed.
+// ---
+
 #ifndef BASE_SAMPLING_HEAP_PROFILER_SAMPLING_HEAP_CHURN_PROFILER_H_
 #define BASE_SAMPLING_HEAP_PROFILER_SAMPLING_HEAP_CHURN_PROFILER_H_
 

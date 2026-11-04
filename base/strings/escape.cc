@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: String escaping implementation
+// summary: Implements URL, path, form-data, and HTML escaping and unescaping helpers using per-context character maps.
+// ---
+
 #include "base/strings/escape.h"
 
 #include <array>

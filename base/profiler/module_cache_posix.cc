@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX module cache implementation
+// summary: Implements ModuleCache for POSIX platforms, deriving ELF build IDs, executable segment offsets, and debug basenames for loaded modules.
+// ---
+
 #include "base/profiler/module_cache.h"
 
 #include <dlfcn.h>

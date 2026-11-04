@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaggedMetricLock declaration
+// summary: Declares TaggedMetricLock and TaggedMetricAutoLock, locks annotated with core and custom metric tags for UMA lock contention tracking.
+// ---
+
 #ifndef BASE_SYNCHRONIZATION_TAGGED_METRIC_LOCK_H_
 #define BASE_SYNCHRONIZATION_TAGGED_METRIC_LOCK_H_
 

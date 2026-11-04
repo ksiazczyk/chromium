@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal string utility template helpers
+// summary: Internal template helpers implementing shared string operations such as case conversion, trimming, whitespace collapsing, and placeholder replacement for multiple string types.
+// ---
+
 #ifndef BASE_STRINGS_STRING_UTIL_IMPL_HELPERS_H_
 #define BASE_STRINGS_STRING_UTIL_IMPL_HELPERS_H_
 

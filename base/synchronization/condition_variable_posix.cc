@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConditionVariable POSIX implementation
+// summary: Implements the base::ConditionVariable class on POSIX platforms using pthread condition variables, including monotonic-clock timed waits and Apple-specific handling.
+// ---
+
 #include "base/synchronization/condition_variable.h"
 
 #include <errno.h>

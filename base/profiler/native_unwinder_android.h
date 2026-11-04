@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android native unwinder header
+// summary: Declares the Android native unwinder and a stack-restricted unwindstack::Memory wrapper used to safely restore registers while unwinding.
+// ---
+
 #ifndef BASE_PROFILER_NATIVE_UNWINDER_ANDROID_H_
 #define BASE_PROFILER_NATIVE_UNWINDER_ANDROID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome unwinder for 32-bit Android
+// summary: Declares the 32-bit ARM Android unwinder class and helpers for executing unwind instructions and indexing the unwind tables.
+// ---
+
 #ifndef BASE_PROFILER_CHROME_UNWINDER_ANDROID_32_H_
 #define BASE_PROFILER_CHROME_UNWINDER_ANDROID_32_H_
 

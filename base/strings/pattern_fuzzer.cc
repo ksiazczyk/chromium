@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzzer for MatchPattern
+// summary: Fuzzes base::MatchPattern with random string and pattern inputs, exercising both the narrow and UTF-16 overloads.
+// ---
+
 #include "base/strings/pattern.h"
 
 #include <fuzzer/FuzzedDataProvider.h>

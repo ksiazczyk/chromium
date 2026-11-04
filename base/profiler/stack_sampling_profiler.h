@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stack sampling profiler API
+// summary: Declares StackSamplingProfiler and its SamplingParams, with usage documentation for periodically sampling thread stacks to identify hot or janky code paths.
+// ---
+
 #ifndef BASE_PROFILER_STACK_SAMPLING_PROFILER_H_
 #define BASE_PROFILER_STACK_SAMPLING_PROFILER_H_
 

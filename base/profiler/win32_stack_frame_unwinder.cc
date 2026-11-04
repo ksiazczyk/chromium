@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Win32 stack frame unwinder implementation for Windows stack sampling
+// summary: Implements Win32 stack frame unwinding for 64-bit Windows using RtlLookupFunctionEntry and RtlVirtualUnwind, including leaf function handling on x64 and ARM64.
+// ---
+
 #include "base/profiler/win32_stack_frame_unwinder.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome unwinder implementation for 32-bit Android
+// summary: Implements stack unwinding of Chrome frames on 32-bit ARM Android by executing compact unwind instructions from the unwind info tables.
+// ---
+
 #include "base/profiler/chrome_unwinder_android_32.h"
 
 #include <algorithm>

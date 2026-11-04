@@ -1,0 +1,4 @@
+# Docerion header of sys_info_mac.mm.
+type: source
+title: Mac implementation of SysInfo
+summary: Implements SysInfo for macOS, reporting OS name and version, CPU architecture and model, hardware model, and available physical memory via sysctl and Foundation APIs.

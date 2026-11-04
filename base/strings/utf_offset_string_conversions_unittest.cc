@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for UTF offset conversions
+// summary: Tests offset adjustment for UTF-8 to UTF-16 and UTF-16 to UTF-8 conversions, offset limits, and OffsetAdjuster adjustment merging.
+// ---
+
 #include "base/strings/utf_offset_string_conversions.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtomicFlag implementation
+// summary: Implements base::AtomicFlag, storing the flag atomically and enforcing that Set() is always called from the same sequence.
+// ---
+
 #include "base/synchronization/atomic_flag.h"
 
 #include "base/check_op.h"

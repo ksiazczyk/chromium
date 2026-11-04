@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TaggedMetricLock unit tests
+// summary: Unit tests for TaggedMetricLock verifying tagged acquisition, contention sample recording, and custom tag overrides under the metrics feature.
+// ---
+
 #include "base/synchronization/tagged_metric_lock.h"
 
 #include "base/features.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Module cache implementation
+// summary: Implements ModuleCache address-based module lookup, non-native module updates, and transformation of module IDs to symbol server format.
+// ---
+
 #include "base/profiler/module_cache.h"
 
 #include <algorithm>

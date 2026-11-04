@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FreeBSD SysInfo implementation
+// summary: Implements SysInfo for FreeBSD using sysctl to report total physical memory from page counts and the maximum shared memory size.
+// ---
+
 #include "base/system/sys_info.h"
 
 #include <stddef.h>

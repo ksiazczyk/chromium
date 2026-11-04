@@ -6,6 +6,12 @@
 // is functionally a wrapper around the LockImpl class, so the only
 // real intelligence in the class is in the debugging logic.
 
+// ---docerion
+// type: source
+// title: Lock implementation with debug assertions
+// summary: Implements the base::Lock wrapper with debug-mode thread tracking, held-lock assertions, metric tags, and platform-specific spin count configuration.
+// ---
+
 #include "base/synchronization/lock.h"
 
 #include <cstdint>

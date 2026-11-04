@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signal-based stack copier
+// summary: Implements stack copying by suspending the target thread via a signal handler, using an async-safe futex waitable event and capturing the register context while suspended.
+// ---
+
 #include "base/profiler/stack_copier_signal.h"
 
 #include <errno.h>

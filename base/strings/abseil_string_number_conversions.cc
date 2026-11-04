@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Abseil 128-bit string number conversions implementation
+// summary: Implements base::StringToUint128 and HexStringToUInt128, parsing decimal and hex strings into Abseil 128-bit unsigned integers.
+// ---
+
 #include "base/strings/abseil_string_number_conversions.h"
 
 #include <string_view>

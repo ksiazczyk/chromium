@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows implementation of SysInfo
+// summary: Implements SysInfo for Windows, using Win32 APIs to report processor counts and efficiency classes, memory amounts, OS version, and CPU model name.
+// ---
+
 #include "base/system/sys_info.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal string trimming helper
+// summary: Provides an internal TrimStringPieceT template that trims leading and trailing characters from a string view using whitespace constants.
+// ---
+
 #ifndef BASE_STRINGS_TRIM_STRING_INTERNAL_H_
 #define BASE_STRINGS_TRIM_STRING_INTERNAL_H_
 

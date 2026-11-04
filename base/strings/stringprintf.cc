@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StringPrintf implementation
+// summary: Implements base::StringPrintV and base::StringAppendV, formatting printf-style input into a std::string with a stack buffer that grows as needed.
+// ---
+
 #include "base/strings/stringprintf.h"
 
 #include <errno.h>

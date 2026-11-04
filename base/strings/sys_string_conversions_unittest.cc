@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System string conversions unit tests
+// summary: Unit tests for system string conversions across wide, UTF-8 and native multi-byte representations, including embedded NULLs and locale setup on Linux.
+// ---
+
 #include "base/strings/sys_string_conversions.h"
 
 #include <stddef.h>

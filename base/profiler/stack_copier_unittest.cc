@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StackCopier unit tests
+// summary: Unit tests for the StackCopier base class covering pointer rewriting within the original stack and copying stack contents into a buffer.
+// ---
+
 #include "base/profiler/stack_copier.h"
 
 #include <array>

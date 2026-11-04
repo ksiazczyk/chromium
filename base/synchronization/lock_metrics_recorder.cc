@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LockMetricsRecorder implementation
+// summary: Implements a thread-local recorder that samples contended lock acquisition times into ring buffers and reports them to UMA histograms when threads go idle.
+// ---
+
 #include "base/synchronization/lock_metrics_recorder.h"
 
 #include <algorithm>

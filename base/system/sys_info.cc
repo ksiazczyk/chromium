@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SysInfo cross-platform implementation
+// summary: Implements the platform-independent parts of base::SysInfo, including processor counts, physical memory queries, and low-end device mode overrides shared across operating systems.
+// ---
+
 #include "base/system/sys_info.h"
 
 #include <algorithm>

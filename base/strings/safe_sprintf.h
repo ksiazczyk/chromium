@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafeSPrintf API for async-signal-safe formatting
+// summary: Declares SafeSPrintf and SafeSNPrintf, a self-contained snprintf subset usable from restricted execution contexts, with documented format support.
+// ---
+
 #ifndef BASE_STRINGS_SAFE_SPRINTF_H_
 #define BASE_STRINGS_SAFE_SPRINTF_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lock performance tests
+// summary: Performance tests measuring base::Lock acquire and release throughput, both alone and with a competing thread, reported via PerfResultReporter.
+// ---
+
 #include "base/synchronization/lock.h"
 
 #include "base/compiler_specific.h"

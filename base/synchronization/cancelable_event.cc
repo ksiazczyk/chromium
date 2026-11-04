@@ -1,6 +1,13 @@
 // Copyright 2024 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: CancelableEvent shared implementation
+// summary: Implements platform-independent Signal, Cancel and TimedWait for CancelableEvent, adding tracing and scoped blocking calls around the platform primitives.
+// ---
+
 #include "base/synchronization/cancelable_event.h"
 
 #include "base/notreached.h"

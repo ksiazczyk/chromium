@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for MatchPattern
+// summary: Unit tests covering wildcard matching, escapes, empty strings, UTF-8 and UTF-16 inputs, invalid sequences, and pathological patterns.
+// ---
+
 #include "base/strings/pattern.h"
 
 #include "base/strings/utf_string_conversions.h"

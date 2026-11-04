@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LazyStringBuilder unit tests
+// summary: Unit tests covering append, build and reuse behavior of LazyStringBuilder.
+// ---
+
 #include "base/strings/lazy_string_builder.h"
 
 #include <string>

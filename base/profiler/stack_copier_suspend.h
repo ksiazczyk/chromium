@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StackCopierSuspend class declaration
+// summary: Declares StackCopierSuspend, a StackCopier implementation that copies the stack of a thread explicitly suspended from the profiler thread.
+// ---
+
 #ifndef BASE_PROFILER_STACK_COPIER_SUSPEND_H_
 #define BASE_PROFILER_STACK_COPIER_SUSPEND_H_
 

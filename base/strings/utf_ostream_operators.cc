@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UTF ostream operators implementation
+// summary: Defines std::ostream operator<< overloads that convert wide and UTF-16 strings to UTF-8 for stream output such as logging.
+// ---
+
 #include "base/strings/utf_ostream_operators.h"
 
 #include "base/strings/utf_string_conversions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metadata recorder declaration
+// summary: Declares MetadataRecorder, a thread-safe store of key/value metadata associated with sampling profiler samples, documenting its concurrency and locking constraints.
+// ---
+
 #ifndef BASE_PROFILER_METADATA_RECORDER_H_
 #define BASE_PROFILER_METADATA_RECORDER_H_
 

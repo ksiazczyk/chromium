@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MatcherStringPattern implementation
+// summary: Implements the MatcherStringPattern class that pairs a pattern string with a unique ID and provides move semantics and ordering.
+// ---
+
 #include "base/substring_set_matcher/matcher_string_pattern.h"
 
 #include <tuple>

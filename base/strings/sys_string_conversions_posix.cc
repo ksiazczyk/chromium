@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX system string conversions implementation
+// summary: Implements POSIX system string conversions using ICU-backed UTF-8 helpers and wcrtomb/mbrtowc for native multi-byte conversions.
+// ---
+
 #include "base/strings/sys_string_conversions.h"
 
 #include <stddef.h>

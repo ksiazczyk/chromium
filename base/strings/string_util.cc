@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: String utility implementations
+// summary: Implements base string utility functions such as ASCII case conversion, character replacement and removal, trimming, and portable wprintf format checks.
+// ---
+
 #include "base/strings/string_util.h"
 
 #include <errno.h>

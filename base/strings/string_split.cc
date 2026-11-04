@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: String splitting implementation
+// summary: Implements SplitStringOnce, RSplitStringOnce, and key-value pair splitting helpers over string views for the base string split API.
+// ---
+
 #include "base/strings/string_split.h"
 
 #include <stddef.h>

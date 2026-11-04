@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal generic JoinString template
+// summary: Internal header providing a generic template that joins a sequence of strings or string views with a separator.
+// ---
+
 #ifndef BASE_STRINGS_JOIN_STRING_INTERNAL_H_
 #define BASE_STRINGS_JOIN_STRING_INTERNAL_H_
 

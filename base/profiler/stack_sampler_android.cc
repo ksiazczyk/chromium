@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android StackSampler platform implementation
+// summary: Android-specific StackSampler::Create and stack buffer sizing that use signal-based stack copying and pthread stack size attributes with a 1MB default limit.
+// ---
+
 #include "base/profiler/stack_sampler.h"
 
 #include <pthread.h>

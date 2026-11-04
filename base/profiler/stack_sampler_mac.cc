@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac stack sampler implementation
+// summary: Implements StackSampler::Create and stack buffer sizing for macOS, using thread suspension to copy the target thread's stack.
+// ---
+
 #include "base/profiler/stack_sampler.h"
 
 #include <memory>

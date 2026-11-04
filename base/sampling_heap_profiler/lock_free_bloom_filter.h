@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LockFreeBloomFilter class declaration
+// summary: Declares a fixed-size thread-safe Bloom filter that accelerates lookups of absent pointers in the lock-free address hash set.
+// ---
+
 #ifndef BASE_SAMPLING_HEAP_PROFILER_LOCK_FREE_BLOOM_FILTER_H_
 #define BASE_SAMPLING_HEAP_PROFILER_LOCK_FREE_BLOOM_FILTER_H_
 

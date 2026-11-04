@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SystemMonitor class declaration
+// summary: Declares the SystemMonitor singleton and its DevicesChangedObserver interface for monitoring system device changes such as audio and video capture devices.
+// ---
+
 #ifndef BASE_SYSTEM_SYSTEM_MONITOR_H_
 #define BASE_SYSTEM_SYSTEM_MONITOR_H_
 

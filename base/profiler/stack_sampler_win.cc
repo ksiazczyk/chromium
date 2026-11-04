@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows stack sampler implementation
+// summary: Implements StackSampler::Create for Windows x64 and ARM64 via thread suspension and sets a 2 MiB stack buffer size.
+// ---
+
 #include "base/profiler/stack_sampler.h"
 
 #include "base/memory/ptr_util.h"

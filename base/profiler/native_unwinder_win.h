@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows native unwinder header
+// summary: Declares the Windows native unwinder class that unwinds native frames using RtlVirtualUnwind-based frame unwinding.
+// ---
+
 #ifndef BASE_PROFILER_NATIVE_UNWINDER_WIN_H_
 #define BASE_PROFILER_NATIVE_UNWINDER_WIN_H_
 

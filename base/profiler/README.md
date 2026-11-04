@@ -1,3 +1,13 @@
+---
+type: readme
+title: Statistical profiler overview
+summary: Explains that base/profiler implements a statistical sampling profiler for Chrome and outlines its main components such as StackCopier, unwinders, and ModuleCache.
+relations:
+  - documents /base/profiler/frame.h
+  - documents /base/profiler/module_cache.h
+  - documents /base/profiler/profile_builder.h
+---
+
 # What is this?
 
 //base/profiler implements a

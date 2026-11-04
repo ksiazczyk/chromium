@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metadata recorder implementation
+// summary: Implements MetadataRecorder, storing profiler metadata key/value pairs with atomic slot management, slot reclamation, and provider-based reads for the sampling profiler.
+// ---
+
 #include "base/profiler/metadata_recorder.h"
 
 #include <optional>

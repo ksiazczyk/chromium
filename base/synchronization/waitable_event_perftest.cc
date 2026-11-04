@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WaitableEvent performance test
+// summary: Performance test measuring WaitableEvent wait and signal latencies and timed throughput across single-thread and multi-thread stories with PerfResultReporter.
+// ---
+
 #include "base/synchronization/waitable_event.h"
 
 #include <string>

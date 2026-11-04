@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS core unwinders factory
+// summary: Creates the macOS stack sampling unwinder list built around a frame pointer unwinder.
+// ---
+
 #include "base/profiler/core_unwinders.h"
 
 #include <memory>

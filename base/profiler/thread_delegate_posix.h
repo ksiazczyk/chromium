@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadDelegatePosix class header for POSIX stack sampling
+// summary: Declares ThreadDelegatePosix, the platform- and thread-specific delegate supporting stack sampling on POSIX systems.
+// ---
+
 #ifndef BASE_PROFILER_THREAD_DELEGATE_POSIX_H_
 #define BASE_PROFILER_THREAD_DELEGATE_POSIX_H_
 

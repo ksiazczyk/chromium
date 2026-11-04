@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows module cache implementation
+// summary: Windows implementation of ModuleCache that reads module build IDs, sizes and PDB debug basenames for stack profiling.
+// ---
+
 #include "base/profiler/module_cache.h"
 
 #include <objbase.h>

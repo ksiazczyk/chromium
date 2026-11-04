@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lock-free address hash set implementation
+// summary: Implements the lock-free address hash set, including Bloom filter tuning analysis, for use by the sampling heap profiler.
+// ---
+
 #include "base/sampling_heap_profiler/lock_free_address_hash_set.h"
 
 #include <algorithm>

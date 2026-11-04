@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: String splitting API
+// summary: Declares base string splitting functions such as SplitString and SplitStringPiece with whitespace handling and result filtering options.
+// ---
+
 #ifndef BASE_STRINGS_STRING_SPLIT_H_
 #define BASE_STRINGS_STRING_SPLIT_H_
 

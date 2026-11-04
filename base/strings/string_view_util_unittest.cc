@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: String view utility unit tests
+// summary: Unit tests verifying MakeStringViewWithNulChars preserves internal NUL characters and as_string_view converts spans correctly.
+// ---
+
 #include "base/strings/string_view_util.h"
 
 #include <string_view>

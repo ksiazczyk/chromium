@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Java test support for the stack sampling profiler
+// summary: Native test support that invokes a Java callback function and records its program counter address range for testing Java unwinding on Android.
+// ---
+
 #include "base/profiler/stack_sampling_profiler_java_test_util.h"
 
 #include "base/location.h"

@@ -6,6 +6,12 @@
 // symbols (or their output) and manipulating preprocessor symbols
 // that define strings.
 
+// ---docerion
+// type: source
+// title: Stringize preprocessor macros
+// summary: Header defining STRINGIZE macros that quote preprocessor symbols after expansion.
+// ---
+
 #ifndef BASE_STRINGS_STRINGIZE_MACROS_H_
 #define BASE_STRINGS_STRINGIZE_MACROS_H_
 

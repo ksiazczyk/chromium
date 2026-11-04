@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: String escaping declarations
+// summary: Declares base escaping functions for query values, paths, URL-encoded data, HTML, and non-ASCII text, plus unescaping rule flags.
+// ---
+
 #ifndef BASE_STRINGS_ESCAPE_H_
 #define BASE_STRINGS_ESCAPE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Libunwindstack Android unwinder unit tests
+// summary: Tests that LibunwindstackUnwinderAndroid fully unwinds sampled stacks on Android, covering plain functions and dynamically allocated stack memory.
+// ---
+
 #include "base/profiler/libunwindstack_unwinder_android.h"
 
 #include <inttypes.h>

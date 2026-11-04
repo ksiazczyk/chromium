@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for UTF string conversions
+// summary: Round-trips and validates conversions between UTF-8, UTF-16, and wide strings, covering malformed input and the fast-ASCII feature flag.
+// ---
+
 #include "base/strings/utf_string_conversions.h"
 
 #include <stddef.h>

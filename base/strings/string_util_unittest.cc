@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: String utility unit tests
+// summary: Unit tests for base string utilities covering trimming, whitespace collapsing, case-insensitive comparison, and UTF-8 validity checks.
+// ---
+
 #include "base/strings/string_util.h"
 
 #include <math.h>

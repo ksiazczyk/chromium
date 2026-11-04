@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal string split templates
+// summary: Provides internal SplitStringT and SplitStringUsingSubstrT templates shared by the string and string_view splitting APIs.
+// ---
+
 #ifndef BASE_STRINGS_STRING_SPLIT_INTERNAL_H_
 #define BASE_STRINGS_STRING_SPLIT_INTERNAL_H_
 

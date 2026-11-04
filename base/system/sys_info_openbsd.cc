@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OpenBSD implementation of SysInfo
+// summary: Implements SysInfo for OpenBSD, reporting processor count, total and available physical memory, shared memory limits, and CPU model via sysctl.
+// ---
+
 #include "base/system/sys_info.h"
 
 #include <stddef.h>

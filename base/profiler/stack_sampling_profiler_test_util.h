@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Stack sampling profiler test utility declarations
+// summary: Declares test helpers for the stack sampling profiler, including the TargetThread, UnwindScenario, FunctionAddressRange, and TestModule classes.
+// ---
+
 #ifndef BASE_PROFILER_STACK_SAMPLING_PROFILER_TEST_UTIL_H_
 #define BASE_PROFILER_STACK_SAMPLING_PROFILER_TEST_UTIL_H_
 

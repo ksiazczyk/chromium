@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SysInfo public API header
+// summary: Declares the base::SysInfo class with static queries for processor counts, physical and virtual memory, OS name, version, and architecture used across Chromium.
+// ---
+
 #ifndef BASE_SYSTEM_SYS_INFO_H_
 #define BASE_SYSTEM_SYS_INFO_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Levenshtein distance unit tests
+// summary: Unit tests for LevenshteinDistance with and without a maximum distance bound.
+// ---
+
 #include "base/strings/levenshtein_distance.h"
 
 #include <string>

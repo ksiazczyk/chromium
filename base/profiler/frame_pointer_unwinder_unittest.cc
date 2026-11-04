@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Frame pointer unwinder unit tests
+// summary: Unit tests covering frame pointer unwinding, including can-unwind delegates, non-native modules, and invalid or out-of-bounds frame pointers.
+// ---
+
 #include "base/profiler/frame_pointer_unwinder.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PoissonAllocationSampler class declaration
+// summary: Declares the singleton sampler that hooks allocators, samples allocations with Poisson intervals and notifies registered observers.
+// ---
+
 #ifndef BASE_SAMPLING_HEAP_PROFILER_POISSON_ALLOCATION_SAMPLER_H_
 #define BASE_SAMPLING_HEAP_PROFILER_POISSON_ALLOCATION_SAMPLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS StackSampler platform implementation
+// summary: iOS-specific StackSampler::Create and stack buffer sizing that use suspend-based copying when the iOS stack profiler is enabled and return null otherwise.
+// ---
+
 #include "base/profiler/stack_sampler.h"
 
 #include "base/memory/ptr_util.h"

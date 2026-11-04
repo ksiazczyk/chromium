@@ -1,0 +1,4 @@
+# Docerion header of sys_string_conversions_apple_unittest.mm.
+type: test
+title: Apple system string conversions unit tests
+summary: Unit tests for Apple string conversions checking nil NSString handling and UTF-8/UTF-16 round trips including embedded NULs and non-BMP characters.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows suspendable thread delegate implementation
+// summary: Implements thread suspension, priority boost handling and stack copy checks on Windows for the stack sampling profiler.
+// ---
+
 #include "base/profiler/suspendable_thread_delegate_win.h"
 
 #include <windows.h>

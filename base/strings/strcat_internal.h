@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal StrCat template helpers
+// summary: Internal templates that resize the destination once and copy each string, powering the StrCat and StrAppend implementations.
+// ---
+
 #ifndef BASE_STRINGS_STRCAT_INTERNAL_H_
 #define BASE_STRINGS_STRCAT_INTERNAL_H_
 

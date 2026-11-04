@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CancelableEvent Windows implementation
+// summary: Implements CancelableEvent on Windows with a semaphore handle, supporting signal, cancel and timed waits that retry after spurious wakeups.
+// ---
+
 #include "base/synchronization/cancelable_event.h"
 
 #include <windows.h>

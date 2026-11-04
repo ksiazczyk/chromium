@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Abseil 128-bit string number conversions header
+// summary: Declares base::StringToUint128 and HexStringToUInt128, best-effort conversions from decimal and hex strings to Abseil 128-bit unsigned integers.
+// ---
+
 #ifndef BASE_STRINGS_ABSEIL_STRING_NUMBER_CONVERSIONS_H_
 #define BASE_STRINGS_ABSEIL_STRING_NUMBER_CONVERSIONS_H_
 

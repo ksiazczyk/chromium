@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sample metadata implementation
+// summary: Implements SampleMetadata and ScopedSampleMetadata APIs that set, remove, and retrospectively apply metadata attached to stack sampling profiler samples.
+// ---
+
 #include "base/profiler/sample_metadata.h"
 
 #include <optional>

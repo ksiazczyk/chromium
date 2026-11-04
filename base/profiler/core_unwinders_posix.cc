@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX core unwinders factory
+// summary: Creates the POSIX stack sampling unwinder list, enabling frame pointer unwinding only on ChromeOS x86_64 and ARM64.
+// ---
+
 #include "base/profiler/core_unwinders.h"
 
 #include <memory>

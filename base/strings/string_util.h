@@ -4,6 +4,12 @@
 //
 // This file defines utility functions for working with strings.
 
+// ---docerion
+// type: source
+// title: String utility function declarations
+// summary: Declares base string utility functions including safe copy helpers like strlcpy, printf wrappers, and cross-platform string helpers.
+// ---
+
 #ifndef BASE_STRINGS_STRING_UTIL_H_
 #define BASE_STRINGS_STRING_UTIL_H_
 

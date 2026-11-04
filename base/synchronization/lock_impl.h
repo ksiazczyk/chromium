@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LockImpl platform lock header
+// summary: Declares the internal LockImpl class providing the platform-specific lock mechanism (SRW lock or pthread mutex) used by base::Lock and ConditionVariable.
+// ---
+
 #ifndef BASE_SYNCHRONIZATION_LOCK_IMPL_H_
 #define BASE_SYNCHRONIZATION_LOCK_IMPL_H_
 

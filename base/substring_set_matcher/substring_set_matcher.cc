@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SubstringSetMatcher implementation
+// summary: Implements the Aho-Corasick based SubstringSetMatcher that builds a trie of patterns and matches text against them, with SSE2 optimizations.
+// ---
+
 #include "base/substring_set_matcher/substring_set_matcher.h"
 
 #include <stddef.h>

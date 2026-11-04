@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame pointer unwinder header
+// summary: Declares FramePointerUnwinder, a native unwinder for platforms with frame pointers such as iOS, macOS, ChromeOS, and Android ARM64.
+// ---
+
 #ifndef BASE_PROFILER_FRAME_POINTER_UNWINDER_H_
 #define BASE_PROFILER_FRAME_POINTER_UNWINDER_H_
 

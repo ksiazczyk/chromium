@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux SysInfo implementation
+// summary: Implements SysInfo for Linux using sysconf, /proc, and /sys to report physical and available memory and CPU model names, including ARM SoC ID fallbacks.
+// ---
+
 #include "base/system/sys_info.h"
 
 #include <stddef.h>

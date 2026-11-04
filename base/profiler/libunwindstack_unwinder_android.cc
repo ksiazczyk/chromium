@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android libunwindstack unwinder
+// summary: Implements an Android stack unwinder backed by libunwindstack, handling ARM and ARM64 registers, non-ELF modules, Java APK frames, and trace events.
+// ---
+
 #include "base/profiler/libunwindstack_unwinder_android.h"
 
 #include <sys/mman.h>

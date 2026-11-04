@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lock unit tests
+// summary: Unit tests for base::Lock covering Acquire, Release, and Try behavior across threads, along with lock tracking and metrics-related checks.
+// ---
+
 #include "base/synchronization/lock.h"
 
 #include <stdint.h>

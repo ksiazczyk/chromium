@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OffsetAdjuster API for UTF offset conversions
+// summary: Declares the OffsetAdjuster class and conversion functions that adjust string offsets across UTF-8, UTF-16, and wide encodings.
+// ---
+
 #ifndef BASE_STRINGS_UTF_OFFSET_STRING_CONVERSIONS_H_
 #define BASE_STRINGS_UTF_OFFSET_STRING_CONVERSIONS_H_
 

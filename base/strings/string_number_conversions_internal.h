@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal number conversion helpers
+// summary: Internal templates for integer and double formatting and for parsing strings to numbers in bases up to 36.
+// ---
+
 #ifndef BASE_STRINGS_STRING_NUMBER_CONVERSIONS_INTERNAL_H_
 #define BASE_STRINGS_STRING_NUMBER_CONVERSIONS_INTERNAL_H_
 

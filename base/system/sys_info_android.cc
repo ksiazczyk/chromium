@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android SysInfo implementation
+// summary: Implements SysInfo for Android by reading system properties for OS version numbers and other device information, with fallbacks for unparseable or long property values.
+// ---
+
 #include "base/system/sys_info.h"
 
 #include <stddef.h>

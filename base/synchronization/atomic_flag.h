@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtomicFlag class declaration
+// summary: Declares a flag that can safely be set from one thread and read from others, with acquire/release memory ordering guarantees.
+// ---
+
 #ifndef BASE_SYNCHRONIZATION_ATOMIC_FLAG_H_
 #define BASE_SYNCHRONIZATION_ATOMIC_FLAG_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sampling profiler thread token
+// summary: Declares the SamplingProfilerThreadToken struct holding the platform-specific thread identifiers the sampling profiler needs, plus a helper to obtain the token for the current thread.
+// ---
+
 #ifndef BASE_PROFILER_SAMPLING_PROFILER_THREAD_TOKEN_H_
 #define BASE_PROFILER_SAMPLING_PROFILER_THREAD_TOKEN_H_
 

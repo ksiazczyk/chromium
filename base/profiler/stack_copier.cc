@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stack copier implementation
+// summary: Implements StackCopier helpers that clone a captured stack into a new buffer and rewrite pointers referring to the original stack so they point into the copy.
+// ---
+
 #include "base/profiler/stack_copier.h"
 
 #include <vector>

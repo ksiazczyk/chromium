@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WaitableEventWatcher unit tests
+// summary: Unit tests verifying WaitableEventWatcher signal, cancel, and deletion behavior across different main thread types.
+// ---
+
 #include "base/synchronization/waitable_event_watcher.h"
 
 #include "base/functional/bind.h"

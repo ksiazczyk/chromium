@@ -1,0 +1,4 @@
+# Docerion header of span_printf_nocompile.nc.
+type: test
+title: No-compile test for SpanPrintf
+summary: No-compile test asserting that SpanPrintf rejects format and argument type mismatches at compile time.

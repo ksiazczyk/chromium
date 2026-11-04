@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WaitableEventWatcher class header
+// summary: Declares base::WaitableEventWatcher, which asynchronously watches a WaitableEvent and invokes a callback on the watching sequence when the event is signaled.
+// ---
+
 #ifndef BASE_SYNCHRONIZATION_WAITABLE_EVENT_WATCHER_H_
 #define BASE_SYNCHRONIZATION_WAITABLE_EVENT_WATCHER_H_
 

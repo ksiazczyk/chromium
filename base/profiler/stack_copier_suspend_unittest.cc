@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StackCopierSuspend unit tests
+// summary: Unit tests for StackCopierSuspend that use a fake suspendable thread delegate to verify stack copying, register handling, and pointer rewriting.
+// ---
+
 #include "base/profiler/stack_copier_suspend.h"
 
 #include <algorithm>

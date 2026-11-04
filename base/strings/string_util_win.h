@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows string utility helpers
+// summary: Header with Windows-specific string helpers, including strdup and printf wrappers plus conversions between wchar_t and char16_t string views.
+// ---
+
 #ifndef BASE_STRINGS_STRING_UTIL_WIN_H_
 #define BASE_STRINGS_STRING_UTIL_WIN_H_
 

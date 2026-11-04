@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: String utility performance tests
+// summary: Performance measurement tests for string utilities like IsStringASCII and UTF conversions, comparing fast-path and legacy conversion modes.
+// ---
+
 #include "base/strings/string_util.h"
 
 #include <cinttypes>

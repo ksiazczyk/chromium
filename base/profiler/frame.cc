@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Frame class implementation
+// summary: Implements the Frame constructors and destructor for a sampled stack frame holding an instruction pointer and module information.
+// ---
+
 #include "base/profiler/frame.h"
 
 namespace base {

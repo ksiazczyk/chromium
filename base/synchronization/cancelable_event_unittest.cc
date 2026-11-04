@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CancelableEvent unit tests
+// summary: Tests TimedWait success and failure, Cancel behavior with and without waiters, and cancel outcomes under thread contention.
+// ---
+
 #include "base/synchronization/cancelable_event.h"
 
 #include <stdint.h>

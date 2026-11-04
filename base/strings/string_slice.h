@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StringSlice for relocation-free constant string tables
+// summary: Defines a StringSlice template storing offset and length into a char array to avoid relocations, resolving to std::string_view at runtime.
+// ---
+
 #ifndef BASE_STRINGS_STRING_SLICE_H_
 #define BASE_STRINGS_STRING_SLICE_H_
 

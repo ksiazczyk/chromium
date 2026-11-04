@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: cstring_view unit tests
+// summary: Unit tests covering construction, comparison, and size guarantees of cstring_view and its wide and UTF-16/32 aliases.
+// ---
+
 #include "base/strings/cstring_view.h"
 
 #include <algorithm>

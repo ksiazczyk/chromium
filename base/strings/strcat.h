@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StrCat and StrAppend API header
+// summary: Declares base::StrCat and base::StrAppend overloads that concatenate or append string sequences with a single right-sized allocation.
+// ---
+
 #ifndef BASE_STRINGS_STRCAT_H_
 #define BASE_STRINGS_STRCAT_H_
 

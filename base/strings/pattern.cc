@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of wildcard pattern matching
+// summary: Implements base::MatchPattern, matching strings against patterns with * and ? wildcards, backslash escapes, and UTF-8/UTF-16 character handling.
+// ---
+
 #include "base/strings/pattern.h"
 
 #include <string_view>

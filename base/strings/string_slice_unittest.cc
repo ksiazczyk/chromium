@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StringSlice unit tests
+// summary: Verifies that StringSlice selects the minimal index type such as uint8_t, uint16_t, or uint32_t for various data sizes.
+// ---
+
 #include "base/strings/string_slice.h"
 
 #include <stdint.h>

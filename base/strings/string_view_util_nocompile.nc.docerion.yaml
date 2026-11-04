@@ -1,0 +1,4 @@
+# Docerion header of string_view_util_nocompile.nc.
+type: test
+title: String view utility no-compile tests
+summary: No-compile test verifying that as_string_view rejects spans of non-byte element types at compile time.
