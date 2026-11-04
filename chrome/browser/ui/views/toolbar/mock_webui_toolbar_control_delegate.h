@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock WebUI toolbar control delegate header
+// summary: Declares a gmock mock of WebUIToolbarControlDelegate for testing toolbar state change callbacks without a real toolbar.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TOOLBAR_MOCK_WEBUI_TOOLBAR_CONTROL_DELEGATE_H_
 #define CHROME_BROWSER_UI_VIEWS_TOOLBAR_MOCK_WEBUI_TOOLBAR_CONTROL_DELEGATE_H_
 

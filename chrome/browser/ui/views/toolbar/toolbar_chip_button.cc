@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolbarChipButton implementation
+// summary: Implements chip-style toolbar buttons, painting backgrounds and borders with rounded corners that flatten on the configured edge.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/toolbar_chip_button.h"
 
 #include "chrome/browser/ui/layout_constants.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: iOS promo bubble view unit test
+// summary: Unit tests for IOSPromoBubbleView using a mocked iOS promo trigger service and fake synced device info to verify promo behavior and metrics.
+// ---
+
 #include "chrome/browser/ui/views/user_education/ios_promo_bubble_view.h"
 
 #include <memory>

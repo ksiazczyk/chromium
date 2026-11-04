@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar button
+// summary: Implements the base ToolbarButton view for toolbar buttons, including highlight path generation, corner radii, menu handling, and theme-aware painting.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/toolbar_button.h"
 
 #include <algorithm>

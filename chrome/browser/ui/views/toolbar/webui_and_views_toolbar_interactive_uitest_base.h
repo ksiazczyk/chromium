@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared WebUI and views toolbar test base header
+// summary: Declares a test base class with helpers for instrumenting the toolbar, locating reload controls and handling WebUI hover states in tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TOOLBAR_WEBUI_AND_VIEWS_TOOLBAR_INTERACTIVE_UITEST_BASE_H_
 #define CHROME_BROWSER_UI_VIEWS_TOOLBAR_WEBUI_AND_VIEWS_TOOLBAR_INTERACTIVE_UITEST_BASE_H_
 

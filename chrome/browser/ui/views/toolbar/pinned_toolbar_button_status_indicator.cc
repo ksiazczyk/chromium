@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PinnedToolbarButtonStatusIndicator implementation
+// summary: Implements a painted rounded status indicator view for pinned toolbar buttons, supporting active and inactive colors and theme changes.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/pinned_toolbar_button_status_indicator.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI performance intervention control implementation
+// summary: Implements the C++-side control for the WebUI performance intervention toolbar button, managing its show and hide state and the performance intervention bubble.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/webui_performance_intervention_control.h"
 
 #include <memory>

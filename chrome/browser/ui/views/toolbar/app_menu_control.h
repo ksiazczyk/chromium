@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App menu control interface
+// summary: Declares the AppMenuControl interface for app menu behavior shared by Views button and WebUI implementations.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TOOLBAR_APP_MENU_CONTROL_H_
 #define CHROME_BROWSER_UI_VIEWS_TOOLBAR_APP_MENU_CONTROL_H_
 

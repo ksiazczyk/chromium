@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Translate language search view implementation
+// summary: Implements a searchable language list for the translate bubble with a search text field, scrolling results, and keyboard navigation between language buttons.
+// ---
+
 #include "chrome/browser/ui/views/translate/translate_language_search_view.h"
 
 #include <algorithm>

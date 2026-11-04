@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overflow menu class declaration
+// summary: Declares the OverflowMenu class that manages the toolbar overflow menu, its element info structures, and monitoring of pinned action changes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TOOLBAR_OVERFLOW_MENU_H_
 #define CHROME_BROWSER_UI_VIEWS_TOOLBAR_OVERFLOW_MENU_H_
 

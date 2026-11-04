@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Toolbar accessibility test base
+// summary: Implements shared helpers for toolbar accessibility tests, including WebUI setup, accessibility mode configuration, and AX node lookup.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/toolbar_accessibility_test.h"
 
 #include "base/test/run_until.h"

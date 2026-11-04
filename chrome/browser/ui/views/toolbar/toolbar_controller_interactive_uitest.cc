@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ToolbarController interactive UI tests
+// summary: Interactive browser tests for toolbar overflow, pinned actions, and WebUI toolbar behavior, including feature promo and side panel interactions.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/toolbar_controller.h"
 
 #include <optional>

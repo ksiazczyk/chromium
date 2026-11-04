@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ToolbarButtonMenuHighlighter implementation
+// summary: Implements menu highlighting for toolbar buttons by coordinating with the user education feature promo controller to close IPH bubbles and highlight menu items.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/toolbar_button_menu_highlighter.h"
 
 #include "base/types/pass_key.h"

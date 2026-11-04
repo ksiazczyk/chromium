@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tooltip accessibility events dump browser test
+// summary: Browser test that verifies tooltip accessibility events through the dump-based accessibility events framework, including Windows UIA and IA2 event recorder setup and filtering.
+// ---
+
 #include "base/test/run_until.h"
 #include "chrome/browser/ui/views/accessibility/dump_accessibility_events_views_browsertest_base.h"
 #include "content/public/test/browser_test.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI home control interactive UI tests
+// summary: Interactive UI test verifying that a long press on the WebUI home button triggers and runs its context menu.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/webui_home_control.h"
 
 #include "base/test/run_until.h"

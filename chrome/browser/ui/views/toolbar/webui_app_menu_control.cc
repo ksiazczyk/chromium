@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI app menu control implementation
+// summary: Implements the WebUI toolbar app menu control, mapping app menu icon state to Mojo, providing labels and anchoring the app menu bubble.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/webui_app_menu_control.h"
 
 #include "chrome/browser/ui/actions/command_action_updater.h"

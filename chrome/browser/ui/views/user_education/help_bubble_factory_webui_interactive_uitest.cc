@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Help bubble factory WebUI interactive UI test
+// summary: Interactive tests that show help bubbles anchored to WebUI content such as the reading list side panel and verify bubble behavior there.
+// ---
+
 #include <memory>
 #include <utility>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI toolbar web view browser tests
+// summary: Browser tests for the WebUI toolbar web view, exercising toolbar state, pinned actions, extensions, themes, and related toolbar behaviors.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/webui_toolbar_web_view.h"
 
 #include <algorithm>

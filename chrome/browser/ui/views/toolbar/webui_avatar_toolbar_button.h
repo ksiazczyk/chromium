@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI avatar toolbar button header
+// summary: Declares WebUIAvatarToolbarButton, the C++ counterpart of the WebUI avatar toolbar button handling icon updates, accessibility, observers, and IPH promos.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TOOLBAR_WEBUI_AVATAR_TOOLBAR_BUTTON_H_
 #define CHROME_BROWSER_UI_VIEWS_TOOLBAR_WEBUI_AVATAR_TOOLBAR_BUTTON_H_
 

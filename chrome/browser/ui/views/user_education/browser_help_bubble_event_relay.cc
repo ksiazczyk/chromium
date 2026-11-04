@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window help bubble event relay implementation
+// summary: Implements event relays that route help bubble events from source widgets, with Aura handling and platform-specific relay creation.
+// ---
+
 #include "chrome/browser/ui/views/user_education/browser_help_bubble_event_relay.h"
 
 #include "ui/gfx/native_ui_types.h"

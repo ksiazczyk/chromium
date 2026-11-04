@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI overflow button header
+// summary: Declares the WebUIOverflowButton class that manages C++-side logic for showing the toolbar overflow menu and delegating menu item actions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TOOLBAR_WEBUI_OVERFLOW_BUTTON_H_
 #define CHROME_BROWSER_UI_VIEWS_TOOLBAR_WEBUI_OVERFLOW_BUTTON_H_
 

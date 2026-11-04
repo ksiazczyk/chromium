@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI pinned toolbar actions interactive UI tests
+// summary: Interactive tests verifying translate bubble highlighting and click suppression behavior for pinned and popped-out toolbar actions.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/webui_pinned_toolbar_actions.h"
 
 #include "base/run_loop.h"

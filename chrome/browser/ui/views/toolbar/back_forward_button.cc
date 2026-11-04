@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Back and forward toolbar button implementation
+// summary: Implements the back and forward toolbar buttons, wiring icons, tooltips, accessibility names, and the back/forward menu model.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/back_forward_button.h"
 
 #include "base/metrics/user_metrics.h"

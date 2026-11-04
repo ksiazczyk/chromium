@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI pinned toolbar actions implementation
+// summary: Implements the C++ side of WebUI pinned toolbar actions, including the WebUI download button, action state updates, context menus and bubble anchoring.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/webui_pinned_toolbar_actions.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Toolbar view browser tests
+// summary: In-process browser tests covering toolbar button visibility, accessible properties and bubble anchoring behavior.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/toolbar_view.h"
 
 #include "base/i18n/base_i18n_switches.h"

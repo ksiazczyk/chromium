@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reload button unit tests
+// summary: Unit tests covering reload button state transitions, double-click and mode-switch timers, tooltips, and WaaP UI metrics recording.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/reload_button.h"
 
 #include <memory>

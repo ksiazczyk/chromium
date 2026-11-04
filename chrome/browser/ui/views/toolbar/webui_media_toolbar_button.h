@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI media toolbar button header
+// summary: Declares WebUIMediaToolbarButton, the C++-side controller for the WebUI Global Media Controls toolbar button and its dialog, menu, and promo behavior.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TOOLBAR_WEBUI_MEDIA_TOOLBAR_BUTTON_H_
 #define CHROME_BROWSER_UI_VIEWS_TOOLBAR_WEBUI_MEDIA_TOOLBAR_BUTTON_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PinnedActionToolbarButtonMenuModel class header
+// summary: Declares the menu model that builds context menus for pinned action toolbar buttons from action item children plus default items such as pin and customize.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TOOLBAR_PINNED_ACTION_TOOLBAR_BUTTON_MENU_MODEL_H_
 #define CHROME_BROWSER_UI_VIEWS_TOOLBAR_PINNED_ACTION_TOOLBAR_BUTTON_MENU_MODEL_H_
 

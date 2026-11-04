@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI pinned toolbar actions browser tests
+// summary: Browser tests for WebUI pinned toolbar actions covering pinning, accessibility announcements, context menus and action state rendering.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/webui_pinned_toolbar_actions.h"
 
 #include <algorithm>

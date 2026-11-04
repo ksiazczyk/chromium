@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser feature promo rotating browser test
+// summary: Browser tests for rotating feature promos, verifying show and snooze counts, close reasons and displayed promo text.
+// ---
+
 #include <optional>
 #include <string>
 #include <utility>

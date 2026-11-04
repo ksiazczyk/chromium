@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pinned action toolbar button implementation
+// summary: Implements the toolbar button for pinned actions, including status indicators, highlighting, pinning, flex priority, and custom button factories.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/pinned_action_toolbar_button.h"
 
 #include <string>

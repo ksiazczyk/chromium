@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS promo bubble view header
+// summary: Declares IOSPromoBubbleView, a bubble dialog for desktop-to-iOS promos designed to work with the user education service.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_USER_EDUCATION_IOS_PROMO_BUBBLE_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_USER_EDUCATION_IOS_PROMO_BUBBLE_VIEW_H_
 

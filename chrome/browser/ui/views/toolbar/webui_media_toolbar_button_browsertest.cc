@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI media toolbar button browser tests
+// summary: Browser tests verifying that the WebUI media toolbar button shows, hides, enables and disables in sync with MediaToolbarButtonController state and the WebUI DOM.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/webui_media_toolbar_button.h"
 
 #include "base/strings/stringprintf.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic button test accessor implementation
+// summary: Implements GlicButtonTestAccessor, a test helper to check visibility, labels, and clicks on the Glic toolbar button in Views or WebUI mode.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/test_support/glic_button_test_accessor.h"
 
 #include "base/check.h"

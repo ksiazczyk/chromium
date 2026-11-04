@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Help bubble view timeout browser test
+// summary: Browser tests verifying help bubble auto-dismissal on timeout, timeout callbacks, and that bubbles with buttons or a zero timeout persist.
+// ---
+
 #include <memory>
 
 #include "base/run_loop.h"

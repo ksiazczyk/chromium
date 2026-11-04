@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Views translate bubble test utilities
+// summary: Test helpers to access, close, and drive the views translate bubble, such as pressing translate or selecting a target language.
+// ---
+
 #include "base/check_op.h"
 #include "chrome/browser/ui/browser_window/public/browser_window_features.h"
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

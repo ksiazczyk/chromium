@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Help bubble view interactive UI test
+// summary: Interactive tests exercising the views help bubble, including a custom test bubble factory, focus handling, and dismissal behavior.
+// ---
+
 #include "components/user_education/views/help_bubble_view.h"
 
 #include <array>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI avatar toolbar button implementation
+// summary: Implements the C++ side of the WebUI avatar toolbar button, mapping avatar button states and syncing icon, text, hover, focus, and promo state with the WebUI.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/webui_avatar_toolbar_button.h"
 
 #include "base/check_is_test.h"

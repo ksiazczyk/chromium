@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI Glic control unit tests
+// summary: Unit tests for WebUIGlicControl verifying that preference changes and visibility updates notify the delegate with the correct Glic button state.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/webui_glic_control.h"
 
 #include <memory>

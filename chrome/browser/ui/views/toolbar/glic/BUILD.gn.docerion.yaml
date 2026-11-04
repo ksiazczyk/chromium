@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the glic toolbar views
+summary: Defines GN source sets for the toolbar Glic button, listing non-Android sources and dependencies for the glic views implementation.

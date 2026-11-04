@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI toolbar web view implementation
+// summary: Implements the WebUI-based browser toolbar view that hosts the toolbar-app WebUI and coordinates its controls, layout, and browser commands.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/webui_toolbar_web_view.h"
 
 #include <limits>

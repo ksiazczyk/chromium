@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser help bubble implementation
+// summary: Implements browser help bubble support, including forced WebUI anchors, theme-based colors, and pane navigation accelerators.
+// ---
+
 #include "chrome/browser/ui/views/user_education/browser_help_bubble.h"
 
 #include <string>

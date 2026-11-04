@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar Glic actor task icon implementation
+// summary: Implements ToolbarGlicActorTaskIcon, a toolbar variant of the Glic actor task icon with split-button corner styling, color updates, and nudge focus behavior.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/toolbar_glic_actor_task_icon.h"
 
 #include "chrome/app/vector_icons/vector_icons.h"

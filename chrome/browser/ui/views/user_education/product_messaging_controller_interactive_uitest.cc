@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Product messaging controller interactive UI test
+// summary: Interactive test verifying that a queued legal or compliance product message blocks feature promos until it is shown and released.
+// ---
+
 #include "components/user_education/product_messaging/product_messaging_controller.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Labs coordinator implementation
+// summary: Implements the per-browser coordinator that shows and hides the Chrome Labs bubble, sets up flags storage, and observes pinned toolbar actions.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/chrome_labs/chrome_labs_coordinator.h"
 
 #include "base/metrics/histogram_functions.h"

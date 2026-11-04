@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Toolbar action hover card interactive UI tests
+// summary: Interactive UI tests for the extension toolbar action hover card, covering widget closing, policy-driven labels, and site access states.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/toolbar_action_hover_card_bubble_view.h"
 
 #include <optional>

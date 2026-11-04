@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BrowserFeaturePromoController interactive UI tests
+// summary: Interactive UI tests exercising feature promo behavior in the browser, including interactions with fullscreen, omnibox, and toolbar UI.
+// ---
+
 #include <memory>
 #include <utility>
 

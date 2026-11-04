@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared WebUI and views toolbar test base implementation
+// summary: Implements shared helpers that let interactive UI tests run against either the WebUI or the Views toolbar depending on enabled features.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/webui_and_views_toolbar_interactive_uitest_base.h"
 
 #include <string>

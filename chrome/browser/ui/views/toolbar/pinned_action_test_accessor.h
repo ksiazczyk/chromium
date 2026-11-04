@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pinned action test accessor declaration
+// summary: Declares a uniform test interface for checking pin state, visibility, highlighting, and clicking of pinned toolbar action buttons in tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TOOLBAR_PINNED_ACTION_TEST_ACCESSOR_H_
 #define CHROME_BROWSER_UI_VIEWS_TOOLBAR_PINNED_ACTION_TEST_ACCESSOR_H_
 

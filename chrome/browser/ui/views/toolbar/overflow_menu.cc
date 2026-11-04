@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overflow menu implementation
+// summary: Implements the toolbar's overflow menu, tracking responsive elements and pinned actions so overflowed toolbar items can be shown in a menu.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/overflow_menu.h"
 
 #include <algorithm>

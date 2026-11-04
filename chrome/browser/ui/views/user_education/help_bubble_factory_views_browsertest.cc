@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Views help bubble factory browser tests
+// summary: Browser tests that create, show, close, and reposition help bubbles via the Views help bubble factory.
+// ---
+
 #include "components/user_education/views/help_bubble_factory_views.h"
 
 #include "base/i18n/rtl.h"

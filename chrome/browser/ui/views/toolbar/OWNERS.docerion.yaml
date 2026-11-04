@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Toolbar OWNERS file
+summary: Assigns per-file owners for toolbar action and WebUI files to the extensions and WAAP owner files.

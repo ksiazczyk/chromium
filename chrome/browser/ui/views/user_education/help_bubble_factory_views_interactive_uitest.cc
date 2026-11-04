@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Help bubble factory views interactive UI test
+// summary: Interactive browser tests that create views-based help bubbles and verify focus toggling between the bubble widget and its anchor element.
+// ---
+
 #include "components/user_education/views/help_bubble_factory_views.h"
 
 #include "build/build_config.h"

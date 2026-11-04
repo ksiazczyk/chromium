@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI back/forward control implementation
+// summary: Implements the WebUI back/forward toolbar control, running back or forward context menus and reporting enabled, pinned, overflow, and menu visibility state.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/webui_back_forward_control.h"
 
 #include "chrome/browser/ui/browser_element_identifiers.h"

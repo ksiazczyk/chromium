@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranslateLanguageSearchView class declaration
+// summary: Declares the TranslateLanguageSearchView, a views view and text field controller for searching and selecting translate target languages.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TRANSLATE_TRANSLATE_LANGUAGE_SEARCH_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_TRANSLATE_TRANSLATE_LANGUAGE_SEARCH_VIEW_H_
 

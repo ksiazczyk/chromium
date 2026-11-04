@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PinnedToolbarActionsContainer implementation
+// summary: Implements the toolbar container view hosting pinned and ephemeral action buttons, including drag-and-drop reordering, overflow handling, and usage metrics.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/pinned_toolbar_actions_container.h"
 
 #include <algorithm>

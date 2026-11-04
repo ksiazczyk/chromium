@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar icon container view implementation
+// summary: Implements ToolbarIconContainerView, a container for toolbar icons with roundrect highlight border painting, animating layout, and widget restore observation.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/toolbar_icon_container_view.h"
 
 #include <memory>

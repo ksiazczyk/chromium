@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI toolbar web view interactive UI tests
+// summary: Interactive UI tests for the WebUI toolbar web view, driving pinned toolbar action buttons and interactions through the toolbar-app WebUI.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/webui_toolbar_web_view.h"
 
 #include "base/memory/raw_ptr.h"

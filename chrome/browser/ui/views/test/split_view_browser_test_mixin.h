@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Split view browser test mixin
+// summary: Template mixin for split tabs tests extending InProcessBrowserTest, handling feature list setup and access to multi-contents views.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TEST_SPLIT_VIEW_BROWSER_TEST_MIXIN_H_
 #define CHROME_BROWSER_UI_VIEWS_TEST_SPLIT_VIEW_BROWSER_TEST_MIXIN_H_
 

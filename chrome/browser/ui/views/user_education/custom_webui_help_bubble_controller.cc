@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom WebUI help bubble controller implementation
+// summary: Implements the mojo handler that translates custom help bubble UI events into user education system notifications.
+// ---
+
 #include "chrome/browser/ui/views/user_education/custom_webui_help_bubble_controller.h"
 
 #include "base/memory/raw_ref.h"

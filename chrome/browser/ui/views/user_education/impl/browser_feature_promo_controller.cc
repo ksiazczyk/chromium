@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserFeaturePromoController implementation
+// summary: Implements the browser-specific feature promo controller, adding browser preconditions, screen reader hints, and help bubble context for User Education 2.5.
+// ---
+
 #include "chrome/browser/ui/views/user_education/impl/browser_feature_promo_controller.h"
 
 #include "base/types/pass_key.h"

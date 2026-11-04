@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TranslatePageActionController class declaration
+// summary: Declares the TranslatePageActionController, which observes translation driver state and page action icon visibility for a tab interface.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TRANSLATE_TRANSLATE_PAGE_ACTION_CONTROLLER_H_
 #define CHROME_BROWSER_UI_VIEWS_TRANSLATE_TRANSLATE_PAGE_ACTION_CONTROLLER_H_
 

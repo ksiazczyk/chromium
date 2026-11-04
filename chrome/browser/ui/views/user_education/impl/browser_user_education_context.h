@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser user education context header
+// summary: Declares BrowserUserEducationContext, a UserEducationContext specialization tied to a browser window with shared preconditions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_USER_EDUCATION_IMPL_BROWSER_USER_EDUCATION_CONTEXT_H_
 #define CHROME_BROWSER_UI_VIEWS_USER_EDUCATION_IMPL_BROWSER_USER_EDUCATION_CONTEXT_H_
 

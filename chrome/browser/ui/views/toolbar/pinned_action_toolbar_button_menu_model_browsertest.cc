@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PinnedActionToolbarButtonMenuModel browser tests
+// summary: In-process browser tests verifying default menu items, item settings, and that child actions appear as context menu entries for pinned action toolbar buttons.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/pinned_action_toolbar_button_menu_model.h"
 
 #include <string>

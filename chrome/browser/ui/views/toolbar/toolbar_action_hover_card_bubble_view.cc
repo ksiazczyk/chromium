@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar action hover card bubble view
+// summary: Implements the bubble dialog shown when hovering a toolbar extension action, including its fixed-width layout, labels, separators, and site access content.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/toolbar_action_hover_card_bubble_view.h"
 
 #include <string>

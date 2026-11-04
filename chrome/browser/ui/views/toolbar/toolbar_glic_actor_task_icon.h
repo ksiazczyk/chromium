@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar Glic actor task icon header
+// summary: Declares ToolbarGlicActorTaskIcon, a GlicActorTaskIcon specialization on ToolbarButton that manages split-button corner radii and frame color updates.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TOOLBAR_TOOLBAR_GLIC_ACTOR_TASK_ICON_H_
 #define CHROME_BROWSER_UI_VIEWS_TOOLBAR_TOOLBAR_GLIC_ACTOR_TASK_ICON_H_
 

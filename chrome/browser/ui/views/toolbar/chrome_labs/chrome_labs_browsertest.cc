@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome Labs browser tests
+// summary: Browser tests for the Chrome Labs bubble, covering lab state changes, relaunch prompts, histograms, and ChromeOS or branded-build specific setup.
+// ---
+
 #include "base/feature_list.h"
 #include "base/memory/raw_ptr.h"
 #include "base/strings/string_number_conversions.h"

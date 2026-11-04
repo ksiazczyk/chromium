@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser user education interface implementation
+// summary: Implements the per-browser user education interface, queuing startup promos until browser initialization completes.
+// ---
+
 #include "chrome/browser/ui/views/user_education/impl/browser_user_education_interface_impl.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Translate bubble browser tests
+// summary: In-process browser tests that verify translate bubble behavior such as language detection, dialog display, and language search interactions.
+// ---
+
 #include "chrome/browser/ui/views/translate/translate_bubble_view.h"
 
 #include <memory>

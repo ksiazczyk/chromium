@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome Labs button browser tests
+// summary: Browser tests for the Chrome Labs toolbar button, verifying activation, dot indicator updates, and enterprise policy behavior.
+// ---
+
 #include "base/feature_list.h"
 #include "base/test/run_until.h"
 #include "base/test/scoped_feature_list.h"

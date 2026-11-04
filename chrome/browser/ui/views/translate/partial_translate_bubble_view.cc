@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Partial translate bubble view implementation
+// summary: Implements the bubble dialog UI for translating a selected portion of page text in Chrome.
+// ---
+
 #include "chrome/browser/ui/views/translate/partial_translate_bubble_view.h"
 
 #include <stddef.h>

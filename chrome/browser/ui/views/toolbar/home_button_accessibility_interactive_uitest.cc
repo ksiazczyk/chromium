@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Home button accessibility interactive UI tests
+// summary: Interactive browser tests checking home button clicks and accessibility node presence for both Views and WebUI toolbar configurations.
+// ---
+
 #include "build/build_config.h"
 #include "chrome/browser/profiles/profile.h"
 #include "chrome/browser/ui/browser_element_identifiers.h"

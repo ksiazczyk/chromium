@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reload button accessibility interactive tests
+// summary: Interactive browser tests verifying accessibility behavior, tooltips, and popup state of the reload button across views and WebUI toolbar variants.
+// ---
+
 #include "base/test/run_until.h"
 #include "chrome/app/chrome_command_ids.h"
 #include "chrome/browser/ui/browser_element_identifiers.h"

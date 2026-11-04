@@ -1,0 +1,4 @@
+# Docerion header of webui_toolbar_web_view_util_mac.mm.
+type: source
+title: Mac WebUI toolbar event forwarder implementation
+summary: Implements delivery of AppKit mouse events from windows such as the omnibox popup to the WebUI toolbar WebView on macOS.

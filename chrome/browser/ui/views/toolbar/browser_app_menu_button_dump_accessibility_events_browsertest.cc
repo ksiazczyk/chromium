@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App menu button accessibility events browser test
+// summary: Browser test that records accessibility events emitted when the app menu button's expand/collapse state changes on Windows UIA.
+// ---
+
 #include <memory>
 
 #include "chrome/browser/ui/browser_element_identifiers.h"

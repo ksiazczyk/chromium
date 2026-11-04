@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ToolbarButton unit tests
+// summary: Unit tests covering ToolbarButton layout insets, border updates, menu showing behavior with tab strips, and touch UI handling.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/toolbar_button.h"
 
 #include <memory>

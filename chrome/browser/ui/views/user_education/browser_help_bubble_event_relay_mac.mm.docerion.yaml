@@ -1,0 +1,4 @@
+# Docerion header of browser_help_bubble_event_relay_mac.mm.
+type: source
+title: Mac implementation of the window help bubble event relay
+summary: Implements the Mac variant of the window help bubble event relay, using Cocoa mouse capture to convert and forward native mouse events to the help bubble.

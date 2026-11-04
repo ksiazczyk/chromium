@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Avatar toolbar button interface header
+// summary: Declares the abstract interface for the profile avatar toolbar button, shared by Views and WebUI implementations, with observers and testing hooks.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TOOLBAR_AVATAR_TOOLBAR_BUTTON_INTERFACE_H_
 #define CHROME_BROWSER_UI_VIEWS_TOOLBAR_AVATAR_TOOLBAR_BUTTON_INTERFACE_H_
 

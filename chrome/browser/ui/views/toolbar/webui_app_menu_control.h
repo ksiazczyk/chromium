@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI app menu control header
+// summary: Declares WebUIAppMenuControl, the WebUI-based implementation of the toolbar app menu control handling menu showing, focus, observers, and state reporting.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TOOLBAR_WEBUI_APP_MENU_CONTROL_H_
 #define CHROME_BROWSER_UI_VIEWS_TOOLBAR_WEBUI_APP_MENU_CONTROL_H_
 

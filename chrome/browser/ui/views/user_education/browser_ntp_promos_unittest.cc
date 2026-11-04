@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for browser NTP promo metadata
+// summary: Unit test verifying that every registered NTP promo provides required metadata such as launch milestone, owners list, and description.
+// ---
+
 #include "chrome/browser/ui/views/user_education/browser_ntp_promos.h"
 
 #include <sstream>

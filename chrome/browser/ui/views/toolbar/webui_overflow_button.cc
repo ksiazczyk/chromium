@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI overflow button implementation
+// summary: Implements the C++-side WebUIOverflowButton that shows the toolbar overflow menu, dispatches commands for overflowed elements and records user metrics.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/webui_overflow_button.h"
 
 #include <map>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Overflow button implementation
+// summary: Implements the chevron toolbar button shown when toolbar elements overflow, opening a menu of the overflowed items and recording usage metrics.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/overflow_button.h"
 
 #include "base/metrics/user_metrics.h"

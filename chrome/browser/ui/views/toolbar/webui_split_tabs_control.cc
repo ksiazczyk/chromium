@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI split tabs control implementation
+// summary: Implements the C++-side logic of the WebUI toolbar split tabs button, including context menus, the pin preference and tab strip observation.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/webui_split_tabs_control.h"
 
 #include "base/functional/bind.h"

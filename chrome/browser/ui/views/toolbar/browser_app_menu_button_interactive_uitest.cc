@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App menu button interactive UI tests
+// summary: Interactive tests for the app menu button covering menu interactions, highlightable menu items, and feature promo toast behavior.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/browser_app_menu_button.h"
 
 #include <optional>

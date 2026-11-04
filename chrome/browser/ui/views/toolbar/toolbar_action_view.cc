@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Toolbar action view
+// summary: Implements the menu button view that displays an extension action in the browser toolbar, handling icon updates, context menus, popups, and dragging.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/toolbar_action_view.h"
 
 #include <string>

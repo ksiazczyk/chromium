@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI media toolbar button interactive UI tests
+// summary: Interactive tests covering clicks and right-clicks on the WebUI media toolbar button, including MediaDialogView display, anchor highlighting and context menu behavior.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/webui_media_toolbar_button.h"
 
 #include "base/test/run_until.h"

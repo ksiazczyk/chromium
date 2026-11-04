@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI battery saver control unit tests
+// summary: Unit tests for WebUIBatterySaverControl verifying that show and hide update the delegate's preferred size and battery saver control state.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/webui_battery_saver_control.h"
 
 #include <memory>

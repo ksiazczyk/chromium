@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI overlay toolbar button header
+// summary: Declares the AI overlay toolbar button and its action view interface for the pinned toolbar.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TOOLBAR_AI_OVERLAY_TOOLBAR_BUTTON_H_
 #define CHROME_BROWSER_UI_VIEWS_TOOLBAR_AI_OVERLAY_TOOLBAR_BUTTON_H_
 

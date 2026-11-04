@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Help bubble event relay for bubbles anchored to secondary windows
+// summary: Declares WindowHelpBubbleEventRelay classes that let help bubbles anchored to non-focusable secondary windows process events without taking focus, with Aura and Mac variants and a platform factory.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_USER_EDUCATION_BROWSER_HELP_BUBBLE_EVENT_RELAY_H_
 #define CHROME_BROWSER_UI_VIEWS_USER_EDUCATION_BROWSER_HELP_BUBBLE_EVENT_RELAY_H_
 

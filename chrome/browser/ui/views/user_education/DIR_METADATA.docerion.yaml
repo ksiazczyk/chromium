@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for user education Views
+summary: Points to the shared user education component metadata via a mixins entry for directory tracking.

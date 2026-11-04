@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows tooltip UIA accessibility event interactive test
+// summary: Windows-specific interactive browser test that waits for tooltip opened and closed UIA accessibility events while moving the mouse over and away from the reload button.
+// ---
+
 #include "base/strings/utf_string_conversions.h"
 #include "build/build_config.h"
 #include "chrome/browser/ui/browser_element_identifiers.h"

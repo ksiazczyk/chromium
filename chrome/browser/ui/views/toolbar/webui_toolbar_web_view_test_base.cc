@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI toolbar test fixture implementation
+// summary: Implements shared helpers for WebUI toolbar browser and interactive UI tests, such as element tracking, waiting, and spacer width sizing.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/webui_toolbar_web_view_test_base.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for browser help bubble
+// summary: Unit tests for browser help bubble behavior, using mock help bubble clients, handlers, and delegates to exercise WebUI help bubble handling.
+// ---
+
 #include "chrome/browser/ui/views/user_education/browser_help_bubble.h"
 
 #include <memory>

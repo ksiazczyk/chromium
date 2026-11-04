@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser user education context implementation
+// summary: Implements the browser-tied user education context, including shared promo preconditions and default anchor element filtering.
+// ---
+
 #include "chrome/browser/ui/views/user_education/impl/browser_user_education_context.h"
 
 #include <optional>

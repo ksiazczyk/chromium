@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build file for browser UI views test support targets
+summary: Defines GN source sets for split view, tab strip, and vertical tabs test mixins plus the view event test base, with their dependencies.

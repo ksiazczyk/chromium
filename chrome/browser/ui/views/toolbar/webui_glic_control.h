@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI Glic control header
+// summary: Declares WebUIGlicControl, the WebUI implementation of the Glic toolbar button interface covering visibility, nudges, panel state, and context menus.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TOOLBAR_WEBUI_GLIC_CONTROL_H_
 #define CHROME_BROWSER_UI_VIEWS_TOOLBAR_WEBUI_GLIC_CONTROL_H_
 

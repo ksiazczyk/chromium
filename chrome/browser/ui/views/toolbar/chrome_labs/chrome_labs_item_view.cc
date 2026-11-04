@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Labs item view implementation
+// summary: Implements the view for a single lab entry, with a state combobox, feedback button, new badge label, and feedback page launching.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/chrome_labs/chrome_labs_item_view.h"
 
 #include <array>

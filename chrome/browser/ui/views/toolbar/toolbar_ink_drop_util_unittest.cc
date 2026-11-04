@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Toolbar ink drop utility unit tests
+// summary: Unit tests verifying that ConfigureInkDrop sets the expected ink drop layer region and highlight on a test button.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/toolbar_ink_drop_util.h"
 
 #include "base/test/scoped_feature_list.h"

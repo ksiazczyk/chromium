@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Toolbar BUILD.gn build definition
+summary: Defines the toolbar source set, listing public headers, sources and dependencies for Chrome's toolbar views.

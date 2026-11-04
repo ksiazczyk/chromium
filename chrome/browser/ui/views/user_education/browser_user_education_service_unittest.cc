@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser user education service unit tests
+// summary: Unit tests verifying that registered Chrome feature promos have matching IPH histogram and action variants and valid metadata.
+// ---
+
 #include "chrome/browser/ui/views/user_education/browser_user_education_service.h"
 
 #include <algorithm>

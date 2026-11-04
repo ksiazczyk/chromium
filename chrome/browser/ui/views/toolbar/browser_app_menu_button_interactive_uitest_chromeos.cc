@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App menu button ChromeOS virtual keyboard test
+// summary: ChromeOS browser test verifying that opening the app menu dismisses the virtual keyboard, as a regression test for a reported bug.
+// ---
+
 #include "base/files/file_path.h"
 #include "base/memory/raw_ptr.h"
 #include "base/run_loop.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App menu test accessor implementation
+// summary: Implements AppMenuTestAccessor, a test helper to show, close, execute commands in, and inspect the browser app menu in Chromium UI tests.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/test_support/app_menu_test_accessor.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI back/forward control header
+// summary: Declares WebUIBackForwardControl, which manages back/forward button state and context menus for the WebUI toolbar via Mojo.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_TOOLBAR_WEBUI_BACK_FORWARD_CONTROL_H_
 #define CHROME_BROWSER_UI_VIEWS_TOOLBAR_WEBUI_BACK_FORWARD_CONTROL_H_
 

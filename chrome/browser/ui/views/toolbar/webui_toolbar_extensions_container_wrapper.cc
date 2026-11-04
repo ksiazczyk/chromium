@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI toolbar extensions container wrapper implementation
+// summary: Implements the wrapper that manages the WebUI extensions container lifecycle, caches extension action state and notifies the toolbar delegate.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/webui_toolbar_extensions_container_wrapper.h"
 
 #include <optional>

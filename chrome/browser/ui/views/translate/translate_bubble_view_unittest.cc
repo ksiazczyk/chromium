@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Translate bubble view unit tests
+// summary: Unit tests for the translate bubble view that use a mock translate bubble model to verify view states, language selection, and user interactions.
+// ---
+
 #include "chrome/browser/ui/views/translate/translate_bubble_view.h"
 
 #include <memory>

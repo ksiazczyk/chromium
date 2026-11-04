@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Avatar toolbar button interface implementation
+// summary: Implements static helpers for the avatar toolbar button interface, covering profile visibility rules, bubble anchoring, and testing delay overrides.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/avatar_toolbar_button_interface.h"
 
 #include "base/time/time.h"

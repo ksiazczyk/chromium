@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI media toolbar button implementation
+// summary: Implements the C++-side behavior of the WebUI Global Media Controls toolbar button, including dialog toggling, context menus, and feature promos.
+// ---
+
 #include "chrome/browser/ui/views/toolbar/webui_media_toolbar_button.h"
 
 #include <utility>
