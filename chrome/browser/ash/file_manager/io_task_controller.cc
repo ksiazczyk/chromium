@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: I/O task controller implementation
+// summary: Implements the controller that queues, executes, pauses, resumes and cancels Files app I/O tasks and notifies observers with throttled progress updates.
+// ---
+
 #include "chrome/browser/ash/file_manager/io_task_controller.h"
 
 #include <vector>

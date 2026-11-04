@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for file manager URL utilities
+// summary: Unit tests checking that dialog URLs carry correctly escaped and structured JSON query parameters for various dialog types and file type lists.
+// ---
+
 #include "chrome/browser/ash/file_manager/url_util.h"
 
 #include <memory>

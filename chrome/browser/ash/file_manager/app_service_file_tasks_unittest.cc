@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App Service file tasks unit tests
+// summary: Unit tests covering App Service file task discovery, default handler policy handling, and task execution.
+// ---
+
 #include "chrome/browser/ash/file_manager/app_service_file_tasks.h"
 
 #include <functional>

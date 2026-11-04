@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Files app JavaScript test base implementation
+// summary: Implements the base class that serves Files app WebUI resources and localized strings so JavaScript unit tests can run from a chrome URL.
+// ---
+
 #include "chrome/browser/ash/file_manager/file_manager_jstest_base.h"
 
 #include "ash/webui/common/trusted_types_util.h"

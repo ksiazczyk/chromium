@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud upload prompt prefs handler implementation
+// summary: Keeps local and syncable cloud upload prompt prefs consistent for Google Drive and OneDrive and logs mismatches.
+// ---
+
 #include "chrome/browser/ash/file_manager/cloud_upload_prompt_prefs_handler.h"
 
 #include <memory>

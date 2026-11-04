@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated Web App install virtual task class declaration
+// summary: Declares InstallIsolatedWebAppVirtualTask, the VirtualTask that opens the Isolated Web App installation UI for .swbn files.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_MANAGER_VIRTUAL_TASKS_INSTALL_ISOLATED_WEB_APP_VIRTUAL_TASK_H_
 #define CHROME_BROWSER_ASH_FILE_MANAGER_VIRTUAL_TASKS_INSTALL_ISOLATED_WEB_APP_VIRTUAL_TASK_H_
 

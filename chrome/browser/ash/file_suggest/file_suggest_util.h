@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File suggest types and data structure definitions
+// summary: Defines suggestion type and justification enums, DriveSuggestValidationStatus, the FileSuggestData struct, and related callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_SUGGEST_FILE_SUGGEST_UTIL_H_
 #define CHROME_BROWSER_ASH_FILE_SUGGEST_FILE_SUGGEST_UTIL_H_
 

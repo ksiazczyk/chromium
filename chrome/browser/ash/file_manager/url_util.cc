@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File manager select dialog URL utilities
+// summary: Implements helpers that build the Files app main page URL and encode select file dialog parameters as a JSON query string.
+// ---
+
 #include "chrome/browser/ash/file_manager/url_util.h"
 
 #include <stddef.h>

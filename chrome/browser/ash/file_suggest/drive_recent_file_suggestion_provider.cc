@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive recent file suggestion provider implementation
+// summary: Implements Drive FS searches for recently modified, viewed, and shared files to produce file suggestions.
+// ---
+
 #include "chrome/browser/ash/file_suggest/drive_recent_file_suggestion_provider.h"
 
 #include <algorithm>

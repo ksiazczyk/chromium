@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Office file task declarations
+// summary: Declares Office file open tasks, UMA metric names and enums for Office extensions and use outside Drive, plus profile pref registration.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_MANAGER_OFFICE_FILE_TASKS_H_
 #define CHROME_BROWSER_ASH_FILE_MANAGER_OFFICE_FILE_TASKS_H_
 

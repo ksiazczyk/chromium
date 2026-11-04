@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RestoreToDestinationIOTask unit tests
+// summary: Unit tests for restoring trashed files to a destination folder, including trash setup and DLP policy mocks.
+// ---
+
 #include "chrome/browser/ash/file_manager/restore_to_destination_io_task.h"
 
 #include <memory>

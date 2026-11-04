@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trash IO task implementation
+// summary: Implements the trash IO task that moves files into .Trash folders, writes .trashinfo metadata, sets permissions, and records setup metrics.
+// ---
+
 #include "chrome/browser/ash/file_manager/trash_io_task.h"
 
 #include <sys/xattr.h>

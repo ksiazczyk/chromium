@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File suggest keyed service factory declaration
+// summary: Declares the profile-keyed service factory that creates and exposes a FileSuggestKeyedService instance for each browser context.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_SUGGEST_FILE_SUGGEST_KEYED_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ASH_FILE_SUGGEST_FILE_SUGGEST_KEYED_SERVICE_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Volume manager observer interface
+// summary: Defines the observer interface for volume events including disk and device add or remove, mount and unmount, formatting, renaming and shutdown.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_MANAGER_VOLUME_MANAGER_OBSERVER_H_
 #define CHROME_BROWSER_ASH_FILE_MANAGER_VOLUME_MANAGER_OBSERVER_H_
 

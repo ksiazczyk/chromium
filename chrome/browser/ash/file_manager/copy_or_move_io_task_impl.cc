@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Copy or move IO task core implementation
+// summary: Implements the core copy or move logic that starts storage backend operations on the IO thread, tracks per-item progress, and handles errors such as insufficient space.
+// ---
+
 #include "chrome/browser/ash/file_manager/copy_or_move_io_task_impl.h"
 
 #include <cmath>

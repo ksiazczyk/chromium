@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the file manager directory
+summary: DEPS file listing allowed //chrome include dependencies plus test-specific include rules for this directory.

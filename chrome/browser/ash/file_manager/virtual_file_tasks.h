@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VirtualTask interface for C++ file tasks
+// summary: Defines the VirtualTask interface and functions to match, execute, and identify C++-implemented tasks that are not backed by app file handling APIs.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_MANAGER_VIRTUAL_FILE_TASKS_H_
 #define CHROME_BROWSER_ASH_FILE_MANAGER_VIRTUAL_FILE_TASKS_H_
 

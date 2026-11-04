@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for virtual file tasks
+// summary: Unit tests using fake virtual tasks to verify identification, matching, and execution behavior of virtual file tasks.
+// ---
+
 #include "chrome/browser/ash/file_manager/virtual_file_tasks.h"
 
 #include "base/functional/bind.h"

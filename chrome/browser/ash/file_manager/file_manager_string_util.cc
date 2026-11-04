@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Files app string utilities
+// summary: Builds localized strings, help URLs, and feature strings for the Files app, including Drive storage links and locale-based week start.
+// ---
+
 #include "chrome/browser/ash/file_manager/file_manager_string_util.h"
 
 #include <math.h>

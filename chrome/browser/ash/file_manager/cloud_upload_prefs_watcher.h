@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud upload prefs watcher factory declaration
+// summary: Declares the profile-keyed service factory that instantiates watchers for cloud upload related prefs.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_MANAGER_CLOUD_UPLOAD_PREFS_WATCHER_H_
 #define CHROME_BROWSER_ASH_FILE_MANAGER_CLOUD_UPLOAD_PREFS_WATCHER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud upload prompt prefs handler factory implementation
+// summary: Implements the profile-keyed service factory that registers cloud upload prompt preferences and builds the handler service only for managed profiles.
+// ---
+
 #include "chrome/browser/ash/file_manager/cloud_upload_prompt_prefs_handler_factory.h"
 
 #include <memory>

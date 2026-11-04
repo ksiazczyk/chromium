@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RestoreIOTask unit tests
+// summary: Unit tests for the restore-from-trash I/O task, covering success paths and trashinfo validation failures.
+// ---
+
 #include "chrome/browser/ash/file_manager/restore_io_task.h"
 
 #include "base/files/file_util.h"

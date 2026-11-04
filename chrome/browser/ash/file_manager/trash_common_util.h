@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trash common utilities header
+// summary: Declares the TrashLocation struct and helper functions and constants for trash paths, enablement, and directory setup in the file manager.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_MANAGER_TRASH_COMMON_UTIL_H_
 #define CHROME_BROWSER_ASH_FILE_MANAGER_TRASH_COMMON_UTIL_H_
 

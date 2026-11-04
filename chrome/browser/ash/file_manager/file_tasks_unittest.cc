@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File manager file tasks unit tests
+// summary: Unit tests for file task descriptors and task selection, covering app service tasks, virtual tasks, Crostini, and Drive file handling.
+// ---
+
 #include "chrome/browser/ash/file_manager/file_tasks.h"
 
 #include <algorithm>

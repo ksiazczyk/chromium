@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File manager browser test base class header
+// summary: Declares FileManagerBrowserTestBase with options, account and device modes, and fake test volumes used by Files app browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_MANAGER_FILE_MANAGER_BROWSERTEST_BASE_H_
 #define CHROME_BROWSER_ASH_FILE_MANAGER_FILE_MANAGER_BROWSERTEST_BASE_H_
 

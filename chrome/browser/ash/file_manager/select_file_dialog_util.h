@@ -4,6 +4,12 @@
 //
 // This file provides utilities related to the select file dialog.
 
+// ---docerion
+// type: source
+// title: Select file dialog utility header
+// summary: Declares GetSelectFileDialogTitle, which maps a select file dialog type to its title string.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_MANAGER_SELECT_FILE_DIALOG_UTIL_H_
 #define CHROME_BROWSER_ASH_FILE_MANAGER_SELECT_FILE_DIALOG_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Copy or move IO task unit tests
+// summary: Unit tests for the copy and move IO task implementation, verifying progress callbacks, errors, and completion behavior with a test file system context.
+// ---
+
 #include "chrome/browser/ash/file_manager/copy_or_move_io_task.h"
 
 #include <algorithm>

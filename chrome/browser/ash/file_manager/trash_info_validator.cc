@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trash info validator implementation
+// summary: Implements validation and parsing of .trashinfo files, checking extensions, locations, and corresponding trashed files before delegating to the TrashService parser.
+// ---
+
 #include "chrome/browser/ash/file_manager/trash_info_validator.h"
 
 #include <string_view>

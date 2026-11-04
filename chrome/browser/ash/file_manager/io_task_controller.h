@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: I/O task controller class declaration
+// summary: Declares the IOTaskController class that queues and runs I/O tasks, manages a wake lock and notifies observers of task progress and completion.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_MANAGER_IO_TASK_CONTROLLER_H_
 #define CHROME_BROWSER_ASH_FILE_MANAGER_IO_TASK_CONTROLLER_H_
 

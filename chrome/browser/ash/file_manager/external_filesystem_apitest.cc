@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: External file system extension API tests
+// summary: Extension API tests covering access to external file systems from extensions with fileManagerPrivate and fileBrowserHandler permissions, including Drive searches.
+// ---
+
 #include <memory>
 #include <string_view>
 

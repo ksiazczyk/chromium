@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Empty trash IO task unit tests
+// summary: Unit tests verifying that the empty trash task removes the files and info subdirectories of enabled trash locations and reports success or errors.
+// ---
+
 #include "chrome/browser/ash/file_manager/empty_trash_io_task.h"
 
 #include "base/files/file_util.h"

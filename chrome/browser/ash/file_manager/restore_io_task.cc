@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Restore from trash IO task implementation
+// summary: Implements the IO task that validates trash info files and restores deleted files from the trash to their original locations.
+// ---
+
 #include "chrome/browser/ash/file_manager/restore_io_task.h"
 
 #include "base/files/file.h"

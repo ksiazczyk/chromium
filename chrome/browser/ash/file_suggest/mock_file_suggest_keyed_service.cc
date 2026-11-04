@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock file suggest keyed service implementation
+// summary: Implements a mock file suggestion service that asynchronously returns cached suggestions without relying on real suggestion providers, for use in tests.
+// ---
+
 #include "chrome/browser/ash/file_suggest/mock_file_suggest_keyed_service.h"
 
 #include "base/functional/callback.h"

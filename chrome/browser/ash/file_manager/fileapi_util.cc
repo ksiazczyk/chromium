@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File API utilities implementation
+// summary: Implements conversion between file definitions and entry definitions plus File Manager URL and file system context helpers for the Files app.
+// ---
+
 #include "chrome/browser/ash/file_manager/fileapi_util.h"
 
 #include <stddef.h>

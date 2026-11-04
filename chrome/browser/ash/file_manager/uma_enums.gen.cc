@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generated UMA ViewFileType extension mapping
+// summary: Generated implementation that maps file path extensions to the ViewFileType enum used for UMA logging in the Files app.
+// ---
+
 #include "chrome/browser/ash/file_manager/uma_enums.gen.h"
 
 #include <algorithm>

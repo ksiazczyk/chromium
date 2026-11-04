@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive recent file suggestion provider header
+// summary: Declares the suggestion provider that supplies recently used Drive files and observes Drive FS changes.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_SUGGEST_DRIVE_RECENT_FILE_SUGGESTION_PROVIDER_H_
 #define CHROME_BROWSER_ASH_FILE_SUGGEST_DRIVE_RECENT_FILE_SUGGESTION_PROVIDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Copy or move hook delegate for Files app progress
+// summary: Implements a copy or move hook delegate that forwards file operation progress, error, and completion events to the Files app via a callback.
+// ---
+
 #include "chrome/browser/ash/file_manager/file_manager_copy_or_move_hook_delegate.h"
 
 #include <ios>

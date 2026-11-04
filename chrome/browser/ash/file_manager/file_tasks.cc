@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File tasks implementation
+// summary: Implements file tasks that open selected Files app files with extensions, apps, or built-in handlers, including default task preferences and execution.
+// ---
+
 #include "chrome/browser/ash/file_manager/file_tasks.h"
 
 #include <stddef.h>

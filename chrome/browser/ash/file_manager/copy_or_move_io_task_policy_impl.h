@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Copy or move IO task policy header
+// summary: Declares CopyOrMoveIOTaskPolicyImpl, a copy or move task variant that verifies transfers with enterprise connector scans and data leak prevention checks.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_MANAGER_COPY_OR_MOVE_IO_TASK_POLICY_IMPL_H_
 #define CHROME_BROWSER_ASH_FILE_MANAGER_COPY_OR_MOVE_IO_TASK_POLICY_IMPL_H_
 

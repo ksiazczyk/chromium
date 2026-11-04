@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud upload prompt prefs handler factory declarations
+// summary: Declares the ProfileKeyedServiceFactory that reacts to profile creation and instantiates handlers for prefs related to cloud upload move confirmation prompts.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_MANAGER_CLOUD_UPLOAD_PROMPT_PREFS_HANDLER_FACTORY_H_
 #define CHROME_BROWSER_ASH_FILE_MANAGER_CLOUD_UPLOAD_PROMPT_PREFS_HANDLER_FACTORY_H_
 

@@ -92,6 +92,12 @@
 // See also: ui/file_manager/file_manager/foreground/js/file_tasks.js
 //
 
+// ---docerion
+// type: source
+// title: File tasks header
+// summary: Declares file task utilities and documents task IDs, task types, and how the Files app executes open actions.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_MANAGER_FILE_TASKS_H_
 #define CHROME_BROWSER_ASH_FILE_MANAGER_FILE_TASKS_H_
 

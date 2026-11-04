@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Copy or move file check hook delegate implementation
+// summary: Implements a hook delegate that runs a file check callback before each file is copied or moved, skipping directories.
+// ---
+
 #include "chrome/browser/ash/file_manager/file_manager_copy_or_move_hook_file_check_delegate.h"
 
 #include "base/files/file.h"

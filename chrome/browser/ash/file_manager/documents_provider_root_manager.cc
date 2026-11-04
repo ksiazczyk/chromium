@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DocumentsProvider root manager implementation
+// summary: Implements tracking of ARC DocumentsProvider roots, filtering authorities already exposed in the Files app and encoding root icons as data URLs.
+// ---
+
 #include "chrome/browser/ash/file_manager/documents_provider_root_manager.h"
 
 #include <string.h>

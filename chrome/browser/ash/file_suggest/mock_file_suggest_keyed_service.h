@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock file suggest keyed service header
+// summary: Declares a mock file suggestion service that returns cached suggestions per type and mocks suggestion update and removal methods for testing.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_SUGGEST_MOCK_FILE_SUGGEST_KEYED_SERVICE_H_
 #define CHROME_BROWSER_ASH_FILE_SUGGEST_MOCK_FILE_SUGGEST_KEYED_SERVICE_H_
 

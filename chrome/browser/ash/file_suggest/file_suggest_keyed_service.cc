@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File suggest keyed service implementation
+// summary: Implements the per-profile service that aggregates Drive and local suggestions and filters duplicates and removed results.
+// ---
+
 #include "chrome/browser/ash/file_suggest/file_suggest_keyed_service.h"
 
 #include "ash/constants/ash_pref_names.h"

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: File suggest owners
+summary: Delegates directory ownership to the app list OWNERS file.

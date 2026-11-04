@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Volume manager implementation
+// summary: Implements VolumeManager, which tracks mounted volumes like Drive, Downloads, removable disks, MTP and ARC file systems and notifies observers of mount events.
+// ---
+
 #include "chrome/browser/ash/file_manager/volume_manager.h"
 
 #include <optional>

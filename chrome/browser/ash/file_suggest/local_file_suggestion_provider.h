@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local file suggestion provider declaration
+// summary: Declares the local file suggestion provider class, which observes file open events and returns ranked local file suggestions.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_SUGGEST_LOCAL_FILE_SUGGESTION_PROVIDER_H_
 #define CHROME_BROWSER_ASH_FILE_SUGGEST_LOCAL_FILE_SUGGESTION_PROVIDER_H_
 

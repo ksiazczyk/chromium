@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RestoreToDestinationIOTask implementation
+// summary: Implements the I/O task that validates .trashinfo files and delegates moving trashed files to a chosen destination folder.
+// ---
+
 #include "chrome/browser/ash/file_manager/restore_to_destination_io_task.h"
 
 #include <optional>

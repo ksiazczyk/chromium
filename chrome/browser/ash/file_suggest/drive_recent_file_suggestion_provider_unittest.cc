@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Drive recent file suggestion provider unit tests
+// summary: Unit tests covering Drive recent file search queries, results, and suggestion justifications.
+// ---
+
 #include "chrome/browser/ash/file_suggest/drive_recent_file_suggestion_provider.h"
 
 #include <optional>

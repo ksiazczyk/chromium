@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File tasks browser tests
+// summary: Browser tests covering file task execution and default task selection across extensions, apps, DLP policies, and cloud upload flows.
+// ---
+
 #include "chrome/browser/ash/file_manager/file_tasks.h"
 
 #include <algorithm>

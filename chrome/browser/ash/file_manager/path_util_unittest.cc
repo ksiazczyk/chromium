@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for file manager path utilities
+// summary: Unit tests covering path conversion, Downloads and MyFiles lookups, and mount point helpers with fake user, ARC, and disk environments.
+// ---
+
 #include "chrome/browser/ash/file_manager/path_util.h"
 
 #include <memory>

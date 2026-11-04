@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Files app browser test case builder header
+// summary: Declares the TestCase builder and wrapped INSTANTIATE_TEST_SUITE_P macros for parameterized Files app browser tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_MANAGER_FILE_MANAGER_BROWSERTEST_UTILS_H_
 #define CHROME_BROWSER_ASH_FILE_MANAGER_FILE_MANAGER_BROWSERTEST_UTILS_H_
 

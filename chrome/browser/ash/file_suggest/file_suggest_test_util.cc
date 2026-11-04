@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File suggest test helpers implementation
+// summary: Implements helpers that wait for file suggestion update notifications and until the file suggest service is ready during tests.
+// ---
+
 #include "chrome/browser/ash/file_suggest/file_suggest_test_util.h"
 
 #include "base/run_loop.h"

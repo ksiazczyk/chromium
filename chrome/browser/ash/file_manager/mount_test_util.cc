@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Drive mount point test helper
+// summary: Provides WaitUntilDriveMountPointIsAdded so tests can wait for the Drive file system mount point before accessing Drive.
+// ---
+
 #include "chrome/browser/ash/file_manager/mount_test_util.h"
 
 #include "base/memory/raw_ptr.h"

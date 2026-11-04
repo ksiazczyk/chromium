@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Copy or move encrypted hook delegate implementation
+// summary: Implements a copy or move hook delegate that detects failed reads of encrypted Drive files, skips them to continue the operation, and reports skipped files via callback.
+// ---
+
 #include "chrome/browser/ash/file_manager/copy_or_move_encrypted_hook_delegate.h"
 
 #include "chrome/browser/ash/drive/drive_integration_service.h"

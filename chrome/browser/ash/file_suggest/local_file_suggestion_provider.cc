@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local file suggestion provider implementation
+// summary: Implements the provider for local file suggestions, ranking recently opened files with an MRU cache and validating paths, recency, and trash locations.
+// ---
+
 #include "chrome/browser/ash/file_suggest/local_file_suggestion_provider.h"
 
 #include <algorithm>

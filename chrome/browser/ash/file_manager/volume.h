@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Volume class header with volume type enums
+// summary: Declares the Volume class and the VolumeType, MountContext and Source enums used to represent mount points such as Drive, Downloads, removable disks and archives.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_MANAGER_VOLUME_H_
 #define CHROME_BROWSER_ASH_FILE_MANAGER_VOLUME_H_
 

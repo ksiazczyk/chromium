@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Empty trash IO task declaration
+// summary: Declares EmptyTrashIOTask, an IO task that empties all enabled trash locations following the XDG trash specification, with execute and cancel semantics.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_MANAGER_EMPTY_TRASH_IO_TASK_H_
 #define CHROME_BROWSER_ASH_FILE_MANAGER_EMPTY_TRASH_IO_TASK_H_
 

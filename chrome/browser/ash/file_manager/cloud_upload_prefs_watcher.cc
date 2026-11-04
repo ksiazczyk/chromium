@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud upload preferences watcher implementation
+// summary: Watches cloud upload prefs and sets or clears Microsoft Office and Google Workspace default file handlers.
+// ---
+
 #include "chrome/browser/ash/file_manager/cloud_upload_prefs_watcher.h"
 
 #include "ash/constants/ash_pref_names.h"

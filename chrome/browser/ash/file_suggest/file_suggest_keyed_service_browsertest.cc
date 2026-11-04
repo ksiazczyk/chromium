@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File suggest keyed service browser tests
+// summary: Browser tests exercising the keyed service with fake Drive FS search queries and Drive files.
+// ---
+
 #include "chrome/browser/ash/file_suggest/file_suggest_keyed_service.h"
 
 #include "base/memory/raw_ptr.h"

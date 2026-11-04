@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extract IO task declaration
+// summary: Declares ExtractIOTask and the ExtractStatus enum for extracting ZIP archives, including cancellation and scoped file access handling for data leak prevention.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_MANAGER_EXTRACT_IO_TASK_H_
 #define CHROME_BROWSER_ASH_FILE_MANAGER_EXTRACT_IO_TASK_H_
 

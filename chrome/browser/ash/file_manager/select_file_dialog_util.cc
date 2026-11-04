@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Select file dialog title utility
+// summary: Returns the localized title for a select file dialog based on its type, such as open, save, or folder selection.
+// ---
+
 #include "chrome/browser/ash/file_manager/select_file_dialog_util.h"
 
 #include "ui/base/l10n/l10n_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File tasks notifier unit tests
+// summary: Unit tests for FileTasksNotifier covering file availability queries, fake DriveFS metadata handling, and observer notifications for file opens and downloads.
+// ---
+
 #include "chrome/browser/ash/file_manager/file_tasks_notifier.h"
 
 #include <memory>

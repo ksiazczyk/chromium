@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Trash unit test base fixture
+// summary: Base test fixture that sets up a testing profile, fake Drive integration, trash service, and directories shared by file manager trash unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_FILE_MANAGER_TRASH_UNITTEST_BASE_H_
 #define CHROME_BROWSER_ASH_FILE_MANAGER_TRASH_UNITTEST_BASE_H_
 

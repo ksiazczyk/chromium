@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SnapshotManager implementation
+// summary: Implements creation of local snapshot file copies, computing and freeing necessary disk space before snapshotting.
+// ---
+
 #include "chrome/browser/ash/file_manager/snapshot_manager.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delete IO task implementation
+// summary: Implements the delete IO task that removes files one by one through the file system operation runner and reports progress and per-file errors.
+// ---
+
 #include "chrome/browser/ash/file_manager/delete_io_task.h"
 
 #include <memory>

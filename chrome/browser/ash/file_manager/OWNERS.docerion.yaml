@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the file manager directory
+summary: Delegates code ownership to the OWNERS file of //ui/file_manager.

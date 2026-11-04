@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: File suggest include rules
+summary: Restricts ChromeOS dependencies on //chrome and lists allowed includes for the file_suggest directory.
