@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media capture picker manager
+// summary: Entry point for showing the media capture picker, defining picker parameters, result and pre-show failure histograms, and delegate callbacks for tab, window, and screen sharing.
+// ---
+
 package org.chromium.chrome.browser.media;
 
 import android.content.Context;

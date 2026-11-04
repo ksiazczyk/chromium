@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media launcher activity
+// summary: Activity that receives media-viewing content URIs from other apps, validates their MIME type, and routes them to Chrome's media viewer Custom Tab.
+// ---
+
 package org.chromium.chrome.browser.media;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

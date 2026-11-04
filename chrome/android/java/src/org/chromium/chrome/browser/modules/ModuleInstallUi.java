@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ModuleInstallUi
+// summary: Android UI helper that shows toasts and a failure infobar informing the user about the status of installing a dynamic feature module in Chrome.
+// ---
+
 package org.chromium.chrome.browser.modules;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

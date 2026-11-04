@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History desktop navigation mediator
+// summary: Populates the navigation pane model with history and tabs-from-other-devices items and handles their selection state and click callbacks.
+// ---
+
 package org.chromium.chrome.browser.history;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageContainerCoordinator
+// summary: Coordinates the message container view, adjusting its margins and browser control visibility while messages are shown and notifying observers of show and hide events.
+// ---
+
 package org.chromium.chrome.browser.messages;
 
 import android.content.res.Resources;

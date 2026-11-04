@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface for new tab page view interaction with the browser
+// summary: Interface extending SuggestionsUiDelegate that exposes search box focusing, URL loading, voice search, and page state queries for the new tab page.
+// ---
+
 package org.chromium.chrome.browser.ntp;
 
 import org.chromium.build.annotations.NullMarked;

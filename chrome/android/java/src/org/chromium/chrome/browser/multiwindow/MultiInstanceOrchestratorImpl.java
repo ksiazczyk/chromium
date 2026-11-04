@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Singleton multi-instance orchestrator implementation
+// summary: Singleton implementation of MultiInstanceOrchestrator that assigns managers to activities and coordinates tab reparenting between windows.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import static org.chromium.chrome.browser.multiwindow.MultiInstanceManager.INVALID_WINDOW_ID;

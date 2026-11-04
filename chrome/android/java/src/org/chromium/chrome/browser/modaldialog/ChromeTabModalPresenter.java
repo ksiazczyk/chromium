@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeTabModalPresenter
+// summary: Presents tab modal dialogs in Chrome for Android, blocking interaction with selected UI elements such as browser controls while a dialog is visible.
+// ---
+
 package org.chromium.chrome.browser.modaldialog;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

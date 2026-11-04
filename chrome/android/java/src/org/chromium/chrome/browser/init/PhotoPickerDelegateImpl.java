@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PhotoPickerDelegateImpl
+// summary: Chrome-specific PhotoPicker delegate that shows the photo picker dialog and blocks file picking while an ephemeral tab is open.
+// ---
+
 package org.chromium.chrome.browser.init;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

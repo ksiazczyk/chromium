@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Push messaging service bridge
+// summary: Bridge that lets PushMessagingServiceImpl verify and revoke Notifications permission for an origin through a call into native code.
+// ---
+
 package org.chromium.chrome.browser.notifications;
 
 import org.jni_zero.JniType;

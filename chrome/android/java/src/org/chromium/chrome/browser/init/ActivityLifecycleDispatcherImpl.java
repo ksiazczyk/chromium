@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Activity lifecycle dispatcher for async initialization activities
+// summary: Dispatches Android activity lifecycle events of activities extending AsyncInitializationActivity to registered observers, clearing them when the backing activity is destroyed.
+// ---
+
 package org.chromium.chrome.browser.init;
 
 import android.app.Activity;

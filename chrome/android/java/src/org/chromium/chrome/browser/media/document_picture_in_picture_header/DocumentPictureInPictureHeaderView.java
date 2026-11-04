@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document Picture-in-Picture header view
+// summary: Custom LinearLayout that renders the header's security icon, URL bar, and back-to-tab button and applies tint, color scheme, and sizing updates.
+// ---
+
 package org.chromium.chrome.browser.media.document_picture_in_picture_header;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thin wrapper for showing Chrome media notifications
+// summary: Static show method that enables multiple media notifications per feature flag and displays media notifications using the Chrome-specific controller delegate.
+// ---
+
 package org.chromium.chrome.browser.media.ui;
 
 import org.chromium.build.annotations.NullMarked;

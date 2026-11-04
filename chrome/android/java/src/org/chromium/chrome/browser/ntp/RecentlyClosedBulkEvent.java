@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RecentlyClosedBulkEvent
+// summary: Model entry representing a recent closure of multiple tabs and groups from TabRestoreService.
+// ---
+
 package org.chromium.chrome.browser.ntp;
 
 import org.chromium.base.Token;

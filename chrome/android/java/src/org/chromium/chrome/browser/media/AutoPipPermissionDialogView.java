@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto picture-in-picture permission dialog view
+// summary: Overlay view showing the auto picture-in-picture permission prompt with allow-every-visit, allow-once, and block options in the PiP window.
+// ---
+
 package org.chromium.chrome.browser.media;
 
 import android.content.Context;

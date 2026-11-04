@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incognito window night mode state provider
+// summary: Night mode provider that keeps incognito windows permanently in night mode.
+// ---
+
 package org.chromium.chrome.browser.incognito;
 
 import androidx.appcompat.app.AppCompatDelegate;

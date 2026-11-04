@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation sheet coordinator
+// summary: Coordinator implementing the navigation history bottom sheet content, managing swipe thresholds, history list items, and sheet open and close behavior.
+// ---
+
 package org.chromium.chrome.browser.gesturenav;
 
 import android.content.Context;

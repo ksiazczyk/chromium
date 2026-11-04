@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup coordinator for tabbed window restoration
+// summary: Coordinates startup window restoration and crash recovery lifecycle events between the startup window policy and crash recovery delegates.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import android.app.Activity;

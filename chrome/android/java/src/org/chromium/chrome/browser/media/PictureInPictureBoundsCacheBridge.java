@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PictureInPictureBoundsCache JNI bridge
+// summary: Java bridge to the C++ PictureInPictureBoundsCache for getting, updating, and clearing cached Picture-in-Picture window bounds.
+// ---
+
 package org.chromium.chrome.browser.media;
 
 import android.graphics.Rect;

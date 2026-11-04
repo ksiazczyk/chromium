@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Empty BrowserParts implementation
+// summary: Provides no-op default implementations of the BrowserParts startup callbacks so subclasses only override what they need.
+// ---
+
 package org.chromium.chrome.browser.init;
 
 import org.chromium.build.annotations.NullMarked;

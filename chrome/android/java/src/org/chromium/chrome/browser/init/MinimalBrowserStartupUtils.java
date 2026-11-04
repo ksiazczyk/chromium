@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MinimalBrowserStartupUtils
+// summary: Helper class for features that can run in minimal browser mode, defining a servicification startup task tag constant.
+// ---
+
 package org.chromium.chrome.browser.init;
 
 import org.chromium.build.annotations.NullMarked;

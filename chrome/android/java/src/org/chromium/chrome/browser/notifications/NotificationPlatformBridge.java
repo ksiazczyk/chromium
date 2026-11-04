@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationPlatformBridge
+// summary: Main bridge between native code and Android for showing notifications, handling actions, replies, channels and site settings.
+// ---
+
 package org.chromium.chrome.browser.notifications;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

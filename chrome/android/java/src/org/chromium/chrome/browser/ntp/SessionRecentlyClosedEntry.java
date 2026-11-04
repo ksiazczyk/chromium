@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session-based recently closed entry base class
+// summary: Base class for recently closed entries from TabRestoreService, adding the session ID of the entry.
+// ---
+
 package org.chromium.chrome.browser.ntp;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NativeInitializationController
+// summary: Controls asynchronous startup states for an activity, loading the native library in the background and deferring intents and activity results until ready.
+// ---
+
 package org.chromium.chrome.browser.init;
 
 import android.content.Intent;

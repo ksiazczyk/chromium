@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History manager utilities
+// summary: Utilities that launch the history manager as a tab on tablets or as HistoryActivity on phones, including app-specific history for CCTs.
+// ---
+
 package org.chromium.chrome.browser.history;
 
 import android.app.Activity;

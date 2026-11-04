@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incognito new tab page view
+// summary: FrameLayout implementing the incognito new tab page, handling scrolling, bottom fading shadow, and inflation of the description layout.
+// ---
+
 package org.chromium.chrome.browser.ntp;
 
 import android.content.Context;

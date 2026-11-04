@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SideSlideLayout
+// summary: Custom ViewGroup that renders an arrow widget reacting to horizontal swipe gestures and triggers back or forward navigation once the gesture passes a threshold, notifying listeners.
+// ---
+
 package org.chromium.chrome.browser.gesturenav;
 
 import android.content.Context;

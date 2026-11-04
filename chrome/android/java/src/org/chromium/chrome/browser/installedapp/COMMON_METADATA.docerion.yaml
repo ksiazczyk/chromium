@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: COMMON_METADATA
+summary: Declares the shared monorail component Platform>Apps>AppLauncher>Install used for issue tracking in this directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manager for the NewTabPageLocation policy
+// summary: Singleton that observes the NewTabPageLocation override preference and updates the policy URL override registry when the managed preference changes.
+// ---
+
 package org.chromium.chrome.browser.ntp;
 
 import androidx.annotation.VisibleForTesting;

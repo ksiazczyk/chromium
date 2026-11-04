@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto picture-in-picture privacy mask view
+// summary: Frame layout view that obscures underlying web content and blocks interaction behind the auto picture-in-picture permission prompt.
+// ---
+
 package org.chromium.chrome.browser.media;
 
 import android.content.Context;

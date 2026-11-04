@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab sharing toolbar properties
+// summary: Defines the writable property keys for the tab sharing toolbar model, including status text and button click listeners.
+// ---
+
 package org.chromium.chrome.browser.media;
 
 import org.chromium.build.annotations.NullMarked;

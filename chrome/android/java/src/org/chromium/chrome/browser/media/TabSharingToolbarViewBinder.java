@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab sharing toolbar view binder
+// summary: Binds the tab sharing toolbar model properties to views, setting status text and click listeners for the stop and share-instead buttons.
+// ---
+
 package org.chromium.chrome.browser.media;
 
 import android.text.method.LinkMovementMethod;

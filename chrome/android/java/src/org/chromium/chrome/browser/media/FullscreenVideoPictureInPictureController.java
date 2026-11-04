@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fullscreen video picture-in-picture controller
+// summary: Controller for entering and exiting picture-in-picture mode for fullscreen videos, recording duration and exit reason metrics.
+// ---
+
 package org.chromium.chrome.browser.media;
 
 import android.annotation.SuppressLint;

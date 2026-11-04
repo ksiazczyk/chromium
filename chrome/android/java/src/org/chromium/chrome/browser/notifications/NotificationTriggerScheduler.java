@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification trigger scheduler
+// summary: Singleton that schedules notification triggers to wake Chrome so scheduled notifications can be shown, tracking and resetting the next trigger timestamp.
+// ---
+
 package org.chromium.chrome.browser.notifications;
 
 import androidx.annotation.VisibleForTesting;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History content manager
+// summary: Manages the history list content, including selection, filtering, item interactions, and related UI coordination for the history page.
+// ---
+
 package org.chromium.chrome.browser.history;
 
 import static android.content.Intent.ACTION_VIEW;

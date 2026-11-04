@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Immersive video format radio group view
+// summary: Custom view that presents radio button options for immersive video formats, mapping each option to a stereo mode and projection type and reporting the selection.
+// ---
+
 package org.chromium.chrome.browser.media.immersive_playback;
 
 import android.annotation.SuppressLint;

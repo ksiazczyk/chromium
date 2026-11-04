@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActionInfo notification action data helper
+// summary: Helper class for passing notification action information such as title, icon, type and placeholder over the JNI.
+// ---
+
 package org.chromium.chrome.browser.notifications;
 
 import android.graphics.Bitmap;

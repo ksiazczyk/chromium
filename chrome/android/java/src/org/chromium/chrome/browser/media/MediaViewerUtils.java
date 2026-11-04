@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media viewer utilities
+// summary: Utility class providing static methods to build media viewer intents, check media MIME types, and record metrics for media launched from other apps.
+// ---
+
 package org.chromium.chrome.browser.media;
 
 import android.app.PendingIntent;

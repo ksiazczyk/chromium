@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNI bridge to initialize the native feature list
+// summary: Calls into native code through JNI to initialize the feature list for the variations Android module.
+// ---
+
 package org.chromium.chrome.browser.init;
 
 import org.jni_zero.JNINamespace;

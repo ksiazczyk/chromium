@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MessageContainerObserver
+// summary: Interface for observers that receive notifications when the message container is shown or hidden, including the container's view bounds.
+// ---
+
 package org.chromium.chrome.browser.messages;
 
 import android.graphics.Rect;

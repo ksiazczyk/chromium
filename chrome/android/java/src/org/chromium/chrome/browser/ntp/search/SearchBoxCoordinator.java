@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Coordinator for the fake search box on the New Tab Page
+// summary: Reacts to external events and runs the business logic for the fake search box, updating a property model that drives the view.
+// ---
+
 package org.chromium.chrome.browser.ntp.search;
 
 import android.content.Context;

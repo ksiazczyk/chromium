@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Base activity for asynchronous browser initialization
+// summary: Abstract activity base class that coordinates pre-native and post-native startup through delegates, lifecycle dispatching, and multi-window state tracking.
+// ---
+
 package org.chromium.chrome.browser.init;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

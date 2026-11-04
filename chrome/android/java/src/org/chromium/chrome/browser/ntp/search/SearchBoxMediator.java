@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mediator for the New Tab Page fake search box
+// summary: Implements fake search box behavior including hint animations, Lens and voice search, search engine icon updates, and toolbar transition handling.
+// ---
+
 package org.chromium.chrome.browser.ntp.search;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native page factory for Chrome on Android
+// summary: Factory that builds the appropriate native page, such as the new tab page, bookmarks, history, downloads, settings, or PDF page, for a given URL and tab state.
+// ---
+
 package org.chromium.chrome.browser.native_page;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incognito tabbed snapshot controller
+// summary: Prevents incognito tabs from appearing in Android Recents snapshots for ChromeTabbedActivity by observing layout and tab model state.
+// ---
+
 package org.chromium.chrome.browser.incognito;
 
 import android.app.Activity;

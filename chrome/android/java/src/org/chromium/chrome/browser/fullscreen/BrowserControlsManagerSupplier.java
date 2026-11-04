@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserControlsManagerSupplier
+// summary: Provides static access to a BrowserControlsManager supplier stored as UnownedUserData on a WindowAndroid.
+// ---
+
 package org.chromium.chrome.browser.fullscreen;
 
 import org.chromium.base.UnownedUserDataHost;

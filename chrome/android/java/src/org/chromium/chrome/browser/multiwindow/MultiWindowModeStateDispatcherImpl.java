@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-window mode state dispatcher implementation
+// summary: Implements MultiWindowModeStateDispatcher by notifying observers of multi-window mode changes and exposing window state queries.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import android.app.Activity;

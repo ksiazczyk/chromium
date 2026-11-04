@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup latency injector for Chrome Android
+// summary: Injects a configurable busy-wait delay during startup when a feature flag is enabled and records the total wait time in a histogram.
+// ---
+
 package org.chromium.chrome.browser.latency_injection;
 
 import org.chromium.base.TimeUtils;

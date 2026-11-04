@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostZoomListenerFactory
+// summary: Factory that creates and manages one HostZoomListener instance per profile, letting incognito profiles share the listener of their original profile.
+// ---
+
 package org.chromium.chrome.browser.host_zoom;
 
 import org.chromium.build.annotations.NullMarked;

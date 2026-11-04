@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FullscreenHtmlApiHandlerBase
+// summary: Abstract base class that updates the UI in response to HTML Fullscreen API requests, managing persistent fullscreen mode and system bar visibility.
+// ---
+
 package org.chromium.chrome.browser.fullscreen;
 
 import static android.view.Display.INVALID_DISPLAY;

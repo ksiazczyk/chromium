@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RadioButtonGroupHomepagePreference
+// summary: Custom radio button group preference for the homepage setting, offering the Chrome NTP option or a user-customized URL entry.
+// ---
+
 package org.chromium.chrome.browser.homepage.settings;
 
 import android.content.Context;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation sheet view
+// summary: Relative layout used as the bottom sheet content view, exposing the vertical scroll offset of the navigation history list.
+// ---
+
 package org.chromium.chrome.browser.gesturenav;
 
 import android.content.Context;

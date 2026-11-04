@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HubLayoutPublicTransitTest
+// summary: Public transit instrumentation tests covering entering and leaving the Hub and related navigation flows.
+// ---
+
 package org.chromium.chrome.browser.hub;
 
 import static org.chromium.base.test.transit.TransitAsserts.assertFinalDestination;

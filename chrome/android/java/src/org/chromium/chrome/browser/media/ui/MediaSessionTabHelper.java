@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab helper for Chrome media session behavior
+// summary: Tab-attached UserData helper wrapping MediaSessionHelper to manage Chrome-specific media session handling, including favicon updates and web contents changes.
+// ---
+
 package org.chromium.chrome.browser.media.ui;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

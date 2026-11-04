@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Snap scroll helper for the New Tab Page
+// summary: Implements snap scroll behavior for the search box on the New Tab Page, reacting to touch and scroll events.
+// ---
+
 package org.chromium.chrome.browser.ntp;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

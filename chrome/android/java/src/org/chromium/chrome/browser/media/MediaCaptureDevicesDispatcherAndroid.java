@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media capture devices dispatcher Java bridge
+// summary: Java access point to MediaCaptureDevicesDispatcher for querying and manipulating media capture state and observing tab capture changes.
+// ---
+
 package org.chromium.chrome.browser.media;
 
 import android.util.ArrayMap;

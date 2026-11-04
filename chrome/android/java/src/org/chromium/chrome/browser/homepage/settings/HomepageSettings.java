@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HomepageSettings
+// summary: Settings fragment that lets users configure homepage preferences, wiring the homepage switch and radio group to policy-managed delegates.
+// ---
+
 package org.chromium.chrome.browser.homepage.settings;
 
 import android.os.Bundle;

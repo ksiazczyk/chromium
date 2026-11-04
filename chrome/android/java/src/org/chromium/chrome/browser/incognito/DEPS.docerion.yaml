@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Incognito package dependency rules
+summary: Chromium DEPS file defining include rules that allow this package to depend on chrome/browser/tabpersistence.

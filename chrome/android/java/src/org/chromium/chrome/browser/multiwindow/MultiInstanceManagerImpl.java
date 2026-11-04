@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-instance mode manager implementation
+// summary: Manages multi-instance mode for an associated activity, validating correct startup and reacting to lifecycle and multi-window state changes.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

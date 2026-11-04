@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the NTP folder
+summary: Directory metadata that reuses the common NTP metadata via a mixin, applying the same team and bug component settings.

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the modaldialog folder
+summary: Delegates code ownership of this directory to the shared modal dialog OWNERS file in ui/android.

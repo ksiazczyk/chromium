@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: New tab page coordinator
+// summary: Coordinator that builds and manages new tab page UI elements such as the search box, logo, home modules, and customization promos.
+// ---
+
 package org.chromium.chrome.browser.ntp;
 
 import static org.chromium.build.NullUtil.assertNonNull;

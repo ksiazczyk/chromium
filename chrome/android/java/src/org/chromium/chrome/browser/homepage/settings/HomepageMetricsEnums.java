@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HomepageMetricsEnums
+// summary: Defines IntDef enums for homepage location type and home button status used to record Settings.Homepage metrics histograms.
+// ---
+
 package org.chromium.chrome.browser.homepage.settings;
 
 import androidx.annotation.IntDef;

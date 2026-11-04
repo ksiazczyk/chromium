@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionRequestNotificationHelper
+// summary: Helper for extension request notifications that opens Chrome Web Store pages for approved extensions in Chrome.
+// ---
+
 package org.chromium.chrome.browser.notifications;
 
 import android.content.Context;

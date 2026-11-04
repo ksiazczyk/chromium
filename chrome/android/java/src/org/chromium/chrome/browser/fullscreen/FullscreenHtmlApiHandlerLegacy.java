@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FullscreenHtmlApiHandlerLegacy
+// summary: Legacy implementation of the HTML fullscreen handler that controls system bars through Android system UI visibility flags.
+// ---
+
 package org.chromium.chrome.browser.fullscreen;
 
 import static android.view.View.SYSTEM_UI_FLAG_FULLSCREEN;

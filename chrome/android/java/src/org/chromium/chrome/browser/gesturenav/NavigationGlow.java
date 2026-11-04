@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Abstract base for navigation edge glow
+// summary: Abstract class defining the glow effect shown on the screen edge when forward navigation reaches the end of history.
+// ---
+
 package org.chromium.chrome.browser.gesturenav;
 
 import android.view.ViewGroup;

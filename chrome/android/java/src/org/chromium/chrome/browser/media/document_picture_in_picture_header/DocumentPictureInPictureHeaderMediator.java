@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document Picture-in-Picture header mediator
+// summary: Observes desktop windowing app header state and theme color changes to update the header's property model, including URL and security icon state.
+// ---
+
 package org.chromium.chrome.browser.media.document_picture_in_picture_header;
 
 import android.content.Context;

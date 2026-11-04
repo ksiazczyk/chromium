@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smooth alpha transition delegate for the new tab page
+// summary: Implements NativePage.SmoothTransitionDelegate with a short alpha animation that can wait for feed surface restoration before starting.
+// ---
+
 package org.chromium.chrome.browser.ntp;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

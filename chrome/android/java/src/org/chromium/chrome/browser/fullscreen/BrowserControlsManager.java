@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserControlsManager
+// summary: Manages the visibility and positioning of browser controls such as the toolbar in Chrome for Android, including show and hide animations.
+// ---
+
 package org.chromium.chrome.browser.fullscreen;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

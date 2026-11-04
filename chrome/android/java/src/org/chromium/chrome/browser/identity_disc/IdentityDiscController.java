@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IdentityDiscController
+// summary: Android Java controller for Chrome's identity disc toolbar button, handling sign-in state, profile data, sync prompts, and related user actions.
+// ---
+
 package org.chromium.chrome.browser.identity_disc;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

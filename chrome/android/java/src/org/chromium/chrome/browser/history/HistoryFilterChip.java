@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History filter chip
+// summary: Manages a single history filter chip and its filter sheet bottom sheet, tracking the selected filter item and notifying selection changes.
+// ---
+
 package org.chromium.chrome.browser.history;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

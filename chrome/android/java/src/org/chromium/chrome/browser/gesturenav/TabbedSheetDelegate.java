@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabbedSheetDelegate
+// summary: NavigationSheet.Delegate implementation for tabbed mode that supplies navigation history entries from the tab's web contents and navigates to a chosen index or the full history manager.
+// ---
+
 package org.chromium.chrome.browser.gesturenav;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

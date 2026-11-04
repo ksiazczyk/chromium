@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeMessageAutodismissDurationProvider
+// summary: Implements the message autodismiss duration provider for Chrome, supplying default and accessibility-aware durations that can be overridden via Finch parameters.
+// ---
+
 package org.chromium.chrome.browser.messages;
 
 import android.text.format.DateUtils;

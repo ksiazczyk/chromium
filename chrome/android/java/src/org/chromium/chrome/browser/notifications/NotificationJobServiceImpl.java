@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationJobServiceImpl
+// summary: Processes jobs scheduled from web notification user actions, packaging notification extras and starting Chrome on the UI thread.
+// ---
+
 package org.chromium.chrome.browser.notifications;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HostZoomListener
+// summary: Java observer hub that registers a single native HostZoomMap observer per profile and fans zoom level change notifications out to Java-side ZoomEventsObserver instances.
+// ---
+
 package org.chromium.chrome.browser.host_zoom;
 
 import org.jni_zero.CalledByNative;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto picture-in-picture permission controller
+// summary: Manages the permission prompt for document auto picture-in-picture, checking the content setting and showing the dialog UI when needed.
+// ---
+
 package org.chromium.chrome.browser.media;
 
 import static org.chromium.build.NullUtil.assertNonNull;

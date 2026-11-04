@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UmaActivityObserver - UMA session handling per activity type
+// summary: Helper class that starts and ends UMA sessions as the Android activity type changes, coordinating with UmaSessionStats.
+// ---
+
 package org.chromium.chrome.browser.metrics;
 
 import android.app.Activity;

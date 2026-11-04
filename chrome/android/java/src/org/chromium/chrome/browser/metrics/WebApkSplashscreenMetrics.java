@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebApkSplashscreenMetrics - WebAPK splashscreen cold start metrics
+// summary: Records cold start WebAPK splashscreen metrics from the shell APK launch until the splashscreen is hidden.
+// ---
+
 package org.chromium.chrome.browser.metrics;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeMessageQueueMediator
+// summary: Glue class on the Chrome side that suspends and resumes the message queue based on fullscreen layouts, browser controls, URL focus, bottom sheets and modal dialogs.
+// ---
+
 package org.chromium.chrome.browser.messages;
 
 import android.os.Handler;

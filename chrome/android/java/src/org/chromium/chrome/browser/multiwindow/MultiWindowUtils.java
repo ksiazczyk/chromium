@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-window and multi-instance utility class
+// summary: Utility helpers for multi-window and multi-instance support, including new window intents, task lookups, and instance state persistence.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import static android.os.Build.VERSION.SDK_INT;

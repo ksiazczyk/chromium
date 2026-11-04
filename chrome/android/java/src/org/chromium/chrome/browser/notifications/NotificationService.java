@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationService
+// summary: Split-compatible intent service entry point for notification intents, delegating to NotificationServiceImpl and legacy broadcast receivers.
+// ---
+
 package org.chromium.chrome.browser.notifications;
 
 import static org.chromium.chrome.browser.base.SplitCompatApplication.CHROME_SPLIT_NAME;

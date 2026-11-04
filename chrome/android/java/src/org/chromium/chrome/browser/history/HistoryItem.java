@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: History item model
+// summary: Model of a single browsing history entry holding URL, title, timestamps, blocked and actor visit flags, and cluster metadata.
+// ---
+
 package org.chromium.chrome.browser.history;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Factory for multi-instance manager creation
+// summary: Creates the appropriate MultiInstanceManager implementation depending on whether the multi-instance API 31 feature is enabled.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import android.app.Activity;

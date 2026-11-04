@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document Picture-in-Picture header coordinator
+// summary: Wires together the header's mediator, property model, and view binder, and manages their lifecycle and communication with other coordinators.
+// ---
+
 package org.chromium.chrome.browser.media.document_picture_in_picture_header;
 
 import android.content.Context;

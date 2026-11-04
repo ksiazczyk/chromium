@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeHttpAuthHandler
+// summary: Android Java class representing an HTTP authentication request for the UI, allowing the challenge to be fulfilled or canceled and showing the login prompt with autofill support.
+// ---
+
 package org.chromium.chrome.browser.login;
 
 import android.app.Activity;

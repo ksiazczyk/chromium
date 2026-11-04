@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Document Picture-in-Picture header view binder
+// summary: Maps property model changes to updates on the header view, such as visibility, height, padding, background color, and icon resources.
+// ---
+
 package org.chromium.chrome.browser.media.document_picture_in_picture_header;
 
 import android.view.View;

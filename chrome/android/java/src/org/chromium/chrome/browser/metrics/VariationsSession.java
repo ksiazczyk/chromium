@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VariationsSession - variations service session setup
+// summary: Sets up communication with the native VariationsService, primarily to trigger variation seed fetches on application startup.
+// ---
+
 package org.chromium.chrome.browser.metrics;
 
 import org.jni_zero.JniType;

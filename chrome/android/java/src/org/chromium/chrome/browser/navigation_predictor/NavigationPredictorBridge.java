@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NavigationPredictorBridge Java JNI bridge
+// summary: Java bridge that notifies native code of tab lifecycle events, reporting warm resume, cold start, and pause per profile for navigation prediction.
+// ---
+
 package org.chromium.chrome.browser.navigation_predictor;
 
 import org.jni_zero.JniType;

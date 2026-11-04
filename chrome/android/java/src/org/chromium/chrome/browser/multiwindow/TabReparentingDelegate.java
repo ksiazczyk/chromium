@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab reparenting delegate for multi-window Chrome
+// summary: Holds logic to reparent tabs and tab groups to new or existing Chrome windows on Android, building window launch intents and starting reparenting tasks.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import static org.chromium.chrome.browser.multiwindow.MultiInstanceManager.INVALID_WINDOW_ID;

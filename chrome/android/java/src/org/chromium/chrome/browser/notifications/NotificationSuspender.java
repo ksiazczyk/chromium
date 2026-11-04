@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NotificationSuspender
+// summary: Suspends and revives notifications by storing their resources in the native NotificationDatabase and canceling or re-displaying the Android notifications.
+// ---
+
 package org.chromium.chrome.browser.notifications;
 
 import static org.chromium.build.NullUtil.assertNonNull;

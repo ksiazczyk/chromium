@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Directory owners file
+summary: OWNERS file listing jinsukkim@chromium.org as the code owner for the gesture navigation directory.

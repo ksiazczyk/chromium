@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab sharing toolbar UI coordinator
+// summary: Manages tab sharing toolbar UI per window by observing the global TabSharingUiManager and adding or removing toolbars for active sessions.
+// ---
+
 package org.chromium.chrome.browser.media;
 
 import android.content.Context;

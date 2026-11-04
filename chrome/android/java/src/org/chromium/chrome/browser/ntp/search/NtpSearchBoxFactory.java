@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Factory for creating New Tab Page search box instances
+// summary: Creates NtpSearchBox instances, choosing between the realbox coordinator and the fake search box coordinator based on the forced realbox feature flag.
+// ---
+
 package org.chromium.chrome.browser.ntp.search;
 
 import android.content.Context;

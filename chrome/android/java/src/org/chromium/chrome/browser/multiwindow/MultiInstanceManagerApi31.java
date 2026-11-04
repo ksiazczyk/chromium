@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: API 31 multi-instance manager implementation
+// summary: Implements multi-instance window management on Android API 31 and above, covering task restoration, window naming, and instance lifecycle.
+// ---
+
 package org.chromium.chrome.browser.multiwindow;
 
 import static org.chromium.build.NullUtil.assertNonNull;

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA for the modaldialog folder
+summary: Points to the shared modal dialog metadata mixins defined in ui/android for this directory.

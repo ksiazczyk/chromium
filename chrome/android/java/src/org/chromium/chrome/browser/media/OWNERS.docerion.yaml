@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for media package
+summary: Chromium OWNERS file listing code owners for the media package, with per-file ownership for Picture-in-Picture files delegated to the picture_in_picture owners.

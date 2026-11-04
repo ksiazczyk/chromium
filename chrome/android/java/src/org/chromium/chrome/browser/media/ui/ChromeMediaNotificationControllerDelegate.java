@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome-specific delegate for the media notification controller
+// summary: Implements MediaNotificationController.Delegate with Chrome-specific behavior, mapping media type IDs to notification services, button receivers and notification groups.
+// ---
+
 package org.chromium.chrome.browser.media.ui;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

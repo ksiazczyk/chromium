@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FullscreenHtmlApiHandlerFactory
+// summary: Creates either the compat or legacy fullscreen handler depending on feature flags and whether the device is automotive.
+// ---
+
 package org.chromium.chrome.browser.fullscreen;
 
 import android.app.Activity;

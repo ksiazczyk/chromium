@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome browser startup orchestrator
+// summary: Singleton application-level delegate that orchestrates synchronous, pre-native, and post-native startup and queues tasks until full browser initialization completes.
+// ---
+
 package org.chromium.chrome.browser.init;
 
 import android.os.StrictMode;

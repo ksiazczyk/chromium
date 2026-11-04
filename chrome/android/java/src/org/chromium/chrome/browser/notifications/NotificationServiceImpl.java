@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Notification service implementation
+// summary: Receives intents fired in response to user actions on Android notifications, tracking trampoline activity and scheduling jobs to process the events.
+// ---
+
 package org.chromium.chrome.browser.notifications;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

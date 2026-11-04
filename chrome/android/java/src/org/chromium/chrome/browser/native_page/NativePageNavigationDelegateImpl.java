@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the native page navigation delegate
+// summary: Implementation of NativePageNavigationDelegate that opens URLs in the current tab, new tabs, groups, other windows, or incognito and saves URLs for offline use.
+// ---
+
 package org.chromium.chrome.browser.native_page;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

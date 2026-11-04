@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for the media UI component
+summary: Chromium directory metadata assigning the folder to the Internals>Media>UI monorail component, the media-dev team, and a Buganizer component.

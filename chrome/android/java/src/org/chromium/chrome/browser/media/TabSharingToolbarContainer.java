@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab sharing toolbar container
+// summary: Linear layout container that stacks tab sharing toolbars below the browser top controls and updates visibility and height per active session.
+// ---
+
 package org.chromium.chrome.browser.media;
 
 import android.content.Context;
