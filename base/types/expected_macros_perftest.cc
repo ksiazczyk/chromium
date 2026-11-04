@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Performance tests for expected macros
+// summary: Benchmarks the overhead of RETURN_IF_ERROR and ASSIGN_OR_RETURN macro invocations using google_benchmark registered as GTest tests.
+// ---
+
 
 #include "base/types/expected_macros.h"
 

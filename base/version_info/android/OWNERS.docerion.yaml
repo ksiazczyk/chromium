@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file inheriting base/android reviewers
+summary: Delegates code ownership for this directory to the owners listed in base/android/OWNERS.

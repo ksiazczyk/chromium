@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Type-safe integer ID wrappers (IdType)
+// summary: Defines IdType and IdType32/64 strong-alias templates that wrap integer identifiers with null-value checks, ID generation, and compile-time protection against mixing ID types.
+// ---
+
 #ifndef BASE_TYPES_ID_TYPE_H_
 #define BASE_TYPES_ID_TYPE_H_
 

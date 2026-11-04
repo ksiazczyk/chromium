@@ -1,0 +1,4 @@
+# Docerion header of tests.py.
+type: test
+title: Chrome stdlib diff tests
+summary: Defines the ChromeStdlib diff test suite covering Chrome tasks, navigation events, histograms and other stdlib module queries over saved traces.

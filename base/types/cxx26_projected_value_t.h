@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: C++26 projected_value_t backport
+// summary: Defines base::projected_value_t, an alias mirroring C++26 std::projected_value_t for indirectly readable iterators with projections.
+// ---
+
 #ifndef BASE_TYPES_CXX26_PROJECTED_VALUE_T_H_
 #define BASE_TYPES_CXX26_PROJECTED_VALUE_T_H_
 

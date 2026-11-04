@@ -1,0 +1,4 @@
+# Docerion header of pass_key_nocompile.nc.
+type: test
+title: pass_key no-compile tests
+summary: No-compile test suite verifying that PassKey cannot be constructed, copied, or converted by unauthorized callers, with expected compiler errors.

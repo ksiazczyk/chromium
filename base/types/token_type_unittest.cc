@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TokenType unit tests
+// summary: Unit tests for base::TokenType verifying trivial copyability, default initialization, copy and assignment, comparison operators, hashing, string output, and death on construction from a null UnguessableToken.
+// ---
+
 #include "base/types/token_type.h"
 
 #include "base/test/gtest_util.h"

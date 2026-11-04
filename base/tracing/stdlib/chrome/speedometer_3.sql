@@ -2,6 +2,12 @@
 -- Use of this source code is governed by a BSD-style license that can be
 -- found in the LICENSE file.
 
+-- ---docerion
+-- type: source
+-- title: Speedometer 3 measures and iteration slices
+-- summary: Perfetto SQL module listing Speedometer 3 benchmark measure names and defining views for iteration slices used to find relevant slices in traces.
+-- ---
+
 -- List Speedometer 3 measures. Used to find relevant slices.
 CREATE PERFETTO VIEW _chrome_speedometer_3_measure_name (
   -- Expected slice name

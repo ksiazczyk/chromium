@@ -1,0 +1,4 @@
+# Docerion header of resources.grd.
+type: config
+title: Grit resource list for the tracing proto descriptor
+summary: Grit XML resource file that bundles the generated Chrome track event extension descriptor into a header and a tracing_proto_resources.pak data package.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux version extra utils implementation
+// summary: Implements Linux helpers that map the CHROME_VERSION_EXTRA environment variable to a release channel and derive the application name and session name prefix for Chrome and Chromium builds.
+// ---
+
 #include "base/version_info/nix/version_extra_utils.h"
 
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of scroll_jank_v3_new.out.
+type: test
+title: Scroll jank v3 new expected diff test output
+summary: Expected CSV output for the updated scroll jank v3 diff test covering browser and compositor jank causes with vsync intervals.

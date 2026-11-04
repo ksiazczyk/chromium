@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Optional utility helpers for std::optional and base::expected
+// summary: Declares helpers like OptionalToPtr, OptionalFromPtr, and OptionalToExpected for converting between std::optional, raw pointers, and base::expected.
+// ---
+
 #ifndef BASE_TYPES_OPTIONAL_UTIL_H_
 #define BASE_TYPES_OPTIONAL_UTIL_H_
 

@@ -2,6 +2,12 @@
 -- Use of this source code is governed by a BSD-style license that can be
 -- found in the LICENSE file.
 
+-- ---docerion
+-- type: source
+-- title: Chrome scroll update input and frame linkage tables
+-- summary: Ties LatencyInfo.Flow input events to Graphics.Pipeline frames for gesture scroll updates and derives timestamps and metadata for scroll stages.
+-- ---
+
 INCLUDE PERFETTO MODULE chrome.android_input;
 
 INCLUDE PERFETTO MODULE chrome.event_latency;

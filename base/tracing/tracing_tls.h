@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tracing thread-local flag header
+// summary: Declares GetThreadIsInTraceEvent, a thread-local flag used to avoid writing trace events re-entrantly.
+// ---
+
 #ifndef BASE_TRACING_TRACING_TLS_H_
 #define BASE_TRACING_TRACING_TLS_H_
 

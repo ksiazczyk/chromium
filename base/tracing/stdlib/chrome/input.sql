@@ -2,6 +2,12 @@
 -- Use of this source code is governed by a BSD-style license that can be
 -- found in the LICENSE file.
 
+-- ---docerion
+-- type: source
+-- title: Chrome input pipeline step tables
+-- summary: Defines tables of Chrome input pipeline (LatencyInfo) steps, per-input types and coalesced input relationships, with deduplication of repeated steps.
+-- ---
+
 INCLUDE PERFETTO MODULE chrome.android_input;
 
 INCLUDE PERFETTO MODULE intervals.intersect;

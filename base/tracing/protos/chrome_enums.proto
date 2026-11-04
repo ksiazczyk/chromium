@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome process and thread type enums for tracing
+// summary: Protobuf file defining ProcessType and ThreadType enums that give a detailed breakdown of Chrome process and thread kinds for typed trace events.
+// ---
+
 syntax = "proto2";
 
 package perfetto.protos.chrome_enums;

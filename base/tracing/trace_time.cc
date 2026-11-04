@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trace time boot clock implementation
+// summary: Implements TraceBootTicksNow, returning boot-time clock ticks for tracing on Linux, ChromeOS, Android and Fuchsia with a fallback to TRACE_TIME_TICKS_NOW elsewhere.
+// ---
+
 #include "base/tracing/trace_time.h"
 
 #include "base/trace_event/trace_event.h"

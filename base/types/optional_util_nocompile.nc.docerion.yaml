@@ -1,0 +1,4 @@
+# Docerion header of optional_util_nocompile.nc.
+type: test
+title: optional_util no-compile tests
+summary: No-compile test verifying that OptionalToPtr rejects binding to a temporary std::optional whose lifetime would end within the full expression.

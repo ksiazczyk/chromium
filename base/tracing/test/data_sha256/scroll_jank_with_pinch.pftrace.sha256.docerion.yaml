@@ -1,0 +1,4 @@
+# Docerion header of scroll_jank_with_pinch.pftrace.sha256.
+type: test
+title: SHA256 checksum for scroll_jank_with_pinch.pftrace
+summary: Contains the SHA256 digest used to verify the scroll_jank_with_pinch.pftrace trace in the tracing test data set.

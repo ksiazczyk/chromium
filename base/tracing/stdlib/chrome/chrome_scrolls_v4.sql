@@ -2,6 +2,12 @@
 -- Use of this source code is governed by a BSD-style license that can be
 -- found in the LICENSE file.
 
+-- ---docerion
+-- type: source
+-- title: Scroll jank v4 frame info tables
+-- summary: Defines helper macros and tables describing presented Chrome frames with scroll updates, pipeline stage breakdowns and jank classification per the scroll jank v4 metric.
+-- ---
+
 INCLUDE PERFETTO MODULE chrome.chrome_scrolls;
 
 INCLUDE PERFETTO MODULE chrome.scroll_jank_v4;

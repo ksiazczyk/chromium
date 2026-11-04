@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: C++ channel getter backed by JNI bridge
+// summary: Implements GetChannel and SetChannel, caching the release channel value fetched from Java through the VersionConstantsBridge JNI interface.
+// ---
+
 #include "base/version_info/android/channel_getter.h"
 
 #include <optional>

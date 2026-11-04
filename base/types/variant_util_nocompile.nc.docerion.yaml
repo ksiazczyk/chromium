@@ -1,0 +1,4 @@
+# Docerion header of variant_util_nocompile.nc.
+type: test
+title: No-compile tests for VariantIndexOfType
+summary: No-compile test suite asserting that VariantIndexOfType fails to compile when the queried type is duplicated in the variant or absent from it entirely.

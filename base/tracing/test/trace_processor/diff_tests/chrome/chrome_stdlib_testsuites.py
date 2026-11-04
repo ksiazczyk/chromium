@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: test
+# title: Chrome stdlib diff test suite list
+# summary: Lists the Chrome stdlib TestSuite classes shared between the Chromium and Perfetto repositories for use by the DiffTestRunner.
+# ---
+
 """
 A list of Chrome Stdlib TestSuites to be used by the DiffTestRunner. We
 define this here so we can use the same list in both the Chromium and

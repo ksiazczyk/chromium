@@ -7,6 +7,12 @@
 -- chrome instance. Chrome instance id needs to be recorded, and used here in
 -- combination with navigation id to uniquely identify page load metrics.
 
+-- ---docerion
+-- type: source
+-- title: Chrome page load metrics
+-- summary: Defines the chrome_page_loads table with navigation, first and largest contentful paint, DOM event and user timing metrics for Chrome page loads.
+-- ---
+
 INCLUDE PERFETTO MODULE slices.with_context;
 
 CREATE PERFETTO VIEW _fcp_metrics AS

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: is_instantiation trait unit tests
+// summary: Unit tests verifying the base::is_instantiation trait against single-argument and variadic template instantiations using compile-time static_asserts.
+// ---
+
 #include "base/types/is_instantiation.h"
 
 #include <map>

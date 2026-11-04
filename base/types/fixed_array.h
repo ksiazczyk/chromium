@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: base::FixedArray wrapper around absl::FixedArray
+// summary: Wraps absl::FixedArray so that trivially default-constructible elements are value-initialized instead of left uninitialized, avoiding undefined behavior.
+// ---
+
 #ifndef BASE_TYPES_FIXED_ARRAY_H_
 #define BASE_TYPES_FIXED_ARRAY_H_
 

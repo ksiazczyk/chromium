@@ -1,0 +1,4 @@
+# Docerion header of run_perfetto_diff_tests.py.
+type: script
+title: Perfetto diff tests runner wrapper
+summary: Wrapper script that invokes Perfetto's diff_test_trace_processor.py with descriptor paths, a name filter, and optional isolated script test output for the Chrome stdlib diff tests.

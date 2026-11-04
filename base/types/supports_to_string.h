@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SupportsToString concept
+// summary: Defines an internal concept that detects whether a type provides a ToString() method.
+// ---
+
 #ifndef BASE_TYPES_SUPPORTS_TO_STRING_H_
 #define BASE_TYPES_SUPPORTS_TO_STRING_H_
 

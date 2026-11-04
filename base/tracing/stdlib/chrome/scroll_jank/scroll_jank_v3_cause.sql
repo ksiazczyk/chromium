@@ -2,6 +2,12 @@
 -- Use of this source code is governed by a BSD-style license that can be
 -- found in the LICENSE file.
 
+-- ---docerion
+-- type: source
+-- title: Scroll jank V3 cause identification
+-- summary: Perfetto SQL functions that find direct child slices and identify the jank cause by comparing child slice durations between a janky slice and its reference slice.
+-- ---
+
 -- Finds all slices with a direct parent with the given parent_id.
 CREATE PERFETTO FUNCTION _direct_children_slice(
     -- Id of the parent slice.

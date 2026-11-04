@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Import wrapper for the Chrome track event descriptor
+// summary: Wrapper proto that publicly imports the Chrome tracing proto files so protoc can generate a single descriptor from one input file.
+// ---
+
 syntax = "proto2";
 
 // Import all .proto files that should be included in the proto descriptor.

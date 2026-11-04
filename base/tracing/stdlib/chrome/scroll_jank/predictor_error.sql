@@ -12,6 +12,12 @@
 -- For more details please check the following document:
 -- http://doc/1Y0u0Tq5eUZff75nYUzQVw6JxmbZAW9m64pJidmnGWsY.
 
+-- ---docerion
+-- type: source
+-- title: Predictor error scroll jank metric
+-- summary: Perfetto SQL module implementing the scrolling predictor jank metric, mirroring cc/metrics/predictor_jank_tracker.cc, with threshold functions and the chrome_predictor_error table.
+-- ---
+
 INCLUDE PERFETTO MODULE chrome.scroll_jank.scroll_offsets;
 
 -- The maximum delta value between three consecutive frames, used to determine

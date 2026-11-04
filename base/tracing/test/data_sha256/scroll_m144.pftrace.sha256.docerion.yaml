@@ -1,0 +1,4 @@
+# Docerion header of scroll_m144.pftrace.sha256.
+type: test
+title: SHA256 checksum for scroll_m144.pftrace
+summary: Contains the SHA256 hash that verifies the integrity of the scroll_m144.pftrace trace used in base tracing tests.

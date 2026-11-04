@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for base::expected
+// summary: Tests ok, unexpected, and expected semantics including constructors, conversions, value qualification, and swap.
+// ---
+
 #include "base/types/expected.h"
 
 #include <concepts>

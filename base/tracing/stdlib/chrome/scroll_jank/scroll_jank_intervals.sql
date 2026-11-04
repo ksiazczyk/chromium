@@ -2,6 +2,12 @@
 -- Use of this source code is governed by a BSD-style license that can be
 -- found in the LICENSE file.
 
+-- ---docerion
+-- type: source
+-- title: Scroll jank intervals and per-scroll stats
+-- summary: Perfetto SQL module defining janky EventLatency slices, janky frame presentation intervals, and per-scroll statistics such as missed vsyncs and janky frame percentages.
+-- ---
+
 INCLUDE PERFETTO MODULE chrome.chrome_scrolls;
 
 INCLUDE PERFETTO MODULE chrome.scroll_jank.scroll_jank_v3;

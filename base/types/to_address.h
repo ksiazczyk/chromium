@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SFINAE-compatible to_address wrapper
+// summary: Wraps std::to_address with constraints so calls with non-pointer-like types fail softly, enabling pointer-like type detection in templated code.
+// ---
+
 #ifndef BASE_TYPES_TO_ADDRESS_H_
 #define BASE_TYPES_TO_ADDRESS_H_
 

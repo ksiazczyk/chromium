@@ -2,6 +2,12 @@
 -- Use of this source code is governed by a BSD-style license that can be
 -- found in the LICENSE file.
 
+-- ---docerion
+-- type: source
+-- title: Android input pipeline tracing tables
+-- summary: Defines Perfetto tables that correlate Android InputReader, InputDispatcher and DeliverInputEvent steps by input id for traces with the view atrace category.
+-- ---
+
 INCLUDE PERFETTO MODULE slices.with_context;
 
 -- This module defines tables with information about Android input pipeline

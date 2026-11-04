@@ -2,6 +2,12 @@
 -- Use of this source code is governed by a BSD-style license that can be
 -- found in the LICENSE file.
 
+-- ---docerion
+-- type: source
+-- title: Speedometer benchmark metrics
+-- summary: Combines the Speedometer 2.1 and 3 modules to expose measure, iteration and score tables and functions for the detected Speedometer version.
+-- ---
+
 INCLUDE PERFETTO MODULE chrome.speedometer_2_1;
 
 INCLUDE PERFETTO MODULE chrome.speedometer_3;

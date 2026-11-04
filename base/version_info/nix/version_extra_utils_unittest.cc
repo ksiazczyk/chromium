@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Linux version extra utils
+// summary: Unit tests that verify channel detection, extended stable checks, application name, and session name prefix behavior using a mocked environment for the CHROME_VERSION_EXTRA variable.
+// ---
+
 #include "base/version_info/nix/version_extra_utils.h"
 
 #include <memory>

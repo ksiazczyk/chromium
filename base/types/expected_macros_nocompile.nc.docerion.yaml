@@ -1,0 +1,4 @@
+# Docerion header of expected_macros_nocompile.nc.
+type: test
+title: No-compile tests for expected macros
+summary: Compile-time test asserting that ASSIGN_OR_RETURN rejects a ternary expression in its left-hand side.

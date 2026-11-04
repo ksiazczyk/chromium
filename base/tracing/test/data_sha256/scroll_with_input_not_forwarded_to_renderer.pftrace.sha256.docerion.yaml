@@ -1,0 +1,4 @@
+# Docerion header of scroll_with_input_not_forwarded_to_renderer.pftrace.sha256.
+type: test
+title: SHA256 checksum for scroll_with_input_not_forwarded_to_renderer.pftrace
+summary: Contains the SHA256 hash that verifies the integrity of the scroll_with_input_not_forwarded_to_renderer.pftrace trace used in tracing tests.

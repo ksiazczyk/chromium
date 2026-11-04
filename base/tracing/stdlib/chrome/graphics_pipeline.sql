@@ -2,6 +2,12 @@
 -- Use of this source code is governed by a BSD-style license that can be
 -- found in the LICENSE file.
 
+-- ---docerion
+-- type: source
+-- title: Graphics pipeline frame step tables
+-- summary: Defines tables of Graphics.Pipeline steps for surface frames and display frames, covering work before and after surface aggregation.
+-- ---
+
 INCLUDE PERFETTO MODULE slices.with_context;
 
 -- `Graphics.Pipeline` steps corresponding to work done by a Viz client to

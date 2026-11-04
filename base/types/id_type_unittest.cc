@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for IdType
+// summary: Tests IdType null values, extra invalid values, ID generators, constexpr behavior, unordered_map usage, and unsafe value roundtrips.
+// ---
+
 #include "base/types/id_type.h"
 
 #include <limits>

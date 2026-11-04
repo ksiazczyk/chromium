@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PerfettoPlatform implementation
+// summary: Implements the PerfettoPlatform singleton that adapts Chrome task runners, process names, and thread IDs for the Perfetto SDK.
+// ---
+
 #include "base/tracing/perfetto_platform.h"
 
 #include "base/process/process_handle.h"

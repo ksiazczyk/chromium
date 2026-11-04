@@ -5,6 +5,12 @@
 -- Hardware info is useful when using sql metrics for analysis
 -- in BTP.
 
+-- ---docerion
+-- type: source
+-- title: Scroll jank V3 metric module
+-- summary: Perfetto SQL module for the V3 scroll jank metric, building presented gesture scrolls, scroll deltas and full frame views used to compute janky frames.
+-- ---
+
 INCLUDE PERFETTO MODULE chrome.metadata;
 
 INCLUDE PERFETTO MODULE chrome.scroll_jank.scroll_jank_v3_cause;

@@ -1,0 +1,4 @@
+# Docerion header of sources.gni.
+type: config
+title: Proto source list for Chrome track event targets
+summary: GN file listing the Chrome typed event proto sources and designating the import wrapper used as the single descriptor source.

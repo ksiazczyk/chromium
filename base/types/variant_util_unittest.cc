@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VariantIndexOfType unit tests
+// summary: Unit tests using static_assert to check that VariantIndexOfType returns the expected indices for bool, int, and double alternatives of a test std::variant.
+// ---
+
 #include "base/types/variant_util.h"
 
 #include <variant>

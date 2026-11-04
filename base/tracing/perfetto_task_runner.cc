@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PerfettoTaskRunner implementation
+// summary: Implements PerfettoTaskRunner, which posts Perfetto tasks on Chrome sequenced task runners and manages file descriptor watches.
+// ---
+
 #include "base/tracing/perfetto_task_runner.h"
 
 #include <memory>

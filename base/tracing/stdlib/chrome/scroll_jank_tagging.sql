@@ -2,6 +2,12 @@
 -- Use of this source code is governed by a BSD-style license that can be
 -- found in the LICENSE file.
 
+-- ---docerion
+-- type: source
+-- title: Scroll jank cause tagging
+-- summary: Defines macros and tables that assign cause tags to janky scroll frames based on long stages in the scroll pipeline for the v1 and v4 metrics.
+-- ---
+
 INCLUDE PERFETTO MODULE chrome.chrome_scrolls;
 
 INCLUDE PERFETTO MODULE chrome.chrome_scrolls_v4;

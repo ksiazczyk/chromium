@@ -1,0 +1,4 @@
+# Docerion header of perfetto_sql_files.gni.
+type: config
+title: Build list of Chrome stdlib SQL files
+summary: GN import listing the SQL files of the Chrome Perfetto stdlib directory and its subdirectories so they are included in the build.

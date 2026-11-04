@@ -1,0 +1,4 @@
+# Docerion header of chrome_custom_navigation_trace.gz.sha256.
+type: test
+title: SHA256 checksum for chrome_custom_navigation_trace.gz
+summary: Contains the SHA256 digest used to verify the chrome_custom_navigation_trace.gz trace in the tracing test data set.

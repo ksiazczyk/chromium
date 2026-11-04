@@ -2,6 +2,12 @@
 -- Use of this source code is governed by a BSD-style license that can be
 -- found in the LICENSE file.
 
+-- ---docerion
+-- type: source
+-- title: Chrome startup events and launch causes
+-- summary: Perfetto SQL module exposing a chrome_startups table with startup timestamps, first visible content times, and launch causes.
+-- ---
+
 INCLUDE PERFETTO MODULE slices.with_context;
 
 -- Access all startups, including those that don't lead to any visible content.

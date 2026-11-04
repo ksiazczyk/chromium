@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for version_info and version_string
+summary: Defines the version_info and version_string static libraries and the process_version step that generates version_info_values.h.

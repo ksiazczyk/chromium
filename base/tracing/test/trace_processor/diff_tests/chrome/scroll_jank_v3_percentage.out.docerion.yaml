@@ -1,0 +1,4 @@
+# Docerion header of scroll_jank_v3_percentage.out.
+type: test
+title: Scroll jank v3 percentage expected output
+summary: Expected output giving the delayed frame percentage value checked by the scroll jank v3 percentage diff test.

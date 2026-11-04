@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for tracing stdlib and test data
+# summary: Runs presubmit checks that verify the tracing stdlib and ensure test data files under test/data_sha256 are checked into git.
+# ---
+
 PRESUBMIT_VERSION = '2.0.0'
 
 def CheckStdlib(input_api, output_api):

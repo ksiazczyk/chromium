@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: std::optional behavior unit tests
+// summary: Unit tests exercising std::optional semantics such as construction, copy and move behavior, swap, and comparison through a dedicated test object.
+// ---
+
 #include <memory>
 #include <optional>
 #include <set>

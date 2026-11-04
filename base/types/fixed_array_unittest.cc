@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for base::FixedArray
+// summary: Verifies that FixedArray zero-initializes trivially default-constructible elements for stack, heap, and placement-new arrays, including under memory sanitizers.
+// ---
+
 #include "base/types/fixed_array.h"
 
 #include <stddef.h>

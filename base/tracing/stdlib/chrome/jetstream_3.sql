@@ -2,6 +2,12 @@
 -- Use of this source code is governed by a BSD-style license that can be
 -- found in the LICENSE file.
 
+-- ---docerion
+-- type: source
+-- title: JetStream 3 benchmark metrics
+-- summary: Defines Perfetto views and functions that map JetStream 3 benchmark names to top-level groups and compute JetStream 3 scores from Chrome traces.
+-- ---
+
 -- Mapping of JetStream 3 leaf benchmarks to their top-level groups and
 -- worst-case counts. Each top-level group has its score calculated separately,
 -- before all group scores are combined. Null top-level groups become ungrouped

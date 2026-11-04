@@ -1,0 +1,4 @@
+# Docerion header of speedometer_21.perfetto_trace.gz.sha256.
+type: test
+title: SHA256 checksum for speedometer_21.perfetto_trace.gz
+summary: Contains the SHA256 hash that verifies the integrity of the speedometer_21.perfetto_trace.gz benchmark trace used in tracing tests.

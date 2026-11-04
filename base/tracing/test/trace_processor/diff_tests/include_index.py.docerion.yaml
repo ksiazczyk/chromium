@@ -1,0 +1,4 @@
+# Docerion header of include_index.py.
+type: test
+title: Diff test index for trace processor tests
+summary: Collects Chrome and Perfetto stdlib diff test cases for the trace processor by importing test suites and returning them via fetch_all_diff_tests.

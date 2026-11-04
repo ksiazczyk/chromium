@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: is_instantiation concept for template detection
+// summary: Defines a concept and variable template that report whether a type is an instantiation of a given class template with some set of type arguments.
+// ---
+
 #ifndef BASE_TYPES_IS_INSTANTIATION_H_
 #define BASE_TYPES_IS_INSTANTIATION_H_
 

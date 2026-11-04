@@ -1,0 +1,4 @@
+# Docerion header of chrome_scroll_check.py.
+type: test
+title: Chrome scroll check trace generator
+summary: Generates a synthetic trace with overlapping scroll gestures to verify that discarded events which never reach the GPU are excluded from trace-based metrics.

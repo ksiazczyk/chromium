@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: base::PassKey access restriction utility
+// summary: Defines base::PassKey, a template that restricts access to functions or constructors to authorized caller types, including multi-type keys.
+// ---
+
 #ifndef BASE_TYPES_PASS_KEY_H_
 #define BASE_TYPES_PASS_KEY_H_
 

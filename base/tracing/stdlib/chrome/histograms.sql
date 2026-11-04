@@ -2,6 +2,12 @@
 -- Use of this source code is governed by a BSD-style license that can be
 -- found in the LICENSE file.
 
+-- ---docerion
+-- type: source
+-- title: Chrome histogram sample view
+-- summary: Defines a table joining Chrome histogram sample slices with thread and process information, requiring the histogram samples trace category or data source.
+-- ---
+
 -- A helper view on top of the histogram events emitted by Chrome.
 -- Requires "disabled-by-default-histogram_samples" Chrome category or the
 -- "org.chromium.histogram_sample" data source.

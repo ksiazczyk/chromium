@@ -1,0 +1,4 @@
+# Docerion header of test_data.py.
+type: script
+title: Perfetto test data upload and deps entry helper
+summary: Wrapper script that uploads Perfetto test data to the perfetto Google Cloud Storage bucket, writes sha256 files, and generates deps entries for the DEPS file.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IsArcPointer concept for Objective-C ARC pointers
+// summary: Defines a concept that detects whether a type is an Objective-C Automatic Reference Counting-managed retainable pointer via a __bridge cast.
+// ---
+
 #ifndef BASE_TYPES_IS_ARC_POINTER_H_
 #define BASE_TYPES_IS_ARC_POINTER_H_
 
