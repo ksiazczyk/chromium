@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DBus log source implementation
+// summary: Collects D-Bus usage statistics into the dbus_summary and dbus_details entries of ChromeOS system logs.
+// ---
+
 #include "chrome/browser/ash/system_logs/dbus_log_source.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the System Web Apps library
+summary: Defines the system_web_apps static library and browser test targets with their sources and dependencies for ChromeOS.

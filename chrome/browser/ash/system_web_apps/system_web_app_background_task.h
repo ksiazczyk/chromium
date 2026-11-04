@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for the system web app background task class
+// summary: Declares SystemWebAppBackgroundTask, a timer-driven state machine that periodically loads a system web app page in the background.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_SYSTEM_WEB_APP_BACKGROUND_TASK_H_
 #define CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_SYSTEM_WEB_APP_BACKGROUND_TASK_H_
 

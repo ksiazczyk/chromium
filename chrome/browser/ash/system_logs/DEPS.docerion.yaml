@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the system_logs directory
+summary: Restricts //chrome include dependencies for the directory and lists the allowed Chrome and test includes for the system log sources.

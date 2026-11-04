@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test system web app WebUI controller factory header
+// summary: Declares TestSystemWebAppWebUIControllerFactory, a scoped WebUIControllerFactory that serves a test system web app page with a manifest and icon.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_TEST_SUPPORT_TEST_SYSTEM_WEB_APP_WEB_UI_CONTROLLER_FACTORY_H_
 #define CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_TEST_SUPPORT_TEST_SYSTEM_WEB_APP_WEB_UI_CONTROLLER_FACTORY_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Personalization app OWNERS file
+summary: Delegates code ownership review to the OWNERS file of the personalization app web UI directory.

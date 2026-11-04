@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test system web app installation declarations
+// summary: Declares UnittestingSystemAppDelegate and the test installation classes used to configure and install fake system web apps in tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_TEST_SUPPORT_TEST_SYSTEM_WEB_APP_INSTALLATION_H_
 #define CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_TEST_SUPPORT_TEST_SYSTEM_WEB_APP_INSTALLATION_H_
 

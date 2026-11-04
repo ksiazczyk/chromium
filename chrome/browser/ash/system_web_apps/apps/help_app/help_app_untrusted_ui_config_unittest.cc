@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Help app untrusted UI config unit tests
+// summary: Unit tests verifying that Cros Switcher enablement fails safely without a variations service and depends on the stored permanent country.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/help_app/help_app_untrusted_ui_config.h"
 
 #include "base/test/task_environment.h"

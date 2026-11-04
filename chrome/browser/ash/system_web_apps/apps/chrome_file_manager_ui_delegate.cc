@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome file manager UI delegate implementation
+// summary: Implements the Chrome-side Files app UI delegate supplying load-time and plural strings, paused I/O task progress, Drive pin-state polling, and policy notifications.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/chrome_file_manager_ui_delegate.h"
 
 #include "base/check_deref.h"

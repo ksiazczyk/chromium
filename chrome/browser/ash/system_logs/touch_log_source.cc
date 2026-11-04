@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Touch log source implementation
+// summary: Collects touchpad and touchscreen event logs, packing them with tar and uuencode into system log entries compatible with touch log analysis tools.
+// ---
+
 #include "chrome/browser/ash/system_logs/touch_log_source.h"
 
 #include <stddef.h>

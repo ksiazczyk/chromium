@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise policy delegate implementation
+// summary: Reports whether the user image and wallpaper are enterprise managed and notifies observers of changes.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/personalization_app/enterprise_policy_delegate_impl.h"
 
 #include "ash/public/cpp/wallpaper/wallpaper_controller.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crosh system web app info
+// summary: Defines the app delegate that installs the Crosh system web app with its icon, standalone display, and tab strip behavior.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/crosh_system_web_app_info.h"
 
 #include <memory>

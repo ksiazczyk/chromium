@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Eche system web app delegate
+// summary: Implements EcheSystemAppDelegate with install info, disabled resizing and fullscreen, debug-mode script close rules, and 16:9 portrait default bounds.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/eche_app_info.h"
 
 #include <memory>

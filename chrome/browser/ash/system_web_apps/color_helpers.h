@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for system web app color helpers
+// summary: Declares helpers that return the OS theme and background colors and a factory for the system web app theme source.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_COLOR_HELPERS_H_
 #define CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_COLOR_HELPERS_H_
 

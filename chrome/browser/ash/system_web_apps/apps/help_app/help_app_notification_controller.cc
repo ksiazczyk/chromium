@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Help app notification controller implementation
+// summary: Implements release notes notification logic that shows the notification once per Chrome milestone.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/help_app/help_app_notification_controller.h"
 
 #include "ash/constants/ash_features.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VC background system web app delegate header
+// summary: Declares the VcBackgroundUISystemAppDelegate class for the VC background system web app.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_VC_BACKGROUND_UI_VC_BACKGROUND_UI_SYSTEM_APP_DELEGATE_H_
 #define CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_VC_BACKGROUND_UI_VC_BACKGROUND_UI_SYSTEM_APP_DELEGATE_H_
 

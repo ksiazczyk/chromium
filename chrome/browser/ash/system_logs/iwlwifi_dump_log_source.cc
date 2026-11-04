@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Iwlwifi dump log source implementation
+// summary: Implements log sources that check for and read the last Intel Wi-Fi NIC debug dump from /var/log/last_iwlwifi_dump for feedback reports.
+// ---
+
 #include "chrome/browser/ash/system_logs/iwlwifi_dump_log_source.h"
 
 #include "base/files/file_util.h"

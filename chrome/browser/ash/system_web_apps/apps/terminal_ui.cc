@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Terminal WebUI implementation
+// summary: Implements the Terminal system web app's untrusted WebUI controller and config, adding the terminal data source to the profile.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/terminal_ui.h"
 
 #include "ash/constants/webui_url_constants.h"

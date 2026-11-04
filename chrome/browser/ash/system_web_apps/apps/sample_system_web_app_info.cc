@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sample system web app delegate implementation
+// summary: Implements SampleSystemAppDelegate, a demo system web app with share target, shortcut menu items, origin trials, navigation capture, and a background timer task.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/sample_system_web_app_info.h"
 
 #include <memory>

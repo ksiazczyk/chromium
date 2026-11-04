@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System Web App Manager browser tests
+// summary: Browser tests covering installation, updating, launching and shelf integration of Chrome OS System Web Apps.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/system_web_app_manager.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Input event converter log source unit tests
+// summary: Unit tests for the input event converter log source, checking fetch behavior when no input devices are present.
+// ---
+
 #include <functional>
 #include <set>
 #include <string>

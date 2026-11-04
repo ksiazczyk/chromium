@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System web app integration test implementation
+// summary: Implements integration test helpers that verify a system web app installs, launches, and shows the expected URL and window title.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/test_support/system_web_app_integration_test.h"
 
 #include "base/strings/utf_string_conversions.h"

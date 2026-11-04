@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Help app integration browser tests
+// summary: Integration browser tests for the ChromeOS Help app covering notifications, search, app launches and settings integration.
+// ---
+
 #include <algorithm>
 #include <optional>
 #include <string>

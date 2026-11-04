@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS Feedback system web app delegate header
+// summary: Declares the OSFeedbackAppDelegate class controlling the Feedback system web app's window and launch behavior.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_OS_FEEDBACK_SYSTEM_WEB_APP_INFO_H_
 #define CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_OS_FEEDBACK_SYSTEM_WEB_APP_INFO_H_
 

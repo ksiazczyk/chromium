@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners file for the System Web Apps directory
+summary: Delegates code ownership and review requirements to the shared ChromeOS platform owners file.

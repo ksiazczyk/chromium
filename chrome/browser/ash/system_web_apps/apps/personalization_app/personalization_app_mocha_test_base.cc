@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Personalization app Mocha test base implementation
+// summary: Implements the WebUI Mocha browser test base that sets up test wallpapers and the Personalization app UI provider for JS tests.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/personalization_app/personalization_app_mocha_test_base.h"
 
 #include <memory>

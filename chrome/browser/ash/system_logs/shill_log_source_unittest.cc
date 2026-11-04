@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shill log source unit tests
+// summary: Unit tests for ShillLogSource that verify fetching of fake Shill network device and service logs, both with and without PII scrubbing.
+// ---
+
 #include "chrome/browser/ash/system_logs/shill_log_source.h"
 
 #include <memory>

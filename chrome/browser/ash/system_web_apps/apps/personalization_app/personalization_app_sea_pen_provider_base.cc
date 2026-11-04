@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SeaPen provider base implementation
+// summary: Implements shared SeaPen AI wallpaper logic for the Personalization and VC background apps, including queries, thumbnails, and feedback.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/personalization_app/personalization_app_sea_pen_provider_base.h"
 
 #include <memory>

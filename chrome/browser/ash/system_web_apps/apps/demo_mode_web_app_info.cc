@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Demo Mode system web app delegate
+// summary: Implements DemoModeSystemAppDelegate, defining the Demo Mode app's install info, minimum window size, navigation capture, and Demo Mode-only enablement.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/demo_mode_web_app_info.h"
 
 #include "ash/webui/demo_mode_app_ui/url_constants.h"

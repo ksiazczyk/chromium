@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shill PII identifier map header
+// summary: Declares kShillPIIMaskedMap, which maps Shill property names to PII types for redacting network logs.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_LOGS_SHILL_LOG_PII_IDENTIFIERS_H_
 #define CHROME_BROWSER_ASH_SYSTEM_LOGS_SHILL_LOG_PII_IDENTIFIERS_H_
 

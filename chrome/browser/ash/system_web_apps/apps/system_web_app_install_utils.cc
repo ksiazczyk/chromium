@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System web app install utilities implementation
+// summary: Provides helpers that build WebAppInstallInfo for system web apps, covering icon and shortcuts menu creation, default background colors, and start-url-based identity.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/system_web_app_install_utils.h"
 
 #include "ash/shell.h"

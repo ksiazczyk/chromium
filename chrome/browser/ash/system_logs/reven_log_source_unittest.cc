@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Reven log source unit tests
+// summary: Unit tests for RevenLogSource that verify ChromeOS Flex telemetry log entries using a fake cros_healthd service.
+// ---
+
 #include "chrome/browser/ash/system_logs/reven_log_source.h"
 
 #include <optional>

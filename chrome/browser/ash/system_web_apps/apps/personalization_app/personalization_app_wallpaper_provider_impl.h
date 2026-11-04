@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personalization app wallpaper provider header
+// summary: Declares PersonalizationAppWallpaperProviderImpl, the browser-side Mojo wallpaper provider for the personalization app that relies on chrome wallpaper_handlers code.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_PERSONALIZATION_APP_PERSONALIZATION_APP_WALLPAPER_PROVIDER_IMPL_H_
 #define CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_PERSONALIZATION_APP_PERSONALIZATION_APP_WALLPAPER_PROVIDER_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Test system web app URL data source implementation
+// summary: Implements AddTestURLDataSource, which registers a WebUI data source serving a test manifest, PWA pages, and a service worker for system web app tests.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/test_support/test_system_web_app_url_data_source.h"
 
 #include <utility>

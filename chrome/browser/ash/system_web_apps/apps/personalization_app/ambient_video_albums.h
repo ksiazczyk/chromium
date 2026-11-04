@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient video albums header and album ID constants
+// summary: Declares the video album helpers and constants for the clouds, New Mexico, and Jupiter album IDs.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_PERSONALIZATION_APP_AMBIENT_VIDEO_ALBUMS_H_
 #define CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_PERSONALIZATION_APP_AMBIENT_VIDEO_ALBUMS_H_
 

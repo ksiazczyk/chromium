@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OS Feedback app integration tests
+// summary: Browser integration tests covering launch of the OS Feedback system web app via URL and the Alt+Shift+I shortcut, including window and policy behavior.
+// ---
+
 #include "ash/constants/ash_features.h"
 #include "ash/constants/chrome_pref_names.h"
 #include "ash/shell.h"

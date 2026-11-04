@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media App OCR integration browser tests
+// summary: Browser tests that launch the Media App and verify OCR behavior on PDF test files.
+// ---
+
 #include <memory>
 #include <utility>
 

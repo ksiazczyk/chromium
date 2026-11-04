@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shortcut Customization app integration browser tests
+// summary: Browser tests verifying that the Shortcut Customization system web app installs and launches correctly, including default app launch metrics.
+// ---
+
 #include "ash/webui/shortcut_customization_ui/url_constants.h"
 #include "base/run_loop.h"
 #include "base/test/bind.h"

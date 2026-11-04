@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Camera app survey handler implementation
+// summary: Implements the singleton handler that triggers a HaTS happiness tracking survey for the camera app, attaching board and model data.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/camera_app/camera_app_survey_handler.h"
 
 #include "base/feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface for system web app icon health checks
+// summary: Declares SystemWebAppIconChecker, which reports whether installed system web app icons are okay, broken or missing.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_SYSTEM_WEB_APP_ICON_CHECKER_H_
 #define CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_SYSTEM_WEB_APP_ICON_CHECKER_H_
 

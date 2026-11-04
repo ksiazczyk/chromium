@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Media App UI delegate implementation
+// summary: Implements MediaAppUIDelegate with chrome-only capabilities such as opening the feedback dialog, toggling fullscreen, checking ARC file writability, and Edit in Photos.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/media_app/chrome_media_app_ui_delegate.h"
 
 #include <utility>

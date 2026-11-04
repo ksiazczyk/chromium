@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanning system web app delegate implementation
+// summary: Implements the ScanningSystemAppDelegate with install info, icons, launcher visibility, and minimum window size for the Scanning system web app.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/scanning_system_web_app_info.h"
 
 #include <memory>

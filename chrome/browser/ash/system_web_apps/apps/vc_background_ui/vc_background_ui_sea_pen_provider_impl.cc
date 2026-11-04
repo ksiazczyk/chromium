@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VC background SeaPen provider implementation
+// summary: Implements the SeaPen provider that fetches and sets video conference background images via the camera effects controller.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/vc_background_ui/vc_background_ui_sea_pen_provider_impl.h"
 
 #include <cstdint>

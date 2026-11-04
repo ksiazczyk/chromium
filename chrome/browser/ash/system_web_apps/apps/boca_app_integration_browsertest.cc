@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Boca app integration browser tests
+// summary: Integration browser tests for the Boca system web app, covering session observation, app launch, and extension toolbar behavior.
+// ---
+
 #include <memory>
 #include <string>
 #include <utility>

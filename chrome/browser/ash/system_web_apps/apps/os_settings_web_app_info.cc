@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS Settings system web app delegate
+// summary: Implements the OS Settings system web app delegate with install info, minimum window size, and app IDs to uninstall and replace.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/os_settings_web_app_info.h"
 
 #include <memory>

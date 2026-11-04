@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Wallpaper metrics provider implementation
+// summary: Implements a metrics provider that logs UMA histograms about the active user's wallpaper, including online wallpaper unit and collection IDs and Sea Pen template IDs.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/personalization_app/wallpaper_metrics_provider.h"
 
 #include "ash/public/cpp/wallpaper/wallpaper_types.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Help app notification controller header
+// summary: Declares HelpAppNotificationController, which decides when to show release notes notifications under the Help app.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_HELP_APP_HELP_APP_NOTIFICATION_CONTROLLER_H_
 #define CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_HELP_APP_HELP_APP_NOTIFICATION_CONTROLLER_H_
 

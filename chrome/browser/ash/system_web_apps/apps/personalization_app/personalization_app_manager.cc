@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personalization app manager implementation
+// summary: Creates the per-profile PersonalizationAppManager KeyedService that owns the search handler for Personalization app features.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/personalization_app/personalization_app_manager.h"
 
 #include <memory>

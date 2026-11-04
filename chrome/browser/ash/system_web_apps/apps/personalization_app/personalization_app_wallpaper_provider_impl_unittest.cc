@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Personalization app wallpaper provider unit tests
+// summary: Unit tests for the personalization app wallpaper provider, using fake wallpaper handlers, test fetcher delegates, and a test WebUI to exercise Mojo behavior.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/personalization_app/personalization_app_wallpaper_provider_impl.h"
 
 #include <memory>

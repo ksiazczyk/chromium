@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Eche app integration browser test
+// summary: Integration browser tests verifying the Eche app installs and launches correctly and its default window bounds keep a 16:9 portrait ratio across display orientations.
+// ---
+
 #include "ash/constants/ash_features.h"
 #include "ash/shell.h"
 #include "ash/strings/grit/ash_strings.h"

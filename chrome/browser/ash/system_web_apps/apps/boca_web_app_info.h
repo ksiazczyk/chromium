@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boca system web app delegate header
+// summary: Declares the BocaSystemAppDelegate class, a SystemWebAppDelegate subclass configuring the Boca system web app's behavior.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_BOCA_WEB_APP_INFO_H_
 #define CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_BOCA_WEB_APP_INFO_H_
 

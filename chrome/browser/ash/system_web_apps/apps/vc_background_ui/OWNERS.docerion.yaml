@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for vc_background_ui
+summary: Delegates code review ownership to the personalization app OWNERS file.

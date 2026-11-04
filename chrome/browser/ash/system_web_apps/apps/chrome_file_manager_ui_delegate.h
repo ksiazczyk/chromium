@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome file manager UI delegate header
+// summary: Declares the Chrome browser implementation of the ash FileManagerUIDelegate interface used by the Files app system web app.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_CHROME_FILE_MANAGER_UI_DELEGATE_H_
 #define CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_CHROME_FILE_MANAGER_UI_DELEGATE_H_
 

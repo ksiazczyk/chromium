@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boca WebUI config implementation
+// summary: Implements the Boca WebUI config and a delegate that exposes Chrome-side data such as locale, prefs, and feature flags to the Boca UI.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/boca_web_app_config.h"
 
 #include "ash/constants/ash_features.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome camera save delegate implementation
+// summary: Implements camera save destination resolution and upload handling to OneDrive or Google Drive based on profile policy and preferences.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/camera_app/chrome_camera_save_delegate.h"
 
 #include "ash/constants/ash_pref_names.h"

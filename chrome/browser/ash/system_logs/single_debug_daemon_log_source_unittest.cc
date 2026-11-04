@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Single debug daemon log source unit tests
+// summary: Unit tests for SingleDebugDaemonLogSource using a fake DebugDaemonClient to verify log fetching for modetest, lsusb and multiple sources.
+// ---
+
 #include "chrome/browser/ash/system_logs/single_debug_daemon_log_source.h"
 
 #include <memory>

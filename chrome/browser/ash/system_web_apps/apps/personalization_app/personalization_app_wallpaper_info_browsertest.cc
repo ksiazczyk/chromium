@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Personalization app wallpaper info browser test
+// summary: Browser tests verifying wallpaper info handling in the ChromeOS personalization app, including wallpaper prefs, change notifications, and WallpaperController integration.
+// ---
+
 #include <stdint.h>
 
 #include <algorithm>

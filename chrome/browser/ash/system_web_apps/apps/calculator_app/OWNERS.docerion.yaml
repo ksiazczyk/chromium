@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the calculator app directory
+summary: Lists the code owner of the calculator_app directory and references the internal component for review routing.

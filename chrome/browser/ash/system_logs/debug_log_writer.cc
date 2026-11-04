@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Debug log writer implementation
+// summary: Writes debug logs to files via the debug daemon, compressing with gzip or tar and reporting results through callbacks.
+// ---
+
 #include "chrome/browser/ash/system_logs/debug_log_writer.h"
 
 #include <stdint.h>

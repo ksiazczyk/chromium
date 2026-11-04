@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Terminal system web app delegate header
+// summary: Declares the TerminalSystemAppDelegate class with overrides for install info, launch behavior, launcher visibility, tab menu commands, and default bounds.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_TERMINAL_SYSTEM_WEB_APP_INFO_H_
 #define CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_TERMINAL_SYSTEM_WEB_APP_INFO_H_
 

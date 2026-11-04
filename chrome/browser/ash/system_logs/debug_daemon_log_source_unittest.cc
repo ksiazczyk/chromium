@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Debug daemon log source unit tests
+// summary: Unit tests for reading user log files and glob patterns, verifying content, missing files, and newest-file selection.
+// ---
+
 #include "chrome/browser/ash/system_logs/debug_daemon_log_source.h"
 
 #include "base/files/file_enumerator.h"

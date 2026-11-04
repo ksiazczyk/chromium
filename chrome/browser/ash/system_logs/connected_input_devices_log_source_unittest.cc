@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Connected input devices log source unit tests
+// summary: Unit tests for the connected input devices log source covering touchpad and touchscreen vendor, PID, driver, and library entries.
+// ---
+
 #include "chrome/browser/ash/system_logs/connected_input_devices_log_source.h"
 
 #include <functional>

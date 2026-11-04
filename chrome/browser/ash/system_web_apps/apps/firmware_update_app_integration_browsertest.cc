@@ -1,6 +1,13 @@
 // Copyright 2021 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Firmware Update system web app integration test
+// summary: Browser test verifying that the Firmware Update system web app installs and launches with a valid manifest and a successful install metric.
+// ---
+
 #include "ash/webui/firmware_update_ui/url_constants.h"
 #include "base/test/metrics/histogram_tester.h"
 #include "chrome/browser/ash/system_web_apps/test_support/system_web_app_integration_test.h"

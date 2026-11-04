@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome demo mode app delegate header
+// summary: Declares the Chrome-side DemoModeAppDelegate implementation that provides //chrome functionality to the Demo Mode app living in //ash.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_CHROME_DEMO_MODE_APP_DELEGATE_H_
 #define CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_CHROME_DEMO_MODE_APP_DELEGATE_H_
 

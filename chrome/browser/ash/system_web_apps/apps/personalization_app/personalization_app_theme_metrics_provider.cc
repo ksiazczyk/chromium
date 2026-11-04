@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personalization app theme metrics provider implementation
+// summary: Emits histograms about settled static colors, color schemes, and the KMeans preference for the Personalization app.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/personalization_app/personalization_app_theme_metrics_provider.h"
 
 #include "ash/constants/ash_features.h"

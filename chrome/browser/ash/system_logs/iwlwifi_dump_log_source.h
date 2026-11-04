@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Iwlwifi dump log source header
+// summary: Declares log sources for attaching Intel Wi-Fi debug dump information to feedback logs plus a helper that detects iwlwifi log entries.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_LOGS_IWLWIFI_DUMP_LOG_SOURCE_H_
 #define CHROME_BROWSER_ASH_SYSTEM_LOGS_IWLWIFI_DUMP_LOG_SOURCE_H_
 

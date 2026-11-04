@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VC background SeaPen provider browser tests
+// summary: In-process browser tests for the VC background SeaPen provider, covering recent image selection and camera effects behavior.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/vc_background_ui/vc_background_ui_sea_pen_provider_impl.h"
 
 #include <memory>

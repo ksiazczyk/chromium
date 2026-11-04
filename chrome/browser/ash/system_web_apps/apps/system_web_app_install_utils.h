@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System web app install utilities header
+// summary: Declares helper functions and the IconResourceInfo struct for building system web app install info, icons, shortcuts menu items, and background colors.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_SYSTEM_WEB_APP_INSTALL_UTILS_H_
 #define CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_SYSTEM_WEB_APP_INSTALL_UTILS_H_
 

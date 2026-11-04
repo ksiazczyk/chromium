@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Files internals UI delegate header
+// summary: Declares ChromeFilesInternalsUIDelegate, which backs the Files internals page with debug data and preference accessors.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_FILES_INTERNALS_UI_DELEGATE_H_
 #define CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_FILES_INTERNALS_UI_DELEGATE_H_
 

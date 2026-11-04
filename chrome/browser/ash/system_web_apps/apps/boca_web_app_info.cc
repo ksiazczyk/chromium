@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Boca system web app delegate implementation
+// summary: Implements the Boca system web app delegate, defining install info, window behavior, and enablement based on prefs and affiliation.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/boca_web_app_info.h"
 
 #include "ash/constants/ash_features.h"

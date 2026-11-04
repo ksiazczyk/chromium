@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Help app BUILD.gn build file
+summary: Defines the Help app static library and browser test targets with their sources and dependency lists.

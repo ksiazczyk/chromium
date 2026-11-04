@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Recorder app OWNERS file
+summary: Delegates ownership review of this directory to the recorder_app_ui OWNERS file.

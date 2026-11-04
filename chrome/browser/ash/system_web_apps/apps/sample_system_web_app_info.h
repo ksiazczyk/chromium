@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sample system web app delegate header
+// summary: Declares SampleSystemAppDelegate, the delegate for the sample system web app, which is restricted to unofficial builds.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_SAMPLE_SYSTEM_WEB_APP_INFO_H_
 #define CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_SAMPLE_SYSTEM_WEB_APP_INFO_H_
 

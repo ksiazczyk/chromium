@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personalization app wallpaper provider implementation
+// summary: Implements the Mojo WallpaperProvider for the ChromeOS personalization app, covering wallpaper fetching, Google Photos wallpapers, previews, and Sea Pen related handling.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/personalization_app/personalization_app_wallpaper_provider_impl.h"
 
 #include <stdint.h>

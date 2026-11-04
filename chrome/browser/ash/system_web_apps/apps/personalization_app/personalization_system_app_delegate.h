@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personalization system web app delegate header
+// summary: Declares PersonalizationSystemAppDelegate, the SystemWebAppDelegate subclass configuring the ChromeOS Personalization system web app.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_PERSONALIZATION_APP_PERSONALIZATION_SYSTEM_APP_DELEGATE_H_
 #define CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_PERSONALIZATION_APP_PERSONALIZATION_SYSTEM_APP_DELEGATE_H_
 

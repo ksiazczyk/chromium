@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for system web apps
+summary: Defines the sources and dependencies of the static library holding ChromeOS system web app configurations and delegates.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient mode provider implementation for the personalization app
+// summary: Implements the Mojo ambient provider handling ambient settings, prefs, geolocation, and preview image fetching.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/personalization_app/personalization_app_ambient_provider_impl.h"
 
 #include <algorithm>

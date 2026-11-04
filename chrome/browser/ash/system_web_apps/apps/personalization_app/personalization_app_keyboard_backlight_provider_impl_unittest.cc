@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the keyboard backlight provider
+// summary: Unit tests verifying backlight color and zone changes, observer notifications, and wallpaper color updates for the keyboard backlight provider.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/personalization_app/personalization_app_keyboard_backlight_provider_impl.h"
 
 #include <memory>

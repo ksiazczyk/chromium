@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS Flex hardware log source header
+// summary: Declares RevenLogSource, which collects hardware data for ChromeOS Flex devices through cros_healthd probe calls.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_LOGS_REVEN_LOG_SOURCE_H_
 #define CHROME_BROWSER_ASH_SYSTEM_LOGS_REVEN_LOG_SOURCE_H_
 

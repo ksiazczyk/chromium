@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shortcut customization system web app delegate header
+// summary: Declares the ShortcutCustomizationSystemAppDelegate class that defines install info and window behavior for the shortcut customization system web app.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_SHORTCUT_CUSTOMIZATION_SYSTEM_WEB_APP_INFO_H_
 #define CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_SHORTCUT_CUSTOMIZATION_SYSTEM_WEB_APP_INFO_H_
 

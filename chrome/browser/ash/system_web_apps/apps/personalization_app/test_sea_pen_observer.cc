@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test Sea Pen observer
+// summary: Test double implementing the SeaPenObserver Mojo interface to capture selected Sea Pen image IDs and text query history changes during tests.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/personalization_app/test_sea_pen_observer.h"
 
 #include <optional>

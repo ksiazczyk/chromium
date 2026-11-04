@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test personalization app WebUI provider
+// summary: Creates a PersonalizationAppUI wired with fake providers and fetchers so personalization app browser tests can run the whole app without network requests.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/personalization_app/test_personalization_app_webui_provider.h"
 
 #include <memory>

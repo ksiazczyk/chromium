@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn targets for system web app test support
+summary: Defines the GN static library targets that build the system web app test support code and the browsertest base classes for ChromeOS.

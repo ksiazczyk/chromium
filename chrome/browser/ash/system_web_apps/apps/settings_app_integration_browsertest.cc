@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Settings app integration browser tests
+// summary: Browser tests verifying Settings app installation, launch, policy-based disabling, and that OS settings open in a separate browser window.
+// ---
+
 #include "ash/webui/settings/public/constants/routes_util.h"
 #include "chrome/browser/ash/system_web_apps/system_web_app_manager.h"
 #include "chrome/browser/ash/system_web_apps/test_support/system_web_app_integration_test.h"

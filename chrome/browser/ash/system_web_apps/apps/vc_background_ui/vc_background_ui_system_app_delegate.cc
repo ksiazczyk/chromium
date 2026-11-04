@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VC background system web app delegate implementation
+// summary: Implements the VC background system web app delegate with install info, window bounds, and video conference feature gating.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/vc_background_ui/vc_background_ui_system_app_delegate.h"
 
 #include <memory>

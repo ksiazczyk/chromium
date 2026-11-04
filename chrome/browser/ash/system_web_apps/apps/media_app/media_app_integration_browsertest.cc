@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Media App integration browser tests
+// summary: Browser tests for the Media App system web app covering launch behavior, file handling of images, video and RAW files, and related system web app integration.
+// ---
+
 #include <algorithm>
 #include <memory>
 #include <utility>

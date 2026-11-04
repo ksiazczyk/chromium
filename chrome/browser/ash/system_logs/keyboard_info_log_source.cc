@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard info log source implementation
+// summary: Implements a system logs source that records keyboard device type, top row layout, action keys, and scan codes into feedback logs.
+// ---
+
 #include "chrome/browser/ash/system_logs/keyboard_info_log_source.h"
 
 #include "ash/shell.h"

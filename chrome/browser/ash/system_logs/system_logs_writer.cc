@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System logs writer implementation
+// summary: Implements WriteSystemLogs, which fetches system logs via the feedback fetcher and writes them as a timestamped, zipped system_logs.txt file.
+// ---
+
 #include "chrome/browser/ash/system_logs/system_logs_writer.h"
 
 #include "base/files/file_util.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System logs writer header for feedback reports
+// summary: Declares a helper that writes system logs used in feedback reports to a destination directory, optionally scrubbing PII and reporting the resulting file path via a callback.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_LOGS_SYSTEM_LOGS_WRITER_H_
 #define CHROME_BROWSER_ASH_SYSTEM_LOGS_SYSTEM_LOGS_WRITER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Projector system web app delegate implementation
+// summary: Implements ProjectorSystemWebAppDelegate, defining the Projector app's install info, icons, navigation capture, minimum window size, and feature-based enablement.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/projector_system_web_app_info.h"
 
 #include "ash/webui/grit/ash_projector_app_untrusted_resources.h"

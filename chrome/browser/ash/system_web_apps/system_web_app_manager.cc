@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System Web App Manager implementation
+// summary: Implements the SystemWebAppManager that installs, updates and uninstalls Chrome OS System Web Apps, registering each app type and recording install metrics.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/system_web_app_manager.h"
 
 #include <algorithm>

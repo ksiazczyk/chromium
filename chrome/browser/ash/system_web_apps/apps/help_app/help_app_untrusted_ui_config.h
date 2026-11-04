@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Help app untrusted UI config class declaration
+// summary: Declares the WebUIConfig class that decides when the Help app untrusted UI is enabled and creates its WebUI controller.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_HELP_APP_HELP_APP_UNTRUSTED_UI_CONFIG_H_
 #define CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_HELP_APP_HELP_APP_UNTRUSTED_UI_CONFIG_H_
 

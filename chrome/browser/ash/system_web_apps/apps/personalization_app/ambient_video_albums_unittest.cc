@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ambient video albums
+// summary: Verifies album listing, checked state, and album ID lookup, including the Jupiter customization case.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/personalization_app/ambient_video_albums.h"
 
 #include <vector>

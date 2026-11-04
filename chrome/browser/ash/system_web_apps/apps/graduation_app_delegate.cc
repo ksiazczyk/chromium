@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Graduation system web app delegate implementation
+// summary: Implements the Graduation system web app delegate, controlling install info, minimum window size, and visibility for managed users.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/graduation_app_delegate.h"
 
 #include <memory>

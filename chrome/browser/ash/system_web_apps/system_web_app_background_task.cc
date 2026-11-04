@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of system web app background tasks
+// summary: Runs periodic background page loads for a system web app, polling user idle state before navigating the hidden web contents.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/system_web_app_background_task.h"
 
 #include "base/functional/bind.h"

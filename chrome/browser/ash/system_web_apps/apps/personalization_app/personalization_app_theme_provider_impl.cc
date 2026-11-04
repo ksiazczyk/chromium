@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Personalization app theme provider implementation
+// summary: Implements the ThemeProvider Mojom interface for the Personalization app, handling color schemes, dark mode scheduling, and timezone.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/personalization_app/personalization_app_theme_provider_impl.h"
 
 #include "ash/constants/ash_pref_names.h"

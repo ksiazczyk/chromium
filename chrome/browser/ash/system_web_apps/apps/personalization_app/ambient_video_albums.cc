@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ambient video album listing and lookup helpers
+// summary: Builds the ambient mode video album entries and maps album IDs to ambient videos for the personalization app.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/personalization_app/ambient_video_albums.h"
 
 #include <utility>

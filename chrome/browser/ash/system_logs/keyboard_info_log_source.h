@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard info log source header
+// summary: Declares KeyboardInfoLogSource, a system log source that fetches keyboard information for ChromeOS feedback logs.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_LOGS_KEYBOARD_INFO_LOG_SOURCE_H_
 #define CHROME_BROWSER_ASH_SYSTEM_LOGS_KEYBOARD_INFO_LOG_SOURCE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Diagnostics app integration browser test
+// summary: Integration browser tests for the Diagnostics system web app covering manifest validity, launch metrics, and usage metrics.
+// ---
+
 #include "ash/webui/diagnostics_ui/url_constants.h"
 #include "ash/wm/window_pin_util.h"
 #include "base/check_deref.h"

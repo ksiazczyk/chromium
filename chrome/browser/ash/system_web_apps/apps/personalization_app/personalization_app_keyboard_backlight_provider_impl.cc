@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Keyboard backlight provider implementation
+// summary: Implements the Mojo KeyboardBacklightProvider that sets backlight and zone colors, handles the color nudge, and notifies the WebUI of wallpaper-derived colors.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/personalization_app/personalization_app_keyboard_backlight_provider_impl.h"
 
 #include "ash/constants/ash_features.h"

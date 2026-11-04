@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the apps directory
+summary: Specifies allowed include dependencies for the directory, with per-file rules for production and test sources.

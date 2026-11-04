@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Personalization app BUILD.gn build file
+summary: Defines the static library sources and dependency graph for the ChromeOS personalization app browser-side code.

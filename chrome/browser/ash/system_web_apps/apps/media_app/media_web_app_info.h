@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media system web app delegate header
+// summary: Declares MediaSystemAppDelegate with SystemWebAppDelegate overrides for install info, launcher visibility, navigation capture, and launch behavior.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_MEDIA_APP_MEDIA_WEB_APP_INFO_H_
 #define CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_MEDIA_APP_MEDIA_WEB_APP_INFO_H_
 

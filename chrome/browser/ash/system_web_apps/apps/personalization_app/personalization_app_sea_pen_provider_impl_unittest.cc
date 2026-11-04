@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Personalization app SeaPen provider unit tests
+// summary: Unit tests for the Personalization app SeaPen provider covering eligibility, queries, thumbnails, and wallpaper selection.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/personalization_app/personalization_app_sea_pen_provider_impl.h"
 
 #include <memory>

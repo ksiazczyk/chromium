@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Help app DEPS include rules
+summary: Declares allowed include rules for the Help app directory and extra includes for specific test files.

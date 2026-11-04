@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Projector app OWNERS
+summary: Ownership pointer file that defers review ownership to the OWNERS file in ash/projector.

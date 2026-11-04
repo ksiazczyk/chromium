@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shimless RMA system web app delegate implementation
+// summary: Implements the ShimlessRMASystemAppDelegate with install info, theme colors, and window behavior for the Shimless RMA system web app.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/shimless_rma_system_web_app_info.h"
 
 #include <memory>

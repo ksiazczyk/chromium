@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VC background SeaPen provider header
+// summary: Declares VcBackgroundUISeaPenProviderImpl, the SeaPenProvider for the VC background WebUI that observes camera effect changes.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_VC_BACKGROUND_UI_VC_BACKGROUND_UI_SEA_PEN_PROVIDER_IMPL_H_
 #define CHROME_BROWSER_ASH_SYSTEM_WEB_APPS_APPS_VC_BACKGROUND_UI_VC_BACKGROUND_UI_SEA_PEN_PROVIDER_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shimless RMA integration browser tests
+// summary: Browser tests verifying that the Shimless RMA system web app installs and launches correctly, including install result histogram metrics.
+// ---
+
 #include "ash/constants/ash_switches.h"
 #include "ash/webui/shimless_rma/url_constants.h"
 #include "base/test/metrics/histogram_tester.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Help app UI delegate implementation
+// summary: Implements Chrome-side Help app UI delegate functions such as feedback dialog, settings, device info and Microsoft 365 setup.
+// ---
+
 #include "chrome/browser/ash/system_web_apps/apps/help_app/help_app_ui_delegate.h"
 
 #include <string>
