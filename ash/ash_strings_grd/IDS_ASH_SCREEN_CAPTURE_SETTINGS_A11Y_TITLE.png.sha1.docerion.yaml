@@ -1,0 +1,4 @@
+# Docerion header of IDS_ASH_SCREEN_CAPTURE_SETTINGS_A11Y_TITLE.png.sha1.
+type: asset
+title: SHA-1 checksum for screen capture settings a11y title screenshot
+summary: Holds the SHA-1 checksum of the PNG screenshot for the screen capture settings accessibility title string, used to verify the rendered UI text.

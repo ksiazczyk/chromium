@@ -1,0 +1,4 @@
+# Docerion header of IDS_ASH_STATUS_TRAY_AUDIO_NBS_MESSAGE.png.sha1.
+type: asset
+title: IDS_ASH_STATUS_TRAY_AUDIO_NBS_MESSAGE screenshot SHA1
+summary: Stores the SHA1 checksum of the PNG screenshot for the Ash status tray NBS audio message string, used to detect image changes.
