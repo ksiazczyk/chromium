@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing ping manager factory header
+// summary: Declares the BrowserContextKeyedServiceFactory that provides PingManager instances for Android WebView.
+// relations:
+//   - depends_on /base/no_destructor.h
+//   - depends_on /components/keyed_service/content/browser_context_keyed_service_factory.h
+//   - depends_on /components/safe_browsing/core/browser/ping_manager.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_SAFE_BROWSING_AW_PING_MANAGER_FACTORY_H_
 #define ANDROID_WEBVIEW_BROWSER_SAFE_BROWSING_AW_PING_MANAGER_FACTORY_H_
 

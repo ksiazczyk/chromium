@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwVariationsServiceClient implementation
+// summary: Implements the WebView variations service client with stubs for URL loading and network time, plus channel lookup, signature verification, and UMA log rotation.
+// relations:
+//   - implements /android_webview/browser/variations/aw_variations_service_client.h
+//   - depends_on /android_webview/browser/metrics/aw_metrics_service_client.h
+//   - depends_on /base/check.h
+// ---
+
 #include "android_webview/browser/variations/aw_variations_service_client.h"
 
 #include "android_webview/browser/metrics/aw_metrics_service_client.h"

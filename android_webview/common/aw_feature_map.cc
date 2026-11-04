@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature map exposed to Java
+// summary: Builds the feature map of WebView and other Chromium features exposed through the Java AwFeatureList API.
+// relations:
+//   - implements /android_webview/common/aw_feature_map.h
+//   - depends_on /android_webview/common/aw_features.h
+//   - depends_on /base/android/feature_map.h
+// ---
+
 #include "android_webview/common/aw_feature_map.h"
 
 #include <string>

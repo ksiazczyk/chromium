@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glue API helper for Android R PAC processor APIs
+// summary: Utility class for Android R (API 30) PacProcessor APIs that creates and returns glue-layer PacProcessorImpl instances for the framework.
+// ---
+
 package com.android.webview.chromium;
 
 import android.os.Build;

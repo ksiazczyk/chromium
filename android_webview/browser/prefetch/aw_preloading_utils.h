@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android WebView preloading utilities header
+// summary: Declares WebView preloading utility functions for reading prefetch parameters and defines the X-Disable-HTTP-Cache header constant.
+// relations:
+//   - depends_on /base/android/scoped_java_ref.h
+//   - depends_on /net/http/http_request_headers.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_PREFETCH_AW_PRELOADING_UTILS_H_
 #define ANDROID_WEBVIEW_BROWSER_PREFETCH_AW_PRELOADING_UTILS_H_
 

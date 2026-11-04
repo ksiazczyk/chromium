@@ -1,3 +1,11 @@
+---
+type: reference
+title: Android WebView Community Guidelines
+summary: Rules for the android-webview-dev mailing list, covering its purpose, the Chromium code of conduct, and moderation practices.
+relations:
+  - references /android_webview/docs/bugreport.md
+---
+
 # Android WebView Community Guidelines
 
 ## Purpose of the android-webview-dev mailing list

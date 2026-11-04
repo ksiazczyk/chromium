@@ -1,6 +1,15 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: ProfileWebViewPrefetchCallback – AndroidX prefetch callback adapter
+// summary: Relays AndroidX prefetch results from the WebView AwPrefetchCallback to a PrefetchOperationCallback, mapping status codes to success or error callbacks.
+// relations:
+//   - depends_on /android_webview/glue/java/src/com/android/webview/chromium/PrefetchOperationCallback.java
+// ---
+
 package com.android.webview.chromium;
 
 import android.os.Bundle;

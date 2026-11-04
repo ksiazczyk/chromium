@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the crash reporter directory
+summary: Defines the include rules allowing this directory to depend on android_webview crash client JNI code, components/crash, and the GWP-ASan crash key header.

@@ -1,3 +1,9 @@
+---
+type: readme
+title: //android_webview/java/
+summary: Describes the folder holding most of WebView's browser-process Java code and its rule against depending on other WebView Java code.
+---
+
 # //android\_webview/java/
 
 This folder contains most of WebView's Java code that runs within the browser

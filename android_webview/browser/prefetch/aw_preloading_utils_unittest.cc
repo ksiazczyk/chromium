@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Preloading utilities unit tests
+// summary: Unit tests for GetShouldBypassHttpCacheFromHeaders covering header values, removal behavior, missing headers, and case-insensitive matching.
+// relations:
+//   - tests /android_webview/browser/prefetch/aw_preloading_utils.h
+//   - depends_on /net/http/http_request_headers.h
+//   - depends_on /testing/gtest/include/gtest/gtest.h
+// ---
+
 #include "android_webview/browser/prefetch/aw_preloading_utils.h"
 
 #include "net/http/http_request_headers.h"

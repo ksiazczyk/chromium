@@ -1,3 +1,11 @@
+---
+type: readme
+title: Android WebView Safe Browsing
+summary: Explains how Safe Browsing works in Android WebView, covering protocols, the components implementation, opt-in requirements, interstitials, and testing.
+relations:
+  - references /android_webview/browser/safe_browsing/docs/code-overview.png
+---
+
 # Android WebView Safe Browsing
 
 [TOC]

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimplePermissionRequest implementation
+// summary: Implements SimplePermissionRequest, which stores the requesting origin and resources and reports the granted result through a callback.
+// relations:
+//   - implements /android_webview/browser/permission/simple_permission_request.h
+// ---
+
 #include "android_webview/browser/permission/simple_permission_request.h"
 
 #include "android_webview/browser/permission/aw_permission_request.h"

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DevTools trace instrumentation helpers
+// summary: Provides a scoped helper that records DevTools trace events around embedder callback tasks in Android WebView.
+// relations:
+//   - depends_on /base/trace_event/trace_event.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_COMMON_DEVTOOLS_INSTRUMENTATION_H_
 #define ANDROID_WEBVIEW_COMMON_DEVTOOLS_INSTRUMENTATION_H_
 

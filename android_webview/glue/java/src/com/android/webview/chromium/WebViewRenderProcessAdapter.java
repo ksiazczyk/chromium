@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView render process adapter
+// summary: Adapter exposing Chromium's renderer as a WebViewRenderProcess, caching instances and supporting renderer termination.
+// ---
+
 package com.android.webview.chromium;
 
 import android.annotation.SuppressLint;

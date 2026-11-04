@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for WebView Mojom files
+summary: Sets per-file review ownership so that all .mojom files in this directory require approval from the IPC security owners.
+relations:
+  - references /ipc/SECURITY_OWNERS

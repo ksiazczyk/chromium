@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Advanced protection status manager bridge implementation
+// summary: Implements the native JNI bridge that queries the Android advanced protection setting and notifies observers when its status changes.
+// relations:
+//   - depends_on /android_webview/browser/safe_browsing/aw_advanced_protection_status_manager_bridge.h
+//   - depends_on /base/android/jni_android.h
+//   - depends_on /base/no_destructor.h
+// ---
+
 #include "android_webview/browser/safe_browsing/aw_advanced_protection_status_manager_bridge.h"
 
 #include "android_webview/browser_jni_headers/AwAdvancedProtectionStatusManagerBridge_jni.h"

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwPrefetchManagerData class header
+// summary: Declares AwPrefetchManagerData and constants for default TTL, prefetch limits, and key values, defining the thread-safe mutable state of the prefetch manager.
+// relations:
+//   - depends_on /android_webview/browser/prefetch/aw_prefetch_handle_wrapper.h
+//   - depends_on /android_webview/browser/prefetch/aw_prefetch_prefs.h
+//   - depends_on /net/http/http_no_vary_search_data.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_PREFETCH_AW_PREFETCH_MANAGER_DATA_H_
 #define ANDROID_WEBVIEW_BROWSER_PREFETCH_AW_PREFETCH_MANAGER_DATA_H_
 

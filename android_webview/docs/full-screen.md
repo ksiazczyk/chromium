@@ -1,3 +1,13 @@
+---
+type: reference
+title: How WebView Full Screen Works
+summary: Explains how WebView handles full screen mode, including how apps use onShowCustomView and how AwContents switches between WebView and FullScreenView.
+relations:
+  - references /android_webview/docs/images/webview_full_screen.png
+  - references /android_webview/docs/images/webview_not_full_screen.png
+  - references /android_webview/tools/system_webview_shell/apk/src/org/chromium/webview_shell/WebViewBrowserFragment.java
+---
+
 # How WebView Full Screen Works
 
 [TOC]

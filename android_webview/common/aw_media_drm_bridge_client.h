@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media DRM bridge client class declaration
+// summary: Declares AwMediaDrmBridgeClient, which registers key-system UUID mappings and returns media DRM bridge delegates for WebView.
+// relations:
+//   - depends_on /components/cdm/common/clearkey_drm_delegate_android.h
+//   - depends_on /components/cdm/common/widevine_drm_delegate_android.h
+//   - depends_on /media/base/android/media_drm_bridge_client.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_COMMON_AW_MEDIA_DRM_BRIDGE_CLIENT_H_
 #define ANDROID_WEBVIEW_COMMON_AW_MEDIA_DRM_BRIDGE_CLIENT_H_
 

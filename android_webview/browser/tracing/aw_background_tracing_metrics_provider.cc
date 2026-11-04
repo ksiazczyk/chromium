@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwBackgroundTracingMetricsProvider implementation
+// summary: Implements the WebView background tracing metrics provider that uploads compressed traces with UMA metrics, enforcing a 512 KB upload limit and clearing app package names for privacy.
+// relations:
+//   - depends_on /android_webview/browser/tracing/aw_background_tracing_metrics_provider.h
+//   - depends_on /android_webview/browser/metrics/aw_metrics_service_client.h
+//   - depends_on /base/base_paths_android.h
+// ---
+
 #include "android_webview/browser/tracing/aw_background_tracing_metrics_provider.h"
 
 #include <string_view>

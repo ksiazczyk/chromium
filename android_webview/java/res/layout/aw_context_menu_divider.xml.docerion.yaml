@@ -1,0 +1,4 @@
+# Docerion header of aw_context_menu_divider.xml.
+type: source
+title: WebView context menu divider layout
+summary: Android layout defining a one-pixel horizontal divider view used between context menu items.

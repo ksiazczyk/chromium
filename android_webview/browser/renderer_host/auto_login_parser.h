@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android WebView auto-login header parser interface
+// summary: Declares the HeaderData struct, the RealmRestriction enum, and the ParseHeader function used to extract realm, account, and args from x-auto-login headers.
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_RENDERER_HOST_AUTO_LOGIN_PARSER_H_
 #define ANDROID_WEBVIEW_BROWSER_RENDERER_HOST_AUTO_LOGIN_PARSER_H_
 

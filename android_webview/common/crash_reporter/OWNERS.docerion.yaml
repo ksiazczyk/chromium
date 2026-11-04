@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for the crash reporter directory
+summary: Sets directory ownership and delegates review of the crash key files to the owners listed for components/crash.
+relations:
+  - references /components/crash/OWNERS

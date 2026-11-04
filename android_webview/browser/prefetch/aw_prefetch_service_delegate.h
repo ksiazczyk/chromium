@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android WebView prefetch service delegate header
+// summary: Declares AwPrefetchServiceDelegate, which implements content::PrefetchServiceDelegate to supply proxy hosts, API keys, eligibility checks, and headers for WebView prefetching.
+// relations:
+//   - depends_on /base/memory/raw_ref.h
+//   - implements /content/public/browser/prefetch_service_delegate.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_PREFETCH_AW_PREFETCH_SERVICE_DELEGATE_H_
 #define ANDROID_WEBVIEW_BROWSER_PREFETCH_AW_PREFETCH_SERVICE_DELEGATE_H_
 

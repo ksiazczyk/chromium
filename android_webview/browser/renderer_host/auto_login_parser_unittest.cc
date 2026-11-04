@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the auto-login header parser
+// summary: Unit tests covering successful and failing parses of x-auto-login headers, including realm restrictions, missing fields, and the optional account parameter.
+// relations:
+//   - depends_on /android_webview/browser/renderer_host/auto_login_parser.h
+//   - depends_on /testing/gtest/include/gtest/gtest.h
+//   - tests /android_webview/browser/renderer_host/auto_login_parser.cc
+// ---
+
 #include "android_webview/browser/renderer_host/auto_login_parser.h"
 
 #include <string>

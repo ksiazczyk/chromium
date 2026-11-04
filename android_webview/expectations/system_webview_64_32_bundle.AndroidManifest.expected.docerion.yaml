@@ -1,0 +1,4 @@
+# Docerion header of system_webview_64_32_bundle.AndroidManifest.expected.
+type: data
+title: System WebView 64_32 bundle expected AndroidManifest
+summary: Expected AndroidManifest for the 64_32 System WebView bundle, with placeholders and diff anchors so manifest changes are reviewed deliberately.

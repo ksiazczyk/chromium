@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android WebView crash reporter client implementation
+// summary: Implements the WebView-specific CrashReporterClient, supplying product info, crash dump location, sanitization details, process types, and Java exception handling for Crashpad.
+// relations:
+//   - depends_on /android_webview/common/crash_reporter/aw_crash_reporter_client.h
+//   - depends_on /android_webview/common/aw_descriptors.h
+//   - depends_on /android_webview/common/aw_paths.h
+// ---
+
 #include "android_webview/common/crash_reporter/aw_crash_reporter_client.h"
 
 #include <stdint.h>

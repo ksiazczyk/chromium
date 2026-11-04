@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView command-line switch definitions
+// summary: Defines WebView command-line switch constants covering logging, SafeBrowsing, variations seed downloads, cookie behavior, and startup control.
+// relations:
+//   - depends_on /android_webview/common/aw_switches.h
+// ---
+
 #include "android_webview/common/aw_switches.h"
 
 namespace switches {

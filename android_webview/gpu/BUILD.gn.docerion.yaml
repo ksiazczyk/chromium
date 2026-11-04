@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for //android_webview/gpu
+summary: Defines the gpu source_set containing aw_content_gpu_client and its dependencies on //android_webview/common, //base, and //content/public/gpu.
+relations:
+  - has_part /android_webview/gpu/aw_content_gpu_client.cc
+  - has_part /android_webview/gpu/aw_content_gpu_client.h
+  - depends_on /android_webview/common/BUILD.gn

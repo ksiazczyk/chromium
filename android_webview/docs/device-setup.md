@@ -1,3 +1,12 @@
+---
+type: guide
+title: Device Setup for WebView Development
+summary: Instructions for setting up an emulator or physical device with a userdebug or eng Android image for building and testing WebView.
+relations:
+  - references /android_webview/docs/test-instructions.md
+  - references /docs/android_emulator.md
+---
+
 # Device Setup for WebView development
 
 [TOC]

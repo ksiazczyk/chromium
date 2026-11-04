@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwBackgroundTracingMetricsProvider class declaration
+// summary: Declares the WebView background tracing metrics provider and the 512 KB compressed trace upload limit that protects the app's IPC binder buffer.
+// relations:
+//   - depends_on /base/memory/weak_ptr.h
+//   - implements /components/tracing/common/background_tracing_metrics_provider.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_TRACING_AW_BACKGROUND_TRACING_METRICS_PROVIDER_H_
 #define ANDROID_WEBVIEW_BROWSER_TRACING_AW_BACKGROUND_TRACING_METRICS_PROVIDER_H_
 

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebViewChromium
+// summary: Core WebViewProvider implementation that delegates android.webkit.WebView operations such as loading, settings, and events to Chromium's AwContents.
+// relations:
+//   - depends_on /android_webview/glue/java/src/com/android/webview/chromium/ApiCallLogger.java
+// ---
+
 package com.android.webview.chromium;
 
 import android.annotation.SuppressLint;

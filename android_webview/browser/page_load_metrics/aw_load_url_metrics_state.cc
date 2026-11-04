@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LoadUrlMetricsState implementation
+// summary: Implements the WebContents user data that stores the loadUrl call timestamp for the load URL metrics observer.
+// relations:
+//   - implements /android_webview/browser/page_load_metrics/aw_load_url_metrics_state.h
+// ---
+
 #include "android_webview/browser/page_load_metrics/aw_load_url_metrics_state.h"
 
 namespace android_webview {

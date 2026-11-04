@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceWorkerSettingsAdapter – service worker settings bridge
+// summary: Adapts android.webkit.ServiceWorkerWebSettings calls to the internal AwServiceWorkerSettings, covering file, content, network, and cache settings.
+// relations:
+//   - depends_on /android_webview/java/src/org/chromium/android_webview/AwServiceWorkerSettings.java
+// ---
+
 package com.android.webview.chromium;
 
 import org.chromium.android_webview.AwServiceWorkerSettings;

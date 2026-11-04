@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CachedFlags JNI implementation
+// summary: Implements the JNI bridge for querying cached feature flag state from Java through the WebViewCachedFlags interface.
+// relations:
+//   - depends_on /android_webview/common/aw_cached_flags.h
+//   - depends_on /android_webview/common/aw_feature_map.h
+//   - depends_on /base/android/feature_map.h
+// ---
+
 #include "android_webview/common/aw_cached_flags.h"
 
 #include <string>

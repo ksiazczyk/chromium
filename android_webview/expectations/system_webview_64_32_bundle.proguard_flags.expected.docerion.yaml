@@ -1,0 +1,8 @@
+# Docerion header of system_webview_64_32_bundle.proguard_flags.expected.
+type: data
+title: System WebView 64_32 bundle expected proguard flags
+summary: Expected aggregated proguard and R8 flags for the 64_32 System WebView bundle, combining keep rules from androidx, jni_zero, and Chromium build annotations.
+relations:
+  - depends_on /third_party/androidx/androidx_annotations.flags
+  - depends_on /third_party/androidx/androidx_fragment.flags
+  - depends_on /third_party/jni_zero/checkdiscard_proguard.flags

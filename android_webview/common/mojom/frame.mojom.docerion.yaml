@@ -1,0 +1,8 @@
+# Docerion header of frame.mojom.
+type: source
+title: frame.mojom
+summary: Defines Mojom types and interfaces for WebView frame communication, including hit test data, embedder postMessage payloads, and frame control methods.
+relations:
+  - depends_on /mojo/public/mojom/base/shared_memory.mojom
+  - depends_on /mojo/public/mojom/base/string16.mojom
+  - depends_on /mojo/public/mojom/base/time.mojom

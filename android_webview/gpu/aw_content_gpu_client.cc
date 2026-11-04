@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwContentGpuClient implementation
+// summary: Implements the WebView content GPU client, returning the sync point manager, shared image manager, scheduler, viz compositor runner, and GrContext options provider via stored callbacks.
+// relations:
+//   - depends_on /android_webview/gpu/aw_content_gpu_client.h
+// ---
+
 #include "android_webview/gpu/aw_content_gpu_client.h"
 
 #include <utility>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android WebView render view host extension implementation
+// summary: Implements the WebView-specific RenderViewHost wrapper that sends commands to the renderer for image detection, text zoom, scrolling, page scale, and hit test data.
+// relations:
+//   - depends_on /android_webview/browser/renderer_host/aw_render_view_host_ext.h
+//   - depends_on /android_webview/browser/aw_browser_context.h
+//   - depends_on /android_webview/browser/aw_contents.h
+// ---
+
 #include "android_webview/browser/renderer_host/aw_render_view_host_ext.h"
 
 #include "android_webview/browser/aw_browser_context.h"

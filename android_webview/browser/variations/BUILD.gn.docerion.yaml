@@ -1,0 +1,8 @@
+# Docerion header of BUILD.gn.
+type: config
+title: WebView variations build targets
+summary: GN build file defining the variations source_set with its sources and dependencies on WebView, metrics, and variations components.
+relations:
+  - has_part /android_webview/browser/variations/aw_entropy_providers.cc
+  - has_part /android_webview/browser/variations/aw_entropy_providers.h
+  - has_part /android_webview/browser/variations/aw_variations_service_client.cc

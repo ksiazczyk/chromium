@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwTracingDelegate implementation
+// summary: Implements the WebView tracing delegate that gates background trace recording on metrics consent and creates state and system profile metadata recorders.
+// relations:
+//   - implements /android_webview/browser/tracing/aw_tracing_delegate.h
+//   - depends_on /android_webview/browser/aw_browser_process.h
+//   - depends_on /android_webview/browser/metrics/aw_metrics_service_client.h
+// ---
+
 #include "android_webview/browser/tracing/aw_tracing_delegate.h"
 
 #include <memory>

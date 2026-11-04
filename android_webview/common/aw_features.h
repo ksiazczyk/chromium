@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView feature flag declarations
+// summary: Declares Android WebView feature flags and associated feature parameters in the android_webview::features namespace.
+// relations:
+//   - depends_on /base/feature_list.h
+//   - depends_on /base/metrics/field_trial_params.h
+//   - depends_on /base/time/time.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_COMMON_AW_FEATURES_H_
 #define ANDROID_WEBVIEW_COMMON_AW_FEATURES_H_
 

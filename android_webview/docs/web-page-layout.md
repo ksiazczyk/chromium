@@ -1,3 +1,12 @@
+---
+type: reference
+title: Web page layout
+summary: Explains the WebView APIs and algorithms that affect web page layout and how to configure WebView to approximate Chrome for Android behavior.
+relations:
+  - references /android_webview/docs/images/web_page_layout_decisions.png
+  - references /android_webview/docs/webview-shell.md
+---
+
 # Web Page Layout
 
 This page explains various settings and algorithms that affect web page layout

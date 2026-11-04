@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView multi-profile abstraction over browser context
+// summary: Wraps AwBrowserContext to support the multi-profile public API, lazily initializing Chromium state on the UI thread when profile APIs are first used.
+// relations:
+//   - depends_on /android_webview/java/src/org/chromium/android_webview/AwBrowserContext.java
+// ---
+
 package com.android.webview.chromium;
 
 import android.webkit.CookieManager;

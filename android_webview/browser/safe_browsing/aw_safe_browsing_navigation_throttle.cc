@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing navigation throttle implementation
+// summary: Shows a Safe Browsing interstitial when an outermost main frame navigation fails because it was blocked by Safe Browsing.
+// relations:
+//   - implements /android_webview/browser/safe_browsing/aw_safe_browsing_navigation_throttle.h
+//   - depends_on /android_webview/browser/aw_browser_process.h
+//   - depends_on /android_webview/browser/network_service/aw_web_resource_request.h
+// ---
+
 #include "android_webview/browser/safe_browsing/aw_safe_browsing_navigation_throttle.h"
 
 #include <memory>

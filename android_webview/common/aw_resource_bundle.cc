@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView resource bundle initialization
+// summary: Initializes ICU and the resource bundle for WebView, loading locale and main pak files on the browser and renderer sides.
+// relations:
+//   - depends_on /android_webview/common/aw_resource_bundle.h
+//   - depends_on /android_webview/common/aw_descriptors.h
+//   - depends_on /base/files/file.h
+// ---
+
 #include "android_webview/common/aw_resource_bundle.h"
 
 #include "android_webview/common/aw_descriptors.h"

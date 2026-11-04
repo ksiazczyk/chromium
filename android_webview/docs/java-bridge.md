@@ -1,3 +1,9 @@
+---
+type: reference
+title: WebView Java Bridge (WebView#addJavascriptInterface())
+summary: Documents the design and behavior of the Java-to-JavaScript bridge, covering the API, object lifecycles, argument conversions, threading, and security issues.
+---
+
 # WebView Java Bridge (WebView#addJavascriptInterface())
 
 [TOC]

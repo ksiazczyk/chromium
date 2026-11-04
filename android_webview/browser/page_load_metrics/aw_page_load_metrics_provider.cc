@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwPageLoadMetricsProvider implementation
+// summary: Implements the metrics provider that flushes page load metrics for all AwContents when the app enters background.
+// relations:
+//   - implements /android_webview/browser/page_load_metrics/aw_page_load_metrics_provider.h
+//   - depends_on /android_webview/browser/aw_contents.h
+//   - depends_on /android_webview/browser/lifecycle/aw_contents_lifecycle_notifier.h
+// ---
+
 #include "android_webview/browser/page_load_metrics/aw_page_load_metrics_provider.h"
 
 #include "android_webview/browser/aw_contents.h"

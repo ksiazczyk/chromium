@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebMessagePort adapter
+// summary: Adapts android.webkit.WebMessagePort to Chromium MessagePort, converting messages, ports, and callbacks between the two APIs.
+// ---
+
 package com.android.webview.chromium;
 
 import android.os.Handler;

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing UI manager implementation
+// summary: Implements the WebView Safe Browsing UI manager that displays blocking pages, selects error UI types, and sends threat details reports.
+// relations:
+//   - implements /android_webview/browser/safe_browsing/aw_safe_browsing_ui_manager.h
+//   - depends_on /android_webview/browser/aw_content_browser_client.h
+//   - depends_on /android_webview/browser/safe_browsing/aw_ping_manager_factory.h
+// ---
+
 #include "android_webview/browser/safe_browsing/aw_safe_browsing_ui_manager.h"
 
 #include <memory>

@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView Safe Browsing URL checker delegate header
+// summary: Declares the AwUrlCheckerDelegateImpl class, which adapts Chromium's Safe Browsing URL checker to WebView, including its SafeBrowsingAction enum and preference constant.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /base/memory/scoped_refptr.h
+//   - depends_on /components/safe_browsing/core/browser/url_checker_delegate.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_SAFE_BROWSING_AW_URL_CHECKER_DELEGATE_IMPL_H_
 #define ANDROID_WEBVIEW_BROWSER_SAFE_BROWSING_AW_URL_CHECKER_DELEGATE_IMPL_H_
 

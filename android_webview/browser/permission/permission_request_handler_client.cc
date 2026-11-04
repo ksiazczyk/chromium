@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionRequestHandlerClient implementation
+// summary: Implements the constructor and destructor of the PermissionRequestHandlerClient interface used for Android WebView permission requests.
+// relations:
+//   - implements /android_webview/browser/permission/permission_request_handler_client.h
+// ---
+
 #include "android_webview/browser/permission/permission_request_handler_client.h"
 
 namespace android_webview {

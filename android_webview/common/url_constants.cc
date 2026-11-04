@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android WebView URL constants implementation
+// summary: Defines special Android asset and resource file paths, the video poster scheme, and a check for special file URLs.
+// relations:
+//   - depends_on /android_webview/common/url_constants.h
+//   - depends_on /base/strings/string_util.h
+// ---
+
 #include "android_webview/common/url_constants.h"
 
 #include "base/strings/string_util.h"

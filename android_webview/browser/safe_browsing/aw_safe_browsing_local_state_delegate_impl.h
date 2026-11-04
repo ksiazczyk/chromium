@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing local state delegate declaration
+// summary: Declares the WebView implementation of the Safe Browsing WebUI local state delegate interface.
+// relations:
+//   - implements /components/safe_browsing/core/browser/web_ui/safe_browsing_local_state_delegate.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_SAFE_BROWSING_AW_SAFE_BROWSING_LOCAL_STATE_DELEGATE_IMPL_H_
 #define ANDROID_WEBVIEW_BROWSER_SAFE_BROWSING_AW_SAFE_BROWSING_LOCAL_STATE_DELEGATE_IMPL_H_
 

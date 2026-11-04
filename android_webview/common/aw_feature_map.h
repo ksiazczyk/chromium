@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView feature map accessor
+// summary: Declares GetFeatureMap, which returns the base::android::FeatureMap instance for android_webview.
+// ---
+
 #ifndef ANDROID_WEBVIEW_COMMON_AW_FEATURE_MAP_H_
 #define ANDROID_WEBVIEW_COMMON_AW_FEATURE_MAP_H_
 

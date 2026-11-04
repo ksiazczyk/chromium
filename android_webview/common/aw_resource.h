@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwResource declarations
+// summary: Declares AwResource functions that are implemented with JNI calls to the AwResource Java class.
+// ---
+
 #ifndef ANDROID_WEBVIEW_COMMON_AW_RESOURCE_H_
 #define ANDROID_WEBVIEW_COMMON_AW_RESOURCE_H_
 

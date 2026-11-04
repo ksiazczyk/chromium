@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwLoadUrlMetricsObserver class declaration
+// summary: Declares the page load metrics observer that measures timings from the AwContents.loadUrl API call to page load events.
+// relations:
+//   - depends_on /base/time/time.h
+//   - depends_on /components/page_load_metrics/browser/page_load_metrics_observer.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_PAGE_LOAD_METRICS_AW_LOAD_URL_METRICS_OBSERVER_H_
 #define ANDROID_WEBVIEW_BROWSER_PAGE_LOAD_METRICS_AW_LOAD_URL_METRICS_OBSERVER_H_
 

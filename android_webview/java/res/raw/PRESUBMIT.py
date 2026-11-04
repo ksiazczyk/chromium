@@ -1,6 +1,15 @@
 # Copyright 2023 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: ci
+# title: Presubmit checks for WebView raw resources
+# summary: Presubmit script that validates the Android WebView histograms allowlist whenever the allowlist file is changed in a pending upload.
+# relations:
+#   - tests /android_webview/java/src/org/chromium/android_webview/metrics/HistogramsAllowlist.java
+# ---
+
 """Presubmit tests for android_webview/java/res/raw"""
 
 import os

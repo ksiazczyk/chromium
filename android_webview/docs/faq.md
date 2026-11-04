@@ -1,3 +1,11 @@
+---
+type: reference
+title: FAQ for WebView Users
+summary: Answers common questions about WebView, including what it is, how to report bugs, why updates are needed, and its relationship with Chrome.
+relations:
+  - references /android_webview/docs/bugreport.md
+---
+
 # FAQ for WebView Users
 
 [TOC]

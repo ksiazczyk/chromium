@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android WebView supervised user navigation throttle class declaration
+// summary: Declares AwSupervisedUserThrottle, a NavigationThrottle that checks http and https URLs against supervised user restrictions before load.
+// relations:
+//   - depends_on /android_webview/browser/supervised_user/aw_supervised_user_url_classifier.h
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /base/sequence_checker.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_SUPERVISED_USER_AW_SUPERVISED_USER_THROTTLE_H_
 #define ANDROID_WEBVIEW_BROWSER_SUPERVISED_USER_AW_SUPERVISED_USER_THROTTLE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android WebView crash reporter client interface
+// summary: Declares the functions that enable crash reporting for a given process type and report whether the crash reporter is enabled.
+// ---
+
 #ifndef ANDROID_WEBVIEW_COMMON_CRASH_REPORTER_AW_CRASH_REPORTER_CLIENT_H_
 #define ANDROID_WEBVIEW_COMMON_CRASH_REPORTER_AW_CRASH_REPORTER_CLIENT_H_
 

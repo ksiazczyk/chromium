@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media DRM bridge client implementation
+// summary: Implements AwMediaDrmBridgeClient, parsing key-system UUID mapping strings and providing Widevine and ClearKey DRM delegates.
+// relations:
+//   - depends_on /android_webview/common/aw_media_drm_bridge_client.h
+//   - depends_on /base/logging.h
+//   - depends_on /base/strings/string_number_conversions.h
+// ---
+
 #include "android_webview/common/aw_media_drm_bridge_client.h"
 
 #include <utility>

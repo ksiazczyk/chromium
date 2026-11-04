@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwWebPerformanceMetricsObserver header
+// summary: Declares AwWebPerformanceMetricsObserver, which forwards Web Performance metrics such as fully loaded, fully visible and interactive marks for WebView page loads to the Java side.
+// relations:
+//   - depends_on /components/page_load_metrics/browser/page_load_metrics_observer.h
+//   - references /third_party/blink/renderer/core/timing/performance.cc
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_PAGE_LOAD_METRICS_AW_WEB_PERFORMANCE_METRICS_OBSERVER_H_
 #define ANDROID_WEBVIEW_BROWSER_PAGE_LOAD_METRICS_AW_WEB_PERFORMANCE_METRICS_OBSERVER_H_
 

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimplePermissionRequest class
+// summary: Declares SimplePermissionRequest, an AwPermissionRequestDelegate that handles simple permission requests resolved by a boolean callback.
+// relations:
+//   - implements /android_webview/browser/permission/aw_permission_request_delegate.h
+//   - depends_on /android_webview/browser/permission/permission_callback.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_PERMISSION_SIMPLE_PERMISSION_REQUEST_H_
 #define ANDROID_WEBVIEW_BROWSER_PERMISSION_SIMPLE_PERMISSION_REQUEST_H_
 

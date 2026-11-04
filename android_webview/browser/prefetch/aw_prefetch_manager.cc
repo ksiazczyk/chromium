@@ -1,6 +1,17 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: AwPrefetchManager implementation
+// summary: Implements AwPrefetchManager, which starts, cancels, and tracks WebView prefetch and pre-prefetch requests and propagates their status to Java callbacks.
+// relations:
+//   - implements /android_webview/browser/prefetch/aw_prefetch_manager.h
+//   - depends_on /android_webview/browser/aw_browser_context.h
+//   - depends_on /android_webview/browser/http_headers/aw_origin_matched_header.h
+// ---
+
 #include "android_webview/browser/prefetch/aw_prefetch_manager.h"
 
 #include <jni.h>

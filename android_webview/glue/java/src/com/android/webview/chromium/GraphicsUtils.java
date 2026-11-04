@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GraphicsUtils native function table access
+// summary: Abstract class exposing native software and GL drawing function tables used by the Android framework via manual JNI registration.
+// ---
+
 package com.android.webview.chromium;
 
 import org.chromium.build.annotations.UsedByReflection;

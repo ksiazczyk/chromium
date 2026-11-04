@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwGrContextOptionsProvider implementation
+// summary: Implements SetCustomGrContextOptions, querying Java to disable internal multisampling and texture sharpening when TV smoothing is enabled for Skia rendering.
+// relations:
+//   - implements /android_webview/common/gfx/aw_gr_context_options_provider.h
+// ---
+
 #include "android_webview/common/gfx/aw_gr_context_options_provider.h"
 
 #include "android_webview/common/aw_features.h"

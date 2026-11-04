@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glue API helper for Android Q WebView render process APIs
+// summary: Utility class exposing Android Q (API 29) WebView render process APIs through glue-layer adapters, kept separate so framework verification does not encounter the new APIs.
+// ---
+
 package com.android.webview.chromium;
 
 import android.webkit.WebViewRenderProcess;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedStatics – static WebView API entry points
+// summary: Provides statically accessed WebView functionality shared between the webkit-glue and support library glue layers, recording static API call metrics.
+// ---
+
 package com.android.webview.chromium;
 
 import android.app.ActivityManager;

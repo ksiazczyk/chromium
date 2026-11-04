@@ -1,3 +1,13 @@
+---
+type: guide
+title: WebView Test Instructions
+summary: Instructions for building and running WebView's Chromium-side and external tests, including instrumentation, Java and native unit tests, layout tests, and CTS.
+relations:
+  - references /docs/testing/android_test_instructions.md
+  - references /android_webview/docs/webview-shell.md
+  - references /android_webview/docs/build-instructions.md
+---
+
 # WebView Test Instructions
 
 [TOC]

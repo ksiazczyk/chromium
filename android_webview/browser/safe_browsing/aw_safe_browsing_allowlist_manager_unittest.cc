@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe Browsing allowlist manager unit tests
+// summary: Unit tests covering allowlist rule matching for exact hosts, subdomains, ports, and HTTP and WebSocket schemes.
+// relations:
+//   - tests /android_webview/browser/safe_browsing/aw_safe_browsing_allowlist_manager.h
+//   - depends_on /base/functional/bind.h
+//   - depends_on /base/functional/callback.h
+// ---
+
 #include "android_webview/browser/safe_browsing/aw_safe_browsing_allowlist_manager.h"
 
 #include <memory>

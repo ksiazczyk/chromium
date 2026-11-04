@@ -1,3 +1,9 @@
+---
+type: readme
+title: //android_webview/gpu/ README
+summary: Explains that this folder holds WebView's GPU-specific code running in the browser process and describes its allowed folder dependencies.
+---
+
 # //android\_webview/gpu/
 
 This folder holds WebView's gpu-specific code.

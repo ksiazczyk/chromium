@@ -1,3 +1,9 @@
+---
+type: reference
+title: Lifetime annotations
+summary: Describes the Singleton, Profile, WebView, Temporary, and Renderer lifetime annotations used to make class lifetimes explicit in the WebView multi-profile project.
+---
+
 # Lifetime annotations
 
 ## Overview

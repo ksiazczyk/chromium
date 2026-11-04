@@ -1,3 +1,13 @@
+---
+type: guide
+title: Contributing to WebView Tests
+summary: Where to add and how to write WebView instrumentation, JUnit, and native gtest tests, plus how tests interact with WebView and how to run them.
+relations:
+  - references /android_webview/docs/test-instructions.md
+  - references /android_webview/java/src/org/chromium/android_webview/AwContents.java
+  - references /android_webview/java/src/org/chromium/android_webview/AwCookieManager.java
+---
+
 # Contributing to WebView Tests
 
 [TOC]

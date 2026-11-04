@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidX process global configuration holder
+// summary: Stores process-global WebView configuration values set by the embedding app via androidx.webkit.ProcessGlobalConfig, extracted once when WebView loads.
+// ---
+
 package com.android.webview.chromium;
 
 import android.os.Build;

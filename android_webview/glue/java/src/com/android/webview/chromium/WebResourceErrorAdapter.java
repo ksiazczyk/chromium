@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebResourceErrorAdapter
+// summary: Chromium implementation of android.webkit.WebResourceError that wraps the internal AwWebResourceError and exposes its error code and description.
+// ---
+
 package com.android.webview.chromium;
 
 import android.webkit.WebResourceError;

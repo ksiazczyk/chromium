@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebView path provider implementation
+// summary: Implements the WebView PathService provider resolving directories for crash dumps, components, Safe Browsing, and local traces.
+// relations:
+//   - depends_on /android_webview/common/aw_paths.h
+//   - depends_on /base/android/path_utils.h
+//   - depends_on /base/base_paths_android.h
+// ---
+
 #include "android_webview/common/aw_paths.h"
 
 #include "base/android/path_utils.h"

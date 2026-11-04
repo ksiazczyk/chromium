@@ -1,3 +1,13 @@
+---
+type: note
+title: WebView docs navigation (go/webview-docs)
+summary: Lists links to the WebView developer documentation pages and acts as the navigation bar for the docs set.
+relations:
+  - references /android_webview/docs/README.md
+  - references /android_webview/docs/aosp-system-integration.md
+  - references /android_webview/docs/architecture.md
+---
+
 # WebView docs (go/webview-docs)
 
 * [Home](/android_webview/docs/README.md)

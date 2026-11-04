@@ -1,3 +1,9 @@
+---
+type: reference
+title: CORS and WebView API
+summary: Explains how CORS applies to WebView, covering Android-specific URL schemes like intent, content, and android_asset, and detailing APIs such as setAllowFileAccessFromFileURLs and shouldInterceptRequest.
+---
+
 # CORS and WebView API
 
 ## What is CORS?

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shared WebView contents client adapter
+// summary: Abstract adapter for AwContentsClient methods that can be handled by either glue layer, forwarding WebViewClient callbacks such as URL loading overrides.
+// relations:
+//   - references /android_webview/glue/java/src/com/android/webview/chromium/SharedWebViewRendererClientAdapter.java
+// ---
+
 package com.android.webview.chromium;
 
 import android.content.Context;

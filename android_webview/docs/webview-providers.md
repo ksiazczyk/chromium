@@ -1,3 +1,13 @@
+---
+type: reference
+title: WebView Providers
+summary: Documents WebView provider options, how to check and switch the selected provider, and the requirements a package must meet to be an eligible provider.
+relations:
+  - references /android_webview/docs/build-instructions.md
+  - references /android_webview/docs/prerelease.md
+  - references /android_webview/docs/quick-start.md
+---
+
 # WebView Providers
 
 Since Android Lollipop, WebView has been an updatable system component, with

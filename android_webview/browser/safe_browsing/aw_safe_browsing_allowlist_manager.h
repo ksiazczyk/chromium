@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing allowlist manager header
+// summary: Declares the allowlist manager that applies Java-provided host rules and checks URLs on the IO thread.
+// relations:
+//   - depends_on /base/functional/callback_forward.h
+//   - depends_on /base/memory/scoped_refptr.h
+//   - depends_on /base/observer_list.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_SAFE_BROWSING_AW_SAFE_BROWSING_ALLOWLIST_MANAGER_H_
 #define ANDROID_WEBVIEW_BROWSER_SAFE_BROWSING_AW_SAFE_BROWSING_ALLOWLIST_MANAGER_H_
 

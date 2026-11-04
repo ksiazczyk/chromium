@@ -1,3 +1,9 @@
+---
+type: reference
+title: Android WebView & Insets
+summary: Explains how WebView handles display cutout, system bar, and keyboard (IME) insets across milestones, including viewport resizing effects and what app developers should check or opt out of.
+---
+
 ## Android WebView & Insets
 
 

@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebSettings adapter over AwSettings
+// summary: Type adaptation layer between the framework WebSettings API and Chromium's internal AwSettings implementation.
+// relations:
+//   - depends_on /android_webview/glue/java/src/com/android/webview/chromium/ApiCallLogger.java
+// ---
+
 package com.android.webview.chromium;
 
 import android.annotation.SuppressLint;

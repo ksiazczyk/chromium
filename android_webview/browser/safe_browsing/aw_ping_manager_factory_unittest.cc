@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe Browsing ping manager factory unit tests
+// summary: Unit test verifying that threat detail reports are sent successfully through the WebView ping manager.
+// relations:
+//   - tests /android_webview/browser/safe_browsing/aw_ping_manager_factory.h
+//   - depends_on /android_webview/browser/aw_browser_context.h
+//   - depends_on /android_webview/browser/aw_browser_context_store.h
+// ---
+
 #include "android_webview/browser/safe_browsing/aw_ping_manager_factory.h"
 
 #include "android_webview/browser/aw_browser_context.h"

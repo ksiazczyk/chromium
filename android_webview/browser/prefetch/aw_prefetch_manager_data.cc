@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwPrefetchManagerData implementation
+// summary: Implements AwPrefetchManagerData, a thread-safe store handling prefetch key allocation, handle reservation and commit, deduplication, and eviction of oldest prefetches.
+// relations:
+//   - implements /android_webview/browser/prefetch/aw_prefetch_manager_data.h
+//   - depends_on /android_webview/browser/prefetch/aw_preloading_utils.h
+//   - depends_on /android_webview/common/aw_features.h
+// ---
+
 #include "android_webview/browser/prefetch/aw_prefetch_manager_data.h"
 
 #include "android_webview/browser/prefetch/aw_preloading_utils.h"

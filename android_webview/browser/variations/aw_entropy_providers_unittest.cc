@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AwEntropyProviders unit tests
+// summary: Verifies entropy values for allowlisted and non-allowlisted studies, default entropy delegation, and limited entropy behavior.
+// relations:
+//   - tests /android_webview/browser/variations/aw_entropy_providers.h
+//   - depends_on /components/variations/entropy_provider.h
+//   - depends_on /testing/gtest/include/gtest/gtest.h
+// ---
+
 #include "android_webview/browser/variations/aw_entropy_providers.h"
 
 #include <memory>

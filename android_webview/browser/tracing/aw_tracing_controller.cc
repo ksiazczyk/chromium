@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwTracingController implementation
+// summary: Implements the JNI-backed WebView tracing controller that starts tracing and stops and flushes trace data via the content TracingController with privacy filtering enabled.
+// relations:
+//   - depends_on /android_webview/browser/tracing/aw_tracing_controller.h
+//   - depends_on /base/android/jni_android.h
+//   - depends_on /base/android/jni_array.h
+// ---
+
 #include "android_webview/browser/tracing/aw_tracing_controller.h"
 
 #include "base/android/jni_android.h"

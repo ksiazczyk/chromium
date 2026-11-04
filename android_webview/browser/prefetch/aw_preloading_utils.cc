@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android WebView preloading utilities implementation
+// summary: Implements JNI helpers that convert Java prefetch parameters into request headers, No-Vary-Search data, JavaScript and variations settings, plus HTTP cache bypass handling.
+// relations:
+//   - implements /android_webview/browser/prefetch/aw_preloading_utils.h
+//   - depends_on /android_webview/common/aw_features.h
+//   - depends_on /base/android/jni_array.h
+// ---
+
 #include "android_webview/browser/prefetch/aw_preloading_utils.h"
 
 #include "android_webview/common/aw_features.h"

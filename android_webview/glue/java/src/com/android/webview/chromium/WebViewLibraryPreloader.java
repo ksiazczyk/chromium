@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trichrome WebView native library preloader
+// summary: Preloads the WebView native library from its package so Trichrome can share the library's relro between Chrome and WebView.
+// ---
+
 package com.android.webview.chromium;
 
 import android.webkit.WebViewFactory;

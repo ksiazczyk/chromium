@@ -1,3 +1,11 @@
+---
+type: guide
+title: Web platform compatibility in Android WebView
+summary: Describes why WebView needs special compatibility care, what kinds of changes affect it, and options for handling web platform changes that impact apps.
+relations:
+  - references /android_webview/tools/cts_config/README.md
+---
+
 # Web platform compatibility in Android WebView
 
 The Android WebView sometimes needs special consideration and care when making

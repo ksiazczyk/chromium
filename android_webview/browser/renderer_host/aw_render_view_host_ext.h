@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android WebView render view host extension interface
+// summary: Declares AwRenderViewHostExt, a WebContentsObserver and FrameHost Mojo endpoint that forwards WebView-specific messages to the renderer and reports page scale and contents size changes.
+// relations:
+//   - depends_on /base/memory/raw_ptr.h
+//   - depends_on /content/public/browser/web_contents_observer.h
+//   - depends_on /base/functional/callback_forward.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_RENDERER_HOST_AW_RENDER_VIEW_HOST_EXT_H_
 #define ANDROID_WEBVIEW_BROWSER_RENDERER_HOST_AW_RENDER_VIEW_HOST_EXT_H_
 

@@ -2,6 +2,15 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PermissionRequestHandlerClient interface
+// summary: Defines the abstract PermissionRequestHandlerClient interface with methods for handling and canceling Android WebView permission requests.
+// relations:
+//   - depends_on /base/android/scoped_java_ref.h
+//   - depends_on /base/memory/weak_ptr.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_PERMISSION_PERMISSION_REQUEST_HANDLER_CLIENT_H_
 #define ANDROID_WEBVIEW_BROWSER_PERMISSION_PERMISSION_REQUEST_HANDLER_CLIENT_H_
 

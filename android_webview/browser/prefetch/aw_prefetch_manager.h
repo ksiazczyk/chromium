@@ -2,6 +2,16 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwPrefetchManager class header
+// summary: Declares AwPrefetchManager, the per-profile manager of WebView prefetch operations covering request classification, TTL, capacity limits, and threading rules.
+// relations:
+//   - depends_on /android_webview/browser/aw_contents.h
+//   - depends_on /android_webview/browser/prefetch/aw_prefetch_handle_wrapper.h
+//   - depends_on /android_webview/browser/prefetch/aw_prefetch_manager_data.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_PREFETCH_AW_PREFETCH_MANAGER_H_
 #define ANDROID_WEBVIEW_BROWSER_PREFETCH_AW_PREFETCH_MANAGER_H_
 

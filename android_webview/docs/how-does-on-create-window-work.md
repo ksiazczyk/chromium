@@ -1,3 +1,13 @@
+---
+type: reference
+title: How WebChromeClient#onCreateWindow Works
+summary: Explains how onCreateWindow and related APIs are implemented, walking through the flow from window.open to popup AwContents creation and content supply.
+relations:
+  - references /android_webview/browser/aw_web_contents_delegate.h
+  - references /android_webview/java/src/org/chromium/android_webview/AwWebContentsDelegate.java
+  - references /android_webview/browser/aw_contents.cc
+---
+
 # How does [`WebChromeClient#onCreateWindow`](https://developer.android.com/reference/android/webkit/WebChromeClient#onCreateWindow(android.webkit.WebView,%20boolean,%20boolean,%20android.os.Message)) work?
 
 [TOC]

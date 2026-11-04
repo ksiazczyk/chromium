@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceWorkerControllerAdapter – Chromium service worker controller
+// summary: Chromium implementation of android.webkit.ServiceWorkerController that forwards settings and client calls to the internal AwServiceWorkerController.
+// relations:
+//   - depends_on /android_webview/java/src/org/chromium/android_webview/AwServiceWorkerController.java
+// ---
+
 package com.android.webview.chromium;
 
 import android.webkit.ServiceWorkerClient;

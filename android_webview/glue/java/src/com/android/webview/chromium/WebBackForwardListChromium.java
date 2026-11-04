@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebBackForwardList Chromium implementation
+// summary: Immutable wrapper around NavigationHistory implementing android.webkit.WebBackForwardList for the Chromium WebView.
+// ---
+
 package com.android.webview.chromium;
 
 import android.webkit.WebBackForwardList;

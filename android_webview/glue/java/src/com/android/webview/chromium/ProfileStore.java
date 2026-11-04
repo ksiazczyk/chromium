@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProfileStore – named WebView profile registry
+// summary: Manages named WebView profiles, creating and looking up Profile instances on the UI thread while recording call-site and async-startup histograms.
+// ---
+
 package com.android.webview.chromium;
 
 import android.os.Looper;

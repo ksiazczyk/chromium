@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Factory startup timing histogram recorder
+// summary: Immutable value class recording UMA histograms and traces for Stage 1 WebView factory provider initialization timings.
+// ---
+
 package com.android.webview.chromium;
 
 import android.os.Build;

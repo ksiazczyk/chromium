@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AwGWSPageLoadMetricsObserver class declaration
+// summary: Declares the WebView-specific Google search page load metrics observer that overrides profile and sign-in checks.
+// relations:
+//   - depends_on /components/page_load_metrics/google/browser/gws_page_load_metrics_observer.h
+// ---
+
 #ifndef ANDROID_WEBVIEW_BROWSER_PAGE_LOAD_METRICS_AW_GWS_PAGE_LOAD_METRICS_OBSERVER_H_
 #define ANDROID_WEBVIEW_BROWSER_PAGE_LOAD_METRICS_AW_GWS_PAGE_LOAD_METRICS_OBSERVER_H_
 

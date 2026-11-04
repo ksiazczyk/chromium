@@ -2,6 +2,14 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SharedTracingControllerAdapter – WebView tracing controller bridge
+// summary: Adapts framework and support library tracing calls to AwTracingController, translating categories and modes and posting work to the UI thread.
+// relations:
+//   - depends_on /android_webview/java/src/org/chromium/android_webview/AwTracingController.java
+// ---
+
 package com.android.webview.chromium;
 
 import android.webkit.TracingConfig;

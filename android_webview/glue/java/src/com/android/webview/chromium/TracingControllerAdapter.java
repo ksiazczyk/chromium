@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TracingController adapter
+// summary: Chromium implementation of android.webkit.TracingController that forwards start, stop, and isTracing calls to the shared internal adapter.
+// ---
+
 package com.android.webview.chromium;
 
 import android.webkit.TracingConfig;

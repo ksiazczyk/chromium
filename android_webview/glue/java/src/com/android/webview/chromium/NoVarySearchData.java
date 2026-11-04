@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: No-Vary-Search cache matching data holder
+// summary: Holds No-Vary-Search rules describing how URL query parameters affect cache matching and converts them to the internal AwNoVarySearchData representation.
+// ---
+
 package com.android.webview.chromium;
 
 import androidx.annotation.NonNull;
