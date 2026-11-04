@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Native library loading interface
+// summary: Declares the cross-platform NativeLibrary type plus functions to load libraries, get function pointers, and report load errors.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_NATIVE_LIBRARY_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_NATIVE_LIBRARY_H_
 

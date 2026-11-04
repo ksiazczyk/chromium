@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CoreFoundation cast helpers (CFCast and CFCastStrict)
+// summary: Declares CFCast and CFCastStrict templates that safely cast CFTypeRef values to specific CoreFoundation types, returning null or checking on incompatible casts.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_APPLE_FOUNDATION_UTIL_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_APPLE_FOUNDATION_UTIL_H_
 

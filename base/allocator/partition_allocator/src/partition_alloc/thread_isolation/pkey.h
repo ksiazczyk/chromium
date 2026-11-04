@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Protection key (pkey) support API
+// summary: Declares pkey helpers for CPU support checks, memory tagging, pkey allocation and freeing, PKRU access, and a scope to lift pkey restrictions.
+// ---
+
 #ifndef PARTITION_ALLOC_THREAD_ISOLATION_PKEY_H_
 #define PARTITION_ALLOC_THREAD_ISOLATION_PKEY_H_
 

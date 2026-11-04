@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Saturating arithmetic implementation templates
+// summary: Implements saturated negation, absolute value and the clamped arithmetic operations used by ClampedNumeric.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_NUMERICS_CLAMPED_MATH_IMPL_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_NUMERICS_CLAMPED_MATH_IMPL_H_
 

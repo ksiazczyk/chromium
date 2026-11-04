@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows handle type forward declarations header
+// summary: Header that forward-declares Windows compatible handle types by expanding the handle types list through the PA_WINDOWS_HANDLE_TYPE macro.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_WIN_WIN_HANDLE_TYPES_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_WIN_WIN_HANDLE_TYPES_H_
 

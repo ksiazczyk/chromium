@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartitionAlloc stack scanning implementation
+// summary: Implements platform-specific stack top detection for Windows, Apple, POSIX and Fuchsia, plus stack pointer iteration used for stack scanning in PartitionAlloc.
+// ---
+
 #include "partition_alloc/stack/stack.h"
 
 #include <cstdint>

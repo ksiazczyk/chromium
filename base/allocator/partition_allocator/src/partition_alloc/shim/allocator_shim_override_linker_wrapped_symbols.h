@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Allocator shim overrides for linker-wrapped symbols
+// summary: Defines __wrap_malloc, __wrap_free and related linker-wrapped allocation symbols that route malloc-family calls through the shim when using the -Wl,-wrap link-time approach.
+// ---
+
 #ifdef PARTITION_ALLOC_SHIM_ALLOCATOR_SHIM_OVERRIDE_LINKER_WRAPPED_SYMBOLS_H_
 #error This header is meant to be included only once by allocator_shim.cc
 #endif

@@ -4,6 +4,12 @@
 
 // IWYU pragma: private, include "base/memory/raw_ptr.h"
 
+// ---docerion
+// type: source
+// title: raw_ptr MiraclePtr smart pointer header
+// summary: Defines the raw_ptr smart pointer that replaces raw pointers with MiraclePtr protection, including trait flags and selection of backup-ref, ASAN, hookable or noop implementations.
+// ---
+
 #ifndef PARTITION_ALLOC_POINTERS_RAW_PTR_H_
 #define PARTITION_ALLOC_POINTERS_RAW_PTR_H_
 

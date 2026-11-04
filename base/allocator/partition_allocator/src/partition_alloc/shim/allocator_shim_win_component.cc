@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Allocator shim entry point for Windows component builds
+// summary: Windows component-build entry that includes the UCRT symbol overrides and asserts the shim is only compiled for component builds without exceptions.
+// ---
+
 #include "partition_alloc/build_config.h"
 #include "partition_alloc/buildflags.h"
 #include "partition_alloc/shim/allocator_dispatch.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ASAN unowned raw_ptr implementation helpers
+// summary: Implements the EndOfAliveAllocation and LikelySmuggledScalar helpers that the ASAN unowned raw_ptr implementation uses to probe allocation liveness and detect suspicious pointers.
+// ---
+
 #include "partition_alloc/pointers/raw_ptr_asan_unowned_impl.h"
 
 #include <sanitizer/asan_interface.h>

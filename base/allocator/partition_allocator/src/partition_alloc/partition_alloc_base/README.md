@@ -1,3 +1,9 @@
+---
+type: readme
+title: partition_alloc_base/ README
+summary: Explains that partition_alloc_base is a trimmed, mostly unmutated mirror of Chromium's //base used by PartitionAlloc and outlines its update policy.
+---
+
 # `partition_alloc_base/`
 
 This is a rough mirror of Chromium's `//base`, cut down to the necessary

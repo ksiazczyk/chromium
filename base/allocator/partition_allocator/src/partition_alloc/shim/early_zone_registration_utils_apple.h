@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apple early malloc zone registration utilities
+// summary: Apple-only helpers to enumerate malloc zones and share constants for registering PartitionAlloc's zone before the process becomes multi-threaded.
+// ---
+
 #ifndef PARTITION_ALLOC_SHIM_EARLY_ZONE_REGISTRATION_UTILS_APPLE_H_
 #define PARTITION_ALLOC_SHIM_EARLY_ZONE_REGISTRATION_UTILS_APPLE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal PartitionAlloc dispatch header
+// summary: Internal header defining the constexpr kPartitionAllocDispatch constant, intended for inclusion only within the allocator_shim component.
+// ---
+
 #ifndef PARTITION_ALLOC_SHIM_ALLOCATOR_SHIM_DEFAULT_DISPATCH_TO_PARTITION_ALLOC_INTERNAL_H_
 #define PARTITION_ALLOC_SHIM_ALLOCATOR_SHIM_DEFAULT_DISPATCH_TO_PARTITION_ALLOC_INTERNAL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SafeSPrintf unit tests
+// summary: Unit tests for SafeSPrintf and SafeSNPrintf covering buffer sizes, format characters, argument mismatches, truncation and edge cases.
+// ---
+
 #include <algorithm>
 #include <array>
 #include <cstddef>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mach error logging message implementation
+// summary: Implements MachLogMessage, which appends decoded Mach error strings and formatted error numbers to log output.
+// ---
+
 #include "partition_alloc/partition_alloc_base/apple/mach_logging.h"
 
 #include <iomanip>

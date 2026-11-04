@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Forward declarations for span
+// summary: Forward-declares the span class template and the dynamic_extent constant so other headers can reference span without including the full definition.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_CONTAINERS_SPAN_FORWARD_INTERNAL_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_CONTAINERS_SPAN_FORWARD_INTERNAL_H_
 

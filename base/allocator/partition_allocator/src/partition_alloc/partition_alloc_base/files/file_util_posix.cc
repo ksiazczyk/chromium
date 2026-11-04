@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX file utility implementation
+// summary: Implements ReadFromFD for POSIX systems by looping over EINTR-safe read calls until the requested buffer is fully filled.
+// ---
+
 #include "partition_alloc/partition_alloc_base/files/file_util.h"
 
 #include "partition_alloc/partition_alloc_base/compiler_specific.h"

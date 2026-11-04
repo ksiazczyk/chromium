@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'time_override.h: time clock override declarations'
+// summary: Declares ScopedTimeClockOverrides and the IgnoringOverride clock functions used to emulate time in tests, plus the overridable Now function pointers in the internal namespace.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_TIME_TIME_OVERRIDE_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_TIME_TIME_OVERRIDE_H_
 

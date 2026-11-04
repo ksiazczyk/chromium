@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedTypeRef smart pointer with retain and release traits
+// summary: Defines the ScopedTypeRef template that manages retain/release ownership of reference-counted types via caller-provided traits and ownership policies.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_APPLE_SCOPED_TYPEREF_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_APPLE_SCOPED_TYPEREF_H_
 

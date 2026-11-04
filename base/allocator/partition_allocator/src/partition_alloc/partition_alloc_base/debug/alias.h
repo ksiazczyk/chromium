@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: alias.h
+// summary: Declares base::debug::Alias() and the PA_NO_CODE_FOLDING macro, documenting how aliasing inhibits variable optimization, tail calls, and code folding for debugging.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_DEBUG_ALIAS_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_DEBUG_ALIAS_H_
 

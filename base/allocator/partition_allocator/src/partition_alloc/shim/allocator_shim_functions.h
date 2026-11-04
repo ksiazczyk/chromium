@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Allocator shim function entry points and dispatch chain
+// summary: Defines the shim entry points that route allocation calls through the allocator dispatch chain, including unchecked variants and dispatch insertion.
+// ---
+
 #ifdef PARTITION_ALLOC_SHIM_ALLOCATOR_SHIM_FUNCTIONS_H_
 #error This header is meant to be included only once by allocator_shim*.cc except allocator_shim_win_component.cc
 #endif

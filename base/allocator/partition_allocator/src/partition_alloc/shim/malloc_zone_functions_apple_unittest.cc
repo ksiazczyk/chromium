@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Apple malloc zone functions unit tests
+// summary: Unit tests verifying that Apple malloc zones are stored, deduplicated, and capped at the maximum zone count in the allocator shim.
+// ---
+
 #include "partition_alloc/shim/malloc_zone_functions_apple.h"
 
 #include <cstring>

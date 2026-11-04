@@ -1,0 +1,4 @@
+# Docerion header of time_apple.mm.
+type: source
+title: 'time_apple.mm: Apple Mach clock implementation'
+summary: Implements Apple clock access for Time, TimeTicks and ThreadTicks using Mach timebase info, mach_absolute_time and thread info, with overflow-checked conversion to microseconds.

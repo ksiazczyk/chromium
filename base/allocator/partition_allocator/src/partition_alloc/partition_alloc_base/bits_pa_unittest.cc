@@ -4,6 +4,12 @@
 
 // This file contains the unit tests for the bit utilities.
 
+// ---docerion
+// type: test
+// title: 'bits_pa_unittest.cc: unit tests for bit utilities'
+// summary: GoogleTest unit tests covering Log2Ceiling, AlignUp and AlignDown behavior for integers and pointers, including extreme values.
+// ---
+
 #include <cstddef>
 #include <limits>
 

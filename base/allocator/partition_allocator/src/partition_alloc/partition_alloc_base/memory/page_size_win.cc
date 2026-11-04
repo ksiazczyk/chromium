@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows implementation of GetPageSize
+// summary: Implements GetPageSize on Windows by returning a constant 4 KiB page size that remains fixed on x86/64 architectures.
+// ---
+
 #include "partition_alloc/partition_alloc_base/memory/page_size.h"
 
 namespace partition_alloc::internal::base {

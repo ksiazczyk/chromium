@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for TruncatingStringPrintf
+// summary: Unit tests verifying that TruncatingStringPrintf handles empty input, formats arguments, truncates overly long results, and leaves errno unchanged, with a Windows component-build case disabled.
+// ---
+
 #include <cerrno>
 #include <cstddef>
 

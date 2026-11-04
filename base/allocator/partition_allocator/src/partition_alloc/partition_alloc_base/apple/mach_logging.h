@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mach error logging macros and MachLogMessage class
+// summary: Defines the MachLogMessage class and the PA_MACH_LOG family of macros that log Mach kern_return_t errors with decoded explanations.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_APPLE_MACH_LOGGING_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_APPLE_MACH_LOGGING_H_
 

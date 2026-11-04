@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CStringBuilder implementation
+// summary: Implements CStringBuilder operators that append characters, strings, integers, floating-point values, pointers and nullptr into a fixed buffer without allocating memory.
+// ---
+
 #include "partition_alloc/partition_alloc_base/strings/cstring_builder.h"
 
 #include "partition_alloc/build_config.h"

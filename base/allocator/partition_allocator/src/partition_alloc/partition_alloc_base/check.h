@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'check.h: CHECK and DCHECK macros'
+// summary: Header defining the CHECK, DCHECK and DPCHECK macros and the CheckError class used to report fatal or debug assertion failures.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_CHECK_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_CHECK_H_
 

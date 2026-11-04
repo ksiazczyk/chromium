@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Allocator shim entry point for Windows static builds
+// summary: Windows static-build entry that includes shim functions and UCRT overrides, with checks that it is only used for non-component Windows builds.
+// ---
+
 #include "partition_alloc/build_config.h"
 #include "partition_alloc/buildflags.h"
 #include "partition_alloc/partition_alloc_base/compiler_specific.h"

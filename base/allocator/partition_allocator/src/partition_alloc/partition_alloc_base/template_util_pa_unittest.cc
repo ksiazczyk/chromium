@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for is_scoped_enum type trait
+// summary: Uses static_asserts to verify the is_scoped_enum trait for plain enums, enums with explicit underlying types, and scoped enums.
+// ---
+
 #include <stdint.h>
 
 #include "partition_alloc/partition_alloc_base/template_util.h"

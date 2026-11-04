@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: iOS OS version check header for PartitionAlloc base
+// summary: Declares IsRunningOnOrLater, a PartitionAlloc base utility for checking whether the iOS operating system version is at or above a given major, minor, and bug fix version.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_IOS_IOS_UTIL_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_IOS_IOS_UTIL_H_
 

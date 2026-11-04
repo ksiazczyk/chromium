@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: process_handle.h
+// summary: Header defining the platform-specific ProcessId type and null process ID constants for Windows, Fuchsia and POSIX, and declaring GetCurrentProcId to return the current process ID.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_PROCESS_PROCESS_HANDLE_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_PROCESS_PROCESS_HANDLE_H_
 

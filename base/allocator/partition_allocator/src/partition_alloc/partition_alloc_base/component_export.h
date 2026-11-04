@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'component_export.h: symbol export macros'
+// summary: Header defining PA_COMPONENT_EXPORT and related macros to annotate symbols for export or import in component builds across platforms.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_COMPONENT_EXPORT_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_COMPONENT_EXPORT_H_
 

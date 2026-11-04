@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac utility header declaring MacOSMajorVersion
+// summary: Declares MacOSMajorVersion(), a constant function returning the running macOS major version for runtime OS version checks in PartitionAlloc base.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_MAC_MAC_UTIL_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_MAC_MAC_UTIL_H_
 

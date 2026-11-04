@@ -14,6 +14,12 @@
 // Don't wrap close calls in WrapEINTR. Use IGNORE_EINTR macro if the return
 // value of close is significant. See http://crbug.com/269623.
 
+// ---docerion
+// type: source
+// title: EINTR wrapper for POSIX system calls
+// summary: Provides the WrapEINTR template that retries POSIX system calls interrupted by signals, with a retry limit in debug builds and a no-op on Windows and Fuchsia.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_POSIX_EINTR_WRAPPER_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_POSIX_EINTR_WRAPPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fuchsia logging implementation
+// summary: Implements ZxLogMessage, whose destructor appends the decoded Zircon status string and numeric value to log messages.
+// ---
+
 #include "partition_alloc/partition_alloc_base/fuchsia/fuchsia_logging.h"
 
 #include <zircon/status.h>

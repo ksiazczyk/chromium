@@ -4,6 +4,12 @@
 
 // IWYU pragma: private, include "base/containers/realloc_protected_iterator.h"
 
+// ---docerion
+// type: source
+// title: ReallocProtectedIterator wrapper header
+// summary: Declares an iterator wrapper that pins the containing allocation slot via backup-ref protection to mitigate use-after-free when a container reallocates while an iterator is still alive.
+// ---
+
 #ifndef PARTITION_ALLOC_POINTERS_REALLOC_PROTECTED_ITERATOR_H_
 #define PARTITION_ALLOC_POINTERS_REALLOC_PROTECTED_ITERATOR_H_
 

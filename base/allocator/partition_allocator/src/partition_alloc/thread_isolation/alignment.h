@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thread isolation alignment macros
+// summary: Defines alignment and padding macros for page-aligned thread-isolated memory in PartitionAlloc, with no-op fallbacks when thread isolation is disabled.
+// ---
+
 #ifndef PARTITION_ALLOC_THREAD_ISOLATION_ALIGNMENT_H_
 #define PARTITION_ALLOC_THREAD_ISOLATION_ALIGNMENT_H_
 

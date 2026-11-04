@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'cpu.cc: CPU feature detection'
+// summary: Implements CPU detection using cpuid and xgetbv on x86 and hwcap lookups on ARM, exposing vendor, family and feature flags.
+// ---
+
 #include "partition_alloc/partition_alloc_base/cpu.h"
 
 #include <array>

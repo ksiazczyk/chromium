@@ -1,0 +1,4 @@
+# Docerion header of foundation_util.mm.
+type: source
+title: CoreFoundation cast helpers implementation
+summary: Implements the CFCast and CFCastStrict specializations for CoreFoundation types, with strict variants checking when a value does not match the requested type.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Log message implementation
+// summary: Implements the LogMessage class, severity name lookup, and the global log message handler used by PartitionAlloc logging.
+// ---
+
 #include "partition_alloc/partition_alloc_base/log_message.h"
 
 #include <array>

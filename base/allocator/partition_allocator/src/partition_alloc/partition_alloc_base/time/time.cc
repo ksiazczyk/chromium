@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'time.cc: core Time and TimeDelta implementation'
+// summary: Implements the platform-independent parts of the Time, TimeDelta, TimeTicks and ThreadTicks classes, including unit conversions, rounding helpers and dispatch through overridable clock function pointers.
+// ---
+
 #include "partition_alloc/partition_alloc_base/time/time.h"
 
 #include <atomic>

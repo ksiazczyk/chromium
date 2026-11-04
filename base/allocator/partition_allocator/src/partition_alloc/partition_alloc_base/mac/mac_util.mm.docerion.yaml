@@ -1,0 +1,4 @@
+# Docerion header of mac_util.mm.
+type: source
+title: MacOSMajorVersion implementation from Darwin version
+summary: Implements MacOSMajorVersion() by parsing the Darwin major version via uname and mapping it to the macOS major version, caching the result.

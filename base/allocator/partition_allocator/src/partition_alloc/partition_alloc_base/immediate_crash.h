@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Immediate crash trap sequence macros
+// summary: Defines architecture-specific trap sequences that crash the process immediately without logging, for use in fatal error paths.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_IMMEDIATE_CRASH_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_IMMEDIATE_CRASH_H_
 

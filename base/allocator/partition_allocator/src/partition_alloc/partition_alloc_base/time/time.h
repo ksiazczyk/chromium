@@ -59,6 +59,12 @@
 // `TimeTicks` and `ThreadTicks` do not have a stable origin; serialization for
 // the purpose of persistence is not supported.
 
+// ---docerion
+// type: source
+// title: 'time.h: Time, TimeDelta, TimeTicks and ThreadTicks declarations'
+// summary: Declares the time classes with extensive documentation of their semantics, epochs, use cases and serialization guidance, plus platform-specific includes for Apple, Fuchsia, Android and Windows.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_TIME_TIME_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_TIME_TIME_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of allocator_interception_apple_unittest.mm.
+type: test
+title: Apple malloc zone interception tests
+summary: Unit tests verifying that newly registered malloc zones are shimmed and that zone functions can be reset after interception.

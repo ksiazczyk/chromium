@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal POSIX thread ID cache invalidation
+// summary: Declares InvalidateTidCache for Linux and ChromeOS to refresh the cached thread ID after clone() in single-threaded contexts.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_THREADING_PLATFORM_THREAD_INTERNAL_POSIX_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_THREADING_PLATFORM_THREAD_INTERNAL_POSIX_H_
 

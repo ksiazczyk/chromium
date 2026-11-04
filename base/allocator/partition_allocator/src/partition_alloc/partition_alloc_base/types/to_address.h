@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SFINAE-compatible to_address wrapper
+// summary: Offers a SFINAE-compatible to_address helper that safely obtains raw pointers from pointers and pointer-like types, working around libstdc++'s hard errors with std::to_address.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_TYPES_TO_ADDRESS_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_TYPES_TO_ADDRESS_H_
 

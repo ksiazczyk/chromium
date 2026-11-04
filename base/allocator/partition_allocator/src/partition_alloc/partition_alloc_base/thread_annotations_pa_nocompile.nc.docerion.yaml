@@ -1,0 +1,4 @@
+# Docerion header of thread_annotations_pa_nocompile.nc.
+type: test
+title: No-compile tests for thread annotations
+summary: Contains a no-compile test suite expecting compiler errors for incorrect thread annotation usage such as missing lock release or unguarded member access.

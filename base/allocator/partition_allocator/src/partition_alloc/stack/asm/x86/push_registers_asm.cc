@@ -8,6 +8,12 @@
 // See asm/x64/push_registers_clang.cc for why the function is not generated
 // using clang.
 
+// ---docerion
+// type: source
+// title: x86 assembly to push callee-saved registers for stack scanning
+// summary: Defines PAPushAllRegistersAndIterateStack in inline x86 assembly so PartitionAlloc's conservative stack scanning can capture callee-saved registers, with variants for Apple, Windows and other platforms.
+// ---
+
 // We maintain 16-byte alignment at calls. There is an 4-byte return address
 // on the stack and we push 28 bytes which maintains 16-byte stack alignment
 // at the call.

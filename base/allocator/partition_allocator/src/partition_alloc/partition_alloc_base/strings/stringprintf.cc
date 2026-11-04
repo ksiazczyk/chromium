@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TruncatingStringPrintf implementation
+// summary: Implements TruncatingStringPrintf, which formats into a bounded stack buffer and returns an empty string on output errors.
+// ---
+
 #include "partition_alloc/partition_alloc_base/strings/stringprintf.h"
 
 #include <cstdarg>

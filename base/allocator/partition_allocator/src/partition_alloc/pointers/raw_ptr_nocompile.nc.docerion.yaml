@@ -1,0 +1,4 @@
+# Docerion header of raw_ptr_nocompile.nc.
+type: test
+title: raw_ptr no-compile tests
+summary: No-compile test suite asserting that invalid raw_ptr usages, such as unknown traits, unrelated type conversions, and dangling pointers, fail to compile.

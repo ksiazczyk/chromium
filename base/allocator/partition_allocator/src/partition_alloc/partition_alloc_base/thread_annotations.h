@@ -34,6 +34,12 @@
 // you want to refer to is not in scope, you may use a member pointer
 // (e.g. &MyClass::mutex_) to refer to a mutex in some (unknown) object.
 
+// ---docerion
+// type: source
+// title: Thread safety annotation macros
+// summary: Defines portable macros for Clang thread safety annotations such as PA_GUARDED_BY and PA_EXCLUSIVE_LOCKS_REQUIRED to document locking policies.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_THREAD_ANNOTATIONS_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_THREAD_ANNOTATIONS_H_
 

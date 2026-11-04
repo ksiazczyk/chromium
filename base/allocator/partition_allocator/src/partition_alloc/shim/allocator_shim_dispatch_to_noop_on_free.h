@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Allocator shim no-op on free dispatch header
+// summary: Declares InsertNoOpOnFreeAllocatorShimOnShutDown, which installs a shim layer that turns free into a no-op during shutdown to avoid hangs.
+// ---
+
 #ifndef PARTITION_ALLOC_SHIM_ALLOCATOR_SHIM_DISPATCH_TO_NOOP_ON_FREE_H_
 #define PARTITION_ALLOC_SHIM_ALLOCATOR_SHIM_DISPATCH_TO_NOOP_ON_FREE_H_
 

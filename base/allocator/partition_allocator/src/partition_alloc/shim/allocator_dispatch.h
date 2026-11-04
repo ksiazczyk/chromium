@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AllocatorDispatch chain interface
+// summary: Defines the AllocatorDispatch struct and function pointer types forming the allocator shim's dispatch chain for allocation, reallocation, and free operations.
+// ---
+
 #ifndef PARTITION_ALLOC_SHIM_ALLOCATOR_DISPATCH_H_
 #define PARTITION_ALLOC_SHIM_ALLOCATOR_DISPATCH_H_
 

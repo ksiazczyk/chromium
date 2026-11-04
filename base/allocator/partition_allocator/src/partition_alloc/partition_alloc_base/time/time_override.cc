@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'time_override.cc: ScopedTimeClockOverrides implementation'
+// summary: Implements ScopedTimeClockOverrides, which installs and later restores the atomic function pointers that override the Time, TimeTicks and ThreadTicks Now() functions.
+// ---
+
 #include "partition_alloc/partition_alloc_base/time/time_override.h"
 
 #include "partition_alloc/partition_alloc_base/check.h"

@@ -4,6 +4,12 @@
 
 // This file defines some bit utilities.
 
+// ---docerion
+// type: source
+// title: 'bits.h: bit manipulation utilities'
+// summary: Header defining bit utilities such as AlignDown, AlignUp, Log2Ceiling and RotR for power-of-two alignment and bitwise rotation operations.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_BITS_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_BITS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for flat_tree
+// summary: Gtest suite for flat_tree, ported and extended from libc++ std::set tests, covering iterators, emplacement, and sorted-vector container behavior.
+// ---
+
 #include "partition_alloc/partition_alloc_base/containers/flat_tree.h"
 
 // Following tests are ported and extended tests from libcpp for std::set.

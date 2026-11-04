@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Logging macro unit tests
+// summary: Tests PA_LOG macro behavior, severity filtering, lazy evaluation, and default stderr output using gmock mocks.
+// ---
+
 #include <sstream>
 #include <string>
 

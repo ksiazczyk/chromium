@@ -5,6 +5,12 @@
 // This file contains defines and typedefs that allow popular Windows types to
 // be used without the overhead of including windows.h.
 
+// ---docerion
+// type: source
+// title: Windows type definitions without windows.h
+// summary: Header defining common Windows integer types, structs, constants and function prototypes so Windows APIs can be used without including windows.h.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_WIN_WINDOWS_TYPES_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_WIN_WINDOWS_TYPES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apple malloc zone interception API
+// summary: Declares functions for storing, replacing, and restoring malloc zone function pointers to intercept allocations on macOS and iOS.
+// ---
+
 #ifndef PARTITION_ALLOC_SHIM_ALLOCATOR_INTERCEPTION_APPLE_H_
 #define PARTITION_ALLOC_SHIM_ALLOCATOR_INTERCEPTION_APPLE_H_
 

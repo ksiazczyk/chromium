@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Random number utility declarations
+// summary: Declares the secure random helpers RandUint64, RandGenerator, and RandBytes plus the fast, non-cryptographic InsecureRandomGenerator class.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_RAND_UTIL_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_RAND_UTIL_H_
 

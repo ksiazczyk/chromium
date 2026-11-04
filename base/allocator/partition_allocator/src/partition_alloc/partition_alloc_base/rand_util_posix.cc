@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX random bytes utility implementation
+// summary: Implements RandBytes for POSIX platforms using getentropy on macOS, CommonRandom on Apple systems, and getrandom or a cached /dev/urandom descriptor on Linux and other Unix systems.
+// ---
+
 #include "partition_alloc/partition_alloc_base/rand_util.h"
 
 #include <cstddef>

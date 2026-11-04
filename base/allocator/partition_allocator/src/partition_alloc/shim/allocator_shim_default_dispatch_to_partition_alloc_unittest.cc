@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for PartitionAlloc default dispatch
+// summary: Unit tests verifying that malloc, mallinfo, aligned allocation and related calls behave correctly when routed through PartitionAlloc as malloc.
+// ---
+
 #include "partition_alloc/shim/allocator_shim_default_dispatch_to_partition_alloc.h"
 
 #include <array>

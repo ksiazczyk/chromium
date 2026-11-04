@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafeSPrintf and SafeSNPrintf declarations
+// summary: Declares SafeSPrintf and SafeSNPrintf, a self-contained snprintf subset supporting %c, %o, %d, %x, %X, %p and %s for use in restricted execution contexts.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_STRINGS_SAFE_SPRINTF_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_STRINGS_SAFE_SPRINTF_H_
 

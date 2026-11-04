@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apple malloc zone symbol replacement for the allocator shim
+// summary: Supplies replacement malloc zone functions that route Apple malloc zone operations to the allocator shim entry points.
+// ---
+
 #ifdef PARTITION_ALLOC_SHIM_ALLOCATOR_SHIM_OVERRIDE_APPLE_SYMBOLS_H_
 #error This header is meant to be included only once by allocator_shim.cc
 #endif

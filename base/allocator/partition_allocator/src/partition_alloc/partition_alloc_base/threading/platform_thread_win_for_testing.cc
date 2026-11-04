@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows implementation of PlatformThreadForTesting
+// summary: Implements PlatformThreadForTesting on Windows, creating threads via CreateThread with platform-specific stack size handling and notifying the stack top registry when used as malloc.
+// ---
+
 #include <windows.h>
 
 #include <cstddef>

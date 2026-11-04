@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CPU feature detection unit tests
+// summary: Unit tests that verify CPU feature reporting by executing MMX, SSE, AVX, and Arm instructions and checking the process does not crash.
+// ---
+
 #include "partition_alloc/build_config.h"
 #include "partition_alloc/buildflags.h"
 #include "partition_alloc/partition_alloc_base/cpu.h"

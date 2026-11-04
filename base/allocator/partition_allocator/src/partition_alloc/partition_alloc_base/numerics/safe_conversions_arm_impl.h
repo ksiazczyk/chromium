@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARM fast saturation conversions
+// summary: ARM-specific implementation of fast integer saturation using the ssat and usat assembly instructions.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_NUMERICS_SAFE_CONVERSIONS_ARM_IMPL_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_NUMERICS_SAFE_CONVERSIONS_ARM_IMPL_H_
 

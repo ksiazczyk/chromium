@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pkey thread isolation unit tests
+// summary: Unit tests that verify pkey-based thread isolation by protecting read-only segments, isolated globals, and an isolated thread stack.
+// ---
+
 #include "partition_alloc/address_pool_manager.h"
 #include "partition_alloc/buildflags.h"
 #include "partition_alloc/partition_alloc_base/compiler_specific.h"

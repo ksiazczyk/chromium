@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: stack_trace.h
+// summary: Declares stack trace collection and printing APIs, including TraceStackFramePointers for frame-pointer-based unwinding with optional stack scanning.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_DEBUG_STACK_TRACE_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_DEBUG_STACK_TRACE_H_
 

@@ -99,6 +99,12 @@
 //    paths (sometimes)?", available at:
 //    http://blogs.msdn.com/oldnewthing/archive/2005/11/22/495740.aspx
 
+// ---docerion
+// type: source
+// title: FilePath class header
+// summary: Declares the FilePath class, a platform-independent pathname container with string-based operations like DirName, BaseName, and Append, plus the FILE_PATH_LITERAL macro.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_FILES_FILE_PATH_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_FILES_FILE_PATH_H_
 

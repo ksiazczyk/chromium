@@ -5,6 +5,12 @@
 // This header defines symbols to override the same functions in the Visual C++
 // CRT implementation.
 
+// ---docerion
+// type: source
+// title: Allocator shim overrides for Windows UCRT symbols
+// summary: Overrides Visual C++ CRT allocation functions and C++ new/delete operators so Windows builds route allocations through the allocator shim.
+// ---
+
 #ifdef PARTITION_ALLOC_SHIM_ALLOCATOR_SHIM_OVERRIDE_UCRT_SYMBOLS_WIN_H_
 #error This header is meant to be included only once by allocator_shim_win_static.cc or allocator_shim_win_component.cc
 #endif

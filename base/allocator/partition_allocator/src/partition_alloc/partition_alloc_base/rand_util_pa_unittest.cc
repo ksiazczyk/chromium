@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Random utility unit tests
+// summary: Tests RandBytes output diversity, RandGenerator uniformity, and that RandUint64 produces all bit values over many samples.
+// ---
+
 #include <algorithm>
 #include <array>
 #include <cmath>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SysInfo class interface for operating system version numbers
+// summary: Declares the SysInfo class with a static method that retrieves major, minor, and bugfix OS version numbers, advising platform-specific helpers for version checks on Mac and Windows.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_SYSTEM_SYS_INFO_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_SYSTEM_SYS_INFO_H_
 

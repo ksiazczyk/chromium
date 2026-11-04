@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Allocator shim for Apple platforms
+// summary: Apple-specific allocator shim that replaces the default malloc zone functions, emulates find-zone-and-free fallback, and initializes the default dispatch.
+// ---
+
 #include "partition_alloc/shim/allocator_shim.h"
 
 #include <malloc/malloc.h>

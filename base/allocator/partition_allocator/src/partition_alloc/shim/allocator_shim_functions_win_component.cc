@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Allocator shim functions for Windows component build
+// summary: Provides allocator shim function definitions for the Windows component build, guarded by build-time cross-checks.
+// ---
+
 #include "partition_alloc/buildflags.h"
 #include "partition_alloc/shim/allocator_shim.h"
 #include "partition_alloc/shim/allocator_shim_functions.h"

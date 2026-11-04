@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LapTimer implementation
+// summary: Implements the LapTimer class for measuring average per-lap times in performance tests, supporting warmup laps, a time limit, periodic checks, and thread-tick or wall-clock timing methods.
+// ---
+
 #include "partition_alloc/partition_alloc_base/timer/lap_timer.h"
 
 #include "partition_alloc/partition_alloc_check.h"

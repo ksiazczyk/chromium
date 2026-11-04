@@ -5,6 +5,12 @@
 // This file contains utility functions for dealing with the local
 // filesystem.
 
+// ---docerion
+// type: source
+// title: File utility header
+// summary: Declares ReadFromFD, a POSIX and Fuchsia helper that fills a buffer from a file descriptor while guarding against EINTR and partial reads.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_FILES_FILE_UTIL_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_FILES_FILE_UTIL_H_
 

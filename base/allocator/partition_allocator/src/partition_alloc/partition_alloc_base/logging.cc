@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Logging core implementation
+// summary: Implements minimum log level control and RawLog writing of messages to stderr on POSIX, Windows, and Fuchsia.
+// ---
+
 #include "partition_alloc/partition_alloc_base/logging.h"
 
 #include "partition_alloc/partition_alloc_base/compiler_specific.h"

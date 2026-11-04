@@ -6,6 +6,12 @@
 // allocation shim has been removed, and the generic shim has become the
 // default.
 
+// ---docerion
+// type: source
+// title: Windows heap allocation wrappers
+// summary: Implements malloc, free, realloc, size estimation, new-handler invocation, and aligned allocation wrappers over the CRT Windows heap for the allocator shim.
+// ---
+
 #include "partition_alloc/shim/winheap_stubs_win.h"
 
 #include <windows.h>

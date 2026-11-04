@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thread isolation option and write protection API
+// summary: Declares the ThreadIsolationOption struct and functions for write-protecting and unprotecting thread-isolated globals and memory.
+// ---
+
 #ifndef PARTITION_ALLOC_THREAD_ISOLATION_THREAD_ISOLATION_H_
 #define PARTITION_ALLOC_THREAD_ISOLATION_THREAD_ISOLATION_H_
 

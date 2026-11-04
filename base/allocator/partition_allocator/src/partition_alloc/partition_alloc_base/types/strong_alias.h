@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StrongAlias type-safe alias template
+// summary: Provides the StrongAlias class template, a zero-cost type-safe alternative to typedefs that wraps an underlying type with a tag class to prevent mixing distinct alias types.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_TYPES_STRONG_ALIAS_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_TYPES_STRONG_ALIAS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedClearLastError header
+// summary: Declares ScopedClearLastError, a RAII helper that saves and restores thread-local error codes such as errno and GetLastError around OS interactions.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_SCOPED_CLEAR_LAST_ERROR_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_SCOPED_CLEAR_LAST_ERROR_H_
 

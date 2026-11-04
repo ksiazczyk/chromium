@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows ScopedClearLastError implementation
+// summary: Implements the Windows constructor and destructor of ScopedClearLastError, saving and restoring the last system error code.
+// ---
+
 #include "partition_alloc/partition_alloc_base/scoped_clear_last_error.h"
 
 #include <windows.h>

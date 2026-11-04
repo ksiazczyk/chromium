@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Loong64 assembly to push callee-saved registers for stack scanning
+// summary: Defines PAPushAllRegistersAndIterateStack in inline LoongArch64 assembly, pushing all callee-saved registers onto the stack so PartitionAlloc's conservative stack scanning can iterate them.
+// ---
+
 // Push all callee-saved registers to get them on the stack for conservative
 // stack scanning.
 //

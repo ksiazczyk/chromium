@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuchsia logging unit test
+// summary: Unit test that verifies the Fuchsia-specific PA_ZX_* logging macros using a mock log source and gtest expectations.
+// ---
+
 #include <fuchsia/logger/cpp/fidl.h>
 #include <lib/fidl/cpp/binding.h>
 #include <lib/sys/cpp/component_context.h>

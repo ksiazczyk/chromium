@@ -6,6 +6,12 @@
 // once the win-specific allocation shim has been removed, and the generic shim
 // has becaome the default.
 
+// ---docerion
+// type: source
+// title: Windows heap allocation wrapper declarations
+// summary: Declares thin wrappers implementing standard C allocation semantics and aligned allocation on the CRT's Windows heap, exported for the shim and tests.
+// ---
+
 #ifndef PARTITION_ALLOC_SHIM_WINHEAP_STUBS_WIN_H_
 #define PARTITION_ALLOC_SHIM_WINHEAP_STUBS_WIN_H_
 

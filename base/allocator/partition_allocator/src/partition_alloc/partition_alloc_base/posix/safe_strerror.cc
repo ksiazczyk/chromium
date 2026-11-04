@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe strerror implementation for POSIX platforms
+// summary: Implements thread-safe wrappers around the GNU and POSIX variants of strerror_r so error codes can be converted to messages reliably across platforms.
+// ---
+
 #include "partition_alloc/partition_alloc_base/posix/safe_strerror.h"
 
 #include <array>

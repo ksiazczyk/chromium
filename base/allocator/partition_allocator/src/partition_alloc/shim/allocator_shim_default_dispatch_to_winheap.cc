@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Default dispatch to Windows heap
+// summary: Implements the allocator shim's default dispatch that routes allocations to the Windows heap, including aligned and zeroed allocation variants.
+// ---
+
 #include <cstring>
 #include <ostream>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform file type definitions
+// summary: Defines the PlatformFile type and kInvalidPlatformFile constant for Windows, POSIX, and Fuchsia as primitives for platform-dependent file handling.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_FILES_PLATFORM_FILE_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_FILES_PLATFORM_FILE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stack-allocated macro and NotNullTag for base memory
+// summary: Defines the PA_STACK_ALLOCATED macro that forbids heap allocation of annotated classes and the NotNullTag enum used to mark non-null placement new targets.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_BASE_MEMORY_STACK_ALLOCATED_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_BASE_MEMORY_STACK_ALLOCATED_H_
 

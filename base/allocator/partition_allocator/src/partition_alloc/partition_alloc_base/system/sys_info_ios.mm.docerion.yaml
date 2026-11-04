@@ -1,0 +1,4 @@
+# Docerion header of sys_info_ios.mm.
+type: source
+title: iOS implementation of SysInfo operating system version numbers
+summary: Implements SysInfo::OperatingSystemVersionNumbers on iOS by reading NSProcessInfo's operatingSystemVersion and saturating each component into 32-bit integers.

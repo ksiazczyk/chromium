@@ -37,6 +37,12 @@
 //    the test-only dependency footprint.
 // -----------------------------------------------------------------------------
 
+// ---docerion
+// type: test
+// title: Unit tests for span
+// summary: Gtest suite for span, a simplified port of Chromium's span tests covering deduction guides, comparisons, and core behavior with reduced dependencies.
+// ---
+
 #include "partition_alloc/partition_alloc_base/containers/span.h"
 
 #include <stdint.h>

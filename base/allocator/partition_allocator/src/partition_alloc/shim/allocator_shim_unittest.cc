@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Allocator shim unit tests
+// summary: GoogleTest suite exercising allocator shim interception, dispatch chains, and allocation tracking across Windows, Apple and other platforms.
+// ---
+
 #include "partition_alloc/shim/allocator_shim.h"
 
 #include <algorithm>

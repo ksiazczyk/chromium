@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apple malloc zone function declarations
+// summary: Declares MallocZoneFunctions and the thread-safe zone storage API used to intercept and dispatch to Apple malloc zones.
+// ---
+
 #ifndef PARTITION_ALLOC_SHIM_MALLOC_ZONE_FUNCTIONS_APPLE_H_
 #define PARTITION_ALLOC_SHIM_MALLOC_ZONE_FUNCTIONS_APPLE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SafeSPrintf implementation
+// summary: Implements async-signal-safe, allocation-free snprintf-style formatting for SafeSPrintf and SafeSNPrintf, with debug-only checks and degraded output on errors.
+// ---
+
 #include "partition_alloc/partition_alloc_base/strings/safe_sprintf.h"
 
 #include <cerrno>

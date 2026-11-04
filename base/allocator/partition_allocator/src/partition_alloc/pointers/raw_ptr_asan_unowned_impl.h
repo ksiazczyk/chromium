@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ASAN unowned raw_ptr implementation header
+// summary: Declares the RawPtrAsanUnownedImpl template that relies on ASAN to catch lifetime issues for raw_ptr wrap, release, unwrap, cast, arithmetic and duplication operations.
+// ---
+
 #ifndef PARTITION_ALLOC_POINTERS_RAW_PTR_ASAN_UNOWNED_IMPL_H_
 #define PARTITION_ALLOC_POINTERS_RAW_PTR_ASAN_UNOWNED_IMPL_H_
 

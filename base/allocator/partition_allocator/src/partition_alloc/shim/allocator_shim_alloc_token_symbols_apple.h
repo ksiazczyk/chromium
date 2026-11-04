@@ -5,6 +5,12 @@
 // Its purpose is to preempt the Libc symbols for malloc/new so they call the
 // shim layer entry points.
 
+// ---docerion
+// type: source
+// title: Apple alloc token symbol overrides
+// summary: Apple-specific alloc token symbols that route the malloc family through default malloc zone calls while sending C++ new symbols to the shim.
+// ---
+
 #ifdef PARTITION_ALLOC_SHIM_ALLOCATOR_SHIM_ALLOC_TOKEN_SYMBOLS_APPLE_H_
 #error This header is meant to be included only once by allocator_shim.cc
 #endif

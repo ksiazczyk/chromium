@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FilePath class implementation
+// summary: Implements the FilePath class with drive letter detection, absolute path checks, separator handling, and path appending for Windows, Apple, and POSIX platforms.
+// ---
+
 #include "partition_alloc/partition_alloc_base/files/file_path.h"
 
 #include <cstring>
