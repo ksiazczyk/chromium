@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Protocol handler API tests
+// summary: API test verifying registration of protocol handlers via registerProtocolHandler in extension contexts with relaxed security checks.
+// ---
+
 #include <string>
 
 #include "base/scoped_observation.h"

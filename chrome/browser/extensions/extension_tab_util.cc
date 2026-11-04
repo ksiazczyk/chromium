@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension tab utilities implementation
+// summary: Implements helper utilities for the extension tabs API, mapping tabs and windows to extension API objects and handling tab creation and navigation.
+// ---
+
 #include "chrome/browser/extensions/extension_tab_util.h"
 
 #include <stddef.h>

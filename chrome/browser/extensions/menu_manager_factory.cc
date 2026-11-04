@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Menu manager factory implementation
+// summary: Implements the profile-keyed service factory that builds and provides MenuManager instances per browser context.
+// ---
+
 #include "chrome/browser/extensions/menu_manager_factory.h"
 
 #include "base/memory/ptr_util.h"

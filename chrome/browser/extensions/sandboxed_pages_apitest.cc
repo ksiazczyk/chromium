@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sandboxed pages extension API tests
+// summary: Parameterized extension API tests covering sandboxed extension pages for manifest V2 and V3, including API metrics for sandboxed iframes with and without process isolation.
+// ---
+
 #include "base/files/file_util.h"
 #include "base/files/scoped_temp_dir.h"
 #include "base/strings/stringprintf.h"

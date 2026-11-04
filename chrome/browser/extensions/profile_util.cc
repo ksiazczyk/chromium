@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension profile utility implementation
+// summary: Implements helpers that determine whether a profile can use non-component extensions and provide access to profile manager information.
+// ---
+
 #include "chrome/browser/extensions/profile_util.h"
 
 #include "build/chromeos_buildflags.h"

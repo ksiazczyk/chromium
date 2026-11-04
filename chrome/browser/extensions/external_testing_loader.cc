@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test-only external extension loader from JSON strings
+// summary: Simplified external extension loader that serves extension preferences parsed from an in-memory JSON string, for use in tests.
+// ---
+
 #include "chrome/browser/extensions/external_testing_loader.h"
 
 #include "base/json/json_string_value_serializer.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension web contents browser tests
+// summary: Browser tests covering extension pages loaded in tabs, extension navigation UI data, and window opening behavior for extension web contents.
+// ---
+
 #include "content/public/browser/web_contents.h"
 
 #include <map>

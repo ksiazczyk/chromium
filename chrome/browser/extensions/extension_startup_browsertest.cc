@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension startup browser tests
+// summary: Browser tests verifying that extensions and their content scripts load correctly at browser startup, including command-line flag propagation.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

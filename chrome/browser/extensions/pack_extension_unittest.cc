@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pack extension command line unit tests
+// summary: Unit tests exercising extension packing via the --pack-extension command line switch for extensions, packaged apps, and platform apps.
+// ---
+
 #include "base/command_line.h"
 #include "base/files/file_path.h"
 #include "base/files/file_util.h"

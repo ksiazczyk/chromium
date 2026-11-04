@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Omaha attributes handler implementation
+// summary: Applies Omaha update-check attributes to disable or re-enable extensions for malware and policy states, logging UMA metrics.
+// ---
+
 #include "chrome/browser/extensions/omaha_attributes_handler.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension service worker API tests
+// summary: Browser tests covering extension service worker behavior, including registration, event dispatch, push messaging, notifications, and worker lifecycle in Chrome.
+// ---
+
 #include "chrome/browser/extensions/service_worker_apitest.h"
 
 #include <stdint.h>

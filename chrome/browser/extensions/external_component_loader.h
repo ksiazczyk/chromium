@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External component loader header
+// summary: Declares ExternalComponentLoader, an ExternalLoader specialization that installs a hard-coded list of webstore-based extensions treated as Chrome components.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTERNAL_COMPONENT_LOADER_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTERNAL_COMPONENT_LOADER_H_
 

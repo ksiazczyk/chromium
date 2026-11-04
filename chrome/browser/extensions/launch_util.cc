@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension launch type utilities implementation
+// summary: Implements helpers that set an extension's launch type preference with syncing and determine the launch container for apps.
+// ---
+
 #include "chrome/browser/extensions/launch_util.h"
 
 #include <optional>

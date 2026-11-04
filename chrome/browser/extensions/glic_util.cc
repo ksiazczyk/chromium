@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Glic utility implementation
+// summary: Implements IsApiGlicPrivateEnabled, which reports whether the glic private extension API feature flag is enabled.
+// ---
+
 #include "chrome/browser/extensions/glic_util.h"
 
 #include "base/feature_list.h"

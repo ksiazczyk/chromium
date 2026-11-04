@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension warning badge service
+// summary: Implements a menu badge that alerts users when extensions cause warnings or errors and opens the extensions management page when the menu item is clicked.
+// ---
+
 #include "chrome/browser/extensions/warning_badge_service.h"
 
 #include <stddef.h>

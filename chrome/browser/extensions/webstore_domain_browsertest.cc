@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webstore domain browser tests
+// summary: Parameterized browser tests checking that webstorePrivate, management and runtime APIs are exposed on webstore domains but not other domains.
+// ---
+
 #include "chrome/browser/extensions/extension_apitest.h"
 #include "chrome/browser/profiles/profile.h"
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

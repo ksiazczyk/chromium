@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension URL loader throttle browser tests
+// summary: Browser tests verifying throttling of extension-initiated network requests using a test server with redirect and cache-control responses.
+// ---
+
 #include <memory>
 #include <utility>
 

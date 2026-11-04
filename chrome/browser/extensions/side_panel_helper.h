@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side panel helper header
+// summary: Declares SidePanelHelper, a WebContentsUserData and ExtensionFunctionDispatcher delegate that enables extension API dispatch for WebContents shown in side panel views.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_SIDE_PANEL_HELPER_H_
 #define CHROME_BROWSER_EXTENSIONS_SIDE_PANEL_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowController interface
+// summary: Declares the interface for the extension system to talk to the enclosing window without depending on its implementation details.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_WINDOW_CONTROLLER_H_
 #define CHROME_BROWSER_EXTENSIONS_WINDOW_CONTROLLER_H_
 

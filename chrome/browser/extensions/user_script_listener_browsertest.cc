@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User script listener browser test
+// summary: Browser test verifying that navigations are deferred until extension content scripts finish loading.
+// ---
+
 #include "chrome/browser/extensions/user_script_listener.h"
 
 #include "chrome/browser/extensions/extension_browsertest.h"

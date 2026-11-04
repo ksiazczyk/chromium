@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Loading predictor extension browser test
+// summary: Browser tests verifying that prefetches triggered by the LoadingPredictor via Optimization Guide hints are observed by extensions through the webRequest API.
+// ---
+
 #include "chrome/browser/extensions/extension_browsertest.h"
 #include "chrome/browser/optimization_guide/optimization_guide_keyed_service.h"
 #include "chrome/browser/optimization_guide/optimization_guide_keyed_service_factory.h"

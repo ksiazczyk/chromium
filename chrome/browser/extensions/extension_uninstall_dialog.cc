@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension uninstall dialog
+// summary: Implements the confirmation dialog shown when uninstalling an extension, including the report abuse checkbox, uninstall source metrics, and dialog callbacks.
+// ---
+
 #include "chrome/browser/extensions/extension_uninstall_dialog.h"
 
 #include "base/functional/bind.h"

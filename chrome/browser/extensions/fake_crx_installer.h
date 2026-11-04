@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for the fake CRX installer
+// summary: Declares FakeCrxInstaller, a no-op CrxInstaller that lets tests trigger RunInstallerCallbacks to simulate installation completion.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_FAKE_CRX_INSTALLER_H_
 #define CHROME_BROWSER_EXTENSIONS_FAKE_CRX_INSTALLER_H_
 

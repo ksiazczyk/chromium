@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension view host factory implementation
+// summary: Implements factory methods that create ExtensionViewHosts for extension-backed popups and side panels, with delegates attached to browser windows or tabs.
+// ---
+
 #include "chrome/browser/extensions/extension_view_host_factory.h"
 
 #include <string>

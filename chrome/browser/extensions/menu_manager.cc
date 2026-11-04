@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Menu manager implementation
+// summary: Implements the manager for extension-added context menu items, including serialization of menu items to preferences storage.
+// ---
+
 #include "chrome/browser/extensions/menu_manager.h"
 
 #include <algorithm>

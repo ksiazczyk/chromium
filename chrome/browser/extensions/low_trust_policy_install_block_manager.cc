@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Low-trust policy install block manager implementation
+// summary: Implements tracking, querying, TTL eviction, and uninstallation of enterprise policy extension installs blocked on unmanaged or low-trust devices.
+// ---
+
 #include "chrome/browser/extensions/low_trust_policy_install_block_manager.h"
 
 #include <optional>

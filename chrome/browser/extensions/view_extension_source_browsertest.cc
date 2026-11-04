@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: View extension source browser tests
+// summary: Browser tests verifying that view-source works for extension pages and that a view-source tab restores correctly after tab restore.
+// ---
+
 #include "base/run_loop.h"
 #include "base/scoped_observation.h"
 #include "chrome/browser/extensions/extension_browsertest.h"

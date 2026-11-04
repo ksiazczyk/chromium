@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker event dispatching browser tests
+// summary: Browser tests verifying event dispatching to extension service workers, including listener registration phases and worker running status handling.
+// ---
+
 #include <memory>
 #include <utility>
 #include <vector>

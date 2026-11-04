@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension file iframe browser test
+// summary: Browser test verifying that an extension frame can embed a file iframe only when it has file access plus the all-URLs host permission, covering allowed and denied cases.
+// ---
+
 #include "base/files/file_util.h"
 #include "base/functional/bind.h"
 #include "base/strings/stringprintf.h"

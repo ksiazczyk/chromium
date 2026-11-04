@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for the JSON-based external testing loader
+// summary: Declares ExternalTestingLoader, a test helper that loads external extension preferences from a JSON string with a fake base path.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTERNAL_TESTING_LOADER_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTERNAL_TESTING_LOADER_H_
 

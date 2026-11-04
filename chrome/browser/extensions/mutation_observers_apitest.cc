@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mutation observers extension API test
+// summary: In-process browser test that runs the mutation_observers extension API test case.
+// ---
+
 #include "chrome/browser/extensions/extension_apitest.h"
 #include "content/public/test/browser_test.h"
 #include "extensions/buildflags/buildflags.h"

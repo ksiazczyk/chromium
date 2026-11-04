@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: User script listener unit tests
+// summary: Unit tests for UserScriptListener covering URL pattern matching and delaying of requests until user scripts are ready.
+// ---
+
 #include "chrome/browser/extensions/user_script_listener.h"
 
 #include <memory>

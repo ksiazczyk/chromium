@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Warning badge service header
+// summary: Declares WarningBadgeService, a keyed service that shows an extension warning badge on the wrench menu and can suppress current warnings.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_WARNING_BADGE_SERVICE_H_
 #define CHROME_BROWSER_EXTENSIONS_WARNING_BADGE_SERVICE_H_
 

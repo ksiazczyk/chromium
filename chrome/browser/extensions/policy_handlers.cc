@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension policy handlers implementation
+// summary: Implements policy handlers that validate and apply extension policies such as install forcelist, blocklist, and URL pattern lists.
+// ---
+
 #include "chrome/browser/extensions/policy_handlers.h"
 
 #include <stddef.h>

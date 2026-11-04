@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension policy handlers declarations
+// summary: Declares policy handler classes for extension ID lists, force-installed extensions, blocklisted extensions, and URL pattern policies.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_POLICY_HANDLERS_H_
 #define CHROME_BROWSER_EXTENSIONS_POLICY_HANDLERS_H_
 

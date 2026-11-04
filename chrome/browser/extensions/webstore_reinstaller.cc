@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Webstore reinstaller implementation
+// summary: Implements WebstoreReinstaller, which repairs corrupted extensions by uninstalling and reinstalling them from the webstore via a repair prompt.
+// ---
+
 #include "chrome/browser/extensions/webstore_reinstaller.h"
 
 #include <memory>

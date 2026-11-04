@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webstore installer unit tests
+// summary: Unit tests checking webstore install URL parameters, including platform parameters and safe encoding of the authuser parameter.
+// ---
+
 #include "extensions/browser/webstore_installer.h"
 
 #include <string>

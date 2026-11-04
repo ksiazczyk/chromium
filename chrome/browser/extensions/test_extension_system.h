@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestExtensionSystem header
+// summary: Declares a test ExtensionSystem for use with TestingProfile, with parameters for install directories and extension enabling.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_TEST_EXTENSION_SYSTEM_H_
 #define CHROME_BROWSER_EXTENSIONS_TEST_EXTENSION_SYSTEM_H_
 

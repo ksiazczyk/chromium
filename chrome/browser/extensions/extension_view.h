@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension view base class
+// summary: Declares the platform-independent base class for views that display extension content in the Chrome UI.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTENSION_VIEW_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTENSION_VIEW_H_
 

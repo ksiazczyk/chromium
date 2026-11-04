@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS ExternalProviderImpl unit tests
+// summary: ChromeOS-specific unit tests for external extension providers covering standalone external extensions, child users, and provider initialization with the extension service.
+// ---
+
 #include "chrome/browser/extensions/external_provider_impl.h"
 
 #include <memory>

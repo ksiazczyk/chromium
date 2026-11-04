@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Webstore reinstaller browser test
+// summary: Browser test verifying that corrupted extension reinstalls work via the item snippets API using a mocked protobuf response.
+// ---
+
 #include "chrome/browser/extensions/webstore_reinstaller.h"
 
 #include "base/functional/bind.h"

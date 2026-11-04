@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: system.memory API browser test
+// summary: Browser test for the system.memory extension API using a mock memory info provider reporting fixed capacity values.
+// ---
+
 #include "chrome/browser/extensions/extension_apitest.h"
 #include "content/public/test/browser_test.h"
 #include "extensions/browser/api/system_memory/memory_info_provider.h"

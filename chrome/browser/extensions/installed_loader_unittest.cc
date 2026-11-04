@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Installed loader unit tests
+// summary: Unit tests for InstalledLoader extension loading and host permission access metrics across manifest locations and permission scenarios.
+// ---
+
 #include "chrome/browser/extensions/installed_loader.h"
 
 #include "base/test/metrics/histogram_tester.h"

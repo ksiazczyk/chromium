@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External component loader implementation
+// summary: Implements the loader that registers allowlisted external component extensions, such as the in-app payments app and ChromeOS-specific extensions, from the webstore.
+// ---
+
 #include "chrome/browser/extensions/external_component_loader.h"
 
 #include "base/memory/scoped_refptr.h"

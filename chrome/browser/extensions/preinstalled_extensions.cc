@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Preinstalled extensions provider implementation
+// summary: Implements a provider that conditionally installs preinstalled extensions based on locale support and profile install state.
+// ---
+
 #include "chrome/browser/extensions/preinstalled_extensions.h"
 
 #include <stddef.h>

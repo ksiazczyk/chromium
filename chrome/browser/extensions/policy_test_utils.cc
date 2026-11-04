@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension policy test utilities implementation
+// summary: Test helpers that set up a mock update manifest server and force-install extensions through the ExtensionInstallForcelist policy.
+// ---
+
 #include "chrome/browser/extensions/policy_test_utils.h"
 
 #include "base/files/file_util.h"

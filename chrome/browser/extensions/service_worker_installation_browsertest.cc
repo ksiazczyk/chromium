@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker installation browser tests
+// summary: Browser tests checking that service worker-based extensions are not updated while their worker is active, plus related install and update behavior.
+// ---
+
 #include "base/strings/stringprintf.h"
 #include "base/values.h"
 #include "chrome/browser/extensions/extension_browsertest.h"

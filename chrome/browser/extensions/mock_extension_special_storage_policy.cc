@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock extension special storage policy implementation
+// summary: Implements the mock extension special storage policy, reporting protected origins from an internal set.
+// ---
+
 #include "chrome/browser/extensions/mock_extension_special_storage_policy.h"
 
 MockExtensionSpecialStoragePolicy::MockExtensionSpecialStoragePolicy()

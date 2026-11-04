@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Navigation extension enabler browser tests
+// summary: Browser tests covering re-enable prompts for disabled extensions when navigating to their URLs, including accept and deny scenarios.
+// ---
+
 #include "chrome/browser/extensions/navigation_extension_enabler.h"
 
 #include "base/feature_list.h"

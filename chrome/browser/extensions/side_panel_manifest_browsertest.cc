@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Side panel manifest validation browser test
+// summary: Browser test that loads an extension whose side_panel default_path includes a query and fragment and verifies manifest validation succeeds without errors or warnings.
+// ---
+
 #include "base/strings/utf_string_conversions.h"
 #include "base/threading/thread_restrictions.h"
 #include "chrome/browser/extensions/extension_browsertest.h"

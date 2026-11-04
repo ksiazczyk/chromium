@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowControllerList implementation
+// summary: Implements the singleton list of window controllers with observer notifications and lookup of windows for extension function calls.
+// ---
+
 #include "chrome/browser/extensions/window_controller_list.h"
 
 #include <algorithm>

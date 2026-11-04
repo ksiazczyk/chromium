@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension utility unit tests
+// summary: Unit tests for extension_util covering file access, incognito settings, policy force-install, and related profile helpers.
+// ---
+
 #include "chrome/browser/extensions/extension_util.h"
 
 #include "base/memory/raw_ptr.h"

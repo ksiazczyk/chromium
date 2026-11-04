@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe Browsing verdict handler unit tests
+// summary: Unit tests verifying that greylisted extensions are disabled and can be re-enabled, and that blocklisted extensions are handled according to their verdict state.
+// ---
+
 #include "chrome/browser/extensions/safe_browsing_verdict_handler.h"
 
 #include "chrome/browser/extensions/extension_service.h"

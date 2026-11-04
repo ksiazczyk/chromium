@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unpacked installer unit tests
+// summary: Unit tests verifying that unpacked extensions install without withheld host permissions and that load errors report the original path.
+// ---
+
 #include "extensions/browser/unpacked_installer.h"
 
 #include "base/command_line.h"

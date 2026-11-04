@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension URL rewrite browser tests
+// summary: Browser tests checking that extension URL overrides such as the new tab page show the correct location bar text and virtual URLs.
+// ---
+
 #include "base/strings/sys_string_conversions.h"
 #include "base/strings/utf_string_conversions.h"
 #include "chrome/browser/extensions/component_loader.h"

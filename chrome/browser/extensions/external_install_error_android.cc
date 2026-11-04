@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android external install error stub
+// summary: Stub Android implementation of ExternalInstallError whose methods are not yet implemented, pending external install error UI and web store integration.
+// ---
+
 #include "chrome/browser/extensions/external_install_error_android.h"
 
 #include "base/notimplemented.h"

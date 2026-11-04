@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android test extension menu model header
+// summary: Declares a test helper for Android extension context menus, adapting ExtensionMenuModel so tests can share code with TestRenderViewContextMenu.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_TEST_EXTENSION_MENU_MODEL_ANDROID_H_
 #define CHROME_BROWSER_EXTENSIONS_TEST_EXTENSION_MENU_MODEL_ANDROID_H_
 

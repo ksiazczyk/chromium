@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extensions disabled browser test
+// summary: Browser test verifying that extensions installed before a restart stay unloaded but preserved in prefs when Chrome starts with the --disable-extensions switch.
+// ---
+
 #include "base/command_line.h"
 #include "base/strings/string_util.h"
 #include "chrome/browser/extensions/extension_browsertest.h"

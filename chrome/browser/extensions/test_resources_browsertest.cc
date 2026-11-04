@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension test resources browser tests
+// summary: Browser tests verifying that _test_resources files load correctly in regular and component extensions.
+// ---
+
 #include <optional>
 
 #include "base/path_service.h"

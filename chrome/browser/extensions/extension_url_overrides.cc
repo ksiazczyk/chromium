@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension URL overrides implementation
+// summary: Implements registration, activation, validation and favicon lookup for extension Chrome URL overrides such as the new tab page.
+// ---
+
 #include "chrome/browser/extensions/extension_url_overrides.h"
 
 #include <stddef.h>

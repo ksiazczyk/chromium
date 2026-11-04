@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Initial external extension loader implementation
+// summary: Implements a loader that generates webstore update URL and trust preferences for extension IDs listed in the initial install list pref.
+// ---
+
 #include "chrome/browser/extensions/initial_external_extension_loader.h"
 
 #include <string>

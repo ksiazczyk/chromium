@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped test MV2 enabler implementation
+// summary: Implements ScopedTestMV2Enabler, which temporarily allows loading and enabling legacy Manifest V2 extensions for testing.
+// ---
+
 #include "chrome/browser/extensions/scoped_test_mv2_enabler.h"
 
 #include "extensions/browser/manifest_v2_handler.h"

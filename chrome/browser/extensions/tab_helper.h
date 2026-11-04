@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabHelper per-tab extension helper header
+// summary: Declares TabHelper, a per-tab WebContents helper that manages extension script execution, action running, and reload requirements for site access changes.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_TAB_HELPER_H_
 #define CHROME_BROWSER_EXTENSIONS_TAB_HELPER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Permissions-based management policy provider unit tests
+// summary: Unit tests verifying that extensions with permissions conflicting with enterprise policy cannot be loaded.
+// ---
+
 #include "chrome/browser/extensions/permissions_based_management_policy_provider.h"
 
 #include <memory>

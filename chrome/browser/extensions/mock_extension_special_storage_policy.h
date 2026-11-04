@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock extension special storage policy
+// summary: Declares a mock ExtensionSpecialStoragePolicy that lets tests mark origins as storage-protected.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_MOCK_EXTENSION_SPECIAL_STORAGE_POLICY_H_
 #define CHROME_BROWSER_EXTENSIONS_MOCK_EXTENSION_SPECIAL_STORAGE_POLICY_H_
 

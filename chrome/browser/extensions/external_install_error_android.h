@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android external install error header
+// summary: Declares ExternalInstallErrorAndroid, a desktop Android stub of ExternalInstallError that exists so the code compiles before real UI support lands.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTERNAL_INSTALL_ERROR_ANDROID_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTERNAL_INSTALL_ERROR_ANDROID_H_
 

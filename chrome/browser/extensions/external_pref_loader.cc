@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalPrefLoader implementation
+// summary: Implements loading external extension preferences from JSON files on disk, including ChromeOS-specific tablet skips and sync readiness handling.
+// ---
+
 #include "chrome/browser/extensions/external_pref_loader.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension Telemetry service verdict handler header
+// summary: Declares the handler that manages Extension Telemetry service blocklist states in extension prefs and its UMA disable reason enum.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTENSION_TELEMETRY_SERVICE_VERDICT_HANDLER_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTENSION_TELEMETRY_SERVICE_VERDICT_HANDLER_H_
 

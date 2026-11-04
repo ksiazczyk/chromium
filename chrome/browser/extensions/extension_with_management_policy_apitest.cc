@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension management policy API test support
+// summary: Implements the test base class that configures ExtensionSettings policies, monitors test server requests, and tracks browsed hosts for API tests.
+// ---
+
 #include "chrome/browser/extensions/extension_with_management_policy_apitest.h"
 
 #include <algorithm>

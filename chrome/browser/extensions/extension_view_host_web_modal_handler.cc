@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension view host web modal handler implementation
+// summary: Implements web contents modal dialog hosting for extension view hosts, covering dialog positioning, visibility, and maximum popup-based dialog size.
+// ---
+
 #include "chrome/browser/extensions/extension_view_host_web_modal_handler.h"
 
 #include <memory>

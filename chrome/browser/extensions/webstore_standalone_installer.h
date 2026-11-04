@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebstoreStandaloneInstaller base class
+// summary: Declares the abstract Template Method base for standalone webstore installs covering metadata parsing, install prompts, and post-install UI.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_WEBSTORE_STANDALONE_INSTALLER_H_
 #define CHROME_BROWSER_EXTENSIONS_WEBSTORE_STANDALONE_INSTALLER_H_
 

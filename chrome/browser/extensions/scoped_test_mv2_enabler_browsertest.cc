@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped test MV2 enabler browser test
+// summary: Browser test verifying that with ScopedTestMV2Enabler, Manifest V2 extensions can be installed and remain enabled instead of being disabled on startup.
+// ---
+
 #include "chrome/browser/extensions/scoped_test_mv2_enabler.h"
 
 #include "base/one_shot_event.h"

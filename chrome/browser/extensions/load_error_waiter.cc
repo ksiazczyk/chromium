@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Load error waiter implementation
+// summary: Implements a LoadErrorReporter observer that runs a run loop until an extension load failure is reported, for use in tests.
+// ---
+
 #include "chrome/browser/extensions/load_error_waiter.h"
 
 namespace extensions {

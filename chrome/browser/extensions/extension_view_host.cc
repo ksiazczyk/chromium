@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension view host implementation
+// summary: Implements the ExtensionHost for view-backed extension UI such as popups and side panels, handling keyboard events, zoom, and file dialogs.
+// ---
+
 #include "chrome/browser/extensions/extension_view_host.h"
 
 #include "chrome/browser/extensions/extension_view.h"

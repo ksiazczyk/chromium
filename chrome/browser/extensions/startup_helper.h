@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup helper for extension pack and validate flags
+// summary: Declares StartupHelper, which handles the --pack-extension and --validate-extension command-line flags during browser startup.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_STARTUP_HELPER_H_
 #define CHROME_BROWSER_EXTENSIONS_STARTUP_HELPER_H_
 

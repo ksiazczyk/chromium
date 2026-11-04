@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalInstallManager class declaration
+// summary: Declares the ExternalInstallManager keyed service that notifies users about newly installed external extensions and lets them be acknowledged.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTERNAL_INSTALL_MANAGER_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTERNAL_INSTALL_MANAGER_H_
 

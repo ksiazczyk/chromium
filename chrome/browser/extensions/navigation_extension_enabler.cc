@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigation extension enabler implementation
+// summary: Implements NavigationExtensionEnabler, which prompts users to re-enable extensions disabled for permission increases when they navigate to extension URLs.
+// ---
+
 #include "chrome/browser/extensions/navigation_extension_enabler.h"
 
 #include <memory>

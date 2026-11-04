@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ExternalPrefLoader unit tests
+// summary: Unit tests for ExternalPrefLoader using a test sync service to verify that external extension preferences are loaded after priority sync becomes ready.
+// ---
+
 #include "chrome/browser/extensions/external_pref_loader.h"
 
 #include <memory>

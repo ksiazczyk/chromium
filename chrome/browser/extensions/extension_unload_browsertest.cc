@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension unload browser tests
+// summary: Browser tests checking tab counts and remaining pages when an extension with unload listeners is disabled or unloaded.
+// ---
+
 #include "base/feature_list.h"
 #include "base/memory/raw_ptr.h"
 #include "base/run_loop.h"

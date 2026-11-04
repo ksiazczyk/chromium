@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestStandaloneWindowController test double
+// summary: Implements a WindowController test double for standalone windows hosting a single WebContents, such as Document Picture-in-Picture.
+// ---
+
 #include "chrome/browser/extensions/test_standalone_window_controller.h"
 
 #include "chrome/browser/extensions/window_controller_list.h"

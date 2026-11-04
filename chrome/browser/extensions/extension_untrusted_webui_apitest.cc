@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension untrusted WebUI API browser test
+// summary: Browser test fixture that runs extension API tests inside untrusted WebUI frames, loading test scripts from the extensions test data directory and covering the Read Anything side panel.
+// ---
+
 #include "base/files/file_path.h"
 #include "base/files/file_util.h"
 #include "base/path_service.h"

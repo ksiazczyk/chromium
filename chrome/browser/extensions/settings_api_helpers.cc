@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings override extension lookup helpers
+// summary: Implements helpers that find which enabled extension overrides the homepage, New Tab page, startup pages, search engine, or proxy settings.
+// ---
+
 #include "chrome/browser/extensions/settings_api_helpers.h"
 
 #include "chrome/common/pref_names.h"

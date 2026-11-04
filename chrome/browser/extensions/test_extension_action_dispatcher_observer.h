@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test observer for ExtensionActionDispatcher header
+// summary: Declares a test helper that observes ExtensionActionDispatcher updates and waits for action changes across a set of web contents.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_TEST_EXTENSION_ACTION_DISPATCHER_OBSERVER_H_
 #define CHROME_BROWSER_EXTENSIONS_TEST_EXTENSION_ACTION_DISPATCHER_OBSERVER_H_
 

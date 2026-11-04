@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated world CSP browser tests
+// summary: Browser tests verifying that Manifest V2 content scripts can bypass main world CSP while Manifest V3 scripts cannot.
+// ---
+
 #include "base/strings/utf_string_conversions.h"
 #include "chrome/browser/extensions/extension_apitest.h"
 #include "content/public/browser/web_contents.h"

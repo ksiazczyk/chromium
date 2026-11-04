@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalPolicyLoader implementation
+// summary: Loads externally installed extensions from extension management policies, handling both forced and recommended installation lists.
+// ---
+
 #include "chrome/browser/extensions/external_policy_loader.h"
 
 #include "base/strings/stringprintf.h"

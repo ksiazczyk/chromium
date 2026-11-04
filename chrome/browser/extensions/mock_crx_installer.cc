@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock CRX installer implementation
+// summary: Implements the MockCrxInstaller constructor and destructor used to track extension installations in tests.
+// ---
+
 #include "chrome/browser/extensions/mock_crx_installer.h"
 
 #include "extensions/buildflags/buildflags.h"

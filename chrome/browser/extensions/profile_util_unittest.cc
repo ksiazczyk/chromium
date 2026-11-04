@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Profile utility unit tests
+// summary: Unit tests verifying ProfileCanUseNonComponentExtensions for regular, child, guest, kiosk, public, incognito, and null profiles.
+// ---
+
 #include "chrome/browser/extensions/profile_util.h"
 
 #include "build/chromeos_buildflags.h"

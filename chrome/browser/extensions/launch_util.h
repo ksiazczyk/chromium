@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension launch utilities header
+// summary: Declares helpers for setting an extension's launch type preference and choosing the appropriate launch container.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_LAUNCH_UTIL_H_
 #define CHROME_BROWSER_EXTENSIONS_LAUNCH_UTIL_H_
 

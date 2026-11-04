@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Webstore install with prompt header
+// summary: Declares WebstoreInstallWithPrompt, a standalone installer base that downloads webstore metadata, shows install UI and notifies clients via callback.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_WEBSTORE_INSTALL_WITH_PROMPT_H_
 #define CHROME_BROWSER_EXTENSIONS_WEBSTORE_INSTALL_WITH_PROMPT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Process manager browser tests
+// summary: Browser tests for the extension process manager covering background pages, extension hosts, app windows, and related lifetime behavior.
+// ---
+
 #include "extensions/browser/process_manager.h"
 
 #include <stddef.h>

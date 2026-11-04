@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension permissions URL constants
+// summary: Defines named constants for the help article and settings page links used by Chromium's extension permission features, such as runtime host permissions and toolbar access requests.
+// ---
+
 #include "chrome/browser/extensions/permissions_url_constants.h"
 
 #include "extensions/buildflags/buildflags.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebstoreStandaloneInstaller implementation
+// summary: Implements the standalone webstore install flow, including metadata fetching, unique install checks, and install completion handling.
+// ---
+
 #include "chrome/browser/extensions/webstore_standalone_installer.h"
 
 #include <memory>

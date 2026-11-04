@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Low-trust policy install block manager declaration
+// summary: Declares the per-profile manager and BlockedExtensionInfo struct for recording and expiring low-trust blocked policy extension installations.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_LOW_TRUST_POLICY_INSTALL_BLOCK_MANAGER_H_
 #define CHROME_BROWSER_EXTENSIONS_LOW_TRUST_POLICY_INSTALL_BLOCK_MANAGER_H_
 

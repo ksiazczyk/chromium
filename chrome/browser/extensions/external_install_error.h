@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External install error interface
+// summary: Defines the ExternalInstallError interface for alerting users about externally installed extensions via bubble or menu alerts, with install prompt callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTERNAL_INSTALL_ERROR_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTERNAL_INSTALL_ERROR_H_
 

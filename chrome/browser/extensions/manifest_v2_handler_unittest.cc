@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Manifest V2 handler unit tests
+// summary: Unit tests checking which extensions are affected by Manifest V2 handling and when installation of user-installed MV2 extensions should be blocked.
+// ---
+
 #include "extensions/browser/manifest_v2_handler.h"
 
 #include "base/memory/raw_ptr.h"

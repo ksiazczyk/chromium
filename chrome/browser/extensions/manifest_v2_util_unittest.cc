@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Manifest V2 utility unit tests
+// summary: Unit tests for the Manifest V2 deprecation utilities, covering how policy-installed and user-visible MV2 extensions are treated.
+// ---
+
 #include "extensions/browser/manifest_v2_util.h"
 
 #include "base/test/values_test_util.h"

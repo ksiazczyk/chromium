@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestStandaloneWindowController header
+// summary: Declares a standalone WindowController test double with no associated BrowserWindowInterface or Browser.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_TEST_STANDALONE_WINDOW_CONTROLLER_H_
 #define CHROME_BROWSER_EXTENSIONS_TEST_STANDALONE_WINDOW_CONTROLLER_H_
 

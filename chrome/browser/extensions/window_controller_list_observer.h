@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowControllerListObserver interface
+// summary: Declares observer callbacks for window controller added, removed, bounds changed, and focus changed events.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_WINDOW_CONTROLLER_LIST_OBSERVER_H_
 #define CHROME_BROWSER_EXTENSIONS_WINDOW_CONTROLLER_LIST_OBSERVER_H_
 

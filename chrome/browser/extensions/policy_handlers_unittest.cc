@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension policy handlers unit tests
+// summary: Unit tests for extension policy handlers covering install forcelist, blocklist, and ExtensionSettings management policy parsing.
+// ---
+
 #include "chrome/browser/extensions/policy_handlers.h"
 
 #include <cstddef>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker lifetime keepalive browser tests
+// summary: Browser tests for extension service worker keepalive behavior, covering activities that extend worker lifetime such as persistent port connections.
+// ---
+
 #include <stddef.h>
 
 #include "base/run_loop.h"

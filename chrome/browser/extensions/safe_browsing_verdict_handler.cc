@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe Browsing verdict handler implementation
+// summary: Applies Safe Browsing blocklist and greylist verdicts to installed extensions, enabling, disabling, loading and unloading them based on blocklist states.
+// ---
+
 #include "chrome/browser/extensions/safe_browsing_verdict_handler.h"
 
 #include "base/metrics/histogram_macros.h"

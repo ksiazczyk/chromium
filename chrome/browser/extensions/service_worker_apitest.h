@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker test fixture header
+// summary: Declares the ServiceWorkerTest and ServiceWorkerBasedBackgroundTest fixtures with helpers for navigating tabs and inspecting running extension workers.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_SERVICE_WORKER_APITEST_H_
 #define CHROME_BROWSER_EXTENSIONS_SERVICE_WORKER_APITEST_H_
 

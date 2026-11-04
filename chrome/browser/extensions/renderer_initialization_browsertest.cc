@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Renderer initialization browser tests
+// summary: Browser tests ensuring extension and theme pages load without crashing when extensions unload before renderer initialization completes.
+// ---
+
 #include "chrome/browser/extensions/extension_browsertest.h"
 #include "content/public/browser/navigation_controller.h"
 #include "content/public/browser/web_contents.h"

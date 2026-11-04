@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExtensionTabUtil header
+// summary: Declares utility functions that let extensions inspect and manipulate browser tabs, windows, and tab groups, including error messages and tab scrubbing behavior.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTENSION_TAB_UTIL_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTENSION_TAB_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop external install error implementation
+// summary: Implements the desktop ExternalInstallError with menu and bubble global error alerts, webstore data fetching, and install prompt handling for external extensions.
+// ---
+
 #include "chrome/browser/extensions/external_install_error_desktop.h"
 
 #include <stddef.h>

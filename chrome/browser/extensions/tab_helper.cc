@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabHelper implementation for per-tab extension support
+// summary: Implements TabHelper, a WebContents observer wiring tab IDs, script execution, extension actions, and active tab permission granting for extensions.
+// ---
+
 #include "chrome/browser/extensions/tab_helper.h"
 
 #include <memory>

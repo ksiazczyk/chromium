@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension user activation service browser tests
+// summary: Browser tests verifying that the extension user activation service records transient user gestures from API calls and event dispatches.
+// ---
+
 #include "extensions/browser/extension_user_activation_service.h"
 
 #include "chrome/browser/extensions/extension_browsertest.h"

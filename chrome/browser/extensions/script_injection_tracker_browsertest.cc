@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Script injection tracker browser tests
+// summary: Extensive browser tests covering content script and user script injection tracking, including programmatic injection, permissions, guest views and tracing.
+// ---
+
 #include "extensions/browser/script_injection_tracker.h"
 
 #include <string>

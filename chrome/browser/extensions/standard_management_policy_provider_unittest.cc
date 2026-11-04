@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Standard management policy provider unit tests
+// summary: Unit tests verifying how the standard management policy provider treats policy-required extensions for loading, modification, and enable/install restrictions.
+// ---
+
 #include "chrome/browser/extensions/standard_management_policy_provider.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension Telemetry service verdict handler
+// summary: Applies Extension Telemetry service blocklist verdicts, disabling malware-flagged off-store extensions and logging UMA metrics for disables and re-enables.
+// ---
+
 #include "chrome/browser/extensions/extension_telemetry_service_verdict_handler.h"
 
 #include "base/metrics/histogram_functions.h"

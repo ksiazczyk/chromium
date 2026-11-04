@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension URL overrides registrar implementation
+// summary: Implements a per-profile registrar that activates or deactivates URL overrides as extensions are loaded, unloaded or uninstalled.
+// ---
+
 #include "chrome/browser/extensions/extension_url_overrides_registrar.h"
 
 #include "base/functional/bind.h"

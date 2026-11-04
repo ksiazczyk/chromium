@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Extension Telemetry verdict handler unit tests
+// summary: Unit tests verifying that telemetry verdicts blocklist malware extensions, re-enable unblocklisted ones, and record the expected histograms.
+// ---
+
 #include "chrome/browser/extensions/extension_telemetry_service_verdict_handler.h"
 
 #include "base/test/metrics/histogram_tester.h"

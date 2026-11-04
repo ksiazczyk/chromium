@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension special storage policy implementation
+// summary: Implements the special storage policy that grants extensions protected, unlimited, session-only, and isolated storage rights queried by storage subsystems.
+// ---
+
 #include "chrome/browser/extensions/extension_special_storage_policy.h"
 
 #include <stddef.h>

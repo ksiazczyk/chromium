@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Worker extension API browser test
+// summary: Browser test fixture that runs the worker extension test, enabling experimental web platform features for module dedicated workers and disabling a flaky Windows ASAN case.
+// ---
+
 #include "chrome/browser/extensions/extension_apitest.h"
 #include "content/public/common/content_features.h"
 #include "content/public/common/content_switches.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SharedArrayBuffer extension browser tests
+// summary: Parameterized browser tests checking whether extensions can transfer SharedArrayBuffers to workers across platforms and cross-origin isolation settings.
+// ---
+
 #include <tuple>
 
 #include "base/feature_list.h"

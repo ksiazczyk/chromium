@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Policy DSE and NTP override metrics reporter unit tests
+// summary: Unit tests verifying metrics reported for policy-installed extensions that override the default search engine or the new tab page.
+// ---
+
 #include "chrome/browser/extensions/policy_dse_ntp_override_metrics_reporter.h"
 
 #include <memory>

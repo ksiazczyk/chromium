@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Service worker registration API tests
+// summary: Browser tests for extension service worker registration and unregistration, including task queue behavior and install prompts.
+// ---
+
 #include <memory>
 #include <string>
 

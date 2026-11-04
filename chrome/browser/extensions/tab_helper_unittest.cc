@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabHelper unit tests
+// summary: Unit tests verifying TabHelper reload-required behavior when user site settings block all extensions or customize extension site access.
+// ---
+
 #include "chrome/browser/extensions/tab_helper.h"
 
 #include "base/run_loop.h"

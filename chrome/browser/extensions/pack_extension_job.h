@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PackExtensionJob class declaration
+// summary: Declares PackExtensionJob, a client-based job that packs extensions synchronously or asynchronously and reports results to the UI.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_PACK_EXTENSION_JOB_H_
 #define CHROME_BROWSER_EXTENSIONS_PACK_EXTENSION_JOB_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mixin-based extension API test base class
+// summary: Defines MixinBasedExtensionApiTest, an ExtensionApiTest fixture that supports in-process browser test mixins.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_MIXIN_BASED_EXTENSION_APITEST_H_
 #define CHROME_BROWSER_EXTENSIONS_MIXIN_BASED_EXTENSION_APITEST_H_
 

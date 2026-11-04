@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension URL overrides
+// summary: Declares helpers to handle, validate, register, activate and unregister extension Chrome URL overrides and to fetch their favicons.
+// ---
+
 #ifndef CHROME_BROWSER_EXTENSIONS_EXTENSION_URL_OVERRIDES_H_
 #define CHROME_BROWSER_EXTENSIONS_EXTENSION_URL_OVERRIDES_H_
 

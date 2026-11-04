@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Locked fullscreen window API test
+// summary: API tests for the lockWindowFullscreenPrivate extension permission, covering rejection on non-ChromeOS platforms and pinning behavior via the Boca system web app on ChromeOS.
+// ---
+
 #include "base/test/scoped_feature_list.h"
 #include "build/build_config.h"
 #include "build/chromeos_buildflags.h"
