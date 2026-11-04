@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scan integration test
+// summary: Integration tests that run a simplex ADF scan through the ChromeOS Scanning app with a fake Lorgnette scanner manager and verify the saved PDF output.
+// ---
+
 #include "base/check.h"
 #include "base/files/file_enumerator.h"
 #include "base/files/file_path.h"

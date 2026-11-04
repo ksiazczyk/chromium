@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: SMB client include dependency rules
+summary: Restricts Chromium includes for the smb_client directory and grants extra include allowances to its unit tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanner keyed service factory interface
+// summary: Declares ScannerKeyedServiceFactory, the singleton factory providing per-profile access to the Scanner keyed service.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SCANNER_SCANNER_KEYED_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ASH_SCANNER_SCANNER_KEYED_SERVICE_FACTORY_H_
 

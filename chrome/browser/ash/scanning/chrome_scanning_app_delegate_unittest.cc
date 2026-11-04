@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Chrome scanning app delegate
+// summary: Tests path handling, sticky settings preferences, and Files app opening behavior of ChromeScanningAppDelegate using test profiles and WebUI.
+// ---
+
 #include "chrome/browser/ash/scanning/chrome_scanning_app_delegate.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Zeroconf scanner detector unit tests
+// summary: Unit tests for ZeroconfScannerDetector using fake service discovery device listers and matcher helpers to verify detected scanner attributes.
+// ---
+
 #include "chrome/browser/ash/scanning/zeroconf_scanner_detector.h"
 
 #include <algorithm>

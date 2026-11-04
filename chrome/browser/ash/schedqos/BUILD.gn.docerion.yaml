@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the schedqos library
+summary: Defines the schedqos static library and its unit_tests target, listing sources and dependencies on base, dbus, and the resourced client.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NetBIOS host locator unit tests
+// summary: Unit tests for NetBiosHostLocator using fake NetBIOS clients and a fake SMB provider client to verify host discovery.
+// ---
+
 #include "chrome/browser/ash/smb_client/discovery/netbios_host_locator.h"
 
 #include "base/functional/bind.h"

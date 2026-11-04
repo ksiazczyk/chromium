@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Shimless RMA delegate implementation
+// summary: Implements the Chrome-side ShimlessRmaDelegate, covering RMA exit and Chrome restart, diagnostics dialog display, accessibility refresh, and QR code generation.
+// ---
+
 #include "chrome/browser/ash/shimless_rma/chrome_shimless_rma_delegate.h"
 
 #include <string>

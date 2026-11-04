@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedTestingCrosSettings
+// summary: Declares a scoped helper that installs a test CrosSettings instance with stub providers, recommended over ScopedCrosSettingsTestHelper for new tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SETTINGS_SCOPED_TESTING_CROS_SETTINGS_H_
 #define CHROME_BROWSER_ASH_SETTINGS_SCOPED_TESTING_CROS_SETTINGS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device disabling manager class declaration
+// summary: Declares the DeviceDisablingManager that handles remote disabling of lost or stolen enrolled devices and notifies observers.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_DEVICE_DISABLING_MANAGER_H_
 #define CHROME_BROWSER_ASH_SYSTEM_DEVICE_DISABLING_MANAGER_H_
 

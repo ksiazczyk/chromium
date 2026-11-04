@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive share action header
+// summary: Declares the DriveShareAction class, a sharesheet ShareAction that shows itself only for intents carrying a Drive share URL.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SHARESHEET_DRIVE_SHARE_ACTION_H_
 #define CHROME_BROWSER_ASH_SHARESHEET_DRIVE_SHARE_ACTION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Automatic reboot manager class declaration
+// summary: Declares the AutomaticRebootManager class that schedules reboots for OS updates and uptime limits and inhibits them during active sessions.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_AUTOMATIC_REBOOT_MANAGER_H_
 #define CHROME_BROWSER_ASH_SYSTEM_AUTOMATIC_REBOOT_MANAGER_H_
 

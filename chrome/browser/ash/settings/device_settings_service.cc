@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceSettingsService implementation
+// summary: Implements low-level loading and storing of signed ChromeOS device settings via session_manager, including ownership tracking and device ID validity metrics.
+// ---
+
 #include "chrome/browser/ash/settings/device_settings_service.h"
 
 #include <utility>

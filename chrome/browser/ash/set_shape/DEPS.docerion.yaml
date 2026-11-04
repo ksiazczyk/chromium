@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for set_shape browser tests
+summary: Restricts ChromeOS dependencies on //chrome and grants the two browser test files specific include exceptions for test and web app support.

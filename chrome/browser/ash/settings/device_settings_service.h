@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceSettingsService class header
+// summary: Declares DeviceSettingsService, which tracks the owner key and signed device settings blob and notifies observers of key and policy updates.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SETTINGS_DEVICE_SETTINGS_SERVICE_H_
 #define CHROME_BROWSER_ASH_SETTINGS_DEVICE_SETTINGS_SERVICE_H_
 

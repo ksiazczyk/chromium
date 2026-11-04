@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome scanning app delegate implementation
+// summary: Implements the browser-side delegate for the Scan system web app, handling valid scan file paths, sticky settings prefs, and opening scans in the Files app.
+// ---
+
 #include "chrome/browser/ash/scanning/chrome_scanning_app_delegate.h"
 
 #include <utility>

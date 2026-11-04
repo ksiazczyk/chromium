@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake nearby connection broker for tests
+// summary: Declares a fake NearbyConnectionBroker exposing test hooks for sent messages, connection events, and send success.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SECURE_CHANNEL_FAKE_NEARBY_CONNECTION_BROKER_H_
 #define CHROME_BROWSER_ASH_SECURE_CHANNEL_FAKE_NEARBY_CONNECTION_BROKER_H_
 

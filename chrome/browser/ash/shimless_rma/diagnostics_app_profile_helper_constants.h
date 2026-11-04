@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Diagnostics app profile helper constants
+// summary: Defines polling intervals, timeouts, and error message constants shared by the diagnostics app profile helper and its unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SHIMLESS_RMA_DIAGNOSTICS_APP_PROFILE_HELPER_CONSTANTS_H_
 #define CHROME_BROWSER_ASH_SHIMLESS_RMA_DIAGNOSTICS_APP_PROFILE_HELPER_CONSTANTS_H_
 

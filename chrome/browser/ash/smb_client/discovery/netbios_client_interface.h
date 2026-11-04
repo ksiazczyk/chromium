@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetBIOS client interface
+// summary: Defines the NetBiosClientInterface abstract base class for starting NetBIOS name query requests with a response callback.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SMB_CLIENT_DISCOVERY_NETBIOS_CLIENT_INTERFACE_H_
 #define CHROME_BROWSER_ASH_SMB_CLIENT_DISCOVERY_NETBIOS_CLIENT_INTERFACE_H_
 

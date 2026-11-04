@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionManagerOperation implementation
+// summary: Implements transactions with the session manager, covering owner public key loading and retrieval of signed device policy blobs.
+// ---
+
 #include "chrome/browser/ash/settings/session_manager_operation.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SupervisedUserCrosSettingsProvider header
+// summary: Declares SupervisedUserCrosSettingsProvider, a Cros settings provider that returns fixed child-user restriction values for account settings.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SETTINGS_SUPERVISED_USER_CROS_SETTINGS_PROVIDER_H_
 #define CHROME_BROWSER_ASH_SETTINGS_SUPERVISED_USER_CROS_SETTINGS_PROVIDER_H_
 

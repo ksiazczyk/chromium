@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetBIOS client header
+// summary: Declares the NetBiosClient class that binds a UDP socket, opens a firewall hole, and broadcasts NetBIOS name queries.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SMB_CLIENT_DISCOVERY_NETBIOS_CLIENT_H_
 #define CHROME_BROWSER_ASH_SMB_CLIENT_DISCOVERY_NETBIOS_CLIENT_H_
 

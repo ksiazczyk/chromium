@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lorgnette notification controller unit tests
+// summary: Unit tests verifying that LorgnetteNotificationController displays notifications for scanning DLC installed, installing, and error states using a fake DLC service client.
+// ---
+
 #include "chrome/browser/ash/scanning/lorgnette_notification_controller.h"
 
 #include <memory>

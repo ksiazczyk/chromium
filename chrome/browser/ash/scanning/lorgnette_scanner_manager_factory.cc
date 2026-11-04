@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lorgnette scanner manager factory implementation
+// summary: Implements the profile-keyed factory that creates a LorgnetteScannerManager instance for each browser context, skipping the lock screen.
+// ---
+
 #include "chrome/browser/ash/scanning/lorgnette_scanner_manager_factory.h"
 
 #include "base/check_deref.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SmbFsShare unit tests
+// summary: Unit tests for SmbFsShare mount, unmount and credential flows using mocks and fake disk mount manager.
+// ---
+
 #include "chrome/browser/ash/smb_client/smbfs_share.h"
 
 #include <utility>

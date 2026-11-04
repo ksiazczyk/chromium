@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build configuration for the ChromeOS scanning browser code
+summary: Defines the static libraries and test targets that build the Scan app browser-side sources, their dependencies, and the unit test source set.

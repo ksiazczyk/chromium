@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbyConnectionBrokerImpl implementation
+// summary: Implements the Nearby connection broker that discovers an endpoint, establishes and maintains a Nearby Connections connection, exchanges payloads and records connection metrics.
+// ---
+
 #include "chrome/browser/ash/secure_channel/nearby_connection_broker_impl.h"
 
 #include <memory>

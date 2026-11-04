@@ -1,0 +1,4 @@
+# Docerion header of 2.
+type: test
+title: 'Fuzzer corpus entry 2: bare server and share path'
+summary: Fuzzer seed input with a bare SERVER/SHARE string for SMB URL parsing.

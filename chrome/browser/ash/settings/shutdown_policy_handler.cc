@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shutdown policy handler implementation
+// summary: Observes the DeviceRebootOnShutdown device setting and notifies its delegate with the trusted policy state whenever the setting changes.
+// ---
+
 #include "chrome/browser/ash/settings/shutdown_policy_handler.h"
 
 #include "base/functional/bind.h"

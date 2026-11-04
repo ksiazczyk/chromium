@@ -1,0 +1,4 @@
+# Docerion header of 5.
+type: test
+title: 'Fuzzer corpus entry 5: SMB URL with port'
+summary: Fuzzer seed input with an SMB URL that includes a port component.

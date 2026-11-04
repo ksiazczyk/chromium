@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: System clock header
+// summary: Declares SystemClock, a singleton managing on-screen time formatting with scoped hour clock type overrides and observer support.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_SYSTEM_CLOCK_H_
 #define CHROME_BROWSER_ASH_SYSTEM_SYSTEM_CLOCK_H_
 

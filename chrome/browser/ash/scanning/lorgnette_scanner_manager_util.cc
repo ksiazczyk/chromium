@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lorgnette scanner manager utilities implementation
+// summary: Implements helpers to parse scanner names, merge duplicate lorgnette and zeroconf scanner records, and map scanners to protocol types such as Mopria and WSD.
+// ---
+
 #include "chrome/browser/ash/scanning/lorgnette_scanner_manager_util.h"
 
 #include "base/strings/string_util.h"

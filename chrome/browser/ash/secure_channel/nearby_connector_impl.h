@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbyConnectorImpl class declaration
+// summary: Declares NearbyConnectorImpl, a KeyedService that serializes connection requests and creates endpoint finders and connection brokers via the Nearby process manager.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SECURE_CHANNEL_NEARBY_CONNECTOR_IMPL_H_
 #define CHROME_BROWSER_ASH_SECURE_CHANNEL_NEARBY_CONNECTOR_IMPL_H_
 

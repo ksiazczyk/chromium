@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Scanner static library build definition
+summary: Defines the scanner static library in GN, listing the ChromeOS scanner source files and their browser and component dependencies.

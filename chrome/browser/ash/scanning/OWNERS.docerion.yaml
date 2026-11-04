@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for the scanning directory
+summary: Points to the shared ChromeOS scanning owners and assigns IPC security owners for type converter files.

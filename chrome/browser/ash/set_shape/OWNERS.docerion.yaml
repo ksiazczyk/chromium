@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the set_shape test directory
+summary: Lists code owners for the directory, inheriting owners from the isolated web apps component and naming edman@chromium.org.

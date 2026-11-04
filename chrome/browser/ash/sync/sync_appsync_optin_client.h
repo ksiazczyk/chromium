@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncAppsyncOptinClient class declaration
+// summary: Declares SyncAppsyncOptinClient, a SyncServiceObserver that propagates AppsSync opt-in changes to a daemon-store file used by ChromeOS crash reporting.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYNC_SYNC_APPSYNC_OPTIN_CLIENT_H_
 #define CHROME_BROWSER_ASH_SYNC_SYNC_APPSYNC_OPTIN_CLIENT_H_
 

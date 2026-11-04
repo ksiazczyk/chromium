@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedTestingCrosSettings implementation
+// summary: Implements a scoped helper that creates a test CrosSettings instance with stub device and system settings providers and a user login permission tracker.
+// ---
+
 #include "chrome/browser/ash/settings/scoped_testing_cros_settings.h"
 
 #include "chrome/browser/ash/settings/stub_cros_settings_provider.h"

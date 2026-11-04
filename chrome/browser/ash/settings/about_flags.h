@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Header for ChromeOS about flags storage classes
+// summary: Declares OwnerFlagsStorage, ReadOnlyFlagsStorage, and FeatureFlagsUpdate for managing feature flags across preferences and device settings.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SETTINGS_ABOUT_FLAGS_H_
 #define CHROME_BROWSER_ASH_SETTINGS_ABOUT_FLAGS_H_
 

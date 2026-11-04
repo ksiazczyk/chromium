@@ -1,3 +1,13 @@
+---
+type: readme
+title: Set Shape API Browser Tests
+summary: Describes the ChromeOS browser tests for the window.setShape API, links companion documentation, and outlines the two test suites.
+relations:
+  - references /chromeos/ash/experiences/isolated_web_app/README.md
+  - references /third_party/blink/renderer/modules/set_shape/README.md
+  - documents /chrome/browser/ash/set_shape/set_shape_browsertest.cc
+---
+
 # Set Shape API Browser Tests (`chrome/browser/ash/set_shape`)
 
 This directory hosts ChromeOS end-to-end browser tests for the `window.setShape`

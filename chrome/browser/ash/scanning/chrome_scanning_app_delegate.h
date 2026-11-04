@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome scanning app delegate header
+// summary: Declares the Chrome implementation of ScanningAppDelegate providing file path validation, preference access, and Files app integration for the Scan app.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SCANNING_CHROME_SCANNING_APP_DELEGATE_H_
 #define CHROME_BROWSER_ASH_SCANNING_CHROME_SCANNING_APP_DELEGATE_H_
 

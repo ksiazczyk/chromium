@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbyConnectionBrokerImpl class declaration
+// summary: Declares NearbyConnectionBrokerImpl, which finds an endpoint via NearbyEndpointFinder, requests and accepts a connection, and exchanges messages over it.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SECURE_CHANNEL_NEARBY_CONNECTION_BROKER_IMPL_H_
 #define CHROME_BROWSER_ASH_SECURE_CHANNEL_NEARBY_CONNECTION_BROKER_IMPL_H_
 

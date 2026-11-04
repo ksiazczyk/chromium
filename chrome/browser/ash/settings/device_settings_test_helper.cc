@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceSettingsTestBase implementation
+// summary: Implements the DeviceSettingsTestBase fixture that initializes fake DBus clients, owner key utilities, and a DeviceSettingsService for tests.
+// ---
+
 #include "chrome/browser/ash/settings/device_settings_test_helper.h"
 
 #include <memory>

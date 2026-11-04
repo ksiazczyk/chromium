@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMB file system ID API
+// summary: Declares helpers to build SMB file system IDs from share paths and to extract share path, Kerberos and username information.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SMB_CLIENT_SMB_FILE_SYSTEM_ID_H_
 #define CHROME_BROWSER_ASH_SMB_CLIENT_SMB_FILE_SYSTEM_ID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the automatic reboot manager
+// summary: Unit tests covering automatic reboot scheduling, inhibition, and grace period behavior using mock time and fake uptime providers.
+// ---
+
 #include "chrome/browser/ash/system/automatic_reboot_manager.h"
 
 #include <optional>

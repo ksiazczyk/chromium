@@ -1,0 +1,4 @@
+# Docerion header of 4.
+type: test
+title: SMB URL fuzzer corpus entry 4
+summary: Fuzzer corpus entry providing a sample SMB URL as input for the Chrome OS SMB client fuzz tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake nearby connection broker implementation
+// summary: Implements a test fake broker that records sent messages and lets tests control whether sending succeeds.
+// ---
+
 #include "chrome/browser/ash/secure_channel/fake_nearby_connection_broker.h"
 
 namespace ash {

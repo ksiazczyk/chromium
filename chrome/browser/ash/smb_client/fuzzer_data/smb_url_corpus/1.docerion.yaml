@@ -1,0 +1,4 @@
+# Docerion header of 1.
+type: test
+title: 'Fuzzer corpus entry 1: malformed UNC-style path'
+summary: Fuzzer seed input with a malformed UNC-style path used to exercise SMB URL parsing.

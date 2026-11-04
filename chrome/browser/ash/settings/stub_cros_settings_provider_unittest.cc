@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StubCrosSettingsProvider unit tests
+// summary: Unit tests for StubCrosSettingsProvider covering setting handling, default values, set operations, observer notifications, and trusted value preparation.
+// ---
+
 #include "chrome/browser/ash/settings/stub_cros_settings_provider.h"
 
 #include <memory>

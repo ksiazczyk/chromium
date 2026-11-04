@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SmbShareInfo implementation
+// summary: Implements the SmbShareInfo constructor that stores common SMB share parameters such as URL, display name, username, and Kerberos flag.
+// ---
+
 #include "chrome/browser/ash/smb_client/smb_share_info.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InMemoryHostLocator header
+// summary: Declares a HostLocator implementation that serves hosts from an in-memory map, intended for testing.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SMB_CLIENT_DISCOVERY_IN_MEMORY_HOST_LOCATOR_H_
 #define CHROME_BROWSER_ASH_SMB_CLIENT_DISCOVERY_IN_MEMORY_HOST_LOCATOR_H_
 

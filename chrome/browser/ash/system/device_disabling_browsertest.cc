@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for device disabling during OOBE
+// summary: Browser test verifying that a remotely disabled device shows the device disabled screen during OOBE after a policy fetch.
+// ---
+
 #include <memory>
 #include <string>
 

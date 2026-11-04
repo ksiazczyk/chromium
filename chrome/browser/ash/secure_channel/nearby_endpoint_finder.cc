@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbyEndpointFinder base implementation
+// summary: Implements the NearbyEndpointFinder base class, storing the Bluetooth address and EID and notifying success or failure callbacks for endpoint discovery.
+// ---
+
 #include "chrome/browser/ash/secure_channel/nearby_endpoint_finder.h"
 
 #include "chromeos/ash/services/nearby/public/mojom/nearby_connections_types.mojom.h"

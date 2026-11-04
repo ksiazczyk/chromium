@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncAppsyncService keyed service declaration
+// summary: Declares SyncAppsyncService, a KeyedService that instantiates the AppsSync opt-in client for a profile.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYNC_SYNC_APPSYNC_SERVICE_H_
 #define CHROME_BROWSER_ASH_SYNC_SYNC_APPSYNC_SERVICE_H_
 

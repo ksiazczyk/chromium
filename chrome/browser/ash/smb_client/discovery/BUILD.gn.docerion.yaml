@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the SMB discovery library
+summary: Defines the discovery static library, test support, and unit test targets with their sources and dependencies for the SMB client discovery code.

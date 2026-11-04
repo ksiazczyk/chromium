@@ -1,0 +1,4 @@
+# Docerion header of 9.
+type: test
+title: 'Fuzzer corpus entry 9: URL missing scheme'
+summary: Fuzzer seed input with a URL that lacks a scheme before the host.

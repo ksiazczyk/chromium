@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for CrosSettings
+// summary: Tests CrosSettings behavior such as owner recognition and trusted settings using fake device policy, session manager, and owner key utilities.
+// ---
+
 #include "chromeos/ash/components/settings/cros_settings.h"
 
 #include <map>

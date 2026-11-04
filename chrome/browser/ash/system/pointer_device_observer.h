@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pointer device observer class declaration
+// summary: Declares PointerDeviceObserver, which tracks presence of touchpads, mice, and pointing sticks and exposes an observer interface.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYSTEM_POINTER_DEVICE_OBSERVER_H_
 #define CHROME_BROWSER_ASH_SYSTEM_POINTER_DEVICE_OBSERVER_H_
 

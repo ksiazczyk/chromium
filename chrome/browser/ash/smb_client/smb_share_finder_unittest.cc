@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SmbShareFinder unit tests
+// summary: Unit tests for SmbShareFinder covering host discovery, share gathering, and URL resolution using fake provider and upstart clients.
+// ---
+
 #include "chrome/browser/ash/smb_client/smb_share_finder.h"
 
 #include <algorithm>

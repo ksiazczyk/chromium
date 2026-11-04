@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScanServiceFactory implementation
+// summary: Profile-keyed service factory that builds ScanService instances with the Lorgnette scanner manager, My files path, and Drive mount point.
+// ---
+
 #include "chrome/browser/ash/scanning/scan_service_factory.h"
 
 #include "base/no_destructor.h"

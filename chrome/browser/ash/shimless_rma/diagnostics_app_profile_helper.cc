@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Diagnostics app profile helper implementation
+// summary: Implements profile preparation for the third-party diagnostics app, including extension installation and activation, permission policy handling, and isolated web app setup.
+// ---
+
 #include "chrome/browser/ash/shimless_rma/diagnostics_app_profile_helper.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMB file system class declaration
+// summary: Declares SmbFileSystem, the provided file system implementation that lets the ChromeOS Files App mount and operate SMB shares.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SMB_CLIENT_SMB_FILE_SYSTEM_H_
 #define CHROME_BROWSER_ASH_SMB_CLIENT_SMB_FILE_SYSTEM_H_
 

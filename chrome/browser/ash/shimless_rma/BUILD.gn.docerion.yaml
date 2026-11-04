@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Shimless RMA browser library build targets
+summary: Defines the shimless_rma static library and its unit test source set with their source files and dependencies.

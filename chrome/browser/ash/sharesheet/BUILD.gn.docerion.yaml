@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Sharesheet BUILD.gn build targets
+summary: Defines the sharesheet static library and its unit test source set, listing sources and dependencies for the ChromeOS sharesheet actions.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby connection broker base class implementation
+// summary: Implements Mojo pipe wiring, disconnection handling, and notification helpers for the connection broker base class.
+// ---
+
 #include "chrome/browser/ash/secure_channel/nearby_connection_broker.h"
 
 #include "base/check.h"

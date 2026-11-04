@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InMemoryHostLocator implementation
+// summary: Implements a host locator backed by an in-memory host map with add, remove, and synchronous or deferred callback behavior.
+// ---
+
 #include "chrome/browser/ash/smb_client/discovery/in_memory_host_locator.h"
 
 #include <map>

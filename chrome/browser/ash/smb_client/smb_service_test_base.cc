@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SmbService test base implementation
+// summary: Implements the shared test fixture for SmbService tests, setting up fake profiles, user managers, disk mount managers, and mock smbfs mounters.
+// ---
+
 #include "chrome/browser/ash/smb_client/smb_service_test_base.h"
 
 #include "base/test/simple_test_tick_clock.h"

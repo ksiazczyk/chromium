@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SMB service browser test
+// summary: Browser test verifying that the SmbService is created for the primary user's browser context.
+// ---
+
 #include "chrome/browser/ash/smb_client/smb_service_factory.h"
 #include "chrome/test/base/in_process_browser_test.h"
 #include "chromeos/ash/components/browser_context_helper/browser_context_helper.h"

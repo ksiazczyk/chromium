@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbyConnectorFactory implementation
+// summary: Implements the per-profile KeyedService factory that builds NearbyConnectorImpl and registers it with the Secure Channel client.
+// ---
+
 #include "chrome/browser/ash/secure_channel/nearby_connector_factory.h"
 
 #include "chrome/browser/ash/nearby/nearby_process_manager_factory.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device disabling manager unit tests
+// summary: Unit tests for DeviceDisablingManager covering device disabling behavior with fake policy, settings, session manager, and statistics providers.
+// ---
+
 #include "chrome/browser/ash/system/device_disabling_manager.h"
 
 #include <memory>

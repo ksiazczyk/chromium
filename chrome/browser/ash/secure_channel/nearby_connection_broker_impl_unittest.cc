@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NearbyConnectionBrokerImpl unit tests
+// summary: Unit tests for NearbyConnectionBrokerImpl using a fake endpoint finder, mock Nearby Connections, mock timer and histogram tester to verify connection and payload behavior.
+// ---
+
 
 #include "chrome/browser/ash/secure_channel/nearby_connection_broker_impl.h"
 

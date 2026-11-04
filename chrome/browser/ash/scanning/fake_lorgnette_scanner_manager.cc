@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Lorgnette scanner manager implementation
+// summary: Implements a fake LorgnetteScannerManager that simulates scanners, scan jobs, and D-Bus or scanner failures for use in tests.
+// ---
+
 #include "chrome/browser/ash/scanning/fake_lorgnette_scanner_manager.h"
 
 #include <algorithm>

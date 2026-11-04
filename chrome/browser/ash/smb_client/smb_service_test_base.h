@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SmbService test base header with mocks
+// summary: Declares the SmbServiceBaseTest fixture plus MockSmbFsMounter and MockSmbFsImpl helpers used to test SMB service mounting behavior.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SMB_CLIENT_SMB_SERVICE_TEST_BASE_H_
 #define CHROME_BROWSER_ASH_SMB_CLIENT_SMB_SERVICE_TEST_BASE_H_
 

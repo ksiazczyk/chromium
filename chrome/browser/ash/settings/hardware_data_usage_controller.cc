@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HWDataUsageController implementation
+// summary: Implements the HWDataUsageController singleton that manages the cros.reven.enable_hw_data_usage device setting before ownership is taken.
+// ---
+
 #include "chrome/browser/ash/settings/hardware_data_usage_controller.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Copy to clipboard share action unit tests
+// summary: Unit tests verifying that the copy-to-clipboard share action copies text, URLs, and files correctly and records the expected MIME type metrics.
+// ---
+
 #include "chrome/browser/ash/sharesheet/copy_to_clipboard_share_action.h"
 
 #include "ash/public/cpp/system/toast_data.h"

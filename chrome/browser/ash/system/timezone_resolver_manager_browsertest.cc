@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Timezone resolver manager browser tests
+// summary: Browser tests verifying TimeZoneResolverManager behavior across automatic timezone detection policies, user choices and geolocation permissions.
+// ---
+
 #include "chrome/browser/ash/system/timezone_resolver_manager.h"
 
 #include "ash/constants/ash_features.h"

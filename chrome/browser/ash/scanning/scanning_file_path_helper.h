@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanning file path helper header
+// summary: Declares ScanningFilePathHelper, which provides display names for scan destinations and checks whether file paths are supported by the Scan app.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SCANNING_SCANNING_FILE_PATH_HELPER_H_
 #define CHROME_BROWSER_ASH_SCANNING_SCANNING_FILE_PATH_HELPER_H_
 

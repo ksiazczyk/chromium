@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanning file path helper implementation
+// summary: Implements helpers that map scan destination paths to display names and validate supported paths under My Files, Google Drive and removable media.
+// ---
+
 #include "chrome/browser/ash/scanning/scanning_file_path_helper.h"
 
 #include <string>

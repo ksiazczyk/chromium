@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceSettingsProvider unit tests
+// summary: Unit tests for DeviceSettingsProvider covering policy decoding, trusted value handling, reporting settings, and device local accounts.
+// ---
+
 #include "chrome/browser/ash/settings/device_settings_provider.h"
 
 #include <memory>

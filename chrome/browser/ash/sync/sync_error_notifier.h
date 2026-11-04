@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncErrorNotifier class declaration
+// summary: Declares a keyed service that observes the sync service and shows sync-related errors as Ash notifications.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SYNC_SYNC_ERROR_NOTIFIER_H_
 #define CHROME_BROWSER_ASH_SYNC_SYNC_ERROR_NOTIFIER_H_
 

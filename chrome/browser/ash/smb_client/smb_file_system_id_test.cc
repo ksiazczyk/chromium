@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SMB file system ID unit tests
+// summary: Unit tests verifying creation and parsing of SMB file system IDs, including share path extraction and Kerberos and username handling.
+// ---
+
 #include "chrome/browser/ash/smb_client/smb_file_system_id.h"
 
 #include <string>

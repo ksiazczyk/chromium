@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMB service implementation
+// summary: Implements SmbService, which mounts and unmounts smbfs shares, discovers network hosts and shares, handles credentials and records mount metrics.
+// ---
+
 #include "chrome/browser/ash/smb_client/smb_service.h"
 
 #include <string>

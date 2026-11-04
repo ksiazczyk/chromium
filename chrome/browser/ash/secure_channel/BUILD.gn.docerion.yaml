@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for secure_channel
+summary: Defines the secure_channel static library, test_support fakes, and unit_tests target with their sources and dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SessionManagerOperation
+// summary: Declares a virtual base class for session manager operations with shared infrastructure for key and policy loading, storing and signing.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SETTINGS_SESSION_MANAGER_OPERATION_H_
 #define CHROME_BROWSER_ASH_SETTINGS_SESSION_MANAGER_OPERATION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persisted SMB share registry declaration
+// summary: Declares SmbPersistedShareRegistry, which stores and retrieves saved SMB share information in the user's preferences.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SMB_CLIENT_SMB_PERSISTED_SHARE_REGISTRY_H_
 #define CHROME_BROWSER_ASH_SMB_CLIENT_SMB_PERSISTED_SHARE_REGISTRY_H_
 

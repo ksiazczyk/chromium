@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for Shimless RMA
+summary: Sets include rules for the directory, blocking //chrome dependencies while allowlisting the specific Chrome includes needed by Shimless RMA code.

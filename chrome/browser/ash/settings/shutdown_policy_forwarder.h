@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shutdown policy forwarder header
+// summary: Declares the ShutdownPolicyForwarder class, a ShutdownPolicyHandler delegate that relays DeviceRebootOnShutdown policy changes to the ash ShutdownController.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SETTINGS_SHUTDOWN_POLICY_FORWARDER_H_
 #define CHROME_BROWSER_ASH_SETTINGS_SHUTDOWN_POLICY_FORWARDER_H_
 

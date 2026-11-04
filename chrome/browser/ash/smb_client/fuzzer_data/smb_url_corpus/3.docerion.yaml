@@ -1,0 +1,4 @@
+# Docerion header of 3.
+type: test
+title: 'Fuzzer corpus entry 3: bare IP address'
+summary: Fuzzer seed input containing a bare IPv4 address.

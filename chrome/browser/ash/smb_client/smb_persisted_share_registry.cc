@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persisted SMB share registry implementation
+// summary: Implements saving, deleting and reading of saved SMB shares in user prefs, including base64 encoding of password salts.
+// ---
+
 #include "chrome/browser/ash/smb_client/smb_persisted_share_registry.h"
 
 #include <utility>

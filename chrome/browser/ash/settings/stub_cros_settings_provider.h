@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Stub Cros settings provider header
+// summary: Declares StubCrosSettingsProvider, an in-memory CrosSettingsProvider for tests that stores settings unsigned and can emulate non-owner behavior.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SETTINGS_STUB_CROS_SETTINGS_PROVIDER_H_
 #define CHROME_BROWSER_ASH_SETTINGS_STUB_CROS_SETTINGS_PROVIDER_H_
 

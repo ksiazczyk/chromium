@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Lorgnette scanner manager unit tests
+// summary: Unit tests covering scanner detection, deduplication, filtering, and scanning flows of LorgnetteScannerManager using fake lorgnette and zeroconf clients.
+// ---
+
 #include "chrome/browser/ash/scanning/lorgnette_scanner_manager.h"
 
 #include <cstdint>

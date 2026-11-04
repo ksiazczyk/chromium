@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for smb_client fileapi
+summary: Sets include rules for the directory, blocking //chrome dependencies while allowing chrome/browser/ash fileapi and smb_client includes.

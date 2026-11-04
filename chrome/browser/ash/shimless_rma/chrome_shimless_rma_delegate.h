@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Shimless RMA delegate header
+// summary: Declares ChromeShimlessRmaDelegate, the Chrome implementation of the ShimlessRmaDelegate interface used by the Shimless RMA WebUI backend.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SHIMLESS_RMA_CHROME_SHIMLESS_RMA_DELEGATE_H_
 #define CHROME_BROWSER_ASH_SHIMLESS_RMA_CHROME_SHIMLESS_RMA_DELEGATE_H_
 

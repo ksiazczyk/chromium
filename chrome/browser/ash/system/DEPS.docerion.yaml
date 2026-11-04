@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for ash system
+summary: Specifies allowed include rules for the directory, restricting //chrome dependencies and allowing test-only exceptions.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: About flags storage for ChromeOS device settings
+// summary: Implements owner and read-only flags storage plus helpers that sync feature flags between preferences, device settings, and session_manager.
+// ---
+
 #include "chrome/browser/ash/settings/about_flags.h"
 
 #include <string_view>

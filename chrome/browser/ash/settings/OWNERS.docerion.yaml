@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the ash settings directory
+summary: Delegates directory ownership to the ChromeOS ash components settings OWNERS file.

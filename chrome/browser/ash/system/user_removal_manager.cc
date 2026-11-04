@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: User removal manager implementation
+// summary: Implements remote-admin-initiated removal of all device users at the login screen, guarded by a persisted pref and a failsafe logout timer.
+// ---
+
 #include "chrome/browser/ash/system/user_removal_manager.h"
 
 #include <utility>

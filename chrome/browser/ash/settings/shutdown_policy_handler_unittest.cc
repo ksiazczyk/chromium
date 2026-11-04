@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shutdown policy handler unit tests
+// summary: Unit tests verifying that ShutdownPolicyHandler notifies its delegate with the trusted DeviceRebootOnShutdown policy on setting changes and manual updates.
+// ---
+
 #include "chrome/browser/ash/settings/shutdown_policy_handler.h"
 
 #include "base/functional/bind.h"

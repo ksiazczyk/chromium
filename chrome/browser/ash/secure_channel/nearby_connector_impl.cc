@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbyConnectorImpl implementation
+// summary: Implements NearbyConnectorImpl, which queues connection requests, holds a reference to the Nearby utility process, and manages active connection attempts and brokers.
+// ---
+
 #include "chrome/browser/ash/secure_channel/nearby_connector_impl.h"
 
 #include "base/functional/bind.h"

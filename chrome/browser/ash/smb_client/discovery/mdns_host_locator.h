@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MDnsHostLocator header
+// summary: Declares the mDNS-based HostLocator implementation with an IO-thread implementation class and callback plumbing.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SMB_CLIENT_DISCOVERY_MDNS_HOST_LOCATOR_H_
 #define CHROME_BROWSER_ASH_SMB_CLIENT_DISCOVERY_MDNS_HOST_LOCATOR_H_
 

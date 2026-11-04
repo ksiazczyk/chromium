@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMB user name parsing helper declarations
+// summary: Declares parsing helpers for user principal names, down-level logon names and plain user names used for SMB authentication.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SMB_CLIENT_SMB_SERVICE_HELPER_H_
 #define CHROME_BROWSER_ASH_SMB_CLIENT_SMB_SERVICE_HELPER_H_
 

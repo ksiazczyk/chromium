@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMB provider implementation
+// summary: Implements SmbProvider, which registers SMB shares as a native file system provider and shows the SMB share dialog for mount requests.
+// ---
+
 #include "chrome/browser/ash/smb_client/smb_provider.h"
 
 #include <utility>

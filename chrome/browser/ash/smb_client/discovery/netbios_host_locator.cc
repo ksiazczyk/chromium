@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetBIOS host locator implementation
+// summary: Implements the NetBIOS host locator that computes broadcast addresses per network interface and aggregates NetBIOS discovery results.
+// ---
+
 #include "chrome/browser/ash/smb_client/discovery/netbios_host_locator.h"
 
 #include <memory>

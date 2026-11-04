@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScanService class declaration
+// summary: Declares ScanService, the KeyedService implementing the ScanService and MultiPageScanController Mojo interfaces for the scanning WebUI.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SCANNING_SCAN_SERVICE_H_
 #define CHROME_BROWSER_ASH_SCANNING_SCAN_SERVICE_H_
 

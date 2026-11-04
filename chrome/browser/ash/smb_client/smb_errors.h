@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SMB mount result enum and error translation API
+// summary: Declares the SmbMountResult enum used in logs and metrics plus the error translation function.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SMB_CLIENT_SMB_ERRORS_H_
 #define CHROME_BROWSER_ASH_SMB_CLIENT_SMB_ERRORS_H_
 

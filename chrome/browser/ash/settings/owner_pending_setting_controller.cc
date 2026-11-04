@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OwnerPendingSettingController implementation
+// summary: Implements handling of device settings set before ownership is taken, storing pending values in local state until ownership is taken and they can be signed.
+// ---
+
 #include "chrome/browser/ash/settings/owner_pending_setting_controller.h"
 
 #include <string>

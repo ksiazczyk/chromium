@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Persisted SMB share registry unit tests
+// summary: Unit tests for SmbPersistedShareRegistry covering save, get, replace, delete and enumeration of saved SMB shares.
+// ---
+
 #include "chrome/browser/ash/smb_client/smb_persisted_share_registry.h"
 
 #include "base/check_deref.h"

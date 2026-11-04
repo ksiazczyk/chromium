@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the SMB discovery directory
+summary: Restricts ChromeOS dependencies on //chrome while allowing includes from chrome/browser/ash/smb_client.

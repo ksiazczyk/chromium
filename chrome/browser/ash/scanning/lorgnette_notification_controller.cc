@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lorgnette notification controller implementation
+// summary: Shows user notifications when scanner-related DLCs such as SANE backends install or fail, observing DLC state changes per user.
+// ---
+
 #include "chrome/browser/ash/scanning/lorgnette_notification_controller.h"
 
 #include <memory>

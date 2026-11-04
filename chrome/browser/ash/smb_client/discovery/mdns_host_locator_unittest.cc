@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: mDNS host locator unit tests
+// summary: Unit tests for MDnsHostLocator verifying that RemoveLocal strips the .local suffix from hostnames.
+// ---
+
 #include "chrome/browser/ash/smb_client/discovery/mdns_host_locator.h"
 #include "testing/gtest/include/gtest/gtest.h"
 

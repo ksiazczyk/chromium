@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for SyncAppsyncOptinClient
+// summary: Tests that SyncAppsyncOptinClient creates directories and writes the opt-in file correctly using a fake user manager and test sync service.
+// ---
+
 #include "chrome/browser/ash/sync/sync_appsync_optin_client.h"
 
 #include <memory>

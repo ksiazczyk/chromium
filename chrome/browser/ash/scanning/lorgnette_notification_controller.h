@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lorgnette notification controller header
+// summary: Declares LorgnetteNotificationController, which observes DLC service state changes and shows message center notifications for scanning DLC installations.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_SCANNING_LORGNETTE_NOTIFICATION_CONTROLLER_H_
 #define CHROME_BROWSER_ASH_SCANNING_LORGNETTE_NOTIFICATION_CONTROLLER_H_
 

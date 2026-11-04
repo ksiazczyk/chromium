@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: config
+# title: Multi-page scan integration test metadata
+# summary: Test harness metadata defining the MultiPageScanIntegrationTest case, its owners, criteria, and tags for the crosier harness.
+# ---
+
 # Schema can be found at: platform/dev/test/gtest/gtest_schema.yaml
 ---
 name: "MultiPageScanIntegrationTest"

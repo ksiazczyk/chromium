@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SyncAppsyncService unit tests
+// summary: Unit tests for the Ash SyncAppsyncService using a mock sync service and fake user manager, including a shutdown crash check.
+// ---
+
 #include "chrome/browser/ash/sync/sync_appsync_service.h"
 #include <memory>
 
