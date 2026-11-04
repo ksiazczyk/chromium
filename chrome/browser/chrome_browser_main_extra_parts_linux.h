@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux extra parts header
+// summary: Declares ChromeBrowserMainExtraPartsLinux, extending the Ozone extra parts with display server support reporting.
+// ---
+
 #ifndef CHROME_BROWSER_CHROME_BROWSER_MAIN_EXTRA_PARTS_LINUX_H_
 #define CHROME_BROWSER_CHROME_BROWSER_MAIN_EXTRA_PARTS_LINUX_H_
 

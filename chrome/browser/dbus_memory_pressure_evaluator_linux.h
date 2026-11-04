@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux D-Bus memory pressure evaluator class
+// summary: Declares the DbusMemoryPressureEvaluatorLinux class that translates low-memory-monitor D-Bus signals into Chrome memory pressure levels.
+// ---
+
 #ifndef CHROME_BROWSER_DBUS_MEMORY_PRESSURE_EVALUATOR_LINUX_H_
 #define CHROME_BROWSER_DBUS_MEMORY_PRESSURE_EVALUATOR_LINUX_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme resource ID lookup implementation
+// summary: Builds a combined map of resource names to IDs from several resource maps and looks up theme resource IDs by name.
+// ---
+
 #include "chrome/browser/resources_util.h"
 
 #include <stddef.h>

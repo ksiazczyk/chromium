@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserProcessPlatformPartBase implementation
+// summary: Implements the platform-neutral base of the browser process platform part, exiting the application by closing all browsers on desktop platforms.
+// ---
+
 #include "chrome/browser/browser_process_platform_part_base.h"
 
 #include "base/notreached.h"

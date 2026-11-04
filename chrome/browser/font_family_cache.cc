@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Font family cache implementation
+// summary: Implements a per-profile cache of script font family preferences so WebPreferences computation avoids repeated PrefService lookups and map rebuilds.
+// ---
+
 
 #include "chrome/browser/font_family_cache.h"
 

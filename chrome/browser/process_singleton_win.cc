@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows ProcessSingleton implementation
+// summary: Implements the Windows process singleton using mutexes, a lockfile and WM_COPYDATA messaging to notify an already running Chrome instance.
+// ---
+
 #include "chrome/browser/process_singleton.h"
 
 #include <windows.h>

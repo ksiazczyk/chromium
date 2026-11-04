@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mojo binder policies for prerendering
+// summary: Registers Mojo binder policies that govern which frame interfaces may be bound during same-origin prerendering.
+// ---
+
 #include "chrome/browser/chrome_content_browser_client_binder_policies.h"
 
 #include "chrome/browser/ui/webui/bluetooth_internals/bluetooth_internals.mojom.h"

@@ -1,0 +1,4 @@
+# Docerion header of app_controller_mac_browsertest.mm.
+type: test
+title: Mac application controller browser tests
+summary: Browser tests for the macOS AppController covering bookmarks, profiles, quit confirmation, and session behavior.

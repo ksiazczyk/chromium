@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chained back navigation tracker browser tests
+// summary: Browser tests verifying how subframe and renderer-initiated back navigations affect the chained back navigation count.
+// ---
+
 #include "chrome/browser/chained_back_navigation_tracker.h"
 
 #include "base/test/bind.h"

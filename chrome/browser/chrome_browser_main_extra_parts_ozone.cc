@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ozone extra parts implementation
+// summary: Implements Ozone platform extra parts that wire session-ending shutdown callbacks into the Ozone platform during message loop setup and teardown.
+// ---
+
 #include "chrome/browser/chrome_browser_main_extra_parts_ozone.h"
 
 #include "base/functional/bind.h"

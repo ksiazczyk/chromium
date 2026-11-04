@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for process singleton relaunch
+// summary: Browser tests verifying that relaunching Chrome reuses the running process, opening new windows or tabs instead of a second instance.
+// ---
+
 #include "base/command_line.h"
 #include "base/process/launch.h"
 #include "base/run_loop.h"

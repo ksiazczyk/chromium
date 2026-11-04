@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome process singleton implementation
+// summary: Implements ChromeProcessSingleton, composing ProcessSingleton with a startup lock and adding a Windows prefetch parameter override for short-lived browser processes.
+// ---
+
 #include "chrome/browser/chrome_process_singleton.h"
 
 #include <utility>

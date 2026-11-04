@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Font pref change notifier class declaration
+// summary: Declares the per-profile FontPrefChangeNotifier keyed service that filters font preference changes and dispatches them to registered observers.
+// ---
+
 #ifndef CHROME_BROWSER_FONT_PREF_CHANGE_NOTIFIER_H_
 #define CHROME_BROWSER_FONT_PREF_CHANGE_NOTIFIER_H_
 

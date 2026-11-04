@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Font family cache unit tests
+// summary: Unit tests verifying that the font family cache is filled, reused on repeated access, and updated when the underlying font preferences change.
+// ---
+
 #include "chrome/browser/font_family_cache.h"
 
 #include "base/strings/utf_string_conversions.h"

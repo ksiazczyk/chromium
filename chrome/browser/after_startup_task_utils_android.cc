@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android startup completion JNI bridge
+// summary: Android JNI glue that signals browser startup completion from Java via AfterStartupTaskUtils.
+// ---
+
 #include "chrome/browser/after_startup_task_utils.h"
 
 // Must come after all headers that specialize FromJniType() / ToJniType().

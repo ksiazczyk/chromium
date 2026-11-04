@@ -1,0 +1,4 @@
+# Docerion header of app_controller_mac_google_chrome_scheme_browsertest.mm.
+type: test
+title: Chrome URL scheme browser tests
+summary: Browser tests verifying that branded Chrome scheme URLs open the target page, set an opaque initiator, and reject invalid URLs.

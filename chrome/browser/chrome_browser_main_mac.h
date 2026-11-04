@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac-specific browser main parts header
+// summary: Declares ChromeBrowserMainPartsMac, the macOS browser startup class handling login-item launch behavior, Mac metrics, and code-sign clone management.
+// ---
+
 #ifndef CHROME_BROWSER_CHROME_BROWSER_MAIN_MAC_H_
 #define CHROME_BROWSER_CHROME_BROWSER_MAIN_MAC_H_
 

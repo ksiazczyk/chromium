@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Safe XML parser browser tests
+// summary: Browser and fuzz tests verifying that XML parsing through the isolated data decoder matches expected JSON representations or fails.
+// ---
+
 #include "services/data_decoder/public/cpp/safe_xml_parser.h"
 
 #include <memory>

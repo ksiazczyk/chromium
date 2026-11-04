@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome process singleton header
+// summary: Declares the ChromeProcessSingleton class, which queues notifications until unlock and exposes singleton instance management and Windows feature initialization.
+// ---
+
 #ifndef CHROME_BROWSER_CHROME_PROCESS_SINGLETON_H_
 #define CHROME_BROWSER_CHROME_PROCESS_SINGLETON_H_
 

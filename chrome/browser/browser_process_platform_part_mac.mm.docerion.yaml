@@ -1,0 +1,4 @@
+# Docerion header of browser_process_platform_part_mac.mm.
+type: source
+title: Mac BrowserProcessPlatformPart implementation
+summary: Implements macOS quit confirmation and termination handling, app shim manager and listener setup, and geolocation permission manager initialization at startup.

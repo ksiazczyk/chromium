@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcessSingleton metrics helpers
+// summary: Emits UMA histograms and trace events for remote process interaction results and hung process termination reasons.
+// ---
+
 #include "chrome/browser/process_singleton_internal.h"
 
 #include "base/metrics/histogram_macros.h"

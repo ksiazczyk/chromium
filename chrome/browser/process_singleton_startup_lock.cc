@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcessSingletonStartupLock implementation
+// summary: Implements a notification callback that queues command-line invocations received during startup and replays them once the lock is unlocked.
+// ---
+
 #include "chrome/browser/process_singleton_startup_lock.h"
 
 #include "base/check_op.h"

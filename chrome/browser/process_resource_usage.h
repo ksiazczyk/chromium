@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process resource usage class header
+// summary: Declares ProcessResourceUsage, a thread-hostile wrapper around the ResourceUsageReporter Mojo service exposing child process memory and cache usage.
+// ---
+
 #ifndef CHROME_BROWSER_PROCESS_RESOURCE_USAGE_H_
 #define CHROME_BROWSER_PROCESS_RESOURCE_USAGE_H_
 

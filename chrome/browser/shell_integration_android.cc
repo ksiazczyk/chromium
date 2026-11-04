@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android shell integration stubs
+// summary: Provides unimplemented Android stubs that return defaults for default browser and scheme client queries.
+// ---
+
 #include "chrome/browser/shell_integration.h"
 
 namespace shell_integration {

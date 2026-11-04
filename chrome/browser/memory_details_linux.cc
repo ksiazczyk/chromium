@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux implementation of MemoryDetails
+// summary: Implements MemoryDetails on Linux by enumerating system processes and collecting memory, open file descriptor, and child process information for the browser.
+// ---
+
 #include "chrome/browser/memory_details.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser feature flag definitions
+// summary: Defines browser-specific base::Feature flags such as certificate transparency, profile destruction, and prerender triggers.
+// ---
+
 #include "chrome/browser/browser_features.h"
 
 #include "base/feature_list.h"

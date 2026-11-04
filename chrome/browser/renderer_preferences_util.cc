@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Renderer preferences utility implementation
+// summary: Updates blink renderer preferences from profile and system settings, including WebRTC IP handling policy, port ranges and language lists.
+// ---
+
 #include "chrome/browser/renderer_preferences_util.h"
 
 #include <stdint.h>

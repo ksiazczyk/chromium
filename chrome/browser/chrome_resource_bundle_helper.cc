@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resource bundle and locale initialization helper
+// summary: Implements local state loading and ResourceBundle initialization that determines the application locale, with platform-specific handling for Android, ChromeOS, and Mac.
+// ---
+
 #include "chrome/browser/chrome_resource_bundle_helper.h"
 
 #include "base/command_line.h"

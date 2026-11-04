@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS shell integration
+// summary: Implements shell integration for ChromeOS, where Chrome is always the default system browser and the launch scheme depends on branding.
+// ---
+
 #include "chrome/browser/shell_integration.h"
 #include "build/branding_buildflags.h"
 

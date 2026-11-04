@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for Ozone platform init failure
+// summary: Browser test verifying that the browser exits gracefully with the expected code when Ozone platform initialization fails.
+// ---
+
 #include "chrome/test/base/in_process_browser_test.h"
 #include "content/public/test/browser_test.h"
 #include "ui/ozone/public/ozone_platform.h"

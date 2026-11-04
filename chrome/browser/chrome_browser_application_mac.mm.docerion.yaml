@@ -1,0 +1,4 @@
+# Docerion header of chrome_browser_application_mac.mm.
+type: source
+title: Chrome browser application macOS implementation
+summary: Implements BrowserCrApplication with event forwarding, accessibility activation handling, and crash key diagnostics for macOS.

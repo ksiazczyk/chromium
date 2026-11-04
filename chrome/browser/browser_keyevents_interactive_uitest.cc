@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser key events interactive UI test
+// summary: Interactive UI test that drives keydown, keypress, keyup and textInput events in browser tabs and checks suppression and results.
+// ---
+
 #include <stddef.h>
 
 #include <array>

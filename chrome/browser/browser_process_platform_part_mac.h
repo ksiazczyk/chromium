@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac BrowserProcessPlatformPart class header
+// summary: Declares the macOS browser process platform part, exposing the app shim listener and manager plus key window notification.
+// ---
+
 #ifndef CHROME_BROWSER_BROWSER_PROCESS_PLATFORM_PART_MAC_H_
 #define CHROME_BROWSER_BROWSER_PROCESS_PLATFORM_PART_MAC_H_
 

@@ -7,6 +7,12 @@
 // if we tried to create a service, and not try creating it over and over if
 // the creation failed.
 
+// ---docerion
+// type: source
+// title: BrowserProcessImpl header
+// summary: Declares BrowserProcessImpl, the real BrowserProcess that creates and returns browser services and tracks their initialization.
+// ---
+
 #ifndef CHROME_BROWSER_BROWSER_PROCESS_IMPL_H_
 #define CHROME_BROWSER_BROWSER_PROCESS_IMPL_H_
 

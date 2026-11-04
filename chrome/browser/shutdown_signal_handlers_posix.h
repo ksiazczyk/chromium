@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX shutdown signal handlers header
+// summary: Declares installation of POSIX shutdown signal handlers and re-raising of termination signals so supervisors see death by signal.
+// ---
+
 #ifndef CHROME_BROWSER_SHUTDOWN_SIGNAL_HANDLERS_POSIX_H_
 #define CHROME_BROWSER_SHUTDOWN_SIGNAL_HANDLERS_POSIX_H_
 

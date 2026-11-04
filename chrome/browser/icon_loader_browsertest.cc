@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IconLoader browser tests
+// summary: Browser tests verifying that icons load for file type groups across platforms and for Windows executables, including nonexistent files.
+// ---
+
 #include "base/files/file_path.h"
 #include "base/path_service.h"
 #include "base/run_loop.h"

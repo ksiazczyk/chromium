@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: macOS shutdown watchdog unit tests
+// summary: Unit tests verifying that macOS shutdown watchdog entry points are safe and non-blocking when watchdogs are disabled under test-type.
+// ---
+
 #include "chrome/browser/shutdown_watchdog_mac.h"
 
 #include "base/command_line.h"

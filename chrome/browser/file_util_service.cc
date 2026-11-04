@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File utility service launcher
+// summary: Launches the FileUtil service in an isolated sandboxed process via ServiceProcessHost and returns a Mojo remote for controlling it.
+// ---
+
 #include "chrome/browser/file_util_service.h"
 
 #include "chrome/grit/generated_resources.h"

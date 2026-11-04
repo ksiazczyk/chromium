@@ -1,0 +1,4 @@
+# Docerion header of global_keyboard_shortcuts_interactive_uitest_mac.mm.
+type: test
+title: macOS global keyboard shortcuts interactive UI tests
+summary: Interactive UI tests verifying macOS global keyboard shortcuts such as Ctrl+Tab tab switching, Cmd+2 tab selection, and Cmd+left arrow history navigation.

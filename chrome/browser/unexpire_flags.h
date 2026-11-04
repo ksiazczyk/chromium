@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flag expiration check declarations
+// summary: Declares IsFlagExpired and a testing helper to override a flag's expiration milestone.
+// ---
+
 #ifndef CHROME_BROWSER_UNEXPIRE_FLAGS_H_
 #define CHROME_BROWSER_UNEXPIRE_FLAGS_H_
 

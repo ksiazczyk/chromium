@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResourcesUtil class declaration
+// summary: Declares the static GetThemeResourceId helper that returns a theme resource ID for a resource name or -1 if none exists.
+// ---
+
 #ifndef CHROME_BROWSER_RESOURCES_UTIL_H_
 #define CHROME_BROWSER_RESOURCES_UTIL_H_
 

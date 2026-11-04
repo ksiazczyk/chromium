@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX shutdown signal handlers
+// summary: Installs SIGTERM, SIGINT and SIGHUP handlers on POSIX systems and runs a detector thread that triggers graceful browser shutdown.
+// ---
+
 #include "chrome/browser/shutdown_signal_handlers_posix.h"
 
 #include <limits.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeContentBrowserClient class header
+// summary: Declares ChromeContentBrowserClient, Chrome's implementation of the content layer's ContentBrowserClient that hooks browser behavior into Chromium's content API.
+// ---
+
 #ifndef CHROME_BROWSER_CHROME_CONTENT_BROWSER_CLIENT_H_
 #define CHROME_BROWSER_CHROME_CONTENT_BROWSER_CLIENT_H_
 

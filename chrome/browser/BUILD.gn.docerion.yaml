@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Chrome browser BUILD.gn build configuration
+summary: Defines GN build targets, configs, and buildflag headers for the Chrome browser directory.

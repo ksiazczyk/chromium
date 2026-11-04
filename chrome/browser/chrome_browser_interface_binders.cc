@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome browser interface binders
+// summary: Registers Mojo interface binder callbacks for Chrome-specific document-scoped browser interfaces exposed to renderers.
+// ---
+
 #include "chrome/browser/chrome_browser_interface_binders.h"
 
 #include <utility>

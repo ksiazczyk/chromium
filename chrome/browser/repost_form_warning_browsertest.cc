@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Repost form warning browser tests
+// summary: Browser tests for the form repost warning dialog, checking double reload behavior and login after a repost prompt.
+// ---
+
 #include "base/test/run_until.h"
 #include "build/build_config.h"
 #include "chrome/app/chrome_command_ids.h"

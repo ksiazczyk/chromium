@@ -1,0 +1,4 @@
+# Docerion header of shell_integration_mac_unittest.mm.
+type: test
+title: macOS shell integration unit tests
+summary: Tests GetDirectLaunchUrlScheme across Chrome channels on branded builds and for Chromium on unbranded builds.

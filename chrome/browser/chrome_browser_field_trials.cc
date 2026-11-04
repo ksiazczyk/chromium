@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome browser field trials
+// summary: Sets up client-side, fallback, and sampling field trials plus feature overrides for the Chrome browser.
+// ---
+
 #include "chrome/browser/chrome_browser_field_trials.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome browser application for macOS
+// summary: Declares BrowserCrApplication, an NSApplication subclass, plus helpers to start and cancel application termination.
+// ---
+
 #ifndef CHROME_BROWSER_CHROME_BROWSER_APPLICATION_MAC_H_
 #define CHROME_BROWSER_CHROME_BROWSER_APPLICATION_MAC_H_
 

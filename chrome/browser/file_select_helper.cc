@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File select helper implementation
+// summary: Implements handling of file chooser requests from renderers, including dialogs, directory enumeration, and enterprise content analysis.
+// ---
+
 #include "chrome/browser/file_select_helper.h"
 
 #include <stddef.h>

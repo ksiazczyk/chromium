@@ -1,0 +1,4 @@
+# Docerion header of file_select_helper_mac.mm.
+type: source
+title: File select helper Mac support
+summary: Mac-specific file selection code that zips selected packages safely, skipping external or broken symlinks to prevent file leakage.

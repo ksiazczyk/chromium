@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for origin trial policy
+// summary: Browser tests verifying the origin trial policy, including disabled feature lists and disabled trial tokens surfaced via switches and prefs.
+// ---
+
 #include <algorithm>
 #include <bitset>
 #include <string_view>

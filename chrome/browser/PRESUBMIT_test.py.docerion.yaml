@@ -1,0 +1,4 @@
+# Docerion header of PRESUBMIT_test.py.
+type: test
+title: Presubmit script unit tests
+summary: Unit tests verifying the checks implemented in the browser PRESUBMIT.py script.

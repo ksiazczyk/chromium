@@ -1,0 +1,4 @@
+# Docerion header of icon_loader_mac.mm.
+type: source
+title: IconLoader macOS implementation
+summary: macOS implementation of IconLoader that determines UTI-based icon groups and fetches icons via NSWorkspace.

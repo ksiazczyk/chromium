@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser process platform part Ash browser tests
+// summary: Browser tests for the ChromeOS browser process platform part, covering startup URL restoration after crashes, kiosk sessions, incognito and profile keep-alive behavior.
+// ---
+
 #include "chrome/browser/browser_process_platform_part_ash.h"
 
 #include "ash/constants/ash_features.h"

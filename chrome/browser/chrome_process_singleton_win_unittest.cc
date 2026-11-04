@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome process singleton Windows unit tests
+// summary: Unit tests verifying singleton notification, startup lock queuing, and the Windows prefetch override error histogram behavior.
+// ---
+
 #include "chrome/browser/chrome_process_singleton.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Allocation recorder crash report browser test
+// summary: Browser test verifying that renderer crashes produce crashpad reports with or without the allocation recorder stream.
+// ---
+
 #include "base/debug/debugging_buildflags.h"
 #include "base/files/scoped_temp_dir.h"
 #include "base/path_service.h"

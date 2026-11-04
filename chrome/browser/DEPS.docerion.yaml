@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Chrome browser dependency rules (DEPS)
+summary: Specifies allowed and forbidden include dependencies for code in the chrome/browser directory.

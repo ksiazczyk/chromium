@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform util internal header
+// summary: Declares internal platform_util hooks for platform-specific opening of verified items and test-only controls for shell operations.
+// ---
+
 #ifndef CHROME_BROWSER_PLATFORM_UTIL_INTERNAL_H_
 #define CHROME_BROWSER_PLATFORM_UTIL_INTERNAL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Command updater interface
+// summary: Defines the CommandUpdater public API for managing the enabled state of a set of commands, executing them, and registering observers.
+// ---
+
 #ifndef CHROME_BROWSER_COMMAND_UPDATER_H_
 #define CHROME_BROWSER_COMMAND_UPDATER_H_
 

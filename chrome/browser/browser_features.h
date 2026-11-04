@@ -10,6 +10,12 @@
 // This file defines the browser-specific base::FeatureList features that are
 // not shared with other process types.
 
+// ---docerion
+// type: source
+// title: Browser feature flag declarations
+// summary: Declares browser-specific feature flags and parameters shared across the Chrome browser code.
+// ---
+
 #ifndef CHROME_BROWSER_BROWSER_FEATURES_H_
 #define CHROME_BROWSER_BROWSER_FEATURES_H_
 

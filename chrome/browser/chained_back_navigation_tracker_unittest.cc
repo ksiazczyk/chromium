@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chained back navigation tracker unit tests
+// summary: Unit tests covering chained back navigation counting, resets after long intervals or non-back navigations, and back button click tracking.
+// ---
+
 #include "chrome/browser/chained_back_navigation_tracker.h"
 
 #include "base/strings/string_number_conversions.h"

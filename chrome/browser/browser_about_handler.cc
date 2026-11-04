@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser about handler implementation
+// summary: Implements rewriting of the chrome about host to the chrome-urls listing and handles non-navigation about URLs that trigger browser restart or exit, checking policy blocklists first.
+// ---
+
 #include "chrome/browser/browser_about_handler.h"
 
 #include <string>

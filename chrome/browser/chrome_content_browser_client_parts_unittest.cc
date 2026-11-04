@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeContentBrowserClientParts unit tests
+// summary: Unit tests verifying that ChromeContentBrowserClientParts can expose Mojo interfaces to renderers and child processes.
+// ---
+
 #include "chrome/browser/chrome_content_browser_client_parts.h"
 
 #include <memory>

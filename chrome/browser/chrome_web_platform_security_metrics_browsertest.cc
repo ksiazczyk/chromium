@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web platform security metrics browser tests
+// summary: Browser tests verifying UKM logging of web platform security features from the chrome layer, since content-level metrics logging cannot be tested there.
+// ---
+
 #include <memory>
 #include <string>
 #include <string_view>

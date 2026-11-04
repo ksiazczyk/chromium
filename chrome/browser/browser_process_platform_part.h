@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserProcessPlatformPart platform selector
+// summary: Header that selects the platform-specific BrowserProcessPlatformPart implementation for Android, ChromeOS, Mac or the base fallback.
+// ---
+
 #ifndef CHROME_BROWSER_BROWSER_PROCESS_PLATFORM_PART_H_
 #define CHROME_BROWSER_BROWSER_PROCESS_PLATFORM_PART_H_
 

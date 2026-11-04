@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows platform utility implementation
+// summary: Windows implementation of platform utilities that shows items in Explorer and opens files and external URLs through the shell.
+// ---
+
 #include "chrome/browser/platform_util.h"
 
 #include <windows.h>  // Must be in front of other Windows header files.

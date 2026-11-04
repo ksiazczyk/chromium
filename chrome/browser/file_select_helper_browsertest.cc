@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: File select helper browser tests
+// summary: Browser tests checking that file chooser dialogs are suppressed for background tabs and that pickers can be reopened after cancellation.
+// ---
+
 #include "chrome/browser/file_select_helper.h"
 
 #include "base/test/run_until.h"

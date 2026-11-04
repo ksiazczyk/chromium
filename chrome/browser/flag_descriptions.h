@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Flag name and description string declarations
+// summary: Declares constant strings giving the names and descriptions of browser flags shown in the flags UI, aimed at developers and testers rather than end users.
+// ---
+
 #ifndef CHROME_BROWSER_FLAG_DESCRIPTIONS_H_
 #define CHROME_BROWSER_FLAG_DESCRIPTIONS_H_
 

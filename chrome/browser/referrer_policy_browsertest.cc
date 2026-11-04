@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Referrer policy browser tests
+// summary: Browser tests verifying that HTTP requests carry the expected Referer header across navigation, context menu and tab scenarios.
+// ---
+
 #include <memory>
 #include <string_view>
 

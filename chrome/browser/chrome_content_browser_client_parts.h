@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeContentBrowserClientParts base class
+// summary: Declares the ChromeContentBrowserClientParts interface for platform- and feature-specific parts of the Chrome content browser client.
+// ---
+
 #ifndef CHROME_BROWSER_CHROME_CONTENT_BROWSER_CLIENT_PARTS_H_
 #define CHROME_BROWSER_CHROME_CONTENT_BROWSER_CLIENT_PARTS_H_
 

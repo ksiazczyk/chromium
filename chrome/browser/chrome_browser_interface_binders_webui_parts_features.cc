@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Feature-gated WebUI interface binder parts
+// summary: Registers WebUI frame binders and interface brokers for buildflag-gated features such as Compose, Glic, signin, and certificate management.
+// ---
+
 #include "build/android_buildflags.h"
 #include "build/build_config.h"
 #include "chrome/browser/chrome_browser_interface_binders_webui_parts.h"

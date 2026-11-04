@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IconLoader Windows implementation
+// summary: Windows implementation of IconLoader that reads file icons, using a sandboxed icon reader service for files that must be parsed.
+// ---
+
 #include "chrome/browser/icon_loader.h"
 
 #include <windows.h>

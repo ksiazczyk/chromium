@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome browser main parts header
+// summary: Declares ChromeBrowserMainParts, the class coordinating Chrome's staged browser startup and shutdown with hooks for extra parts and platform subclasses.
+// ---
+
 #ifndef CHROME_BROWSER_CHROME_BROWSER_MAIN_H_
 #define CHROME_BROWSER_CHROME_BROWSER_MAIN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome browser interface binders header
+// summary: Declares PopulateChromeFrameBinders, which registers BrowserInterfaceBroker handlers for Chrome-specific document-scoped interfaces.
+// ---
+
 #ifndef CHROME_BROWSER_CHROME_BROWSER_INTERFACE_BINDERS_H_
 #define CHROME_BROWSER_CHROME_BROWSER_INTERFACE_BINDERS_H_
 

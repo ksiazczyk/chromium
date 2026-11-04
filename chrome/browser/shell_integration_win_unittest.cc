@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows shell integration unit tests
+// summary: Unit tests for Windows shell integration, covering shortcut migration and app user model ID generation for browser and app windows.
+// ---
+
 #include "chrome/browser/shell_integration_win.h"
 
 #include <stddef.h>

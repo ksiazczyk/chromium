@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test that best-effort tasks wait for startup
+// summary: Browser test verifying that BEST_EFFORT tasks posted before browser startup completes are deferred until startup finishes, including during slow startup.
+// ---
+
 #include <atomic>
 
 #include "base/barrier_closure.h"

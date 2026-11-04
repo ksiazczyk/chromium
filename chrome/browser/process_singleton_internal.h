@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcessSingleton metrics helper declarations
+// summary: Declares internal functions that report ProcessSingleton remote interaction results and termination reasons as histograms.
+// ---
+
 #ifndef CHROME_BROWSER_PROCESS_SINGLETON_INTERNAL_H_
 #define CHROME_BROWSER_PROCESS_SINGLETON_INTERNAL_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of platform_util_mac.mm.
+type: source
+title: macOS platform utility implementation
+summary: macOS implementation of platform utilities that reveals files in Finder and opens files, folders and external URLs via NSWorkspace.

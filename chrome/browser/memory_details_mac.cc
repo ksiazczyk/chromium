@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mac implementation of MemoryDetails
+// summary: Implements MemoryDetails on macOS by collecting process, version, and open file descriptor information for Chrome browser and helper processes.
+// ---
+
 #include "chrome/browser/memory_details.h"
 
 #include <stddef.h>

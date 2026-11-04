@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome browser field trials unit test
+// summary: Unit tests verifying that Chrome browser client-side field trials create fallback metrics, crash, and UKM sampling trials on Windows and Android.
+// ---
+
 #include "chrome/browser/chrome_browser_field_trials.h"
 
 #include <memory>

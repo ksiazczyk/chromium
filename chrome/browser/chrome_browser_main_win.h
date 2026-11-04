@@ -4,6 +4,12 @@
 
 // Contains functions used by BrowserMain() that are win32-specific.
 
+// ---docerion
+// type: source
+// title: Windows browser main parts header
+// summary: Declares ChromeBrowserMainPartsWin and helpers for Windows startup, including uninstall handling, core DLL import resolution, and module watching.
+// ---
+
 #ifndef CHROME_BROWSER_CHROME_BROWSER_MAIN_WIN_H_
 #define CHROME_BROWSER_CHROME_BROWSER_MAIN_WIN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Intranet redirect detector class declaration
+// summary: Declares the IntranetRedirectDetector class, which tracks intranet redirect origins so the omnibox can avoid showing misleading infobars.
+// ---
+
 #ifndef CHROME_BROWSER_INTRANET_REDIRECT_DETECTOR_H_
 #define CHROME_BROWSER_INTRANET_REDIRECT_DETECTOR_H_
 

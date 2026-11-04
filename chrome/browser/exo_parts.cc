@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExoParts implementation
+// summary: Creates the exo Wayland server controller and ARC-related managers for ChromeOS when the ash Wayland server command-line switch is enabled.
+// ---
+
 #include "chrome/browser/exo_parts.h"
 
 #include <memory>

@@ -4,6 +4,12 @@
 
 // Defines various defaults whose values varies depending upon the OS.
 
+// ---docerion
+// type: source
+// title: Browser defaults declarations
+// summary: Declares the browser_defaults constants that vary by operating system, covering menus, bookmarks, incognito, and session restore behavior.
+// ---
+
 #ifndef CHROME_BROWSER_DEFAULTS_H_
 #define CHROME_BROWSER_DEFAULTS_H_
 

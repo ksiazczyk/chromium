@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android WebUI interface binder parts
+// summary: Android implementation registering WebUI frame binders and interface brokers for feeds, notifications, notebooks, history, and tab strip internals.
+// ---
+
 #include "chrome/browser/chrome_browser_interface_binders_webui_parts.h"
 
 #include "chrome/browser/ui/webui/chrome_finds_internals/chrome_finds_internals.mojom.h"

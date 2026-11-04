@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX browser main parts header
+// summary: Declares ChromeBrowserMainPartsPosix, the base browser startup class for POSIX platforms with early initialization and missing-locale handling.
+// ---
+
 #ifndef CHROME_BROWSER_CHROME_BROWSER_MAIN_POSIX_H_
 #define CHROME_BROWSER_CHROME_BROWSER_MAIN_POSIX_H_
 

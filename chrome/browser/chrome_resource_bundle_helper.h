@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resource bundle helper header
+// summary: Declares LoadLocalState, which loads local state and returns the application locale, with an empty value signaling a ResourceBundle load failure.
+// ---
+
 #ifndef CHROME_BROWSER_CHROME_RESOURCE_BUNDLE_HELPER_H_
 #define CHROME_BROWSER_CHROME_RESOURCE_BUNDLE_HELPER_H_
 

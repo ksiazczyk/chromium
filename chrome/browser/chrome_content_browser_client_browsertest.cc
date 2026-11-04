@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeContentBrowserClient browser tests
+// summary: In-process browser tests exercising ChromeContentBrowserClient behavior across content settings, enterprise connectors, guest views, and WebUI.
+// ---
+
 #include "chrome/browser/chrome_content_browser_client.h"
 
 #include <memory>

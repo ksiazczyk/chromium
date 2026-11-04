@@ -37,6 +37,12 @@
 // retrieves the process id from the symbol link and kills it by sending
 // SIGKILL. Then the second process starts as normal.
 
+// ---docerion
+// type: source
+// title: POSIX ProcessSingleton implementation
+// summary: Linux and POSIX ProcessSingleton implementation using a Unix domain socket, symlinked lock file and cookie to notify an existing browser process.
+// ---
+
 #include "chrome/browser/process_singleton.h"
 
 #include <errno.h>

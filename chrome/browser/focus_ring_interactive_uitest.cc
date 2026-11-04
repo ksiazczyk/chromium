@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Focus ring interactive UI tests
+// summary: Interactive browser tests that render focus rings and compare screenshots against golden images using fuzzy pixel comparators tuned per platform.
+// ---
+
 #include "base/files/file_util.h"
 #include "base/path_service.h"
 #include "base/threading/thread_restrictions.h"

@@ -17,6 +17,12 @@
 // New members should be added to GlobalFeatures, and be unconditionally
 // instantiated.
 
+// ---docerion
+// type: source
+// title: BrowserProcess interface
+// summary: Interface for process-wide features spanning profiles, exposing accessors to global browser services and guidance for adding new members.
+// ---
+
 #ifndef CHROME_BROWSER_BROWSER_PROCESS_H_
 #define CHROME_BROWSER_BROWSER_PROCESS_H_
 

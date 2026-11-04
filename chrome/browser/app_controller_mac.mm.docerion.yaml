@@ -1,0 +1,4 @@
+# Docerion header of app_controller_mac.mm.
+type: source
+title: Mac application controller implementation
+summary: Implements the macOS AppController, handling application events, profiles, sessions, and application termination.

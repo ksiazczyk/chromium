@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Linux D-Bus memory pressure evaluator unit tests
+// summary: Unit tests for the Linux D-Bus memory pressure evaluator using mock D-Bus buses and proxies to simulate LMM and portal services.
+// ---
+
 #include "chrome/browser/dbus_memory_pressure_evaluator_linux.h"
 
 #include <algorithm>

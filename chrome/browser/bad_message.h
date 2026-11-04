@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bad message reason enum and API
+// summary: Declares the BadMessageReason enum used for metrics and the ReceivedBadMessage function for handling bad IPC messages.
+// ---
+
 #ifndef CHROME_BROWSER_BAD_MESSAGE_H_
 #define CHROME_BROWSER_BAD_MESSAGE_H_
 

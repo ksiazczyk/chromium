@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Startup data implementation
+// summary: Implements StartupData, recording core system profile metrics at startup and initializing profile, policy and pref services for reduced mode on Android.
+// ---
+
 #include "chrome/browser/startup_data.h"
 
 #include <string_view>

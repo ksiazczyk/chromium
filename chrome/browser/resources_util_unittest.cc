@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ResourcesUtil unit tests
+// summary: Spot-checks that known resource names resolve to their expected IDs and unknown names return -1.
+// ---
+
 #include "chrome/browser/resources_util.h"
 
 #include <stddef.h>

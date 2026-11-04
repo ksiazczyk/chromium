@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Platform browser test for background window feature blocking
+// summary: Browser test verifying that ordinary web content cannot open windows with the 'background' window feature, even with transient user activation.
+// ---
+
 #include "chrome/test/base/chrome_test_utils.h"
 #include "chrome/test/base/platform_browser_test.h"
 #include "content/public/browser/web_contents.h"

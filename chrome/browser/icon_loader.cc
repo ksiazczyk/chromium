@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Asynchronous file icon loading
+// summary: Implements IconLoader, which loads icons for file paths at a requested size and scale on background task runners and reports results via callback.
+// ---
+
 #include "chrome/browser/icon_loader.h"
 
 #include <utility>

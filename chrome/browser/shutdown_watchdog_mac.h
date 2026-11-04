@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS shutdown watchdog header
+// summary: Declares emergency shutdown watchdog functions for macOS that bound SIGTERM and UI-initiated shutdowns and stand down when shutdown completes.
+// ---
+
 #ifndef CHROME_BROWSER_SHUTDOWN_WATCHDOG_MAC_H_
 #define CHROME_BROWSER_SHUTDOWN_WATCHDOG_MAC_H_
 

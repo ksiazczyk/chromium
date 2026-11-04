@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Per-file code owners for chrome/browser
+summary: Lists per-file code owners and review rules for files in the chrome/browser directory.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ozone extra parts header
+// summary: Declares ChromeBrowserMainExtraPartsOzone with message loop creation and teardown overrides for the Ozone display platform.
+// ---
+
 #ifndef CHROME_BROWSER_CHROME_BROWSER_MAIN_EXTRA_PARTS_OZONE_H_
 #define CHROME_BROWSER_CHROME_BROWSER_MAIN_EXTRA_PARTS_OZONE_H_
 

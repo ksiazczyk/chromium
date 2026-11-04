@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File select helper class declaration
+// summary: Declares FileSelectHelper, which manages file chooser dialogs and directory listing for renderer requests and lives on the UI thread.
+// ---
+
 #ifndef CHROME_BROWSER_FILE_SELECT_HELPER_H_
 #define CHROME_BROWSER_FILE_SELECT_HELPER_H_
 

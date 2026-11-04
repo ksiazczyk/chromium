@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IconLoader Android stub implementation
+// summary: Android implementation of IconLoader whose icon loading methods are unimplemented stubs that return empty results.
+// ---
+
 #include "chrome/browser/icon_loader.h"
 
 #include "base/notimplemented.h"

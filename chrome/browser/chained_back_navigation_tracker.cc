@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chained back navigation tracker implementation
+// summary: Tracks consecutive back navigations and back button clicks per tab to detect chained back navigation within a bounded time interval.
+// ---
+
 #include "chrome/browser/chained_back_navigation_tracker.h"
 
 #include "components/tabs/public/tab_interface.h"

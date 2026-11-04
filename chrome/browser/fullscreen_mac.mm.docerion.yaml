@@ -1,0 +1,4 @@
+# Docerion header of fullscreen_mac.mm.
+type: source
+title: macOS full screen mode detection
+summary: Implements IsFullScreenMode on macOS by inspecting the app's presentation options for hidden dock, hidden menu bar, and full screen modes.

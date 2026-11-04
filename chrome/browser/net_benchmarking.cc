@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NetBenchmarking Mojo service implementation
+// summary: Implements the NetBenchmarking Mojo interface to clear HTTP, host resolver, and predictor caches and close connections for network benchmarking.
+// ---
+
 #include "chrome/browser/net_benchmarking.h"
 
 #include <memory>

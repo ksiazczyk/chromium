@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Secure origin allowlist browser tests
+// summary: End-to-end browser tests checking that the insecure-origin-as-secure allowlist works when supplied via command line or policy variants.
+// ---
+
 #include "base/strings/utf_string_conversions.h"
 #include "base/test/scoped_feature_list.h"
 #include "build/build_config.h"

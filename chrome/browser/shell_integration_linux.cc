@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux shell integration implementation
+// summary: Implements default browser and scheme handler handling on Linux via xdg-settings, GLib, and .desktop file generation.
+// ---
+
 #include "chrome/browser/shell_integration_linux.h"
 
 #include <fcntl.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: macOS global keyboard shortcuts interface
+// summary: Declares macOS APIs that map key events to Chrome commands, including main menu key equivalent lookup, delayed WebContents commands, and default accelerators.
+// ---
+
 #ifndef CHROME_BROWSER_GLOBAL_KEYBOARD_SHORTCUTS_MAC_H_
 #define CHROME_BROWSER_GLOBAL_KEYBOARD_SHORTCUTS_MAC_H_
 

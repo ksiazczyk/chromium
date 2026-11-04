@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Load times extension bindings browser test
+// summary: Browser test checking that window.chrome.loadTimes() and chrome.csi() bindings work and stay stable across same-document navigations.
+// ---
+
 #include "chrome/test/base/chrome_test_utils.h"
 #include "chrome/test/base/platform_browser_test.h"
 #include "content/public/browser/web_contents.h"
