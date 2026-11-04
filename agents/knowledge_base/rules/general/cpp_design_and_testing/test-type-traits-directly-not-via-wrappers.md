@@ -2,6 +2,9 @@
 name: general/test-type-traits-directly-not-via-wrappers
 rubric: design
 severity: should_fix
+type: guide
+title: Test type traits directly, not via wrappers
+summary: Rule to assert underlying trait templates with static_assert instead of redundant wrapper unit tests, documenting wrapper behavior in component documentation.
 ---
 
 **Rule.** When verifying type traits, promotion rules, or conversion mechanics,

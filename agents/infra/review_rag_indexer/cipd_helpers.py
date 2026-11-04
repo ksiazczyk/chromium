@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: CIPD interaction helpers
+# summary: Provides helpers for initializing a temporary CIPD root and installing CIPD packages for index runs.
+# ---
+
 """Helper code for interacting with CIPD."""
 
 import contextlib

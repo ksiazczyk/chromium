@@ -1,3 +1,9 @@
+---
+type: readme
+title: Chrome Performance Extension
+summary: Describes the extension for the Chrome Performance MCP server and lists its tools for Pinpoint bisect and try jobs, anomaly and perf data queries, and benchmark, bot, and story listings.
+---
+
 # Chrome Performance Extension
 
 This extension provides tools for interacting with the Chrome Performance MCP

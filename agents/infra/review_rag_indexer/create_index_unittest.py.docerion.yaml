@@ -1,0 +1,6 @@
+# Docerion header of create_index_unittest.py.
+type: test
+title: Unit tests for create_index
+summary: Tests time window parsing, initial setup, argument validation, and the main index creation flow with mocked steps.
+relations:
+  - tests /agents/infra/review_rag_indexer/create_index.py

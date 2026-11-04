@@ -1,3 +1,9 @@
+---
+type: readme
+title: Gemini Custom Commands for Chrome
+summary: Explains the naming of the cr custom command directory and which reusable prompts belong there versus one-off example prompts.
+---
+
 # Gemini Custom Commands for Chrome
 
 See: https://cloud.google.com/blog/topics/developers-practitioners/gemini-cli-custom-slash-commands

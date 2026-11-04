@@ -2,6 +2,9 @@
 name: general/test-exhaustive-bitmask-flag-combinations
 rubric: testing
 severity: should_fix
+type: guide
+title: Test exhaustive bitmask flag combinations
+summary: Rule to test all supported permutations of bitmask flag combinations in translation or validation logic and to verify invalid permutations are handled gracefully.
 ---
 
 **Rule.** When writing unit tests for functions or lookup tables that map,

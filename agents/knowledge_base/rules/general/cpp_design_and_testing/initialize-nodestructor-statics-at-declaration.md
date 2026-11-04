@@ -2,6 +2,9 @@
 name: general/initialize-nodestructor-statics-at-declaration
 rubric: design
 severity: should_fix
+type: reference
+title: Initialize NoDestructor statics at declaration
+summary: Design rule requiring function-local base::NoDestructor statics to be initialized directly at declaration instead of via helper accessors, tracking booleans, or two-phase assignment.
 ---
 
 **Rule.** When defining a static snapshot, singleton, or cached object with

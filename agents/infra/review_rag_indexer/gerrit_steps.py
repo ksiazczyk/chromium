@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Gerrit CL metadata retrieval
+# summary: Retrieves CL metadata such as comments and hashtags from Gerrit using authenticated, retried HTTP sessions.
+# ---
+
 """Handles interacting with Gerrit to retrieve CL metadata."""
 
 import collections

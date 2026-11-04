@@ -2,6 +2,9 @@
 name: general/encapsulate-format-offsets-in-reader-classes
 rubric: design
 severity: should_fix
+type: reference
+title: Encapsulate format offsets in reader classes
+summary: Coding rule advising parser or reader classes to own binary format offset calculations instead of duplicating layout arithmetic in callers or tests.
 ---
 
 **Rule.** Encapsulate binary format structure offsets and header positions

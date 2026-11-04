@@ -2,6 +2,12 @@
 name: general/add-no-compile-tests-for-compile-time-constraints
 rubric: testing
 severity: should_fix
+type: reference
+title: Add no-compile tests for compile-time constraints
+summary: Rule requiring no-compile tests with Clang diagnostics when adding or removing compile-time constraints, and deletion of obsolete ones.
+relations:
+  - references /base/task/task_traits_nocompile.nc
+  - references /base/types/pass_key_nocompile.nc
 ---
 
 **Rule.** When introducing or extending compile-time traits, template

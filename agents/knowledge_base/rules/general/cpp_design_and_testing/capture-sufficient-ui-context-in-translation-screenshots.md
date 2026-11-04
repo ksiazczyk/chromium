@@ -2,6 +2,13 @@
 name: general/capture-sufficient-ui-context-in-translation-screenshots
 rubric: testing
 severity: should_fix
+type: reference
+title: Capture Sufficient UI Context in Translation Screenshots
+summary: 'Rule for translation screenshot hash files: skip untranslated strings, keep existing platform screenshots intact, upload valid SHA1 hashes, and capture broad UI context matching the string.'
+relations:
+  - references /tools/translation/upload_screenshots.py
+  - references /chrome/app/glic_strings_grdp/IDS_SETTINGS_GLIC_REVOKE_ACTOR_LOGIN_PERMISSION_ARIA_LABEL.png.sha1
+  - references /chrome/app/settings_strings_grdp/IDS_SETTINGS_CTRL_TAB_MRU.png.sha1
 ---
 
 **Rule.** When adding or updating translation screenshot hash files

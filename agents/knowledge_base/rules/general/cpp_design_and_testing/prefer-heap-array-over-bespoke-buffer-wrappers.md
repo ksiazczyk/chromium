@@ -2,6 +2,9 @@
 name: general/prefer-heap-array-over-bespoke-buffer-wrappers
 rubric: design
 severity: should_fix
+type: decision
+title: Prefer heap array over bespoke buffer wrappers
+summary: Design rule favoring base::HeapArray and base::span over bespoke wrapper classes with custom iterators for contiguous heap buffers, with rationale and examples.
 ---
 
 **Rule.** Prefer standard bounds-safe owning containers such as

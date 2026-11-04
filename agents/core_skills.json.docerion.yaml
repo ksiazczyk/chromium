@@ -1,0 +1,4 @@
+# Docerion header of core_skills.json.
+type: config
+title: Core agent skills list
+summary: Lists the paths of core shared skills such as git-cl-helper, gerrit-cli, and utr.

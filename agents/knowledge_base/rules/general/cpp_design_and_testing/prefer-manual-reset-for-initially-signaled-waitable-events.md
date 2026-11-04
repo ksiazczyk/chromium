@@ -2,6 +2,9 @@
 name: general/prefer-manual-reset-for-initially-signaled-waitable-events
 rubric: readability
 severity: nit
+type: decision
+title: Prefer manual reset for initially signaled WaitableEvents
+summary: Testing rule advising manual reset policy for base::WaitableEvent instances initialized as signaled so waits do not reset them, with rationale and code examples.
 ---
 
 **Rule.** When constructing a `base::WaitableEvent` initialized to

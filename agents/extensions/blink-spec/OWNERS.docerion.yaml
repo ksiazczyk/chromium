@@ -1,0 +1,6 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the blink-spec extension
+summary: Delegates ownership review of this extension to the owners listed in third_party/blink/tools/mcp_servers/OWNERS.
+relations:
+  - references /third_party/blink/tools/mcp_servers/OWNERS

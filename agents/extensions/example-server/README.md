@@ -1,3 +1,13 @@
+---
+type: readme
+title: Creating MCP tools
+summary: Guide for creating a FastMCP server with vpython, adding tools via decorator or add_tool, configuring gemini-cli, and testing the example server.
+relations:
+  - documents /agents/extensions/example-server/server.py
+  - references /agents/extensions/install.py
+  - references /vpython.toml
+---
+
 # Creating MCP tools
 
 This guide will walk you through adding MCP tools to an existing server or

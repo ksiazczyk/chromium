@@ -2,6 +2,9 @@
 name: general/split-omnibus-tests-into-separate-unit-tests
 rubric: design
 severity: should_fix
+type: guide
+title: Split Omnibus Tests into Separate Unit Tests
+summary: Testing rule advising against bundling independent scenarios in one test function with scoped blocks, favoring distinct TEST, TEST_F, or TEST_P cases for actionable failures.
 ---
 
 **Rule.** Avoid combining multiple independent test scenarios into a single

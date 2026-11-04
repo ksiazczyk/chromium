@@ -2,6 +2,9 @@
 name: general/use-gtest-skip-over-early-return
 rubric: readability
 severity: blocking
+type: reference
+title: Use GTEST_SKIP with a reason instead of early returns or DISABLED macros
+summary: Rule requiring GTEST_SKIP() with an explanatory message for unsupported environments, applied consistently across counterpart tests sharing the same dependency.
 ---
 
 **Rule.** When a GoogleTest cannot run due to unsupported CPU architectures,

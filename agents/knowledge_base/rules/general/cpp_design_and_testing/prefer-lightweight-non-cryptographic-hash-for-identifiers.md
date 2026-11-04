@@ -2,6 +2,9 @@
 name: general/prefer-lightweight-non-cryptographic-hash-for-identifiers
 rubric: design
 severity: should_fix
+type: decision
+title: Prefer lightweight non-cryptographic hashes for identifiers
+summary: Design rule against truncated cryptographic hashes for identifiers, recommending lightweight non-cryptographic hashes such as FNV-1a or base::FastHash, with examples.
 ---
 
 **Rule.** Do not implement or use complex cryptographic hash algorithms (such as

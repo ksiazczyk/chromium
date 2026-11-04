@@ -1,0 +1,6 @@
+# Docerion header of metadata_tree_unittest.py.
+type: test
+title: Unit tests for metadata_tree
+summary: Unit tests for metadata_tree.py covering tree insertion and lookup, deep merging, mixin resolution, and initialization of the tree from a git revision.
+relations:
+  - tests /agents/infra/review_rag_indexer/metadata_tree.py

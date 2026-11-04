@@ -2,6 +2,9 @@
 name: general/do-not-treat-all-reparse-points-as-links
 rubric: design
 severity: should_fix
+type: guide
+title: Do Not Treat All Reparse Points as Links
+summary: Windows rule to use base::IsLink() rather than testing FILE_ATTRIBUTE_REPARSE_POINT alone or duplicating reparse tag inspection, since non-surrogate reparse points are not links.
 ---
 
 **Rule.** When determining whether a file or directory is a symbolic link or

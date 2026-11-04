@@ -2,6 +2,9 @@
 name: general/encapsulate-bitmask-checks-in-predicate-helpers
 rubric: design
 severity: nit
+type: reference
+title: Encapsulate bitmask checks in predicate helpers
+summary: Coding rule advising dedicated predicate helpers for repeated bit flag inspections instead of raw bitwise expressions duplicated across call sites.
 ---
 
 **Rule.** Encapsulate low-level bit flag and bitmask inspections in a dedicated

@@ -2,6 +2,9 @@
 name: general/assert-raii-preconditions-in-constructors
 rubric: design
 severity: should_fix
+type: reference
+title: Assert RAII preconditions in constructors
+summary: Design rule to assert RAII guard and lease preconditions at constructors or factory entry points rather than inside internal update helpers.
 ---
 
 **Rule.** Assert preconditions and mutual exclusion invariants for scoped RAII

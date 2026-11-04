@@ -2,6 +2,9 @@
 name: general/separate-api-removal-from-caller-migrations
 rubric: change_scope
 severity: should_fix
+type: guide
+title: Separate API Removal from Caller Migrations
+summary: Change-scope rule directing that API declaration changes and widespread caller migrations be landed in separate, incremental CLs grouped by entry point or subsystem.
 ---
 
 **Rule.** When making API changes or migrating callers across the codebase—such

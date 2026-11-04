@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Gemini command to generate unit Googletests for a diff
+# summary: Defines a Gemini CLI command that generates unit Googletests covering new C++ code paths in the staged diff, following existing test conventions.
+# ---
+
 description = "Generate unit Googletests for a diff from trunk."
 prompt = """
 Please generate unit tests that cover all new C++ code paths added by this diff:

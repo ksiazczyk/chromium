@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit script for agents/extensions
+# summary: Depot_tools presubmit script that runs the Python unit tests in this directory when Python files change.
+# ---
+
 """Presubmit script for //agents/extensions.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

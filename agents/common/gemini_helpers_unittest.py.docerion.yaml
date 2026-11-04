@@ -1,0 +1,4 @@
+# Docerion header of gemini_helpers_unittest.py.
+type: test
+title: Unit tests for gemini_helpers
+summary: Unit tests covering the PowerShell PATHEXT context manager and the gemini command and version lookup logic.

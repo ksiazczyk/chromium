@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Local git data processing for index generation
+# summary: Processes local git commits into ClInfo objects for Review RAG index creation, extracting CL numbers, commit positions, timestamps, and changed files.
+# ---
+
 """Handles the processing of local git data for Review RAG index generation."""
 
 import datetime

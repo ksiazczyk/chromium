@@ -1,0 +1,6 @@
+# Docerion header of gemini-extension.json.
+type: config
+title: Landmines extension manifest
+summary: Gemini CLI extension manifest declaring the landmines extension, its version, context file, and the list of shell commands and tools to exclude.
+relations:
+  - references /agents/extensions/landmines/GEMINI.md

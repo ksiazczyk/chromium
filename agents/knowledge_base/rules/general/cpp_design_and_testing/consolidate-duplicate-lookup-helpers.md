@@ -2,6 +2,9 @@
 name: general/consolidate-duplicate-lookup-helpers
 rubric: design
 severity: should_fix
+type: guide
+title: Consolidate Duplicate Lookup Helpers
+summary: Rule against duplicating search and iteration logic across member and free functions, urging extraction into a shared helper to avoid drift and binary bloat.
 ---
 
 **Rule.** Do not duplicate search, lookup, or iteration logic across member

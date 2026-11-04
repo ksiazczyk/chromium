@@ -2,6 +2,9 @@
 name: general/encapsulate-repetitive-atomic-accessors
 rubric: design
 severity: should_fix
+type: reference
+title: Encapsulate repetitive atomic accessors
+summary: Coding rule advising helper functions or accessor methods for atomic loads, stores, and compare-exchange retry loops to centralize concurrency invariants.
 ---
 
 **Rule.** Encapsulate atomic operations (such as repetitive `.load()` or

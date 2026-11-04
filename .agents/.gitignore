@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: .agents .gitignore
+# summary: Ignores most content in .agents while keeping OWNERS, the rules README and rust.md, and the skills README checked in so users can add their own rules and skills.
+# ---
+
 /*
 !.gitignore
 !OWNERS

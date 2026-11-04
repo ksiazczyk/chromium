@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Gemini command to generate browser tests for a diff
+# summary: Defines a Gemini CLI command that generates Chromium browser tests covering new C++ code paths in the staged diff, following existing test conventions.
+# ---
+
 description = "Generate browser tests for a diff from trunk"
 prompt = """
 Please generate browser tests that cover all new C++ code paths added by this

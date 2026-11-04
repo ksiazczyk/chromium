@@ -2,6 +2,9 @@
 name: general/keep-platform-and-cpu-architecture-guards-orthogonal
 rubric: design
 severity: should_fix
+type: reference
+title: Keep platform and CPU architecture guards orthogonal
+summary: Design rule against placing OS-level logic inside CPU architecture preprocessor blocks, keeping BUILDFLAG platform and ARCH_CPU architecture guards separate.
 ---
 
 **Rule.** Do not place architecture-independent OS or platform logic inside CPU

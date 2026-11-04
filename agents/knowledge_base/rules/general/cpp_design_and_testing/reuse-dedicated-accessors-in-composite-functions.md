@@ -2,6 +2,9 @@
 name: general/reuse-dedicated-accessors-in-composite-functions
 rubric: design
 severity: should_fix
+type: guide
+title: Reuse Dedicated Accessors in Composite Functions
+summary: Design rule advising composite field assignments and aggregate functions to delegate to dedicated accessor methods instead of duplicating calculations or hardcoded values inline.
 ---
 
 **Rule.** When populating composite data structures (such as system, device, or

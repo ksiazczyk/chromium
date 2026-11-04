@@ -1,0 +1,4 @@
+# Docerion header of install.py.
+type: script
+title: Gemini extension install and management script
+summary: Command-line wrapper around the gemini extensions commands that lists, adds, updates and removes Gemini CLI extension configurations.

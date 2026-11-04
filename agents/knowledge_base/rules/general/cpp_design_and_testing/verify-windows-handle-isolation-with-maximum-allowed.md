@@ -2,6 +2,9 @@
 name: general/verify-windows-handle-isolation-with-maximum-allowed
 rubric: testing
 severity: optional
+type: reference
+title: Verify Windows handle isolation using MAXIMUM_ALLOWED access checks
+summary: Rule to test Windows handle isolation by opening handles with MAXIMUM_ALLOWED and inspecting granted access rights instead of only asserting open failures.
 ---
 
 **Rule.** When testing Windows process, thread, or handle isolation, open the

@@ -2,6 +2,11 @@
 name: general/use-assert-ok-and-assign-for-expected-values-in-tests
 rubric: readability
 severity: nit
+type: guide
+title: Use ASSERT_OK_AND_ASSIGN for expected values in tests
+summary: Rule to use ASSERT_OK_AND_ASSIGN or ASSERT_OK/EXPECT_OK when asserting and unwrapping base::expected or std::optional values instead of manual has_value checks.
+relations:
+  - references /base/test/gmock_expected_support.h
 ---
 
 **Rule.** In test code, use ASSERT_OK_AND_ASSIGN (or ASSERT_OK/EXPECT_OK from

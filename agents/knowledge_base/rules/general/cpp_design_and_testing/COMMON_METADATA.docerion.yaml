@@ -1,0 +1,8 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: Agentic review capability group metadata for cpp design and testing rules
+summary: Groups the cpp_design_and_testing rules into capability groups with path expressions for agentic review.
+relations:
+  - references /agents/knowledge_base/rules/general/cpp_design_and_testing/separate-api-removal-from-caller-migrations.md
+  - references /agents/knowledge_base/rules/general/cpp_design_and_testing/separate-refactoring-from-behavior-changes.md
+  - references /agents/knowledge_base/rules/general/cpp_design_and_testing/split-backend-logic-and-frontend-ui-into-separate-cls.md

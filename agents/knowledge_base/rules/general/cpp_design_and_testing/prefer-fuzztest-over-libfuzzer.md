@@ -2,6 +2,9 @@
 name: general/prefer-fuzztest-over-libfuzzer
 rubric: design
 severity: nit
+type: guide
+title: Prefer FuzzTest over libFuzzer for new fuzz targets
+summary: Rule to write new fuzz targets with FuzzTest FUZZ_TEST and its domains, reserving libFuzzer and protobuf mutators for maintaining existing targets.
 ---
 
 **Rule.** Prefer FuzzTest (`FUZZ_TEST`) over legacy `libFuzzer` (`fuzzer_test`)

@@ -1,0 +1,4 @@
+# Docerion header of tempfile_ext_unittest.py.
+type: test
+title: Unit tests for tempfile_ext
+summary: Tests the mkstemp_closed context manager with pyfakefs, covering default behavior and forwarded arguments.

@@ -1,3 +1,13 @@
+---
+type: readme
+title: Chromium Coding Agents
+summary: Explains the layout of shared AI coding agent prompts, extensions, MCP servers, skills, and commands, and how to contribute new ones.
+relations:
+  - references /.gemini/commands/README.md
+  - references /agents/extensions/README.md
+  - references /agents/prompts/README.md
+---
+
 # Chromium Coding Agents
 
 This directory provides a centralized location for files related to AI coding

@@ -2,6 +2,9 @@
 name: general/avoid-trivial-single-use-wrapper-functions
 rubric: design
 severity: should_fix
+type: reference
+title: Avoid Trivial Single-Use Wrapper Functions
+summary: Design rule against trivial single-use forwarding wrappers and redundant internal helpers, recommending inlining logic directly into public methods or call sites.
 ---
 
 **Rule.** Avoid introducing or retaining trivial single-use wrapper functions or

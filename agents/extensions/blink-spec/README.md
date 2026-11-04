@@ -1,3 +1,11 @@
+---
+type: readme
+title: Blink Spec MCP Server
+summary: Explains how to install the blink-spec gemini-cli extension, create a GitHub access token, and use it to fetch and summarize spec issues.
+relations:
+  - references /agents/extensions/install.py
+---
+
 # Blink Spec MCP Server
 
 This MCP server allows gemini-cli to fetch github comments for a particular

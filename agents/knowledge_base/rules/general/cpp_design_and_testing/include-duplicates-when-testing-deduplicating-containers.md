@@ -2,6 +2,9 @@
 name: general/include-duplicates-when-testing-deduplicating-containers
 rubric: testing
 severity: should_fix
+type: reference
+title: Include duplicates when testing deduplicating containers
+summary: Testing rule requiring duplicate elements in unit tests for unique containers and deduplication routines to exercise elimination, ordering, and cleanup.
 ---
 
 **Rule.** When writing unit tests for unique associative containers (such as

@@ -2,6 +2,9 @@
 name: general/split-preparatory-test-fixes-into-separate-cl
 rubric: change_scope
 severity: should_fix
+type: guide
+title: Split Preparatory Test Fixes into Separate CL
+summary: Change-scope rule requiring test fixes and disables to land in a preceding independent CL, linked from the main description, before a large feature or reland CL.
 ---
 
 **Rule.** Split preparatory test fixes and test disables across the codebase

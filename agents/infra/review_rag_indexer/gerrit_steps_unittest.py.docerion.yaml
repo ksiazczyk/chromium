@@ -1,0 +1,7 @@
+# Docerion header of gerrit_steps_unittest.py.
+type: test
+title: Unit tests for gerrit_steps
+summary: Unit tests for gerrit_steps.py covering Gerrit hashtag fetching, session configuration with retries, and success, connection failure, and malformed JSON handling.
+relations:
+  - tests /agents/infra/review_rag_indexer/gerrit_steps.py
+  - depends_on /agents/infra/review_rag_indexer/common_types.py

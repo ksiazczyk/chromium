@@ -1,3 +1,9 @@
+---
+type: readme
+title: Agent Skills
+summary: Explains that this gitignored folder is for personal Chromium-specific skills and how to link skills from //agents/skills using setup.py.
+---
+
 # Agent Skills
 
 This folder is gitignored. Developers are encouraged to put their personal

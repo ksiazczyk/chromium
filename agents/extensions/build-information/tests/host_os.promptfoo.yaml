@@ -1,3 +1,13 @@
+# ---docerion
+# type: test
+# title: Promptfoo tests for host OS determination
+# summary: Promptfoo YAML test suite that asks for the current host operating system and verifies the build_information MCP server's get_host_os tool response via a Python assertion.
+# relations:
+#   - depends_on /agents/testing/gemini_provider.py
+#   - references /agents/prompts/common.minimal.md
+#   - tests /build/mcp_servers/build_information.py
+# ---
+
 prompts:
   - 'What is the OS of the current host?'
 

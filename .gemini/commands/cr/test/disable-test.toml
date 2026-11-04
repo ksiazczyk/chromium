@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Gemini command to disable a failing or flaky test
+# summary: Defines a Gemini CLI command that disables a failing or flaky C++ or Java test by bug ID and optional test name, then formats and commits the change.
+# ---
+
 description = "Disable a test given the bug ID, or test name."
 prompt = """
 # Task: Disable a test given the test name and/or bug ID.

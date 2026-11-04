@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Claude Code OWNERS
+summary: Points to the shared OWNERS file under //agents that governs ownership of the Claude Code configuration directory.

@@ -2,6 +2,9 @@
 name: general/no-optional-string-when-empty-denotes-absence
 rubric: design
 severity: should_fix
+type: reference
+title: No optional string when empty denotes absence
+summary: Design rule against wrapping returns or callback results in std::optional<std::string> when an empty string already indicates absence, preferring plain string returns.
 ---
 
 **Rule.** Avoid wrapping return values or callback results in

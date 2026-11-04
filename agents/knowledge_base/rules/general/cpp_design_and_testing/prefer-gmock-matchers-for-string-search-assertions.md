@@ -2,6 +2,9 @@
 name: general/prefer-gmock-matchers-for-string-search-assertions
 rubric: readability
 severity: nit
+type: decision
+title: Prefer GMock matchers for string search assertions
+summary: Coding rule advising GMock string matchers such as HasSubstr over manual find/npos checks in test assertions, with rationale and good and bad C++ examples.
 ---
 
 **Rule.** In test assertions, prefer GMock string matchers (such as

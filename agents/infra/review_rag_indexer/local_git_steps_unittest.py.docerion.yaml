@@ -1,0 +1,7 @@
+# Docerion header of local_git_steps_unittest.py.
+type: test
+title: Unit tests for local_git_steps
+summary: Unit tests for local_git_steps.py covering git log parsing, CL info extraction from commit messages, and processing of commits in a time window.
+relations:
+  - tests /agents/infra/review_rag_indexer/local_git_steps.py
+  - depends_on /agents/infra/review_rag_indexer/common_types.py

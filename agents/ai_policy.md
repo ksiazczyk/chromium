@@ -1,3 +1,11 @@
+---
+type: reference
+title: Chromium AI Coding Policy
+summary: Sets expectations for developers using AI coding tools, covering self-review duties, disclosure of AI assistance, and human reply rules.
+relations:
+  - references /CODE_OF_CONDUCT.md
+---
+
 # Chromium AI Coding Policy
 
 This policy is for Chromium developers using AI tools to help write code. It is

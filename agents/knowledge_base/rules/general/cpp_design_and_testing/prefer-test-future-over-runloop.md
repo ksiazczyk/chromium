@@ -2,6 +2,9 @@
 name: general/prefer-test-future-over-runloop
 rubric: readability
 severity: optional
+type: decision
+title: Prefer TestFuture over RunLoop in tests
+summary: Testing rule recommending base::test::TestFuture over manual RunLoop and quit-closure boilerplate when awaiting asynchronous results, with code examples.
 ---
 
 **Rule.** Prefer base::test::TestFuture over manual base::RunLoop instances and

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: 'Gemini command: fix review comments'
+# summary: Defines a Gemini CLI command that fetches unresolved review comments for the active branch and attempts to address them, reporting any left unhandled.
+# ---
+
 description="Fetches unresolved comments for the active branch and tries to fix them."
 prompt = """
 Your goal is to address code review comments.

@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: 'Gemini command: pre-upload checklist'
+# summary: Defines a Gemini CLI command that runs a mandatory pre-upload checklist (sync, diff review, style guide check, cleanup, presubmit) plus optional build, upload, and try-job steps for a changelist.
+# ---
+
 description = """Runs a pre-upload checklist to ensure the changelist is in a
 high-quality, presubmit-clean state."""
 

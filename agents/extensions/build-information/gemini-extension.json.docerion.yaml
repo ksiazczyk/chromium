@@ -1,0 +1,4 @@
+# Docerion header of gemini-extension.json.
+type: config
+title: Gemini extension manifest for build-information
+summary: Manifest that registers the build-information MCP server, launching build_information.py through vpython3.

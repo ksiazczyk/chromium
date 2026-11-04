@@ -1,0 +1,4 @@
+# Docerion header of gemini-extension.json.
+type: config
+title: Gemini extension manifest for depot tools
+summary: Declares the depot-tools extension version 1.0.0 and configures its MCP server to run via vpython3 with third_party/depot_tools/mcp/server.py.

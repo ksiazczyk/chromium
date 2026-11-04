@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Shared data types for the indexer
+# summary: Defines dataclasses for previous run info, common arguments, comment threads, and CL information used across the indexer.
+# ---
+
 """Simple types for the Review RAG indexer that are used in multiple places."""
 
 import dataclasses

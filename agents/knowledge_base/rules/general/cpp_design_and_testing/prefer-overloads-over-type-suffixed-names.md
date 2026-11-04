@@ -2,6 +2,9 @@
 name: general/prefer-overloads-over-type-suffixed-names
 rubric: design
 severity: should_fix
+type: decision
+title: Prefer overloads over type-suffixed names
+summary: Design rule preferring overloaded or extended function signatures over type- or feature-suffixed names for the same conceptual operation, with good and bad examples.
 ---
 
 **Rule.** When an API performs the same conceptual operation across different

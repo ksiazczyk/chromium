@@ -2,6 +2,9 @@
 name: general/test-multi-word-boundaries-for-bitsets-and-enum-sets
 rubric: testing
 severity: should_fix
+type: guide
+title: Test multi-word boundaries for bitsets and enum sets
+summary: Rule to include test cases for bitset and enum set operations that cross machine-word boundaries, in both runtime and constexpr contexts.
 ---
 
 **Rule.** When writing unit tests for bitsets, enum sets (such as

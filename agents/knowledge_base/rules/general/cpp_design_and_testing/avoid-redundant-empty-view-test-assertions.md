@@ -2,6 +2,9 @@
 name: general/avoid-redundant-empty-view-test-assertions
 rubric: readability
 severity: nit
+type: reference
+title: Avoid Redundant Empty View Test Assertions
+summary: Testing rule against duplicate assertions for functionally identical empty view parameters such as span<T> and span<const T>, since they resolve to the same overload.
 ---
 
 **Rule.** In unit tests, avoid writing duplicate assertions for functionally

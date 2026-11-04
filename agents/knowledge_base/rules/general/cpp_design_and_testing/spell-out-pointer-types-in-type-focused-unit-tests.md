@@ -2,6 +2,9 @@
 name: general/spell-out-pointer-types-in-type-focused-unit-tests
 rubric: readability
 severity: nit
+type: guide
+title: Spell Out Pointer Types in Type-Focused Unit Tests
+summary: Readability rule advising explicit pointer and wrapper type declarations in tests exercising traits or heterogeneous pointer lookups, while keeping auto for general make_unique usage.
 ---
 
 **Rule.** In unit tests specifically exercising traits, heterogeneous container

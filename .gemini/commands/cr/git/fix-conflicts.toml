@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: 'Gemini command: fix git conflicts'
+# summary: Defines a Gemini CLI command that resolves merge conflicts in files listed by git status, then stages them with git add without running other git commands or validating changes.
+# ---
+
 description="Resolves git conflicts. Files should show in \"git status\" and contain conflict markers (<<<<)."
 prompt = """
 Please fix my merge conflicts.

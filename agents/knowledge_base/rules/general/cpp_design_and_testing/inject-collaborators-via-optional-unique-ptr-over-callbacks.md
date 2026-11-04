@@ -2,6 +2,12 @@
 name: general/inject-collaborators-via-optional-unique-ptr-over-callbacks
 rubric: design
 severity: should_fix
+type: reference
+title: Inject collaborators via optional unique_ptr over callbacks
+summary: Design rule preferring optional std::unique_ptr constructor parameters with default fallback over custom callback aliases and static factory methods for dependency injection.
+relations:
+  - references /base/profiler/thread_group_profiler.h
+  - references /base/profiler/thread_group_profiler.cc
 ---
 
 **Rule.** Prefer dependency injection of collaborator objects via an optional

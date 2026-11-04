@@ -1,6 +1,13 @@
 # Copyright 2025 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: ci
+# title: Presubmit checks for Gemini custom commands
+# summary: Defines presubmit checks that keep Chromium gemini-cli custom commands under the cr directory and require valid TOML with prompt and description keys.
+# ---
+
 """Presubmit checks for Chromium-specific `gemini-cli` commands.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

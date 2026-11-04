@@ -2,6 +2,9 @@
 name: general/avoid-arbitrary-sleeps-in-multithreaded-unit-tests
 rubric: readability
 severity: should_fix
+type: reference
+title: Avoid arbitrary sleeps in multithreaded unit tests
+summary: Readability rule favoring deterministic iteration counts and synchronization primitives over wall-clock sleeps to coordinate threads in tests.
 ---
 
 **Rule.** In multithreaded unit tests and concurrency stress tests, avoid using

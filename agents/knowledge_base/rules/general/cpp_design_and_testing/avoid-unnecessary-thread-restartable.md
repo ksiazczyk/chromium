@@ -2,6 +2,9 @@
 name: general/avoid-unnecessary-thread-restartable
 rubric: design
 severity: should_fix
+type: reference
+title: Avoid Unnecessary Thread Restartable
+summary: Design rule to omit Thread::Restartable{} when constructing base::Thread unless the thread must be stopped and restarted during its lifecycle.
 ---
 
 **Rule.** Do not pass `Thread::Restartable{}` when constructing or subclassing

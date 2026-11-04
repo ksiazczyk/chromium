@@ -2,6 +2,9 @@
 name: general/remove-unused-test-friend-declarations
 rubric: readability
 severity: nit
+type: decision
+title: Remove unused test friend declarations
+summary: Readability rule against keeping unused test friend declarations in production classes when tests only use public APIs, with rationale and examples.
 ---
 
 **Rule.** Do not retain unused test friend declarations (such as friend class

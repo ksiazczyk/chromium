@@ -2,6 +2,9 @@
 name: general/avoid-redundant-assertions-on-initialized-test-variables
 rubric: readability
 severity: nit
+type: reference
+title: Avoid Redundant Assertions on Initialized Test Variables
+summary: Unit test rule advising against assertions that re-verify freshly initialized local variables before the code under test runs, with bad and good C++ examples.
 ---
 
 **Rule.** In unit tests, do not add redundant assertions verifying that a

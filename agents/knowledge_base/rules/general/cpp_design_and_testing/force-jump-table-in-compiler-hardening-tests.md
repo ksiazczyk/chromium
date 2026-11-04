@@ -2,6 +2,9 @@
 name: general/force-jump-table-in-compiler-hardening-tests
 rubric: testing
 severity: should_fix
+type: reference
+title: Force jump table in compiler hardening tests
+summary: Testing rule requiring dense case labels and non-constant return values in sanitizer tests so switches compile to jump tables rather than lookup tables.
 ---
 
 **Rule.** When writing compiler hardening or sanitizer tests (such as for

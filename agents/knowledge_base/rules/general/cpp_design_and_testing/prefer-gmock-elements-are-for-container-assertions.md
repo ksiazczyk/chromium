@@ -2,6 +2,9 @@
 name: general/prefer-gmock-elements-are-for-container-assertions
 rubric: readability
 severity: nit
+type: guide
+title: Prefer GMock ElementsAre for container assertions
+summary: Rule to verify container contents with GMock matchers like ElementsAre instead of asserting size and indexing individual elements in unit tests.
 ---
 
 **Rule.** In unit tests, use GMock container matchers such as

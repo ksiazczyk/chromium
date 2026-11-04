@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Gemini command to silence an iOS test and create a bug
+# summary: Defines a Gemini CLI command that silences a failing or flaky iOS test, creates a Buganizer issue, and optionally uploads a CL.
+# ---
+
 description = "Silences a test on iOS, creates a bug, and uploads a CL."
 prompt = """
 # Task: Silence Test on iOS and Create Bug/CL

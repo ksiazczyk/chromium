@@ -1,3 +1,9 @@
+---
+type: ci
+title: GitHub Copilot instructions for Chromium
+summary: Custom GitHub Copilot instructions for the Chromium project covering strict git workflow rules, C++ include preferences, and line ending conventions.
+---
+
 # GitHub Copilot Instructions
 
 ## Project Knowledge: Chromium

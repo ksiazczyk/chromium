@@ -2,6 +2,9 @@
 name: general/use-consistent-time-units-in-test-advancements
 rubric: readability
 severity: nit
+type: reference
+title: Use consistent time units in mock time test advancements
+summary: Rule advising unit tests that advance mock time to express delay constants and step increments in the same time unit so increments are easy to verify.
 ---
 
 **Rule.** In unit tests that incrementally advance mock time (such as via

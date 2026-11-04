@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Gemini command to extend an iOS UMA histogram expiration
+# summary: Defines a Gemini CLI command that extends a Chrome for iOS UMA histogram's expiration date by one year and optionally uploads a CL.
+# ---
+
 description = "Extends the expiration date of a Chrome for iOS UMA histogram for an additional year."
 prompt = """
  # Task: Extend a Chrome for iOS UMA histgram's expiration date by one year.

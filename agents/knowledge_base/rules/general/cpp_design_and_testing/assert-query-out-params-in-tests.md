@@ -2,6 +2,9 @@
 name: general/assert-query-out-params-in-tests
 rubric: testing
 severity: nit
+type: reference
+title: Assert query out parameters in tests
+summary: Testing rule advising assertion of expected out-parameter values alongside boolean return checks when calling query or lookup methods.
 ---
 
 **Rule.** In unit tests, when calling query, search, or lookup methods that

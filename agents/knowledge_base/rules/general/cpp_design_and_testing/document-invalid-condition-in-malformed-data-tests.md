@@ -2,6 +2,9 @@
 name: general/document-invalid-condition-in-malformed-data-tests
 rubric: readability
 severity: nit
+type: guide
+title: Document Invalid Condition in Malformed Data Tests
+summary: Rule asking that tests with hardcoded malformed inputs include comments explaining why the data is invalid and which invariant it violates, not just what values are passed.
 ---
 
 **Rule.** When writing unit tests that use hardcoded raw byte arrays, integer

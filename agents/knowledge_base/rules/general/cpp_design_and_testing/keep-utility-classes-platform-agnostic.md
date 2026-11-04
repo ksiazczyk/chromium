@@ -2,6 +2,9 @@
 name: general/keep-utility-classes-platform-agnostic
 rubric: design
 severity: should_fix
+type: reference
+title: Keep utility classes platform-agnostic
+summary: Design rule keeping utility and helper classes free of compile-time platform guards and centralizing platform activation policies in callers or startup configuration.
 ---
 
 **Rule.** Keep utility and helper classes platform-agnostic rather than gating
