@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TransitiveObservableSupplier
+// summary: Package-private observable supplier that follows a target supplier obtained from a parent supplier, managing observers on both to simplify chained observation.
+// ---
+
 package org.chromium.base.supplier;
 
 import org.chromium.base.Callback;

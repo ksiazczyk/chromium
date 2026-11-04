@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Embedder interface for specializing child services
+// summary: Interface embedders implement to specialize child service creation, covering native library loading, RELRO handling and the main entry point.
+// ---
+
 package org.chromium.base.process_launcher;
 
 import android.content.Context;

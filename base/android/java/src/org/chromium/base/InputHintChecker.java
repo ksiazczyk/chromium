@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InputHintChecker
+// summary: Lets native code query Android input hints from a registered root view and records metrics about input event dispatch from the compositor.
+// ---
+
 package org.chromium.base;
 
 import android.os.Build;

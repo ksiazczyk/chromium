@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'Log: Android logging utility'
+// summary: Wraps android.util.Log with normalized cr_ prefixed tags, formatted messages, and debug-build gating for Chromium Android logging.
+// ---
+
 package org.chromium.base;
 
 import org.chromium.build.BuildConfig;

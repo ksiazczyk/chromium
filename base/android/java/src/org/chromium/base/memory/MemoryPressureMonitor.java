@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryPressureMonitor
+// summary: Monitors Android memory pressure signals, throttles and polls them, and reports pressure levels to Java callbacks and the native side on the UI thread.
+// ---
+
 package org.chromium.base.memory;
 
 import android.app.ActivityManager;

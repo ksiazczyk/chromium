@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PowerMonitorReading data container
+// summary: Container class that passes a consumer name and total energy reading from Java to native code via JNI.
+// ---
+
 package org.chromium.base;
 
 import org.jni_zero.CalledByNative;

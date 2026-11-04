@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChildServiceConnectionDelegate interface
+// summary: Delegate interface that ChildServiceConnection calls back on service connect and disconnect, with callbacks expected on a background thread.
+// ---
+
 package org.chromium.base.process_launcher;
 
 import android.os.IBinder;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NullableObservableSupplier
+// summary: Interface for observable suppliers of nullable values, with methods to add and remove observers and control when notifications are called or posted.
+// ---
+
 package org.chromium.base.supplier;
 
 import com.google.errorprone.annotations.DoNotMock;

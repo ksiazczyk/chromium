@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedServiceBindingBatch API for batching service binding requests
+// summary: Abstract AutoCloseable entry point that batches service binding requests in nestable scopes and falls back to duration measurement when the feature is inactive.
+// ---
+
 package org.chromium.base.process_launcher;
 
 import android.os.Build;

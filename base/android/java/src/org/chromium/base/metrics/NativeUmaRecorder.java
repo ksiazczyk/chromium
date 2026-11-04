@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'NativeUmaRecorder: JNI bridge for UMA recording'
+// summary: UmaRecorder implementation that forwards histogram and user action recording calls through JNI to the native side, caching native histogram pointers.
+// ---
+
 package org.chromium.base.metrics;
 
 import org.jni_zero.JNINamespace;

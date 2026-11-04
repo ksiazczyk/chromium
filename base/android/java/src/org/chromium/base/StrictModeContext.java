@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StrictModeContext for try-with-resources policy allowlisting
+// summary: Closeable helper that temporarily relaxes StrictMode thread or VM policies, such as allowing disk reads or writes, within try-with-resources blocks.
+// ---
+
 package org.chromium.base;
 
 import android.os.Build;

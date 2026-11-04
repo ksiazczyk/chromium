@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome thread pool executor
+// summary: Provides a ThreadPoolExecutor sized from the device CPU count, used to run AsyncTask work and pre-native background tasks.
+// ---
+
 package org.chromium.base.task;
 
 import static java.util.concurrent.TimeUnit.SECONDS;

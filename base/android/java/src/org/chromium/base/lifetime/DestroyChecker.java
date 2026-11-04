@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DestroyChecker
+// summary: Utility class that helps ensure an object is destroyed only once, asserting on any use after destruction; not thread-safe by design.
+// ---
+
 package org.chromium.base.lifetime;
 
 import org.chromium.build.annotations.NullMarked;

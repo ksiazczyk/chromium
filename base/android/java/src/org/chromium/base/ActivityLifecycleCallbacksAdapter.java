@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActivityLifecycleCallbacksAdapter
+// summary: Abstract adapter that routes all Android activity lifecycle callbacks to a single onStateChanged method carrying an ActivityState value.
+// ---
+
 package org.chromium.base;
 
 import android.app.Activity;

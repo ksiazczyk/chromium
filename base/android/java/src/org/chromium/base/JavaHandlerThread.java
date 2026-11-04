@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaHandlerThread
+// summary: Wraps an Android HandlerThread that can be created, started, and safely shut down from native code, with test-only exception listening.
+// ---
+
 package org.chromium.base;
 
 import android.os.Handler;

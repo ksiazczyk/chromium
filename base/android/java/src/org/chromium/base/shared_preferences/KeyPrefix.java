@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KeyPrefix for dynamically generated SharedPreferences keys
+// summary: Java class that builds complete SharedPreferences keys from a registered prefix pattern and checks whether a key was generated from it.
+// ---
+
 package org.chromium.base.shared_preferences;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryConsumerRegistration handle for the native consumer registry
+// summary: AutoCloseable registration handle that registers a MemoryConsumer with the native C++ registry on the UI thread, queueing registrations until native initialization completes.
+// ---
+
 package org.chromium.base.memory_coordinator;
 
 import org.jni_zero.CalledByNative;

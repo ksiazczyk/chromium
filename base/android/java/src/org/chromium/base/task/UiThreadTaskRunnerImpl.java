@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UiThreadTaskRunnerImpl
+// summary: TaskRunner for the Android UI thread that extends TaskRunnerImpl and posts pre-native tasks through the UI thread handler when UI tasks may run before native initialization.
+// ---
+
 package org.chromium.base.task;
 
 import org.jni_zero.JNINamespace;

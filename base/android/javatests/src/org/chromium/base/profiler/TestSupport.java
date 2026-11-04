@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestSupport
+// summary: Java helper that invokes a callback through the JNI layer so that JNI unwinding can be tested in the base profiler.
+// ---
+
 package org.chromium.base.profiler;
 
 import org.jni_zero.CalledByNative;

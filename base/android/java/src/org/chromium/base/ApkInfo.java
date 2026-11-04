@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ApkInfo
+// summary: Utility class exposing APK and host package information such as package name, version, installer, debug status, and signing certificate to Java and native callers.
+// ---
+
 package org.chromium.base;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

@@ -1,0 +1,4 @@
+# Docerion header of IAndroidInfo.aidl.
+type: source
+title: IAndroidInfo AIDL parcelable for device information
+summary: AIDL parcelable describing Android device details such as ABI, build fingerprint, SDK version, manufacturer and security patch.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ApiCompatibilityUtils
+// summary: Utility class wrapping Android APIs not available in all supported versions, kept un-inlined to avoid dex validation errors on older Android releases.
+// ---
+
 package org.chromium.base;
 
 import android.app.Activity;

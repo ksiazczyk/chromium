@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UnwrapObservableSupplier
+// summary: Package-private observable supplier that derives its value by unwrapping a parent supplier's value through a function, a simpler variant of TransitiveObservableSupplier.
+// ---
+
 package org.chromium.base.supplier;
 
 import org.chromium.base.Callback;

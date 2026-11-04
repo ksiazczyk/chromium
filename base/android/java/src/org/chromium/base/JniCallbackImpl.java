@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'JniCallbackImpl: JNI callback wrapper implementation'
+// summary: Implements the Java side of JNI once and repeating callbacks that own a native base::Callback pointer and must be destroyed to avoid leaking native memory.
+// ---
+
 package org.chromium.base;
 
 import org.jni_zero.CalledByNative;

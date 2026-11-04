@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StreamUtil helper for closing streams quietly
+// summary: Utility class providing a closeQuietly method that closes a Closeable and swallows any IOException thrown during close.
+// ---
+
 package org.chromium.base;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VirtualDocumentPath tests
+// summary: JUnit tests for VirtualDocumentPath parsing of valid and invalid SAF paths, string conversion and resolution via a test documents provider.
+// ---
+
 package org.chromium.base;
 
 import android.content.ContentResolver;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'RecordHistogram: Java API for UMA histograms'
+// summary: Static Java API for recording UMA histograms of boolean, enumerated, count, custom count, times and sparse types, mirroring the C++ histogram macros.
+// ---
+
 package org.chromium.base.metrics;
 
 import android.text.format.DateUtils;

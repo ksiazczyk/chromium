@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ObservableSupplierImpl
+// summary: Thread-checked implementation backing the settable nullable, monotonic and non-null observable supplier interfaces, with observer management and destroy handling.
+// ---
+
 package org.chromium.base.supplier;
 
 import org.chromium.base.Callback;

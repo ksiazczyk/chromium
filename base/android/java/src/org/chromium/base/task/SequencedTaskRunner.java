@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sequenced task runner interface
+// summary: Declares a TaskRunner whose posted tasks run in order with respect to the sequence, though possibly on different threads.
+// ---
+
 package org.chromium.base.task;
 
 import org.chromium.build.annotations.NullMarked;

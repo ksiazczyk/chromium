@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Early trace event buffering before native load
+// summary: Buffers trace events in Java before the native library is loaded and flushes them to the native tracing system once tracing is enabled there.
+// ---
+
 package org.chromium.base;
 
 import android.os.Process;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResettersForTesting for restoring test-set values
+// summary: Registers runnables that restore static values changed by set*ForTesting methods, scoped to classes or methods for test runners.
+// ---
+
 package org.chromium.base;
 
 import androidx.annotation.GuardedBy;

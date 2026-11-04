@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PreferenceKeyChecker interface
+// summary: Interface for SharedPreferences key checkers, backed by a no-op implementation in official builds and a strict checker in debug builds.
+// ---
+
 package org.chromium.base.shared_preferences;
 
 import org.chromium.build.annotations.NullMarked;

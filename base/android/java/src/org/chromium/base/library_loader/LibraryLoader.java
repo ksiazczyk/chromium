@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'LibraryLoader: native library loading and initialization'
+// summary: Singleton Java class that loads and registers the native libraries, handling zygote processes, thread synchronization, and initialization, with a native counterpart in library_loader_hooks.cc.
+// ---
+
 package org.chromium.base.library_loader;
 
 import android.annotation.SuppressLint;

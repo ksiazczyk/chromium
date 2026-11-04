@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mutable feature param base class with safe default
+// summary: Abstract base class for feature parameters that return a safe default before native initialization and cache the real value afterwards.
+// ---
+
 package org.chromium.base;
 
 import org.chromium.build.annotations.NullMarked;

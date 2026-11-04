@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WrappedClassLoader
+// summary: ClassLoader that wraps a primary and secondary ClassLoader and delegates findClass and findLibrary calls to the first one that returns a match.
+// ---
+
 package org.chromium.base;
 
 import dalvik.system.BaseDexClassLoader;

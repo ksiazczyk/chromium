@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LazyOneshotSupplier
+// summary: Interface for a supplier that wraps a lazily loaded nullable object and notifies observers a single time when the value becomes available.
+// ---
+
 package org.chromium.base.supplier;
 
 import org.chromium.base.Callback;

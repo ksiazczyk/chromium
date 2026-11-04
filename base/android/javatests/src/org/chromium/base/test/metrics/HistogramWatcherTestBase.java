@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HistogramWatcher test base class
+// summary: Shared base class providing the test logic for the HistogramWatcher test utility across scenarios before, during and after native library load.
+// ---
+
 package org.chromium.base.test.metrics;
 
 import androidx.annotation.IntDef;

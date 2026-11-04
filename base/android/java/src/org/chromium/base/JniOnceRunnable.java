@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JniOnceRunnable interface
+// summary: Interface combining Runnable and Destroyable for a one-shot JNI callback that must be destroyed to avoid leaking the native callback.
+// ---
+
 package org.chromium.base;
 
 import org.chromium.base.lifetime.Destroyable;

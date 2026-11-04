@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UserData interface
+// summary: Interface marking classes that can be attached to a UserDataHost, with a default destroy method that hosts should invoke at the end of their lifetime.
+// ---
+
 package org.chromium.base;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HidManager intermediary interface for Android HID API
+// summary: Declares an intermediary Java interface wrapping android.hardware.hid.HidManager for enumerating connected HID devices and registering connection listeners.
+// ---
+
 package org.chromium.base.hid;
 
 import org.chromium.build.annotations.NullMarked;

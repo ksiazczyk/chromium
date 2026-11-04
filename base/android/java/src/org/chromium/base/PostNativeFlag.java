@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PostNativeFlag reading feature state from native
+// summary: A Flag variant that reads its enabled state directly from native after the native library is loaded, with an in-memory cached value.
+// ---
+
 package org.chromium.base;
 
 import org.chromium.build.annotations.NullMarked;

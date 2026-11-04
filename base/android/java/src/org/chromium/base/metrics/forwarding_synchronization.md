@@ -1,3 +1,11 @@
+---
+type: decision
+title: Forwarding and ReadWriteLock
+summary: Design note explaining why CachingUmaRecorder forwarding uses a ReadWriteLock with lock downgrading, comparing two implementation methods and their deadlock risks.
+relations:
+  - documents /base/android/java/src/org/chromium/base/metrics/CachingUmaRecorder.java
+---
+
 # Forwarding and `ReadWriteLock`
 
 This document explains the approach chosen to implement

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SettableMonotonicObservableSupplier
+// summary: Interface combining a monotonic observable supplier with Destroyable, adding a set method and a default conversion to a settable non-null supplier.
+// ---
+
 package org.chromium.base.supplier;
 
 import org.chromium.base.lifetime.Destroyable;

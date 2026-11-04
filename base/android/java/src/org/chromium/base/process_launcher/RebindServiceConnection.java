@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RebindServiceConnection for updating child process LRU position
+// summary: Short-lived ServiceConnection that rebinds a child process so Context.updateServiceGroup() takes effect, working around ConnectionRecord and Binder proxy accumulation.
+// ---
+
 package org.chromium.base.process_launcher;
 
 import android.content.ComponentName;

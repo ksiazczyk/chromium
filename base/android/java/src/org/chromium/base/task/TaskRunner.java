@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskRunner interface
+// summary: Interface for a task queue that posts Java tasks to the C++ browser scheduler or a fallback handler, providing postDelayedTask methods including a location-aware overload for the Java location rewriter.
+// ---
+
 package org.chromium.base.task;
 
 import org.chromium.build.annotations.NullMarked;

@@ -1,0 +1,4 @@
+# Docerion header of IFileDescriptorInfo.aidl.
+type: source
+title: IFileDescriptorInfo.aidl file descriptor parcelable
+summary: AIDL parcelable describing a file descriptor with its id, offset, and size for transfer to child processes.

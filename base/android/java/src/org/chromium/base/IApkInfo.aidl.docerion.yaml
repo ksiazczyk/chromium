@@ -1,0 +1,4 @@
+# Docerion header of IApkInfo.aidl.
+type: source
+title: IApkInfo AIDL parcelable for APK information
+summary: AIDL parcelable carrying host and package details for Chrome or WebView, including package names, versions and SDK targets.

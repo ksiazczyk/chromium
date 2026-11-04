@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: HistogramWatcher tests before native load
+// summary: Runs the shared HistogramWatcher test suite before native load, including exclusive tests where snapshots come from CachingUmaRecorder.
+// ---
+
 package org.chromium.base.test.metrics;
 
 import androidx.test.filters.MediumTest;

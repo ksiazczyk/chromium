@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'StatisticsRecorderAndroid: histograms as JSON via JNI'
+// summary: Java API that exposes the histograms registered on the native side as JSON text, with a verbosity level controlling the dumped detail.
+// ---
+
 package org.chromium.base.metrics;
 
 import org.jni_zero.JNINamespace;

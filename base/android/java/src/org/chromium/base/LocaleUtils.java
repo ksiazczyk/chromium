@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'LocaleUtils: language code and locale helpers'
+// summary: Provides locale utilities that map deprecated Android language codes to Chromium codes and back, and build Locale objects from language tags.
+// ---
+
 package org.chromium.base;
 
 import android.content.Context;

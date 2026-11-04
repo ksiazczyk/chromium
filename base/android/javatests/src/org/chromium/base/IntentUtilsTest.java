@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IntentUtilsTest
+// summary: Tests IntentUtils helpers, covering intentTargetsSelf assertions for various package and component setups and safe Bundle getters with default values.
+// ---
+
 package org.chromium.base;
 
 import static org.junit.Assert.assertEquals;

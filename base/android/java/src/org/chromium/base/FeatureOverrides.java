@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureOverrides for overriding feature flags and params in tests
+// summary: Java utility that lets tests override feature flags and field trial parameters dynamically through a builder, complementing the @Features annotations.
+// ---
+
 package org.chromium.base;
 
 import android.util.ArrayMap;

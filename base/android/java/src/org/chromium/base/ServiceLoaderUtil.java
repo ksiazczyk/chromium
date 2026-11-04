@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ServiceLoaderUtil wrapper for optimized service loading
+// summary: Wraps java.util.ServiceLoader to create service implementations, letting R8 optimize the loading away in release builds and supporting test overrides.
+// ---
+
 package org.chromium.base;
 
 import android.util.ArrayMap;

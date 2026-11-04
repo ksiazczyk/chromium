@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JNIUtils
+// summary: Provides class loaders to native code for loading Java classes, including support for installed APK splits and a swappable default loader.
+// ---
+
 package org.chromium.base;
 
 import org.jni_zero.CalledByNative;

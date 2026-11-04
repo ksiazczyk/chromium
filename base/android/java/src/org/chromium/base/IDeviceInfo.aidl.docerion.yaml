@@ -1,0 +1,4 @@
+# Docerion header of IDeviceInfo.aidl.
+type: source
+title: IDeviceInfo AIDL parcelable
+summary: AIDL parcelable describing device properties such as GMS version, form factor flags, Vulkan dEQP level, and large-display launch state for native code.

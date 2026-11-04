@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cached device information for the process lifetime
+// summary: Caches device properties such as form factor, GMS version, retail demo mode, and XR or desktop support for the lifetime of the app process.
+// ---
+
 package org.chromium.base;
 
 import android.content.ContentResolver;

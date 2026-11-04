@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Source code location for task attribution
+// summary: Represents a file, function and line number in Chromium source, used to attribute posted tasks back to their call site for tracing.
+// ---
+
 package org.chromium.base.task;
 
 import androidx.annotation.VisibleForTesting;

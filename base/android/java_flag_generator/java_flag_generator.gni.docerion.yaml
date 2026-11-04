@@ -1,0 +1,4 @@
+# Docerion header of java_flag_generator.gni.
+type: config
+title: Java Flag Generator GN Template
+summary: Defines the java_flag_generator GN template that runs the Python generator to produce a srcjar with a Java class exposing C++ features.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SplitCompatService base class for split module services
+// summary: Service base class that stays in the base module and delegates its lifecycle callbacks to an implementation class loaded from a dynamic feature module.
+// ---
+
 package org.chromium.base;
 
 import android.app.Service;

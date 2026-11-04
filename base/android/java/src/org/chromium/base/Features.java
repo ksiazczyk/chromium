@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Features bridge to native feature switch status
+// summary: Abstract JNI bridge class for checking whether native feature switches are enabled and reading their field trial parameters.
+// ---
+
 package org.chromium.base;
 
 import org.jni_zero.JNINamespace;

@@ -1,0 +1,4 @@
+# Docerion header of IParentProcess.aidl.
+type: source
+title: IParentProcess.aidl parent process callback interface
+summary: AIDL interface for callbacks from the child to the parent process, reporting setup completion, exceptions in init, and clean exit.

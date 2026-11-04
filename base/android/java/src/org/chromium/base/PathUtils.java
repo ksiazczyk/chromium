@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PathUtils for Android data and cache directory paths
+// summary: Supplies data, cache and thumbnail directory paths to the native library, fetching them asynchronously with a synchronous fallback on the UI thread.
+// ---
+
 package org.chromium.base;
 
 import android.content.Context;

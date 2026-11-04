@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linker for shared RELRO library loading
+// summary: Loads native libraries as an alternative to System.loadLibrary, placing PT_GNU_RELRO segments in shared read-only memory to save RAM and sharing RELRO info between processes via AIDL.
+// ---
+
 package org.chromium.base.library_loader;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

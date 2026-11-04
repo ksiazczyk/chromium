@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedServiceBindingBatchDuration histogram recorder
+// summary: Fallback ScopedServiceBindingBatch that only measures and records the duration of the batching scope on the main thread.
+// ---
+
 package org.chromium.base.process_launcher;
 
 import org.chromium.base.TimeUtils;

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for jni_generator
+summary: Grants the jni_generator directory include access to the third_party/jni_zero dependency via a DEPS include rule.

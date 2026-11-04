@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AdvancedMockContextTest
+// summary: Instrumentation tests verifying that AdvancedMockContext forwards component callbacks such as onLowMemory, onConfigurationChanged and onTrimMemory to registered listeners.
+// ---
+
 package org.chromium.base;
 
 import android.app.Application;

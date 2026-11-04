@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: KnownPreferenceKeyRegistries
+// summary: Tracks registries used before initialization and asserts, once known registries are set, that only declared registries are used.
+// ---
+
 package org.chromium.base.shared_preferences;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

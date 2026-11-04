@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: C++ Feature List and Definition Parser
+# summary: Parses C++ feature list files to extract kFeaturesExposedToJava entries, includes, FEATURE_DEFINITION_FILE directives, and feature definitions.
+# ---
+
 """Parses C++ feature list files and feature definition files."""
 
 import bisect

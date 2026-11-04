@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedServiceBindingBatchImpl batching implementation
+// summary: Implementation that tracks nested batch updates on the launcher thread and queues binding requests until the batch is closed and flushed.
+// ---
+
 package org.chromium.base.process_launcher;
 
 import android.os.Build;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SysUtils device system information utilities
+// summary: Exposes device system information such as physical memory, low-end device detection, camera presence, and current low memory state, with test overrides.
+// ---
+
 package org.chromium.base;
 
 import android.app.ActivityManager;

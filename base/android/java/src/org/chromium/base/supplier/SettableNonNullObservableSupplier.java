@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SettableNonNullObservableSupplier
+// summary: Interface for a settable observable supplier that is guaranteed to never supply null and can be destroyed to clear observers.
+// ---
+
 package org.chromium.base.supplier;
 
 import org.chromium.base.lifetime.Destroyable;

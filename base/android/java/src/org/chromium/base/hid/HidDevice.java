@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HidDevice intermediary interface for Android HID API
+// summary: Defines an intermediary Java interface wrapping android.hardware.hid.HidDevice for opening and closing devices, exchanging input, output and feature reports, and managing input event listeners.
+// ---
+
 package org.chromium.base.hid;
 
 import android.os.OutcomeReceiver;

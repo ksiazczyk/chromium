@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryInfoBridge
+// summary: Bridge that lets native code retrieve the process's own ActivityManager#getProcessMemoryInfo() result, returning null on throttling-related or security failures.
+// ---
+
 package org.chromium.base.memory;
 
 import android.app.ActivityManager;

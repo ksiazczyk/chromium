@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LegacyChildServiceConnectionController
+// summary: Legacy ChildServiceConnectionController implementation that manages strong, visible, not perceptible, and waived bindings as parallel service bindings.
+// ---
+
 package org.chromium.base.process_launcher;
 
 import android.content.Context;

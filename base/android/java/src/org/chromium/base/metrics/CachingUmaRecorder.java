@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'CachingUmaRecorder: buffered UMA metrics recorder'
+// summary: UmaRecorder implementation that caches histogram samples and user actions until a real recorder is provided, then forwards all samples directly to it.
+// ---
+
 package org.chromium.base.metrics;
 
 import android.annotation.SuppressLint;

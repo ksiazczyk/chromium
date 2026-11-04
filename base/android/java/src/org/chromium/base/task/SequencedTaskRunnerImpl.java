@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SequencedTaskRunnerImpl
+// summary: Implements SequencedTaskRunner by extending TaskRunnerImpl, queueing pre-native tasks with an atomic counter and handing them over to the native task runner once it becomes available.
+// ---
+
 package org.chromium.base.task;
 
 import org.chromium.build.annotations.NullMarked;

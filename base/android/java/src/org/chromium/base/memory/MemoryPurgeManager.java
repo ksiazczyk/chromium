@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryPurgeManager
+// summary: Browser-side manager that triggers a critical memory pressure purge and process self-freeze after the app has been backgrounded for several minutes, recording background duration metrics.
+// ---
+
 package org.chromium.base.memory;
 
 import androidx.annotation.VisibleForTesting;

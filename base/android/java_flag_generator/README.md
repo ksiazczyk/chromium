@@ -1,3 +1,11 @@
+---
+type: readme
+title: Java Flag Generator README
+summary: Explains how to use the java_flag_generator GN target, its variables, and how the generator locates feature definitions for features exposed to Java.
+relations:
+  - documents /base/android/java_flag_generator/java_flag_generator.gni
+---
+
 # Java Flag Generator
 
 Generates a Java class with typed accessors for the features that a C++

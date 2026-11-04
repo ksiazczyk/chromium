@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Static helpers for Android Context.bindService calls
+// summary: Static helper methods that call Context.bindService variants, with binding request batching, binder call counting and bind flag sanitization.
+// ---
+
 package org.chromium.base.process_launcher;
 
 import android.annotation.SuppressLint;

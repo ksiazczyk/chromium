@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the base Android package
+summary: Defines per-file owner rules for AIDL files and AconfigFlaggedApiDelegate.java in this directory.

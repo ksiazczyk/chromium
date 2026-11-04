@@ -1,0 +1,4 @@
+# Docerion header of BaseSwitches.java.tmpl.
+type: source
+title: BaseSwitches template defining Android base command line switches
+summary: Template for the Java class holding command line switches specific to the base portion of Chromium on Android.

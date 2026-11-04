@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JankTrackerTest
+// summary: JUnit test verifying that multiple JankReportingScheduler instances share a single Jank-Tracker thread.
+// ---
+
 package org.chromium.base.jank_tracker;
 
 import androidx.test.filters.SmallTest;

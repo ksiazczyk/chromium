@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ValueChangedCallback
+// summary: Callback adapter that caches the last value and notifies a ValueChangedObserver with both the new and previous values, useful for cleanup when switching values.
+// ---
+
 package org.chromium.base;
 
 import org.chromium.base.supplier.MonotonicObservableSupplier;

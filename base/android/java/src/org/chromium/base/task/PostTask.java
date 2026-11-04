@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Java interface to the native Chromium scheduler
+// summary: Posts tasks to the native Chromium scheduler, queueing them in a limited pre-native thread pool until the native scheduler is ready.
+// ---
+
 package org.chromium.base.task;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

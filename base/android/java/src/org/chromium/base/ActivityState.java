@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ActivityState
+// summary: IntDef annotation defining constants for the last state change of an Android activity, from created through started, resumed, paused, stopped, and destroyed.
+// ---
+
 package org.chromium.base;
 
 import androidx.annotation.IntDef;

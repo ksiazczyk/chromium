@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JavaHeapDumpGenerator
+// summary: Utility that generates an hprof heap dump file at a given path via Android's Debug.dumpHprofData and reports whether generation succeeded.
+// ---
+
 package org.chromium.base.memory;
 
 import android.os.Debug;

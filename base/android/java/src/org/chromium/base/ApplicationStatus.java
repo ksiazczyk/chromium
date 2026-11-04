@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ApplicationStatus
+// summary: Tracks Android activity and application states, maintaining per-activity status, task IDs, window focus, and listener registration, with state changes forwarded to native code.
+// ---
+
 package org.chromium.base;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

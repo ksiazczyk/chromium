@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: StrictModeContext tests
+// summary: JUnit tests verifying that StrictModeContext.allowDiskWrites and allowDiskReads temporarily permit disk access under strict StrictMode policies.
+// ---
+
 package org.chromium.base;
 
 import android.os.StrictMode;

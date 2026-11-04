@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JniAndroid
+// summary: Java-side backing for native JNI logic, providing sanitized stack traces and handling of uncaught Java exceptions thrown during JNI calls.
+// ---
+
 package org.chromium.base;
 
 import org.jni_zero.CalledByNative;

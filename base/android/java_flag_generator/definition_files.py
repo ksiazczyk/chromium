@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Feature Definition File Resolution
+# summary: Determines which files may contain feature definitions, resolving FEATURE_DEFINITION_FILE directives against the source tree and root_gen_dir.
+# ---
+
 """Determines which files may contain the definitions of listed features.
 
 Paths handled here are relative to the current working directory (the build

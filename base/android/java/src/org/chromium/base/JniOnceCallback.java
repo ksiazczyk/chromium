@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: JniOnceCallback interface
+// summary: Interface for a one-shot JNI callback that wraps a native base::OnceCallback and must be destroyed if never invoked to avoid a native leak.
+// ---
+
 package org.chromium.base;
 
 import org.chromium.base.lifetime.Destroyable;

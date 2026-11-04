@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MemoryLimit percentage-based memory usage limit
+// summary: Value class representing a memory limit as a percentage of baseline, with predefined pressure levels and helpers to scale integer or long baseline values by the limit ratio.
+// ---
+
 package org.chromium.base.memory_coordinator;
 
 import org.chromium.build.annotations.NullMarked;

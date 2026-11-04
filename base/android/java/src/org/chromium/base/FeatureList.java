@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Access to the native feature flag list state
+// summary: Reports whether the native FeatureList is initialized and lets tests block native feature queries in favor of test-supplied values.
+// ---
+
 package org.chromium.base;
 
 import androidx.annotation.VisibleForTesting;

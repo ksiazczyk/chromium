@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidInfo
+// summary: Utility class that collects Android Build information such as device, SDK version, fingerprint, and supported ABIs and passes the fields to native code via JNI.
+// ---
+
 package org.chromium.base;
 
 import android.os.Build;

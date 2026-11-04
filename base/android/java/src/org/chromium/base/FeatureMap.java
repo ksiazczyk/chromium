@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Java accessor for feature flags and field trial parameters
+// summary: Abstract base class giving Java access to native feature flags and their field trial parameters, intended to be subclassed for each component's feature list.
+// ---
+
 package org.chromium.base;
 
 import org.jni_zero.JNINamespace;

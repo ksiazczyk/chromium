@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImportantFileWriterAndroid
+// summary: Java bridge to native code that writes important data files atomically, so a write either completes fully or leaves the file unchanged.
+// ---
+
 package org.chromium.base;
 
 import androidx.annotation.VisibleForTesting;

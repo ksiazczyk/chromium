@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RequiredCallback enforcing single invocation
+// summary: A callback wrapper that asserts it is invoked exactly once and verifies invocation before garbage collection under test via LifetimeAssert.
+// ---
+
 package org.chromium.base;
 
 import org.chromium.base.lifetime.LifetimeAssert;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FieldTrialList helper for field trial information
+// summary: Static helper that queries native field trials for group names, existence, variation parameters and trial creation via JNI.
+// ---
+
 package org.chromium.base;
 
 import org.jni_zero.JniType;

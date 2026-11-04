@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android package info utilities
+// summary: Utility methods for checking installed packages, retrieving package info and version codes, and working around WebView package visibility issues.
+// ---
+
 package org.chromium.base;
 
 import android.annotation.SuppressLint;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Allocator and pool for child process service connections
+// summary: Abstract class that allocates and manages a pool of connections to child process services declared in the Android manifest.
+// ---
+
 package org.chromium.base.process_launcher;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

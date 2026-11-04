@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pool of discardable object references
+// summary: Implements a reference pool whose typed references can be drained in one batch under memory pressure, backed by a WeakHashMap so unreferenced payloads stay collectible.
+// ---
+
 package org.chromium.base;
 
 import org.chromium.build.annotations.NullMarked;

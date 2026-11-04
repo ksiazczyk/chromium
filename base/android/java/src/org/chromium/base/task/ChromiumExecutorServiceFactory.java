@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExecutorService factory built on the PostTask API
+// summary: Creates listening scheduled executor services backed by Chromium task runners, supporting one-shot and periodic scheduled tasks.
+// ---
+
 package org.chromium.base.task;
 
 import static java.util.concurrent.TimeUnit.MILLISECONDS;

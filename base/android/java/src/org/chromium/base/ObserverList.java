@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Observer list container
+// summary: Single-threaded observer list container that can be safely modified during iteration and supports a rewindable iterator.
+// ---
+
 package org.chromium.base;
 
 import androidx.annotation.VisibleForTesting;

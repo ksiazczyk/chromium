@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: 'TimingMetric: scoped timing histogram recorder'
+// summary: Try-with-resources timer that measures elapsed uptime or thread time between construction and close, recording the result into a UMA histogram.
+// ---
+
 package org.chromium.base.metrics;
 
 import androidx.annotation.IntDef;

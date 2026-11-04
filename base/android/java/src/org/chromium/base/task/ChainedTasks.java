@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chained tasks run one after another across threads
+// summary: Lets callers queue tasks that run sequentially on arbitrary threads, posting the next task when the previous one completes, with cancellation support.
+// ---
+
 package org.chromium.base.task;
 
 import org.chromium.base.TraceEvent;

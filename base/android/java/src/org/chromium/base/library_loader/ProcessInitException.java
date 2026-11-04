@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProcessInitException
+// summary: Runtime exception thrown when process initialization fails, wrapping a LoaderErrors error code and an optional cause.
+// ---
+
 package org.chromium.base.library_loader;
 
 import org.chromium.build.annotations.NullMarked;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TimeUtils timestamp and interval timer utilities
+// summary: Provides interval timers based on various SystemClock time bases, conversion constants, and a fake clock hook that tests can use via FakeTimeTestRule.
+// ---
+
 package org.chromium.base;
 
 import android.os.SystemClock;

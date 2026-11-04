@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LazyOneshotSupplierImpl
+// summary: Abstract implementation of LazyOneshotSupplier that initializes the wrapped value on first access via doSet and notifies callbacks through a Promise.
+// ---
+
 package org.chromium.base.supplier;
 
 import org.chromium.base.Callback;

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: javatests OWNERS
+summary: Delegates code ownership of the javatests directory to the owners file in base/test/android.

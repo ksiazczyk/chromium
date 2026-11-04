@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeatureParam base class for feature-scoped parameters
+// summary: Abstract base class representing a single value scoped within a feature, with in-memory caching and test reset support.
+// ---
+
 package org.chromium.base;
 
 import android.util.Pair;

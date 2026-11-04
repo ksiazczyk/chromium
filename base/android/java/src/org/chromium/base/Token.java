@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Token value object for random 128-bit identifiers
+// summary: Java counterpart of the native base::Token, a random 128-bit integer value object with bundle serialization and JNI-based random token creation.
+// ---
+
 package org.chromium.base;
 
 import android.os.Bundle;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Constants used by child processes
+// summary: Interface of constants for child processes, including the intent extra key that carries the browser package name.
+// ---
+
 package org.chromium.base.process_launcher;
 
 import org.chromium.build.annotations.NullMarked;

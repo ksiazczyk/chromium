@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SequencedTaskRunnerImplTest
+// summary: JUnit test verifying that SequencedTaskRunnerImpl executes pre-native tasks in the order they were posted.
+// ---
+
 package org.chromium.base.task;
 
 import static org.hamcrest.MatcherAssert.assertThat;

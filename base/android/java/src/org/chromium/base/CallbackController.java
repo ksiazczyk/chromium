@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cancelable callback wrapper for lifecycle management
+// summary: Wraps lambdas such as callbacks and runnables in cancelable versions that can be canceled in bulk when destroy is called.
+// ---
+
 package org.chromium.base;
 
 import org.chromium.build.annotations.EnsuresNonNull;

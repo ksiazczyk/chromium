@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OneShotCallback
+// summary: Helper that observes a supplier and guarantees the wrapped callback is invoked exactly once with a value, holding only a weak reference to the supplier.
+// ---
+
 package org.chromium.base.supplier;
 
 import org.chromium.base.Callback;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android PackageManager utilities
+// summary: Utility methods around the Android PackageManager for resolving activities and intents and checking system features.
+// ---
+
 package org.chromium.base;
 
 import android.content.Intent;
