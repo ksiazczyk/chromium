@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadType string conversion and task importance override
+// summary: Implements ThreadTypeToString and a scoped override that lowers the reported importance of the currently executing task.
+// ---
+
 #include "base/task/thread_type.h"
 
 #include <string_view>

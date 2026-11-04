@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WorkTracker implementation
+// summary: Implements WorkTracker and SyncWorkAuthorization, which track queued and running work to coordinate when tasks may run synchronously in the sequence manager.
+// ---
+
 #include "base/task/sequence_manager/work_tracker.h"
 
 #include "base/check.h"

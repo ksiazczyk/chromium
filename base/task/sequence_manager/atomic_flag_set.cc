@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtomicFlagSet implementation
+// summary: Implements a set of atomic flags with callbacks that can be activated from any thread and run on the associated thread via RunActiveCallbacks.
+// ---
+
 #include "base/task/sequence_manager/atomic_flag_set.h"
 
 #include <bit>

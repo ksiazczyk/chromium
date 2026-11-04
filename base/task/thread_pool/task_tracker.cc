@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskTracker implementation
+// summary: Implements TaskTracker, which enforces policies for posting, queuing, and running tasks, manages shutdown behavior, and records metrics and trace events.
+// ---
+
 #include "base/task/thread_pool/task_tracker.h"
 
 #include <atomic>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedDeferTaskPosting implementation
+// summary: Implements ScopedDeferTaskPosting, which defers task posting until scope exit to avoid deadlocks when posting tasks from within a trace event.
+// ---
+
 #include "base/task/common/scoped_defer_task_posting.h"
 
 #include "base/compiler_specific.h"

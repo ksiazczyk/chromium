@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PostJob API for parallel work on the thread pool
+// summary: Declares JobDelegate, JobHandle and job-posting entry points that let workers yield, adjust concurrency, and control job execution.
+// ---
+
 #ifndef BASE_TASK_POST_JOB_H_
 #define BASE_TASK_POST_JOB_H_
 

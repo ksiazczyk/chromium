@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WorkQueue class declaration
+// summary: Declares the WorkQueue holding tasks ready to run, with fence support, cancelled-task removal policies, and an RAII TaskPusher for batched insertion.
+// ---
+
 #ifndef BASE_TASK_SEQUENCE_MANAGER_WORK_QUEUE_H_
 #define BASE_TASK_SEQUENCE_MANAGER_WORK_QUEUE_H_
 

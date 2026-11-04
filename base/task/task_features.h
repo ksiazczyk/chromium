@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task feature flag declarations
+// summary: Declares base task feature flags and parameters controlling thread groups, delayed task leeway, batching, and thread pool behavior.
+// ---
+
 #ifndef BASE_TASK_TASK_FEATURES_H_
 #define BASE_TASK_TASK_FEATURES_H_
 

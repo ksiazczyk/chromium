@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Thread pool performance test
+// summary: Performance test measuring task posting and running throughput of the thread pool across stories with varying numbers of posting threads and execution modes.
+// ---
+
 #include "base/task/thread_pool.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskQueueSelector implementation
+// summary: Implements TaskQueueSelector, managing queue registration, priority changes, enabling and disabling, and choosing the next work queue to service.
+// ---
+
 #include "base/task/sequence_manager/task_queue_selector.h"
 
 #include <bit>

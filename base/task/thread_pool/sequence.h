@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadPool sequence task source class declaration
+// summary: Declares the Sequence class, a thread-safe task source holding immediate tasks in a FIFO queue and delayed tasks in a priority queue, with a Transaction class for atomic updates.
+// ---
+
 #ifndef BASE_TASK_THREAD_POOL_SEQUENCE_H_
 #define BASE_TASK_THREAD_POOL_SEQUENCE_H_
 

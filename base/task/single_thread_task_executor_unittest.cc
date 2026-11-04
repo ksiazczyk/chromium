@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SingleThreadTaskExecutor unit tests
+// summary: Extensive unit tests for SingleThreadTaskExecutor covering task ordering, nesting, pumping, and platform-specific message pump behavior.
+// ---
+
 #include "base/task/single_thread_task_executor.h"
 
 #include <stddef.h>

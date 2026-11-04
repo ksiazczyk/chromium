@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskTraits string conversion and thread type helpers
+// summary: Implements string conversions for task priorities and shutdown behavior plus internal mapping of TaskPriority to thread types.
+// ---
+
 #include "base/task/task_traits.h"
 
 #include <stddef.h>

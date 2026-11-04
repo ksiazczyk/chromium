@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DelayedTaskHandle for canceling delayed tasks
+// summary: Declares base::DelayedTaskHandle, a non-thread-safe handle that checks validity and cancels a posted delayed task through a per-runner delegate interface.
+// ---
+
 #ifndef BASE_TASK_DELAYED_TASK_HANDLE_H_
 #define BASE_TASK_DELAYED_TASK_HANDLE_H_
 

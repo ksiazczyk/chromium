@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WorkQueueSets unit tests
+// summary: Unit tests for WorkQueueSets covering queue addition and removal, set index changes, and oldest-queue tracking using a mock observer.
+// ---
+
 #include "base/task/sequence_manager/work_queue_sets.h"
 
 #include <stddef.h>

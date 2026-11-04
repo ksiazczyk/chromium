@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TrackedRef ref-counting for single-owner objects
+// summary: Defines TrackedRef and TrackedRefFactory, a ref-counting scheme that blocks object destruction until all tracked references are released, used for safe thread pool teardown in tests.
+// ---
+
 #ifndef BASE_TASK_THREAD_POOL_TRACKED_REF_H_
 #define BASE_TASK_THREAD_POOL_TRACKED_REF_H_
 

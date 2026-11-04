@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ThreadPoolImpl unit tests
+// summary: Unit tests for ThreadPoolImpl covering initialization, thread group selection by task traits, shutdown, fences, and priority updates.
+// ---
+
 #include "base/task/thread_pool/thread_pool_impl.h"
 
 #include <stddef.h>

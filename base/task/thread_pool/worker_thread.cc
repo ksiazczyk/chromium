@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Worker thread implementation
+// summary: Implements the WorkerThread that runs tasks from task sources returned by its delegate, covering sleep and wake-up, PartitionAlloc thread cache purging, and idle worker reclaim.
+// ---
+
 #include "base/task/thread_pool/worker_thread.h"
 
 #include <stddef.h>

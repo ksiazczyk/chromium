@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PriorityQueue implementation
+// summary: Implements an intrusive-heap-based priority queue that orders task sources by sort key, tracks foreground and background counts, and can flush tasks on destroy for testing.
+// ---
+
 #include "base/task/thread_pool/priority_queue.h"
 
 #include <utility>

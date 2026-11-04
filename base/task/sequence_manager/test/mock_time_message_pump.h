@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock time message pump for tests
+// summary: Declares MockTimeMessagePump, a MessagePump that tracks time with a SimpleTestTickClock and auto-advances it, failing if the pump would sleep.
+// ---
+
 #ifndef BASE_TASK_SEQUENCE_MANAGER_TEST_MOCK_TIME_MESSAGE_PUMP_H_
 #define BASE_TASK_SEQUENCE_MANAGER_TEST_MOCK_TIME_MESSAGE_PUMP_H_
 

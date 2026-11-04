@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskObserver interface
+// summary: Declares the TaskObserver interface with WillProcessTask and DidProcessTask callbacks for observing task processing on a thread.
+// ---
+
 #ifndef BASE_TASK_TASK_OBSERVER_H_
 #define BASE_TASK_TASK_OBSERVER_H_
 

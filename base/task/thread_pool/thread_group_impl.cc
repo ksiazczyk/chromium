@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadGroupImpl implementation
+// summary: Implements ThreadGroupImpl, the concrete thread group that manages worker threads, wake-ups, blocking-call thresholds, and profiling for foreground and background pools.
+// ---
+
 #include "base/task/thread_pool/thread_group_impl.h"
 
 #include <algorithm>

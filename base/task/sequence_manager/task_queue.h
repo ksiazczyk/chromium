@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskQueue class definition
+// summary: Defines TaskQueue, an ordered list of tasks sharing properties such as priority and throttling, managed by a SequenceManager.
+// ---
+
 #ifndef BASE_TASK_SEQUENCE_MANAGER_TASK_QUEUE_H_
 #define BASE_TASK_SEQUENCE_MANAGER_TASK_QUEUE_H_
 

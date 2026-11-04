@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskQueueImpl class definition
+// summary: Declares the internal TaskQueueImpl with its four internal queues and prioritization through WorkQueueSets and TaskQueueSelector.
+// ---
+
 #ifndef BASE_TASK_SEQUENCE_MANAGER_TASK_QUEUE_IMPL_H_
 #define BASE_TASK_SEQUENCE_MANAGER_TASK_QUEUE_IMPL_H_
 

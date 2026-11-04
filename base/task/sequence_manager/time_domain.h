@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TimeDomain class declaration
+// summary: Declares the abstract TimeDomain TickClock base that lets subclasses override clocks, such as auto-advancing virtual or throttled time, for the sequence manager.
+// ---
+
 #ifndef BASE_TASK_SEQUENCE_MANAGER_TIME_DOMAIN_H_
 #define BASE_TASK_SEQUENCE_MANAGER_TIME_DOMAIN_H_
 

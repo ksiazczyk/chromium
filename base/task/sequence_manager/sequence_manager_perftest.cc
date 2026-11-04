@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sequence manager performance tests
+// summary: Performance tests measuring per-task posting time of the sequence manager across message pump, virtual time and thread pool configurations.
+// ---
+
 #include "base/task/sequence_manager/sequence_manager.h"
 
 #include <stddef.h>

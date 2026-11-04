@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: No-op task time observer for tests
+// summary: Declares TestTaskTimeObserver, an empty TaskTimeObserver implementation for use in sequence manager tests.
+// ---
+
 #ifndef BASE_TASK_SEQUENCE_MANAGER_TEST_TEST_TASK_TIME_OBSERVER_H_
 #define BASE_TASK_SEQUENCE_MANAGER_TEST_TEST_TASK_TIME_OBSERVER_H_
 

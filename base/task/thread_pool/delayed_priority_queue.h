@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delayed priority queue interface
+// summary: Declares DelayedPriorityQueue, a non-thread-safe queue that holds task sources ordered by delayed runtime with push, peek, pop, remove and update operations.
+// ---
+
 #ifndef BASE_TASK_THREAD_POOL_DELAYED_PRIORITY_QUEUE_H_
 #define BASE_TASK_THREAD_POOL_DELAYED_PRIORITY_QUEUE_H_
 

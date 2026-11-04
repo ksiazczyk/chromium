@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PooledTaskRunnerDelegate implementation
+// summary: Implements the pooled task runner delegate base, tracking the process-wide current delegate to detect stale task runner usage such as leaked state between tests.
+// ---
+
 #include "base/task/thread_pool/pooled_task_runner_delegate.h"
 
 #include "base/debug/task_trace.h"

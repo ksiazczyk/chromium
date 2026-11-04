@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PooledSingleThreadTaskRunnerManager unit tests
+// summary: Unit tests verifying thread usage, dedicated versus shared thread modes, COM STA behavior, and shutdown handling of the single-thread task runner manager.
+// ---
+
 #include "base/task/thread_pool/pooled_single_thread_task_runner_manager.h"
 
 #include "base/functional/bind.h"

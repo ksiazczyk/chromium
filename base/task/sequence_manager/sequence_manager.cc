@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SequenceManager settings and priority settings
+// summary: Implements SequenceManager's PrioritySettings and Settings builder, covering priority counts, tracing converters, clocks, and batching options.
+// ---
+
 #include "base/task/sequence_manager/sequence_manager.h"
 
 #include <utility>

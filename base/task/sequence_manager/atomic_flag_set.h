@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtomicFlagSet class declaration
+// summary: Declares AtomicFlagSet and its AtomicFlag, a thread-affine set of atomically activatable flags with per-flag callbacks fired on the associated thread.
+// ---
+
 #ifndef BASE_TASK_SEQUENCE_MANAGER_ATOMIC_FLAG_SET_H_
 #define BASE_TASK_SEQUENCE_MANAGER_ATOMIC_FLAG_SET_H_
 

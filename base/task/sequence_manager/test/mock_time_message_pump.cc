@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock time message pump implementation
+// summary: Implements MockTimeMessagePump, a message pump that advances a SimpleTestTickClock as needed to keep running tasks without sleeping.
+// ---
+
 #include "base/task/sequence_manager/test/mock_time_message_pump.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake task implementations for sequence manager tests
+// summary: Implements FakeTask and FakeTaskTiming, lightweight fake Task and TaskTiming objects used as test helpers in sequence manager tests.
+// ---
+
 #include "base/task/sequence_manager/test/fake_task.h"
 
 namespace base::sequence_manager {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BindPostTask internal trampoline
+// summary: Defines the internal BindPostTaskTrampoline helper that posts callback invocation and destruction to the target task runner.
+// ---
+
 #ifndef BASE_TASK_BIND_POST_TASK_INTERNAL_H_
 #define BASE_TASK_BIND_POST_TASK_INTERNAL_H_
 

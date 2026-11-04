@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ThreadControllerWithMessagePumpImpl unit tests
+// summary: Extensive unit tests for the message-pump-backed thread controller, covering work scheduling, nesting, run levels, tracing, metrics, and power monitor behavior.
+// ---
+
 #include "base/task/sequence_manager/thread_controller_with_message_pump_impl.h"
 
 #include <array>

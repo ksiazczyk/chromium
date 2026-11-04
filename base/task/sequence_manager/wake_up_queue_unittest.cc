@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WakeUpQueue unit tests
+// summary: Unit tests for the wake-up queue, verifying wake-up scheduling, superseding of previous wake-ups, and notifications via a mock queue and test tick clock.
+// ---
+
 #include "base/task/sequence_manager/wake_up_queue.h"
 
 #include <memory>

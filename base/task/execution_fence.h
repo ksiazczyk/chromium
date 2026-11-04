@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Execution fence declarations
+// summary: Declares ScopedThreadPoolExecutionFence and ScopedBestEffortExecutionFence, RAII scopes that prevent new thread pool tasks from being scheduled.
+// ---
+
 #ifndef BASE_TASK_EXECUTION_FENCE_H_
 #define BASE_TASK_EXECUTION_FENCE_H_
 

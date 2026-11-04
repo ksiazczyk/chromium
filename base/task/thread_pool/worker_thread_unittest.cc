@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Worker thread unit tests
+// summary: Unit tests for the thread pool worker thread, covering task execution, delegate interactions, and worker behavior in Chromium's base task thread pool.
+// ---
+
 #include "base/task/thread_pool/worker_thread.h"
 
 #include <stddef.h>

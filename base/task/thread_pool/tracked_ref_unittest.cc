@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TrackedRef unit tests
+// summary: Unit tests verifying that destruction of an object with a TrackedRefFactory blocks until its TrackedRefs are released, including behavior under multi-threaded races.
+// ---
+
 #include "base/task/thread_pool/tracked_ref.h"
 
 #include <memory>

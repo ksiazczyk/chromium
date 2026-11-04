@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task and PostedTask implementation
+// summary: Implements Task construction from posted tasks, task ordering, heap handles, cancellation checks, WakeUp timing bounds and PostedTask constructors.
+// ---
+
 #include "base/task/sequence_manager/tasks.h"
 
 #include <variant>

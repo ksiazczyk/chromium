@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskTracker class declaration
+// summary: Declares TaskTracker and the CanRunPolicy enum, which determine whether tasks may be posted, queued, and run, and set up the environment for task execution.
+// ---
+
 #ifndef BASE_TASK_THREAD_POOL_TASK_TRACKER_H_
 #define BASE_TASK_THREAD_POOL_TASK_TRACKER_H_
 

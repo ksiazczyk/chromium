@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thread group initialization utility implementation
+// summary: Implements RecommendedMaxNumberOfThreadsInThreadGroup, computing a thread count from core count, multiplier, offset and clamped bounds.
+// ---
+
 #include "base/task/thread_pool/initialization_util.h"
 
 #include <algorithm>

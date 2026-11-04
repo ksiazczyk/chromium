@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WakeUpQueue implementation
+// summary: Implements aggregation of delayed wake-ups from multiple task queues into an intrusive heap and moves ready delayed tasks into work queues.
+// ---
+
 #include "base/task/sequence_manager/wake_up_queue.h"
 
 #include <optional>

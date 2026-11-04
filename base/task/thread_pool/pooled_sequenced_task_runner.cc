@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PooledSequencedTaskRunner implementation
+// summary: Implements a pooled task runner that posts tasks to a shared Sequence, supporting delayed tasks, non-nestable tasks, sequence checks, and priority updates.
+// ---
+
 #include "base/task/thread_pool/pooled_sequenced_task_runner.h"
 
 #include "base/message_loop/message_pump.h"

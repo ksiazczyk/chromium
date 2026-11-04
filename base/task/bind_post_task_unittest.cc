@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BindPostTask unit tests
+// summary: Unit tests verifying that BindPostTask runs and destroys wrapped callbacks on the bound task runner, including move-only arguments and callback chaining.
+// ---
+
 #include "base/task/bind_post_task.h"
 
 #include "base/functional/bind.h"

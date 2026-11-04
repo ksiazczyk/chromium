@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OperationsController class declaration
+// summary: Declares a lock-free thread-safe controller that gates critical multi-threaded operations via RAII operation tokens and waits for zero operations on shutdown.
+// ---
+
 #ifndef BASE_TASK_COMMON_OPERATIONS_CONTROLLER_H_
 #define BASE_TASK_COMMON_OPERATIONS_CONTROLLER_H_
 

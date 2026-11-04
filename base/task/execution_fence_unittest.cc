@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for execution fences
+// summary: Parameterized unit tests verifying that thread pool and best-effort execution fences block and release tasks across thread pool and task queue runners.
+// ---
+
 #include "base/task/execution_fence.h"
 
 #include <map>

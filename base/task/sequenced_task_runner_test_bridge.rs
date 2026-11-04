@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Rust cxx bridge for SequencedTaskRunner test utilities
+// summary: Defines a cxx bridge exposing the C++ TestRefCounted helper and its ref-counting operations to Rust for SequencedTaskRunner tests.
+// ---
+
 chromium::import! {
     "//base:scoped_refptr";
     "//base:sequenced_task_runner";

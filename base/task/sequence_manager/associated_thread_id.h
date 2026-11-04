@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AssociatedThreadId class declaration
+// summary: Declares a ref-counted, thread-safe object that tracks the thread a sequence manager is bound to and supports sequence-based mutual exclusion checks.
+// ---
+
 #ifndef BASE_TASK_SEQUENCE_MANAGER_ASSOCIATED_THREAD_ID_H_
 #define BASE_TASK_SEQUENCE_MANAGER_ASSOCIATED_THREAD_ID_H_
 

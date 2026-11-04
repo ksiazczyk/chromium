@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TimeDomain implementation
+// summary: Implements base TimeDomain methods that link the domain to its SequenceManager and serialize its name as debug state.
+// ---
+
 #include "base/task/sequence_manager/time_domain.h"
 
 #include <optional>

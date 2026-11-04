@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SingleThreadTaskRunner unit tests
+// summary: Unit tests for SingleThreadTaskRunner current-default handles, nested overrides for testing, and death checks on implicit overrides.
+// ---
+
 #include "base/task/single_thread_task_runner.h"
 
 #include "base/barrier_closure.h"

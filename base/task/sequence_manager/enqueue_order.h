@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EnqueueOrder task ordering value type
+// summary: Defines EnqueueOrder, a 64-bit value used to order tasks, with special values for none and blocking fences plus a maximum value for comparisons.
+// ---
+
 #ifndef BASE_TASK_SEQUENCE_MANAGER_ENQUEUE_ORDER_H_
 #define BASE_TASK_SEQUENCE_MANAGER_ENQUEUE_ORDER_H_
 

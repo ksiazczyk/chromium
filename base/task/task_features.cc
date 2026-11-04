@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task feature flag definitions
+// summary: Defines base task feature flags and parameters such as thread groups, task leeway, wake-up alignment, batching, and thread pool blocking timeouts.
+// ---
+
 #include "base/task/task_features.h"
 
 #include <atomic>

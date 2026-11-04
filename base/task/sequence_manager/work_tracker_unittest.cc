@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WorkTracker unit tests
+// summary: Unit tests verifying when sync work authorizations are granted, including blocking behavior and sequencing requirements of WorkTracker methods.
+// ---
+
 #include "base/task/sequence_manager/work_tracker.h"
 
 #include <optional>

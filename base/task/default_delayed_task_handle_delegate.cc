@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DefaultDelayedTaskHandleDelegate implementation
+// summary: Implements the default delayed task handle delegate that cancels pending delayed tasks by invalidating weak pointers.
+// ---
+
 #include "base/task/default_delayed_task_handle_delegate.h"
 
 #include <utility>

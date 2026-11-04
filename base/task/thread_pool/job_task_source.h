@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Job task source class declaration
+// summary: Declares JobTaskSource, a task source that runs many concurrent workers from one closure with controllable maximum concurrency.
+// ---
+
 #ifndef BASE_TASK_THREAD_POOL_JOB_TASK_SOURCE_H_
 #define BASE_TASK_THREAD_POOL_JOB_TASK_SOURCE_H_
 

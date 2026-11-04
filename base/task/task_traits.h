@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskTraits definitions for priority, shutdown behavior and thread policy
+// summary: Defines the TaskPriority and TaskShutdownBehavior enums and the TaskTraits bag used to describe how posted tasks should be scheduled.
+// ---
+
 #ifndef BASE_TASK_TASK_TRAITS_H_
 #define BASE_TASK_TASK_TRAITS_H_
 

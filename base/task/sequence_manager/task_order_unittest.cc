@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TaskOrder unit tests
+// summary: Unit tests verifying the comparison operators of TaskOrder for immediate and delayed tasks across enqueue order, run time and sequence number.
+// ---
+
 #include "base/task/sequence_manager/task_order.h"
 
 #include <optional>

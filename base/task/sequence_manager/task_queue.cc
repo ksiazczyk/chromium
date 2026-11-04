@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskQueue implementation
+// summary: Implements queue enabled voting, task timing metric recording and the Handle that owns and unregisters task queues.
+// ---
+
 #include "base/task/sequence_manager/task_queue.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Thread pool test utilities header
+// summary: Declares thread pool test utilities, including MockWorkerThreadObserver, MockPooledTaskRunnerDelegate, and MockJobTask for testing task scheduling.
+// ---
+
 #ifndef BASE_TASK_THREAD_POOL_TEST_UTILS_H_
 #define BASE_TASK_THREAD_POOL_TEST_UTILS_H_
 

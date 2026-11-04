@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PriorityQueue class declaration
+// summary: Declares a non-thread-safe priority queue holding task sources sorted by TaskSourceSortKey, with push, peek, pop, remove, and sort key update operations.
+// ---
+
 #ifndef BASE_TASK_THREAD_POOL_PRIORITY_QUEUE_H_
 #define BASE_TASK_THREAD_POOL_PRIORITY_QUEUE_H_
 

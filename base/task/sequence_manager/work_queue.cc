@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WorkQueue implementation
+// summary: Implements the WorkQueue that stores immediate and delayed tasks due to run, handling fences, task ordering checks, and coordination with WorkQueueSets.
+// ---
+
 #include "base/task/sequence_manager/work_queue.h"
 
 #include <optional>

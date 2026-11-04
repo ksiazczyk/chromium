@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WorkDeduplicator implementation
+// summary: Implements the WorkDeduplicator, which prevents redundant DoWork scheduling by atomically tracking pending and in-progress work state across threads.
+// ---
+
 #include "base/task/sequence_manager/work_deduplicator.h"
 
 #include <ostream>

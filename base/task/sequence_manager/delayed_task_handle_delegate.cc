@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DelayedTaskHandleDelegate implementation
+// summary: Implements validity checks, cancellation, and heap handle management for delayed task handles backed by weak pointers.
+// ---
+
 #include "base/task/sequence_manager/delayed_task_handle_delegate.h"
 
 #include "base/task/sequence_manager/task_queue_impl.h"

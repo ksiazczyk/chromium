@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BindPostTask helper header
+// summary: Declares BindPostTask, a helper that wraps Once and Repeating callbacks so they are invoked and destroyed on a specified task runner.
+// ---
+
 #ifndef BASE_TASK_BIND_POST_TASK_H_
 #define BASE_TASK_BIND_POST_TASK_H_
 

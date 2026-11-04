@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DelayPolicy enum for delayed task scheduling
+// summary: Defines the subtle DelayPolicy enum describing how delayed tasks are scheduled relative to a specified time, with flexible and precise options.
+// ---
+
 #ifndef BASE_TASK_DELAY_POLICY_H_
 #define BASE_TASK_DELAY_POLICY_H_
 

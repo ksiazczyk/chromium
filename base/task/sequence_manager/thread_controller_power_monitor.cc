@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadControllerPowerMonitor implementation
+// summary: Implements a power suspend observer that tracks whether the process is in a power-suspended state and gates this on a feature flag for the thread controller.
+// ---
+
 #include "base/task/sequence_manager/thread_controller_power_monitor.h"
 
 #include "base/feature_list.h"

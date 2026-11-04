@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock time domain for sequence manager tests
+// summary: Declares MockTimeDomain, a TimeDomain backed by a mock clock that can be set manually and does not invoke the SequenceManager.
+// ---
+
 #ifndef BASE_TASK_SEQUENCE_MANAGER_TEST_MOCK_TIME_DOMAIN_H_
 #define BASE_TASK_SEQUENCE_MANAGER_TEST_MOCK_TIME_DOMAIN_H_
 

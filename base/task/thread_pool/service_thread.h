@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadPool service thread class declaration
+// summary: Declares the ServiceThread class, a dedicated Thread that stays highly responsive while forwarding async events, with Run aliased for stack trace identification.
+// ---
+
 #ifndef BASE_TASK_THREAD_POOL_SERVICE_THREAD_H_
 #define BASE_TASK_THREAD_POOL_SERVICE_THREAD_H_
 

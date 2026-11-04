@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SequencedTaskRunner Rust shim implementation
+// summary: Implements C++ entry points that expose the current default SequencedTaskRunner to Rust, including task posting, ref-counting, and sequence checks.
+// ---
+
 #include "base/task/sequenced_task_runner_rust_shim.h"
 
 #include "base/functional/bind.h"

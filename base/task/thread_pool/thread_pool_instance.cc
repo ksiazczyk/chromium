@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadPoolInstance global management
+// summary: Implements ThreadPoolInstance global creation, start with default parameters, and scoped helpers for restricted tasks and fizzling block-shutdown tasks.
+// ---
+
 #include "base/task/thread_pool/thread_pool_instance.h"
 
 #include <algorithm>

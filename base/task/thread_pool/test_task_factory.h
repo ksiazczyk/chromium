@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestTaskFactory class declaration
+// summary: Declares TestTaskFactory, a test helper that posts tasks to a task runner and checks that they run as expected for the given execution mode.
+// ---
+
 #ifndef BASE_TASK_THREAD_POOL_TEST_TASK_FACTORY_H_
 #define BASE_TASK_THREAD_POOL_TEST_TASK_FACTORY_H_
 

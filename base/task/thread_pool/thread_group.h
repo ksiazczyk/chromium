@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadGroup interface and base class
+// summary: Declares the ThreadGroup interface and base implementation, defining how a subset of thread pool threads is started, bound to threads, and managed.
+// ---
+
 #ifndef BASE_TASK_THREAD_POOL_THREAD_GROUP_H_
 #define BASE_TASK_THREAD_POOL_THREAD_GROUP_H_
 

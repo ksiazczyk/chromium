@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedSetTaskPriorityForCurrentThread header
+// summary: Declares a scoped object that overrides the task priority reported for the current thread and the matching getter function.
+// ---
+
 #ifndef BASE_TASK_SCOPED_SET_TASK_PRIORITY_FOR_CURRENT_THREAD_H_
 #define BASE_TASK_SCOPED_SET_TASK_PRIORITY_FOR_CURRENT_THREAD_H_
 

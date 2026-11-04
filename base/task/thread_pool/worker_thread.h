@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WorkerThread class and delegate interface
+// summary: Declares the WorkerThread managing a single pooled worker thread and its Delegate interface for getting work, swapping processed task sources, sleeping, and observing main entry and exit.
+// ---
+
 #ifndef BASE_TASK_THREAD_POOL_WORKER_THREAD_H_
 #define BASE_TASK_THREAD_POOL_WORKER_THREAD_H_
 

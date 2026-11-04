@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadControllerPowerMonitor class declaration
+// summary: Declares a PowerSuspendObserver helper that registers with the PowerMonitor on the bound thread and reports the process power suspend state.
+// ---
+
 #ifndef BASE_TASK_SEQUENCE_MANAGER_THREAD_CONTROLLER_POWER_MONITOR_H_
 #define BASE_TASK_SEQUENCE_MANAGER_THREAD_CONTROLLER_POWER_MONITOR_H_
 

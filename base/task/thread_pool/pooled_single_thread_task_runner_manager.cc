@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PooledSingleThreadTaskRunnerManager implementation
+// summary: Implements management of worker thread groups backing single-thread task runners, including environment selection for traits, COM STA support on Windows, and lifecycle handling.
+// ---
+
 #include "base/task/thread_pool/pooled_single_thread_task_runner_manager.h"
 
 #include <algorithm>

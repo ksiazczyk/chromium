@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadPool sequence task source implementation
+// summary: Implements the Sequence task source, which queues immediate and delayed tasks that must run in posting order, including transaction-based pushing and shutdown behavior handling.
+// ---
+
 #include "base/task/thread_pool/sequence.h"
 
 #include <utility>

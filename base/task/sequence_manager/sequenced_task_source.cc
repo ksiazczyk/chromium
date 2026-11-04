@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SequencedTaskSource SelectedTask implementation
+// summary: Implements the SelectedTask value type of the sequenced task source, carrying the task, trace logger, priority, thread type and queue name.
+// ---
+
 #include "base/task/sequence_manager/sequenced_task_source.h"
 
 namespace base::sequence_manager::internal {

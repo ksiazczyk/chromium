@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DelayedTaskHandleDelegate class declaration
+// summary: Declares the DelayedTaskHandle::Delegate implementation that lets TaskQueueImpl track and cancel pending delayed tasks through weak pointers.
+// ---
+
 #ifndef BASE_TASK_SEQUENCE_MANAGER_DELAYED_TASK_HANDLE_DELEGATE_H_
 #define BASE_TASK_SEQUENCE_MANAGER_DELAYED_TASK_HANDLE_DELEGATE_H_
 

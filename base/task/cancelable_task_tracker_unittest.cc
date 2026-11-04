@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CancelableTaskTracker unit tests
+// summary: Unit tests covering posting, replying and canceling tasks through CancelableTaskTracker across task runners and worker threads.
+// ---
+
 #include "base/task/cancelable_task_tracker.h"
 
 #include <cstddef>

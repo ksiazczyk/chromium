@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TaskSourceSortKey unit tests
+// summary: Unit tests verifying the less-than, equal, and not-equal operators of TaskSourceSortKey against a manually ordered set of test keys.
+// ---
+
 #include "base/task/thread_pool/task_source_sort_key.h"
 
 #include <array>

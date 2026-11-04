@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the thread pool service thread
+// summary: Unit test verifying that a ServiceThread frame appears on the stack when the thread runs tasks, with the check disabled on flaky POSIX bots.
+// ---
+
 #include "base/task/thread_pool/service_thread.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadPool task struct declaration
+// summary: Declares the Task struct, a move-only unit of work extending PendingTask with heap handle support required by IntrusiveHeap.
+// ---
+
 #ifndef BASE_TASK_THREAD_POOL_TASK_H_
 #define BASE_TASK_THREAD_POOL_TASK_H_
 

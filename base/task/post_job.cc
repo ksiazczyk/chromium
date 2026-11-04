@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Job posting implementation
+// summary: Implements JobDelegate and JobHandle for posting and controlling parallel jobs on the thread pool, including yielding, joining, and priority updates.
+// ---
+
 #include "base/task/post_job.h"
 
 #include "base/task/scoped_set_task_priority_for_current_thread.h"

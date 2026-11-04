@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task source base implementation
+// summary: Implements TaskSource transactions, priority and thread type updates, heap handle management, and RegisteredTaskSource registration and unregistration with the task tracker.
+// ---
+
 #include "base/task/thread_pool/task_source.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Lazy thread pool task runner declarations
+// summary: Declares lazy task runner types and initializer macros for creating thread-pool-bound task runners without static initializers.
+// ---
+
 #ifndef BASE_TASK_LAZY_THREAD_POOL_TASK_RUNNER_H_
 #define BASE_TASK_LAZY_THREAD_POOL_TASK_RUNNER_H_
 

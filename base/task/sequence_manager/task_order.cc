@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskOrder comparison operators
+// summary: Implements TaskOrder comparison operators that order tasks by enqueue order, delayed run time and sequence number.
+// ---
+
 #include "base/task/sequence_manager/task_order.h"
 
 #include <functional>

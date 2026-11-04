@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PooledSequencedTaskRunner class declaration
+// summary: Declares PooledSequencedTaskRunner, an UpdateableSequencedTaskRunner that runs posted tasks in order through a pooled task runner delegate.
+// ---
+
 #ifndef BASE_TASK_THREAD_POOL_POOLED_SEQUENCED_TASK_RUNNER_H_
 #define BASE_TASK_THREAD_POOL_POOLED_SEQUENCED_TASK_RUNNER_H_
 

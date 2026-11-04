@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OperationsController unit tests
+// summary: Unit tests for OperationsController covering begin operations, shutdown behavior, StartAcceptingOperations and move semantics of operation tokens.
+// ---
+
 #include "base/task/common/operations_controller.h"
 
 #include <algorithm>

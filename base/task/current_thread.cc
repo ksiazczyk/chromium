@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CurrentThread implementation
+// summary: Implements the CurrentThread and CurrentUIThread proxies that expose task-related APIs bound to the current thread, replacing the old MessageLoop::current() access.
+// ---
+
 #include "base/task/current_thread.h"
 
 #include <utility>

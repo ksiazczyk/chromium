@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SequencedTaskRunner Rust shim declarations
+// summary: Declares the C++ functions used to access, post tasks to, and ref-count a SequencedTaskRunner from Rust via the cxx FFI layer.
+// ---
+
 #ifndef BASE_TASK_SEQUENCED_TASK_RUNNER_RUST_SHIM_H_
 #define BASE_TASK_SEQUENCED_TASK_RUNNER_RUST_SHIM_H_
 

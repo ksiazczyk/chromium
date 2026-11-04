@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CancelableTaskTracker implementation
+// summary: Implements CancelableTaskTracker, which posts tasks and replies while tracking cancellation flags so outstanding tasks can be canceled.
+// ---
+
 #include "base/task/cancelable_task_tracker.h"
 
 #include <stddef.h>

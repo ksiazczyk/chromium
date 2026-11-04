@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EnqueueOrderGenerator header
+// summary: Declares a thread-safe generator that produces strictly monotonic EnqueueOrder values using an atomic counter and can be called from any thread.
+// ---
+
 #ifndef BASE_TASK_SEQUENCE_MANAGER_ENQUEUE_ORDER_GENERATOR_H_
 #define BASE_TASK_SEQUENCE_MANAGER_ENQUEUE_ORDER_GENERATOR_H_
 

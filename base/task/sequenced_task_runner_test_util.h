@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SequencedTaskRunner test utility declarations
+// summary: Declares the TestRefCounted class and its factory function used to test ref-counted objects across the Rust-C++ boundary.
+// ---
+
 #ifndef BASE_TASK_SEQUENCED_TASK_RUNNER_TEST_UTIL_H_
 #define BASE_TASK_SEQUENCED_TASK_RUNNER_TEST_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Job task source implementation
+// summary: Implements JobTaskSource, which generates many tasks from a single repeating closure and tracks worker counts, cancellation and join state.
+// ---
+
 #include "base/task/thread_pool/job_task_source.h"
 
 #include <bit>

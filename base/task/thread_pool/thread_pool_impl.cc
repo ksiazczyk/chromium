@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThreadPoolImpl implementation
+// summary: Implements ThreadPoolImpl, the default ThreadPoolInstance that sets up foreground, utility, presentation, audio, and background thread groups and routes task sources.
+// ---
+
 #include "base/task/thread_pool/thread_pool_impl.h"
 
 #include <algorithm>

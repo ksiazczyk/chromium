@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SingleThreadTaskExecutor declarations
+// summary: Declares SingleThreadTaskExecutor, a non-test single-thread executor exposing its default task runner, pump type, and work batch size.
+// ---
+
 #ifndef BASE_TASK_SINGLE_THREAD_TASK_EXECUTOR_H_
 #define BASE_TASK_SINGLE_THREAD_TASK_EXECUTOR_H_
 

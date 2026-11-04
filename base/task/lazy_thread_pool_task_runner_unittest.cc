@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for lazy thread pool task runners
+// summary: Unit tests verifying that lazy task runners run tasks in sequenced or single-thread environments with the expected priority and COM-STA apartment.
+// ---
+
 #include "base/task/lazy_thread_pool_task_runner.h"
 
 #include "base/functional/bind.h"

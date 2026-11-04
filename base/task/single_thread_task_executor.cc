@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SingleThreadTaskExecutor implementation
+// summary: Implements a single-thread task executor that creates a sequence manager, a default task queue, and binds them to a message pump.
+// ---
+
 #include "base/task/single_thread_task_executor.h"
 
 #include "base/message_loop/message_pump.h"

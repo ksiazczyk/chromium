@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Worker thread type environment configuration
+// summary: Determines per platform whether worker threads may use background or utility thread types, avoiding priority inversions on Android and during shutdown.
+// ---
+
 #include "base/task/thread_pool/environment_config.h"
 
 #include "base/base_switches.h"

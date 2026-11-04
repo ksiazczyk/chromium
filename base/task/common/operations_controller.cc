@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OperationsController implementation
+// summary: Implements the lock-free OperationsController state machine for accepting, rejecting and shutting down multi-threaded operations.
+// ---
+
 #include "base/task/common/operations_controller.h"
 
 #include <ostream>

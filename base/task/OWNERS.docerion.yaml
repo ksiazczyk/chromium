@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for base/task
+summary: Lists the code owners responsible for the public task posting APIs in base/task, with subfolder owners covering ThreadPool and SequenceManager implementation details.

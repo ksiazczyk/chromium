@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskAnnotator implementation
+// summary: Implements TaskAnnotator, which adds debug annotations to posted tasks such as origins, IPC context, queueing durations and trace event details.
+// ---
+
 #include "base/task/common/task_annotator.h"
 
 #include <stdint.h>
