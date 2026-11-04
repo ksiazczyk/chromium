@@ -1,3 +1,9 @@
+---
+type: readme
+title: Allocator and malloc routing documentation
+summary: Explains how malloc and new calls are routed across Chrome platforms, the unified allocator shim, and why base depends on the allocator target.
+---
+
 This document describes how malloc / new calls are routed in the various Chrome
 platforms.
 

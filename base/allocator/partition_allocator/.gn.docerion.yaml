@@ -1,0 +1,4 @@
+# Docerion header of .gn.
+type: config
+title: PartitionAlloc root GN configuration
+summary: Root GN build configuration used when PartitionAlloc is built as a standalone project rather than inside Chromium.

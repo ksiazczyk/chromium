@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: PartitionAlloc top-level GN build file
+summary: Defines GN groups aggregating PartitionAlloc targets such as raw_ptr, buildflags, partition_alloc, and the allocator shim.

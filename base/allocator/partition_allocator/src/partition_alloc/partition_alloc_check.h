@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartitionAlloc check macros
+// summary: Defines PA_CHECK, PA_DCHECK, PA_PCHECK and related macros that avoid reentrant string formatting when PartitionAlloc is the default allocator, crashing immediately instead.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_CHECK_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_CHECK_H_
 

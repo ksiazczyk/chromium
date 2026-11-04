@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Allocation guard declarations
+// summary: Declares scoped classes that disallow or re-allow allocations in the current scope, with no-op stubs when the allocation guard feature is disabled.
+// ---
+
 #ifndef PARTITION_ALLOC_ALLOCATION_GUARD_H_
 #define PARTITION_ALLOC_ALLOCATION_GUARD_H_
 

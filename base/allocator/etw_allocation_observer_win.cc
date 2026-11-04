@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows ETW allocation observer
+// summary: Emits ETW TraceLogging events for allocations and frees via a PartitionAlloc allocation observer, tagged by Chrome process type.
+// ---
+
 #include "base/allocator/etw_allocation_observer_win.h"
 
 #include <windows.h>

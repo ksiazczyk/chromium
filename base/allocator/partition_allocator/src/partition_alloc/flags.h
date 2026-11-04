@@ -11,6 +11,12 @@
 // other enum value and passed on to a function that takes an int or unsigned
 // int.
 
+// ---docerion
+// type: source
+// title: Type-safe flags operators for scoped enums
+// summary: Provides type-safe bitwise operators and helpers for OR-combinations of scoped enum values via the PA_DEFINE_OPERATORS_FOR_FLAGS macro.
+// ---
+
 #ifndef PARTITION_ALLOC_FLAGS_H_
 #define PARTITION_ALLOC_FLAGS_H_
 

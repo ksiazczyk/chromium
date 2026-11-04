@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Allocation guard implementation
+// summary: Implements ScopedDisallowAllocations and ScopedAllowAllocations, which toggle a thread-local flag that disallows allocations within a scope.
+// ---
+
 #include "partition_alloc/allocation_guard.h"
 
 #include "partition_alloc/partition_alloc_base/immediate_crash.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartitionLock class header
+// summary: Defines the PartitionAlloc Lock class with reentrancy detection, thread annotations, and try-acquire support for allocator-internal locking.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_LOCK_H_
 #define PARTITION_ALLOC_PARTITION_LOCK_H_
 

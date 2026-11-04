@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page allocator implementation
+// summary: Implements system page allocation, address space reservation, and mapping trimming across Windows, POSIX, and Fuchsia platforms.
+// ---
+
 #include "partition_alloc/page_allocator.h"
 
 #include <atomic>

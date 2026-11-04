@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Partition DCHECK helper declarations
+// summary: Declares debug-check helper functions that compile to empty bodies when DCHECKs are off, plus the DeducedRootIsValid root self-pointer check.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_DCHECK_HELPER_H_
 #define PARTITION_ALLOC_PARTITION_DCHECK_HELPER_H_
 

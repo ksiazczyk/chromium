@@ -1,0 +1,4 @@
+# Docerion header of allocator.gni.
+type: config
+title: Allocator GN feature assertions
+summary: GN import file asserting Chromium-specific constraints on PartitionAlloc-Everywhere, backup ref pointer support, and pointer compression.

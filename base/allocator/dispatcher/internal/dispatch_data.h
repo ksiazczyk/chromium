@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DispatchData struct for allocator hook configuration
+// summary: Declares the DispatchData struct that carries PartitionAlloc observer hooks and allocator shim dispatch pointers from DispatcherImpl to the Dispatcher.
+// ---
+
 #ifndef BASE_ALLOCATOR_DISPATCHER_INTERNAL_DISPATCH_DATA_H_
 #define BASE_ALLOCATOR_DISPATCHER_INTERNAL_DISPATCH_DATA_H_
 

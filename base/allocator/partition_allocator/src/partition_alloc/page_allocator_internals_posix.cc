@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX page allocator internals implementation
+// summary: Implements system page allocation for POSIX platforms, mapping access permissions and handling macOS/iOS MAP_JIT plus ARM MTE and BTI hardware capabilities.
+// ---
+
 #include <stdint.h>
 #include <sys/mman.h>
 

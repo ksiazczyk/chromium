@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartitionBucket implementation
+// summary: Implements bucket allocation logic including super page reservation, slot span management, out-of-memory handling and backup-ref-ptr pool blocklist checks.
+// ---
+
 #include "partition_alloc/partition_bucket.h"
 
 #include <array>

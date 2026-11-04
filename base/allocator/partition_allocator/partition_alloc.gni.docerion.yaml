@@ -1,0 +1,4 @@
+# Docerion header of partition_alloc.gni.
+type: config
+title: PartitionAlloc GN Build Configuration
+summary: GN configuration file declaring PartitionAlloc build args and defaults, embedder override handling, and compiler and architecture capability settings.

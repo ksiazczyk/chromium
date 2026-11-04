@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PartitionLock performance tests
+// summary: Benchmarks PartitionLock acquire and release throughput and latency, both alone and with competing threads, reporting perf metrics.
+// ---
+
 #include "partition_alloc/partition_lock.h"
 
 #include <vector>

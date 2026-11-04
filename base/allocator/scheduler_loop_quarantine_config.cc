@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Scheduler loop quarantine config loading
+// summary: Parses JSON feature or command-line configuration to build scheduler loop quarantine settings per process type and branch.
+// ---
+
 #include "base/check.h"
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be

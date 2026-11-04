@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartitionAlloc internal size and layout constants
+// summary: Defines internal constants for partition page, super page and slot span sizes and masks, with platform-specific adjustments for Apple, Loongson and PPC64.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_CONSTANTS_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_CONSTANTS_H_
 

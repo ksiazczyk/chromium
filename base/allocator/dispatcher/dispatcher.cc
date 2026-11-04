@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Allocator dispatcher implementation
+// summary: Implements the Dispatcher singleton that connects and disconnects allocation observer hooks to PartitionAlloc and the allocator shim.
+// ---
+
 #include "base/allocator/dispatcher/dispatcher.h"
 
 #include "base/allocator/dispatcher/internal/dispatch_data.h"

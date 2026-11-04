@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: In-slot metadata double-free and corruption handling
+// summary: Implements double-free and corruption detection for in-slot metadata, including freelist traversal to identify double frees and crash handlers with stack debug data.
+// ---
+
 #include "partition_alloc/in_slot_metadata.h"
 
 #include <atomic>

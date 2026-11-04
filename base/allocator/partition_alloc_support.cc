@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartitionAlloc runtime support implementation
+// summary: Implements runtime reconfiguration of PartitionAlloc, thread cache purging, memory reclamation and dangling raw pointer check installation.
+// ---
+
 #include "base/allocator/partition_alloc_support.h"
 
 #include <algorithm>

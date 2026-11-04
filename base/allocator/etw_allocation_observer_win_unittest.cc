@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ETW allocation observer unit tests
+// summary: Verifies ETW provider registration, event capture and filtering for the Windows allocation tracing observer.
+// ---
+
 #include "base/allocator/etw_allocation_observer_win.h"
 
 #include <windows.h>

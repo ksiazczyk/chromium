@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped safety checks exclusion
+// summary: Declares a stack-allocated scope that excludes deallocations from optional safety checks such as the scheduler loop quarantine.
+// ---
+
 #ifndef PARTITION_ALLOC_SAFETY_CHECKS_H_
 #define PARTITION_ALLOC_SAFETY_CHECKS_H_
 

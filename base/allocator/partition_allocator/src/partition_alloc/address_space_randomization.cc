@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address space randomization implementation
+// summary: Implements GetRandomPageBase, computing a random ASLR-aligned page address with platform-specific handling for 64-bit systems and 32-bit Windows.
+// ---
+
 #include "partition_alloc/address_space_randomization.h"
 
 #include "partition_alloc/build_config.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Processor yield macro header
+// summary: Defines the PA_YIELD_PROCESSOR macro with architecture-specific busy-wait instructions for x86, ARM, MIPS, PPC64, and s390, plus a no-op fallback.
+// ---
+
 #ifndef PARTITION_ALLOC_YIELD_PROCESSOR_H_
 #define PARTITION_ALLOC_YIELD_PROCESSOR_H_
 

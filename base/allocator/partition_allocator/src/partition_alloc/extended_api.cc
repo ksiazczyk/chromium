@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extended API implementation for thread cache control
+// summary: Implements extended PartitionAlloc API functions for thread allocation stats and for enabling, disabling, and swapping thread caches, including a testing scope.
+// ---
+
 #include "partition_alloc/extended_api.h"
 
 #include "partition_alloc/buildflags.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Address space randomization constants
+// summary: Declares GetRandomPageBase and per-platform ASLR mask and offset constants that balance randomization against address space fragmentation.
+// ---
+
 #ifndef PARTITION_ALLOC_ADDRESS_SPACE_RANDOMIZATION_H_
 #define PARTITION_ALLOC_ADDRESS_SPACE_RANDOMIZATION_H_
 

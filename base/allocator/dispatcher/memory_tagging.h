@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MTE mode enum and conversion
+// summary: Defines the MTEMode enum for Arm memory tagging extension modes and a constexpr conversion from PartitionAlloc reporting modes.
+// ---
+
 #ifndef BASE_ALLOCATOR_DISPATCHER_MEMORY_TAGGING_H_
 #define BASE_ALLOCATOR_DISPATCHER_MEMORY_TAGGING_H_
 

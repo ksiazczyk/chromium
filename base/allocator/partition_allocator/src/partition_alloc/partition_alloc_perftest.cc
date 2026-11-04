@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PartitionAlloc performance tests
+// summary: Benchmarks allocation throughput and time per allocation for system malloc versus PartitionAlloc variants, including thread cache and bucket distribution configurations.
+// ---
+
 #include "partition_alloc/partition_alloc.h"
 
 #include <algorithm>

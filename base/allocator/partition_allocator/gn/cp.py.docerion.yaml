@@ -1,0 +1,4 @@
+# Docerion header of cp.py.
+type: script
+title: cp.py copy helper for the GN build
+summary: Python helper copied from Skia that copies a file or directory to a destination, replacing any existing target and touching timestamps to work around a Ninja issue.

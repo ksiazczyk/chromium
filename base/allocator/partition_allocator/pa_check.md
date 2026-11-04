@@ -1,3 +1,11 @@
+---
+type: guide
+title: PA_CHECK() and Crash Address Symbolization
+summary: Explains why PA_CHECK() crashes are not symbolized and how to symbolize the relative addresses with tools like llvm-symbolizer, atos, or lldb, plus debugging PA_NOTREACHED.
+relations:
+  - references /tools/valgrind/asan/third_party/asan_symbolize.py
+---
+
 # PA_CHECK()
 
 PartitionAlloc is not re-entrant. This means that when a crash happens inside PartitionAllocator, PA_CHECK() is intended not to be symbolized, because memory allocation is required to symbolize addresses. Inside PartitionAllocator, it is not allowed to use the same PartitionRoot for another memory operation, e.g. malloc() and free(). If malloc() is replaced with PartitionAllocator and the malloc() hits PA_CHECK() failure, the symbolization will also use the same PartitionRoot for malloc() and will cause another crash or hang.

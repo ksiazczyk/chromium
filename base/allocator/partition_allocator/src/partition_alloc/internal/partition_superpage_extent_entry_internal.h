@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Super page extent entry internal implementations
+// summary: Inline helpers for PartitionSuperPageExtentEntry to track nonempty slot spans and compute the begin and end of consecutive super page ranges.
+// ---
+
 #ifndef PARTITION_ALLOC_INTERNAL_PARTITION_SUPERPAGE_EXTENT_ENTRY_INTERNAL_H_
 #define PARTITION_ALLOC_INTERNAL_PARTITION_SUPERPAGE_EXTENT_ENTRY_INTERNAL_H_
 

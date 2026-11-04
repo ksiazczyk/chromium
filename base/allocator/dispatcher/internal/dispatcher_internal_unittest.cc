@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the internal allocator dispatcher
+// summary: Contains gtest unit tests verifying that the internal dispatcher notifies observers of allocation and free events across PartitionAlloc and the allocator shim.
+// ---
+
 #include "base/allocator/dispatcher/internal/dispatcher_internal.h"
 
 #include <iostream>

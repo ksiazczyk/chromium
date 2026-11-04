@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for allocator dispatcher thread-local storage
+// summary: gtest and gmock tests verifying that ThreadLocalStorage keeps data independent between instances and threads and works with mocked allocators and TLS systems.
+// ---
+
 #include "base/allocator/dispatcher/tls.h"
 
 #include <string_view>

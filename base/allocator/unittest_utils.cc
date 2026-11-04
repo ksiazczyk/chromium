@@ -5,6 +5,12 @@
 // The unittests need a this in order to link up without pulling in tons
 // of other libraries
 
+// ---docerion
+// type: test
+// title: Unit test snprintf shim
+// summary: Defines an inline snprintf wrapper around _vsnprintf so unit tests can link without pulling in extra libraries.
+// ---
+
 #include <config.h>
 #include <stddef.h>
 

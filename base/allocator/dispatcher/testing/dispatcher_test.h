@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DispatcherTest base fixture declaration
+// summary: Declares the DispatcherTest fixture providing common initialization, such as the ReentryGuard TLS slot, for dispatcher unit test fixtures to derive from.
+// ---
+
 #ifndef BASE_ALLOCATOR_DISPATCHER_TESTING_DISPATCHER_TEST_H_
 #define BASE_ALLOCATOR_DISPATCHER_TESTING_DISPATCHER_TEST_H_
 

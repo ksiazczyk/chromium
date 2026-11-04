@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AddressPoolManagerBitmap declaration
+// summary: Declares bitmaps that record whether an address belongs to the regular or Backup-RefPtr pool, specific to 32-bit systems.
+// ---
+
 #ifndef PARTITION_ALLOC_ADDRESS_POOL_MANAGER_BITMAP_H_
 #define PARTITION_ALLOC_ADDRESS_POOL_MANAGER_BITMAP_H_
 

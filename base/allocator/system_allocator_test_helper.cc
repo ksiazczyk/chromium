@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System allocator test helper
+// summary: Standalone helper that mallocs memory and fails if the allocation is managed by PartitionAlloc, verifying the system allocator fallback.
+// ---
+
 #include <stdint.h>
 #include <stdlib.h>
 

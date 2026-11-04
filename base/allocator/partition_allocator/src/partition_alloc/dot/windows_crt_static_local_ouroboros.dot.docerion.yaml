@@ -1,0 +1,4 @@
+# Docerion header of windows_crt_static_local_ouroboros.dot.
+type: asset
+title: Windows CRT static-local re-entry diagram
+summary: Graphviz source depicting a cycle where PartitionAlloc intercepts malloc, initializes a function-local static, and its lock attempts re-entry into the not fully initialized Windows CRT.

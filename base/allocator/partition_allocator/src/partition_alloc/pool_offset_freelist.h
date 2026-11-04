@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Pool-offset encoded freelist entry
+// summary: Defines a freelist encoding that stores entries as pool offsets, transformed by byte swap or negation to harden against corruption and overflow attacks on 64-bit systems.
+// ---
+
 #ifndef PARTITION_ALLOC_POOL_OFFSET_FREELIST_H_
 #define PARTITION_ALLOC_POOL_OFFSET_FREELIST_H_
 

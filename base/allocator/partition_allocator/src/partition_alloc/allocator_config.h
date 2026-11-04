@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: External metadata trial declarations
+// summary: Declares the ExternalMetadataTrialGroup enum and accessors for the PartitionAllocExternalMetadata synthetic field trial configuration.
+// ---
+
 #ifndef PARTITION_ALLOC_ALLOCATOR_CONFIG_H_
 #define PARTITION_ALLOC_ALLOCATOR_CONFIG_H_
 

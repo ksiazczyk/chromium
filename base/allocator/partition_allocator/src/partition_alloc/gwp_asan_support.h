@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GWP-ASan support backed by PartitionAlloc
+// summary: Declares the GwpAsanSupport class that backs GWP-ASan allocations with PartitionAlloc, including detailed memory layout documentation.
+// ---
+
 #ifndef PARTITION_ALLOC_GWP_ASAN_SUPPORT_H_
 #define PARTITION_ALLOC_GWP_ASAN_SUPPORT_H_
 

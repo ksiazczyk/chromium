@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PartitionAlloc support unit tests
+// summary: Tests synthetic Finch trial proposals and the dangling raw pointer detection handlers, including death tests for crash output.
+// ---
+
 #include "base/allocator/partition_alloc_support.h"
 
 #include <array>

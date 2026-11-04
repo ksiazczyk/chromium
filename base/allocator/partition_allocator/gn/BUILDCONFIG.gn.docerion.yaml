@@ -1,0 +1,4 @@
+# Docerion header of BUILDCONFIG.gn.
+type: config
+title: PartitionAlloc standalone GN BUILDCONFIG
+summary: GN build configuration for building partition_alloc as a standalone library, defining build args, platform detection, a component template, default configs and the Clang toolchain.

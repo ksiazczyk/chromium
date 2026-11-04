@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Partition address space internal implementations
+// summary: Inline implementations for PartitionAddressSpace pool lookups, initialization checks, and base accessors across regular, BRP, configurable, and thread-isolated pools.
+// ---
+
 #ifndef PARTITION_ALLOC_INTERNAL_PARTITION_ADDRESS_SPACE_INTERNAL_H_
 #define PARTITION_ALLOC_INTERNAL_PARTITION_ADDRESS_SPACE_INTERNAL_H_
 

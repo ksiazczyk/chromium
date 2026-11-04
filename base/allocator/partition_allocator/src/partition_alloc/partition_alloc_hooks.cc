@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartitionAlloc hooks implementation
+// summary: Implements setting and dispatching of observer and override hooks for allocation, free, realloc and quarantine events, protected by a global lock.
+// ---
+
 #include "partition_alloc/partition_alloc_hooks.h"
 
 #include <ostream>

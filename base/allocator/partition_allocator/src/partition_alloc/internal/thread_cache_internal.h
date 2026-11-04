@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thread cache internal declarations
+// summary: Internal declarations for the thread cache, including the global ThreadCacheRegistry, thread-local cache arrays, and quarantine index constants.
+// ---
+
 #ifndef PARTITION_ALLOC_INTERNAL_THREAD_CACHE_INTERNAL_H_
 #define PARTITION_ALLOC_INTERNAL_THREAD_CACHE_INTERNAL_H_
 

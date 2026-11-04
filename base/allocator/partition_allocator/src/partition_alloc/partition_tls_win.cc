@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Partition TLS implementation for Windows
+// summary: Implements PartitionAlloc thread-local storage on Windows using TlsAlloc and a TLS callback that destroys thread caches on thread and process detach.
+// ---
+
 // clang-format off
 #include "partition_alloc/partition_tls.h"
 // clang-format on

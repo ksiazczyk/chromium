@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal allocator forward declarations
+// summary: Forward-declares the internal allocator root, InternalAllocator, InternalPartitionAllocated base class, and helpers for allocating objects on the internal partition.
+// ---
+
 #ifndef PARTITION_ALLOC_INTERNAL_ALLOCATOR_FORWARD_H_
 #define PARTITION_ALLOC_INTERNAL_ALLOCATOR_FORWARD_H_
 

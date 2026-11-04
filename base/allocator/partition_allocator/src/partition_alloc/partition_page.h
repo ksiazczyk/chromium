@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SlotSpanMetadata struct definition
+// summary: Defines the SlotSpanMetadata structure with slot span states, freelist head, and linked list bookkeeping for PartitionAlloc pages.
+// ---
+
 
 #ifndef PARTITION_ALLOC_PARTITION_PAGE_H_
 #define PARTITION_ALLOC_PARTITION_PAGE_H_

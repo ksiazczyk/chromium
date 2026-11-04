@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: System allocator unit test
+// summary: GoogleTest that launches the system allocator test helper binary and expects it to exit with code zero.
+// ---
+
 #include "base/base_paths.h"
 #include "base/command_line.h"
 #include "base/path_service.h"

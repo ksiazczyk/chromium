@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PartitionLock unit tests
+// summary: Unit tests for the PartitionAlloc Lock covering simple, contended, and slow-thread scenarios across multiple threads.
+// ---
+
 #include "partition_alloc/partition_lock.h"
 
 #include <algorithm>

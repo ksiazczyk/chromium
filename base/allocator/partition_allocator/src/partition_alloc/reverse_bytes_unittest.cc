@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ReverseBytes unit test
+// summary: Unit test verifying the constexpr byte reversal functions against known 32-bit and 64-bit values.
+// ---
+
 #include "partition_alloc/reverse_bytes.h"
 
 #include <cstdint>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory tagging conversion checks
+// summary: Compile-time checks that MTEMode values match the corresponding PartitionAlloc tag violation reporting modes.
+// ---
+
 #include "base/allocator/dispatcher/memory_tagging.h"
 
 namespace base::allocator::dispatcher {

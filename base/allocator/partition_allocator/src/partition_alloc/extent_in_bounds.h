@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extent in-bounds check helper
+// summary: Provides IsExtentInBounds, a template helper that checks whether an indexed element access stays within bounds, kept separate to avoid bloating span.h consumers.
+// ---
+
 #ifndef PARTITION_ALLOC_EXTENT_IN_BOUNDS_H_
 #define PARTITION_ALLOC_EXTENT_IN_BOUNDS_H_
 

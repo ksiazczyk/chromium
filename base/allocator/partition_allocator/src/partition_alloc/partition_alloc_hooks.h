@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartitionAlloc observer and override hooks API
+// summary: Declares the PartitionAllocHooks class with hook typedefs, setters and query methods to observe or override allocation, free, realloc and quarantine operations.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_HOOKS_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_HOOKS_H_
 

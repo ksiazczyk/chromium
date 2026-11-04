@@ -1,3 +1,13 @@
+---
+type: reference
+title: PartitionAlloc Build Configuration
+summary: Documents the GN args and macros that control PartitionAlloc's build behavior, including use_partition_alloc, use_partition_alloc_as_malloc, and standalone-build considerations.
+relations:
+  - references /base/allocator/partition_allocator/external_builds.md
+  - references /base/allocator/partition_allocator/BUILD.gn
+  - references /base/allocator/allocator.gni
+---
+
 # Build Config
 
 PartitionAlloc's behavior and operation can be influenced by many

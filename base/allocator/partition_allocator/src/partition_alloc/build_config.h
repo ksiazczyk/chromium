@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Platform and compiler detection macros
+// summary: Header defining PA_BUILDFLAG macros for detecting operating systems, compilers, and processor architectures, adapted from Chromium's build_config.h for PartitionAlloc.
+// ---
+
 #ifndef PARTITION_ALLOC_BUILD_CONFIG_H_
 #define PARTITION_ALLOC_BUILD_CONFIG_H_
 

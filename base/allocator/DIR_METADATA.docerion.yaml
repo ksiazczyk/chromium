@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Allocator directory issue tracking metadata
+summary: Maps the allocator directory to the Internals monorail component and a Buganizer component ID for bug routing.

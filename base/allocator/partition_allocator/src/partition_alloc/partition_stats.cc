@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SimplePartitionStatsDumper implementation
+// summary: Implements SimplePartitionStatsDumper, which zeroes its stats on construction and records the latest partition memory stats for dumping.
+// ---
+
 #include "partition_alloc/partition_stats.h"
 
 #include <cstring>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Memory tagging (Arm MTE) support header
+// summary: Declares tagging modes, pointer tag masks, and inline helpers for Armv8.5-A memory tagging, including functions to tag memory ranges incrementally or randomly.
+// ---
+
 #ifndef PARTITION_ALLOC_TAGGING_H_
 #define PARTITION_ALLOC_TAGGING_H_
 

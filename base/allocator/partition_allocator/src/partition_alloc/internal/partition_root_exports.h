@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Partition root allocation export templates
+// summary: Declares explicit extern template instantiations of PartitionRoot::Alloc for common allocation flag combinations to reduce compile times.
+// ---
+
 #ifndef PARTITION_ALLOC_INTERNAL_PARTITION_ROOT_EXPORTS_H_
 #define PARTITION_ALLOC_INTERNAL_PARTITION_ROOT_EXPORTS_H_
 

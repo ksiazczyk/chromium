@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SlotStart checked construction unit tests
+// summary: Tests that SlotStart::Checked does not crash on valid slot starts and crashes on invalid or freed direct-map addresses in debug builds.
+// ---
+
 #include "partition_alloc/buildflags.h"
 #include "partition_alloc/partition_alloc_base/compiler_specific.h"
 #include "partition_alloc/partition_alloc_for_testing.h"

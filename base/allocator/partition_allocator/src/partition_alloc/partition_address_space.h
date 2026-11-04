@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Partition address space header
+// summary: Declares the PartitionAddressSpace class and PoolOffsetLookup utility that manage PartitionAlloc's address space pools and address-to-offset translation.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ADDRESS_SPACE_H_
 #define PARTITION_ALLOC_PARTITION_ADDRESS_SPACE_H_
 

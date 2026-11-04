@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartitionRoot allocator implementation
+// summary: Implements core PartitionRoot allocator logic, including root enumeration, allocation recording, and platform-specific initialization.
+// ---
+
 // clang-format off
 #include "partition_alloc/internal/partition_root_internal.h"
 // clang-format on

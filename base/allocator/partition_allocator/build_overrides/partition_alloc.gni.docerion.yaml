@@ -1,0 +1,4 @@
+# Docerion header of partition_alloc.gni.
+type: config
+title: PartitionAlloc build overrides configuration
+summary: Defines default build flags for standalone PartitionAlloc builds, such as disabling Chromium integration and backup ref pointer support, and explains how embedders can override them.

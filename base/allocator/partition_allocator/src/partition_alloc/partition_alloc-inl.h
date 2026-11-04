@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartitionAlloc inline helpers
+// summary: Provides inline helpers such as secure and debug memset, prefetch macros, and metadata offset calculations shared across PartitionAlloc internals.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_INL_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_INL_H_
 

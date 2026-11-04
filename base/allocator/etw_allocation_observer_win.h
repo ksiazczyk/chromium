@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ETW allocation observer for Windows header
+// summary: Declares the ETW provider name, GUID, keyword bits and process type keywords used to trace allocations and frees on Windows.
+// ---
+
 #ifndef BASE_ALLOCATOR_ETW_ALLOCATION_OBSERVER_WIN_H_
 #define BASE_ALLOCATOR_ETW_ALLOCATION_OBSERVER_WIN_H_
 

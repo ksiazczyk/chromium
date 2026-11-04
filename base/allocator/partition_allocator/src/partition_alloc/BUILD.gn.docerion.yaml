@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: PartitionAlloc GN build configuration
+summary: GN build file defining PartitionAlloc targets, configs and buildflags such as pointer compression, GWP-ASan, Backup-RefPtr support and dependant warning settings.

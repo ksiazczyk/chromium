@@ -1,3 +1,11 @@
+---
+type: note
+title: Dangerous Static Locals in PartitionAlloc
+summary: Warns that nontrivial function-local statics can re-enter the uninitialized Windows CRT during PartitionAlloc initialization and cites past incidents and workarounds.
+relations:
+  - references /base/allocator/partition_allocator/src/partition_alloc/dot/windows_crt_static_local_ouroboros.png
+---
+
 # Dangerous Static Locals
 
 Chromium style's rules regarding

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Partition root forward declarations
+// summary: Forward declares PartitionRoot and the PartitionRootLock function so thread-analysis annotations can be used without including the full internal root header.
+// ---
+
 #ifndef PARTITION_ALLOC_INTERNAL_PARTITION_ROOT_INTERNAL_FORWARD_H_
 #define PARTITION_ALLOC_INTERNAL_PARTITION_ROOT_INTERNAL_FORWARD_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Out-of-memory termination declarations
+// summary: Declares OOM termination functions, the Windows OOM exception code, and the OOM_CRASH macro used by PageAllocator and PartitionAlloc.
+// ---
+
 #ifndef PARTITION_ALLOC_OOM_H_
 #define PARTITION_ALLOC_OOM_H_
 

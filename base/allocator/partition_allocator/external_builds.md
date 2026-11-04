@@ -1,3 +1,13 @@
+---
+type: guide
+title: Chrome-External Builds of PartitionAlloc
+summary: Explains how external clients can build PartitionAlloc standalone, covering required GN args, embedder-provided memory reduction calls, and constraints like C++20 and MSVC support.
+relations:
+  - references /base/allocator/partition_allocator/build_config.md
+  - references /build_overrides/partition_alloc.gni
+  - references /base/allocator/partition_allocator/src/partition_alloc/memory_reclaimer.h
+---
+
 # Chrome-External Builds
 
 Work is ongoing to make PartitionAlloc a standalone library. The

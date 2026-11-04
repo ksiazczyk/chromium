@@ -24,6 +24,12 @@
 // because zapping writes the whole object: it misses the CPU cache on lines
 // that weren't read, and is cheaper on lines that were.
 
+// ---docerion
+// type: test
+// title: Scheduler loop quarantine performance tests
+// summary: Micro-benchmarks measuring free and alloc performance of the scheduler-loop quarantine under several browser-like configurations.
+// ---
+
 #include "partition_alloc/scheduler_loop_quarantine.h"
 
 #include <algorithm>

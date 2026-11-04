@@ -1,0 +1,4 @@
+# Docerion header of address-space.dot.
+type: asset
+title: Address space diagram
+summary: Graphviz source for a diagram of PartitionAlloc address space, showing the regular, BRP and additional pools managed by AddressPoolManager and their partition roots.

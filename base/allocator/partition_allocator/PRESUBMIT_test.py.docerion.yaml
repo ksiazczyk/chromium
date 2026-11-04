@@ -1,0 +1,4 @@
+# Docerion header of PRESUBMIT_test.py.
+type: test
+title: Tests for the PartitionAlloc presubmit script
+summary: Unittest suite that verifies the presubmit include-guard and preprocessor-define checks using mocked input and output APIs.

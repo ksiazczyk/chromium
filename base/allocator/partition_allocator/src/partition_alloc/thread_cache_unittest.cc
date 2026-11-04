@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Thread cache unit tests
+// summary: Parameterized gtest suite covering thread cache bucket filling, purging, limits, and stats, skipped on memory-sanitizer builds and unsupported platforms.
+// ---
+
 #include <algorithm>
 #include <array>
 #include <atomic>

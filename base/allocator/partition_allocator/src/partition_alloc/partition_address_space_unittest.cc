@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Partition address space unit tests
+// summary: Tests the zero segment size configuration and verifies that accesses to the reserved null-pointer region crash when death tests are enabled.
+// ---
+
 #include "partition_alloc/buildflags.h"
 #include "partition_alloc/internal/partition_address_space_internal.h"
 #include "partition_alloc/partition_alloc_config.h"

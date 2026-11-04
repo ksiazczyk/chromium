@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Thread cache implementation
+// summary: Implements the PartitionAlloc thread cache and its registry, including registration, stats dumping, periodic purging, and platform-specific teardown handling.
+// ---
+
 #include <sys/types.h>
 
 #include <array>

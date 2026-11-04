@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scheduler loop quarantine config unit tests
+// summary: Verifies parsing of the JSON quarantine configuration and the resulting per-process, per-branch settings.
+// ---
+
 #include "base/allocator/scheduler_loop_quarantine_config.h"
 
 #include "base/allocator/partition_alloc_features.h"

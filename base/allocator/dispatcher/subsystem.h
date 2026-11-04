@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Allocation subsystem identifiers
+// summary: Defines the AllocationSubsystem enum naming the memory subsystem, such as PartitionAllocator, AllocatorShim or CppGC, that handles an allocation.
+// ---
+
 #ifndef BASE_ALLOCATOR_DISPATCHER_SUBSYSTEM_H_
 #define BASE_ALLOCATOR_DISPATCHER_SUBSYSTEM_H_
 

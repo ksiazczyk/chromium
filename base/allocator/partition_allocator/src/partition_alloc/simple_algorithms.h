@@ -9,6 +9,12 @@
 // As such, this file deliberately have very simple implementations and does not
 // even try to include headers like <concepts>.
 
+// ---docerion
+// type: source
+// title: Minimal constexpr algorithms for PartitionAlloc headers
+// summary: Provides a minimal consteval IntegralMax helper so PartitionAlloc headers can compute constexpr values without transitively including <algorithm>.
+// ---
+
 #ifndef PARTITION_ALLOC_SIMPLE_ALGORITHMS_H_
 #define PARTITION_ALLOC_SIMPLE_ALGORITHMS_H_
 

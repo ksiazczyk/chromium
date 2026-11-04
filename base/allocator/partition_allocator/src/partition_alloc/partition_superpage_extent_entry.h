@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Partition super page extent entry
+// summary: Defines the PartitionSuperPageExtentEntry struct that links consecutive super pages of a partition and tracks nonempty slot spans, fitting in a metadata slot.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_SUPERPAGE_EXTENT_ENTRY_H_
 #define PARTITION_ALLOC_PARTITION_SUPERPAGE_EXTENT_ENTRY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartitionAlloc global initialization
+// summary: Implements PartitionAllocGlobalInit, validating page, bucket, and metadata size invariants with static assertions and wiring up out-of-memory handling.
+// ---
+
 #include "partition_alloc/partition_alloc.h"
 
 #include <cstdint>

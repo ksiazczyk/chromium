@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Slot address and size resolution implementation
+// summary: Implements SlotAddressAndSize::From, resolving the slot start address and size for regular and direct-map allocations.
+// ---
+
 #include "partition_alloc/slot_address_and_size.h"
 
 #include <cstddef>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartitionAlloc compile-time configuration macros
+// summary: Defines the PA_CONFIG macro and per-platform compile-time configuration settings such as pool size selection, thread cache support and freelist shadow entries.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_CONFIG_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_CONFIG_H_
 

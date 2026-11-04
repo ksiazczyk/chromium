@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Slot span size constants
+// summary: Defines kMaxSlotsPerSlotSpan constants that adapt to platform page sizes on Apple, Linux, and other systems.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_PAGE_CONSTANTS_H_
 #define PARTITION_ALLOC_PARTITION_PAGE_CONSTANTS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reservation offset table internal implementations
+// summary: Inline implementations for ReservationOffsetTable access per pool, address info classification, and offset tag setting for reservations.
+// ---
+
 #ifndef PARTITION_ALLOC_INTERNAL_RESERVATION_OFFSET_TABLE_INTERNAL_H_
 #define PARTITION_ALLOC_INTERNAL_RESERVATION_OFFSET_TABLE_INTERNAL_H_
 

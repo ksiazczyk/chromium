@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Reentry guard for allocator dispatcher hooks
+// summary: Scoped guard that detects recursive allocator hook calls on macOS and Android and provides TLS slot initialization helpers for safe hook installation.
+// ---
+
 #ifndef BASE_ALLOCATOR_DISPATCHER_REENTRY_GUARD_H_
 #define BASE_ALLOCATOR_DISPATCHER_REENTRY_GUARD_H_
 

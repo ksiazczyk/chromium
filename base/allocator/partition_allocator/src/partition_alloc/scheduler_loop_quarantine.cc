@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scheduler loop quarantine implementation
+// summary: Implements the scheduler-loop quarantine, including batched free queues and purge logic for miracle and sanitized objects.
+// ---
+
 #include "partition_alloc/scheduler_loop_quarantine.h"
 
 #include <atomic>

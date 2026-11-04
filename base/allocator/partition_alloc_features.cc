@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartitionAlloc feature flag definitions
+// summary: Defines base::features flags and parameters controlling PartitionAlloc behaviors such as dangling pointer detection, thread cache size and advanced checks.
+// ---
+
 #include "base/allocator/partition_alloc_features.h"
 
 #include "base/base_export.h"

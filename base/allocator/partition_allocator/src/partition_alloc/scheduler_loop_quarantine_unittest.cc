@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scheduler loop quarantine unit tests
+// summary: Unit tests for scheduler loop quarantine branches, covering configuration, quarantine and purge behavior for global and thread-bound variants.
+// ---
+
 #include "partition_alloc/scheduler_loop_quarantine.h"
 
 #include <thread>

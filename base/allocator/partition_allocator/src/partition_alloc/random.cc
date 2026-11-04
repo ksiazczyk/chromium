@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartitionAlloc random number generator implementation
+// summary: Implements a lock-protected random number generator seeded from the OS, with reinitialization after fork and deterministic seeding for tests.
+// ---
+
 #include "partition_alloc/random.h"
 
 #include <type_traits>

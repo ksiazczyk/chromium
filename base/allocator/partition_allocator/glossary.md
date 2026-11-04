@@ -1,3 +1,12 @@
+---
+type: reference
+title: PartitionAlloc Glossary
+summary: Defines core PartitionAlloc terminology such as partitions, pages, slots, spans, buckets, and thread caches, presented roughly in conceptual order.
+relations:
+  - references /base/allocator/partition_allocator/buckets.md
+  - references /base/allocator/partition_allocator/src/partition_alloc/dot/bucket.png
+---
+
 # Glossary
 
 This page describes some core terminology used in PartitionAlloc.

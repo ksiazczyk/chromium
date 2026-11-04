@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Clang toolchain definition for PartitionAlloc
+summary: Defines a GN clang toolchain for PartitionAlloc, specifying the compiler, archiver, and linker commands used to build C/C++ objects, static libraries, and shared libraries.

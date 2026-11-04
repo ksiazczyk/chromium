@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Allocator dispatcher public interface
+// summary: Declares the Dispatcher singleton that initializes observer hooks for memory subsystems such as PartitionAlloc, using a pimpl pattern.
+// ---
+
 #ifndef BASE_ALLOCATOR_DISPATCHER_DISPATCHER_H_
 #define BASE_ALLOCATOR_DISPATCHER_DISPATCHER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OOM callback declarations
+// summary: Declares the callback type and setter for registering a callback invoked when PartitionAlloc terminates due to an allocation failure.
+// ---
+
 #ifndef PARTITION_ALLOC_OOM_CALLBACK_H_
 #define PARTITION_ALLOC_OOM_CALLBACK_H_
 

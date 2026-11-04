@@ -1,0 +1,4 @@
+# Docerion header of super-page.dot.
+type: asset
+title: Super page layout diagram
+summary: Graphviz source illustrating super page layout, including the metadata page, bitmaps, guard pages and colored slot spans linked across super pages.

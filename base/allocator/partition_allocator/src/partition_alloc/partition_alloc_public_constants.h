@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartitionAlloc public constants and super page layout
+// summary: Defines public constants such as cache line size and documents the super page, metadata page and slot span memory layout of the allocator.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_ALLOC_PUBLIC_CONSTANTS_H_
 #define PARTITION_ALLOC_PARTITION_ALLOC_PUBLIC_CONSTANTS_H_
 

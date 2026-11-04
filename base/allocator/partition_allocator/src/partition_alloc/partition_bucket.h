@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PartitionBucket header
+// summary: Declares the PartitionBucket struct with slot span lists, a slot size reciprocal for fast offset math, and the SlowPathAlloc entry point for the allocator's slow path.
+// ---
+
 #ifndef PARTITION_ALLOC_PARTITION_BUCKET_H_
 #define PARTITION_ALLOC_PARTITION_BUCKET_H_
 

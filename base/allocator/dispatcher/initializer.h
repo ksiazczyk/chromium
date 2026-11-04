@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Initializer for allocator dispatcher observers
+// summary: Template helper that filters mandatory and optional observers, drops disabled ones, and initializes the dispatcher within configured limits.
+// ---
+
 #ifndef BASE_ALLOCATOR_DISPATCHER_INITIALIZER_H_
 #define BASE_ALLOCATOR_DISPATCHER_INITIALIZER_H_
 

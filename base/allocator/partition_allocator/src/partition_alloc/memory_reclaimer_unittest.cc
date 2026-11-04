@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Memory reclaimer unit tests
+// summary: Unit tests for PartitionAlloc's memory reclaimer, verifying that reclaiming frees committed memory and checking the adaptive reclaim interval back-off policy.
+// ---
+
 #include "partition_alloc/memory_reclaimer.h"
 
 #include <array>

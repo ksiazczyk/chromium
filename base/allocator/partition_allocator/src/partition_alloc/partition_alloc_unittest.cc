@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PartitionAlloc unit tests
+// summary: Comprehensive GoogleTest suite exercising PartitionAlloc allocation, free, quarantine, tagging, pkeys and platform-specific behaviour across supported operating systems.
+// ---
+
 #include "partition_alloc/buildflags.h"
 
 #if !PA_BUILDFLAG(MEMORY_TOOL_REPLACES_ALLOCATOR)

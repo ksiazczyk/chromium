@@ -1,0 +1,4 @@
+# Docerion header of bounds_checks_nocompile.nc.
+type: test
+title: Bounds checks no-compile test
+summary: No-compile test suite verifying that extent-in-bounds checks reject code using a signed index with mismatched signedness at compile time.

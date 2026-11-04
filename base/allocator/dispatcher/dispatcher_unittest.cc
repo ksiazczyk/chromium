@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Allocator dispatcher unit tests
+// summary: Verifies that the dispatcher hooks observers into PartitionAlloc and the allocator shim and delivers allocation and free notifications.
+// ---
+
 #include "base/allocator/dispatcher/dispatcher.h"
 
 #include "base/allocator/dispatcher/configuration.h"
