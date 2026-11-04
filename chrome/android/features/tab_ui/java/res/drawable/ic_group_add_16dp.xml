@@ -3,6 +3,12 @@
      Use of this source code is governed by a BSD-style license that can be
      found in the LICENSE file. -->
 
+<!--docerion
+type: asset
+title: Add to group icon vector drawable
+summary: 16dp vector drawable showing people figures with a plus sign, used for adding tabs to a group.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="16dp"
     android:height="16dp"

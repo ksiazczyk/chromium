@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccessorySheetControllerTest
+// summary: Robolectric controller tests for the keyboard accessory bottom sheet, verifying its properties, visibility delegate, and metrics behavior.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.sheet_component;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

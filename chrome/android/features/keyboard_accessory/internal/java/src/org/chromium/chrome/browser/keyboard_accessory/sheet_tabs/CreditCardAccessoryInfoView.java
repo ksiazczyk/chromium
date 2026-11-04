@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CreditCardAccessoryInfoView
+// summary: Linear layout view that shows credit card details such as number, expiry, cardholder, and CVC in the payment method tab of the keyboard accessory.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.sheet_tabs;
 
 import android.content.Context;

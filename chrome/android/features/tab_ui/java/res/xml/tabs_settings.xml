@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Tab settings preference screen
+summary: Android preference screen XML defining Chrome tab settings, including archived tabs entry point, auto-open synced tab groups, sharing titles and URLs with the OS, Chrome suggestions in other apps, and CCT browser behavior.
+-->
+
 <PreferenceScreen
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">

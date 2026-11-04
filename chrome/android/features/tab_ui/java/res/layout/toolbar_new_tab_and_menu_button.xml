@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: data
+title: Toolbar new tab and menu buttons layout
+summary: Android merge layout providing new tab and overflow menu image buttons styled as hoverable toolbar buttons for the tab UI.
+-->
+
 <merge
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:android="http://schemas.android.com/apk/res/android">

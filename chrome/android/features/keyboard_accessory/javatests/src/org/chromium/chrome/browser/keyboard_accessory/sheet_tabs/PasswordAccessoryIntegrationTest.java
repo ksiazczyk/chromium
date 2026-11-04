@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Password accessory integration tests
+// summary: Integration tests verifying password suggestions in the keyboard accessory sheet using the real password store with a fake GMS Core version.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.sheet_tabs;
 
 import static androidx.test.espresso.Espresso.onView;

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Pinned tab strip item background
+summary: Shape drawable providing a rounded, solid-color background for items in the pinned tab strip.
+-->
+
 <shape xmlns:android="http://schemas.android.com/apk/res/android">
     <solid android:color="@color/tab_grid_dialog_background_color"/>
     <corners android:radius="@dimen/pinned_tab_strip_item_bg_radius" />

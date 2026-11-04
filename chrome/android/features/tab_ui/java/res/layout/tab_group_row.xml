@@ -4,6 +4,13 @@ Copyright 2024 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Tab group row layout
+summary: Row layout for a tab group showing its favicon cluster, color icon, title, subtitle, share image tiles, and overflow menu button.
+-->
+
 <org.chromium.chrome.browser.tasks.tab_management.TabGroupRowView xmlns:android="http://schemas.android.com/apk/res/android"
   xmlns:app="http://schemas.android.com/apk/res-auto"
   xmlns:tools="http://schemas.android.com/tools"

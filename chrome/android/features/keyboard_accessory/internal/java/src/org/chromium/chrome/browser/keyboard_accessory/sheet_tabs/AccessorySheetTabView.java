@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessorySheetTabView
+// summary: Base RecyclerView view class for an accessory sheet tab that can request accessibility focus on its first child after async layout work.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.sheet_tabs;
 
 import android.annotation.SuppressLint;

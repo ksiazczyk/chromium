@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Keyboard accessory button group controller unit tests
+// summary: Robolectric tests for the keyboard accessory button group component, verifying coordinator, mediator and model behavior such as tab changes, observers and callback wiring.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.button_group_component;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

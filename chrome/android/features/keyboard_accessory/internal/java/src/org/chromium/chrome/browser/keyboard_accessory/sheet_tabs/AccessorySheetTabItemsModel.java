@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessorySheetTabItemsModel
+// summary: List model that wraps accessory sheet data into typed pieces such as titles, credentials, addresses, payment info, and passkeys for RecyclerView display.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.sheet_tabs;
 
 import androidx.annotation.IntDef;

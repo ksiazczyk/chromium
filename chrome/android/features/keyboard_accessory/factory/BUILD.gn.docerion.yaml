@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Keyboard accessory factory build targets
+summary: GN build file defining public and internal android_library targets that instantiate the ManualFillingComponentFactory for the keyboard accessory feature.

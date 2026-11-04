@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Loyalty card info view
+// summary: Custom linear layout view showing Google Wallet loyalty card details with merchant name, icon and card number chip in the payment methods tab.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.sheet_tabs;
 
 import android.content.Context;

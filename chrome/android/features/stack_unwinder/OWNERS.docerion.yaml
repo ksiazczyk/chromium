@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Stack unwinder OWNERS
+summary: Lists code owners for the stack_unwinder Android feature directory, inheriting from base/profiler/OWNERS and naming etiennep@chromium.org.

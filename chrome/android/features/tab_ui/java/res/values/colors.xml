@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Tab UI color definitions
+summary: Defines colors and color macros for tab grid dialogs, incognito tab groups and hover cards, the color picker, and vertical tabs in the tab UI feature.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Tab Group related colors. -->
     <color name="tab_grid_dialog_background_color">@color/legacy_bg_color_elev_1</color>

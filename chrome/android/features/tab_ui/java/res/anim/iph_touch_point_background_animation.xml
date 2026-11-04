@@ -4,6 +4,13 @@ Copyright 2019 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: asset
+title: IPH touch point background animation
+summary: Android animator set that scales the in-product-help touch point background up and then translates it in a timed sequence.
+-->
+
 <set xmlns:android="http://schemas.android.com/apk/res/android"
     android:ordering="sequentially">
     <!--Dummy animation to restore the shape.-->

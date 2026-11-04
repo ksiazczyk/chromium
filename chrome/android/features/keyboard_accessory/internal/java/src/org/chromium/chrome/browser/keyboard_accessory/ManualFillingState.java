@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manual filling state
+// summary: Holds the sheet data providers, available tabs and cached actions needed to restore the keyboard accessory and its sheet for a given WebContents.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory;
 
 import android.util.SparseArray;

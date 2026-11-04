@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessorySheetTabCoordinator
+// summary: Abstract base coordinator for keyboard accessory sheet tabs that defines tab metadata, builds the property model, and enforces consistent scroll listener handling.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.sheet_tabs;
 
 import static org.chromium.chrome.browser.keyboard_accessory.sheet_tabs.AccessorySheetTabProperties.IS_DEFAULT_A11Y_FOCUS_REQUESTED;

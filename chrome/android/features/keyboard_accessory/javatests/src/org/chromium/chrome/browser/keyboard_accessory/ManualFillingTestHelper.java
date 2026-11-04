@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Manual filling test helper
+// summary: Shared helper that drives and asserts keyboard accessory, sheet tab and autofill UI states for the manual filling test suites.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory;
 
 import static androidx.test.espresso.matcher.ViewMatchers.isAssignableFrom;

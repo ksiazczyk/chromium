@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Vertical tabs button background state list
+summary: Selector drawable that switches the vertical tabs button background between pressed, hovered, and default surface colors with rounded corners.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <!-- Pressed state -->
     <item android:state_pressed="true">

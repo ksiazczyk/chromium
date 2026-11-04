@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccessorySheetRenderTest
+// summary: Instrumented render test that verifies the visual rendering of the keyboard accessory sheet, including tabs, RTL layout, shadows and active tab state.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.sheet_component;
 
 import static android.view.ViewGroup.LayoutParams.MATCH_PARENT;

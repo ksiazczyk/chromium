@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Vertical tabs pinned separator drawable
+summary: Shape drawable rendering the sized, rounded separator line between pinned tabs in the vertical tabs list.
+-->
+
 <shape xmlns:android="http://schemas.android.com/apk/res/android"
     android:shape="rectangle">
     <size

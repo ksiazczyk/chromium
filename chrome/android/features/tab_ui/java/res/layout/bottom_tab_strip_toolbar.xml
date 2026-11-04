@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Bottom tab strip toolbar layout
+summary: Android layout for the bottom tab strip toolbar with an expand button, a tab container, a new tab button and fading edge overlays.
+-->
+
 <org.chromium.chrome.browser.tasks.tab_management.TabGroupUiToolbarView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

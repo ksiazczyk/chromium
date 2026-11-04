@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Rating star outline icon
+summary: Vector drawable of a 16dp outlined star filled with the rating star yellow color, used as a rating icon in the tab UI.
+-->
+
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="16dp"
     android:height="16dp"

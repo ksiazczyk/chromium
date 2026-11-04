@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Address accessory sheet view tests
+// summary: View tests for the address accessory sheet, checking the inflated layout and the displayed user info fields and chips.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.sheet_tabs;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

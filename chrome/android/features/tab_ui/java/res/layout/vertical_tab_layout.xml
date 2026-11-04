@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: data
+title: Vertical tab rail layout
+summary: Layout for the vertical tab rail, including a header with collapse and tab search buttons, a desktop window spacer, and a pinned tabs recycler view.
+-->
+
 <org.chromium.chrome.browser.tasks.tab_management.vertical_tabs.VerticalTabRailLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

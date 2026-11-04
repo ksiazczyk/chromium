@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Incognito vertical tabs button background color selector
+summary: Android color selector for the incognito vertical tabs button background with distinct pressed and hovered states using GM3 baseline surface colors.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
   <item android:color="@color/gm3_baseline_surface_container_high_dark" android:state_pressed="true" />
   <item android:color="@color/gm3_baseline_surface_container_high_dark" android:state_hovered="true" />

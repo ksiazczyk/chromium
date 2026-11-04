@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Tab group text input attributes
+summary: Declares the TabGroupVisualDataTextInputLayout styleable with an emptyErrorMessage string attribute for the tab group visual data text input.
+-->
+
 <resources>
     <declare-styleable name="TabGroupVisualDataTextInputLayout">
         <attr name="emptyErrorMessage" format="string" />

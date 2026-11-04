@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Autofill keyboard accessory integration tests
+// summary: Integration tests for the autofill keyboard accessory, exercising suggestion display and interaction on autofill test forms.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory;
 
 import static androidx.test.espresso.Espresso.onView;

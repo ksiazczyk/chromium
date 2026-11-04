@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Keyboard accessory issue tracker metadata
+summary: Maps the directory to the UI>Browser>Autofill Monorail component and Buganizer component 1456764 for issue routing.

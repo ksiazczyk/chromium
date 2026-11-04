@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manual filling state cache
+// summary: Caches ManualFillingState objects per WebContents and destroys them when tabs or web contents are gone so references are not held longer than necessary.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory;
 
 import org.chromium.build.annotations.Nullable;

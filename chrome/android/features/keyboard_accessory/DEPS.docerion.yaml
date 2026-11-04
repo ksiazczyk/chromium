@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Keyboard accessory dependency rules
+summary: Specifies allowed include rules for the keyboard_accessory directory, with a specific exception granting browser_ui settings access to ManualFillingControllerTest.java.

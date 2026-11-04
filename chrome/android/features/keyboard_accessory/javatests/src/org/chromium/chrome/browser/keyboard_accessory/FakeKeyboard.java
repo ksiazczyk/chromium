@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake keyboard visibility delegate for tests
+// summary: Test fake that mocks the keyboard visibility delegate so tests can simulate showing and hiding the soft keyboard without a real one.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory;
 
 import static org.chromium.base.ThreadUtils.runOnUiThreadBlocking;

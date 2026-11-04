@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManualFillingComponentFactory
+// summary: Factory class whose createComponent() method instantiates a ManualFillingComponent by returning a ManualFillingCoordinator.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory;
 
 import org.chromium.build.annotations.NullMarked;

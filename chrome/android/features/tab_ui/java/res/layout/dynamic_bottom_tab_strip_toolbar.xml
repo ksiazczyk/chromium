@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Dynamic bottom tab strip toolbar layout
+summary: Android layout for the dynamic bottom tab strip toolbar with a resizable tab container, new tab button, group button barrier and fading edges.
+-->
+
 <org.chromium.chrome.browser.tasks.tab_management.TabGroupUiToolbarView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

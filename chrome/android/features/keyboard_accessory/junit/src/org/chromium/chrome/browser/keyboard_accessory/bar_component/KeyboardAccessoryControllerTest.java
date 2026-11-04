@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: KeyboardAccessoryControllerTest
+// summary: JUnit and Robolectric tests for the keyboard accessory bar controller, covering bar items, suggestions, animations, styling, metrics and accessory actions with Mockito.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.bar_component;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

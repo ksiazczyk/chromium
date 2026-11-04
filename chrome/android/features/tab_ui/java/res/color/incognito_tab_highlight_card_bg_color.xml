@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Incognito tab highlight card background color selector
+summary: Android color selector that sets the incognito tab highlight card background to the baseline_primary_80 color.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
   <item
     android:color="@color/baseline_primary_80" />

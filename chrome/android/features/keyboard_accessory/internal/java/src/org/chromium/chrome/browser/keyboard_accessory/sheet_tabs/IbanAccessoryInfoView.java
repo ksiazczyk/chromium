@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IBAN accessory info view
+// summary: Custom linear layout view showing an IBAN entry with an icon and a value chip in the payment methods tab of the keyboard accessory sheet.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.sheet_tabs;
 
 import android.content.Context;

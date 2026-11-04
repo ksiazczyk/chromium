@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password accessory info view
+// summary: Custom linear layout view showing a credential entry with title, favicon, username and password chips in the password tab of the keyboard accessory.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.sheet_tabs;
 
 import android.content.Context;

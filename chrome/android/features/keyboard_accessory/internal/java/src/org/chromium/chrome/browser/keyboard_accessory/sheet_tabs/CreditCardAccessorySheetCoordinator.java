@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credit card accessory sheet coordinator
+// summary: Coordinates the credit card tab of the keyboard accessory sheet, supplying payment method suggestions, card and loyalty card icons, and a manage action.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.sheet_tabs;
 
 import static org.chromium.chrome.browser.autofill.AutofillUiUtils.getCardIcon;

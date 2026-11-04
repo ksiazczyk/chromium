@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Price card scrim
+summary: Shape drawable with a linear gradient scrim fading from translucent black to transparent over price cards.
+-->
+
 <shape xmlns:android="http://schemas.android.com/apk/res/android">
     <gradient
         android:startColor="@color/black_alpha_38"

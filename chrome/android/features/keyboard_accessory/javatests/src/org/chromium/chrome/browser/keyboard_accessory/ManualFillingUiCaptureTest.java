@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Manual filling screenshot capture tests
+// summary: Screenshot tests for manual filling views to catch visual regressions such as shadows, padding and RTL differences.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory;
 
 import static androidx.test.espresso.contrib.RecyclerViewActions.actionOnItem;

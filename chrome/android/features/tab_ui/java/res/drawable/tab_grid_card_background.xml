@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Tab grid card background
+summary: Shape drawable with a rounded solid-color background for cards in the tab grid.
+-->
+
 <shape xmlns:android="http://schemas.android.com/apk/res/android">
     <solid android:color="@color/tab_grid_dialog_background_color"/>
     <corners android:radius="@dimen/tab_grid_card_bg_radius" />

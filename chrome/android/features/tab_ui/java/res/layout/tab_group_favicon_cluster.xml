@@ -4,6 +4,13 @@ Copyright 2024 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: source
+title: Tab group favicon cluster layout
+summary: Layout for a tab group favicon cluster that arranges four included favicon quarter views into a single group icon.
+-->
+
 <org.chromium.chrome.browser.tasks.tab_management.TabGroupFaviconCluster xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/tab_group_favicon_cluster"
     android:layout_width="@dimen/tab_group_cluster_size"

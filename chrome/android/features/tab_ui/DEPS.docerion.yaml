@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Tab UI dependency rules
+summary: Defines the allowed include and dependency rules for the tab_ui feature directory used by Chromium's dependency checking.

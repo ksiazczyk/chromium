@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Credit card accessory sheet view binder
+// summary: Binds credit card, promo code, IBAN and loyalty card data to view holders in the payment methods tab's recycler view.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.sheet_tabs;
 
 import android.graphics.drawable.Drawable;

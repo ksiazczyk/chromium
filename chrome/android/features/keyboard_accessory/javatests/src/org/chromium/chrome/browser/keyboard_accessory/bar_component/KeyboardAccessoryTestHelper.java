@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: KeyboardAccessoryTestHelper
+// summary: Static test helpers that simplify checking the keyboard accessory bar's visibility and animation state during tests.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.bar_component;
 
 import android.app.Activity;

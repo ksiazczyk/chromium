@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Autofill keyboard accessory view JNI bridge
+// summary: JNI glue between the C++ AutofillKeyboardAccessoryViewImpl and Java, forwarding suggestion events such as acceptance, dismissal, deletion and settings requests.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory;
 
 import android.graphics.RectF;

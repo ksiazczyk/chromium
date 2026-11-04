@@ -6,6 +6,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Tab UI resource ID definitions
+summary: Defines IDs for accessibility tab reordering actions, tab list editor menu items, tab switcher context menus, color picker tags, and vertical tab helpers.
+-->
+
 <resources>
     <!-- Tab reordering actions for accessibility support. -->
     <item type="id" name="move_tab_left" />

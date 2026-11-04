@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Password accessory sheet mediator
+// summary: Mediator with password sheet specific logic that forwards toggle changes and restores the default tab icon when no option toggle exists.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.sheet_tabs;
 
 import org.chromium.base.Callback;

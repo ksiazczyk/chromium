@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: data
+title: Hidden pinned tab placeholder layout
+summary: Empty, zero-sized hidden FrameLayout used as a placeholder in place of a pinned tab item when it should not be shown.
+-->
+
 <FrameLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/hidden_pinned_tab"

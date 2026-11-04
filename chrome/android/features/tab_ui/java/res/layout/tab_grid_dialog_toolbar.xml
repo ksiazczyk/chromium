@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Tab grid dialog toolbar layout
+summary: Single-row toolbar layout for the tab grid dialog with a back button, group color icon, editable group title field and new tab and menu buttons.
+-->
+
 <org.chromium.chrome.browser.tasks.tab_management.TabGridDialogToolbarView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

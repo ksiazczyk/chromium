@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Ungroup bar background drawable
+summary: Shape drawable with rounded bottom corners used as the background of the ungroup bar.
+-->
+
 <shape xmlns:android="http://schemas.android.com/apk/res/android">
     <corners
         android:topLeftRadius="0dp"

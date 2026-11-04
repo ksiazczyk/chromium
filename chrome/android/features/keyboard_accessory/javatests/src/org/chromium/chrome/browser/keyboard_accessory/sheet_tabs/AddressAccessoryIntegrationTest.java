@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Address accessory integration tests
+// summary: Integration tests verifying address autofill suggestions in the keyboard accessory sheet on an autofill test form.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.sheet_tabs;
 
 import static androidx.test.espresso.Espresso.onView;

@@ -13,6 +13,13 @@ found in the LICENSE file.
   a horizontal LinearLayout), it would trigger this override and force a
   single-row width calculation, cutting off the 2-row layout on narrow screens.
 -->
+
+<!--docerion
+type: source
+title: Tab group color picker container layout
+summary: Android layout wrapping the tab group color picker in a FrameLayout so the popup width is not overridden and the two-row color grid stays intact on narrow screens.
+-->
+
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="wrap_content"

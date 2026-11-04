@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Tab strip fading edge start drawable
+summary: Gradient shape drawable that renders the fading edge at the start of the tab strip.
+-->
+
 <shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle" >
 <gradient
     android:startColor="@macro/default_bg_color"

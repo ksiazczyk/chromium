@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Manual filling component JNI bridge
+// summary: JNI bridge that exposes the manual filling component to native code and routes accessory sheet data, actions and toggles to registered providers.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory;
 
 import static org.chromium.base.ThreadUtils.assertOnUiThread;

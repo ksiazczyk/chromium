@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessorySheetTabViewBinder
+// summary: Stateless binder that creates and binds view holders for accessory sheet data pieces such as titles, dividers, footer commands, and option toggles.
+// ---
+
 package org.chromium.chrome.browser.keyboard_accessory.sheet_tabs;
 
 import static org.chromium.chrome.browser.keyboard_accessory.sheet_tabs.AccessorySheetTabProperties.IS_DEFAULT_A11Y_FOCUS_REQUESTED;

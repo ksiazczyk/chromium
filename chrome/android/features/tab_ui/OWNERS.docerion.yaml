@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Tab UI owners list
+summary: Lists code owners and per-file owner rules for the tab_ui feature directory.
