@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App icon utility functions header
+// summary: Declares helpers for icon path construction, adaptive icon checks, and background-thread icon reading.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_APP_ICON_APP_ICON_UTIL_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_APP_ICON_APP_ICON_UTIL_H_
 

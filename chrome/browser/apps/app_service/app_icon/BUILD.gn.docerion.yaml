@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: App icon BUILD.gn build targets
+summary: Defines GN source sets for the app icon factory and loader, utility helpers, and unit tests, with ChromeOS-conditional sources and dependencies.

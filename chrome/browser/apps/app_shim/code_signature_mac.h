@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Code signature helper declarations
+// summary: Declares functions that return the framework bundle's designated requirement string and create a SecRequirementRef from a requirement string.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SHIM_CODE_SIGNATURE_MAC_H_
 #define CHROME_BROWSER_APPS_APP_SHIM_CODE_SIGNATURE_MAC_H_
 

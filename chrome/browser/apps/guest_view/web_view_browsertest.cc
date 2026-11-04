@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebView browser tests
+// summary: Extensive browser tests for the WebView guest covering permissions, downloads, navigation, context menus, safe browsing, and related embedder behaviors.
+// ---
+
 #include <algorithm>
 #include <memory>
 #include <optional>

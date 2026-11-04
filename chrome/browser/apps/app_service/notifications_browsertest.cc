@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App service notifications browser tests
+// summary: Browser tests covering notification behavior for ARC and extension apps, including badges and notification display through the app service.
+// ---
+
 #include <memory>
 
 #include "ash/public/cpp/message_center/arc_notification_manager_delegate.h"

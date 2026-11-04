@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App install service ChromeOS browser tests
+// summary: Browser tests verifying install flows such as opening the Play Store for ARC apps and GeForce Now, plus error handling when no install URL is available.
+// ---
+
 #include "chrome/browser/apps/app_service/app_install/app_install_service_ash.h"
 
 #include <optional>

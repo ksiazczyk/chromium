@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Almanac app install endpoint implementation
+// summary: Fetches app installation details from the Almanac server and parses the response proto into AppInstallData, including icons, screenshots, and platform extras.
+// ---
+
 #include "chrome/browser/apps/app_service/app_install/app_install_almanac_endpoint.h"
 
 #include "base/functional/callback.h"

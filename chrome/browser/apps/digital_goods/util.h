@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Digital goods utility declarations
+// summary: Declares the GetTwaPackageName and GetScope helpers used to look up TWA package and app scope for a frame.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_DIGITAL_GOODS_UTIL_H_
 #define CHROME_BROWSER_APPS_DIGITAL_GOODS_UTIL_H_
 

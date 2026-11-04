@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension apps enable flow
+// summary: Declares ExtensionAppsEnableFlow, a callback-based wrapper around ExtensionEnableFlow for enabling a disabled extension app.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_PUBLISHERS_EXTENSION_APPS_ENABLE_FLOW_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_PUBLISHERS_EXTENSION_APPS_ENABLE_FLOW_H_
 

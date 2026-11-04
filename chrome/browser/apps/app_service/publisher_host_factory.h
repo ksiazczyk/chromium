@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App Service publisher host factory interface
+// summary: Defines an abstract factory interface for creating a PublisherHost for an AppServiceProxyBase, extracted to resolve a dependency.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_PUBLISHER_HOST_FACTORY_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_PUBLISHER_HOST_FACTORY_H_
 

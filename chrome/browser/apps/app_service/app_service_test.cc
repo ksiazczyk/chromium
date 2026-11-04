@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App Service test helper implementation
+// summary: Implements the AppServiceTest helper that initializes the App Service proxy for a profile in unit tests and provides app uninstall, name lookup, and blocking icon loading utilities.
+// ---
+
 #include "chrome/browser/apps/app_service/app_service_test.h"
 
 #include "base/run_loop.h"

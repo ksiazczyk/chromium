@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web contents instance ID utilities implementation
+// summary: Implements GetInstanceAppIdForWebContents, resolving the app ID for a tab via web apps, app browser windows, or extension-based apps.
+// ---
+
 #include "chrome/browser/apps/browser_instance/web_contents_instance_id_utils.h"
 
 #include "chrome/browser/profiles/profile.h"

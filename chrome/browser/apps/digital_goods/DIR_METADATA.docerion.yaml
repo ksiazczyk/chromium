@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for digital goods
+summary: Declares ChromeOS as the platform and the Buganizer component used to track issues for this directory.

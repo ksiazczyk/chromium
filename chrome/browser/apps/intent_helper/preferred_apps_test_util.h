@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Preferred apps test utilities header
+// summary: Declares waiters and helpers for setting and waiting on preferred app supported-links preferences in tests.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_INTENT_HELPER_PREFERRED_APPS_TEST_UTIL_H_
 #define CHROME_BROWSER_APPS_INTENT_HELPER_PREFERRED_APPS_TEST_UTIL_H_
 

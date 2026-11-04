@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App Service file utilities header
+// summary: 'Declares helpers that convert file paths and filesystem: scheme URLs to and from storage FileSystemURL objects for use with app intents.'
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_FILE_UTILS_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_FILE_UTILS_H_
 

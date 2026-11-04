@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web Apps Intent Picker Delegate Implementation
+// summary: Implements the web-apps intent picker delegate that finds installed web apps controlling a URL, loads their icons, launches them, records picker metrics, and shows link-capturing infobars.
+// ---
+
 #include "chrome/browser/apps/link_capturing/web_apps_intent_picker_delegate.h"
 
 #include <string>

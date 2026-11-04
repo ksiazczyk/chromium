@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App Service proxy forward declarations
+// summary: Provides a cross-platform forward declaration of AppServiceProxy, aliasing the Ash or base implementation depending on the build.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_APP_SERVICE_PROXY_FORWARD_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_APP_SERVICE_PROXY_FORWARD_H_
 

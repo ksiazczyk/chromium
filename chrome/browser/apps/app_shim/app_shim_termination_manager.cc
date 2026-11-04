@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppShimTerminationManager implementation
+// summary: Implements the termination manager that quits Chrome when app shims close and no browser windows remain open, tracking whether a browser session is running.
+// ---
+
 #include "chrome/browser/apps/app_shim/app_shim_termination_manager.h"
 
 #include "base/callback_list.h"

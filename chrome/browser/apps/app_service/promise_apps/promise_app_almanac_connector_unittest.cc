@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Almanac connector unit tests
+// summary: Unit tests verifying request building and response handling of the Almanac promise app connector using a test URL loader factory.
+// ---
+
 #include "chrome/browser/apps/app_service/promise_apps/promise_app_almanac_connector.h"
 
 #include <optional>

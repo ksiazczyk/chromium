@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App install types unit tests
+// summary: Unit tests verifying when AppInstallData is valid for installation for Android apps, web apps and website shortcuts.
+// ---
+
 #include "chrome/browser/apps/app_service/app_install/app_install_types.h"
 
 #include "components/services/app_service/public/cpp/package_id.h"

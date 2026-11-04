@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for chrome_app_deprecation
+summary: Grants the browsertest and implementation files access to the message center and Ash system dialog headers they need.

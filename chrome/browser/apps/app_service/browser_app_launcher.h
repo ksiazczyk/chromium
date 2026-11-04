@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser app launcher header
+// summary: Declares BrowserAppLauncher, which forwards app launch requests to extensions or LaunchWebAppCommand by app type, plus a deprecated synchronous launch interface for tests.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_BROWSER_APP_LAUNCHER_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_BROWSER_APP_LAUNCHER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Link capturing tab data declaration
+// summary: Declares accessors for the link click disposition that opened a tab, used by link capturing logic.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_LINK_CAPTURING_LINK_CAPTURING_TAB_DATA_H_
 #define CHROME_BROWSER_APPS_LINK_CAPTURING_LINK_CAPTURING_TAB_DATA_H_
 

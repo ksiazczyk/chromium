@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App Service publisher unit tests
+// summary: Unit tests covering App Service publisher behavior for extensions, web apps, ARC, and other app types, including icons, permissions, and launch times.
+// ---
+
 #include <utility>
 #include <vector>
 

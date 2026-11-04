@@ -1,0 +1,4 @@
+# Docerion header of app_shim_listener.mm.
+type: source
+title: AppShimListener implementation for macOS app shims
+summary: Implements the browser-side listener that accepts Mach connections from app shims, publishes the running Chrome version symlink and feature state file, and cleans up on shutdown.

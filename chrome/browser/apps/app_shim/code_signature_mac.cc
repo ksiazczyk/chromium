@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Code signature validation helpers
+// summary: Implements helpers that read the framework bundle's designated requirement and log or dump diagnostics when code signature validation fails.
+// ---
+
 #include "chrome/browser/apps/app_shim/code_signature_mac.h"
 
 #include "base/apple/bundle_locations.h"

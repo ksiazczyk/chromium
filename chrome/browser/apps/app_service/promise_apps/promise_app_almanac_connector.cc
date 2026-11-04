@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Almanac connector implementation
+// summary: Fetches promise app name and icon data from the ChromeOS Almanac Promise App API endpoint for packages currently being installed.
+// ---
+
 #include "chrome/browser/apps/app_service/promise_apps/promise_app_almanac_connector.h"
 
 #include "base/functional/callback.h"

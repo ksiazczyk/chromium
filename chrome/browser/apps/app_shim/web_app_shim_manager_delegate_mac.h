@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebAppShimManagerDelegate class header
+// summary: Declares the web_app AppShimManager delegate that handles web app shims and falls back to a wrapped delegate for extension-based apps.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SHIM_WEB_APP_SHIM_MANAGER_DELEGATE_MAC_H_
 #define CHROME_BROWSER_APPS_APP_SHIM_WEB_APP_SHIM_MANAGER_DELEGATE_MAC_H_
 

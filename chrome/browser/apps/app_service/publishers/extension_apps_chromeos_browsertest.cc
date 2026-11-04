@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS extension apps browser test
+// summary: Browser test that launches extension apps with web file handler intents through the App Service and verifies the launch results.
+// ---
+
 #include <array>
 #include <memory>
 #include <string_view>

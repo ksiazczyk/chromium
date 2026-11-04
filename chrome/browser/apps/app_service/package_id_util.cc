@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Package ID utility implementation
+// summary: Implements helpers that derive an app's installer package ID and find installed apps matching a given package ID on ChromeOS.
+// ---
+
 #include "chrome/browser/apps/app_service/package_id_util.h"
 
 #include <optional>

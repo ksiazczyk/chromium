@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App icon URL data source implementation
+// summary: Implements the AppIconSource data source that serves PNG icons for installed apps by app ID and size, falling back to a default image when no icon is available.
+// ---
+
 #include "chrome/browser/apps/app_service/app_icon_source.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC apps keyed service factory implementation
+// summary: Implements the profile-keyed service factory that creates ArcApps instances and declares dependencies on ARC and App Service factories.
+// ---
+
 #include "chrome/browser/apps/app_service/publishers/arc_apps_factory.h"
 
 #include "base/feature_list.h"

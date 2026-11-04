@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App launch utilities implementation
+// summary: Implements helpers that build app launch parameters from command lines, event flags and intents, and open browsers or apps for URLs and unknown app IDs.
+// ---
+
 #include "chrome/browser/apps/app_service/launch_utils.h"
 
 #include <algorithm>

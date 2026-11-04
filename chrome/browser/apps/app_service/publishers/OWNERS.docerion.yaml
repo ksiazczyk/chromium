@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for publisher teams
+summary: Lets publisher teams approve changes to their own features and assigns guest OS files to the borealis, bruschetta and crostini owners.

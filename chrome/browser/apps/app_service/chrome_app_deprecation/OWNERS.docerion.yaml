@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for chrome_app_deprecation
+summary: Delegates directory ownership to the shared apps/DEPRECATION_OWNERS file.

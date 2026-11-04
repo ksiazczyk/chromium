@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppShimManager implementation
+// summary: Implements the macOS app shim manager that handles shim launch, profile and window handling, notifications, badging, and app lifecycle events.
+// ---
+
 #include "chrome/browser/apps/app_shim/app_shim_manager_mac.h"
 
 #include <CoreFoundation/CoreFoundation.h>

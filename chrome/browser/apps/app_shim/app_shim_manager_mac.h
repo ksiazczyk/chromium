@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppShimManager class declaration
+// summary: Declares the AppShimManager class and its Delegate interface for managing app shim hosts, app installation checks, and multi-profile shim behavior on macOS.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SHIM_APP_SHIM_MANAGER_MAC_H_
 #define CHROME_BROWSER_APPS_APP_SHIM_APP_SHIM_MANAGER_MAC_H_
 

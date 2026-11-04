@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enable link capturing infobar delegate implementation
+// summary: Implements the infobar delegate that asks users to enable link capturing for a web app and tracks ignore and dismiss counts in the app registry.
+// ---
+
 #include "chrome/browser/apps/link_capturing/enable_link_capturing_infobar_delegate.h"
 
 #include <memory>

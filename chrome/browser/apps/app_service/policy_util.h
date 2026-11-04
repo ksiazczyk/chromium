@@ -15,6 +15,12 @@
 //    * Preinstalled Web Apps
 //    * Isolated Web Apps
 
+// ---docerion
+// type: source
+// title: Policy ID utility interface
+// summary: Declares utilities that map admin policy IDs to app IDs and back for web, ARC, Chrome, system web, preinstalled and isolated web apps.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_POLICY_UTIL_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_POLICY_UTIL_H_
 

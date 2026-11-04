@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory bug tracking metadata
+summary: Maps the directory to the UI>Browser>WebAppInstalls monorail component and a Buganizer component id for issue routing.

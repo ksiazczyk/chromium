@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App uninstall dialog for Chrome OS app types
+// summary: Declares UninstallDialog, which unifies the Chrome Apps, PWA, ARC and Crostini uninstall views and exposes icon preparation and uninstall callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_UNINSTALL_DIALOG_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_UNINSTALL_DIALOG_H_
 

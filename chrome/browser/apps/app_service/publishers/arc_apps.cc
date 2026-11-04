@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC app publisher implementation
+// summary: Implements the ARC++ app publisher, handling app publishing, icons, intents, notifications, permissions and session lifecycle for Android apps on ChromeOS.
+// ---
+
 #include "chrome/browser/apps/app_service/publishers/arc_apps.h"
 
 #include <algorithm>

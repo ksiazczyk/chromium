@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Digital goods factory implementation
+// summary: Implements the Mojo DigitalGoodsFactory that checks payment policy, feature flags and TWA context before creating a DigitalGoods instance.
+// ---
+
 #include "chrome/browser/apps/digital_goods/digital_goods_factory_impl.h"
 
 #include <utility>

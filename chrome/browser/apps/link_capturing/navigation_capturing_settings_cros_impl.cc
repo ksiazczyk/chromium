@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS navigation capturing settings implementation
+// summary: Implements the ChromeOS navigation capturing settings, resolving the preferred web app for a URL and handling isolated and system web apps.
+// ---
+
 #include "chrome/browser/apps/link_capturing/navigation_capturing_settings_cros_impl.h"
 
 #include "chrome/browser/apps/app_service/app_service_proxy.h"

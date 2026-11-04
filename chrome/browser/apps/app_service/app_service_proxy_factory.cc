@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App Service proxy factory implementation
+// summary: Implements the keyed service factory that creates AppServiceProxy instances per profile and decides when App Service is available.
+// ---
+
 #include "chrome/browser/apps/app_service/app_service_proxy_factory.h"
 
 #include <memory>

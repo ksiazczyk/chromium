@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App Service proxy unit tests
+// summary: Unit tests for the App Service proxy covering app publishing, launching, intents, preferred apps and icon loading using fake publishers.
+// ---
+
 #include "chrome/browser/apps/app_service/app_service_proxy.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Guest view directory owners
+summary: Delegates code ownership of this directory to the shared components/guest_view OWNERS file.

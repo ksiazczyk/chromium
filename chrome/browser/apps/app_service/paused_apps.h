@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paused apps tracking interface
+// summary: Declares a class that stores app IDs paused for a publisher so paused apps cannot be launched until they are unpaused.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_PAUSED_APPS_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_PAUSED_APPS_H_
 

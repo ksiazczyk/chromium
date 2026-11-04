@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC apps publisher unit tests
+// summary: Unit tests for the ARC apps publisher, covering app registration, launching, intents, permissions and promise apps in the App Service.
+// ---
+
 #include "chrome/browser/apps/app_service/publishers/arc_apps.h"
 
 #include <algorithm>

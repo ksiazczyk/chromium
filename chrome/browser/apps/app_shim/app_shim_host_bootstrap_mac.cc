@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the app shim host bootstrap on Mac
+// summary: Implements the Mojo bootstrap channel that connects app shim processes to the Mac browser process.
+// ---
+
 #include "chrome/browser/apps/app_shim/app_shim_host_bootstrap_mac.h"
 
 #include <CoreFoundation/CoreFoundation.h>

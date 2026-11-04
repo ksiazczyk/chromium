@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Chrome Apps deprecation checks
+// summary: Covers scoped allowlists, default feature flag behavior and deprecation check histogram outcomes for HandleDeprecation.
+// ---
+
 #include "chrome/browser/apps/app_service/chrome_app_deprecation/chrome_app_deprecation.h"
 
 #include <memory>

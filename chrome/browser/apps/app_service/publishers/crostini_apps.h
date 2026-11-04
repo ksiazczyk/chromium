@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini apps publisher class declaration
+// summary: Declares the CrostiniApps class, an App Service publisher for apps running in the Crostini Linux VM.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_PUBLISHERS_CROSTINI_APPS_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_PUBLISHERS_CROSTINI_APPS_H_
 

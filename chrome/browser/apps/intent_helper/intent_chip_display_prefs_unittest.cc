@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for intent chip display preferences
+// summary: Verifies per-URL chip state counting, collapsing after repeated views, and counter reset behavior.
+// ---
+
 #include "chrome/browser/apps/intent_helper/intent_chip_display_prefs.h"
 
 #include "chrome/test/base/testing_profile.h"

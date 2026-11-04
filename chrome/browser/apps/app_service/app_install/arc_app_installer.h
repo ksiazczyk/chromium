@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC app installer
+// summary: Declares ArcAppInstaller, an experimental class that installs Android apps via the ARC fast app reinstall flow while tracking pending installs.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_APP_INSTALL_ARC_APP_INSTALLER_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_APP_INSTALL_ARC_APP_INSTALLER_H_
 

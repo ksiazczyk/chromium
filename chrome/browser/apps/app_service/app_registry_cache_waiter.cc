@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App registry cache waiters
+// summary: Implements waiters that block until an app type is initialized or an app update meets a given condition.
+// ---
+
 #include "chrome/browser/apps/app_service/app_registry_cache_waiter.h"
 
 #include <string>

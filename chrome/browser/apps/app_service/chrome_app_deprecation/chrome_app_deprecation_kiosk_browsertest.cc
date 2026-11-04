@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Kiosk session browser tests for Chrome Apps deprecation
+// summary: Tests kiosk launches of deprecated Chrome Apps, launch errors, bailout accelerator behavior and metrics with the feature flag enabled and disabled.
+// ---
+
 #include "ash/public/cpp/login_accelerators.h"
 #include "base/check_deref.h"
 #include "base/task/current_thread.h"

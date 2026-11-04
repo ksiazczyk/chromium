@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOsAppsIntentPickerDelegate class declaration
+// summary: Declares the ChromeOS implementation of AppsIntentPickerDelegate, backed by the profile's App Service proxy.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_LINK_CAPTURING_CHROMEOS_APPS_INTENT_PICKER_DELEGATE_H_
 #define CHROME_BROWSER_APPS_LINK_CAPTURING_CHROMEOS_APPS_INTENT_PICKER_DELEGATE_H_
 

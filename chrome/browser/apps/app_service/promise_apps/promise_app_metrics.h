@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Promise app metrics declarations
+// summary: Declares histogram names and enums for promise app lifecycle, icon type and app type metrics, together with their recording functions.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_PROMISE_APPS_PROMISE_APP_METRICS_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_PROMISE_APPS_PROMISE_APP_METRICS_H_
 

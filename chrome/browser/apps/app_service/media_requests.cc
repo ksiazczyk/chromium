@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Media request tracking implementation
+// summary: Implements MediaRequests, which tracks per-app camera and microphone usage across web contents and reports when access state changes.
+// ---
+
 #include "chrome/browser/apps/app_service/media_requests.h"
 
 #include <optional>

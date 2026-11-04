@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bruschetta apps publisher unit tests
+// summary: Unit tests for the Bruschetta apps publisher, verifying that registered VM apps can be launched through the App Service.
+// ---
+
 #include "chrome/browser/apps/app_service/publishers/bruschetta_apps.h"
 
 #include <memory>

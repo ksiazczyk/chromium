@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Promise app icon cache implementation
+// summary: Implements caching of promise app icons per package ID, resizing icons to requested scale factors and falling back to a placeholder icon when none are cached.
+// ---
+
 #include "chrome/browser/apps/app_service/promise_apps/promise_app_icon_cache.h"
 
 #include <map>

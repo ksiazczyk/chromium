@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Intent utility functions for App Service
+// summary: Declares helpers to create and convert intent filters and intents for Chrome apps, extensions, ARC, note-taking and lock-screen apps, including share intents built from files.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_INTENT_UTIL_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_INTENT_UTIL_H_
 

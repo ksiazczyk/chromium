@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Promise app metrics implementation
+// summary: Records promise app lifecycle, icon type and app type events into Chrome histograms.
+// ---
+
 #include "chrome/browser/apps/app_service/promise_apps/promise_app_metrics.h"
 
 #include "base/metrics/histogram_functions.h"

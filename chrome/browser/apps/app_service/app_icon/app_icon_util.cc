@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App icon utility functions implementation
+// summary: Builds icon file paths, detects adaptive icons, and reads icon files on background threads.
+// ---
+
 #include "chrome/browser/apps/app_service/app_icon/app_icon_util.h"
 
 #include "ash/public/cpp/shelf_types.h"

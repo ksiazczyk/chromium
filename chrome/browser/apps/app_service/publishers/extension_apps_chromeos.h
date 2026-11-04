@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS extension apps publisher
+// summary: Declares ExtensionAppsChromeOs, the ChromeOS App Service publisher for extension-backed apps including Chrome Apps, hosted apps, and browser extensions.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_PUBLISHERS_EXTENSION_APPS_CHROMEOS_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_PUBLISHERS_EXTENSION_APPS_CHROMEOS_H_
 

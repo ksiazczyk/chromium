@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser to tab list implementation
+// summary: Implements BrowserToTabList, which tracks mappings between browser windows and active tab instance IDs for metrics reporting.
+// ---
+
 #include "chrome/browser/apps/app_service/metrics/browser_to_tab_list.h"
 
 #include "ui/aura/window.h"

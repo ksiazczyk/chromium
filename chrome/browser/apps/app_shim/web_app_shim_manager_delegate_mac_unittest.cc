@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebAppShimManagerDelegate unit tests
+// summary: Unit tests for the web app shim manager delegate using a mock AppShimManager delegate and a fake web app provider to exercise launch and shim behavior.
+// ---
+
 #include "chrome/browser/apps/app_shim/web_app_shim_manager_delegate_mac.h"
 
 #include <optional>

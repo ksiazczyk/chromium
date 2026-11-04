@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App platform metrics service browser tests
+// summary: Browser tests verifying app platform metrics collection, covering instance state tracking, UKM logging, sync, public sessions and window input scenarios for the metrics service.
+// ---
+
 #include "chrome/browser/apps/app_service/metrics/app_platform_metrics_service.h"
 
 #include <atomic>

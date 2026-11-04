@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App platform metrics utilities header
+// summary: Defines the AppTypeName and AppTypeNameV2 enums, histogram name constants and duration bucket declarations used by app platform metrics logging.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_METRICS_APP_PLATFORM_METRICS_UTILS_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_METRICS_APP_PLATFORM_METRICS_UTILS_H_
 

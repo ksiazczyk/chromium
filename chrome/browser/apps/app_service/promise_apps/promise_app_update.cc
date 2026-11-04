@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Promise app update implementation
+// summary: Implements PromiseAppUpdate, which merges promise app deltas into state and exposes accessors for fields such as name, progress, status, and installed app ID.
+// ---
+
 #include "chrome/browser/apps/app_service/promise_apps/promise_app_update.h"
 
 #include "base/check.h"

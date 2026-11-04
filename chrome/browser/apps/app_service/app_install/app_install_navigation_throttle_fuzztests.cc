@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App install navigation throttle fuzz tests
+// summary: Fuzz test checking that ExtractQueryParams can parse arbitrary query strings without crashing, seeded with typical package_id and source examples.
+// ---
+
 #include <string_view>
 
 #include "chrome/browser/apps/app_service/app_install/app_install_navigation_throttle.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the intent_helper directory
+summary: Defines GN source sets for intent chip prefs, test support, unit tests, and the ChromeOS disabled apps throttle.

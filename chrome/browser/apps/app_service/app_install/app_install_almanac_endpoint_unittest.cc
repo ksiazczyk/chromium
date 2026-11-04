@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Almanac app install endpoint unit tests
+// summary: Tests request construction and response parsing for the Almanac app install endpoint using a fake URL loader factory.
+// ---
+
 #include "chrome/browser/apps/app_service/app_install/app_install_almanac_endpoint.h"
 
 #include <optional>

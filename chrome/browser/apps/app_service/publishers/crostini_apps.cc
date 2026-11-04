@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini apps publisher implementation
+// summary: Implements the App Service publisher for Crostini apps, handling launching, intents and shelf context menus including display density options.
+// ---
+
 #include "chrome/browser/apps/app_service/publishers/crostini_apps.h"
 
 #include <utility>

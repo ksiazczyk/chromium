@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Borealis apps publisher implementation
+// summary: Implements the App Service publisher for Borealis apps, managing permissions, visibility, special installer apps and launching of VM apps.
+// ---
+
 #include "chrome/browser/apps/app_service/publishers/borealis_apps.h"
 
 #include <optional>

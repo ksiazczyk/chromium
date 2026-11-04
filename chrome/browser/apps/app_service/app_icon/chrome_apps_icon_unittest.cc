@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome apps icon unit tests
+// summary: Unit tests for loading and compressing extension and Chrome app icons and comparing them against the icon factory output.
+// ---
+
 #include <string>
 #include <vector>
 

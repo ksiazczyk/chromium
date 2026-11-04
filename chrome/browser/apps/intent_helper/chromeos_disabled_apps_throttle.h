@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS disabled apps navigation throttle header
+// summary: Declares ChromeOsDisabledAppsThrottle, which cancels navigations to disabled apps on ChromeOS.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_INTENT_HELPER_CHROMEOS_DISABLED_APPS_THROTTLE_H_
 #define CHROME_BROWSER_APPS_INTENT_HELPER_CHROMEOS_DISABLED_APPS_THROTTLE_H_
 

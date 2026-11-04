@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App launch utilities header
+// summary: Declares launch helpers such as converting window modes to launch containers, creating launch parameters with event flags, and finding or launching preferred apps for a URL.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_LAUNCH_UTILS_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_LAUNCH_UTILS_H_
 

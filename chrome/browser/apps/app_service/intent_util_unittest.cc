@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for intent utilities
+// summary: Unit tests verifying creation and conversion of App Service intents and intent filters, covering ARC intents, Chrome app file handlers and related intent helpers.
+// ---
+
 #include "chrome/browser/apps/app_service/intent_util.h"
 
 #include <algorithm>

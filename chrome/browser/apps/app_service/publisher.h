@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Publisher interface for app service
+// summary: Defines the abstract Publisher interface that app publishers implement for launching, stopping and uninstalling apps and providing menus.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_PUBLISHER_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_PUBLISHER_H_
 

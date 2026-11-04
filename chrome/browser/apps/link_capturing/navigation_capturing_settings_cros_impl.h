@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS navigation capturing settings declaration
+// summary: Declares the ChromeOS specialization of NavigationCapturingSettings that queries the OS preferred app store for URL capture decisions.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_LINK_CAPTURING_NAVIGATION_CAPTURING_SETTINGS_CROS_IMPL_H_
 #define CHROME_BROWSER_APPS_LINK_CAPTURING_NAVIGATION_CAPTURING_SETTINGS_CROS_IMPL_H_
 

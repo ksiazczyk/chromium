@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App install service ChromeOS header
+// summary: Declares AppInstallServiceAsh and the AppInstallResult enum of install outcomes used for histogram metrics on ChromeOS.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_APP_INSTALL_APP_INSTALL_SERVICE_ASH_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_APP_INSTALL_APP_INSTALL_SERVICE_ASH_H_
 

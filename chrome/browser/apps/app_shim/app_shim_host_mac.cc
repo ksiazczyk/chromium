@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the Mac app shim host
+// summary: Implements the browser-side host that manages app shim processes, metrics and remote Cocoa hosting.
+// ---
+
 #include "chrome/browser/apps/app_shim/app_shim_host_mac.h"
 
 #include <utility>

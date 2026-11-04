@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppIconWriter implementation
+// summary: Saves compressed app icon data, including adaptive foreground and background icons, to local disk files.
+// ---
+
 
 #include "chrome/browser/apps/app_service/app_icon/app_icon_writer.h"
 

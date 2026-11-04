@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app installer implementation
+// summary: Implements WebAppInstaller, which fetches web app install data from the Almanac endpoint and installs web apps or website shortcuts while recording metrics.
+// ---
+
 #include "chrome/browser/apps/app_service/app_install/web_app_installer.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppIconReader class declaration
+// summary: Declares AppIconReader, which reads app icons from local disk for app service items and provides ImageSkia results.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_APP_ICON_APP_ICON_READER_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_APP_ICON_APP_ICON_READER_H_
 

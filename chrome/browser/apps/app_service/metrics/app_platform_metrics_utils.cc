@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App platform metrics utilities implementation
+// summary: Implements helpers that map app types, install reasons and window states to histogram names and values for app platform metrics logging.
+// ---
+
 #include "chrome/browser/apps/app_service/metrics/app_platform_metrics_utils.h"
 
 #include <string_view>

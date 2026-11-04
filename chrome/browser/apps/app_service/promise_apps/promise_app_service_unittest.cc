@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Promise app service unit tests
+// summary: Unit tests for PromiseAppService covering Almanac queries, icon downloads, and promise app registration using a test profile and fake URL loader factory.
+// ---
+
 #include "chrome/browser/apps/app_service/promise_apps/promise_app_service.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GuestOSApps base implementation for guest OS app publishers
+// summary: Implements the shared GuestOSApps App Service publisher that registers, launches, and provides icons for guest OS apps such as Crostini and Bruschetta, including intent-based launch args.
+// ---
+
 #include "chrome/browser/apps/app_service/publishers/guest_os_apps.h"
 
 #include <algorithm>

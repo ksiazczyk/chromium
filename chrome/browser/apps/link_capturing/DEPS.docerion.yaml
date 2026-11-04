@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the link capturing directory
+summary: Grants this directory include access to the web package and web app origin association test components.

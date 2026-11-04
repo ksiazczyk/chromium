@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the app_shim directory
+summary: Restricts allowed includes in the directory and grants exceptions for two test files.

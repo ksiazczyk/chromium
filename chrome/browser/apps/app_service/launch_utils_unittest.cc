@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for launch utilities
+// summary: Unit tests checking that app launch parameters honor launch containers, window dispositions and preferred containers when apps are launched.
+// ---
+
 #include "chrome/browser/apps/app_service/launch_utils.h"
 
 #include "build/build_config.h"

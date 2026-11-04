@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Browser to tab list header
+// summary: Declares the BrowserToTabList class that stores browser window to tab instance ID pairs used by metrics tracking.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_METRICS_BROWSER_TO_TAB_LIST_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_METRICS_BROWSER_TO_TAB_LIST_H_
 

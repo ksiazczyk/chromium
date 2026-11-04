@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Promise app wrapper implementation
+// summary: Implements IconWrapper and PromiseAppWrapper classes that expose package ID, name and icon details from a PromiseAppResponse proto.
+// ---
+
 #include "chrome/browser/apps/app_service/promise_apps/promise_app_wrapper.h"
 
 #include <optional>

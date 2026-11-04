@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension apps enable flow implementation
+// summary: Implements ExtensionAppsEnableFlow, which runs the extension enable flow and reports success or failure through a callback.
+// ---
+
 #include "chrome/browser/apps/app_service/publishers/extension_apps_enable_flow.h"
 
 #include <utility>

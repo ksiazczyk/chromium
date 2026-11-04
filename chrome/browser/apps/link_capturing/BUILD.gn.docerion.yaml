@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Link capturing GN build targets
+summary: Defines the GN build targets for link capturing, including platform-specific sources, test support, unit tests and App Service browser tests.

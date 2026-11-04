@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app icon unit tests
+// summary: Unit tests for loading web app icons with various icon effects, compressed icon handling, and ChromeOS-specific behavior.
+// ---
+
 #include <memory>
 #include <utility>
 #include <vector>

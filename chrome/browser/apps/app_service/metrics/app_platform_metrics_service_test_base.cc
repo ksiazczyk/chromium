@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App platform metrics service test base implementation
+// summary: Implements shared test helpers such as TestApp creation, app installation and profile setup used by app platform metrics service unit tests.
+// ---
+
 #include "chrome/browser/apps/app_service/metrics/app_platform_metrics_service_test_base.h"
 
 #include <memory>

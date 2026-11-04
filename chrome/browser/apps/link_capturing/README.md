@@ -1,3 +1,9 @@
+---
+type: readme
+title: Link Capturing
+summary: Describes the folder's implementation of link capturing, covering capture eligibility logic, platform-specific delegates and Intent Picker UI backends.
+---
+
 # Link Capturing
 
 This folder implements the "link capturing" browser feature, where clicking a

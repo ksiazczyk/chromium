@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Promise app registry cache unit tests
+// summary: Unit tests covering adding, updating, retrieving, and removing promise apps in the registry cache, including lifecycle histogram checks.
+// ---
+
 #include "chrome/browser/apps/app_service/promise_apps/promise_app_registry_cache.h"
 
 #include "base/scoped_observation.h"

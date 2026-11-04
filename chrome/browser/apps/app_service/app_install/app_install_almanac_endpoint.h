@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Almanac app install endpoint API
+// summary: Declares functions to fetch app installation details and install URLs from the Almanac server's app install endpoint.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_APP_INSTALL_APP_INSTALL_ALMANAC_ENDPOINT_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_APP_INSTALL_APP_INSTALL_ALMANAC_ENDPOINT_H_
 

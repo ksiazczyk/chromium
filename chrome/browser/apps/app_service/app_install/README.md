@@ -1,3 +1,12 @@
+---
+type: readme
+title: App Install Service
+summary: Introduces the ChromeOS App Install Service, which unifies installation of different app types through a common interface with C++ and web entry points, and notes it is still in development.
+relations:
+  - documents /chrome/browser/apps/app_service/app_install/app_install_service.h
+  - documents /chrome/browser/apps/app_service/app_install/app_install_navigation_throttle.h
+---
+
 # App Install Service
 
 This directory contains the App Install Service, a ChromeOS only component of

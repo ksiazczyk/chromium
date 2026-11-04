@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App icon test utilities implementation
+// summary: Implements shared helpers to load, verify, and create icon images used by app icon unit tests.
+// ---
+
 #include "chrome/browser/apps/app_service/app_icon/app_icon_test_util.h"
 
 #include "base/functional/callback.h"

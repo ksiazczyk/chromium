@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Peripherals proto build definition
+summary: GN build file that defines a proto_library for peripherals.proto, depending on the almanac API client protos.

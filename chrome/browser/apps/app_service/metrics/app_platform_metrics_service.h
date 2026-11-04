@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App platform metrics service class declaration
+// summary: Declares AppPlatformMetricsService, which initializes and controls app platform metric recorders per day in Chrome OS, with lifecycle observers.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_METRICS_APP_PLATFORM_METRICS_SERVICE_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_METRICS_APP_PLATFORM_METRICS_SERVICE_H_
 

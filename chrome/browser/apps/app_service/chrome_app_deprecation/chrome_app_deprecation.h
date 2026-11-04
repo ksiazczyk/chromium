@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome Apps deprecation header
+// summary: Declares HandleDeprecation, deprecation feature flags, allowlist component updater registration and testing entry points.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_CHROME_APP_DEPRECATION_CHROME_APP_DEPRECATION_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_CHROME_APP_DEPRECATION_CHROME_APP_DEPRECATION_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App install service ChromeOS implementation
+// summary: Implements app installation on ChromeOS by fetching app data from Almanac, showing install dialogs or installing headlessly, and recording result metrics.
+// ---
+
 #include "chrome/browser/apps/app_service/app_install/app_install_service_ash.h"
 
 #include <algorithm>

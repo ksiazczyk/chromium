@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Digital goods helper utilities
+// summary: Resolves the TWA package name and installed web app scope for a RenderFrameHost, returning empty strings when unavailable.
+// ---
+
 #include "chrome/browser/apps/digital_goods/util.h"
 
 #include <optional>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppIconDecoder class header
+// summary: Declares AppIconDecoder, which reads app icons from local disk and provides uncompressed ImageSkia icons for UI code, owned and freed by AppIconReader.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_APP_ICON_APP_ICON_DECODER_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_APP_ICON_APP_ICON_DECODER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Link capturing tab data implementation
+// summary: Stores per-tab link capturing data such as the source window disposition and, on ChromeOS, the app the link was clicked in.
+// ---
+
 #include "chrome/browser/apps/link_capturing/link_capturing_tab_data.h"
 
 #include <utility>

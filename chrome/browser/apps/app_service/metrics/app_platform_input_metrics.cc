@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App platform input metrics implementation
+// summary: Implements counting of mouse, stylus, touch and keyboard input events per app window and persisting the event counts in user prefs.
+// ---
+
 #include "chrome/browser/apps/app_service/metrics/app_platform_input_metrics.h"
 
 #include <string_view>

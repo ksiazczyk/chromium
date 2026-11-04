@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension apps base publisher
+// summary: Declares ExtensionAppsBase, the base class for App Service publishers of extension-backed apps, with launch, icon, and extension registry observer hooks.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_PUBLISHERS_EXTENSION_APPS_BASE_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_PUBLISHERS_EXTENSION_APPS_BASE_H_
 

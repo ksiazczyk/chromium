@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Link capturing feature test support implementation
+// summary: Provides browser test helpers to configure link capturing feature versions and to enable, disable, and wait for link capturing navigations.
+// ---
+
 #include "chrome/browser/apps/link_capturing/link_capturing_feature_test_support.h"
 
 #include <optional>

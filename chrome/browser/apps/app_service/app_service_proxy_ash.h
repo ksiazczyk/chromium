@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS App Service proxy header
+// summary: Declares AppServiceProxyAsh, the per-profile singleton proxy and cache of App Service apps on Chrome OS, including pause data and uninstall handling.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_APP_SERVICE_APP_SERVICE_PROXY_ASH_H_
 #define CHROME_BROWSER_APPS_APP_SERVICE_APP_SERVICE_PROXY_ASH_H_
 

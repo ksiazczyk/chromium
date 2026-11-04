@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App context menu utilities
+// summary: Implements helpers that build app menu items such as command, radio, shortcut and submenu entries for app context menus.
+// ---
+
 #include "chrome/browser/apps/app_service/menu_util.h"
 
 #include <string_view>

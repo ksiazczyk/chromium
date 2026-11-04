@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Digital goods API implementation
+// summary: Implements GetDetails, ListPurchases, ListPurchaseHistory and Consume by forwarding requests to the ARC digital goods bridge.
+// ---
+
 #include "chrome/browser/apps/digital_goods/digital_goods_impl.h"
 
 #include "chrome/browser/apps/digital_goods/util.h"

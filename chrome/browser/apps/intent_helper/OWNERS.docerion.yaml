@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for ARC-related intent_helper code
+summary: Lists primary reviewers for ARC-related code and points to backup reviewers in the ash ARC directory.

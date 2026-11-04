@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Intent chip display preferences header
+// summary: Declares IntentChipDisplayPrefs, which manages expanded or collapsed intent chip display per origin.
+// ---
+
 #ifndef CHROME_BROWSER_APPS_INTENT_HELPER_INTENT_CHIP_DISPLAY_PREFS_H_
 #define CHROME_BROWSER_APPS_INTENT_HELPER_INTENT_CHIP_DISPLAY_PREFS_H_
 

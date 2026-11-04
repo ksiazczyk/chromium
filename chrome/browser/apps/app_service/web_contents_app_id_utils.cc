@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web contents app ID utilities implementation
+// summary: Implements helpers that get, set and check the app ID associated with a WebContents through the web app and extension tab helpers.
+// ---
+
 #include "chrome/browser/apps/app_service/web_contents_app_id_utils.h"
 
 #include "chrome/browser/apps/app_service/app_service_proxy.h"

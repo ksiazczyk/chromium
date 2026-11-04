@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppView browser tests
+// summary: Browser tests for embedding AppView guests in Chrome platform apps, covering launch, embedding, and guest process behavior across MPArch and inner WebContents modes.
+// ---
+
 #include <utility>
 
 #include "base/memory/raw_ptr.h"

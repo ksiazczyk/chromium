@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the Mac app shim sources
+summary: Defines source sets, dependencies and test targets for the Mac app shim browser code.
