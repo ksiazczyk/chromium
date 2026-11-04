@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud upload WebUI controller implementation
+// summary: Implements the WebUI controller for the cloud upload dialog, registering its data source, theme provider and localized strings for the Office and OneDrive setup flows.
+// ---
+
 #include "chrome/browser/ui/webui/ash/cloud_upload/cloud_upload_ui.h"
 
 #include "ash/constants/webui_url_constants.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ProfileHelper browser tests
+// summary: Browser tests for the WebUI profile helper, covering profile creation and opening new browser windows for profiles.
+// ---
+
 #include "chrome/browser/ui/webui/profile_helper.h"
 
 #include "base/files/file_util.h"

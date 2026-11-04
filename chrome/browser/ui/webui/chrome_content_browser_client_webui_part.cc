@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome content browser client WebUI part implementation
+// summary: Implements the Chrome WebUI part of the content browser client, overriding web preferences such as default and minimum font sizes for WebUI pages and applying profile font preferences after navigation.
+// ---
+
 #include "chrome/browser/ui/webui/chrome_content_browser_client_webui_part.h"
 
 #include "chrome/browser/profiles/profile.h"

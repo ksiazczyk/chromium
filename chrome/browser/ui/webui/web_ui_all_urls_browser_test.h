@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for the all-URLs WebUI browser test
+// summary: Header declaring a parameterized browser test base class that performs the setup needed to load all WebUI pages.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_WEB_UI_ALL_URLS_BROWSER_TEST_H_
 #define CHROME_BROWSER_UI_WEBUI_WEB_UI_ALL_URLS_BROWSER_TEST_H_
 

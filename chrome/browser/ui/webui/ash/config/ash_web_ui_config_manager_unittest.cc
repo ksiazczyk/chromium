@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Ash WebUI config manager unit tests
+// summary: Unit tests verifying that AshWebUIConfigManager registers configs in the WebUIConfigMap and unregisters them in reverse order on shutdown.
+// ---
+
 #include "chrome/browser/ui/webui/ash/config/ash_web_ui_config_manager.h"
 
 #include <memory>

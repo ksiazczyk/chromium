@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP tiles internals WebUI backend
+// summary: Implements the C++ backend of the new tab page tiles internals debugging page, wiring the message handler to favicon, top sites and most visited sites services.
+// ---
+
 #include "chrome/browser/ui/webui/ntp_tiles_internals_ui.h"
 
 #include <memory>

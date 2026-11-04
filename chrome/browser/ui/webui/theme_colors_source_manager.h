@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme colors source manager declarations
+// summary: Declares a keyed service that centralizes generation and serving of theme color CSS for WebUIs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_THEME_COLORS_SOURCE_MANAGER_H_
 #define CHROME_BROWSER_UI_WEBUI_THEME_COLORS_SOURCE_MANAGER_H_
 

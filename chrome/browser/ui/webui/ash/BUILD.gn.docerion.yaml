@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Ash WebUI GN build file for unit and browser tests
+summary: GN build file that aggregates unit test and browser test targets from the ash WebUI subdirectories.

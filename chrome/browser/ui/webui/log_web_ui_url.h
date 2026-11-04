@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI URL usage logging declarations
+// summary: Declares histogram names and functions for logging when WebUI objects are created or shown.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_LOG_WEB_UI_URL_H_
 #define CHROME_BROWSER_UI_WEBUI_LOG_WEB_UI_URL_H_
 

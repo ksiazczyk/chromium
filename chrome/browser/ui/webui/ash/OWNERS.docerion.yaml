@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners for ash WebUI
+summary: OWNERS file listing platform owners and per-file owner rules for Bluetooth, network, cros-components, and DEPS changes.

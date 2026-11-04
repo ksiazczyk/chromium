@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI usage URL logging
+// summary: Implements helpers that hash WebUI URLs and record sparse histograms when a WebUI is created or shown, covering trusted, untrusted, and DevTools schemes.
+// ---
+
 #include "chrome/browser/ui/webui/log_web_ui_url.h"
 
 #include <stdint.h>

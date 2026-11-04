@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI embedding context unit tests
+// summary: Unit tests verifying how browser window interfaces are associated with and changed on WebUI host WebContents.
+// ---
+
 #include "chrome/browser/ui/webui/webui_embedding_context.h"
 
 #include <memory>

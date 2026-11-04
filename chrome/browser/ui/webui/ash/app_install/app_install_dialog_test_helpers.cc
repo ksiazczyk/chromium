@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App install dialog test helpers
+// summary: Provides test helpers to retrieve the dialog web contents, read its title and action button, and click the action button.
+// ---
+
 #include "chrome/browser/ui/webui/ash/app_install/app_install_dialog_test_helpers.h"
 
 #include <optional>

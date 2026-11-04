@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App Home WebUI controller implementation
+// summary: Implements the App Home WebUI controller, setting up its data source with localized strings and resources, handling guest sessions, and binding the Mojo interface to create the page handler.
+// ---
+
 #include "chrome/browser/ui/webui/app_home/app_home_ui.h"
 
 #include "base/memory/ref_counted_memory.h"

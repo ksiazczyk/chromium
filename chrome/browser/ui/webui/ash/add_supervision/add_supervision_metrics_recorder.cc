@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Add Supervision metrics recorder implementation
+// summary: Records UMA histograms and user actions for each state of the Add Supervision enrollment flow, including time spent in the process.
+// ---
+
 #include "chrome/browser/ui/webui/ash/add_supervision/add_supervision_metrics_recorder.h"
 
 #include "base/check.h"

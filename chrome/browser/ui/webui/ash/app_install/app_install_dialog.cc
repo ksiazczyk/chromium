@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App install dialog implementation
+// summary: Implements the ChromeOS app install system web dialog, computing dialog size and showing app info, install results or error states.
+// ---
+
 #include "chrome/browser/ui/webui/ash/app_install/app_install_dialog.h"
 
 #include <cmath>

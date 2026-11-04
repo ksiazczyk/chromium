@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App Home WebUI controller declarations
+// summary: Declares the AppHomeUI Mojo WebUI controller and its AppHomeUIConfig, which enables the page except in guest sessions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_APP_HOME_APP_HOME_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_APP_HOME_APP_HOME_UI_H_
 

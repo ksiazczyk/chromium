@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessCodeCastUI implementation
+// summary: Implements the WebUI controller for the access code cast dialog, setting up its data source, localized strings, and metrics and plural string handlers.
+// ---
+
 #include "chrome/browser/ui/webui/access_code_cast/access_code_cast_ui.h"
 
 #include "chrome/browser/media/router/discovery/access_code/access_code_cast_feature.h"

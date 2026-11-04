@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Arc overview tracing static library build definition
+summary: Defines the arc_overview_tracing static library with its sources and ChromeOS build dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for chrome/browser/ui/webui
+summary: Sets allowed include rules and per-file exceptions for dependencies in the chrome/browser/ui/webui directory.

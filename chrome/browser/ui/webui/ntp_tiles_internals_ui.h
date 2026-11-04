@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTP tiles internals WebUI controller and config
+// summary: Declares the WebUI controller and config class that implement the NTP tiles internals debugging page in Chrome's browser UI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_NTP_TILES_INTERNALS_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_NTP_TILES_INTERNALS_UI_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC power control handler implementation
+// summary: Implements the ARC power control WebUI message handler, covering wakefulness and throttling modes, developer mode detection, and tracing model building.
+// ---
+
 #include "chrome/browser/ui/webui/ash/arc_power_control/arc_power_control_handler.h"
 
 #include "base/functional/bind.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI profile helper
+// summary: Implements helpers that open a new window for a profile, handling locked profiles and the profile picker, and schedule profile deletion.
+// ---
+
 #include "chrome/browser/ui/webui/profile_helper.h"
 
 #include <memory>

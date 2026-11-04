@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Access code cast handler browser tests
+// summary: Browser tests verifying access code cast dialog behavior, including network errors, successful cast responses, and sign-in error handling.
+// ---
+
 #include "chrome/test/media_router/access_code_cast/access_code_cast_integration_browsertest.h"
 #include "components/signin/public/base/consent_level.h"
 #include "components/signin/public/identity_manager/identity_manager.h"

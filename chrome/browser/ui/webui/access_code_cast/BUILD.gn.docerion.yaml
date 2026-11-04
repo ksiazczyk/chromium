@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: AccessCodeCast WebUI build configuration
+summary: GN build file defining the Mojo bindings, source sets, and test targets for the access code cast WebUI.

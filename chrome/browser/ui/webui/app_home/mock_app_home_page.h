@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock app home page declarations
+// summary: Declares MockAppHomePage with gmock stubs for adding, removing, enabling and updating apps via the app home Mojo interface.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_APP_HOME_MOCK_APP_HOME_PAGE_H_
 #define CHROME_BROWSER_UI_WEBUI_APP_HOME_MOCK_APP_HOME_PAGE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OneDrive upload handler browser tests
+// summary: Browser tests exercising the OneDrive upload workflow via OneDriveUploadHandler::Upload, verifying upload results, notifications and metrics.
+// ---
+
 #include "chrome/browser/ui/webui/ash/cloud_upload/one_drive_upload_handler.h"
 
 #include <optional>

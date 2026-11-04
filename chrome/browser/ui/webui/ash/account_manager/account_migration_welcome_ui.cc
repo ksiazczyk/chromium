@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account migration welcome WebUI controller
+// summary: Implements the account migration welcome dialog WebUI, adding localized strings and a message handler that opens account reauthentication and closes the dialog.
+// ---
+
 #include "chrome/browser/ui/webui/ash/account_manager/account_migration_welcome_ui.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for the app_settings source set
+summary: Defines the app_settings source set, listing its public headers, sources, and build dependencies for the Chrome web app settings WebUI.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account manager error WebUI header
+// summary: Declares the account manager error dialog WebUI class, a WebDialogUI subclass, together with the WebUIConfig that registers the error page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_ACCOUNT_MANAGER_ACCOUNT_MANAGER_ERROR_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_ACCOUNT_MANAGER_ACCOUNT_MANAGER_ERROR_UI_H_
 

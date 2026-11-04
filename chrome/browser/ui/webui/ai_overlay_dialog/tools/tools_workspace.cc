@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI overlay tools workspace implementation
+// summary: Implements workspace-oriented AI overlay tools, including tab group management, saved tab group sync, page content extraction, and tab operations across browser windows.
+// ---
+
 #include <algorithm>
 #include <map>
 #include <numeric>

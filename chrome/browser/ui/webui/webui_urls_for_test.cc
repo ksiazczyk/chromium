@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI URLs for test implementation
+// summary: Implements hardcoded, platform-conditional lists of WebUI page addresses used to parameterize browser tests for TrustedTypes and sanity checks.
+// ---
+
 #include "chrome/browser/ui/webui/webui_urls_for_test.h"
 
 #include <string_view>

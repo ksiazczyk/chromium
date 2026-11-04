@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme colors source manager unit tests
+// summary: Unit tests verifying theme colors CSS generation and population of the local resource loader config.
+// ---
+
 #include "chrome/browser/ui/webui/theme_colors_source_manager.h"
 
 #include "base/test/scoped_feature_list.h"

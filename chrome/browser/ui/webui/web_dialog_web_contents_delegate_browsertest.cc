@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web dialog web contents delegate browser tests
+// summary: Browser tests verifying WebDialogWebContentsDelegate with ChromeWebContentsHandler, covering navigation, file selection, and window open behavior.
+// ---
+
 #include "ui/web_dialogs/web_dialog_web_contents_delegate.h"
 
 #include <memory>

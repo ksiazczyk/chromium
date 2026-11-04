@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Current channel logo resource lookup
+// summary: Returns the resource ID of the product logo matching the current Chrome channel, with branded channel logos and a generic fallback.
+// ---
+
 #include "chrome/browser/ui/webui/current_channel_logo.h"
 
 #include "base/check_is_test.h"

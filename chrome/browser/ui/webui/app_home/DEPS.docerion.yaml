@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: App home include rules for tests
+summary: Allows test source files in this directory to include the create application shortcut view test support header.

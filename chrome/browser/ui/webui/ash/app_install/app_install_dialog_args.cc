@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App install dialog args implementation
+// summary: Defines constructors and destructors for the app info and connection error dialog argument structs.
+// ---
+
 #include "chrome/browser/ui/webui/ash/app_install/app_install_dialog_args.h"
 
 namespace ash::app_install {

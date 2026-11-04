@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud open metrics implementation
+// summary: Implements metric logging for the cloud open and upload flow, classifying task results and detecting metric inconsistencies.
+// ---
+
 #include "chrome/browser/ui/webui/ash/cloud_upload/cloud_open_metrics.h"
 
 #include <concepts>

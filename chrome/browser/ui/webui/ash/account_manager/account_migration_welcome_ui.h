@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account migration welcome WebUI header
+// summary: Declares the account migration welcome dialog WebUI class, a WebDialogUI subclass, together with the WebUIConfig that registers the migration welcome page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_ACCOUNT_MANAGER_ACCOUNT_MIGRATION_WELCOME_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_ACCOUNT_MANAGER_ACCOUNT_MIGRATION_WELCOME_UI_H_
 

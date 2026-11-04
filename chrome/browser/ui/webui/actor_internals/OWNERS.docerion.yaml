@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for actor internals
+summary: Delegates review ownership to chrome/browser/actor/OWNERS and requires security owners for changes to mojom files.

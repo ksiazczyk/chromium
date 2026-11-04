@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RunOnOsLoginMode Mojo enum traits
+// summary: Implements conversions between the web_app and app_home Mojo RunOnOsLoginMode enums.
+// ---
+
 #include "chrome/browser/ui/webui/app_home/app_home_mojom_traits.h"
 
 namespace mojo {

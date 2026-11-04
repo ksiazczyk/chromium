@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File icon data source class declaration
+// summary: Declares the FileIconSource URL data source class that serves icons for local files to WebUI requests, including request details and icon fetch plumbing.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_FILEICON_SOURCE_H_
 #define CHROME_BROWSER_UI_WEBUI_FILEICON_SOURCE_H_
 

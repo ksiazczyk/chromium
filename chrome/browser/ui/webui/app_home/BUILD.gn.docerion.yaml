@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: App home BUILD.gn build file
+summary: GN build rules for the app home WebUI, defining the Mojo bindings target and the source sets for its interface, implementation, and browser tests.

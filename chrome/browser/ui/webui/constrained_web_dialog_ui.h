@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConstrainedWebDialogUI header
+// summary: Declares ConstrainedWebDialogUI, its WebUI config, and the ConstrainedWebDialogDelegate interface for showing HTML content in constrained dialogs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_CONSTRAINED_WEB_DIALOG_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_CONSTRAINED_WEB_DIALOG_UI_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Confirm signout dialog declaration
+// summary: Declares the ConfirmSignoutDialog shown when closing the Add Supervision flow after the account has already become supervised.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_ADD_SUPERVISION_CONFIRM_SIGNOUT_DIALOG_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_ADD_SUPERVISION_CONFIRM_SIGNOUT_DIALOG_H_
 

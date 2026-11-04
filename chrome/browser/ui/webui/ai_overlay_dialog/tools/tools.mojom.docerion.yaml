@@ -1,0 +1,4 @@
+# Docerion header of tools.mojom.
+type: source
+title: Mojo interface defining AI overlay assistant tools
+summary: Defines the Mojo IPC interface of AI overlay tools, which the build also parses to generate the agent tool manifest.

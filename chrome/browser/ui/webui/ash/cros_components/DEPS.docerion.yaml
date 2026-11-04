@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for cros_components
+summary: Include rules that block ChromeOS dependencies on //chrome, with specific exceptions granted only to the cros_components browser test file.

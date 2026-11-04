@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI load timer browser tests
+// summary: Browser tests verifying WebuiLoadTimer records initial and completed load histograms, including during prerendering.
+// ---
+
 #include "chrome/browser/ui/webui/webui_load_timer.h"
 
 #include "base/run_loop.h"

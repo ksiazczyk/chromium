@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: App management BUILD.gn build configuration
+summary: Defines the GN build targets and dependencies for the app management WebUI page handlers, including ChromeOS-specific sources and unit tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome WebUI web contents handler
+// summary: Implements URL opening, new content creation and file chooser handling for WebUI dialogs in Chrome.
+// ---
+
 #include "chrome/browser/ui/webui/chrome_web_contents_handler.h"
 
 #include <utility>

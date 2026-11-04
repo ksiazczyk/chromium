@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metrics handler implementation
+// summary: Implements MetricsHandler message callbacks that let WebUI pages record user actions, linear, boolean, time, medium time and sparse histogram metrics.
+// ---
+
 #include "chrome/browser/ui/webui/metrics_handler.h"
 
 #include "base/functional/bind.h"

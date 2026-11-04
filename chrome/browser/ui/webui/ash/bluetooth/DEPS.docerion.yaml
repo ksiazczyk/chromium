@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Bluetooth WebUI directory
+summary: Sets include rules that restrict //chrome dependencies and allow the specific includes needed by this Bluetooth WebUI directory.

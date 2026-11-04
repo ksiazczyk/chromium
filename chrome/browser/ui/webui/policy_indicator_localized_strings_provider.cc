@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy indicator localized strings provider
+// summary: Adds the localized strings used by policy indicators to a WebUI data source, with ChromeOS demo mode and sync adjustments.
+// ---
+
 #include "chrome/browser/ui/webui/policy_indicator_localized_strings_provider.h"
 
 #include "build/build_config.h"

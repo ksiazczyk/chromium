@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AI overlay tools desktop Views implementation
+// summary: Implements the desktop Views backend of AiOverlayTools, handling tab switching, scrolling, page opening from tabs, bookmarks, and history, plus fullscreen and Gemini panel actions.
+// ---
+
 #include "chrome/browser/ui/webui/ai_overlay_dialog/tools/tools_views.h"
 
 #include <optional>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the accessibility WebUI
+summary: Defines the accessibility and impl source sets with their sources and dependencies for building the accessibility WebUI.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account manager error WebUI controller
+// summary: Implements the Chrome OS account manager error dialog WebUI, registering its data source, localized strings, resources and the closeDialog message handler.
+// ---
+
 #include "chrome/browser/ui/webui/ash/account_manager/account_manager_error_ui.h"
 
 #include "ash/constants/webui_url_constants.h"

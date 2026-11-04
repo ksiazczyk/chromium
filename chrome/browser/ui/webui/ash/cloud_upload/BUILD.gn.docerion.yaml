@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Cloud upload build targets
+summary: GN build file defining the cloud upload static library, Mojo bindings target and browser test targets for ChromeOS.

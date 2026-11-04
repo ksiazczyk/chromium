@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Cloud upload dialog browser tests
+// summary: Browser tests covering the cloud upload dialog flows, including file handler selection, OneDrive setup, and move confirmations for Google Drive and OneDrive.
+// ---
+
 #include "chrome/browser/ui/webui/ash/cloud_upload/cloud_upload_dialog_browsertest.h"
 
 #include <unistd.h>

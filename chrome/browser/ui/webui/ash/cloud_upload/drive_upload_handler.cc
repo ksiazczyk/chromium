@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive upload handler implementation
+// summary: Implements the upload-to-Google-Drive workflow, copying or moving files via IO tasks, syncing to Drive and reporting progress notifications and metrics.
+// ---
+
 #include "chrome/browser/ui/webui/ash/cloud_upload/drive_upload_handler.h"
 
 #include "base/check_op.h"

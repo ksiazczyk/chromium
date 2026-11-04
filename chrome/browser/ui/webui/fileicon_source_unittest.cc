@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unit tests for the file icon data source
+// summary: Unit tests for FileIconSource that verify parsing of request paths, icon size, scale factor, URL escaping, and platform-specific path handling.
+// ---
+
 #include "chrome/browser/ui/webui/fileicon_source.h"
 
 #include <array>

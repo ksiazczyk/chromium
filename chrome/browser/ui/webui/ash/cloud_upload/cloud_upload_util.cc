@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud upload utility implementations
+// summary: Implements shared helpers for the ChromeOS cloud upload flow, including localized error messages, file path to file system URL conversion and volume type mapping.
+// ---
+
 #include "chrome/browser/ui/webui/ash/cloud_upload/cloud_upload_util.h"
 
 #include <algorithm>

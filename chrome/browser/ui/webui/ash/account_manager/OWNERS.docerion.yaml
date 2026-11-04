@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for account manager WebUI
+summary: Delegates code ownership review of this directory to the ChromeOS account manager component OWNERS file.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Plural string handler header
+// summary: Declares the WebUI message handler that serves pluralized localized strings and string tuples to WebUI pages.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_PLURAL_STRING_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_PLURAL_STRING_HANDLER_H_
 

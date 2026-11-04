@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI embedding context browser tests
+// summary: Browser tests verifying that embedding context updates correctly when tabs move between windows or are discarded.
+// ---
+
 #include "chrome/browser/ui/webui/webui_embedding_context.h"
 
 #include "base/test/mock_callback.h"

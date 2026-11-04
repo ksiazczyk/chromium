@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Access code cast dialog browser test
+// summary: Browser test fixture that enables the feature, shows the access code cast dialog, and verifies its UI.
+// ---
+
 #include "chrome/browser/ui/webui/access_code_cast/access_code_cast_dialog.h"
 
 #include "chrome/browser/media/router/discovery/access_code/access_code_cast_feature.h"

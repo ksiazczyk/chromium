@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for chrome/browser/ui/webui
+summary: Directory metadata file pointing to the shared WebUI metadata in ui/webui/COMMON_METADATA.

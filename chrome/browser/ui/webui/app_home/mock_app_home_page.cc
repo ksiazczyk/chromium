@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Mock app home page implementation
+// summary: Implements MockAppHomePage, which binds a Mojo receiver and returns a pending remote of the app home Page interface for tests.
+// ---
+
 #include "chrome/browser/ui/webui/app_home/mock_app_home_page.h"
 
 namespace webapps {

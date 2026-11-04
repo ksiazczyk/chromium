@@ -2,6 +2,13 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 //
+
+// ---docerion
+// type: test
+// title: ConstrainedWebDialogUI unit tests
+// summary: Unit tests for ConstrainedWebDialogUI dialog close handling, verifying that empty and JSON argument cases close the dialog without crashing.
+// ---
+
 #include "chrome/browser/ui/webui/constrained_web_dialog_ui.h"
 
 #include "base/run_loop.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Cloud upload include rules
+summary: Defines allowed include dependencies for the cloud_upload directory plus test-specific and file-specific exceptions.

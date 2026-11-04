@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Cloud upload owners
+summary: Delegates ownership to the file manager OWNERS file and assigns Mojom files to security owners.

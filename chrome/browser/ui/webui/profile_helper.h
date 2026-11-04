@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI profile helper header
+// summary: Declares helpers for opening a new window for a profile and deleting the profile at a given path.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_PROFILE_HELPER_H_
 #define CHROME_BROWSER_UI_WEBUI_PROFILE_HELPER_H_
 

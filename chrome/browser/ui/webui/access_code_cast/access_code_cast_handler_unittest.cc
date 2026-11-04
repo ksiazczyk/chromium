@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Access code cast handler unit tests
+// summary: Unit tests for AccessCodeCastHandler covering sink addition results, cast-to-sink flows, and route creation duration metrics.
+// ---
+
 #include "chrome/browser/ui/webui/access_code_cast/access_code_cast_handler.h"
 
 #include <algorithm>

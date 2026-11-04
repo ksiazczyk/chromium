@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for arc_power_control
+summary: Sets include rules that restrict dependencies for the arc_power_control directory, blocking //chrome by default and allowing only a short list of exceptions.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme colors source manager factory declarations
+// summary: Declares the profile-keyed service factory that owns and provides ThemeColorsSourceManager instances.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_THEME_COLORS_SOURCE_MANAGER_FACTORY_H_
 #define CHROME_BROWSER_UI_WEBUI_THEME_COLORS_SOURCE_MANAGER_FACTORY_H_
 

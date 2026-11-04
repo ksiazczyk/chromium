@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: App home code owners
+summary: Inherits owners from web_applications and routes Mojo and traits file changes to IPC security owners.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Current channel logo header
+// summary: Declares CurrentChannelLogoResourceId, which returns the resource ID of the logo for the current release channel.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_CURRENT_CHANNEL_LOGO_H_
 #define CHROME_BROWSER_UI_WEBUI_CURRENT_CHANNEL_LOGO_H_
 

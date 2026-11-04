@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome WebUI controller factory implementation
+// summary: Implements the factory that creates WebUI controllers for Chrome's built-in pages and supplies favicon data for them.
+// ---
+
 #include "chrome/browser/ui/webui/chrome_web_ui_controller_factory.h"
 
 #include <stddef.h>

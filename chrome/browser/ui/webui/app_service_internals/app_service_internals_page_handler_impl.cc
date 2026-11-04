@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App service internals page handler implementation
+// summary: Implements the Mojo page handler that collects debug info about installed apps, preferred apps, promise apps and capability access.
+// ---
+
 #include "chrome/browser/ui/webui/app_service_internals/app_service_internals_page_handler_impl.h"
 
 #include <algorithm>

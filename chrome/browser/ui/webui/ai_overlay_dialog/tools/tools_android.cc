@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android implementation of AiOverlayTools
+// summary: Implements Android-specific AI overlay tools, including scrolling via synthetic key events, with some tools not yet ported.
+// ---
+
 #include "chrome/browser/ui/webui/ai_overlay_dialog/tools/tools_android.h"
 
 #include <string>

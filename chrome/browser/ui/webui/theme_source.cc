@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme source serving theme resources to Chrome WebUI
+// summary: Implements the theme URL data source that serves theme CSS, theme images and the current channel logo to Chrome WebUI pages.
+// ---
+
 #include "chrome/browser/ui/webui/theme_source.h"
 
 #include <algorithm>

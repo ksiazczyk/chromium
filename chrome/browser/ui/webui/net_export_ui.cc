@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Net export WebUI backend
+// summary: Implements the C++ backend of the network log export WebUI page, handling start, stop, saving and sharing of NetLog capture files via a message handler.
+// ---
+
 #include "chrome/browser/ui/webui/net_export_ui.h"
 
 #include <stdint.h>

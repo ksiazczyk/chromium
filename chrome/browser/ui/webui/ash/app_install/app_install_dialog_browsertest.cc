@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App install dialog browser tests
+// summary: Runs in-process browser tests for the app install dialog, covering app install flows using a test app install server.
+// ---
+
 #include "chrome/browser/ui/webui/ash/app_install/app_install_dialog.h"
 
 #include "ash/constants/webui_url_constants.h"

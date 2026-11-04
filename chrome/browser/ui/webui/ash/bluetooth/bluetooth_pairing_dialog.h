@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth pairing dialog header
+// summary: Declares the system web dialog delegate and WebUI controller classes that host the Bluetooth device pairing dialog on ChromeOS, including its WebUI config and mojo interface binding.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_BLUETOOTH_BLUETOOTH_PAIRING_DIALOG_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_BLUETOOTH_BLUETOOTH_PAIRING_DIALOG_H_
 

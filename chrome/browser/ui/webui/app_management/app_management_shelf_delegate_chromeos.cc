@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS App Management shelf delegate implementation
+// summary: Implements the ChromeOS shelf delegate that tracks and updates app pinning state for the App Management page.
+// ---
+
 #include "chrome/browser/ui/webui/app_management/app_management_shelf_delegate_chromeos.h"
 
 #include <algorithm>

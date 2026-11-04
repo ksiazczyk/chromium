@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Access code cast owners
+summary: Lists the directory owner and per-file security review rules for mojom changes.

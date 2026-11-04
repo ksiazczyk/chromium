@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI embedding context implementation
+// summary: Implements trackers that associate WebUI host contents with their embedding browser window and tab interfaces and notify clients of context changes.
+// ---
+
 #include "chrome/browser/ui/webui/webui_embedding_context.h"
 
 #include "chrome/browser/ui/browser_window/public/browser_window_interface.h"

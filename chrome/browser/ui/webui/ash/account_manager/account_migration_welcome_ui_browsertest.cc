@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Account migration welcome UI browser tests
+// summary: In-process browser test verifying that the reauthenticateAccount message opens the reauthentication dialog with the expected email and metrics sample.
+// ---
+
 #include "chrome/browser/ui/webui/ash/account_manager/account_migration_welcome_ui.h"
 
 #include <memory>

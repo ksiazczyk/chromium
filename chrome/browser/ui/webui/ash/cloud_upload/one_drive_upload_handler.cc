@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OneDrive upload handler implementation
+// summary: Implements the upload-to-OneDrive workflow, copying or moving files into ODFS via IO tasks with reauthentication handling and error notifications.
+// ---
+
 #include "chrome/browser/ui/webui/ash/cloud_upload/one_drive_upload_handler.h"
 
 #include "ash/constants/ash_features.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for account manager WebUI
+summary: Sets include rules that block //chrome dependencies for ChromeOS while allowing this directory, related ash account manager paths, and specific test includes.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Add Supervision WebUI browser tests
+// summary: Browser tests for the add-supervision WebUI, exercising the dialog, offline and error states, signout confirmation, and enrollment metrics with an identity test environment.
+// ---
+
 #include "chrome/browser/ui/webui/ash/add_supervision/add_supervision_ui.h"
 
 #include <string>

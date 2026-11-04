@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AiOverlayTools platform-agnostic implementation
+// summary: Implements the shared AI overlay tools such as URL opening, search, video control, translation, and bookmarks, plus tool call usage metrics.
+// ---
+
 #include "chrome/browser/ui/webui/ai_overlay_dialog/tools/tools.h"
 
 #include <algorithm>

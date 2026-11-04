@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome WebUI controller factory interface
+// summary: Declares the ChromeWebUIControllerFactory singleton that creates WebUI controllers, resolves WebUI types, and fetches favicons for built-in pages.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_CHROME_WEB_UI_CONTROLLER_FACTORY_H_
 #define CHROME_BROWSER_UI_WEBUI_CHROME_WEB_UI_CONTROLLER_FACTORY_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ARC overview tracing WebUI controller header
+// summary: Declares the WebUI config and controller classes for the ARC overview tracing page in the ash namespace.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_ARC_OVERVIEW_TRACING_ARC_OVERVIEW_TRACING_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_ARC_OVERVIEW_TRACING_ARC_OVERVIEW_TRACING_UI_H_
 

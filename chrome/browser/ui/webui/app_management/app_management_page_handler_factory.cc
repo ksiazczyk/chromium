@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App Management page handler factory implementation
+// summary: Implements the Mojo page handler factory that creates the ChromeOS or web app settings handler depending on the platform.
+// ---
+
 #include "chrome/browser/ui/webui/app_management/app_management_page_handler_factory.h"
 
 #include <memory>

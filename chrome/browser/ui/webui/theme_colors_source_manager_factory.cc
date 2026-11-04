@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme colors source manager factory
+// summary: Profile-keyed service factory that creates per-profile theme colors source managers when the in-process resource loading feature is enabled.
+// ---
+
 #include "chrome/browser/ui/webui/theme_colors_source_manager_factory.h"
 
 #include "chrome/browser/profiles/profile.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for cros_components browser tests
+summary: GN build file defining a test-only source_set for the cros_components browser tests, listing the test source and its base, chrome, and content dependencies.

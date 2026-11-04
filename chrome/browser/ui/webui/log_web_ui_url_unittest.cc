@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Log WebUI URL unit tests
+// summary: Unit tests checking which URL schemes are accepted or ignored by the LogWebUICreated helper when logging WebUI page creation.
+// ---
+
 #include "chrome/browser/ui/webui/log_web_ui_url.h"
 
 #include "chrome/common/webui_url_constants.h"

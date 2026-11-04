@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Accessibility WebUI handler implementation
+// summary: Implements the browser-side WebUI handler for the accessibility debugging page, exposing accessibility modes, page and browser listings, and accessibility tree inspection data.
+// ---
+
 #include "chrome/browser/ui/webui/accessibility/accessibility_ui.h"
 
 #include <algorithm>

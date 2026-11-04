@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCM internals WebUI declarations
+// summary: Declares the WebUI config and controller class for the GCM internals diagnostics page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_GCM_INTERNALS_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_GCM_INTERNALS_UI_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the untrusted AI overlay dialog WebUI
+// summary: Implements the untrusted WebUI controller for the AI overlay dialog, setting up the data source, localized strings, and handler bindings.
+// ---
+
 #include "chrome/browser/ui/webui/ai_overlay_dialog/ai_overlay_dialog_untrusted_ui.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud upload page handler header
+// summary: Declares the Mojo page handler class that exposes dialog arguments, Office web app installation, OneDrive sign-in and file-move preference methods to the cloud upload dialog's JavaScript.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_CLOUD_UPLOAD_CLOUD_UPLOAD_PAGE_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_CLOUD_UPLOAD_CLOUD_UPLOAD_PAGE_HANDLER_H_
 

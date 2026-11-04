@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for arc_power_control
+summary: Defines the arc_power_control static library target with its source files and build dependencies for the ChromeOS ARC power control WebUI.

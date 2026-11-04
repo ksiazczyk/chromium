@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Theme handler declarations
+// summary: Declares a WebUI message handler observing theme service and native theme changes to update the ThemeSource.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_THEME_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_THEME_HANDLER_H_
 

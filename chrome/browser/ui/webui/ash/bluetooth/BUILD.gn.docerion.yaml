@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the ash Bluetooth WebUI library
+summary: Defines the static library sources and dependencies for the ChromeOS ash Bluetooth pairing dialog WebUI.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cloud upload notification manager implementation
+// summary: Implements creation, updates and dismissal of system notifications showing cloud upload progress, completion and error states for office file moves and copies.
+// ---
+
 #include "chrome/browser/ui/webui/ash/cloud_upload/cloud_upload_notification_manager.h"
 
 #include "ash/public/cpp/notification_utils.h"

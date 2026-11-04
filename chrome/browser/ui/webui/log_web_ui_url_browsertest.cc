@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Log WebUI URL browser tests
+// summary: Browser tests verifying that created and shown WebUI pages are recorded in the WebUI URL logging histograms for pages such as extensions, history, settings and the dino page.
+// ---
+
 #include "chrome/browser/ui/webui/log_web_ui_url.h"
 
 #include <stdint.h>

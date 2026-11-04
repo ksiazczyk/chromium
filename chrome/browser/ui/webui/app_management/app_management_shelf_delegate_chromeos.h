@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App management shelf delegate for ChromeOS header
+// summary: Declares a ChromeOS helper that observes the shelf model and notifies the app management page handler when apps are pinned or unpinned.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_APP_MANAGEMENT_APP_MANAGEMENT_SHELF_DELEGATE_CHROMEOS_H_
 #define CHROME_BROWSER_UI_WEBUI_APP_MANAGEMENT_APP_MANAGEMENT_SHELF_DELEGATE_CHROMEOS_H_
 

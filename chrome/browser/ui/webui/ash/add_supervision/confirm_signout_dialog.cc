@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Confirm signout dialog implementation
+// summary: Implements the system-modal dialog that asks the user to sign out or finish the flow once their account has become supervised.
+// ---
+
 #include "chrome/browser/ui/webui/ash/add_supervision/confirm_signout_dialog.h"
 
 #include <memory>

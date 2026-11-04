@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Markdown builder class declaration
+// summary: Declares the MarkdownBuilder class that converts AnnotatedPageContent protos into markdown, including URL hashing and node walking helpers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_AI_OVERLAY_DIALOG_MARKDOWN_BUILDER_H_
 #define CHROME_BROWSER_UI_WEBUI_AI_OVERLAY_DIALOG_MARKDOWN_BUILDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AboutUI implementation
+// summary: Implements the browser's about pages, serving credits, terms of service, and ChromeOS-specific credits and proxy-config content from bundled resources.
+// ---
+
 #include "chrome/browser/ui/webui/about/about_ui.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Markdown builder unit tests
+// summary: Unit tests for MarkdownBuilder covering anchor formatting, URL hashing and markdown output from constructed page content protos.
+// ---
+
 #include "chrome/browser/ui/webui/ai_overlay_dialog/markdown_builder.h"
 
 #include <memory>

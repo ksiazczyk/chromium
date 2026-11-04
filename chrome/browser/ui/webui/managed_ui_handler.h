@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Managed UI handler header
+// summary: Declares ManagedUIHandler, a WebUIMessageHandler and policy observer that keeps the isManaged load-time constants of a WebUI data source up to date.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_MANAGED_UI_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_MANAGED_UI_HANDLER_H_
 

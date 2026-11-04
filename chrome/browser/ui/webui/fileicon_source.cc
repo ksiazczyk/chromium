@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File icon data source implementation
+// summary: Implements the data source that serves icons for local file paths to WebUI pages, parsing query parameters for path, icon size, and scale factor, and encoding results as PNG.
+// ---
+
 #include "chrome/browser/ui/webui/fileicon_source.h"
 
 #include <string_view>

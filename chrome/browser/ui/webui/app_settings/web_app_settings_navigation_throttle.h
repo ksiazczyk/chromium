@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app settings navigation throttle header
+// summary: Declares the navigation throttle class that blocks app settings navigations with an invalid or non-installed app identifier, plus a testing hook.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_APP_SETTINGS_WEB_APP_SETTINGS_NAVIGATION_THROTTLE_H_
 #define CHROME_BROWSER_UI_WEBUI_APP_SETTINGS_WEB_APP_SETTINGS_NAVIGATION_THROTTLE_H_
 

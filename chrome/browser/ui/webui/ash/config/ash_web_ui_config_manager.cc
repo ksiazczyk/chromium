@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash WebUI config manager implementation
+// summary: Implements AshWebUIConfigManager, which registers trusted and untrusted Ash WebUI configs with content::WebUIConfigMap and unregisters them on shutdown.
+// ---
+
 #include "chrome/browser/ui/webui/ash/config/ash_web_ui_config_manager.h"
 
 #include <memory>

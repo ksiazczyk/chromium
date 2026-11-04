@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mobile setup dialog implementation
+// summary: Implements a system web dialog that opens the mobile setup URL for a given cellular network, enforcing a single active dialog instance.
+// ---
+
 #include "chrome/browser/ui/webui/ash/cellular_setup/mobile_setup_dialog.h"
 
 #include "ash/constants/webui_url_constants.h"

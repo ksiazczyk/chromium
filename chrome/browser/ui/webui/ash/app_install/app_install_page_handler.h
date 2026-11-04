@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App install page handler header
+// summary: Declares the Mojo page handler that forwards app install dialog requests from the WebUI renderer to the browser process, including install, launch and retry actions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_APP_INSTALL_APP_INSTALL_PAGE_HANDLER_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_APP_INSTALL_APP_INSTALL_PAGE_HANDLER_H_
 

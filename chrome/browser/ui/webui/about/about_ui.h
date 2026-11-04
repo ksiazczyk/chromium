@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AboutUI header
+// summary: Declares the AboutUI WebUI controller, per-page config classes for credits, terms, and platform-specific pages, and the HTML data source used by the about pages.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ABOUT_ABOUT_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_ABOUT_ABOUT_UI_H_
 

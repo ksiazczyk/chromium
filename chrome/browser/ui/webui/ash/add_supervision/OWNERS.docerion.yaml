@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the add_supervision directory
+summary: Delegates ownership to the child accounts OWNERS file and assigns mojom files to the IPC security owners.

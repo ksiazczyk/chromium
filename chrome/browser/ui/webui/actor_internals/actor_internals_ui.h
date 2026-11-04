@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor internals WebUI controller header
+// summary: Declares the ActorInternalsUI controller and its internal WebUI config class, including the mojo PageHandlerFactory bindings for the actor internals debug page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ACTOR_INTERNALS_ACTOR_INTERNALS_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_ACTOR_INTERNALS_ACTOR_INTERNALS_UI_H_
 

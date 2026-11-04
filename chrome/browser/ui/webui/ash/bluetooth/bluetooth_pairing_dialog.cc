@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth pairing dialog implementation
+// summary: Implements the ChromeOS Ash system WebUI dialog for Bluetooth pairing, adding localized strings, load-time data and dialog arguments, and showing or refocusing the dialog.
+// ---
+
 #include "chrome/browser/ui/webui/ash/bluetooth/bluetooth_pairing_dialog.h"
 
 #include <memory>
