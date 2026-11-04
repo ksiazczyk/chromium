@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RecyclerView Espresso matcher utilities
+// summary: Test utility providing Espresso view matchers for RecyclerViews, matching adapter item counts and items or view holders at given positions.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import android.view.View;

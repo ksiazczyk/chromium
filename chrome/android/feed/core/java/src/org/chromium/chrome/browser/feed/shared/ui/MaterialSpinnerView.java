@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MaterialSpinnerView
+// summary: Android view class that displays a Material themed circular progress spinner, starting and stopping its animation based on visibility and window attachment.
+// ---
+
 package org.chromium.chrome.browser.feed.shared.ui;
 
 import android.content.Context;

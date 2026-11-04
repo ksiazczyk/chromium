@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MessageCardProvider unit tests
+// summary: Unit tests for MessageCardProvider, verifying subscription to message services and queuing of message items across price, IPH, and incognito reauth types.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabSwitcherCardContextMenuTest
+// summary: Transit-based tests for tab switcher card context menus, covering adding tabs to new or existing tab groups; currently disabled as flaky.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabGridDialogTest
+// summary: Instrumentation tests for the tab grid dialog, covering tab group creation, tab selection and closing, swipe to dismiss, search, and data sharing behaviors in the tab switcher.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static android.view.View.IMPORTANT_FOR_ACCESSIBILITY_NO_HIDE_DESCENDANTS;

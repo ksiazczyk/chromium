@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PinnedTabStripItemViewTest
+// summary: Render and unit tests for the PinnedTabStripItemView, covering title display, favicon rendering, and click handling in a blank UI test activity.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.pinned_tabs;
 
 import static org.junit.Assert.assertEquals;

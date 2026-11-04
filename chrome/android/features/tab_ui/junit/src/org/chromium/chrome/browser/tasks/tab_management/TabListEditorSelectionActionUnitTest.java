@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for TabListEditorSelectionAction
+// summary: Robolectric unit tests checking the selection action's properties, icon, and title changes as tabs are selected in the tab list editor.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.mockito.Mockito.spy;

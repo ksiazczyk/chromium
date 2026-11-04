@@ -5,5 +5,11 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Feed resource colors
+summary: Empty Android resource file reserved for color values of the Chromium feed UI.
+-->
+
 <resources xmlns:tools="http://schemas.android.com/tools">
 </resources>

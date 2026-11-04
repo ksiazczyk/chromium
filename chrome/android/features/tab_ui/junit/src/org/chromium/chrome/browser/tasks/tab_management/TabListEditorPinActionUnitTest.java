@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabListEditorPinActionUnitTest
+// summary: Unit tests for TabListEditorPinAction, covering menu item properties and pinning behavior for selected tabs in various selection states.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.junit.Assert.assertEquals;

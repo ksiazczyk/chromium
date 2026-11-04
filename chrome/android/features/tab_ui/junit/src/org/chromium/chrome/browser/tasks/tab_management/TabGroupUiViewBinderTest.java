@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabGroupUiViewBinder tests
+// summary: Robolectric tests for the tab group UI view binder, verifying that toolbar properties such as colors, buttons, and image tiles are applied to views.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.junit.Assert.assertEquals;

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for TabSearchOverlayCoordinator
+// summary: Robolectric unit tests for the tab search overlay coordinator, covering omnibox integration, window insets, back press handling, and overlay interactions.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.junit.Assert.assertEquals;

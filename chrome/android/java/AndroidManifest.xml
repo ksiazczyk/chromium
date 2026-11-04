@@ -12,6 +12,12 @@ Blocks denoted with { % block some_name % }foo{ % endblock % } can be overridden
 by a child template that "extends" this file.
 -->
 
+<!--docerion
+type: config
+title: Chrome Android manifest template
+summary: Jinja2 template processed at build time into the Chrome Android app manifest, declaring permissions, features and application settings.
+-->
+
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     package="{{ manifest_package }}"

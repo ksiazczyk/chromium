@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Tab strip button background hover tint
+summary: Color selector applying the tab strip hover alpha to colorOnSurface for tab strip button hover backgrounds.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:alpha="@dimen/tab_strip_button_bg_hover_alpha" android:color="?attr/colorOnSurface" />
 </selector>

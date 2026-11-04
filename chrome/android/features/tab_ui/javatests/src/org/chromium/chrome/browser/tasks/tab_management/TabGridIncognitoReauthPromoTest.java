@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabGridIncognitoReauthPromoTest
+// summary: Instrumentation tests verifying that the incognito re-auth promo message is shown and behaves correctly in the tab grid on phone devices.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static androidx.test.espresso.Espresso.onView;

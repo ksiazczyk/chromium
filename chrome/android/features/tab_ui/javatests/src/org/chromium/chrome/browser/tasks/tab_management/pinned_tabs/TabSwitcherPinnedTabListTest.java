@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabSwitcherPinnedTabListTest
+// summary: End-to-end integration tests for the Grid Tab Switcher pinned tab strip, covering visibility filtering, scroll reveal, pinning and unpinning, selection sync, and tab closure with undo.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management.pinned_tabs;
 
 import static androidx.test.espresso.Espresso.onView;

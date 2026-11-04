@@ -1,0 +1,4 @@
+# Docerion header of android_chrome_tab_ui_strings_cy.xtb.
+type: data
+title: Welsh tab UI strings translation bundle
+summary: Welsh translations of Chrome Android tab UI strings, including plural forms for tab groups, inactive tabs, and shared group messages in XTB XML format.

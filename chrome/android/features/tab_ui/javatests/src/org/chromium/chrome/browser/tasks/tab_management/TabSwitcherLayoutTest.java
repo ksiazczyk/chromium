@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabSwitcherLayoutTest
+// summary: Espresso and transit tests for the tab switcher layout, covering tab groups, card counts, swipe to dismiss, histograms and visibility behavior.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static androidx.test.espresso.Espresso.onView;

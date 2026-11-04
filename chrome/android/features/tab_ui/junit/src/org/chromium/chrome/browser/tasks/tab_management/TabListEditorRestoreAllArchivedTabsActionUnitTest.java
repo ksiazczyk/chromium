@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabListEditorRestoreAllArchivedTabsActionUnitTest
+// summary: Unit tests for TabListEditorRestoreAllArchivedTabsAction, verifying menu item properties and delegation of restoring all archived tabs.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.mockito.Mockito.spy;

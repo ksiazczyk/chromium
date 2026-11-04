@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CloseAllTabsDialog unit tests
+// summary: Unit tests for the close-all-tabs confirmation dialog, verifying its logic and properties using a mocked modal dialog manager and tab models.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.junit.Assert.assertEquals;

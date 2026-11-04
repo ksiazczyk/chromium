@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for TabSwitcherDragHandler
+// summary: Robolectric unit tests for the tab switcher drag handler and animated drag shadow, covering drag start, location, drop, and external drag end events.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.junit.Assert.assertEquals;

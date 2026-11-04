@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabGridDialogViewTest
+// summary: Unit tests for TabGridDialogView in a blank UI test activity, covering dialog visibility, margins, the ungroup bar, animation card, and scrim behavior.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static com.google.common.truth.Truth.assertThat;

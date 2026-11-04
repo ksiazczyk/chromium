@@ -1,0 +1,4 @@
+# Docerion header of ResourceId.template.
+type: source
+title: Resource ID list template
+summary: Template for a Java class that builds an array of resource IDs by including C headers that define resource ID macros.

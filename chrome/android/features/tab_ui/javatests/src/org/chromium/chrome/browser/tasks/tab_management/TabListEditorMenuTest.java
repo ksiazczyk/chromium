@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabListEditorMenuTest
+// summary: On-device unit tests for the TabListEditorMenu and related action classes, covering menu items, buttons and selection behavior in the tab list editor.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static androidx.test.espresso.matcher.ViewMatchers.isDescendantOfA;

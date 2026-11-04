@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Feed directory owners pointer
+summary: Delegates code ownership of the feed directory to the owners file of components/feed.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for TabListEditorUngroupAction
+// summary: Robolectric unit tests verifying the ungroup action's properties, disabled state, and tab ungrouping through the TabUngrouper.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.junit.Assert.assertTrue;

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Feed spinner color attribute
+summary: Defines the custom feedSpinnerColor attribute used to set the color of the spinner in the Chromium Android feed UI.
+-->
+
 <resources>
     <!-- Sets the color of the spinner. -->
     <attr name="feedSpinnerColor" format="reference" />

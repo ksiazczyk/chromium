@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IphMessageService unit tests
+// summary: Unit tests for the IPH message service, verifying in-product help message review, dismissal, and feature engagement tracker initialization behavior.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.junit.Assert.assertFalse;

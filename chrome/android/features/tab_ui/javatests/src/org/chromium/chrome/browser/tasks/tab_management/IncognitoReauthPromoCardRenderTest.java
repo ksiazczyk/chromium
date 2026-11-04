@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Incognito re-auth promo card render tests
+// summary: Render tests for the incognito re-auth promo message card in the tab switcher on phones, with the render cases currently disabled behind a bug reference.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static androidx.test.espresso.Espresso.onView;

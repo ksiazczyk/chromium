@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MaterialSpinnerViewTest
+// summary: Robolectric tests verifying that the MaterialSpinnerView loading spinner animation starts and stops correctly in response to visibility changes, container visibility, and window attachment.
+// ---
+
 package org.chromium.chrome.browser.feed.shared.ui;
 
 import static com.google.common.truth.Truth.assertThat;

@@ -1,0 +1,4 @@
+# Docerion header of android_chrome_tab_ui_strings_lv.xtb.
+type: data
+title: Latvian Android Chrome tab UI strings translation bundle
+summary: Latvian XTB translation bundle providing localized strings for Chrome on Android's tab UI, with plural forms for tab and group messages.

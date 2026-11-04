@@ -9,6 +9,12 @@ found in the LICENSE file.
 Note: This is a jinja2 template, processed at build time into the final manifest.
 -->
 
+<!--docerion
+type: config
+title: Trichrome Library manifest template
+summary: Jinja2 manifest template for the Trichrome Library APK, declaring it as a static library with multi-arch support.
+-->
+
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     package="{{ manifest_package }}"

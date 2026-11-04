@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabSwitcherSearchRenderTest
+// summary: Parameterized render tests for the tab switcher search UI, including night mode and orientation variants.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static android.content.res.Configuration.ORIENTATION_LANDSCAPE;

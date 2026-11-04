@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabGroupDialogPTTest
+// summary: Public transit tests for the tab group dialog, covering shared tab group rendering and interactions with a mocked collaboration service.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.mockito.Mockito.when;

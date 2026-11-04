@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for TabUiMetricsHelper
+// summary: Robolectric unit test verifying that the share state histogram is recorded with the expected value for tab list editor sharing.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.hamcrest.CoreMatchers.equalTo;

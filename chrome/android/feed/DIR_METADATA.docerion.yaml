@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Feed directory metadata mixin
+summary: Points the feed directory metadata to the common metadata mixin defined in components/feed.

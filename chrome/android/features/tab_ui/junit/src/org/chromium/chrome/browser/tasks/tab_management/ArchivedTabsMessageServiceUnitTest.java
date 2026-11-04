@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ArchivedTabsMessageService unit tests
+// summary: Robolectric unit tests for the archived tabs message service, covering message card lifecycle, tab archive settings, dismissal, and related tab model interactions.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.junit.Assert.assertEquals;

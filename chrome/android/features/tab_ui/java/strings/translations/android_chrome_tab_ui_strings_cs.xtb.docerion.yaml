@@ -1,0 +1,4 @@
+# Docerion header of android_chrome_tab_ui_strings_cs.xtb.
+type: data
+title: Czech tab UI strings translation bundle
+summary: Czech translations of Chrome Android tab UI strings, covering tab groups, inactive tabs, sharing, and related interface messages in XTB XML format.

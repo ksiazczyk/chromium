@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: VerticalTabsTest
+// summary: End-to-end instrumentation tests for the vertical tabs left rail on tablets, covering group management, reordering, undo, and multi-tab selection.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static androidx.test.espresso.Espresso.onView;

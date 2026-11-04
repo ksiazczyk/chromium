@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabListContainerViewBinderTest
+// summary: JUnit tests for TabListRecyclerView and TabListContainerViewBinder, verifying the tab list container's layout, layout managers and property binding in Chrome's Android tab UI.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static org.hamcrest.Matchers.allOf;

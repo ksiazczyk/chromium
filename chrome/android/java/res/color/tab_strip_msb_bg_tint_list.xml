@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Tab strip MSB background tint list
+summary: Color selector for the MSB background on hover and peripheral press, defaulting to the model selector button background color.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <item android:state_hovered="true"

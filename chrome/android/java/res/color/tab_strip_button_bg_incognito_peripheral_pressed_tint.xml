@@ -4,6 +4,13 @@ Copyright 2026 The Chromium Authors
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
+
+<!--docerion
+type: config
+title: Tab strip button background incognito peripheral pressed tint
+summary: Color selector applying the peripheral pressed alpha to the tab strip hover background color for incognito buttons.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:alpha="@dimen/tab_strip_button_bg_peripheral_pressed_alpha" android:color="@color/tab_strip_button_hover_bg_color" />
 </selector>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabGridViewBinder unit tests
+// summary: Robolectric unit tests for the tab grid view binder, checking how tab card properties such as thumbnails, favicons, labels, and action buttons are bound to views.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static androidx.test.espresso.matcher.ViewMatchers.assertThat;

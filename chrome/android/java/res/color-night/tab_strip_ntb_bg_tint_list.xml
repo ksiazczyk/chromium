@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Tab strip NTB background tint list, night mode
+summary: Night-mode state-based color selector for tab strip button backgrounds with distinct hover, peripheral pressed, and pressed tints.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
   <item android:state_hovered="true"

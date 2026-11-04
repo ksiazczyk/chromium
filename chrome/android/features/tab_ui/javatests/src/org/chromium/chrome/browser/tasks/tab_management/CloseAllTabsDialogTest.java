@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Close all tabs dialog end-to-end tests
+// summary: End-to-end tests of the close all tabs dialog, parameterized across incognito mode and app menu invocation via touch screen or mouse.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static androidx.test.espresso.action.ViewActions.click;

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Tab strip Glic button background tint list
+summary: Color selector for the tab strip Glic button background across hover, pressed, and activated states, defaulting to a low surface container color.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:state_hovered="true"
         android:color="@color/tab_strip_glic_button_bg_hover_tint" />

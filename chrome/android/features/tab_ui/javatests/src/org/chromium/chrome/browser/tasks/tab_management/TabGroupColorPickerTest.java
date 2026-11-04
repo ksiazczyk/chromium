@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabGroupColorPickerTest
+// summary: Integration and render tests for the TabGroupColorPicker feature, verifying color list display and selection in day and night modes.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import android.app.Activity;

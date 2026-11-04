@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedItemDecoration
+// summary: RecyclerView item decoration that draws rounded background drawables behind feed containment items, supporting both standard and staggered feed layouts.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

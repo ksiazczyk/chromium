@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tab grid accessibility reordering tests
+// summary: Tests for reordering tabs in the grid tab switcher via accessibility actions, covering movement directions with several builds and devices disabled.
+// ---
+
 package org.chromium.chrome.browser.tasks.tab_management;
 
 import static androidx.test.espresso.Espresso.onView;

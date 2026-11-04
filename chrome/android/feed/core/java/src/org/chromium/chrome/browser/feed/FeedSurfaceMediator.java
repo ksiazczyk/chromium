@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FeedSurfaceMediator
+// summary: Mediator for the feed surface coordinator that handles business logic, scroll behavior, preference, sign-in, and search engine changes, and interacts with the native library.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import static org.chromium.build.NullUtil.assertNonNull;

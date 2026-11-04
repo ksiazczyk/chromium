@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NtpFeedSurfaceLifecycleManager
+// summary: Manages the lifecycle of a feed surface coordinator attached to a New Tab Page tab, showing or hiding it based on tab state and the articles list preference.
+// ---
+
 package org.chromium.chrome.browser.feed;
 
 import android.app.Activity;

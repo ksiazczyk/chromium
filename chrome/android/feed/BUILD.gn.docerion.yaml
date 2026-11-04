@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build config for Chrome feed Java resources
+summary: Defines the chrome_feed_java_resources Android resources target with XML values for colors, dimens, styles, and dependencies on Chrome and UI resources.
