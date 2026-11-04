@@ -1,3 +1,13 @@
+---
+type: guide
+title: Web Apps - Testing
+summary: Explains the testing infrastructure for the WebAppProvider system, covering unit, browser, and integration tests and common issues like waiting and fakes.
+relations:
+  - references /chrome/browser/web_applications/README.md
+  - references /chrome/browser/ui/webui/web_app_internals/web_app_internals_handler.cc
+  - references /base/logging.h
+---
+
 # [Web Apps](../README.md) - Testing
 
 The following tests are expected for writing code in this system:

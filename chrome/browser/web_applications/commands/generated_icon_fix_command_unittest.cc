@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Generated icon fix command unit tests
+// summary: Unit tests covering success and failure paths of the generated icon fix command, such as app uninstallation.
+// ---
+
 #include "chrome/browser/web_applications/commands/generated_icon_fix_command.h"
 
 #include <memory>

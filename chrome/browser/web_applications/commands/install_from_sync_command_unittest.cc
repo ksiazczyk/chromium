@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: InstallFromSyncCommand unit tests
+// summary: Unit tests for InstallFromSyncCommand using fake provider and web contents manager to exercise manifest fetching, fallback installs, and icon behavior.
+// ---
+
 #include "chrome/browser/web_applications/commands/install_from_sync_command.h"
 
 #include <memory>

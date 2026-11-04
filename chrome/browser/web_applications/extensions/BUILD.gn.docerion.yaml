@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the web_applications extensions source set
+summary: Defines the extensions and unit_tests source sets, their platform-conditional sources and dependencies for this directory.

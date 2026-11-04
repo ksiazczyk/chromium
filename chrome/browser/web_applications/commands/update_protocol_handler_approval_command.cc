@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdateProtocolHandlerApprovalCommand implementation
+// summary: Implements the command that records allowed or disallowed protocol schemes for a web app and synchronizes OS protocol handler registration.
+// ---
+
 #include "chrome/browser/web_applications/commands/update_protocol_handler_approval_command.h"
 
 #include <memory>

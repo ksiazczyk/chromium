@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Apply Manifest Migration Command Browser Tests
+// summary: Browser tests exercising manifest migration flows, including suggested migration approval via the app menu and the web app update review dialog.
+// ---
+
 #include "chrome/browser/web_applications/commands/apply_manifest_migration_command.h"
 
 #include "base/test/metrics/histogram_tester.h"

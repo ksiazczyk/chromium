@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstallFromSyncCommand implementation
+// summary: Implements the command that installs a web app from sync data, fetching the manifest when possible and falling back to sync-provided metadata and icons.
+// ---
+
 #include "chrome/browser/web_applications/commands/install_from_sync_command.h"
 
 #include <memory>

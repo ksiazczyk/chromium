@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app icon diagnostic command implementation
+// summary: Implements a command that runs chained icon health checks for a web app and reports diagnostic results such as empty or missing icon files.
+// ---
+
 #include "chrome/browser/web_applications/commands/web_app_icon_diagnostic_command.h"
 
 #include "base/strings/utf_string_conversions.h"

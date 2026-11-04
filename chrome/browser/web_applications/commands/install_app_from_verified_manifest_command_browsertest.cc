@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Install app from verified manifest command browser tests
+// summary: Browser tests for installing web apps from verified manifest strings, covering icons, shortcuts and install results.
+// ---
+
 #include "chrome/browser/web_applications/commands/install_app_from_verified_manifest_command.h"
 
 #include <memory>

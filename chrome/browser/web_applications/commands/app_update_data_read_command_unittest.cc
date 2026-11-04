@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App Update Data Read Command Unit Tests
+// summary: Unit tests for AppUpdateDataReadCommand covering pending update setup, trusted and manifest icon handling, and result reporting.
+// ---
+
 #include "chrome/browser/web_applications/commands/app_update_data_read_command.h"
 
 #include <memory>

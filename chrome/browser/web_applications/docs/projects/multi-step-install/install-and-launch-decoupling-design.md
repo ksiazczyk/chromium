@@ -1,3 +1,11 @@
+---
+type: decision
+title: 'Design: Decouple Install and Reparenting (Closure Passing)'
+summary: Design document proposing to split the web app install process from the launch/reparenting step on desktop by passing a closure to the dialog or caller, including callback changes, a new command, and a verification plan.
+relations:
+  - documents /chrome/browser/web_applications/web_app_install_params.h
+---
+
 # Design - Decouple Install and Reparenting (Closure Passing)
 
 **Last Modified**: 2026-04-20 **Editor**: dmurph@chromium.org

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GarbageCollectStoragePartitionsCommand header
+// summary: Declares GarbageCollectStoragePartitionsCommand, which deletes invalid and inactive storage partition paths for isolated web apps and Chrome apps.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_GARBAGE_COLLECT_STORAGE_PARTITIONS_COMMAND_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_GARBAGE_COLLECT_STORAGE_PARTITIONS_COMMAND_H_
 

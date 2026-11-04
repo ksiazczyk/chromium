@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parse manifest from manifest URL command header
+// summary: Declares the read-only command for manifest-first install flows that parses raw manifest JSON and returns a parsed manifest or failure reason.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_PARSE_MANIFEST_FROM_MANIFEST_URL_COMMAND_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_PARSE_MANIFEST_FROM_MANIFEST_URL_COMMAND_H_
 

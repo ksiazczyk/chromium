@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Icon masker Linux and Windows implementation
+// summary: Implements MaskIconOnOs for Linux and Windows by posting the input bitmap unchanged to the masked icon callback as a stop-gap.
+// ---
+
 #include "chrome/browser/web_applications/icons/icon_masker.h"
 
 #include <optional>

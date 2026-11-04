@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ComputeAppSizeCommand implementation
+// summary: Implements the command that computes a web app's total size, dispatching to an isolated web app size job or a progressive web app size job and reporting the result.
+// ---
+
 #include "chrome/browser/web_applications/commands/compute_app_size_command.h"
 
 #include <memory>

@@ -1,3 +1,11 @@
+---
+type: note
+title: 'Investigation: Preinstalled App Update-on-Failure Mechanisms'
+summary: Investigation notes exploring update trigger options, throttling, and manifest identity constraints for preinstalled web apps during the Google Chat origin migration.
+relations:
+  - references /chrome/browser/web_applications/docs/app_migration/preinstall_app_updating_design.md
+---
+
 # Investigation: Preinstalled App Update-on-Failure Mechanisms
 
 - **Author(s):** dmurph@google.com

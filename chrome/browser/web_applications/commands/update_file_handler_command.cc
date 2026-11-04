@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UpdateFileHandlerCommand implementation
+// summary: Implements the command that persists the user's file handling approval choice and synchronizes OS file handler registration when needed.
+// ---
+
 #include "chrome/browser/web_applications/commands/update_file_handler_command.h"
 
 #include <memory>

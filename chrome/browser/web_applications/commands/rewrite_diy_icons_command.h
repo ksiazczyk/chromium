@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RewriteDiyIconsCommand header
+// summary: Declares the macOS command that rewrites DIY app icons once so they display correctly in the dock and other system surfaces.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_REWRITE_DIY_ICONS_COMMAND_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_REWRITE_DIY_ICONS_COMMAND_H_
 

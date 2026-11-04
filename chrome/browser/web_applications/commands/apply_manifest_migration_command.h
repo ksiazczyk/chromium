@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apply Manifest Migration Command Header
+// summary: Declares ApplyManifestMigrationCommand, which orchestrates destination app installation, source app uninstall and sync linking during manifest migration.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_APPLY_MANIFEST_MIGRATION_COMMAND_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_APPLY_MANIFEST_MIGRATION_COMMAND_H_
 

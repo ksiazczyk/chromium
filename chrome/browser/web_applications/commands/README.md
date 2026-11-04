@@ -1,3 +1,13 @@
+---
+type: readme
+title: Web App Commands Directory Overview
+summary: Explains the role of WebAppCommand implementations scheduled by WebAppCommandScheduler and lists best practices for locking, jobs, callbacks, debugging and metrics.
+relations:
+  - references /chrome/browser/web_applications/jobs/README.md
+  - references /chrome/browser/web_applications/web_app_command_manager.cc
+  - references /chrome/browser/web_applications/locks/web_app_lock_manager.cc
+---
+
 # Commands (`chrome/browser/web_applications/commands`)
 
 This directory contains the implementations of the operations scheduleable by

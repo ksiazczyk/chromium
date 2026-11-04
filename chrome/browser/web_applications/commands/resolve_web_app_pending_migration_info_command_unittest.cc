@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ResolveWebAppPendingMigrationInfoCommand unit tests
+// summary: Unit tests for the pending migration info resolution command, covering single migrations, stale cleanup, and update metrics.
+// ---
+
 #include "chrome/browser/web_applications/commands/resolve_web_app_pending_migration_info_command.h"
 
 #include <memory>

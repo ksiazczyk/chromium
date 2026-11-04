@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: UninstallAllUserInstalledWebAppsCommand header
+// summary: Declares the command that acquires the AllAppsLock and uninstalls all user-installed web apps, reporting errors through its callback.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_UNINSTALL_ALL_USER_INSTALLED_WEB_APPS_COMMAND_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_UNINSTALL_ALL_USER_INSTALLED_WEB_APPS_COMMAND_H_
 

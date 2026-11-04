@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS integration synchronize command header
+// summary: Declares the command that runs OsIntegrationManager::Synchronize under an app lock, even for apps missing from the database.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_OS_INTEGRATION_SYNCHRONIZE_COMMAND_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_OS_INTEGRATION_SYNCHRONIZE_COMMAND_H_
 

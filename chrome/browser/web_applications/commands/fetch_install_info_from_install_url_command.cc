@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fetch install info from install URL command implementation
+// summary: Implements a web app command that loads an install URL and fetches WebAppInstallInfo for sub-app installs, recording result metrics.
+// ---
+
 #include "chrome/browser/web_applications/commands/fetch_install_info_from_install_url_command.h"
 
 #include <memory>

@@ -1,3 +1,9 @@
+---
+type: reference
+title: Manifest Update Process
+summary: Explains how manifest updates for installed web apps are triggered, applied silently or with user approval, and how the update flow is tested.
+---
+
 # Manifest Update Process
 
 High level information:

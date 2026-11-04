@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Clear browsing data command unit tests
+// summary: Unit tests verifying that web app last launch and badging times are cleared for all apps or a specific time range.
+// ---
+
 #include "chrome/browser/web_applications/commands/clear_browsing_data_command.h"
 
 #include "base/memory/raw_ptr.h"

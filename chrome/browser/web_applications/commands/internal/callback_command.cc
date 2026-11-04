@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CallbackCommand implementation
+// summary: Implements the templated CallbackCommand class, running a callback with the acquired lock and instantiating it for the various web app lock types.
+// ---
+
 #include "chrome/browser/web_applications/commands/internal/callback_command.h"
 
 #include <utility>

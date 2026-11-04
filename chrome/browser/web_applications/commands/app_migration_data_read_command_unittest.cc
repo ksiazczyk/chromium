@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App Migration Data Read Command Unit Tests
+// summary: Unit tests for AppMigrationDataReadCommand covering migration setup and icon change detection, such as the significant icon change scenario.
+// ---
+
 #include "chrome/browser/web_applications/commands/app_migration_data_read_command.h"
 
 #include <memory>

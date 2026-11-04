@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RunOnOsLoginCommand unit tests
+// summary: Unit tests for the run-on-OS-login command, covering policy restrictions, locally installed apps, and OS integration sync.
+// ---
+
 #include "chrome/browser/web_applications/commands/run_on_os_login_command.h"
 
 #include <memory>

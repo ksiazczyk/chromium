@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Launch or reparent web contents into app command header
+// summary: Declares LaunchOrReparentWebContentsIntoAppCommand, which reparents in-scope web contents into an app window or launches the app, only for apps opening in a dedicated window.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_LAUNCH_OR_REPARENT_WEB_CONTENTS_INTO_APP_COMMAND_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_LAUNCH_OR_REPARENT_WEB_CONTENTS_INTO_APP_COMMAND_H_
 

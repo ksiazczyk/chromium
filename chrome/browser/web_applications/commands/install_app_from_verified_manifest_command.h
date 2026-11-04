@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install app from verified manifest command header
+// summary: Declares the command that installs a web app from a raw manifest string, bypassing the usual network manifest fetch.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_INSTALL_APP_FROM_VERIFIED_MANIFEST_COMMAND_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_INSTALL_APP_FROM_VERIFIED_MANIFEST_COMMAND_H_
 

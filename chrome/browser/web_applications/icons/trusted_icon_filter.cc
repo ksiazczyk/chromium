@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trusted icon filter implementation
+// summary: Selects the primary trusted icon from web app manifest icons, preferring maskable icons of 256px or more on Mac and ChromeOS and the largest icon elsewhere.
+// ---
+
 #include "chrome/browser/web_applications/icons/trusted_icon_filter.h"
 
 #include <algorithm>

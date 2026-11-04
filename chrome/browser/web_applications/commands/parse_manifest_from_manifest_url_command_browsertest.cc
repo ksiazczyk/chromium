@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Parse manifest from manifest URL command browser tests
+// summary: Browser tests for the ParseManifestFromManifestUrlCommand, covering relative and cross-origin start URLs and invalid manifest handling.
+// ---
+
 #include "chrome/browser/web_applications/commands/parse_manifest_from_manifest_url_command.h"
 
 #include <memory>

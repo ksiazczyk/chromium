@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: UpdateFileHandlerCommand unit tests
+// summary: Unit tests verifying that allowed and disallowed file handler user choices are persisted and reflected in OS registration.
+// ---
+
 #include "ash/constants/ash_pref_names.h"
 #include "base/threading/thread_restrictions.h"
 #include "chrome/browser/web_applications/os_integration/os_integration_manager.h"

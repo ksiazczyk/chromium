@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ComputeAppSizeCommand browser tests
+// summary: Browser tests verifying that app and data sizes are computed correctly for installed regular web apps and force-installed isolated web apps.
+// ---
+
 #include "chrome/browser/web_applications/commands/compute_app_size_command.h"
 
 #include <algorithm>

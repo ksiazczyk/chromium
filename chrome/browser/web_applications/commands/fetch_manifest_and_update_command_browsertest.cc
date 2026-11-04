@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FetchManifestAndUpdateCommand browser tests
+// summary: Browser tests verifying basic manifest updates and migration-triggered update behavior of the fetch manifest and update command.
+// ---
+
 #include "chrome/browser/web_applications/commands/fetch_manifest_and_update_command.h"
 
 #include "base/strings/string_util.h"

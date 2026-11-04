@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Generated icon fix command implementation
+// summary: Implements a command that re-downloads manifest icons for installed apps that currently have generated icons.
+// ---
+
 #include "chrome/browser/web_applications/commands/generated_icon_fix_command.h"
 
 #include <memory>

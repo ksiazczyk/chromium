@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fetch install info from install URL command unit tests
+// summary: Unit tests verifying that the fetch install info command retrieves correct install info across manifest and URL load scenarios.
+// ---
+
 #include "chrome/browser/web_applications/commands/fetch_install_info_from_install_url_command.h"
 
 #include <optional>

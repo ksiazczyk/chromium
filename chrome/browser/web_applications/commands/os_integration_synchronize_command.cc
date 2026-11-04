@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OS integration synchronize command implementation
+// summary: Implements the command that synchronizes a web app's OS integration state, including forced unregister and install state upgrades.
+// ---
+
 #include "chrome/browser/web_applications/commands/os_integration_synchronize_command.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Launch web app command header
+// summary: Declares LaunchWebAppCommand, which launches a web app from launch parameters and ensures the app is fully installed with OS integration before launching.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_LAUNCH_WEB_APP_COMMAND_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_LAUNCH_WEB_APP_COMMAND_H_
 

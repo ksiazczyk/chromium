@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web install from manifest command header
+// summary: Declares WebInstallFromManifestCommand, which installs a web app from a pre-fetched manifest and guards against the initiating page navigating away mid-install.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_WEB_INSTALL_FROM_MANIFEST_COMMAND_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_WEB_INSTALL_FROM_MANIFEST_COMMAND_H_
 

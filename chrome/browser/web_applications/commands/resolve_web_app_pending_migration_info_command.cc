@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ResolveWebAppPendingMigrationInfoCommand implementation
+// summary: Implements a web app command that reconciles pending migration info between source and target apps under an all-apps lock.
+// ---
+
 #include "chrome/browser/web_applications/commands/resolve_web_app_pending_migration_info_command.h"
 
 #include <algorithm>

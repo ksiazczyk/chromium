@@ -1,3 +1,11 @@
+---
+type: reference
+title: Manifest Migration Process
+summary: Describes how users are migrated from a source app to a target app via the migrate_from manifest field, including security validation, UX, and sync steps.
+relations:
+  - references /third_party/blink/renderer/modules/manifest/manifest_parser.cc
+---
+
 # Manifest Migration Process
 
 The manifest migration process allows developers to transition users from an

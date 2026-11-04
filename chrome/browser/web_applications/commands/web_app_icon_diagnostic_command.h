@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web app icon diagnostic command header
+// summary: Declares the icon diagnostic command and its result struct, which flags generated, empty, or missing icon bitmaps and files for an app.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_WEB_APP_ICON_DIAGNOSTIC_COMMAND_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_WEB_APP_ICON_DIAGNOSTIC_COMMAND_H_
 

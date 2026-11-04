@@ -1,3 +1,11 @@
+---
+type: decision
+title: 'Design Doc: Preinstalled App Update Triggers'
+summary: Design document proposing throttled startup and navigation-based manifest update triggers for preinstalled web apps to handle the Google Chat origin migration.
+relations:
+  - references /chrome/browser/web_applications/docs/app_migration/preinstall_app_updating_investigation.md
+---
+
 # Design Doc: Preinstalled App Update Triggers
 
 - **Author(s):** dmurph@google.com

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ComputeAppSizeCommand class header
+// summary: Declares the command that calculates the total size of a web app including its stored data, working for both Progressive Web Apps and Isolated Web Apps.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_COMPUTE_APP_SIZE_COMMAND_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_COMPUTE_APP_SIZE_COMMAND_H_
 

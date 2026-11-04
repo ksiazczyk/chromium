@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clear browsing data command implementation
+// summary: Implements ClearWebAppBrowsingData, which clears web app last launch times, badging times and seen manifest scopes for a given time range.
+// ---
+
 #include "chrome/browser/web_applications/commands/clear_browsing_data_command.h"
 
 #include <optional>

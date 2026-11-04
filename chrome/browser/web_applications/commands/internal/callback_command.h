@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CallbackCommand and CallbackCommandWithResult declarations
+// summary: Declares templated callback-based WebAppCommand variants that let simple operations run as commands, with or without a result passed to the completion callback.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_INTERNAL_CALLBACK_COMMAND_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_INTERNAL_CALLBACK_COMMAND_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install from migrate_from field command implementation
+// summary: Implements installation of a migration target app when the manifest's migrate_from field lists already installed source apps.
+// ---
+
 #include "chrome/browser/web_applications/commands/web_app_install_from_migrate_from_field_command.h"
 
 #include <utility>

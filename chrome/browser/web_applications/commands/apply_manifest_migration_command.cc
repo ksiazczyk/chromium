@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apply Manifest Migration Command Implementation
+// summary: Implements the command that finalizes destination app installation, uninstalls the source app, updates sync data and ensures UX consistency for manifest migrations.
+// ---
+
 #include "chrome/browser/web_applications/commands/apply_manifest_migration_command.h"
 
 #include <memory>

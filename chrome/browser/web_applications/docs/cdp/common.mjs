@@ -1,3 +1,9 @@
+// ---docerion
+// type: source
+// title: Shared helpers for CDP demo scripts
+// summary: Launches Chrome via Puppeteer and exports helpers for sending CDP commands, waiting for user input, and managing browser sessions in the demo scripts.
+// ---
+
 import {stdin as input, stdout as output} from 'node:process';
 import * as readline from 'node:readline/promises';
 import puppeteer from 'puppeteer';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Navigate and trigger install dialog command header
+// summary: Declares the command that navigates to an install URL and automatically triggers the install dialog for uninstalled installable web apps.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_NAVIGATE_AND_TRIGGER_INSTALL_DIALOG_COMMAND_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_NAVIGATE_AND_TRIGGER_INSTALL_DIALOG_COMMAND_H_
 

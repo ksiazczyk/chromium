@@ -1,3 +1,11 @@
+---
+type: reference
+title: Navigation Capturing
+summary: Explains how Chrome captures web app links and programmatic navigations into installed PWA windows, covering the high-level flow, key classes, and testing.
+relations:
+  - references /chrome/browser/ui/navigator/browser_navigator.cc
+---
+
 # Navigation Capturing
 
 Navigation Capturing is a system in Chrome that allows web app links and

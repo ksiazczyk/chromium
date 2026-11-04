@@ -1,3 +1,12 @@
+---
+type: note
+title: 'Investigation: Dynamic Custom Tab Bar Visibility on Web App Scope Change'
+summary: Investigation notes analyzing how web app scope changes could trigger custom tab bar visibility updates, covering call sites, risks, existing test infrastructure, and solution ideas.
+relations:
+  - references /chrome/browser/web_applications/docs/predictable_app_updating/scope_toolbar_dynamic_updating_design.md
+  - references /chrome/browser/web_applications/web_app_install_utils.cc
+---
+
 # Investigation: Dynamic Custom Tab Bar Visibility on Web App Scope Change
 
 - **Author(s):** dmurph@chromium.org

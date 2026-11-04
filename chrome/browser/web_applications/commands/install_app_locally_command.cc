@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install app locally command implementation
+// summary: Implements marking a registry app as locally installed and synchronizing its OS integration such as desktop shortcuts.
+// ---
+
 #include "chrome/browser/web_applications/commands/install_app_locally_command.h"
 
 #include <memory>

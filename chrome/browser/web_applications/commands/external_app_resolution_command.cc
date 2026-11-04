@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ExternalAppResolutionCommand implementation
+// summary: Implements the command that installs web apps from external sources such as policy or default apps, loading the install URL, fetching the manifest, and falling back to placeholders.
+// ---
+
 #include "chrome/browser/web_applications/commands/external_app_resolution_command.h"
 
 #include <memory>

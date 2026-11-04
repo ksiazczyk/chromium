@@ -1,3 +1,12 @@
+---
+type: reference
+title: Web Apps - Desktop Concepts
+summary: Explains desktop-specific web app concepts such as user display mode, app management sources, placeholder apps, and installation states.
+relations:
+  - references /chrome/browser/web_applications/proto/web_app_install_state.proto
+  - references /docs/webapps/concepts.md
+---
+
 ## Web Apps - Desktop Concepts
 
 In addition to the [universal web app concepts](/docs/webapps/concepts.md), there are several concepts specific to desktop web apps and the `WebAppProvider` system.

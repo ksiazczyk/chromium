@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Apply manifest migration command unit tests
+// summary: Unit tests for ApplyManifestMigrationCommand, covering web app migration setups, results and related metrics.
+// ---
+
 #include "chrome/browser/web_applications/commands/apply_manifest_migration_command.h"
 
 #include <memory>

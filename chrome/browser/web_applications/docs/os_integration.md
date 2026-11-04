@@ -1,3 +1,13 @@
+---
+type: reference
+title: Web Apps - Operating System Integration
+summary: Describes how web apps integrate with operating system surfaces, covering protocol handler registration and Linux shortcuts and file handlers.
+relations:
+  - references /chrome/browser/web_applications/README.md
+  - references /chrome/browser/web_applications/os_integration/os_integration_manager.h
+  - references /chrome/browser/web_applications/os_integration/web_app_file_handler_manager.h
+---
+
 # [Web Apps](../README.md) - Operating System Integration
 
 The WebAppProvider system has to provide a lot of integrations with operating

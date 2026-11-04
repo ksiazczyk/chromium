@@ -1,3 +1,9 @@
+---
+type: decision
+title: Web App Graceful Corruption Recovery Design
+summary: Design document describing how Chrome detects a corrupted web app database, shows an error dialog, and gracefully cleans up and re-initializes web app state instead of crashing.
+---
+
 # Web App Graceful Corruption Recovery Design
 
 Editor: dmurph@google.com Last Modified: 2026-04-08

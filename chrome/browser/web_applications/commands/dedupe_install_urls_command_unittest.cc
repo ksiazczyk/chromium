@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DedupeInstallUrlsCommand unit tests
+// summary: Unit tests covering install URL deduplication scenarios involving policy-installed and preinstalled web apps, including placeholder-like erroneous states.
+// ---
+
 #include "chrome/browser/web_applications/commands/dedupe_install_urls_command.h"
 
 #include "base/test/metrics/histogram_tester.h"

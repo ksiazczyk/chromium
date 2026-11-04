@@ -1,3 +1,12 @@
+---
+type: guide
+title: Using PWA via CDP
+summary: Guide to controlling and testing Progressive Web Apps through the Chrome DevTools Protocol, with a puppeteer demo setup and pointers to supported APIs.
+relations:
+  - references /chrome/browser/web_applications/docs/cdp/demo.mjs
+  - references /chrome/browser/web_applications/docs/cdp/demo2.mjs
+---
+
 # Instruction of using PWA via CDP
 
 

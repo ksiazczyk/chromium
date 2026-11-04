@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Web install from manifest command implementation
+// summary: Implements the Web Install API manifest_url flow, converting a pre-parsed manifest into install info, showing the install dialog, and finalizing the web app install.
+// ---
+
 #include "chrome/browser/web_applications/commands/web_install_from_manifest_command.h"
 
 #include <memory>

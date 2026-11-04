@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parse manifest from manifest URL command implementation
+// summary: Implements the command that parses fetched manifest JSON via ParseManifestFromStringJob, resolving relative URLs against the manifest URL.
+// ---
+
 #include "chrome/browser/web_applications/commands/parse_manifest_from_manifest_url_command.h"
 
 #include <memory>

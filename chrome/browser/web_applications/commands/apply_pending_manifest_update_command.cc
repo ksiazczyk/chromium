@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Apply pending manifest update command implementation
+// summary: Implements the command that applies a pending manifest update to a web app, including icon conversion, OS synchronization and cleanup of pending update data.
+// ---
+
 #include "chrome/browser/web_applications/commands/apply_pending_manifest_update_command.h"
 
 #include <memory>

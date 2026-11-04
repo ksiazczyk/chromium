@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RunOnOsLoginCommand implementation
+// summary: Implements the command that sets or syncs a web app's run-on-OS-login mode between the database and OS integration hooks.
+// ---
+
 #include "chrome/browser/web_applications/commands/run_on_os_login_command.h"
 
 #include <initializer_list>

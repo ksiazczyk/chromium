@@ -1,3 +1,13 @@
+---
+type: reference
+title: Web Apps - Manifest Representations in Code
+summary: Lists all the places where web manifest data is represented in the codebase, from Mojo IPC and C++ types to protos, sync, and offline formats.
+relations:
+  - references /chrome/browser/android/webapk/webapk_info.h
+  - references /chrome/browser/apps/app_preload_service/proto/app_preload.proto
+  - references /chrome/browser/web_applications/README.md
+---
+
 # [Web Apps](../README.md) - Manifest representations in code
 
 This is a list of all the places where we represent

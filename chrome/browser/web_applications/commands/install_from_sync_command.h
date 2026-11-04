@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: InstallFromSyncCommand header
+// summary: Declares InstallFromSyncCommand and its Params, which install a web app using sync data, first attempting to fetch the latest manifest from the app's start URL.
+// ---
+
 #ifndef CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_INSTALL_FROM_SYNC_COMMAND_H_
 #define CHROME_BROWSER_WEB_APPLICATIONS_COMMANDS_INSTALL_FROM_SYNC_COMMAND_H_
 
