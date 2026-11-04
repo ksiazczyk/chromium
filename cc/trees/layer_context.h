@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerContext interface
+// summary: Declares the LayerContext interface through which a LayerTreeHost controls a backing LayerTreeHostImpl, potentially on another thread or process.
+// ---
+
 #ifndef CC_TREES_LAYER_CONTEXT_H_
 #define CC_TREES_LAYER_CONTEXT_H_
 

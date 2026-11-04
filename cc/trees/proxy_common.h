@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy common commit state definitions
+// summary: Defines the BeginMainFrameAndCommitState struct carrying begin-frame args, commit data and metrics, plus the GetThrottlingFactor helper shared by the compositor proxy sides.
+// ---
+
 #ifndef CC_TREES_PROXY_COMMON_H_
 #define CC_TREES_PROXY_COMMON_H_
 

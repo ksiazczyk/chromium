@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for chrome/android/expectations
+summary: Sets global ownership for the expectation files, noting updates are often trivial and advising a knowledgeable //chrome/android reviewer when changes are unclear.

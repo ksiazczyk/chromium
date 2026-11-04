@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnimatedPaintWorkletTracker implementation
+// summary: Implements the tracker that records which PaintWorklet input properties are animated on the compositor and produces property change maps for invalidating worklets.
+// ---
+
 #include "cc/trees/animated_paint_worklet_tracker.h"
 
 #include <string>

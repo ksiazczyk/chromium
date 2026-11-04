@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ClientLayerTreeHostImpl class header
+// summary: Declares the client-side LayerTreeHostImpl subclass with commit, invalidation, and pending tree methods used only in the client process.
+// ---
+
 #ifndef CC_TREES_CLIENT_LAYER_TREE_HOST_IMPL_H_
 #define CC_TREES_CLIENT_LAYER_TREE_HOST_IMPL_H_
 

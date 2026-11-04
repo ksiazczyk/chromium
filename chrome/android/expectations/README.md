@@ -1,3 +1,11 @@
+---
+type: readme
+title: //chrome/android/java/*.expected files
+summary: Documents what the proguard flags, AndroidManifest, and native libs and assets expectation files are, why discrepancies matter, and how to fix resulting build failures.
+relations:
+  - documents /chrome/android/expectations/trichrome_chrome_64_32_bundle.proguard_flags.expected
+---
+
 # //chrome/android/java/*.expected files
 
 ## Proguard flags

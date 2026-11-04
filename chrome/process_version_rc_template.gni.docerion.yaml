@@ -1,0 +1,4 @@
+# Docerion header of process_version_rc_template.gni.
+type: source
+title: Version .rc template wrapper (process_version_rc_template.gni)
+summary: GN template wrapping process_version() to generate .rc version files, automatically including the VERSION, LASTCHANGE and BRANDING sources plus any additional files.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Layer tree host pixel tests for mask layers
+// summary: Pixel tests verifying that mask layers render correctly across software, GL, Vulkan and zero-copy raster configurations, comparing output against reference images.
+// ---
+
 #include <stddef.h>
 
 #include <array>

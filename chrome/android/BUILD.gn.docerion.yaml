@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Chrome Android GN build targets
+summary: Defines the GN build targets for Chrome on Android, including Chrome Public APK and bundle templates and the Trichrome library and browser variants.

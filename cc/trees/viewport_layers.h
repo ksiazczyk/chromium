@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Viewport layers struct header
+// summary: Declares the ViewportLayers struct, which identifies key viewport layers to the compositor thread for viewport-based scrolling such as pinch-zoom and overscroll elasticity.
+// ---
+
 #ifndef CC_TREES_VIEWPORT_LAYERS_H_
 #define CC_TREES_VIEWPORT_LAYERS_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Layer tree host pixel tests for scrollbars
+// summary: Pixel tests verifying painted scrollbar rendering stays pixel-perfect under device scale factors and transform scales on GPU renderer types.
+// ---
+
 #include <stddef.h>
 
 #include "build/build_config.h"

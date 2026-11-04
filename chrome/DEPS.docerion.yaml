@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for //chrome
+summary: Sets include and dependency rules that restrict which directories and headers code in the chrome directory may use.

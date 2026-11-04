@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Main frame pipeline trace utilities implementation
+// summary: Implements EmitMainFramePipelineStep, which emits Perfetto trace events for steps of the main frame generation pipeline.
+// ---
+
 #include "cc/trees/trace_utils.h"
 
 namespace cc {

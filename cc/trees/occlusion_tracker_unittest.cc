@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OcclusionTracker unit tests
+// summary: Unit tests for OcclusionTracker covering occlusion of layers and contributing surfaces, opaque regions, filters, and copy requests using test layer tree fixtures.
+// ---
+
 #include "cc/trees/occlusion_tracker.h"
 
 #include <stddef.h>

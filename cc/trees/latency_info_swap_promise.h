@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LatencyInfoSwapPromise class declaration
+// summary: Declares LatencyInfoSwapPromise, a SwapPromise that associates LatencyInfo with compositor frame metadata for end-to-end input latency reporting.
+// ---
+
 #ifndef CC_TREES_LATENCY_INFO_SWAP_PROMISE_H_
 #define CC_TREES_LATENCY_INFO_SWAP_PROMISE_H_
 

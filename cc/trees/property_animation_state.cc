@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Property animation state implementation
+// summary: Implements equality and bitwise operators, validation, and clearing for the animation state of compositor target properties.
+// ---
+
 #include "cc/trees/property_animation_state.h"
 
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Damage tracker implementation
+// summary: Implements DamageTracker, computing each render surface's damage rect by accumulating changes from layers and surfaces across frames to reduce GPU work.
+// ---
+
 #include "cc/trees/damage_tracker.h"
 
 #include <stddef.h>

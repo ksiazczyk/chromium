@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SwapPromiseManager unit tests
+// summary: Tests swap promise monitor notification, commit callbacks, and taking of queued promises using mock swap promises and latency monitors.
+// ---
+
 #include "cc/trees/swap_promise_manager.h"
 
 #include <memory>

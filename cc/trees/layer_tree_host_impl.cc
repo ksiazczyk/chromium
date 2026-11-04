@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerTreeHostImpl implementation
+// summary: Implements the impl-side layer tree host that manages compositing, drawing, tile management, raster buffer providers, browser controls and frame submission for the Chromium compositor.
+// ---
+
 #include "cc/trees/layer_tree_host_impl.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Draw property utilities implementation
+// summary: Implements utilities that compute screen space transforms, clips, opacity and visible rects for layers from the compositor property trees.
+// ---
+
 #include "cc/trees/draw_property_utils.h"
 
 #include <stddef.h>

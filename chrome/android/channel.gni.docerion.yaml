@@ -1,0 +1,4 @@
+# Docerion header of channel.gni.
+type: config
+title: Chrome channel build import
+summary: Imports the Android channel GN config so channel definitions remain available when compiling internally.

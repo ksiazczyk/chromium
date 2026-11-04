@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Unbounded frame sink handler header
+// summary: Declares UnboundedFrameSinkHandler, a LayerTreeFrameSinkClient that manages a LayerTreeFrameSink and submits compositor frames on behalf of LayerTreeHostImpl.
+// ---
+
 #ifndef CC_TREES_UNBOUNDED_FRAME_SINK_HANDLER_H_
 #define CC_TREES_UNBOUNDED_FRAME_SINK_HANDLER_H_
 

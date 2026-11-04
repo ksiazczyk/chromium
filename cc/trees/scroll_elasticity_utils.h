@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scroll elasticity utility declarations
+// summary: Declares ShouldAllowOverscrollEffect, which decides whether a scroll node can show an elastic overscroll effect.
+// ---
+
 #ifndef CC_TREES_SCROLL_ELASTICITY_UTILS_H_
 #define CC_TREES_SCROLL_ELASTICITY_UTILS_H_
 

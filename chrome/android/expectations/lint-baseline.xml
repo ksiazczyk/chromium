@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--docerion
+type: config
+title: Android lint baseline for Chrome Android
+summary: Baseline of known Android lint issues for Chrome Android, allowing lint runs to ignore pre-existing violations.
+-->
+
 <issues format="6" by="lint 9.1.0-alpha06" type="baseline" client="" dependencies="true" name="" variant="all" version="9.1.0-alpha06">
 
     <issue

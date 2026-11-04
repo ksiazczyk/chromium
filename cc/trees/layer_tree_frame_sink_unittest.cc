@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LayerTreeFrameSink unit tests
+// summary: Unit tests verifying that LayerTreeFrameSink reports context loss to its client and fails binding when the context is already lost.
+// ---
+
 #include "cc/trees/layer_tree_frame_sink.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TreeSynchronizer unit tests
+// summary: Unit tests that verify TreeSynchronizer tree synchronization, layer recycling, and property pushing between main-thread and impl trees.
+// ---
+
 #include "cc/trees/tree_synchronizer.h"
 
 #include <stddef.h>

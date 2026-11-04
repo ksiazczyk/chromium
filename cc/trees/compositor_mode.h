@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compositor mode enum
+// summary: Defines the CompositorMode enum that distinguishes single-threaded and threaded compositor operation for LayerTreeHost proxy decisions.
+// ---
+
 #ifndef CC_TREES_COMPOSITOR_MODE_H_
 #define CC_TREES_COMPOSITOR_MODE_H_
 

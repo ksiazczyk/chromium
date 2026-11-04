@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Chrome Android dependency rules
+summary: Sets include rules that restrict dependencies on Chrome activity classes and lists the allowed component dependencies for Chrome Android code.

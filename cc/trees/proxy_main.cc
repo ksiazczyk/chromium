@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ProxyMain main-thread implementation
+// summary: Implements ProxyMain, the main-thread proxy that drives the commit pipeline stages and relays begin-main-frame, commit and presentation events to and from ProxyImpl.
+// ---
+
 #include "cc/trees/proxy_main.h"
 
 #include <algorithm>

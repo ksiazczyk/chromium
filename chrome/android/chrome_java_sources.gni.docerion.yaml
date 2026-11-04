@@ -1,0 +1,4 @@
+# Docerion header of chrome_java_sources.gni.
+type: config
+title: Chrome Java sources list
+summary: GN variable enumerating the Java source files that make up the Chrome Android browser code.

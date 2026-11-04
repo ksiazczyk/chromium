@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LatencyInfoSwapPromiseMonitor class header
+// summary: Declares the LatencyInfoSwapPromiseMonitor class that registers with a SwapPromiseManager or LayerTreeHostImpl to observe compositor state changes.
+// ---
+
 #ifndef CC_TREES_LATENCY_INFO_SWAP_PROMISE_MONITOR_H_
 #define CC_TREES_LATENCY_INFO_SWAP_PROMISE_MONITOR_H_
 

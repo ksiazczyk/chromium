@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Presentation time callback buffer implementation
+// summary: Implements buffering, registration, and popping of presentation-time callbacks keyed by compositor frame tokens for main and compositor threads.
+// ---
+
 #include "cc/trees/presentation_time_callback_buffer.h"
 
 #include <utility>

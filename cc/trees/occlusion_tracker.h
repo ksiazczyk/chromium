@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OcclusionTracker class header
+// summary: Declares the OcclusionTracker class used to track layer occlusion during front-to-back layer walks, exposing occlusion queries and enter/leave hooks for the effect tree iterator.
+// ---
+
 #ifndef CC_TREES_OCCLUSION_TRACKER_H_
 #define CC_TREES_OCCLUSION_TRACKER_H_
 

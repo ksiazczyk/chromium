@@ -1,0 +1,4 @@
+# Docerion header of create_stripped_java_factory.py.
+type: script
+title: Stripped Java factory generator
+summary: Generates dummy-implementation versions of Java factory files so features can depend on each other without circular dependencies.

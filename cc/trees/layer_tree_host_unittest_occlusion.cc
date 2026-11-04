@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LayerTreeHost occlusion unit tests
+// summary: Unit tests verifying occlusion values computed on layer draw properties and render surfaces during compositor drawing.
+// ---
+
 #include "cc/trees/layer_tree_host.h"
 
 #include "base/test/scoped_feature_list.h"

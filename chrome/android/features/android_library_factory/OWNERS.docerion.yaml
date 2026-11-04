@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for android_library_factory
+summary: Delegates code ownership for the android_library_factory directory to the owners of build/android via a file reference.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Draw properties unit tests
+// summary: Unit tests for computing draw properties of layers, covering transforms, clips, render surfaces and visible rects derived from property trees.
+// ---
+
 #include <stddef.h>
 
 #include <algorithm>

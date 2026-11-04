@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Property tree builder unit tests
+// summary: Unit tests verifying property tree construction, including effect tree transform IDs, render surfaces for non-axis-aligned clipping, and commit and activation behavior.
+// ---
+
 #include "cc/trees/property_tree_builder.h"
 
 #include <memory>

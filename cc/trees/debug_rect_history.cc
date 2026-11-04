@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Debug rect history implementation
+// summary: Implements DebugRectHistory, which collects debug visualization rects such as paint, damage, event handler and layout shift rects for the current frame.
+// ---
+
 #include "cc/trees/debug_rect_history.h"
 
 #include <stddef.h>

@@ -1,0 +1,4 @@
+# Docerion header of trichrome_library_32_apk.arm64.libs_and_assets.expected.
+type: test
+title: Trichrome Library 32 APK arm64 libs and assets expectations
+summary: Expected list of native libraries and assets for the Trichrome Library 32 APK, used to verify Android build output.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LayerTreeHost performance tests
+// summary: Provides performance benchmarks for the layer tree host that measure frame and commit times over layer trees built from JSON test files.
+// ---
+
 #include "cc/trees/layer_tree_host.h"
 
 #include <stdint.h>

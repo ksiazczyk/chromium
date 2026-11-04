@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Layer tree host pixel tests for synchronous compositing
+// summary: Pixel tests running single-threaded synchronous compositing with zero-copy and GPU rasterization to verify content layer rendering against a reference image.
+// ---
+
 #include "build/build_config.h"
 #include "cc/layers/content_layer_client.h"
 #include "cc/layers/picture_layer.h"

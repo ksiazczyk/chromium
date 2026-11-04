@@ -1,0 +1,4 @@
+# Docerion header of trichrome_chrome_64_bundle__base.AndroidManifest.expected.
+type: test
+title: Expected base manifest for Trichrome Chrome 64 bundle
+summary: Snapshot of the expected base Android manifest for the Trichrome Chrome 64 bundle, verified against actual build output.

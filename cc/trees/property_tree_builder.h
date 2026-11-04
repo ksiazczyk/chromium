@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PropertyTreeBuilder header
+// summary: Declares the PropertyTreeBuilder class with a static BuildPropertyTrees entry point that constructs property trees for a LayerTreeHost.
+// ---
+
 #ifndef CC_TREES_PROPERTY_TREE_BUILDER_H_
 #define CC_TREES_PROPERTY_TREE_BUILDER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Property tree
+// summary: Declares the templated PropertyTree container with node lookup and mutation APIs, plus related types for the compositor's property trees.
+// ---
+
 #ifndef CC_TREES_PROPERTY_TREE_H_
 #define CC_TREES_PROPERTY_TREE_H_
 

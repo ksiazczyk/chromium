@@ -1,0 +1,4 @@
+# Docerion header of static_initializers.gni.
+type: config
+title: Static initializer count checks for Android builds
+summary: Sets expected static initializer counts for Chrome and WebView shared libraries and provides GN templates that fail release builds when the counts change.

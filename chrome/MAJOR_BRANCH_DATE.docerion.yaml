@@ -1,0 +1,4 @@
+# Docerion header of MAJOR_BRANCH_DATE.
+type: data
+title: Major branch date
+summary: Stores the date of the most recent major branch cut, maintained by the official brancher account per the OWNERS rules.

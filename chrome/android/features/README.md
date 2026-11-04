@@ -1,3 +1,11 @@
+---
+type: readme
+title: Chrome on Android Feature Targets
+summary: Explains that each subdirectory is a self-contained Android feature and points to the GN factory template and keyboard_accessory example.
+relations:
+  - documents /chrome/android/features/android_library_factory_tmpl.gni
+---
+
 # Chrome on Android Feature Targets
 
 This is the top-level directory for various feature targets for chrome on

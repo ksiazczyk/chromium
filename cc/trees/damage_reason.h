@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Damage reason enum
+// summary: Defines the DamageReason enum and DamageReasonSet for tracking specific causes such as animations, scrolls, and scrollbar fades that contributed to damage.
+// ---
+
 #ifndef CC_TREES_DAMAGE_REASON_H_
 #define CC_TREES_DAMAGE_REASON_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Property tree implementation
+// summary: Implements the generic property tree and specialized transform, clip, effect, and scroll trees that drive compositor property computation.
+// ---
+
 #include "cc/trees/property_tree.h"
 
 #include <stddef.h>

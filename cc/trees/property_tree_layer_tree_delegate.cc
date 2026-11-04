@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PropertyTreeLayerTreeDelegate implementation
+// summary: Implements the PropertyTreeDelegate for legacy layer tree mode, rebuilding property trees and forwarding element filter, opacity, and transform mutations to layers.
+// ---
+
 #include "cc/trees/property_tree_layer_tree_delegate.h"
 
 #include "base/trace_event/trace_event.h"

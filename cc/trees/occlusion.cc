@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Occlusion computation implementation
+// summary: Implements the Occlusion class methods that test whether content rects are occluded and compute unoccluded rects using draw transforms and inside/outside target occlusion regions.
+// ---
+
 #include "cc/trees/occlusion.h"
 
 #include "base/check_op.h"

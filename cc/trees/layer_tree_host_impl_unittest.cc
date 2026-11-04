@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LayerTreeHostImpl unit tests
+// summary: Contains extensive unit tests for LayerTreeHostImpl covering scrolling, damage, tile management, drawing, page scale animation and frame submission behavior.
+// ---
+
 #include "cc/trees/layer_tree_host_impl.h"
 
 #include <stddef.h>

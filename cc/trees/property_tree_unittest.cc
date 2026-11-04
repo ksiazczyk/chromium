@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Property tree unit tests
+// summary: Unit tests for property trees covering transform combination and inverse computation, needs-update flags, and scroll, clip, and effect tree behavior.
+// ---
+
 #include "cc/trees/property_tree.h"
 
 #include <cmath>

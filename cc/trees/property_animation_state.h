@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Property animation state
+// summary: Declares a struct tracking which target properties are currently running or potentially animating, with bitwise operators and validation.
+// ---
+
 #ifndef CC_TREES_PROPERTY_ANIMATION_STATE_H_
 #define CC_TREES_PROPERTY_ANIMATION_STATE_H_
 

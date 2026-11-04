@@ -1,0 +1,4 @@
+# Docerion header of chrome_public_bundle__chrome.AndroidManifest.expected.
+type: data
+title: Expected AndroidManifest for chrome_public_bundle chrome split
+summary: Expectation file holding the pretty-printed merged AndroidManifest for the chrome feature split of chrome_public_bundle, including activities, services and permissions.

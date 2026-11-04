@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LatencyInfoSwapPromise implementation
+// summary: Implements a swap promise that attaches input latency information to compositor frame metadata and emits latency trace events on commit.
+// ---
+
 #include "cc/trees/latency_info_swap_promise.h"
 
 #include <stdint.h>

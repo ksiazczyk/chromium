@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AnimationOptions opaque handle
+// summary: Declares an opaque handle class used to plumb animation options from the Blink main thread to the worklet thread via the cc animations machinery.
+// ---
+
 #ifndef CC_TREES_ANIMATION_OPTIONS_H_
 #define CC_TREES_ANIMATION_OPTIONS_H_
 

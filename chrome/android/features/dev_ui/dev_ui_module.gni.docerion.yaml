@@ -1,0 +1,4 @@
+# Docerion header of dev_ui_module.gni.
+type: config
+title: Dev UI dynamic feature module definition
+summary: GN file declaring the dfmify_dev_ui build argument and the dev_ui_module_desc descriptor that configures the Developer UI dynamic feature module.

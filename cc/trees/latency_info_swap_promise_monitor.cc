@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LatencyInfoSwapPromiseMonitor implementation
+// summary: Monitors compositor state changes such as SetNeedsCommit and SetNeedsRedraw and queues LatencyInfoSwapPromise objects for latency measurement.
+// ---
+
 #include "cc/trees/latency_info_swap_promise_monitor.h"
 
 #include <stdint.h>

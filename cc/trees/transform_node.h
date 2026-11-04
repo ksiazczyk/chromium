@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TransformNode property tree node definition
+// summary: Defines the TransformNode struct for the transform property tree, covering local transforms, scroll offsets, animation state, and flattening flags.
+// ---
+
 #ifndef CC_TREES_TRANSFORM_NODE_H_
 #define CC_TREES_TRANSFORM_NODE_H_
 

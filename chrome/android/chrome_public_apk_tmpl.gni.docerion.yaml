@@ -1,0 +1,4 @@
+# Docerion header of chrome_public_apk_tmpl.gni.
+type: config
+title: Chrome public APK and bundle build templates
+summary: Defines GN arguments and templates for building Chrome's public Android APK and app bundle targets, including manifest generation and jinja variables for channels, VR, and codecs.

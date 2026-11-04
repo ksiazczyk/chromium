@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PropertyTreeLayerListDelegate implementation
+// summary: Implements the PropertyTreeDelegate for layer list mode, updating HUD layer tree indices and applying impl-side scroll offsets to scroll and transform trees.
+// ---
+
 #include "cc/trees/property_tree_layer_list_delegate.h"
 
 #include <cmath>

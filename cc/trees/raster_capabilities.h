@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RasterCapabilities struct declaration
+// summary: Declares a struct holding rasterization capabilities such as GPU raster and MSAA support, maximum texture size, tile format and UI resource format.
+// ---
+
 #ifndef CC_TREES_RASTER_CAPABILITIES_H_
 #define CC_TREES_RASTER_CAPABILITIES_H_
 

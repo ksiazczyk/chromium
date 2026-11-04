@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Draw property utilities declaration
+// summary: Declares utilities for computing draw properties, including transforms, effects, visible rects and render surface lists from property trees.
+// ---
+
 #ifndef CC_TREES_DRAW_PROPERTY_UTILS_H_
 #define CC_TREES_DRAW_PROPERTY_UTILS_H_
 

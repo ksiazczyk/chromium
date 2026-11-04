@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Ruff lint and format configuration
+# summary: Configures Ruff line length, quote style, unfixable lint rules, and a list of excluded Python files for the chrome directory.
+# ---
+
 line-length = 80
 indent-width = 2
 extend-exclude = [

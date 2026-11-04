@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EffectNode struct declaration
+// summary: Declares the EffectNode struct and RenderSurfaceReason enum used by the compositor effect tree to track opacity, filters and render surfaces.
+// ---
+
 #ifndef CC_TREES_EFFECT_NODE_H_
 #define CC_TREES_EFFECT_NODE_H_
 

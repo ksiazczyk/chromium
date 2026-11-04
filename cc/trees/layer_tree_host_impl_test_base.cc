@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LayerTreeHostImpl test base implementation
+// summary: Implements shared test helpers for LayerTreeHostImpl tests, including a test host factory honoring TreesInViz modes, TestFrameData and the DidDrawCheckLayer fake layer.
+// ---
+
 #include "cc/trees/layer_tree_host_impl_test_base.h"
 
 #include "base/memory/ptr_util.h"

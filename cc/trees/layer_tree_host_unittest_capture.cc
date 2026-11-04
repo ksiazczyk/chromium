@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Layer tree host capture unit tests
+// summary: Unit tests verifying that layers with a subtree capture id elevate to separate render surfaces and render passes, and that non-capturing trees do not.
+// ---
+
 #include "cc/test/fake_content_layer_client.h"
 #include "cc/test/fake_picture_layer.h"
 #include "cc/test/layer_tree_test.h"

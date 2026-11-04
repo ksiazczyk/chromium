@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ImageAnimationController class declaration
+// summary: Declares ImageAnimationController, which tracks compositor image animation state, advances frames on sync trees, and requests begin frames via a delegate.
+// ---
+
 #ifndef CC_TREES_IMAGE_ANIMATION_CONTROLLER_H_
 #define CC_TREES_IMAGE_ANIMATION_CONTROLLER_H_
 

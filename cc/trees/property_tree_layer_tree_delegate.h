@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PropertyTreeLayerTreeDelegate header
+// summary: Declares the default PropertyTreeDelegate implementation used in legacy layer tree mode, slated for removal once the compositor uses layer list mode.
+// ---
+
 #ifndef CC_TREES_PROPERTY_TREE_LAYER_TREE_DELEGATE_H_
 #define CC_TREES_PROPERTY_TREE_LAYER_TREE_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Proxy interface
+// summary: Defines the abstract Proxy interface that forwards main-thread compositor commands such as animate, commit, redraw, and commit deferral to the compositor implementation.
+// ---
+
 #ifndef CC_TREES_PROXY_H_
 #define CC_TREES_PROXY_H_
 

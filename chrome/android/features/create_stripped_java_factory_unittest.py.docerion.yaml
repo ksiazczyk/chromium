@@ -1,0 +1,4 @@
+# Docerion header of create_stripped_java_factory_unittest.py.
+type: test
+title: Stripped Java factory generator unit tests
+summary: Unit tests verifying that the generator produces the expected stripped factory output for a sample Java factory class.

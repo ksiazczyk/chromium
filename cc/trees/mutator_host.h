@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MutatorHost animation and mutation interface
+// summary: Defines the MutatorHost abstract interface that owns animation and mutation effects on main and impl threads, covering ticking, activation, synchronization during commit, and event handling.
+// ---
+
 #ifndef CC_TREES_MUTATOR_HOST_H_
 #define CC_TREES_MUTATOR_HOST_H_
 

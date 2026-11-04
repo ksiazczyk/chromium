@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scroll source type enum
+// summary: Defines the ScrollSourceType enum of scroll snap scroll kinds, following the CSS scroll snap specification.
+// ---
+
 #ifndef CC_TREES_SCROLL_SOURCE_TYPE_H_
 #define CC_TREES_SCROLL_SOURCE_TYPE_H_
 

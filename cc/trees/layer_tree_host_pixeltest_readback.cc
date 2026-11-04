@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Layer tree host pixel tests for readback
+// summary: Pixel tests for copy-output readback of layer content to bitmaps or textures, including subrect copies, across different renderer and readback configurations.
+// ---
+
 #include "base/functional/bind.h"
 #include "build/build_config.h"
 #include "cc/layers/solid_color_layer.h"

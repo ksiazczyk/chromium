@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Layer tree mutator declarations
+// summary: Declares worklet animation identifiers, mutate queuing strategies, and input and output state types used to pass animation worklet updates to the compositor.
+// ---
+
 #ifndef CC_TREES_LAYER_TREE_MUTATOR_H_
 #define CC_TREES_LAYER_TREE_MUTATOR_H_
 

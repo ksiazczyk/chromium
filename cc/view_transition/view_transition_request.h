@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewTransitionRequest class declaration
+// summary: Declares the cc ViewTransitionRequest class, created in Blink to represent view transition requests that are translated into viz directives, with sequence IDs and capture callbacks.
+// ---
+
 #ifndef CC_VIEW_TRANSITION_VIEW_TRANSITION_REQUEST_H_
 #define CC_VIEW_TRANSITION_VIEW_TRANSITION_REQUEST_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Single-thread compositor proxy implementation
+// summary: Implements the single-threaded compositor proxy that drives the scheduler, commits and drawing for the layer tree host.
+// ---
+
 #include "cc/trees/single_thread_proxy.h"
 
 #include <memory>

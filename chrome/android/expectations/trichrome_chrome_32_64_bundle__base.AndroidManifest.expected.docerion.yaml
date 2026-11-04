@@ -1,0 +1,4 @@
+# Docerion header of trichrome_chrome_32_64_bundle__base.AndroidManifest.expected.
+type: test
+title: Expected base manifest for trichrome_chrome_32_64_bundle
+summary: Expected base AndroidManifest for the trichrome_chrome_32_64_bundle, covering permissions, features and components for manifest verification.

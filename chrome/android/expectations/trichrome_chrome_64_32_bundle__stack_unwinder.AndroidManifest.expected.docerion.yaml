@@ -1,0 +1,4 @@
+# Docerion header of trichrome_chrome_64_32_bundle__stack_unwinder.AndroidManifest.expected.
+type: test
+title: Expected stack_unwinder split manifest for Trichrome Chrome 64_32 bundle
+summary: Snapshot of the expected stack_unwinder feature split manifest for the Trichrome Chrome 64_32 bundle, verified against actual build output.

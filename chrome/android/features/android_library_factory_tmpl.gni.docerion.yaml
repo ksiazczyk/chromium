@@ -1,0 +1,4 @@
+# Docerion header of android_library_factory_tmpl.gni.
+type: config
+title: Android library factory GN template
+summary: Defines the android_library_factory template that builds stripped Java factory libraries swapped for real implementations at build time.

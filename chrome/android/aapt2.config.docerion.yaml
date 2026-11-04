@@ -1,0 +1,4 @@
+# Docerion header of aapt2.config.
+type: config
+title: AAPT2 resource optimization config
+summary: Marks launcher icons, topic taxonomy drawables, and other Android resources as no_collapse for AAPT2 resource processing.

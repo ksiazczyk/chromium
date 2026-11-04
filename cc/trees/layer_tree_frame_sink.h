@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerTreeFrameSink interface
+// summary: Declares the LayerTreeFrameSink interface for submitting compositor frames to the display compositor using GL or shared memory resources.
+// ---
+
 #ifndef CC_TREES_LAYER_TREE_FRAME_SINK_H_
 #define CC_TREES_LAYER_TREE_FRAME_SINK_H_
 

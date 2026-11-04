@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TaskRunnerProvider implementation
+// summary: Implements access to the main and impl task runners, with thread assertion checks and special handling for GPU-side display trees.
+// ---
+
 #include "cc/trees/task_runner_provider.h"
 #include "base/task/single_thread_task_runner.h"
 

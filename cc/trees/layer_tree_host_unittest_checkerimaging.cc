@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LayerTreeHost checker imaging unit tests
+// summary: Unit tests for checker-imaging behavior in the layer tree host, covering tile invalidation merging with main frames and UKM source tracking.
+// ---
+
 #include "cc/base/completion_event.h"
 #include "cc/layers/picture_layer_impl.h"
 #include "cc/test/fake_content_layer_client.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Property tree builder
+// summary: Builds transform, clip, effect, and scroll property trees by recursively walking layers from the layer tree host.
+// ---
+
 #include "cc/trees/property_tree_builder.h"
 
 #include <stddef.h>

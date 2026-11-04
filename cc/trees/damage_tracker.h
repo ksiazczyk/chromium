@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Damage tracker definition
+// summary: Declares DamageTracker and its DamageAccumulator, which compute regions of changed pixels on render surfaces to scissor drawing and save GPU computation and bandwidth.
+// ---
+
 #ifndef CC_TREES_DAMAGE_TRACKER_H_
 #define CC_TREES_DAMAGE_TRACKER_H_
 

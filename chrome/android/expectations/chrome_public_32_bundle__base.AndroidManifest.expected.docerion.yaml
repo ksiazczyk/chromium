@@ -1,0 +1,4 @@
+# Docerion header of chrome_public_32_bundle__base.AndroidManifest.expected.
+type: data
+title: Expected AndroidManifest for chrome_public_32_bundle base
+summary: Expectation file holding the pretty-printed merged AndroidManifest for the base module of chrome_public_32_bundle, checked against generated build output.

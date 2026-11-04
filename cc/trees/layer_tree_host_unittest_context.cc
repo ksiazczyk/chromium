@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LayerTreeHost context loss unit tests
+// summary: Unit tests covering loss and recreation of the 3D graphics context, checking compositor behavior when the raster context fails to create or is lost during commit and draw.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderFrameMetadata declarations
+// summary: Declares metadata structs describing submitted frames, covering root scroll offset, background color, selection, viewport, browser controls and delegated ink hover state.
+// ---
+
 #ifndef CC_TREES_RENDER_FRAME_METADATA_H_
 #define CC_TREES_RENDER_FRAME_METADATA_H_
 

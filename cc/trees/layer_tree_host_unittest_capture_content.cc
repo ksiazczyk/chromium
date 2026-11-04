@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LayerTreeHost capture content unit tests
+// summary: Unit tests for LayerTreeHost::CaptureContent(), using fake picture layers and text holders to verify the content nodes captured from the layer tree.
+// ---
+
 #include "cc/trees/layer_tree_host.h"
 
 #include "cc/test/fake_content_layer_client.h"

@@ -1,0 +1,4 @@
+# Docerion header of chrome_java_resources.gni.
+type: config
+title: Chrome Java resources list
+summary: GN variable enumerating the Java resource files under java/res that are used by Chrome Android builds.

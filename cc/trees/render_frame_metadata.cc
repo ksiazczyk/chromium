@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RenderFrameMetadata implementation
+// summary: Implements equality operators for RenderFrameMetadata and BrowserControlsMetadata, including platform-specific logic for when browser control changes require a new local surface id.
+// ---
+
 #include "cc/trees/render_frame_metadata.h"
 
 #include "build/build_config.h"

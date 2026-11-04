@@ -1,0 +1,4 @@
+# Docerion header of chrome_public_bundle__dev_ui.AndroidManifest.expected.
+type: data
+title: Expected AndroidManifest for chrome_public_bundle dev_ui split
+summary: Expectation file holding the pretty-printed merged AndroidManifest for the dev_ui feature split of chrome_public_bundle, covering its delivery and fusing settings.

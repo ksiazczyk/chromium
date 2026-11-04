@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerTreeImpl class declaration
+// summary: Declares the LayerTreeImpl class and its lifecycle states, exposing access to settings, tile manager, property trees, and UI resources for the impl-side tree.
+// ---
+
 #ifndef CC_TREES_LAYER_TREE_IMPL_H_
 #define CC_TREES_LAYER_TREE_IMPL_H_
 

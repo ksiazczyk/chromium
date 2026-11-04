@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThrottleDecider class header
+// summary: Declares ThrottleDecider, which decides which embedded frame sinks in a render pass list qualify for compositing-based throttling.
+// ---
+
 #ifndef CC_TREES_THROTTLE_DECIDER_H_
 #define CC_TREES_THROTTLE_DECIDER_H_
 

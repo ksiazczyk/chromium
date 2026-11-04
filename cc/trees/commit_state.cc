@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Commit state implementation
+// summary: Implements CommitState copying of persistent layer tree fields and ThreadUnsafeCommitState construction used during compositor commits.
+// ---
+
 #include "cc/trees/commit_state.h"
 
 #include "components/viz/common/frame_sinks/copy_output_request.h"

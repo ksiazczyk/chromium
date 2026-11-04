@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LayerTreeHostImplDelegate callback interface
+// summary: Defines the callback interface through which LayerTreeHostImpl notifies its proxy about frame sink loss, redraws, commits, tree activation, tile preparation and frame presentation events.
+// ---
+
 #ifndef CC_TREES_LAYER_TREE_HOST_IMPL_DELEGATE_H_
 #define CC_TREES_LAYER_TREE_HOST_IMPL_DELEGATE_H_
 

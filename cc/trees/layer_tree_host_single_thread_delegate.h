@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Layer tree host single thread delegate interface
+// summary: Interface for the single-threaded layer tree host delegate, covering animation scheduling, frame submission, frame sink loss and throttling callbacks.
+// ---
+
 #ifndef CC_TREES_LAYER_TREE_HOST_SINGLE_THREAD_DELEGATE_H_
 #define CC_TREES_LAYER_TREE_HOST_SINGLE_THREAD_DELEGATE_H_
 

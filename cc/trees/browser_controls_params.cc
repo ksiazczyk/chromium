@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserControlsParams equality operators
+// summary: Implements the equality and inequality comparison operators for the BrowserControlsParams struct.
+// ---
+
 #include "cc/trees/browser_controls_params.h"
 
 namespace cc {

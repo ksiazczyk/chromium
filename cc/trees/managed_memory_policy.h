@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ManagedMemoryPolicy struct declaration
+// summary: Declares the ManagedMemoryPolicy struct defining visible memory byte limits, priority cutoffs, and resource limits for tile management.
+// ---
+
 #ifndef CC_TREES_MANAGED_MEMORY_POLICY_H_
 #define CC_TREES_MANAGED_MEMORY_POLICY_H_
 

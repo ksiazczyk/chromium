@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Property tree node id constants
+// summary: Defines constants for property tree node ids, including invalid, root, and secondary root ids used for contents and viewport nodes.
+// ---
+
 #ifndef CC_TREES_PROPERTY_IDS_H_
 #define CC_TREES_PROPERTY_IDS_H_
 

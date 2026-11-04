@@ -1,0 +1,4 @@
+# Docerion header of trichrome_chrome_64_32_bundle__chrome.AndroidManifest.expected.
+type: test
+title: Expected chrome split manifest for Trichrome Chrome 64_32 bundle
+summary: Snapshot of the expected chrome feature split manifest for the Trichrome Chrome 64_32 bundle, verified against actual build output.

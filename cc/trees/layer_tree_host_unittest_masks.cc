@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LayerTreeHost mask layer unit tests
+// summary: Unit tests verifying mask layer rendering, including render pass quads, blend modes, and clipping for surfaces with masks in both classic and layer-list modes.
+// ---
+
 #include "base/time/time.h"
 #include "cc/test/fake_picture_layer.h"
 #include "cc/test/fake_recording_source.h"

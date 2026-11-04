@@ -1,0 +1,4 @@
+# Docerion header of chrome_repack_locales.gni.
+type: source
+title: Chrome locale repacking template (chrome_repack_locales.gni)
+summary: Wraps the repack_locales GN template with the source patterns and dependencies needed to build Chrome's localized string and locale settings paks, with ChromeOS extras.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ViewTransitionRequest implementation
+// summary: Implements the ViewTransitionRequest class, with factory methods for capture, animate-renderer and release requests and construction of viz CompositorFrameTransitionDirective objects.
+// ---
+
 #include "cc/view_transition/view_transition_request.h"
 
 #include <algorithm>
