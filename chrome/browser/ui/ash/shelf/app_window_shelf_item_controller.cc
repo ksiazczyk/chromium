@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppWindowShelfItemController implementation
+// summary: Implements the shelf item delegate for app windows, handling window activation or minimization, advancing to next windows, and managing app menu and context menu behavior.
+// ---
+
 #include "chrome/browser/ui/ash/shelf/app_window_shelf_item_controller.h"
 
 #include <algorithm>

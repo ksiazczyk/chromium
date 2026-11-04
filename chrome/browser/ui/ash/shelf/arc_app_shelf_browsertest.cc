@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ARC app shelf browser tests
+// summary: Browser tests covering ARC app shelf behavior, including shelf grouping, item selection, spinner items, and icon updates for ARC apps and shortcuts.
+// ---
+
 #include <array>
 #include <memory>
 #include <string>

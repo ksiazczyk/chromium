@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App Service app window shelf item controller implementation
+// summary: Implements the per-shelf-item controller handling item selection, PIP expansion, task activation, and app menu items.
+// ---
+
 #include "chrome/browser/ui/ash/shelf/app_service/app_service_app_window_shelf_item_controller.h"
 
 #include "chrome/browser/apps/app_service/app_service_proxy.h"

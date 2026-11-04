@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Projector client implementation unit tests
+// summary: Unit tests for ProjectorClientImpl covering speech recognition availability, on-device to server fallback metrics, and locale change handling.
+// ---
+
 #include "chrome/browser/ui/ash/projector/projector_client_impl.h"
 
 #include <memory>

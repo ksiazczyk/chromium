@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for the multi_user library
+summary: GN build file defining the multi_user static library and its unit_tests source set, listing their sources and dependencies.

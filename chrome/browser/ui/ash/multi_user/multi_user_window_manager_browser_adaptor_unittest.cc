@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multi-user window manager browser adaptor unit tests
+// summary: Unit tests for the multi-user window manager browser adaptor, covering window ownership and behavior across user switches in Ash.
+// ---
+
 #include "chrome/browser/ui/ash/multi_user/multi_user_window_manager_browser_adaptor.h"
 
 #include <stddef.h>

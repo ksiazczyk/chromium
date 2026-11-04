@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for ChromeNewWindowClient
+// summary: Runs in-process browser tests checking that new windows and tabs open on the active user's profile and related client behavior.
+// ---
+
 #include "chrome/browser/ui/ash/new_window/chrome_new_window_client.h"
 
 #include "chrome/browser/apps/app_service/app_service_proxy.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shelf auto-hide browser tests
+// summary: Browser tests verifying shelf auto-hide behavior, parameterized for RTL, including state changes when browser windows are opened.
+// ---
+
 #include "ash/shelf/shelf.h"
 
 #include <memory>

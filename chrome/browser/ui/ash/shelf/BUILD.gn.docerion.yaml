@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Shelf build configuration
+summary: GN build file defining the sources, public dependencies, and dependencies of the Chrome OS shelf static library.

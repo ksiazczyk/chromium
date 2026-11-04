@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharesheet bubble view header
+// summary: Declares SharesheetBubbleView, the bubble dialog that shows share targets and Nearby Share actions and reacts to display and widget changes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_SHARESHEET_SHARESHEET_BUBBLE_VIEW_H_
 #define CHROME_BROWSER_UI_ASH_SHARESHEET_SHARESHEET_BUBBLE_VIEW_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the multi-user context menu
+// summary: Unit tests exercising the multi-user context menu with fake users, profiles, and a multi-user window manager adaptor.
+// ---
+
 #include "chrome/browser/ui/ash/multi_user/multi_user_context_menu.h"
 
 #include <memory>

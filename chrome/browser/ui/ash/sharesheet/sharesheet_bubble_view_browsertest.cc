@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sharesheet bubble view browser tests
+// summary: Browser tests that show and dismiss the sharesheet bubble and verify DLP policy restrictions and sharesheet metrics.
+// ---
+
 #include "chrome/browser/ui/ash/sharesheet/sharesheet_bubble_view.h"
 
 #include <algorithm>

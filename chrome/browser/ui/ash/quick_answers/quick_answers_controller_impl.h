@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Answers controller class declaration
+// summary: Declares QuickAnswersControllerImpl, which receives selected text from context menus, delegates results and manages the Quick Answers UI lifecycle.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_QUICK_ANSWERS_QUICK_ANSWERS_CONTROLLER_IMPL_H_
 #define CHROME_BROWSER_UI_ASH_QUICK_ANSWERS_QUICK_ANSWERS_CONTROLLER_IMPL_H_
 

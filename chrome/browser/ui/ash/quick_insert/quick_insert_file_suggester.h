@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickInsertFileSuggester class header
+// summary: Declares the QuickInsertFileSuggester class that fetches recent local images and recent Drive files as suggestions for the quick insert feature.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_QUICK_INSERT_QUICK_INSERT_FILE_SUGGESTER_H_
 #define CHROME_BROWSER_UI_ASH_QUICK_INSERT_QUICK_INSERT_FILE_SUGGESTER_H_
 

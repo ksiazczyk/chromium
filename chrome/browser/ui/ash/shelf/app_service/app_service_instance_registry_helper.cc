@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App Service instance registry helper implementation
+// summary: Implements the helper that keeps the App Service Instance Registry in sync with shelf windows, updating instances on tab changes, activation, visibility and user switches.
+// ---
+
 #include "chrome/browser/ui/ash/shelf/app_service/app_service_instance_registry_helper.h"
 
 #include <set>

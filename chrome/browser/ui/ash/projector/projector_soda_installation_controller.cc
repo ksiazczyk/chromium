@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Projector SODA installation controller implementation
+// summary: Implements the controller that installs the SODA on-device speech recognition binary and language packs and notifies the Projector app of installation status.
+// ---
+
 #include "chrome/browser/ui/ash/projector/projector_soda_installation_controller.h"
 
 #include "ash/constants/ash_features.h"

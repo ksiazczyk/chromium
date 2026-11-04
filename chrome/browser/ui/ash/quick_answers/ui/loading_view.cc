@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Loading view implementation
+// summary: Implements the Quick Answers loading view as a vertical flex layout with a settable first line label and a loading second line label.
+// ---
+
 #include "chrome/browser/ui/ash/quick_answers/ui/loading_view.h"
 
 #include <string_view>

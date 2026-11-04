@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShelfExtensionAppUpdater implementation
+// summary: Implements the extension registry and ARC package observer that forwards app install, update, and uninstall events to the shelf updater delegate.
+// ---
+
 #include "chrome/browser/ui/ash/shelf/shelf_extension_app_updater.h"
 
 #include "chrome/browser/ash/app_list/arc/arc_app_list_prefs.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Shelf include dependency rules
+summary: Defines allowed include rules for the shelf directory plus per-file exceptions for tests and specific sources.

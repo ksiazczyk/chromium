@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Answers controller unit tests
+// summary: Unit tests for the ChromeOS Quick Answers controller, covering view display, consent flow, and client interactions using a mock Quick Answers client.
+// ---
+
 #include <memory>
 #include <optional>
 

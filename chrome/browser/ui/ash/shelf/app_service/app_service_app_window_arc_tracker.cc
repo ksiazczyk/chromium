@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App Service ARC app window tracker implementation
+// summary: Implements tracking of ARC app windows for the shelf, handling task ids, window visibility, ghost windows, and Play Store launches.
+// ---
+
 #include "chrome/browser/ui/ash/shelf/app_service/app_service_app_window_arc_tracker.h"
 
 #include "ash/multi_user/multi_user_window_manager.h"

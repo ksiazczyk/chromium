@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Management disclosure client implementation
+// summary: Implements the ash management disclosure client by mapping device reporting info to localized disclosure strings from the management UI.
+// ---
+
 #include "chrome/browser/ui/ash/management_disclosure/management_disclosure_client_impl.h"
 
 #include <memory>

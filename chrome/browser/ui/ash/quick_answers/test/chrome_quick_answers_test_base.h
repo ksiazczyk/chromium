@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome Quick Answers test base header
+// summary: Declares ChromeQuickAnswersTestBase, a ChromeAshTestBase helper providing session setup, profile access, and menu helpers for Quick Answers tests.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_QUICK_ANSWERS_TEST_CHROME_QUICK_ANSWERS_TEST_BASE_H_
 #define CHROME_BROWSER_UI_ASH_QUICK_ANSWERS_TEST_CHROME_QUICK_ANSWERS_TEST_BASE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharesheet target button implementation
+// summary: Implements the button representing a single share target app or action, with icon, labels, accessibility names, and DLP blocking.
+// ---
+
 #include "chrome/browser/ui/ash/sharesheet/sharesheet_target_button.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shelf integration test for opening and switching apps
+// summary: Crosier integration test that opens and closes Chrome and Files apps from the ChromeOS shelf and verifies pinned items and window titles.
+// ---
+
 #include <memory>
 
 #include "ash/constants/web_app_id_constants.h"

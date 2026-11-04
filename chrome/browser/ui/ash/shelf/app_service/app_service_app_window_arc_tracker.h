@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App Service ARC app window tracker header
+// summary: Declares AppServiceAppWindowArcTracker, which observes ARC app state and session changes to handle shelf window special cases.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_SHELF_APP_SERVICE_APP_SERVICE_APP_WINDOW_ARC_TRACKER_H_
 #define CHROME_BROWSER_UI_ASH_SHELF_APP_SERVICE_APP_SERVICE_APP_WINDOW_ARC_TRACKER_H_
 

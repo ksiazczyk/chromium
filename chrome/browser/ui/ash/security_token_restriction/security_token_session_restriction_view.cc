@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Security token session restriction dialog view implementation
+// summary: Implements the countdown dialog that warns the user of an impending logout or lock after their security token is removed.
+// ---
+
 #include "chrome/browser/ui/ash/security_token_restriction/security_token_session_restriction_view.h"
 
 #include <string>

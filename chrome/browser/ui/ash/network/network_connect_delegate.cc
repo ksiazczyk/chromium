@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network connect delegate implementation
+// summary: Routes network connect events to settings, enrollment, portal signin, mobile setup, and error notification UI.
+// ---
+
 #include "chrome/browser/ui/ash/network/network_connect_delegate.h"
 
 #include <memory>

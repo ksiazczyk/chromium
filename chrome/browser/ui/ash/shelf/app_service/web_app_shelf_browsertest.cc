@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web app shelf browser tests
+// summary: Browser tests verifying how web apps appear and switch on the Ash shelf, covering pinning, app windows and switching between apps.
+// ---
+
 #include "ash/public/cpp/shelf_item.h"
 #include "ash/public/cpp/shelf_model.h"
 #include "ash/public/cpp/shelf_types.h"

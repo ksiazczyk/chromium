@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network state notifier unit tests
+// summary: Unit tests for NetworkStateNotifier covering network connect errors, cellular activation, eSIM profiles, and carrier unlock notifications.
+// ---
+
 #include "chrome/browser/ui/ash/network/network_state_notifier.h"
 
 #include <memory>

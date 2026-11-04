@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Management disclosure dialog browser test
+// summary: Browser test that locks the screen and verifies the management disclosure dialog's modal type, buttons, and disclosure labels.
+// ---
+
 #include "ash/login/ui/lock_contents_view_test_api.h"
 #include "ash/public/cpp/login_screen_test_api.h"
 #include "ash/shell.h"

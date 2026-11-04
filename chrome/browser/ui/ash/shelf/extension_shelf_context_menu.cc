@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Extension shelf context menu implementation
+// summary: Implements the shelf context menu for extension apps, building items for pinning, closing, new windows and extension-provided launcher actions.
+// ---
+
 #include "chrome/browser/ui/ash/shelf/extension_shelf_context_menu.h"
 
 #include <utility>

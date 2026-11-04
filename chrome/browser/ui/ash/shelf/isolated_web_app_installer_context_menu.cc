@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Isolated web app installer context menu implementation
+// summary: Implements a minimal shelf context menu for isolated web app installer windows that only supports the close command.
+// ---
+
 #include "chrome/browser/ui/ash/shelf/isolated_web_app_installer_context_menu.h"
 
 #include "ash/public/cpp/app_menu_constants.h"

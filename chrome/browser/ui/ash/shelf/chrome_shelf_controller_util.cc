@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome shelf controller utilities
+// summary: Implements helpers for resolving extensions by app id, determining pinning policy, and supporting shelf app visibility and pinning.
+// ---
+
 #include "chrome/browser/ui/ash/shelf/chrome_shelf_controller_util.h"
 
 #include <algorithm>

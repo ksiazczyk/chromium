@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: App Service shelf DEPS include rules
+summary: Defines allowed include dependencies for the shelf app_service directory, restricting //chrome imports and granting test-only exceptions.

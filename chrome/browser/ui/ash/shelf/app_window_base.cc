@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App window base implementation
+// summary: Implements the base window wrapper that connects Chrome OS app windows to their shelf item controller.
+// ---
+
 #include "chrome/browser/ui/ash/shelf/app_window_base.h"
 
 #include "chrome/browser/ui/ash/shelf/app_window_shelf_item_controller.h"

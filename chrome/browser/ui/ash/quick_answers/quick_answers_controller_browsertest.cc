@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Answers controller browser tests
+// summary: Browser tests verifying the controller keeps Quick Answers hidden for ineligible users, password fields and empty text selections.
+// ---
+
 #include "chromeos/components/quick_answers/public/cpp/controller/quick_answers_controller.h"
 
 #include "chrome/browser/ui/ash/quick_answers/quick_answers_browsertest_base.h"

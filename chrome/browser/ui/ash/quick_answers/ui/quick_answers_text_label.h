@@ -1,6 +1,13 @@
 // Copyright 2023 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Quick Answers text label class declaration
+// summary: Declares QuickAnswersTextLabel, a views::Label subclass with a CreateLabelWithStyle helper for styled single- or multi-line labels.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_QUICK_ANSWERS_UI_QUICK_ANSWERS_TEXT_LABEL_H_
 #define CHROME_BROWSER_UI_ASH_QUICK_ANSWERS_UI_QUICK_ANSWERS_TEXT_LABEL_H_
 

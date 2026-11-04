@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pending screencast manager browser tests
+// summary: Browser tests verifying pending screencast tracking, related histograms, and pending status change notifications.
+// ---
+
 #include "chrome/browser/ui/ash/projector/pending_screencast_manager.h"
 
 #include <memory>

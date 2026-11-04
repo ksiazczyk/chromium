@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Session utility functions
+// summary: Utilities that resolve browser contexts for windows in multi-user sessions and build masked, superimposed avatar images for users.
+// ---
+
 #include "chrome/browser/ui/ash/session/session_util.h"
 
 #include "ash/multi_user/multi_user_window_manager.h"

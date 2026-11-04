@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Answers retry view header
+// summary: Declares the RetryView class, a flex layout view with a retry button callback and first-line text accessors for the Quick Answers UI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_QUICK_ANSWERS_UI_RETRY_VIEW_H_
 #define CHROME_BROWSER_UI_ASH_QUICK_ANSWERS_UI_RETRY_VIEW_H_
 

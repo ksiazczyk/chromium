@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-user utility functions
+// summary: Implements helpers that map between profiles, account IDs, email addresses and windows, and move windows to the active user's desktop.
+// ---
+
 #include "chrome/browser/ui/ash/multi_user/multi_user_util.h"
 
 #include "ash/multi_user/multi_user_window_manager.h"

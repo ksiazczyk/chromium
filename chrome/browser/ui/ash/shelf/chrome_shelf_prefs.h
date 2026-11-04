@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome shelf prefs header
+// summary: Declares ChromeShelfPrefs, which bridges the app list sync service and Ash shelf preferences for pinned apps and pin positions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_SHELF_CHROME_SHELF_PREFS_H_
 #define CHROME_BROWSER_UI_ASH_SHELF_CHROME_SHELF_PREFS_H_
 

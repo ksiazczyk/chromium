@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcAppWindowInfo implementation
+// summary: Implements ArcAppWindowInfo, which tracks ARC app window metadata such as logical window IDs, title, icon, and shelf visibility properties.
+// ---
+
 #include "chrome/browser/ui/ash/shelf/arc_app_window_info.h"
 
 #include "ash/public/cpp/window_properties.h"

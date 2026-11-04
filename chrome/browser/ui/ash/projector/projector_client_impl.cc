@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Projector client implementation
+// summary: Implements the browser-side ProjectorClient, covering speech recognition availability and fallback, DriveFS state, and app launch and window control.
+// ---
+
 #include "chrome/browser/ui/ash/projector/projector_client_impl.h"
 
 #include <optional>

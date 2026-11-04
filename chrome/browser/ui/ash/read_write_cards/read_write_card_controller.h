@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadWriteCardController interface
+// summary: Declares an abstract controller interface managing creation and dismissal of Quick Answers and Editor Menu views in response to context menu events.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_READ_WRITE_CARDS_READ_WRITE_CARD_CONTROLLER_H_
 #define CHROME_BROWSER_UI_ASH_READ_WRITE_CARDS_READ_WRITE_CARD_CONTROLLER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Isolated web app installer shelf item controller unit test
+// summary: Unit tests covering item activation, context menu contents and the close command for the installer shelf item controller.
+// ---
+
 #include "chrome/browser/ui/ash/shelf/isolated_web_app_installer_shelf_item_controller.h"
 
 #include <memory>

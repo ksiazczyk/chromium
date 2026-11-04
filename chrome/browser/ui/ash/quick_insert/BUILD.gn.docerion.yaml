@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Quick Insert BUILD.gn build targets
+summary: GN build file defining the quick_insert static library plus unit and browser test source sets with their dependencies.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for mobile data notifications
+// summary: Verifies that the mobile data warning notification appears under the expected cellular, user, and session conditions.
+// ---
+
 #include "chrome/browser/ui/ash/network/mobile_data_notifications.h"
 
 #include <gtest/gtest.h>

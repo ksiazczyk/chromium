@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharesheet target button class declaration
+// summary: Declares the SharesheetTargetButton owned by the sharesheet bubble view, representing one target with icon, display names, and disabled state.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_SHARESHEET_SHARESHEET_TARGET_BUTTON_H_
 #define CHROME_BROWSER_UI_ASH_SHARESHEET_SHARESHEET_TARGET_BUTTON_H_
 

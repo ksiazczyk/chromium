@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppShortcutShelfItemController class header
+// summary: Declares the shelf item delegate for app shortcuts, covering selection, menus, context menus, and refocus URL handling.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_SHELF_APP_SHORTCUT_SHELF_ITEM_CONTROLLER_H_
 #define CHROME_BROWSER_UI_ASH_SHELF_APP_SHORTCUT_SHELF_ITEM_CONTROLLER_H_
 

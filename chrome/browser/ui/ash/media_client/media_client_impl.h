@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaClientImpl class declaration
+// summary: Declares the MediaClientImpl singleton that bridges Chrome and ash for media control, capture state, camera privacy switches, and custom media key handling.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_MEDIA_CLIENT_MEDIA_CLIENT_IMPL_H_
 #define CHROME_BROWSER_UI_ASH_MEDIA_CLIENT_MEDIA_CLIENT_IMPL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Answers Ash state class header
+// summary: Declares QuickAnswersStateAsh, a class holding Quick Answers preferences and states that observes Ash session and shell events.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_QUICK_ANSWERS_QUICK_ANSWERS_STATE_ASH_H_
 #define CHROME_BROWSER_UI_ASH_QUICK_ANSWERS_QUICK_ANSWERS_STATE_ASH_H_
 

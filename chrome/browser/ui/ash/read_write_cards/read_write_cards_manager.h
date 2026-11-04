@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadWriteCardsManager interface
+// summary: Declares the abstract manager for Quick Answers, Editor Menu, and Mahi Menu controllers with methods to fetch controllers and set context menu bounds.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_READ_WRITE_CARDS_READ_WRITE_CARDS_MANAGER_H_
 #define CHROME_BROWSER_UI_ASH_READ_WRITE_CARDS_READ_WRITE_CARDS_MANAGER_H_
 

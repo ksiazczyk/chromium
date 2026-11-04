@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome shelf metrics provider header
+// summary: Declares ChromeShelfMetricsProvider, which records shelf metrics such as which default apps are pinned to the shelf.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_SHELF_CHROME_SHELF_METRICS_PROVIDER_H_
 #define CHROME_BROWSER_UI_ASH_SHELF_CHROME_SHELF_METRICS_PROVIDER_H_
 

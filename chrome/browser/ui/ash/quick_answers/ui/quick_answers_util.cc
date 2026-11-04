@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Answers UI utilities implementation
+// summary: Implements Quick Answers UI helpers such as typography font lists, result type icons, layout container factories and the TTS utterance event delegate.
+// ---
+
 #include "chrome/browser/ui/ash/quick_answers/ui/quick_answers_util.h"
 
 #include "base/i18n/legacy_language_tag_helpers.h"

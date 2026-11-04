@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickInsertThumbnailLoader class header
+// summary: Declares the QuickInsertThumbnailLoader class that loads image thumbnails for a given file path and size, reporting the bitmap or a file error via callback.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_QUICK_INSERT_QUICK_INSERT_THUMBNAIL_LOADER_H_
 #define CHROME_BROWSER_UI_ASH_QUICK_INSERT_QUICK_INSERT_THUMBNAIL_LOADER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Projector app client implementation
+// summary: Implements the Projector App client interface, registering profile prefs and handling SODA installation, feedback, reauth, and video retrieval.
+// ---
+
 #include "chrome/browser/ui/ash/projector/projector_app_client_impl.h"
 
 #include <optional>

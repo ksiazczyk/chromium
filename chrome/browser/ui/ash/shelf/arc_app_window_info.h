@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcAppWindowInfo class declaration
+// summary: Declares ArcAppWindowInfo, a window observer that keeps ARC app window details like shelf ID, intent, title, and icon even when the AppWindow is absent.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_SHELF_ARC_APP_WINDOW_INFO_H_
 #define CHROME_BROWSER_UI_ASH_SHELF_ARC_APP_WINDOW_INFO_H_
 

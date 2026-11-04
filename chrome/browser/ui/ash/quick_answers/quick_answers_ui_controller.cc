@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Answers UI controller implementation
+// summary: Implements QuickAnswersUiController, which creates, shows, and closes Quick Answers and user consent views and handles their interactions.
+// ---
+
 #include "chrome/browser/ui/ash/quick_answers/quick_answers_ui_controller.h"
 
 #include <optional>

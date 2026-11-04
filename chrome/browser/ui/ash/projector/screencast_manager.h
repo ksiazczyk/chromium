@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screencast manager header
+// summary: Declares the ScreencastManager class that gets and modifies screencast data through IO and DriveFS for the Projector app.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_PROJECTOR_SCREENCAST_MANAGER_H_
 #define CHROME_BROWSER_UI_ASH_PROJECTOR_SCREENCAST_MANAGER_H_
 

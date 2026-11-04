@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App Service Crostini app window tracker header
+// summary: Declares AppServiceAppWindowCrostiniTracker, which manages Crostini shelf app ids, display launches, and restarts.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_SHELF_APP_SERVICE_APP_SERVICE_APP_WINDOW_CROSTINI_TRACKER_H_
 #define CHROME_BROWSER_UI_ASH_SHELF_APP_SERVICE_APP_SERVICE_APP_WINDOW_CROSTINI_TRACKER_H_
 

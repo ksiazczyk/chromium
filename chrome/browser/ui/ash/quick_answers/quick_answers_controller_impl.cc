@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Answers controller implementation
+// summary: Implements the Quick Answers controller that fetches results via the client, manages UI visibility and consent handling, and records usage metrics.
+// ---
+
 #include "chrome/browser/ui/ash/quick_answers/quick_answers_controller_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Projector utility functions implementation
+// summary: Implements Projector utilities that check profile eligibility and policy, identify screencast media and metadata files, and send files to the Projector app.
+// ---
+
 #include "chrome/browser/ui/ash/projector/projector_utils.h"
 
 #include "ash/constants/ash_features.h"

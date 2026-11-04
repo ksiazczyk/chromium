@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcShelfSpinnerItemController implementation
+// summary: Implements the shelf spinner item for ARC apps that cannot launch immediately, launching the app once ARC is ready and closing the item when suspended.
+// ---
+
 #include "chrome/browser/ui/ash/shelf/arc_shelf_spinner_item_controller.h"
 
 #include "base/strings/string_number_conversions.h"

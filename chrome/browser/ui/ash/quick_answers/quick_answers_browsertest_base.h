@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Answers browser test base header
+// summary: Declares the parameterized browser test base with Magic Boost on and off variants and context menu helper methods.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_QUICK_ANSWERS_QUICK_ANSWERS_BROWSERTEST_BASE_H_
 #define CHROME_BROWSER_UI_ASH_QUICK_ANSWERS_QUICK_ANSWERS_BROWSERTEST_BASE_H_
 

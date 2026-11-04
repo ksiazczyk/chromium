@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Answers text label implementation
+// summary: Implements QuickAnswersTextLabel, a label view that renders Quick Answers text with a set color and a styled label factory helper.
+// ---
+
 #include "chrome/browser/ui/ash/quick_answers/ui/quick_answers_text_label.h"
 
 #include "chromeos/components/quick_answers/quick_answers_model.h"

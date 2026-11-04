@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadWriteCardsUiController implementation
+// summary: Implements the controller that manages the widget hosting quick answers and Mahi cards, positioning it above or below the context menu and handling layout.
+// ---
+
 #include "chrome/browser/ui/ash/read_write_cards/read_write_cards_ui_controller.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: config
+# title: ShelfIntegrationTest harness configuration
+# summary: YAML test metadata for the ShelfIntegrationTest crosier harness, defining owners, hardware-agnostic settings, criteria, and test case tags.
+# ---
+
 # Schema can be found at: platform/dev/test/gtest/gtest_schema.yaml
 ---
 name: "ShelfIntegrationTest"

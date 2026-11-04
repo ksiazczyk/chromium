@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Answers view unit tests
+// summary: Unit tests for QuickAnswersView covering result display, intents, phonetics, retry and settings behavior with mock controllers and clients.
+// ---
+
 #include "chrome/browser/ui/ash/quick_answers/ui/quick_answers_view.h"
 
 #include <memory>

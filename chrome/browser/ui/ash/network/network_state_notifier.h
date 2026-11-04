@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network state notifier header
+// summary: Declares NetworkStateNotifier, which observes network state and connection events to show connect error, out-of-credits, activation, and VPN notifications.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_NETWORK_NETWORK_STATE_NOTIFIER_H_
 #define CHROME_BROWSER_UI_ASH_NETWORK_NETWORK_STATE_NOTIFIER_H_
 

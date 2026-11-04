@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Sharesheet BUILD.gn build targets
+summary: Defines the sharesheet static library plus its unit and browser test targets, listing sources and build dependencies.

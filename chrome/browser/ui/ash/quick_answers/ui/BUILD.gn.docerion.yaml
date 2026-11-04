@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Quick Answers UI BUILD.gn
+summary: GN build file defining the Quick Answers UI source set plus its unit test and browser test targets with their dependencies.

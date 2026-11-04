@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Exo app type resolver implementation
+// summary: Implements ExoAppTypeResolver, which populates window properties such as app type and restore ids for ARC and Borealis exo windows.
+// ---
+
 #include "chrome/browser/ui/ash/shelf/app_service/exo_app_type_resolver.h"
 
 #include <optional>

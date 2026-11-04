@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Quick Answers owners reference
+summary: Delegates code ownership review for this directory to the chromeos quick_answers component OWNERS file.

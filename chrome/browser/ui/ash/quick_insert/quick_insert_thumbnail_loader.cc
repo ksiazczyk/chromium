@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: QuickInsertThumbnailLoader implementation
+// summary: Implements thumbnail loading for quick insert, preferring DriveFS thumbnails for Drive files and falling back to the thumbnail loader extension, then decoding the result.
+// ---
+
 #include "chrome/browser/ui/ash/quick_insert/quick_insert_thumbnail_loader.h"
 
 #include <optional>

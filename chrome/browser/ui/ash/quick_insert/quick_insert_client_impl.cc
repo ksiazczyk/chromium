@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert client implementation
+// summary: Implements the Chrome-side QuickInsertClient that supplies search results, recent files, editor and Lobster context, and announcements to Ash.
+// ---
+
 #include "chrome/browser/ui/ash/quick_insert/quick_insert_client_impl.h"
 
 #include <algorithm>

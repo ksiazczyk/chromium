@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome shelf item factory
+// summary: Creates shelf items and item delegates for apps, returning a Play Store shortcut controller for the Play Store app id.
+// ---
+
 #include "chrome/browser/ui/ash/shelf/chrome_shelf_item_factory.h"
 
 #include "ash/public/cpp/shelf_item.h"

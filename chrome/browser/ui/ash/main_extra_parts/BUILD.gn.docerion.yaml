@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for main_extra_parts
+summary: Defines the main_extra_parts static library target with its sources and dependencies on Ash and Chrome browser components for ChromeOS.

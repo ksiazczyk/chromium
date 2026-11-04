@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screencast manager implementation
+// summary: Implements ScreencastManager, parsing video metadata off the UI thread and launching DriveFS screencast videos into the Projector app.
+// ---
+
 #include "chrome/browser/ui/ash/projector/screencast_manager.h"
 
 #include <memory>

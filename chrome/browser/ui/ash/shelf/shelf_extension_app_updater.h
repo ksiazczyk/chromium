@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ShelfExtensionAppUpdater class declaration
+// summary: Declares ShelfExtensionAppUpdater, which observes extension registry and ARC package events to keep shelf items up to date, optionally for extensions only.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_SHELF_SHELF_EXTENSION_APP_UPDATER_H_
 #define CHROME_BROWSER_UI_ASH_SHELF_SHELF_EXTENSION_APP_UPDATER_H_
 

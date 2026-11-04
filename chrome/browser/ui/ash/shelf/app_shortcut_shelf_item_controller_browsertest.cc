@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App shortcut shelf item controller browser tests
+// summary: Browser tests for left-click app menu interaction of app shortcut shelf items, using the terminal system web app.
+// ---
+
 #include "chrome/browser/ui/ash/shelf/app_shortcut_shelf_item_controller.h"
 
 #include "ash/public/cpp/shelf_model.h"

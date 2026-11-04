@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome shelf controller test utilities
+// summary: Implements test helpers that select shelf items with synthetic mouse or key events and set refocus URLs for shelf tests.
+// ---
+
 #include "chrome/browser/ui/ash/shelf/chrome_shelf_controller_test_util.h"
 
 #include <memory>

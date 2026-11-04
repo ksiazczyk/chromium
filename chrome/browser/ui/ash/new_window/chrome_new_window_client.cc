@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome new window client implementation
+// summary: Implements the ash NewWindowDelegate that opens tabs, windows, URLs, files, system web apps, and camera app actions on behalf of ash and ARC.
+// ---
+
 #include "chrome/browser/ui/ash/new_window/chrome_new_window_client.h"
 
 #include <string>

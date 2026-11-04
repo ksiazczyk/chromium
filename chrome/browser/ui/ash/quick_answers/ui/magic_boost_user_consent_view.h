@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Magic Boost user consent view declaration
+// summary: Declares the MagicBoostUserConsentView ReadWriteCardsView subclass with button callbacks, focus search, and test accessors.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_QUICK_ANSWERS_UI_MAGIC_BOOST_USER_CONSENT_VIEW_H_
 #define CHROME_BROWSER_UI_ASH_QUICK_ANSWERS_UI_MAGIC_BOOST_USER_CONSENT_VIEW_H_
 

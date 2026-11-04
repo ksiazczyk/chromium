@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shelf context menu unit tests
+// summary: Unit tests covering shelf context menu behavior across extensions, ARC apps, and Crostini apps with test profiles and fake services.
+// ---
+
 #include "chrome/browser/ui/ash/shelf/shelf_context_menu.h"
 
 #include <memory>

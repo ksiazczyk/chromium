@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Answers main bubble view declaration
+// summary: Declares QuickAnswersView, a ReadWriteCardsView bubble that shows Quick Answers results with loading, retry and result subviews and test accessors.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_QUICK_ANSWERS_UI_QUICK_ANSWERS_VIEW_H_
 #define CHROME_BROWSER_UI_ASH_QUICK_ANSWERS_UI_QUICK_ANSWERS_VIEW_H_
 

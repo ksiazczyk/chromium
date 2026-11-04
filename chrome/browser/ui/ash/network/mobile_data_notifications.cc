@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Mobile data usage warning notification implementation
+// summary: Implements the one-time per-user notification shown when cellular is the default network for an unlocked session.
+// ---
+
 #include "chrome/browser/ui/ash/network/mobile_data_notifications.h"
 
 #include <string>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for security token restriction
+summary: Defines the static_library build target for the security token restriction UI, listing its sources and dependencies.

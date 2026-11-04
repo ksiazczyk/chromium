@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome shelf controller header
+// summary: Declares ChromeShelfController, the class that manages Ash's shelf for Chrome prefs and apps and synchronizes shelf state with app content.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_SHELF_CHROME_SHELF_CONTROLLER_H_
 #define CHROME_BROWSER_UI_ASH_SHELF_CHROME_SHELF_CONTROLLER_H_
 

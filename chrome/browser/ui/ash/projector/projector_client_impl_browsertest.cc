@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Projector client implementation browser tests
+// summary: Browser tests for ProjectorClientImpl verifying DriveFS mount status notifications, screencast preconditions, and Projector app launch behavior.
+// ---
+
 #include "chrome/browser/ui/ash/projector/projector_client_impl.h"
 
 #include <memory>

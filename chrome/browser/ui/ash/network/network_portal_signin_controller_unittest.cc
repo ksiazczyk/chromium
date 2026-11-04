@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Captive portal signin controller unit tests
+// summary: Unit tests using a test controller subclass to verify signin dialog, window, and tab behavior across proxy, incognito, and policy configurations.
+// ---
+
 #include "chrome/browser/ui/ash/network/network_portal_signin_controller.h"
 
 #include <memory>

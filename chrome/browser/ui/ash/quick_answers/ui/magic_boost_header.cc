@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Magic Boost header implementation
+// summary: Builds the Magic Boost header row combining a title label with an experiment badge for the consent view.
+// ---
+
 #include "chrome/browser/ui/ash/quick_answers/ui/magic_boost_header.h"
 
 #include "ash/style/typography.h"

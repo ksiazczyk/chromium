@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ArcAppWindowDelegate header
+// summary: Declares the ArcAppWindowDelegate interface, which supplies the active ARC task id and session id to ArcAppWindow.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_SHELF_ARC_APP_WINDOW_DELEGATE_H_
 #define CHROME_BROWSER_UI_ASH_SHELF_ARC_APP_WINDOW_DELEGATE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeBrowserMainExtraPartsAsh implementation
+// summary: Implements Ash-specific browser initialization, wiring up ChromeOS UI services, controllers, and clients during browser startup and shutdown.
+// ---
+
 #include "chrome/browser/ui/ash/main_extra_parts/chrome_browser_main_extra_parts_ash.h"
 
 #include <memory>

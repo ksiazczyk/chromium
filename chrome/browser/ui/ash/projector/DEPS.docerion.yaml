@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Projector directory include rules (DEPS)
+summary: Lists the //chrome includes allowed for this directory, with extra include rules for browser and unit test files.

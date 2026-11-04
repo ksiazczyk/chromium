@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Answers browser test base implementation
+// summary: Implements helpers that navigate to a generated test page and right-click selected text to open the context menu for Quick Answers tests.
+// ---
+
 #include "chrome/browser/ui/ash/quick_answers/quick_answers_browsertest_base.h"
 
 #include "base/command_line.h"

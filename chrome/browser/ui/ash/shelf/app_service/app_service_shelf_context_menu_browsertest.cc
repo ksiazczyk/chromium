@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App Service shelf context menu browser test
+// summary: Browser tests covering shelf context menu behavior for App Service apps, including guest OS, Crostini, Bruschetta and web app menu items.
+// ---
+
 #include "ash/constants/ash_features.h"
 #include "ash/public/cpp/app_menu_constants.h"
 #include "ash/public/cpp/shelf_item_delegate.h"

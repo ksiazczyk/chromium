@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini app window implementation
+// summary: Implements CrostiniAppWindow, which loads app and window icons for Crostini windows controlled by the ChromeOS launcher and shelf.
+// ---
+
 #include "chrome/browser/ui/ash/shelf/crostini_app_window.h"
 
 #include "base/memory/raw_ptr.h"

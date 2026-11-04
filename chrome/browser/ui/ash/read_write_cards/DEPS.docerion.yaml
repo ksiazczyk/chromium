@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for read write cards
+summary: Specifies allowed include rules for the directory, permitting magic boost, quick answers, editor menu, and mahi dependencies plus test-specific includes.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Answers main view implementation
+// summary: Implements QuickAnswersView, the bubble view hosting loading, result and retry subviews and handling focus, intents, settings and TTS.
+// ---
+
 #include "chrome/browser/ui/ash/quick_answers/ui/quick_answers_view.h"
 
 #include <string>

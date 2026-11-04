@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrowserShortcutShelfItemController class declaration
+// summary: Declares the shelf item delegate for the browser shortcut that shows an application menu listing open browser windows and tabs.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_SHELF_BROWSER_SHORTCUT_SHELF_ITEM_CONTROLLER_H_
 #define CHROME_BROWSER_UI_ASH_SHELF_BROWSER_SHORTCUT_SHELF_ITEM_CONTROLLER_H_
 

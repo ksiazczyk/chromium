@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Quick Answers browser tests
+// summary: Browser tests covering Quick Answers UI visibility, consent flows, notification overlap and accessibility behavior with Magic Boost variants.
+// ---
+
 #include <string>
 
 #include "ash/constants/ash_pref_names.h"

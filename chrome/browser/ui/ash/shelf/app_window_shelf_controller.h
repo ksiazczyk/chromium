@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AppWindowShelfController header
+// summary: Declares AppWindowShelfController, a base class linking app window shelf items to the Chrome shelf controller and observing window activation and shelf model changes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_SHELF_APP_WINDOW_SHELF_CONTROLLER_H_
 #define CHROME_BROWSER_UI_ASH_SHELF_APP_WINDOW_SHELF_CONTROLLER_H_
 

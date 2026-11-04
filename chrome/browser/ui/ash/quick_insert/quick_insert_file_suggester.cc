@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Insert file suggester implementation
+// summary: Gathers recent local and Drive files with metadata to provide file suggestions for Quick Insert.
+// ---
+
 #include "chrome/browser/ui/ash/quick_insert/quick_insert_file_suggester.h"
 
 #include <optional>

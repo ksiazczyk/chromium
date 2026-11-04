@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ReadWriteCardsView class declaration
+// summary: Declares the base view class for read write cards, with hooks for minimum width and bounds updates relative to the context menu.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_READ_WRITE_CARDS_READ_WRITE_CARDS_VIEW_H_
 #define CHROME_BROWSER_UI_ASH_READ_WRITE_CARDS_READ_WRITE_CARDS_VIEW_H_
 

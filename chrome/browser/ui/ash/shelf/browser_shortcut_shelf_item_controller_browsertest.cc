@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser shortcut shelf item controller browser tests
+// summary: Browser tests verifying the browser shortcut shelf item's application menu across various browser window and tab states.
+// ---
+
 #include "chrome/browser/ui/ash/shelf/browser_shortcut_shelf_item_controller.h"
 
 #include "ash/public/cpp/shelf_model.h"

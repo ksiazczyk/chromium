@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network state notifier implementation
+// summary: Implements user notifications for network connect errors, cellular out-of-credits, mobile activation errors, carrier unlock, and unexpected VPN disconnections.
+// ---
+
 #include "chrome/browser/ui/ash/network/network_state_notifier.h"
 
 #include <string>

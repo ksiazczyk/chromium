@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App shortcut shelf item controller implementation
+// summary: Implements shelf behavior for app shortcuts, including launching, window activation, app menus, and click suppression.
+// ---
+
 #include "chrome/browser/ui/ash/shelf/app_shortcut_shelf_item_controller.h"
 
 #include <stddef.h>

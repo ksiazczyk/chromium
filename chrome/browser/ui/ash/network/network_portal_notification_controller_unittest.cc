@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Captive portal notification controller unit tests
+// summary: Unit tests verifying that the captive portal notification is shown and closed as portal state changes between online, portal, and portal-suspected states.
+// ---
+
 #include "chrome/browser/ui/ash/network/network_portal_notification_controller.h"
 
 #include "base/check_deref.h"

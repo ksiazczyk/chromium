@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome OS multi-user context menu implementation
+// summary: Implements the context menu for visiting another logged-in user's desktop, including teleport warning handling and window transfer.
+// ---
+
 #include "chrome/browser/ui/ash/multi_user/multi_user_context_menu.h"
 
 #include "ash/multi_user/multi_user_window_manager.h"

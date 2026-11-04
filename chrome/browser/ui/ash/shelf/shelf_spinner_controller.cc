@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shelf spinner controller implementation
+// summary: Implements the controller that draws and animates spinner overlays on shelf icons for apps waiting on ARC or Crostini, including fade in and fade out timing.
+// ---
+
 #include "chrome/browser/ui/ash/shelf/shelf_spinner_controller.h"
 
 #include <algorithm>

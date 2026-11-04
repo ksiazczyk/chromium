@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Sharesheet DEPS include rules
+summary: Sets include rules for the directory, blocking //chrome dependencies by default and whitelisting those the sharesheet code and tests may use.

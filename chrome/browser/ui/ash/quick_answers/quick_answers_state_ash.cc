@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Quick Answers Ash state implementation
+// summary: Implements QuickAnswersStateAsh, which tracks Quick Answers preferences, consent, locale, and session state for the primary Ash user session.
+// ---
+
 #include "chrome/browser/ui/ash/quick_answers/quick_answers_state_ash.h"
 
 #include "ash/constants/ash_pref_names.h"

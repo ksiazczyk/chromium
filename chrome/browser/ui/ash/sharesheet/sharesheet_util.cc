@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharesheet label utility functions
+// summary: Implements CreateShareLabel helpers that build styled views Label instances with typography, color, and alignment for sharesheet views.
+// ---
+
 #include "chrome/browser/ui/ash/sharesheet/sharesheet_util.h"
 
 #include <string>

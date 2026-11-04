@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tether notification presenter class declaration
+// summary: Declares TetherNotificationPresenter, which creates tether network notifications and alerts observers about interactions with them.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_NETWORK_TETHER_NOTIFICATION_PRESENTER_H_
 #define CHROME_BROWSER_UI_ASH_NETWORK_TETHER_NOTIFICATION_PRESENTER_H_
 

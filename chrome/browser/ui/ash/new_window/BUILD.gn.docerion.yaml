@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for the new_window component
+summary: Defines the GN targets for the new_window static library and its browser tests, listing sources and dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Session directory include rules
+summary: DEPS file blocking //chrome dependencies for ChromeOS, with an allowlist of existing dependencies and extra rules for test files.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Isolated web app installer shelf item controller implementation
+// summary: Implements the shelf item delegate for isolated web app installer windows, handling activation, default icon, title and closing.
+// ---
+
 #include "chrome/browser/ui/ash/shelf/isolated_web_app_installer_shelf_item_controller.h"
 
 #include "ash/public/cpp/resources/grit/ash_public_unscaled_resources.h"

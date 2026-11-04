@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App Service shelf context menu implementation
+// summary: Implements the shelf context menu for App Service apps, including extension shortcuts, ARC, Crostini, Bruschetta and launch type menu commands.
+// ---
+
 #include "chrome/browser/ui/ash/shelf/app_service/app_service_shelf_context_menu.h"
 
 #include "ash/public/cpp/app_menu_constants.h"

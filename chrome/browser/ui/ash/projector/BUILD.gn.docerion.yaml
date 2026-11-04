@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Projector BUILD.gn build configuration
+summary: Defines the projector static library plus unit test and browser test source sets and their many dependencies.

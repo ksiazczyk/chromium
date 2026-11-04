@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Projector directory OWNERS
+summary: Delegates ownership of this directory to the OWNERS file in ash/projector.

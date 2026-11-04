@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Shelf directory metadata
+summary: Maps the shelf directory to the UI>Shell>Shelf monorail component and a public Buganizer component ID.

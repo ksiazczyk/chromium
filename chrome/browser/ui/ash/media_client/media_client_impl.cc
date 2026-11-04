@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaClientImpl implementation
+// summary: Implements the ash media client, handling media key actions, capture state reporting, media session suspension, and camera privacy switch notifications and toasts.
+// ---
+
 #include "chrome/browser/ui/ash/media_client/media_client_impl.h"
 
 #include <utility>

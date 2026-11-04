@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App Service instance registry helper header
+// summary: Declares AppServiceInstanceRegistryHelper, which notifies the App Service Instance Registry about tab, window, shelf id and browser state changes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ASH_SHELF_APP_SERVICE_APP_SERVICE_INSTANCE_REGISTRY_HELPER_H_
 #define CHROME_BROWSER_UI_ASH_SHELF_APP_SERVICE_APP_SERVICE_INSTANCE_REGISTRY_HELPER_H_
 
