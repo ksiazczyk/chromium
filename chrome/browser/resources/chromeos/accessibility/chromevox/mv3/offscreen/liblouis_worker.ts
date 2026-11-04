@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LibLouis worker bridge
+// summary: Singleton that starts the liblouis Web Worker and relays braille translation RPC messages and errors to the background bridge.
+// ---
+
 import {BridgeHelper} from '/common/bridge_helper.js';
 
 import {BackgroundBridge} from '../common/background_bridge.js';

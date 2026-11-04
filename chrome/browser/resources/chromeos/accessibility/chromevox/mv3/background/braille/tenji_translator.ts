@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tenji Japanese braille translator
+// summary: Implements a Japanese braille translator that installs the Tenji library, starts it in an offscreen worker, and queues translate and back-translate requests.
+// ---
+
 // Imported so sandboxed_tenji_wrapper.js executes in the background bundle,
 // making its TestImportManager exports available to
 // sandboxed_tenji_wrapper_test.js.

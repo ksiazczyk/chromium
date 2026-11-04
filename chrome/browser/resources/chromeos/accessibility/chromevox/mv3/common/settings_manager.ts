@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Settings manager for ChromeVox prefs
+// summary: Manages ChromeVox settings prefs, translating key names and migrating values from chrome.storage.local into the Chrome settings prefs system.
+// ---
+
 /**
  * @fileoverview Class to manage Chrome settings prefs for ChromeVox. Wraps
  * around Settings for the underlying gets and sets. Acts as a translation layer

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Composite TTS engine wrapper
+// summary: Lets ChromeVox drive multiple TTS engines at once by forwarding speech, stop and property operations to each registered engine.
+// ---
+
 /**
  * @fileoverview A composite TTS allows ChromeVox to use multiple TTS engines at
  * the same time.

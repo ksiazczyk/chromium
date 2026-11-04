@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeVox output services
+// summary: Formats a CursorRange into speech and braille representations using format rules that convert automation nodes into annotated strings.
+// ---
+
 /**
  * @fileoverview Provides output services for ChromeVox.
  */

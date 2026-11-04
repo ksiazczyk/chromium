@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeVox menu manager
+// summary: Manages the ChromeVox panel menus, including menu activation, node menus, the search menu, and Japanese IME conversion candidate menus.
+// ---
+
 /**
  * @fileoverview Class to manage the ChromeVox menus.
  */

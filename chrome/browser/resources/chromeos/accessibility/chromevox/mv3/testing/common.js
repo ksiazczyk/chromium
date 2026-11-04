@@ -4,6 +4,12 @@
 
 // Common testing utilities.
 
+// ---docerion
+// type: test
+// title: Common ChromeVox testing utilities
+// summary: Shared testing utilities for ChromeVox, including mock key event creation and a helper that waits until ChromeVox speaks a given string.
+// ---
+
 class TestUtils {
   /**
    * Create a mock event object.

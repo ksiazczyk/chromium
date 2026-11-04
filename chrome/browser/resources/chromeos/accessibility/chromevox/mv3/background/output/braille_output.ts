@@ -8,6 +8,12 @@
  * BrailleOutput over a series of small changes.
  */
 
+// ---docerion
+// type: source
+// title: Braille output for ChromeVox
+// summary: Provides braille output for ChromeVox, currently a stub whose logic is being moved incrementally from the Output class, including selection span handling.
+// ---
+
 import type {CursorRange} from '/common/cursors/range.js';
 
 import {LogType} from '../../common/log_types.js';

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MenuManager with test endpoints
+// summary: MenuManager subclass that registers bridge handlers so tests can perform menu operations in the panel and report pass or fail results.
+// ---
+
 import {BridgeCallbackManager} from '/common/bridge_callback_manager.js';
 import {BridgeHelper} from '/common/bridge_helper.js';
 

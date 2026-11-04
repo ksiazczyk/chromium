@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Braille translator interface
+// summary: Defines the BrailleTranslator interface for translating text to braille cells and back, including optional IME composition input support for languages like Japanese.
+// ---
+
 import {CompositionCandidateProvider} from './composition_candidate_provider.js';
 
 export type TranslateCallback =

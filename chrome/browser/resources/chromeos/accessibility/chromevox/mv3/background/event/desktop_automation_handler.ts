@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop automation event handler
+// summary: Handles ChromeVox automation events from the desktop node, including alerts, value changes, text editing and pagination announcements.
+// ---
+
 /**
  * @fileoverview Handles automation from a desktop automation node.
  */

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PanStrategy unit tests
+// summary: Tests PanStrategy fixed and wrapped panning, covering viewport movement, multi-line displays, cursor positioning and viewport buffer contents.
+// ---
+
 GEN_INCLUDE(['../../testing/chromevox_e2e_test_base.js']);
 
 /**

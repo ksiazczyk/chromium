@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Auto scroll handler
+// summary: Handles scrolling triggered by navigation commands or events, mainly to support ARC++ Android scrollables during ChromeVox navigation.
+// ---
+
 /**
  * @fileoverview Handles auto scrolling on navigation.
  */

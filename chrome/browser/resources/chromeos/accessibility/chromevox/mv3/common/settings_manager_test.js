@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tests for the ChromeVox settings manager
+// summary: E2E test fixture verifying ChromeVox pref defaults and the migration of prefs from local storage to Chrome settings prefs.
+// ---
+
 // Include test fixture.
 GEN_INCLUDE(['../testing/chromevox_e2e_test_base.js']);
 

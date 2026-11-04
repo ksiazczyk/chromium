@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal key event class
+// summary: Service worker analog to KeyboardEvent that carries key event data such as key code and modifiers for ChromeVox processing.
+// ---
+
 /**
  * Service worker analog to KeyboardEvent for processing
  * KeyboardEvent data. Also matches EventLikeObject.

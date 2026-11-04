@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EditingRangeObserver for braille table switching
+// summary: Observes ChromeVox range changes and switches the braille translation table when the cursor is over email or URL text fields.
+// ---
+
 /**
  * @fileoverview Processes events related to editing text and emits the
  * appropriate spoken and braille feedback.

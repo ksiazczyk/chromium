@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Captions handler
+// summary: Manages the live caption bubble, moving ChromeVox focus into it when it appears and restoring focus when it closes.
+// ---
+
 /**
  * @fileoverview Manages opening and closing the live caption bubble, as well
  * as moving ChromeVox focus to the bubble when it appears and restoring focus

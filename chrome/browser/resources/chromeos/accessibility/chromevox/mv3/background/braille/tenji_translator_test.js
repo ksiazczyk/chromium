@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TenjiTranslator tests
+// summary: Tests TenjiTranslator translation and back-translation with stubbed bridge calls, including newline and out-of-braille-block character mapping to empty cells.
+// ---
+
 GEN_INCLUDE(['../../testing/chromevox_e2e_test_base.js']);
 
 /** Returns a braille string built from cell bitmask values. */

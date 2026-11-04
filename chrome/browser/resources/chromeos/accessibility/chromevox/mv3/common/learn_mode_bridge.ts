@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Learn mode communication bridge
+// summary: Provides an interface for other renderers to send key, gesture, and braille events to the ChromeVox learn mode page.
+// ---
+
 /**
  * @fileoverview Provides an interface for other renderers to communicate with
  * the ChromeVox learn mode page.

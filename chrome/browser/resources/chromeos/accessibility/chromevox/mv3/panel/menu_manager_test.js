@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MenuManager test fixture
+// summary: Test fixture that exercises MenuManager behaviors such as menu activation, adding menus, key bindings, and search bar queries via bridge endpoints.
+// ---
+
 // Include test fixture.
 GEN_INCLUDE(['panel_test_base.js']);
 

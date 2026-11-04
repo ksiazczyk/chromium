@@ -25,6 +25,12 @@
  * - Whether sticky mode was active.
  */
 
+// ---docerion
+// type: source
+// title: Key sequence representation for ChromeVox
+// summary: Defines the KeySequence class and key binding types representing sequences of keys entered by users or bound to ChromeVox commands.
+// ---
+
 import {KeyCode} from '/common/key_code.js';
 import {TestImportManager} from '/common/testing/test_import_manager.js';
 

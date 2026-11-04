@@ -7,6 +7,12 @@
  * auditory cues.
  */
 
+// ---docerion
+// type: source
+// title: Earcons playback library
+// summary: Plays ChromeVox earcon sounds through the offscreen bridge, with stereo panning based on active audio devices and toggle support.
+// ---
+
 import {EarconId} from '../common/earcon_id.js';
 import {LogType} from '../common/log_types.js';
 import {Msgs} from '../common/msgs.js';

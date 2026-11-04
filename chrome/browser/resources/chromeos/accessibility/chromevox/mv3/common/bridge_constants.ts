@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bridge constants and context enums
+// summary: Defines the renderer contexts of the ChromeVox extension and the target and action constants used by BridgeHelper messaging.
+// ---
+
 /**
  * @fileoverview Enums for BridgeHelper functions.
  */

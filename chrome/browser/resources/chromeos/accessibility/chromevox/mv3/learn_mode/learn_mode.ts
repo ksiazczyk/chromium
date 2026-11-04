@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeVox Learn Mode keyboard explorer logic
+// summary: TypeScript class managing the ChromeOS keyboard explorer, announcing names of pressed keys and handling gestures and braille key events.
+// ---
+
 /**
  * @fileoverview Script for ChromeOS keyboard explorer.
  *

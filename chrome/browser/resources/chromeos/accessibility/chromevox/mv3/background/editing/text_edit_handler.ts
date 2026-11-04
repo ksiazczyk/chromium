@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TextEditHandler for ChromeVox text field automation events
+// summary: Handles automation events for focused text fields and editable roots in ChromeVox, choosing between rich and non-rich editable text implementations to emit braille and spoken feedback.
+// ---
+
 import {AutomationPredicate} from '/common/automation_predicate.js';
 import {AutomationUtil} from '/common/automation_util.js';
 import {constants} from '/common/constants.js';

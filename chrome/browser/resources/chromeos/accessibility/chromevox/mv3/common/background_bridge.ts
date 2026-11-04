@@ -7,6 +7,12 @@
  * panel, etc.) to communicate with the background.
  */
 
+// ---docerion
+// type: source
+// title: Background bridge for ChromeVox extension contexts
+// summary: Interface that lets non-background contexts such as options and panel pages communicate with the ChromeVox background service worker.
+// ---
+
 import {BridgeHelper} from '/common/bridge_helper.js';
 import type {constants} from '/common/constants.js';
 

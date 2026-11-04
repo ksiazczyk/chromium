@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Spannable class for annotated strings
+// summary: Implements a string class with span annotations that can be added, removed, queried, concatenated and serialized.
+// ---
+
 /**
  * @fileoverview Class which allows construction of annotated strings.
  */

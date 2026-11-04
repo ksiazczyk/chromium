@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: ChromeVox log page styles
+summary: Styles the ChromeVox log page, defining the layout of the header, log filters, log list, and log type and time tags.
+*/
+
 body {
   display: flex;
   flex-direction: column;

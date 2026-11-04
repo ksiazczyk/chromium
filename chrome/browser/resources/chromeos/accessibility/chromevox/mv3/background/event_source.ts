@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: EventSource tracker for ChromeVox background
+// summary: Tracks the current ChromeVox event source type, defaulting to touch gestures, and serves it through a registered bridge handler.
+// ---
+
 /**
  * @fileoverview Tracks event sources.
  */

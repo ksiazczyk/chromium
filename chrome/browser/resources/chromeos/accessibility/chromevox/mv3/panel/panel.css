@@ -2,6 +2,12 @@
  * Use of this source code is governed by a BSD-style license that can be
  * found in the LICENSE file. */
 
+/*docerion
+type: source
+title: ChromeVox panel styles
+summary: Stylesheet defining the appearance and layout of the ChromeVox panel, including speech, braille, search, and menu elements.
+*/
+
 body {
   border: 0;
   height: 44px;

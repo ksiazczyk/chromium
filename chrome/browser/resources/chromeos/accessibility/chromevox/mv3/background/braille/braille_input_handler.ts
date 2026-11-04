@@ -8,6 +8,12 @@
  * that is built into Chrome OS to do the actual text editing.
  */
 
+// ---docerion
+// type: source
+// title: Braille input handler
+// summary: Handles braille keyboard input for typing and editing text in cooperation with the braille IME built into Chrome OS.
+// ---
+
 import {EventGenerator} from '/common/event_generator.js';
 import {StringUtil} from '/common/string_util.js';
 import {TestImportManager} from '/common/testing/test_import_manager.js';

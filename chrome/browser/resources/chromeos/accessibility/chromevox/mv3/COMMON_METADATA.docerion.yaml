@@ -1,0 +1,4 @@
+# Docerion header of COMMON_METADATA.
+type: config
+title: ChromeVox mv3 common metadata
+summary: Declares the ChromeVox accessibility monorail component, team email and Buganizer component IDs shared across this directory.

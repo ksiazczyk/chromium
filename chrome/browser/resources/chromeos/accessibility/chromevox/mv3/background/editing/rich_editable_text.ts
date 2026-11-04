@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: RichEditableText for richly editable text fields
+// summary: Extends AutomationEditableText to handle richly editable text using anchor and focus selections, tracking text style, spelling, and formatting state.
+// ---
+
 /**
  * @fileoverview Handle processing for richly editable text.
  */

@@ -3,6 +3,12 @@
 // found in the LICENSE file.
 
 
+// ---docerion
+// type: source
+// title: Translated message retrieval
+// summary: Defines the Msgs class for retrieving, substituting, and applying translated ChromeVox messages, including braille-specific strings.
+// ---
+
 /**
  * @fileoverview Defines methods related to retrieving translated messages.
  */

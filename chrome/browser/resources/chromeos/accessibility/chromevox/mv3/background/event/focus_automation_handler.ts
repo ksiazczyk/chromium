@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Focus automation handler
+// summary: Handles automation events on the currently focused node, announcing active descendant, details and selected value changes.
+// ---
+
 /**
  * @fileoverview Handles automation events on the currently focused node.
  */

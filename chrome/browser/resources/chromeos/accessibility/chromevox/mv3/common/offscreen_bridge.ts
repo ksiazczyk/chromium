@@ -7,6 +7,12 @@
  * document.
  */
 
+// ---docerion
+// type: source
+// title: Offscreen bridge for ChromeVox message passing
+// summary: Interface for sending messages from the ChromeVox background to the offscreen document, covering earcons, braille, clipboard, learn mode and translation workers.
+// ---
+
 import {BridgeHelper} from '/common/bridge_helper.js';
 import {TestImportManager} from '/common/testing/test_import_manager.js';
 

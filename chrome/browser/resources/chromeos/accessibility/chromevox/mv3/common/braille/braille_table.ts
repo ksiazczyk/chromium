@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Braille table information and lookup helpers
+// summary: Loads the list of available braille translation tables and supports lookup by id, finding uncontracted equivalents, and localized display names.
+// ---
+
 /**
  * @fileoverview Holds information about a braille table.
  */

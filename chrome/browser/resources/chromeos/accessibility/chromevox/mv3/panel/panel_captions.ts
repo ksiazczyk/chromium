@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Panel braille captions
+// summary: Handles processing and display of braille captions in the ChromeVox panel, including cell highlighting and cursor routing.
+// ---
+
 import {BackgroundBridge} from '../common/background_bridge.js';
 
 /**

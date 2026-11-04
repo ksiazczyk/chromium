@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sandboxed Tenji braille translation wrapper
+// summary: Wrapper that loads the Tenji WASM module in a sandbox and answers init, translate, back-translate, and Mozc kana-to-kanji conversion messages from its parent frame.
+// ---
+
 import {StringUtil} from '/common/string_util.js';
 import {TestImportManager} from '/common/testing/test_import_manager.js';
 

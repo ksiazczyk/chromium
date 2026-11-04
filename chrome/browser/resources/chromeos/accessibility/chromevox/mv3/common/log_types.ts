@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Log type definitions
+// summary: Defines log classes such as speech, braille, event, text, and tree logs that are stored in the ChromeVox LogStore.
+// ---
+
 /**
  * @fileoverview Class definitions of log that are stored in LogStore
  */

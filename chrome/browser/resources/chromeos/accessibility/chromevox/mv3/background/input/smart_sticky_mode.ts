@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Smart sticky mode handler
+// summary: Automatically turns sticky mode off when the cursor is over an editable and restores it when the cursor moves away.
+// ---
+
 /**
  * @fileoverview Handles automatic sticky mode toggles. Turns sticky mode off
  * when the current range is over an editable; restores sticky mode when not on

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeVox background entry point
+// summary: Entry point for ChromeVox background page code, initializing earcons, braille, TTS, input, event, logging and panel handlers.
+// ---
+
 // Required so that learn mode tests can use LearnModeBridge.
 import '../common/learn_mode_bridge.js';
 

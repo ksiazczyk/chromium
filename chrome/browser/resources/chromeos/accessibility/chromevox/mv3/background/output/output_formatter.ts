@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Output tree formatter
+// summary: Formats the parsed output tree by handling tokens like name, description, checked state, and descendants to build speech or braille output.
+// ---
+
 /**
  * @fileoverview Class that formats the parsed output tree.
  */

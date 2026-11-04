@@ -41,6 +41,12 @@
  * See mock_feedback_test.js for example usage of this class.
  */
 
+// ---docerion
+// type: test
+// title: MockFeedback combined speech, braille and earcon mock
+// summary: MockFeedback class that captures speech, braille and earcon output, letting tests add expectations and callbacks that are matched asynchronously via replay.
+// ---
+
 /**
  * Combined mock class for braille and speech output.
  */

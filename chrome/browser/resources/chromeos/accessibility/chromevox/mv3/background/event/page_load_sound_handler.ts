@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Page load sound handler
+// summary: Plays page start and finish loading earcons based on load automation events and ChromeVox range changes.
+// ---
+
 /**
  * @fileoverview Handles page loading sounds based on automation events.
  */

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Log URL watcher
+// summary: Observes ChromeVox range changes to skip log output while focus is on the ChromeVox log page.
+// ---
+
 /**
  * @fileoverview Watches the currently focused URL to verify if logging should
  * occur.

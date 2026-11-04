@@ -18,6 +18,12 @@
  * awaiting.
  */
 
+// ---docerion
+// type: source
+// title: Mozc-backed kana-to-kanji composition candidate provider
+// summary: Provides Japanese kana-to-kanji conversion candidates via the Mozc WASM engine, reusing the Tenji install and worker startup path and recording metrics.
+// ---
+
 import {TestImportManager} from '/common/testing/test_import_manager.js';
 
 import {OffscreenBridge} from '../../common/offscreen_bridge.js';

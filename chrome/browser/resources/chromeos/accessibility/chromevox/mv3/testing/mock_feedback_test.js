@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MockFeedback unit tests
+// summary: Unit tests for the MockFeedback class covering speech, braille and earcon expectations, callbacks and regular expression matching.
+// ---
+
 GEN_INCLUDE(['chromevox_e2e_test_base.js']);
 
 function speak(text, opt_properties) {
