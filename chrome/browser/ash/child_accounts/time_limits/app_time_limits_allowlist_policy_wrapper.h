@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App time limits allowlist policy wrapper
+// summary: Declares a wrapper that reads the allowlist policy dictionary and returns the list of allowlisted apps.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CHILD_ACCOUNTS_TIME_LIMITS_APP_TIME_LIMITS_ALLOWLIST_POLICY_WRAPPER_H_
 #define CHROME_BROWSER_ASH_CHILD_ACCOUNTS_TIME_LIMITS_APP_TIME_LIMITS_ALLOWLIST_POLICY_WRAPPER_H_
 

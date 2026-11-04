@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CfmBrowserService class declaration
+// summary: Declares the CfmBrowserService singleton implementing the CfmBrowser Mojo interface, with a lifespan tied to the browser process.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CHROMEBOX_FOR_MEETINGS_BROWSER_CFM_BROWSER_SERVICE_H_
 #define CHROME_BROWSER_ASH_CHROMEBOX_FOR_MEETINGS_BROWSER_CFM_BROWSER_SERVICE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CommandSource implementation
+// summary: Implements a local data source that launches a given command, captures its output and error, and returns it as the next collected data.
+// ---
+
 #include "chrome/browser/ash/chromebox_for_meetings/artemis/command_source.h"
 
 #include "base/process/launch.h"

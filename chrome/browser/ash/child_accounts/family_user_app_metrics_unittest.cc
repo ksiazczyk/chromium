@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Family user app metrics unit tests
+// summary: Tests recording of installed and enabled extension counts and recently used app counts for family users across all app types.
+// ---
+
 #include "chrome/browser/ash/child_accounts/family_user_app_metrics.h"
 
 #include <memory>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build configuration for the meet_browser library
+summary: GN build file defining the meet_browser static library and its unit_tests target with their sources and dependencies.

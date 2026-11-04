@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App controls service factory unit tests
+// summary: Parametrized tests verifying on-device app controls availability across feature flags, device regions, and managed or supervised profiles.
+// ---
+
 #include "chrome/browser/ash/child_accounts/on_device_controls/app_controls_service_factory.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PersistedAppInfo class declaration
+// summary: Declares PersistedAppInfo, which serializes per-app state and active times to and from preferences for ChromeOS child account app time limits.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CHILD_ACCOUNTS_TIME_LIMITS_PERSISTED_APP_INFO_H_
 #define CHROME_BROWSER_ASH_CHILD_ACCOUNTS_TIME_LIMITS_PERSISTED_APP_INFO_H_
 

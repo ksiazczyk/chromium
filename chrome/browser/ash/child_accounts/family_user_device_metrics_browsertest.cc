@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Family user device metrics browser tests
+// summary: Parameterized in-process browser tests for the device metrics histograms, covering device ownership and user counts for regular and child users.
+// ---
+
 #include "chrome/browser/ash/child_accounts/family_user_device_metrics.h"
 
 #include <memory>

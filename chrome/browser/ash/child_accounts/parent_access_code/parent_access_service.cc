@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parent access service implementation
+// summary: Implements the singleton service that validates parent access codes and decides which supervised actions need approval.
+// ---
+
 #include "chrome/browser/ash/child_accounts/parent_access_code/parent_access_service.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parent access service class declaration
+// summary: Declares ParentAccessService with its observer interface, validation, config update, and approval-check APIs.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CHILD_ACCOUNTS_PARENT_ACCESS_CODE_PARENT_ACCESS_SERVICE_H_
 #define CHROME_BROWSER_ASH_CHILD_ACCOUNTS_PARENT_ACCESS_CODE_PARENT_ACCESS_SERVICE_H_
 

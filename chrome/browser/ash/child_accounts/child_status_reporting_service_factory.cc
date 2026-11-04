@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChildStatusReportingServiceFactory implementation
+// summary: Implements the profile keyed service factory that creates ChildStatusReportingService instances per browser context.
+// ---
+
 #include "chrome/browser/ash/child_accounts/child_status_reporting_service_factory.h"
 
 #include <memory>

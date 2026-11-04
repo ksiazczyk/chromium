@@ -1,3 +1,9 @@
+---
+type: readme
+title: On-device app controls directory overview
+summary: Explains that the directory implements on-device parental app controls available to regular users without Family Link.
+---
+
 # chrome/browser/ash/child_accounts/on_device_controls
 
 This directory contains the code for on device parental controls, specifically

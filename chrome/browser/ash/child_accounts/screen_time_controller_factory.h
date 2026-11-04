@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen time controller factory declaration
+// summary: Declares the singleton ProfileKeyedServiceFactory that owns ScreenTimeController instances and associates them with browser contexts.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CHILD_ACCOUNTS_SCREEN_TIME_CONTROLLER_FACTORY_H_
 #define CHROME_BROWSER_ASH_CHILD_ACCOUNTS_SCREEN_TIME_CONTROLLER_FACTORY_H_
 

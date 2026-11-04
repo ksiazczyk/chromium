@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Artemis feature flags implementation
+// summary: Defines the ArtemisDynamicCloudLogging and ArtemisConfig features with parameters for supplementary logs, telemetry verbosity, fetch and poll frequencies, and payload size limits.
+// ---
+
 #include "chrome/browser/ash/chromebox_for_meetings/artemis/artemis_features.h"
 
 #include "base/feature_list.h"

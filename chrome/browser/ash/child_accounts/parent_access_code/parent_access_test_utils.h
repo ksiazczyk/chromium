@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Parent access code test utility declarations
+// summary: Declares shared constants and helpers for parent access code tests, including the test shared secret, default validity and clock drift, sample access code values, and policy construction.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CHILD_ACCOUNTS_PARENT_ACCESS_CODE_PARENT_ACCESS_TEST_UTILS_H_
 #define CHROME_BROWSER_ASH_CHILD_ACCOUNTS_PARENT_ACCESS_CODE_PARENT_ACCESS_TEST_UTILS_H_
 

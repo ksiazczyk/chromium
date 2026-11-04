@@ -4,6 +4,12 @@
 //
 // Utilities to be used by the consistency golden converter unit tests.
 
+// ---docerion
+// type: source
+// title: Time limit consistency test utilities
+// summary: Declares helper functions for adding window limits, usage limits, and overrides to consistency golden inputs used by the golden converter unit tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CHILD_ACCOUNTS_TIME_LIMIT_CONSISTENCY_TEST_CONSISTENCY_TEST_UTILS_H_
 #define CHROME_BROWSER_ASH_CHILD_ACCOUNTS_TIME_LIMIT_CONSISTENCY_TEST_CONSISTENCY_TEST_UTILS_H_
 

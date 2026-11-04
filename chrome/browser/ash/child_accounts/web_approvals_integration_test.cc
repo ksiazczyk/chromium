@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Web approvals integration test
+// summary: Integration test checking that mature sites are blocked for supervised users and that the local approvals button appears.
+// ---
+
 #include "build/branding_buildflags.h"
 #include "chrome/browser/ash/login/test/session_manager_state_waiter.h"
 #include "chrome/test/base/ash/interactive/interactive_ash_test.h"

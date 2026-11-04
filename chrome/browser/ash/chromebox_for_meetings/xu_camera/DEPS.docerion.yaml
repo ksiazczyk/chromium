@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the xu_camera directory
+summary: Sets include rules that block //chrome dependencies and allow chromebox_for_meetings paths for this directory.

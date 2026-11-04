@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App time controller implementation
+// summary: Implements the controller that coordinates per-app time limits for child users on ChromeOS, including limit notifications, policy handling and usage metrics.
+// ---
+
 #include "chrome/browser/ash/child_accounts/time_limits/app_time_controller.h"
 
 #include <algorithm>

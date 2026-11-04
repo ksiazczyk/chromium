@@ -1,0 +1,4 @@
+# Docerion header of simple_override.textproto.
+type: test
+title: Simple lock override golden test suite
+summary: Golden test case verifying that a simple lock override locks the device until the next unlocking time.

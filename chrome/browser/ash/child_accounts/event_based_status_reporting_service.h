@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Event based status reporting service interface
+// summary: Declares a keyed service that triggers status reports on supervision-relevant events and logs the triggering events to a UMA histogram.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CHILD_ACCOUNTS_EVENT_BASED_STATUS_REPORTING_SERVICE_H_
 #define CHROME_BROWSER_ASH_CHILD_ACCOUNTS_EVENT_BASED_STATUS_REPORTING_SERVICE_H_
 

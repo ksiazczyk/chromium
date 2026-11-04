@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Usage time limit processor
+// summary: Computes the child session state, remaining usage quota, and expected reset time from time window, usage limit, and override policies.
+// ---
+
 #include "chrome/browser/ash/child_accounts/usage_time_limit_processor.h"
 
 #include <algorithm>

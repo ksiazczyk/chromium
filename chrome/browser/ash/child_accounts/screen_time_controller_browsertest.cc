@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Screen time controller browser tests
+// summary: Browser tests for ScreenTimeController verifying screen locking, warnings and policy behavior with mocked time and child login.
+// ---
+
 #include "chrome/browser/ash/child_accounts/screen_time_controller.h"
 
 #include <memory>

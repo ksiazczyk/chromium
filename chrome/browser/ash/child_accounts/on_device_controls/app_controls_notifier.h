@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App controls notifier class declaration
+// summary: Declares AppControlsNotifier, which decides when to show the app controls availability notification and handles clicks.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CHILD_ACCOUNTS_ON_DEVICE_CONTROLS_APP_CONTROLS_NOTIFIER_H_
 #define CHROME_BROWSER_ASH_CHILD_ACCOUNTS_ON_DEVICE_CONTROLS_APP_CONTROLS_NOTIFIER_H_
 

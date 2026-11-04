@@ -5,6 +5,12 @@
 // A utility for loading golden files to be used by the time limit processor
 // consistency tests.
 
+// ---docerion
+// type: source
+// title: Golden file loader interface
+// summary: Declares the GoldenParam struct and functions for loading golden test cases from the goldens directory or a given path.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CHILD_ACCOUNTS_TIME_LIMIT_CONSISTENCY_TEST_CONSISTENCY_GOLDEN_LOADER_H_
 #define CHROME_BROWSER_ASH_CHILD_ACCOUNTS_TIME_LIMIT_CONSISTENCY_TEST_CONSISTENCY_GOLDEN_LOADER_H_
 

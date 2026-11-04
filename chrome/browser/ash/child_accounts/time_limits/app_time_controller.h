@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App time controller class declaration
+// summary: Declares AppTimeController, which coordinates per-app time limits for child users and observes clock, timezone and app state changes.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CHILD_ACCOUNTS_TIME_LIMITS_APP_TIME_CONTROLLER_H_
 #define CHROME_BROWSER_ASH_CHILD_ACCOUNTS_TIME_LIMITS_APP_TIME_CONTROLLER_H_
 

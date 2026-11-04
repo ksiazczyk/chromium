@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for concierge_helper
+summary: Restricts includes in the concierge_helper directory, allowing chrome/test/base only for the unit test.

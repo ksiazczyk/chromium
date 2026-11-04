@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for DiagnosticsService
+// summary: Tests the diagnostics service using fake cros_healthd, hotline client, and CFM service connections to exercise telemetry and process info mojo calls.
+// ---
+
 #include "chrome/browser/ash/chromebox_for_meetings/diagnostics/diagnostics_service.h"
 
 #include <memory>

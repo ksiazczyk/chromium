@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App time controller unit tests
+// summary: Unit tests for AppTimeController covering time limit resets, notifications and app limit behavior for child users.
+// ---
+
 #include "chrome/browser/ash/child_accounts/time_limits/app_time_controller.h"
 
 #include <optional>

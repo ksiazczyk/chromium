@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Usage time state notifier header
+// summary: Declares UsageTimeStateNotifier, which signals observers when device usage switches between active and inactive states.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CHILD_ACCOUNTS_USAGE_TIME_STATE_NOTIFIER_H_
 #define CHROME_BROWSER_ASH_CHILD_ACCOUNTS_USAGE_TIME_STATE_NOTIFIER_H_
 

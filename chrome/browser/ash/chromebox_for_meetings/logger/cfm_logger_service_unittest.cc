@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CfmLoggerService unit tests
+// summary: Tests logger service initialization, enqueue behavior and state observer notifications using fake delegates and service connections.
+// ---
+
 #include "chrome/browser/ash/chromebox_for_meetings/logger/cfm_logger_service.h"
 
 #include <memory>

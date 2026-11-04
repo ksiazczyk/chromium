@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Utilities for building golden test inputs
+// summary: Implements helpers that add window limits, usage limits and overrides to golden input protos for use in tests.
+// ---
+
 #include "chrome/browser/ash/child_accounts/time_limit_consistency_test/consistency_test_utils.h"
 
 #include "base/check.h"

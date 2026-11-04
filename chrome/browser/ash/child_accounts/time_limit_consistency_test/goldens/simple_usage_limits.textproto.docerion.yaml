@@ -1,0 +1,4 @@
+# Docerion header of simple_usage_limits.textproto.
+type: test
+title: Simple usage limits golden test suite
+summary: Golden test cases verifying device locking when a daily usage quota is fully used versus only partially used.

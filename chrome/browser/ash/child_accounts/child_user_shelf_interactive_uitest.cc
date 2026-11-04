@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Child user shelf interactive UI test
+// summary: Interactive browser test checking that the incognito window option is unavailable in the shelf context menu for child users.
+// ---
+
 #include "ash/root_window_controller.h"
 #include "ash/shelf/shelf.h"
 #include "ash/shelf/shelf_app_button.h"

@@ -1,0 +1,4 @@
+# Docerion header of test_golden.textproto.
+type: test
+title: Time limit consistency test golden fixture
+summary: Golden textproto fixture with a Chrome OS supported platform and a test case state used by the time limit consistency test.

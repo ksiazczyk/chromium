@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Artemis include dependency rules
+summary: Sets include rules for the directory, blocking //chrome dependencies while allowing the Chromebox for Meetings subdirectory under chrome/browser/ash.

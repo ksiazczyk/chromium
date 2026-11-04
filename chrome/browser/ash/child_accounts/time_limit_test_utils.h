@@ -4,6 +4,12 @@
 //
 // Helper functions to create and modify Usage Time Limit policies.
 
+// ---docerion
+// type: test
+// title: Time limit test utilities declaration
+// summary: Declares helpers for creating timestamps, time windows, usage quotas, and overrides when assembling Time Limit policies in tests.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CHILD_ACCOUNTS_TIME_LIMIT_TEST_UTILS_H_
 #define CHROME_BROWSER_ASH_CHILD_ACCOUNTS_TIME_LIMIT_TEST_UTILS_H_
 

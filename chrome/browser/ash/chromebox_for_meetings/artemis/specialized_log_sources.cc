@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Specialized log sources implementation
+// summary: Implements audit, BIOS info, eventlog and variations list log sources with custom line-parsing regexes and timestamp handling.
+// ---
+
 #include "chrome/browser/ash/chromebox_for_meetings/artemis/specialized_log_sources.h"
 
 #include "base/files/file_enumerator.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Authenticator unit tests
+// summary: Unit tests checking code generation and validation against Family Link reference values and time bucket behavior.
+// ---
+
 #include "chrome/browser/ash/child_accounts/parent_access_code/authenticator.h"
 
 #include <map>

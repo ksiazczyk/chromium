@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: DeviceInfoService unit tests
+// summary: Tests DeviceInfoService with fake hotline, service connection, session manager, and statistics providers to verify policy and system info behavior.
+// ---
+
 #include "chrome/browser/ash/chromebox_for_meetings/device_info/device_info_service.h"
 
 #include <memory>

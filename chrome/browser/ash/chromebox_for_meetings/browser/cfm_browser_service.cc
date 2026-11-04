@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CfmBrowserService implementation
+// summary: Implements the CfmBrowser Mojo service singleton that serves variations data and memory details to CfM clients.
+// ---
+
 #include "chrome/browser/ash/chromebox_for_meetings/browser/cfm_browser_service.h"
 
 #include "base/feature_list.h"

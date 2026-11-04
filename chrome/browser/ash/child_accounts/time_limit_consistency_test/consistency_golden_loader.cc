@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Golden file loader for consistency tests
+// summary: Reads golden textproto suites from the goldens directory and returns test parameters for cases supporting ChromeOS.
+// ---
+
 #include "chrome/browser/ash/child_accounts/time_limit_consistency_test/consistency_golden_loader.h"
 
 #include <algorithm>

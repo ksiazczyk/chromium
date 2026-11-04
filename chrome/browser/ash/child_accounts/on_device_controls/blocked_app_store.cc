@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BlockedAppStore implementation
+// summary: Implements BlockedAppStore, which persists the list of blocked apps with block and uninstall timestamps in user preferences.
+// ---
+
 #include "chrome/browser/ash/child_accounts/on_device_controls/blocked_app_store.h"
 
 #include "ash/constants/ash_pref_names.h"

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the xu_camera static library
+summary: Defines the xu_camera static library and its unit_tests target, listing their sources and build dependencies for ChromeOS CfM builds.

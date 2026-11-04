@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Family user Chrome activity metrics unit tests
+// summary: Unit tests verifying Chrome browser engagement duration reporting, including screen off, idle, and sign-out scenarios using mock time and a fake power manager.
+// ---
+
 #include "chrome/browser/ash/child_accounts/family_user_chrome_activity_metrics.h"
 
 #include <memory>

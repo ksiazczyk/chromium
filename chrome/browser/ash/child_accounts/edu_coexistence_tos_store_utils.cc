@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Edu coexistence ToS consent storage utilities implementation
+// summary: Implements helpers that store, update, and read accepted edu coexistence terms of service versions per account in profile preferences.
+// ---
+
 #include "chrome/browser/ash/child_accounts/edu_coexistence_tos_store_utils.h"
 
 #include "ash/constants/ash_pref_names.h"

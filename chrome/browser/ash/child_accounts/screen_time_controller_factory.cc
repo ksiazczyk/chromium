@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen time controller factory
+// summary: Factory that provides per-profile ScreenTimeController instances for managing child account screen time on ChromeOS.
+// ---
+
 #include "chrome/browser/ash/child_accounts/screen_time_controller_factory.h"
 
 #include "base/no_destructor.h"

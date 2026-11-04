@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceInfoService class declaration
+// summary: Declares the DeviceInfoService singleton, which observes device settings and serves policy and system information through the MeetDevicesInfo Mojo interface.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CHROMEBOX_FOR_MEETINGS_DEVICE_INFO_DEVICE_INFO_SERVICE_H_
 #define CHROME_BROWSER_ASH_CHROMEBOX_FOR_MEETINGS_DEVICE_INFO_DEVICE_INFO_SERVICE_H_
 

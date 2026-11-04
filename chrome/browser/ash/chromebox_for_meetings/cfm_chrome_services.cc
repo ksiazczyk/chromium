@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cfm Chrome services implementation
+// summary: Implements InitializeCfmServices and ShutdownCfmServices, which start and stop the Chromebox for Meetings Mojo services based on feature flags.
+// ---
+
 #include "chrome/browser/ash/chromebox_for_meetings/cfm_chrome_services.h"
 
 #include "base/command_line.h"

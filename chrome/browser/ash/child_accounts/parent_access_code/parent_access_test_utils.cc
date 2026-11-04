@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Parent access code test utility implementations
+// summary: Implements helpers for parent access code tests, providing default and invalid access code configs, sample timestamp-code pairs, and a policy built from given configs.
+// ---
+
 #include "chrome/browser/ash/child_accounts/parent_access_code/parent_access_test_utils.h"
 
 #include <memory>

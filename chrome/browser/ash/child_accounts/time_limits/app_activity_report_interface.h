@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App activity report interface
+// summary: Declares the interface for generating child app activity reports and clearing stored activity once a report has been submitted.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CHILD_ACCOUNTS_TIME_LIMITS_APP_ACTIVITY_REPORT_INTERFACE_H_
 #define CHROME_BROWSER_ASH_CHILD_ACCOUNTS_TIME_LIMITS_APP_ACTIVITY_REPORT_INTERFACE_H_
 

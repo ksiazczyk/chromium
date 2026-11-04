@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Family user Chrome activity metrics class header
+// summary: Declares FamilyUserChromeActivityMetrics, which records the daily sum of active Chrome browser time and registers the related profile preference.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CHILD_ACCOUNTS_FAMILY_USER_CHROME_ACTIVITY_METRICS_H_
 #define CHROME_BROWSER_ASH_CHILD_ACCOUNTS_FAMILY_USER_CHROME_ACTIVITY_METRICS_H_
 

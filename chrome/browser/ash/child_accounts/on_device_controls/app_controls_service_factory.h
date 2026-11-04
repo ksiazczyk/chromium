@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App controls service factory header
+// summary: Declares the singleton profile-keyed service factory that provides AppControlsService per browser context.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CHILD_ACCOUNTS_ON_DEVICE_CONTROLS_APP_CONTROLS_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ASH_CHILD_ACCOUNTS_ON_DEVICE_CONTROLS_APP_CONTROLS_SERVICE_FACTORY_H_
 

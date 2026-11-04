@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Family user app metrics implementation
+// summary: Records UMA counts of installed and enabled extensions and recently used apps per app type for family users on each new day.
+// ---
+
 #include "chrome/browser/ash/child_accounts/family_user_app_metrics.h"
 
 #include <memory>

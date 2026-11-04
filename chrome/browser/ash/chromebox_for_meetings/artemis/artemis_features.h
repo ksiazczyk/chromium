@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Artemis feature flags header
+// summary: Declares the Artemis feature flags, the TelemetryVerbosity enum, and feature parameters controlling data fetching, log polling, batch sizes, and payload queue limits.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CHROMEBOX_FOR_MEETINGS_ARTEMIS_ARTEMIS_FEATURES_H_
 #define CHROME_BROWSER_ASH_CHROMEBOX_FOR_MEETINGS_ARTEMIS_ARTEMIS_FEATURES_H_
 

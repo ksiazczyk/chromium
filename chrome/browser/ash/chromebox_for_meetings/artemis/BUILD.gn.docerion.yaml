@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Artemis build targets
+summary: Defines the Artemis static library with its sources and dependencies, plus a test-only source set for the local data source and log source unit tests.

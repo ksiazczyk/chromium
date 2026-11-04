@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Usage time state notifier implementation
+// summary: Implements the singleton notifier that tracks whether the child is actively using the device and notifies observers of changes.
+// ---
+
 #include "chrome/browser/ash/child_accounts/usage_time_state_notifier.h"
 
 #include "base/check.h"

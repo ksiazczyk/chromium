@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BlockedAppStore unit tests
+// summary: Unit tests covering reading and writing blocked app records, including uninstalled and multiple apps, in the preference store.
+// ---
+
 #include "chrome/browser/ash/child_accounts/on_device_controls/blocked_app_store.h"
 
 #include <memory>

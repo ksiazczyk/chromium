@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the apps test utility library
+summary: Defines a test-only static library that builds the shared app test utilities with dependencies on base, ARC mojom, and extensions common.

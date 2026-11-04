@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Website approval notifier header
+// summary: Declares WebsiteApprovalNotifier, which listens for remote website approvals and displays system notifications.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CHILD_ACCOUNTS_WEBSITE_APPROVAL_NOTIFIER_H_
 #define CHROME_BROWSER_ASH_CHILD_ACCOUNTS_WEBSITE_APPROVAL_NOTIFIER_H_
 

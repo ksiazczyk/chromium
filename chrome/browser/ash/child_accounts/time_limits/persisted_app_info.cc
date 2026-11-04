@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Persisted app info implementation
+// summary: Implements conversion of persisted app state and activity data between preference dictionaries and PersistedAppInfo objects.
+// ---
+
 #include "chrome/browser/ash/child_accounts/time_limits/persisted_app_info.h"
 
 #include "base/logging.h"

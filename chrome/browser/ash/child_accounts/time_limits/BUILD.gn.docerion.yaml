@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for app time limits
+summary: Defines the GN build targets, sources and dependencies for the ChromeOS per-app time limits library, its test support and its unit and browser tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Family user parental control metrics header
+// summary: Declares FamilyUserParentalControlMetrics, an observer recording time limit and web filter metrics for Family Link users daily.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CHILD_ACCOUNTS_FAMILY_USER_PARENTAL_CONTROL_METRICS_H_
 #define CHROME_BROWSER_ASH_CHILD_ACCOUNTS_FAMILY_USER_PARENTAL_CONTROL_METRICS_H_
 

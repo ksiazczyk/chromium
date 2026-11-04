@@ -1,0 +1,4 @@
+# Docerion header of override_usage_limits_android.textproto.
+type: test
+title: Android usage limit override golden test suite
+summary: Android-specific golden test cases for usage limit overrides, split from ChromeOS due to differing next_active_policy behavior.

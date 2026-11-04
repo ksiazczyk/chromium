@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LogSource unit tests
+// summary: Unit tests for LogSource and LogFile using temporary files, rotation simulation and an in-memory PersistentDb test double.
+// ---
+
 #include "chrome/browser/ash/chromebox_for_meetings/artemis/log_source.h"
 
 #include <fstream>

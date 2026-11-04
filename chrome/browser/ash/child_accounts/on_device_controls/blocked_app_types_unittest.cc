@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: BlockedAppDetails unit tests
+// summary: Unit tests for BlockedAppDetails covering timestamps, install state changes, and uninstall marking.
+// ---
+
 #include "chrome/browser/ash/child_accounts/on_device_controls/blocked_app_types.h"
 
 #include <optional>

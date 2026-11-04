@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Family user metrics service factory header
+// summary: Declares FamilyUserMetricsServiceFactory, a singleton that associates FamilyUserMetricsService instances with browser contexts and cleans them up on destruction.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CHILD_ACCOUNTS_FAMILY_USER_METRICS_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ASH_CHILD_ACCOUNTS_FAMILY_USER_METRICS_SERVICE_FACTORY_H_
 

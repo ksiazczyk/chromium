@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: App types unit tests
+// summary: Unit tests for active time intervals and app activity, covering creation, updates, timestamp comparisons and merging behavior.
+// ---
+
 #include "chrome/browser/ash/child_accounts/time_limits/app_types.h"
 
 #include <string>

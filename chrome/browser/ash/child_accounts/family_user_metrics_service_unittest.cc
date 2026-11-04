@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Family user metrics service unit tests
+// summary: Unit tests verifying that FamilyUserMetricsService detects new days at midnight and stores the day ID in prefs.
+// ---
+
 #include "chrome/browser/ash/child_accounts/family_user_metrics_service.h"
 
 #include <memory>

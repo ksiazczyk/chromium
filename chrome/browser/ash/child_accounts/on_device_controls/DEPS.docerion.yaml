@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for on_device_controls
+summary: Restricts //chrome includes for the directory and lists allowed per-file exceptions such as the service factory and notifier.

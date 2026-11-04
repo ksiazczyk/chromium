@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Family user metrics service implementation
+// summary: Initializes the family user metric recorders and notifies observers via OnNewDay when a new day is detected, checked periodically on a timer.
+// ---
+
 #include "chrome/browser/ash/child_accounts/family_user_metrics_service.h"
 
 #include "ash/constants/ash_pref_names.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DeviceInfoService implementation
+// summary: Implements the ash::cfm DeviceInfoService, a singleton Mojo service that exposes device policy, system, and machine statistics information to CfM clients.
+// ---
+
 #include "chrome/browser/ash/chromebox_for_meetings/device_info/device_info_service.h"
 
 #include <cstdint>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-device controls metrics constants and enums
+// summary: Defines UMA histogram names and enums for app removal and block actions, kept in sync with the metrics metadata.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CHILD_ACCOUNTS_ON_DEVICE_CONTROLS_APP_CONTROLS_METRICS_UTILS_H_
 #define CHROME_BROWSER_ASH_CHILD_ACCOUNTS_ON_DEVICE_CONTROLS_APP_CONTROLS_METRICS_UTILS_H_
 

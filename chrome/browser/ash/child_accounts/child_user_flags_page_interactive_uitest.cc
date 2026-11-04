@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Child user flags page interactive UI test
+// summary: Interactive UI test verifying that the browser flags page is blocked for supervised users by the URL blocklist policy applied in the child user test base.
+// ---
+
 #include "base/test/gtest_tags.h"
 #include "chrome/browser/ash/child_accounts/child_user_interactive_base_test.h"
 #include "chrome/test/base/ash/interactive/interactive_ash_test.h"

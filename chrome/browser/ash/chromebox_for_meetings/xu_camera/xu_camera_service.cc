@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XuCamera service implementation for CfM camera control
+// summary: Implements the Chromebox for Meetings XuCamera service, validating V4L2 and IP camera device paths and reading and writing UVC extension unit controls.
+// ---
+
 #include "chrome/browser/ash/chromebox_for_meetings/xu_camera/xu_camera_service.h"
 
 #include <fcntl.h>

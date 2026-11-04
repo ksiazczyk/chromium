@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AppActivityRegistry unit tests
+// summary: Unit tests covering app activity tracking, time limit handling, persistence and observer notifications in AppActivityRegistry.
+// ---
+
 #include "chrome/browser/ash/child_accounts/time_limits/app_activity_registry.h"
 
 #include <map>

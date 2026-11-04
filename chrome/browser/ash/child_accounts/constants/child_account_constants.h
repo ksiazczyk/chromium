@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child account constants header
+// summary: Declares constants for the Family Link helper app, including its Android package name and Play Store URL, in the ash namespace.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CHILD_ACCOUNTS_CONSTANTS_CHILD_ACCOUNT_CONSTANTS_H_
 #define CHROME_BROWSER_ASH_CHILD_ACCOUNTS_CONSTANTS_CHILD_ACCOUNT_CONSTANTS_H_
 

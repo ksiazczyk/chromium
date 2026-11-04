@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Time limit policy test utilities
+// summary: Helper functions that build time window, usage limit, and override dictionaries for constructing Time Limit policies in tests.
+// ---
+
 #include "chrome/browser/ash/child_accounts/time_limit_test_utils.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LogFile class header
+// summary: Declares LogFile, a log file abstraction used by LogSource to read potentially rotated log files at tracked offsets.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CHROMEBOX_FOR_MEETINGS_ARTEMIS_LOG_FILE_H_
 #define CHROME_BROWSER_ASH_CHROMEBOX_FOR_MEETINGS_ARTEMIS_LOG_FILE_H_
 

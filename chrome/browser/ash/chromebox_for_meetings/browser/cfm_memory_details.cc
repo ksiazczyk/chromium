@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CfmMemoryDetails implementation
+// summary: Collects process and extension memory information and returns it through the GetMemoryDetails Mojo callback.
+// ---
+
 #include "chrome/browser/ash/chromebox_for_meetings/browser/cfm_memory_details.h"
 
 #include "base/containers/map_util.h"

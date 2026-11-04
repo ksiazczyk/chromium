@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalDataSource implementation
+// summary: Implements the local data source base class with buffered data fetching, CHANGE and REGEX watchdog registration, redaction, and periodic buffer filling.
+// ---
+
 #include "chrome/browser/ash/chromebox_for_meetings/artemis/local_data_source.h"
 
 #include "base/hash/hash.h"

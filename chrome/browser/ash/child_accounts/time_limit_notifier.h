@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Time limit notifier declaration
+// summary: Declares TimeLimitNotifier, which schedules warning and exit notifications for screen time, bedtime, and override limits.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CHILD_ACCOUNTS_TIME_LIMIT_NOTIFIER_H_
 #define CHROME_BROWSER_ASH_CHILD_ACCOUNTS_TIME_LIMIT_NOTIFIER_H_
 

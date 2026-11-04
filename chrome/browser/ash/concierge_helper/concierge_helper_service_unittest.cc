@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ConciergeHelperService unit tests
+// summary: Unit tests verifying CPU restriction requests using a fake Concierge client that records requests and simulates service availability.
+// ---
+
 #include "chrome/browser/ash/concierge_helper/concierge_helper_service.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Family user session metrics header
+// summary: Declares FamilyUserSessionMetrics, which reports session engagement start actions, hourly histograms and daily duration to UMA.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CHILD_ACCOUNTS_FAMILY_USER_SESSION_METRICS_H_
 #define CHROME_BROWSER_ASH_CHILD_ACCOUNTS_FAMILY_USER_SESSION_METRICS_H_
 

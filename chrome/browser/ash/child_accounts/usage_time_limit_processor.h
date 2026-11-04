@@ -6,6 +6,12 @@
 // of the client, for example if it is locked and the reason why it may be
 // locked.
 
+// ---docerion
+// type: source
+// title: Usage time limit processor header
+// summary: Declares the processor for the UsageTimeLimit policy that determines whether the device is locked and which policy is active.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CHILD_ACCOUNTS_USAGE_TIME_LIMIT_PROCESSOR_H_
 #define CHROME_BROWSER_ASH_CHILD_ACCOUNTS_USAGE_TIME_LIMIT_PROCESSOR_H_
 

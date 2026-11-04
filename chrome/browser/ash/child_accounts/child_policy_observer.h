@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChildPolicyObserver class declaration
+// summary: Declares an observer that tracks the initial child user policy refresh and invokes a callback on success, error, or timeout.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CHILD_ACCOUNTS_CHILD_POLICY_OBSERVER_H_
 #define CHROME_BROWSER_ASH_CHILD_ACCOUNTS_CHILD_POLICY_OBSERVER_H_
 

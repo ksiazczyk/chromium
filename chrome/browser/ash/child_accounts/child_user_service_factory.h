@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child user service factory declaration
+// summary: Declares a profile-keyed service factory singleton that creates and manages ChildUserService instances per browser context.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CHILD_ACCOUNTS_CHILD_USER_SERVICE_FACTORY_H_
 #define CHROME_BROWSER_ASH_CHILD_ACCOUNTS_CHILD_USER_SERVICE_FACTORY_H_
 

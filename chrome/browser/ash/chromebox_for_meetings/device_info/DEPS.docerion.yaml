@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for device_info
+summary: Restricts dependencies so ChromeOS code does not depend on //chrome, allowing only listed ash directories plus chrome/test for unit tests.

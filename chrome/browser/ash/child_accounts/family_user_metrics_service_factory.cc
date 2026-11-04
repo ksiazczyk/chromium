@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Family user metrics service factory implementation
+// summary: Profile-keyed service factory that builds FamilyUserMetricsService instances per browser context and declares dependencies on related service factories.
+// ---
+
 #include "chrome/browser/ash/child_accounts/family_user_metrics_service_factory.h"
 
 #include "base/no_destructor.h"

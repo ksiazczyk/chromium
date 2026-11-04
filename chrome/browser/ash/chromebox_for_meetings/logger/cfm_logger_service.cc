@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: CfmLoggerService implementation
+// summary: Implements the Meet devices logger service singleton, wiring the encrypted reporting pipeline as its delegate.
+// ---
+
 #include "chrome/browser/ash/chromebox_for_meetings/logger/cfm_logger_service.h"
 
 #include "base/functional/bind.h"

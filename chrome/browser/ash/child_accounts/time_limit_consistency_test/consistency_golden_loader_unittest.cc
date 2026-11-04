@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the golden loader
+// summary: Unit tests verifying that golden cases load from the test_goldens directory and unsupported suites are skipped.
+// ---
+
 #include "chrome/browser/ash/child_accounts/time_limit_consistency_test/consistency_golden_loader.h"
 
 #include "base/files/file_path.h"

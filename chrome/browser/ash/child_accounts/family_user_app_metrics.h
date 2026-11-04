@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Family user app metrics interface
+// summary: Declares a FamilyUserMetricsService and app registry observer that records daily app and extension usage metrics for family users.
+// ---
+
 #ifndef CHROME_BROWSER_ASH_CHILD_ACCOUNTS_FAMILY_USER_APP_METRICS_H_
 #define CHROME_BROWSER_ASH_CHILD_ACCOUNTS_FAMILY_USER_APP_METRICS_H_
 

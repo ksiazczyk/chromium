@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebTimeActivityProvider implementation
+// summary: Implements WebTimeActivityProvider, which tracks browser tabs, navigation changes and app activity to report Chrome app activity state for web time limits.
+// ---
+
 #include "chrome/browser/ash/child_accounts/time_limits/web_time_activity_provider.h"
 
 #include <algorithm>
