@@ -1,0 +1,4 @@
+# Docerion header of notification_wifi.icon.
+type: asset
+title: Notification Wi-Fi vector icon
+summary: Vector icon definition drawing a Wi-Fi signal wedge used for Wi-Fi notifications in the ChromeOS Ash shell.

@@ -1,0 +1,4 @@
+# Docerion header of system_menu_cast_paused.icon.
+type: asset
+title: System menu cast paused icon
+summary: Vector icon path data for the cast-paused glyph shown in the ChromeOS system menu, defined as canvas dimensions and drawing commands.

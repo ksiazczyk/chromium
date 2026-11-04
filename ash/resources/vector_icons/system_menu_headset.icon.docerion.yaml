@@ -1,0 +1,4 @@
+# Docerion header of system_menu_headset.icon.
+type: asset
+title: System menu headset icon
+summary: Vector icon path data for the headset glyph used in the ChromeOS system menu, defined as path drawing commands on a 20-unit canvas.

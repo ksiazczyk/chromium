@@ -1,0 +1,4 @@
+# Docerion header of quick_insert_skeleton_loader.icon.
+type: asset
+title: Quick insert skeleton loader icon
+summary: Vector icon definition that draws skeleton loader placeholder shapes for the quick insert feature in the ChromeOS Ash UI.

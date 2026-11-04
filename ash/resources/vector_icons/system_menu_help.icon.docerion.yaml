@@ -1,0 +1,4 @@
+# Docerion header of system_menu_help.icon.
+type: asset
+title: System menu help icon
+summary: Vector icon path data for the help question-mark glyph in the ChromeOS system menu, expressed as canvas and path commands.

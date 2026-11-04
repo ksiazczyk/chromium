@@ -1,0 +1,4 @@
+# Docerion header of quick_settings_circle_stop.icon.
+type: asset
+title: Quick settings circle stop vector icon
+summary: Defines the vector path data for a stop square inside a circle, used as a quick settings icon in ChromeOS Ash.

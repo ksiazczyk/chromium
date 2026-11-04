@@ -1,0 +1,4 @@
+# Docerion header of system_menu_keyboard.icon.
+type: asset
+title: System menu keyboard icon
+summary: Vector icon path data for the keyboard glyph used in the ChromeOS system menu, defined with drawing commands on a 20-unit canvas.

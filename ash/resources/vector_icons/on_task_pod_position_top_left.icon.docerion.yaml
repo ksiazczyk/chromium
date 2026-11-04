@@ -1,0 +1,4 @@
+# Docerion header of on_task_pod_position_top_left.icon.
+type: asset
+title: On-task pod position top left vector icon
+summary: Vector icon definition showing a panel anchored at the top left, used by the on-task pod feature in the ChromeOS Ash shell.

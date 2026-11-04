@@ -1,0 +1,4 @@
+# Docerion header of quick_insert.icon.
+type: asset
+title: Quick insert icon
+summary: Vector icon definition that draws a diamond-shaped quick insert glyph for Chrome OS, expressed as canvas path commands.

@@ -1,0 +1,4 @@
+# Docerion header of system_menu_gamepad.icon.
+type: asset
+title: System menu gamepad icon
+summary: Vector icon path data for the gamepad glyph in the ChromeOS system menu, defined with canvas dimensions and path drawing commands.

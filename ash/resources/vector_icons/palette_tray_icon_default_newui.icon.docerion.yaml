@@ -1,0 +1,4 @@
+# Docerion header of palette_tray_icon_default_newui.icon.
+type: asset
+title: Default palette tray icon for new UI
+summary: Vector icon path data for the default pen-style palette tray icon in the newer Ash UI, drawn on a 20 px canvas.

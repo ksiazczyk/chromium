@@ -1,0 +1,4 @@
+# Docerion header of sort_color.icon.
+type: asset
+title: Sort color vector icon
+summary: Vector icon definition drawing a sort-by-color palette glyph on a 20x20 canvas for Chromium's Ash UI.
