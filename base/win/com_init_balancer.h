@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ComInitBalancer class declaration
+// summary: Declares an IInitializeSpy implementation that prevents premature COM library uninitialization from unbalanced CoInitialize and CoUninitialize calls.
+// ---
+
 #ifndef BASE_WIN_COM_INIT_BALANCER_H_
 #define BASE_WIN_COM_INIT_BALANCER_H_
 

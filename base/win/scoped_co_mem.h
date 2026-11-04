@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedCoMem RAII wrapper for COM-allocated memory
+// summary: Declares ScopedCoMem, a template RAII helper that frees COM task memory via CoTaskMemFree when it goes out of scope.
+// ---
+
 #ifndef BASE_WIN_SCOPED_CO_MEM_H_
 #define BASE_WIN_SCOPED_CO_MEM_H_
 

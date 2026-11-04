@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedProcessInformation unit tests
+// summary: Tests validity checks, taking process and thread handles, whole-struct transfer, and handle duplication using mock data and real child processes.
+// ---
+
 #include "base/win/scoped_process_information.h"
 
 #include <windows.h>

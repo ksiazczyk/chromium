@@ -1,0 +1,4 @@
+# Docerion header of protobuf.gni.
+type: config
+title: Protobuf build overrides
+summary: Placeholder GN override file for protobuf that specifies no overrides because the defaults work fine for Chromium.

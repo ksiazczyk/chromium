@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GDI trait specializations for ScopedGDIObject
+// summary: Defines Free specializations for GDI object types such as bitmaps, brushes, fonts, pens and regions, with icons destroyed via DestroyIcon.
+// ---
+
 #include "base/win/scoped_gdi_object.h"
 
 #include <windows.h>

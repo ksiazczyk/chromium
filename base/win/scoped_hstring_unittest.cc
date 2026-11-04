@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedHString unit tests
+// summary: Unit tests verifying ScopedHString creation, content access, UTF-8 conversion, and reset behavior.
+// ---
+
 #include "base/win/scoped_hstring.h"
 
 #include <winstring.h>

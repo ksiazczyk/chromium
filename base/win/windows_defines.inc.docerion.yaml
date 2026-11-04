@@ -1,0 +1,4 @@
+# Docerion header of windows_defines.inc.
+type: source
+title: Poisonous Windows header define checks
+summary: Include file that verifies poisonous macros from Windows headers, such as StrCat, are not defined by redefining them to themselves to force compile errors.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows registry access implementation
+// summary: Implements the RegKey class for opening, creating, reading, writing, deleting and watching Windows registry keys, including change notifications.
+// ---
+
 #include "base/win/registry.h"
 
 #include <ntstatus.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DllMain with crash on process detach
+// summary: Defines DllMain for the base DLL that deliberately crashes during process detach when the crash-on-detach flag is enabled.
+// ---
+
 #include <windows.h>
 
 #include "base/compiler_specific.h"

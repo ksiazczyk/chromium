@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedPropVariant RAII wrapper
+// summary: Declares a PROPVARIANT wrapper that initializes on construction, clears on destruction, and provides Receive for use as an out parameter.
+// ---
+
 #ifndef BASE_WIN_SCOPED_PROPVARIANT_H_
 #define BASE_WIN_SCOPED_PROPVARIANT_H_
 

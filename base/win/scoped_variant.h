@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedVariant class declaration
+// summary: Declares the ScopedVariant class, a RAII wrapper that automatically frees a COM VARIANT at the end of a scope and provides helpers for using it.
+// ---
+
 #ifndef BASE_WIN_SCOPED_VARIANT_H_
 #define BASE_WIN_SCOPED_VARIANT_H_
 

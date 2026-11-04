@@ -1,6 +1,13 @@
 // Copyright 2018 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Wrapped Windows propvarutil header
+// summary: Includes the Windows propvarutil.h header while undefining and re-checking conflicting macro definitions via the base/win define helper includes.
+// ---
+
 #ifndef BASE_WIN_PROPVARUTIL_H_
 #define BASE_WIN_PROPVARUTIL_H_
 

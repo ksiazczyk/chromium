@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Presubmit script for checkdeps
+# summary: Presubmit script that runs the checkdeps unit tests when Python files or the testdata directory are affected.
+# ---
+
 """Presubmit script for checkdeps tool."""
 
 

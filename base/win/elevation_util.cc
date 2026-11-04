@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process elevation utilities
+// summary: Provides helpers to find Explorer's process, check integrity level and split tokens, and launch commands de-elevated via the shell process token.
+// ---
+
 #include "base/win/elevation_util.h"
 
 #include <objbase.h>

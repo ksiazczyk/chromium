@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessToken implementation
+// summary: Implements Windows access token handling, defining security attribute structures and token query, group, privilege and attribute operations.
+// ---
+
 #include "base/win/access_token.h"
 
 #include <windows.h>

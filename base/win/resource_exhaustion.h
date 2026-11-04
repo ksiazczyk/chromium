@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Resource exhaustion callback declarations
+// summary: Declares functions to set and invoke a callback for handling unrecoverable system resource exhaustion.
+// ---
+
 #ifndef BASE_WIN_RESOURCE_EXHAUSTION_H_
 #define BASE_WIN_RESOURCE_EXHAUSTION_H_
 

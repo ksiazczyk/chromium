@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shortcut unit tests
+// summary: Unit tests for creating, updating, and resolving Windows shortcuts and their properties using temporary directories and COM initialization.
+// ---
+
 #include "base/win/shortcut.h"
 
 #include <stdint.h>

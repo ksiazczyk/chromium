@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedCOMInitializer RAII COM initialization
+// summary: Declares ScopedCOMInitializer, which initializes COM in the constructor as STA or MTA and uninitializes it in the destructor, once per thread.
+// ---
+
 #ifndef BASE_WIN_SCOPED_COM_INITIALIZER_H_
 #define BASE_WIN_SCOPED_COM_INITIALIZER_H_
 

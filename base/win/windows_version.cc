@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows OS version detection implementation
+// summary: Implements the OSInfo singleton and version helpers that read the registry and system information to report the running Windows version and architecture.
+// ---
+
 #include "base/win/windows_version.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedWintrustData class declaration
+// summary: Declares ScopedWintrustData, an RAII wrapper that initializes WINTRUST structures, verifies Authenticode signatures, and exposes trust state data.
+// ---
+
 #ifndef BASE_WIN_SCOPED_WINTRUST_DATA_H_
 #define BASE_WIN_SCOPED_WINTRUST_DATA_H_
 

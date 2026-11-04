@@ -5,6 +5,12 @@
 // This file contains utility functions for accessing resources in external
 // files (DLLs) or embedded in the executable itself.
 
+// ---docerion
+// type: source
+// title: Module resource loading utility declaration
+// summary: Declares GetResourceFromModule for accessing data resources in external DLLs or embedded in the executable.
+// ---
+
 #ifndef BASE_WIN_RESOURCE_UTIL_H_
 #define BASE_WIN_RESOURCE_UTIL_H_
 

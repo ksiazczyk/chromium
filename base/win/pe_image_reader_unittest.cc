@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PeImageReader unit tests
+// summary: Parameterized unit tests that verify PeImageReader header, section, export and certificate parsing against test PE images, including truncated-file handling.
+// ---
+
 #include "base/win/pe_image_reader.h"
 
 #include <windows.h>

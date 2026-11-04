@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delay-load failure suppression implementation
+// summary: Implements thread-local suppression of delay-load failure crashes plus the scoped guard used by the delayload helper functions.
+// ---
+
 #include "base/win/delayload_helpers.h"
 
 namespace base::win {

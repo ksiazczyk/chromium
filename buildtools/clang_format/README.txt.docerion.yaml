@@ -1,0 +1,4 @@
+# Docerion header of README.txt.
+type: readme
+title: clang-format binaries README
+summary: Explains how to upload and download clang-format binaries to Google Storage and how to configure gsutil credentials.

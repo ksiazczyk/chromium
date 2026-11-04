@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for reclient_cfgs
+summary: Delegates review ownership to the chrome-build and foundry-x groups defined under infra/config.

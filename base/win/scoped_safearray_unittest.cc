@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedSafearray unit tests
+// summary: Tests ScopedSafearray methods such as Get, Release, Receive, and move semantics, plus LockScope access to integer array data.
+// ---
+
 #include "base/win/scoped_safearray.h"
 
 #include <stddef.h>

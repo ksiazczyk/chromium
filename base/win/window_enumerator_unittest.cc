@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for window enumeration helpers
+// summary: Unit tests verifying window enumeration and query helpers against direct Win32 API results for desktop windows.
+// ---
+
 #include "base/win/window_enumerator.h"
 
 #include <windows.h>

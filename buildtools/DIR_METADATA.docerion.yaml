@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for issue tracking
+summary: Maps the directory to the Build component and build@chromium.org team for Monorail and Buganizer issue tracking.

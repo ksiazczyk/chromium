@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ComInitBalancer
+// summary: Tests balanced and unbalanced COM initialization with the balancer enabled and disabled, plus reference counting with registered spies.
+// ---
+
 #include "base/win/com_init_balancer.h"
 
 #include <shlobj.h>

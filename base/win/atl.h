@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Safe ATL header include wrapper
+// summary: Includes the ATL headers while guarding against poisonous Windows macro defines and wiring in the custom AtlThrow crash handler.
+// ---
+
 #ifndef BASE_WIN_ATL_H_
 #define BASE_WIN_ATL_H_
 

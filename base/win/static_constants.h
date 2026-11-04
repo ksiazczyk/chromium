@@ -7,6 +7,12 @@
 // in the sandbox, which run before imports are resolved, and can therefore only
 // reference static variables.
 
+// ---docerion
+// type: source
+// title: Constants for use before import resolution
+// summary: Declares constants needed before imports such as base.dll are resolved, usable by sandbox hooks that reference only static variables.
+// ---
+
 #ifndef BASE_WIN_STATIC_CONSTANTS_H_
 #define BASE_WIN_STATIC_CONSTANTS_H_
 

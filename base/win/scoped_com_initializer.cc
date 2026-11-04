@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of ScopedCOMInitializer
+// summary: Implements ScopedCOMInitializer, initializing COM in STA or MTA mode with optional blocking of premature uninitialization and resource exhaustion handling.
+// ---
+
 #include "base/win/scoped_com_initializer.h"
 
 #include <wrl/implements.h>

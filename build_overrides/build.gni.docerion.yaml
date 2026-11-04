@@ -1,0 +1,4 @@
+# Docerion header of build.gni.
+type: config
+title: Build system overrides
+summary: Overrides defaults for variables used by the shared //build directory, covering Java templates, libc++ hardening, sanitizer suppression lists, and Xcode usage.

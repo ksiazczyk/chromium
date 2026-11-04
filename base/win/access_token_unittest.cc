@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: AccessToken unit tests
+// summary: Tests AccessToken behavior by comparing groups, privileges, integrity level and elevation state against ATL token queries.
+// ---
+
 #include "base/win/access_token.h"
 
 #include <windows.h>

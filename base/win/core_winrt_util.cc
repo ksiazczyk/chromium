@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WinRT activation utility implementation
+// summary: Wraps RoGetActivationFactory and RoActivateInstance to avoid propagating CoreWinRT delay-loading to other modules in component builds.
+// ---
+
 #include "base/win/core_winrt_util.h"
 
 namespace base::win {

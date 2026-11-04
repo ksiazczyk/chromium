@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Hardware check unit tests
+// summary: Unit tests covering HardwareEvaluationResult eligibility logic and ensuring the Windows 11 hardware evaluation runs without crashing.
+// ---
+
 #include "base/win/hardware_check.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

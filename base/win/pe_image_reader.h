@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PeImageReader class declaration
+// summary: Declares the PeImageReader class, which parses headers, sections, debug entries and attribute certificates from a PE file read into memory.
+// ---
+
 #ifndef BASE_WIN_PE_IMAGE_READER_H_
 #define BASE_WIN_PE_IMAGE_READER_H_
 

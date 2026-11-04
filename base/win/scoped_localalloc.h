@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedLocalAlloc helpers for LocalAlloc memory
+// summary: Provides unique_ptr deleters and helper functions for memory allocated with LocalAlloc, freeing it via LocalFree.
+// ---
+
 #ifndef BASE_WIN_SCOPED_LOCALALLOC_H_
 #define BASE_WIN_SCOPED_LOCALALLOC_H_
 

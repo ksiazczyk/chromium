@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows version unit tests
+// summary: Unit tests checking OSInfo build-to-version mapping, kernel32 version consistency, and that dbghelp.dll meets the required Windows 11 SDK version.
+// ---
+
 #include "base/win/windows_version.h"
 
 #include "base/check_op.h"

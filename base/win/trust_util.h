@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Trust verification utility declarations
+// summary: Declares IsWintrustDataTrusted and IsBinaryTrusted helpers for verifying Authenticode signatures and publisher names of Windows binaries.
+// ---
+
 #ifndef BASE_WIN_TRUST_UTIL_H_
 #define BASE_WIN_TRUST_UTIL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows handle conversion helpers
+// summary: Header with inline helpers to detect Windows pseudo handle values and convert HANDLEs between pointer and 32-bit integer representations.
+// ---
+
 #ifndef BASE_WIN_WINDOWS_HANDLE_UTIL_H_
 #define BASE_WIN_WINDOWS_HANDLE_UTIL_H_
 

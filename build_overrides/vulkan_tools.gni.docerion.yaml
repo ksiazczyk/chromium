@@ -1,0 +1,4 @@
+# Docerion header of vulkan_tools.gni.
+type: config
+title: Vulkan tools build overrides
+summary: GN build override file for Vulkan tools that imports the shared Vulkan settings from vulkan_common.gni.

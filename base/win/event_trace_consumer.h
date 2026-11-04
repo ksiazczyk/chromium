@@ -3,6 +3,13 @@
 // found in the LICENSE file.
 //
 // Declaration of a Windows event trace consumer base class.
+
+// ---docerion
+// type: source
+// title: ETW event trace consumer base class
+// summary: Declares EtwTraceConsumerBase, a template base class for consuming Windows ETW events from realtime or file trace sessions.
+// ---
+
 #ifndef BASE_WIN_EVENT_TRACE_CONSUMER_H_
 #define BASE_WIN_EVENT_TRACE_CONSUMER_H_
 

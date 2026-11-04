@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window enumeration and query helpers implementation
+// summary: Implements helpers to enumerate child windows and query window class, text, topmost state, system dialog, and shell window status.
+// ---
+
 #include "base/win/window_enumerator.h"
 
 #include <windows.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows shortcut implementation
+// summary: Implements creation, update, and resolution of Windows .lnk shortcuts via the IShellLink and IPersistFile COM interfaces.
+// ---
+
 #include "base/win/shortcut.h"
 
 #include <objbase.h>

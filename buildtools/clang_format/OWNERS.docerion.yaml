@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: clang_format OWNERS
+summary: Lists the owners responsible for the clang_format directory in the Chromium build tools.

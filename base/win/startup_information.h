@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StartupInformation class for STARTUPINFOEX attributes
+// summary: Declares the StartupInformation class that manages the lifetime of STARTUPINFOEX attribute lists used when creating processes.
+// ---
+
 #ifndef BASE_WIN_STARTUP_INFORMATION_H_
 #define BASE_WIN_STARTUP_INFORMATION_H_
 

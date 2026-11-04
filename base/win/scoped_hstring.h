@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedHString wrapper for Windows HSTRING values
+// summary: Declares ScopedHString, a ScopedGeneric wrapper that manages the lifetime of Windows HSTRING values and offers UTF-8 conversion.
+// ---
+
 #ifndef BASE_WIN_SCOPED_HSTRING_H_
 #define BASE_WIN_SCOPED_HSTRING_H_
 

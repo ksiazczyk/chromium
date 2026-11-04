@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ETW event trace controller declarations
+// summary: Declares EtwTraceProperties and EtwTraceController for managing Windows event tracing sessions, log files and provider levels.
+// ---
+
 // Declaration of a Windows event trace controller class.
 // The controller takes care of creating and manipulating event trace
 // sessions.

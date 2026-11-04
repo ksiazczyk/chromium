@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Proto Checker for Illegal Imports
+# summary: Implements a checker that scans .proto files for import statements and reports dependency rule violations, including backslash and path checks, for the checkdeps tool.
+# ---
+
 """Checks protobuf files for illegal imports."""
 
 import os

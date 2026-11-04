@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for EnumVariant
+// summary: Tests empty, simple and cloned variants of the IEnumVARIANT implementation, covering Next, Skip, Reset and Clone behavior.
+// ---
+
 #include "base/win/enum_variant.h"
 
 #include <wrl/client.h>

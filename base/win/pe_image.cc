@@ -5,6 +5,12 @@
 // This file implements PEImage, a generic class to manipulate PE files.
 // This file was adapted from GreenBorder's Code.
 
+// ---docerion
+// type: source
+// title: PEImage implementation
+// summary: Implements the PEImage class for parsing Portable Executable images, including enumeration of imports, delay imports, exports, sections, relocations, and PDB info.
+// ---
+
 #include "base/win/pe_image.h"
 
 #include <delayimp.h>

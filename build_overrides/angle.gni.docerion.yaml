@@ -1,0 +1,4 @@
+# Docerion header of angle.gni.
+type: config
+title: ANGLE build overrides
+summary: Defines the ANGLE root, flags for static linking, PartitionAlloc use, and shared Vulkan loading, plus paths to ANGLE's dependencies for Chromium builds.

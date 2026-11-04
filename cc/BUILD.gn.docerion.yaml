@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the cc compositor
+summary: Defines the GN build targets, sources, and dependencies for the cc compositor library and its components.

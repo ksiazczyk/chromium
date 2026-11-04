@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedPdhQuery implementation
+// summary: Implements ScopedPdhQuery::Create, which opens a PDH query handle and records open failures in a sparse histogram.
+// ---
+
 #include "base/win/scoped_pdh_query.h"
 
 #include "base/metrics/histogram_functions.h"

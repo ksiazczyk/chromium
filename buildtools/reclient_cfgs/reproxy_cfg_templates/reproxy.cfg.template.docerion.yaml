@@ -1,0 +1,4 @@
+# Docerion header of reproxy.cfg.template.
+type: config
+title: reproxy.cfg.template
+summary: Template configuration for the reproxy RBE client, defining service endpoints, caching, concurrency, compression and metrics settings with placeholders for instance, auth and depsscanner values.

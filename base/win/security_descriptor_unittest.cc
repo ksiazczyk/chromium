@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Security descriptor unit tests
+// summary: Unit tests for the SecurityDescriptor class covering SDDL parsing, DACL and SACL handling, file and event security, and access checks.
+// ---
+
 #include "base/win/security_descriptor.h"
 
 #include <windows.h>

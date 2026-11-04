@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ObjectWatcher implementation
+// summary: Implements ObjectWatcher, which asynchronously watches Windows objects for signals via RegisterWaitForSingleObject and posts callbacks to the originating sequence.
+// ---
+
 #include "base/win/object_watcher.h"
 
 #include <windows.h>

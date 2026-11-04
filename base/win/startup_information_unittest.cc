@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for StartupInformation handle inheritance
+// summary: Unit tests verifying that only explicitly specified handles are inherited by child processes via StartupInformation attribute lists.
+// ---
+
 #include "base/win/startup_information.h"
 
 #include <windows.h>

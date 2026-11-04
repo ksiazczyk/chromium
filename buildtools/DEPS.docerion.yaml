@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS file for clang-format tool binaries
+summary: Declares per-platform clang-format binaries pulled from the chromium-clang-format Google Storage bucket, with hashes, sizes, and host OS conditions.

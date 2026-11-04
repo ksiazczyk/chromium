@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedBstr RAII wrapper for Windows BSTR strings
+// summary: Declares ScopedBstr, an RAII wrapper managing BSTR string pointers with allocation, release, swap, receive and length utilities.
+// ---
+
 #ifndef BASE_WIN_SCOPED_BSTR_H_
 #define BASE_WIN_SCOPED_BSTR_H_
 

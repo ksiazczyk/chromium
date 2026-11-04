@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HStringReference declarations
+// summary: Declares HStringReference, a non-copyable HSTRING wrapper backed by memory that outlives the instance.
+// ---
+
 #ifndef BASE_WIN_HSTRING_REFERENCE_H_
 #define BASE_WIN_HSTRING_REFERENCE_H_
 

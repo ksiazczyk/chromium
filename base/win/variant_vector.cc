@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VariantVector implementation
+// summary: Implements the VariantVector class, including lexicographical comparison against VARIANTs and SAFEARRAYs and release as scalar or SAFEARRAY variants.
+// ---
+
 #include "base/win/variant_vector.h"
 
 #include <optional>

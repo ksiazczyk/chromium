@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GenericScopedHandle RAII wrapper for Windows handles
+// summary: Declares GenericScopedHandle, an RAII wrapper that closes Windows handles automatically, rejects pseudo-handles and preserves the LastError code.
+// ---
+
 #ifndef BASE_WIN_SCOPED_HANDLE_H_
 #define BASE_WIN_SCOPED_HANDLE_H_
 

@@ -1,6 +1,13 @@
 // Copyright 2018 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Safe shlwapi.h include wrapper
+// summary: Wrapper header that includes the Windows shlwapi.h while guarding against and cleaning up poisonous macro defines.
+// ---
+
 #ifndef BASE_WIN_SHLWAPI_H_
 #define BASE_WIN_SHLWAPI_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows dark mode support implementation
+// summary: Loads uxtheme.dll ordinals to enable and control Windows dark mode for the app and individual windows on supported Windows versions.
+// ---
+
 #include "base/win/dark_mode_support.h"
 
 #include <windows.h>

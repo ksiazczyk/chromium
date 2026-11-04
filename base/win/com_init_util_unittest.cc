@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: COM initialization utilities unit tests
+// summary: Unit tests for apartment type detection and assertion helpers across uninitialized, STA, and MTA COM initialization scenarios.
+// ---
+
 #include "base/win/com_init_util.h"
 
 #include "base/test/gtest_util.h"

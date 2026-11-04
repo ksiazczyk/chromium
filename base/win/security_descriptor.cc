@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SecurityDescriptor implementation
+// summary: Implements SecurityDescriptor support for Windows securable objects, including generic access mapping for files, registry keys, window stations, and desktops.
+// ---
+
 #include "base/win/security_descriptor.h"
 
 // clang-format off

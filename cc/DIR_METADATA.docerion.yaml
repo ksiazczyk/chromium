@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for cc
+summary: Declares the Chromium issue tracker component, team email, and Buganizer ID for the cc directory.

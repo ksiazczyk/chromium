@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS file for the checkdeps tool
+summary: Configures checkdeps to skip the testdata subdirectory when checking child includes.

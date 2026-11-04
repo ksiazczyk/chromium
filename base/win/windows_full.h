@@ -5,6 +5,12 @@
 // This header is needed so that mojo typemap files can specify their dependence
 // on Windows.h. This can be removed once https://crbug.com/798763 is resolved.
 
+// ---docerion
+// type: source
+// title: Full windows.h include wrapper
+// summary: Header that includes windows.h so mojo typemap files can declare a dependence on it, intended for removal once the related bug is resolved.
+// ---
+
 #ifndef BASE_WIN_WINDOWS_FULL_H_
 #define BASE_WIN_WINDOWS_FULL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ObjectWatcher unit tests
+// summary: Unit tests covering ObjectWatcher behavior for basic signaling, cancellation, signals before watching, repeated watching, and outliving the task environment.
+// ---
+
 #include "base/win/object_watcher.h"
 
 #include <windows.h>

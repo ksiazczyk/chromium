@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ScopedVariant
+// summary: Unit tests covering construction, set, release, reset, swap, and comparison behavior of the ScopedVariant COM VARIANT wrapper.
+// ---
+
 #include "base/win/scoped_variant.h"
 
 #include <stdint.h>

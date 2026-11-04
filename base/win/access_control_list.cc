@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AccessControlList implementation
+// summary: Implements Windows ACL handling, including converting ACLs to buffers, building empty ACLs, and adding explicit access entries via SetEntriesInAcl.
+// ---
+
 #include "base/win/access_control_list.h"
 
 #include <windows.h>

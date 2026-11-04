@@ -19,6 +19,12 @@
 //
 // =============================================================================
 
+// ---docerion
+// type: source
+// title: Windows utility functions header
+// summary: Declares Windows helper functions in base::win, including user SID retrieval, UAC checks, property store setters, and AutoRun registry commands.
+// ---
+
 #ifndef BASE_WIN_WIN_UTIL_H_
 #define BASE_WIN_WIN_UTIL_H_
 

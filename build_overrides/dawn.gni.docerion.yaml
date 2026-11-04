@@ -1,0 +1,4 @@
+# Docerion header of dawn.gni.
+type: config
+title: Dawn build overrides
+summary: Defines paths to Dawn's dependencies, including ANGLE, SwiftShader, Vulkan components, and DirectX tooling, for Chromium builds.

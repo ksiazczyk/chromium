@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Code patching utility implementation
+// summary: Implements the internal ModifyCode helper, which temporarily changes page protection with VirtualProtect to copy bytes into destination memory.
+// ---
+
 #include "base/win/patch_util.h"
 
 #include "base/compiler_specific.h"

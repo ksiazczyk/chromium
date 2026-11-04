@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows security descriptor class header
+// summary: Declares the base::win::SecurityDescriptor class for reading, creating, and writing Windows security descriptors from files, named objects, handles, and SDDL strings.
+// ---
+
 #ifndef BASE_WIN_SECURITY_DESCRIPTOR_H_
 #define BASE_WIN_SECURITY_DESCRIPTOR_H_
 

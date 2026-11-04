@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Wrapped window procedure unit tests
+// summary: Unit test that verifies the wrapped window procedure catches exceptions raised inside a WindowProc and reports them to the filter.
+// ---
+
 #include "base/win/wrapped_window_proc.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

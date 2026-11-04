@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: VectorChangedEventArgs implementation
+// summary: Implements the internal VectorChangedEventArgs class exposing the collection change kind and index for WinRT vector changed events.
+// ---
+
 #include "base/win/vector.h"
 
 namespace base {

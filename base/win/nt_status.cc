@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Last NT status retrieval helper
+// summary: Provides GetLastNtStatus, returning the calling thread's last NTSTATUS via RtlGetLastNtStatus from ntdll.dll.
+// ---
+
 #include "base/win/nt_status.h"
 
 #include <windows.h>

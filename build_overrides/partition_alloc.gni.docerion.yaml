@@ -1,0 +1,4 @@
+# Docerion header of partition_alloc.gni.
+type: config
+title: PartitionAlloc build overrides
+summary: Defines PartitionAlloc's default build configuration for Chromium, covering the allocator shim, sanitizer handling, and platform-specific restrictions.

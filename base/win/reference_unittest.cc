@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the WinRT IReference wrapper
+// summary: Tests the Reference template's get_Value behavior for int and bool values, including SDK specialization shims for newer Windows SDKs.
+// ---
+
 #include "base/win/reference.h"
 
 #include <windows.foundation.h>

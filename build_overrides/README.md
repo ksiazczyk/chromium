@@ -1,3 +1,11 @@
+---
+type: readme
+title: Build overrides in GN
+summary: Explains how the build_overrides directory lets different products customize settings for shared or DEPS'ed repositories via per-project .gni files.
+relations:
+  - documents /build_overrides/build.gni
+---
+
 # Build overrides in GN
 
 This directory is used to allow different products to customize settings

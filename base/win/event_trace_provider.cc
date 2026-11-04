@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ETW trace provider implementation
+// summary: Implements EtwTraceProvider, which registers with Windows Event Tracing and logs events through active trace sessions.
+// ---
+
 #include "base/win/event_trace_provider.h"
 
 #include <windows.h>

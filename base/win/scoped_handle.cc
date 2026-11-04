@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped handle traits and verifier implementation
+// summary: Implements handle traits and verifier hooks for scoped Windows handles, including duplication, tracking and typed handle adoption with type checks.
+// ---
+
 #include "base/win/scoped_handle.h"
 
 #include <windows.h>

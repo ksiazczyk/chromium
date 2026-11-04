@@ -1,0 +1,4 @@
+# Docerion header of cc.gni.
+type: config
+title: GN templates for cc build targets
+summary: Provides GN templates such as cc_component and cc_test that apply standard compiler configs to cc build targets.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WinRT activation utility header
+// summary: Declares WinRT wrappers and a GetActivationFactory template for retrieving activation factories by runtime class ID.
+// ---
+
 #ifndef BASE_WIN_CORE_WINRT_UTIL_H_
 #define BASE_WIN_CORE_WINRT_UTIL_H_
 

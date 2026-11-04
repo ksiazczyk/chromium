@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AsyncOperation implementation of Windows IAsyncOperation
+// summary: Implements Windows::Foundation::IAsyncOperation for value and interface types, exposing a callback to supply results to registered completion handlers.
+// ---
+
 #ifndef BASE_WIN_ASYNC_OPERATION_H_
 #define BASE_WIN_ASYNC_OPERATION_H_
 

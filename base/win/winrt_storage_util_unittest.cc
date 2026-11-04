@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WinRT storage utilities unit tests
+// summary: Unit test verifying that an IBuffer can be created from data and its bytes read back through a span.
+// ---
+
 #include "base/win/winrt_storage_util.h"
 
 #include <string.h>

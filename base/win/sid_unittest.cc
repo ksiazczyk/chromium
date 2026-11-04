@@ -4,6 +4,12 @@
 
 // This file contains unit tests for the sid class.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Sid class
+// summary: Unit tests verifying Sid creation from named and known capabilities, SDDL strings, and well-known SIDs against Windows API results.
+// ---
+
 #include "base/win/sid.h"
 
 #include <windows.h>

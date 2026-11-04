@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedHandle unit tests
+// summary: Unit tests for ScopedHandle covering LastError preservation, handle duplication, and rejection of invalid and pseudo handles.
+// ---
+
 #include "base/win/scoped_handle.h"
 
 #include <windows.h>

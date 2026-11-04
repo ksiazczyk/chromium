@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StartupInformation implementation for STARTUPINFOEX
+// summary: Implements the StartupInformation wrapper that initializes and updates process thread attribute lists for extended process startup.
+// ---
+
 #include "base/win/startup_information.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AtlThrow implementation that crashes on ATL errors
+// summary: Implements AtlThrowImpl, terminating the process immediately and specifically on out-of-memory HRESULTs.
+// ---
+
 #include "base/win/atl_throw.h"
 
 #include <winerror.h>

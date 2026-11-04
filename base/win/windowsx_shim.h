@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: windowsx.h shim header
+// summary: Replacement header for windowsx.h that undefines conflicting macros such as GetFirstChild and IsMaximized so Chromium code can include it safely.
+// ---
+
 #ifndef BASE_WIN_WINDOWSX_SHIM_H_
 #define BASE_WIN_WINDOWSX_SHIM_H_
 

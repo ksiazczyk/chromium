@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Custom ATL throw handler declaration
+// summary: Configures ATL to use a custom AtlThrow that crashes the process instead of throwing CAtlException, preserving the failing HRESULT.
+// ---
+
 #ifndef BASE_WIN_ATL_THROW_H_
 #define BASE_WIN_ATL_THROW_H_
 

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: ci
+# title: Presubmit checks for cc changes
+# summary: Runs presubmit checks for cc changes, enforcing linting, DCHECK usage, std::abs qualification, and pass-by-value rules.
+# ---
+
 """Top-level presubmit script for cc.
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

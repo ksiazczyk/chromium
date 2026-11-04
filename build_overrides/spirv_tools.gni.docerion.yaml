@@ -1,0 +1,4 @@
+# Docerion header of spirv_tools.gni.
+type: config
+title: SPIRV-Tools build overrides
+summary: Configures SPIRV-Tools for in-Chromium builds and points to the bundled googletest and SPIRV-Headers dependency paths.

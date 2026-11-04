@@ -21,6 +21,12 @@
 // no-include-guard-because-multiply-included
 // NOLINT(build/header_guard)
 
+// ---docerion
+// type: source
+// title: Guard against windows.h inclusion
+// summary: Header for source files that must not use windows.h; it raises a compile error if windows.h has been included, preventing namespace pollution.
+// ---
+
 #if defined(_WINDOWS_)
 #error Windows.h was included unexpectedly. See comment above for details.
 #endif

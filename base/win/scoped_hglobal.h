@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ScopedHGlobal RAII wrapper for HGLOBAL memory
+// summary: Defines a ScopedHGlobal template that locks an HGLOBAL memory block and unlocks it on destruction, exposing data and size accessors.
+// ---
+
 #ifndef BASE_WIN_SCOPED_HGLOBAL_H_
 #define BASE_WIN_SCOPED_HGLOBAL_H_
 

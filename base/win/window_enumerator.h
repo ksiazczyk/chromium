@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window enumeration and query helpers header
+// summary: Declares helpers for enumerating child windows and querying window class, text, topmost state, system dialog, and shell window status.
+// ---
+
 #ifndef BASE_WIN_WINDOW_ENUMERATOR_H_
 #define BASE_WIN_WINDOW_ENUMERATOR_H_
 

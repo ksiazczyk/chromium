@@ -1,3 +1,9 @@
+# ---docerion
+# type: config
+# title: Git ignore rules for reclient config files
+# summary: Ignores generated directories such as chromium-browser-clang, python and win-cross, plus the reproxy.cfg file, from version control.
+# ---
+
 /chromium-browser-clang/
 /python/
 /win-cross/

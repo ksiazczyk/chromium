@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shim header for wincred.h includes
+// summary: Shim header that Chromium headers include instead of wincred.h, undefining the CredProtect macro that maps to a W-suffixed variant.
+// ---
+
 #ifndef BASE_WIN_WINCRED_SHIM_H_
 #define BASE_WIN_WINCRED_SHIM_H_
 

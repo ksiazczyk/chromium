@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for Windows elevation utilities
+// summary: Tests the de-elevated process launching helpers, including explicit explorer PID use, failure cases, and no-wait variants.
+// ---
+
 #include "base/win/elevation_util.h"
 
 #include <shlobj.h>

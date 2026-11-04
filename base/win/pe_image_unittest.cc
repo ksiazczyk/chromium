@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PEImage unit tests
+// summary: Unit tests verifying that PEImage enumerates the expected sections, imports, delay imports, exports and relocations from architecture-specific test DLLs.
+// ---
+
 // This file contains unit tests for PEImage.
 #include "base/win/pe_image.h"
 

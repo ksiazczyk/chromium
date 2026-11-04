@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows OS version query API
+// summary: Declares the OSInfo singleton plus Version and VersionType enums for querying the running Windows release, edition, service pack, and architecture.
+// ---
+
 #ifndef BASE_WIN_WINDOWS_VERSION_H_
 #define BASE_WIN_WINDOWS_VERSION_H_
 

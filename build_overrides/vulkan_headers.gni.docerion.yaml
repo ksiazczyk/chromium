@@ -1,0 +1,4 @@
+# Docerion header of vulkan_headers.gni.
+type: config
+title: Vulkan headers build overrides
+summary: Configures Vulkan headers platform support, enabling X11 and Wayland based on Ozone settings and setting Wayland include directories.

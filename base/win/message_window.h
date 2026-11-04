@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Message-only window class declaration
+// summary: Declares MessageWindow for creating message-only Windows windows that dispatch incoming messages to a caller-provided callback.
+// ---
+
 #ifndef BASE_WIN_MESSAGE_WINDOW_H_
 #define BASE_WIN_MESSAGE_WINDOW_H_
 

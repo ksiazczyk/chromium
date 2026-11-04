@@ -3,6 +3,13 @@
 // found in the LICENSE file.
 //
 // Unit tests for event trace provider.
+
+// ---docerion
+// type: test
+// title: ETW trace provider unit tests
+// summary: Unit tests verifying EtwTraceProvider registration, logging, and safe use before construction and after destruction.
+// ---
+
 #include "base/win/event_trace_provider.h"
 
 #include <initguid.h>

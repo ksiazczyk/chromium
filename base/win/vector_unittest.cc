@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the WinRT Vector wrapper
+// summary: Unit tests exercising base::win::Vector and VectorView behavior, including iteration, mutation, and observable vector change notifications.
+// ---
+
 #include "base/win/vector.h"
 
 #include <windows.foundation.h>

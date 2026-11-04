@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: COM initialization utilities header
+// summary: Declares the ComApartmentType enum and functions to query and assert the current thread's COM apartment type in debug builds.
+// ---
+
 #ifndef BASE_WIN_COM_INIT_UTIL_H_
 #define BASE_WIN_COM_INIT_UTIL_H_
 

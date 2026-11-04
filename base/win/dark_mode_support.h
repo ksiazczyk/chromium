@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows dark mode support header
+// summary: Declares functions to check dark mode availability and to enable dark mode for the app or a given window.
+// ---
+
 #ifndef BASE_WIN_DARK_MODE_SUPPORT_H_
 #define BASE_WIN_DARK_MODE_SUPPORT_H_
 

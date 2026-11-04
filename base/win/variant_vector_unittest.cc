@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for VariantVector
+// summary: Unit tests covering VariantVector insertion, move semantics, variant type enforcement, comparison, and release as scalar or SAFEARRAY variants.
+// ---
+
 #include "base/win/variant_vector.h"
 
 #include <stddef.h>

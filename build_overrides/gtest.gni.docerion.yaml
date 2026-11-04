@@ -1,0 +1,4 @@
+# Docerion header of gtest.gni.
+type: config
+title: googletest build overrides
+summary: Enables googletest features for Chromium, including multiprocess main registration, platform and Objective-C test support, and iOS coverage flushing.
