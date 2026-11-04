@@ -1,3 +1,9 @@
+---
+type: readme
+title: README for profiles_strings_grdp
+summary: Explains that this directory of image SHA-1 hashes provides context images to help translators improve UI string translations.
+---
+
 This directory of image SHA-1 hashes is used to improve translations of UI
 strings through context images for translators.
 

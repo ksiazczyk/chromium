@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for profiles_strings_grdp
+summary: Delegates review ownership for this directory to the Chrome browser profiles and profiles views OWNERS files.
