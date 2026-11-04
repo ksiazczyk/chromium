@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the Nearby Share client
+summary: Defines GN source sets for the Nearby Share client, its fake test support, and unit tests, together with their dependencies.

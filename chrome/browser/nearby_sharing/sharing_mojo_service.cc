@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sharing Mojo Service
+// summary: Launches the Nearby Sharing service in an isolated sandboxed process via ServiceProcessHost and returns a Mojo remote for controlling it.
+// ---
+
 #include "chrome/browser/nearby_sharing/sharing_mojo_service.h"
 
 #include "chromeos/ash/services/nearby/public/mojom/sharing.mojom.h"

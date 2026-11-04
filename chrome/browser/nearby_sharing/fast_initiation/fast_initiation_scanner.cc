@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Initiation scanner implementation
+// summary: Implements FastInitiationScanner, which starts a low-energy scan session filtered on Fast Initiation advertisements and reports device found and lost events.
+// ---
+
 #include "chrome/browser/nearby_sharing/fast_initiation/fast_initiation_scanner.h"
 
 #include <stdint.h>

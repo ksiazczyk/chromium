@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Receive messages express implementation
+// summary: Implements receiving streaming WebRTC signaling messages from the Instant Messaging API over HTTP, with timeouts and metrics.
+// ---
+
 #include "chrome/browser/nearby_sharing/instantmessaging/receive_messages_express.h"
 
 #include <sstream>

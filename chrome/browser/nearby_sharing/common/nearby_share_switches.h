@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share command-line switch declarations
+// summary: Header declaring the Nearby Share command-line switch constants so other browser code can reference them.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_COMMON_NEARBY_SHARE_SWITCHES_H_
 #define CHROME_BROWSER_NEARBY_SHARING_COMMON_NEARBY_SHARE_SWITCHES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: File attachment implementation
+// summary: Implements FileAttachment, deriving MIME type and attachment type from file paths and mapping them to Nearby Share share types including PDF and Google Docs files.
+// ---
+
 #include "chrome/browser/nearby_sharing/file_attachment.h"
 
 #include <utility>

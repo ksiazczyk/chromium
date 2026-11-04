@@ -1,6 +1,13 @@
 // Copyright 2020 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: source
+// title: Text Attachment
+// summary: Implements text attachments for Nearby Share, including title generation for URLs and phone numbers with masking of sensitive digits.
+// ---
+
 #include "chrome/browser/nearby_sharing/text_attachment.h"
 
 #include <algorithm>

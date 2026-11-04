@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paired key verification runner implementation
+// summary: Implements the paired key verification handshake that exchanges and verifies encryption and result frames between Nearby Share devices.
+// ---
+
 #include "chrome/browser/nearby_sharing/paired_key_verification_runner.h"
 
 #include <iomanip>

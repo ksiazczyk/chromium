@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Nearby Share contact downloader unit tests
+// summary: Parameterized unit tests for the contact downloader covering success, failure, timeout, and pagination with fake clients and contact records.
+// ---
+
 #include "chrome/browser/nearby_sharing/contacts/nearby_share_contact_downloader_impl.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WifiCredentialsAttachment class header
+// summary: Declares the WifiCredentialsAttachment class that stores Wi-Fi SSID, security type and password as a Nearby Share attachment.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_WIFI_CREDENTIALS_ATTACHMENT_H_
 #define CHROME_BROWSER_NEARBY_SHARING_WIFI_CREDENTIALS_ATTACHMENT_H_
 

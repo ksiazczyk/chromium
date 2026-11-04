@@ -6,6 +6,12 @@
 // http://google3/google/internal/communications/instantmessaging/v1/ice.proto
 // Messages not used in Chrome have been omitted.
 
+// ---docerion
+// type: source
+// title: ICE server configuration protobuf messages
+// summary: Defines ICEConfiguration and ICEServerList messages describing STUN and TURN servers used to establish Nearby Sharing connections.
+// ---
+
 syntax = "proto3";
 
 package nearbyshare.tachyon_proto;

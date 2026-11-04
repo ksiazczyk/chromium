@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share encrypted metadata key implementation
+// summary: Implements the constructor and copy and move operations for the struct holding a salt and an encrypted metadata encryption key.
+// ---
+
 #include "chrome/browser/nearby_sharing/certificates/nearby_share_encrypted_metadata_key.h"
 
 #include <stdint.h>

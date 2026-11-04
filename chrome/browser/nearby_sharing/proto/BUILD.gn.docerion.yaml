@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Nearby Sharing Tachyon proto build definition
+summary: Defines the tachyon_proto proto_library build target listing the five Nearby Sharing protobuf source files, ChromeOS only.

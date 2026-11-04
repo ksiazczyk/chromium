@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Nearby Share logging BUILD.gn
+summary: GN build file defining the util source set for Nearby Share logging, listing the proto-to-dictionary conversion sources and their Nearby proto dependencies.

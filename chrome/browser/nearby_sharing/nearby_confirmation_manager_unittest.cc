@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NearbyConfirmationManager unit tests
+// summary: Unit tests covering success and error paths of Accept, Reject, and Cancel in NearbyConfirmationManager using a mock sharing service.
+// ---
+
 #include "chrome/browser/nearby_sharing/nearby_confirmation_manager.h"
 
 #include "base/test/mock_callback.h"

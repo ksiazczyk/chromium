@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Certificate validity and token hash helpers
+// summary: Implements certificate expiry and validity-period checks with clock-skew tolerance and HKDF-based authentication token hashing for Nearby Share.
+// ---
+
 #include "chrome/browser/nearby_sharing/certificates/common.h"
 
 #include <array>

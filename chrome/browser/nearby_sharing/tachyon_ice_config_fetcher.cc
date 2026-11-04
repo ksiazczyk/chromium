@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tachyon ICE Config Fetcher
+// summary: Fetches ICE server configurations from the Tachyon API for WebRTC peer-to-peer Nearby Share connections, with caching, timeouts, and metrics.
+// ---
+
 #include "chrome/browser/nearby_sharing/tachyon_ice_config_fetcher.h"
 
 #include <optional>

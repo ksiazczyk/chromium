@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incoming frames reader implementation
+// summary: Implements IncomingFramesReader, which reads and decodes incoming Nearby Share frames from a connection with frame caching, timeouts, and nearby process shutdown handling.
+// ---
+
 #include "chrome/browser/nearby_sharing/incoming_frames_reader.h"
 
 #include <type_traits>

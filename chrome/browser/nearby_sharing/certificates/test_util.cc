@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Nearby Share certificate test utilities implementation
+// summary: Provides sample keys, metadata, signatures, and certificate factory functions shared by the Nearby Share certificate unit tests.
+// ---
+
 
 #include "chrome/browser/nearby_sharing/certificates/test_util.h"
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Tachyon ICE Config Fetcher Unit Tests
+// summary: Unit tests covering ICE server response parsing, OAuth token handling, caching, and result metrics for TachyonIceConfigFetcher.
+// ---
+
 #include "chrome/browser/nearby_sharing/tachyon_ice_config_fetcher.h"
 
 #include "base/logging.h"

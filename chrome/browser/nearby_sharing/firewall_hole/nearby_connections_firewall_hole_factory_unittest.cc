@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Nearby Connections firewall hole factory unit tests
+// summary: Unit tests using a fake permission broker client to verify the factory opens TCP firewall holes on success and returns a null remote on failure.
+// ---
+
 #include "chrome/browser/nearby_sharing/firewall_hole/nearby_connections_firewall_hole_factory.h"
 
 #include <memory>

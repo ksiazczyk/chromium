@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Send message express unit tests
+// summary: Unit tests for SendMessageExpress covering OAuth token failure, HTTP errors, and empty responses.
+// ---
+
 #include "chrome/browser/nearby_sharing/instantmessaging/send_message_express.h"
 
 #include "base/run_loop.h"

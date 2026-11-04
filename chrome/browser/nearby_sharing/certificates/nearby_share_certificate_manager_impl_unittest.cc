@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Nearby Share certificate manager unit tests
+// summary: Unit tests for NearbyShareCertificateManagerImpl covering certificate creation, download, upload, expiration, and decryption using fake storage, client, and scheduler dependencies.
+// ---
+
 #include "chrome/browser/nearby_sharing/certificates/nearby_share_certificate_manager_impl.h"
 
 #include <string>

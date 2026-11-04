@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share transfer throughput metrics logging implementation
+// summary: Implements structured throughput metrics logging during transfers, batching updates and handling medium bandwidth upgrades.
+// ---
+
 #include "chrome/browser/nearby_sharing/metrics/throughput_metric_logger.h"
 
 #include <utility>

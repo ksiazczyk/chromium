@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Connections firewall hole factory implementation
+// summary: Implements the factory that opens TCP firewall holes for Nearby Connections Wi-Fi LAN ports via chromeos FirewallHole and returns Mojo remotes to callers.
+// ---
+
 #include <memory>
 #include <string>
 

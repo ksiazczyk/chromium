@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Outgoing share target info
+// summary: Declares OutgoingShareTargetInfo, a ShareTargetInfo subclass holding the obfuscated Gaia ID and text and file payloads for an outgoing transfer.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_OUTGOING_SHARE_TARGET_INFO_H_
 #define CHROME_BROWSER_NEARBY_SHARING_OUTGOING_SHARE_TARGET_INFO_H_
 

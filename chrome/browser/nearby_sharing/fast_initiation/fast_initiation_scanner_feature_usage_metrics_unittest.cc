@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fast Initiation scanner feature usage metrics unit tests
+// summary: Unit tests for FastInitiationScannerFeatureUsageMetrics verifying eligible and enabled histogram events with mock adapters and a testing pref service.
+// ---
+
 #include "chrome/browser/nearby_sharing/fast_initiation/fast_initiation_scanner_feature_usage_metrics.h"
 
 #include <memory>

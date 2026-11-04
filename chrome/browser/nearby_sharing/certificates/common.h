@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Declarations for certificate validity and key derivation helpers
+// summary: Declares validity-check functions plus templates for HKDF key derivation and random byte generation used by Nearby Share certificates.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_CERTIFICATES_COMMON_H_
 #define CHROME_BROWSER_NEARBY_SHARING_CERTIFICATES_COMMON_H_
 

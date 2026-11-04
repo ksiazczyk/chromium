@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tachyon ICE Config Fetcher Header
+// summary: Declares the TachyonIceConfigFetcher class, which retrieves and caches ICE servers from the Tachyon API using identity and network services.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_TACHYON_ICE_CONFIG_FETCHER_H_
 #define CHROME_BROWSER_NEARBY_SHARING_TACHYON_ICE_CONFIG_FETCHER_H_
 

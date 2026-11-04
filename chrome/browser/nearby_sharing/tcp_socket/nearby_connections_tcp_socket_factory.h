@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbyConnectionsTcpSocketFactory header
+// summary: Declares NearbyConnectionsTcpSocketFactory and its ConnectTask helper, which create TCP sockets for the Nearby Connections WifiLan medium with a configurable connect timeout.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_TCP_SOCKET_NEARBY_CONNECTIONS_TCP_SOCKET_FACTORY_H_
 #define CHROME_BROWSER_NEARBY_SHARING_TCP_SOCKET_NEARBY_CONNECTIONS_TCP_SOCKET_FACTORY_H_
 

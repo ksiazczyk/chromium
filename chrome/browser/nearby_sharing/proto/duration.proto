@@ -31,6 +31,12 @@
 // Copied from
 // https://source.chromium.org/chromium/chromium/src/+/main:third_party/protobuf/src/google/protobuf/duration.proto;drc=f348ad39feaf27a5d557fcd8b309ba43410dfedd
 
+// ---docerion
+// type: source
+// title: Duration protobuf message for Tachyon
+// summary: Defines a Duration message with seconds and nanos, copied from Google protobuf for the nearbyshare.tachyon_proto package.
+// ---
+
 syntax = "proto3";
 
 package nearbyshare.tachyon_proto;

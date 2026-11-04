@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share transfer profiler implementation
+// summary: Implements timing instrumentation that records duration metrics for each stage of Nearby Share transfers.
+// ---
+
 #include "chrome/browser/nearby_sharing/nearby_share_transfer_profiler.h"
 
 #include "base/time/time.h"

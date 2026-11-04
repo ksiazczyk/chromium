@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebRTC request builder header
+// summary: Declares BuildSendRequest and BuildReceiveRequest helpers that construct instant messaging protobuf requests for WebRTC signaling.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_WEBRTC_REQUEST_BUILDER_H_
 #define CHROME_BROWSER_NEARBY_SHARING_WEBRTC_REQUEST_BUILDER_H_
 

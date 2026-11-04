@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share local device data manager base implementation
+// summary: Implements the base NearbyShareLocalDeviceDataManager class with observer management, start/stop scheduling, and local device data change notifications.
+// ---
+
 #include "chrome/browser/nearby_sharing/local_device_data/nearby_share_local_device_data_manager.h"
 
 #include "base/strings/to_string.h"

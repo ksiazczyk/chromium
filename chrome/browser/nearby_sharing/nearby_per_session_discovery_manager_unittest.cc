@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NearbyPerSessionDiscoveryManager unit tests
+// summary: Unit tests for the per-session discovery manager covering discovery start and stop, share target selection, and transfer updates.
+// ---
+
 #include "chrome/browser/nearby_sharing/nearby_per_session_discovery_manager.h"
 
 #include <optional>

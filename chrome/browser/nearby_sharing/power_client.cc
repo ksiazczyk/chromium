@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power client implementation
+// summary: Implements PowerClient, which tracks system suspend state and notifies registered observers of imminent suspend and suspend-done events.
+// ---
+
 #include "chrome/browser/nearby_sharing/power_client.h"
 
 PowerClient::PowerClient() = default;

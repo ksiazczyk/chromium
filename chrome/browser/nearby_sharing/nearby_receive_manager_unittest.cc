@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NearbyReceiveManager unit tests
+// summary: Unit tests for the receive manager covering receive surface registration, high visibility state, and accept and reject flows.
+// ---
+
 #include "chrome/browser/nearby_sharing/nearby_receive_manager.h"
 
 #include <optional>

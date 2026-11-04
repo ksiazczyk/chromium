@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Nearby Sharing BUILD.gn build configuration
+summary: Defines GN source sets and dependencies for the ChromeOS Nearby Sharing browser code, including the share_target and nearby_sharing targets.

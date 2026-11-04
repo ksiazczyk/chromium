@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbyShareClient interface
+// summary: Defines the NearbyShareClient interface for NearbyShareService v1 API requests covering device updates, contacts, and public certificates.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_CLIENT_NEARBY_SHARE_CLIENT_H_
 #define CHROME_BROWSER_NEARBY_SHARING_CLIENT_NEARBY_SHARE_CLIENT_H_
 

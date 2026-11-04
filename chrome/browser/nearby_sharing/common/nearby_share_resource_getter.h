@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share resource getter class declaration
+// summary: Declares the NearbyShareResourceGetter singleton used to retrieve feature name strings for Nearby Share.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_COMMON_NEARBY_SHARE_RESOURCE_GETTER_H_
 #define CHROME_BROWSER_NEARBY_SHARING_COMMON_NEARBY_SHARE_RESOURCE_GETTER_H_
 

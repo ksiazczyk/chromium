@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Nearby Share contact downloader
+// summary: Fake contact downloader and factory for tests that records created instances and exposes Fail and Succeed to invoke result callbacks.
+// ---
+
 #include "chrome/browser/nearby_sharing/contacts/fake_nearby_share_contact_downloader.h"
 
 #include <utility>

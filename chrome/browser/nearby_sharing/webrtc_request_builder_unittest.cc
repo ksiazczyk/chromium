@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebRTC request builder unit tests
+// summary: Unit tests verifying that built send and receive requests carry the correct IDs, location hints and unique request IDs.
+// ---
+
 #include "chrome/browser/nearby_sharing/webrtc_request_builder.h"
 
 #include "base/i18n/timezone.h"

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Nearby Sharing include rules
+summary: Specifies allowed include dependencies for the directory, with per-file exceptions for nearby connections manager and service test files.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share device data updater RPC implementation declaration
+// summary: Declares the NearbyShareClient-based implementation of the device data updater along with its factory for testing.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_LOCAL_DEVICE_DATA_NEARBY_SHARE_DEVICE_DATA_UPDATER_IMPL_H_
 #define CHROME_BROWSER_NEARBY_SHARING_LOCAL_DEVICE_DATA_NEARBY_SHARE_DEVICE_DATA_UPDATER_IMPL_H_
 

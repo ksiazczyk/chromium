@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share contact record sorter interface
+// summary: Declares SortNearbyShareContactRecords, which orders contact records by name or email, email, phone number, and ID with locale-dependent collation.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_CONTACTS_NEARBY_SHARE_CONTACTS_SORTER_H_
 #define CHROME_BROWSER_NEARBY_SHARING_CONTACTS_NEARBY_SHARE_CONTACTS_SORTER_H_
 

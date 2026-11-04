@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share attachment transfer metrics logging implementation
+// summary: Implements structured metrics logging for file and text attachment transfers when a Nearby Share transfer completes.
+// ---
+
 #include "chrome/browser/nearby_sharing/metrics/attachment_metric_logger.h"
 
 #include <utility>

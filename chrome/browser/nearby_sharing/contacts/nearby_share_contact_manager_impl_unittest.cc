@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Nearby Share contact manager implementation
+// summary: Unit tests for NearbyShareContactManagerImpl covering contact downloads, uploads, allowlist handling, and periodic scheduling using fake dependencies.
+// ---
+
 
 #include "chrome/browser/nearby_sharing/contacts/nearby_share_contact_manager_impl.h"
 

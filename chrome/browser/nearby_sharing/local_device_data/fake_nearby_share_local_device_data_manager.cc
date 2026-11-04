@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Nearby Share local device data manager implementation
+// summary: Implements a fake local device data manager with a default device name that records contact and certificate upload calls for tests.
+// ---
+
 #include "chrome/browser/nearby_sharing/local_device_data/fake_nearby_share_local_device_data_manager.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbyConnectionsTcpSocketFactory implementation
+// summary: Implements the TcpSocketFactory mojo service for the Nearby Connections WifiLan medium, creating TCP server and connected sockets via NetworkContext with a custom connect timeout and connection-time metrics.
+// ---
+
 #include "chrome/browser/nearby_sharing/tcp_socket/nearby_connections_tcp_socket_factory.h"
 
 #include "base/functional/bind.h"

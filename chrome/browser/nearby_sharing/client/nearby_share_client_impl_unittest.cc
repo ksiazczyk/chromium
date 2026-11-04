@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NearbyShareClientImpl unit tests
+// summary: Unit tests for NearbyShareClientImpl that verify request URLs, HTTP methods, query parameters, and access token handling.
+// ---
+
 #include "chrome/browser/nearby_sharing/client/nearby_share_client_impl.h"
 
 #include <string>

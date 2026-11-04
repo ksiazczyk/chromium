@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Nearby Share local device data manager
+// summary: Unit tests for NearbyShareLocalDeviceDataManagerImpl covering device name validation, default names, data downloads, and contact and certificate uploads.
+// ---
+
 #include "chrome/browser/nearby_sharing/local_device_data/nearby_share_local_device_data_manager_impl.h"
 
 #include <locale>

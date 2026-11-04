@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Nearby Share decrypted public certificate unit tests
+// summary: Unit tests covering public certificate decryption, failures from incorrect keys, invalid metadata or validity periods, and signature verification.
+// ---
+
 #include "chrome/browser/nearby_sharing/certificates/nearby_share_decrypted_public_certificate.h"
 
 #include <array>

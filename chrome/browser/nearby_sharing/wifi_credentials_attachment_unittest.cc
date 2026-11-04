@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WifiCredentialsAttachment unit tests
+// summary: Unit tests verifying WifiCredentialsAttachment getters, share type and MoveToShareTarget behavior.
+// ---
+
 #include "chrome/browser/nearby_sharing/wifi_credentials_attachment.h"
 
 #include "chrome/browser/nearby_sharing/share_target.h"

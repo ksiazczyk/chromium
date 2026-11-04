@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share contact manager implementation
+// summary: Implements the contact manager by scheduling periodic contact downloads and uploads, persisting the allowlist in prefs, and hashing contact data to detect changes.
+// ---
+
 #include "chrome/browser/nearby_sharing/contacts/nearby_share_contact_manager_impl.h"
 
 #include <algorithm>

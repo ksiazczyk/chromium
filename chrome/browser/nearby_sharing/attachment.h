@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Attachment class header
+// summary: Declares the Attachment base class representing a file, text, or Wi-Fi credentials attachment sent to or received from a ShareTarget.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_ATTACHMENT_H_
 #define CHROME_BROWSER_NEARBY_SHARING_ATTACHMENT_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth advertising interval client header
+// summary: Declares BluetoothAdvertisingIntervalClient, which lowers the Bluetooth advertising interval while Nearby Share advertises and restores the system default when advertising stops.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_BLUETOOTH_ADVERTISING_INTERVAL_CLIENT_H_
 #define CHROME_BROWSER_NEARBY_SHARING_BLUETOOTH_ADVERTISING_INTERVAL_CLIENT_H_
 

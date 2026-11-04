@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share sharesheet action implementation
+// summary: Implements the NearbyShareAction sharesheet action, converting share intents into Nearby Share attachments and launching the Nearby Share UI.
+// ---
+
 #include "chrome/browser/nearby_sharing/sharesheet/nearby_share_action.h"
 
 #include <memory>

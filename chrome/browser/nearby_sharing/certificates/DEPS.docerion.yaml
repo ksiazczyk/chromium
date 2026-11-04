@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the certificates directory
+summary: Chromium DEPS file that grants this directory access to headers from the crypto dependency.

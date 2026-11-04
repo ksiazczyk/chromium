@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FakeWifiNetworkConfigurationHandler implementation
+// summary: Implements the fake Wi-Fi network configuration handler that records ConfigureWifiNetwork calls and returns a configurable network GUID and error message for tests.
+// ---
+
 #include "chrome/browser/nearby_sharing/wifi_network_configuration/fake_wifi_network_configuration_handler.h"
 
 FakeWifiNetworkConfigurationHandler::FakeWifiNetworkConfigurationHandler()

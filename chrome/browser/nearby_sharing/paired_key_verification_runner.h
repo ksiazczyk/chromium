@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Paired key verification runner
+// summary: Declares PairedKeyVerificationRunner, which verifies paired keys and public certificates between local and remote Nearby Share devices.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_PAIRED_KEY_VERIFICATION_RUNNER_H_
 #define CHROME_BROWSER_NEARBY_SHARING_PAIRED_KEY_VERIFICATION_RUNNER_H_
 

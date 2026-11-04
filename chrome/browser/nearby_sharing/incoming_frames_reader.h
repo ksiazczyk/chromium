@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Incoming frames reader header
+// summary: Declares IncomingFramesReader, a helper that reads frames of a given type from a Nearby connection with an optional timeout and caches frames not used immediately.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_INCOMING_FRAMES_READER_H_
 #define CHROME_BROWSER_NEARBY_SHARING_INCOMING_FRAMES_READER_H_
 

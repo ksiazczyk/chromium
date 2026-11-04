@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share private certificate implementation
+// summary: Implements the local device's private certificate, including key generation, metadata key encryption with unconsumed salts, payload signing, and dictionary serialization.
+// ---
+
 #include "chrome/browser/nearby_sharing/certificates/nearby_share_private_certificate.h"
 
 #include <stdint.h>

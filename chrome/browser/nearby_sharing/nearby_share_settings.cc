@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share settings implementation
+// summary: Implements Nearby Share user settings by reading and writing preferences and notifying observers of changes.
+// ---
+
 #include "chrome/browser/nearby_sharing/nearby_share_settings.h"
 
 #include "base/metrics/histogram_functions.h"

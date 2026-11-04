@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WifiNetworkConfigurationHandler implementation
+// summary: Configures a Wi-Fi network from a WifiCredentialsAttachment via the CrosNetworkConfig mojo interface and records Nearby Share success or failure metrics.
+// ---
+
 #include "chrome/browser/nearby_sharing/wifi_network_configuration/wifi_network_configuration_handler.h"
 
 #include "chrome/browser/nearby_sharing/nearby_share_metrics.h"

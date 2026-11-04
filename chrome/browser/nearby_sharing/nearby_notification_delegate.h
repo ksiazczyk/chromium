@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbyNotificationDelegate interface
+// summary: Declares the NearbyNotificationDelegate interface with OnClick and OnClose callbacks for Nearby Share notification events.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_NEARBY_NOTIFICATION_DELEGATE_H_
 #define CHROME_BROWSER_NEARBY_SHARING_NEARBY_NOTIFICATION_DELEGATE_H_
 

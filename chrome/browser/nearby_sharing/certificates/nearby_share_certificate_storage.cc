@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share certificate storage base implementation
+// summary: Implements shared NearbyShareCertificateStorage helpers for updating, expiring, and clearing private certificates in storage.
+// ---
+
 #include "chrome/browser/nearby_sharing/certificates/nearby_share_certificate_storage.h"
 
 #include <algorithm>

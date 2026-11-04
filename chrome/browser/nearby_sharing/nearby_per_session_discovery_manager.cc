@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbyPerSessionDiscoveryManager implementation
+// summary: Implements a single nearby discovery session, mapping transfer metadata to mojo transfer statuses and tracking discovery progress metrics.
+// ---
+
 #include "chrome/browser/nearby_sharing/nearby_per_session_discovery_manager.h"
 
 #include <algorithm>

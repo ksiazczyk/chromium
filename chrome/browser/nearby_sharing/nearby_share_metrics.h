@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share metrics enums and recording functions
+// summary: Declares UMA enums and helper functions for recording Nearby Share feature usage, connection, and transfer metrics.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_NEARBY_SHARE_METRICS_H_
 #define CHROME_BROWSER_NEARBY_SHARING_NEARBY_SHARE_METRICS_H_
 

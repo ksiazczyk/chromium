@@ -6,6 +6,12 @@
 // http://google3/google/internal/communications/instantmessaging/v1/tachyon_common.proto
 // Messages not used in Chrome have been omitted.
 
+// ---docerion
+// type: source
+// title: Common Tachyon request and identity protobuf messages
+// summary: Defines shared Tachyon messages including Id, LocationHint, RequestHeader and ClientInfo used across request messages.
+// ---
+
 syntax = "proto3";
 
 package nearbyshare.tachyon_proto;

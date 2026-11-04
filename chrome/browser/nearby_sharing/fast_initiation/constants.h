@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fast Initiation advertisement constants
+// summary: Defines the Fast Initiation service UUID 0xfe2c and model ID 0xfc128e used when broadcasting or scanning for Fast Initiation BLE advertisements.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_FAST_INITIATION_CONSTANTS_H_
 #define CHROME_BROWSER_NEARBY_SHARING_FAST_INITIATION_CONSTANTS_H_
 

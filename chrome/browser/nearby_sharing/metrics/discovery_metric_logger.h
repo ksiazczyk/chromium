@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share discovery metrics logger header
+// summary: Declares DiscoveryMetricLogger, a NearbySharingService observer that measures the time to discover share targets.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_METRICS_DISCOVERY_METRIC_LOGGER_H_
 #define CHROME_BROWSER_NEARBY_SHARING_METRICS_DISCOVERY_METRIC_LOGGER_H_
 

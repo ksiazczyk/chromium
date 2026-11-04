@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WifiNetworkConfigurationHandler unit tests
+// summary: Unit tests for WifiNetworkConfigurationHandler that use a fake CrosNetworkConfig to verify Wi-Fi network configuration success and failure behavior.
+// ---
+
 #include "chrome/browser/nearby_sharing/wifi_network_configuration/wifi_network_configuration_handler.h"
 
 #include "base/test/bind.h"

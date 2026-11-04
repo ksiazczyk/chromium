@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: FastInitiationScannerFeatureUsageMetrics class declaration
+// summary: Declares FastInitiationScannerFeatureUsageMetrics, which tracks feature usage for FastInitiationScanner via the Standard Feature Usage Logging framework.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_FAST_INITIATION_FAST_INITIATION_SCANNER_FEATURE_USAGE_METRICS_H_
 #define CHROME_BROWSER_NEARBY_SHARING_FAST_INITIATION_FAST_INITIATION_SCANNER_FEATURE_USAGE_METRICS_H_
 

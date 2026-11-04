@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the instant messaging proto library
+summary: Defines GN targets that build instantmessaging.proto as a protobuf library and a proto_lite group with protobuf_lite dependency.

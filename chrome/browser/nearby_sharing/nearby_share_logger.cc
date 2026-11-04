@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share event logging implementation
+// summary: Logs Nearby Share service events such as discovery, transfers, and connection media via cross-device logging.
+// ---
+
 #include "chrome/browser/nearby_sharing/nearby_share_logger.h"
 
 #include "chrome/browser/nearby_sharing/nearby_share_metrics.h"

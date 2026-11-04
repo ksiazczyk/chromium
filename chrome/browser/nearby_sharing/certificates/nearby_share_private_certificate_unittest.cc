@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Nearby Share private certificate unit tests
+// summary: Unit tests for private certificate construction, dictionary round-trips, metadata key encryption, salt exhaustion, and signing behavior.
+// ---
+
 #include "chrome/browser/nearby_sharing/certificates/nearby_share_private_certificate.h"
 
 #include <optional>

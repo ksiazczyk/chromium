@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share certificate storage implementation
+// summary: Implements NearbyShareCertificateStorageImpl, persisting private certificates in prefs and public certificates in a LevelDB proto database with initialization metrics.
+// ---
+
 #include "chrome/browser/nearby_sharing/certificates/nearby_share_certificate_storage_impl.h"
 
 #include <algorithm>

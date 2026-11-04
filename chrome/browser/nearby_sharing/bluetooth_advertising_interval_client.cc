@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bluetooth advertising interval client implementation
+// summary: Implements a client that reduces the Bluetooth adapter advertising interval for Nearby Sharing and restores the system default on destruction.
+// ---
+
 #include "chrome/browser/nearby_sharing/bluetooth_advertising_interval_client.h"
 
 #include <utility>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Token fetcher class declaration
+// summary: Declares TokenFetcher, used to fetch OAuth access tokens for the tachyon scope when interacting with InstantMessaging servers.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_INSTANTMESSAGING_TOKEN_FETCHER_H_
 #define CHROME_BROWSER_NEARBY_SHARING_INSTANTMESSAGING_TOKEN_FETCHER_H_
 

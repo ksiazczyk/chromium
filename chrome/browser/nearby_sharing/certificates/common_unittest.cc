@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for certificate common helpers
+// summary: Tests authentication token hashing and certificate validity-period logic for private and public certificates, including tolerance bounds.
+// ---
+
 #include "chrome/browser/nearby_sharing/certificates/common.h"
 
 #include "base/containers/span.h"

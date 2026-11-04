@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share preference names and registration
+// summary: Defines Nearby Share preference name constants and registers them, including scheduler and certificate prefs, with the pref registry.
+// ---
+
 #include "chrome/browser/nearby_sharing/common/nearby_share_prefs.h"
 
 #include <string>

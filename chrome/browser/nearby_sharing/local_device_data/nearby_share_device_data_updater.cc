@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share device data updater base implementation
+// summary: Implements the request queue and UpdateDeviceData flow that drives UpdateDevice RPC attempts for Nearby Share.
+// ---
+
 #include <utility>
 
 #include "base/check.h"

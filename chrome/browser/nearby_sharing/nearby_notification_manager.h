@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NearbyNotificationManager class header
+// summary: Declares the manager that shows Nearby Share notifications for transfers, connection requests, and discovery, with content-type specific actions.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_NEARBY_NOTIFICATION_MANAGER_H_
 #define CHROME_BROWSER_NEARBY_SHARING_NEARBY_NOTIFICATION_MANAGER_H_
 

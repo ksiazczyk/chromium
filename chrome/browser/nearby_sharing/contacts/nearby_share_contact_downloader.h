@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Nearby Share contact downloader base class header
+// summary: Declares the base class for downloading the user's contact list from the server, with success and failure callback typedefs.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_CONTACTS_NEARBY_SHARE_CONTACT_DOWNLOADER_H_
 #define CHROME_BROWSER_NEARBY_SHARING_CONTACTS_NEARBY_SHARE_CONTACT_DOWNLOADER_H_
 

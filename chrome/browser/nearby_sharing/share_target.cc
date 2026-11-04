@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Share target implementation
+// summary: Implements the ShareTarget struct, including attachment ID collection and the auto-accept rule that only self shares without Wi-Fi credentials qualify.
+// ---
+
 #include "chrome/browser/nearby_sharing/share_target.h"
 
 #include <utility>

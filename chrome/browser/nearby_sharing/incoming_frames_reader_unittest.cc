@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Incoming frames reader unit tests
+// summary: Tests IncomingFramesReader frame reading, timeout behavior, and decoding using a fake Nearby connection plus mock process manager and decoder.
+// ---
+
 #include "chrome/browser/nearby_sharing/incoming_frames_reader.h"
 
 #include <vector>

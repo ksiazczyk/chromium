@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for instant messaging message headers
+summary: Sets per-file ownership for message header files, delegating review approval to the IPC security owners.

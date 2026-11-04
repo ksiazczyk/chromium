@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fast Initiation scanner unit tests
+// summary: Unit tests for FastInitiationScanner using mock Bluetooth adapters and scan sessions to verify the scan filter pattern and device found and lost callbacks.
+// ---
+
 #include "chrome/browser/nearby_sharing/fast_initiation/fast_initiation_scanner.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake Nearby Share contact manager
+// summary: Fake contact manager for tests that counts DownloadContacts calls and stores the inputs of SetAllowedContacts calls.
+// ---
+
 #include "chrome/browser/nearby_sharing/contacts/fake_nearby_share_contact_manager.h"
 #include <set>
 #include <string>

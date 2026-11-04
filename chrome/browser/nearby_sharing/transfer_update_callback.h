@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transfer update callback interface
+// summary: Defines the TransferUpdateCallback observer interface that reports transfer status updates for a share target during Nearby Share transfers.
+// ---
+
 #ifndef CHROME_BROWSER_NEARBY_SHARING_TRANSFER_UPDATE_CALLBACK_H_
 #define CHROME_BROWSER_NEARBY_SHARING_TRANSFER_UPDATE_CALLBACK_H_
 

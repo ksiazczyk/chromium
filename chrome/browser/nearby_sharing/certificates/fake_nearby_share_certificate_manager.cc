@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Nearby Share certificate manager implementation
+// summary: Implements a fake certificate manager with a factory that records calls and returns test certificates for use in unit tests.
+// ---
+
 #include <utility>
 
 #include "chrome/browser/nearby_sharing/certificates/fake_nearby_share_certificate_manager.h"

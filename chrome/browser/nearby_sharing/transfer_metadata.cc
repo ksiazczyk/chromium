@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Transfer Metadata
+// summary: Implements TransferMetadata helpers that classify transfer statuses as final, map them to results, and convert them to strings and Mojo types.
+// ---
+
 #include <utility>
 
 #include "chrome/browser/nearby_sharing/transfer_metadata.h"
