@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for the Global Media Controls strings directory
+summary: Delegates review ownership of this directory to the owners of the Global Media Controls UI directory via a file reference.

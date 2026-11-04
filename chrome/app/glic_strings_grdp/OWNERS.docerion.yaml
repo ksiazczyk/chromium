@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Glic strings OWNERS file
+summary: Defines reviewers for the Glic strings resources by referencing Glic browser OWNERS files and listing two Google owners.
