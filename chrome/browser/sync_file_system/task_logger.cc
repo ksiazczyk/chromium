@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task logger implementation
+// summary: Implements a bounded history of sync task logs with observer notification, log recording, and clearing.
+// ---
+
 #include "chrome/browser/sync_file_system/task_logger.h"
 
 #include <stddef.h>

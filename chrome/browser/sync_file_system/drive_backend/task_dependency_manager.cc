@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task dependency manager implementation
+// summary: Implements TaskDependencyManager, which tracks task blockers for paths, file IDs and tracker IDs to detect conflicts between running background sync tasks.
+// ---
+
 #include "chrome/browser/sync_file_system/drive_backend/task_dependency_manager.h"
 
 #include <utility>

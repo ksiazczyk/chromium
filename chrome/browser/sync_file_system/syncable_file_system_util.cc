@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Syncable file system utility implementation
+// summary: Implements registration, URL creation, and serialization helpers for the syncable file system used by Chrome's file synchronization.
+// ---
+
 #include "chrome/browser/sync_file_system/syncable_file_system_util.h"
 
 #include <vector>

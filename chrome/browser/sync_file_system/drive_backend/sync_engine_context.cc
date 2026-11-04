@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync engine context implementation
+// summary: Implements SyncEngineContext, which holds shared dependencies such as the Drive service, uploader, metadata database and task runners.
+// ---
+
 #include "chrome/browser/sync_file_system/drive_backend/sync_engine_context.h"
 
 #include <memory>

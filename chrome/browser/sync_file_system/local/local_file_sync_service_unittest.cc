@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LocalFileSyncService unit tests
+// summary: Unit tests for LocalFileSyncService covering local change processing, sync completion callbacks, and interaction with the canned syncable file system.
+// ---
+
 #include <stdint.h>
 
 #include <memory>

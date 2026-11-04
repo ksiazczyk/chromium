@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the callback relay helpers
+// summary: gtest unit tests verifying that relayed callbacks run on the intended task runner and that null callbacks are handled.
+// ---
+
 #include "chrome/browser/sync_file_system/drive_backend/callback_helper.h"
 
 #include <memory>

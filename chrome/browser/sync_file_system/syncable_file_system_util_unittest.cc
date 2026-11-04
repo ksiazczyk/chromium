@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Syncable file system utility unit tests
+// summary: Unit tests covering root URI generation, URL creation, and serialization of syncable file system URLs, including failure cases.
+// ---
+
 #include "chrome/browser/sync_file_system/syncable_file_system_util.h"
 
 #include "base/files/scoped_temp_dir.h"

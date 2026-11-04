@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Remote to local syncer implementation
+// summary: Implements the RemoteToLocalSyncer sync task that applies remote Drive changes to the local synced file system.
+// ---
+
 #include "chrome/browser/sync_file_system/drive_backend/remote_to_local_syncer.h"
 
 #include <stdint.h>

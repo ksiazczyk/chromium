@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive backend constants
+// summary: Defines constants for the sync file system Drive backend, including the sync root folder title, database name and version, key prefixes, and retry limits.
+// ---
+
 #include "chrome/browser/sync_file_system/drive_backend/drive_backend_constants.h"
 
 namespace sync_file_system {

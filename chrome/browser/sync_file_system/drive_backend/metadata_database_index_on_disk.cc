@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: On-disk metadata database index
+// summary: Implements the on-disk variant of the metadata database index using the version 4 LevelDB schema with index keys for trackers and paths.
+// ---
+
 #include "chrome/browser/sync_file_system/drive_backend/metadata_database_index_on_disk.h"
 
 #include <array>

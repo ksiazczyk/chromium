@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeDriveServiceHelper implementation
+// summary: Implements helpers that create, modify and inspect folders and files in a FakeDriveService for sync backend tests.
+// ---
+
 #include "chrome/browser/sync_file_system/drive_backend/fake_drive_service_helper.h"
 
 #include <utility>

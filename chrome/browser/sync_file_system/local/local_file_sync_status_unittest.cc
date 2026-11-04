@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: LocalFileSyncStatus unit tests
+// summary: Unit tests verifying writing and syncing state transitions, writability and syncability checks, and handling of paths containing periods.
+// ---
+
 #include "chrome/browser/sync_file_system/local/local_file_sync_status.h"
 
 #include "content/public/test/browser_task_environment.h"

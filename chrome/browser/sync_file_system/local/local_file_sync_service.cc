@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Local file sync service implementation
+// summary: Implements the per-profile local sync service that rounds over origins and processes their local changes.
+// ---
+
 #include "chrome/browser/sync_file_system/local/local_file_sync_service.h"
 
 #include "base/functional/bind.h"

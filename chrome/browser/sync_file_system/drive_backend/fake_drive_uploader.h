@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: FakeDriveServiceWrapper and FakeDriveUploader declarations
+// summary: Declares FakeDriveServiceWrapper and FakeDriveUploader, fake Drive service and uploader with conflict simulation for tests.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_FILE_SYSTEM_DRIVE_BACKEND_FAKE_DRIVE_UPLOADER_H_
 #define CHROME_BROWSER_SYNC_FILE_SYSTEM_DRIVE_BACKEND_FAKE_DRIVE_UPLOADER_H_
 

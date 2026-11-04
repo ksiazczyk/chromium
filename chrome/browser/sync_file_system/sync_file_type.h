@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncFileType enum
+// summary: Declares the SyncFileType enum classifying synced entries as unknown, regular file, or directory.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_FILE_SYSTEM_SYNC_FILE_TYPE_H_
 #define CHROME_BROWSER_SYNC_FILE_SYSTEM_SYNC_FILE_TYPE_H_
 

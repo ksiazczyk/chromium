@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DriveUploaderOnWorker implementation
+// summary: Implements DriveUploaderOnWorker, posting upload requests to DriveUploaderWrapper on the UI thread and relaying callbacks back.
+// ---
+
 #include "chrome/browser/sync_file_system/drive_backend/drive_uploader_on_worker.h"
 
 #include <string>

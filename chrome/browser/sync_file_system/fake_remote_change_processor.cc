@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake remote change processor implementation for tests
+// summary: Implements a fake RemoteChangeProcessor that records applied remote changes, simulates local change handling and posts status callbacks for testing.
+// ---
+
 #include "chrome/browser/sync_file_system/fake_remote_change_processor.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ConflictResolver implementation
+// summary: Implements the ConflictResolver sync task that resolves server-side conflicts by detaching multi-parent trackers and removing non-primary files.
+// ---
+
 #include "chrome/browser/sync_file_system/drive_backend/conflict_resolver.h"
 
 #include <stdint.h>

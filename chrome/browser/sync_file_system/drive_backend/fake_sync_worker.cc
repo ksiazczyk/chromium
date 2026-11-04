@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Fake sync worker implementation
+// summary: Implements FakeSyncWorker, a stub sync worker that records per-origin statuses and reports success for sync operations during testing.
+// ---
+
 #include "chrome/browser/sync_file_system/drive_backend/fake_sync_worker.h"
 
 #include <utility>

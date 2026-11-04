@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync file system service implementation
+// summary: Implements SyncFileSystemService, the KeyedService behind the deprecated chrome.syncFileSystem() API, coordinating local and remote sync runners and extension lifecycle events.
+// ---
+
 #include "chrome/browser/sync_file_system/sync_file_system_service.h"
 
 #include <stddef.h>

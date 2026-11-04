@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Task logger
+// summary: Declares the TaskLogger class that records task logs with timing and details and notifies registered observers.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_FILE_SYSTEM_TASK_LOGGER_H_
 #define CHROME_BROWSER_SYNC_FILE_SYSTEM_TASK_LOGGER_H_
 

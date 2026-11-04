@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab context decryption token tab helper implementation
+// summary: Implements the Mojo TabContextDecryptionTokenExtension API that returns container decryption tokens to allowed Google Accounts origins via TabContextSyncService.
+// ---
+
 #include "chrome/browser/sync_tab_context/tab_context_decryption_token_tab_helper.h"
 
 #include <utility>

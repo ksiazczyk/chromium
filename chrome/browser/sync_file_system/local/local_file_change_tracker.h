@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalFileChangeTracker class header
+// summary: Declares the tracker that records, retrieves and clears pending local file changes as a file update and change observer.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_FILE_SYSTEM_LOCAL_LOCAL_FILE_CHANGE_TRACKER_H_
 #define CHROME_BROWSER_SYNC_FILE_SYSTEM_LOCAL_LOCAL_FILE_CHANGE_TRACKER_H_
 

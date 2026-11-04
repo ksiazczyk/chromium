@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync callback type definitions
+// summary: Defines base OnceCallback types for sync status, file, metadata and file status results used throughout the sync file system code.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_FILE_SYSTEM_SYNC_CALLBACKS_H_
 #define CHROME_BROWSER_SYNC_FILE_SYSTEM_SYNC_CALLBACKS_H_
 

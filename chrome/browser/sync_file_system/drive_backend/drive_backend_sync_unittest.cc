@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Drive backend sync unit tests
+// summary: Large unit test suite for the Drive backend sync engine, covering local and remote file synchronization with fake Drive services and a canned syncable file system.
+// ---
+
 #include <stddef.h>
 #include <stdint.h>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocalFileSyncStatus implementation
+// summary: Implements LocalFileSyncStatus, tracking per-URL writing counters and syncing flags with child and parent path checks on the IO thread.
+// ---
+
 #include "chrome/browser/sync_file_system/local/local_file_sync_status.h"
 
 #include "base/check_op.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SyncableFileOperationRunner unit tests
+// summary: Tests queuing, writing and completion behavior of file operations run through the syncable operation runner.
+// ---
+
 #include "chrome/browser/sync_file_system/local/syncable_file_operation_runner.h"
 
 #include <stddef.h>

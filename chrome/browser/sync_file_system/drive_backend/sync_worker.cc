@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync worker implementation
+// summary: Implements SyncWorker, which drives the Drive backend remote file sync service by scheduling origin register, enable, disable and uninstall tasks through the sync task manager.
+// ---
+
 #include "chrome/browser/sync_file_system/drive_backend/sync_worker.h"
 
 #include <memory>

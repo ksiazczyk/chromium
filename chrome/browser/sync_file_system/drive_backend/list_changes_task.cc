@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: List changes task implementation
+// summary: Implements ListChangesTask, a sync task that fetches Drive change lists, filters team drive entries, and checks them into the metadata database.
+// ---
+
 #include "chrome/browser/sync_file_system/drive_backend/list_changes_task.h"
 
 #include <stddef.h>

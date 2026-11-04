@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncTaskManager implementation
+// summary: Implements scheduling and running of foreground and background sync tasks with priorities, task blockers and completion notification.
+// ---
+
 #include "chrome/browser/sync_file_system/drive_backend/sync_task_manager.h"
 
 #include <memory>

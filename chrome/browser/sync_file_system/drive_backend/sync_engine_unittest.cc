@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SyncEngine unit tests
+// summary: Tests SyncEngine behavior such as origin registration and service state updates with a fake Drive service and fake sync worker.
+// ---
+
 #include "chrome/browser/sync_file_system/drive_backend/sync_engine.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync file system logging implementation
+// summary: Implements severity-based logging to a WebUI event log history and to the console for sync file system.
+// ---
+
 #include "chrome/browser/sync_file_system/logger.h"
 
 #include "base/lazy_instance.h"

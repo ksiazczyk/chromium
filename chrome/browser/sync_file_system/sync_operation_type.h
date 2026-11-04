@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncOperationType enum
+// summary: Declares the SyncOperationType enum of sync operations such as add, update, delete, conflict resolution, and its string conversion function.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_FILE_SYSTEM_SYNC_OPERATION_TYPE_H_
 #define CHROME_BROWSER_SYNC_FILE_SYSTEM_SYNC_OPERATION_TYPE_H_
 

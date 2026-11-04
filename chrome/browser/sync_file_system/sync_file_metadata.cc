@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sync file metadata implementation
+// summary: Implements the SyncFileMetadata class and LocalFileSyncInfo constructors, covering file type, size, and last-modified time with equality comparison.
+// ---
+
 #include "chrome/browser/sync_file_system/sync_file_metadata.h"
 
 using sync_file_system::SyncFileType;

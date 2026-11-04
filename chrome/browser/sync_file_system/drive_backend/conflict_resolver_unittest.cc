@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Conflict resolver unit tests
+// summary: Unit tests for the Drive backend conflict resolver, exercising sync tasks with fake Drive services, fake uploaders, and a sync task manager.
+// ---
+
 #include "chrome/browser/sync_file_system/drive_backend/conflict_resolver.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Sync worker unit tests
+// summary: Unit tests for SyncWorker that exercise task scheduling and origin handling using mock extension services, fake Drive services and testing profiles.
+// ---
+
 #include "chrome/browser/sync_file_system/drive_backend/sync_worker.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LevelDB wrapper implementation
+// summary: Implements LevelDBWrapper and its iterator, merging in-memory pending puts and deletes with on-disk LevelDB data until commit.
+// ---
+
 #include "chrome/browser/sync_file_system/drive_backend/leveldb_wrapper.h"
 
 #include <map>

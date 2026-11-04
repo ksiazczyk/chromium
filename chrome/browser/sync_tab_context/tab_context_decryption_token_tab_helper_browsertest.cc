@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser tests for the tab context decryption token tab helper
+// summary: In-process browser tests exercising decryption token access with a fake TabContextSyncService, an isolated test origin, and an embedded HTTPS server.
+// ---
+
 #include "chrome/browser/sync_tab_context/tab_context_decryption_token_tab_helper.h"
 
 #include <string>

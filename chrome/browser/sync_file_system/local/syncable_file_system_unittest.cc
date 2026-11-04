@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Syncable file system tests
+// summary: Tests for the syncable file system covering operations, quota and change tracking via the canned syncable file system helper.
+// ---
+
 #include <stdint.h>
 
 #include "base/task/single_thread_task_runner.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DriveUploaderWrapper implementation
+// summary: Implements DriveUploaderWrapper, forwarding new and existing file uploads to an underlying DriveUploaderInterface.
+// ---
+
 #include "chrome/browser/sync_file_system/drive_backend/drive_uploader_wrapper.h"
 
 #include "base/memory/weak_ptr.h"

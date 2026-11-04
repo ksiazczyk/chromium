@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LevelDB wrapper class declaration
+// summary: Declares LevelDBWrapper, which wraps leveldb::DB and WriteBatch to provide transparent access to pre-commit data.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_FILE_SYSTEM_DRIVE_BACKEND_LEVELDB_WRAPPER_H_
 #define CHROME_BROWSER_SYNC_FILE_SYSTEM_DRIVE_BACKEND_LEVELDB_WRAPPER_H_
 

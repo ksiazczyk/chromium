@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SyncProcessRunner unit tests
+// summary: Unit tests covering SyncProcessRunner scheduling, delays and throttling using fake client, timer and runner implementations.
+// ---
+
 #include "chrome/browser/sync_file_system/sync_process_runner.h"
 
 #include <stddef.h>

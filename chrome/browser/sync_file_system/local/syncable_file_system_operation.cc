@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Syncable file system operation implementation
+// summary: Implements a FileSystemOperation wrapper that posts operations to the sync runner and reports completion to the sync status tracker.
+// ---
+
 #include "chrome/browser/sync_file_system/local/syncable_file_system_operation.h"
 
 #include <utility>

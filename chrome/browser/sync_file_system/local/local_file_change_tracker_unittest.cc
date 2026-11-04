@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Local file change tracker unit tests
+// summary: Unit tests verifying recording, retrieval, restoration and clearing of local file changes in the tracker.
+// ---
+
 #include "chrome/browser/sync_file_system/local/local_file_change_tracker.h"
 
 #include <stdint.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SyncEngineInitializer unit tests
+// summary: Tests the sync engine initialization sequence using a fake Drive service, a sync task manager and an in-memory database.
+// ---
+
 #include "chrome/browser/sync_file_system/drive_backend/sync_engine_initializer.h"
 
 #include <stddef.h>

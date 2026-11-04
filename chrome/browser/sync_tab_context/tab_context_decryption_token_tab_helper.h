@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabContextDecryptionTokenTabHelper class declaration
+// summary: Declares the WebContentsObserver tab helper that installs the Mojo decryption token API for allowed Google Accounts origins.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_TAB_CONTEXT_TAB_CONTEXT_DECRYPTION_TOKEN_TAB_HELPER_H_
 #define CHROME_BROWSER_SYNC_TAB_CONTEXT_TAB_CONTEXT_DECRYPTION_TOKEN_TAB_HELPER_H_
 

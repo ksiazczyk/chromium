@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SyncableFileOperationRunner class declaration
+// summary: Declares the IO-thread task runner that gates syncable file system operations on the local sync status.
+// ---
+
 #ifndef CHROME_BROWSER_SYNC_FILE_SYSTEM_LOCAL_SYNCABLE_FILE_OPERATION_RUNNER_H_
 #define CHROME_BROWSER_SYNC_FILE_SYSTEM_LOCAL_SYNCABLE_FILE_OPERATION_RUNNER_H_
 

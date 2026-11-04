@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Metadata database V4 to V3 migration utility
+// summary: Implements MigrateDatabaseFromV4ToV3, which rolls back the metadata database schema from version 4 to version 3 by dropping version-4-only index entries.
+// ---
+
 #include "chrome/browser/sync_file_system/drive_backend/metadata_db_migration_util.h"
 
 #include <memory>
