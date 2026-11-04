@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PerfTestSuite implementation
+// summary: Implements a test suite that initializes perf logging, raises process priority for precise measurements, and runs Google Benchmark tests.
+// ---
+
 #include "base/test/perf_test_suite.h"
 
 #include "base/command_line.h"

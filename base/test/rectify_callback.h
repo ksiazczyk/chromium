@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RectifyCallback helper for adapting callback signatures
+// summary: Defines RectifyCallback, a helper that adapts a callback to a desired signature by ignoring leading arguments, useful when binding callbacks in tests.
+// ---
+
 #ifndef BASE_TEST_RECTIFY_CALLBACK_H_
 #define BASE_TEST_RECTIFY_CALLBACK_H_
 

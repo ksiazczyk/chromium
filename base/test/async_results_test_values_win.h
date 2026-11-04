@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Async results test values for Windows IAsyncOperation
+// summary: Provides typed test values and Windows IAsyncOperation template specializations for use in typed test suites covering async results.
+// ---
+
 #ifndef BASE_TEST_ASYNC_RESULTS_TEST_VALUES_WIN_H_
 #define BASE_TEST_ASYNC_RESULTS_TEST_VALUES_WIN_H_
 

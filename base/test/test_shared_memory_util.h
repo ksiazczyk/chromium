@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared memory test utility header
+// summary: Declares helpers to verify read-only shared memory regions and to create scoped mappings for platform shared memory testing.
+// ---
+
 #ifndef BASE_TEST_TEST_SHARED_MEMORY_UTIL_H_
 #define BASE_TEST_TEST_SHARED_MEMORY_UTIL_H_
 

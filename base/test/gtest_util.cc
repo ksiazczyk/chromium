@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GTest utility implementation
+// summary: Implements helpers to enumerate compiled-in gtest tests and to write or read test identifier lists as JSON files.
+// ---
+
 #include "base/test/gtest_util.h"
 
 #include <stddef.h>

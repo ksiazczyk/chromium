@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Windows registry override test utility implementation
+// summary: Implements RegistryOverrideManager, which redirects Windows registry hives to temporary keys for tests and deletes stale keys left by crashed runs.
+// ---
+
 #include "base/test/test_reg_util_win.h"
 
 #include <windows.h>

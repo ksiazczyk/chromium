@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GMock matchers for expected and optional values
+// summary: Test support header providing gmock matchers and assertions like HasValue, ValueIs and EXPECT_OK for base::expected and std::optional values.
+// ---
+
 #ifndef BASE_TEST_GMOCK_EXPECTED_SUPPORT_H_
 #define BASE_TEST_GMOCK_EXPECTED_SUPPORT_H_
 

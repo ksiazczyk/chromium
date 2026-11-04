@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: MultiProcessTest class and multiprocess test helpers
+// summary: Declares helpers and a test fixture base class for spawning child processes that run designated test functions out of process.
+// ---
+
 #ifndef BASE_TEST_MULTIPROCESS_TEST_H_
 #define BASE_TEST_MULTIPROCESS_TEST_H_
 

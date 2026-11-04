@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GTest XML output parser
+// summary: Parses gtest XML output files into TestResult objects, capturing links, properties, tags, sub-test results and crash detection.
+// ---
+
 #include "base/test/gtest_xml_util.h"
 
 #include <stdint.h>

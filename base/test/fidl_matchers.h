@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gmock matcher for FIDL struct equality
+// summary: Provides the FidlEq gmock matcher, which checks FIDL struct equality using fidl::Equals.
+// ---
+
 #ifndef BASE_TEST_FIDL_MATCHERS_H_
 #define BASE_TEST_FIDL_MATCHERS_H_
 

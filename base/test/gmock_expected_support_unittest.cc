@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GMock expected support unit tests
+// summary: Unit tests covering the expected and optional gmock matchers, ASSERT_OK macros and printing of ok and unexpected values.
+// ---
+
 #include "base/test/gmock_expected_support.h"
 
 #include <optional>

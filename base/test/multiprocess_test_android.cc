@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android multiprocess test helpers
+// summary: Implements multiprocess test child spawning, waiting, and termination on Android via JNI calls to a Java test client launcher.
+// ---
+
 #include "base/test/multiprocess_test.h"
 
 #include <string.h>

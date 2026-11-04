@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RunUntil test helper header
+// summary: Declares RunUntil, a test helper that waits until a condition becomes true as the thread goes idle, returning false on timeout.
+// ---
+
 #ifndef BASE_TEST_RUN_UNTIL_H_
 #define BASE_TEST_RUN_UNTIL_H_
 

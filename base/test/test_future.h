@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestFuture helper for asynchronous callback tests
+// summary: Defines TestFuture, a helper that captures values passed to a callback so tests can wait for and inspect single- or multi-argument asynchronous results.
+// ---
+
 #ifndef BASE_TEST_TEST_FUTURE_H_
 #define BASE_TEST_TEST_FUTURE_H_
 

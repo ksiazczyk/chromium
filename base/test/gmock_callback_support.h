@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Gmock matchers and actions for base callbacks
+// summary: Gmock matchers and actions for base callbacks, including IsNullCallback and RunOnceCallback helpers for mocking callback arguments.
+// ---
+
 #ifndef BASE_TEST_GMOCK_CALLBACK_SUPPORT_H_
 #define BASE_TEST_GMOCK_CALLBACK_SUPPORT_H_
 

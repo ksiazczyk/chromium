@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AllowCheckIsTestForTesting test helper
+// summary: Declares AllowCheckIsTestForTesting(), which unit and browser tests call once at startup to permit CHECK_IS_TEST() code paths.
+// ---
+
 #ifndef BASE_TEST_ALLOW_CHECK_IS_TEST_FOR_TESTING_H_
 #define BASE_TEST_ALLOW_CHECK_IS_TEST_FOR_TESTING_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GTest result link support implementation
+// summary: Implements AddLinkToTestResult, validating link names and URLs before adding them to the gtest XML test output.
+// ---
+
 #include "base/test/gtest_links.h"
 
 #include "base/check.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestSuite implementation for gtest-based unit tests
+// summary: Implements the base TestSuite that initializes ICU, logging, feature lists, thread pools, result printers and platform hooks before running gtest-based unit tests.
+// ---
+
 #include "base/test/test_suite.h"
 
 #include <signal.h>

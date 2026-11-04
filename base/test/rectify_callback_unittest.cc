@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RectifyCallback unit tests
+// summary: Unit tests verifying that RectifyCallback adapts repeating and once callbacks across signatures with and without return values.
+// ---
+
 #include "base/test/rectify_callback.h"
 
 #include <sstream>

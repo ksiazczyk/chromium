@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Simple test task runner implementation
+// summary: Implements a SingleThreadTaskRunner that queues posted tasks in FIFO order so unit tests can inspect and run them explicitly.
+// ---
+
 #include "base/test/test_simple_task_runner.h"
 
 #include <optional>

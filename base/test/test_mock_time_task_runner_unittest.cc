@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestMockTimeTaskRunner unit tests
+// summary: Unit tests covering TestMockTimeTaskRunner task ordering, fast-forwarding, default unbound behavior, and RunLoop driving when bound to a thread.
+// ---
+
 #include "base/test/test_mock_time_task_runner.h"
 
 #include "base/cancelable_callback.h"

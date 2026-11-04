@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RunUntil test helper implementation
+// summary: Implements RunUntil, which evaluates a condition whenever the thread becomes idle and waits until it is true or a timeout occurs.
+// ---
+
 #include "base/test/run_until.h"
 
 #include <functional>

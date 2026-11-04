@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: XML unit test result printer class
+// summary: Declares XmlUnitTestResultPrinter, a gtest listener producing XML output with test launcher extensions for links, tags and sub-test results.
+// ---
+
 #ifndef BASE_TEST_GTEST_XML_UNITTEST_RESULT_PRINTER_H_
 #define BASE_TEST_GTEST_XML_UNITTEST_RESULT_PRINTER_H_
 

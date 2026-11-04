@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Value test utilities implementation
+// summary: Implements GMock matchers and helpers for parsing and comparing base::Value and JSON in tests.
+// ---
+
 #include "base/test/values_test_util.h"
 
 #include <optional>

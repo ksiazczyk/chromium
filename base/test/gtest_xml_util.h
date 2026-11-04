@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GTest XML output parsing utility
+// summary: Declares ProcessGTestOutput, which parses a GTest output file into a vector of test results and reports whether the run crashed.
+// ---
+
 #ifndef BASE_TEST_GTEST_XML_UTIL_H_
 #define BASE_TEST_GTEST_XML_UTIL_H_
 

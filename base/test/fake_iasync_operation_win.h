@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fake Windows IAsyncOperation for GTests
+// summary: Fake implementation of Windows Foundation IAsyncOperation for use in GTests, supporting completion with results or errors.
+// ---
+
 #ifndef BASE_TEST_FAKE_IASYNC_OPERATION_WIN_H_
 #define BASE_TEST_FAKE_IASYNC_OPERATION_WIN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TaskTracker for the task runner test template
+// summary: Implements TaskTracker, which counts completed tasks and waits for them to support the reusable TaskRunner test suite.
+// ---
+
 #include "base/test/task_runner_test_template.h"
 
 namespace base {

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestPendingTask unit tests
+// summary: Unit tests verifying TestPendingTask trace support, ToString output, gtest pretty printing, and ShouldRunBefore ordering.
+// ---
+
 #include "base/test/test_pending_task.h"
 
 #include "base/functional/bind.h"

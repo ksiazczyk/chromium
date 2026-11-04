@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: XML unit test result printer unit tests
+// summary: Unit tests verifying that links, tags and XML escaping are written correctly to the test launcher XML output file.
+// ---
+
 #include "base/test/gtest_xml_unittest_result_printer.h"
 
 #include "base/base64.h"

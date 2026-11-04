@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ICU test utilities
+// summary: Declares scopers for restoring the ICU default locale and timezone and an ICU initialization helper for tests.
+// ---
+
 #ifndef BASE_TEST_ICU_TEST_UTIL_H_
 #define BASE_TEST_ICU_TEST_UTIL_H_
 

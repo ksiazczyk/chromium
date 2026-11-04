@@ -1,0 +1,4 @@
+# Docerion header of test_listener_ios.mm.
+type: test
+title: iOS test end listener implementation
+summary: Objective-C++ GTest listener that spins the iOS run loop after each test and clears NSUserDefaults to prevent state leakage.

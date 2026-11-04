@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestProtoLoader header
+// summary: Declares TestProtoSetLoader and TestProtoLoader, test helpers that convert text-format protos to binary via descriptors to work around the lite protobuf runtime.
+// ---
+
 #ifndef BASE_TEST_TEST_PROTO_LOADER_H_
 #define BASE_TEST_TEST_PROTO_LOADER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: CopyOnlyInt test helper class declaration
+// summary: Declares CopyOnlyInt, a copy-only integer wrapper for testing containers, with copy counting and scoped destruction callbacks.
+// ---
+
 #ifndef BASE_TEST_COPY_ONLY_INT_H_
 #define BASE_TEST_COPY_ONLY_INT_H_
 

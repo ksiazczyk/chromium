@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GTest tags unit tests
+// summary: Unit tests checking that AddTagToTestResult rejects empty tag names and accepts valid tag entries when the test launcher output is active.
+// ---
+
 #include "base/test/gtest_tags.h"
 
 #include "base/command_line.h"

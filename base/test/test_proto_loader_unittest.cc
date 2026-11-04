@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestProtoLoader unit tests
+// summary: Unit test that loads a test proto descriptor and verifies TestProtoLoader parses text protos into binary messages usable by MessageLite.
+// ---
+
 #include "base/test/test_proto_loader.h"
 
 #include "base/files/file_path.h"

@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners and per-file review rules for base test
+summary: Sets per-file owner rules for metrics, Windows, Android, iOS, fontconfig, and BUILD.gn changes in base/test.

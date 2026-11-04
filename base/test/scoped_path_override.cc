@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedPathOverride implementation
+// summary: Implements ScopedPathOverride, which sets a PathService override on construction and restores the original path on destruction.
+// ---
+
 #include "base/test/scoped_path_override.h"
 
 #include <ostream>

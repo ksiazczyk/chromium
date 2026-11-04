@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test discardable memory allocator implementation
+// summary: Implements a test DiscardableMemoryAllocator that allocates one-shot heap-backed discardable memory instances for testing.
+// ---
+
 #include "base/test/test_discardable_memory_allocator.h"
 
 #include <algorithm>

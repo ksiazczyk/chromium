@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped ChromeOS version info test helper
+// summary: Declares ScopedChromeOSVersionInfo, a test helper that temporarily overrides cached lsb-release data to simulate specific ChromeOS versions.
+// ---
+
 #ifndef BASE_TEST_SCOPED_CHROMEOS_VERSION_INFO_H_
 #define BASE_TEST_SCOPED_CHROMEOS_VERSION_INFO_H_
 

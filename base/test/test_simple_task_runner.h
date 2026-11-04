@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Simple test task runner header
+// summary: Declares TestSimpleTaskRunner, a SingleThreadTaskRunner that stores tasks in a queue for manual execution and inspection in tests.
+// ---
+
 #ifndef BASE_TEST_TEST_SIMPLE_TASK_RUNNER_H_
 #define BASE_TEST_TEST_SIMPLE_TASK_RUNNER_H_
 

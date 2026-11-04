@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: PerfTimeLogger class for timing perf tests
+// summary: Declares PerfTimeLogger, a helper that measures the time a performance test takes and logs it automatically on destruction unless Done is called earlier.
+// ---
+
 #ifndef BASE_TEST_PERF_TIME_LOGGER_H_
 #define BASE_TEST_PERF_TIME_LOGGER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SimpleTestClock controllable clock for tests
+// summary: Declares SimpleTestClock, a Clock implementation for tests that lets code advance or set the current time from any thread.
+// ---
+
 #ifndef BASE_TEST_SIMPLE_TEST_CLOCK_H_
 #define BASE_TEST_SIMPLE_TEST_CLOCK_H_
 

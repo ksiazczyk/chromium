@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clang profiling profile writer declaration
+// summary: Declares WriteClangProfilingProfile() so profiling data is written on immediate exits where the automatic at-exit writer would not run.
+// ---
+
 #ifndef BASE_TEST_CLANG_PROFILING_H_
 #define BASE_TEST_CLANG_PROFILING_H_
 

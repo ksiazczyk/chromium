@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RunUntil unit tests
+// summary: Unit tests verifying RunUntil behavior for fulfilled predicates, idle scheduling, timers, timeouts, and nested run loops.
+// ---
+
 #include "base/test/run_until.h"
 
 #include "base/functional/callback_helpers.h"

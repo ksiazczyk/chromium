@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android test support implementation
+// summary: Provides Android-specific test setup, including path providers and a stub Android message pump that runs tests without a native thread using a WaitableEvent.
+// ---
+
 #include <android/looper.h>
 #include <stdarg.h>
 #include <string.h>

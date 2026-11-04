@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Declarations of test launcher command-line switches
+// summary: Declares the command-line switch constants used by the test launcher and test suites, including iOS- and Windows-specific switches.
+// ---
+
 #ifndef BASE_TEST_TEST_SWITCHES_H_
 #define BASE_TEST_TEST_SWITCHES_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedMockTimeMessageLoopTaskRunner implementation
+// summary: Implements a scoped wrapper that installs a TestMockTimeTaskRunner as the current default task runner and restores it on destruction.
+// ---
+
 #include "base/test/scoped_mock_time_message_loop_task_runner.h"
 
 #include "base/check_op.h"

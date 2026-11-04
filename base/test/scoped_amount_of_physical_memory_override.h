@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped physical memory amount override for tests
+// summary: Declares ScopedAmountOfPhysicalMemoryOverride, a scoped test helper that temporarily overrides the system's reported physical memory amount.
+// ---
+
 #ifndef BASE_TEST_SCOPED_AMOUNT_OF_PHYSICAL_MEMORY_OVERRIDE_H_
 #define BASE_TEST_SCOPED_AMOUNT_OF_PHYSICAL_MEMORY_OVERRIDE_H_
 

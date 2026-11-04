@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: EqualsProto gMock matcher for protobufs
+// summary: Provides the EqualsProto gMock matcher that compares serialized protobuf messages and reports mismatches as raw TextProto for diagnostics.
+// ---
+
 #ifndef BASE_TEST_PROTOBUF_MATCHERS_H_
 #define BASE_TEST_PROTOBUF_MATCHERS_H_
 

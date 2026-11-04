@@ -1,0 +1,4 @@
+# Docerion header of bind_test_nocompile.nc.
+type: test
+title: No-compile test for BindLambdaForTesting
+summary: No-compile test verifying that BindLambdaForTesting() rejects const or non-rvalue mutable lambdas with the expected errors.

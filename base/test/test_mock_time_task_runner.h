@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TestMockTimeTaskRunner mock clock task runner header
+// summary: Declares TestMockTimeTaskRunner, a SingleThreadTaskRunner that runs pending tasks in post-time order against a fast-forwardable virtual clock for tests.
+// ---
+
 #ifndef BASE_TEST_TEST_MOCK_TIME_TASK_RUNNER_H_
 #define BASE_TEST_TEST_MOCK_TIME_TASK_RUNNER_H_
 

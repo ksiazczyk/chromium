@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Protobuf matcher support implementation
+// summary: Implements BinaryProtoToRawTextProto, which converts a serialized protobuf into readable text form by treating its content as unknown fields.
+// ---
+
 #include "base/files/file_path.h"
 #include "base/notreached.h"
 #include "base/path_service.h"

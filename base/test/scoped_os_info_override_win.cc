@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedOSInfoOverride implementation
+// summary: Implements ScopedOSInfoOverride, which temporarily replaces base::win::OSInfo with fake Windows version data for tests.
+// ---
+
 #include "base/test/scoped_os_info_override_win.h"
 
 #include <windows.h>

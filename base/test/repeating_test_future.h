@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Deprecated RepeatingTestFuture test helper
+// summary: Deprecated test future that queues values and exposes a repeating callback to store them, pointing users to TestFuture::GetRepeatingCallback().
+// ---
+
 #ifndef BASE_TEST_REPEATING_TEST_FUTURE_H_
 #define BASE_TEST_REPEATING_TEST_FUTURE_H_
 

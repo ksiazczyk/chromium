@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NullTaskRunner test helper
+// summary: Declares a SingleThreadTaskRunner for tests that need to provide a task runner without caring whether posted tasks actually run.
+// ---
+
 #ifndef BASE_TEST_NULL_TASK_RUNNER_H_
 #define BASE_TEST_NULL_TASK_RUNNER_H_
 

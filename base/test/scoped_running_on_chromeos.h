@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedRunningOnChromeOS test helper declaration
+// summary: Declares ScopedRunningOnChromeOS, a test helper that forces SysInfo::IsRunningOnChromeOS() to return true for the duration of its scope.
+// ---
+
 #ifndef BASE_TEST_SCOPED_RUNNING_ON_CHROMEOS_H_
 #define BASE_TEST_SCOPED_RUNNING_ON_CHROMEOS_H_
 

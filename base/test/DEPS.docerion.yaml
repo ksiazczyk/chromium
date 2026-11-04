@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for base test
+summary: Allowlists extra third-party includes such as libxml, protobuf, and fuzztest for code in base/test.

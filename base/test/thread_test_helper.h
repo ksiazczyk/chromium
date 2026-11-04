@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Thread test helper class interface
+// summary: Declares ThreadTestHelper, a helper that executes code on a target sequence while blocking the invoking thread until it finishes.
+// ---
+
 #ifndef BASE_TEST_THREAD_TEST_HELPER_H_
 #define BASE_TEST_THREAD_TEST_HELPER_H_
 

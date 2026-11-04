@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GTest sub-test result support implementation
+// summary: Implements AddSubTestResult, validating names and reporting additional sub-test results with timing in the gtest XML output.
+// ---
+
 #include "base/test/gtest_sub_test_results.h"
 
 #include <algorithm>

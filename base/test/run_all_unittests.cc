@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Base unit test suite entry point
+// summary: Main entry point for base unit tests, adding Windows listeners that check COM, histogram allocator, and timer state after each test.
+// ---
+
 #include "base/functional/bind.h"
 #include "base/metrics/persistent_histogram_allocator.h"
 #include "base/test/launcher/unit_test_launcher.h"

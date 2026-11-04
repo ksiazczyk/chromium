@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GTest utility macros and helpers
+// summary: Declares death-test macros such as EXPECT_DCHECK_DEATH and EXPECT_CHECK_DEATH plus helpers for working with gtest test identifiers.
+// ---
+
 #ifndef BASE_TEST_GTEST_UTIL_H_
 #define BASE_TEST_GTEST_UTIL_H_
 

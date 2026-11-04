@@ -1,0 +1,4 @@
+# Docerion header of test_support_ios.mm.
+type: test
+title: iOS test support implementation
+summary: Objective-C++ implementation that launches an iOS app whose delegate runs the TestSuite, showing a window with the app name while tests execute.

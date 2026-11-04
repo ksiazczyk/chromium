@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GMock matchers and helpers for base::Value tests
+// summary: Declares GMock matchers and utilities for testing base::Value, including dictionary matchers, JSON parsing, and expected-value helpers.
+// ---
+
 #ifndef BASE_TEST_VALUES_TEST_UTIL_H_
 #define BASE_TEST_VALUES_TEST_UTIL_H_
 

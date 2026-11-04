@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedRunLoopTimeout implementation
+// summary: Implements ScopedRunLoopTimeout, which sets a timeout for RunLoop::Run() calls on the current thread and reports a failure or crash when the timeout expires.
+// ---
+
 #include "base/test/scoped_run_loop_timeout.h"
 
 #include <optional>

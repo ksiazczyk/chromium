@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Power monitor test fakes declarations
+// summary: Declares TestSamplingEventSource and TestBatteryLevelProvider fakes used to simulate sampling events and battery states in tests.
+// ---
+
 #ifndef BASE_TEST_POWER_MONITOR_TEST_UTILS_H_
 #define BASE_TEST_POWER_MONITOR_TEST_UTILS_H_
 

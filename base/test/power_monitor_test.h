@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Power monitor test helpers
+// summary: Declares ScopedPowerMonitorTestSource for simulating power events and PowerMonitorTestObserver for counting power notifications received during tests.
+// ---
+
 #ifndef BASE_TEST_POWER_MONITOR_TEST_H_
 #define BASE_TEST_POWER_MONITOR_TEST_H_
 

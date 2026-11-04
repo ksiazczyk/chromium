@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android test support declarations
+// summary: Declares functions to initialize Android test paths and message loop and to count non-delayed message pump work entries.
+// ---
+
 #ifndef BASE_TEST_TEST_SUPPORT_ANDROID_H_
 #define BASE_TEST_TEST_SUPPORT_ANDROID_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedMockClockOverride unit tests
+// summary: Unit tests verifying that ScopedMockClockOverride overrides and restores Time, TimeTicks, and ThreadTicks values.
+// ---
+
 #include "base/test/scoped_mock_clock_override.h"
 
 #include "base/build_time.h"

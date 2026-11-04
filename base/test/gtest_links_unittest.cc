@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GTest links unit tests
+// summary: Unit tests checking that AddLinkToTestResult accepts valid links and triggers DCHECK failures for invalid names or URLs.
+// ---
+
 #include "base/test/gtest_links.h"
 
 #include "base/command_line.h"

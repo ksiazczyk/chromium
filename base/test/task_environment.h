@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TaskEnvironment and SingleThreadTaskEnvironment declarations
+// summary: Declares TaskEnvironment and SingleThreadTaskEnvironment, enabling task runners, RunLoops and thread pool execution within tests.
+// ---
+
 #ifndef BASE_TEST_TASK_ENVIRONMENT_H_
 #define BASE_TEST_TASK_ENVIRONMENT_H_
 

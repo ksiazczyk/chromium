@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: iOS test end listener declaration
+// summary: Declares RegisterTestEndListener, which installs a GTest listener that keeps the iOS run loop alive between tests.
+// ---
+
 #ifndef BASE_TEST_TEST_LISTENER_IOS_H_
 #define BASE_TEST_TEST_LISTENER_IOS_H_
 

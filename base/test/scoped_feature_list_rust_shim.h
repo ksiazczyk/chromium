@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for the ScopedFeatureList Rust FFI shim
+// summary: Declares ScopedFeatureListRs, a C++/Rust FFI wrapper around the ScopedFeatureList test helper, and its factory function.
+// ---
+
 #ifndef BASE_TEST_SCOPED_FEATURE_LIST_RUST_SHIM_H_
 #define BASE_TEST_SCOPED_FEATURE_LIST_RUST_SHIM_H_
 

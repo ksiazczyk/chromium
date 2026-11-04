@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Child process echo test helper
+// summary: Standalone test helper program that echoes arguments or an environment variable to stdout, used to exercise child process launcher calls.
+// ---
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

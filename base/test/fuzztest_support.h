@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Fuzztest domains for base::Value
+// summary: Defines fuzztest domains that generate and reversibly map base::Value instances for use in fuzz tests.
+// ---
+
 #ifndef BASE_TEST_FUZZTEST_SUPPORT_H_
 #define BASE_TEST_FUZZTEST_SUPPORT_H_
 

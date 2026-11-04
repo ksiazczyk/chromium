@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test discardable memory allocator declaration
+// summary: Declares TestDiscardableMemoryAllocator, a simple heap-backed DiscardableMemoryAllocator implementation for use in tests.
+// ---
+
 #ifndef BASE_TEST_TEST_DISCARDABLE_MEMORY_ALLOCATOR_H_
 #define BASE_TEST_TEST_DISCARDABLE_MEMORY_ALLOCATOR_H_
 

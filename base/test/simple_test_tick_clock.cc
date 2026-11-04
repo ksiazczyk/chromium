@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SimpleTestTickClock implementation
+// summary: Implements SimpleTestTickClock, a thread-safe TickClock whose tick time can be advanced or set manually in tests.
+// ---
+
 #include "base/test/simple_test_tick_clock.h"
 
 #include "base/check.h"

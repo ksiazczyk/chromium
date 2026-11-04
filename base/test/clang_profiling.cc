@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Clang profiling profile writer
+// summary: Implements a thread-safe, at-most-once dump of LLVM profiling data, skipping platforms whose runtimes cannot dump profiles.
+// ---
+
 #include "base/test/clang_profiling.h"
 
 #include "base/no_destructor.h"

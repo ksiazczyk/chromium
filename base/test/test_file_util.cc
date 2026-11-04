@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test file utility implementation
+// summary: Implements test-only file utilities such as scoped temp directory cleanup, cache eviction with retry, and the DieFileDie deletion helper.
+// ---
+
 #include "base/test/test_file_util.h"
 
 #include <vector>

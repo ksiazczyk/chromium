@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SimpleTestClock implementation
+// summary: Implements SimpleTestClock, a thread-safe Clock whose returned time can be advanced or set manually in tests.
+// ---
+
 #include "base/test/simple_test_clock.h"
 
 namespace base {

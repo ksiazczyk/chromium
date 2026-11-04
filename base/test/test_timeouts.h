@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Common test timeouts class interface
+// summary: Declares the TestTimeouts class that provides common timeouts such as tiny, action, and test launcher timeouts for use in tests.
+// ---
+
 #ifndef BASE_TEST_TEST_TIMEOUTS_H_
 #define BASE_TEST_TEST_TIMEOUTS_H_
 

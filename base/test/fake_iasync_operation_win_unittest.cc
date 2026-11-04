@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for FakeIAsyncOperation
+// summary: Typed unit tests verifying FakeIAsyncOperation behavior such as duplicate handlers, repeated completions, and result handling.
+// ---
+
 #include "base/test/fake_iasync_operation_win.h"
 
 #include <asyncinfo.h>

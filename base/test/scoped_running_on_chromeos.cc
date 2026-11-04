@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedRunningOnChromeOS implementation
+// summary: Implements ScopedRunningOnChromeOS, a scoped test helper that makes SysInfo::IsRunningOnChromeOS() return true by installing fake Chrome OS release information.
+// ---
+
 #include "base/test/scoped_running_on_chromeos.h"
 
 #include "base/system/sys_info.h"

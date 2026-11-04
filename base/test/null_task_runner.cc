@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: NullTaskRunner implementation
+// summary: Implements a task runner that discards posted tasks and always reports that tasks run in the current sequence.
+// ---
+
 #include "base/test/null_task_runner.h"
 
 #include "base/time/time.h"

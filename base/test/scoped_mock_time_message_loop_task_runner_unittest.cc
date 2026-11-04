@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedMockTimeMessageLoopTaskRunner unit tests
+// summary: Unit tests verifying task runner replacement and that incomplete tasks are copied back to the previous runner after destruction.
+// ---
+
 #include "base/test/scoped_mock_time_message_loop_task_runner.h"
 
 #include <memory>

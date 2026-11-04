@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test file utility declarations
+// summary: Declares test-only file utility functions for cache eviction, deletion, temp directories, permission manipulation, and permission restoration.
+// ---
+
 #ifndef BASE_TEST_TEST_FILE_UTIL_H_
 #define BASE_TEST_TEST_FILE_UTIL_H_
 

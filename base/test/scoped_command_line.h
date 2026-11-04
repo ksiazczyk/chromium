@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped command line test helper
+// summary: Declares ScopedCommandLine, a helper that restores the original process command line at the end of the scope.
+// ---
+
 #ifndef BASE_TEST_SCOPED_COMMAND_LINE_H_
 #define BASE_TEST_SCOPED_COMMAND_LINE_H_
 

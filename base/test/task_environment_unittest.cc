@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TaskEnvironment unit tests
+// summary: Unit tests covering TaskEnvironment behaviors such as RunUntilIdle, thread pool execution modes and time control.
+// ---
+
 #include "base/test/task_environment.h"
 
 #include <atomic>

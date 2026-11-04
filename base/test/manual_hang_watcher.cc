@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Manual hang watcher implementation
+// summary: Implements a HangWatcher variant whose monitoring is disabled from running periodically and instead triggered manually and synchronously.
+// ---
+
 #include "base/test/manual_hang_watcher.h"
 
 #include <atomic>

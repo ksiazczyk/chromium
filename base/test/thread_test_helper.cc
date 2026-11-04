@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Thread test helper implementation
+// summary: Implements ThreadTestHelper, which runs test code on a target sequence and blocks the caller until completion.
+// ---
+
 #include "base/test/thread_test_helper.h"
 
 #include <utility>

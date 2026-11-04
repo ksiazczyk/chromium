@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: GTest sub-test result support API
+// summary: Declares AddSubTestResult for reporting extra sub-test results with elapsed time and optional failure messages within a single GTest.
+// ---
+
 #ifndef BASE_TEST_GTEST_SUB_TEST_RESULTS_H_
 #define BASE_TEST_GTEST_SUB_TEST_RESULTS_H_
 

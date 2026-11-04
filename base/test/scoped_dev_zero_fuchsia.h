@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Scoped /dev/zero helper for Fuchsia tests
+// summary: Declares ScopedDevZero, a ref-counted helper that makes /dev/zero available to tests on Fuchsia via a process-global instance.
+// ---
+
 #ifndef BASE_TEST_SCOPED_DEV_ZERO_FUCHSIA_H_
 #define BASE_TEST_SCOPED_DEV_ZERO_FUCHSIA_H_
 

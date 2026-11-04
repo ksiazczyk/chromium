@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the Windows registry override manager
+// summary: Unit tests verifying that registry overrides create and clean up keys and that stale test keys are deleted by RegistryOverrideManager.
+// ---
+
 #include "base/test/test_reg_util_win.h"
 
 #include <memory>

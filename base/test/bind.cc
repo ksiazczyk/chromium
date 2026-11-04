@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Callback expected-run closure implementations
+// summary: Implements closures that fail a test if a callback is not run, run more than expected, or run when it should not.
+// ---
+
 #include "base/test/bind.h"
 
 #include <string>

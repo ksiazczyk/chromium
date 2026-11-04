@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Power monitor test fakes implementation
+// summary: Implements TestSamplingEventSource and TestBatteryLevelProvider, fakes that simulate sampling events and provide controllable battery states for tests.
+// ---
+
 #include "base/test/power_monitor_test_utils.h"
 
 #include "base/time/time.h"

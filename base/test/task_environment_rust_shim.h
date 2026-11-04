@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Header for the task environment Rust shim
+// summary: Declares CreateTaskEnvironment, which creates a SingleThreadTaskEnvironment for use from Rust tests.
+// ---
+
 #ifndef BASE_TEST_TASK_ENVIRONMENT_RUST_SHIM_H_
 #define BASE_TEST_TASK_ENVIRONMENT_RUST_SHIM_H_
 

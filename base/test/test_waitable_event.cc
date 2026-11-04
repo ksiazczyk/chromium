@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test waitable event implementation
+// summary: Implements TestWaitableEvent, a WaitableEvent for tests that avoids extra ScopedBlockingCall instrumentation while waiting.
+// ---
+
 #include "base/test/test_waitable_event.h"
 
 #include <utility>

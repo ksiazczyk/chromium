@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Android thread pool test helpers
+// summary: Android JNI test helpers that enable or disable thread pool task execution by controlling a fence on ThreadPoolInstance.
+// ---
+
 #include "base/task/thread_pool/thread_pool_instance.h"
 
 // Must come after all headers that specialize FromJniType() / ToJniType().
