@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash reporting client implementation
+// summary: Implements Crashpad initialization, crash dump upload control and the crash reporter message loop for the companion app.
+// ---
+
 #include "chrome/enterprise_companion/crash_client.h"
 
 #include <stdint.h>

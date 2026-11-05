@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: GCAPI DLL entry point
+// summary: Implements DllMain for gcapi_dll, initializing and tearing down the AtExitManager, command line, and logging on process attach and detach.
+// ---
+
 #include <windows.h>
 
 #include "base/at_exit.h"

@@ -1,0 +1,4 @@
+# Docerion header of fuzz.dict.
+type: data
+title: Fuzzing dictionary
+summary: Dictionary of Windows path and Chrome-related tokens used to guide fuzzing in the elevation service.

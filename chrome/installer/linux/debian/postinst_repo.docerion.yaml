@@ -1,0 +1,4 @@
+# Docerion header of postinst_repo.
+type: script
+title: Post-install script for repository packages
+summary: Postinst maintainer script for repository packages that installs the signing key and creates the apt sources lists.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ScopedInstallDetails test support implementation
+// summary: Implements ScopedInstallDetails, which swaps in a chosen InstallDetails for the duration of a test and restores the previous instance on destruction.
+// ---
+
 #include "chrome/install_static/test/scoped_install_details.h"
 
 #include <utility>

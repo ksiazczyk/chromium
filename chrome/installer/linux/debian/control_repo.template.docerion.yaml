@@ -1,0 +1,4 @@
+# Docerion header of control_repo.template.
+type: config
+title: Repository package control template
+summary: Template for the control file of the APT repository configuration package, including its description and signing key note.

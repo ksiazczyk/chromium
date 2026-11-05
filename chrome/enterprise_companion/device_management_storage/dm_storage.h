@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device management storage interface
+// summary: Declares the DMStorage interface, TokenServiceInterface, and CachedPolicyInfo for storing enrollment tokens, DM tokens, and policies.
+// ---
+
 #ifndef CHROME_ENTERPRISE_COMPANION_DEVICE_MANAGEMENT_STORAGE_DM_STORAGE_H_
 #define CHROME_ENTERPRISE_COMPANION_DEVICE_MANAGEMENT_STORAGE_DM_STORAGE_H_
 

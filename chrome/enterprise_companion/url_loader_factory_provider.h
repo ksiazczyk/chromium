@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: URL loader factory provider header
+// summary: Declares providers that create shared URL loader factories in-process or via a remote network worker on Mac.
+// ---
+
 #ifndef CHROME_ENTERPRISE_COMPANION_URL_LOADER_FACTORY_PROVIDER_H_
 #define CHROME_ENTERPRISE_COMPANION_URL_LOADER_FACTORY_PROVIDER_H_
 

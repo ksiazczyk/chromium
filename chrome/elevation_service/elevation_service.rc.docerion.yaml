@@ -1,0 +1,4 @@
+# Docerion header of elevation_service.rc.
+type: source
+title: Elevation service Windows resource script
+summary: Visual C++ resource script for the elevation service that sets English resources and embeds the IElevator type library.

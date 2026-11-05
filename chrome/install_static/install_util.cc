@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install Utility Implementation
+// summary: Implements helper functions providing Chrome version, channel, registry, and process type information using only kernel32 and advapi32.
+// ---
+
 #include "chrome/install_static/install_util.h"
 
 #include <windows.h>

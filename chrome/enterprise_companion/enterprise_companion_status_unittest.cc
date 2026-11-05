@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise companion status unit tests
+// summary: Unit tests verifying status conversions from device management, cloud policy validation, and Mojom statuses, including equality checks.
+// ---
+
 #include "chrome/enterprise_companion/enterprise_companion_status.h"
 
 #include <algorithm>

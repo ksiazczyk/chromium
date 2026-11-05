@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Shared test utilities
+// summary: Implements shared test helpers such as process waiting, polling with timeouts, and cleaning install and policy state between tests.
+// ---
+
 #include "chrome/enterprise_companion/test/test_utils.h"
 
 #include <optional>

@@ -1,0 +1,4 @@
+# Docerion header of branding.gni.
+type: config
+title: Branding settings for Chrome Enterprise Companion
+summary: Sets branding identifiers and device management, reporting and event logging endpoint URLs for Chrome and Chromium builds.

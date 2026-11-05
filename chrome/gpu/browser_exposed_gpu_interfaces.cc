@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of Chrome GPU interfaces exposed to the browser
+// summary: Registers Chrome GPU process Mojo interfaces, including ChromeOS ARC video decode, encode, decoder, and protected buffer services, for binding by the browser.
+// ---
+
 #include "chrome/gpu/browser_exposed_gpu_interfaces.h"
 
 #include "base/memory/scoped_refptr.h"

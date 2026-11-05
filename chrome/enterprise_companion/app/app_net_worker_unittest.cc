@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Network worker app unit tests
+// summary: Multiprocess unit tests verifying the network worker serves HTTP requests via Mojo and stops when the client disconnects.
+// ---
+
 #include <memory>
 #include <optional>
 #include <utility>

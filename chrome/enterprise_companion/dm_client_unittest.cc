@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the device management client
+// summary: Unit tests for DMClient covering registration, policy fetching, and enrollment token handling with mock cloud policy clients and storage.
+// ---
+
 #include "chrome/enterprise_companion/dm_client.h"
 
 #include <stdint.h>

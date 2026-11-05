@@ -1,0 +1,4 @@
+# Docerion header of prerm.
+type: script
+title: Pre-removal script for Chrome Debian packages
+summary: Prerm maintainer script that removes the browser alternatives entries and skips cleanup when the action is an upgrade.

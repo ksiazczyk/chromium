@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for enterprise companion protos
+summary: Defines GN group and proto_library targets that build the enterprise companion event protobuf and propagate protobuf include config to dependents.

@@ -1,0 +1,4 @@
+# Docerion header of metainfo.xml.template.
+type: config
+title: Flatpak AppStream metainfo template
+summary: AppStream metainfo XML template describing the desktop application with id, name, summary, licenses, URLs, content rating, screenshots and release information.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Application error and status constants
+// summary: Declares the ApplicationError enum and process status codes that are transmitted across IPC and network boundaries.
+// ---
+
 #ifndef CHROME_ENTERPRISE_COMPANION_CONSTANTS_H_
 #define CHROME_ENTERPRISE_COMPANION_CONSTANTS_H_
 

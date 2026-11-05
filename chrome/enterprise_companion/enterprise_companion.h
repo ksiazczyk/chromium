@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise Companion entry point header
+// summary: Declares the main entry function EnterpriseCompanionMain and the log file path helper for the companion app.
+// ---
+
 #ifndef CHROME_ENTERPRISE_COMPANION_ENTERPRISE_COMPANION_H_
 #define CHROME_ENTERPRISE_COMPANION_ENTERPRISE_COMPANION_H_
 

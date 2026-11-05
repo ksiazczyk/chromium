@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for install_static
+summary: Restricts allowed includes for the install_static library, permitting only a small set of base and chrome headers to keep dependencies minimal.

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the GCAPI DLL
+summary: Defines the gcapi_dll shared library, the GCAPI source set, and the gcapi_test target, including the rule that GCAPI must not depend on ICU.

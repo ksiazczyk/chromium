@@ -1,0 +1,4 @@
+# Docerion header of postinst.include.
+type: script
+title: Post-install include for Linux package scripts
+summary: Shell fragment included in post-install scripts to register icons, refresh MIME type caches, update GNOME default-app entries, set up the management service, and reload AppArmor profiles.

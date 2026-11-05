@@ -1,0 +1,4 @@
+# Docerion header of additional_deps.
+type: config
+title: Additional RPM dependencies
+summary: Lists extra RPM package dependencies that the automatic find-requires output does not cover, such as CA certificates, fonts, GTK, NSS, and Vulkan.

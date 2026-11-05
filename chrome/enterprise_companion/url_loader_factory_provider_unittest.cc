@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: URL Loader Factory Provider Unit Tests
+// summary: Unit tests for the URL loader factory provider, verifying disconnect handling for the macOS proxy and in-process stub implementations.
+// ---
+
 #include "chrome/enterprise_companion/url_loader_factory_provider.h"
 
 #include "base/task/sequenced_task_runner.h"

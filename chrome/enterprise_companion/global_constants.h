@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Global constants interface
+// summary: Declares the GlobalConstants interface for service URLs and event logger settings, plus override JSON keys and the singleton accessor.
+// ---
+
 #ifndef CHROME_ENTERPRISE_COMPANION_GLOBAL_CONSTANTS_H_
 #define CHROME_ENTERPRISE_COMPANION_GLOBAL_CONSTANTS_H_
 

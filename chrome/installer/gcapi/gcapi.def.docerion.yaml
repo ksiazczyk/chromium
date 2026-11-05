@@ -1,0 +1,4 @@
+# Docerion header of gcapi.def.
+type: config
+title: GCAPI DLL export definitions
+summary: Module definition file listing the functions exported from gcapi_dll.dll, such as GoogleChromeCompatibilityCheck and ReactivateChrome.

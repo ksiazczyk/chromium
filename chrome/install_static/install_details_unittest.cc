@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Install Details Unit Tests
+// summary: Unit tests for the InstallDetails class covering client state key paths and version and payload size mismatch detection.
+// ---
+
 #include "chrome/install_static/install_details.h"
 
 #include <string>

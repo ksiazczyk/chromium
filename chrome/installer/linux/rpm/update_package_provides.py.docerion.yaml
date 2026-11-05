@@ -1,0 +1,4 @@
+# Docerion header of update_package_provides.py.
+type: script
+title: Package provides update script
+summary: Downloads repository metadata from supported Fedora and openSUSE releases to regenerate the dist_package_provides.json data.

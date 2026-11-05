@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Telemetry logger build definition
+summary: GN build file defining the telemetry_logger source_set with its header sources and dependencies on the proto directory and base.

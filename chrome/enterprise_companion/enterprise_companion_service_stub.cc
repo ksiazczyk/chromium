@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise companion service IPC stub
+// summary: Implements the Mojo IPC stub that brokers client connections and forwards shutdown and policy fetch calls to the enterprise companion service, rejecting untrusted callers.
+// ---
+
 #include "chrome/enterprise_companion/enterprise_companion_service_stub.h"
 
 #include <memory>

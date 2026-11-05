@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Installer app implementation
+// summary: Implements the installer app that shuts down the running server, acquires a singleton lock, and runs install or uninstall tasks.
+// ---
+
 #include <memory>
 #include <utility>
 

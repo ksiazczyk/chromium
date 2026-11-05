@@ -1,0 +1,4 @@
+# Docerion header of rpmrepo.cron.
+type: script
+title: Cron script to maintain the RPM repository configuration
+summary: Cron job that installs the RPM signing key and verifies or recreates repository files for yum and zypper after installation.

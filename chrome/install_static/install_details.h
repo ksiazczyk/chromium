@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install Details
+// summary: Declares the InstallDetails class describing how Chrome is installed, including channel origin, mode, and payload shared between modules.
+// ---
+
 #ifndef CHROME_INSTALL_STATIC_INSTALL_DETAILS_H_
 #define CHROME_INSTALL_STATIC_INSTALL_DETAILS_H_
 

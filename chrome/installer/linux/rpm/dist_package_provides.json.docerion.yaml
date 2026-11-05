@@ -1,0 +1,4 @@
+# Docerion header of dist_package_provides.json.
+type: data
+title: Distro package provides data
+summary: JSON data listing the shared libraries provided by supported RPM distributions, used to validate Chrome's package dependencies.

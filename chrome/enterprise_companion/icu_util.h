@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ICU initialization declaration
+// summary: Declares InitializeICU, a best-effort ICU initialization that is attempted at most once per process.
+// ---
+
 #ifndef CHROME_ENTERPRISE_COMPANION_ICU_UTIL_H_
 #define CHROME_ENTERPRISE_COMPANION_ICU_UTIL_H_
 

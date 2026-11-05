@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise Companion command-line flags
+// summary: Defines command-line switches that select the app mode and control usage stats, telemetry cohort, and logging configuration.
+// ---
+
 #ifndef CHROME_ENTERPRISE_COMPANION_FLAGS_H_
 #define CHROME_ENTERPRISE_COMPANION_FLAGS_H_
 

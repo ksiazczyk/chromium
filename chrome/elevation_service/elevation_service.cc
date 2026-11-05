@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Elevation service entry point
+// summary: Entry point for the Windows elevation service, delegating startup to ServiceProgramMain with the elevation service delegate.
+// ---
+
 #include "chrome/elevation_service/elevation_service_delegate.h"
 #include "chrome/windows_services/service_program/service_program_main.h"
 

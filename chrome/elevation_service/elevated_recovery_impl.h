@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Elevated recovery CRX verification and execution declarations
+// summary: Declares functions to clean the Chrome recovery directory and to verify and run CRX packages such as ChromeRecovery.exe, returning process handles to callers.
+// ---
+
 #ifndef CHROME_ELEVATION_SERVICE_ELEVATED_RECOVERY_IMPL_H_
 #define CHROME_ELEVATION_SERVICE_ELEVATED_RECOVERY_IMPL_H_
 

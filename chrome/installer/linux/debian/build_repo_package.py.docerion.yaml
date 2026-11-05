@@ -1,0 +1,4 @@
+# Docerion header of build_repo_package.py.
+type: source
+title: APT repository package build script
+summary: Builds the Debian package that ships APT repository configuration and signing keys, using repo package version info and repo-specific templates.

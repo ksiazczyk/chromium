@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Network worker app implementation
+// summary: Implements the macOS network worker app that serves network requests in a dedicated process and drops root privileges to nobody.
+// ---
+
 #include <sys/errno.h>
 #include <sys/types.h>
 #include <unistd.h>

@@ -1,0 +1,4 @@
+# Docerion header of build.py.
+type: source
+title: Debian package build script
+summary: Builds the Chrome or Chromium .deb installer by staging files, generating control metadata with dpkg-gencontrol and verifying package dependencies.

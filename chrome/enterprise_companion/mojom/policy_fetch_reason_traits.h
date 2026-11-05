@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PolicyFetchReason enum traits declaration
+// summary: Declares the EnumTraits specialization mapping between the policy and Mojom PolicyFetchReason enums.
+// ---
+
 #ifndef CHROME_ENTERPRISE_COMPANION_MOJOM_POLICY_FETCH_REASON_TRAITS_H_
 #define CHROME_ENTERPRISE_COMPANION_MOJOM_POLICY_FETCH_REASON_TRAITS_H_
 

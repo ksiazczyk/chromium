@@ -1,3 +1,11 @@
+---
+type: readme
+title: Chrome Enterprise Companion App
+summary: Explains the design, RPC interface, policy agent behavior, installation, networking, event logging, crash reporting and testing of the elevated enterprise daemon.
+relations:
+  - references /chrome/enterprise_companion/images/architecture.svg
+---
+
 # Chrome Enterprise Companion App
 
 ## Background

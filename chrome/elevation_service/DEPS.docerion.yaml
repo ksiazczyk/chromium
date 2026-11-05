@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Allowed include rules for the elevation service
+summary: Specifies which directories, such as installer utilities and crx_file, this directory may include headers from.

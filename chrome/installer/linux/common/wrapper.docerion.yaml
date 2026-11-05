@@ -1,0 +1,4 @@
+# Docerion header of wrapper.
+type: script
+title: Chrome launcher wrapper script
+summary: Shell wrapper that sets environment variables, creates mimeapps.list, sanitizes standard streams, and execs the Chrome binary.

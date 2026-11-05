@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Product install details
+// summary: Determines the product's InstallDetails at runtime from the executable path, install suffix, and Program Files location.
+// ---
+
 #include "chrome/install_static/product_install_details.h"
 
 #include <windows.h>

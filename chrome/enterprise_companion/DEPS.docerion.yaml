@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for Chrome Enterprise Companion
+summary: Lists the Chromium dependencies that code in this directory is allowed to include.

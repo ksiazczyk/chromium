@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy fetch app implementation
+// summary: Implements an app that sends an IPC request to the running companion server to fetch policies and shuts down with the result.
+// ---
+
 #include <memory>
 #include <utility>
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux device management token storage
+// summary: Linux implementation of the token service that stores enrollment and DM tokens under /opt and derives the device ID from /etc/machine-id.
+// ---
+
 #include "chrome/enterprise_companion/device_management_storage/dm_storage.h"
 
 #include <string>

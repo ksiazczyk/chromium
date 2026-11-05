@@ -1,0 +1,4 @@
+# Docerion header of additional_deps.
+type: config
+title: Additional Debian package dependencies
+summary: Lists extra Debian package dependencies such as SSL certificates, fonts, GTK, NSS, Vulkan and xdg-utils that dpkg-shlibdeps does not detect.

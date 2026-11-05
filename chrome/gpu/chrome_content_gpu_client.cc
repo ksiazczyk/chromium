@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the Chrome GPU process content client
+// summary: Implements the Chrome content GPU client, setting up thread and heap profilers plus ChromeOS protected buffer management and CDM factory bindings.
+// ---
+
 #include "chrome/gpu/chrome_content_gpu_client.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crash client unit tests
+// summary: Verifies that a crashing test child process produces a crash dump in the configured crash database.
+// ---
+
 #include "chrome/enterprise_companion/crash_client.h"
 
 #include "base/base_paths.h"

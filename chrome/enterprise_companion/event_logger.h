@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise companion event logger interfaces
+// summary: Declares the event logger interface for registration and policy fetch events, plus the cookie handler that persists the event logging cookie.
+// ---
+
 #ifndef CHROME_ENTERPRISE_COMPANION_EVENT_LOGGER_H_
 #define CHROME_ENTERPRISE_COMPANION_EVENT_LOGGER_H_
 

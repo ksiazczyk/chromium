@@ -25,6 +25,12 @@
 // AlwaysOpenPdfExternally group policy setting applies to both Google Chrome
 // and Google Chrome SxS.
 
+// ---docerion
+// type: source
+// title: Install Modes
+// summary: Declares brand and install mode constants and selects the brand-specific install mode definitions based on build branding flags.
+// ---
+
 #ifndef CHROME_INSTALL_STATIC_INSTALL_MODES_H_
 #define CHROME_INSTALL_STATIC_INSTALL_MODES_H_
 

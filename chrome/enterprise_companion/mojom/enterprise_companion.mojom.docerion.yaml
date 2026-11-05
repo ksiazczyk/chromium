@@ -1,0 +1,4 @@
+# Docerion header of enterprise_companion.mojom.
+type: source
+title: EnterpriseCompanion Mojom interface
+summary: Defines the stable Status struct and the EnterpriseCompanion IPC interface with Shutdown and FetchPolicies methods for the enterprise companion app.

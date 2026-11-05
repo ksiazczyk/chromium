@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TelemetryLogger class for metric event logging
+// summary: Header defining a templated TelemetryLogger that buffers application metric events and uploads them to a remote endpoint through an embedder-provided Delegate interface.
+// ---
+
 #ifndef CHROME_ENTERPRISE_COMPANION_TELEMETRY_LOGGER_TELEMETRY_LOGGER_H_
 #define CHROME_ENTERPRISE_COMPANION_TELEMETRY_LOGGER_TELEMETRY_LOGGER_H_
 

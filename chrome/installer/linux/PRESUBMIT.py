@@ -1,6 +1,13 @@
 # Copyright 2026 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: source
+# title: Presubmit checks for Linux installer changes
+# summary: Presubmit script that rebuilds the repo package and verifies its hash matches REPO_PACKAGE_HASH in debian/repo_package.include.
+# ---
+
 """Presubmit script for changes affecting chrome/installer/linux/
 
 See http://dev.chromium.org/developers/how-tos/depottools/presubmit-scripts

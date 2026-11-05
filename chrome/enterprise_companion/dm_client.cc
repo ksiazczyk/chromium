@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Device management client implementation
+// summary: Implements the DMClient that registers the companion app with the device management server, fetches policies, and stores failed enrollment tokens.
+// ---
+
 #include "chrome/enterprise_companion/dm_client.h"
 
 #include <stdint.h>

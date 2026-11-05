@@ -1,0 +1,4 @@
+# Docerion header of build.py.
+type: source
+title: Chrome Linux Flatpak build script
+summary: Python script that stages the Flatpak package contents, rendering launcher, desktop, metainfo and metadata templates, copying icons and initializing the Flatpak repository.

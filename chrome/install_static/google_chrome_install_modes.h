@@ -4,6 +4,12 @@
 
 // Brand-specific types and constants for Google Chrome.
 
+// ---docerion
+// type: source
+// title: Google Chrome brand-specific install modes and constants
+// summary: Declares Google Chrome's brand-specific constants and install modes for the stable, beta, dev, and canary channels, including app GUIDs, ProgIDs, and CLSIDs.
+// ---
+
 #ifndef CHROME_INSTALL_STATIC_GOOGLE_CHROME_INSTALL_MODES_H_
 #define CHROME_INSTALL_STATIC_GOOGLE_CHROME_INSTALL_MODES_H_
 

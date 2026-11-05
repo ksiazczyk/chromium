@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC client interface for the companion app
+// summary: Declares client utilities for connecting to the companion app IPC server, including retry and launch behavior with usage stats options.
+// ---
+
 #ifndef CHROME_ENTERPRISE_COMPANION_ENTERPRISE_COMPANION_CLIENT_H_
 #define CHROME_ENTERPRISE_COMPANION_ENTERPRISE_COMPANION_CLIENT_H_
 

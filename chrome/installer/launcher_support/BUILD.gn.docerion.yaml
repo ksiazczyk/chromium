@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build definition for the launcher_support target
+summary: Defines the launcher_support source set with the chrome_launcher_support sources and dependencies on base and branding buildflags.

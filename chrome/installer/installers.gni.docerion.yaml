@@ -1,0 +1,4 @@
+# Docerion header of installers.gni.
+type: config
+title: Installer build arguments
+summary: Declares GN arguments that enable the Linux and Mac installers and set the Debian package xz thread count.

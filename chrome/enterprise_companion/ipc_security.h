@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC security interface
+// summary: Declares the IPC trust decider callback type and factory used to decide whether an IPC caller is allowed.
+// ---
+
 #ifndef CHROME_ENTERPRISE_COMPANION_IPC_SECURITY_H_
 #define CHROME_ENTERPRISE_COMPANION_IPC_SECURITY_H_
 

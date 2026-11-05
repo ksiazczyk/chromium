@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise Companion shutdown IPC client
+// summary: Defines AppShutdown, an app client that sends a shutdown request over Mojo IPC to a running Enterprise Companion and exits with the resulting status.
+// ---
+
 #include <memory>
 #include <utility>
 

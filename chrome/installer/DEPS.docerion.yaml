@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Installer include dependency rules
+summary: Allowlists extra include dependencies for the installer directory, such as crash, variations, rlz and lzma_sdk.

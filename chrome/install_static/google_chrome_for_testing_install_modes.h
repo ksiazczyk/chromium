@@ -4,6 +4,12 @@
 
 // Brand-specific types and constants for Google Chrome for Testing
 
+// ---docerion
+// type: source
+// title: Google Chrome for Testing brand-specific install modes
+// summary: Declares brand-specific constants and the single install mode for Google Chrome for Testing, including ProgIDs, GUIDs, and CLSIDs, without Google Update integration.
+// ---
+
 #ifndef CHROME_INSTALL_STATIC_GOOGLE_CHROME_FOR_TESTING_INSTALL_MODES_H_
 #define CHROME_INSTALL_STATIC_GOOGLE_CHROME_FOR_TESTING_INSTALL_MODES_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build targets for the elevation service
+summary: GN build file defining the elevation service executable, IDL, libraries, version resources, and unit test targets.

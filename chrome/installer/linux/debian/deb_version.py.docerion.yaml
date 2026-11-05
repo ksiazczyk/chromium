@@ -1,0 +1,4 @@
+# Docerion header of deb_version.py.
+type: source
+title: Debian version comparison
+summary: Implements parsing and ordering of Debian version strings, following the comparison algorithm specified in deb-version.

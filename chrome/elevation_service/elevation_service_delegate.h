@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Elevation service delegate class declaration
+// summary: Declares the Delegate class that supplies event logging metadata, class factories, and pre-run cleanup for the elevation service.
+// ---
+
 #ifndef CHROME_ELEVATION_SERVICE_ELEVATION_SERVICE_DELEGATE_H_
 #define CHROME_ELEVATION_SERVICE_ELEVATION_SERVICE_DELEGATE_H_
 

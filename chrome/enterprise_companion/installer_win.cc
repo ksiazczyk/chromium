@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows installer implementation
+// summary: Implements Windows installation by copying the executable and ICU data into the install directory using work item lists.
+// ---
+
 #include "chrome/enterprise_companion/installer.h"
 
 #include <shlobj.h>

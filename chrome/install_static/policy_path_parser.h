@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy path parser header
+// summary: Declares ExpandPathVariables, which expands policy path variables for Windows.
+// ---
+
 #ifndef CHROME_INSTALL_STATIC_POLICY_PATH_PARSER_H_
 #define CHROME_INSTALL_STATIC_POLICY_PATH_PARSER_H_
 

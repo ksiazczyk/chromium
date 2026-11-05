@@ -1,0 +1,4 @@
+# Docerion header of variables.include.
+type: config
+title: Package defaults file location variable
+summary: Defines the DEFAULTS_FILE path pointing to the system-wide package configuration under /etc/default.

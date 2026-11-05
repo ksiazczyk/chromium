@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the Linux installer directory
+summary: Lists the Chromium maintainers responsible for reviewing changes to the Linux installer directory.

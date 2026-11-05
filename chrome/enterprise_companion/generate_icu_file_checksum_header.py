@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: ICU data file checksum header generator
+# summary: Python build script that generates a header declaring the expected size and SHA256 checksum of the ICU data file.
+# ---
+
 """Generates a header file defining expected properties of the ICU data file."""
 
 import argparse

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: IPC server app implementation
+// summary: Implements the app that runs the Enterprise Companion Mojo IPC server, setting up locks, URL loader factories, and platform specifics.
+// ---
+
 #include <memory>
 #include <optional>
 #include <utility>

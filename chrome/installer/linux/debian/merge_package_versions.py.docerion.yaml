@@ -1,0 +1,4 @@
+# Docerion header of merge_package_versions.py.
+type: script
+title: Merge package version dependency files
+summary: Merges multiple package version interval dependency files into one sorted output, dropping interval sets implied by others.

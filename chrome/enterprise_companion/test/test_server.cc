@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test server implementation
+// summary: Implements an embedded HTTP test server that matches expected requests in order and serves canned responses for integration tests.
+// ---
+
 #include "chrome/enterprise_companion/test/test_server.h"
 
 #include <algorithm>

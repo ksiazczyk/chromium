@@ -1,0 +1,4 @@
+# Docerion header of rpm.include.
+type: script
+title: RPM repository setup functions
+summary: Shell functions that install the RPM signing key, detect the package manager, and write yum or zypper repository files.

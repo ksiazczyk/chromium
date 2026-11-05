@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Enterprise companion service unit tests
+// summary: Unit tests for the enterprise companion service covering shutdown and policy fetch flows using a mock DM client and event logger.
+// ---
+
 #include "chrome/enterprise_companion/enterprise_companion_service.h"
 
 #include <memory>

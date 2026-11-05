@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install Details Implementation
+// summary: Implements the InstallDetails class that shares install configuration, version checks, and registry key paths across modules in a process.
+// ---
+
 #include "chrome/install_static/install_details.h"
 
 #include <assert.h>

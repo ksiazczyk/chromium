@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Installer meta-target build rules
+summary: GN group that forwards to the Linux or Mac installer target depending on which installer flags are enabled.

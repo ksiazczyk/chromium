@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device management storage unit tests
+// summary: Unit tests for DMStorage covering token storage, deletion, and policy persistence across Linux, macOS, and Windows.
+// ---
+
 #include "chrome/enterprise_companion/device_management_storage/dm_storage.h"
 
 #include <memory>

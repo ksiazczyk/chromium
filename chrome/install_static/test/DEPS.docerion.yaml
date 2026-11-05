@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for install_static tests
+summary: Allows the install_static test directory to include headers from the base directory via DEPS include rules.

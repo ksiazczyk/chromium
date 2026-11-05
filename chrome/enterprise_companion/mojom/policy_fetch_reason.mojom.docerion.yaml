@@ -1,0 +1,4 @@
+# Docerion header of policy_fetch_reason.mojom.
+type: source
+title: PolicyFetchReason Mojom enum
+summary: Defines the stable, extensible PolicyFetchReason enum describing why a client initiates a policy fetch request.

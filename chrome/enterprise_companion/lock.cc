@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise Companion system lock implementation
+// summary: Creates a platform-specific named system lock so only one companion process can run on a machine at a time.
+// ---
+
 #include "chrome/enterprise_companion/lock.h"
 
 #include "base/time/time.h"

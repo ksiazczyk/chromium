@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Installer directory bug tracking metadata
+summary: Maps the installer directory to the Internals>Installer Monorail component and a Buganizer component ID.

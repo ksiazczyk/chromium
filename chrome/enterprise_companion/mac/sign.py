@@ -1,6 +1,13 @@
 # Copyright 2024 The Chromium Authors
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
+
+# ---docerion
+# type: script
+# title: Enterprise Companion Mac app signing and notarization script
+# summary: Signs, validates, zips, notarizes, and staples the Chrome Enterprise Companion app bundle, and creates an Omaha-compatible DMG installer with an install script.
+# ---
+
 """Script to sign and optionally notarize the Chrome Enterprise Companion App"""
 
 import sys

@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: source
+# title: Linux package installer script
+# summary: Python tooling that stages artifacts and builds deb, rpm and flatpak packages for Chrome and Chromium on Linux.
+# ---
+
 import argparse
 import dataclasses
 import datetime

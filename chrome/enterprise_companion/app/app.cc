@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: App base class implementation
+// summary: Implements the App base class, running a run loop until shutdown and returning the resulting EnterpriseCompanionStatus.
+// ---
+
 #include "chrome/enterprise_companion/app/app.h"
 
 #include <utility>

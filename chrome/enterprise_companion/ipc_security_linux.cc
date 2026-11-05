@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux IPC security
+// summary: Allows IPC connections only from callers whose effective user ID matches the companion process.
+// ---
+
 #include "chrome/enterprise_companion/ipc_security.h"
 
 #include <sys/types.h>

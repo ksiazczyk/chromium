@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Elevated recovery unit tests
+// summary: Unit tests for Chrome recovery CRX handling, checking argument validation and CRX verification behavior of RunChromeRecoveryCRX and RunCRX.
+// ---
+
 #include <windows.h>
 
 #include <wrl/implements.h>

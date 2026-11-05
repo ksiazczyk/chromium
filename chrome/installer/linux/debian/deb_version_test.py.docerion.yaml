@@ -1,0 +1,4 @@
+# Docerion header of deb_version_test.py.
+type: test
+title: Debian version comparison tests
+summary: Asserts pairwise ordering of sample Debian version strings to verify the DebVersion comparison logic.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PolicyFetchReason enum traits implementation
+// summary: Implements Mojo EnumTraits converting between policy::PolicyFetchReason and the enterprise_companion Mojom PolicyFetchReason enum in both directions.
+// ---
+
 #include "chrome/enterprise_companion/mojom/policy_fetch_reason_traits.h"
 
 #include "base/notreached.h"

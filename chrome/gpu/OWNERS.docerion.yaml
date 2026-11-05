@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS review rules for the Chrome GPU directory
+summary: Specifies code owners for the directory and requires security-team review for browser_exposed_gpu_interfaces.cc.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for the Chrome GPU directory
+summary: Lists the allowed include paths for code in chrome/gpu, covering profiler, ChromeOS ARC, viz, media, tracing, and Widevine dependencies.

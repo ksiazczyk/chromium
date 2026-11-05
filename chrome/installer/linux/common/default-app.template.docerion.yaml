@@ -1,0 +1,4 @@
+# Docerion header of default-app.template.
+type: config
+title: GNOME default apps template
+summary: XML template that lists the packaged browser in the GNOME default applications configuration.

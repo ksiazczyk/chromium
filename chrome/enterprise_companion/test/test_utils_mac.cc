@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: macOS test utilities for Enterprise Companion
+// summary: Mac-specific test helpers that supply install paths, cleanup, install checks, and a fake ksadmin binary for Enterprise Companion tests.
+// ---
+
 #include "chrome/enterprise_companion/test/test_utils.h"
 
 #include <optional>

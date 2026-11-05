@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test utilities interface
+// summary: Declares test helpers and the platform-overridable TestMethods interface for installing, cleaning, and verifying the app under test.
+// ---
+
 #ifndef CHROME_ENTERPRISE_COMPANION_TEST_TEST_UTILS_H_
 #define CHROME_ENTERPRISE_COMPANION_TEST_TEST_UTILS_H_
 

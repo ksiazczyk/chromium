@@ -1,0 +1,4 @@
+# Docerion header of lint_package.py.
+type: script
+title: Lint Chrome Debian packages with lintian
+summary: Runs lintian on a built .deb package with a list of suppressed tags to perform static analysis checks on the package.

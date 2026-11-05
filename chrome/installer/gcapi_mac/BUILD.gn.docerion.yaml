@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for gcapi_mac
+summary: Defines the gcapi_lib static library and gcapi_example executable, with macOS version-min settings so gcapi can be bundled with other software installers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Install Modes Unit Tests
+// summary: Unit tests verifying that a brand's install mode definitions are ordered, complete, and use valid ProgId prefixes and GUIDs.
+// ---
+
 #include "chrome/install_static/install_modes.h"
 
 #include <windows.h>

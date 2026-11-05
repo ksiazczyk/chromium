@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Install util unit tests
+// summary: Unit tests for install_static utility functions such as command line switch parsing and registry-based install details.
+// ---
+
 #include "chrome/install_static/install_util.h"
 
 #include <objbase.h>

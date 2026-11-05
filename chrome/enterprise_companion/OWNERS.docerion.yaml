@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Owners of the Chrome Enterprise Companion directory
+summary: Names the primary owner and references updater and enterprise policy owner files for code reviews.

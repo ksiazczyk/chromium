@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX installer implementation
+// summary: Implements uninstallation on POSIX systems by recursively deleting the install directory and defines its permissions mask.
+// ---
+
 #include "chrome/enterprise_companion/installer_posix.h"
 
 #include <optional>

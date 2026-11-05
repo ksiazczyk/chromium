@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash reporting client interface
+// summary: Declares the default crash database path, crash reporting initialization and the crash reporter entry point.
+// ---
+
 #ifndef CHROME_ENTERPRISE_COMPANION_CRASH_CLIENT_H_
 #define CHROME_ENTERPRISE_COMPANION_CRASH_CLIENT_H_
 

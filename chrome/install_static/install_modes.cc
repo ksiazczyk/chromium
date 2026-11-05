@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Install Modes Implementation
+// summary: Implements registry key path helpers that differ between brands integrating with Google Update and unregistered products.
+// ---
+
 #include "chrome/install_static/install_modes.h"
 
 #include "chrome/install_static/buildflags.h"

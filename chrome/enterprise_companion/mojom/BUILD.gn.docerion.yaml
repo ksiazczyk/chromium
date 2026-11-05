@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for enterprise companion Mojom targets
+summary: GN build file defining the enterprise companion Mojom targets, their visibility, dependencies, and the PolicyFetchReason enum typemap.

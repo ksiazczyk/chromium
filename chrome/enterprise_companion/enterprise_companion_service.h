@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Enterprise Companion service interface
+// summary: Declares the EnterpriseCompanionService interface for policy fetching and shutdown, along with its factory function.
+// ---
+
 #ifndef CHROME_ENTERPRISE_COMPANION_ENTERPRISE_COMPANION_SERVICE_H_
 #define CHROME_ENTERPRISE_COMPANION_ENTERPRISE_COMPANION_SERVICE_H_
 

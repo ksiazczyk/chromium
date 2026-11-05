@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file for gcapi_mac
+summary: Delegates code ownership of the gcapi_mac directory to the owners of ui/base/cocoa.

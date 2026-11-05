@@ -4,6 +4,12 @@
 
 // Brand-specific types and constants for Chromium.
 
+// ---docerion
+// type: source
+// title: Chromium brand-specific install modes and constants
+// summary: Declares Chromium's brand-specific path names, safe browsing name, GUIDs, CLSIDs, and the single Chromium install mode as InstallConstants.
+// ---
+
 #ifndef CHROME_INSTALL_STATIC_CHROMIUM_INSTALL_MODES_H_
 #define CHROME_INSTALL_STATIC_CHROMIUM_INSTALL_MODES_H_
 

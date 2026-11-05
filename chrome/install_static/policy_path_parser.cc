@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Policy path parser
+// summary: Expands Windows policy path variables like ${machine_name} and ${local_app_data} into actual system folder paths.
+// ---
+
 #include "chrome/install_static/policy_path_parser.h"
 
 #include <assert.h>

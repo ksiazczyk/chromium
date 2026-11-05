@@ -8,6 +8,12 @@
 //       coded against the win32 api directly. If you have an itch to shave a
 //       yak, feel free to re-write the old code too.
 
+// ---docerion
+// type: source
+// title: GCAPI compatibility check implementation
+// summary: Implements the legacy partner API that checks whether Chrome can be installed or launched, launches Chrome, and reports days since last run.
+// ---
+
 #include "chrome/installer/gcapi/gcapi.h"
 
 #include <windows.h>

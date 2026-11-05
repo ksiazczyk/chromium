@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: GCAPI include dependency rules
+summary: Restricts includes so GCAPI avoids ICU and Chrome code, allowing only installer constants, launcher support, and updater legacy IDL headers.

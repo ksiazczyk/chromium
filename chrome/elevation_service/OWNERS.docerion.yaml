@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Code owners of the elevation service
+summary: Lists the owners of this directory and routes IDL file reviews to the IPC security owners.

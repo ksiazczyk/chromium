@@ -6,6 +6,12 @@
 // install_modes.h for details. For brands that integrate with Google Update,
 // each mode also describes a strategy for determining its update channel.
 
+// ---docerion
+// type: source
+// title: Install Constants
+// summary: Defines the InstallConstants struct describing a brand's install modes, including update channel strategies and branding identifiers.
+// ---
+
 #ifndef CHROME_INSTALL_STATIC_INSTALL_CONSTANTS_H_
 #define CHROME_INSTALL_STATIC_INSTALL_CONSTANTS_H_
 

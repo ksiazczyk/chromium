@@ -1,0 +1,4 @@
+# Docerion header of metadata.template.
+type: config
+title: Flatpak metadata keyfile template
+summary: Template for the Flatpak metadata keyfile defining the runtime, SDK, command, sandbox permissions, session and system bus policies, and environment variables.
