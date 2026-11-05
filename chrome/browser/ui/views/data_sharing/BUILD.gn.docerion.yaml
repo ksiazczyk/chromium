@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Data sharing views build configuration
+summary: GN build file defining the data_sharing source set plus unit, browser and interactive UI test targets and their dependencies.

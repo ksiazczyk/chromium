@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download bubble contents view class declaration
+// summary: Declares DownloadBubbleContentsView, which owns and switches between the bubble's primary and security pages and handles security subpage actions.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_DOWNLOAD_BUBBLE_DOWNLOAD_BUBBLE_CONTENTS_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_DOWNLOAD_BUBBLE_DOWNLOAD_BUBBLE_CONTENTS_VIEW_H_
 

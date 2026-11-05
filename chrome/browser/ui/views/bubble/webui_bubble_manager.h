@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUIBubbleManager class declaration
+// summary: Declares WebUIBubbleManager, handling asynchronous creation and destruction of WebUI bubbles with anchor variants, observers, and cached contents wrappers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_BUBBLE_WEBUI_BUBBLE_MANAGER_H_
 #define CHROME_BROWSER_UI_VIEWS_BUBBLE_WEBUI_BUBBLE_MANAGER_H_
 

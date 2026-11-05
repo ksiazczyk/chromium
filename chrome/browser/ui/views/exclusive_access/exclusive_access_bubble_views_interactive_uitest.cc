@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Exclusive access bubble views interactive UI tests
+// summary: Interactive UI tests exercising bubble visibility and hiding behavior, including cases where an open menu could obscure the exit instruction.
+// ---
+
 #include "chrome/browser/ui/views/exclusive_access/exclusive_access_bubble_views.h"
 
 #include "base/run_loop.h"

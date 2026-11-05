@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA with Buganizer component and team email
+summary: Maps the directory to Buganizer component 2146373 and the chrome-pcontext-exploration-eng team for issue routing.

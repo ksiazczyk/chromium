@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop media picker views unit tests
+// summary: Extensive unit tests covering the desktop media picker dialog, including source selection, audio sharing, permission checking, and dialog behavior across platforms.
+// ---
+
 #include "chrome/browser/ui/views/desktop_capture/desktop_media_picker_views.h"
 
 #include <algorithm>

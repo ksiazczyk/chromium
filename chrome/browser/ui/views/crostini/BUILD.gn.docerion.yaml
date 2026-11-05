@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for Crostini UI views
+summary: Defines GN targets for the Crostini views static library, browser test support, and unit and browser test suites with their dependencies.

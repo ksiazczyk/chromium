@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictation bubble UI header
+// summary: Declares DictationBubbleUi, the bubble dialog delegate that shows the dictation agent toast with state and audio level updates.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_DICTATION_DICTATION_BUBBLE_UI_H_
 #define CHROME_BROWSER_UI_VIEWS_DICTATION_DICTATION_BUBBLE_UI_H_
 

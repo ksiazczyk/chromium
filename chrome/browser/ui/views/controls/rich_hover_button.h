@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Rich hover button class declaration
+// summary: Declares RichHoverButton, a HoverButton subclass combining icon, title, subtitle, custom view and action/state icons with accessible name support.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_CONTROLS_RICH_HOVER_BUTTON_H_
 #define CHROME_BROWSER_UI_VIEWS_CONTROLS_RICH_HOVER_BUTTON_H_
 

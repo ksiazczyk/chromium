@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HoverButtonController class declaration
+// summary: Declares the button controller containing input logic for buttons that span the full width of their parent.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_CONTROLS_HOVER_BUTTON_CONTROLLER_H_
 #define CHROME_BROWSER_UI_VIEWS_CONTROLS_HOVER_BUTTON_CONTROLLER_H_
 

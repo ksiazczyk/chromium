@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Rich hover button unit tests
+// summary: Unit tests verifying that RichHoverButton's accessible name folds icon descriptions and labels together in visual order and survives icon and label changes.
+// ---
+
 #include "chrome/browser/ui/views/controls/rich_hover_button.h"
 
 #include <memory>

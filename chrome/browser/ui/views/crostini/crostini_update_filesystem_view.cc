@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini container upgrade dialog implementation
+// summary: Implements the dialog shown while the Crostini container upgrades, with delayed display, cancellation, and testing hooks.
+// ---
+
 #include "chrome/browser/ui/views/crostini/crostini_update_filesystem_view.h"
 
 #include "ash/strings/grit/ash_strings.h"

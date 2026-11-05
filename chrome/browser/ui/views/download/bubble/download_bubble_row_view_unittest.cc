@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download bubble row view unit test
+// summary: Unit tests for the download bubble row view covering hover, focus, accelerators, and clipboard actions with mock download items and navigation handler.
+// ---
+
 #include "chrome/browser/ui/views/download/bubble/download_bubble_row_view.h"
 
 #include "chrome/browser/download/bubble/download_bubble_ui_controller.h"

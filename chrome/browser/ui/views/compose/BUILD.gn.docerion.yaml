@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build targets for the Compose dialog views
+summary: Defines GN source sets for the Compose dialog controller, dialog view, unit tests and interactive UI tests together with their dependencies.

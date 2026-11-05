@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop safety interstitial controller implementation
+// summary: Implements desktop safety interstitials for digital credential requests, showing high- and low-risk dialogs and handling aborts and navigation closes.
+// ---
+
 #include "chrome/browser/ui/views/digital_credentials/digital_identity_safety_interstitial_controller_desktop.h"
 
 #include <string>

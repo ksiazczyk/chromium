@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Bruschetta views include rules
+summary: 'Sets allowed and forbidden #include dependencies for the Bruschetta views directory in ChromeOS.'

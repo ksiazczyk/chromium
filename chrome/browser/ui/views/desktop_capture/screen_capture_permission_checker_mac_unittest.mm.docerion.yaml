@@ -1,0 +1,4 @@
+# Docerion header of screen_capture_permission_checker_mac_unittest.mm.
+type: test
+title: Mac screen capture permission checker unit tests
+summary: Unit tests for the Mac screen capture permission checker, verifying permission callbacks with and without permission and across repeated checks.

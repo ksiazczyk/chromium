@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Multi-step dialog browser test
+// summary: Browser tests verifying that the multi-step dialog shows correctly and updates its contents, labels, and buttons while already visible.
+// ---
+
 #include "chrome/browser/ui/views/digital_credentials/digital_identity_multi_step_dialog.h"
 
 #include "base/scoped_observation.h"

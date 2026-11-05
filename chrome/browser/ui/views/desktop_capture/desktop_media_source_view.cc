@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop media source view implementation
+// summary: Implements the view for a single desktop media source in the picker, showing icon, thumbnail and label with styling, accessibility and selection handling.
+// ---
+
 #include "chrome/browser/ui/views/desktop_capture/desktop_media_source_view.h"
 
 #include "chrome/browser/ui/views/desktop_capture/desktop_media_list_view.h"

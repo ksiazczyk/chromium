@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download UI context menu view implementation
+// summary: Implements the Views-based download context menu, running it anchored to a widget, handling menu close callbacks, and recording executed download commands to UMA.
+// ---
+
 #include "chrome/browser/ui/views/download/download_ui_context_menu_view.h"
 
 #include <memory>

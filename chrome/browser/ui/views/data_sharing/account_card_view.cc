@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account card view implementation
+// summary: Implements a view that shows a signed-in account's circular avatar, full name and email in the data sharing UI.
+// ---
+
 #include "chrome/browser/ui/views/data_sharing/account_card_view.h"
 
 #include "base/strings/utf_string_conversions.h"

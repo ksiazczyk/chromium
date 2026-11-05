@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive picker sanitizer implementation
+// summary: Implements sanitization of Drive picker file data, validating IDs, metadata, file types, and restricting thumbnail and icon URLs to trusted Google domains over HTTPS.
+// ---
+
 #include "chrome/browser/ui/views/drive_picker_host/drive_picker_sanitizer.h"
 
 #include <string_view>

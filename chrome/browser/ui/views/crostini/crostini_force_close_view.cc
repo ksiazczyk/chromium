@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini force close dialog implementation
+// summary: Implements CrostiniForceCloseView, a window-modal dialog warning that an app is unresponsive and running a force-close callback on accept.
+// ---
+
 #include "chrome/browser/ui/views/crostini/crostini_force_close_view.h"
 
 #include "ash/strings/grit/ash_strings.h"

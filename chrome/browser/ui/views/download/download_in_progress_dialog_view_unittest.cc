@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Download in-progress dialog unit tests
+// summary: Verifies the in-progress download dialog runs its completion callback even when closed without selecting an option, a regression test for crbug 40681120.
+// ---
+
 #include "chrome/browser/ui/views/download/download_in_progress_dialog_view.h"
 
 #include <optional>

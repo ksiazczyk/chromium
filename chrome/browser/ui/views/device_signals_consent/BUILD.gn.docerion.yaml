@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for the device signals consent dialog
+summary: Defines the device_signals_consent and impl source sets plus a browser_tests target, listing their public headers and dependencies.

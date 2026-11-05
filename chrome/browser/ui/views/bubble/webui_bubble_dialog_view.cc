@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI bubble dialog view implementation
+// summary: Implements the Views bubble that embeds a WebContents from a WebUIContentsWrapper, managing auto-resize, draggable regions, keyboard events, and teardown.
+// ---
+
 #include "chrome/browser/ui/views/bubble/webui_bubble_dialog_view.h"
 
 #include <optional>

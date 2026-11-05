@@ -1,0 +1,4 @@
+# Docerion header of audio_capture_permission_checker_mac.mm.
+type: source
+title: Mac audio capture permission checker implementation
+summary: Checks macOS audio capture permission by creating a loopback input stream, reporting the outcome via UMA and a callback.

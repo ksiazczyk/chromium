@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download bubble row list view implementation
+// summary: Implements the vertical list of download rows in the bubble, adding and removing rows in response to row list info updates.
+// ---
+
 #include "chrome/browser/ui/views/download/bubble/download_bubble_row_list_view.h"
 
 #include "chrome/browser/download/bubble/download_bubble_ui_controller.h"

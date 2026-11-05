@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PageSwitcherView class declaration
+// summary: Declares a container view that shows one page at a time and can switch pages via SwitchToPage.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_CONTROLS_PAGE_SWITCHER_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_CONTROLS_PAGE_SWITCHER_VIEW_H_
 

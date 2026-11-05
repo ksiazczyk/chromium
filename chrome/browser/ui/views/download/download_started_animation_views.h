@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download started animation header
+// summary: Declares the base class for the download started animation, an image view that animates over the web contents and cleans itself up when done.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_DOWNLOAD_DOWNLOAD_STARTED_ANIMATION_VIEWS_H_
 #define CHROME_BROWSER_UI_VIEWS_DOWNLOAD_DOWNLOAD_STARTED_ANIMATION_VIEWS_H_
 

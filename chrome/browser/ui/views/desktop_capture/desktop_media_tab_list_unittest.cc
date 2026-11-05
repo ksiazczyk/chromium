@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop media tab list unit tests
+// summary: Unit tests for the desktop media tab list view, using fake desktop media lists to exercise source selection and preview behavior.
+// ---
+
 #include "chrome/browser/ui/views/desktop_capture/desktop_media_tab_list.h"
 
 #include "base/functional/callback_helpers.h"

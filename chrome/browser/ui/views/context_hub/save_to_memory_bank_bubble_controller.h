@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Save to Memory Bank bubble controller interface
+// summary: Declares the WebContentsUserData controller that manages the lifetime and presentation of the Save to Memory Bank bubble.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_CONTEXT_HUB_SAVE_TO_MEMORY_BANK_BUBBLE_CONTROLLER_H_
 #define CHROME_BROWSER_UI_VIEWS_CONTEXT_HUB_SAVE_TO_MEMORY_BANK_BUBBLE_CONTROLLER_H_
 

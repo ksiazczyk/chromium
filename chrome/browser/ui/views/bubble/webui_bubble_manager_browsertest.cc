@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: WebUI bubble manager browser tests
+// summary: Browser tests covering bubble creation, closing, and widget visibility for WebUIBubbleManager using a test WebUI controller and contents wrapper.
+// ---
+
 #include "chrome/browser/ui/views/bubble/webui_bubble_manager.h"
 
 #include "base/memory/weak_ptr.h"

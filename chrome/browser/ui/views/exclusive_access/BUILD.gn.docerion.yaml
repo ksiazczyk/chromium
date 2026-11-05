@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for exclusive access bubble views
+summary: Defines GN source sets for the exclusive access bubble views library, its implementation, and the browser and interactive UI test targets with their dependencies.

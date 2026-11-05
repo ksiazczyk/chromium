@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download bubble row view implementation
+// summary: Implements a single download row in the bubble, including icon, status text, progress, quick actions, context menu, and hover and focus behavior.
+// ---
+
 #include "chrome/browser/ui/views/download/bubble/download_bubble_row_view.h"
 
 #include <string_view>

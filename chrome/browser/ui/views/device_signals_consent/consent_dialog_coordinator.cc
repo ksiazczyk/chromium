@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Implementation of the device signals consent dialog coordinator
+// summary: Builds the consent dialog model, handles accept, cancel and close actions, records user metrics, and creates consent requesters for profiles.
+// ---
+
 #include "chrome/browser/ui/views/device_signals_consent/consent_dialog_coordinator.h"
 
 #include "base/metrics/user_metrics.h"

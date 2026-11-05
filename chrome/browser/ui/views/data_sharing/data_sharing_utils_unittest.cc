@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Data sharing utils unit tests
+// summary: Unit tests verifying that ProcessPreviewOutcome maps shared tab group previews to Mojo results, including empty-title handling.
+// ---
+
 #include "chrome/browser/ui/views/data_sharing/data_sharing_utils.h"
 
 #include "base/test/bind.h"

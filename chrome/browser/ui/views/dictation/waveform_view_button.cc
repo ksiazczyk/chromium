@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dictation waveform view button implementation
+// summary: Implements a button that hosts the waveform view as its child and sets its accessible name for the dictation overlay.
+// ---
+
 #include "chrome/browser/ui/views/dictation/waveform_view_button.h"
 
 #include <memory>

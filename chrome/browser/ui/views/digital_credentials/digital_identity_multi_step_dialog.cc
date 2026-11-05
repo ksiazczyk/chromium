@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Multi-step digital identity dialog implementation
+// summary: Implements a modal bubble dialog whose contents, buttons, and progress bar can be updated to support multiple steps in digital identity flows.
+// ---
+
 #include "chrome/browser/ui/views/digital_credentials/digital_identity_multi_step_dialog.h"
 
 #include <memory>

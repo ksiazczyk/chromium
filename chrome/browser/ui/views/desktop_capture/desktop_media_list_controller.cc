@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop media list controller implementation
+// summary: Implements the controller that observes a DesktopMediaList, updates its view on source changes, and handles auto-select and auto-accept command-line switches.
+// ---
+
 #include "chrome/browser/ui/views/desktop_capture/desktop_media_list_controller.h"
 
 #include "base/command_line.h"

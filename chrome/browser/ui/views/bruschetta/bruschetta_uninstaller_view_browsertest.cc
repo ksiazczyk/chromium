@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bruschetta uninstaller dialog browser tests
+// summary: Browser tests verifying the uninstall dialog flow, its buttons and removal of the registered VM.
+// ---
+
 #include "chrome/browser/ui/views/bruschetta/bruschetta_uninstaller_view.h"
 
 #include "ash/constants/ash_features.h"

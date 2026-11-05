@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Shopping collection IPH view implementation
+// summary: Implements the shopping collection in-product help view with title and body labels for the IPH promo.
+// ---
+
 #include "chrome/browser/ui/views/commerce/shopping_collection_iph_view.h"
 
 #include "components/strings/grit/components_strings.h"

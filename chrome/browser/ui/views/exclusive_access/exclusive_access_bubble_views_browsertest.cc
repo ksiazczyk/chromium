@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Exclusive access bubble views browser tests
+// summary: Browser tests verifying the bubble's instruction text for exiting fullscreen and pointer lock across user goals, shortcuts, and feature flags.
+// ---
+
 #include "chrome/browser/ui/views/exclusive_access/exclusive_access_bubble_views.h"
 
 #include <string>

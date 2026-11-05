@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Site icon, text and origin view declaration
+// summary: Declares SiteIconTextAndOriginView, an icon plus editable title textfield and URL row for the DIY web app install dialog, handling text change callbacks.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_CONTROLS_SITE_ICON_TEXT_AND_ORIGIN_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_CONTROLS_SITE_ICON_TEXT_AND_ORIGIN_VIEW_H_
 

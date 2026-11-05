@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: HoverButton implementation
+// summary: Implements the full-width hover button view with icon wrapper, labels, ink drop, and layout handling.
+// ---
+
 #include "chrome/browser/ui/views/controls/hover_button.h"
 
 #include <string_view>

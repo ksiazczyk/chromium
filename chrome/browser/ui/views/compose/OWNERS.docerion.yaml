@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS file delegating to components/compose
+summary: Points to the Compose component OWNERS file so the same reviewers own this views directory.

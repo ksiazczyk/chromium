@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Crostini force close view browser tests
+// summary: Browser tests verifying that the force close dialog focuses the force quit button and invokes its callback only on accept.
+// ---
+
 #include "chrome/browser/ui/views/crostini/crostini_force_close_view.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bruschetta uninstaller dialog implementation
+// summary: Implements the uninstall confirmation dialog that removes the Bruschetta VM and shows uninstall progress.
+// ---
+
 #include "chrome/browser/ui/views/bruschetta/bruschetta_uninstaller_view.h"
 
 #include <memory>

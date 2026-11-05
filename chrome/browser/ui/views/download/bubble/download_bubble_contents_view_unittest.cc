@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the download bubble contents view
+// summary: Unit tests exercising the contents view's primary and security pages using mock download items, navigation handler, and download core service.
+// ---
+
 #include "chrome/browser/ui/views/download/bubble/download_bubble_contents_view.h"
 
 #include "base/strings/string_number_conversions.h"

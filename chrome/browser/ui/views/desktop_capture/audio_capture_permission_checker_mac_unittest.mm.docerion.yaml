@@ -1,0 +1,4 @@
+# Docerion header of audio_capture_permission_checker_mac_unittest.mm.
+type: test
+title: Mac audio capture permission checker unit tests
+summary: Tests the macOS audio permission checker against a fake audio stream factory covering granted, denied, and paused stream creation.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Interface of the device signals consent dialog coordinator
+// summary: Declares the ConsentRequester abstract interface and the ConsentDialogCoordinator class that shows the consent dialog and observes consent preferences.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_DEVICE_SIGNALS_CONSENT_CONSENT_DIALOG_COORDINATOR_H_
 #define CHROME_BROWSER_UI_VIEWS_DEVICE_SIGNALS_CONSENT_CONSENT_DIALOG_COORDINATOR_H_
 

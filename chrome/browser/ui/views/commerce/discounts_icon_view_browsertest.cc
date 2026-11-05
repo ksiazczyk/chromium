@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Discounts icon view browser test
+// summary: Browser UI tests verifying the discounts page action icon shows with and without its suggestion chip label.
+// ---
+
 #include "base/time/default_clock.h"
 #include "chrome/browser/ui/actions/chrome_action_id.h"
 #include "chrome/browser/ui/browser_element_identifiers.h"

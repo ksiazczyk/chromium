@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Price tracking bubble dialog view unit test
+// summary: Unit test for the price tracking bubble dialog view and coordinator using a mock shopping service and test widgets.
+// ---
+
 #include "chrome/browser/ui/views/commerce/price_tracking_bubble_dialog_view.h"
 
 #include "base/memory/raw_ptr.h"

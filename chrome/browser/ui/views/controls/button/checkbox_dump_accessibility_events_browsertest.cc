@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Checkbox dump accessibility events browser test
+// summary: Browser test that records accessibility events emitted when a checkbox's checked state changes, with platform-specific event filters.
+// ---
+
 #include "build/build_config.h"
 #include "chrome/browser/ui/views/accessibility/dump_accessibility_events_views_browsertest_base.h"
 #include "content/public/test/browser_test.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Desktop media pane view unit tests
+// summary: Unit tests verifying DesktopMediaPaneView default state and how permission pane visibility toggles with screen capture permission updates on Mac.
+// ---
+
 #include "chrome/browser/ui/views/desktop_capture/desktop_media_pane_view.h"
 
 #include "chrome/browser/ui/views/chrome_layout_provider.h"

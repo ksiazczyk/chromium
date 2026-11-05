@@ -1,0 +1,4 @@
+# Docerion header of audio_permission_warning_view.mm.
+type: source
+title: Audio permission warning view implementation
+summary: Builds the macOS warning UI for system audio permission, handling accessibility, escape key, and opening system settings.

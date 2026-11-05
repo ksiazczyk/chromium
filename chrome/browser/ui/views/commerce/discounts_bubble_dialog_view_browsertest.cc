@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Discounts bubble dialog browser test
+// summary: Browser dialog tests that show and verify the discounts bubble for crawled and free-listing deal variants.
+// ---
+
 #include "chrome/browser/ui/views/commerce/discounts_bubble_dialog_view.h"
 
 #include "chrome/browser/ui/test/test_browser_dialog.h"

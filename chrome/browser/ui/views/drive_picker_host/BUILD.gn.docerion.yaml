@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Drive Picker Host build configuration
+summary: Defines the Mojo bindings, drive_picker_host source set, and unit test targets for the Drive Picker Host views.

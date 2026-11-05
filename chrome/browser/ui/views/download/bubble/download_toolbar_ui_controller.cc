@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download toolbar UI controller implementation
+// summary: Implements the controller for the downloads toolbar button, managing its visibility, icon state, badges, animations and bubble display.
+// ---
+
 #include "chrome/browser/ui/views/download/bubble/download_toolbar_ui_controller.h"
 
 #include "ui/base/unowned_user_data/scoped_unowned_user_data.h"

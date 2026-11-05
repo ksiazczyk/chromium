@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for desktop capture UI
+summary: Maps the folder to the UI>Browser>MediaCapture component, the media-capture team email, and a Buganizer component.

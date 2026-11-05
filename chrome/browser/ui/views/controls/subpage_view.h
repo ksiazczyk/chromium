@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subpage view declaration
+// summary: Declares SubpageView, a bubble sub-page view with back navigation, title, content, header and footnote areas, together with its view builder.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_CONTROLS_SUBPAGE_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_CONTROLS_SUBPAGE_VIEW_H_
 

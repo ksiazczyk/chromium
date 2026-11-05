@@ -2,6 +2,13 @@
 // Copyright 2025 The Chromium Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
+
+// ---docerion
+// type: test
+// title: Price tracking bubble dialog view browser test
+// summary: Dialog browser test that shows the price tracking bubble in first-use and normal variants with different bookmark states.
+// ---
+
 #include "chrome/browser/ui/views/commerce/price_tracking_bubble_dialog_view.h"
 
 #include "chrome/browser/bookmarks/bookmark_model_factory.h"

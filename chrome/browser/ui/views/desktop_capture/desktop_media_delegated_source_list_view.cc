@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Delegated source list view implementation
+// summary: Implements the view shown when the source list is delegated, displaying an informational label and a button that opens the system screen-sharing picker.
+// ---
+
 #include "chrome/browser/ui/views/desktop_capture/desktop_media_delegated_source_list_view.h"
 
 #include "base/feature_list.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Download CUJ event emitter header
+// summary: Declares EmitElementTrackerEvent, a helper that emits custom element tracker events against the browser's BrowserView window.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_DOWNLOAD_DOWNLOAD_CUJ_EVENT_EMITTER_H_
 #define CHROME_BROWSER_UI_VIEWS_DOWNLOAD_DOWNLOAD_CUJ_EVENT_EMITTER_H_
 

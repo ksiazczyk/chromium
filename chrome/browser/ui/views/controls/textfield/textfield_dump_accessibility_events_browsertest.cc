@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Textfield accessibility events browser test
+// summary: Browser test that records and verifies accessibility events fired by a Textfield for value and text selection changes across Windows, Mac, and Linux accessibility APIs.
+// ---
+
 #include "base/test/run_until.h"
 #include "chrome/browser/ui/views/accessibility/dump_accessibility_events_views_browsertest_base.h"
 #include "content/public/test/browser_test.h"

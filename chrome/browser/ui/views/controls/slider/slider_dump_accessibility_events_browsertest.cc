@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Slider accessibility events browser test
+// summary: Browser test that records the accessibility events a Slider emits when its value changes, verifying value-change notifications across Windows, UIA, Mac, and Linux accessibility APIs.
+// ---
+
 #include "chrome/browser/ui/views/accessibility/dump_accessibility_events_views_browsertest_base.h"
 #include "content/public/test/browser_test.h"
 #include "ui/views/accessibility/view_accessibility.h"

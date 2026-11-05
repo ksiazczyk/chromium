@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crostini recovery dialog implementation
+// summary: Implements the dialog shown after an unclean Chrome shutdown that stops the Crostini VM and relaunches the requested app.
+// ---
+
 #include "chrome/browser/ui/views/crostini/crostini_recovery_view.h"
 
 #include "ash/strings/grit/ash_strings.h"

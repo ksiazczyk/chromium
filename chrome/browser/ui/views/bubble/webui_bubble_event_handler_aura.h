@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Aura bubble drag event handler declaration
+// summary: Declares WebUIBubbleEventHandlerAura, a simple ui::EventHandler providing drag support for non platform window backed aura widgets.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_BUBBLE_WEBUI_BUBBLE_EVENT_HANDLER_AURA_H_
 #define CHROME_BROWSER_UI_VIEWS_BUBBLE_WEBUI_BUBBLE_EVENT_HANDLER_AURA_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of desktop_media_permission_pane_view_mac.mm.
+type: source
+title: Mac desktop media permission pane view implementation
+summary: Implements the macOS permission pane with localized permission and restart messages plus a Lottie toggle animation guiding users to grant screen recording.

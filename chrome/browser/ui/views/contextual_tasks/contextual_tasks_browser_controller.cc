@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Contextual tasks browser controller implementation
+// summary: Implements the browser-window-scoped controller that creates and shuts down the eligibility manager, side panel coordinator, and entry point button controllers.
+// ---
+
 #include "chrome/browser/ui/views/contextual_tasks/contextual_tasks_browser_controller.h"
 
 #include "base/functional/callback_helpers.h"

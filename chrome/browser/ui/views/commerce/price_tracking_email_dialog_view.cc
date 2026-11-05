@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price tracking email dialog view implementation
+// summary: Implements the email consent dialog for price tracking, handling accept and cancel flows, prefs, and a help link.
+// ---
+
 #include "chrome/browser/ui/views/commerce/price_tracking_email_dialog_view.h"
 
 #include "base/functional/callback_helpers.h"

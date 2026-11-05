@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: DrivePickerSanitizer class header
+// summary: Declares the SanitizedDriveFileData struct and the DrivePickerSanitizer helper class that validates Drive picker results in the trusted browser process.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_DRIVE_PICKER_HOST_DRIVE_PICKER_SANITIZER_H_
 #define CHROME_BROWSER_UI_VIEWS_DRIVE_PICKER_HOST_DRIVE_PICKER_SANITIZER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Discounts bubble dialog view header
+// summary: Declares the discounts bubble dialog view and a coordinator that shows, hides, and tracks the bubble widget.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_COMMERCE_DISCOUNTS_BUBBLE_DIALOG_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_COMMERCE_DISCOUNTS_BUBBLE_DIALOG_VIEW_H_
 

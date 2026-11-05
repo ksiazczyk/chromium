@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive Picker Host controller implementation
+// summary: Implements the Drive Picker Host controller, hosting the picker view in a window-modal dialog and managing widget lifetime and error reporting.
+// ---
+
 #include "chrome/browser/ui/views/drive_picker_host/drive_picker_host_controller.h"
 
 #include <memory>

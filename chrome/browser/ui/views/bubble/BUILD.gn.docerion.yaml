@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for bubble UI sources
+summary: Defines source sets for the WebUI bubble dialog, manager, reopen suppressor, and their browser and unit tests, with platform-conditional Aura sources and dependencies.

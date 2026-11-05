@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Digital credentials views build file
+summary: Defines the digital_credentials source set and its browser test target, listing public headers, sources, and build dependencies.

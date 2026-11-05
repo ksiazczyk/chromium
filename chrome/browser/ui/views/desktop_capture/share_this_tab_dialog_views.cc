@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Share-this-tab dialog views implementation
+// summary: Implements ShareThisTabDialogView and ShareThisTabMediaPicker for the current-tab sharing dialog, with UMA metrics for the prefer-current-tab flow.
+// ---
+
 #include "chrome/browser/ui/views/desktop_capture/share_this_tab_dialog_views.h"
 
 #include "base/command_line.h"

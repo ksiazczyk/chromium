@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Desktop media list view implementation
+// summary: Implements the table-layout view that displays available desktop media sources as selectable items with keyboard navigation and ChromeOS default icons.
+// ---
+
 #include "chrome/browser/ui/views/desktop_capture/desktop_media_list_view.h"
 
 #include <algorithm>

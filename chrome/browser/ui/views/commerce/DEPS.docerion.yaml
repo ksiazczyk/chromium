@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Commerce views DEPS include rules
+summary: Sets include rules for the commerce views directory, allowing includes from components/power_bookmarks/core.

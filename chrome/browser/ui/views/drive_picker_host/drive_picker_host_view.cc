@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Drive Picker host view implementation
+// summary: Implements the dialog view that hosts the Drive Picker WebUI in a transparent WebView floating over the browser window, with per-mode sizing, delegate cleanup, and keyboard event handling.
+// ---
+
 #include "chrome/browser/ui/views/drive_picker_host/drive_picker_host_view.h"
 
 #include <memory>

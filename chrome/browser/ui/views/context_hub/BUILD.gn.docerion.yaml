@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Save to Memory Bank bubble
+summary: Defines GN source_set targets for the Save to Memory Bank bubble view, controller implementation, and unit tests with their dependencies.

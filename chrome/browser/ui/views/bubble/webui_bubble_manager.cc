@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI bubble manager implementation
+// summary: Implements WebUIBubbleManager, which shows and closes WebUI bubbles, caches contents wrappers for reuse, and notifies observers of widget lifecycle events.
+// ---
+
 #include "chrome/browser/ui/views/bubble/webui_bubble_manager.h"
 
 #include "base/timer/timer.h"

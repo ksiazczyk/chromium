@@ -1,0 +1,4 @@
+# Docerion header of drive_picker_result_handler.mojom.
+type: source
+title: Drive Picker result handler Mojo interface
+summary: Defines the Mojo data types and interface for reporting Drive Picker file selections, cancellations, and error states.

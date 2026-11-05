@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Price tracking email dialog view and coordinator header
+// summary: Declares the price tracking email consent bubble dialog view and its coordinator that shows and hides the dialog from the location bar.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_COMMERCE_PRICE_TRACKING_EMAIL_DIALOG_VIEW_H_
 #define CHROME_BROWSER_UI_VIEWS_COMMERCE_PRICE_TRACKING_EMAIL_DIALOG_VIEW_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: DIR_METADATA bug tracking configuration
+summary: Maps the directory to the UI>Browser>Bubbles Monorail component and Buganizer component 1457260 for issue tracking.

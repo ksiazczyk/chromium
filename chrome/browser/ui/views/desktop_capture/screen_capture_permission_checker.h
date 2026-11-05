@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Screen capture permission checker interface
+// summary: Declares the ScreenCapturePermissionChecker interface for monitoring screen capture permission state and reporting updates through a callback.
+// ---
+
 #ifndef CHROME_BROWSER_UI_VIEWS_DESKTOP_CAPTURE_SCREEN_CAPTURE_PERMISSION_CHECKER_H_
 #define CHROME_BROWSER_UI_VIEWS_DESKTOP_CAPTURE_SCREEN_CAPTURE_PERMISSION_CHECKER_H_
 

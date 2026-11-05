@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Subpage view implementation
+// summary: Implements SubpageView, a bubble sub-page header with a back button, title label and content area for use inside PageSwitcherView bubbles.
+// ---
+
 #include "chrome/browser/ui/views/controls/subpage_view.h"
 
 #include "chrome/browser/ui/layout_constants.h"
