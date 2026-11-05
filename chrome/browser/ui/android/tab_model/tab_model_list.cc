@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabModelList implementation
+// summary: Implements the global registry of TabModel objects with lookups by WebContents, TabAndroid, or window session ID and observer notifications.
+// ---
+
 #include "chrome/browser/ui/android/tab_model/tab_model_list.h"
 
 #include <algorithm>

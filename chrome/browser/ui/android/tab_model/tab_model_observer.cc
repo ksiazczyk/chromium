@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabModelObserver default implementations
+// summary: Provides empty default implementations of the TabModelObserver notification methods for tab and tab group events.
+// ---
+
 #include "chrome/browser/ui/android/tab_model/tab_model_observer.h"
 
 #include "base/memory/raw_ptr.h"

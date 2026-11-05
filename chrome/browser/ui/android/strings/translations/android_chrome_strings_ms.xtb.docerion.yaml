@@ -1,0 +1,4 @@
+# Docerion header of android_chrome_strings_ms.xtb.
+type: data
+title: Malay Android Chrome strings translation bundle
+summary: Malay translations of Chrome for Android UI strings such as incognito mode, passwords and tab groups, stored in XTB XML format.

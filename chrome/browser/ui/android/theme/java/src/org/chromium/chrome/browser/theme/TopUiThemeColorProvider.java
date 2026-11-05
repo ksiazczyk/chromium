@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TopUiThemeColorProvider
+// summary: Manages the theme color for the top part of the Chrome Android UI based on the tab's theme color and conditions such as dark mode, incognito, and security state.
+// ---
+
 package org.chromium.chrome.browser.theme;
 
 import android.content.Context;

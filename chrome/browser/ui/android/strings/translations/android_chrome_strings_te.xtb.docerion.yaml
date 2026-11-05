@@ -1,0 +1,4 @@
+# Docerion header of android_chrome_strings_te.xtb.
+type: data
+title: Android Chrome strings translations in Telugu
+summary: Telugu XTB translation bundle mapping Chrome for Android message IDs to localized UI strings such as incognito, passwords, and search prompts.

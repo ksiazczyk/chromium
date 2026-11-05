@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android location bar model implementation
+// summary: Implements the Android location bar model, providing URL formatting and new tab page detection over JNI.
+// ---
+
 #include "chrome/browser/ui/android/toolbar/location_bar_model_android.h"
 
 #include "base/android/jni_string.h"

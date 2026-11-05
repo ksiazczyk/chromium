@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for LocationBarModelAndroid
+// summary: Unit tests for the Android location bar model covering new tab page classification and display URL trimming under feature flags.
+// ---
+
 #include "chrome/browser/ui/android/toolbar/location_bar_model_android.h"
 
 #include "base/android/device_info.h"

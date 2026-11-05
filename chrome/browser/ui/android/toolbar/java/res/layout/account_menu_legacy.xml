@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Legacy account menu container layout
+summary: Legacy account menu RecyclerView container with zero horizontal padding so cards and dividers set their own spacing.
+-->
+
 <!-- TODO(crbug.com/565733817): Remove this file when
      SigninButtonProfileMenuRefinements is launched. -->
 <!-- default_popup_menu_bg adds side padding. Setting paddingHorizontal="0dp"

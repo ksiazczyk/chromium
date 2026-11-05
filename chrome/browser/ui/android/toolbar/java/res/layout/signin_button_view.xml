@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Sign-in button view layout
+summary: Layout for the toolbar sign-in button, holding an avatar list menu button and a sign-in text button with autofill disabled.
+-->
+
 <org.chromium.chrome.browser.toolbar.signin_button.SigninButtonView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

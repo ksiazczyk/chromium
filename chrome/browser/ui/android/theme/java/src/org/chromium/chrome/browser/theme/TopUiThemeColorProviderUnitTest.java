@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TopUiThemeColorProviderUnitTest
+// summary: Robolectric unit tests verifying that TopUiThemeColorProvider uses the activity theme color while theming is allowed and falls back to the default color otherwise.
+// ---
+
 package org.chromium.chrome.browser.theme;
 
 import static org.junit.Assert.assertEquals;

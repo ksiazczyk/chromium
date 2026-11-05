@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Optional button background baseline drawable
+summary: Ripple wrapper that centers the baseline variant of the optional button background selector within phone toolbar padding.
+-->
+
 <ripple xmlns:android="http://schemas.android.com/apk/res/android"
     android:color="?android:attr/colorControlHighlight">
     <item

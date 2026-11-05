@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Glic action chip layout
+summary: Android layout for the toolbar Glic action chip, combining a spark icon with an optional Ask Gemini label.
+-->
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/glic_action_chip"

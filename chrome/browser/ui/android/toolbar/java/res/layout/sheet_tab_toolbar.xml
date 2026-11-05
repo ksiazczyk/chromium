@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Sheet tab toolbar layout
+summary: Layout for the toolbar of bottom-sheet based components, showing a favicon, drag handle, page info and close and open-in-new-tab actions.
+-->
+
 <!-- A toolbar layout designed for bottom-sheet based components -->
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"

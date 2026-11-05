@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Toolbar dimension values for sw600dp
+summary: Defines tablet-specific toolbar dimensions for Chromium's Android toolbar, including tab strip height, reserved top padding, and sign-in button width.
+-->
+
 <resources>
     <!-- Tab Strip Dimensions -->
     <dimen name="tab_strip_height">40dp</dimen>

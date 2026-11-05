@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabCollectionTabModelImpl JNI implementation
+// summary: Implements the C++ side of TabCollectionTabModelImpl.java, managing tabs and groups in a TabStripCollection.
+// ---
+
 #include "chrome/browser/ui/android/tab_model/tab_collection_tab_model_impl.h"
 
 #include <algorithm>

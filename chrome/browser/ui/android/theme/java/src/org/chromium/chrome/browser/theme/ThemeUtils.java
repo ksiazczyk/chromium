@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ThemeUtils
+// summary: Static helpers for computing tab background, toolbar text box, and themed icon tint colors across incognito and custom tab cases.
+// ---
+
 package org.chromium.chrome.browser.theme;
 
 import android.content.Context;

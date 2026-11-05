@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definition for tab_contents
+summary: Defines the tab_contents source set and unit test targets with their sources and dependencies for the Android Chrome WebContents view delegate.

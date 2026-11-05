@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TestTabModel header
+// summary: Declares TestTabModel, a thin TabModel fake for testing Android tab behavior, and notes OwningTestTabModel as a more complete alternative implementation.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_TAB_MODEL_TAB_MODEL_TEST_HELPER_H_
 #define CHROME_BROWSER_UI_ANDROID_TAB_MODEL_TAB_MODEL_TEST_HELPER_H_
 

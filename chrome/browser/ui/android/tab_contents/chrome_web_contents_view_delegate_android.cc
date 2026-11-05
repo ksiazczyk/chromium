@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome WebContents view delegate for Android implementation
+// summary: Implements the Chrome Android WebContents view delegate, including context menu handling and logic deciding when to show blur transition animations for navigations.
+// ---
+
 #include "chrome/browser/ui/android/tab_contents/chrome_web_contents_view_delegate_android.h"
 
 #include <memory>

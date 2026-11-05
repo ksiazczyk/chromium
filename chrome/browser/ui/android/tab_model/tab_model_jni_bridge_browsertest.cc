@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabModel JNI bridge browser tests
+// summary: Browser tests for TabModelJniBridge covering tab grouping with out-of-order handles, mute settings, and navigation behavior.
+// ---
+
 #include "chrome/browser/ui/android/tab_model/tab_model_jni_bridge.h"
 
 #include <memory>

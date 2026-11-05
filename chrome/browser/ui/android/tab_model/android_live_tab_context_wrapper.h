@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidLiveTabContextWrapper declarations
+// summary: Declares close and restore wrappers around AndroidLiveTabContext used for bulk tab closures and restoration.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_TAB_MODEL_ANDROID_LIVE_TAB_CONTEXT_WRAPPER_H_
 #define CHROME_BROWSER_UI_ANDROID_TAB_MODEL_ANDROID_LIVE_TAB_CONTEXT_WRAPPER_H_
 

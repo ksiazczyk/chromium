@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Android toolbar build configuration
+summary: Defines GN build targets, Java libraries and dependencies for the Chrome Android toolbar code.

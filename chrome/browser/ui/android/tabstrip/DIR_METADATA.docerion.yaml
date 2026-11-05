@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Tabstrip directory metadata
+summary: Maps the tabstrip directory to the Android OS, Buganizer component 1457555, and the large form factors team email for issue routing.

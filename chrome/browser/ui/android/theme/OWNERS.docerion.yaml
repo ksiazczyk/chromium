@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS list for the theme directory
+summary: Lists the committers responsible for reviewing changes to files in this directory.

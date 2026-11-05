@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ThemeUtilsUnitTest
+// summary: Robolectric unit tests for ThemeUtils text box color computation covering incognito, dark, bright, custom tab, and default scenarios.
+// ---
+
 package org.chromium.chrome.browser.theme;
 
 import static org.junit.Assert.assertEquals;

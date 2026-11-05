@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: TabModel base implementation
+// summary: Implements the base TabModel with profile, session sync, and live tab context behavior for Android.
+// ---
+
 #include "chrome/browser/ui/android/tab_model/tab_model.h"
 
 #include "base/logging.h"

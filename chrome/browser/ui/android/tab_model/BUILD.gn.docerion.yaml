@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build definitions for the Android tab_model sources
+summary: Defines the tab_model, impl, test_support, unit test, and browser test source sets with their dependencies.

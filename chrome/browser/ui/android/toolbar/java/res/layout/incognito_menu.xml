@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Incognito menu layout
+summary: Android layout for the incognito menu container, including the incognito card and a close-all-incognito-windows row.
+-->
+
 <!-- Override default_popup_menu_bg padding to match the outer spacing of
      account_menu.xml. -->
 <LinearLayout

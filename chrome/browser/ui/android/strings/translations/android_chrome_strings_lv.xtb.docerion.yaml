@@ -1,0 +1,4 @@
+# Docerion header of android_chrome_strings_lv.xtb.
+type: data
+title: Latvian Android Chrome strings translation bundle
+summary: Latvian translations of Chrome for Android UI strings, including incognito mode, password and price tracking messages, in XTB XML format.

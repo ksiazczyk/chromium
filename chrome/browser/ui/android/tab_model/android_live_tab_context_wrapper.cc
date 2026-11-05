@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidLiveTabContext close and restore wrappers
+// summary: Implements wrappers that supply closed tabs, tab group data, and frozen WebContents state for tab restore.
+// ---
+
 #include "chrome/browser/ui/android/tab_model/android_live_tab_context_wrapper.h"
 
 #include <utility>

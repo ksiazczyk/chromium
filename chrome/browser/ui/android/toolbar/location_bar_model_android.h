@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: LocationBarModelAndroid class header for the Android toolbar
+// summary: Declares LocationBarModelAndroid, which owns a LocationBarModel and exposes URL formatting and page classification to Java via JNI.
+// ---
+
 #ifndef CHROME_BROWSER_UI_ANDROID_TOOLBAR_LOCATION_BAR_MODEL_ANDROID_H_
 #define CHROME_BROWSER_UI_ANDROID_TOOLBAR_LOCATION_BAR_MODEL_ANDROID_H_
 

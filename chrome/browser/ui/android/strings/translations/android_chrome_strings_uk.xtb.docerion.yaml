@@ -1,0 +1,4 @@
+# Docerion header of android_chrome_strings_uk.xtb.
+type: data
+title: Android Chrome strings translations in Ukrainian
+summary: Ukrainian XTB translation bundle mapping Chrome for Android message IDs to localized UI strings such as incognito, passwords, and sync.

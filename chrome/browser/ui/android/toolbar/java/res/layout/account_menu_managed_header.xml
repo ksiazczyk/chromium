@@ -6,6 +6,13 @@ found in the LICENSE file.
 -->
 <!-- TODO(crbug.com/553434658): Add render tests for the managed account
      header. -->
+
+<!--docerion
+type: source
+title: Account menu managed header layout
+summary: Layout for the managed account header showing a domain icon and managed account text, hidden by default.
+-->
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"

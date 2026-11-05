@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabCollectionTabModelImpl browser test
+// summary: Regression browser test checking that GetTabGroupTitle does not crash after all tabs in a group are closed.
+// ---
+
 #include "chrome/browser/ui/android/tab_model/tab_collection_tab_model_impl.h"
 
 #include <optional>

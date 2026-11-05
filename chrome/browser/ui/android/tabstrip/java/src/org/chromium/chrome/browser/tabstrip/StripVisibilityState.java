@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: StripVisibilityState visibility state flags
+// summary: Defines an IntDef annotation with bit flag constants describing the visibility state of the tab strip, such as visible, obscured, or hidden by scroll or fade.
+// ---
+
 package org.chromium.chrome.browser.tabstrip;
 
 import androidx.annotation.IntDef;

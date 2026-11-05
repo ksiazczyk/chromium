@@ -1,0 +1,4 @@
+# Docerion header of android_chrome_strings_gl.xtb.
+type: data
+title: Chrome Android UI strings, Galician translation bundle
+summary: Galician translations of Chrome for Android interface strings, stored as an XTB translation bundle keyed by numeric message IDs.

@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Account menu RecyclerView container layout
+summary: Defines the account menu container RecyclerView with top spacing, elevation and popup menu background styling.
+-->
+
 <!-- Override default_popup_menu_bg padding to add top spacing above the header
      and match the visible side and bottom margins (~10dp) to the spacing
      between item sections. -->

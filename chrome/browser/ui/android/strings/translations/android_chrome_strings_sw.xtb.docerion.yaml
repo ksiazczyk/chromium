@@ -1,0 +1,4 @@
+# Docerion header of android_chrome_strings_sw.xtb.
+type: data
+title: Swahili Android Chrome strings translation bundle
+summary: Swahili translations of Chrome for Android UI strings, stored as an XTB translation bundle keyed by numeric message IDs.

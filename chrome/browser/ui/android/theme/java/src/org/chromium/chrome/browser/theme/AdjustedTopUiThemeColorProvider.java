@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AdjustedTopUiThemeColorProvider
+// summary: TopUiThemeColorProvider subclass that adjusts icon tint to light colors for native pages with custom NTP backgrounds.
+// ---
+
 package org.chromium.chrome.browser.theme;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

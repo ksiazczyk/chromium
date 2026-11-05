@@ -1,0 +1,4 @@
+# Docerion header of android_chrome_strings_ml.xtb.
+type: data
+title: Malayalam Android Chrome strings translation bundle
+summary: Malayalam translations of Chrome for Android UI strings, covering incognito mode, passwords, Google Lens and other features, in XTB XML format.

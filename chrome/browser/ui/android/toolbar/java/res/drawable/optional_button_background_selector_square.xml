@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: asset
+title: Optional button background selector square
+summary: Square-cornered variant of the optional button background selector with state-based fills and a focus outline.
+-->
+
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
   <item android:state_selected="true">
     <shape android:shape="rectangle">

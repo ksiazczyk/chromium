@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: TabStripTopControlLayer unit tests
+// summary: Robolectric unit tests verifying TabStripTopControlLayer behavior, including transitions to visible, offset updates, and layer height change callbacks.
+// ---
+
 package org.chromium.chrome.browser.tabstrip;
 
 import static org.junit.Assert.assertEquals;

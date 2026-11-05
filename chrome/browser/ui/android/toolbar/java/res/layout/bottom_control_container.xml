@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Bottom toolbar control container layout
+summary: Android layout for the scrolling bottom control container, holding a top shadow and a slot for bottom toolbar content.
+-->
+
 <org.chromium.chrome.browser.toolbar.bottom.ScrollingBottomViewResourceFrameLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"

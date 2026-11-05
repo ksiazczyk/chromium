@@ -1,0 +1,4 @@
+# Docerion header of android_chrome_strings_ja.xtb.
+type: data
+title: Japanese Android Chrome strings translation bundle
+summary: Japanese translation bundle holding localized Chrome for Android UI strings, including prompts for Incognito mode, passwords, sync, and downloads.

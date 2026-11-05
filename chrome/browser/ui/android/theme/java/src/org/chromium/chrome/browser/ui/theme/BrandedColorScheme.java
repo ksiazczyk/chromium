@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: BrandedColorScheme IntDef annotation for branded color schemes
+// summary: Defines an IntDef annotation with constants for light branded, dark branded, incognito, and app default color schemes used across Chrome's Android UI.
+// ---
+
 package org.chromium.chrome.browser.ui.theme;
 
 import androidx.annotation.IntDef;

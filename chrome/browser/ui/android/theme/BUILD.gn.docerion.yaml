@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build rules for the Android theme library
+summary: GN build configuration defining the Java theme color provider library, its resources target, and Robolectric unit test targets for Chrome on Android.

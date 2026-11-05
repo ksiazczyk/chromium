@@ -1,0 +1,4 @@
+# Docerion header of android_chrome_strings_it.xtb.
+type: data
+title: Italian Android Chrome strings translation bundle
+summary: Italian translation bundle holding localized Chrome for Android UI strings, including prompts for Incognito mode, passwords, sync, and downloads.

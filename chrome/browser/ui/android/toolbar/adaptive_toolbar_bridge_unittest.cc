@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Adaptive toolbar bridge unit tests
+// summary: Tests ranked button retrieval from the bridge using a mock segmentation platform service.
+// ---
+
 #include "chrome/browser/ui/android/toolbar/adaptive_toolbar_bridge.h"
 
 #include "base/run_loop.h"

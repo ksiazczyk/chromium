@@ -1,0 +1,4 @@
+# Docerion header of android_chrome_strings_mk.xtb.
+type: data
+title: Macedonian Android Chrome strings translation bundle
+summary: Macedonian translations of Chrome for Android UI strings such as incognito mode, passwords and tab management, stored in XTB XML format.
