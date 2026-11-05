@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SizeCalculator class declarations for storage items
+// summary: Declares the SizeCalculator base class and per-item calculators for total, free, MyFiles, browsing data, apps, Drive offline, and Crostini sizes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_CALCULATOR_SIZE_CALCULATOR_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_CALCULATOR_SIZE_CALCULATOR_H_
 

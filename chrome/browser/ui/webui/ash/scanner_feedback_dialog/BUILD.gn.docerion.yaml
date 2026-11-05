@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build file for the scanner feedback dialog
+summary: Defines the scanner_feedback_dialog static library target, listing its sources and its public and private build dependencies.

@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for device page integration tests
+summary: Sets include rules that block //chrome dependencies for ChromeOS, with narrow exceptions granted to the device settings interactive UI test.

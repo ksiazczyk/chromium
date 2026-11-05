@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Storage size calculator implementations
+// summary: Implements calculators that compute sizes of storage items such as MyFiles, browsing data, apps, Drive offline files, and Crostini for the settings storage page.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/calculator/size_calculator.h"
 
 #include <algorithm>

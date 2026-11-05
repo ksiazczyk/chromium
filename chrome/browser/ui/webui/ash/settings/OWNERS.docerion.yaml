@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the settings directory
+summary: Delegates review ownership to the OS Settings frontend OWNERS file and recommends subfolder OWNERS for changes to specific settings pages.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for recovery settings in OS settings
+// summary: Tests visibility, availability and enabling or disabling of the cryptohome recovery toggle including its confirmation dialog.
+// ---
+
 #include "ash/constants/ash_features.h"
 #include "ash/constants/ash_pref_names.h"
 #include "ash/webui/settings/public/constants/setting.mojom-shared.h"

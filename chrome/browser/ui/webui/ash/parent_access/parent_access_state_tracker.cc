@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parent access state tracker implementation
+// summary: Implements the parent access flow state tracker that records the final flow result to histograms on destruction.
+// ---
+
 #include "chrome/browser/ui/webui/ash/parent_access/parent_access_state_tracker.h"
 
 #include <optional>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the power_ui static library
+summary: Defines the power_ui static library build target with its sources and dependencies for the ChromeOS power WebUI.

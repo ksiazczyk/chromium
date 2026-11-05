@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OSSettingsUI header
+// summary: Declares the OSSettingsUI WebUI controller and its WebUIConfig for the ChromeOS settings system web app, including handler and Mojo interfaces.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_OS_SETTINGS_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SETTINGS_OS_SETTINGS_UI_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scanner feedback dialog implementation
+// summary: Implements the ScannerFeedbackDialog delegate, wiring feedback info, send-feedback and close-dialog callbacks into the scanner feedback WebUI on show.
+// ---
+
 #include "chrome/browser/ui/webui/ash/scanner_feedback_dialog/scanner_feedback_dialog.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Interactive UI test for the Privacy Hub settings page
+// summary: Interactive Ash tests checking camera, microphone and geolocation controls on the Privacy Hub subpage of OS settings.
+// ---
+
 #include <vector>
 
 #include "ash/constants/ash_features.h"

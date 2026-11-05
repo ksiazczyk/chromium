@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ParentAccessUiHandlerImpl unit tests
+// summary: Unit tests for ParentAccessUiHandlerImpl using a fake handler delegate, identity test environment and histogram tester to verify parent access flows, approvals and error handling.
+// ---
+
 #include "chrome/browser/ui/webui/ash/parent_access/parent_access_ui_handler_impl.h"
 
 #include <map>

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Sensor info WebUI build configuration
+summary: Defines the GN build targets for the ChromeOS sensor info WebUI, including Mojo bindings generation, the sensor_info static library, and its unit tests.

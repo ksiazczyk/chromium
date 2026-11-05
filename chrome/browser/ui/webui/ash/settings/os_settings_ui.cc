@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: OSSettingsUI implementation
+// summary: Implements the ChromeOS settings WebUI controller, registering page handlers, search support, and data sources for the settings app.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/os_settings_ui.h"
 
 #include <optional>

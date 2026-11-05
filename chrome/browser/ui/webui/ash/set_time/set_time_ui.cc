@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Set time WebUI controller implementation
+// summary: Implements the WebUI controller and message handler for the ChromeOS set-time dialog, handling time, timezone and parent access updates.
+// ---
+
 #include "chrome/browser/ui/webui/ash/set_time/set_time_ui.h"
 
 #include <stdint.h>

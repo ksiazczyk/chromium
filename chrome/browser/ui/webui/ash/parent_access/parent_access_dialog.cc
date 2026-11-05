@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parent access dialog implementation
+// summary: Implements the system web dialog that verifies a parent during a child session, with dimmer, sizing and error metrics.
+// ---
+
 #include "chrome/browser/ui/webui/ash/parent_access/parent_access_dialog.h"
 
 #include <memory>

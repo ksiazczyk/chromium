@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include dependency rules for the scanner feedback dialog
+summary: Sets DEPS include rules that block //chrome dependencies while allowing this directory and the system web dialog includes it needs.

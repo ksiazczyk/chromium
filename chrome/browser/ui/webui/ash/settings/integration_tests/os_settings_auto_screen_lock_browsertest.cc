@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: OS settings auto screen lock browser test
+// summary: Browser tests verifying the automatic screen lock toggle in the OS settings lock screen section, checking preference state across toggles and validating its deep link.
+// ---
+
 #include "ash/constants/ash_pref_names.h"
 #include "chrome/browser/profiles/profile.h"
 #include "chrome/browser/ui/webui/ash/settings/test_support/os_settings_lock_screen_browser_test_base.h"

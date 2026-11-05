@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the ash settings WebUI library
+summary: Defines the GN static library target for the ChromeOS OS Settings WebUI, listing its source files and its public and private dependencies.

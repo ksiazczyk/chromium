@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn build config for device page integration tests
+summary: Defines the testonly interactive_ui_tests source set with the device settings test sources and their build dependencies for ChromeOS.

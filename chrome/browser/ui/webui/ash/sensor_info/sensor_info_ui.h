@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sensor info WebUI controller header
+// summary: Declares the sensor-info WebUI controller and its WebUIConfig, including Mojo interface binding and page handler creation.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SENSOR_INFO_SENSOR_INFO_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SENSOR_INFO_SENSOR_INFO_UI_H_
 

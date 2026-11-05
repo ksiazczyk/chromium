@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Parent access include rules (DEPS)
+summary: Restricts includes for the directory, allowing only listed Chrome dependencies and per-file exceptions.

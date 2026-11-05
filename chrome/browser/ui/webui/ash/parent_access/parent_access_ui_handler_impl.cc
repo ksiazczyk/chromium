@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parent access UI handler implementation
+// summary: Implements the ParentAccessUiHandler Mojo interface, fetching OAuth tokens, serving flow parameters and recording parent access metrics.
+// ---
+
 #include "chrome/browser/ui/webui/ash/parent_access/parent_access_ui_handler_impl.h"
 
 #include <optional>

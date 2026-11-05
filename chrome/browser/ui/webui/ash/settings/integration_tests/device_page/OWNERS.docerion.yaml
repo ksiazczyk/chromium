@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for device page integration tests
+summary: Delegates ownership reviews for this directory to the input device settings OWNERS file.

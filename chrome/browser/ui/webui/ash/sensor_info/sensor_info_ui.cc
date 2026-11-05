@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Sensor info WebUI controller implementation
+// summary: Implements the WebUI controller that sets up the sensor-info data source with its resources and binds the Mojo page handler factory.
+// ---
+
 #include "chrome/browser/ui/webui/ash/sensor_info/sensor_info_ui.h"
 
 #include <memory>

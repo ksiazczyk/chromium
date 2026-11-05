@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Parent access directory owners (OWNERS)
+summary: Delegates ownership to the child accounts OWNERS file and assigns IPC security owners to mojom changes.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Ash settings preference name definitions
+// summary: Defines the kSanitizeCompleted preference name constant that tracks ash restarting after Sanitize Settings and controls display of the post-sanitize UI.
+// ---
+
 #include "chrome/browser/ui/webui/ash/settings/pref_names.h"
 
 namespace ash::settings::prefs {

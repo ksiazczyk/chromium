@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for lock screen authentication in OS settings
+// summary: Parameterized tests covering successful and failed lock screen authentication with Gaia password, local password and PIN.
+// ---
+
 #include "ash/constants/ash_features.h"
 #include "base/metrics/histogram_base.h"
 #include "base/test/metrics/histogram_tester.h"

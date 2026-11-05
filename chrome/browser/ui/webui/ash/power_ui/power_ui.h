@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Power UI controller header
+// summary: Declares the PowerUI WebUI controller and its configuration class that registers the ChromeOS power diagnostics page.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_POWER_UI_POWER_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_POWER_UI_POWER_UI_H_
 

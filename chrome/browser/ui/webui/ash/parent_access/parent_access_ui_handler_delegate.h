@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Parent access UI handler delegate interface
+// summary: Declares the delegate interface through which the parent access UI handler reports approved, declined, canceled, disabled and error outcomes.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_PARENT_ACCESS_PARENT_ACCESS_UI_HANDLER_DELEGATE_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_PARENT_ACCESS_PARENT_ACCESS_UI_HANDLER_DELEGATE_H_
 

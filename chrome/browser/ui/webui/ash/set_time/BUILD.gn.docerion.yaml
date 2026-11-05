@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Set time static library build definition
+summary: Defines the set_time static library target, its sources and dependencies for the ChromeOS set time dialog WebUI.

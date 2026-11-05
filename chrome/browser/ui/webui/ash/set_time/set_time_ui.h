@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Set time WebUI controller header
+// summary: Declares the WebUIConfig and MojoWebDialogUI controller classes for the ChromeOS set-time dialog.
+// ---
+
 #ifndef CHROME_BROWSER_UI_WEBUI_ASH_SET_TIME_SET_TIME_UI_H_
 #define CHROME_BROWSER_UI_WEBUI_ASH_SET_TIME_SET_TIME_UI_H_
 

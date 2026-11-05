@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Device settings interactive UI tests
+// summary: Interactive UI tests for the ChromeOS Settings device page, covering keyboards, mice, touchpads and brightness using fake device managers and udev.
+// ---
+
 #include <linux/input-event-codes.h>
 
 #include <memory>

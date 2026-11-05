@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Browser test for PIN setup in OS settings
+// summary: Tests PIN setup, verification, length limits, weak PIN warnings, autosubmit and related metrics for ChromeOS settings.
+// ---
+
 #include "ash/constants/ash_features.h"
 #include "ash/constants/ash_login_pref_names.h"
 #include "ash/constants/ash_pref_names.h"
