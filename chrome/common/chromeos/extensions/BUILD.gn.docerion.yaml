@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build rules for ChromeOS system extensions
+summary: GN build file defining the extensions static library, unit test target and grit resources for ChromeOS system extensions.

@@ -1,0 +1,4 @@
+# Docerion header of diagnostics.idl.
+type: reference
+title: chrome.os.diagnostics extension API definition
+summary: Defines the chrome.os.diagnostics extension API for running diagnostic routines such as battery, CPU, disk, memory, network, and Bluetooth checks.

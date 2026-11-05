@@ -1,0 +1,4 @@
+# Docerion header of offline_page_auto_fetcher.mojom.
+type: source
+title: Offline page auto fetcher Mojo interface
+summary: Defines a Mojo interface for scheduling and canceling quiet background auto fetches of offline pages with quota results.

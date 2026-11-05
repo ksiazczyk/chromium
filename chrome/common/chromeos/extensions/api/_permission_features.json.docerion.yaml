@@ -1,0 +1,4 @@
+# Docerion header of _permission_features.json.
+type: config
+title: ChromeOS system extensions API permission features
+summary: Defines the os.* permissions available to ChromeOS system extensions and their dependency on the chromeos_system_extension manifest key.

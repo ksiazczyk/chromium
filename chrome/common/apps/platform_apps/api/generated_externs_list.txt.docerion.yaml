@@ -1,0 +1,4 @@
+# Docerion header of generated_externs_list.txt.
+type: config
+title: List of APIs with generated externs
+summary: Lists the API IDL files whose externs are generated while consumers migrate to TypeScript definitions.

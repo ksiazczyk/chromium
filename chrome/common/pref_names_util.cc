@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Font preference path parsing utilities
+// summary: Implements parsing of WebKit font preference paths into generic family and script components.
+// ---
+
 #include "chrome/common/pref_names_util.h"
 
 #include <stddef.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped Chrome extensions client setup
+// summary: Installs a ChromeExtensionsClient with API providers and delegated feature availability maps for the extensions system.
+// ---
+
 #include "chrome/common/scoped_chrome_extensions_client.h"
 
 #include <map>

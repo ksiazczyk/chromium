@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WebUI URL utilities implementation
+// summary: Implements helpers that identify trusted and untrusted Top Chrome WebUI URLs and decide whether a Top Chrome WebUI should refuse key view status.
+// ---
+
 #include "chrome/common/webui_url_utils.h"
 
 #include "build/build_config.h"

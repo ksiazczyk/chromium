@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Third-party DLL logs unit tests
+// summary: Unit tests for the third-party DLL log buffer, verifying DrainLog output, entry sizes, padding, and notification handling.
+// ---
+
 
 #include "chrome/chrome_elf/third_party_dlls/logs.h"
 

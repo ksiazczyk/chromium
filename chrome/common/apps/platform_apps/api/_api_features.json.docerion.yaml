@@ -1,0 +1,4 @@
+# Docerion header of _api_features.json.
+type: config
+title: Chrome Apps API feature definitions
+summary: Defines the contexts and permission dependencies that enable each Chrome Apps API implemented under src/chrome.

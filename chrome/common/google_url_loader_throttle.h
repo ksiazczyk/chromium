@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Google URL loader throttle
+// summary: Header for a blink URL loader throttle that adjusts Google-domain requests for variations headers, Safe Search, allowed app domains and bound session throttling.
+// ---
+
 #ifndef CHROME_COMMON_GOOGLE_URL_LOADER_THROTTLE_H_
 #define CHROME_COMMON_GOOGLE_URL_LOADER_THROTTLE_H_
 

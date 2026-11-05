@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Content restriction flags
+// summary: Defines bit flags a full-page plugin uses to restrict browser commands such as copy, print and save.
+// ---
+
 #ifndef CHROME_COMMON_CONTENT_RESTRICTION_H_
 #define CHROME_COMMON_CONTENT_RESTRICTION_H_
 

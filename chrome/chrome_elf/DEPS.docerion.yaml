@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Chrome ELF include rules
+summary: Specifies the headers and directories that code in the chrome_elf directory is allowed to include.

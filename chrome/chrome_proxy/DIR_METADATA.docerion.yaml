@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Directory metadata for chrome_proxy
+summary: Declares the monorail component, team email, and buganizer component for the chrome_proxy directory.

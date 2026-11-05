@@ -1,0 +1,4 @@
+# Docerion header of open_search_description_document_handler.mojom.
+type: source
+title: OpenSearch description document handler Mojo interface
+summary: Defines a Mojo interface notifying the browser when a page has an associated OpenSearch description document.

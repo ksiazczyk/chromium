@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome content client plugin constants
+// summary: Defines the PDF extension and internal plugin path constants plus the placeholder plugin location used with Google Chrome branding.
+// ---
+
 #include "build/branding_buildflags.h"
 #include "chrome/common/chrome_content_client.h"
 

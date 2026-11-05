@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for ChromeOS system extension info
+// summary: Tests the system extension info map for Google, HP, ASUS, Acer and Lenovo extensions, including dev extension behavior.
+// ---
+
 #include "chrome/common/chromeos/extensions/chromeos_system_extension_info.h"
 
 #include "ash/constants/ash_features.h"

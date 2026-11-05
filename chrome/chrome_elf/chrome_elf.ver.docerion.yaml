@@ -1,0 +1,4 @@
+# Docerion header of chrome_elf.ver.
+type: config
+title: chrome_elf version information
+summary: Version resource values setting the internal name and original filename of chrome_elf.dll.

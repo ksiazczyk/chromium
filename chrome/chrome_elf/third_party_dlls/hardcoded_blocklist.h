@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Hard-coded blocklist API declaration
+// summary: Declares DllMatch, which reports whether an ASCII module name appears in the hard-coded DLL blocklist.
+// ---
+
 #ifndef CHROME_CHROME_ELF_THIRD_PARTY_DLLS_HARDCODED_BLOCKLIST_H_
 #define CHROME_CHROME_ELF_THIRD_PARTY_DLLS_HARDCODED_BLOCKLIST_H_
 

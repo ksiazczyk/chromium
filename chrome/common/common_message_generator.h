@@ -4,6 +4,12 @@
 
 // Multiply-included file, hence no include guard.
 
+// ---docerion
+// type: source
+// title: Common IPC message generator header
+// summary: Multiply-included header aggregating param traits includes for common Chrome IPC messages.
+// ---
+
 #include "chrome/common/search/instant_mojom_traits.h"
 #include "components/safe_browsing/buildflags.h"
 #include "content/public/common/common_param_traits.h"

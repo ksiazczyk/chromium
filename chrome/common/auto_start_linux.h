@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AutoStart class header for Linux autostart
+// summary: Declares the AutoStart class for registering, removing and querying Linux autostart applications via XDG desktop entries.
+// ---
+
 #ifndef CHROME_COMMON_AUTO_START_LINUX_H_
 #define CHROME_COMMON_AUTO_START_LINUX_H_
 

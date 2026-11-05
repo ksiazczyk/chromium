@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: POSIX channel info implementation
+// summary: Implements channel info on Linux and other POSIX systems using the CHROME_VERSION_EXTRA environment variable, plus data dir and extra flags suffixes.
+// ---
+
 #include "chrome/common/channel_info.h"
 
 #include <stdlib.h>

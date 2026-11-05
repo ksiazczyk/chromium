@@ -1,0 +1,4 @@
+# Docerion header of network_easter_egg.mojom.
+type: source
+title: Network easter egg Mojo interface
+summary: Defines a Mojo interface to get, update, and reset the easter egg high score stored in the user's profile.

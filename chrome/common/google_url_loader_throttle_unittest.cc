@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Google URL loader throttle unit tests
+// summary: Unit tests covering GoogleURLLoaderThrottle behavior for allowed domains for apps, Safe Search headers and bound session request deferral.
+// ---
+
 #include "chrome/common/google_url_loader_throttle.h"
 
 #include <memory>

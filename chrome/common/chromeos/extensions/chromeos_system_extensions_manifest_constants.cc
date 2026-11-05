@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS system extension manifest error message constants
+// summary: Defines error message strings for invalid chromeos_system_extension manifest declarations, externally_connectable values, and disallowed extension IDs.
+// ---
+
 #include "chrome/common/chromeos/extensions/chromeos_system_extensions_manifest_constants.h"
 
 namespace chromeos {

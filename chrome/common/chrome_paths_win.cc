@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Windows Chrome path implementations
+// summary: Implements Windows-specific user data, roaming data, downloads, and media directory lookups via shell folder APIs.
+// ---
+
 #include <shobjidl.h>
 #include <windows.h>
 #include <knownfolders.h>

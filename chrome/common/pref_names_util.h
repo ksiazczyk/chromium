@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Font preference path parsing header
+// summary: Declares the WebKit font preference prefix and the ParseFontNamePrefPath helper for splitting font pref paths.
+// ---
+
 #ifndef CHROME_COMMON_PREF_NAMES_UTIL_H_
 #define CHROME_COMMON_PREF_NAMES_UTIL_H_
 

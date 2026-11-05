@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Child module helper implementation
+// summary: Implements cross-platform helpers that resolve the manifest sentinel path and the renderer binary path for a staged child module version.
+// ---
+
 #include "chrome/common/child_module/child_module_helper.h"
 
 #include "base/files/file_path.h"

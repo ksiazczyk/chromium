@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for third_party_dlls
+summary: Restricts includes in the third_party_dlls directory to a small allowlist of chrome_elf, install_static and sandbox headers, with base allowed only for unit tests.

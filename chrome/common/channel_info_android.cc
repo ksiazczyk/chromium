@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android channel info implementation
+// summary: Implements channel info lookups for Android, mapping the Android channel getter to channel names and disabling extended stable.
+// ---
+
 #include "chrome/common/channel_info.h"
 
 #include "base/notreached.h"

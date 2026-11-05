@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Compose type conversion implementations
+// summary: Implements conversions between Compose Mojo types and Optimization Guide proto types, including status, feedback, and mode mapping.
+// ---
+
 #include "chrome/common/compose/type_conversions.h"
 #include "components/optimization_guide/core/model_execution/optimization_guide_model_execution_error.h"
 

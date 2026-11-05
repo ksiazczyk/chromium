@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for font preference path parsing
+// summary: Unit tests verifying ParseFontNamePrefPath handles valid, malformed, and edge-case font preference paths.
+// ---
+
 #include "chrome/common/pref_names_util.h"
 
 #include "testing/gtest/include/gtest/gtest.h"

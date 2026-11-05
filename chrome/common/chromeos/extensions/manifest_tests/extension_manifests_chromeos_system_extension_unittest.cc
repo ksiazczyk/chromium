@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ChromeOS system extension manifest unit tests
+// summary: Unit tests verifying ChromeOS system extension manifest handling, covering allowlisted OEM extensions from Google, HP, ASUS, Acer and Lenovo, plus externally_connectable validation errors.
+// ---
+
 #include "ash/constants/ash_features.h"
 #include "base/command_line.h"
 #include "base/memory/scoped_refptr.h"

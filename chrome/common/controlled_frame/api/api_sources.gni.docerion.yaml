@@ -1,0 +1,4 @@
+# Docerion header of api_sources.gni.
+type: config
+title: Controlled Frame API schema sources
+summary: GN import that lists the Controlled Frame API schema sources and defines its root namespace and schema include rules.

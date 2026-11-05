@@ -12,6 +12,12 @@
 //   appropriate #if block, use that.
 // - Keep the constants sorted by name within its section.
 
+// ---docerion
+// type: source
+// title: Chrome URL constants header
+// summary: Declares constants for known Chrome URLs and help links, excluding WebUI host and subpage constants kept elsewhere.
+// ---
+
 #ifndef CHROME_COMMON_URL_CONSTANTS_H_
 #define CHROME_COMMON_URL_CONSTANTS_H_
 

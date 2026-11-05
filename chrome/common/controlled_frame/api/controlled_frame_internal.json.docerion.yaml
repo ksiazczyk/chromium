@@ -1,0 +1,4 @@
+# Docerion header of controlled_frame_internal.json.
+type: reference
+title: controlledFrameInternal API schema
+summary: JSON schema for the internal controlledFrameInternal API, defining context menu functions implemented in native browser code.

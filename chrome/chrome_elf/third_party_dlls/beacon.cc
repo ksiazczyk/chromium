@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Blocklist beacon registry handling
+// summary: Implements LeaveSetupBeacon and ResetBeacon, which track third-party DLL blocking setup state in the registry and disable blocking after repeated setup failures.
+// ---
+
 #include "chrome/chrome_elf/third_party_dlls/beacon.h"
 
 #include "chrome/chrome_elf/blocklist_constants.h"

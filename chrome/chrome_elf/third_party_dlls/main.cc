@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Third-party DLL management initialization
+// summary: Implements the central Init() that loads the packed blocklist, starts logging, and applies the DLL-load hook while recording status codes in the registry.
+// ---
+
 #include "chrome/chrome_elf/third_party_dlls/main.h"
 
 #include <windows.h>

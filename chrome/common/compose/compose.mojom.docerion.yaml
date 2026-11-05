@@ -1,0 +1,4 @@
+# Docerion header of compose.mojom.
+type: source
+title: Compose Mojo interfaces and structs
+summary: Defines the Mojo interfaces, structs, and enums used for communication between the Compose WebUI dialog and the browser process.

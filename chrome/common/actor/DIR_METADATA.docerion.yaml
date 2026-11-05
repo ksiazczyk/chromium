@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Actor directory metadata
+summary: Metadata mapping the actor directory to the UI>Browser>Actor bug component and the chrome-actor team.

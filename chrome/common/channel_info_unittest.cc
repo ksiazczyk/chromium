@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Channel info unit tests
+// summary: Value-parameterized tests verifying channel name, channel value, extended stable, version string, and data dir suffix behavior per platform and branding.
+// ---
+
 #include "chrome/common/channel_info.h"
 
 #include "build/branding_buildflags.h"

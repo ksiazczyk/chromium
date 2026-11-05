@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS system extension info implementation
+// summary: Implements the map of ChromeOS system extensions with allowed manufacturers, PWA origins and IWA IDs, plus testing overrides.
+// ---
+
 #include "chrome/common/chromeos/extensions/chromeos_system_extension_info.h"
 
 #include <memory>

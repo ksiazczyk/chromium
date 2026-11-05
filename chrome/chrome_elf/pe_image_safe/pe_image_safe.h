@@ -4,6 +4,12 @@
 //
 // TODO(pennymac): Consider merging into base/win/PEImage. crbug.com/40543466
 
+// ---docerion
+// type: source
+// title: PEImageSafe class header for safe PE image access
+// summary: Declares the PEImageSafe class, a wrapper around a memory buffer holding a whole or partial PE image, with on-demand header parsing and RVA helpers.
+// ---
+
 #ifndef CHROME_CHROME_ELF_PE_IMAGE_SAFE_PE_IMAGE_SAFE_H_
 #define CHROME_CHROME_ELF_PE_IMAGE_SAFE_PE_IMAGE_SAFE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome ELF test stubs
+// summary: Provides stub implementations of chrome_elf and third-party DLL exports so tests can run without loading the real chrome_elf.dll.
+// ---
+
 #include "base/command_line.h"
 #include "base/compiler_specific.h"
 #include "base/files/file_path.h"

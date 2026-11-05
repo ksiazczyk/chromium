@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the nt_registry API
+// summary: Exercises registry key creation, opening, deletion and WOW64 redirection behaviour of the nt_registry API, comparing against ADVAPI32 behaviour.
+// ---
+
 #include "chrome/chrome_elf/nt_registry/nt_registry.h"
 
 #include <windows.h>

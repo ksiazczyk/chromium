@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Crash keys header
+// summary: Declares functions to allocate crash keys in the browser and propagate string annotations to child processes.
+// ---
+
 #ifndef CHROME_COMMON_CRASH_KEYS_H_
 #define CHROME_COMMON_CRASH_KEYS_H_
 

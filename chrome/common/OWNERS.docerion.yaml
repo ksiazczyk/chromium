@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS rules for chrome/common
+summary: Defines per-file code owners for chrome/common, routing Mojo and IPC changes to security reviewers and delegating specific files to component owners.

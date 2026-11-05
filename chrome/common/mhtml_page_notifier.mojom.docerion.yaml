@@ -1,0 +1,4 @@
+# Docerion header of mhtml_page_notifier.mojom.
+type: source
+title: MHTML page notifier Mojom interface
+summary: Mojo interface notifying the browser's OfflinePageTabHelper when a renderer attempts to load an MHTML archive into the main frame.

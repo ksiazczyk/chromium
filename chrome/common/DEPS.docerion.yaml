@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: DEPS include rules for chrome/common
+summary: Lists allowed include dependencies for code in chrome/common, with per-file exceptions for ChromeOS constants and specific headers.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Scoped Chrome extensions client RAII helper
+// summary: Declares an RAII helper that creates, initializes and resets the process-wide Chrome extensions client.
+// ---
+
 #ifndef CHROME_COMMON_SCOPED_CHROME_EXTENSIONS_CLIENT_H_
 #define CHROME_COMMON_SCOPED_CHROME_EXTENSIONS_CLIENT_H_
 

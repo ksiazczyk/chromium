@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Controlled Frame API build targets
+summary: GN build file that generates JSON strings, API types, and API features for the Controlled Frame API from its schema sources.

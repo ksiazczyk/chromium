@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PDF placeholder HTML builder
+// summary: Builds the localized HTML placeholder shown for PDF files, filling in the file name, open link, and PDF URL.
+// ---
+
 #include "chrome/common/pdf_util.h"
 
 #include "chrome/grit/renderer_resources.h"

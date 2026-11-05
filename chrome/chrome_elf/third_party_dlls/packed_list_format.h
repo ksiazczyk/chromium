@@ -7,6 +7,12 @@
 //    to chrome_elf.dll across restarts.
 // 2. The APIs exported by chrome_elf.dll to share logs of module load attempts.
 
+// ---docerion
+// type: source
+// title: Packed third-party module list format
+// summary: Defines the binary packed list format, structs, and hashing rules used to share third-party module data between chrome.dll and chrome_elf.dll.
+// ---
+
 #ifndef CHROME_CHROME_ELF_THIRD_PARTY_DLLS_PACKED_LIST_FORMAT_H_
 #define CHROME_CHROME_ELF_THIRD_PARTY_DLLS_PACKED_LIST_FORMAT_H_
 

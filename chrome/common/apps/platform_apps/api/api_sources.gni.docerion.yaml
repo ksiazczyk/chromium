@@ -1,0 +1,4 @@
+# Docerion header of api_sources.gni.
+type: config
+title: Chrome Apps API schema source list
+summary: Lists the Chrome Apps API schema files and sets the root namespace used for the generated API bindings.

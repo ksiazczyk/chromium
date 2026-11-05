@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Test executable exit codes and test IDs
+// summary: Defines the ExitCode and TestId enums shared by the third-party DLL unit test executable and its tests.
+// ---
+
 #ifndef CHROME_CHROME_ELF_THIRD_PARTY_DLLS_MAIN_UNITTEST_EXE_H_
 #define CHROME_CHROME_ELF_THIRD_PARTY_DLLS_MAIN_UNITTEST_EXE_H_
 

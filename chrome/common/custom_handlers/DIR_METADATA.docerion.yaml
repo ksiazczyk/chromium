@@ -1,0 +1,4 @@
+# Docerion header of DIR_METADATA.
+type: config
+title: Custom handlers DIR_METADATA
+summary: Directory metadata that reuses the common metadata mixins from chrome/browser/custom_handlers for this directory.

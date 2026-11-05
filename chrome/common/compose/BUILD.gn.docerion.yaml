@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Compose build targets
+summary: GN build file defining the compose source set, its unit tests, and the Mojo bindings targets for the Compose feature.

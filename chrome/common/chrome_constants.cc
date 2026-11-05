@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome application constants definitions
+// summary: Defines platform-specific executable names and paths for browser and helper processes, plus Mac framework names.
+// ---
+
 #include "chrome/common/chrome_constants.h"
 
 #include "build/build_config.h"

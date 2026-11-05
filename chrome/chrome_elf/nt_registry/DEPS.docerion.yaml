@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Include rules for the nt_registry directory
+summary: DEPS include rules restricting nt_registry to compiler_specific.h from base and its own headers, with wider base access allowed for unit tests.

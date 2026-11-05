@@ -4,6 +4,12 @@
 
 // Defines all the environment variables used by Chrome.
 
+// ---docerion
+// type: source
+// title: Chrome environment variable names
+// summary: Defines the environment variables used by Chrome, such as headless mode, log file name, and session log directory.
+// ---
+
 #ifndef CHROME_COMMON_ENV_VARS_H__
 #define CHROME_COMMON_ENV_VARS_H__
 

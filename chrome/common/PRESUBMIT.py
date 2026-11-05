@@ -2,6 +2,12 @@
 # Use of this source code is governed by a BSD-style license that can be
 # found in the LICENSE file.
 
+# ---docerion
+# type: script
+# title: PRESUBMIT.py checks for chrome/common
+# summary: Runs common Glic presubmit checks from chrome/browser/resources/glic on upload and commit of changes in this directory.
+# ---
+
 
 def _CommonChecks(input_api, output_api):
   old_path = input_api.sys.path[:]

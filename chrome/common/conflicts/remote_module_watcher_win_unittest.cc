@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: RemoteModuleWatcher unit tests
+// summary: Verifies that module events are batched and delivered to a ModuleEventSink, and that no events arrive after the watcher is destroyed.
+// ---
+
 #include "chrome/common/conflicts/remote_module_watcher_win.h"
 
 #include <windows.h>

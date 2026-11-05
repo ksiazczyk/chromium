@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome paths browser test
+// summary: Browser test verifying detection of the default user data directory and its testing override behavior.
+// ---
+
 #include "chrome/common/chrome_paths_internal.h"
 #include "chrome/test/base/in_process_browser_test.h"
 #include "content/public/test/browser_test.h"

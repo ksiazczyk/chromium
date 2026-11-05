@@ -1,0 +1,4 @@
+# Docerion header of DEPS.
+type: config
+title: Compose include rules
+summary: Specifies the allowed include dependencies for code in the compose directory.

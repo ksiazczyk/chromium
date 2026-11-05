@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the PEImageSafe class
+// summary: Unit tests that compare PEImageSafe header parsing results against raw PE header data read from chrome_elf.dll.
+// ---
+
 #include "chrome/chrome_elf/pe_image_safe/pe_image_safe.h"
 
 #include "base/compiler_specific.h"

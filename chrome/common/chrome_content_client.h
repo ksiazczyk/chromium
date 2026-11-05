@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome content client header
+// summary: Declares the ChromeContentClient interface extending content::ContentClient with hooks for plugins, CDMs, schemes, resources and Mojo binder exposure.
+// ---
+
 #ifndef CHROME_COMMON_CHROME_CONTENT_CLIENT_H_
 #define CHROME_COMMON_CHROME_CONTENT_CLIENT_H_
 

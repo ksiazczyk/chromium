@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: NTDLL registry function and struct declarations
+// summary: Declares the NtCreateKey, NtOpenKeyEx, NtDeleteKey, NtQueryValueKey, NtSetValueKey and RtlFormatCurrentUserKeyPath prototypes plus key value information structs.
+// ---
+
 #ifndef CHROME_CHROME_ELF_NT_REGISTRY_NT_REGISTRY_FUNCTIONS_H_
 #define CHROME_CHROME_ELF_NT_REGISTRY_NT_REGISTRY_FUNCTIONS_H_
 

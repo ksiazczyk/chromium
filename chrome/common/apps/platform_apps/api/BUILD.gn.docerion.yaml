@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Chrome Apps API GN build targets
+summary: Defines GN targets that generate Chrome Apps API schema strings, types, and API and permission features from the IDL and JSON sources.

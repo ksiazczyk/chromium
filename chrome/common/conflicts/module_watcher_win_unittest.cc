@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: ModuleWatcher unit tests
+// summary: Verifies that only one ModuleWatcher instance can exist and that module events are received when a DLL is loaded and unloaded.
+// ---
+
 #include "chrome/common/conflicts/module_watcher_win.h"
 
 #include <windows.h>

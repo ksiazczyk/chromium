@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome path service implementation
+// summary: Implements Chrome's path service keys, resolving special directories such as user data, components, and Widevine CDM locations per platform.
+// ---
+
 #include "chrome/common/chrome_paths.h"
 
 #include <optional>

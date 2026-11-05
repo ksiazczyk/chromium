@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS system extensions API permissions header
+// summary: Declares GetPermissionInfos, which provides the permission info needed to construct ChromeOS system extension permissions.
+// ---
+
 #ifndef CHROME_COMMON_CHROMEOS_EXTENSIONS_CHROMEOS_SYSTEM_EXTENSIONS_API_PERMISSIONS_H_
 #define CHROME_COMMON_CHROMEOS_EXTENSIONS_CHROMEOS_SYSTEM_EXTENSIONS_API_PERMISSIONS_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of glic_enums.mojom.
+type: source
+title: Glic feature enums
+summary: Defines Mojo enums for Glic feature modes, panel states, platforms, form factors, and panel invocation sources.

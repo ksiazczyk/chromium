@@ -1,0 +1,4 @@
+# Docerion header of actor_webui.mojom.
+type: source
+title: Actor WebUI Mojo definitions for Glic tasks and credentials
+summary: Defines Mojo interfaces for the actor WebUI, covering task options, credential selection dialogs and user permission durations for the Glic API.

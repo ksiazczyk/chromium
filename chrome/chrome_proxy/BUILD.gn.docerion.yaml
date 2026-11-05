@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Build definition for the chrome_proxy executable
+summary: GN build file that generates the version resource and builds the Windows chrome_proxy executable.

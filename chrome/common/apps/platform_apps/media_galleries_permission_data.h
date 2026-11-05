@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaGalleriesPermissionData class header
+// summary: Declares MediaGalleriesPermissionData, which represents one part of the mediaGalleries permission such as read or allAutoDetected.
+// ---
+
 #ifndef CHROME_COMMON_APPS_PLATFORM_APPS_MEDIA_GALLERIES_PERMISSION_DATA_H_
 #define CHROME_COMMON_APPS_PLATFORM_APPS_MEDIA_GALLERIES_PERMISSION_DATA_H_
 

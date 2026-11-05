@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: PEImageSafe implementation for safe PE header parsing
+// summary: Implements the PEImageSafe class, which safely locates and verifies the DOS, COFF file, and optional headers of a Portable Executable image in memory.
+// ---
+
 #include "chrome/chrome_elf/pe_image_safe/pe_image_safe.h"
 
 #include <assert.h>

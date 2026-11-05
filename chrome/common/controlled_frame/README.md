@@ -1,3 +1,9 @@
+---
+type: readme
+title: Controlled Frame API
+summary: Explains that this directory holds common code for the Controlled Frame API, its relation to webview and GuestView, and links to explainers and maintenance docs.
+---
+
 # Controlled Frame API
 
 *This directory contains common code used by the Controlled Frame API.*

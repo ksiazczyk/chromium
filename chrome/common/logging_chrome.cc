@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome logging implementation
+// summary: Implements Chrome logging initialization, log file naming and rotation, dialog suppression and platform-specific logging destinations.
+// ---
+
 #include <string_view>
 
 #include "build/build_config.h"

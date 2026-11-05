@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: chrome_elf crash reporting implementation
+// summary: Implements chrome_elf's Windows crash reporting, initializing Crashpad, hooking SetUnhandledExceptionFilter, and providing crash dump and shutdown APIs.
+// ---
+
 #include "chrome/chrome_elf/crash/crash_helper.h"
 
 #include <windows.h>

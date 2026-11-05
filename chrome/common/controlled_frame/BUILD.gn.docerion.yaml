@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: BUILD.gn for the Controlled Frame source set
+summary: GN build file defining the controlled_frame source set with its sources and dependencies on extensions and Chrome common targets.

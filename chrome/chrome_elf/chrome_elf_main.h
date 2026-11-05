@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome ELF DLL import interface header
+// summary: Declares the cross-module C import interface to chrome_elf.dll used by chrome.exe and chrome.dll, with stub implementations supplied for tests.
+// ---
+
 #ifndef CHROME_CHROME_ELF_CHROME_ELF_MAIN_H_
 #define CHROME_CHROME_ELF_CHROME_ELF_MAIN_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SHA-1 unit tests
+// summary: Verifies the chrome_elf SHA-1 implementation against FIPS 180-2 example vectors and against //base across input lengths, including padding boundaries.
+// ---
+
 #include "chrome/chrome_elf/sha1/sha1.h"
 
 #include <stddef.h>

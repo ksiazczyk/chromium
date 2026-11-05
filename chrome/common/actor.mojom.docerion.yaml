@@ -1,0 +1,4 @@
+# Docerion header of actor.mojom.
+type: source
+title: Actor browser action Mojo interface definitions
+summary: Defines Mojo structs, enums and unions for actor browser actions such as click, type, scroll and select, mirroring the BrowserAction proto.

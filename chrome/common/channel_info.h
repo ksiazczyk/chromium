@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome channel info interface
+// summary: Declares functions to query the browser's update channel, channel name, version string, and extended stable or side-by-side status across platforms.
+// ---
+
 #ifndef CHROME_COMMON_CHANNEL_INFO_H_
 #define CHROME_COMMON_CHANNEL_INFO_H_
 

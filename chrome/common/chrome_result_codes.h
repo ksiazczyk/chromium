@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome result code definitions
+// summary: Declares the Chrome result code enum for process exit statuses, kept in sync with stability metrics enums.
+// ---
+
 #ifndef CHROME_COMMON_CHROME_RESULT_CODES_H_
 #define CHROME_COMMON_CHROME_RESULT_CODES_H_
 

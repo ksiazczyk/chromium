@@ -1,0 +1,4 @@
+# Docerion header of supervised_user_commands.mojom.
+type: source
+title: Supervised user commands Mojom interface
+summary: Defines the Mojom interface for commands from the supervised user interstitial, including local and remote URL access requests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome apps API provider implementation
+// summary: Implements ChromeAppsAPIProvider, wiring Chrome app API features, generated schemas, and permission registration into the extensions system.
+// ---
+
 #include "chrome/common/apps/platform_apps/chrome_apps_api_provider.h"
 
 #include <string_view>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: MediaGalleriesPermissionData implementation
+// summary: Implements value conversion and checking for a single mediaGalleries permission part such as read or allAutoDetected.
+// ---
+
 #include "chrome/common/apps/platform_apps/media_galleries_permission_data.h"
 
 #include "base/strings/string_util.h"

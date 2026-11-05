@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Module load attempt logging
+// summary: Implements internal logs of blocked and allowed module load attempts, with entry limits, blocked module counts and notification events.
+// ---
+
 
 #include "chrome/chrome_elf/third_party_dlls/logs.h"
 

@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Platform apps build definitions
+summary: GN build file defining the platform_apps source set and its unit tests, with ChromeOS-only media galleries permission sources.

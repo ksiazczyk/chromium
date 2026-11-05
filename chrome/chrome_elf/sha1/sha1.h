@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: chrome_elf SHA-1 header
+// summary: Declares the elf_sha1 namespace with the 20-byte Digest type and the SHA1HashString function for chrome_elf's SHA-1 hashing.
+// ---
+
 #ifndef CHROME_CHROME_ELF_SHA1_SHA1_H_
 #define CHROME_CHROME_ELF_SHA1_SHA1_H_
 

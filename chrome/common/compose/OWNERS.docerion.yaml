@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Compose directory owners
+summary: Delegates code ownership to the Compose component owners and assigns security owners to Mojo files.

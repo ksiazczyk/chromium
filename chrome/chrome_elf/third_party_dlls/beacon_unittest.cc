@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Unit tests for the blocklist beacon
+// summary: Tests LeaveSetupBeacon and ResetBeacon state transitions using a registry override, covering enabled, failed and disabled blocklist states.
+// ---
+
 #include <stddef.h>
 
 #include <memory>

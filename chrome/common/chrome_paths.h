@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome path service key declarations
+// summary: Declares the Chrome path keys used with the path service to access special directories and files like logs, user data, and downloads.
+// ---
+
 #ifndef CHROME_COMMON_CHROME_PATHS_H__
 #define CHROME_COMMON_CHROME_PATHS_H__
 

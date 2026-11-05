@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Log entry size calculation implementation
+// summary: Implements GetLogEntrySize, computing the 32-bit aligned, padded size of a load-attempt log entry for the chrome_elf public API.
+// ---
+
 #include "chrome/chrome_elf/third_party_dlls/public_api.h"
 
 #include <stddef.h>

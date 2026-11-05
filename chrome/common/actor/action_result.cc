@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Actor action result implementation
+// summary: Implements helpers for building, checking and debugging actor action results, including latency info and result vectors.
+// ---
+
 #include "chrome/common/actor/action_result.h"
 
 #include "base/strings/stringprintf.h"

@@ -4,6 +4,12 @@
 
 // A handful of resource-like constants related to the ChromeELF.
 
+// ---docerion
+// type: source
+// title: Chrome ELF constants header
+// summary: Declares resource-like constants for Chrome ELF, including the WER helper DLL name and the registry key controlling the browser extension-point mitigation.
+// ---
+
 #ifndef CHROME_CHROME_ELF_CHROME_ELF_CONSTANTS_H_
 #define CHROME_CHROME_ELF_CHROME_ELF_CONSTANTS_H_
 

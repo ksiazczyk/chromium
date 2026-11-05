@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Internal Chrome paths API
+// summary: Declares internal platform functions for default user data, roaming data, cache, documents, downloads, media directories, and profile access checks.
+// ---
+
 #ifndef CHROME_COMMON_CHROME_PATHS_INTERNAL_H_
 #define CHROME_COMMON_CHROME_PATHS_INTERNAL_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: IATHook unit tests
+// summary: GTest suite verifying IATHook behavior, including hooking, double-hooking, unhooking, missing targets and third-party hook overrides.
+// ---
+
 #include "sandbox/policy/win/hook_util/hook_util.h"
 
 #include <windows.h>

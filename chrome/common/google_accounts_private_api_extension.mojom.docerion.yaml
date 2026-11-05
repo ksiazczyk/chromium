@@ -1,0 +1,4 @@
+# Docerion header of google_accounts_private_api_extension.mojom.
+type: source
+title: Google Accounts private API extension Mojo interface
+summary: Defines the Mojo interface letting the renderer pass encrypted OAuth consent results to the browser on accounts.google.com pages.

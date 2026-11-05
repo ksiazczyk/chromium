@@ -1,0 +1,4 @@
+# Docerion header of tab_context_decryption_token_extension.mojom.
+type: source
+title: Tab context decryption token extension Mojom interface
+summary: Defines a browser-to-renderer Mojom API letting allowed origins fetch container decryption tokens from TabContextSyncService.

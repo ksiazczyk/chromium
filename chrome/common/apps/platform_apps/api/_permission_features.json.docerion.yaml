@@ -1,0 +1,4 @@
+# Docerion header of _permission_features.json.
+type: config
+title: Chrome Apps permission feature definitions
+summary: Defines channels, extension types, platforms, and allowlists for Chrome Apps API permissions, mostly on ChromeOS.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Process singleton lock parsing header
+// summary: Declares ParseProcessSingletonLock, which extracts hostname and PID from the singleton lock symlink.
+// ---
+
 #ifndef CHROME_COMMON_PROCESS_SINGLETON_LOCK_POSIX_H_
 #define CHROME_COMMON_PROCESS_SINGLETON_LOCK_POSIX_H_
 

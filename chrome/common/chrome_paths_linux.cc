@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Linux Chrome path implementations
+// summary: Implements Linux-specific user data, cache, and XDG-based media and download directory lookups, including channel-based data dir naming.
+// ---
+
 #include "chrome/common/chrome_paths.h"
 
 #include <memory>

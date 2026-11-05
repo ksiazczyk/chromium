@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Controlled Frame availability check implementation
+// summary: Implements AvailabilityCheck that decides when Controlled Frame and related APIs are available to contexts such as Isolated Web Apps, based on features, isolation, and policies.
+// ---
+
 #include "chrome/common/controlled_frame/controlled_frame.h"
 
 #include <algorithm>

@@ -21,6 +21,12 @@
 // as the main client for this API (chrome_elf) does not introduce
 // a multi-threading concern.  This can easily be changed if needed.
 
+// ---docerion
+// type: source
+// title: Interface of the NTDLL-based registry API
+// summary: Declares the nt namespace functions and constants for direct registry access without advapi32, usable from DllMain while holding the loader lock.
+// ---
+
 #ifndef CHROME_CHROME_ELF_NT_REGISTRY_NT_REGISTRY_H_
 #define CHROME_CHROME_ELF_NT_REGISTRY_NT_REGISTRY_H_
 

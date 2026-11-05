@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome feature flags definitions
+// summary: Defines the base::Feature flags and parameters for the chrome module, covering Windows, Mac, Linux, ChromeOS and Android behaviors.
+// ---
+
 #include "chrome/common/chrome_features.h"
 
 #include "base/command_line.h"

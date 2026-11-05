@@ -1,0 +1,4 @@
+# Docerion header of font_prewarmer.mojom.
+type: source
+title: Font prewarmer Mojo interfaces
+summary: Defines Mojo interfaces for prewarming fonts and requesting the font families used for first contentful paint.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Packed list file module lookup API
+// summary: Declares functions to initialize and query the third-party module blocklist from a packed list file, including status code helpers and test overrides.
+// ---
+
 #ifndef CHROME_CHROME_ELF_THIRD_PARTY_DLLS_PACKED_LIST_FILE_H_
 #define CHROME_CHROME_ELF_THIRD_PARTY_DLLS_PACKED_LIST_FILE_H_
 

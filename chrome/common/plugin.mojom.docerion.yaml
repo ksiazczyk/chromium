@@ -1,0 +1,4 @@
+# Docerion header of plugin.mojom.
+type: source
+title: Plugin Mojo interfaces
+summary: Defines Mojo interfaces and structs for plugin info lookups, blocked plugin notifications, and opening PDFs from the renderer.

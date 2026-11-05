@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Chrome apps API permission registrations
+// summary: Registers Chrome app-specific API permissions, including mediaGalleries on ChromeOS, for the extensions permission system.
+// ---
+
 #include "chrome/common/apps/platform_apps/chrome_apps_api_permissions.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS system extensions API provider class declaration
+// summary: Declares ChromeOSSystemExtensionsAPIProvider, which supplies ChromeOS system extension API features, generated schemas, permissions, and manifest handlers to the extensions framework.
+// ---
+
 #ifndef CHROME_COMMON_CHROMEOS_EXTENSIONS_CHROMEOS_SYSTEM_EXTENSIONS_API_PROVIDER_H_
 #define CHROME_COMMON_CHROMEOS_EXTENSIONS_CHROMEOS_SYSTEM_EXTENSIONS_API_PROVIDER_H_
 

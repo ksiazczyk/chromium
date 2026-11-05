@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android Chrome path implementations
+// summary: Provides Android-specific lookups for user data, cache, documents, and downloads directories, including profile partition cache isolation.
+// ---
+
 #include "chrome/common/chrome_paths.h"
 
 #include <optional>

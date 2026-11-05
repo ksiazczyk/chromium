@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: ChromeOS system extension manifest constants declaration
+// summary: Declares the error message constants used when validating the chromeos_system_extension manifest key and its externally_connectable configuration.
+// ---
+
 #ifndef CHROME_COMMON_CHROMEOS_EXTENSIONS_CHROMEOS_SYSTEM_EXTENSIONS_MANIFEST_CONSTANTS_H_
 #define CHROME_COMMON_CHROMEOS_EXTENSIONS_CHROMEOS_SYSTEM_EXTENSIONS_MANIFEST_CONSTANTS_H_
 

@@ -8,6 +8,12 @@
 // 2. The APIs exported by chrome_elf.dll to share logs of module load attempts.
 // 3. The API used to disable the NtMapViewOfSection hook.
 
+// ---docerion
+// type: source
+// title: Exported chrome_elf third-party DLL control API
+// summary: Declares the exported chrome_elf API for draining module load-attempt logs, log notifications, blocked module counts, and disabling the NtMapViewOfSection hook.
+// ---
+
 #ifndef CHROME_CHROME_ELF_THIRD_PARTY_DLLS_PUBLIC_API_H_
 #define CHROME_CHROME_ELF_THIRD_PARTY_DLLS_PUBLIC_API_H_
 

@@ -1,0 +1,4 @@
+# Docerion header of chrome_proxy.ver.
+type: config
+title: Version resource values for chrome_proxy
+summary: Provides internal name and original filename values used to generate the chrome_proxy version resource.
