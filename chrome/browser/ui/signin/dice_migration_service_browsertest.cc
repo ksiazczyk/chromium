@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Dice migration service browser test
+// summary: Browser test verifying forced Dice migration of implicitly signed-in users, covering prefs, histograms and the migration toast.
+// ---
+
 #include "chrome/browser/ui/signin/dice_migration_service.h"
 
 #include "base/test/metrics/histogram_tester.h"

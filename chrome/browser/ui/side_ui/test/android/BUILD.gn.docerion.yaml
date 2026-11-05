@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: test
+title: Side UI Android test support build file
+summary: Defines the test-only test_support_java Android library with test browser controls and side UI container stubs for Android side UI tests.

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SidePanelContainerCoordinatorIntegrationTest
+// summary: Instrumentation tests for the side panel container coordinator's integration with ChromeActivity.
+// ---
+
 package org.chromium.chrome.browser.ui.side_panel;
 
 import static org.junit.Assert.assertEquals;

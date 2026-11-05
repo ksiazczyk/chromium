@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account preview promo subtitle utilities implementation
+// summary: Implements helpers that build localized account preview subtitle strings for signin promos on surfaces such as the profile menu, settings, history, and recent tabs.
+// ---
+
 #include "chrome/browser/ui/signin/account_preview_utils.h"
 
 #include <string>

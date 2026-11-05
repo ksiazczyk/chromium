@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Side panel Android browser test base header
+// summary: Declares the base class for Android side panel browser tests with feature flag setup and browser window helpers.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SIDE_PANEL_TEST_ANDROID_SIDE_PANEL_ANDROID_BROWSER_TEST_BASE_H_
 #define CHROME_BROWSER_UI_SIDE_PANEL_TEST_ANDROID_SIDE_PANEL_ANDROID_BROWSER_TEST_BASE_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Side panel dev feature integration tests
+// summary: JUnit integration tests verifying the side panel dev feature toggles correctly with ChromeActivity in window-scoped and tab-scoped modes.
+// ---
+
 package org.chromium.chrome.browser.ui.side_panel.dev;
 
 import static org.junit.Assert.assertNotNull;

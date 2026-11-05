@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SidePanelUtils logging and resize helpers
+// summary: Utility class providing feature-gated side panel logging with a consistent tag and a check for whether manual panel resizing is enabled.
+// ---
+
 package org.chromium.chrome.browser.ui.side_panel;
 
 import org.chromium.base.Log;

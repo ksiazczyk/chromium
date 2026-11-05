@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SigninQRCodeModel unit tests
+// summary: Unit tests verifying that setting, resetting and destroying the QR code model notify observers and clear the cached code.
+// ---
+
 #include "chrome/browser/ui/signin/signin_qrcode_model.h"
 
 #include <memory>

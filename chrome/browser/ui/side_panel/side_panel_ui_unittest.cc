@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SidePanelUI::From unit test
+// summary: Unit test verifying that SidePanelUI::From returns the mock side panel UI attached to a mock browser window interface.
+// ---
+
 #include "chrome/browser/ui/side_panel/side_panel_ui.h"
 
 #include "chrome/browser/ui/browser_window/test/mock_browser_window_interface.h"

@@ -5,6 +5,12 @@
   found in the LICENSE file.
 -->
 
+<!--docerion
+type: source
+title: Side panel container layout
+summary: Android layout for the feature-agnostic side panel container, defining a shared header with icon, title and close button plus a content area for panel views.
+-->
+
 <!--
   Layout for the side panel container.
 

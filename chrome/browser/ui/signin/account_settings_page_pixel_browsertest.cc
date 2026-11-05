@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Pixel browser test for the account settings page
+// summary: Interactive pixel browser test capturing the account settings page under signed-in, sync, passphrase error, and batch upload states.
+// ---
+
 #include <string>
 
 #include "base/test/scoped_feature_list.h"

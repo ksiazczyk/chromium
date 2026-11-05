@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Android side panel coordinator implementation
+// summary: Implements the Android SidePanelUIBase coordinator, bridging the Java side panel UI with native side panel state and metrics.
+// ---
+
 #include "chrome/browser/ui/side_panel/internal/android/side_panel_coordinator_android.h"
 
 #include <jni.h>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side panel entry observer
+// summary: Declares SidePanelEntryObserver, a CheckedObserver interface notified when side panel entries are shown, hidden, or have showing deferred.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SIDE_PANEL_SIDE_PANEL_ENTRY_OBSERVER_H_
 #define CHROME_BROWSER_UI_SIDE_PANEL_SIDE_PANEL_ENTRY_OBSERVER_H_
 

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SigninModalDialogImpl class declaration
+// summary: Declares a sign-in modal dialog that hosts a WebUI in a native modal view, observing the SigninViewControllerDelegate for dialog close events.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SIGNIN_SIGNIN_MODAL_DIALOG_IMPL_H_
 #define CHROME_BROWSER_UI_SIGNIN_SIGNIN_MODAL_DIALOG_IMPL_H_
 

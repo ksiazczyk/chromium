@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Android side panel build targets
+summary: GN build file defining the C++ source set, Java libraries, dev feature libraries and JNI header generation for the Android side panel UI.

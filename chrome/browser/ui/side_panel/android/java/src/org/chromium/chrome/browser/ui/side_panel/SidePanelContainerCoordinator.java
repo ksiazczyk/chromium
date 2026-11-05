@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SidePanelContainerCoordinator interface with width constants
+// summary: Interface coordinating the side panel container UI, defining minimum, narrow, wide and user-resized width constants plus init, content view and destroy methods.
+// ---
+
 package org.chromium.chrome.browser.ui.side_panel;
 
 import android.view.View;

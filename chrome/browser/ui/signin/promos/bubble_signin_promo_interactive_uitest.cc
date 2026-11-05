@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Bubble sign-in promo interactive UI tests
+// summary: Interactive UI tests exercising bubble sign-in promo views and buttons across password, address, bookmark, and extension bubbles, including metrics and survey behavior.
+// ---
+
 #include "base/path_service.h"
 #include "base/test/metrics/histogram_tester.h"
 #include "base/test/test_future.h"

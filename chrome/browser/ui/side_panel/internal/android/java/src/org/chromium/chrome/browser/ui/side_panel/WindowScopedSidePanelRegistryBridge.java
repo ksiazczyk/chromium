@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: WindowScopedSidePanelRegistryBridge
+// summary: JNI bridge that creates and destroys a window-scoped native SidePanelRegistry.
+// ---
+
 package org.chromium.chrome.browser.ui.side_panel;
 
 import static org.chromium.chrome.browser.ui.side_panel.SidePanelUtils.log;

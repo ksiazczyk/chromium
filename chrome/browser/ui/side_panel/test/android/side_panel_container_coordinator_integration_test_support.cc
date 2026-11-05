@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: JNI support for side panel integration tests
+// summary: Implements JNI methods that let Java integration tests show and close the side panel for a tab.
+// ---
+
 #include "base/android/jni_android.h"
 #include "base/check.h"
 #include "chrome/browser/android/tab_android.h"

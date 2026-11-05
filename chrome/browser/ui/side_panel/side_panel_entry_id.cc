@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side panel entry ID conversions
+// summary: Implements macro-generated conversions between SidePanelEntryId values and their string names, histogram names and Chrome action IDs.
+// ---
+
 #include "chrome/browser/ui/side_panel/side_panel_entry_id.h"
 
 #define SIDE_PANEL_TO_STRING_CASE_STATEMENT(entry_id, action_id, \

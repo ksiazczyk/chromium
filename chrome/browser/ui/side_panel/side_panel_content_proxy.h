@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SidePanelContentProxy header
+// summary: Declares SidePanelContentProxy, which delays showing side panel content such as WebUI until it is fully loaded to avoid loading artifacts.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SIDE_PANEL_SIDE_PANEL_CONTENT_PROXY_H_
 #define CHROME_BROWSER_UI_SIDE_PANEL_SIDE_PANEL_CONTENT_PROXY_H_
 

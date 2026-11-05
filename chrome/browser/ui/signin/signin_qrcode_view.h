@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SigninQRCodeView header
+// summary: Declares SigninQRCodeView, a box layout view used by the sign-in QR code infobar to show the passkey QR code and accompanying text.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SIGNIN_SIGNIN_QRCODE_VIEW_H_
 #define CHROME_BROWSER_UI_SIGNIN_SIGNIN_QRCODE_VIEW_H_
 

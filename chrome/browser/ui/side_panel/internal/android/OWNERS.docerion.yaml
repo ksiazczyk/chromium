@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: Directory owners delegation to side panel Android
+summary: Delegates code ownership of this directory to the OWNERS file of the parent side panel Android directory.

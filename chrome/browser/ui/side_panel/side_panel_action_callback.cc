@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side panel toggle action callback implementation
+// summary: Creates the repeating action callback that toggles a side panel entry and carries the open trigger through a UI class property.
+// ---
+
 #include "chrome/browser/ui/side_panel/side_panel_action_callback.h"
 
 #include "chrome/browser/ui/browser_window/public/browser_window_features.h"

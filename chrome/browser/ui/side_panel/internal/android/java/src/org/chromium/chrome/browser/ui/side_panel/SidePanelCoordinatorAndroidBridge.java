@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SidePanelCoordinatorAndroidBridge
+// summary: JNI bridge that communicates with the native SidePanelCoordinatorAndroid for the side panel.
+// ---
+
 package org.chromium.chrome.browser.ui.side_panel;
 
 import static org.chromium.chrome.browser.ui.side_panel.SidePanelUtils.log;

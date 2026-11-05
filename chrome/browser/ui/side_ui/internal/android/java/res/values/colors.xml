@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Side UI resize handle bar color resources
+summary: Defines the color macro side_ui_resize_handle_bar_color, which resolves to the colorOutlineVariant attribute for the Side UI resize handle bar.
+-->
+
 <resources>
     <macro name="side_ui_resize_handle_bar_color">?attr/colorOutlineVariant</macro>
 </resources>

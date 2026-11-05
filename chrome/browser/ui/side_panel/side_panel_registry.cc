@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side panel registry implementation
+// summary: Implements SidePanelRegistry, which registers, deregisters, and tracks the active side panel entry for a tab or browser window context.
+// ---
+
 #include "chrome/browser/ui/side_panel/side_panel_registry.h"
 
 #include <algorithm>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Cross-device sign-in QR bubble header
+// summary: Declares the factory that creates the bubble dialog delegate for showing a cross-device sign-in QR code in the browser.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SIGNIN_CROSS_DEVICE_SIGNIN_QR_BUBBLE_H_
 #define CHROME_BROWSER_UI_SIGNIN_CROSS_DEVICE_SIGNIN_QR_BUBBLE_H_
 

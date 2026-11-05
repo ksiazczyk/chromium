@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Window-scoped side panel registry bridge native unit test support
+// summary: Java helper that lets the native window_scoped_side_panel_registry_bridge_unittest create and exercise a WindowScopedSidePanelRegistryBridge through JNI test hooks.
+// ---
+
 package org.chromium.chrome.browser.ui.side_panel;
 
 import org.jni_zero.CalledByNativeForTesting;

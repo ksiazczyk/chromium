@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Window-scoped side panel dev feature implementation
+// summary: Implements the window-scoped side panel dev feature as a ChromeAndroidTaskFeature that hosts web contents and toggles the panel through native code.
+// ---
+
 package org.chromium.chrome.browser.ui.side_panel.dev;
 
 import android.view.View;

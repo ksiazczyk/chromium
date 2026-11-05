@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: SigninQRCodeInfoBarDelegate unit tests
+// summary: Unit tests verifying the QR code infobar is added and removed on sign-in page state changes and that WebContents destruction is handled without dangling pointers.
+// ---
+
 #include "chrome/browser/ui/signin/signin_qrcode_infobar_delegate.h"
 
 #include <memory>

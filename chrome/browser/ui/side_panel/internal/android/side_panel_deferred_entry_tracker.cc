@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Deferred side panel entry tracker implementation
+// summary: Implements tracking of side panel entries deferred due to Android constraints such as narrow windows or inactive tab models.
+// ---
+
 #include "chrome/browser/ui/side_panel/internal/android/side_panel_deferred_entry_tracker.h"
 
 #include "chrome/browser/tab_list/tab_list_interface.h"

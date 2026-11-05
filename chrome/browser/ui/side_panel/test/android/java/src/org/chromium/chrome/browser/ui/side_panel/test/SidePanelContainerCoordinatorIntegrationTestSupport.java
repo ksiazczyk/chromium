@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Side panel container coordinator integration test support
+// summary: Java test support that lets SidePanelContainerCoordinatorIntegrationTest show and close the side panel through the native SidePanelCoordinatorAndroid, mirroring production behavior.
+// ---
+
 package org.chromium.chrome.browser.ui.side_panel.test;
 
 import org.jni_zero.JniType;

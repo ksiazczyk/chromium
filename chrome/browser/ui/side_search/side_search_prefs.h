@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side Search prefs header
+// summary: Declares the side_search.enabled preference constant and the profile preference registration function in the side_search_prefs namespace.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SIDE_SEARCH_SIDE_SEARCH_PREFS_H_
 #define CHROME_BROWSER_UI_SIDE_SEARCH_SIDE_SEARCH_PREFS_H_
 

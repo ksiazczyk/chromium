@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SideUiResizeHandler
+// summary: Owns the drag resize handle for one anchor side, translating gestures into container resize calls and recording touch metrics.
+// ---
+
 package org.chromium.chrome.browser.ui.side_ui;
 
 import static org.chromium.build.NullUtil.assumeNonNull;

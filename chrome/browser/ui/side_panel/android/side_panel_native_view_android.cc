@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SidePanelNativeViewAndroid implementation
+// summary: Implements the constructor and destructor of SidePanelNativeViewAndroid, which holds a reference to the associated Java view.
+// ---
+
 #include "chrome/browser/ui/side_panel/android/side_panel_native_view_android.h"
 
 SidePanelNativeViewAndroid::SidePanelNativeViewAndroid(

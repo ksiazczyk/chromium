@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SidePanelContainerCoordinatorFactory
+// summary: Factory that creates a SidePanelContainerCoordinator when the Android side panel feature is enabled.
+// ---
+
 package org.chromium.chrome.browser.ui.side_panel;
 
 import static org.chromium.chrome.browser.ui.side_panel.SidePanelUtils.log;

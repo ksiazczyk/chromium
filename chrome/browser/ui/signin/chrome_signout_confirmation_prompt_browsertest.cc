@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: test
+// title: Chrome signout confirmation prompt browser test
+// summary: Browser test exercising the sign-out confirmation prompt dialog across variants such as unsynced data, supervised profiles and reauth buttons.
+// ---
+
 #include "chrome/browser/ui/signin/chrome_signout_confirmation_prompt.h"
 
 #include <tuple>

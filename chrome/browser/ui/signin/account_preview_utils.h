@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Account preview promo subtitle utilities declarations
+// summary: Declares helper functions returning formatted account preview subtitles and titles for signin promos across various UI surfaces.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SIGNIN_ACCOUNT_PREVIEW_UTILS_H_
 #define CHROME_BROWSER_UI_SIGNIN_ACCOUNT_PREVIEW_UTILS_H_
 

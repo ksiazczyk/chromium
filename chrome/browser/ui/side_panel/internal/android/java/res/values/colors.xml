@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Side panel incognito color resources
+summary: Defines the incognito side panel container background color, mapping it to the baseline dark surface container color.
+-->
+
 <resources>
     <!-- Incognito always uses the baseline dark colors, so this is the
          baseline equivalent of side_panel_container_bg_color in the dark

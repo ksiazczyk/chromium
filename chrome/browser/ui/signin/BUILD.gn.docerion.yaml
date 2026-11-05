@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Signin UI build targets (BUILD.gn)
+summary: Defines the GN source sets and dependencies for the signin UI, including sources enabled with Dice support.

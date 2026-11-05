@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SigninModalDialog base class implementation
+// summary: Implements the sign-in modal dialog base class, managing the close callback and notifying listeners exactly once when the modal dialog is closed.
+// ---
+
 #include "chrome/browser/ui/signin/signin_modal_dialog.h"
 
 #include <ostream>

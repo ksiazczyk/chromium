@@ -1,0 +1,4 @@
+# Docerion header of OWNERS.
+type: config
+title: OWNERS for the side panel Android test directory
+summary: Delegates code ownership to the side panel Android directory's OWNERS file.

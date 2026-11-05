@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SidePanelEntry header
+// summary: Declares the SidePanelEntry class representing a side panel entry with content callbacks, default width and observer notifications.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SIDE_PANEL_SIDE_PANEL_ENTRY_H_
 #define CHROME_BROWSER_UI_SIDE_PANEL_SIDE_PANEL_ENTRY_H_
 

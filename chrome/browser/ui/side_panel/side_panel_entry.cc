@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SidePanelEntry implementation
+// summary: Implements side panel entry behavior including content creation and caching, shown and hidden notifications, and load-time metrics.
+// ---
+
 #include "chrome/browser/ui/side_panel/side_panel_entry.h"
 
 #include <string>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Tab-scoped developer side panel implementation
+// summary: Implements the tab-scoped developer side panel on Android, registering a side panel entry and handling the JNI toggle call.
+// ---
+
 #include "chrome/browser/ui/side_panel/internal/android/dev/side_panel_tab_scoped_dev_feature.h"
 
 #include <memory>

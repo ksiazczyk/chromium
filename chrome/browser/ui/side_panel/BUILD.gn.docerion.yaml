@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: Side panel BUILD.gn build targets
+summary: Defines GN source sets and dependencies for the Chrome side panel UI, including views-dependent code, test support mocks and unit tests.

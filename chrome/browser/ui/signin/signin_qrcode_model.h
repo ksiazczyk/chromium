@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SigninQRCodeModel header
+// summary: Declares SigninQRCodeModel, a WebContentsUserData that bridges the WebAuthn request delegate and the sign-in banner by caching and broadcasting QR code updates.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SIGNIN_SIGNIN_QRCODE_MODEL_H_
 #define CHROME_BROWSER_UI_SIGNIN_SIGNIN_QRCODE_MODEL_H_
 

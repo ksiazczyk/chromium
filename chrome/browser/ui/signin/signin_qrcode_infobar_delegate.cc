@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SigninQRCodeInfoBarDelegate implementation
+// summary: Implements the infobar delegate that observes DiceTabHelper and removes the QR code infobar when the tab is no longer on the Chrome sign-in page.
+// ---
+
 #include "chrome/browser/ui/signin/signin_qrcode_infobar_delegate.h"
 
 #include "base/logging.h"

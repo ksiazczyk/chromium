@@ -1,0 +1,4 @@
+# Docerion header of BUILD.gn.
+type: config
+title: GN build targets for side panel Android test support
+summary: Defines Java and native test support targets with JNI generation for Android side panel unit, browser, and integration tests.

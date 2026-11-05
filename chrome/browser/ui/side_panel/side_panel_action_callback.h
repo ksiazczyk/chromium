@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side panel toggle action callback header
+// summary: Declares the factory for the toggle side panel action callback and the open trigger class property key.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SIDE_PANEL_SIDE_PANEL_ACTION_CALLBACK_H_
 #define CHROME_BROWSER_UI_SIDE_PANEL_SIDE_PANEL_ACTION_CALLBACK_H_
 

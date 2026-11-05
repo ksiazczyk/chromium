@@ -5,6 +5,12 @@ Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 -->
 
+<!--docerion
+type: config
+title: Side panel dimension resources
+summary: Defines dimensions for the Android side panel, including corner radius, container padding, and header height, spacing, and icon size.
+-->
+
 <resources>
     <dimen name="side_panel_corner_radius">12dp</dimen>
     <dimen name="side_ui_container_padding">6dp</dimen>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Signout confirmation prompt metrics implementation
+// summary: Records histograms for signout confirmation prompt variants and user choices, including account extensions signout outcomes.
+// ---
+
 #include "chrome/browser/ui/signin/chrome_signout_confirmation_prompt.h"
 
 #include "base/metrics/histogram_functions.h"

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Side panel registry class
+// summary: Declares SidePanelRegistry, a per-tab or per-window store of side panel entries with active entry tracking and observer notifications.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SIDE_PANEL_SIDE_PANEL_REGISTRY_H_
 #define CHROME_BROWSER_UI_SIDE_PANEL_SIDE_PANEL_REGISTRY_H_
 

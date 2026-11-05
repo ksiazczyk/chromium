@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SideUiContainerTransition
+// summary: Static helpers that create and trigger Android transitions for showing, hiding, and resizing side UI container views.
+// ---
+
 package org.chromium.chrome.browser.ui.side_ui;
 
 import android.transition.ChangeBounds;

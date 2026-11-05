@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Dice web sign-in interceptor delegate implementation
+// summary: Implements the web sign-in interception delegate that shows forced profile switch and enterprise OIDC dialogs during sign-in interception.
+// ---
+
 #include "chrome/browser/ui/signin/dice_web_signin_interceptor_delegate.h"
 
 #include <memory>

@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: Bubble sign-in promo view declarations
+// summary: Declares the personalized sign-in promo view that shows sign-in benefits and a sign-in button whose display depends on the account state.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SIGNIN_PROMOS_BUBBLE_SIGNIN_PROMO_VIEW_H_
 #define CHROME_BROWSER_UI_SIGNIN_PROMOS_BUBBLE_SIGNIN_PROMO_VIEW_H_
 

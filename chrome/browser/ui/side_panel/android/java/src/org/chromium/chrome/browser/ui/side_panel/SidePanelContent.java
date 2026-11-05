@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SidePanelContent data holder for panel views
+// summary: Holds the feature-specific view and header details such as icon and title for content displayed inside a side panel container.
+// ---
+
 package org.chromium.chrome.browser.ui.side_panel;
 
 import android.graphics.drawable.Drawable;

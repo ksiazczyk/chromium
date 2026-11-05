@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SigninModalDialog base class interface
+// summary: Defines the abstract base class for sign-in modal dialogs with close, resize, and test web-contents hooks plus protected close notification handling.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SIGNIN_SIGNIN_MODAL_DIALOG_H_
 #define CHROME_BROWSER_UI_SIGNIN_SIGNIN_MODAL_DIALOG_H_
 

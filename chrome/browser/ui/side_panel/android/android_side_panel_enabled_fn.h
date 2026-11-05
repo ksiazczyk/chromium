@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: AndroidSidePanelEnabledFn C++ header
+// summary: Declares the C++ counterpart of the Java AndroidSidePanelEnabledFn with a static IsEnabled() check for the Android side panel.
+// ---
+
 #ifndef CHROME_BROWSER_UI_SIDE_PANEL_ANDROID_ANDROID_SIDE_PANEL_ENABLED_FN_H_
 #define CHROME_BROWSER_UI_SIDE_PANEL_ANDROID_ANDROID_SIDE_PANEL_ENABLED_FN_H_
 

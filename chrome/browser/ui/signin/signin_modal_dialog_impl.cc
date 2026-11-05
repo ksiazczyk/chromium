@@ -2,6 +2,12 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
+// ---docerion
+// type: source
+// title: SigninModalDialogImpl implementation
+// summary: Implements the sign-in modal dialog by delegating close, resize, and web-contents access to a SigninViewControllerDelegate and forwarding its close notifications.
+// ---
+
 #include "chrome/browser/ui/signin/signin_modal_dialog_impl.h"
 
 SigninModalDialogImpl::SigninModalDialogImpl(
